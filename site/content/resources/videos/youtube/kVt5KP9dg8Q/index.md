@@ -2,8 +2,10 @@
 title: 'Detecting Agile BS: Lessons from the Department of Defense'
 description: "Is your development ecosystem truly Agile? Discover insights from the DoD and learn to eliminate bottlenecks for seamless, innovative delivery! \U0001F680"
 date: 2024-08-02T06:45:02Z
+weight: 360
 ResourceId: kVt5KP9dg8Q
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kVt5KP9dg8Q
@@ -15,33 +17,32 @@ preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
 duration: 346
 isShort: false
 aliases:
-- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-- /resources/videos/kVt5KP9dg8Q
-- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 - /resources/kVt5KP9dg8Q
-aliasesFor404:
+- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
+aliasesArchive:
+- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
 - /resources/detecting-agile-bs-lessons-from-the-department-of-defense
 - /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 - /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
+- detecting-agile-bs-lessons-from-the-department-of-defense
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Product Delivery
-- Business Agility
-- Value Delivery
 - Agile Philosophy
-- Agile Strategy
-- Software Development
+- Continuous Delivery
+- Continuous Improvement
 - Operational Practices
-- Software Developers
 - Pragmatic Thinking
+- Agile Transformation
+- Software Development
+- Agile Strategy
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 - Engineering Excellence
 
 ---
@@ -53,7 +54,7 @@ In the realm of Agile, there's a common trap that many organizations fall into: 
 
 One of the most significant challenges organizations face is the disconnect between Agile programming teams and the broader, often linear, deployment processes. Imagine this scenario: your development team operates in an Agile manner, continuously delivering code in short sprints. But once that code is ready for deployment, it hits a wall of bureaucratic hurdles, slowing down the entire process.
 
-In such cases, the Agile development team's efforts are undermined by the organization's inability to support continuous delivery. This is a common issue, and if you're working in an environment where your team can't deliver continuously to production without human intervention, it's a clear sign that the full ecosystem of your project isn't Agile.
+In such cases, the Agile development team's efforts are undermined by the organization's inability to support [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). This is a common issue, and if you're working in an environment where your team can't deliver continuously to production without human intervention, it's a clear sign that the full ecosystem of your project isn't Agile.
 
 ### **The Importance of Continuous Delivery**
 
@@ -69,7 +70,7 @@ Here's a quick self-check:
 
 If the answer to any of these questions is "no," then your organization may not be as Agile as it thinks.
 
-## **Engineering Excellence and Continuous Delivery**
+## **[Engineering Excellence]({{< ref "/categories/engineering-excellence" >}}) and Continuous Delivery**
 
 ### **Why Quality Matters More Than Ever**
 
@@ -83,9 +84,9 @@ User Acceptance Testing is often seen as a necessary step in the deployment proc
 
 To achieve this:
 
-- **Bake quality into your definition of done.** Ensure that every feature meets high standards before it's considered complete.
+- **Bake quality into your [definition of done]({{< ref "/tags/definition-of-done" >}}).** Ensure that every feature meets high standards before it's considered complete.
 
-- **Integrate automated testing into your development process.** Automated tests can catch issues early, reducing the need for manual UAT.
+- **Integrate [automated testing]({{< ref "/tags/automated-testing" >}}) into your development process.** Automated tests can catch issues early, reducing the need for manual UAT.
 
 - **Strive for a seamless deployment pipeline.** The goal is to ship to production continuously without manual intervention.
 
@@ -109,7 +110,7 @@ Here are the six questions you should ask yourself:
 
 11. **Are your Agile practices truly integrated across the entire ecosystem?**
 
-If you can't answer "yes" to all these questions, it's a sign that your organization still has work to do. But don't be discouraged—this isn't about pointing fingers or declaring failure. Instead, it's an opportunity for self-reflection and continuous improvement.
+If you can't answer "yes" to all these questions, it's a sign that your organization still has work to do. But don't be discouraged—this isn't about pointing fingers or declaring failure. Instead, it's an opportunity for self-reflection and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ### **A Path Toward True Agility**
 

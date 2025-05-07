@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T19:50:53",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of an application for updating Active Directory, without addressing the broader aspects of application lifecycle management.",
     "level": "Ignored"
   },
@@ -35,12 +35,12 @@
     "reasoning": "Content primarily discusses a technical application for updating Active Directory without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T19:50:58",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal project related to Active Directory and does not address the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:51:00",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of an application for updating Active Directory rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses a personal project related to Active Directory and does not reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:51:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:51:05",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:51:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, lacking a focus on Agile or DevOps methodologies, tools, or frameworks.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:51:09",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:51:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a VB application for automating Active Directory updates, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:51:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:51:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal project related to Active Directory and does not focus on industry news, updates, or reviews relevant to Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a VB application for automating Active Directory updates, with no direct mention or alignment to Agile Product Operating Model principles. It lacks any discussion on product management, agile methodologies, or the core themes associated with APOM.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an application for updating Active Directory, which does not align with the core principles of platform engineering or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:51:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an application for updating Active Directory and does not mention Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses an application for automating Active Directory updates, with no clear connection to AI or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:51:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no significant focus on code quality, complexity, or related best practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:51:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no focus on events, presentations, or related discussions.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:51:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:51:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no clear focus on DevOps principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on automating Active Directory updates through a custom application, which is more aligned with software development and system administration rather than the broader DevOps philosophy. While there is a mention of automation, it lacks a discussion on collaboration, shared accountability, or cultural shifts that are central to DevOps. The depth of discussion is limited to a specific technical implementation without addressing the principles of continuous value delivery or cross-functional collaboration.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of an application for updating Active Directory, lacking a focus on engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:51:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with minimal focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:51:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no clear focus on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:51:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development and testing of an application for updating Active Directory, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,19 +289,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses the creation of an application for updating Active Directory, which relates to system configuration, the overall focus is on the development of this application rather than detailed system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the creation of an application to automate updates to Active Directory, which relates to system configuration. However, the focus is more on the application development and personal experience rather than detailed methodologies or best practices for system configuration. The mention of testing and permissions is relevant but lacks depth in discussing configuration management or optimisation strategies.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:08:31",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of an application for updating Active Directory, without a clear focus on innovative practices or measuring innovation capabilities.",
     "level": "Ignored"
   },
@@ -420,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on creating an application to update Active Directory and personal experiences with that app, with no mention of portfolio management or related concepts.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an application for updating Active Directory and lacks relevance to Scrum principles or product development within a Scrum framework.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:08:31",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about developing an application to update Active Directory and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:08:31",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an application development project related to Active Directory and has no relevance to Definition of Done principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content does not discuss Agile practices or scaling Agile; it focuses on a technical application for updating Active Directory.",
+    "reasoning": "Content primarily discusses an application development project related to Active Directory and has no relevance to Definition of Done principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -523,12 +418,15 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "While the content discusses testing an application related to Active Directory updates, it primarily focuses on the application development process and not on hypothesis-driven experimentation or Agile methodologies.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions testing in the context of an application for updating Active Directory, but it lacks a structured approach to hypothesis-driven experimentation. While there is a mention of testing procedures, it does not delve into systematic experimentation or validation of assumptions, which are core to the category of Experimentation. The focus is more on the application development process rather than on experimentation as a method for continuous improvement.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -550,10 +448,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:31",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses an application for updating Active Directory and mentions testing procedures, but does not focus on Test Driven Development principles, practices, or the TDD cycle.",
     "level": "Ignored"
   },
@@ -575,23 +473,17 @@
     "reasoning": "Content heavily discusses an application for updating Active Directory and automating processes, with no focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific application for managing Active Directory and lacks focus on Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses creating an application related to updating Active Directory, which touches on software development, but is primarily focused on a specific implementation rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the creation of an application to automate updates to Active Directory, which aligns with software development practices. However, the focus is more on a personal project and lacks depth in methodologies or best practices. The mention of testing and user permissions is relevant but does not provide substantial detail on software development processes.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +512,7 @@
     "reasoning": "Content primarily discusses an application for updating Active Directory and does not focus on estimation techniques or practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:08:31",
     "ai_confidence": 0,
@@ -694,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on creating an application for updating Active Directory, which does not discuss Continuous Delivery principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on automating Active Directory updates with a custom application, which does not directly relate to Continuous Delivery principles or practices. While there is a mention of automation, it is not in the context of software delivery cycles or the broader themes of Continuous Delivery. The discussion lacks depth and does not explore the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of an application for updating Active Directory without mentioning hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses automating Active Directory updates and is not focused on AI applications within Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,19 +814,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:08:31",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an application for updating Active Directory and does not relate to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:31",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a specific application for updating Active Directory without any mention or focus on Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -955,12 +841,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes elements of software engineering and application development, particularly regarding database interaction and Active Directory updates, but it primarily focuses on personal experience rather than a cohesive discussion of best practices or principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the creation of an application to automate updates to Active Directory, which touches on software development practices. However, it lacks explicit discussions on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The focus is more on a specific implementation rather than a broader exploration of technical mastery principles.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -971,15 +860,6 @@
     "reasoning": "Content primarily discusses an application for updating Active Directory and does not address remote working, Agile practices, or related challenges and solutions.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no relevant connections to Kanban principles or scaling its application in organizations.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:08:31",
@@ -987,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of an application for updating Active Directory, without any focus on customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a personal project for updating Active Directory and does not address Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,12 +961,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an application related to updating Active Directory, which is primarily used in Windows environments. However, the focus is more on the application development and testing rather than on Windows-specific aspects.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses an application related to Active Directory, which is a component of Windows Server environments. However, it does not explicitly focus on Windows as an operating system, nor does it cover installation, configuration, or troubleshooting of Windows itself. The primary focus is on the application and its interaction with Active Directory rather than the Windows OS, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1144,10 +1018,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T21:08:31",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on automating Active Directory updates, with minimal discussion related to software testing principles or practices.",
     "level": "Ignored"
   },
@@ -1189,12 +1063,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the development and testing of a software application that updates Active Directory, making software functionality a secondary but significant theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the creation of a functional application for updating Active Directory, which aligns with the concept of working software. However, it lacks explicit discussions on Agile principles, customer feedback, or best practices for software quality. The focus is primarily on the application itself rather than broader themes of delivering value or iterative development.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1268,15 +1145,6 @@
     "reasoning": "Content primarily focuses on developing an application for Active Directory and does not address asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal project involving Active Directory and application development, with no relevant themes related to scaling Scrum or Agile practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:08:31",
@@ -1288,12 +1156,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of an application to automate updates in Active Directory, indicating a focus on improving operational processes through automation. However, the primary topic is more about a specific tool/application rather than broader operational practices, hence it's a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the creation of an application to automate updates to Active Directory, which touches on operational efficiency through automation. However, it lacks a direct focus on broader operational practices, methodologies, or strategies within Agile, DevOps, or Lean frameworks. The mention of testing and user permissions indicates some operational considerations, but the overall discussion is more about a specific application rather than a comprehensive exploration of operational practices.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1313,22 +1184,16 @@
     "reasoning": "The content primarily discusses an application for Active Directory management and does not relate to Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on creating an application for updating Active Directory and does not discuss scaling agility or related practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on creating an application for updating Active Directory, with no mention of Scrum, Scrum Master roles, or Agile principles.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a technical application for automating Active Directory updates and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, team dynamics, or the responsibilities of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1216,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:23:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on developing an application to update Active Directory, discussing testing challenges in that context, rather than the principles or practices of Test First Development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on automating Active Directory updates and does not explicitly discuss Test First Development principles. While there is a mention of testing the application, it lacks depth and does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices like TDD or ATDD.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:25:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of an application for updating Active Directory, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical application for automating Active Directory updates, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions enhancing organisation for users, it does not delve into the principles or methodologies that define social technologies. The discussion lacks depth and relevance to the category, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical application for updating Active Directory, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:46:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses an application for updating Active Directory, which is not related to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:46:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses an application for updating Active Directory, with no clear focus on AI integration in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the development of an application for updating Active Directory and does not mention Scrum principles, roles, events, or any related concepts. There is no focus on collaborative project management or iterative processes, which are central to Scrum.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the development of an application for updating Active Directory, with no explicit mention of the Shift-Left Strategy or its principles. While there is a brief reference to testing, it is not integrated into a broader discussion of early testing or proactive measures in the software development lifecycle. The focus is on a specific application and its functionality rather than on the strategic integration of testing or security early in development.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical implementation of an application for automating Active Directory updates, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While there is a mention of a task assigned by a boss, it does not connect to shared objectives or strategic alignment within a team or organisation. The content lacks depth and detail on the principles of Common Goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical implementation of an application for automating Active Directory updates, with minimal reference to the concept of competence. While there is a mention of testing and the need for permissions, it does not delve into continuous learning, skill development, or the broader implications of competence in a professional context. The discussion lacks depth and does not align with the core themes of competence as defined in Agile and DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical implementation of an application for automating Active Directory updates, with no explicit discussion of Continuous Improvement principles. While there is a mention of enhancing organisation, it lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on automating Active Directory updates through a custom application, which does not align with the principles of Agentic Agility. There are no explicit discussions on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI capabilities. The content lacks depth and relevance to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

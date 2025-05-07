@@ -2,47 +2,55 @@
 title: Is Your Project Ecosystem Truly Agile?
 description: Unlock true agility in product management! Discover how to break down silos, embrace automation, and maximise stakeholder value in this insightful video.
 date: 2024-07-31T06:45:01Z
+weight: 305
 ResourceId: cGOa0rg_L-8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cGOa0rg_L-8
 source: internal
 url: /resources/videos/:slug
-slug: is-your-project-ecosystem-truly-agile
+slug: is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
 layout: video
 preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
 duration: 46
 isShort: true
 aliases:
-- /resources/is-your-project-ecosystem-truly-agile
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
-- /resources/videos/cGOa0rg_L-8
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 - /resources/cGOa0rg_L-8
-aliasesFor404:
+- /resources/videos/is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
+- /resources/videos/is-your-project-ecosystem-truly-agile
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
+aliasesArchive:
+- /resources/videos/is-your-project-ecosystem-truly-agile
 - /resources/is-your-project-ecosystem-truly-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-6
+- is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
-- Organisational Agility
-- Agile Philosophy
 - Software Development
 - Business Agility
-- Market Adaptability
-- Product Delivery
-- Pragmatic Thinking
-- Deployment Frequency
+- Enterprise Agility
+- Organisational Agility
+- Working Software
 - Operational Practices
+- Agile Strategy
+- Pragmatic Thinking
+- Product Delivery
+- Deployment Frequency
+- Team Collaboration
+- Continuous Improvement
+- Release Management
+- Agile Planning
+- Continuous Delivery
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
-- Product Management
+- Product Development
 - DevOps
 
 ---
@@ -64,11 +72,11 @@ This scenario is a clear indicator that your project ecosystem is not truly Agil
 
 ## **Embracing Automation to Achieve End-to-End Agility**
 
-To bridge the gap between Agile teams and bureaucratic deployment processes, automation is key. Automation ensures that once your teams have created content or features, they can deliver it to customers without unnecessary blockages or delays. By shortening feedback loops and maximizing value delivery, automation helps maintain the momentum that Agile teams thrive on.
+To bridge the gap between Agile teams and bureaucratic deployment processes, automation is key. Automation ensures that once your teams have created content or features, they can deliver it to customers without unnecessary blockages or delays. By shortening feedback loops and maximizing [value delivery]({{< ref "/tags/value-delivery" >}}), automation helps maintain the momentum that Agile teams thrive on.
 
 ### **Why Automation Is Essential**
 
-- **Continuous Integration and Continuous Deployment (CI/CD):** By implementing CI/CD pipelines, you can automate the process of integrating code changes and deploying them to production. This reduces the risk of errors, speeds up delivery, and ensures that your product is always in a deployable state.
+- **[Continuous Integration]({{< ref "/tags/continuous-integration" >}}) and Continuous Deployment (CI/CD):** By implementing CI/CD pipelines, you can automate the process of integrating code changes and deploying them to production. This reduces the risk of errors, speeds up delivery, and ensures that your product is always in a deployable state.
 
 - **Feedback Loops:** Automation allows for faster feedback from end-users, enabling your teams to make quick adjustments and improvements. This is crucial for maintaining relevance and meeting stakeholder expectations.
 
@@ -76,7 +84,7 @@ To bridge the gap between Agile teams and bureaucratic deployment processes, aut
 
 **Real-World Example: Streamlining with Automation**
 
-In my experience as a Scrum Trainer, I’ve seen teams transform their delivery processes by embracing automation. One team, in particular, was struggling with long deployment times due to manual approvals and checks. By implementing a CI/CD pipeline, they reduced their deployment time from several days to just a few hours. This not only improved their efficiency but also boosted team morale as they saw their work reaching customers faster.
+In my experience as a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve seen teams transform their delivery processes by embracing automation. One team, in particular, was struggling with long deployment times due to manual approvals and checks. By implementing a CI/CD pipeline, they reduced their deployment time from several days to just a few hours. This not only improved their efficiency but also boosted team morale as they saw their work reaching customers faster.
 
 ## **Shortening Feedback Loops: The Secret to Maximizing Value**
 
@@ -86,7 +94,7 @@ One of the core principles of Agile is delivering value to stakeholders as quick
 
 - **Automate Testing:** By automating tests, you can quickly identify issues and ensure that new code doesn’t introduce bugs. This speeds up the feedback process and allows for faster iteration.
 
-- **Frequent Releases:** Instead of waiting for a big release, aim for smaller, more frequent releases. This allows stakeholders to see progress regularly and provides more opportunities for feedback.
+- **[Frequent Releases]({{< ref "/tags/frequent-releases" >}}):** Instead of waiting for a big release, aim for smaller, more frequent releases. This allows stakeholders to see progress regularly and provides more opportunities for feedback.
 
 - **Close Collaboration with Stakeholders:** Regularly involve stakeholders in the review process to ensure that the product meets their expectations. Their feedback should guide the next steps, ensuring that you’re always aligned with their needs.
 
@@ -112,7 +120,7 @@ At the heart of Agile is the goal of maximizing value for your stakeholders. Eve
 
 - **Engage Stakeholders Early:** Don’t wait until the end of the project to seek feedback. Engage stakeholders early and often to ensure that their needs are being met.
 
-- **Iterate and Improve:** Agile is about continuous improvement. Regularly review your processes and look for ways to increase efficiency and value delivery.
+- **Iterate and Improve:** Agile is about [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). Regularly review your processes and look for ways to increase efficiency and value delivery.
 
 ## **Conclusion: Is Your Project Ecosystem Truly Agile?**
 

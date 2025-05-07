@@ -2,43 +2,41 @@
 title: One limitation of reading a book vs attending a course
 description: 'Discover the key limitation of learning Scrum from books versus hands-on training in this insightful short with Martin Hinshelwood. #Agile #Scrum #Shorts'
 date: 2023-05-08T09:30:10Z
+weight: 840
 ResourceId: hB8oQPpderI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hB8oQPpderI
 source: internal
 url: /resources/videos/:slug
-slug: one-limitation-of-reading-a-book-vs-attending-a-course
+slug: one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
 layout: video
 preview: https://i.ytimg.com/vi/hB8oQPpderI/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/one-limitation-of-reading-a-book-vs-attending-a-course
-- /resources/one-limitation-of-a-book-versus-a-scrum-course
-- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
-- /resources/videos/hB8oQPpderI
-- /resources/one-limitation-of-a-book-versus-a-scrum-course-
 - /resources/hB8oQPpderI
-aliasesFor404:
+- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
+- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
+- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
+aliasesArchive:
+- /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course
 - /resources/one-limitation-of-reading-a-book-vs-attending-a-course
 - /resources/one-limitation-of-a-book-versus-a-scrum-course
 - /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
 - /resources/one-limitation-of-a-book-versus-a-scrum-course-
+- one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
+- /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Learning
-- People and Process
-- Team Collaboration
-- Agile Project Management
-- Discovery and Learning
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 **One limitation of reading a book vs attending a course**
@@ -57,7 +55,7 @@ In a course environment, you're not just absorbing information, you're actively 
 
 We all know that the power of conversation, the exchange of perspectives, and the benefits of shared understanding can shape your learning journey in unique ways that a reading experience cannot. 🚀
 
-I urge you not to overlook the value of attending a course and keep reading.  The whole philosophy behind my Agile and Scrum courses is to create an environment that facilitates thought-provoking discussions, encourages curiosity, and promotes collaborative learning.
+I urge you not to overlook the value of attending a course and keep reading.  The whole philosophy behind my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses is to create an environment that facilitates thought-provoking discussions, encourages curiosity, and promotes collaborative learning.
 
 Don't just read, interact!
 

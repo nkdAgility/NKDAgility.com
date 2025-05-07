@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T19:24:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concepts of dogma and empiricism in consulting engagements, without a clear focus on Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in consulting engagements, which aligns with the principles of social technologies. However, it primarily focuses on the clash between dogma and empiricism rather than explicitly addressing collaboration, decision-making, or value delivery. While there are mentions of fostering relationships and understanding roles, the depth of discussion on social technologies is limited, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:24:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements and does not focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile consulting and the philosophical clash between dogma and empiricism, with no direct mention of DevOps principles or practices. While it touches on themes of flexibility and adaptation, which are relevant to DevOps, the focus remains on Agile methodologies rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -37,21 +43,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T19:24:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and adaptability in consulting engagements, which relates to leadership in fostering an environment that promotes organisational agility. However, it primarily focuses on the concepts of dogma and empiricism rather than specific leadership practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the importance of pragmatism and adapting processes in a consulting context, which can relate to leadership in fostering an adaptive environment. However, it lacks explicit discussions on leadership practices, strategies, or frameworks, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T19:24:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements, which aligns with the principles of business agility. However, it does not delve deeply into the broader themes of business agility or provide specific strategies or frameworks, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements, which aligns with the principles of business agility. However, it lacks explicit mentions of business agility concepts and does not delve deeply into strategies or frameworks that support agility in organisations.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -82,30 +94,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:24:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empiricism and adapting processes based on changing demands, which aligns with the principles of Evidence-Based Management. However, it does not delve deeply into specific EBM practices or metrics, making it a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T19:24:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the philosophical aspects of consulting engagements and the importance of pragmatism over dogma, with no clear focus on software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T19:24:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of pragmatism and adaptability in consulting engagements, without any clear focus on Kanban principles or scaling practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empiricism in consulting engagements, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on the clash between dogma and empiricism without providing specific metrics or detailed discussions on the key topics of EBM. The mention of empirical adaptation suggests a connection to data-informed decision-making, but the overall depth and focus on EBM concepts are limited.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -136,10 +133,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T19:24:26",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of dogma and empiricism in consulting, with no clear focus on the Definition of Ready or its related criteria.",
     "level": "Ignored"
   },
@@ -150,15 +147,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the philosophical stance on dogma versus empiricism in consulting, without a clear focus on trend analysis within Agile, DevOps, or business agility frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T19:24:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of pragmatism and adaptability in consulting engagements, without a clear focus on Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -233,15 +221,6 @@
     "reasoning": "Content primarily discusses the philosophical approach to consulting engagements rather than specific methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T19:24:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the concepts of dogma and empiricism in consulting engagements, with no clear focus on AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
     "calculated_at": "2025-02-17T19:24:44",
@@ -251,15 +230,6 @@
     "reasoning": "Content primarily discusses the importance of pragmatism and adaptability in consulting engagements, without a clear focus on digital technologies or their strategic use for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T19:24:46",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of adapting processes in consulting engagements, highlighting the human element in interactions and the need for pragmatism over dogma. While it touches on relevant themes, it is not solely focused on team dynamics or structured methodologies.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T19:24:47",
@@ -267,15 +237,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses consulting engagement and the importance of pragmatism over dogma, with no mention of TDD principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T19:24:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements but does not specifically address agile methodologies, principles, or practices central to Agile Project Management.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -296,15 +257,6 @@
     "reasoning": "Content primarily discusses the contrast between dogma and empiricism in consulting, without a clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T19:24:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the contrast between dogma and empiricism in consulting, without a clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T19:24:55",
@@ -314,23 +266,17 @@
     "reasoning": "Content primarily discusses the philosophical approach to consulting engagements rather than focusing on release management practices or processes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:25:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concepts of dogma and empiricism in consulting engagements, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T19:25:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in organisational processes, which aligns with the principles of enterprise agility. However, it does not delve deeply into broader organisational structures or frameworks, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements, which aligns with the principles of responsiveness and adaptability central to Enterprise Agility. However, it lacks direct mentions of frameworks, organisational structures, or detailed strategies for fostering a culture of agility. The discussion is somewhat relevant but does not delve deeply into the broader implications of agility on organisational performance.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -361,30 +307,39 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:25:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles or responsibilities; it focuses on general consulting principles and the importance of pragmatism over dogma.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility and empirical adaptation, which are relevant to the Scrum Master role. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T19:25:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in processes, which aligns with Agile principles, but it does not focus specifically on Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the importance of pragmatism and adapting processes to changing demands, which aligns with Agile principles. However, it lacks explicit discussions on Agile Planning methodologies, techniques, or practices, and does not delve into specific Agile concepts such as user stories, backlogs, or sprints. The focus is more on general adaptability rather than structured Agile planning, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T19:25:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation, which aligns with Agile principles, but it does not primarily focus on Agile values or principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of pragmatism and adapting processes to changing demands, which aligns with Agile principles of flexibility and responsiveness. However, it does not explicitly mention Agile values or principles, nor does it delve deeply into them, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -397,11 +352,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:25:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of pragmatism and adaptability in consulting engagements, with no clear focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with no direct mention of Test First Development principles or practices. While it touches on themes of flexibility and adaptation, it does not delve into specific testing methodologies or the importance of success criteria in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -424,11 +382,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T19:25:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and adaptability in consulting engagements, which relates to organisational culture, but it primarily focuses on the contrast between dogma and empiricism rather than a deep exploration of cultural elements within organisations.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in consulting engagements, which indirectly relates to organisational culture. However, it primarily focuses on the concepts of dogma and empiricism rather than explicitly addressing cultural elements that influence Agile methodologies or team dynamics. While there are mentions of fostering relationships and continuous learning, these are not deeply explored in the context of organisational culture, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -460,12 +421,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T19:25:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of empirical adaptation in processes, which aligns with the principles of Evidence-Based Management and innovation, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of moving away from dogma towards a more empirical and flexible approach, which aligns with the principles of innovation and adaptability. However, while it touches on the need for innovation and empirical adaptation, it lacks specific frameworks, metrics, or detailed strategies for measuring and enhancing the Ability to Innovate. The discussion is more focused on general consulting practices rather than a deep dive into innovation capabilities.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -503,24 +467,6 @@
     "reasoning": "Content primarily discusses the concepts of dogma and empiricism in consulting engagements, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T19:25:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements, which aligns with themes of organisational resilience and adaptability. However, it does not primarily focus on resilience or change management practices.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T19:25:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses philosophical views on dogma and empiricism in consulting, without specific reference to practical techniques or tooling.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T19:25:32",
@@ -541,21 +487,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T19:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content reflects personal insights on the role of dogma and empiricism in consulting engagements, suggesting a subjective interpretation of practices that could relate to Agile methodologies.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T19:25:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements rather than specific events or presentations related to Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses personal beliefs and reflections on the role of dogma versus empiricism in consulting engagements, which aligns with the Personal category. It shares insights on the importance of flexibility and empathy in professional settings, indicating personal experiences and interpretations. However, while it touches on Agile and Scrum, the focus is more on general consulting philosophy rather than specific personal anecdotes related to Agile transformations or team dynamics, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -584,23 +524,17 @@
     "reasoning": "Content primarily discusses the concepts of dogma and empiricism in a consulting context, without a clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T19:25:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of pragmatism and adaptability in consulting engagements, without a clear focus on scaling agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T19:25:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses general concepts of dogma and empiricism in a consulting context, which aligns with the Miscellaneous category as it does not reference specific Agile, Scrum, DevOps, or Lean frameworks. However, it touches on themes of pragmatism and adaptation that could be relevant to Agile practices, making it a secondary theme.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concepts of dogma and empiricism in consulting engagements, which aligns with the broader themes of business agility but does not reference specific Agile, Scrum, DevOps, or Lean frameworks. While it touches on the importance of flexibility and adaptation, it does not provide actionable insights or detailed discussions on recognised practices, making it more of a personal reflection rather than a structured exploration of Agile methodologies.",
+    "level": "Tertiary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -613,11 +547,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:25:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements, focusing on dogma versus empiricism, without any mention of Continuous Delivery principles or practices.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with a focus on flexibility and adaptation. While it touches on themes relevant to Continuous Delivery, such as responsiveness and adaptation to changing demands, it does not explicitly mention Continuous Delivery or its principles. The discussion lacks depth in terms of specific Continuous Delivery practices, tools, or case studies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -640,11 +577,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T19:25:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in organisational processes, which aligns with change management principles, but it does not primarily focus on change management strategies or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in consulting engagements, which aligns with some principles of change management. However, it lacks direct mentions of change management strategies or practices, and the depth of discussion does not fully explore the category's core themes. The focus is more on dogma versus empiricism rather than on structured change management processes.",
     "level": "Tertiary"
   },
   "Team Collaboration": {
@@ -665,7 +605,7 @@
     "reasoning": "Content does not discuss the Daily Scrum or its related topics; it focuses on consulting engagement and the contrast between dogma and empiricism.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T19:25:54",
     "ai_confidence": 0,
@@ -683,15 +623,6 @@
     "reasoning": "Content discusses consulting engagement and philosophical concepts rather than any aspects related to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T19:25:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of adapting processes based on empirical evidence and the need for continuous learning in consulting engagements, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T19:25:57",
@@ -703,19 +634,22 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:25:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of pragmatism and adaptability in consulting engagements, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility and empirical adaptation, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the philosophical clash between dogma and empiricism in consulting rather than providing a detailed exploration of the Agile Product Operating Model itself. The mention of Agile and Scrum is brief and does not delve into the specific principles or practices of the Agile Product Operating Model, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T19:26:00",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of dogma and empiricism in the context of consulting, without a clear focus on employee engagement or related themes.",
     "level": "Ignored"
   },
@@ -730,12 +664,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T19:26:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in processes, which aligns with the theme of market adaptability, but it does not focus primarily on Agile, DevOps, or Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of flexibility and empirical adaptation in consulting, which aligns with the principles of market adaptability. It mentions the need for responsiveness to changing business demands and encourages a shift from rigid dogma to a more fluid approach, reflecting Agile methodologies. However, while it touches on relevant themes, it lacks detailed strategies or methodologies specific to Agile, DevOps, or Lean practices, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -766,19 +703,22 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T19:26:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empirical approaches over dogma in consulting engagements, suggesting a focus on pragmatic decision-making. However, it lacks structured methodologies or evidence-based practices, making it a secondary theme rather than a primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of empiricism over dogma in consulting engagements, which aligns with the principles of evidence-based decision-making. However, it lacks direct references to structured methodologies or frameworks for decision-making, and the discussion remains somewhat general without delving deeply into specific techniques or case studies.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T19:26:10",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the contrast between dogma and empiricism in consulting, without a clear focus on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -809,22 +749,16 @@
     "reasoning": "Content primarily discusses the contrast between dogma and empiricism in consulting engagements, without a clear focus on mentoring or related themes.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T19:26:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements and the importance of pragmatism over dogma, without any mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T19:26:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements, which relates to decision-making in complex environments. However, it does not delve deeply into sensemaking principles or frameworks, making it a secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of flexibility and empirical adaptation in consulting, which aligns with sensemaking principles. However, it primarily focuses on the contrast between dogma and empiricism without explicitly addressing frameworks or techniques for sensemaking. The discussion lacks depth in exploring how these concepts apply to decision-making processes in complex environments.",
     "level": "Tertiary"
   },
   "Strategy": {
@@ -838,21 +772,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T19:26:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements, which relates to operational practices, but it does not focus primarily on specific techniques or strategies for enhancing operational efficiency.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of flexibility and empirical adaptation in consulting engagements, which aligns with the principles of continuous improvement and operational efficiency. However, it lacks direct mentions of specific operational practices or methodologies like Agile, DevOps, or Lean, and does not provide in-depth strategies or techniques for enhancing operational efficiency.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T19:26:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements, which aligns with Agile principles of flexibility and responsiveness to change. However, it does not explicitly reference Agile philosophy or its foundational principles, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of flexibility, empathy, and continuous learning, which aligns with Agile principles. However, it primarily focuses on the contrast between dogma and empiricism in consulting rather than explicitly addressing Agile philosophy or its foundational principles. The mention of Agile and Scrum knowledge at the end is brief and does not constitute a primary focus on Agile philosophy.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -883,12 +823,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T19:26:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting processes and learning in a consulting context, which aligns with the principles of Continuous Learning, but it is not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptation in consulting, which aligns with the principles of Continuous Learning. It briefly mentions the concept of continuous learning in the context of Agile and Scrum, but the primary focus is on the contrast between dogma and empiricism rather than a deep exploration of Continuous Learning practices. The mention of 'Join Us on a Journey of Continuous Learning' serves as a call to action but lacks substantial detail on the topic itself.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -944,41 +887,29 @@
     "reasoning": "Content primarily discusses the importance of pragmatism and empirical adaptation in consulting, without a clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T19:26:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concepts of dogma and empiricism in consulting engagements, without a clear focus on Scaling Scrum principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T19:26:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting processes to the changing demands of the business, which touches on the interplay between social and technical aspects within organisations. However, it primarily focuses on the philosophical stance of dogma versus empiricism rather than a detailed exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T19:26:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements rather than specific products, books, or Agile methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in consulting engagements, which touches on the interplay between social dynamics (engaging with individuals in an organisation) and technical processes (adapting strategies). However, it lacks direct mentions of sociotechnical systems and does not delve deeply into the organisational structures or culture that influence technology adoption. The focus is more on personal beliefs and approaches rather than a comprehensive exploration of sociotechnical interactions.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T19:26:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in processes, which aligns with the principles of empirical process control. However, it does not delve deeply into Agile methodologies or provide substantial insights into the key topics outlined for this category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of empiricism and adaptation in consulting, which aligns with the principles of empirical process control. It mentions the need for flexibility and responsiveness to changing demands, reflecting core themes of Agile methodologies. However, while it touches on these concepts, it lacks detailed exploration of specific Agile practices or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -991,20 +922,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:26:48",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements, aligning well with the principles of practical problem-solving and real-world application in complex environments.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of flexibility and empirical adaptation in consulting engagements, which aligns well with pragmatic thinking. It emphasises the need for practical problem-solving and adaptability in real-world scenarios, particularly in relation to Agile and Scrum. However, while it touches on these themes, the depth of discussion on specific strategies or case studies is somewhat limited, preventing a higher confidence score.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T19:26:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:43:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements and does not address Lead Time or its related concepts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with a focus on flexibility and adaptation. There are no direct mentions of Lead Time or its measurement, and while it touches on themes of responsiveness and efficiency, it does not delve into the specifics of Lead Time as an observability metric or its relationship with Cycle Time. The discussion lacks depth regarding Lead Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1072,12 +1009,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T19:27:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empirical approaches in consulting engagements, suggesting a connection to evidence-based practices, but it does not primarily focus on leadership or provide substantial evidence-based leadership insights.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empiricism over dogma in consulting engagements, which aligns with the principles of evidence-based leadership. It emphasises the need for flexibility and adaptation based on empirical evidence, which is a core theme of the category. However, the discussion lacks specific techniques or metrics related to leadership decisions, and while it touches on the importance of understanding roles and fostering relationships, it does not delve deeply into evidence-based practices or provide substantial detail on leadership effectiveness.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1115,15 +1055,6 @@
     "reasoning": "Content primarily discusses the concepts of dogma and empiricism in consulting engagements, without a clear focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T19:27:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements rather than focusing on software development practices, Agile methodologies, or DevOps principles.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T19:27:15",
@@ -1144,10 +1075,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T19:27:17",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses philosophical perspectives on consulting engagements rather than technical aspects of installation and configuration.",
     "level": "Ignored"
   },
@@ -1158,15 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss the responsibilities or practices of a Product Owner; it focuses on consulting engagement and the importance of pragmatism over dogma.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T19:27:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses philosophical views on consulting engagements rather than industry news or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1207,11 +1129,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T19:27:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adaptability and pragmatism in consulting engagements, which aligns with Agile principles. However, it does not explicitly focus on leadership roles or practices within an Agile context.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in consulting engagements, which aligns with Agile principles. However, it lacks direct mentions of Agile leadership roles or practices, focusing more on general consulting philosophy rather than specific leadership strategies or techniques within an Agile context.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -1243,20 +1168,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T19:27:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:42:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements rather than focusing on throughput measurement or optimisation.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:27:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in consulting engagements but does not specifically address Scrum principles, roles, events, or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with a focus on flexibility and adaptation rather than on throughput as a delivery metric. There are no direct mentions of throughput, and while there is a conceptual alignment with the idea of adapting processes, it does not delve into throughput metrics, calculations, or visualisations. The discussion lacks depth regarding throughput, making it clear that this content does not align with the category.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1270,11 +1189,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T19:27:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:42:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses philosophical perspectives on consulting and training rather than technical aspects of system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile consulting and the philosophical clash between dogma and empiricism, with no direct mention of system configuration. While it touches on concepts of flexibility and adaptation, these are not specifically related to system configuration practices or methodologies. The discussion lacks depth in terms of technical details or best practices relevant to system setup, automation, or maintenance, which are core themes of the category.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,41 +1217,38 @@
     "reasoning": "Content primarily discusses the importance of pragmatism and adaptability in consulting engagements, without a clear focus on product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T19:27:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or product development; it focuses on dogma and pragmatism in consulting.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T19:27:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in the context of engaging with organisations, which aligns with themes of organisational change. However, it does not delve deeply into specific methodologies or frameworks related to organisational change.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in consulting engagements, which aligns with the principles of organisational change. However, it primarily focuses on the philosophical aspects of dogma versus empiricism rather than specific strategies or frameworks for organisational change. The mention of Agile and Scrum knowledge at the end hints at a connection to organisational change but lacks depth and direct relevance to the category.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T19:27:47",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concepts of dogma and empiricism in consulting engagements, with no clear focus on the Definition of Done or its related principles.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T19:27:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in processes, which aligns with Agile principles. However, it does not explicitly focus on Agile strategy as a primary topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of flexibility and empirical adaptation, which aligns with Agile principles. However, it lacks direct mentions of Agile methodologies and does not delve deeply into strategic planning or implementation at scale, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1351,12 +1270,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:27:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of pragmatism and empirical adaptation in organisational processes, which aligns with the principles of agility. However, it does not delve deeply into specific agile methodologies or frameworks, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of flexibility and responsiveness in consulting engagements, aligning well with the principles of organisational agility. It emphasises the need to move away from dogmatic approaches and embrace empirical adaptation, which resonates with agile methodologies. However, while it touches on these themes, the depth of discussion on specific agile practices and frameworks is somewhat limited, preventing a higher confidence score.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1375,5 +1297,432 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of pragmatism and empirical adaptation in consulting engagements, without a clear focus on Lean Startup principles or methodologies.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:53:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the philosophical approach to consulting engagements and does not address Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:53:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the concepts of dogma and empiricism in consulting engagements, with no clear focus on Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the importance of pragmatism and empirical adaptation, which aligns with some Agile principles, but it does not explicitly mention Scrum or its specific roles, events, or artifacts. The discussion lacks depth regarding Scrum practices and does not focus on the framework itself, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses consulting engagements and the importance of flexibility and empirical adaptation, but it does not explicitly mention the Shift-Left Strategy or its core principles. The focus is more on general consulting philosophy rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of empirical adaptation and flexibility in consulting engagements, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the clash between dogma and empiricism rather than providing a comprehensive exploration of Continuous Improvement practices. The mention of 'continuous learning' and 'empirical adaptation' indicates some alignment, but the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptation in consulting engagements, which loosely connects to the idea of aligning strategies with execution. However, it primarily focuses on the clash between dogma and empiricism rather than explicitly addressing Common Goals within Agile or DevOps frameworks. The mention of Agile and Scrum is minimal and does not delve into the specifics of shared objectives or alignment, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of flexibility and continuous learning in consulting engagements, which aligns with the principles of competence. However, it primarily focuses on the clash between dogma and empiricism rather than directly addressing competence as a primary theme. The mention of training and the need for adaptability contributes to the discussion of competence, but it is not the central focus of the content.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with a focus on team dynamics and flexibility. It does not explicitly mention the One Engineering System or its principles, components, or implementation strategies. The discussion is more centred on Agile methodologies rather than the integration and standardisation of engineering processes, which is the core focus of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in consulting engagements, which aligns with some principles of Agentic Agility. However, it primarily focuses on the clash between dogma and empiricism without explicitly addressing the intentional shaping of outcomes or differentiating between human and AI capabilities. The discussion lacks depth in exploring the core themes of Agentic Agility, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:42:17",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of empiricism over dogma in Agile consulting, which aligns with the principles of Agile product development. It touches on themes of flexibility, adaptation, and continuous learning, which are relevant to product development methodologies. However, the primary focus is on consulting dynamics rather than product development processes themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:42:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of flexibility and empirical approaches in Agile consulting, which aligns with some principles of Open Space Agile, such as fostering engagement and adaptability. However, it does not explicitly mention Open Space Agile or its core tenets, nor does it delve deeply into the specific practices or challenges associated with it. The focus is more on general Agile principles rather than the specific context of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:42:23",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of flexibility and empirical adaptation in consulting engagements, which aligns with the principles of Agnostic Agile. However, it primarily focuses on the critique of dogma and does not explicitly mention Agnostic Agile or its key themes. The depth of discussion on adapting practices pragmatically is present, but it lacks specific references to Agnostic Agile principles or comparisons with traditional frameworks. Overall, while there is a strong emphasis on adaptability, the content does not fully engage with the category's core themes.",
+    "level": "Secondary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:42:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, focusing on individual and team dynamics rather than the complexities of scaling Agile practices across multiple teams or organisations. While it touches on adaptability and flexibility, which are relevant to scaling, it does not explicitly mention frameworks, strategies, or metrics related to scaling. The discussion lacks depth in addressing the specific challenges and methodologies associated with scaling Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:42:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concepts of dogma and empiricism in Agile consulting, with a focus on flexibility and adaptation. It does not directly mention or align with the principles of Cell Structure Design, nor does it provide any depth on the characteristics of autonomous cells or decentralised structures. The themes presented are more aligned with traditional Agile practices rather than the specific organisational design model outlined in the Cell Structure Design category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:42:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of flexibility and empirical approaches in consulting, which aligns somewhat with the principles of Liberating Structures. However, it does not explicitly mention Liberating Structures or any specific techniques related to it. The focus is primarily on dogma versus empiricism in Agile consulting, lacking depth in discussing facilitation techniques or group dynamics that are central to the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:42:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, with a focus on flexibility and adaptation. While it touches on themes of responsiveness and innovation, it does not explicitly mention Time to Market or provide metrics or strategies related to it. The discussion lacks depth in terms of how to measure or improve Time to Market, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:42:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concepts of dogma and empiricism in Agile consulting, focusing on the importance of flexibility and adaptation in consulting engagements. While it touches on themes of continuous learning and responsiveness, it does not explicitly mention or align with the core principles of treating the organisation as a product. The discussion lacks depth regarding organisational design or customer-centric strategies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:42:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile consulting, focusing on the concepts of dogma and empiricism without any direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not align with GitHub's specific tools or practices, nor does it provide any depth regarding GitHub services or methodologies. Therefore, the confidence score reflects a very low relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:42:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the importance of avoiding dogma in consulting engagements and emphasises the need for empirical approaches. While it touches on themes of innovation and adaptability, it does not explicitly mention Unrealised Value or its indicators. The discussion lacks depth regarding potential improvements or untapped opportunities, which are central to the category. Therefore, while there are some relevant concepts, they are not the primary focus, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:42:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in Agile consulting, focusing on the importance of flexibility and adaptation rather than providing any concrete insights or metrics related to Current Value. While it touches on themes of adaptability and responsiveness, it does not explicitly mention Current Value or its measurement, nor does it provide practical applications or case studies relevant to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:42:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concepts of dogma and empiricism in consulting engagements, focusing on the importance of flexibility and adaptation in Agile practices. However, it does not explicitly mention Hybrid Agile or engage with its core themes, such as the integration of traditional and agile methodologies or the challenges associated with such integrations. The discussion lacks depth regarding the specific implications of Hybrid Agile, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:42:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the philosophical clash between dogma and empiricism in the context of Agile consulting. While it touches on Agile principles, it does not delve into core project management topics such as methodologies, project lifecycle phases, or specific tools. The mention of Agile and Scrum is brief and does not provide substantial insights into project management practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:49",
+    "ai_confidence": 35.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses dogma versus empiricism in Agile consulting, but it does not focus on any specific models or frameworks related to the category 'Model'. While it mentions the importance of adaptation and flexibility in processes, it lacks explicit references to conceptual models, frameworks, or representations that inform decision-making within Agile, DevOps, or Lean contexts. Therefore, the direct mentions are absent, the alignment with core themes is weak, and the depth of discussion on models is minimal, contributing to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:49",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content discusses dogma versus empiricism in Agile consulting but does not explicitly mention any artifacts or their functions within Agile frameworks. The primary focus is on challenging rigid doctrines and promoting flexibility and empirical adaptation, which are related concepts but do not directly address the structure or role of artifacts. There are vague references to Agile and Scrum but no substantial discussion of specific artifacts or their management, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses primarily on discussing philosophical concepts such as dogma and empiricism in Agile consulting rather than specific tools. While it mentions Agile and Scrum, there are no direct discussions about any tools or their functionality. The emphasis is on mindset and flexibility rather than tool application, which significantly reduces its relevance to the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:49",
+    "ai_confidence": 57.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 57.0,
+    "reasoning": "The content discusses the importance of moving away from dogmatic approaches in consulting and emphasizes the need for empathy, flexibility, and continuous learning. While the focus on values like empathy and respect aligns with the category, the explicit mention of values like Scrum or Agile principles is limited, making the depth of discussion moderate but not exhaustive. Overall, it touches on core value concepts but does not deliver a thorough exploration of specific values related to Agile or Scrum.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content touches on Agile concepts and the importance of flexibility in consulting; however, it largely focuses on personal beliefs on dogma versus empiricism rather than a structured discussion of frameworks. While it briefly mentions Agile and Scrum, the core themes of the category are not the primary focus, and the depth of discussion on specific frameworks is limited. Therefore, the confidence score reflects these nuances.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:50",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses the philosophical conflict between dogma and empiricism in consulting engagements. While it mentions concepts relevant to Agile and emphasizes the need for flexibility and adaptation, it lacks a specific focus on actionable practices or techniques that improve team performance. The references to training and flexibility provide some alignment with the category, but they do not delve into specific practices like retrospectives or TDD. Overall, the content is more reflective and general in nature than directly applicable to the 'Practice' category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:50",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content critically discusses the idea of dogma versus empirical approaches, which touches on philosophical underpinnings related to methodologies, the primary focus is on specific attitudes towards consulting engagement rather than a deep exploration of philosophical concepts. It mentions dogma and empiricism, but the discussion remains surface-level and is more concerned with practical applications than foundational philosophical beliefs. Thus, while there are relevant themes, the depth and direct mentions do not strongly align with the category of 'Philosophy.'",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:50",
+    "ai_confidence": 35.0,
+    "ai_mentions": 4,
+    "ai_alignment": 6,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of flexibility and empirical adaptation in consulting engagements but primarily focuses on rejecting dogma and promoting open-mindedness. While there are indirect mentions of capabilities like adaptability and understanding team dynamics, the primary focus remains on the tension between dogma and empiricism rather than on enhancing organizational capabilities or discussing how to embed these competencies sustainably within teams. Thus, while related, it does not deeply align with the Capability category specifics.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:50",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the rejection of dogma in consulting engagements and emphasizes the importance of flexibility and empirical adaptation. While it does touch on Agile concepts like adaptability, it lacks specific prescriptive tenets that guide decision-making within Agile or DevOps frameworks. The focus is more on philosophical reflections rather than concrete tenets that would deeply align with the category's definition. As such, while there are mentions of Agile principles, the overall depth and alignment with actionable tenets are limited.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of adapting processes according to changing business needs, which touches upon empirical adaptation and Agile principles. However, it does not provide specific structured procedures or a step-by-step methodology that fall under the 'Method' category. While it mentions Agile and Scrum, the focus is more on philosophical discussions rather than detailed methods, which limits the depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:50",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on the clash between dogma and empiricism in Agile consulting, discussing themes of flexibility, adaptability, and the importance of fresh perspectives. It does not directly address observability or its key concepts such as metrics, logs, or traces, nor does it emphasize best practices or tools specifically related to observability. The alignment with the core themes of observability is minimal, and the depth of discussion lacks any substantial insight into observability practices, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 4,
+    "ai_alignment": 60.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content focuses extensively on the contrast between dogma and empiricism, which directly relates to the principle of empiricism in decision-making. It emphasizes the importance of adapting to change and fostering a flexible approach, aligning well with concepts such as Continuous Improvement and Adaptability. However, while the category of 'Principle' is a strong focus, there are sections that discuss empathy and human relations, which slightly detract from the concentration on actionable principles. Overall, the content provides a substantial and detailed discussion of empiricism as it pertains to Agile consulting, warranting a high confidence score.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "Iy33x8E9JMQ",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:50",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content touches upon discipline-related themes, such as the importance of flexibility, continuous learning, and the need to adapt processes based on empirical evidence, which align with the broader concepts of Agile methodologies. However, it primarily focuses on the contrast between dogma and empiricism without delving deeply into the structured principles and methodologies associated with the category of Discipline. Therefore, while there are relevant mentions and some alignment with core themes, the depth of discussion on overall discipline characteristics is lacking.",
+    "level": "Tertiary"
   }
 }

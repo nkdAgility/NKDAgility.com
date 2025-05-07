@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:25:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Visual Studio 2013, which is a practical tool relevant to software development. It provides insights into the installation process, requirements, and features, aligning well with the category's focus on practical techniques and tooling.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T18:25:50",
@@ -28,66 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:25:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:25:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address code quality, complexity, or related best practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:25:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013, with no significant discussion on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:25:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses solely on the installation process of Visual Studio 2013 and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of data-informed decision-making, metrics, or any of the key topics outlined in the EBM definition. The content is primarily technical and instructional, lacking any connection to the principles of EBM.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T18:25:57",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:25:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2013, including system requirements, installation steps, and configuration options, making it a clear fit for the Install and Configuration category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:25:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed step-by-step guide on installing Visual Studio 2013 on Server 2012, which aligns closely with the category of Install and Configuration. It discusses installation requirements, the installation process, and configuration options, demonstrating a clear focus on practical, actionable instructions. The depth of discussion is significant, covering various aspects of the installation, including system requirements, installation time, and configuration settings. The content does not stray into unrelated topics, maintaining a strong relevance to the category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:26:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:26:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address any DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no explicit discussion of DevOps principles or practices. While it mentions tools that could be used in a DevOps context, it does not engage with the core themes of collaboration, automation, or shared accountability that define DevOps. The discussion lacks depth and does not explore any cultural shifts or practices related to DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:26:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to any events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:26:11",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address flow efficiency or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:26:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013, focusing on technical details rather than human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:26:16",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address metrics, learning, or any related themes.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:26:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013, with no focus on reviews, analyses, or discussions related to Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T18:26:28",
@@ -280,10 +208,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:26:30",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2013 and does not focus on Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
@@ -305,22 +233,25 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:26:33",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:26:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 2013 on Server 2012, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as product delivery, operational stability, or continuous improvement, which are core to the category. Therefore, it has minimal relevance to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013 and does not discuss organisational agility or related themes.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:26:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013, lacking discussions on industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T18:26:38",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013 and does not discuss the management of software applications or the application lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:26:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2013 and does not mention Scrum principles, roles, events, or any related topics.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +283,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is entirely focused on the installation process of Visual Studio 2013 and does not mention or relate to the Definition of Done in any way.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2013, which relates to software tooling and technical setup, but it focuses more on the installation steps rather than broader software craftsmanship principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013, which is a technical task but does not delve into broader principles of software craftsmanship or engineering practices. While it mentions aspects of configuration and user experience, it lacks a discussion on best practices, code quality, or methodologies that contribute to high-quality software development. Therefore, it has a low confidence score in the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:08:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the installation process of Visual Studio 2013 and related configurations, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no direct discussion of Continuous Delivery principles, practices, or benefits. While it mentions aspects of software development, it does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is limited to installation details, which are not relevant to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +334,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address Lead Time or related metrics.",
     "level": "Ignored"
   },
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2013 and is not related to the Definition of Ready or Agile practices.",
     "level": "Ignored"
   },
@@ -496,10 +415,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses entirely on the installation of Visual Studio and related software, with no discussion of Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -559,10 +478,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013 and does not discuss team performance or dynamics related to agile methodologies.",
     "level": "Ignored"
   },
@@ -577,46 +496,40 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 with no relevance to Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:08:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "Content primarily focuses on the installation and configuration process of Visual Studio, a software development tool, and discusses aspects relevant to developers, but it lacks deeper exploration of software development methodologies or coding practices.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013, which is a software development tool. It discusses aspects such as installation requirements, configuration options, and user experience, which are relevant to software development practices. However, while it touches on the use of Visual Studio in a development context, it lacks in-depth discussion of methodologies, best practices, or broader software development concepts, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:08:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2013, which is unrelated to Agile Project Management or its methodologies.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address Agile values, principles, or methodologies.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about installing Visual Studio 2013 and does not discuss Scrum principles, roles, practices, or any relevant topics related to Professional Scrum.",
     "level": "Ignored"
   },
@@ -649,19 +562,19 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on installing Visual Studio, without any discussion of Azure Boards or Agile project management.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and its features, without a focus on collaboration tools or Agile teamwork.",
     "level": "Ignored"
   },
@@ -701,21 +614,12 @@
     "reasoning": "Content heavily discusses the installation process of Visual Studio 2013 without any reference to customer satisfaction, customer experience, or related metrics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:08:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation and features of Visual Studio 2013, which is not related to Scaling Scrum or any discussions about Scrum principles, roles, or frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the installation and configuration of Visual Studio 2013 and does not discuss aspects of evidence-based leadership or decision-making.",
     "level": "Ignored"
   },
@@ -726,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013 and related technical details, with no relevance to psychological safety or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:08:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013, with no focus on scaling agile practices or related frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -757,10 +652,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T20:08:46",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of Visual Studio 2013 and related features, with no focus on asynchronous development practices, principles, or team collaboration.",
     "level": "Ignored"
   },
@@ -802,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013, without discussing innovation, measurement, or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2013 and does not relate to Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of Visual Studio 2013 and does not address any scaled Agile methodologies, frameworks, or related discussions.",
+    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013, without discussing innovation, measurement, or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,10 +751,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of Visual Studio 2013, not related to Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -928,10 +805,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on installing Visual Studio and does not discuss hypothesis formulation, experimentation, or validated learning related to product development.",
     "level": "Ignored"
   },
@@ -955,10 +832,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the installation process of Visual Studio 2013 rather than on Release Management strategies or practices.",
     "level": "Ignored"
   },
@@ -973,19 +850,19 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the installation process of Visual Studio 2013 and does not discuss Cycle Time or related metrics.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the installation of Visual Studio 2013 on Server 2012, which is unrelated to Azure Pipelines and focuses on development tools rather than CI/CD processes.",
     "level": "Ignored"
   },
@@ -1009,19 +886,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of Visual Studio 2013 and related technical details, with no significant focus on team collaboration, Agile, Scrum, or DevOps principles.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on installing Visual Studio 2013 and does not discuss Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +911,7 @@
     "reasoning": "Content primarily discusses the installation and configuration of Visual Studio, which does not align with the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:08:47",
     "ai_confidence": 0,
@@ -1043,22 +920,16 @@
     "reasoning": "Content primarily discusses the installation of Visual Studio 2013 and does not mention Minimum Viable Product or related topics like product development, market validation, or Agile methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on the installation process of Visual Studio 2013 and does not discuss AI or its applications in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration process of Visual Studio 2013, which aligns with the practices involved in setting up software to achieve optimal performance.",
+    "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 2013 on Server 2012, which aligns well with the category of System Configuration. It discusses the installation process, requirements, and considerations for configuring the software, which are all relevant to system configuration practices. However, while it provides a fair amount of detail about the installation steps and personal experiences, it lacks a deeper exploration of broader system optimisation strategies or configuration management tools, which slightly limits its depth of discussion. Overall, the content is a strong fit for the category, but not exhaustive in its exploration of all aspects of system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,20 +970,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on installing Visual Studio 2013 and does not discuss Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2013 on Windows Server 2012, which is a Windows operating system. While the content primarily focuses on Visual Studio, the Windows environment is central to the installation process described.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2013 on Windows Server 2012, which is a direct mention of the Windows operating system. It discusses installation procedures, configuration settings, and the implications of running developer tools in a Windows environment. The depth of discussion is significant, as it covers installation requirements, the process, and user experience with the software on Windows. However, while it is heavily centred on Windows, it does not delve deeply into broader Windows topics such as troubleshooting or system updates, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1135,10 +1012,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the technical installation of Visual Studio and does not address team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1180,11 +1057,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:57:20",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2013 and does not address any topics related to the role or responsibilities of a Scrum Master.",
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 2013 on Server 2012, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, techniques, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1083,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses installing Visual Studio and related configurations, with no relevance to working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not focus on the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1288,10 +1159,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of Visual Studio 2013, with only a brief mention of Team Foundation Server, which does not directly relate to Azure Repos.",
     "level": "Ignored"
   },
@@ -1306,10 +1177,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address any Lean Product Development principles, waste reduction, or value delivery.",
     "level": "Ignored"
   },
@@ -1331,15 +1202,6 @@
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address accountability or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:08:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013, with no relation to Kanban or its scaling in organizations.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T20:08:47",
@@ -1351,10 +1213,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T20:08:47",
+    "calculated_at": "2025-04-10T15:55:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of Visual Studio 2013 and does not discuss Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -1369,11 +1231,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:16:51",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it briefly mentions integration with Team Foundation Server, it does not delve into the underlying social frameworks or methodologies that promote collaboration or value delivery within organisations.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address the concept of Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:18:34",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not address any frameworks or methodologies related to Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses the installation process of Visual Studio 2013 and does not relate to Artificial Intelligence or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 and does not mention any Scrum principles, roles, events, or practices. There is no discussion of Agile methodologies or team dynamics, which are core to the Scrum framework. The content is entirely technical and unrelated to Scrum, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 and does not discuss any aspects of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the software development lifecycle, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The discussion is entirely centred on installation details and personal preferences, which are unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 and does not discuss Continuous Improvement principles. While there are mentions of flexibility and user experience, these do not align with the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions tools related to development, it does not connect these tools to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 and does not explicitly discuss competence or related themes such as continuous learning, skill development, or professionalism. While there are mentions of personal experience and preferences, these do not align with the core principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2013 on Server 2012, with no explicit discussion of Agentic Agility or its principles. While there are mentions of flexibility and adaptability in the context of software installation, these concepts do not align with the core themes of intentionality and agency as defined in the category. The content lacks depth and does not differentiate between human and AI capabilities, making it largely irrelevant to the topic of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -2,8 +2,10 @@
 title: How will the immersive learning experience help coach people on the job?
 description: 'Discover how immersive learning transforms #scrum training into practical on-the-job coaching, enhancing skills and boosting team performance.'
 date: 2023-08-08T07:00:22Z
+weight: 790
 ResourceId: pU57BrP94-8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pU57BrP94-8
@@ -15,34 +17,23 @@ preview: https://i.ytimg.com/vi/pU57BrP94-8/maxresdefault.jpg
 duration: 133
 isShort: false
 aliases:
-- /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
-- /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
-- /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
-- /resources/videos/pU57BrP94-8
 - /resources/pU57BrP94-8
-aliasesFor404:
+- /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+aliasesArchive:
+- /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
-- /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+- how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Discovery and Learning
 - Continuous Learning
-- Coaching
-- Team Collaboration
-- Metrics and Learning
-- Empirical Process Control
-- Mentoring
 - Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
-- Leadership
+- Product Development
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning
@@ -99,6 +90,6 @@ Immersive learning isn't just another class—it's a meeting point of diverse in
 
 Explore the Immersive Journey with Me 
 
-For those eager to immerse themselves in a richer, more integrated Scrum experience, I invite you to embark on this learning journey with me.  
+For those eager to immerse themselves in a richer, more integrated [Scrum]({{< ref "/categories/scrum" >}}) experience, I invite you to embark on this learning journey with me.  
 
 Connect with me through Naked Agility, and let's craft your own unique Scrum immersive learning experience. 🌟

@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:05:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the Professional Scrum with Kanban course, which integrates Scrum and Kanban methodologies, emphasising collaboration, flow, and continuous improvement within teams.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum and Kanban methodologies, which are related to team dynamics and collaboration. However, it primarily focuses on training and certification rather than a deep exploration of social technologies as defined in the category. While there are mentions of self-paced learning and community interaction, the overall emphasis is on technical skills and certification rather than the broader social frameworks and methodologies that promote collaboration and decision-making.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,19 +22,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:05:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum and Kanban methodologies, which are not central to DevOps discussions.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban methodologies, which are not aligned with the core principles of DevOps. While there is a mention of improving team effectiveness, it does not discuss DevOps concepts such as automation, shared accountability, or continuous value delivery. The emphasis is on Scrum practices rather than the integration of development and operations.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:05:35",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a course aimed at Product Owners and Product Managers, indicating a connection to product management. However, the primary focus is on Scrum and Kanban methodologies rather than strategic product management practices.",
     "level": "Tertiary"
   },
@@ -46,10 +52,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum and Kanban practices, which are components of agile methodologies. While it revolves around Scrum training, it emphasizes enhancing team effectiveness and efficiency through agile practices, making it a significant but secondary theme in the context of business agility.",
     "level": "Tertiary"
   },
@@ -64,10 +70,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily discusses Professional Scrum principles and the integration of Kanban within the Scrum framework, targeting experienced practitioners seeking to enhance their understanding and application of Scrum.",
     "level": "Secondary"
   },
@@ -82,30 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a course on Professional Scrum with Kanban, focusing on Scrum practices rather than Evidence Based Management principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban training, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions improving team effectiveness, it does not provide empirical evidence or data-informed decision-making strategies that are central to EBM.",
     "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Kanban methodologies but does not address software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Professional Scrum with Kanban course, which touches on Kanban principles but is primarily focused on Scrum. Scaling Kanban is a secondary theme as it mentions the integration of Kanban practices within the Scrum framework but does not primarily address scaling Kanban in large organizations.",
-    "level": "Tertiary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -118,10 +109,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses primarily on a specific Agile framework (Scrum) and its integration with Kanban practices. It discusses how to apply Kanban within the Scrum framework, making it relevant to Agile frameworks as it elaborates on practical applications and the enhancement of Scrum effectiveness.",
     "level": "Secondary"
   },
@@ -136,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Scrum training course with no direct discussion of the Definition of Ready.",
     "level": "Ignored"
   },
@@ -150,15 +141,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a specific training course for Professional Scrum with Kanban, without discussing broader trend analysis in Agile methodologies, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Professional Scrum with Kanban, which primarily addresses individual Agile practices rather than the scaling of Agile methodologies across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -199,10 +181,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily discusses the Professional Scrum with Kanban training course, it does mention improving Scrum Teams' effectiveness and efficiency, which aligns with team performance. However, the main focus is on training rather than a direct discussion of team performance practices.",
     "level": "Tertiary"
   },
@@ -226,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content predominantly discusses Scrum and its integration with Kanban, which relates to methodologies in product delivery. However, it does not directly focus on the end-to-end process of delivering usable software products as the main theme.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum and Kanban methodologies without any focus on the application of AI.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +224,6 @@
     "reasoning": "Content focuses primarily on the Professional Scrum with Kanban training and methodologies, without discussing the use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on Scrum practices and methodologies, but it does touch on team interaction and improving effectiveness within teams. However, the emphasis is more on the technical aspects of Scrum and Kanban rather than deep discussions about the interplay of human behavior and processes.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-18T07:21:19",
@@ -269,21 +233,12 @@
     "reasoning": "Content primarily discusses Scrum and Kanban practices, with no mention of Test Driven Development or its principles.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Kanban practices within the Scrum framework, focusing on principles and practices relevant to Agile Project Management.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Kanban practices within the Scrum framework, which overlaps with Lean Thinking principles such as flow and efficiency. However, the primary focus is on Scrum and not solely on Lean Thinking.",
     "level": "Tertiary"
   },
@@ -296,15 +251,6 @@
     "reasoning": "Content focuses on Scrum and Kanban courses without discussing accountability as a central theme.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the importance of transparency and visibility in Scrum, but the primary focus is on the Professional Scrum with Kanban course and its content rather than an in-depth exploration of transparency and accountability principles in Agile teams.",
-    "level": "Tertiary"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-18T07:21:19",
@@ -312,15 +258,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum with a Kanban integration, lacking any clear emphasis on release management topics such as release planning, version control, or CI/CD practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Professional Scrum with Kanban, which is unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -343,65 +280,71 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a course about Scrum and Kanban, which indicates a major emphasis on frameworks and processes rather than direct discussions of technical leadership or the nuances of leading teams in an agile environment.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses Scrum and Kanban practices, which are related to Agile methodologies, but it does not explicitly focus on Agile Planning Tools themselves. It is more about training in Scrum and Kanban rather than discussing specific planning tools.",
     "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a training course for Scrum practitioners, including Scrum Masters, focusing on incorporating Kanban into Scrum practices. This indicates that Scrum is a significant but secondary theme alongside Kanban, thus the category is relevant but not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a training course for Scrum practitioners that incorporates Kanban strategies. While it mentions Scrum and references the Professional Scrum Master (PSM) course, the main emphasis is on Kanban within a Scrum context rather than the specific role and responsibilities of a Scrum Master. The discussion lacks depth regarding the Scrum Master's influence, techniques for coaching, or distinctions from other roles, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses how Scrum practitioners can apply Kanban practices to their work, which aligns with Agile principles and planning strategies. However, it primarily focuses on specific training for Scrum with Kanban, making Agile Planning a secondary theme rather than the primary focus.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the Professional Scrum with Kanban training and does not delve into Agile values and principles.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses the integration of Kanban practices into the Scrum framework, emphasizing the importance of flow and how it can improve Scrum teams' effectiveness and efficiency. It directly addresses flow efficiency principles and is relevant to optimizing work throughput.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum practices and frameworks, specifically blending Scrum with Kanban, without mention of Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:32:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban training, with no direct mention of Test First Development principles or practices. While it discusses team strategies and hands-on exercises, it does not align with the core themes of defining success criteria or the importance of testing in the development process. The depth of discussion regarding Test First Development is minimal, as the content does not delve into any relevant practices such as TDD or ATDD.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,66 +403,48 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum and Kanban training without discussing innovation capabilities or related frameworks.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on a training course for Scrum practitioners on applying Kanban practices within the Scrum framework, emphasizing the principles and practices relevant to Agile transformation.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and Kanban, which are project management methodologies rather than core engineering practices.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Kanban practices within the context of Scrum, emphasizing flow and efficiency, which are aligned with Lean principles. However, the primary focus remains on Scrum rather than Lean thinking, making it a secondary theme.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a training course for Scrum with Kanban, discussing technical aspects and practices, rather than the Scrum Values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Kanban training rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content focuses on the application of Kanban practices to Scrum, highlighting practical techniques for improving team effectiveness and flow within the Scrum framework.",
-    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -548,21 +473,12 @@
     "reasoning": "Content primarily details a Scrum training course, focusing on the course structure, topics, and prerequisites rather than personal experiences or anecdotes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a training course which includes elements of structured learning, but it does not directly reference a specific event or presentation. Events training is a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Kanban training, without focus on working agreements.",
     "level": "Ignored"
   },
@@ -577,21 +493,12 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses how Scrum Teams can introduce complementary Kanban practices to improve their effectiveness, indicating a major theme around team collaboration and dynamics.",
     "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on Professional Scrum and Kanban practices, which are team-level agile methodologies, rather than on scaling agility across an organization.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -613,11 +520,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum and Kanban training, which are not central to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban methodologies, which are related to Agile practices but do not specifically address Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of the core themes associated with Continuous Delivery, such as automation, rapid feedback, or incremental improvements.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -631,10 +541,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Scrum with Kanban training rather than remote work strategies or tools.",
     "level": "Ignored"
   },
@@ -649,23 +559,23 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum practices and how Kanban can be integrated with Scrum to improve team effectiveness, which aligns with teamwork dynamics and collaboration within Agile teams. However, the focus is primarily on the course content and certification, making team collaboration a major but secondary theme.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the Professional Scrum with Kanban training course, which is not primarily about Daily Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T07:21:19",
     "ai_confidence": 0,
@@ -683,31 +593,25 @@
     "reasoning": "Content heavily discusses Scrum and Kanban, which are unrelated to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a training course for Scrum practitioners that includes learning about Kanban practices and their integration into Scrum. While it primarily focuses on training and certification, it encompasses elements of learning and discovery related to enhancing team strategies and effectiveness.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the course description touches upon Scrum and its practices, it primarily focuses on the integration of Kanban with Scrum rather than directly discussing self-organisation principles or practices.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Professional Scrum with Kanban training and does not discuss the Agile Product Operating Model or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Professional Scrum with Kanban, which is more aligned with Scrum practices than the Agile Product Operating Model. While it mentions agile methodologies and product development, it does not delve into the core principles or themes of the Agile Product Operating Model, such as transitioning to a product ethos or operational stability in product delivery. The discussion is more about enhancing Scrum skills rather than integrating agile methodologies with product management principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -730,10 +634,10 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum and Kanban practices, which contribute to market adaptability; however, the primary focus is on a specific training course rather than directly addressing strategies for enhancing adaptability in a market context.",
     "level": "Tertiary"
   },
@@ -748,10 +652,10 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 80,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses how the Professional Scrum with Kanban course aims to improve transparency and visibility in Scrum teams. Transparency is a key element in the course objectives, and it addresses how Scrum practices can integrate Kanban to enhance this aspect.",
     "level": "Secondary"
   },
@@ -775,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and Kanban practices without substantial discussion on metrics, data utilization, or continuous learning methodologies.",
     "level": "Ignored"
   },
@@ -809,15 +713,6 @@
     "reasoning": "Content primarily focuses on a certification course for Scrum with Kanban, detailing course structure and learning outcomes without discussing mentoring or coaching aspects.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Scrum practices and Kanban integration, with no mention of AI or automation in Agility.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T07:21:19",
@@ -829,28 +724,28 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Kanban practices within Scrum, which touches on team strategies. However, the primary focus is more on training and certification rather than strategic development or alignment.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the application of Kanban practices within the Scrum framework, focusing on improving team effectiveness and efficiency, which aligns well with operational practices in Agile methodologies.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on teaching Scrum practitioners about Kanban within the Scrum framework, which is more about specific methodologies rather than discussing the foundational principles and values of Agile philosophy.",
     "level": "Ignored"
   },
@@ -883,10 +778,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The course content promotes self-paced learning and hands-on exercises aimed at improving Scrum skills, which relates to continuous learning principles, but it focuses more on Scrum and Kanban practices than on a broader discussion of continuous learning as a primary theme.",
     "level": "Tertiary"
   },
@@ -919,10 +814,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content focuses on a course designed for Scrum practitioners and discusses the integration of Kanban practices within the Scrum framework. It implies a strong alignment with Agile principles but primarily aims at enhancing Scrum techniques rather than discussing broader Agile Product Management principles.",
     "level": "Secondary"
   },
@@ -944,15 +839,6 @@
     "reasoning": "The content is primarily focused on blending Scrum practices with Kanban, which relates more to Agile methodologies than to Value Stream Management directly.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on the Professional Scrum with Kanban course, which blends Scrum with Kanban and does not specifically address the scaling of Scrum across multiple teams or the organizational level.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-18T07:21:19",
@@ -962,21 +848,12 @@
     "reasoning": "Content heavily focuses on Scrum and Kanban training without addressing the interplay between technology and organizational structures.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific training course related to Scrum and Kanban, which falls under the category of product offerings for Agile methodologies. It provides insights into the course structure and objectives, aligning well with discussions about training products in the Agile and DevOps domain.",
-    "level": "Secondary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses enhancing Scrum skills and principles of flow, which are related to empirical process control. However, the primary focus is on the synergy between Scrum and Kanban rather than on empirical process control itself.",
     "level": "Tertiary"
   },
@@ -991,10 +868,10 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a training course related to Scrum and Kanban practices, which suggests a connection to pragmatic thinking through real-world application and hands-on exercises. However, it also contains a significant amount of background information and promotional content that might distract from a purely pragmatic focus.",
     "level": "Tertiary"
   },
@@ -1018,10 +895,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Kanban practices within Scrum, which implies a focus on improving the delivery and effectiveness of working software. However, the primary focus appears to be on the training and theoretical aspects rather than directly on the delivery of functional software.",
     "level": "Tertiary"
   },
@@ -1036,10 +913,10 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "While the content focuses primarily on Scrum and Kanban, it discusses the application of Kanban practices in relation to Scrum, which may tie into Lean principles of flow and efficiency. However, Lean is not the primary focus, making it a major but secondary theme.",
     "level": "Tertiary"
   },
@@ -1063,10 +940,10 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily discusses Scrum and Kanban methodologies and their application in software development, which are key components of software engineering practices.",
     "level": "Secondary"
   },
@@ -1108,21 +985,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on Professional Scrum with Kanban, a training course, and does not address cross-functional teams directly. It discusses Scrum practices and the integration of Kanban without specifically highlighting cross-functional team concepts or their roles in Agile methodologies.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on Scrum training and how it can be enhanced with Kanban practices, which are relevant to the role of software developers within Agile methodologies. However, it does not directly discuss software developer practices in detail, making it a secondary theme.",
-    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1144,30 +1012,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on Scrum training and Kanban principles rather than installation or configuration of software tools.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content focuses on a course designed for Scrum practitioners including Product Owners, it primarily discusses the Scrum framework and techniques related to Kanban integration rather than delving deeply into the specific responsibilities or skills of a Product Owner.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily describes a training course on Professional Scrum with Kanban rather than discussing news, updates, or reviews related to the Agile or DevOps fields.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1207,19 +1066,19 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses solely on a training course for Scrum and Kanban, without addressing Agile leadership roles or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a training course on Scrum and Kanban practices without a direct focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1243,28 +1102,31 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content is focused on a Scrum training course that incorporates aspects of Kanban, it discusses flow, effectiveness, and efficiency, which are relevant to throughput. However, the primary focus is on Scrum practices rather than a central examination of throughput itself.",
     "level": "Tertiary"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-21T11:27:02",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum principles and how they can be enhanced with Kanban practices, indicating a major theme around Scrum despite the inclusion of Kanban.",
+    "final_score": 52.0,
+    "reasoning": "The content primarily focuses on a training course that enhances Scrum skills, specifically through the lens of integrating Kanban practices. While it mentions Scrum roles and the importance of Scrum knowledge, the heavy emphasis on Kanban strategies indicates a significant deviation from pure Scrum discussions. The content does provide some depth regarding Scrum principles, but the integration of Kanban as a primary focus reduces the overall alignment with the Scrum category.",
     "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Kanban practices that Scrum Teams can adopt to improve effectiveness and efficiency, which implies a focus on enhancing value delivery. However, it predominantly serves as a course outline rather than a detailed discussion on value delivery strategies.",
     "level": "Tertiary"
   },
@@ -1295,15 +1157,6 @@
     "reasoning": "Content heavily discusses training in Scrum and Kanban methodologies, which do not focus on Product Discovery, customer needs, or defining product features.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:21:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its relationship with Kanban, suggesting a focus on Scrum practices, but it primarily centers around a certification course rather than in-depth discussions of Scrum product development.",
-    "level": "Tertiary"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-18T07:21:19",
@@ -1315,19 +1168,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a training course on Professional Scrum with Kanban, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on Scrum and Kanban practices, which are Agile methodologies. Though it provides practical approaches to improving Scrum teams' effectiveness, it does not primarily discuss strategic alignment, long-term success, or the broader implications of Agile strategy in organizational contexts.",
     "level": "Tertiary"
   },
@@ -1351,10 +1204,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:21:19",
+    "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the course focuses on Scrum and Kanban as methodologies, it does incorporate elements of organisational agility by discussing how Scrum teams can adopt Kanban practices to enhance their effectiveness and efficiency, which aligns with the themes of flexibility and responsiveness.",
     "level": "Tertiary"
   },
@@ -1374,6 +1227,102 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Kanban training, which are unrelated to Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban methodologies without any explicit mention or discussion of Artificial Intelligence. While it touches on team strategies and practices, it does not explore AI's role in Agile or DevOps, nor does it provide any relevant use cases or ethical considerations related to AI. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban methodologies, which are not directly related to Internal Developer Platforms. While it discusses team strategies and training, it does not address the core themes or components of IDPs, such as automation, deployment processes, or the software delivery lifecycle.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban training, with no explicit mention of the Shift-Left Strategy or its principles. While it discusses improving team effectiveness, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses enhancing Scrum skills and implementing Kanban strategies, which are related to Continuous Improvement. However, it primarily focuses on training and certification rather than a deep exploration of Continuous Improvement principles. While there are mentions of improving team effectiveness and lean practices, the discussion lacks substantial depth and does not explicitly address the core themes of Continuous Improvement, such as empirical evidence or a culture of experimentation.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a training course for Scrum and Kanban, with limited direct discussion of Common Goals. While it mentions improving team effectiveness and introduces lean practices, it lacks a clear connection to the overarching strategic objectives or alignment principles central to Common Goals. The depth of discussion on how these practices relate to shared objectives is minimal, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses a training course aimed at enhancing Scrum skills, which implies a focus on competence through skill development. It mentions the need for prior experience and knowledge, indicating a recognition of competence as a prerequisite for participation. However, while it touches on the importance of learning and practical exercises, it does not delve deeply into the broader implications of competence in Agile methodologies or provide extensive strategies for fostering a culture of competence. Therefore, while competence is a significant theme, it is not the primary focus of the content.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T15:06:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban methodologies, which are not directly related to the One Engineering System framework. While it discusses team strategies and training, it does not address the principles, integration, or implementation of 1ES. The mention of Scrum and Kanban indicates a secondary focus on specific methodologies rather than the overarching theme of standardisation and integration in software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Kanban training, which does not explicitly discuss Agentic Agility or its principles. While there are elements of autonomy and adaptability in the context of Scrum practices, the content lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more about training methodologies rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

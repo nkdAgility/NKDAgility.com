@@ -2,40 +2,47 @@
 title: 5 tools that Scrum Masters love. Part 1
 description: "Discover the top 5 tools that Scrum Masters love in this engaging short! Boost your team's agility and performance with expert insights from NKD Agility. #Scrum #Agile"
 date: 2023-09-14T07:00:08Z
+weight: 840
 ResourceId: Ce5pFwG5IAY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Ce5pFwG5IAY
 source: internal
 url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-1
+slug: 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
 layout: video
 preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/5-tools-that-scrum-masters-love-part-1
-- /resources/videos/5-tools-that-scrum-masters-love-part-1
-- /resources/videos/Ce5pFwG5IAY
 - /resources/Ce5pFwG5IAY
-aliasesFor404:
-- /resources/5-tools-that-scrum-masters-love-part-1
+- /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love.-part-1
+aliasesArchive:
+- /resources/videos/-tools-that-scrum-masters-love-part-
 - /resources/videos/5-tools-that-scrum-masters-love-part-1
+- /resources/5-tools-that-scrum-masters-love-part-1
+- 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love.-part-1
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Liberating Structures
+- Team Collaboration
 - Scrum Master
+- Scrum Team
+- Social Technologies
+- Software Development
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Uncategorized
 
 ---
-**Scrum Masters: Unlocking the Power of Liberating Structures 🚀** 
+**[Scrum]({{< ref "/categories/scrum" >}}) Masters: Unlocking the Power of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) 🚀** 
 
 In the dynamic world of Agile and Scrum, Scrum Masters are continuously seeking innovative ways to enhance collaboration and effectiveness within their teams. 
 

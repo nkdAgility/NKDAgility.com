@@ -2,36 +2,32 @@
 title: 'Rethinking Sprint Planning: Why Burndown Charts Are Agile Banditry and What to Do Instead'
 description: Rethink your Sprint planning! Discover why burndown charts may hinder progress and learn to embrace a flexible, just-in-time approach for agile success.
 date: 2024-01-09T07:00:05Z
+weight: 665
 ResourceId: BtHASX2lgGo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BtHASX2lgGo
 url: /resources/videos/:slug
-slug: 5-kinds-of-agile-bandits-planning-bandits
+slug: rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 layout: video
 aliases:
-- /resources/videos/BtHASX2lgGo
-- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
-- /resources/5-kinds-of-agile-bandits-planning-bandits
 - /resources/BtHASX2lgGo
-aliasesFor404:
+- /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
+- /resources/videos/5-kinds-of-agile-bandits-planning-bandits
+aliasesArchive:
+- /resources/videos/rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 - /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 - /resources/5-kinds-of-agile-bandits-planning-bandits
+- rethinking-sprint-planning-why-burndown-charts-are-agile-banditry-and-what-to-do-instead
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
 isShort: false
 tags:
+- Pragmatic Thinking
 - Agile Planning
-- Agile Project Management
-- Agile Product Management
-- Agile Frameworks
-- Scrum Product Development
-- Software Developers
-- People and Process
-- Agile Philosophy
-- Product Delivery
-- Agile Transformation
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,13 +35,13 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 - Scrum
 
 ---
 A common practice I observe among agile teams is the reliance on burndown charts to gauge progress throughout a Sprint. However, I must confess, I view burndowns as a form of agile banditry. The premise of a burndown chart is that for it to move smoothly from the top left to the bottom right, you must have meticulously planned the entire Sprint upfront. But let’s be honest—when we’re developing products that don’t yet exist, this approach is fundamentally flawed.
 
-### The Reality of Product Development
+### The Reality of [Product Development]({{< ref "/categories/product-development" >}})
 
 In the world of product development, especially when venturing into uncharted territory, we face a plethora of unknowns. According to the Standish Group's Chaos Report, a staggering 65% of what we build changes over the product's lifecycle. Even more concerning is that only 30% of the features we develop are actually utilised by our customers. This data underscores a critical truth: we often know less than half of what we need to figure out as we progress. 
 

@@ -2,35 +2,31 @@
 title: 'Bridging the Gap: Understanding the True Meaning of "Done" in Agile Teams'
 description: Discover the true meaning of "done" in Agile. Learn how to bridge the gap between expectations and reality to enhance quality and build trust in your team.
 date: 2023-12-07T11:00:05Z
+weight: 640
 ResourceId: 2QojN_k3JZ4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2QojN_k3JZ4
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-diligence
+slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
 aliases:
-- /resources/videos/2QojN_k3JZ4
-- /resources/videos/-shorts-7-virtues-of-agile-diligence
-- /resources/-shorts-7-virtues-of-agile-diligence
 - /resources/2QojN_k3JZ4
-aliasesFor404:
+- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
+- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
+- /resources/videos/-shorts-7-virtues-of-agile-diligence
+aliasesArchive:
+- /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
 - /resources/videos/-shorts-7-virtues-of-agile-diligence
 - /resources/-shorts-7-virtues-of-agile-diligence
+- bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: true
 tags:
-- Agile Values and Principles
-- Technical Leadership
-- People and Process
-- Agile Project Management
-- Agile Transformation
 - Software Development
-- Team Performance
-- Organisational Culture
 - Working Software
-- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,15 +35,14 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Leadership
-- Social Technologies
+- Product Development
 
 ---
 In my experience working with various organisations, I've often noticed a significant gap between expectation and reality when it comes to the concept of "done." It’s a term that gets thrown around in Agile circles, yet its true meaning can often be lost in translation. 
 
 ### The Unspoken Expectation of Quality
 
-When we talk about the definition of done, we’re not just discussing a checklist of tasks that need to be completed. Instead, we’re addressing a fundamental expectation that leadership has regarding the quality of work produced by teams. This expectation is often implicit; it’s assumed that teams will deliver a level of quality that is usable and meets the needs of the business. 
+When we talk about the [definition of done]({{< ref "/tags/definition-of-done" >}}), we’re not just discussing a checklist of tasks that need to be completed. Instead, we’re addressing a fundamental expectation that [leadership]({{< ref "/categories/leadership" >}}) has regarding the quality of work produced by teams. This expectation is often implicit; it’s assumed that teams will deliver a level of quality that is usable and meets the needs of the business. 
 
 However, this assumption can lead to significant issues. Many teams operate under the belief that they can simply tick boxes and call a project complete, without fully understanding the implications of their work. This is where the disconnect occurs. 
 

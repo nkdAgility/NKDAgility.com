@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:01:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the application of Kanban principles, which are central to the category of Social Technologies, particularly in enhancing organisational efficiency and continuous improvement.",
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions concepts related to transparency and continuous improvement, which are relevant to social technologies. However, it primarily focuses on the practical application of Kanban in enhancing organisational efficiency without delving deeply into the social frameworks or collaborative aspects that define social technologies. The discussion lacks a strong emphasis on self-organisation, collective intelligence, or the cultural impacts of these methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,37 +22,40 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:01:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scaled Portfolio Kanban, which is not directly related to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course aimed at improving organisational efficiency and effectiveness, which does not directly address DevOps principles or practices. While it mentions continuous improvement, it lacks explicit discussions on collaboration, automation, or shared accountability that are central to DevOps. The content is more aligned with project management methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:01:43",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Scaled Portfolio Kanban, which is relevant to product management, particularly in aligning work with strategic goals and managing portfolios. However, the primary focus is on Kanban training rather than product management strategies.",
     "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T00:01:45",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a training course for Scaled Portfolio Kanban, with no clear emphasis on leadership practices or principles.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on a course related to Portfolio Kanban, which can support business agility principles by helping organizations manage work and improve efficiency; however, it primarily centers on Kanban methodologies rather than directly addressing broader themes of business agility.",
     "level": "Tertiary"
   },
@@ -64,10 +70,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Scaled Portfolio Kanban principles and does not discuss Scrum roles, events, or artifacts.",
     "level": "Ignored"
   },
@@ -82,46 +88,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Kanban principles, which can involve data-driven approaches and continuous improvement, aligning moderately with Evidence-Based Management themes.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a Kanban course aimed at improving organizational efficiency and does not discuss software code quality or complexity.",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions improving efficiency and aligning work with goals, which are relevant to Evidence-Based Management. However, it lacks explicit discussions on empirical evidence, metrics, or data-informed decision-making, which are central to the category. The focus is more on practical outcomes and general improvement rather than a deep dive into evidence-based practices.",
     "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses on a course dedicated to applying Scaled Portfolio Kanban principles, aiming to enhance organizational efficiency and manage work at scale, which aligns with the core topics of Scaling Kanban.",
-    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scaled Portfolio Kanban principles and does not discuss hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on a training course specifically dedicated to Scaled Portfolio Kanban, an Agile framework. It discusses the application of Kanban principles and how they impact organizational efficiency and strategic alignment.",
     "level": "Secondary"
   },
@@ -136,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a Kanban training course, with no clear discussion on Definition of Ready.",
     "level": "Ignored"
   },
@@ -151,15 +142,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a specific training course about Scaled Portfolio Kanban without discussing trend analysis relevant to Agile or DevOps.",
     "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses principles related to Scaled Portfolio Kanban, which aligns with scaling Agile practices in an organizational context. However, the primary focus is on training rather than a broader discussion of scaled Agile methodologies.",
-    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -199,19 +181,19 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses enabling teams to track progress and manage portfolios effectively, which relates to team performance; however, the primary focus is on Scaled Portfolio Kanban rather than directly on team collaboration or agile team dynamics.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a training course for Scaled Portfolio Kanban, without discussing specific collaboration tools or their use within Agile teams.",
     "level": "Ignored"
   },
@@ -226,64 +208,37 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Kanban principles which are relevant to planning and managing product delivery processes, and it emphasizes aligning work with goals and improving efficiency.",
     "level": "Tertiary"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on Kanban principles and does not discuss AI or its integration into Agile methodologies or software development.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses improving organizational efficiency through a course on Scaled Portfolio Kanban, which relates to digital transformation by emphasizing continuous improvement and alignment with strategic goals, though it's not a primary focus.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content primarily focuses on Kanban principles and tools, it emphasizes application in organizational efficiency, which relates to how teams and roles collaborate. However, it lacks a deep dive into human behavior and team dynamics.",
     "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scaled Portfolio Kanban, which is unrelated to Test Driven Development principles and practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content discusses the application of Kanban principles, which are central to Agile Project Management, specifically in managing portfolios, aligning work with strategy, and enhancing organizational efficiency.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses 'Scaled Portfolio Kanban', which aligns with Lean principles and tools, but the primary focus appears to be on Kanban rather than Lean Thinking itself.",
     "level": "Tertiary"
   },
@@ -296,112 +251,100 @@
     "reasoning": "Content primarily focuses on Kanban training and organizational efficiency, without a clear discussion of accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions setting up transparent systems and evaluating work alignment with strategic goals, indicating a focus on aspects of transparency and accountability within the context of organizational efficiency and project management.",
-    "level": "Tertiary"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban and organizational efficiency rather than release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Scaled Portfolio Kanban training, which is unrelated to the principles and practices of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scaled Portfolio Kanban, which relates to scaling agility and improving organizational efficiency and effectiveness, but it primarily targets team-level management and training.",
     "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on the principles and application of Kanban through a training course, including aspects such as setting up a Portfolio Kanban Board, managing dependencies, and aligning work with strategic goals. This aligns closely with Kanban practices, making it a major theme.",
     "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on 'Applying Scaled Portfolio Kanban' and does not discuss technical leadership themes or apply agile principles related to leadership.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses applying Scaled Portfolio Kanban, which relates to planning tools but is more focused on the training course for Kanban principles rather than specific Agile planning tools.",
     "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a Kanban course and does not focus on Scrum Master responsibilities or practices.",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a Kanban course aimed at improving organisational efficiency and effectiveness, which does not directly address the role or responsibilities of a Scrum Master. While it mentions concepts like continuous improvement, it lacks explicit references to Scrum principles or the specific duties of a Scrum Master. The discussion is more aligned with general agile practices rather than the specific nuances of the Scrum Master role.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses principles of Kanban and its application in portfolio management, which aligns with Agile Planning practices, but is primarily focused on a specific training course rather than a broad discussion on Agile Planning itself.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a specific Kanban course and its operational aspects rather than Agile values and principles.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses applying Scaled Portfolio Kanban which relates to managing work effectively and improving efficiency, but it does not deeply focus on flow efficiency principles specifically.",
     "level": "Tertiary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses entirely on Scaled Portfolio Kanban, which is unrelated to Test First Development principles or practices.",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Kanban and organisational efficiency, with no explicit mention of Test First Development principles or practices. While it discusses continuous improvement, it does not align with the core themes of defining success criteria or testing methodologies related to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -433,19 +376,19 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses principles related to Scaled Portfolio Kanban, which implies a focus on aligning work with organizational goals and improving efficiency, suggesting it's about scaling Agile practices. However, it primarily centers on a specific training course rather than a broader discussion of large-scale Agile principles.",
     "level": "Tertiary"
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions forecasting completion dates for portfolio items and leveraging data for organization-wide improvements, which relates to estimation practices, but the primary focus is on Kanban and not specifically on Agile estimation techniques.",
     "level": "Tertiary"
   },
@@ -460,19 +403,19 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The course discusses aligning work with organizational goals and driving continuous improvement, which suggests a focus on enhancing efficiency and effectiveness in innovation practices.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Kanban, which is a methodology within the Agile framework, but it is more oriented towards training on Scaled Portfolio Kanban rather than a broader discussion on Agile transformation strategies or principles.",
     "level": "Tertiary"
   },
@@ -487,39 +430,21 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses principles related to Kanban, which is associated with Lean practices and continuous improvement, but the focus is more on portfolio management rather than Lean principles specifically.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban principles and does not focus on Scrum values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses applying Scaled Portfolio Kanban, which relates to improving organizational efficiency and may touch upon aspects of organizational change and adaptability, but it does not focus primarily on resilience or change management as defined in the category.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on a practical course about applying Scaled Portfolio Kanban, detailing specific techniques and skills for improving organizational efficiency, aligning work with goals, and managing portfolios, making it a strong fit for the category.",
-    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -532,10 +457,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scaled Portfolio Kanban training, which is not directly related to the concept of Product Backlog in Agile.",
     "level": "Ignored"
   },
@@ -546,15 +471,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses a course on Scaled Portfolio Kanban without any personal anecdotes, insights, or experiences.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily describes a training course rather than an event or presentation. It does not focus on discussions, talks, or any form of structured learning experience related to events.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -577,21 +493,12 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a Kanban course and principles, with no clear emphasis on Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on a course about Scaled Portfolio Kanban, which aligns with the theme of scaling agility by improving organizational efficiency and aligning work with strategic goals, thereby implying a strategy for implementing agile practices across the organization.",
-    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -613,11 +520,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a Kanban training course and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a Kanban course aimed at improving organisational efficiency and effectiveness, which is more aligned with general project management and Agile practices rather than Continuous Delivery specifically. While it mentions continuous improvement, it lacks direct references to Continuous Delivery principles, automation, or deployment strategies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -640,32 +550,32 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban principles and project management training rather than on Change Management strategies or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Kanban training course, which is not centered on team collaboration within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about Scaled Portfolio Kanban and does not discuss Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T00:39:59",
     "ai_confidence": 0,
@@ -683,15 +593,6 @@
     "reasoning": "Content primarily focuses on a training course about Kanban methodology, not related to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content focuses on applying Scaled Portfolio Kanban, which implies aspects of continuous improvement and alignment with goals, but primarily centers on course delivery and project management techniques without strong emphasis on discovery or learning methodologies.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-18T00:39:59",
@@ -703,11 +604,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on a course about Scaled Portfolio Kanban, which may touch on Agile concepts but does not explicitly align with the Agile Product Operating Model as it centers around Kanban rather than product-centric development.",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions concepts related to efficiency and continuous improvement, which are relevant to the Agile Product Operating Model. However, it primarily focuses on the Scaled Portfolio Kanban approach without explicitly discussing the core principles of APOM or product management practices. The depth of discussion is limited, lacking detailed exploration of the Agile Product Operating Model's key topics.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -721,37 +625,37 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban principles and organizational efficiency, with no clear discussion on Behaviour Driven Development.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T00:39:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on the application of Scaled Portfolio Kanban, which is aligned with improving organizational efficiency and effectiveness. While it touches on principles that can enhance adaptability, such as managing work alignment and leveraging data, the overall focus is on Kanban systems rather than directly addressing Market Adaptability as a primary topic.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses tools for improving organizational efficiency and aligning work with goals, which relates to organisational dynamics and systems thinking. However, it primarily focuses on Scaled Portfolio Kanban, making it a secondary theme.",
     "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses setting up transparent systems to track team progress and aligns work with stated strategy, which emphasizes the role of transparency in project management.",
     "level": "Secondary"
   },
@@ -766,19 +670,19 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Scaled Portfolio Kanban principles, emphasizing efficiency and alignment with strategic goals, which includes elements of decision-making. However, it primarily focuses on the course details rather than structured, evidence-based methodologies.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Scaled Portfolio Kanban, which includes the use of data for organization-wide improvements and tracking progress. While the emphasis is on Kanban principles, there is a notable focus on leveraging data and continuous improvement, making it a secondary theme relevant to metrics and learning.",
     "level": "Tertiary"
   },
@@ -793,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scaled Portfolio Kanban and its application in organizational efficiency, rather than specifically discussing Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -807,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a training course about Scaled Portfolio Kanban rather than mentoring or coaching in Agile environments.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T00:40:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Scaled Portfolio Kanban training rather than AI and automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -829,37 +724,37 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
+    "final_score": 80.0,
     "reasoning": "The course focuses on aligning work with strategic goals and managing portfolios efficiently, which are key aspects of strategy in Agile contexts.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on applying Scaled Portfolio Kanban, which includes techniques for managing workflows, aligning work with strategic goals, and driving continuous improvement, all of which are central to operational practices.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a specific Kanban course and does not delve into the foundational principles or values of Agile philosophy.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a course about Scaled Portfolio Kanban, which does not relate to Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -883,10 +778,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a course for applying Scaled Portfolio Kanban, which implies elements of continuous improvement and training, but does not delve deeply into concepts of growth mindset or team dynamics related to Continuous Learning.",
     "level": "Tertiary"
   },
@@ -901,10 +796,10 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on applying Scaled Portfolio Kanban principles to align work with strategic goals and manage portfolios effectively, making it primarily about Portfolio Management.",
     "level": "Secondary"
   },
@@ -919,92 +814,77 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on Scaled Portfolio Kanban, which is related to Kanban methodologies rather than a direct discussion on Agile Product Management principles and practices.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on applying Scaled Portfolio Kanban, which is primarily a framework for managing work and does not explicitly discuss Systems Thinking principles, techniques, or case studies relevant to complex organisational dynamics.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aligning work with organizational goals and improving efficiency, which are relevant to Value Stream Management, but it primarily focuses on Kanban principles and practices rather than on Value Stream Management as a clear primary topic.",
     "level": "Tertiary"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T00:40:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on Scaled Portfolio Kanban, which is a different framework and does not primarily discuss Scaling Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The course on Applying Scaled Portfolio Kanban touches on organizational efficiency and alignment of work with strategic goals, which are sociotechnical concepts. However, the primary focus is still on Kanban principles and practices rather than a thorough exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T00:40:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a course related to Scaled Portfolio Kanban, which is a product focused on training within Agile methodologies, making it a significant but secondary theme to a primary discussion on the course itself.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses transparency and alignment with organizational goals, which are relevant to empirical process control, but primarily focuses on Scaled Portfolio Kanban rather than being centered on empirical process control principles.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Kanban principles and project management, not Continuous Integration.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on applying Scaled Portfolio Kanban principles to enhance organizational efficiency, emphasizing practical problem-solving strategies and real-world impact, which aligns with the theme of Pragmatic Thinking.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T00:40:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:17:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on a training course for Scaled Portfolio Kanban without any clear discussion on Lead Time as defined in the category description.",
+    "final_score": 12.0,
+    "reasoning": "The content does not explicitly mention Lead Time or its importance as an observability metric. While it discusses enhancing efficiency and effectiveness in a Kanban context, it lacks a direct focus on Lead Time, its measurement, or strategies for optimisation. The discussion is more about general organisational improvement rather than the specific nuances of Lead Time.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1036,10 +916,10 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scaled Portfolio Kanban, which relates to Lean principles and emphasizes efficiency and continuous improvement, making Lean a major, but secondary theme.",
     "level": "Tertiary"
   },
@@ -1054,28 +934,28 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aligning work with strategic goals and effective portfolio management, which relates to product strategy, but the primary focus is on the operational aspects of applying Kanban principles rather than a comprehensive look at product strategy itself.",
     "level": "Tertiary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses a training course on Scaled Portfolio Kanban, which relates to Agile practices in software development. While it is relevant, it is more focused on organizational efficiency and project management than direct software engineering practices, making it a secondary theme.",
     "level": "Tertiary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content includes aspects of using data to enhance organizational efficiency and effectiveness, which aligns with evidence-based practices. However, it primarily focuses on Kanban training and its implementation rather than explicitly discussing evidence-based leadership as a central theme.",
     "level": "Tertiary"
   },
@@ -1115,15 +995,6 @@
     "reasoning": "Content primarily focuses on a Kanban course and its applications, not on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T00:40:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Kanban training course for various roles in project management and leadership, rather than specifically addressing software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-18T00:40:00",
@@ -1144,30 +1015,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on applying Scaled Portfolio Kanban principles and enhancing organizational efficiency rather than discussing specific installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions Product Owners among other roles, indicating that they may benefit from the course, but the primary focus is on Kanban principles rather than specific Product Owner responsibilities.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T00:40:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a training course for Scaled Portfolio Kanban, rather than discussing industry news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1189,37 +1051,37 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scaled Portfolio Kanban, which, while related to project management and workflow improvement, does not directly address the management of the software application lifecycle stages or principles of Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a Kanban training course and does not discuss asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on a course about Scaled Portfolio Kanban, with limited emphasis on leadership roles or Agile leadership practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban training and organizational efficiency, lacking a clear emphasis on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1234,46 +1096,49 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a course on Scaled Portfolio Kanban, focusing on organizational efficiency and project management rather than directly on validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content is primarily about applying Scaled Portfolio Kanban to improve organizational efficiency, which includes elements of throughput such as managing work flow and aligning active work with strategy. However, the core focus is broader than just throughput measurement and optimization.",
     "level": "Tertiary"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:40:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content is primarily about Kanban principles and does not focus on Scrum topics or its frameworks.",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on Kanban, which is explicitly excluded from the Scrum category. There are no direct mentions of Scrum roles, events, or principles, and the discussion lacks depth regarding Scrum practices or frameworks.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aligning work with goals and driving continuous improvement, which relates to value delivery practices, but it primarily focuses on Scaled Portfolio Kanban without sufficiently emphasizing value delivery as the main topic.",
     "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Kanban principles and project management, which are not directly related to system configuration.",
     "level": "Ignored"
   },
@@ -1288,46 +1153,37 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Kanban principles and project management training, with no clear connection to product discovery methodologies or user needs.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T00:40:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content focuses on Kanban principles and does not primarily discuss Scrum practices, frameworks, or product development.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a course on applying Scaled Portfolio Kanban, which relates to enhancing organizational efficiency and effectiveness. While it touches on principles that could impact organizational change, it primarily focuses on Kanban methods rather than the broader aspects of organizational change processes.",
     "level": "Tertiary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on applying Scaled Portfolio Kanban, which is unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aligning work with organizational goals and driving continuous improvement through Kanban principles, which are relevant to Agile strategy. However, the focus is primarily on the course's content rather than a detailed Agile strategy discussion.",
     "level": "Tertiary"
   },
@@ -1342,19 +1198,19 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses alignment of work with strategic goals and managing portfolios effectively, which indicates that strategic goals are a significant aspect of the course, but the primary focus is on the application of Kanban principles.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T00:40:00",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses applying Scaled Portfolio Kanban principles for enhancing organizational efficiency, which relates to themes of responsiveness and alignment with strategic goals, but it primarily focuses on training and does not fully delve into broader organizational agility practices.",
     "level": "Tertiary"
   },
@@ -1374,6 +1230,258 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scaled Portfolio Kanban and does not relate directly to Lean Startup principles such as MVP, Build-Measure-Learn feedback loop, or validated learning.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a course about Scaled Portfolio Kanban, which is related to Agile methodologies but does not mention or discuss Artificial Intelligence. There are no explicit references to AI, and the themes of the content do not align with the core topics outlined for the Artificial Intelligence category. The discussion lacks depth regarding AI applications, making it clear that AI is not a primary focus.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a course related to Scaled Portfolio Kanban, which is not directly related to Internal Developer Platforms. While it discusses efficiency and alignment with goals, it does not mention IDPs, their components, or their role in software development processes. The discussion is more aligned with Agile methodologies rather than the specific framework of an IDP.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a course about Scaled Portfolio Kanban, which does not directly address the Shift-Left Strategy. While it mentions improving efficiency and aligning work with goals, it lacks explicit discussions on integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content mentions 'continuous improvement' but does not delve deeply into its principles or practices. While it aligns with the theme of enhancing efficiency and effectiveness, it lacks detailed discussion on empirical evidence, specific techniques, or frameworks that support Continuous Improvement. The focus is more on the course's practical outcomes rather than a comprehensive exploration of Continuous Improvement as a philosophy.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content mentions aligning work with strategic goals, which is relevant to Common Goals, but it does not delve deeply into the principles of Agile or DevOps. The focus is more on the course's practical outcomes rather than a thorough exploration of how Common Goals function within those frameworks. While there is some alignment with the category, the discussion lacks depth and specificity regarding the foundational principles of Common Goals.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions continuous improvement and effectiveness, which are related to competence, but does not explicitly discuss the development of skills or the importance of competence in Agile or DevOps contexts. The focus is more on practical outcomes and efficiency rather than on fostering a culture of competence or continuous learning.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a Kanban course aimed at improving organisational efficiency, which does not directly discuss the One Engineering System framework or its principles. While it touches on aligning work with goals and continuous improvement, these concepts are not specific to 1ES and lack the necessary depth and direct mention of the framework's components or integration practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions aligning work with goals and driving continuous improvement, which touches on aspects of Agentic Agility. However, it lacks explicit discussions on the intentional shaping of outcomes, the distinction between human and AI capabilities, and does not delve into the principles or mechanisms of Agentic Agility. The focus is more on practical application within a Kanban framework rather than on the transformative capacity of individuals or systems.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:57:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses a course on 'Applying Scaled Portfolio Kanban', which is relevant to product development methodologies, particularly in aligning work with strategic goals and driving continuous improvement. However, it lacks explicit mentions of Agile principles or detailed discussions on iterative processes and customer feedback loops. The focus is more on efficiency and effectiveness rather than the core themes of product development, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:57:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a course related to Scaled Portfolio Kanban, which is more aligned with Agile methodologies rather than specifically discussing Liberating Structures. There are no direct mentions of Liberating Structures or their techniques, and the discussion lacks depth regarding facilitation techniques or group dynamics. While there is a slight conceptual alignment in terms of improving organisational effectiveness, it does not delve into the principles or applications of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:57:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses a course focused on applying Kanban principles to enhance organisational efficiency, which aligns with project management concepts. However, it primarily emphasises Kanban without delving into broader project management methodologies or principles. While it mentions roles like project manager and product owner, the discussion lacks depth in core project management themes such as scope, time, cost, and quality. The focus on continuous improvement and aligning work with strategic goals is relevant but does not comprehensively cover the project management lifecycle or tools, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:57:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a course about Scaled Portfolio Kanban, which is not directly related to Open Space Agile principles or practices. There are no explicit mentions of Open Space Technology, psychological safety, or collaborative change processes. While it discusses efficiency and alignment with goals, these concepts do not align with the core themes of Open Space Agile, which emphasises collective participation and iterative dialogue. The depth of discussion is limited to practical outcomes without exploring the nuances of Open Space Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:57:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions continuous improvement and aligning work with strategic goals, which are related to the concept of Unrealised Value. However, it lacks explicit discussions on the potential value that can be captured or specific indicators of Unrealised Value. The focus is more on practical outcomes and efficiency rather than exploring untapped opportunities or innovation potential, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:58:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions enhancing efficiency and effectiveness, which could relate to Time to Market, but it does not explicitly discuss the concept or its metrics. The focus is more on general organisational improvement and alignment with strategic goals rather than on the specific measurement or improvement of Time to Market. The depth of discussion is moderate, as it hints at continuous improvement but lacks detailed exploration of Time to Market principles.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:58:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions improving efficiency and aligning work with strategic goals, which are related to the concept of Current Value. However, it lacks explicit discussions on metrics, indicators, or techniques for measuring Current Value. The focus is more on the course's practical outcomes rather than a detailed exploration of Current Value in the context of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:58:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions aligning work with strategic goals and driving continuous improvement, which are relevant to the CaaP framework. However, it lacks explicit discussions on treating the organisation as a product or integrating customer feedback into organisational design. The focus is more on efficiency and effectiveness rather than on the broader principles of CaaP, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:58:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses a course focused on 'Applying Scaled Portfolio Kanban', which aligns with scaling methodologies by emphasising alignment with strategic goals and managing portfolios effectively. However, it lacks explicit mentions of specific scaling frameworks or detailed strategies for cross-team collaboration, which are crucial for a higher confidence score. The depth of discussion is moderate, providing practical outcomes and insights into continuous improvement, but it does not delve deeply into the complexities of scaling Agile practices.",
+    "level": "Secondary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:58:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a course about Scaled Portfolio Kanban, which does not directly address Hybrid Agile concepts. There are no explicit mentions of Hybrid Agile, and the discussion lacks critical examination of the integration of traditional and agile methodologies. While it touches on efficiency and alignment with goals, it does not delve into the challenges or implications of Hybrid Agile, nor does it provide any case studies or analysis relevant to the category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:58:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a specific course related to Kanban, which does not explicitly mention Agnostic Agile principles or discuss its core themes. While it touches on concepts like efficiency and alignment with goals, it lacks a direct connection to the broader philosophy of Agnostic Agile, such as the importance of context-driven agility or ethical considerations. The discussion is more about the mechanics of Kanban rather than a critical examination of agile principles, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:58:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a course about Scaled Portfolio Kanban, which is related to Agile methodologies but does not mention GitHub or its functionalities. There are no direct mentions of GitHub services, and the discussion does not align with the core themes of GitHub, such as version control or collaboration features. The depth of discussion is also minimal regarding GitHub, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:58:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a course related to Scaled Portfolio Kanban, which is not directly aligned with the principles of Cell Structure Design. There are no explicit mentions of cells, decentralisation, or the Beta Codex. While it discusses organisational efficiency and alignment with goals, these themes are more related to traditional management practices rather than the core concepts of Cell Structure Design. The depth of discussion is limited to practical outcomes without exploring the complexities or characteristics of autonomous cells.",
     "level": "Ignored"
   }
 }

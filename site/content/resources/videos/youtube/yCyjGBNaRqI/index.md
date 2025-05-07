@@ -2,36 +2,38 @@
 title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 description: Unlock the secret to exceptional products by fostering happy, engaged teams. Discover how autonomy, mastery, and purpose drive success in your organisation!
 date: 2024-05-10T06:45:01Z
+weight: 665
 ResourceId: yCyjGBNaRqI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: yCyjGBNaRqI
 url: /resources/videos/:slug
-slug: nkd-agility-mission-and-purpose
+slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 layout: video
 aliases:
-- /resources/videos/yCyjGBNaRqI
-- /resources/videos/nkd-agility-mission-and-purpose
-- /resources/nkd-agility-mission-and-purpose
 - /resources/yCyjGBNaRqI
-aliasesFor404:
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+- /resources/videos/nkd-agility-mission-and-purpose
+aliasesArchive:
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 - /resources/videos/nkd-agility-mission-and-purpose
 - /resources/nkd-agility-mission-and-purpose
+- unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: false
 tags:
 - Team Motivation
-- People and Process
-- Agile Values and Principles
-- Organisational Agility
-- Team Collaboration
 - Employee Engagement
-- Agile Leadership
-- Coaching
+- Organisational Culture
 - Team Performance
-- Sociotechnical Systems
+- Agile Leadership
+- Agile Philosophy
+- Organisational Psychology
+- Team Collaboration
+- Self Organisation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,6 +42,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Product Development
 
 ---
 Creating great teams is at the heart of what I call "naked agility." It’s a straightforward concept, yet it’s often overlooked in the hustle and bustle of organisational life. If we have unhappy, disengaged people, we can’t expect to produce exceptional work or build outstanding products. As customers and users, we deserve better than mediocre offerings; we deserve products that enhance our experiences and help us achieve our goals.
@@ -62,7 +65,7 @@ It’s not enough to simply tell people to care about their work. We must create
 
 - **Invest in Development**: Provide opportunities for team members to enhance their skills. This could be through training, mentorship, or simply encouraging them to pursue their interests.
 
-- **Communicate the Vision**: Regularly share the organisation’s goals and how each team member’s work contributes to those objectives. This transparency helps everyone feel connected to the mission.
+- **Communicate the Vision**: Regularly share the organisation’s goals and how each team member’s work contributes to those objectives. This [transparency]({{< ref "/tags/transparency" >}}) helps everyone feel connected to the mission.
 
 ### The Outcome: Great Products
 

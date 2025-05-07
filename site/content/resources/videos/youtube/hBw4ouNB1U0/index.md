@@ -2,33 +2,34 @@
 title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Workflow Success'
 description: Unlock the secrets of continuous improvement with Caman! Discover how metrics and visual tools can enhance your workflows and drive success.
 date: 2024-08-19T06:45:02Z
+weight: 305
 ResourceId: hBw4ouNB1U0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hBw4ouNB1U0
 url: /resources/videos/:slug
-slug: the-kanban-key-how-continuous-improvement-transforms-your-workflow
+slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
 layout: video
 aliases:
-- /resources/videos/hBw4ouNB1U0
-- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
-- /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/hBw4ouNB1U0
-aliasesFor404:
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
+- /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
+aliasesArchive:
+- /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
+- unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: true
 tags:
-- Metrics and Learning
+- Continuous Improvement
 - Operational Practices
-- Transparency
+- Metrics and Learning
 - Continuous Learning
-- Practical Techniques and Tooling
-- Discovery and Learning
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,18 +37,18 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Kanban
+- Product Development
 
 ---
 In my journey with Caman, I've come to realise that one of its core tenets is the relentless pursuit of improvement. It’s not just about making changes for the sake of change; it’s about implementing thoughtful adjustments to our systems and processes to genuinely enhance our outcomes. This is where metrics and visual tools come into play, serving as our guiding lights in the often murky waters of data.
 
 ### The Power of Metrics and Visualisation
 
-Metrics are more than just numbers; they are the stories behind our workflows. They help us identify patterns, understand our performance, and ultimately increase transparency within our teams. Here’s how I see it:
+Metrics are more than just numbers; they are the stories behind our workflows. They help us identify patterns, understand our performance, and ultimately increase [transparency]({{< ref "/tags/transparency" >}}) within our teams. Here’s how I see it:
 
 - **Identify Patterns**: By analysing metrics, we can spot trends that might not be immediately obvious. This allows us to ask deeper, more insightful questions about our processes.
 - **Increase Transparency**: Visual tools, such as dashboards and charts, make it easier for everyone involved to see what’s happening in real-time. This shared understanding is crucial for fostering collaboration and accountability.
-- **Drive Continuous Improvement**: The goal of Caman is to create a culture of ongoing enhancement. If we’re not regularly tweaking our workflows, we’re missing the essence of what Caman stands for.
+- **Drive [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: The goal of Caman is to create a culture of ongoing enhancement. If we’re not regularly tweaking our workflows, we’re missing the essence of what Caman stands for.
 
 ### Are You Making the Right Changes?
 

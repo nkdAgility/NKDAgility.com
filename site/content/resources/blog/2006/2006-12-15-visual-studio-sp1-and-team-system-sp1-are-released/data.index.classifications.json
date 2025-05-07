@@ -1,21 +1,15 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T10:06:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T10:06:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:22",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the installation of Visual Studio SP1, which relates to the installation process, but it primarily focuses on the release announcement rather than providing detailed installation or configuration instructions.",
-    "level": "Tertiary"
+    "final_score": 35.0,
+    "reasoning": "The content briefly mentions the installation of Visual Studio SP1 but lacks detailed instructions or discussions on configuration. While it touches on the topic of installation, it does not provide actionable insights or a comprehensive guide, which are essential for a higher confidence score in the 'Install and Configuration' category.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -24,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of software updates and related links, with no focus on decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T10:07:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of software updates and does not focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T10:07:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of software updates and bug fixes, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +40,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T10:07:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team Foundation Server SP1, with no clear focus on Scrum principles, practices, or frameworks.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio SP1 and Team Foundation Server SP1, with no explicit mention of Scrum principles, roles, or events. While Team Foundation Server can be related to Agile practices, the content does not delve into Scrum-specific discussions or frameworks, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -118,10 +97,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T10:07:16",
+    "calculated_at": "2025-04-10T15:57:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of software updates and bug fixes, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -132,15 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team Foundation Server SP1, with no clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T10:07:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1, with no focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -206,24 +176,6 @@
     "reasoning": "Content primarily discusses the release of software updates and bug fixes, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T10:07:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio SP1 and Team System SP1, which falls under industry news related to technology updates.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T10:07:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1 without focusing on practical techniques or tooling related to Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T10:07:32",
@@ -258,15 +210,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1, with no focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T10:07:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of software updates and does not focus on events or presentations.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,33 +248,6 @@
     "reasoning": "Content primarily discusses software releases and technical updates without personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T10:07:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of software updates and bug fixes without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T10:07:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of software updates and related downloads, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T10:07:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T10:07:48",
@@ -350,12 +266,12 @@
     "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1, with no significant focus on DevOps principles, practices, or tools.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T10:07:50",
+    "calculated_at": "2025-04-10T15:57:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team Foundation Server SP1, with no focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -415,12 +331,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the release of Visual Studio SP1 and Team System SP1, which relates to software releases. However, it lacks in-depth discussion or analysis of release management practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the release of Visual Studio SP1 and Team System SP1, indicating a software release event. However, it lacks detailed discussion on release management strategies, practices, or processes. The focus is more on personal anticipation and download links rather than on the structured aspects of release management such as planning, scheduling, or risk management.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -429,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on the release of software updates for Visual Studio and Team Foundation Server, with no discussion of empirical process control or Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updates regarding Visual Studio and Team Foundation Server, with no discussion on scaling Scrum or Scrum principles.",
     "level": "Ignored"
   },
   "Increment": {
@@ -460,10 +370,10 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:09:22",
+    "calculated_at": "2025-04-10T15:57:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release and personal anticipation of Visual Studio and Team System, with no focus on system configuration processes or methodologies.",
     "level": "Ignored"
   },
@@ -532,12 +442,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Team Foundation Server (TFS), which is related to software development and project management, but does not primarily discuss specific software development methodologies, practices, or techniques.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Visual Studio and Team Foundation Server, which are tools used in software development, but it lacks a detailed discussion on methodologies, practices, or frameworks. The focus is more on the release and personal anticipation rather than on software development processes or best practices.",
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
@@ -559,10 +472,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T11:09:22",
+    "calculated_at": "2025-04-10T15:57:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of software versions and related technical information without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -611,15 +524,6 @@
     "reasoning": "Content primarily focuses on software release and bug fixes, with no discussion of long-term objectives or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of software updates for Visual Studio and Team Foundation Server, with no clear reference to Scaled Agile practices or topics.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T11:09:22",
@@ -640,10 +544,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:09:22",
+    "calculated_at": "2025-04-10T15:57:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the release of software updates and related links, without discussing team dynamics, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -685,10 +589,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T11:09:22",
+    "calculated_at": "2025-04-10T15:57:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software releases and bug fixes related to Visual Studio and Team Foundation Server, with no clear focus on Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
@@ -784,10 +688,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:09:22",
+    "calculated_at": "2025-04-10T15:57:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the release of software updates and bug fixes, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -881,7 +785,7 @@
     "reasoning": "Content focuses on Visual Studio SP1 and Team Foundation Server SP1, without discussing Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:09:22",
     "ai_confidence": 0,
@@ -933,15 +837,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of software updates and bug fixes, with no connection to Agile strategy or methodologies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio SP1 and does not address any topics related to software development methodologies, practices, or the role of developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +891,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about software updates and technical details, with no discussion of Scrum values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the release of Visual Studio SP1 and Team Foundation Server SP1, which are unrelated to Kanban principles or its scaling in organizations.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1205,15 +1091,6 @@
     "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1, along with bug fixes, without any focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the release of Visual Studio and Team Foundation Server, which are not directly related to Scrum Product Development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:09:22",
@@ -1268,24 +1145,6 @@
     "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1, focusing on download and bug fixes, with no clear emphasis on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of software updates with no focus on scaling agile practices or related discussions.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on software updates and downloads related to Visual Studio and Team Foundation Server, with no discussion of Agile Project Management principles or practices.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-17T11:09:22",
@@ -1306,10 +1165,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T11:09:22",
+    "calculated_at": "2025-04-10T15:57:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the release of Visual Studio SP1 and bug fixes in Team Foundation Server, without discussing team collaboration techniques or dynamics.",
     "level": "Ignored"
   },
@@ -1329,15 +1188,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses software updates and bug fixes related to Visual Studio and Team Foundation Server, with no mention of Value Stream Mapping or Lean principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:09:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily focused on the release of software updates for Visual Studio and Team Foundation Server, without any discussion of AI or its integration in Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1374,6 +1224,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses software releases and technical updates, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:55:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team Foundation Server SP1, with no focus on Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:55:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio SP1 and Team System SP1, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the release of Visual Studio SP1 and Team System SP1, with no explicit discussion of the Shift-Left Strategy or its principles. It lacks any mention of integrating testing, security, or compliance early in the development process, and does not provide any depth or alignment with the core themes of the category.",
     "level": "Ignored"
   }
 }

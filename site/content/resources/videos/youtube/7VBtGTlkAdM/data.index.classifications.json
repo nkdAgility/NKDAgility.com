@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T19:11:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements, focusing on outcomes rather than specific methodologies like Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses consulting engagements and the pitfalls of rigid contracts, which touches on decision-making and value delivery. However, it lacks a direct focus on social technologies or collaborative frameworks. The mention of Agile and Scrum suggests some alignment with the category, but the overall depth and explicit discussion of social technologies are minimal.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -19,21 +22,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:11:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses contract management and the unpredictability of product development, which are not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of over-specifying contracts, with a focus on Agile and Scrum methodologies. While it touches on themes of value delivery and adaptability, it does not explicitly address DevOps principles or practices, nor does it delve into the cultural or collaborative aspects central to DevOps. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T19:11:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, which relates to product management principles, but it primarily addresses contract issues rather than broader product management strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than rigid contracts in consulting engagements, which aligns with the strategic aspects of product management. However, it lacks direct mentions of product management frameworks or methodologies, and the depth of discussion is limited to a single perspective on contracts without exploring broader product management concepts.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -46,21 +55,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T19:11:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery rather than fixed contracts, which aligns with the principles of business agility. However, it primarily centres on contract management rather than broader business agility practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than fixed deliverables in consulting engagements, which aligns with the principles of business agility. It highlights the need for adaptability in contracts to accommodate the unpredictable nature of product development, reflecting a core theme of business agility. However, the discussion is primarily centred on contract management rather than broader strategies or frameworks for fostering business agility, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T19:11:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unpredictable nature of building products and the importance of focusing on outcomes rather than fixed deliverables, which aligns with themes of uncertainty and emergent behaviours in complex systems.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the unpredictability of consulting engagements and the importance of focusing on outcomes rather than fixed deliverables, which aligns with the themes of uncertainty and non-linear dynamics in complexity thinking. However, it lacks direct references to complexity science or frameworks like Cynefin, and the depth of discussion is limited, primarily focusing on contractual aspects rather than broader complexity principles.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -82,30 +97,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:11:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements rather than focusing on evidence-based management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T19:11:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses contract management in consulting engagements, which is unrelated to software code or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T19:11:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract specifications in consulting engagements, with no clear relation to Scaling Kanban principles or practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the importance of focusing on outcomes over outputs, which aligns with the Evidence-Based Management theme of managing for meaningful outcomes. However, it primarily discusses consulting contracts and the pitfalls of over-specification without providing substantial empirical evidence or metrics related to EBM. The discussion lacks depth in terms of data-informed decision-making and does not explicitly mention key EBM topics such as current value or unrealised value.",
+    "level": "Tertiary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -136,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T19:11:48",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements rather than the criteria for backlog item readiness.",
     "level": "Ignored"
   },
@@ -150,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements rather than analysing trends in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T19:11:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, without reference to scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -226,21 +217,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T19:12:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of flexible contracts in consulting engagements related to product delivery, focusing on outcomes rather than fixed deliverables, which aligns with the theme of product delivery.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T19:12:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses the pitfalls of consulting contracts and the importance of focusing on outcomes rather than deliverables, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the pitfalls of rigid contracts in consulting engagements, which indirectly relates to product delivery by emphasising the importance of focusing on outcomes rather than fixed deliverables. However, it lacks explicit mentions of methodologies, practices, or detailed discussions on product delivery processes, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +236,6 @@
     "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, without a clear focus on digital technologies or transformation strategies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T19:12:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of contract terms in consulting engagements, which indirectly relates to team dynamics and the human factors involved in product development. However, it primarily focuses on contractual aspects rather than the interplay of people and processes.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T19:12:09",
@@ -268,15 +244,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implications of contract terms in consulting engagements, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T19:12:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of flexibility in contracts and focuses on outcomes rather than fixed deliverables, which aligns with agile principles. However, it does not delve into specific agile methodologies or practices.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +263,6 @@
     "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements rather than focusing on accountability within Agile teams.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T19:12:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements rather than focusing on transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T19:12:17",
@@ -312,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implications of contract terms in consulting engagements rather than focusing on release management strategies or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:12:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, which is not relevant to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -361,29 +310,38 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:12:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses contract issues in consulting engagements, which is not directly related to the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications, with only a brief mention of Agile and Scrum courses. While it touches on themes of value delivery, it does not focus on the role or responsibilities of a Scrum Master, nor does it delve into Scrum practices or principles in any meaningful way.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T19:12:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of flexibility in contracts and focuses on outcomes rather than rigid deliverables, which aligns with Agile principles. However, it does not delve deeply into Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the pitfalls of rigid contracts in consulting engagements, which aligns with Agile principles of flexibility and focusing on outcomes rather than fixed deliverables. However, it does not explicitly mention Agile methodologies or practices, and the discussion lacks depth on specific Agile planning techniques or frameworks. The emphasis on adaptability and value delivery resonates with Agile Planning, but the overall focus is more on contract management than on Agile Planning itself.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T19:12:32",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of focusing on outcomes and value delivery rather than rigid contracts, aligning closely with Agile principles of customer collaboration and responding to change.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes over outputs, which aligns with Agile principles of customer collaboration and delivering value. However, it primarily centres on consulting contracts and does not delve deeply into Agile values or principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -397,11 +355,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:12:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the pitfalls of contract specifications in consulting engagements, which is unrelated to Test First Development principles or practices.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of over-specifying contracts, with no direct mention of Test First Development principles or practices. While it touches on the importance of focusing on outcomes, it does not align with the core themes of Test First Development, such as success criteria, testing methodologies, or collaboration among development teams. The discussion lacks depth regarding any relevant testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,10 +421,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T19:12:47",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements rather than focusing on the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -503,30 +464,12 @@
     "reasoning": "Content primarily discusses the pitfalls of contract specifications in consulting engagements, which does not directly relate to Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T19:12:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements, focusing on the unpredictability of product development rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T19:13:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements rather than practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T19:13:02",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of contract specifications in consulting engagements, focusing on outcomes rather than Value Stream Mapping principles.",
     "level": "Ignored"
   },
@@ -541,20 +484,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T19:13:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content reflects personal insights on the challenges of consulting engagements and contract stipulations, but it primarily focuses on contractual issues rather than personal experiences with Agile methodologies.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T19:13:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses contract issues in consulting engagements, with no reference to events, presentations, or related topics.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges of consulting engagements and the importance of focusing on outcomes rather than outputs, which aligns with Agile principles. However, it lacks personal anecdotes or reflections, making it more of a general discussion rather than a personal insight. The mention of Agile and Scrum courses suggests a personal stake but does not provide a unique personal experience or reflection.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -584,23 +521,17 @@
     "reasoning": "Content primarily discusses the pitfalls of contract specifications in consulting engagements, which is not directly related to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T19:13:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements, focusing on outcomes rather than agile principles or scaling agility.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T19:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of consulting engagements and contract stipulations without directly referencing Agile, Scrum, DevOps, or Lean principles, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses consulting engagements and the pitfalls of over-specifying contracts, which strays into general business practices rather than focusing on Agile, Scrum, or DevOps principles. While it mentions Agile and Scrum courses, the primary focus is on consulting strategies rather than established frameworks, leading to a moderate confidence score in the Miscellaneous category.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -613,21 +544,27 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:13:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications, with a focus on Agile and Scrum methodologies. While it touches on themes of adaptability and outcomes, it does not explicitly address Continuous Delivery principles or practices, nor does it provide substantial detail on the category. Therefore, the confidence score reflects a very low alignment with Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T19:13:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery to the customer, which relates to customer satisfaction, but it primarily centres on contract issues in consulting engagements.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on customer value and outcomes, which are related to customer satisfaction, but it primarily focuses on consulting contracts and the challenges of product development. The discussion lacks depth in exploring customer satisfaction principles and does not provide specific techniques or metrics for measuring customer satisfaction.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -665,7 +602,7 @@
     "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, with no clear focus on Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T19:13:24",
     "ai_confidence": 0,
@@ -683,15 +620,6 @@
     "reasoning": "Content discusses consulting engagements and contract management, which are unrelated to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T19:13:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes rather than fixed deliverables in consulting engagements, which aligns with the theme of adapting to new information and insights in product development. However, the primary focus is on contract management rather than a broader exploration of discovery and learning processes.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T19:13:28",
@@ -703,19 +631,22 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:13:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, which aligns with the principles of the Agile Product Operating Model, but it primarily addresses contract issues rather than the broader framework.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses consulting engagements and the importance of focusing on outcomes rather than outputs, which aligns with some principles of the Agile Product Operating Model. However, it primarily centres on consulting practices rather than a comprehensive exploration of the Agile Product Operating Model itself. The mention of Agile and Scrum is brief and does not delve into the core themes of APOM, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T19:13:31",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implications of contract terms in consulting engagements, focusing on deliverables and outcomes rather than employee motivation or engagement strategies.",
     "level": "Ignored"
   },
@@ -775,10 +706,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T19:13:40",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements, focusing on outcomes rather than metrics or learning principles.",
     "level": "Ignored"
   },
@@ -793,12 +724,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T19:13:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery rather than rigid contracts, which aligns with Lean principles. However, it primarily addresses consulting engagements rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs, which aligns with Lean principles of delivering value. However, it primarily centres on consulting contracts and Agile methodologies, with only a brief mention of product development uncertainty. The depth of discussion on Lean Product Development is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -807,15 +741,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses contract issues in consulting engagements, which is not related to mentoring or Agile coaching.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T19:13:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, without any mention of AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -847,11 +772,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T19:13:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery rather than rigid contracts, aligning closely with Agile principles of flexibility and customer collaboration.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes over outputs, which aligns with Agile principles of value delivery and adaptability. However, it primarily centres on consulting contracts rather than a broader discussion of Agile philosophy. The mention of Agile and Scrum courses suggests a connection to Agile practices, but the depth of discussion on Agile principles is limited.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -919,11 +847,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T19:14:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery rather than fixed contracts, which aligns with Agile principles. However, it primarily addresses consulting engagements rather than Agile product management specifically.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content touches on Agile principles, particularly in relation to consulting engagements and the importance of focusing on outcomes rather than outputs. However, it primarily discusses consulting contracts and does not delve deeply into Agile Product Management practices or the role of the Product Owner, which are central to the category. The discussion is more about consulting strategies than product management, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -937,20 +868,14 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T19:14:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, which aligns with the principles of Value Stream Management, but it primarily addresses contract issues rather than a comprehensive exploration of value stream concepts.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T19:14:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, which is not relevant to scaling Scrum practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses consulting contracts and the challenges of product development, with a focus on outcomes rather than outputs. While it touches on the importance of delivering value to customers, it does not delve into Value Stream Management principles or techniques. The discussion is more aligned with general consulting practices and Agile methodologies rather than the specific themes of Value Stream Management.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -960,15 +885,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of contract specifications in consulting engagements, without addressing the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T19:14:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the pitfalls of consulting contracts rather than specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,20 +907,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:14:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses practical considerations in consulting engagements, emphasising the importance of adaptability and focusing on outcomes rather than rigid contracts, which aligns well with pragmatic thinking in complex environments.",
+    "reasoning": "The content discusses practical issues in consulting engagements, particularly the pitfalls of over-specifying contracts and the importance of focusing on outcomes rather than outputs. This aligns with pragmatic thinking by emphasising adaptability and real-world problem-solving in uncertain environments. However, while it touches on Agile and Scrum, the primary focus is on consulting contracts rather than a deep exploration of Agile principles, which limits the overall depth of discussion.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T19:14:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:38:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implications of contract terms on consulting engagements rather than focusing on Lead Time as a metric or its measurement.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of consulting contracts and the importance of focusing on outcomes rather than outputs. While it touches on aspects of project delivery, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,12 +940,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T19:14:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, which relates to the principles of working software, but it primarily centres on contract issues rather than the delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs in consulting engagements, which aligns with the principles of delivering value to customers. However, it primarily addresses consulting contracts and the challenges of product development without directly discussing working software or its characteristics. The mention of Agile and Scrum is brief and serves more as a promotional tool rather than a deep exploration of working software principles.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1054,12 +979,15 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T19:14:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, which relates to customer-centric approaches in product strategy. However, it primarily addresses contract issues rather than a comprehensive product strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the pitfalls of consulting contracts and the importance of focusing on outcomes rather than outputs. While it touches on aspects of product development and the need for flexibility, it does not explicitly address product strategy methodologies or frameworks. The discussion is more centred on consulting practices and Agile principles rather than a comprehensive exploration of product strategy, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1090,21 +1018,27 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T19:14:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, which relates to decision-making processes in uncertain environments. However, it primarily addresses contract issues rather than a comprehensive exploration of decision theory principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the pitfalls of over-specifying contracts in consulting engagements, which touches on decision-making under uncertainty. However, it primarily focuses on Agile and Scrum methodologies rather than a thorough exploration of decision theory principles. The mention of uncertainty in product development aligns somewhat with decision-making processes, but the overall depth and focus on decision theory are limited.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T19:14:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, which relates to entrepreneurial principles. However, it primarily addresses contract management rather than broader entrepreneurial strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses consulting engagements and the importance of focusing on outcomes rather than outputs, which aligns with value creation in entrepreneurship. However, it primarily centres on consulting practices rather than broader entrepreneurial principles, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1113,15 +1047,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements, rather than focusing on cross-functional teams or their characteristics.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T19:14:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses contract management in consulting engagements, which is not directly related to the role of software developers in Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1144,10 +1069,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T19:14:53",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implications of contract terms in consulting engagements, which is unrelated to installation and configuration topics.",
     "level": "Ignored"
   },
@@ -1158,15 +1083,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of contract specifications in consulting engagements, rather than focusing on the responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T19:14:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the pitfalls of consulting contracts rather than providing news or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1243,38 +1159,38 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T19:15:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:38:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implications of contract terms on consulting engagements rather than focusing on throughput measurement or optimisation.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:15:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the pitfalls of rigid contracts in consulting engagements, focusing on outcomes rather than Scrum principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the pitfalls of consulting contracts and the importance of focusing on outcomes rather than outputs. While it touches on themes relevant to project delivery, it does not explicitly mention throughput as a metric or provide any analysis or visualisation related to throughput. The discussion is more about consulting practices and contract management rather than throughput as a delivery metric.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T19:15:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, but it primarily centres around contract issues rather than broader value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs in consulting engagements, which aligns with the core theme of delivering value to customers. However, the primary focus is on consulting contracts and their implications rather than on specific value delivery methodologies or practices within Agile or Scrum frameworks. The discussion lacks depth in terms of established value delivery theories and does not provide detailed strategies or techniques for maximising customer value.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T19:15:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:38:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses contract management and consulting engagement rather than system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications in the context of Agile methodologies. There are no direct mentions of system configuration, and the themes revolve around project management and consulting rather than the setup or integration of systems. The discussion lacks depth in any relevant topics related to system configuration, such as configuration management tools or system optimisation.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,20 +1204,14 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T19:15:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery in consulting engagements, which relates to understanding customer needs. However, it primarily centres on contract issues rather than specific methodologies or practices of product discovery.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T19:15:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, lacking a clear focus on Scrum principles or product development.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the pitfalls of consulting contracts and the importance of focusing on outcomes rather than outputs. While it touches on the unpredictability of product development, it does not explicitly address methodologies for product discovery or user needs. The discussion is more aligned with consulting practices than with the core themes of product discovery.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -1315,21 +1225,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T19:15:17",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of contract specifications in consulting engagements, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T19:15:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery rather than fixed contracts, which aligns with Agile principles. However, it primarily addresses contract issues rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs, which aligns with Agile principles of delivering value. However, it primarily centres on the pitfalls of consulting contracts rather than a comprehensive Agile strategy. While Agile methodologies are mentioned, the discussion lacks depth in strategic planning and broader Agile implementation, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1342,21 +1255,27 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T19:15:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on outcomes and value delivery rather than rigid contracts, which aligns with the theme of strategic goals in terms of defining objectives. However, it primarily addresses operational concerns related to consulting engagements.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the pitfalls of consulting contracts and the importance of focusing on outcomes rather than outputs. While it touches on the need for adaptability in consulting engagements, it does not explicitly define or articulate long-term strategic goals. The discussion is more operational and tactical, lacking a clear connection to the broader themes of strategic goals and business agility. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:15:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of flexibility in consulting contracts and focuses on outcomes rather than rigid deliverables, which aligns with the principles of organisational agility. However, it primarily centres on contract management rather than broader agile practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the pitfalls of rigid contracts in consulting engagements, which indirectly relates to organisational agility by highlighting the need for flexibility and adaptability in project management. It mentions the importance of focusing on outcomes rather than outputs, aligning with agile principles. However, the primary focus is on consulting contracts rather than a broader discussion of organisational agility, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1374,6 +1293,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the pitfalls of rigid contracts in consulting engagements rather than focusing on Lean Startup principles such as MVP, Build-Measure-Learn, or validated learning.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:52:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, with no mention of Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:52:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the pitfalls of contract stipulations in consulting engagements, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the importance of flexibility in contracts, which aligns with Agile principles, particularly the emphasis on outcomes over rigid deliverables. However, it does not explicitly mention Scrum roles, events, or artifacts, nor does it delve deeply into Scrum practices. The discussion is more focused on contract management in consulting rather than Scrum itself, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting contracts and the challenges of product development without any explicit mention of the Shift-Left Strategy. While it touches on themes of adaptability and outcomes in consulting, it does not align with the core principles of integrating testing, security, or compliance early in the software development lifecycle. The focus is on contract management rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the pitfalls of over-specifying contracts in consulting engagements and emphasises the importance of focusing on outcomes rather than outputs. However, it does not explicitly mention Continuous Improvement or its principles. While there is a conceptual alignment with the idea of adapting to changing circumstances and fostering a more agile approach, the depth of discussion is limited and primarily focused on consulting rather than a broader application of Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs in consulting engagements, which loosely aligns with the concept of Common Goals. However, it primarily centres on the pitfalls of consulting contracts and does not explicitly address shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion lacks depth regarding the principles of Common Goals, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs in consulting engagements, which aligns with the concept of competence in delivering quality outcomes. However, it primarily centres on contract pitfalls and does not delve deeply into continuous learning or skill development, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications in an Agile context, without any direct mention or focus on the One Engineering System framework. It does not address the integration of tools, processes, or methodologies that are central to 1ES, nor does it provide any depth on its principles or implementation. The discussion is more about Agile practices in consulting rather than the standardisation and unification of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the importance of focusing on outcomes rather than outputs, which aligns with the concept of intentionality in Agentic Agility. However, it lacks a direct discussion of Agentic Agility principles, such as the distinction between human and AI capabilities or the mechanisms of AI Agentic Agility. The depth of discussion is limited to consulting contracts and does not explore the broader implications of agency and adaptability.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:37:33",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 20,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the pitfalls of over-specifying contracts in consulting engagements, which indirectly relates to product development by highlighting the need for flexibility in evolving projects. However, the primary focus is on consulting rather than product development methodologies. While it touches on the importance of outcomes over outputs, it lacks detailed exploration of Agile principles or iterative processes, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:37:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of overly prescriptive contracts, which does not directly relate to Open Space Agile principles. While it touches on Agile concepts, it lacks explicit mentions of Open Space Technology, psychological safety, or co-creation, which are central to the category. The discussion is more focused on traditional consulting practices rather than collaborative change processes or Agile transformation.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:37:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes over outputs, which aligns with the Agnostic Agile principle of value delivery. However, it primarily centres on consulting contracts and does not explicitly mention Agnostic Agile or its principles. The discussion lacks depth regarding the application of Agnostic Agile concepts, making it more of a general commentary on consulting rather than a focused exploration of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:37:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of consulting engagements and the pitfalls of overly prescriptive contracts. While it touches on Agile principles, it does not specifically address scaling methodologies, frameworks, or strategies for cross-team collaboration, which are central to the 'Scaling' category. The focus is more on individual consulting practices rather than the complexities involved in scaling Agile across multiple teams or organisations.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:37:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of over-specifying contracts, with a focus on Agile and Scrum methodologies. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or autonomous cells. The depth of discussion is also minimal, as it does not explore any relevant concepts related to the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:37:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting contracts and the challenges of consulting engagements, with a focus on Agile and Scrum methodologies. There are no direct mentions of Liberating Structures or their techniques. While there is a brief mention of the importance of outcomes over outputs, this does not align closely with the core themes of Liberating Structures, which focus on facilitation techniques and group dynamics. The depth of discussion is also limited, as it does not explore any specific methods or applications related to Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:37:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content discusses consulting engagements and the pitfalls of over-specifying contracts, which indirectly touches on the importance of flexibility in product development. However, it does not explicitly mention Time to Market or related metrics, nor does it provide substantial depth on strategies for improving delivery speed. The focus is more on consulting practices rather than the core themes of Time to Market.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:37:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses consulting engagements and the importance of focusing on outcomes rather than outputs, which aligns somewhat with the principles of customer-centric strategies. However, it does not explicitly mention the concept of 'Company as a Product' or delve into organisational design or cross-functional collaboration. The discussion is primarily about consulting contracts and product development uncertainty, which are tangentially related but do not constitute a primary focus on CaaP.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:37:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications in the context of Agile and Scrum methodologies. While it touches on Agile principles, it does not mention GitHub or its functionalities, nor does it provide insights into GitHub services, tools, or best practices. Therefore, it does not align with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:38:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the pitfalls of consulting contracts and the importance of focusing on outcomes rather than outputs. While it touches on the concept of value delivery, it does not explicitly mention Unrealised Value or its indicators, nor does it explore potential improvements or innovation opportunities in a meaningful way. The discussion is more about operational challenges than about identifying untapped opportunities, which is central to the category of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:38:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs, which aligns with the concept of delivering value. However, it does not explicitly mention Current Value or provide metrics or techniques for measuring it. The discussion is more about consulting practices than a real-time assessment of value delivered, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:38:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of over-specifying contracts, which does not directly address Hybrid Agile methodologies or their challenges. While it touches on agile principles like focusing on outcomes, it lacks a critical examination of the integration of traditional and agile practices, which is essential for the Hybrid Agile category. The discussion is more about general consulting advice rather than a focused analysis of Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:38:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the pitfalls of consulting contracts and the importance of focusing on outcomes rather than outputs, which aligns with project management principles. However, it primarily centres on consulting rather than broader project management methodologies or tools. The mention of Agile and Scrum is present but does not delve into project management roles or lifecycle phases, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses consulting engagements and the pitfalls of contract specifications, without directly addressing any models, frameworks, or conceptual representations. While it mentions the importance of focusing on outcomes which aligns somewhat with Agile principles, it does not explore any specific models or frameworks in detail. Therefore, the alignment and depth scores are low, resulting in a very low overall confidence score.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses general principles of consulting engagements and contracts but does not focus on artifacts as tangible representations of work within Agile, Scrum, or Lean contexts. It does not mention specific artifacts nor their roles, purpose, or management, which are central to the category 'Artifact'. The content primarily deals with contract issues and the shift from outputs to outcomes in consulting, without discussing artifact-related themes or best practices.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the pitfalls of consulting engagements and the importance of flexible contracts rather than discussing specific tools or their functionalities. It mentions Agile and Scrum courses, which are related to methodologies, but does not specifically address any tools that support these frameworks. This results in a very low alignment and depth in terms of content relating to tools.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on outcomes rather than outputs, which touches on the underlying values of collaboration and agility in consulting engagements. However, it primarily focuses on practical issues in contract management and does not deeply explore core values or ethical principles. The discussion lacks a comprehensive depth or emphasis on values as foundational elements that guide behavior, decision-making, and culture within organizations.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses the pitfalls of overly rigid contracts in consulting engagements, which is tangentially related to Agile principles but does not focus on specific frameworks or methodologies. It briefly mentions Agile and Scrum, but these references are not central to the discussion. The alignment with the key topics of the Framework category is weak, as it lacks detailed exploration of Agile frameworks and their implementation. The text discusses outcomes and flexibility in consulting, resonating somewhat with Agile concepts, but falls short of a deep dive or structured methodology related to the frameworks themselves.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content touches upon the challenges of consulting engagements but does not provide actionable practices or techniques specific to team effectiveness or continuous improvement. While it mentions focusing on 'outcome over output', this is more of a philosophical shift rather than a specific practice. Therefore, it scores low on direct mentions and weak alignment with the core themes of actionable practices.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on practical advice regarding consulting contracts and outcomes in Agile contexts rather than exploring philosophical underpinnings or discussions on the 'why' and 'what' of Agile methodologies. It lacks direct mentions of philosophical concepts and has minimal alignment with core themes, limiting its depth to procedural advice. Thus, it falls short of being classified under 'Philosophy.'",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of adapting consulting contracts to focus on outcomes rather than outputs, which relates to the concept of capabilities in delivering value. However, the focus is primarily on the pitfalls of contracting in consulting engagements rather than on the cultivation of capabilities within teams or organizations. While it touches on relevant topics, the depth of discussion doesn't provide extensive insights into capabilities as defined in the category, making it only slightly relevant.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the problems with over-specifying contracts in consulting, which hints at Agile principles like adaptability and focusing on outcomes over outputs. However, it does not directly mention specific tenets or actionable guiding rules related to Agile, Lean, or DevOps. The primary discussion revolves around consulting practices rather than the application of tenets, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content touches upon consulting engagements and the pitfalls of rigid contracts, but it does not focus on structured methods or procedures typical of Agile or Lean practices. While it briefly mentions Agile and Scrum courses, these are framed as a means to improve consulting approaches rather than detailing any specific methods or practices. Hence, the content aligns somewhat with the 'Method' category but lacks depth in specific structured methods, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses consulting and contract management within Agile environments, focusing on challenges faced during consulting engagements. It does not directly address observability, nor does it mention metrics, logs, traces, or any tools and practices that would enhance observability in software systems. The references to Agile and Scrum are peripheral and do not relate to the measurement and understanding of system states that define observability.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content discusses the importance of flexibility in consulting contracts and emphasizes focusing on outcomes versus outputs—which aligns with the principle of Value Delivery—it does not explicitly address any specific principles that guide decision-making in Agile, Lean, or DevOps. Instead, it primarily focuses on the pitfalls of rigid contract specifications and the need for a flexible approach in consulting engagements. The direct mention of principles is limited, making it more about practical advice rather than a principle-driven discussion.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "7VBtGTlkAdM",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content touches briefly on Agile and Scrum, which are disciplines, but does not delve deeply into the principles, methodologies, or systemic considerations that define the category of 'Discipline.' Most of the discussion focuses on consulting contracts and not adequately on the underlying principles or shared knowledge characteristic of a discipline. The exploration of Agile and Scrum is more of a backdrop rather than a primary focus.",
     "level": "Ignored"
   }
 }

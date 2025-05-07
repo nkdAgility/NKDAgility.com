@@ -8,58 +8,25 @@
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:11:56",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques and tools for migrating from Subversion to TFS, including specific tools and error handling related to SSL certificates.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T22:11:57",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on SSL certificate problems, rather than platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:11:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T22:12:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on SSL certificate problems rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T22:12:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on error messages and troubleshooting rather than on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T22:12:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical issues related to migrating from Subversion to TFS 2010, specifically addressing SSL certificate errors. There are no direct mentions of Evidence-Based Management principles or metrics, and the discussion does not align with the core themes of EBM such as data-informed decision-making or value delivery. The content lacks depth in relation to EBM, making it unsuitable for this category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T22:12:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration issues encountered while migrating from Subversion to TFS, including troubleshooting SSL certificate problems and providing actionable steps to resolve them.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses issues related to migrating from Subversion to TFS, specifically focusing on SSL certificate errors encountered during the installation and configuration of migration tools. It provides some actionable insights on how to resolve these issues, such as accepting certificates and troubleshooting connection problems. However, while it touches on installation and configuration, the depth of discussion is somewhat limited, focusing more on specific error messages rather than a comprehensive guide or best practices for installation and configuration. Therefore, it aligns moderately well with the category but lacks extensive detail.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T22:12:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T22:12:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:12:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems with SSL certificates and tools, without addressing DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from Subversion to TFS, specifically addressing issues related to SSL certificates. While it touches on version control processes, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in DevOps-related themes and does not mention any DevOps practices or philosophies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on error messages and troubleshooting, without any clear connection to decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T22:12:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T22:12:19",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating data from Subversion to TFS, focusing on technical problems and error messages rather than optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T22:12:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, with no significant focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T22:12:24",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages, without any mention of metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages, without any mention of value stream management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T22:12:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, with no focus on reviews, analyses, or discussions of products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T22:12:40",
@@ -305,7 +233,7 @@
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, focusing on error messages and troubleshooting, without any mention of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T22:12:45",
     "ai_confidence": 0,
@@ -316,11 +244,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:12:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages, without any reference to Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical issues related to migrating from Subversion to TFS, with no mention of agile methodologies, product management principles, or the Agile Product Operating Model. It discusses specific tools and error messages without any connection to the core themes of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T22:12:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on troubleshooting migration issues between Subversion and TFS, lacking discussions on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T22:12:52",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages rather than the management of the application lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:12:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, with no mention of Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +283,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T23:00:00",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages, with no mention of Definition of Done principles or criteria.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical challenges related to migrating from Subversion to TFS, including issues with SSL certificates and command-line instructions for handling these issues, but it is primarily focused on migration tools rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses issues related to migrating from Subversion to TFS, focusing on specific error messages and troubleshooting steps. While it touches on technical aspects, such as handling SSL certificates and using migration tools, it lacks a broader discussion on software craftsmanship, best practices, or principles of clean code. The content is more about problem-solving in a specific context rather than a comprehensive exploration of technical mastery principles.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on issues related to migrating from Subversion to TFS and dealing with SSL certificate errors, which are not central to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to migrating from Subversion to TFS, specifically dealing with SSL certificate errors. It does not discuss Continuous Delivery principles, practices, or benefits, nor does it mention automation, rapid feedback, or cultural aspects related to Continuous Delivery. The content is more aligned with version control and migration processes rather than the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T23:00:00",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about dealing with SSL certificate issues during a migration from Subversion to TFS and does not discuss the Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -586,28 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of migrating from Subversion to TFS, including issues related to SSL certificate validation, which is relevant to software development practices and version control management.",
+    "reasoning": "The content discusses the migration of data from Subversion to TFS, which is a relevant topic in software development, particularly in the context of version control systems. It mentions specific tools and issues encountered during the migration process, indicating a practical application of software development practices. However, the discussion lacks depth in terms of methodologies or best practices, focusing more on troubleshooting specific errors rather than broader software development principles.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, including technical problems with SSL certificates, rather than focusing on Agile Project Management principles or practices.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T23:00:00",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical issues related to migrating from SVN to TFS and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,12 +535,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to migrating from Subversion to TFS, which involves aspects of source control practices, but the primary focus is on specific errors and troubleshooting rather than broader best practices or methodologies in modern source control.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the migration from Subversion (SVN) to Team Foundation Server (TFS), which relates to version control systems. It mentions specific tools and issues encountered during the migration process, indicating a focus on practical aspects of source control. However, while it touches on the challenges of using these systems, it lacks a broader discussion on methodologies, best practices, or strategies that are central to the 'Modern Source Control' category. The depth of discussion is moderate, primarily focused on troubleshooting rather than comprehensive strategies or practices.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -658,10 +574,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T23:00:00",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with migrating from Subversion to TFS, focusing on technical problems related to SSL certificates and tool usage, which is not central to collaboration tools for Agile teams.",
     "level": "Ignored"
   },
@@ -701,15 +617,6 @@
     "reasoning": "Content heavily discusses technical issues and solutions related to migration from Subversion to TFS, with no focus on customer satisfaction or related strategies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on migrating from Subversion to TFS and does not relate to Scrum principles, practices, or scaling discussions.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T23:00:00",
@@ -726,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS and SVN migration, with no relevance to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS and does not address scaling agile principles or practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,12 +682,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving encountered during the migration process, particularly around handling SSL certificate issues, which aligns with pragmatic thinking strategies in technical environments.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses practical problem-solving related to migrating from Subversion to TFS, highlighting specific issues encountered with SSL certificates and tools. While it provides a real-world scenario and some practical steps to resolve the issue, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The focus is primarily on troubleshooting rather than on the application of pragmatic thinking in a complex environment.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +703,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T23:00:00",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting and technical issues related to migration from Subversion to TFS, with no focus on the capacity to deliver new value or innovative practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the migration from Subversion to TFS and troubleshooting issues related to SSL certificates, which is unrelated to Scrum product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to data migration from Subversion to TFS, with no central focus on scaled Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,19 +757,19 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T23:00:00",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on issues regarding the migration of data from Subversion to TFS, discussing technical problems with tools rather than Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T23:00:00",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, with no focus on Continuous Integration principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -937,10 +820,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T23:00:00",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to migrating data from SVN to TFS, including problems with SSL certificates and error messages, without a focus on decision-making principles or methodologies.",
     "level": "Ignored"
   },
@@ -1027,14 +910,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-15T23:00:00",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to migrating data from SVN to TFS and dealing with SSL certificate errors, without a clear focus on digital transformation strategies or the strategic use of digital technologies to enhance business agility or innovation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T23:00:00",
     "ai_confidence": 0,
@@ -1043,23 +926,17 @@
     "reasoning": "Content is focused on troubleshooting issues related to the migration of data from Subversion to TFS, and does not address any aspects of Minimum Viable Products or related concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to migrating data from Subversion to TFS and troubleshooting SSL certificates, with no mention of AI or its application in Agile or DevOps processes.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the migration process between SVN and TFS, which involves configuration of tools and addressing SSL certificate issues, both of which are aspects of system configuration, but it does not delve deeply into the broader methodologies or best practices of system configuration itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to migrating from Subversion to TFS, specifically focusing on SSL certificate validation problems that affect system configuration. It provides practical insights into troubleshooting these configuration issues, which aligns with the category's focus. However, while it touches on configuration management, it lacks a broader discussion on best practices or optimisation strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,11 +976,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on migrating data from Subversion to TFS, detailing troubleshooting issues, not on Test First Development or TDD principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to migrating from Subversion to TFS, focusing on SSL certificate errors and troubleshooting migration tools. There is no mention of Test First Development principles, success criteria, or testing practices, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1162,12 +1042,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues encountered during the migration from Subversion to TFS 2010, including error messages and methods to resolve these technical problems, which aligns well with troubleshooting.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to migrating from Subversion to TFS, specifically addressing problems with SSL certificates and error messages encountered during the process. It discusses the identification of the problem (invalid digital certificates) and provides a solution (accepting the certificate) in detail. The content aligns well with the core themes of troubleshooting, as it offers insights into diagnosing and resolving a specific technical issue, although it could benefit from more depth in discussing broader troubleshooting methodologies.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1063,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on technology migration issues and troubleshooting between Subversion and TFS, with no mention of Scrum roles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical issues related to migrating from Subversion to TFS, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss responsibilities, skills, or the impact of a Scrum Master, nor does it touch on agile principles or team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to migrating from Subversion to TFS, with no mention of working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on issues related to migrating from Subversion to TFS, which does not align with the central themes of Agile practices, DevOps, or the role of software developers in those contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1208,6 @@
     "reasoning": "Content is focused on technical issues related to migrating from Subversion to TFS, with no discussions on accountability, ownership, or team dynamics in Agile.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T23:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to migrating from Subversion to TFS and focuses on technical details around SSL certificate validation, with no mention of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T23:00:00",
@@ -1360,11 +1228,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:55:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages, with no mention of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical issues related to migrating from Subversion to TFS, specifically addressing SSL certificate errors. There are no discussions on collaboration, decision-making, or value delivery, which are central to the Social Technologies category. The content lacks any mention of self-organisation, collective intelligence, or organisational culture, and does not provide depth in these areas. Overall, it is a technical guide rather than a discussion on social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to migrating from Subversion to TFS, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on error messages and certificate problems, which are not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:28:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages, with no mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems and error messages encountered during the process. There are no direct mentions of Scrum principles, roles, events, or any related concepts. The content does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement, and lacks depth in discussing any Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to migrating from Subversion to TFS, focusing on technical problems with SSL certificates and migration tools. There is no mention of integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy. The discussion is technical and specific to migration challenges, lacking any alignment with the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to migrating from Subversion to TFS 2010, specifically addressing SSL certificate problems. While it discusses overcoming errors and streamlining processes, it does not explicitly mention Continuous Improvement principles or practices. The discussion lacks depth in terms of continuous reflection, adaptation, or empirical evidence, which are core to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical issues related to migrating from Subversion to TFS 2010, specifically addressing SSL certificate errors. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives or strategic alignment. The mention of tools and troubleshooting does not connect to the overarching themes of collaboration or accountability within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical issues related to migrating from Subversion to TFS, specifically addressing SSL certificate errors. While it touches on problem-solving and troubleshooting, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The mention of needing to accept certificates could imply a basic level of competence in using version control tools, but this is not the primary focus of the content. Overall, the discussion lacks depth and alignment with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical issues related to migrating from Subversion to TFS 2010, specifically addressing SSL certificate errors. There is no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. The content lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   }
 }

@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical steps for removing a deployment in SharePoint, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T10:49:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for removing a deployment in Microsoft Office SharePoint Server 2007, with no focus on products, books, or Agile/DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T10:49:30",
@@ -53,49 +44,16 @@
     "reasoning": "Content primarily discusses technical steps for removing a deployment in SharePoint, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T10:49:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for removing a deployment in MOSS 2007, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T10:49:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of removing a dead solution deployment in Microsoft Office SharePoint Server 2007, which is unrelated to Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T10:49:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical steps for removing a deployment in MOSS 2007 without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:49:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on troubleshooting a specific deployment issue in Microsoft Office SharePoint Server 2007, which does not align with the core principles and practices of DevOps.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T10:49:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the removal of a dead solution deployment in MOSS 2007, which is unrelated to AI and automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to Microsoft Office SharePoint Server 2007, detailing a step-by-step guide for removing a stuck solution deployment. While it touches on deployment processes, it does not engage with the broader principles of DevOps such as collaboration, automation, or shared accountability. The discussion lacks depth in terms of DevOps philosophy and does not address key topics like feedback loops, continuous improvement, or cross-functional collaboration.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,21 +76,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:49:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for removing a solution deployment in MOSS 2007, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses solely on resolving deployment issues in MOSS 2007, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant concepts that align with the category. The discussion is technical and specific to a particular software issue, lacking any depth or alignment with the core themes of APOM.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T10:49:54",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content provides a practical technique for removing a dead solution deployment in MOSS 2007, detailing specific steps and tools involved in the process.",
-    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -154,12 +106,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T10:49:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a step-by-step guide on how to remove a failed solution deployment in Microsoft Office SharePoint Server 2007, which aligns with installation and configuration processes.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed step-by-step guide on how to remove a failed solution deployment in MOSS 2007, which directly relates to the installation and configuration category. It discusses specific actions to take within the Central Administration portal, aligning well with the core themes of installation and configuration. The depth of discussion is adequate, as it includes instructions and visual aids, but it could benefit from more context on the overall installation process or troubleshooting common issues.",
+    "level": "Primary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -172,29 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:50:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for removing a deployment in MOSS 2007, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T10:50:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of removing a deployment in Microsoft Office SharePoint Server 2007, which is not related to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T10:50:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for removing a deployment in MOSS 2007, which does not align with news or reviews related to Agile, DevOps, or technology updates.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a technical guide for resolving deployment issues in MOSS 2007, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,14 +175,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T10:50:11",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of removing a dead solution deployment in MOSS 2007, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:50:12",
     "ai_confidence": 0,
@@ -278,15 +218,6 @@
     "reasoning": "Content primarily discusses technical steps for removing a solution deployment in MOSS 2007, with no personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T10:50:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details related to removing a deployment in MOSS 2007 without any focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T10:50:20",
@@ -296,23 +227,17 @@
     "reasoning": "Content primarily discusses the removal of a solution deployment in Microsoft Office SharePoint Server 2007, which is unrelated to Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T10:50:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for removing a deployment in MOSS 2007, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the removal of a failed solution deployment in MOSS 2007, which relates to the maintenance and management of an application, but it does not cover the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a specific technical issue related to removing a failed deployment in MOSS 2007. While it touches on aspects of application management, such as job definitions and deployment status, it lacks a broader discussion on the application lifecycle stages, governance, or best practices. The mention of deployment is too narrow to align with the comprehensive scope of Application Lifecycle Management.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -321,15 +246,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of removing a dead solution deployment in MOSS 2007, with no focus on Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T10:50:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for removing a deployment in MOSS 2007, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -352,12 +268,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses a specific issue related to deployment in SharePoint, but it does not cover broader methodologies or practices of product delivery.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific issue related to deployment in SharePoint, which is a part of the product delivery process. However, it lacks a broader discussion on methodologies, best practices, or strategies that are essential to the category of Product Delivery. The focus is primarily on a technical solution rather than the overarching principles of delivering software products effectively.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -370,12 +289,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content involves managing the deployment of a solution in SharePoint, which relates to release management activities, but the focus is primarily on resolving a specific issue rather than a broader discussion on release management strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific technical issue related to the deployment of a solution in Microsoft Office SharePoint Server 2007. While it touches on aspects of managing deployments, such as removing a failed deployment job, it lacks a broader discussion on release management strategies, planning, or coordination with stakeholders. The focus is primarily on a technical fix rather than the overarching principles of release management.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -442,12 +364,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content provides a technical solution for a deployment issue in SharePoint, discussing specific methods to manage deployment jobs, but it does not significantly cover broader principles or practices of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a specific technical issue related to Microsoft Office SharePoint Server 2007, detailing a step-by-step process to resolve a deployment problem. While it does touch on technical aspects, such as job management and error resolution, it lacks broader discussions on software craftsmanship, best practices, or principles of clean code. The depth of discussion is limited to a specific task without exploring underlying methodologies or principles that contribute to technical mastery.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -467,7 +392,7 @@
     "reasoning": "Content focuses on technical instructions for removing a deployment in MOSS 2007, which is unrelated to the principles of scaling Agile methods across an organisation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:23:55",
     "ai_confidence": 0,
@@ -483,15 +408,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of removing a failed solution deployment in Microsoft Office SharePoint Server, which does not relate to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on removing a deployment issue in Microsoft Office SharePoint Server 2007, with no mention of agile principles, methodologies, or project management topics related to agile.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -665,24 +581,6 @@
     "reasoning": "Content heavily discusses technical issues related to Microsoft's MOSS 2007 and job management, unrelated to Agile or Scrum estimation practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to removing a failed solution deployment in Microsoft Office SharePoint Server 2007, without any references to Agile, DevOps, or the role of software developers.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses how to manage solution deployments in Microsoft Office SharePoint Server 2007, without any mention or focus on AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T11:23:55",
@@ -694,12 +592,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 40,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 39.0,
-    "reasoning": "While the content mentions the Windows environment indirectly through IIS and SharePoint, it primarily focuses on SharePoint operations and deployment rather than discussing Windows OS itself.",
-    "level": "Quaternary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific issue related to Microsoft Office SharePoint Server 2007, which operates on Windows Server. While it does not explicitly focus on Windows as an operating system, it is closely tied to the Windows environment through its reliance on IIS and the Windows Server infrastructure. The discussion includes troubleshooting steps and configuration settings relevant to managing a deployment issue, which aligns with the core themes of the Windows category. However, the content primarily centres on SharePoint rather than Windows itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -721,12 +622,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content details a specific technical procedure related to deployment management in SharePoint, which is relevant to software deployment practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses a specific technical issue related to deploying solutions in Microsoft Office SharePoint Server 2007, which falls under software development practices. It provides a step-by-step guide on how to resolve deployment issues, indicating a practical application of software development methodologies. However, while it is relevant to software development, it lacks broader discussions on methodologies or best practices, which limits its depth and alignment with the category.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -735,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to Microsoft Office SharePoint Server 2007 deployment, which is unrelated to Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on removing a solution deployment in Microsoft SharePoint and does not discuss Agile practices or scaling Agile methodologies.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +679,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T11:23:55",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of removing a deployment error in MOSS 2007 without addressing innovation capabilities or related strategies.",
     "level": "Ignored"
   },
@@ -865,10 +760,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T11:23:55",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on troubleshooting deployment issues in MOSS 2007 and does not address the Definition of Done.",
     "level": "Ignored"
   },
@@ -883,11 +778,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses troubleshooting a specific deployment issue in Microsoft Office SharePoint Server 2007, which does not align with the principles or practices of Continuous Delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to deployment in MOSS 2007, which does not align with the principles or practices of Continuous Delivery. While it discusses deployment, it lacks a broader context of Continuous Delivery practices, automation, or incremental improvements. The discussion is very technical and specific to a single scenario, with no mention of the key themes associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -973,12 +871,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific operational task related to managing job deployments in SharePoint, which pertains to operational practices, but it primarily focuses on a single troubleshooting scenario rather than broader operational strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content provides a practical guide on removing a failed deployment in MOSS 2007, which touches on operational practices related to managing deployment processes. However, it lacks a broader discussion on operational efficiency, methodologies like Agile or DevOps, and does not delve into strategies for continuous improvement or metrics for measuring efficiency. The focus is primarily on a specific technical task rather than a comprehensive operational practice.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -998,21 +899,12 @@
     "reasoning": "Content focuses on technical steps to resolve a deployment issue in Microsoft Office SharePoint Server 2007, with no discussion related to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical solutions for removing a deployment issue in Microsoft Office SharePoint Server, unrelated to Kanban principles or scaling discussions.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T11:23:55",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses troubleshooting deployment issues in SharePoint, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -1045,11 +937,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on removing a dead solution deployment in SharePoint, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on resolving deployment issues in MOSS 2007 and does not discuss Test First Development principles, success criteria, or testing practices. It is entirely unrelated to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1126,12 +1021,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content provides a practical solution to a specific technical problem related to deployment in SharePoint, but it does not discuss broader themes of Agile, Scrum, or DevOps. It lacks a central focus on pragmatic thinking principles.",
-    "level": "Quaternary"
+    "final_score": 62.0,
+    "reasoning": "The content provides a practical guide on removing a dead solution deployment in MOSS 2007, which aligns with pragmatic problem-solving in a real-world context. However, it lacks explicit discussions on Agile, Scrum, or DevOps principles, and the depth of the discussion is limited to a specific technical task without broader implications or strategies.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -1207,46 +1105,46 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the removal of a failed deployment in SharePoint, which relates to deployment strategies, but primarily focuses on troubleshooting rather than broader deployment methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a specific issue related to the deployment process in MOSS 2007, focusing on how to remove a failed deployment. While it touches on deployment-related actions, it lacks a broader discussion of deployment strategies or methodologies. The mention of 'deployment' is present, but the content primarily addresses a troubleshooting scenario rather than strategic deployment practices.",
     "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical troubleshooting steps for Microsoft Office SharePoint Server 2007, with no relevance to Scrum principles, practices, or product development.",
-    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses how to identify and resolve a specific issue with a solution deployment in Microsoft Office SharePoint Server 2007, detailing steps for troubleshooting an error related to deployment.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses troubleshooting a specific issue related to deploying a solution in MOSS 2007, detailing the steps required to identify and resolve the problem. It provides a clear methodology for diagnosing the issue (the invalid web.config error) and offers practical steps for resolution (removing the job from the Central Administration portal). The depth of discussion is significant, as it includes specific instructions and visual aids to guide the user through the troubleshooting process, aligning well with the core themes of the category.",
+    "level": "Primary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical implementation details related to Microsoft Office SharePoint Server and does not discuss the role of a Scrum Master or related Scrum topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical instructions for removing a solution deployment in MOSS 2007, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-16T11:23:55",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses troubleshooting a specific deployment issue in MOSS 2007, which is not directly related to the optimization of deployment intervals or deployment frequency in Agile and DevOps practices.",
     "level": "Ignored"
   },
@@ -1270,10 +1168,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:23:55",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on troubleshooting a specific technical issue with Microsoft Office SharePoint Server 2007 and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1182,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses removing a dead solution deployment in Microsoft Office SharePoint Server, which is unrelated to Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical steps for managing solution deployments in Microsoft Office SharePoint Server, which is unrelated to Scrum practices or scaling discussions.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1324,21 +1213,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of removing a failed deployment from Microsoft Office SharePoint Server 2007, which involves specific system configuration tasks such as interacting with job definitions and managing deployment statuses.",
+    "reasoning": "The content primarily focuses on the process of removing a failed solution deployment in Microsoft Office SharePoint Server 2007, which directly relates to system configuration. It discusses specific steps to manage job definitions and deployment statuses, aligning well with the category's emphasis on configuration management and troubleshooting. However, while it provides practical instructions, the depth of discussion is somewhat limited to a specific scenario, which prevents a higher score.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:23:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on resolving a specific technical issue related to Microsoft Office SharePoint Server 2007 deployment and does not address scaling agility, agile practices, or related frameworks.",
-    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1360,11 +1243,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:04:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for removing a deployment in MOSS 2007, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical guide for resolving deployment issues in MOSS 2007, with no discussion of collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1260,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to Microsoft Office SharePoint Server 2007, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:38:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the process of removing a deployment from Microsoft Office SharePoint Server 2007, which is not related to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:38:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the process of removing a dead solution deployment in Microsoft Office SharePoint Server 2007, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a deployment issue in Microsoft Office SharePoint Server 2007, with no direct mentions of Scrum principles, roles, or practices. While it discusses project management in a technical context, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is limited to a specific technical problem, further indicating a lack of relevance to the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a deployment issue in Microsoft Office SharePoint Server 2007, with no discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It does not address any principles, techniques, or benefits related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical guide for resolving a specific issue in MOSS 2007, with no explicit discussion of Continuous Improvement principles. While it may indirectly relate to improving deployment processes, it lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a technical guide for resolving deployment issues in MOSS 2007, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on a technical procedure for removing a solution deployment in MOSS 2007, with no explicit discussion on competence, continuous learning, or skill development. While it may imply a level of competence in handling deployment issues, it does not engage with the core themes of the category, such as fostering a culture of competence or the importance of ongoing skill development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a technical guide for resolving deployment issues in MOSS 2007, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

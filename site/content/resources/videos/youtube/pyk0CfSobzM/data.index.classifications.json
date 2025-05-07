@@ -28,20 +28,26 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the understanding of the product backlog in relation to estimation and delivery in a Sprint, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of estimating deliverables in a Sprint, which indirectly relates to the Product Backlog by emphasising the understanding of backlog items. However, it primarily focuses on estimation techniques rather than the management or refinement of the Product Backlog itself. While there are mentions of the backlog, the depth of discussion on backlog management and prioritisation is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-12T03:23:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum team estimation practices, referencing the Scrum Guide and the implications of estimation in the context of Scrum roles and events.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of estimation within the context of Scrum, referencing the Scrum Guide and the importance of understanding the size of backlog items. However, it primarily focuses on the challenges of estimation rather than providing a comprehensive exploration of Scrum roles, events, or artifacts. While it touches on relevant Scrum principles, the depth of discussion is limited, and it diverges into personal opinions and examples that do not strictly adhere to established Scrum theory.",
     "level": "Secondary"
   },
   "Organisational Physics": {
@@ -64,10 +70,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-12T03:23:22",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of creative work, without a focus on evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -82,38 +88,44 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation in the context of Scrum, which is a product management framework, but primarily focuses on the challenges of estimation rather than broader product management strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses estimation within the context of Scrum, which is a framework relevant to product management. However, it primarily focuses on the challenges of estimation rather than broader product management strategies or methodologies. While it touches on the importance of understanding the product backlog and the unpredictability of product development, it lacks a comprehensive exploration of product management principles, such as stakeholder alignment or customer feedback prioritisation.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-12T03:23:26",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and practices without addressing leadership roles or principles.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T03:23:28",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses estimation in Scrum and does not focus on the Daily Scrum event.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T03:23:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:51:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and Agile methodologies, which are not related to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, specifically discussing estimation in the context of Sprint planning. There are no direct mentions of system configuration, and the themes discussed do not align with the core topics of system setup, integration, or maintenance. The depth of discussion is also limited to Agile practices, which are outside the scope of system configuration.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -127,29 +139,38 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation in Scrum, which is related to delivering working software, but it primarily focuses on the challenges and nuances of estimation rather than the delivery of functional software itself.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the estimation process within Scrum, which is related to delivering working software. However, it primarily focuses on the challenges and uncertainties of estimation rather than the characteristics of working software itself. While it touches on Agile principles, it lacks detailed exploration of how these estimations directly contribute to delivering functional software that meets user needs.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation in Scrum, which relates to decision-making processes within teams, but it primarily focuses on the challenges and nuances of estimation rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the estimation process within Scrum teams, touching on the uncertainties and challenges of predicting deliverables. However, it primarily focuses on the nuances of estimation rather than structured decision-making methodologies. While it does mention the importance of understanding and educated guesses, it lacks a strong emphasis on evidence-based practices or frameworks for decision-making, which are central to the category.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation in Scrum, which relates to team autonomy and decision-making, but primarily focuses on the challenges of estimating work rather than self-organisation principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Scrum and the estimation process within a Sprint, touching on the importance of understanding the product backlog and the unpredictability of creative processes. However, it lacks a direct focus on self-organisation principles, such as team autonomy and ownership. While it aligns with some themes of self-organisation, such as fostering understanding and adaptability, it does not delve deeply into the practices or culture that enable self-organising teams.",
     "level": "Tertiary"
   },
   "Remote Working": {
@@ -163,10 +184,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T03:23:37",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of product development, without a focus on Lean principles or waste reduction.",
     "level": "Ignored"
   },
@@ -208,19 +229,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T03:23:43",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses estimation in Scrum rather than the Definition of Done.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-12T03:23:44",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are not central to product strategy.",
     "level": "Ignored"
   },
@@ -253,39 +274,36 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T03:23:49",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and the challenges of predicting work in a Sprint, without a focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T03:23:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum, a specific Agile framework, focusing on estimation practices within a Scrum team and the implications of uncertainty in product development.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the estimation process within the Scrum framework, which is a specific Agile framework. It directly mentions Scrum multiple times and explores its principles, particularly around estimation and planning in Sprints. The discussion aligns well with Agile principles, particularly the unpredictability of creative work and the importance of understanding the product backlog. However, while it provides a good depth of discussion on estimation, it does not delve deeply into comparative analysis with other Agile frameworks or broader Agile principles, which slightly lowers the depth score.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T03:23:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are focused on team-level practices rather than scaling agility across an organisation.",
-    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation within a Scrum team context, which relates to team dynamics and collaboration. However, the primary focus is on the challenges of estimation rather than on enhancing team collaboration or communication.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the dynamics of Scrum teams and the importance of understanding product backlog items, which relates to team collaboration. However, it primarily focuses on estimation techniques rather than broader themes of team dynamics, communication, or shared ownership. While it touches on collaboration indirectly, it lacks depth in exploring the core themes of team collaboration as defined in the category.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -316,10 +334,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T03:23:59",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are not core engineering practices but rather project management methodologies.",
     "level": "Ignored"
   },
@@ -334,12 +352,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T03:24:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum practices, estimation techniques, and Agile methodologies, which are central to software development discussions.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses Scrum, a key Agile framework, and delves into estimation techniques within the context of Sprint planning. It aligns well with the Software Development category by addressing methodologies and practices that guide the development lifecycle. The depth of discussion on estimation tools and the challenges of predicting timelines in software development further supports its relevance. Overall, the content is focused and provides substantial insights into Agile practices, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +373,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T03:24:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:51:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses estimation in Scrum and the challenges associated with predicting work completion, rather than focusing on throughput as a measurement of work item completion rates.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the challenges of estimating work in Scrum, discussing the unpredictability of creative tasks rather than analysing or visualising throughput as a delivery metric. While it touches on the concept of estimation, it does not explicitly define or calculate throughput, nor does it provide insights into delivery capacity or flow-based systems. The discussion lacks depth regarding throughput trends or empirical forecasting, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,11 +394,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation in the context of Scrum, which is related to Agile principles, but primarily focuses on Scrum practices rather than the underlying Agile values.",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically around estimation in Sprints, which is a specific framework rather than a discussion of Agile values and principles. While it touches on the unpredictability and adaptability aspects of Agile, it does not explicitly discuss the core values or principles of Agile methodologies. The depth of discussion is moderate, but it lacks a strong emphasis on the foundational beliefs of Agile.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -397,12 +424,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses estimation in the context of Scrum, which involves the Product Owner's role in understanding the product backlog. However, the primary focus is on estimation techniques rather than the specific responsibilities or practices of the Product Owner.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Sprint estimations and the role of understanding the product backlog, which indirectly involves the Product Owner. However, it primarily focuses on Scrum team dynamics and estimation techniques rather than the specific responsibilities and practices of a Product Owner. The mention of the Product Owner is minimal, and the depth of discussion does not sufficiently cover the key topics related to the Product Owner's role.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -424,19 +454,22 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation in Scrum and the inherent unpredictability of delivering work, which aligns with the principles of empirical process control. However, it primarily focuses on estimation techniques rather than a comprehensive exploration of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges of estimating deliverables in Scrum, which aligns with the principles of empirical process control by emphasising understanding and adapting to uncertainties. However, it lacks direct references to empirical process control concepts and does not delve deeply into inspection or adaptation practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T03:24:16",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of product development, without focusing on validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -458,22 +491,16 @@
     "reasoning": "Content heavily discusses Scrum estimation techniques and does not relate to revenue per employee.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T03:24:20",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses estimation in the context of Scrum, which is relevant to Agile methodologies. While it primarily focuses on the challenges of estimating work in a Sprint, it also touches on the roles of developers and stakeholders in understanding the product backlog, making it a significant theme related to software development practices.",
-    "level": "Secondary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T03:24:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of delivering work in a Sprint, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Sprint estimation within Scrum, discussing the challenges and uncertainties involved in estimating deliverables. It does not mention Test First Development or its principles, nor does it explore topics related to success criteria, testing practices, or the role of testing in the development process. The discussion is centred around estimation techniques rather than any testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -487,11 +514,14 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-12T03:24:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the concept of estimation within the context of Scrum, including the challenges and techniques associated with it. It addresses the importance of understanding size over precise time estimates and highlights the unpredictability of creative work, making estimation a central theme.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the concept of estimation within the context of Scrum, addressing how teams estimate deliverables in a Sprint. It highlights the importance of understanding the size of backlog items rather than focusing solely on timeframes, which aligns with the core themes of the Estimation category. The discussion includes the challenges of predicting timeframes and the role of uncertainty in Agile practices, demonstrating a good depth of analysis. However, while it covers relevant topics, it does not delve deeply into specific estimation techniques or empirical data, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -505,11 +535,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation in the context of Scrum and Sprints, which relates to the planning and delivery of increments. However, the primary focus is on the challenges of estimation rather than the delivery of a potentially shippable product increment.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Sprint estimations, which indirectly relates to the Increment by addressing how teams determine what can be delivered in a Sprint. However, it primarily focuses on the challenges of estimation rather than the delivery of a potentially shippable Increment. While there are mentions of understanding the product backlog and the unpredictability of delivery, the core themes of the Increment category are not fully explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -523,38 +556,35 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-12T03:24:30",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses estimation in Scrum and does not focus on the Sprint Review process or its key topics.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T03:24:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses estimation in Scrum and the challenges associated with predicting delivery times, rather than focusing on Lead Time as a metric from initiation to delivery.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T03:24:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and estimation techniques without reference to scaling Agile practices across multiple teams or enterprise-level initiatives.",
+    "calculated_at": "2025-04-11T11:51:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Sprint estimation within the Scrum framework, discussing the challenges and unpredictability of estimating delivery timelines. While it touches on the concept of timeframes, it does not explicitly mention 'Lead Time' or its significance as an observability metric. The discussion is more about estimation techniques and the inherent uncertainties in creative tasks rather than providing insights into Lead Time as defined in the category. Therefore, the confidence score reflects a very low alignment with the core themes of Lead Time.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T03:24:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to estimation in Scrum, emphasising the importance of understanding the complexities and uncertainties involved in product development. It aligns well with the key topics of pragmatic thinking, particularly in the context of Agile and Scrum frameworks.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to Sprint estimations in Scrum, emphasising the importance of understanding over precise estimation. It aligns well with the core themes of Pragmatic Thinking by addressing real-world applications of Agile principles and navigating uncertainties. The depth of discussion is substantial, providing insights into the complexities of estimation and the necessity for adaptability in project management.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -565,15 +595,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of delivering work in a Sprint, without addressing deployment frequency or its optimisation.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T03:24:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum team estimation practices, which are central to Agile Project Management principles.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -595,28 +616,31 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T03:24:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and practices, which are not directly related to Continuous Delivery principles.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Scrum and estimation techniques within Agile methodologies, which are not directly related to Continuous Delivery. While it touches on planning and uncertainty in software development, it does not discuss Continuous Delivery principles, practices, or tools, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T03:24:42",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and the challenges of predicting work in Agile, without a focus on cross-functional teams.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T03:24:44",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses estimation in Scrum rather than the criteria for backlog item readiness.",
     "level": "Ignored"
   },
@@ -631,39 +655,24 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T03:24:46",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and the challenges of predicting work, without focusing on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation techniques within a Scrum team context, which relates to team performance and collaboration. However, it primarily focuses on the challenges of estimation rather than broader team dynamics or performance strategies.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T03:24:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and Agile practices without any mention of AI.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T03:24:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the process of estimating deliverables in a Scrum team, which directly relates to team performance and dynamics. It highlights the importance of understanding the product backlog and the role of team members in this process, aligning with the category's focus on collaboration and communication. However, while it touches on relevant themes, it lacks in-depth exploration of specific strategies or metrics for measuring team performance, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -694,12 +703,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and estimation techniques, which are relevant to Agile methodologies, but it primarily focuses on the specifics of Scrum rather than a broader Agile transformation context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically around estimation in Sprints, which is a component of Agile methodologies. While it discusses Agile strategies and the unpredictability of project management, it does not deeply engage with broader Agile transformation principles or frameworks. The discussion is relevant but lacks comprehensive coverage of the key topics outlined in the Agile Transformation category.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -712,10 +724,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T03:25:00",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses estimation techniques and the challenges of predicting work in Scrum, without a focus on Scrum Values.",
     "level": "Ignored"
   },
@@ -737,58 +749,52 @@
     "reasoning": "Content heavily discusses Scrum estimation techniques and practices, with no focus on test automation.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T03:25:04",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum team estimation practices within the context of Sprint planning and execution, highlighting the importance of understanding the product backlog and the unpredictability of creative work.",
-    "level": "Secondary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation techniques within the context of Scrum, which relates to operational practices in Agile. However, the primary focus is on the challenges of estimation rather than on strategies for enhancing operational efficiency.",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the estimation process within Scrum teams, which is a specific aspect of Agile practices. While it touches on the importance of understanding the product backlog and the unpredictability of estimations, it lacks a broader focus on operational efficiency or strategies for improving delivery within Agile frameworks. The discussion is more about the nuances of estimation rather than operational practices that enhance efficiency or reduce waste.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T03:25:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of creative work, without focusing on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum estimation techniques and the challenges associated with them, without discussing Evidence-Based Management principles or metrics. While it touches on the importance of understanding and adapting in Agile, it does not provide empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation in the context of Scrum and product backlog understanding, which relates to backlog refinement, but it primarily focuses on the challenges of estimation rather than the refinement process itself.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T03:25:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses estimation within a single Scrum team context, without addressing scaling Scrum practices or frameworks.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Sprint estimations rather than directly addressing backlog refinement. While it touches on understanding the product backlog, it lacks a focused discussion on backlog refinement techniques, prioritisation, or the role of the Product Owner, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T03:25:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the estimation process within a Scrum team, which is a key responsibility of the Scrum Master in facilitating team understanding and collaboration.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the process of Sprint estimation within Scrum, which is relevant to the Scrum Master's role in facilitating team understanding and planning. However, it does not explicitly mention the Scrum Master or delve deeply into their responsibilities, which limits the overall depth of discussion. The content aligns with the core themes of Scrum but lacks a comprehensive exploration of the Scrum Master's influence on team dynamics and organisational change.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -802,28 +808,34 @@
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation in the context of Scrum and its implications for predicting what can be delivered in a Sprint, making forecasting a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of estimating delivery timelines in Scrum, which aligns with the core themes of forecasting. However, it primarily focuses on the uncertainties and philosophical aspects of estimation rather than providing concrete forecasting techniques or empirical data. While it mentions the importance of understanding the product backlog and educated guesses, it lacks detailed methodologies or practices for effective forecasting, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation in Scrum, which is related to agile practices and team dynamics, but it primarily focuses on the challenges of estimation rather than providing clear guidance on technical leadership principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Sprint estimations within the context of Scrum, touching on agile methodologies. However, it primarily focuses on the challenges of estimation rather than providing insights into technical leadership principles, mentoring, or team dynamics. While it aligns with some core themes of technical leadership, such as fostering understanding among team members, it lacks depth in discussing leadership strategies or practices.",
     "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-12T03:25:15",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are not directly related to understanding customer needs or defining product features.",
     "level": "Ignored"
   },
@@ -838,11 +850,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T03:25:18",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses how Scrum teams estimate deliverables in a Sprint, which is a key aspect of Agile Planning. It explores estimation techniques, the unpredictability of creative work, and the importance of setting realistic Sprint goals, aligning closely with Agile principles.",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the estimation process within Scrum, which is a key aspect of Agile Planning. It directly addresses how Scrum teams approach the uncertainty of Sprint estimations, aligning with Agile principles of flexibility and adaptability. However, while it touches on important concepts, the depth of discussion on broader Agile Planning strategies and techniques is somewhat limited, focusing mainly on the estimation aspect rather than a comprehensive exploration of Agile Planning as a whole.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -854,7 +869,7 @@
     "reasoning": "Content heavily discusses estimation in Scrum and the challenges associated with predicting delivery timelines, rather than focusing on accountability or team ownership.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T03:25:21",
     "ai_confidence": 0,
@@ -865,10 +880,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-12T03:25:22",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and the challenges of predicting work in Agile environments, without focusing on collaboration tools.",
     "level": "Ignored"
   },
@@ -892,11 +907,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T03:25:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses how a Scrum team estimates deliverables in a Sprint, focusing on team dynamics and the roles of team members in the estimation process.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses how a Scrum team approaches estimations for Sprint deliverables, which directly relates to team dynamics and collaboration. It aligns well with the core themes of Scrum, particularly in understanding roles and responsibilities, as it highlights the importance of collaboration between developers, the product owner, and stakeholders. The depth of discussion is significant, as it explores the complexities and uncertainties involved in Sprint estimations, which are crucial for effective team performance. However, it could benefit from more explicit references to Scrum roles and practices to achieve a higher confidence score.",
     "level": "Secondary"
   },
   "Technical Mastery": {
@@ -937,12 +955,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation in the context of Scrum, which is a specific Agile framework, but it also touches on broader Agile principles such as uncertainty in product development and the importance of adaptability in planning. However, the primary focus remains on Scrum practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically on estimation within a Sprint, which is a technical aspect of the Scrum framework. While it touches on Agile concepts like uncertainty and adaptability, it does not deeply engage with the broader Agile Philosophy or its foundational principles. The discussion is more about Scrum roles and events rather than the underlying Agile mindset.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -955,12 +976,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses estimation in the context of Scrum, which is related to Agile planning, but it primarily focuses on the challenges of estimation rather than specific Agile planning tools or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Sprint estimations within the context of Scrum, touching on the importance of understanding backlog items rather than focusing solely on timeframes. However, it does not explicitly mention specific Agile Planning Tools or provide in-depth strategies for backlog management or sprint planning. The primary focus is on the estimation process rather than the tools that facilitate Agile planning, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1009,12 +1033,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation in the context of Scrum and decision-making under uncertainty, which aligns with decision theory principles, but it primarily focuses on Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the uncertainties involved in Sprint estimations, which aligns with decision-making processes in uncertain environments. It touches on the importance of understanding rather than precise estimation, reflecting on heuristics and biases. However, the primary focus remains on Scrum practices rather than a deep exploration of decision theory itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -1034,31 +1061,13 @@
     "reasoning": "Content heavily discusses Scrum roles and estimation techniques without reference to Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T03:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of product development, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T03:22:31",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum estimation techniques and principles, which are not related to installation or configuration.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T03:22:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques and the unpredictability of software development, but does not focus on code quality or complexity theory.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,41 +1079,29 @@
     "reasoning": "Content heavily discusses Scrum estimation techniques rather than optimising flow efficiency or throughput.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T03:22:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum estimation techniques without any mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T03:22:40",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses estimation in the context of Scrum, which is a key aspect of Agile methodologies and product delivery. However, it primarily focuses on the challenges and unpredictability of estimating work rather than providing a comprehensive overview of product delivery practices.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the estimation process within a Scrum team, which is a key aspect of Agile methodologies related to product delivery. It addresses the challenges of estimating work in a Sprint, aligning with the iterative development and feedback loops essential for effective product delivery. However, while it provides a detailed exploration of estimation techniques, it lacks broader discussions on other critical areas of product delivery, such as deployment strategies or cross-functional team roles, which limits its overall depth in the category.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T03:22:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of estimation in Scrum, which is a key aspect of Agile Product Management, particularly in relation to understanding product backlog and Sprint goals.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the estimation process within a Scrum team, which is a key aspect of Agile Product Management. It touches on the role of the Product Owner and the importance of understanding the product backlog, aligning with Agile principles. However, while it provides insights into estimation techniques, it lacks a broader discussion on product value maximisation and stakeholder engagement, which are crucial for a higher confidence score.",
     "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T03:22:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1117,39 +1114,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unpredictability and uncertainty involved in estimating work within a Scrum framework, which aligns with themes of complexity thinking. However, the primary focus is on Scrum practices rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T03:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses estimation techniques in Scrum without addressing transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses estimation tools and techniques within the context of Scrum, making it a significant but secondary theme. However, the primary focus is on the challenges of estimation rather than practical application of specific tools or methodologies.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T03:22:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum estimation techniques and does not focus on events or presentations.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the uncertainties and unpredictability inherent in Sprint estimations within Scrum, which aligns with the principles of Complexity Thinking. It highlights the non-linear dynamics of estimating work in Agile environments and the importance of understanding rather than merely estimating. However, it does not explicitly reference complexity science or frameworks like Cynefin, which limits its direct mentions and conceptual alignment. The depth of discussion is moderate, providing insights into the challenges of estimation in complex systems but lacking a thorough exploration of complexity theory.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1171,11 +1144,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T03:22:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are not central to DevOps principles.",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific agile methodology, rather than discussing DevOps principles or practices. While it touches on estimation and planning within a Scrum context, it does not address the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is limited to Scrum roles and events, which are not aligned with the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1185,15 +1161,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and estimation techniques without specific reference to Azure DevOps.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T03:22:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum estimation techniques and practices, without a focus on specific products or literature.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -1216,12 +1183,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses estimation in Scrum and its implications for delivering value in a Sprint, but it primarily focuses on the challenges of estimation rather than strategies for value delivery.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the estimation process within Scrum, touching on the importance of understanding the product backlog and the unpredictability of delivering value in Sprints. However, it primarily focuses on the challenges of estimation rather than providing strategies or methodologies for delivering value. While it aligns with some core themes of value delivery, such as the iterative nature of Agile and the need for understanding customer needs, it lacks depth in discussing specific practices or techniques for maximising customer value.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,12 +1204,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices and estimation techniques, which are related to Agile methodologies. However, it primarily focuses on the specifics of Scrum rather than broader organisational agility strategies or cultural shifts.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Scrum practices, particularly around estimation in Sprints, which is a specific Agile methodology. While it touches on themes of uncertainty and adaptability, it does not deeply explore broader organisational agility concepts such as leadership roles, cross-functional teams, or continuous improvement strategies. The discussion is more about Scrum mechanics than organisational agility as a whole.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1250,15 +1223,6 @@
     "reasoning": "Content heavily discusses estimation techniques in Scrum without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T03:23:04",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the dynamics of Scrum teams, estimation practices, and the human factors involved in product development, making it a central theme.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T03:23:06",
@@ -1268,21 +1232,12 @@
     "reasoning": "Content heavily discusses Scrum estimation techniques without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T03:23:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum estimation techniques and personal insights rather than industry news or reviews.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T03:23:09",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum estimation techniques and the challenges of predicting work in Agile environments, rather than focusing on metrics, data analysis, or continuous improvement methodologies.",
     "level": "Ignored"
   },
@@ -1315,30 +1270,36 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T23:04:44",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum estimation techniques and does not focus on leadership practices or themes.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T23:04:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Scrum framework, specifically focusing on estimation within a Sprint, which aligns with the key topics of Scrum roles and practices.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum estimation techniques, which are more about project management than the broader themes of social technologies. While it touches on collaboration among team members and the importance of understanding within the team, it lacks a direct discussion on self-organisation, collective intelligence, or transparency. The depth of discussion is moderate, but it does not sufficiently explore the social frameworks that underpin effective collaboration and decision-making in organisations.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:04:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and estimation, which are relevant to Agile methodologies, but it primarily focuses on the specifics of Scrum rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically around Sprint estimation, which is a component of agile methodologies but does not directly address the Agile Product Operating Model. While it touches on agile principles and the unpredictability of product development, it lacks a clear connection to the broader themes of APOM, such as product-oriented mindsets or integration with product management practices. The discussion is detailed regarding Scrum but does not sufficiently explore the APOM framework.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1358,22 +1319,431 @@
     "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are not directly related to platform engineering.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:04:51",
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:57:43",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are not central to the One Engineering System framework.",
+    "reasoning": "Content heavily discusses Scrum roles and estimation techniques, which are unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:57:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum estimation techniques and does not mention AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T23:04:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses how a Scrum team estimates deliverables in a Sprint, referencing Scrum principles and the Scrum Guide.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the estimation process within a Scrum team, discussing the nuances of how teams can approach understanding the size of their product backlog rather than providing strict estimates. It directly mentions Scrum multiple times and aligns well with Scrum principles, particularly around the unpredictability of creative work and the importance of setting realistic Sprint goals. However, while it provides a good depth of discussion on estimation, it does not delve deeply into other Scrum roles or events, which slightly lowers the depth score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum roles and the process of estimating deliverables within a Sprint, which does not directly address the Shift-Left Strategy. While it touches on Agile principles, it lacks explicit discussions on integrating testing, security, or compliance early in the development lifecycle, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum estimation techniques and the challenges associated with predicting deliverables in a Sprint. While it touches on the importance of understanding and adapting to uncertainties, it does not explicitly discuss Continuous Improvement principles or strategies. The discussion lacks depth in terms of Continuous Improvement methodologies and does not provide empirical evidence or case studies related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Sprint estimation techniques within Scrum, which is a tactical aspect of Agile rather than a discussion on Common Goals. While it touches on the importance of understanding the product backlog and the unpredictability of creative tasks, it does not explicitly address the alignment of strategy with execution or the significance of shared objectives that guide decision-making. The discussion lacks depth in connecting these concepts to the overarching goals of the organisation, resulting in a low confidence score for the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the process of estimating deliverables in Scrum, which is more about project management techniques than on the development of competence. While it touches on understanding and adapting to uncertainties, it lacks a strong emphasis on continuous learning or skill development, which are key aspects of competence. The discussion is somewhat relevant but does not delve deeply into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically around Sprint estimation, which is not aligned with the One Engineering System framework. While it touches on agile methodologies, it does not discuss the integration or standardisation of engineering processes, nor does it mention 1ES principles or components. Therefore, the confidence score reflects a very low relevance to the One Engineering System category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and estimation techniques, which do not align with the core themes of Agentic Agility. While it touches on adaptability and uncertainty in project management, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. The content does not delve into the principles of Agentic Agility or provide examples that illustrate its application.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:50:30",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the estimation process within Scrum, which is a key aspect of Agile product development. It discusses the challenges of estimating deliverables in a Sprint, aligning well with the principles of iterative and incremental development. The mention of understanding the product backlog and the unpredictability of creative tasks ties into customer feedback loops and the need for continuous improvement. However, while it provides a good depth of discussion on estimation, it does not extensively cover broader product development methodologies or practices, which slightly limits its overall alignment with the category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:50:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum estimation techniques and does not mention Open Space Agile or its principles. While it discusses Agile concepts, it does not align with the core themes of Open Space Agile, such as collective participation or psychological safety. The depth of discussion is limited to Scrum practices, which are not relevant to the Open Space Agile category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:50:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and its estimation practices, which aligns more with traditional frameworks rather than the principles of Agnostic Agile. While it touches on the uncertainties in agile strategies, it does not explicitly discuss Agnostic Agile principles or advocate for a context-driven approach. The discussion lacks depth in exploring the broader implications of agility beyond Scrum, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:50:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically around Sprint estimation, without addressing the complexities of scaling Agile practices or the coordination of multiple teams. While it touches on Agile strategies, it does not delve into frameworks for scaling, cross-team collaboration, or managing dependencies, which are essential for the 'Scaling' category. Therefore, the confidence score reflects a minimal relevance to the topic of scaling.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:50:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and estimation techniques within Agile project management, with no direct mention or discussion of Cell Structure Design or its principles. While it touches on themes of adaptability and team dynamics, these are not aligned with the core concepts of decentralised organisational structures or the Beta Codex. The discussion lacks depth regarding the characteristics of autonomous cells or the impact of decentralisation, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:50:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum estimation techniques and does not mention Liberating Structures or their principles. While it discusses Agile methodologies, it does not align with the core themes of Liberating Structures, such as facilitation techniques or enhancing group dynamics. The depth of discussion is limited to Scrum practices without any reference to collaborative or participatory methods that are central to Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:50:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the intricacies of Sprint estimation within Scrum, discussing the challenges and unpredictability of estimating delivery timelines. While it touches on the concept of estimation, it does not explicitly address Time to Market as a primary focus. The discussion lacks depth in terms of metrics or strategies for improving Time to Market, and it does not provide any case studies or tools related to this category. Therefore, while there are some relevant themes, the overall alignment with the Time to Market category is limited.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:50:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum team dynamics and estimation techniques within Agile project management. It does not explicitly discuss the concept of 'Company as a Product' or its principles. While there are mentions of understanding and adapting processes, these are not aligned with the core themes of CaaP, such as organisational design or customer-centric strategies. The depth of discussion is limited to Scrum practices, lacking any substantial exploration of CaaP concepts.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:50:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies without any direct mention of GitHub or its functionalities. While it discusses estimation in Scrum, it does not align with GitHub's core themes such as version control, collaboration features, or CI/CD pipelines. The depth of discussion is also limited to Scrum practices, which are not relevant to GitHub.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:51:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum estimation techniques and the challenges associated with predicting deliverables in a Sprint. While it touches on the uncertainties and complexities of project management, it does not explicitly discuss Unrealised Value or its indicators, nor does it explore potential improvements or innovation opportunities. The discussion is more about operational aspects of Scrum rather than strategic insights related to untapped value, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:51:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Sprint estimation within Scrum, discussing the challenges and uncertainties involved in estimating deliverables. While it touches on the importance of understanding the product backlog, it does not explicitly mention Current Value or its metrics, nor does it provide insights into customer satisfaction or revenue impact. The discussion lacks depth regarding the assessment of value delivered by a product or service, which is central to the Current Value category. Overall, the content is more aligned with Scrum practices than with the principles of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:51:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically around Sprint estimation, without any direct mention or critical examination of Hybrid Agile methodologies. While it discusses agile principles, it does not address the challenges or implications of merging traditional project management with agile practices, which are central to the Hybrid Agile category. The discussion lacks depth in exploring the core themes of Hybrid Agile, such as conflicting expectations or command-and-control structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:51:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a specific agile methodology, and discusses estimation within that context. While it touches on project management principles, such as understanding the product backlog and the unpredictability of creative tasks, it lacks a broader discussion of project management as a whole. The depth of discussion is moderate, providing insights into estimation challenges but not addressing other key project management topics like governance, roles, or lifecycle phases. Therefore, while there are relevant mentions, the content does not fully align with the broader project management category.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 45.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Scrum, which is primarily a framework and not explicitly focused on models as required for full alignment with the category 'Model'. It mentions the importance of understanding and estimation within Scrum, but does not delve into a specific model or framework that directly ties back to the key topics provided, such as the Cynefin Framework or Lean principles. The depth of discussion is moderate, but still strays toward practical Scrum processes rather than conceptual modeling.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of estimations within the context of Scrum, primarily focusing on the product backlog as a crucial element but does not deeply explore the artifacts themselves like Sprint Backlog or Definition of Done. While there is a mention of the product backlog, it does not provide detailed insights into how artifacts function as transparent constructs or their purpose in Agile methodologies. Thus, the focus is more on estimation processes rather than a comprehensive examination of artifacts.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 40.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 40.0,
+    "reasoning": "The content primarily discusses Scrum roles and concepts rather than focusing on specific tools. While it mentions estimation tools and their importance in fostering team understanding, it does not provide details on specific tools, their integration, or their application within Agile frameworks. The content is more centered around methodologies and the challenges of estimation in Scrum rather than a detailed examination of tools that aid in this process.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content focuses primarily on Scrum practices, especially the nuances of estimating work in sprints. While it briefly touches on the importance of understanding rather than just estimating, and hints at collaboration among team members, it lacks a significant emphasis on the core values that guide behavior and decision-making in Scrum or Agile. The main content revolves around practical application and challenges rather than the deeper philosophical principles or values underlying Agile practices.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 73.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 26,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content focuses explicitly on Scrum, providing insights into Sprint estimation, which is a key aspect of the framework. It mentions Scrum principles, discusses the challenges of estimation, and emphasizes understanding over simply assigning timeframes. However, while it dives into some framework details, it also leans into personal opinions and experiences, slightly detracting from a purely objective exploration of the framework's methodologies. Overall, it sufficiently aligns with the Framework category's key topics while maintaining a conversational tone.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the practice of Sprint estimation within Scrum teams. It touches on the common pitfalls of estimation and stresses understanding the size of backlog items rather than precise timing, which aligns with actionable techniques in agile practices. However, it maintains a philosophical approach, lacking depth in specific actionable techniques or tools used in estimation. The direct mention of practices is moderate but lacks a deep exploration of how to implement these estimations effectively.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on practical aspects of Sprint estimation in Scrum, including specific practices and techniques, which are explicitly excluded from the Philosophy category. While there is a brief reflection on uncertainty in Agile strategies, it lacks theoretical exploration of the underlying philosophies and values that drive Agile or Scrum practices. The discussion does not engage with the foundational beliefs behind these methodologies or how they influence decision-making, making the content misaligned with the philosophical focus required.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mainly focuses on the role of estimations in Scrum, which is more about specific practices and tools, rather than discussing enduring capabilities or systemic competencies. While it touches on understanding concepts and the unpredictable nature of work, it doesn't provide in-depth insights into developing or measuring organizational capabilities or integrating them into culture. Thus, the content is only tangentially related to the concept of Capability.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 38.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses Sprint estimation within the Scrum framework but does not focus on actionable guiding rules or doctrines (tenets) that shape decision-making and behavior. While there are references to understanding the scope of a product backlog rather than strict estimation timelines, these concepts are more about process discussion rather than articulating prescriptive tenets. The depth of discussion is limited as it lacks the concrete practices or principles that fall under the category of 'Tenet'. Overall, it touches on related areas mildly without establishing a strong connection to the core elements outlined in the Tenet definition.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Scrum method specifically in the context of Sprint estimation. It explores how teams can approach the estimation process and emphasizes understanding over strict time estimation, which aligns with core themes of the Method category. The piece provides meaningful insights into structured procedures within the Scrum framework, highlighting the complexities involved in estimation while not straying into a general philosophy. While it relates well to methods and provides depth in discussing these procedures, the focus on general uncertainties in estimation could slightly detract from a more structured, step-by-step procedural approach typical of method-focused content.",
+    "level": "Secondary"
+  },
+  "Observability": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on Scrum team dynamics, specifically around estimation practices in Agile development. There is no direct mention of observability, nor does it explore the concepts of metrics, logs, or traces that are essential for observability. The discussion is more about managing uncertainties and planning rather than understanding or measuring internal system states, thus exhibiting very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 47.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 47.0,
+    "reasoning": "The content discusses Sprint estimation within the context of Scrum, focusing on understanding the size of tasks rather than precise time estimates, which indirectly reflects principles such as Continuous Improvement and Adaptability. However, it does not explicitly outline or link to specific guiding principles or actionable insights that shape decision-making in Agile. The discussion provides some depth in addressing challenges in estimation but doesn't strongly connect to a principle-based framework.",
+    "level": "Tertiary"
+  },
+  "Discipline": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 55.0,
+    "ai_mentions": 4,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content focuses on the specific methodologies and practices of Scrum, particularly around Sprint estimation. While it provides some discussion on understanding principles related to product backlog and team dynamics, it does not thoroughly analyze the broader systemic implications of discipline as a structured field. The primary focus remains on Scrum-related techniques and practices rather than delving into the principles and evolution that define the category of Discipline as outlined. Therefore, the confidence score reflects moderate relevance rather than strong alignment.",
+    "level": "Tertiary"
   }
 }

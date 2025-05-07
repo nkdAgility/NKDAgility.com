@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T17:26:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, touching on themes of collaboration and agile practices, making it a major but secondary theme.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which aligns with the core themes of Social Technologies. It highlights the need for self-organisation and empowerment of teams, promoting collaboration and adaptability. The depth of discussion includes real-world examples and the consequences of traditional practices, demonstrating a strong understanding of the principles underlying social technologies. However, while it touches on relevant topics, it does not delve deeply into specific frameworks or methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,38 +22,50 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:26:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to DevOps principles of improving efficiency and collaboration. However, the primary focus is on traditional management practices rather than specific DevOps practices or tools.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the impact of committees on decision-making and agility within organisations, which aligns with some principles of DevOps, such as the need for collaboration and empowerment of teams. However, it does not explicitly focus on DevOps as a philosophy or its core practices, leading to a moderate confidence score. The mention of DevOps is brief and secondary, while the depth of discussion on DevOps principles is limited.",
     "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T17:26:13",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to product management strategies. However, it primarily focuses on the drawbacks of traditional management practices rather than providing a comprehensive discussion on product management methodologies or frameworks.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which aligns with product management's focus on efficiency and stakeholder collaboration. It touches on Agile principles and the need for quick decision-making, which are relevant to product management strategies. However, the discussion is somewhat anecdotal and lacks structured methodologies or frameworks typically associated with product management, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T17:26:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and organisational agility, which relates to leadership practices, but it primarily focuses on the inefficiencies caused by traditional management structures rather than on leadership strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly relates to leadership by highlighting the need for effective decision-making and agility in leadership roles. However, it lacks a direct focus on leadership practices or frameworks, making it more of a secondary mention rather than a primary discussion on leadership.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T17:26:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making speed and time to market, which are central themes in business agility. It highlights the need for organisations to adapt and innovate quickly in response to market conditions, aligning well with the principles of business agility.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the negative impact of committees on decision-making and time to market, which aligns with the principles of business agility. It highlights the need for organisations to adapt quickly and make decisions without bureaucratic delays, emphasising the importance of agility in responding to market opportunities. The depth of discussion includes specific examples and contrasts traditional practices with more agile approaches, demonstrating a clear understanding of the topic. However, while business agility is a primary focus, the content could benefit from more structured strategies or frameworks for fostering agility.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -82,30 +97,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:26:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the drawbacks of committees in decision-making processes and the impact on time to market, without a focus on empirical evidence or the principles of Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T17:26:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without addressing software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T17:26:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of committees on time to market and decision-making, which aligns with the Evidence-Based Management focus on metrics like time to market. However, it primarily revolves around agile methodologies and does not deeply engage with empirical evidence or the broader EBM themes. The discussion lacks substantial depth in terms of data-informed decision-making and does not provide specific metrics or outcomes related to EBM.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -118,12 +118,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T17:26:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, contrasting traditional management practices with more agile approaches. While it touches on agile concepts, it primarily focuses on the drawbacks of committees rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly relates to Agile principles of collaboration and responsiveness. However, it lacks a direct focus on specific Agile frameworks or a detailed exploration of their principles. The mention of 'agile' and 'scrum' at the end suggests some relevance, but the overall discussion is more about traditional management practices rather than a thorough examination of Agile frameworks.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +139,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T17:26:37",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -151,15 +154,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on trend analysis within Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T17:26:40",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, touching on traditional management practices versus agile collaboration. However, it does not focus on scaling Agile methodologies or enterprise-level practices, making it not relevant enough for the Scaled Agile category.",
-    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -181,10 +175,10 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T17:26:45",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without any focus on Sprint Reviews or related Scrum events.",
     "level": "Ignored"
   },
@@ -199,21 +193,27 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T17:26:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and team productivity, which relates to team performance and collaboration. However, it primarily focuses on the drawbacks of traditional management practices rather than specific strategies or methodologies for enhancing team dynamics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly relates to team performance. However, it lacks explicit focus on agile team dynamics, collaboration techniques, or specific agile practices. The discussion is more about general management issues rather than strategies for enhancing team performance within an agile framework.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T17:26:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and collaboration, mentioning document management systems like SharePoint and Google Docs as tools for collaboration. However, the primary focus is on the drawbacks of committee structures rather than a detailed exploration of collaboration tools themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, touching on collaboration through document management systems like SharePoint and Google Docs. However, the primary focus is on the drawbacks of committees rather than a detailed exploration of collaboration tools themselves. While there are mentions of collaboration techniques, they are not the main subject, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -226,38 +226,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T17:26:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to product delivery, but it primarily focuses on the drawbacks of traditional management practices rather than the methodologies and practices of delivering software products.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T17:26:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market in Agile environments, without any mention of AI or its applications.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which aligns with the principles of product delivery. It highlights the importance of agile methodologies and collaborative practices in enhancing delivery efficiency. However, while it touches on relevant themes, the depth of discussion on specific product delivery methodologies and practices is somewhat limited, focusing more on the critique of traditional processes rather than providing detailed insights into product delivery strategies.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T17:27:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of traditional management practices, such as committees, on decision-making and time to market, which relates to the broader theme of digital transformation. However, it primarily focuses on the inefficiencies of these practices rather than a strategic adoption of digital technologies.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T17:27:02",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making processes and team collaboration, highlighting how these human factors affect productivity and time to market.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly relates to digital transformation by highlighting the need for agility and modern collaboration tools. However, it lacks a direct focus on digital technologies or specific strategies for digital transformation, making it a secondary discussion rather than a primary one.",
     "level": "Secondary"
   },
   "Test Driven Development": {
@@ -269,23 +257,17 @@
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T17:27:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, contrasting traditional management practices with agile principles, indicating a significant but secondary theme related to Agile Project Management.",
-    "level": "Tertiary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T17:27:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which aligns with Lean principles of minimising waste and enhancing efficiency. However, it primarily focuses on the drawbacks of committee structures rather than a comprehensive exploration of Lean Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to Lean principles by highlighting the importance of minimising waste (in this case, time and resources). However, it primarily focuses on agile methodologies and does not explicitly mention Lean concepts or tools. The discussion lacks depth in Lean-specific strategies and does not provide a thorough exploration of Lean Thinking principles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -296,40 +278,25 @@
     "reasoning": "Content primarily discusses the inefficiencies of committees in decision-making processes rather than focusing on accountability within Agile teams.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T17:27:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the inefficiencies of committees in decision-making processes rather than focusing on transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T17:27:13",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:27:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T17:27:15",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, highlighting the need for a more agile approach to collaboration and decision-making within organisations. It addresses broader implications of agility on organisational performance and culture.",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility within organisations, highlighting the need for a culture that empowers teams and adapts to change. It aligns well with the core themes of Enterprise Agility, such as fostering a culture of adaptability and collaboration. However, while it touches on organisational structures and decision-making processes, it does not delve deeply into frameworks for scaling agility or provide extensive metrics for measuring enterprise agility, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Kanban": {
@@ -352,56 +319,71 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T17:27:20",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T17:27:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making, which indirectly relates to the Scrum Master's role in fostering agile principles. However, it does not explicitly mention the Scrum Master or delve into their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T17:27:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to Agile principles of flexibility and collaboration. However, it primarily focuses on the drawbacks of traditional management practices rather than providing a clear exploration of Agile Planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which aligns with Agile Planning principles. It highlights the need for teams to be empowered and adapt quickly, reflecting core Agile values. However, it primarily critiques traditional practices rather than focusing on Agile Planning methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T17:27:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, touching on Agile principles of collaboration and responsiveness. However, it primarily focuses on the drawbacks of traditional management practices rather than a deep exploration of Agile values.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which aligns with Agile principles of collaboration and responsiveness. However, it primarily focuses on the drawbacks of traditional practices rather than explicitly detailing Agile values or principles. While it touches on the need for empowerment and adaptability, it lacks a thorough exploration of the Agile Manifesto or its core values.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T17:27:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making speed and time to market, which directly relates to flow efficiency by highlighting bottlenecks in the value stream and the need for optimising work processes.",
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to flow efficiency by highlighting how delays in decision-making can stall progress and hinder agility. It provides specific examples of how traditional practices can create bottlenecks, aligning with the core themes of flow efficiency. However, while it touches on the importance of optimising processes, it does not delve deeply into metrics or specific techniques for measuring flow efficiency, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T17:27:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of committees on decision-making and agility within organisations, without any direct reference to Test First Development principles or practices. While it touches on agile methodologies, it does not delve into success criteria, testing practices, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -415,29 +397,38 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T17:27:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making speed and time to market, which relates to Cycle Time as it touches on workflow efficiency. However, it primarily focuses on the broader implications of committee structures rather than directly measuring or analysing Cycle Time.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly relates to Cycle Time. However, it does not explicitly mention Cycle Time or provide detailed analysis on measuring or improving it. The focus is more on decision-making processes rather than the total time taken to complete work units.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T17:27:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and organisational processes, which relates to organisational culture. However, it primarily focuses on the inefficiencies caused by traditional management practices rather than a comprehensive exploration of cultural elements that support Agile methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which relates to organisational culture. It highlights how traditional practices can hinder responsiveness and innovation, aligning with the category's focus on cultural elements that affect Agile methodologies. However, while it touches on cultural aspects, the primary focus is on the operational implications of committees rather than a deep exploration of organisational culture itself.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T17:27:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to organisational agility. However, it primarily focuses on the drawbacks of traditional management practices rather than large-scale Agile frameworks or strategies.",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which touches on themes of organisational structure and the need for cultural shifts towards empowerment and collaboration. However, it primarily focuses on the drawbacks of committees rather than providing a comprehensive exploration of large-scale Agile frameworks or strategies. The discussion lacks explicit references to scaling Agile methodologies or enterprise-level transformations, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -460,21 +451,27 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T17:27:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to innovation capabilities. However, it primarily focuses on the inefficiencies caused by traditional management practices rather than directly measuring or enhancing the ability to innovate.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to the Ability to Innovate by highlighting how traditional structures can stifle innovation. However, it primarily focuses on the drawbacks of committees rather than providing a comprehensive exploration of innovation capabilities or Evidence-Based Management principles. The discussion lacks depth in terms of frameworks or metrics for measuring innovation, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T17:27:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, highlighting a shift towards more agile practices and modern document management techniques. However, it primarily focuses on the drawbacks of traditional management rather than a comprehensive discussion on Agile transformation principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which aligns with Agile principles. It highlights the need for empowering teams and adapting to change, key aspects of Agile transformation. However, while it mentions Agile methodologies, it does not delve deeply into specific frameworks or detailed strategies for Agile transformation, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -487,11 +484,14 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T17:27:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to Lean principles of waste reduction and value maximisation. However, the primary focus is on decision-making processes rather than Lean methodologies specifically.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which aligns with Lean principles of minimising waste and maximising value. However, it primarily focuses on agile methodologies and the drawbacks of traditional management structures rather than explicitly addressing Lean concepts or tools. The discussion lacks depth in Lean-specific practices and does not provide detailed insights into waste reduction or continuous improvement, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Scrum Values": {
@@ -502,24 +502,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the inefficiencies of committees in decision-making processes and their impact on time to market, without a clear focus on Scrum Values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T17:27:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to organisational agility and adaptability. However, it primarily focuses on the inefficiencies of traditional management practices rather than a comprehensive exploration of resilience and change strategies.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T17:27:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, touching on modern document management techniques and their role in Agile practices. However, it primarily focuses on the drawbacks of traditional management rather than providing a clear exploration of specific tools or methodologies.",
-    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -541,66 +523,57 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T17:27:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections and insights on the impact of committees on decision-making and time to market, but it primarily focuses on the technical aspects of Agile practices rather than personal experiences.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T17:28:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without reference to specific events, presentations, or structured learning experiences.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on personal experiences and reflections regarding the impact of committees on decision-making within Agile environments. The author shares specific anecdotes from their engagements, illustrating the challenges faced and insights gained, which aligns well with the Personal category. The discussion is rich in personal context, detailing how traditional practices hinder agility and proposing a shift towards empowering teams. While there are mentions of Agile principles, the content does not delve into technical discussions or frameworks, maintaining a personal narrative throughout.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T17:28:01",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, rather than focusing on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T17:28:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of decision-making processes on time to market and competitive advantage, which relates to market share. However, the primary focus is on organisational practices rather than explicit strategies for increasing market share.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly relates to market share by highlighting how delays can lead to missed opportunities. However, it primarily focuses on agile methodologies and organisational practices rather than specific strategies for increasing market share. The mention of competitors capturing market share is too brief and lacks depth, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T17:28:06",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on Scrum roles, collaboration techniques, or team dynamics specific to a Scrum Team.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T17:28:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to organisational agility. However, it primarily focuses on the drawbacks of traditional management practices rather than explicitly addressing frameworks or strategies for scaling agility across the organisation.",
-    "level": "Tertiary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T17:28:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which is a general observation about business practices rather than a specific Agile, Scrum, DevOps, or Lean framework. While it touches on concepts relevant to Agile, it does not directly reference or apply established methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which directly relates to Agile principles. It provides specific examples and reflections on traditional practices versus modern approaches, indicating a strong connection to Agile concepts. However, it does not reference specific Agile frameworks or methodologies, which aligns with the Miscellaneous category. The discussion is detailed but primarily focuses on personal experiences and opinions rather than established practices, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -613,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:28:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on Continuous Delivery principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to Continuous Delivery principles. However, it primarily focuses on the broader topic of agile methodologies rather than Continuous Delivery specifically. There are no direct mentions of Continuous Delivery practices, and while it touches on themes of agility and responsiveness, it lacks depth in discussing Continuous Delivery techniques or tools.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -631,30 +607,36 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T17:28:16",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the inefficiencies of committees in decision-making processes and their impact on time to market, without a clear focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T17:28:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to change management practices. However, it primarily focuses on the inefficiencies of traditional management structures rather than providing a comprehensive discussion on change management strategies or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which relates to change management in the context of Agile practices. It highlights the need for organisations to adapt and empower teams, aligning with the principles of effective change management. However, the primary focus is on the drawbacks of committees rather than a comprehensive exploration of change management strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T17:28:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and collaboration within teams, highlighting the need for improved communication and modern document management techniques. However, the primary focus is on the inefficiencies caused by committees rather than on team collaboration itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and team agility, which relates to team collaboration. It highlights the need for empowering teams and adapting to modern practices, aligning with the core themes of collaboration and shared ownership. However, the primary focus is on the drawbacks of committees rather than on collaborative techniques or strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -665,7 +647,7 @@
     "reasoning": "The content primarily discusses the impact of committees on decision-making and time to market, with no clear focus on the Daily Scrum or its related practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T17:28:27",
     "ai_confidence": 0,
@@ -683,39 +665,36 @@
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, with no relevance to the Windows operating system or its functionalities.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T17:28:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T17:28:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the negative impact of committees on decision-making and time to market, which relates to self-organisation principles. However, the primary focus is on traditional management practices rather than self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the negative impact of committees on decision-making and agility, which aligns with the principles of self-organisation by advocating for team empowerment and autonomy. It highlights the need for teams to make decisions without excessive oversight, thus promoting a culture of accountability. However, while it touches on self-organisation, the primary focus is on the critique of traditional management practices rather than an in-depth exploration of self-organisation principles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:28:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, highlighting the need for agile practices and collaboration, which aligns with the Agile Product Operating Model as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on the drawbacks of traditional management practices rather than providing a comprehensive exploration of the Agile Product Operating Model itself. The mention of agile methodologies is present, but the depth of discussion on APOM principles is limited.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T17:28:34",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the inefficiencies of committees in decision-making processes and their impact on time to market, rather than focusing on employee engagement strategies or practices.",
     "level": "Ignored"
   },
@@ -730,21 +709,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T17:28:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making speed and time to market, highlighting the need for agile practices to enhance responsiveness to market opportunities.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which directly relates to market adaptability. It highlights the need for organisations to empower teams and adapt to change, aligning well with the principles of Agile methodologies. The depth of discussion on the drawbacks of traditional practices and the need for modern approaches further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T17:28:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and organisational efficiency, which relates to systems thinking and organisational dynamics. However, it primarily focuses on the drawbacks of committees rather than a comprehensive exploration of organisational physics principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility within organisations, which aligns with the principles of systems thinking and organisational dynamics. It highlights the interplay between organisational structure (committees) and processes (decision-making), and how these affect overall performance. However, while it touches on these themes, the discussion is primarily focused on the drawbacks of committees rather than a comprehensive exploration of organisational physics concepts, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -766,19 +751,22 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T17:28:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making processes and how their removal can enhance efficiency and time to market. It highlights the importance of making timely decisions and the consequences of delays caused by traditional management practices, aligning well with evidence-based decision-making principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of committees on decision-making processes, highlighting delays and inefficiencies. It aligns with the category by addressing the need for evidence-based practices and the importance of empowering teams for better decision-making. However, it lacks a structured methodology and empirical evidence, which slightly reduces its alignment and depth scores.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T17:28:49",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -793,12 +781,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T17:28:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which aligns with Lean principles of minimising waste and maximising efficiency. However, it primarily focuses on the drawbacks of traditional management practices rather than a comprehensive exploration of Lean Product Development itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which aligns with Lean principles of minimising waste and maximising efficiency. However, it primarily focuses on the drawbacks of traditional practices rather than explicitly addressing Lean Product Development techniques or frameworks. While it touches on themes of empowerment and agility, it lacks detailed exploration of Lean methodologies or tools, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -809,49 +800,52 @@
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without focusing on mentoring, coaching, or professional development in Agile environments.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T17:28:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without any mention of AI or automation technologies in Agile frameworks.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T17:28:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes and the impact of committees on organisational efficiency, which relates to sensemaking. However, it primarily focuses on the drawbacks of committees rather than exploring broader sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which relates to sensemaking in organisational contexts. It highlights the need for teams to adapt and make informed decisions quickly, aligning with the principles of sensemaking. However, the focus is more on the drawbacks of committees rather than a comprehensive exploration of sensemaking frameworks or techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T17:28:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to strategic alignment and optimisation of delivery processes. However, it primarily focuses on the challenges posed by traditional management practices rather than a comprehensive strategic approach within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of committees on decision-making within Agile environments, highlighting how traditional practices can hinder agility and responsiveness. It aligns well with the core themes of strategic alignment and optimisation of delivery processes. The depth of discussion is substantial, providing real-world examples and advocating for empowering teams, which is a strategic approach. However, it does not explicitly delve into metrics or KPIs, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T17:29:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making speed and operational efficiency, highlighting the need for streamlined processes and modern document management techniques to enhance delivery and reduce time to market.",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which directly relates to operational efficiency. It provides specific examples of how traditional practices hinder performance and suggests empowering teams as a strategy for improvement. The depth of discussion is substantial, with detailed observations and real-world implications, aligning well with the core themes of operational practices.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T17:29:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, highlighting the importance of collaboration and adaptability, which are central themes in Agile philosophy.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, aligning well with Agile principles of collaboration and adaptability. It critiques traditional practices that hinder agility, emphasising the need for empowering teams, which reflects a strong understanding of Agile philosophy. However, while it touches on Agile concepts, it primarily focuses on the drawbacks of committees rather than a comprehensive exploration of Agile values or the Agile Manifesto.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -901,30 +895,33 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T17:29:14",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the inefficiencies of committees in decision-making processes and their impact on time to market, rather than focusing on the management of a portfolio of projects or strategic alignment.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T17:29:17",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on version control practices or methodologies.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T17:29:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to Agile principles of responsiveness and value delivery. However, it primarily focuses on the drawbacks of traditional management practices rather than specific Agile product management techniques.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of committees on decision-making within agile methodologies, highlighting the need for empowerment and agility in teams. It aligns well with Agile Product Management principles, particularly in terms of fostering collaboration and responsiveness to market demands. However, while it touches on relevant themes, it does not delve deeply into specific Agile practices or roles, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -937,39 +934,27 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T17:29:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to the flow of value. However, it primarily focuses on general organisational practices rather than specifically addressing Value Stream Management principles.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T17:29:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on Scaling Scrum principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to value stream management by highlighting inefficiencies and the need for streamlined processes. However, it primarily focuses on agile methodologies and the drawbacks of traditional management structures rather than explicitly addressing value stream management principles or techniques.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T17:29:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, highlighting the interplay between organisational structures and technology adoption. It explores how traditional management practices hinder collaboration and efficiency, which aligns with the sociotechnical systems theme.",
-    "level": "Secondary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T17:29:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without focusing on specific products, books, or literature related to Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and team agility, which aligns with sociotechnical systems by highlighting the interplay between organisational structures and team dynamics. However, it primarily focuses on the drawbacks of committees without deeply exploring the broader sociotechnical implications or providing extensive theoretical frameworks. The mention of modern collaboration tools hints at the integration of social and technical aspects, but the overall depth of discussion on sociotechnical systems is limited.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -991,21 +976,27 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T17:29:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to decision-making in Agile environments, specifically addressing the inefficiencies caused by committees and advocating for more agile, collaborative approaches to enhance time to market.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content discusses the practical implications of removing committees in Agile environments, highlighting real-world examples and the impact on decision-making and team agility. It aligns well with the core themes of pragmatic thinking by providing specific strategies for improving processes and emphasising the importance of adaptability in decision-making. The depth of discussion is substantial, with detailed examples illustrating the challenges posed by traditional practices and the benefits of empowering teams. Overall, the content is a strong fit for the category.",
+    "level": "Primary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T17:29:33",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making speed and time to market, which directly relates to Lead Time as it addresses the efficiency of processes and the delivery of value to customers.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-11T10:02:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly relates to Lead Time. However, it does not explicitly mention Lead Time or provide a detailed exploration of its definition, measurement, or optimisation strategies. The focus is more on the effects of organisational structures on agility rather than a direct analysis of Lead Time as a metric.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1018,10 +1009,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T17:29:35",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, rather than focusing on the delivery of functional software or Agile principles.",
     "level": "Ignored"
   },
@@ -1036,12 +1027,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T17:29:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which aligns with Lean principles of eliminating waste and improving efficiency. However, the primary focus is on decision-making processes rather than Lean methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the impact of committees on decision-making within agile methodologies, which is not directly aligned with Lean principles. While it touches on themes of efficiency and the need for streamlined processes, it lacks explicit references to Lean concepts such as waste reduction, value stream mapping, or continuous improvement. The discussion is more focused on Agile practices rather than Lean methodologies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1054,19 +1048,22 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T17:29:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to product strategy. However, it primarily focuses on organisational dynamics and decision-making processes rather than a clear product strategy framework or methodology.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the impact of committees on decision-making and agility within organisations, which is more focused on team dynamics and Agile practices rather than the core principles of product strategy. While it touches on the importance of speed to market and decision-making, it lacks a clear exploration of product vision, roadmapping, or customer-centric approaches that are essential to product strategy. The discussion is relevant but does not delve deeply into strategic planning or market analysis, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T17:29:42",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the impact of committees on decision-making and time to market in software development contexts, touching on Agile methodologies and collaborative practices, but it primarily focuses on organisational management rather than specific software engineering practices.",
     "level": "Tertiary"
   },
@@ -1090,19 +1087,19 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T17:29:47",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses decision-making processes, particularly the impact of committees on the speed and quality of decisions in a business context. While it touches on decision theory principles, it primarily focuses on the implications of committee structures rather than a comprehensive exploration of decision-making frameworks or models.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T17:29:51",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to entrepreneurial practices and the need for agility in business. However, it primarily focuses on management practices rather than the broader principles of entrepreneurship.",
     "level": "Secondary"
   },
@@ -1115,15 +1112,6 @@
     "reasoning": "Content primarily discusses the drawbacks of committees in decision-making processes and their impact on time to market, rather than focusing on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T17:29:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to Agile methodologies and the role of developers in streamlining processes. However, the primary focus is on organisational decision-making rather than directly on software development practices.",
-    "level": "Tertiary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T17:29:57",
@@ -1135,19 +1123,19 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T17:29:59",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the impact of committees on decision-making and time to market, contrasting traditional management practices with more agile and collaborative approaches. While it touches on themes relevant to BetaCodex, such as decentralisation and agility, the primary focus is on the drawbacks of committees rather than a comprehensive exploration of BetaCodex principles.",
     "level": "Tertiary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T17:30:00",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without addressing installation or configuration of tools or software.",
     "level": "Ignored"
   },
@@ -1159,15 +1147,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without focusing on the specific responsibilities or practices of a Product Owner.",
     "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T17:30:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of committees on time to market and decision-making in Agile environments, which aligns with Agile practices. However, it primarily focuses on personal observations and opinions rather than providing industry news or formal reviews.",
-    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1189,10 +1168,10 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T17:30:09",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on the stages or practices of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -1207,19 +1186,19 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T17:30:12",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to Agile principles of empowerment and adaptability. However, it primarily focuses on the inefficiencies caused by traditional management practices rather than explicitly addressing Agile leadership roles or strategies.",
     "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T17:30:14",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the inefficiencies of committees in decision-making processes and their impact on time to market, without a clear focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1243,37 +1222,28 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T17:30:19",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the impact of committees on decision-making speed and time to market, which relates to throughput, but it primarily focuses on the negative effects of traditional management practices rather than providing a comprehensive analysis of throughput as a central theme.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:30:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile principles and the impact of traditional management practices, which are relevant to Scrum, but it primarily focuses on the drawbacks of committees rather than Scrum-specific roles, events, or artifacts.",
     "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T17:30:22",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the impact of committees on decision-making and time to market, highlighting how removing these barriers can enhance value delivery in an Agile context.",
     "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T17:30:24",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, with no focus on system configuration or related technical aspects.",
     "level": "Ignored"
   },
@@ -1295,39 +1265,30 @@
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, rather than focusing on methodologies for identifying customer needs or defining product features.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T17:30:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T17:30:32",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses the impact of committees on decision-making and time to market, highlighting the need for more agile and collaborative practices. While it touches on organisational change concepts, it primarily focuses on the inefficiencies caused by traditional management structures rather than a comprehensive exploration of change methodologies.",
     "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T17:30:34",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without addressing the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T17:30:38",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses the impact of committees on decision-making and time to market, highlighting the need for agility and responsiveness in organisational processes, which aligns with Agile principles.",
     "level": "Secondary"
   },
@@ -1342,19 +1303,19 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T17:30:41",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the impact of committees on decision-making and time to market, which relates to strategic goals in terms of enhancing business agility and responsiveness. However, the primary focus is on operational challenges rather than explicitly defining or articulating long-term strategic objectives.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T17:30:43",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the negative impact of committees on decision-making and time to market, highlighting the need for agile practices and modern collaboration techniques to enhance organisational responsiveness and adaptability.",
     "level": "Secondary"
   },
@@ -1374,6 +1335,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the inefficiencies of committees in decision-making and their impact on time to market, without focusing on Lean Startup principles such as MVP, Build-Measure-Learn, or validated learning.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:50:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market, without a clear focus on Internal Developer Platforms or their related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:50:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the impact of committees on decision-making and time to market in Agile environments, without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-14T21:50:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and time to market, which indirectly touches on Agile principles and the need for collaboration. However, it lacks direct references to Scrum roles, events, or artifacts, and does not provide a detailed exploration of Scrum practices. The mention of 'agile' is brief and does not delve into Scrum specifics, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of committees on decision-making and agility within agile methodologies, without any direct reference to the Shift-Left Strategy. While it touches on themes of agility and decision-making speed, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the negative impact of committees on decision-making and agility, which aligns with the principles of Continuous Improvement. It highlights the need for organisations to empower teams and adapt to change, reflecting a commitment to enhancing processes. However, the primary focus is on the drawbacks of committees rather than a comprehensive exploration of Continuous Improvement practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to the concept of Common Goals by highlighting the need for alignment and empowerment within teams. However, it primarily focuses on the drawbacks of committees rather than explicitly addressing shared objectives or strategic alignment, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to competence by highlighting the need for teams to be empowered and adaptable. However, it primarily focuses on the drawbacks of committees rather than on the development of skills or continuous learning, which are central to the concept of competence. The discussion lacks depth in exploring how competence can be fostered or measured within teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:46:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of committees on decision-making and agility within organisations, focusing on agile methodologies rather than the One Engineering System framework. While it touches on themes of efficiency and team empowerment, it does not explicitly mention or align with the principles, components, or implementation of 1ES. The discussion is more about general agile practices and the drawbacks of traditional management structures, which are outside the scope of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which touches on the themes of autonomy and adaptability. However, it primarily focuses on traditional practices versus agile methodologies without explicitly addressing the concept of Agentic Agility or differentiating between human and AI capabilities. The discussion lacks depth in exploring the intentional shaping of outcomes and does not provide specific examples of Agentic Agility in practice.",
+    "level": "Tertiary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:01:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility within the context of agile methodologies, which aligns well with the principles of product development. It highlights the need for iterative processes and customer feedback by advocating for empowering teams instead of relying on traditional committee structures. The depth of discussion is moderate, providing examples and insights into how traditional practices can hinder product delivery. However, while it touches on key themes, it does not delve deeply into specific product development methodologies or practices, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:01:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making, which aligns with the broader themes of organisational agility. However, it does not explicitly mention Open Space Agile or its principles. The focus is more on traditional practices versus agile methodologies rather than on the collaborative and emergent aspects of Open Space Agile. The depth of discussion is limited to the critique of committees without exploring the core tenets of Open Space Technology or psychological safety, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:01:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making, which aligns with the principles of Agnostic Agile, particularly the emphasis on adapting practices to enhance agility. However, it primarily focuses on the drawbacks of traditional practices rather than explicitly discussing Agnostic Agile principles or comparing methodologies. The mention of agile concepts is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:01:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making, which is tangentially related to scaling practices. However, it does not explicitly address scaling methodologies, frameworks, or strategies for cross-team collaboration, which are central to the 'Scaling' category. The focus is primarily on the drawbacks of committees rather than on scaling Agile practices or managing dependencies at scale. Therefore, while there are relevant themes, the primary focus is not on scaling, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:01:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the drawbacks of committees in decision-making and promotes agility, which aligns with some principles of decentralisation and empowerment found in Cell Structure Design. However, it does not explicitly mention the concept of cells, the Beta Codex, or the core principles of Cell Structure Design. The focus is primarily on the negative impact of traditional management practices rather than a detailed exploration of the Cell Structure Design model itself.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:01:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making, which indirectly relates to the principles of Liberating Structures by advocating for empowerment and faster decision processes. However, it does not explicitly mention Liberating Structures or any specific techniques associated with them. The focus is primarily on traditional versus agile practices rather than on facilitation techniques that enhance participation and collaboration, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:01:44",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the impact of committees on time to market, providing a clear connection to the category. It explores how decision-making delays caused by committees can hinder agility and slow down the delivery of value, which aligns well with the core themes of Time to Market. The depth of discussion is significant, with real-world examples illustrating the negative effects of traditional practices on time to market. Overall, the content is focused on optimising processes to enhance speed and responsiveness, making it a strong fit for the category.",
+    "level": "Primary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:01:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility within organisations, which touches on the principles of organisational design and the need for cross-functional collaboration. However, it primarily focuses on the drawbacks of traditional management structures rather than explicitly framing the company as a product or discussing customer-centric strategies. The mention of empowering teams aligns somewhat with CaaP, but the overall depth and focus on the category are limited.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:01:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of committees on agility and decision-making within organisations, focusing on agile methodologies rather than GitHub specifically. There are no direct mentions of GitHub services, tools, or functionalities, and the discussion does not align with the core themes of GitHub, such as version control or collaboration features. While it touches on concepts relevant to Agile and team empowerment, it does not provide insights into GitHub practices or tools, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:01:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to the concept of Unrealised Value by highlighting missed opportunities and the need for innovation. However, it does not explicitly mention Unrealised Value or provide detailed strategies for identifying or measuring it. The focus is more on the drawbacks of traditional practices rather than exploring untapped potential within the organisation.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:01:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which indirectly relates to the concept of Current Value by highlighting how delays can affect the value delivered to customers. However, it does not explicitly mention Current Value or provide metrics or techniques for measuring it. The focus is more on the negative effects of traditional practices rather than a real-time assessment of value delivered, which is central to the Current Value category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:02:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making, which aligns with some themes of Hybrid Agile, particularly the tension between traditional practices and agile principles. However, it does not explicitly mention Hybrid Agile or provide a critical examination of its challenges. The focus is more on the negative effects of committees rather than a detailed analysis of Hybrid Agile itself, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:02:03",
+    "ai_confidence": 68.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility, which aligns with project management principles, particularly in agile contexts. However, it primarily focuses on the drawbacks of committees rather than providing a comprehensive overview of project management methodologies or tools. While it touches on the need for empowerment and adaptability, it lacks depth in discussing broader project management concepts such as lifecycle phases, governance structures, or specific methodologies. Therefore, while it is relevant, it does not fully meet the criteria for a primary focus on project management.",
+    "level": "Secondary"
+  },
+  "Principle": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 76.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 27,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content provides a thorough discussion on the negative impacts of committees on decision-making and agility, which directly aligns with Agile principles. It mentions empowering teams and adapting to change, both of which relate to key principles like self-management and adaptability. The piece also highlights how traditional practices hinder agility, emphasizing a clear need for continuous improvement and fostering a culture of innovation. The depth of examples and real-world applications adds significant value, advancing the discussion beyond just theoretical principles.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 30.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the impact of committees on decision-making within an Agile context, but it primarily focuses on organizational processes rather than specific tools. Mentions of modern collaboration tools like SharePoint and Google Docs are present but not explored in depth, limiting the alignment with the 'Tool' category. The discussion about eliminating committees lacks sufficient depth on how specific tools facilitate agile methodologies.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 58.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "While the content discusses issues surrounding committees and their impact on agility, it primarily focuses on practical advice rather than exploring the deeper values that guide teamwork and decision-making. It touches on values like empowerment and a culture of accountability, which align with agile principles, but it lacks an explicit focus on core values. Therefore, while it connects to the concept of values, it does not dive deeply into ethical or philosophical foundations.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the impact of committees on agile decision-making and promotes a mindset of empowerment and agility. However, it primarily focuses on practical challenges and personal observations rather than philosophical principles. While it touches on the implications of decision-making structures (aligning somewhat with the themes of organisational philosophy), it lacks direct engagement with the philosophical underpinnings of Agile or Lean methodologies. Thus, it does not deeply explore the foundational beliefs or principles related to the 'why' of these practices, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 56.0,
+    "ai_mentions": 2,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 56.0,
+    "reasoning": "The content discusses agile methodologies in relation to decision-making structures, highlighting the impact of committees on agility and time to market. Although it touches on the principles of Agile, it primarily focuses on specific tools and techniques (e.g., removing committees) rather than addressing the broader systemic application and maturation of disciplines like Agile or Lean in a comprehensive manner. The use of examples adds depth, but it lacks a thorough exploration of the underlying principles that define these disciplines.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making but does not focus on artifacts as defined. It mentions agile practices but doesn't address specific artifacts or their roles, thus lacking direct mentions and depth on the topic of artifacts.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the impact of committees on decision-making and agility in organizations, rather than focusing on observability in software systems. While there is a brief mention of modern collaboration tools that can aid agile practices, the discussion does not include key observability principles, metrics, or tools. Overall, the content lacks a strong connection to the themes of observability, making it poorly aligned with the category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the issues surrounding committees in agile methodologies but does not focus on specific actionable practices that improve team effectiveness. While it mentions the importance of empowering teams and touches upon some agile principles, it does not provide specific practices like daily stand-ups or retrospectives, which are central to the 'Practice' category. The discussion is more of a critique of existing structures rather than a guide on practical techniques. Therefore, the alignment and depth of discussion are moderately low despite some relevant mentions.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the negative impact of committees on decision-making and agility within organizations, suggesting that removing these barriers can improve time to market. However, it primarily focuses on a critique of traditional practices rather than detailing specific structured methods used within Agile, Lean, or similar methodologies. There is a brief mention of empowering teams and the agile mindset, but the absence of detailed procedural content or specific methods keeps the overall confidence low in the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 35.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the impact of committees on decision-making and agility within organizations, but it does not explicitly reference any specific models or frameworks, which is a core requirement for the 'Model' category. While it indirectly touches on concepts of agility and decision-making processes, it lacks direct engagement with conceptual models or frameworks that could enhance understanding or analysis. Therefore, the alignment and depth are somewhat present but not sufficient for a strong confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the impact of committees on agility and decision-making in an organizational context, which aligns somewhat with Agile principles. However, it primarily focuses on the negatives of committees rather than providing a structured methodology or a detailed analysis of Agile frameworks themselves. It briefly mentions Agile in the context of collaboration versus traditional practices but does not deeply delve into any specific framework or their implementation. The discussion is more opinion-based and does not strictly adhere to the 'Framework' category guidelines.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the negative impact of committees on agility and decision-making in an organization, which aligns with the collaborative and decentralized decision-making tenets of Agile. While it makes implicit references to these tenets, it lacks a direct application of specific guiding rules. Overall, it highlights actionable insights like empowering teams and the need for adaptability, which further supports its relevance to the category of 'Tenet'. However, the discussion feels more general and lacks specific, actionable rules, which prevents a higher confidence score.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "ye1wQic8et0",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 37.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content primarily discusses the negative impact of committees on decision-making and agility, which is tangential to the concept of capability. While it touches on the importance of empowering teams (which aligns somewhat with developing capabilities), it does not delve into the broader definitions, characteristics, or strategies for embedding capabilities as outlined in the criteria. The discussion remains focused on the drawbacks of traditional roles and practices rather than building long-term competencies.",
     "level": "Ignored"
   }
 }

@@ -2,8 +2,10 @@
 title: Why do you prefer agile consulting over agile coaching?
 description: Discover why Martin Hinshelwood prefers agile consulting over coaching in this insightful video, exploring the benefits of short-term engagements for agile teams.
 date: 2023-03-14T07:00:05Z
+weight: 665
 ResourceId: FJjiCodxyK4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FJjiCodxyK4
@@ -15,46 +17,35 @@ preview: https://i.ytimg.com/vi/FJjiCodxyK4/maxresdefault.jpg
 duration: 213
 isShort: false
 aliases:
-- /resources/why-do-you-prefer-agile-consulting-over-agile-coaching
-- /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching-
-- /resources/videos/FJjiCodxyK4
-- /resources/why-do-you-prefer-agile-consulting-over-agile-coaching-
 - /resources/FJjiCodxyK4
-aliasesFor404:
+- /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching
+aliasesArchive:
+- /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching
 - /resources/why-do-you-prefer-agile-consulting-over-agile-coaching
 - /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching-
 - /resources/why-do-you-prefer-agile-consulting-over-agile-coaching-
+- why-do-you-prefer-agile-consulting-over-agile-coaching
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Change Management
-- People and Process
-- Agile Leadership
-- Business Agility
-- Resilience and Change
-- Organisational Change
-- Organisational Agility
-- Agile Transformation
-- Organisational Culture
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
 categories:
 - Leadership
 
 ---
-**Why do you prefer agile consulting over agile coaching?**
+**Why do you prefer agile consulting over agile [coaching]({{< ref "/tags/coaching" >}})?**
 
 💡"Why do I gravitate towards Agile Consulting over Agile Coaching?"
 
-This question pops up more often than a jack-in-the-box. Let's illuminate this topic and unearth the power of internal leadership and sustainable change. 🚀
+This question pops up more often than a jack-in-the-box. Let's illuminate this topic and unearth the power of internal [leadership]({{< ref "/categories/leadership" >}}) and sustainable change. 🚀
 
 ## Leadership: The Core of Business Success
 
 Leadership is the heart of any organisation, pumping energy and direction to all its parts. It's not just a role; it's the dynamo that pushes an organisation towards its goals. 🎯 Outsourcing leadership? That's like hiring a surrogate to run your marathon. 🏃‍♂️
 
-Too often, external Agile Coaches step in, bridging the chasm between traditional and Agile leadership. And while this might work in the short term, it creates a crutch that hinders true growth. It's like training wheels that never come off. 🚴‍♀️
+Too often, external Agile Coaches step in, bridging the chasm between traditional and [Agile leadership]({{< ref "/tags/agile-leadership" >}}). And while this might work in the short term, it creates a crutch that hinders true growth. It's like training wheels that never come off. 🚴‍♀️
 
 ## Unshackling the Training Wheels
 
@@ -68,7 +59,7 @@ As an Agile Consultant, I prefer to come in for a brief stint, empowering the te
 
 ## Riding the Budget Wave
 
-Agile Coaches often face the chopping block in lean times, especially if organisations feel they're not getting bang for their buck. Once the coaches are gone, teams often revert to old practices, highlighting the transient change coaching sometimes brings. It's like a sandcastle washed away by the tide. 🌊
+Agile Coaches often face the chopping block in [lean]({{< ref "/categories/lean" >}}) times, especially if organisations feel they're not getting bang for their buck. Once the coaches are gone, teams often revert to old practices, highlighting the transient change coaching sometimes brings. It's like a sandcastle washed away by the tide. 🌊
 
 ### The Agile Consultant's Promise
 
@@ -88,7 +79,7 @@ Hashtags:        **#AgileConsulting** **#Leadership #SelfReliance #Sustain
 
 Hashtags:   
 
-#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+#Agile, #AgileCoach, #[Scrum]({{< ref "/categories/scrum" >}}), #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
 
 ## About Naked Agility
 

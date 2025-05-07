@@ -1,0 +1,20 @@
+{{ $ResourceType := .Params.ResourceType | default "bug" }}
+{{ if eq $ResourceType "videos" }}
+  <i class="fa-solid fa-video"></i>
+{{ else if eq $ResourceType "blog" }}
+  <i class="fa-solid fa-newspaper"></i>
+{{ else if eq $ResourceType "newsletters" }}
+  <i class="fa-solid fa-envelope-open-text"></i>
+{{ else if eq $ResourceType "guides" }}
+  <i class="fa-solid fa-book"></i>
+{{ else if eq $ResourceType "workshops" }}
+  <i class="fa-solid fa-shield-check"></i>
+{{ else if eq $ResourceType "recipes" }}
+  <i class="fa-solid fa-cauldron"></i>
+{{ else if eq $ResourceType "signals" }}
+  <i class="fa-regular fa-signal-stream"></i>
+{{ else if eq $ResourceType "engineering-notes" }}
+  <i class="fa-regular fa-gear-code"></i>
+{{ else }}
+  <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
+{{ end }}

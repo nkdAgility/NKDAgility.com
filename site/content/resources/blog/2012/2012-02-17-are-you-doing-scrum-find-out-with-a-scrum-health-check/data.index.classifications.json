@@ -1,21 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum practices and the importance of assessing Scrum implementation, which relates to Agile Product Management, but is primarily focused on a specific health check service rather than broader product management strategies.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a Scrum Health Check, which relates to practical techniques for assessing Scrum implementation, but it primarily focuses on the concept rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses a Scrum Health Check, which relates to the role of Scrum in Agile Product Management. It mentions the importance of assessing Scrum implementation and identifying opportunities for improvement, aligning with Agile principles. However, it lacks detailed exploration of broader Agile Product Management concepts such as stakeholder engagement or product backlog prioritisation.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:05:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Scrum Health Check and does not focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T21:05:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T21:05:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on a Scrum Health Check rather than on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T21:05:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum practices and a health check for Scrum implementation, with no mention of AI or automation.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a Scrum Health Check, which is more about assessing Scrum practices rather than discussing Evidence-Based Management principles. While it mentions identifying improvement opportunities, it lacks a strong emphasis on empirical evidence or data-informed decision-making, which are core to EBM. The discussion is superficial and does not delve into metrics or outcomes that align with EBM themes.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +43,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:05:22",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T21:05:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum health checks and implementation rather than transparency and accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,22 +68,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T21:05:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:05:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific framework, rather than discussing DevOps principles or practices. While it touches on team improvement and efficiency, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on a Scrum Health Check rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a Scrum Health Check event being offered, which is a form of presentation or workshop, but the primary focus is on the Scrum methodology rather than the event itself.",
-    "level": "Tertiary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T21:05:34",
@@ -160,15 +106,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum practices and the importance of team dynamics in implementing Scrum effectively, making it a major but secondary theme.",
-    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,12 +127,15 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a Scrum Health Check that aims to identify opportunities for improvement, which aligns with the theme of continuous improvement and metrics. However, the primary focus is on the Scrum process rather than metrics and learning specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions a 'Scrum Health Check' and the identification of 'Opportunities' for improvement, which aligns with the idea of metrics and continuous improvement. However, it lacks detailed discussion on metrics, data analysis, or feedback mechanisms, making it more of a promotional piece rather than a focused exploration of metrics and learning.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -235,12 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a Scrum Health Check, which relates to Agile methodologies and the assessment of Scrum practices, making it a major but secondary theme in the context of product delivery.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a Scrum Health Check, which is related to Agile methodologies and product delivery. However, it primarily focuses on the Scrum framework rather than the broader aspects of product delivery, such as planning, testing, and deployment. While it mentions opportunities for improvement, it lacks depth in discussing the end-to-end process of delivering software products.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -260,22 +203,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific product, the 'Scrum Health Check', which is related to Scrum practices, but the primary focus is on the implementation and benefits rather than a review or analysis of literature or tools.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a Scrum Health Check aimed at identifying opportunities for improvement, which relates to value delivery, but primarily focuses on Scrum implementation rather than value delivery strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to value delivery by identifying opportunities for improvement in Scrum practices. However, it lacks explicit discussions on iterative development, customer value measurement, or alignment with customer needs, which are core themes of the category. The depth of discussion is moderate, focusing on the health check process rather than broader value delivery strategies.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -305,7 +242,7 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T21:05:54",
     "ai_confidence": 0,
@@ -316,29 +253,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:05:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Scrum practices and a health check for Scrum implementation, which does not align with the Agile Product Operating Model's emphasis on product management principles and continuous delivery. While it mentions improvement opportunities, it lacks a direct discussion on transitioning to a product-oriented mindset or the broader principles of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a Scrum Health Check, which relates to Agile methodologies and improvement opportunities, but primarily focuses on Scrum implementation rather than broader organisational agility strategies.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T21:05:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a Scrum Health Check service rather than providing news or reviews related to Agile or DevOps.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a Scrum Health Check, which is a specific Agile methodology rather than a broader discussion on organisational agility. While it mentions improvement opportunities and direction, it lacks a comprehensive exploration of organisational agility principles, leadership roles, or cultural shifts necessary for agility. The discussion is more about assessing Scrum practices than enhancing overall organisational adaptability.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -350,30 +284,21 @@
     "reasoning": "Content heavily discusses Scrum practices and health checks, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:06:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses a Scrum Health Check, which relates directly to Scrum practices and implementation.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T22:09:47",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Scrum Health Check and does not focus on the Daily Scrum event or its specific principles and practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T22:09:47",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a Scrum Health Check and not the Definition of Done.",
     "level": "Ignored"
   },
@@ -397,11 +322,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:09:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and health checks, which are not directly related to Continuous Delivery. While there are mentions of improvement opportunities, they do not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T22:09:47",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a Scrum Health Check, not on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -460,12 +388,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and a Scrum Health Check, which are related to Agile Planning principles, but it's primarily focused on evaluating and assessing Scrum implementation rather than in-depth Agile planning practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a Scrum Health Check, which is related to Agile Planning, but it primarily focuses on assessing Scrum implementation rather than the broader principles and practices of Agile Planning. While it mentions improvement opportunities and goal tracking, it lacks detailed exploration of Agile methodologies, techniques, or best practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -487,20 +418,26 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a Scrum Health Check aimed at identifying opportunities for improvement in Scrum practices, which relates to operational efficiency. However, it primarily focuses on the concept of assessing Scrum rather than providing detailed techniques or strategies for operational improvement.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to operational practices by identifying opportunities for improvement in Scrum implementations. However, it lacks a direct focus on operational efficiency techniques or methodologies, making it more of a promotional piece rather than a detailed exploration of operational practices.",
     "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content does mention Scrum and a health check to assess the implementation of Scrum practices, which relates to team performance. However, it primarily focuses on a service offering and does not delve into team collaboration, roles, or dynamics extensively.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Scrum and the concept of a Scrum Health Check, which relates to team performance and improvement. However, it lacks detailed discussions on specific roles, collaboration techniques, or team dynamics that are central to the Scrum Team category. The focus is more on a general health check rather than an in-depth exploration of Scrum Team dynamics.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
@@ -514,11 +451,14 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content focuses primarily on conducting a Scrum Health Check, it emphasizes identifying opportunities for improvement and aligns with the idea of assessing team performance in relation to strategic goals. However, the main topic is about Scrum practices rather than a detailed discussion on strategic approaches.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to strategic alignment and improvement within Agile teams. However, it primarily focuses on the operational aspects of Scrum rather than a comprehensive strategic approach. While it mentions opportunities for improvement, it lacks depth in discussing strategic frameworks or metrics that inform strategic decisions.",
     "level": "Tertiary"
   },
   "Product Validation": {
@@ -532,12 +472,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum implementation and offers a Scrum Health Check, making Agile principles a major theme.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses a Scrum Health Check, which is a specific tool related to Scrum practices. While it mentions Scrum and implies a focus on improving Scrum implementation, it lacks a broader discussion on Agile transformation principles, methodologies, or change management strategies. The depth of discussion is limited to a specific service offering rather than a comprehensive exploration of Agile transformation as a whole.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -559,12 +502,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a Scrum Health Check that aims to evaluate the implementation of Scrum practices, which indirectly relates to team performance and effectiveness. However, it is primarily promotional and does not delve deeply into team dynamics or collaborative strategies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to team performance by suggesting improvements and opportunities for teams. However, it lacks detailed exploration of team dynamics, collaboration, or specific Agile practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -586,39 +532,36 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum, a specific Agile framework used in software development, along with practices for assessing Scrum implementation. It aligns well with key topics related to software development methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on Scrum and discusses a Scrum Health Check, which is directly related to Agile Project Management principles and practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Scrum, which is a key Agile framework within the Software Development category. It mentions the Scrum Health Check, indicating a focus on assessing Scrum practices, which aligns with Agile methodologies. However, the depth of discussion is somewhat limited, focusing more on the promotional aspect of the health check rather than providing in-depth insights into Scrum practices or methodologies. Overall, while the content is relevant, it lacks comprehensive detail on broader software development practices.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T22:09:48",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events and focuses on a Scrum Health Check rather than Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses a Scrum Health Check and mentions the importance of assessing Scrum implementation, indicating a focus on Scrum principles and practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses a Scrum Health Check, which relates to assessing Scrum practices, but lacks detailed exploration of Scrum principles, roles, or events. It mentions Scrum in the context of a service offered, indicating some relevance, but does not delve deeply into the theoretical foundations or practical implementations of Scrum as outlined in the Scrum Guide.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -631,19 +574,22 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a Scrum Health Check which implies some elements of inspection and improvement but does not deeply engage with empirical process control as a primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and the concept of a 'Scrum Health Check', which implies some level of inspection and adaptation. However, it lacks a detailed discussion on empirical process control principles, such as transparency, continuous improvement, or specific techniques related to inspection and adaptation. The focus is more on a service offering rather than a deep exploration of empirical process control concepts.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T22:09:48",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Scrum health check and its implementation rather than discussing the Scrum Values themselves.",
     "level": "Ignored"
   },
@@ -701,15 +647,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, with no focus on customer satisfaction or related metrics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a Scrum Health Check, which is primarily about assessing individual Scrum teams rather than discussing the scaling of Scrum practices across multiple teams or an organization.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T22:09:48",
@@ -726,15 +663,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum health checks and implementation metrics without addressing psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices at the team level and does not address scaling agility beyond individual teams.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,12 +712,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a practical Scrum Health Check designed to identify opportunities for improvement in a Scrum implementation, highlighting practical problem-solving strategies and real-world applications of Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses a Scrum Health Check, which implies a practical approach to assessing Scrum implementation. However, while it mentions opportunities for improvement and direction, it lacks in-depth exploration of pragmatic problem-solving strategies or real-world applications of Agile principles. The focus is more on the service offered rather than a comprehensive discussion of pragmatic thinking in Agile contexts.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +733,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T22:09:48",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum health checks and practices rather than focusing on the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses a Scrum Health Check, indicating a focus on assessing Scrum practices, which relates to Scrum implementation, but it does not deeply engage with product development specifics.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and health checks, without addressing scaling Agile across multiple teams or enterprises.",
+    "reasoning": "Content heavily discusses Scrum health checks and practices rather than focusing on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -937,12 +850,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a Scrum Health Check that aims to identify opportunities for improvement, which relates to decision-making about Scrum practices. However, the primary focus is on the Scrum process rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the concept of a 'Scrum Health Check' and identifies opportunities for improvement, which could relate to decision-making. However, it lacks a structured discussion on evidence-based methodologies or frameworks for decision-making. The focus is more on Scrum practices rather than the principles of decision-making as defined in the category.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1009,12 +925,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Scrum Health Check, which relates to team processes and identifying opportunities for improvement within Scrum. However, it does not primarily focus on team collaboration dynamics or communication techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to team collaboration by implying the need for teams to assess their Scrum practices. However, it lacks explicit discussions on team dynamics, communication, or shared ownership, which are core themes of the category. The depth of discussion is limited, focusing more on the service offered rather than exploring collaboration techniques or team dynamics in detail.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1034,22 +953,13 @@
     "reasoning": "Content is primarily about Scrum methodologies and health checks, not focused on digital transformation or the strategic adoption of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T22:09:48",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the health of Scrum implementation, with no clear focus on MVP or product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without any relevant focus on AI integration.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1099,11 +1009,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:09:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum practices and health checks, with no focus on Test First Development or related testing concepts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and a Scrum Health Check, with no direct mention or discussion of Test First Development principles. While it touches on improvement opportunities, it does not align with the core themes of Test First Development, such as success criteria or testing methodologies. The depth of discussion is minimal and does not provide relevant insights into Test First practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1135,10 +1048,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T22:09:48",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and a Scrum Health Check, focusing on Scrum implementation rather than team motivation.",
     "level": "Ignored"
   },
@@ -1180,12 +1093,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a Scrum Health Check, which is relevant to Scrum practices and team improvement, but does not clearly focus on the Scrum Master's role in facilitating those processes.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to the role of a Scrum Master in assessing and improving Scrum practices. However, it lacks direct mentions of the Scrum Master's responsibilities and does not delve deeply into the core themes of the category, such as coaching or facilitating. The focus is more on a service offering rather than a comprehensive discussion of the Scrum Master role.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1204,15 +1120,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum implementation and health checks rather than working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its implementation, which is relevant to Agile practices that software developers may engage with, but it does not primarily focus on the role of software developers in these practices.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1270,11 +1177,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum and its implementation through a Scrum Health Check, aligning closely with discussions on Agile frameworks, specifically focusing on improvement and adherence to Scrum principles.",
+    "reasoning": "The content primarily discusses Scrum, a specific Agile framework, and introduces a Scrum Health Check, which directly relates to the implementation and assessment of Scrum practices. It mentions the importance of adhering to Scrum principles and provides insights into evaluating Scrum effectiveness. However, while it aligns well with Agile frameworks, it lacks a broader exploration of other frameworks or a comparative analysis, which slightly limits its depth and conceptual alignment.",
     "level": "Secondary"
   },
   "Agile Strategy": {
@@ -1331,15 +1241,6 @@
     "reasoning": "Content primarily discusses a Scrum Health Check and does not focus on the themes of accountability, ownership, or team dynamics in Agile.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and health checks, with no focus on scaling Kanban principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T22:09:48",
@@ -1360,12 +1261,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:54:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Scrum framework, specifically the concept of a Scrum Health Check, which aligns with the category's focus on Scrum practices and continuous improvement.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on a Scrum Health Check, which is a specific tool rather than a broader discussion on social technologies. While it mentions improvement opportunities and team dynamics, it lacks a comprehensive exploration of self-organisation, collaboration, or value delivery principles central to social technologies. The discussion is somewhat aligned with the category but does not delve deeply into the underlying frameworks or methodologies that promote collaboration and decision-making.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1374,6 +1278,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum implementation and health checks, with no clear focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:26:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:26:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses Scrum through the concept of a 'Scrum Health Check', indicating a focus on evaluating Scrum practices. It aligns well with key topics such as continuous improvement and team dynamics, as it aims to identify opportunities for enhancement in Scrum implementation. The depth of discussion is moderate, providing insights into the purpose and benefits of the health check, but it lacks detailed exploration of Scrum roles or events.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum practices and a Scrum Health Check, with no direct mention or alignment to the Shift-Left Strategy. It focuses on team dynamics and Scrum implementation rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses a Scrum Health Check, which implies a focus on identifying improvement opportunities. However, it primarily centres on Scrum practices rather than a broader discussion of Continuous Improvement principles. While there are mentions of improvement and direction, the depth of discussion on Continuous Improvement concepts is limited, and the content does not provide substantial empirical evidence or strategies for fostering a culture of experimentation.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a Scrum Health Check, which is more about assessing Scrum practices rather than discussing Common Goals. While it mentions improvement opportunities and direction, it lacks a clear connection to shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion is more operational and tactical, without delving into the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses a Scrum Health Check, which indirectly relates to competence by identifying improvement opportunities. However, it lacks explicit discussions on continuous learning or skill development, and the depth of discussion on competence is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and a health check for Scrum implementation, which does not align with the concept of Agentic Agility. While there are brief mentions of improvement opportunities and direction, these do not explicitly connect to the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

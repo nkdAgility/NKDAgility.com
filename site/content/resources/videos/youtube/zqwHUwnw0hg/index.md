@@ -2,8 +2,10 @@
 title: What will you learn on the professional scrum master course?
 description: Discover how the Professional Scrum Master course empowers you to lead agile teams, fostering autonomy and collaboration for optimal success.
 date: 2023-01-19T07:00:14Z
+weight: 750
 ResourceId: zqwHUwnw0hg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zqwHUwnw0hg
@@ -15,39 +17,43 @@ preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg
 duration: 326
 isShort: false
 aliases:
-- /resources/what-will-you-learn-on-the-professional-scrum-master-course
-- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
-- /resources/videos/zqwHUwnw0hg
-- /resources/what-will-you-learn-on-the-professional-scrum-master-course-
 - /resources/zqwHUwnw0hg
-aliasesFor404:
+- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
+aliasesArchive:
+- /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course
 - /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course-
+- what-will-you-learn-on-the-professional-scrum-master-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Frameworks
+- Empirical Process Control
 - Professional Scrum
 - Scrum Master
+- Scrum Team
+- Software Development
+- Increment
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-What will you learn on the professional scrum master course?
+What will you learn on the professional [scrum]({{< ref "/categories/scrum" >}}) master course?
 
 The [Professional Scrum Master](https://nkdagility.com/training/courses/professional-scrum-master-psm-live-virtual-learning-experience-with-certification/) (PSM) course has a large degree of theory relating to scrum than something like the [Applying Professional Scrum](https://nkdagility.com/training/courses/applying-professional-scrum-aps-live-virtual-learning-experience-with-certification/) (APS) course.
 
-It focuses a great deal on the theory of being a scrum master in a scrum team environment.
+It focuses a great deal on the theory of being a [scrum master]({{< ref "/tags/scrum-master" >}}) in a [scrum team]({{< ref "/tags/scrum-team" >}}) environment.
 
 ## Learning from live scrum environments
 
 It’s also a great course from a learning, real-time about the challenges of a scrum master because each class contains wannabe scrum masters, newbie scrum masters, and experienced scrum masters talking about the role, the challenges, and what they would like to learn from the experience.
 
-Your Professional Scrum Trainer is answering questions, in a how to context, from existing scrum masters and it provides newbie and wannabe scrum masters great insights into the role.
+Your [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer is answering questions, in a how to context, from existing scrum masters and it provides newbie and wannabe scrum masters great insights into the role.
 
 - How does scrum work?
 
@@ -67,7 +73,7 @@ There are 3 parts to the scrum master role:
 
 1. Scrum master's in service to the developers.
 
-3. Scrum master's in service to the product owner.
+3. Scrum master's in service to the [product owner]({{< ref "/tags/product-owner" >}}).
 
 5. Scrum master's in service to the organization
 
@@ -85,21 +91,21 @@ That is something that the Professional Scrum Master course focuses a great deal
 
 ### Foundations in Empiricism.
 
-Empiricism, also known as Empirical Process Control, is an essential process in helping individuals and team navigate uncertainty and complexity.
+Empiricism, also known as [Empirical Process Control]({{< ref "/tags/empirical-process-control" >}}), is an essential process in helping individuals and team navigate uncertainty and complexity.
 
-The pillars of empiricism are Transparency. Inspection. Adaptation.
+The pillars of empiricism are [Transparency]({{< ref "/tags/transparency" >}}). Inspection. Adaptation.
 
 It is essential that a scrum master understands what empiricism is, why it is such a critical element of both agile and scrum, and how it serves to help teams solve complex problems and create complex solutions, despite uncertainty and complexity in the environments they serve.
 
-The Professional Scrum Master course ensures that a scrum master has a strong, foundational knowledge of empiricism and understands the context of empiricism in product development and value creation throughout the value stream.
+The Professional Scrum Master course ensures that a scrum master has a strong, foundational knowledge of empiricism and understands the context of empiricism in [product development]({{< ref "/categories/product-development" >}}) and value creation throughout the value stream.
 
 ### Working Increments in each Sprint
 
-Scrum is built on the core concept of delivering a working, valuable product increment at the end of each sprint. The idea that the customer gets something of value within short, rapid cycles of product development.
+Scrum is built on the core concept of delivering a working, valuable product [increment]({{< ref "/tags/increment" >}}) at the end of each sprint. The idea that the customer gets something of value within short, rapid cycles of product development.
 
 The Professional Scrum Master course promotes the value of working, useable product increments such as features and helps the scrum master understand why this is such a core tenet of Scrum.
 
-This draws on the [agile manifesto](https://agilemanifesto.org/)’s second value, working software over comprehensive documentation, and provides a context from which the scrum master can understand what the primary goal of each sprint is and why that is true.
+This draws on the [agile manifesto](https://agilemanifesto.org/)’s second value, [working software]({{< ref "/tags/working-software" >}}) over comprehensive documentation, and provides a context from which the scrum master can understand what the primary goal of each sprint is and why that is true.
 
 If you don’t have a working increment at the end of each sprint:
 

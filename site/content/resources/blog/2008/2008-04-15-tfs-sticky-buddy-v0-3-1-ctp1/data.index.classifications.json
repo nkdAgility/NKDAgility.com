@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions ALM and discusses a tool related to application management, but it primarily focuses on the features of a specific software release rather than the broader principles of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss any aspects of Application Lifecycle Management. It focuses more on a specific software release and its features rather than the methodologies, practices, or tools involved in managing the application lifecycle. The discussion lacks depth and does not cover key topics related to ALM, such as governance, metrics, or risk management.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -35,7 +38,7 @@
     "reasoning": "Content primarily discusses a software tool and its features without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T18:24:43",
     "ai_confidence": 0,
@@ -55,10 +58,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:24:47",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a digital dashboard project and its features, with no clear focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses a software tool and its features without any direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:24:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:24:52",
@@ -97,15 +91,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and its features, with no reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific tool (TFS Sticky Buddy) and its functionalities, which aligns with the category, but lacks a broader exploration of methodologies or frameworks.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:24:56",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and its features, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:25:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a software tool (TFS Sticky Buddy) and its features, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:25:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:25:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific software release and its features, lacking broader industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a digital dashboard for Team Foundation Server and does not mention or align with the Agile Product Operating Model. It focuses on technical aspects of a software tool rather than principles of agile methodologies or product management.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific software project (TFS Sticky Buddy) and its features, with no clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:25:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software project and its features, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:25:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a digital dashboard project for Team Foundation Server without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:25:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a software release and its features without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:25:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no mention of events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:25:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -289,10 +226,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:25:20",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and technical details, with no personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
@@ -316,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:25:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific software project and its features, with no clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Sticky Buddy) related to Team Foundation Server, which is more aligned with project management and software development rather than the core principles of DevOps. There are no explicit discussions on DevOps philosophy, practices, or cultural shifts, and the content lacks depth in addressing any of the key topics associated with DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -331,33 +271,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific software release and its features, lacking a focus on engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:25:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:25:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software release and its features without focusing on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific software product, TFS Sticky Buddy, and its features, making it a major theme, but it lacks a broader analysis or review context typical of the category.",
-    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -388,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:58:03",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a specific software release and its features, without discussing innovation capabilities or strategies.",
     "level": "Ignored"
   },
@@ -420,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content predominantly discusses a digital dashboard project and technical aspects of software development, rather than portfolio management or strategic alignment of projects.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software dashboard project unrelated to Scrum principles or product development methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:58:03",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific software project (TFS Sticky Buddy) and its functionalities, without references to Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:58:03",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software project and its features, not related to the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on a digital dashboard project specific to Team Foundation Server and does not discuss Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content primarily discusses a software project and its features, not related to the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,23 +470,17 @@
     "reasoning": "Content discusses a specific software project related to Team Foundation Server but does not focus on collaboration tools or enhancing team dynamics relevant to Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a specific software release (TFS Sticky Buddy) and its functionalities rather than the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of a digital dashboard project using WPF, which relates to software development practices and tools.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific software project (TFS Sticky Buddy) and its development using WPF, which aligns with software development practices. However, it lacks detailed discussion on methodologies, best practices, or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +509,7 @@
     "reasoning": "Content primarily discusses a software release and features, without any focus on estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:58:03",
     "ai_confidence": 0,
@@ -694,11 +583,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software dashboard project without any mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a specific software tool (TFS Sticky Buddy) and its features, with no explicit discussion of Continuous Delivery principles, practices, or related topics. It lacks depth and alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -730,10 +622,10 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-16T18:58:03",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific software release and technical details about a digital dashboard project without focusing on strategic digital transformation themes.",
     "level": "Ignored"
   },
@@ -744,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily describes a software tool and its features without any focus on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Team Foundation Server Sticky Buddy and its features, with no mention of AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -847,10 +730,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T18:58:03",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a specific software tool, TFS Sticky Buddy, but does not focus on version control practices or methodologies.",
     "level": "Ignored"
   },
@@ -928,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:58:03",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and its functionality without addressing the Definition of Ready or related agile practices.",
     "level": "Ignored"
   },
@@ -971,15 +854,6 @@
     "reasoning": "Content primarily focuses on a digital dashboard project for Team Foundation Server, without any mention of remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a technical project related to Team Foundation Server and does not discuss Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T18:58:03",
@@ -987,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and technical details rather than customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a software project related to Team Foundation Server and does not address Agile project management principles, frameworks, roles, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,12 +955,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content is primarily about a digital dashboard project built using Windows Presentation Foundation (WPF), which relates to Windows development, but it's not a comprehensive discussion about the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a project built using Windows Presentation Foundation (WPF), which is a technology specific to the Windows environment. However, the focus is primarily on the Team Foundation Server Sticky Buddy application rather than on Windows itself. While there are mentions of Windows-related technologies, the depth of discussion on Windows installation, configuration, or troubleshooting is minimal, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1234,10 +1102,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T18:58:03",
+    "calculated_at": "2025-04-10T15:56:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Community Technology Preview release of a specific software project without focusing on release management processes or strategies.",
     "level": "Ignored"
   },
@@ -1266,15 +1134,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific software project and its features without addressing asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a digital dashboard project related to Team Foundation Server and does not discuss Scrum or scaling practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,22 +1172,16 @@
     "reasoning": "Content is primarily about a digital dashboard project related to Team Foundation Server and does not discuss Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a digital dashboard project unrelated to the scaling of agile practices or methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a software release and technical details, not related to Scrum Master's role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a software tool related to Team Foundation Server and does not mention the Scrum Master role or its responsibilities. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is minimal, focusing instead on technical aspects of a digital dashboard.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1204,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:58:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific software tool and its features, with no mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a digital dashboard for Team Foundation Server and does not mention Test First Development principles, success criteria, or any related testing practices. It lacks any relevant detail or focus on the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:15:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software release and its features, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific software tool (TFS Sticky Buddy) and its functionalities, with no explicit discussion on social technologies, collaboration, or decision-making frameworks. While it mentions project visualisation, it does not delve into the underlying social frameworks or methodologies that promote collaboration or value delivery within organisations.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1233,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a software release and technical details related to a digital dashboard project, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:43:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a specific software project (TFS Sticky Buddy) and its features, without focusing on the concept of Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:43:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a software project related to Team Foundation Server and does not mention AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses a software project related to Team Foundation Server and does not mention Scrum principles, roles, events, or any related concepts. The focus is on a specific tool rather than the Scrum framework or its practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific software tool (TFS Sticky Buddy) and its features, with no mention of the Shift-Left Strategy or its principles. It lacks any discussion on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a software tool (TFS Sticky Buddy) and its features, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a software release and its features, with no explicit discussion of competence, continuous learning, or skill development. While it mentions development and functionality, it does not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a software release and its features, with no explicit discussion of Continuous Improvement principles or practices. It lacks alignment with the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or strategies for fostering a culture of experimentation. The depth of discussion is minimal, as it does not explore any related concepts or frameworks.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a software release and its features, with no explicit discussion of Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, human or AI capabilities, or any related concepts. The content is more aligned with software development and project management rather than the themes of agency and intentionality.",
     "level": "Ignored"
   }
 }

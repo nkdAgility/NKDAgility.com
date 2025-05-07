@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T22:31:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an advanced product owner, which is not central to the frameworks of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in Agile environments, discussing advanced skills and the PSPO-A certification. While it touches on aspects of collaboration and leadership, it lacks a direct focus on social technologies as defined in the category. The discussion is more centred on individual roles and responsibilities rather than the broader frameworks and methodologies that promote collaboration and decision-making within teams. Therefore, the confidence score reflects a low alignment with the core themes of social technologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -19,30 +22,39 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T22:31:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of an advanced product owner, focusing on marketing, contracts, and finance, which are not central to DevOps principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership within the Agile and Scrum frameworks, with no direct mention of DevOps principles or practices. While there are references to collaboration and leadership, these are framed within the context of product ownership rather than the broader DevOps philosophy. The discussion lacks depth in terms of DevOps concepts such as automation, shared accountability, or continuous improvement, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T22:31:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an advanced product owner and touches on various aspects of product management, but it primarily focuses on the broader responsibilities rather than specific methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of an advanced product owner, touching on various aspects of product management such as marketing, finance, and leadership. While it does not explicitly mention methodologies like Agile or Scrum, it aligns with the core themes of product management by highlighting the strategic responsibilities of a product owner. However, the discussion lacks depth in terms of specific frameworks or techniques, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T22:31:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the advanced product owner as a leader and touches on leadership qualities, but it primarily focuses on the responsibilities and skills of the product owner rather than broader leadership practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of an advanced product owner as a leader, highlighting the need for a broad skill set that includes marketing, finance, and strategic thinking. However, while it touches on leadership qualities, it does not delve deeply into leadership practices or frameworks, making it a secondary focus rather than a primary discussion on leadership.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -64,12 +76,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T22:31:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the advanced product owner, which is a significant aspect of Scrum, but it also diverges into areas like marketing, contracts, and finance, making Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the role of the product owner, which is a key aspect of Scrum, but it does not delve into the core principles, practices, or frameworks of Professional Scrum. The discussion is more focused on the broader responsibilities of a product owner rather than the specific Scrum practices or values, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -82,29 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:31:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, without a focus on evidence-based management principles or empirical data.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T22:31:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of an advanced product owner and their responsibilities, which are unrelated to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T22:31:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of an advanced product owner and does not address Kanban principles or scaling practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on the role of a Product Owner, it lacks a clear connection to data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -136,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T22:31:44",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, without focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, without focusing on trend analysis or its implications in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T22:31:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner without reference to scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -226,21 +217,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T22:31:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an advanced product owner, which is relevant to product delivery, but it primarily focuses on the broader responsibilities and skills rather than the methodologies and practices of delivering software products.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of an advanced product owner, which is relevant to product delivery, but it primarily focuses on the broader responsibilities and skills rather than specific methodologies or practices involved in delivering software products. While it touches on aspects like marketing and finance, it lacks detailed discussion on key topics such as Agile methodologies, testing, or deployment strategies, which are central to the category.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T22:31:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of an advanced product owner without any mention of AI or its integration within Agile methodologies, DevOps practices, or software development processes.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +236,6 @@
     "reasoning": "Content primarily discusses the role of an advanced product owner and their responsibilities, without a clear focus on digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T22:32:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the advanced product owner, touching on leadership and the interplay of various business functions, which aligns with the themes of human behaviour and structured methodologies in product development.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T22:32:03",
@@ -268,15 +244,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T22:32:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the product owner, which is a significant aspect of Agile Project Management, but it also diverges into broader topics such as marketing and finance.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +263,6 @@
     "reasoning": "Content heavily discusses the role of the advanced product owner and their responsibilities, but does not focus on accountability as a primary theme.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T22:32:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, without a focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T22:32:16",
@@ -312,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:32:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, which is not related to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -361,11 +310,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:32:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner rather than the Scrum Master.",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner rather than the Scrum Master. While it mentions Agile and Scrum, it does not discuss the responsibilities or impact of the Scrum Master, nor does it explore the Scrum Master's role in facilitating team effectiveness or promoting agile principles. The discussion is centred on product ownership skills and the PSPO-A certification, which are not directly related to the Scrum Master role.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -379,10 +331,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T22:32:26",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, focusing on marketing, contracts, and finance rather than Agile values and principles.",
     "level": "Ignored"
   },
@@ -397,11 +349,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:32:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, with no direct mention or discussion of Test First Development principles. While it touches on Agile and Scrum, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of testing in software delivery.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,10 +415,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T22:32:39",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an advanced product owner and their responsibilities, without a clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -503,39 +458,21 @@
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T22:32:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of an advanced product owner without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T22:32:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner without reference to specific tools, methodologies, or practical techniques related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T22:32:49",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of an advanced product owner and their responsibilities, which are not related to Value Stream Mapping.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T22:32:50",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the broader role of an advanced product owner, including aspects outside of backlog management.",
     "level": "Ignored"
   },
@@ -546,15 +483,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner without personal reflections or experiences.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T22:32:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner without reference to specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -577,21 +505,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T22:32:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner, which is a significant aspect of Scrum Teams, but it primarily focuses on the broader responsibilities and skills of a product owner rather than team dynamics or collaboration.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the role of the Product Owner, which is a key role within a Scrum Team, but it does not delve into the dynamics, collaboration, or practices of a Scrum Team. The focus is more on the advanced skills of a Product Owner rather than the team as a whole or the Scrum framework. Therefore, while there is some relevance, it lacks depth and broader discussion on Scrum Team dynamics.",
     "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T22:33:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the product owner and their responsibilities, which are primarily focused on team-level practices rather than scaling agility across the organisation.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -613,11 +535,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:33:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of an advanced product owner and their responsibilities, which are not related to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile concepts, it does not explore Continuous Delivery's core themes such as automation, incremental improvements, or rapid feedback. The discussion is more about the role of a Product Owner rather than the delivery practices themselves.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -665,7 +590,7 @@
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, which is not directly related to the Daily Scrum event.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T22:33:12",
     "ai_confidence": 0,
@@ -683,15 +608,6 @@
     "reasoning": "Content heavily discusses advanced product ownership skills and does not relate to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T22:33:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of an advanced product owner without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T22:33:15",
@@ -703,11 +619,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:33:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an advanced product owner, which aligns with the principles of product-centric development, but it primarily focuses on the skills and responsibilities of the product owner rather than the broader Agile Product Operating Model.",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a Product Owner and the importance of advanced skills in product ownership, which aligns with the Agile Product Operating Model. However, it primarily focuses on the PSPO-A certification and the personal development of the Product Owner rather than the broader principles and frameworks of the Agile Product Operating Model. The discussion lacks depth in terms of operational stability, governance, and integration of agile methodologies with product management principles, which are key aspects of the category.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -775,10 +694,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T22:33:28",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, without a focus on metrics, data utilisation, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -793,10 +712,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T22:33:30",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an advanced product owner and their responsibilities, which does not align with Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -807,15 +726,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, rather than focusing on mentoring or coaching within Agile environments.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T22:33:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -919,12 +829,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T22:33:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the advanced product owner, which is relevant to Agile Product Management, but it also includes elements outside the core Agile principles, such as marketing and finance.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within Agile frameworks, particularly highlighting the advanced skills and responsibilities associated with this position. It discusses the importance of the Product Owner in driving product success and aligning with organisational goals, which aligns well with Agile Product Management principles. However, while it provides a good depth of discussion on the advanced aspects of the role, it lacks specific techniques or methods for prioritising backlogs or incorporating customer feedback, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -937,20 +850,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T22:33:52",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of an advanced product owner and related responsibilities, which are not central to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T22:33:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the role and responsibilities of an advanced product owner, without discussing scaling Scrum principles or practices.",
+    "reasoning": "Content heavily discusses the role of an advanced product owner and related responsibilities, which are not central to Value Stream Management.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -961,15 +865,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role of an advanced product owner and their responsibilities, without a clear discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T22:33:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an advanced product owner, which relates to product management concepts, but it does not focus on specific products or literature.",
-    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -991,20 +886,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T22:34:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an advanced product owner and touches on practical aspects of leadership and decision-making in product management, which aligns with pragmatic thinking, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of an advanced Product Owner within the Agile framework, highlighting practical skills and real-world applications. It mentions the importance of experience and adaptability, aligning with pragmatic thinking. However, while it touches on practical aspects, it lacks detailed problem-solving strategies and case studies, which limits its depth in the category.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T22:34:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, with no clear focus on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T11:43:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the benefits of advanced product ownership skills, particularly in relation to the PSPO-A certification. There are no direct mentions of Lead Time or its significance as an observability metric. While there is a general discussion about the responsibilities and skills of a Product Owner, it does not align with the core themes of Lead Time, such as measuring efficiency or optimising workflows. The depth of discussion is also limited, as it does not provide any techniques or strategies related to Lead Time, nor does it address its impact on business agility or customer satisfaction. Overall, the content is more about product ownership than Lead Time.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1054,11 +955,14 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T22:34:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an advanced product owner and touches on aspects related to product strategy, such as marketing and finance, but it primarily focuses on the responsibilities and skills of the product owner rather than a clear product strategy framework.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a Product Owner and the importance of advanced skills in product ownership, which aligns with product strategy. However, it primarily focuses on the Agile framework and the PSPO-A certification rather than providing a comprehensive exploration of product strategy methodologies or frameworks. The discussion lacks depth in strategic planning and market analysis, which are core themes of product strategy.",
     "level": "Tertiary"
   },
   "Software Development": {
@@ -1099,12 +1003,15 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T22:34:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an advanced product owner and touches on entrepreneurial qualities, but it primarily focuses on product ownership rather than entrepreneurship as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of an advanced Product Owner, drawing parallels to entrepreneurship and highlighting the entrepreneurial mindset required for success in this role. It mentions the importance of innovation, strategic thinking, and value creation, which align with entrepreneurial principles. However, the primary focus is on product ownership within Agile frameworks rather than entrepreneurship itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1113,15 +1020,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an advanced product owner and their responsibilities, rather than focusing on cross-functional teams or their characteristics.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T22:34:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an advanced product owner, focusing on marketing, contracts, and business aspects rather than the role of software developers in Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1144,30 +1042,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T22:34:35",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, which is not related to installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T22:34:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, highlighting the skills and considerations necessary for success in the position.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T22:34:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner without addressing industry news, updates, or reviews.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner, discussing advanced skills and the significance of the PSPO-A certification. It explicitly mentions the responsibilities and evolving nature of the Product Owner role, aligning well with the key topics outlined for this category. The depth of discussion is substantial, covering various aspects of product ownership, including the need for advanced skills and the multifaceted nature of the role. However, while it does touch on the responsibilities and skills, it lacks specific techniques for backlog management or stakeholder engagement, which slightly lowers the alignment score.",
+    "level": "Primary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1207,12 +1099,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T22:34:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an advanced product owner, which touches on leadership aspects within an Agile context, but primarily focuses on the responsibilities and skills of the product owner rather than broader Agile leadership themes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the importance of advanced skills in product ownership, which is a specific role within Agile rather than a broader discussion on Agile leadership. While it touches on aspects of leadership, such as being a 'mini-CEO' and bridging departments, it lacks a comprehensive exploration of Agile leadership principles and practices. The discussion is more about the technical and functional aspects of product ownership rather than the leadership dynamics that guide teams and organisations through change.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1234,47 +1129,47 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T22:34:49",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the broader role of an advanced product owner, including marketing and finance, rather than focusing on methodologies for validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T22:34:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:43:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and responsibilities of an advanced product owner, without focusing on throughput or its measurement and optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the benefits of advanced product ownership skills through the PSPO-A certification. It does not discuss throughput as a delivery metric, nor does it analyse or visualise throughput in any capacity. The mention of product ownership and skills development is tangential and does not align with the core themes of throughput, which is about measuring work item completion over time. Therefore, the confidence score is low.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:34:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the product owner, which is a key aspect of the Scrum framework, but it primarily focuses on the broader responsibilities and skills beyond the traditional Scrum context.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T22:34:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an advanced product owner and touches on aspects of value delivery, but it primarily focuses on the broader responsibilities and skills of the product owner rather than specific strategies or methodologies for delivering value.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of an advanced Product Owner and touches on aspects of value delivery, such as bridging departments and optimising synergy. However, it primarily focuses on the skills and certification of the Product Owner rather than specific strategies or methodologies for delivering value to customers. The discussion lacks depth in terms of value delivery practices and does not explicitly mention key topics like iterative development or customer feedback alignment.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T22:34:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:43:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of an advanced product owner and related business aspects, which are not relevant to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, which are related to Agile and Scrum methodologies rather than system configuration. There are no direct mentions of system configuration, and the discussion does not align with the core themes of system setup, integration, or maintenance. The depth of discussion is also minimal regarding system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,21 +1183,12 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T22:34:58",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, focusing on aspects like marketing, contracts, and finance, rather than methodologies for identifying customer needs or defining product features.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T22:34:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the product owner, which is a key aspect of Scrum, but it primarily focuses on the broader responsibilities and skills beyond the Scrum framework.",
-    "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1315,10 +1201,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T22:35:01",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, which is not directly related to the Definition of Done.",
     "level": "Ignored"
   },
@@ -1374,6 +1260,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and responsibilities of an advanced product owner, focusing on various business aspects rather than Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:57:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the role of an advanced product owner and related responsibilities, which are not relevant to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:57:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the role of an advanced product owner without any mention of AI or its integration within Agile methodologies, DevOps practices, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 55.0,
+    "reasoning": "The content briefly mentions the role of the product owner, which is a key aspect of the Scrum framework. However, it lacks detailed discussion on Scrum principles, practices, or events, and primarily focuses on the broader responsibilities of a product owner rather than the Scrum framework itself.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the benefits of advanced product ownership skills, without any explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It does not address the core themes of the Shift-Left Strategy, nor does it provide any depth on related techniques or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an advanced Product Owner and the benefits of obtaining a PSPO-A certification. While it touches on themes of skill enhancement and leadership in Agile, it lacks a direct discussion on Continuous Improvement principles. The mention of 'boosting skills' and 'optimising synergy' aligns somewhat with Continuous Improvement, but the depth of discussion is limited and does not provide empirical evidence or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an advanced Product Owner and the benefits of obtaining a PSPO-A certification. While it touches on aspects of leadership and collaboration, it does not explicitly discuss Common Goals or their significance in Agile and DevOps frameworks. The mentions of collaboration and strategic thinking are too vague and do not connect directly to the core themes of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of advanced product ownership skills and the PSPO-A certification, which implies a focus on competence. However, while it touches on the necessity for skill development and the role of a Product Owner, it lacks a deeper exploration of continuous learning and the broader implications of competence in Agile methodologies. The primary focus is on the certification and its benefits rather than a comprehensive discussion on competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, which are not directly related to the One Engineering System framework. While there are mentions of roles and responsibilities within Agile, the discussion does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is limited to personal insights on product ownership rather than a comprehensive exploration of 1ES principles.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, which are related to Agile practices but do not explicitly discuss Agentic Agility. While there are mentions of leadership and driving success, the content lacks a clear exploration of intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. The discussion is more about enhancing product ownership rather than the transformative capacity of individuals or systems in a socio-technical context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:42:27",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within the Agile framework, discussing advanced skills and the significance of the PSPO-A certification. It directly mentions product ownership and its evolution, aligning well with the principles of Agile product development. The depth of discussion includes insights into the responsibilities and strategic importance of the Product Owner, which is crucial for product development. However, while it touches on methodologies and practices, it lacks extensive detail on iterative processes and customer feedback integration, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:42:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, which are more aligned with traditional Agile and Scrum methodologies rather than Open Space Agile principles. There are no direct mentions of Open Space Agile or its core themes such as psychological safety, co-creation, or iterative dialogue. The discussion lacks depth regarding Open Space Agile practices, making it unsuitable for this category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:42:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the benefits of obtaining a PSPO-A certification, which are closely tied to Scrum practices. While it touches on the importance of advanced skills and a broader understanding of the role, it does not explicitly discuss Agnostic Agile principles or advocate for a context-driven approach. The discussion lacks depth regarding the core themes of Agnostic Agile, such as ethical considerations, critical thinking, or comparisons with other methodologies. Overall, the content is more aligned with traditional Agile frameworks rather than the Agnostic Agile philosophy.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:42:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the benefits of advanced product ownership skills through the PSPO-A certification. While it touches on aspects of leadership and cross-departmental collaboration, it does not explicitly discuss scaling methodologies, frameworks, or the complexities involved in scaling Agile practices. The mention of bridging departments and optimising synergy is too vague and does not delve into the specific strategies or frameworks that are central to the Scaling category. Overall, the content lacks a direct focus on scaling and does not provide sufficient depth or alignment with the key topics outlined for this category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:42:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership within an Agile framework, discussing roles and responsibilities of a Product Owner. It does not mention or align with the principles of Cell Structure Design, nor does it explore decentralised structures or autonomous cells. The discussion is centred around traditional product ownership concepts rather than the decentralised, network-based organisational design model described in the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:42:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, with no direct mention of Liberating Structures or their facilitation techniques. While it discusses roles and responsibilities within Agile and Scrum, it does not align with the core themes of Liberating Structures, such as enhancing participation or collaboration. The depth of discussion is centred on product ownership rather than group dynamics or facilitation methods, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:42:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of an advanced Product Owner and the benefits of obtaining a PSPO-A certification. While it touches on aspects of leadership and cross-departmental collaboration, it does not explicitly discuss Time to Market or its associated metrics. The mention of optimising synergy and driving results is vague and does not provide substantial detail on how these relate to reducing time to market. Overall, the content lacks a direct focus on the measurement or improvement of Time to Market, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:42:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within Agile frameworks, discussing advanced skills and the PSPO-A certification. While it touches on leadership and cross-departmental collaboration, it does not explicitly discuss the company as a product or the broader organisational strategy that CaaP entails. The mention of a 'mini-CEO' suggests some alignment with CaaP principles, but the overall focus remains on individual roles rather than the organisation as a whole. Therefore, the confidence score reflects a low alignment with the core themes of CaaP.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:42:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on advanced product ownership skills and the PSPO-A certification, discussing Agile and Scrum concepts without any direct mention of GitHub or its functionalities. While it touches on themes relevant to Agile project management, it does not align with GitHub's specific tools or practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:42:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an advanced Product Owner and the benefits of obtaining a PSPO-A certification. While it touches on the potential for innovation and leadership within the product ownership role, it does not explicitly discuss Unrealised Value or its indicators. The alignment with the core themes of the category is limited, as the content lacks a detailed exploration of untapped opportunities or strategies for identifying them. Overall, the discussion is more about personal development and skills enhancement rather than a focused analysis of Unrealised Value in the context of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:42:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of an advanced Product Owner and the benefits of obtaining a PSPO-A certification. While it touches on the importance of product ownership and leadership, it does not explicitly discuss Current Value or its metrics, nor does it provide insights into customer satisfaction or revenue impact. The discussion lacks depth in terms of practical application or measurement of Current Value, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:42:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the benefits of advanced product ownership skills through the PSPO-A certification. It does not explicitly mention Hybrid Agile or engage with its core themes, such as the integration of traditional and agile methodologies, challenges of conflicting expectations, or the preservation of command-and-control structures. The discussion is centred around enhancing product ownership capabilities rather than critically examining Hybrid Agile practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:43:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within the Agile framework, discussing advanced skills and the PSPO-A certification. While it touches on aspects of project management, such as leadership and cross-departmental collaboration, it lacks a broader discussion of core project management principles, methodologies, or lifecycle phases. The emphasis is on specific Agile roles and skills rather than comprehensive project management strategies, which limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the role of advanced Product Owners and highlights their skills and responsibilities. However, it lacks a clear focus on actionable principles that guide decision-making, and instead largely emphasizes the idea of advancing skills without providing specific principles or frameworks from Agile, Lean, or DevOps. While there are references to understanding roles and driving success, these do not strongly embody the actionable nature expected in the 'Principle' category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner and the PSPO-A certification but does not mention any specific tools or techniques that facilitate Agile practices. It focuses on the responsibilities and skills of a Product Owner rather than how tools support these roles or improve workflows.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 0,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content focuses primarily on the role of Product Owners and the benefits of obtaining the PSPO-A certification. While it hints at some values related to advanced product ownership and leadership qualities, it does not explicitly discuss values as concepts that guide behavior or decision-making within organizations. The discussion is more centered around skills and competencies rather than foundational beliefs that influence team dynamics and organizational culture.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on the practical aspects of product ownership and promoting a specific certification (PSPO-A). It mentions Agile and Scrum but does not engage with the philosophical foundations or reasoning behind these methodologies. There is no exploration of the 'why' behind the practices, nor does it discuss the broader cultural or decision-making implications intrinsic to the philosophy of Agile or product ownership.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 2,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses the skills and roles of a Product Owner within the Agile framework, touching on concepts related to discipline such as advanced skills and multi-faceted roles. However, it emphasizes specific skills and personal development over the underlying principles and systemic application of the discipline itself. While it briefly mentions roles and responsibilities that could tie into Governance and Evolution, the focus is too narrow and lacks depth in exploring the core themes of discipline as a structured field.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the benefits of advanced product ownership training through the PSPO-A certification. While it touches on the importance of the Product Owner's role, it does not explicitly discuss artifacts as defined in Agile or Scrum, nor does it explore the structure or purpose of specific artifacts. The references to leadership and broader responsibilities suggest an understanding of agile roles but lack a direct connection to artifacts themselves. Thus, it receives a low confidence score for 'Artifact' classification.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content is primarily focused on advanced product ownership skills and the PSPO-A certification, which is unrelated to observability. While it briefly touches on Agile principles, it does not discuss observability, metrics, logs, or traces, nor does it explore tools or practices relevant to measuring and understanding system performance. Therefore, it scores very low on all dimensions appropriate to the Observability category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the benefits of achieving an advanced certification (PSPO-A), rather than actionable techniques or practices that improve team performance. While it briefly touches on concepts related to product ownership and leadership, it lacks specific discussions on practices like pair programming, retrospectives, or continuous deployment. The alignment with the 'Practice' category is somewhat present but not in a detailed, actionable way; hence the confidence score is moderate.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily emphasizes the advanced role of a Product Owner and the benefits of pursuing the PSPO-A certification. While it mentions aspects of agility and product ownership, it lacks a structured discussion on specific methods or procedural approaches. The focus is more on the development of skills and roles rather than the concrete methodologies guiding these practices. Thus, the confidence score reflects a tenuous connection to the 'Method' category, primarily highlighting a broader discussion on roles without delving into specific methods.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses advanced product ownership skills and the PSPO-A certification, focusing on roles and responsibilities rather than conceptual models or frameworks. While it touches on the product owner's role within Agile, it does not explicitly discuss any models like the Cynefin Framework or Lean Startup principles. Thus, its relevance to the 'Model' category is minimal, though there is some depth regarding the development of skills that could tangentially relate to model-based thinking.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role and skills of an advanced Product Owner, with a focus on personal development and the PSPO-A certification. While it mentions Agile and Scrum in a general context, it does not deeply engage with the principles or structured methodologies that define frameworks like Scrum. Instead, it emphasizes personal insights and the benefits of advanced skills, which fall outside the scope of structured framework discussions. The mention of 'Agile' is surface-level and does not constitute a detailed examination of the framework itself, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content discusses the role and skills of a Product Owner within an Agile context, it does not explicitly mention specific tenets or actionable guiding rules that align with the category definition. The focus is largely on personal skills and the value of a certification rather than the application of tenets in Agile methodologies. The alignment to Agile concepts is present but lacks concrete examples of tenets, resulting in a low confidence score overall.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "8F3SK4sPj3M",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 4,
+    "ai_alignment": 10,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in Agile, specifically discussing the advanced skills and competencies associated with this role. While it mentions the importance of these advanced skills and their impact on product success, it does not explicitly align with the broader discussion of capabilities as defined in the 'Capability' category. The concept of capabilities is present but is not the main focus; instead, it revolves around roles and skills rather than the systematic cultivation of capabilities in teams and organizations. Therefore, while there are mentions of the importance of the advanced Product Owner role, the overall depth and focus on enduring competencies that empower organizational effectiveness is limited.",
     "level": "Ignored"
   }
 }

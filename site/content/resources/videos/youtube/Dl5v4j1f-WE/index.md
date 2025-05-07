@@ -2,8 +2,10 @@
 title: How would you like to be remembered as a Professional Scrum Trainer?  What 3 things matter most to you?
 description: Discover how to leave a lasting legacy as a Professional Scrum Trainer and empower teams to thrive in agile environments. Join the journey!
 date: 2023-04-19T07:00:06Z
+weight: 1000
 ResourceId: Dl5v4j1f-WE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Dl5v4j1f-WE
@@ -15,39 +17,34 @@ preview: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg
 duration: 537
 isShort: false
 aliases:
-- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
-- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
-- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
-- /resources/videos/Dl5v4j1f-WE
-- /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/Dl5v4j1f-WE
-aliasesFor404:
+- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
+aliasesArchive:
+- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-things-matter-most-to-you
+- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
+- /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
+- how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
-- People and Process
-- Transparency and Accountability
 - Personal
-- Agile Values and Principles
-- Scrum Values
 resourceTypes:
 - video
 categories:
-- Social Technologies
 - Scrum
 
 ---
-## My Professional Scrum Trainer Legacy: What Matters Most to Me?
+## My Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer Legacy: What Matters Most to Me?
 
 Hello to all my Agile and Scrum enthusiasts!
 
-I get asked a lot of questions, and I think the question of how I'd like to be remembered as a professional Scrum Trainer is definitely one I have thought about in the past and I would like to share my top three priorities that are important to me.
+I get asked a lot of questions, and I think the question of how I'd like to be remembered as a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer is definitely one I have thought about in the past and I would like to share my top three priorities that are important to me.
 
 So, without further ado, let's dive into the three things that matter most to me as a Professional Scrum Trainer!
 
@@ -57,9 +54,9 @@ Let's kick off with my numero uno - Integrity.  Integrity is right at the top o
 
 Sometimes, as a professional Scrum Trainer, you're faced with decisions where it's tempting to make easy choices, like marketing my classes in a particular way that might not resonate with my core beliefs or undercutting a competitor's prices to snag a client.   🏅
 
-But that's not me.  I prefer transparency and fairness, such as publishing all my rates on my website, for instance.  I know this means that my competitors know what I charge, and they're welcome to undercut me, but it also means that my clients know I'm honest and upfront from the very beginning.
+But that's not me.  I prefer [transparency]({{< ref "/tags/transparency" >}}) and fairness, such as publishing all my rates on my website, for instance.  I know this means that my competitors know what I charge, and they're welcome to undercut me, but it also means that my clients know I'm honest and upfront from the very beginning.
 
-However, I won't do the same as some of my competitors because, to me, that's morally unacceptable and goes against the Scrum values.  It's just not me.
+However, I won't do the same as some of my competitors because, to me, that's morally unacceptable and goes against the [Scrum values]({{< ref "/tags/scrum-values" >}}).  It's just not me.
 
 ## Honesty and Forthrightness
 

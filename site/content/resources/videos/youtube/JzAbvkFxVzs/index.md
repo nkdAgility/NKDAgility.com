@@ -2,8 +2,10 @@
 title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Past'
 description: Explore the balance between pragmatism and dogmatism in Agile. Discover real stories that highlight the importance of flexibility for effective team management!
 date: 2024-01-03T07:00:13Z
+weight: 640
 ResourceId: JzAbvkFxVzs
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JzAbvkFxVzs
@@ -15,37 +17,33 @@ preview: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg
 duration: 299
 isShort: false
 aliases:
-- /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-dogma
-- /resources/videos/JzAbvkFxVzs
-- /resources/5-ghosts-of-agile-past-dogma
 - /resources/JzAbvkFxVzs
-aliasesFor404:
+- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-dogma
+aliasesArchive:
+- /resources/videos/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-dogma
 - /resources/5-ghosts-of-agile-past-dogma
+- the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- People and Process
-- Agile Frameworks
-- Agile Project Management
-- Agile Philosophy
+- Team Performance
+- Value Delivery
 - Pragmatic Thinking
+- Agile Planning
+- Agile Transformation
+- Agile Product Management
 - Software Development
-- Personal
-- Agile Values and Principles
-- Scrum Values
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Product Development
 
 ---
-In the world of Agile, we often hear about the famous "three questions" used during the daily Scrum or retrospective sessions:
+In the world of Agile, we often hear about the famous "three questions" used during the daily [Scrum]({{< ref "/categories/scrum" >}}) or retrospective sessions:
 
 - **What did I do yesterday?**
 
@@ -57,13 +55,13 @@ These questions are a staple in Agile ceremonies, providing a framework for team
 
 ## **The Ghosts of Agile Past: The Danger of Routine Questions** **👻**
 
-You’ve probably seen it before: a Scrum team gathers for the daily Scrum or a retrospective, and the meeting turns into a checklist of the three questions. Each team member goes into autopilot, simply answering the questions without giving it much thought.
+You’ve probably seen it before: a [Scrum team]({{< ref "/tags/scrum-team" >}}) gathers for the [daily Scrum]({{< ref "/tags/daily-scrum" >}}) or a retrospective, and the meeting turns into a checklist of the three questions. Each team member goes into autopilot, simply answering the questions without giving it much thought.
 
 The problem arises when these **three questions become the primary focus** of the meeting. Here’s what often happens:
 
 - Team members mechanically answer the questions without reflection.
 
-- The **Scrum Master** (or worse, the project manager) jots down the answers to update a project plan.
+- The **[Scrum Master]({{< ref "/tags/scrum-master" >}})** (or worse, the project manager) jots down the answers to update a project plan.
 
 - The real purpose of the daily Scrum – to **focus on progress towards the sprint goal** – gets lost.
 
@@ -117,7 +115,7 @@ Agile practices, like anything else, evolve over time. The three questions serve
 
 Here’s how you can **overcome the ghosts of Agile past**:
 
-- **Focus on value delivery**: Make sure your daily Scrums and retrospectives are centered on delivering value, not just answering routine questions.
+- **Focus on [value delivery]({{< ref "/tags/value-delivery" >}})**: Make sure your daily Scrums and retrospectives are centered on delivering value, not just answering routine questions.
 
 - **Involve the whole team**: Ensure that the team is collectively working toward a common goal and not just providing individual status updates.
 
@@ -125,7 +123,7 @@ Here’s how you can **overcome the ghosts of Agile past**:
 
 ## **Conclusion: Exorcise the Ghosts of Agile Past** **👻**
 
-If your Agile practices are haunted by the ghosts of the past, it’s time to **rethink your approach**. The three questions may have been helpful once, but now it’s time to focus on **value delivery** and continuous improvement.
+If your Agile practices are haunted by the ghosts of the past, it’s time to **rethink your approach**. The three questions may have been helpful once, but now it’s time to focus on **value delivery** and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 Remember:
 

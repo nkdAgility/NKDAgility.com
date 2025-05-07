@@ -2,8 +2,10 @@
 title: How does scrum help leadership teams pick the most valuable work to focus on?
 description: Discover how Scrum empowers leadership teams to prioritise valuable work in complex environments, enhancing customer focus and organisational efficiency.
 date: 2023-02-10T07:15:02Z
+weight: 665
 ResourceId: bpBhREVX85o
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: bpBhREVX85o
@@ -15,34 +17,25 @@ preview: https://i.ytimg.com/vi/bpBhREVX85o/maxresdefault.jpg
 duration: 106
 isShort: false
 aliases:
-- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
-- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
-- /resources/videos/bpBhREVX85o
-- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 - /resources/bpBhREVX85o
-aliasesFor404:
+- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+aliasesArchive:
+- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 - /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 - /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
+- how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Software Development
-- Agile Frameworks
-- Agile Project Management
-- Pragmatic Thinking
-- Value Delivery
-- Decision Making
-- Agile Strategy
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-How does scrum help leadership teams pick the most valuable work to focus on?
+How does [scrum]({{< ref "/categories/scrum" >}}) help [leadership]({{< ref "/categories/leadership" >}}) teams pick the most valuable work to focus on?
 
 It doesn’t.
 
@@ -54,7 +47,7 @@ It is the leadership team’s responsibility to identify the most valuable work,
 
 If you are in business, and you are the person making decisions about where to invest, what to invest in, and why investment is needed – based on your interpretation of the market demands – then you are the person who needs to make a call.
 
-**Scrum** can’t do that for you. **Kanban** can’t do that for you. No **agile framework** can do that for you.
+**Scrum** can’t do that for you. **[Kanban]({{< ref "/categories/kanban" >}})** can’t do that for you. No **agile framework** can do that for you.
 
 Leaders need to understand their business, understand their customers, understand their competitors and leverage scrum to create rapid, valuable feedback loops that will inform whether they are working on the most valuable problems and solutions.
 
@@ -78,7 +71,7 @@ You develop the ‘why’ and scrum can help you discover what to do and how to 
 
 If you are clear about the outcomes that you are trying to achieve, and what the next best investment of your time and money is, then scrum will help you figure out how to solve the most compelling problems and develop the most valuable solutions.
 
-Scrum will help you create and develop highly professional, creative, and collaborative product development teams that can organize around the delivery of the outcomes that matter most to you.
+Scrum will help you create and develop highly professional, creative, and collaborative [product development]({{< ref "/categories/product-development" >}}) teams that can organize around the delivery of the outcomes that matter most to you.
 
 ## About NKD Agility
 

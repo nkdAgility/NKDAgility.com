@@ -1,12 +1,15 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management, which aligns with the principles of hypothesis-driven development, particularly in the context of making informed decisions based on data and evidence. However, it primarily focuses on the differences between traditional and evidence-based management rather than explicitly on hypothesis formulation and experimentation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management, which shares some principles with hypothesis-driven development, such as data collection and analysis. However, it lacks a direct focus on formulating and testing hypotheses, which is central to hypothesis-driven development. The discussion is more about decision-making processes rather than the specific practice of hypothesis-driven development.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -28,10 +31,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-12T11:35:56",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on the Product Backlog or its management in Agile frameworks.",
     "level": "Ignored"
   },
@@ -46,12 +49,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the differences between traditional management and evidence-based management, touching on decision-making processes and the importance of metrics in organisational contexts. While it does not focus explicitly on systems thinking, it highlights the need for a holistic view of organisational performance and the impact of metrics on decision-making, which aligns with some principles of Organisational Physics.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses traditional management versus evidence-based management, touching on decision-making processes and the importance of data. However, it primarily focuses on individual decision-making rather than the broader systems thinking and organisational dynamics central to Organisational Physics. While there are elements of systems thinking, such as the emphasis on collective analysis and the impact of metrics on organisational performance, the discussion lacks depth in exploring the interplay of organisational structure, culture, and processes.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -64,12 +70,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-12T11:36:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the principles of evidence-based management, contrasting it with traditional management practices. It emphasises the importance of data collection and informed decision-making, aligning closely with the key topics of evidence-based leadership.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the principles of evidence-based management, contrasting it with traditional management practices. It highlights the importance of data collection and informed decision-making, which aligns closely with the core themes of evidence-based leadership. The depth of discussion is significant, as it explores the challenges of implementing evidence-based practices and critiques common pitfalls like vanity metrics. Overall, the content is highly relevant and provides a thorough examination of evidence-based leadership concepts.",
+    "level": "Primary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -82,12 +91,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses evidence-based management, which is relevant to product management decision-making processes, but it primarily focuses on contrasting traditional management styles rather than directly addressing product management strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the differences between traditional management and evidence-based management, which aligns with the principles of product management, particularly in decision-making and metrics. It highlights the importance of data-driven decisions and critiques common management practices, which are relevant to product managers. However, while it touches on key themes, it lacks a structured focus on product management methodologies and frameworks, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -109,11 +121,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T11:36:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:52:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses management practices and decision-making methodologies, with no focus on system configuration or related technical aspects.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses management methodologies, specifically contrasting traditional management with evidence-based management. It does not address system configuration, automation, or related best practices. While it touches on decision-making processes, it lacks any direct relevance to system setup or integration, which are core themes of the 'System Configuration' category.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -136,12 +151,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T11:36:14",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the principles of evidence-based management and contrasts it with traditional management practices, focusing on the importance of data and evidence in decision-making processes.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the differences between traditional management and evidence-based management, explicitly discussing the importance of data collection and informed decision-making. It aligns well with the core themes of structured decision-making, particularly in the context of evidence-based management principles. The depth of discussion is substantial, as it critiques common practices and highlights the need for empirical evidence in decision-making processes. However, some anecdotal elements and personal reflections slightly detract from its overall alignment with the strict criteria of the category.",
+    "level": "Primary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -163,10 +181,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T11:36:18",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -208,19 +226,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T11:36:26",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the differences between traditional management and evidence-based management, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-12T11:36:27",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -244,21 +262,27 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management and decision-making, which relates to strategic approaches in management. However, it primarily focuses on contrasting traditional management with evidence-based practices rather than explicitly addressing Agile, Scrum, or DevOps strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses evidence-based management, which aligns with strategic decision-making in Agile environments. It mentions the importance of data collection, analysis, and validation of outcomes, which are key aspects of strategic alignment and continuous improvement. However, the primary focus is on contrasting traditional and evidence-based management rather than a deep exploration of Agile strategies specifically, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T17:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the differences between traditional management and evidence-based management, highlighting the importance of data-driven decision-making, which is a significant aspect of the Ability to Innovate. However, the primary focus is on management practices rather than directly on innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than innovation itself. While it touches on the importance of data and metrics, it does not explicitly address innovation practices, metrics for assessing innovation capability, or strategies for enhancing organisational innovation capacity. The discussion is more about improving decision-making through evidence rather than fostering a culture of innovation, which is the core of the 'Ability to Innovate' category.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -267,15 +291,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on Agile frameworks or their principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T11:36:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on scaling agile practices or frameworks.",
     "level": "Ignored"
   },
   "Team Collaboration": {
@@ -316,30 +331,33 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T11:36:42",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses management practices rather than engineering practices, focusing on traditional vs. evidence-based management without addressing Agile principles or software engineering methodologies.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-12T11:36:44",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than portfolio management practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management, which is relevant to software project management practices, but it primarily focuses on management concepts rather than specific software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management, which is tangentially related to software development practices, particularly in Agile environments. However, the primary focus is on management techniques rather than software engineering methodologies or practices. While it mentions metrics relevant to Agile, it lacks a deep exploration of software development processes or frameworks, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +370,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T11:36:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than throughput measurement or optimisation.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management and the importance of data in decision-making, which indirectly relates to throughput as it touches on metrics and performance. However, it does not explicitly define or analyse throughput as a delivery metric, nor does it focus on visualising or interpreting throughput data. The mention of 'story points' and 'velocity' suggests an awareness of metrics relevant to throughput, but the overall focus is more on decision-making philosophy rather than throughput as a primary metric.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,10 +391,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T11:36:54",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -397,19 +418,19 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T11:36:58",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses management practices and decision-making processes, without a clear focus on the responsibilities or practices specific to the Product Owner role.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-12T11:37:00",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than change management strategies or practices.",
     "level": "Ignored"
   },
@@ -424,19 +445,22 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management, which aligns with the principles of empirical process control, particularly in the context of decision-making based on observed evidence. However, it primarily contrasts traditional management with evidence-based practices rather than focusing solely on empirical process control principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the differences between traditional management and evidence-based management, highlighting the importance of data collection and informed decision-making. While it touches on concepts relevant to empirical process control, such as the need for evidence and the critique of vanity metrics, it does not explicitly focus on Agile methodologies or the principles of transparency, inspection, and adaptation that are central to empirical process control. The discussion is more general and does not delve deeply into Agile frameworks or specific practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T11:37:04",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -451,29 +475,23 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-12T11:37:06",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses management practices and decision-making processes without any focus on revenue per employee metrics or related financial efficiency analysis.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T11:37:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses management practices and decision-making processes, with no direct focus on the role of software developers within Agile or DevOps frameworks.",
+    "reasoning": "Content heavily discusses management practices and decision-making processes without any focus on revenue per employee metrics or related financial efficiency analysis.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:37:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T15:49:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, with no direct mention of Test First Development principles or practices. While it touches on decision-making and the importance of data, it does not align with the core themes of Test First Development, such as TDD or success criteria in software delivery. The discussion lacks depth regarding Test First practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -523,38 +541,35 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-12T11:37:16",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on Sprint Review or related topics.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T11:37:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes and the use of metrics, without a clear emphasis on Lead Time.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T11:37:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management without a focus on scaling Agile practices or frameworks.",
+    "calculated_at": "2025-04-11T09:00:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, focusing on decision-making processes and the importance of data. While it touches on metrics, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T11:37:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses evidence-based management practices and contrasts them with traditional management approaches, highlighting the importance of data-driven decision-making. While it touches on practical applications relevant to management, it primarily focuses on the theoretical differences rather than providing concrete examples or strategies within Agile or Scrum contexts.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the differences between traditional management and evidence-based management, focusing on practical decision-making processes and the importance of data in management. It aligns well with the core themes of pragmatic thinking, particularly in the context of Agile and evidence-based practices. The depth of discussion on metrics and decision-making strategies demonstrates a strong understanding of real-world applications, although it does not explicitly mention Agile or Scrum frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -564,15 +579,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the differences between traditional management and evidence-based management, with no focus on deployment frequency or related Agile and DevOps practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T11:37:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management, with only a brief mention of metrics related to agile practices. It does not focus on agile methodologies or principles, making it not relevant enough for the Agile Project Management category.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -586,20 +592,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management, which relates to decision-making in an Agile context, but it primarily focuses on contrasting traditional management practices rather than a clear Agile strategy.",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses evidence-based management, which aligns with Agile principles of data-driven decision-making and continuous improvement. However, it primarily focuses on contrasting traditional management with evidence-based practices rather than explicitly addressing Agile strategies. While it touches on metrics relevant to Agile, such as story points and velocity, the overall emphasis is more on management practices than on a cohesive Agile strategy.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:37:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses traditional management versus evidence-based management, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T17:15:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Traditional Management and Evidence-Based Management, with no direct mention of Continuous Delivery principles or practices. While it touches on decision-making and data-driven approaches, these concepts do not specifically align with Continuous Delivery's focus on software delivery cycles, automation, or rapid feedback mechanisms. The discussion lacks depth in relation to Continuous Delivery, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,21 +625,24 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T11:37:34",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evidence-based management and decision-making processes, which relates to sensemaking in understanding complexity and making informed decisions. However, the primary focus is on contrasting traditional management with evidence-based practices rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses evidence-based management, which aligns with sensemaking principles by emphasising data collection and analysis for informed decision-making. However, it primarily focuses on contrasting traditional management with evidence-based practices rather than deeply exploring sensemaking frameworks or techniques. The discussion lacks extensive detail on sensemaking as a primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -645,24 +660,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than team performance or collaboration within agile teams.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T11:37:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses management practices and decision-making processes without any mention of AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T11:37:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on Kanban principles or their application in large-scale environments.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -721,11 +718,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the differences between traditional management and evidence-based management, touching on themes of decision-making and metrics that can influence organisational practices. However, it primarily focuses on management styles rather than a clear organisational change strategy or framework.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the differences between traditional management and evidence-based management, touching on themes of decision-making and metrics. While it hints at organisational change by mentioning the need to change management practices, it lacks a direct focus on the strategies or frameworks for implementing organisational change. The discussion is more centred on management practices rather than the broader organisational change processes, which diminishes its relevance to the category.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -737,32 +737,29 @@
     "reasoning": "Content primarily discusses management practices and decision-making processes, with no focus on test automation or related topics.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T11:37:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses evidence-based management and decision-making, which relates to operational practices. However, it primarily focuses on contrasting traditional management with evidence-based management rather than providing specific techniques or strategies for improving operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses evidence-based management, which aligns with operational practices by emphasising data-driven decision-making and continuous improvement. However, it primarily contrasts traditional management with evidence-based approaches rather than focusing on specific operational techniques or methodologies within Agile, DevOps, or Lean frameworks. The depth of discussion on operational practices is moderate, as it touches on metrics and decision-making but lacks detailed strategies or techniques for process optimisation.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:37:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 34,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the principles and practices of Evidence-Based Management, contrasting it with traditional management approaches. It emphasises the importance of data collection, informed decision-making, and the pitfalls of relying on vanity metrics, aligning closely with the core themes of EBM.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content provides a thorough exploration of Evidence-Based Management, contrasting it with traditional management practices. It discusses key aspects such as data collection, analysis, and the importance of avoiding vanity metrics, which aligns well with the core themes of the category. The depth of discussion is significant, with detailed examples and personal insights that reinforce the principles of EBM. Overall, the content is primarily focused on EBM, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -773,22 +770,16 @@
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on backlog refinement or related Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T11:38:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:38:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, with a focus on decision-making processes rather than the specific role and responsibilities of a Scrum Master. While it touches on concepts relevant to agile practices, such as metrics and team dynamics, it does not explicitly address the Scrum Master's role or responsibilities, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -820,10 +811,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-12T11:38:07",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
@@ -854,7 +845,7 @@
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than accountability within Agile teams.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T11:38:13",
     "ai_confidence": 0,
@@ -910,10 +901,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-12T11:38:22",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a focus on release processes or software delivery.",
     "level": "Ignored"
   },
@@ -937,12 +928,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management, which relates to Agile principles of data-driven decision making and continuous improvement. However, it primarily focuses on contrasting traditional management with evidence-based practices rather than explicitly addressing Agile philosophy as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management and contrasts it with traditional management, touching on decision-making processes and the importance of data. While it briefly mentions Agile concepts like story points and velocity, it primarily focuses on management practices rather than the broader Agile philosophy. The discussion lacks depth in Agile principles and does not explicitly reference the Agile Manifesto or its core values, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -991,10 +985,10 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-12T11:38:36",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than long-term strategic goals or business agility.",
     "level": "Ignored"
   },
@@ -1009,11 +1003,14 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-12T11:34:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes, the importance of collecting and analysing evidence, and the pitfalls of relying on vanity metrics. These themes align closely with the principles of Decision Theory, particularly in the context of making informed choices in uncertain environments.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the differences between traditional management and evidence-based management, focusing on decision-making processes. It highlights the importance of collecting data and making informed decisions, which aligns well with the core themes of Decision Theory. The discussion on biases, such as vanity metrics, and the need for evidence in decision-making further supports its relevance. However, while the content is rich in examples and insights, it does not delve deeply into formal decision-making frameworks or models, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Enterprise Agility": {
@@ -1034,31 +1031,13 @@
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T11:34:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T11:34:58",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T11:34:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses management practices and decision-making processes, with no clear focus on software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,50 +1049,38 @@
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T11:35:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T11:35:03",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with a focus on decision-making processes rather than product delivery methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses evidence-based management, which is relevant to Agile principles, but primarily focuses on contrasting traditional management with evidence-based practices rather than specifically addressing Agile Product Management.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses evidence-based management, which involves collecting and analysing data to inform decisions, aligning with the theme of learning from evidence and adapting practices. However, the primary focus is on contrasting management styles rather than exploring broader discovery and learning methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-14T18:07:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management and contrasts it with traditional management practices. While it touches on Agile concepts like story points and velocity, the primary focus is on decision-making processes rather than Agile Product Management specifically. The mention of metrics and the importance of data aligns somewhat with Agile principles, but the overall discussion lacks depth in Agile methodologies and practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evidence-based management and critiques traditional management approaches, highlighting the need for holistic decision-making and the interconnectedness of metrics within an organisation. However, it primarily focuses on management styles rather than explicitly exploring Systems Thinking principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, focusing on decision-making processes and the importance of data. While it touches on systemic impacts and the need for a holistic approach, it does not explicitly engage with Systems Thinking principles or techniques such as causal loop diagrams or feedback loops. The discussion is more aligned with decision-making methodologies rather than the interconnectedness and holistic analysis central to Systems Thinking.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1122,33 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evidence-based decision making, which relates to accountability in management practices. However, the primary focus is on contrasting traditional management with evidence-based management rather than explicitly addressing transparency and accountability as central themes.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T11:35:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management without a focus on specific tools, methodologies, or practical techniques related to Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T11:35:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management without reference to any specific events, presentations, or discussions related to Agile, DevOps, or software engineering.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1171,11 +1111,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:35:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, focusing on decision-making processes rather than DevOps principles. While it touches on themes like data-driven decision-making and continuous improvement, these concepts are not explicitly linked to DevOps practices or culture. The lack of direct references to DevOps methodologies or the integration of development and operations further diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1186,15 +1129,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses management practices and decision-making processes, with no mention of Azure DevOps or its functionalities.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content references a book on evidence-based management and discusses its implications, but the primary focus is on the differences between traditional and evidence-based management rather than a detailed review or analysis of the book itself.",
-    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1216,12 +1150,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management practices, which relate to measuring and maximising customer value, but it primarily focuses on contrasting traditional management with evidence-based approaches rather than directly addressing value delivery strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses evidence-based management, which aligns with value delivery principles by emphasising data-driven decision-making and the importance of metrics that reflect true progress. However, the primary focus is on contrasting traditional management with evidence-based management rather than directly addressing value delivery strategies within Agile or DevOps frameworks. While it touches on relevant topics like metrics and decision-making, it lacks a comprehensive exploration of iterative development or customer alignment, which are core to the value delivery category.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,73 +1171,67 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management, which aligns with the principles of organisational agility by emphasising informed decision-making and the importance of metrics. However, the primary focus is on contrasting traditional management with evidence-based practices rather than directly addressing organisational agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses evidence-based management as a contrast to traditional management, highlighting the importance of data-driven decision-making. While it touches on themes relevant to organisational agility, such as the need for adaptability and continuous improvement, it primarily focuses on the challenges of adopting evidence-based practices rather than exploring broader agile methodologies or cultural shifts within organisations. The discussion lacks depth in terms of agile principles and does not explicitly mention organisational agility, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal anecdotes and reflections on evidence-based management, particularly the author's experience with their father's understanding of management practices. However, the primary focus is on the technical differences between traditional and evidence-based management rather than personal insights or experiences.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T11:35:41",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management, focusing on decision-making processes, the role of metrics, and the impact of managerial behaviour on organisational outcomes, which aligns well with the themes of human behaviour and structured methodologies in technology and product development.",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content includes personal anecdotes and reflections on the author's experiences with evidence-based management, which aligns with the Personal category. The mention of a personal story about giving a book to the author's father adds a subjective perspective. However, the primary focus is on explaining evidence-based management concepts rather than deeply exploring personal insights or challenges faced in Agile practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses management practices and decision-making processes, touching on the interplay between organisational culture and evidence-based management. However, it primarily focuses on the differences between traditional and evidence-based management without a strong emphasis on the sociotechnical interactions within organisations.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T11:35:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management without focusing on industry news, updates, or reviews relevant to Agile or DevOps.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses management styles and decision-making processes, touching on the importance of data and team collaboration. However, it primarily focuses on traditional versus evidence-based management without a strong emphasis on the interplay between social and technical systems. While there are elements that align with sociotechnical principles, such as the need for collaboration and data-driven decision-making, the discussion lacks depth in exploring how these elements collectively influence software delivery and team effectiveness.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T11:35:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of evidence-based management, the role of metrics in decision-making, and critiques traditional management practices that rely on vanity metrics. It aligns well with the key topics of the category, particularly in relation to the collection and analysis of performance data and the significance of metrics in fostering continuous improvement.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the principles of evidence-based management, contrasting it with traditional management practices. It highlights the importance of collecting and analysing data to make informed decisions, which aligns closely with the core themes of the 'Metrics and Learning' category. The discussion on vanity metrics and their impact on decision-making further emphasises the role of metrics in fostering continuous improvement. The depth of the discussion is significant, providing insights into the challenges and methodologies associated with evidence-based management, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T11:35:47",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on application lifecycle management practices or methodologies.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-12T11:35:49",
+    "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with a focus on decision-making processes rather than the flow of value or Value Stream Management principles.",
     "level": "Ignored"
   },
@@ -1311,15 +1242,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses management practices and decision-making processes rather than psychological principles influencing motivation, engagement, or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:13:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management, with only a brief mention of metrics like story points and velocity, which are not central to the Scrum framework.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1340,40 +1262,467 @@
     "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:13:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:13:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, without a clear focus on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the differences between traditional management and evidence-based management, with a focus on decision-making processes. While it touches on some agile concepts, such as story points and velocity, it does not explicitly address the Agile Product Operating Model or its core principles. The discussion lacks depth in relation to APOM, making it a secondary focus rather than a primary one.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T13:52:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses management practices and decision-making processes, which are relevant to leadership, but the primary focus is on contrasting traditional and evidence-based management rather than on leadership itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses management practices and decision-making processes, which are relevant to leadership. However, it primarily focuses on the differences between traditional and evidence-based management rather than explicitly addressing leadership strategies or frameworks. While it touches on the importance of informed decision-making and the pitfalls of vanity metrics, it lacks a deeper exploration of how these concepts relate to leadership in an Agile or DevOps context.",
     "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:52:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses management practices and decision-making processes, touching on evidence-based management, which relates to Agile principles. However, it primarily focuses on contrasting traditional management with evidence-based management rather than delving deeply into specific frameworks like Scrum or Kanban.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses decision-making processes and the shift from traditional management to evidence-based management, which aligns with the principles of collaboration and continuous improvement. However, it primarily focuses on management styles rather than explicitly addressing social technologies or frameworks that promote collaboration within teams. The depth of discussion on social technologies is limited, as it does not explore specific tools or methodologies that enhance collective intelligence or transparency.",
     "level": "Tertiary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the differences between traditional management and evidence-based management, with no clear focus on Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:37:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses management practices and decision-making processes, with no clear focus on Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses management practices, particularly evidence-based management, but does not explicitly mention Scrum or its specific roles, events, or artifacts. While it touches on concepts relevant to Agile and decision-making, it lacks a direct focus on Scrum principles and frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses evidence-based management and traditional management practices, with no direct mention of the Shift-Left Strategy. While it touches on decision-making processes and the importance of data, it does not specifically address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Evidence-Based Management, which aligns with Continuous Improvement principles, particularly in the context of data-driven decision-making and the importance of validating outcomes. However, the primary focus is on contrasting traditional management with evidence-based practices rather than a dedicated exploration of Continuous Improvement itself. While it touches on relevant themes, it does not delve deeply into Continuous Improvement strategies or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses decision-making processes and the importance of data in management, which indirectly relates to aligning strategies with organisational goals. However, it primarily focuses on contrasting traditional and evidence-based management without explicitly addressing the concept of Common Goals within Agile or DevOps frameworks. The mention of aligning decisions with organisational goals is present but not a primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses evidence-based management and decision-making, which indirectly relates to competence through the emphasis on data-driven decisions and continuous improvement. However, it does not explicitly focus on the development of skills or the importance of competence in Agile or DevOps contexts, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:15:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the focus is on decision-making practices rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses decision-making processes and the shift from traditional to evidence-based management, which touches on aspects of intentionality and data-driven decision-making. However, it lacks a direct focus on Agentic Agility as defined, particularly in differentiating between human and AI capabilities or discussing the transformative capacity of individuals and systems in a socio-technical context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:51:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the transition from traditional management to evidence-based management, which aligns with the principles of evidence-based decision-making in product development. It touches on the importance of data collection, analysis, and validation of outcomes, which are crucial for iterative learning and continuous improvement in product development. However, the primary focus is on management practices rather than specific product development methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:51:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between Traditional Management and Evidence-Based Management, focusing on decision-making processes rather than the specific metrics or strategies related to Time to Market. While it touches on the importance of data and informed decision-making, it does not explicitly address Time to Market or its associated metrics, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:51:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses management methodologies, specifically contrasting traditional management with evidence-based management. It does not mention GitHub or its functionalities, nor does it align with the core themes of GitHub, such as version control, collaboration features, or CI/CD pipelines. The discussion is focused on decision-making processes rather than any GitHub-related practices or tools.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:51:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between Traditional Management and Evidence-Based Management, focusing on decision-making processes rather than the principles of Agnostic Agile. While it touches on metrics and decision-making, it does not explicitly mention Agnostic Agile or its core themes, nor does it provide a detailed exploration of its principles. The discussion lacks depth in relation to Agnostic Agile, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:51:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, focusing on decision-making processes rather than the concept of treating the company as a product. While it touches on themes of data-driven decision-making and organisational improvement, it lacks a direct focus on the principles of CaaP, such as customer-centric strategies or cross-functional collaboration. The depth of discussion on evidence-based management is significant, but it does not align closely with the core themes of CaaP, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:51:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses traditional management and evidence-based management, which are not aligned with the principles of Cell Structure Design. There are no direct mentions of cells, decentralisation, or the Beta Codex. While it touches on decision-making and organisational success, it does not delve into the characteristics or functions of autonomous cells or the impact of decentralisation, which are core themes of the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:51:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between Traditional Management and Evidence-Based Management, focusing on decision-making processes rather than facilitation techniques or group dynamics associated with Liberating Structures. There are no direct mentions of Liberating Structures or their principles, and while it touches on collaboration and data-driven decision-making, it does not delve into specific techniques or their applications within group settings. The discussion lacks the depth required to align with the core themes of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:51:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Traditional Management and Evidence-Based Management without a direct focus on Hybrid Agile. While it touches on decision-making practices that could relate to agile methodologies, it does not critically examine the integration of traditional and agile practices, nor does it highlight the challenges associated with Hybrid Agile. The discussion lacks depth in addressing the specific themes outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:51:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the differences between Traditional Management and Evidence-Based Management, with a focus on decision-making processes rather than explicitly addressing Unrealised Value. While it touches on the importance of data and metrics, it does not delve into the potential value that can be captured through improvements or innovations, which is central to the concept of Unrealised Value. The discussion lacks specific indicators or strategies for identifying untapped opportunities, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:51:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between Traditional Management and Evidence-Based Management, focusing on decision-making processes rather than scaling methodologies or frameworks. While it touches on metrics and the importance of data, it does not delve into scaling Agile practices, cross-team collaboration, or the complexities involved in scaling efforts. The discussion lacks depth in relation to the specific challenges and strategies associated with scaling, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:51:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Evidence-Based Management and touches on the importance of data collection and analysis, which are relevant to Current Value. However, it primarily focuses on contrasting traditional management with evidence-based practices rather than providing a detailed exploration of Current Value metrics or their application in decision-making. While it mentions the need to avoid vanity metrics and highlights the importance of measuring outcomes, it lacks specific examples or case studies that would strengthen its alignment with the Current Value category.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:52:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses traditional management and evidence-based management, which are relevant to project management principles. It touches on decision-making processes, the importance of data in management, and the pitfalls of relying on intuition, aligning with core project management themes. However, it lacks a comprehensive exploration of project lifecycle phases, methodologies, and specific tools, which limits its depth in the project management context. Overall, while it addresses relevant concepts, it does not fully engage with the broader project management category, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:52:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses traditional management versus evidence-based management, with no direct mention of Open Space Agile or its principles. While it touches on decision-making and collaboration, it does not align with the core themes of Open Space Agile, such as psychological safety, co-creation, or iterative dialogue. The depth of discussion is focused on contrasting management styles rather than exploring Open Space Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 28,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the principles of Evidence-Based Management in relation to traditional management, emphasizing the importance of data, collective decision-making, and validated outcomes. It aligns with the category by promoting actionable principles that influence decision-making and team behaviours, particularly highlighting concepts like continuous improvement and value delivery. However, while it links to principles, it is primarily focused on contrasting management styles rather than explicating foundational principles themselves, leading to a confidence score slightly above average.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses management methodologies, specifically the differences between traditional management and evidence-based management. While there are mentions of metrics like story points and velocity, the focus is more on decision-making processes rather than specific tools or software applications that facilitate these methods. The key topics relevant to the 'Tool' category are not sufficiently explored, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses traditional versus evidence-based management primarily from a practical perspective without directly focusing on underlying values. It emphasizes decision-making processes and management styles but does not explicitly mention values that inform these approaches, such as respect, commitment, or collaboration. While it touches on the importance of data-driven decision-making, it lacks depth in engaging with the philosophical principles that guide behavior and culture within organizations.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 39.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 39.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management but lacks a deep philosophical exploration of the foundational beliefs behind its practices. While it touches on the importance of data-driven decision-making and contrasts it with traditional management methods, it does not comprehensively engage with the underlying philosophical principles, such as the 'why' of these approaches, or their broader cultural implications within organizations. It briefly mentions relevant concepts, but the depth and focus on the philosophical aspects required for a strong alignment with the category is insufficient.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Traditional Management and Evidence-Based Management, focusing mainly on decision-making practices rather than the underlying principles that constitute a discipline. While it addresses some key principles related to evidence-based approaches, it lacks a systematic treatment of a specific discipline and does not explore the maturation or evolution of a field like Agile or Lean. The content is more descriptive of practices and challenges in management rather than delving deeply into the principles, methodologies, and systemic improvements characteristic of a discipline.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content revolves around decision-making principles in traditional and evidence-based management, rarely touching on specific artifacts related to Agile, Scrum, Lean, or DevOps. While it briefly mentions metrics like story points and velocity, it does not delve into the structure or purpose of artifacts as defined in the category criteria. The discussion lacks depth regarding tangible constructs that enable inspection and adaptation, hence the low confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Evidence-Based Management, which involves data collection and analysis to inform decision-making. However, it primarily focuses on management principles rather than observability, which specifically pertains to understanding system states through metrics, logs, and traces. The mentions of metrics and data collection are present but do not align closely with the core themes of observability as defined. The discussion lacks depth regarding tools or techniques directly linked to observability and does not address how observability impacts team collaboration or performance in a software context.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 4,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses evidence-based management versus traditional management and focuses on decision-making rather than specific practices or techniques that enhance team performance. While it touches on the importance of data collection and collaborative analysis (which are relevant to practice), the overall focus leans more towards managerial philosophy and the role of evidence in decision-making rather than actionable techniques or repeatable practices that teams can implement. Therefore, the alignment with the 'Practice' category is limited and lacks depth in discussing specific practices or techniques.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 3,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content provides a detailed examination of Evidence-Based Management (EBM) and contrasts it with traditional management, addressing specific methods for decision-making based on data collection and analysis. It mentions necessary procedural shifts, such as gathering evidence, analyzing data with teams, and validating outcomes. This aligns closely with the structured procedural approach described in the 'Method' category. While the content does touch on broader concepts related to management practices, the focus on specific methods enhances its relevance to the category. However, it does not delve deep into established methods like Agile or Lean, which limits the depth score slightly.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 55.0,
+    "ai_mentions": 2,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and contrasts it with traditional management, which touches upon decision-making frameworks but does not comprehensively explore specific models or frameworks like Cynefin, Lean Startup, or DevOps principles. While EBM could align indirectly with the theme of models in decision-making, the discussion does not deeply engage with the conceptual underpinnings or applications of models within Agile, DevOps, or Lean contexts. Instead, it focuses more on comparing management styles and the importance of data in decision-making without extensively elaborating on how frameworks guide these processes.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the concepts of Traditional Management and Evidence-Based Management without explicitly addressing any Agile, DevOps, or Lean frameworks. While it touches upon evidence-based decision-making, which is a principle relevant to Agile practices, it does not provide a structured methodology, analysis of frameworks, or any direct implementation strategies for Agile frameworks. Therefore, it lacks sufficient depth and alignment with the 'Framework' category's core themes.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Evidence-Based Management and highlights its contrasts with Traditional Management, particularly in decision-making. While it mentions some principles that could align with tenets, such as data collection and analysis, it primarily serves as an exploration of different management styles rather than focusing explicitly on actionable tenets guiding decision-making in Agile, Lean, or DevOps contexts. Thus, the discussion strays from the core themes of specific tenets.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "3CgKmunwiSQ",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:11:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses primarily on the differences between traditional management and evidence-based management, emphasizing decision-making processes. It discusses aspects of data collection and analysis, which are related to capabilities; however, it does not deeply engage with the development or embedding of enduring competencies within teams or organizations, nor does it explore the broader impact of these capabilities on organizational performance. The mention of metrics and decision-making pitfalls is relevant but lacks a foundational exploration of 'capability' as defined in the classification criteria.",
+    "level": "Ignored"
   }
 }

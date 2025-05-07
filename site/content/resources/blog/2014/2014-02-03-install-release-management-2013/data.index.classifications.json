@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T11:10:59",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and installation processes, with no clear focus on Agile principles or product management.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:11:03",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the installation and configuration of Release Management 2013, which is a practical tool relevant to Agile and DevOps practices.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:11:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and configuration of Release Management 2013, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T11:11:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and configuration of Release Management 2013, lacking focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T11:11:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on installation and configuration of Release Management 2013, lacking emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T11:11:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Release Management 2013 and its installation, with no clear focus on AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any reference to data-informed decision-making or the core themes outlined in the EBM category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:11:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Release Management 2013, including specific tools and processes related to setting up a release management suite.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T11:11:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and configuration of Release Management 2013, lacking focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, providing specific references to the installation processes for both the Client and Server components. It discusses the ease of installation and configuration, which aligns well with the core themes of the category. The author also mentions troubleshooting and support, indicating a depth of discussion that enhances the practical aspect of the content. Overall, the content is highly relevant to the Install and Configuration category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily focuses on the installation and configuration of Release Management 2013 tools without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T11:11:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical aspects of Release Management 2013 without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Release Management, which is a component of the DevOps process, but it primarily focuses on installation and configuration rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, which is a tool related to deployment processes. While it touches on aspects of release management that could be relevant to DevOps, it lacks a comprehensive discussion of the DevOps philosophy, principles, or cultural shifts. The mention of streamlining deployment processes hints at a connection to DevOps, but it does not delve into the core themes such as collaboration, automation, or shared accountability. Therefore, the confidence score reflects a low alignment with the DevOps category.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -136,38 +91,23 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:12:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation and configuration of Release Management 2013, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, which is a tool related to deployment processes rather than discussing the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM definition. The content lacks depth and does not align with the core themes of the category.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of Release Management 2013, which is a software product relevant to Agile and DevOps practices, but it primarily focuses on personal experiences and lacks in-depth analysis or reviews.",
-    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T11:12:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and installation processes, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:12:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on installation and configuration of Release Management 2013, lacking a discussion on industry news or reviews.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -179,7 +119,7 @@
     "reasoning": "Content primarily discusses Release Management 2013 and related installation processes, with no focus on BetaCodex principles or themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T11:12:28",
     "ai_confidence": 0,
@@ -190,11 +130,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Release Management, which is a component of the product delivery process, but it primarily focuses on installation and configuration rather than broader methodologies or practices in product delivery.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses Release Management 2013, which is relevant to the deployment phase of product delivery. However, it primarily focuses on installation and configuration rather than broader methodologies or practices involved in product delivery. While it touches on aspects of release management, it lacks depth in discussing the integration of planning, testing, and iterative development, which are core themes of the category.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -204,15 +147,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of Release Management 2013, which is a specific tool and does not align with Agile, Scrum, DevOps, or Lean principles.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:12:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management 2013 and its installation, with no clear focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -226,20 +160,11 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:12:34",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation and configuration of Release Management 2013, lacking focus on metrics, data analysis, or learning principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T11:12:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical aspects of installing and configuring Release Management 2013, with no significant discussion on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -314,22 +239,16 @@
     "reasoning": "Content primarily discusses installation and configuration of Release Management tools without addressing broader organisational agility or adaptability.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:12:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and configuration of Release Management 2013, with no focus on events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Release Management, which is a component of Application Lifecycle Management, but it primarily focuses on installation and configuration rather than the broader lifecycle management practices.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the installation and configuration of Release Management 2013, which is a tool relevant to the application lifecycle. However, it lacks a comprehensive discussion on the broader aspects of Application Lifecycle Management, such as methodologies, governance, or metrics. While it mentions tools related to release management, it does not delve into the lifecycle stages or best practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -370,10 +289,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management 2013 and installation processes, with no relevant discussion on the Definition of Done.",
     "level": "Ignored"
   },
@@ -397,12 +316,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installing and using Release Management 2013 without focusing on Continuous Delivery principles or practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, which is a tool that can support Continuous Delivery practices. However, it does not explicitly discuss Continuous Delivery principles or practices. While it mentions streamlining deployment processes, it lacks depth in exploring the broader themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. The discussion is more about the tool itself rather than the methodology or philosophy behind Continuous Delivery.",
+    "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -433,19 +355,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on installation and configuration of Release Management tools, with no mention of Definition of Ready or related topics.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of Release Management tools, not portfolio management.",
     "level": "Ignored"
   },
@@ -496,10 +418,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on Release Management tools and installation, unrelated to Scrum Team dynamics or principles.",
     "level": "Ignored"
   },
@@ -559,10 +481,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Release Management tools and installation processes, which do not relate to team performance or collaboration.",
     "level": "Ignored"
   },
@@ -586,28 +508,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily deals with installing and configuring Release Management tools related to Visual Studio, which involves aspects of software development practices and deployment, but it is not centered on broader software development methodologies or best practices.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on installation and configuration of Release Management 2013 and does not discuss Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Release Management 2013, which is related to software deployment practices, a key aspect of the software development lifecycle. However, it primarily focuses on personal experiences and lacks in-depth exploration of methodologies or best practices. The mention of tools like Visual Studio and Team Foundation Server indicates relevance, but the overall discussion is more anecdotal than methodological.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Release Management tools and installation processes without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +617,6 @@
     "reasoning": "Content primarily discusses technical aspects of Release Management 2013 and installation procedures without addressing customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Release Management for Visual Studio 2013 and does not discuss Scaling Scrum principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T17:51:23",
@@ -726,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content addresses issues related to Release Management and installation procedures, with no discussion of psychological safety or related concepts.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installation and configuration of Release Management tools for Visual Studio 2013, not discussing scaling agility or agile practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,11 +682,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical aspects of installation and configuration of Release Management 2013, which relates to real-world applications of software tools in a potentially Agile context, but it is primarily about the installation process rather than a comprehensive discussion on pragmatic thinking strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses practical experiences with Release Management 2013, highlighting the author's hands-on work and the challenges faced during installations. While it touches on real-world applications, it lacks a strong focus on Agile, Scrum, or DevOps principles, which are central to the category of Pragmatic Thinking. The discussion is more about specific tools and installations rather than broader problem-solving strategies or frameworks.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -802,29 +703,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of Release Management 2013 without a focus on innovation capabilities or Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Release Management tools and processes related to Visual Studio 2013, lacking any clear connection to Scrum principles or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on release management tools and installation processes, not on scalable Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -955,11 +838,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses installation and configuration of Release Management 2013 tools, which is central to the practices involved in Release Management.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses 'Release Management 2013' and provides insights into installation and configuration, which are relevant to the category. It mentions specific tools and practices related to release management, indicating a strong focus on the subject. However, while it touches on practical aspects, it lacks a deeper exploration of strategic elements like risk management or CI/CD practices, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -991,28 +877,28 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of Release Management tools rather than focusing on the optimization of deployment intervals.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical aspects of Release Management software and installation, with no clear discussion on change management principles or strategies.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical aspects of installing and configuring Release Management 2013, which does not align with team dynamics or collaboration topics.",
     "level": "Ignored"
   },
@@ -1034,7 +920,7 @@
     "reasoning": "Content primarily discusses specifics of installing and configuring Release Management 2013, without clear alignment to strategic digital transformation themes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T17:51:23",
     "ai_confidence": 0,
@@ -1043,22 +929,16 @@
     "reasoning": "Content primarily discusses Release Management tools and installation procedures, not Minimum Viable Products or related concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management 2013 and related tools without any focus on AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses the installation and configuration of Release Management 2013, which aligns with the processes and methodologies of system configuration.",
+    "reasoning": "The content primarily discusses the installation and configuration of Release Management 2013, which aligns with the category of System Configuration. It explicitly mentions the installation process and the tools involved, indicating a focus on configuring software systems. However, the depth of discussion is somewhat limited, as it does not delve into broader system optimisation strategies or troubleshooting techniques, which are also key aspects of the category. Overall, while the content is relevant, it lacks comprehensive detail on the methodologies and best practices associated with system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,28 +979,34 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management tools and installation, with no clear focus on Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no direct references to Test First Development principles, success criteria, or testing practices. It lacks any discussion on automated or manual testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of Release Management 2013, which is relevant to Windows as it pertains to Visual Studio and deployment tools associated with Windows. However, the primary focus is on Release Management rather than the Windows operating system itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the installation and configuration of Release Management 2013, which is related to the Windows environment, particularly in conjunction with Visual Studio 2013. However, it primarily focuses on Release Management rather than the Windows operating system itself. While there are mentions of installation and configuration, they are specific to the Release Management tool rather than broader Windows OS topics. The depth of discussion is moderate, but it lacks comprehensive coverage of Windows-specific themes such as troubleshooting or system updates.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and configuration of Release Management tools rather than discussing deployment methodologies or strategies.",
     "level": "Ignored"
   },
@@ -1135,10 +1021,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical aspects of Release Management in Visual Studio 2013, lacking discussion on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1162,11 +1048,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions fixing problems and getting support in the context of installing Release Management 2013, which suggests that troubleshooting is a significant aspect, although the primary focus is on installation and configuration.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses experiences with installing and configuring Release Management 2013, mentioning issues encountered during the process. However, it primarily focuses on installation rather than systematic troubleshooting techniques or methodologies. While there are references to fixing problems and seeking support, the depth of discussion on troubleshooting strategies is limited, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1180,11 +1069,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Release Management and installation processes related to Visual Studio 2013, with no reference to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on Release Management 2013 and its installation process, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics outlined for the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1095,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Release Management tools and installation, which is unrelated to working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management 2013 and installation procedures, with no clear focus on software development practices within Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1252,10 +1135,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T17:51:23",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on installation and configuration of Release Management tools, lacking strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1331,15 +1214,6 @@
     "reasoning": "Content primarily discusses installation and configuration of Release Management 2013, with no mention of accountability, team dynamics, or ownership principles in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T17:51:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Release Management in Visual Studio 2013 and does not discuss Kanban principles or their application in large organizations.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T17:51:23",
@@ -1369,11 +1243,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:13:52",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing and configuring Release Management 2013, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions the need for documentation and support, these points do not align with the core themes of social technologies, which emphasise collective intelligence and organisational culture. The depth of discussion is limited to technical instructions, further reducing its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:15:00",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses Release Management 2013 and installation processes, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses Release Management 2013 and its installation, which is not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:15:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Release Management 2013 and related tools, with no focus on Artificial Intelligence or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Release Management 2013 and its installation process, with no direct mentions of Scrum principles, roles, or events. While it touches on project management tools, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is limited to installation instructions, which do not contribute to a meaningful exploration of Scrum.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on issues encountered during installation, it does not align with the core themes of the Shift-Left Strategy, nor does it provide any depth on the principles or benefits associated with it.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no explicit discussion of Continuous Improvement principles. While it touches on the challenges faced during the installation process, it lacks a commitment to ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The mention of fixing problems does not align with the core themes of fostering a culture of experimentation or integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on deployment processes, it lacks alignment with the core themes of shared objectives and strategic alignment. The depth of discussion is minimal, as it does not explore how these practices connect to overarching organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, which is more about tool usage than the development of competence or skills. While there are brief mentions of personal experiences and challenges faced during installation, these do not delve into the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The discussion lacks depth and does not provide strategies for fostering a culture of competence or inspecting and adapting skills over time.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Release Management 2013, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. The content is more aligned with practical deployment processes rather than the conceptual themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

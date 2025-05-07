@@ -2,8 +2,10 @@
 title: How good is the APSPO course in helping leaders determine product direction and Why?
 description: Discover how the PSPO-A course empowers managers to transition from project to product leadership, enhancing product vision and team alignment in Agile.
 date: 2023-03-22T07:00:17Z
+weight: 690
 ResourceId: nTxn_izPBFQ
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: nTxn_izPBFQ
@@ -15,35 +17,26 @@ preview: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
 duration: 378
 isShort: false
 aliases:
-- /resources/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
-- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
-- /resources/videos/nTxn_izPBFQ
-- /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/nTxn_izPBFQ
-aliasesFor404:
+- /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
+- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
+aliasesArchive:
+- /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 - /resources/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
 - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
+- /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
+- how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Product Owner
-- Agile Product Management
-- People and Process
-- Agile Project Management
-- Scrum Product Development
-- Agile Leadership
-- Agile Product Operating Model
-- Products and Books
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Leadership
-- Scrum
+- Product Development
 - Product Management
 
 ---
@@ -75,7 +68,7 @@ Through APSPOA, we can focus on bridging these gaps and helping product owners b
 
 The APSPOA talks about six possible focus areas for product owners, which we refer to as the 'stances.'
 
-The following stances I've detailed here aren't the only ones, but for me, they are significant in shaping the product owner role: 💪
+The following stances I've detailed here aren't the only ones, but for me, they are significant in shaping the [product owner]({{< ref "/tags/product-owner" >}}) role: 💪
 
 1\.  **Visionary** 🌟 Here's where you're channelling your inner Steve Jobs, figuring out what the next big move is.  This isn't always driven by customer demand but by future innovation.
 
@@ -97,9 +90,9 @@ That's a powerful statement!
 
 Becoming a product owner or an Agile leader isn't a one-size-fits-all journey.  It requires you to constantly evaluate and improve your skills, understanding what gaps exist and how to fill them.
 
-The APSPOA course can be an invaluable companion in this journey, helping you understand the various facets of product ownership and leadership and providing you with tools and strategies to excel in your role.
+The APSPOA course can be an invaluable companion in this journey, helping you understand the various facets of product ownership and [leadership]({{< ref "/categories/leadership" >}}) and providing you with tools and strategies to excel in your role.
 
-Sign up for our Agile and Scrum courses and become the Agile leader you aspire to be! 🚀
+Sign up for our Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses and become the Agile leader you aspire to be! 🚀
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
@@ -113,7 +106,7 @@ We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-Keywords:       Agile Leadership, Product Owner, APSPOA Course, Agile Journey
+Keywords:       [Agile Leadership]({{< ref "/tags/agile-leadership" >}}), Product Owner, APSPOA Course, Agile Journey
 
 Hashtags         #AgileLeadership #ProductOwner #APSPOA #AgileJourney
 

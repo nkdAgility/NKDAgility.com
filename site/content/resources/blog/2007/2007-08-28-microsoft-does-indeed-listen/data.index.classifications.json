@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its hosted options, which are related to application lifecycle management, but the primary focus is on user interest and marketing aspects rather than the lifecycle management processes themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its hosted options, which are related to application lifecycle management. However, it primarily focuses on user interest and feedback rather than the comprehensive management of the application lifecycle stages, best practices, or governance. The mention of ALM is brief and does not delve into the core themes of the category, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -35,12 +38,12 @@
     "reasoning": "Content primarily discusses the features and marketing of TFS without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T20:39:04",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosted TFS and its features, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,10 +58,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:39:07",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses opinions and experiences related to TFS and its marketability, rather than providing actionable installation or configuration instructions.",
     "level": "Ignored"
   },
@@ -73,21 +76,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the hosted TFS service and personal experiences related to it, but it does not directly reference Agile, Scrum, DevOps, or Lean principles.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:39:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the hosted TFS service and its features, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the hosted TFS service and expresses personal opinions and experiences related to it. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it touches on topics relevant to software development and project management. However, the discussion lacks depth and actionable insights, making it more of a personal narrative rather than a structured exploration of Agile principles. The mention of TFS and its features does not align with established frameworks, thus fitting the Miscellaneous category.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -96,15 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the hosted TFS service and user feedback, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:39:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the hosted TFS service and user feedback, lacking a focus on practical techniques or tooling methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:39:17",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the hosted TFS service and its marketability, with no clear focus on metrics, data utilisation, or learning principles.",
     "level": "Ignored"
   },
@@ -154,30 +142,27 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:39:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the hosted TFS service and user feedback, lacking a focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft's hosted TFS and user needs without a focus on evidence-based management principles. While it touches on project management features, it lacks explicit references to empirical decision-making or metrics that align with the core themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:39:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:36:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses hosted TFS and its features, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft's hosted options for TFS and user needs, with a focus on project management features rather than the Agile Product Operating Model. While it touches on aspects of product management, it does not explicitly mention agile methodologies or the principles of the Agile Product Operating Model. The discussion lacks depth in relation to the core themes of APOM, such as continuous delivery, operational stability, or evidence-based management.",
     "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:39:25",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Microsoft's plans for a hosted TFS model and provides insights into user needs and potential improvements, making it relevant to industry updates and evaluations.",
-    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -204,51 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses hosted TFS and its marketability, without a clear focus on platform engineering principles or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T20:39:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Microsoft Team Foundation Server (TFS) and its hosted options, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:39:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses hosted TFS and its features, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:39:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses hosted TFS and its marketability, with no focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:39:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the hosted TFS service and related features, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:39:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Microsoft's hosted TFS and user feedback, lacking a focus on transparency and accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -280,10 +220,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T20:39:42",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses hosted TFS and related licensing issues, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
@@ -298,73 +238,52 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a component of Azure DevOps, but the primary focus is on user feedback and marketing aspects rather than specific functionalities or practices of Azure DevOps.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is a component of Azure DevOps, but it primarily focuses on user experiences and opinions rather than providing insights into Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth in terms of CI/CD practices, integration, or agile methodologies specific to Azure DevOps.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T20:39:46",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft TFS and its hosted options, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T20:39:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hosted TFS and its marketability, with no clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Microsoft TFS and its hosted options, which are related to project management and software development. However, it does not explicitly address DevOps principles or practices. While there are mentions of user needs and project management features, the focus is primarily on TFS rather than the broader DevOps philosophy, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T20:39:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the hosted TFS service and user feedback, lacking a focus on engineering practices or methodologies that enhance software development.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T20:39:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the hosted TFS service and its features, with minimal focus on team dynamics, collaboration, or human factors in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:39:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and marketing of TFS, with no clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the hosted option for TFS and its implications for users, which relates to a product but does not primarily focus on reviews or analyses of products or literature.",
-    "level": "Tertiary"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the Hosted TFS service, licensing issues, and specific features for TFS, without a clear alignment to the overarching strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -388,19 +307,19 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses hosted TFS and user feedback but does not primarily focus on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses hosted TFS and its marketing aspects, with no clear focus on cross-functional teams.",
     "level": "Ignored"
   },
@@ -415,20 +334,11 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the hosted model for Team Foundation Server (TFS) and features needed for TFS, lacking a clear focus on portfolio management or related methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the hosted model for TFS and various customer requests related to TFS features, without a clear focus on Scrum principles or product development methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosted TFS and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about the hosted TFS service and user feedback, with no focus on the Definition of Done or relevant Agile concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Hosted Team Foundation Server (TFS) and licensing issues, without reference to scaling Agile practices or methodologies.",
+    "reasoning": "Content is primarily about the hosted TFS service and user feedback, with no focus on the Definition of Done or relevant Agile concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,10 +451,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Team Foundation Server (TFS) and Microsoft's offerings rather than focusing on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -575,23 +476,17 @@
     "reasoning": "Content discusses hosted TFS but does not focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is relevant to software development practices and tools that developers might use, but the focus is on Microsoft and features, making it a secondary theme rather than a primary discussion on the role of software developers in Agile or DevOps.",
-    "level": "Tertiary"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is a tool used in software development for project management and version control; however, the focus is more on marketability and management aspects than on software development practices themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its implications for software development, particularly in the context of hosted solutions. While it touches on relevant topics such as project management and the need for better reporting features, the focus is more on the marketing and user interest aspects rather than on software development methodologies or practices. The discussion lacks depth in terms of software engineering principles and does not provide substantial insights into the development lifecycle or best practices.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -604,12 +499,12 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T09:13:31",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses market needs and potential product improvements for TFS, but it focuses more on implementation and user requests rather than overarching product strategy and vision.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -620,7 +515,7 @@
     "reasoning": "Content discusses hosted TFS and its features, but does not focus on estimation techniques or Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:08:50",
     "ai_confidence": 0,
@@ -649,21 +544,24 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the availability and features of hosted TFS, without directly addressing topics related to technical leadership or agile methodologies.",
     "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly discusses aspects related to making TFS more marketable, with mention of features and reporting improvements that could potentially increase its appeal and market presence, but it is not centered primarily on market share strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the need for improvements in TFS to make it more marketable, which touches on aspects of market share. However, it primarily focuses on user feedback and feature requests rather than specific strategies for increasing market share or competitive analysis. The discussion lacks depth in terms of market positioning or comprehensive strategies, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -694,19 +592,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft TFS and its hosting options, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft's hosted TFS options and user needs, with no explicit mention of Continuous Delivery principles or practices. While it touches on project management features, it lacks a focus on automation, incremental improvements, or rapid feedback, which are core themes of Continuous Delivery. The discussion is more about user feedback and product evolution rather than the disciplined practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the hosted model for TFS and Microsoft's plans, without focusing on Lead Time or its measurement.",
     "level": "Ignored"
   },
@@ -739,20 +640,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses questions and responses about Hosted TFS, as well as features and marketing aspects of TFS, without mentioning hypothesis formulation, experiments, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Microsoft's Team Foundation Server (TFS) and related hosting options, with no focus on AI integration in Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -766,10 +658,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosted TFS options and features rather than change management practices, strategies, or Agile principles.",
     "level": "Ignored"
   },
@@ -793,10 +685,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft TFS and its features without focusing on Lean principles, waste reduction, or product development methodologies.",
     "level": "Ignored"
   },
@@ -847,12 +739,12 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:31",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content discusses Hosted TFS (Team Foundation Server) as a source control option and its features, but it primarily focuses on marketing aspects and user feedback rather than on version control practices or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -928,19 +820,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses Hosted TFS and user feedback, which are unrelated to the Definition of Ready criteria or Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft TFS and its hosted model, without addressing Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -955,10 +847,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft Team Foundation Server (TFS) and its marketing aspects, without focusing on software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
@@ -971,15 +863,6 @@
     "reasoning": "Content primarily focuses on hosted TFS and reporting needs, with no discussion on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Hosted TFS and Microsoft’s ambitions, without mentioning Kanban or its scaling principles.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:08:50",
@@ -987,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the limitations and features of TFS, along with Microsoft’s response to user inquiries, without focusing on strategies for retaining customers.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses hosted TFS and its marketability, without focusing on agile methodologies or project management principles.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1018,10 +892,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosted TFS services and Microsoft's plans rather than focusing on Cycle Time metrics or their implications.",
     "level": "Ignored"
   },
@@ -1045,12 +919,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses user feedback regarding Microsoft's TFS and features desired by users, which touches on customer insights but does not deeply explore the mechanisms of collecting and integrating feedback into product development.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a user's experience with Microsoft and their responsiveness to feedback regarding Hosted TFS. However, it primarily focuses on the user's excitement and expectations rather than detailing mechanisms for collecting or integrating customer feedback into product development. While there are mentions of user needs and potential improvements, the discussion lacks depth in exploring structured feedback loops or methodologies for integrating feedback into development processes.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -1072,10 +949,10 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft TFS and its hosted options, which does not relate to technical debt management or implications.",
     "level": "Ignored"
   },
@@ -1090,12 +967,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is related to Windows software, but does not focus on the Windows operating system specifically. It mentions issues related to licensing and hosted options, which are closely tied to Microsoft's ecosystem but not directly to Windows itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is a Microsoft product that operates within the Windows ecosystem. However, the focus is primarily on TFS and its hosted options rather than the Windows operating system itself. While there are mentions of Microsoft and some implications of Windows-related software, the content does not delve into installation, configuration, or troubleshooting of Windows OS. Therefore, it aligns with the Windows category only tangentially, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1144,10 +1024,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft TFS and its hosting options without a focus on test automation or related principles.",
     "level": "Ignored"
   },
@@ -1171,10 +1051,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the hosted model for TFS and its marketability, not BDD principles or practices.",
     "level": "Ignored"
   },
@@ -1189,21 +1069,21 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:31",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content mentions TFS (Team Foundation Server) and discusses the need for improvements and features that would make it more marketable, but it does not focus primarily on working software or its delivery. Instead, it revolves around TFS as a product and its potential hosted solutions.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T09:13:31",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "While the content discusses user interest and some features that might make TFS more marketable, it primarily focuses on Microsoft's internal processes and licensing issues rather than methodologies for identifying customer needs and defining product features.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1225,19 +1105,22 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical concerns and ideas related to Team Foundation Server (TFS), which hints at applying real-world context in software project management. However, it is not primarily focused on pragmatic problem-solving strategies in Agile or Scrum environments.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the need for practical features in TFS to enhance its marketability, which aligns with pragmatic thinking in terms of applying real-world needs to software development. However, it lacks a direct focus on Agile, Scrum, or DevOps frameworks, and the discussion is more about user feedback and feature requests rather than specific problem-solving strategies or case studies. The depth of discussion is moderate, as it outlines specific requirements but does not delve deeply into how these could be implemented or their implications in a broader context.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses hosted TFS and does not focus on release management practices or processes.",
     "level": "Ignored"
   },
@@ -1261,20 +1144,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T21:08:50",
+    "calculated_at": "2025-04-10T15:56:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on hosted TFS and associated features, with no clear discussion on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Hosted TFS and related features, without any focus on Scrum practices or scaling Scrum methodologies.",
+    "reasoning": "Content is primarily focused on hosted TFS and associated features, with no clear discussion on asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,22 +1187,16 @@
     "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its hosted options, without any focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Microsoft Team Foundation Server (TFS) and its hosted options without any mention of scaling agility concepts or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and its hosting options, with no focus on Scrum Master responsibilities or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft TFS and its hosted options, with no direct mention of the Scrum Master role or its responsibilities. While it touches on project management features, it does not align with the core themes of Scrum or the impact of a Scrum Master. The discussion lacks depth regarding Scrum practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1219,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses Microsoft TFS and its features but is unrelated to Test First Development or its principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Microsoft's hosted TFS and project management features, with no direct mention of Test First Development principles or practices. It lacks alignment with the core themes of Test First Development, such as success criteria, testing methodologies, or collaboration among development roles. The depth of discussion is minimal and does not provide any relevant insights into Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:26:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the hosted TFS service and user feedback, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on user engagement and feedback regarding Microsoft's TFS, which aligns with the concept of collaboration. However, it lacks a deeper exploration of social technologies, self-organisation, or collective intelligence. The focus is primarily on technical aspects and user needs rather than on frameworks or methodologies that promote collaboration and decision-making within organisations.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1248,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses hosted TFS and related technical aspects, with minimal focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses hosted TFS and its marketability, without a clear focus on Internal Developer Platforms or their benefits and implementation.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:48:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Microsoft Team Foundation Server (TFS) and its hosted options, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its hosted options, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on project management and software development, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is minimal regarding Scrum, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the hosted model for Team Foundation Server (TFS) and does not explicitly mention the Shift-Left Strategy or its principles. While it touches on aspects of software development, it lacks a focus on integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The discussion is more about TFS features and marketability rather than proactive quality assurance or early integration of critical processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft's evolution of TFS and user needs, with minimal focus on aligning strategy with execution or shared objectives within Agile or DevOps frameworks. While it touches on project management features, it lacks a clear connection to the principles of Common Goals, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses Microsoft's TFS and its hosted options, with a focus on user needs and project management features. While there are brief mentions of user feedback and the need for improvements, it lacks a direct discussion on competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, and the depth of discussion does not provide substantial insights into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Microsoft's evolution of TFS and user needs, which hints at a desire for improvement. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence or structured methodologies. The mention of user feedback and potential enhancements suggests some alignment with the category, but the depth of discussion is limited and does not provide substantial insights into Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Microsoft's evolution of TFS and user needs without explicitly addressing Agentic Agility. While it touches on user feedback and project management, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion does not differentiate between human and AI capabilities in the context of agility, nor does it provide depth on the principles of Agentic Agility.",
     "level": "Ignored"
   }
 }

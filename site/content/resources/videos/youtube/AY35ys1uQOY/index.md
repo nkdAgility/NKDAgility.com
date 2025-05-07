@@ -2,41 +2,41 @@
 title: How do you know if you've got a great Sprint Goal?
 description: 'Discover how to craft a valuable sprint goal in Scrum! Join Martin Hinshelwood for insights that align teams with strategic objectives. #Agile #Scrum #Shorts'
 date: 2023-06-02T11:00:12Z
+weight: 1000
 ResourceId: AY35ys1uQOY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: AY35ys1uQOY
 source: internal
 url: /resources/videos/:slug
-slug: how-do-you-know-if-you-ve-got-a-great-sprint-goal
+slug: how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
 layout: video
 preview: https://i.ytimg.com/vi/AY35ys1uQOY/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
-- /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
-- /resources/videos/AY35ys1uQOY
-- /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - /resources/AY35ys1uQOY
-aliasesFor404:
+- /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
+- /resources/videos/how-do-you-know-if-you-ve-got-a-great-sprint-goal
+aliasesArchive:
+- /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
 - /resources/how-do-you-know-if-you've-got-a-great-sprint-goal-
+- how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
+- /resources/videos/how-do-you-know-if-you-ve-got-a-great-sprint-goal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scrum Product Development
-- Agile Planning
-- Agile Project Management
+- Software Development
 - Agile Product Management
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 - Scrum
 
 ---
@@ -68,7 +68,7 @@ That's your litmus test for a top-notch sprint goal. 💫
 
 ## The Golden Nugget
 
-When your sprint goal has the power to pique curiosity, sparking questions like "How does this work?", "What does this mean?" and "How can we make this happen?" you can bet that you've hit the 'Scrum' bullseye. 🎯
+When your sprint goal has the power to pique curiosity, sparking questions like "How does this work?", "What does this mean?" and "How can we make this happen?" you can bet that you've hit the '[Scrum]({{< ref "/categories/scrum" >}})' bullseye. 🎯
 
 It's all about creating a buzz, stirring up interest, stoking enthusiasm, and generating that collective, anticipatory "We can't wait to get started!" energy. 🎉
 

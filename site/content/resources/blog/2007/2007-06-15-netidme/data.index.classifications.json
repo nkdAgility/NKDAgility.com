@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses a new identity verification service and its potential applications, without a clear focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T21:59:47",
     "ai_confidence": 0,
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:59:52",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of identity verification services and their potential future applications, without providing actionable instructions or insights related to installation or configuration.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses a new identity verification service and its potential applications, without any direct reference to Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:59:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new identity verification service and its potential applications, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:59:58",
@@ -98,30 +89,21 @@
     "reasoning": "Content primarily discusses identity verification services and their potential integration, without reference to complexity science or its principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T22:00:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new identity verification service and its potential applications, without a clear focus on practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T22:00:01",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a new identity verification service and its potential applications, without a clear focus on value delivery principles or methodologies.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:00:03",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses identity verification services and their potential future applications, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:00:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses identity verification services and their potential future applications, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a service for online identity verification and does not explicitly mention Evidence-Based Management or its key topics. While it touches on user interaction and security, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:00:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses identity verification services and their potential integration, with no clear focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:00:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new service for identity verification without a clear focus on Agile, DevOps, or technology updates relevant to those fields.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online identity verification service and its potential applications, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. While there is a brief mention of user interaction and security, these topics do not align with the core themes of the APOM, such as continuous delivery or product-oriented mindsets. The discussion lacks depth and detail relevant to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses identity verification services and their potential integration, without a clear focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:00:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses identity verification services and online interactions, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:00:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses identity verification services and their potential integration with various online platforms, without any clear focus on AI or automation within Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:00:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an identity verification service and its potential future applications, with no focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:00:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses a new service and its potential applications, but does not reference any events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:00:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses identity verification services and their potential applications, without a focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -307,20 +241,23 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T22:00:30",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses identity verification services and their potential integration, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:00:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses identity verification services and their potential integration, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses an online identity verification service and its potential applications, with no explicit mention of DevOps principles, practices, or cultural shifts. While it touches on integration and security, these topics are not framed within the context of DevOps, and the overall focus is on a specific service rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a new identity verification service and its potential applications, lacking a focus on engineering practices or methodologies that enhance software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T22:00:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a new identity verification service and its potential applications, without a clear focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:00:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new service for identity verification and its potential applications, without a clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T22:00:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new service for identity verification and its potential applications, rather than focusing on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:45",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a new service for identity verification but does not address innovation practices or measurement related to the Ability to Innovate.",
     "level": "Ignored"
   },
@@ -420,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses identity verification services and related technologies, which is not relevant to portfolio management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses an identity verification service and its potential applications, but it does not mention Scrum principles, practices, or product development related to Scrum.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:45",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses online identity verification services and integration rather than Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:45",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses identity verification services and online interaction, with no mention of Definition of Done or Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses identity verification services and online authentication, which is unrelated to Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content discusses identity verification services and online interaction, with no mention of Definition of Done or Agile principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +467,6 @@
     "reasoning": "Content discusses identity verification services and does not primarily focus on collaboration tools or their impact on Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses identity verification services and Single-Sign-On concepts without focusing on Software Developers, Agile, or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-17T08:18:45",
@@ -595,10 +478,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T08:18:45",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses online identity verification services and the integration of various authentication systems, which is unrelated to Site Reliability Engineering principles and practices.",
     "level": "Ignored"
   },
@@ -620,7 +503,7 @@
     "reasoning": "Content heavily discusses identity verification services and online interactions, with no relevance to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:45",
     "ai_confidence": 0,
@@ -694,11 +577,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses identity verification services and online interactions, without any references or relevance to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online identity verification service and its potential applications, with no explicit mention of Continuous Delivery principles, practices, or related topics. The focus is on user interaction and security rather than software delivery practices, making it largely irrelevant to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a new service for identity verification and speculative future applications, lacking discussion on hypothesis formulation or experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses identity verification services and the integration of online services, without a central focus on AI applications within Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +805,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:45",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on identity verification services and technology integration, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -971,15 +848,6 @@
     "reasoning": "Content focuses on identity verification services and technology integration, with no relevance to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Kanban principles or scaling Kanban practices; it focuses on an identity verification service and its integration with online services.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-17T08:18:45",
@@ -987,15 +855,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses identity verification services and their potential applications, rather than strategies for retaining customers.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an online identity verification service and its potential future applications, with no relevance to Agile Project Management principles or frameworks.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1009,10 +868,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T08:18:45",
+    "calculated_at": "2025-04-10T15:57:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses online identity verification services and does not reference Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
@@ -1090,12 +949,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses identity verification and services that could integrate with Windows technologies like Active Directory and the potential for single-sign-on solutions, making Windows a significant part of the topic despite it not being the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions Windows in the context of potential integration with identity verification services and discusses related technologies like Active Directory and SharePoint. However, the primary focus is on identity verification services rather than Windows itself. The discussion lacks depth regarding Windows-specific topics such as installation, configuration, or troubleshooting, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1268,15 +1130,6 @@
     "reasoning": "Content primarily discusses identity verification services and integration of various online platforms, with no clear focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum, scaling practices, or related frameworks at all and instead focuses on identity verification services.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:18:45",
@@ -1313,22 +1166,16 @@
     "reasoning": "Content primarily discusses identity verification services and their potential integration, with no focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses online identity verification services and their potential integration with various technologies, but does not touch upon any frameworks or practices related to scaling agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses identity verification services and online interactions, with no relevance to Scrum Master responsibilities or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online identity verification service and its potential applications, with no direct mention of Scrum, Scrum Masters, or related concepts. The focus is entirely on technology and user interaction, lacking any alignment with the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1198,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an identity verification service and its potential uses, with no mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online identity verification service and its potential applications, with no direct mention of Test First Development principles, success criteria, or testing practices. The focus is on user interaction and security rather than software development methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses identity verification services and their potential integration, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions online identity verification and user interaction, which are tangentially related to social technologies. However, it lacks a direct focus on collaboration, decision-making, or value delivery within organisations. The discussion is primarily centred on a specific service rather than the broader implications of social technologies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1227,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a new online identity verification service and its potential applications, with no clear focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:51:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses identity verification services and their potential integration with various online platforms, without a focus on Internal Developer Platforms or their related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:51:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses identity verification services and integration of online platforms, with no clear focus on AI applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or its principles, roles, events, or artifacts. It discusses identity verification services and online interactions, which are unrelated to Scrum or its framework. There is no conceptual alignment with Scrum themes, and the depth of discussion is minimal, focusing instead on technology and online services.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses identity verification services and their potential future applications, with no direct mention or alignment to the Shift-Left Strategy in software development. It lacks any discussion on integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a service for online identity verification and its potential applications, which does not directly relate to the concept of Common Goals in Agile or DevOps. While there are mentions of integration and user interaction, these do not connect to shared objectives or strategic alignment within teams. The discussion lacks depth on the principles of Common Goals, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses a service for online identity verification and its potential applications, without any explicit focus on competence, continuous learning, or skill development. While it touches on user interaction and security, these themes do not align with the core principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a new service for online identity verification and its potential future applications. It does not explicitly mention Continuous Improvement or its principles, nor does it provide any depth on related topics such as empirical evidence, experimentation, or team effectiveness. The focus is on a specific service rather than on the ongoing practice of enhancing processes or products.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses an online identity verification service and its potential applications, without explicitly addressing the principles of Agentic Agility. While it touches on themes of user interaction and security, it lacks a focus on intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency. The discussion does not delve into the mechanisms of Agentic Agility or provide examples that illustrate its application, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

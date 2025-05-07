@@ -2,8 +2,10 @@
 title: 'Focusing Beyond "Agile": Building True Capability in Organizations'
 description: "Refocus your organisation! Discover how to build competence and value by improving hiring practices and fostering effective leadership. \U0001F331\U0001F4BC #LifelongLearning"
 date: 2024-10-11T06:45:00Z
+weight: 400
 ResourceId: 4zGsmQFWFpo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4zGsmQFWFpo
@@ -14,27 +16,23 @@ preview: https://i.ytimg.com/vi/4zGsmQFWFpo/maxresdefault.jpg
 duration: 547
 isShort: false
 aliases:
-- /resources/focusing-beyond-agile-building-true-capability-in-organizations
-- /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
-- /resources/videos/4zGsmQFWFpo
-- /resources/where-are-we-now-and-where-do-we-need-to-go-next
 - /resources/4zGsmQFWFpo
-aliasesFor404:
+- /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
+- /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
+aliasesArchive:
+- /resources/videos/focusing-beyond-agile-building-true-capability-in-organizations
 - /resources/focusing-beyond-agile-building-true-capability-in-organizations
 - /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
 - /resources/where-are-we-now-and-where-do-we-need-to-go-next
+- focusing-beyond-agile-building-true-capability-in-organizations
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Organisational Change
-- Change Management
+- Competence
 - Continuous Learning
+- Scrum Master
 - Organisational Culture
-- Technical Leadership
-- Organisational Agility
-- Team Performance
 - Pragmatic Thinking
 - Sociotechnical Systems
 resourceTypes:
@@ -42,15 +40,14 @@ resourceTypes:
 layout: video
 categories:
 - Leadership
-- Product Management
-- Social Technologies
+- Technical Leadership
 
 ---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆
 
 ## **Why Agile Isn't the Focus**
 
-In many organizations, the term _Agile_ has become synonymous with processes and frameworks, leading to what I call "backlog barons" and "scrum stumblers." Here’s what I mean:
+In many organizations, the term _Agile_ has become synonymous with processes and frameworks, leading to what I call "backlog barons" and "[scrum]({{< ref "/categories/scrum" >}}) stumblers." Here’s what I mean:
 
 - **Backlog Barons**: Product owners who focus too heavily on managing backlogs without a deep understanding of the product.
 
@@ -68,7 +65,7 @@ The demand for Scrum Masters and Product Owners has grown exponentially, but the
 
 - **A shortage of expertise** in critical roles.
 
-- **A lack of focus on continuous learning** within these positions.
+- **A lack of focus on [continuous learning]({{< ref "/tags/continuous-learning" >}})** within these positions.
 
 - **Hiring practices** that prioritize quantity over quality.
 
@@ -78,7 +75,7 @@ Right now, many organizations are struggling with teams led by people who are no
 
 * * *
 
-## **Fixing Hiring Practices to Build Competence**
+## **Fixing Hiring Practices to Build [Competence]({{< ref "/tags/competence" >}})**
 
 To move forward, we need to rethink how we **hire and develop talent**. Here’s what we should focus on:
 
@@ -94,17 +91,17 @@ To move forward, we need to rethink how we **hire and develop talent**. Here’s
 
 - Prioritize candidates who demonstrate a willingness to **continuously improve** and **adapt** to new situations.
 
-### **3\. Promote Contextual Leadership**
+### **3\. Promote Contextual [Leadership]({{< ref "/categories/leadership" >}})**
 
 Think of leadership as two distinct roles:
 
-1. **Leading the Product**: This is about guiding product development to deliver maximum value.
+1. **Leading the Product**: This is about guiding [product development]({{< ref "/categories/product-development" >}}) to deliver maximum value.
 
-3. **Leading the People**: This involves coaching and mentoring teams to be more effective.
+3. **Leading the People**: This involves [coaching]({{< ref "/tags/coaching" >}}) and [mentoring]({{< ref "/tags/mentoring" >}}) teams to be more effective.
 
 **Personal Insight: Why Context Matters in Leadership**
 
-I’ve had the pleasure of working with some great Scrum Masters—individuals who may not have come from a software engineering background but excel in **enabling their teams to succeed**. For example, I’ve seen former **business analysts** or **testers** rise to the role of Scrum Master because they understand the team’s challenges and can offer actionable solutions.
+I’ve had the pleasure of working with some great Scrum Masters—individuals who may not have come from a software engineering background but excel in **enabling their teams to succeed**. For example, I’ve seen former **business analysts** or **testers** rise to the role of [Scrum Master]({{< ref "/tags/scrum-master" >}}) because they understand the team’s challenges and can offer actionable solutions.
 
 * * *
 
@@ -160,7 +157,7 @@ Scrum Masters should not only facilitate team activities but also embody a **com
 
 - **Embracing new challenges** with curiosity and determination.
 
-- **Demonstrating leadership** by guiding the team through continuous improvement.
+- **Demonstrating leadership** by guiding the team through [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 - **Setting the tone** for the organization, showing that learning and growth are valued.
 
@@ -180,7 +177,7 @@ One of my favorite books, _The Ideal Team Player_, delves into the **qualities a
 
 * * *
 
-## **Building a Culture of Capability and Value Delivery**
+## **Building a Culture of Capability and [Value Delivery]({{< ref "/tags/value-delivery" >}})**
 
 **Key Takeaways for Organizations**
 

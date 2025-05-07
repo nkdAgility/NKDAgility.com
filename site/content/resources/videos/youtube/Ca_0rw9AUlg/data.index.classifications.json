@@ -46,12 +46,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-12T08:42:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of focusing on organisational systems rather than culture, aligning closely with systems thinking principles and the dynamics within organisations.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content discusses the importance of focusing on organisational systems rather than culture, which aligns well with the principles of systems thinking. It explicitly mentions how the system influences behaviours and outcomes, reflecting a deep understanding of organisational dynamics. The discussion is rich in detail about how to effect change within an organisation by modifying the system, which is a core theme of Organisational Physics. However, while the content is strong, it does not cover all aspects of the category, such as feedback loops or complexity in detail, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -91,12 +94,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focusing on the system rather than culture in organisational change, which relates to leadership's role in guiding transformation. However, it primarily centres on the concept of organisational systems rather than directly addressing Agile leadership practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of leadership in facilitating systemic change within an organisation, which aligns with Agile Leadership principles. It highlights the importance of leaders in empowering teams and removing barriers, but it primarily focuses on the system rather than directly addressing Agile leadership practices. The discussion on leadership is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -109,21 +115,24 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T08:42:33",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational culture and transformation rather than technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between organisational culture and systems, which is relevant to digital transformation, but it primarily focuses on cultural change rather than the strategic adoption of digital technologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of changing organisational systems to influence culture, which aligns with the broader themes of digital transformation. However, it primarily focuses on cultural transformation rather than the strategic adoption of digital technologies. While it touches on aspects of operational efficiency and change management, it lacks direct references to digital tools or methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -136,19 +145,22 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on systems and decision-making principles within an organisation, which aligns with the theme of structured decision-making. However, the primary focus is on cultural transformation rather than decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses decision-making frameworks and structures, emphasising the importance of modifying systems to influence behaviour and culture. It provides specific examples of decision-making processes and metrics, aligning well with the category's focus on evidence-based methodologies. However, while it touches on decision-making, the primary focus is on cultural transformation rather than structured decision-making itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-12T08:42:39",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -172,11 +184,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-12T08:42:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the relationship between organisational culture and the systems in place, arguing that culture is an outcome rather than a direct target for change. It explores how changing organisational systems can influence culture, aligning well with the key topics of the category.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the relationship between organisational culture and the systems that shape it, arguing that culture is an outcome rather than a direct target for change. It mentions cultural transformation in the context of Agile but primarily focuses on the systems and processes that influence culture. While it aligns with the category's themes, the emphasis on systems over culture suggests a secondary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Customer Feedback Loops": {
@@ -208,10 +223,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T08:42:49",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses organisational culture and systems, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -244,38 +259,32 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of focusing on the system within an organisation to influence culture, which aligns with strategic approaches in Agile environments. However, it primarily centres on cultural transformation rather than strategic alignment or execution, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which aligns with strategic approaches in Agile environments. It provides detailed insights into how to tweak systems to drive cultural change, emphasising metrics, decision-making frameworks, and leadership roles, all of which are key topics in the Strategy category. However, while it touches on strategic concepts, it does not delve deeply into Agile-specific strategies or frameworks, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T08:42:55",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than focusing on the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T08:42:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than Agile frameworks or their implementation.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T08:42:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than specific strategies or frameworks for scaling agility.",
+    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than Agile frameworks or their implementation.",
     "level": "Ignored"
   },
   "Team Collaboration": {
@@ -334,12 +343,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile transformation and the importance of systems in organisational change, which relates to Agile methodologies in software development.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile transformations and the importance of focusing on systems rather than culture, which aligns with software development practices. It touches on Agile methodologies and the systemic changes necessary for effective software development, but it primarily focuses on cultural aspects rather than technical or methodological details. While it mentions Agile frameworks, the depth of discussion on software engineering practices is limited.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +364,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T08:43:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:56:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and the importance of focusing on systems rather than culture itself, without addressing throughput or its measurement and optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of focusing on the system rather than culture in Agile transformations. While it touches on performance metrics and decision-making frameworks, it does not explicitly define or calculate throughput, nor does it analyse or visualise throughput as a delivery metric. The discussion is more about cultural change and system adjustments rather than throughput as a delivery metric, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,12 +385,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the relationship between organisational culture and systems, which indirectly relates to Agile principles of adaptability and continuous improvement, but it primarily focuses on the concept of cultural transformation rather than Agile values directly.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in the context of Agile transformations. While it touches on Agile principles indirectly, such as collaboration and the need for systemic change, it primarily critiques the concept of Agile transformation without deeply engaging with Agile values or principles. The mention of Agile frameworks is also present but not the main focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -406,11 +424,14 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-12T08:43:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of focusing on organisational systems rather than culture in the context of change management, aligning with key topics in the Change Management category.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in the context of organisational change, which aligns with change management principles. It highlights how changing the system can lead to changes in behaviour and culture, reflecting a deep understanding of the dynamics involved in effective change management. However, while it touches on relevant themes, it does not explicitly mention Agile principles or provide detailed strategies for managing change, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -458,22 +479,16 @@
     "reasoning": "Content heavily discusses organisational culture and systems, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T08:43:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T08:43:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and systems, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile transformations and the importance of focusing on organisational systems rather than culture. It does not mention Test First Development or its principles, nor does it provide any relevant detail on testing practices, automated testing, or success criteria that are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,29 +547,26 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T08:43:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and system changes, with no clear focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T08:43:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of cultural transformation versus system transformation, without a clear focus on scaling Agile practices or frameworks.",
+    "calculated_at": "2025-04-11T09:17:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of focusing on the system rather than culture in Agile transformations. While it touches on metrics and performance measurement, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its relationship with Cycle Time, or strategies for optimisation, which are key aspects of the category. Overall, the content is more focused on cultural transformation and systemic changes rather than Lead Time itself.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T08:43:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of focusing on systems rather than culture in organisational change, which aligns with pragmatic problem-solving in Agile contexts. However, it leans more towards theoretical discussions about culture and systems without providing specific practical strategies or case studies.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of focusing on systems rather than culture in organisational change, which aligns with pragmatic thinking in Agile contexts. It emphasises practical problem-solving by suggesting that changing the system will lead to changes in behaviour and culture, demonstrating a real-world application of Agile principles. The depth of discussion is substantial, as it explores how to implement changes and monitor outcomes, but it lacks direct references to Agile or Scrum frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -564,15 +576,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational culture and systems rather than deployment frequency or related practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T08:43:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the concept of organisational culture and its relationship with systems rather than focusing on agile methodologies, principles, or practices.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -586,20 +589,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focusing on organisational systems rather than culture in the context of Agile transformation, which aligns with Agile principles. However, it primarily centres on cultural change rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which aligns with Agile principles of adaptability and continuous improvement. However, while it touches on Agile concepts, it primarily critiques the notion of Agile transformation without deeply exploring strategic implementation or leadership roles in fostering an Agile culture, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T08:43:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and transformation, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile transformations and cultural change, with minimal direct reference to Continuous Delivery principles. While it touches on system changes that could indirectly relate to software delivery, it lacks a focused discussion on Continuous Delivery practices, automation, or rapid feedback mechanisms that are central to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,20 +622,23 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T08:43:45",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational culture and systems rather than the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding and changing organisational systems to influence culture and behaviour, which relates to sensemaking in navigating complex environments. However, the primary focus is on cultural transformation rather than a direct exploration of sensemaking principles or frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding and changing the underlying systems within an organisation to influence culture, which aligns with sensemaking principles. However, it primarily focuses on Agile transformations and cultural change rather than explicitly exploring sensemaking frameworks or decision-making processes in complex environments. The discussion on leadership's role and the iterative nature of change contributes to the sensemaking theme, but the overall emphasis is more on practical implementation than on the theoretical aspects of sensemaking.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -645,24 +657,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than specific strategies or practices related to team performance and collaboration within agile teams.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T08:43:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses organisational culture and systems rather than AI integration in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T08:43:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and system change, with no clear focus on Kanban principles or their application in large-scale environments.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -685,21 +679,24 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-12T08:44:01",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational culture and system changes, with no clear focus on Lean principles or waste reduction.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between organisational culture and systems in the context of Agile transformation, but it primarily critiques the concept of Agile transformation itself rather than focusing on Agile principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile transformations and critiques the focus on culture over systems, which aligns with Agile principles. However, it primarily emphasises systemic changes rather than Agile methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -721,12 +718,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T08:44:07",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of organisational change through the lens of system transformation rather than cultural transformation, aligning well with the principles of Agile transformation and the processes involved in changing organisational behaviour.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the concept of organisational change through the lens of system transformation rather than cultural transformation. It explicitly mentions the need to focus on the system that drives behaviour, which aligns closely with the principles of effective change management. The depth of discussion is significant, providing practical steps and personal experiences that illustrate the process of organisational change. Overall, the content is highly relevant to the category, with a strong emphasis on the methodologies and frameworks necessary for successful transformation.",
+    "level": "Primary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -735,15 +735,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational culture and transformation, with no focus on test automation or related practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T08:44:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational culture and systems rather than Scrum principles or product development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -757,11 +748,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T08:44:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than empirical evidence or data-driven decision-making.",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on systems rather than culture in organisational change, which aligns with the concept of empirical decision-making. However, it lacks direct references to evidence-based management metrics or frameworks, and the primary focus is on cultural transformation rather than data-informed practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,30 +767,24 @@
     "reasoning": "Content primarily discusses organisational culture and systems rather than backlog refinement or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T08:44:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T08:44:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and transformation, without specific reference to the role or responsibilities of a Scrum Master.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile transformations and the importance of systems over culture, which indirectly relates to the Scrum Master's role in facilitating change. However, it lacks direct mentions of the Scrum Master and does not delve into specific responsibilities or techniques relevant to the role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T08:44:18",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than large scale Agile practices or frameworks.",
     "level": "Ignored"
   },
@@ -838,10 +826,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T08:44:23",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of organisational culture and its relationship with systems, rather than focusing on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -854,7 +842,7 @@
     "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than accountability or team dynamics in Agile.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T08:44:25",
     "ai_confidence": 0,
@@ -937,12 +925,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between organisational culture and systems, which aligns with Agile principles of adaptability and continuous improvement, but it primarily focuses on the concept of cultural transformation rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which aligns with Agile principles of adaptability and continuous improvement. It critiques the notion of Agile transformation as a standalone concept and emphasises the need for systemic changes to influence culture, reflecting a deep understanding of Agile philosophy. The discussion is rich in detail, providing practical steps and personal experiences that illustrate the application of Agile principles, thus demonstrating a strong alignment with the category.",
+    "level": "Primary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -955,10 +946,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T08:44:39",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of organisational culture and transformation rather than Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1018,12 +1009,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of organisational systems and their impact on culture, which aligns with themes of enterprise agility, but it primarily focuses on the concept of culture rather than broader organisational agility practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on the organisational system rather than culture in the context of Agile transformations. It aligns with the themes of enterprise agility by addressing systemic changes that can lead to cultural shifts, which is a key aspect of fostering agility at an organisational level. However, while it touches on relevant topics, it does not delve deeply into frameworks, leadership roles, or specific metrics, which limits its overall depth in the context of enterprise agility.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1034,31 +1028,13 @@
     "reasoning": "Content heavily discusses Agile transformation and cultural change without reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of focusing on organisational systems rather than culture in the context of change, which aligns with themes of adaptability and organisational behaviour. However, it primarily centres on the critique of cultural transformation rather than a comprehensive exploration of resilience and change strategies.",
-    "level": "Tertiary"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T08:41:25",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses cultural transformation and organisational behaviour, with no focus on installation or configuration of tools or software.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T08:41:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses organisational culture and systems rather than software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1068,15 +1044,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of organisational culture and the importance of focusing on systems rather than culture itself, without addressing flow efficiency or related topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T08:41:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses organisational culture and systems rather than AI and automation in Agile practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1090,66 +1057,36 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T08:41:33",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than Agile Product Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T08:41:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of organisational culture and systems rather than focusing on discovery, learning, or innovation processes.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-12T08:41:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the importance of focusing on the system within an organisation to effect change, rather than attempting to change culture directly. It emphasises the interconnectedness of rules, procedures, and practices in shaping organisational behaviour, aligning well with the principles of Systems Thinking.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of focusing on the system rather than culture, which aligns closely with Systems Thinking principles. It highlights the interconnectedness of organisational rules, procedures, and practices, and how these influence culture and behaviour. The depth of discussion is significant, as it explores how changing the system can lead to desired outcomes in organisational culture, reflecting a holistic approach. Overall, the content is a strong fit for the Systems Thinking category.",
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-12T08:41:37",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of focusing on the system within an organisation rather than attempting to change culture directly, which aligns with complexity thinking principles. It touches on the non-linear dynamics of organisational behaviour and the interplay between systems and outcomes, making it a major theme, though not the sole focus.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in organisational change, which aligns with complexity thinking principles. It touches on how systems influence behaviours and outcomes, reflecting non-linear dynamics. However, it lacks explicit references to complexity science frameworks or theories, resulting in a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T08:41:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than focusing on transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T08:41:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and its relationship to systems, without providing specific practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T08:41:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of agile transformation and organisational culture without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1171,11 +1108,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T08:41:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses cultural transformation and organisational systems without a clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile transformations and cultural change rather than DevOps principles. While it touches on concepts like systems thinking and collaboration, it lacks direct references to DevOps practices, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,23 +1127,17 @@
     "reasoning": "Content heavily discusses cultural transformation and organisational systems without any mention of Azure DevOps or its functionalities.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T08:41:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems in relation to Agile transformation, without focusing on specific products or literature.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of organisational systems and their impact on culture, which relates to the principles of business agility. However, it primarily focuses on the concept of cultural transformation rather than directly addressing business agility practices or strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in the context of Agile transformations, which aligns with the principles of business agility. It touches on leadership roles and the need for systemic changes to foster agility, but it does not delve deeply into specific strategies or metrics for measuring business agility, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1234,12 +1168,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T14:18:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of focusing on organisational systems rather than culture in the context of agility, which aligns with the theme of organisational agility. However, it primarily critiques the concept of agile transformation rather than providing strategies or practices for enhancing agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of focusing on the organisational system rather than culture in achieving agility, aligning well with the principles of organisational agility. It explores how systemic changes can lead to cultural shifts, which is a key theme in the category. The depth of discussion is substantial, providing practical steps and personal experiences that illustrate the concepts effectively.",
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -1250,39 +1187,24 @@
     "reasoning": "Content primarily discusses the concept of agile transformation and organisational culture without personal anecdotes or insights.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T08:42:06",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the interplay between organisational systems and culture, focusing on how changes in processes can influence human behaviour within an organisation.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-12T08:42:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the relationship between organisational systems and culture, emphasising how changes in systems can influence behaviours and outcomes within an organisation, which aligns closely with the themes of sociotechnical systems.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T08:42:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of agile transformation and organisational culture without providing industry news, updates, or reviews.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the interplay between organisational culture and systems, emphasising that culture is an outcome of the system rather than something that can be directly changed. This aligns well with the core themes of sociotechnical systems, particularly the relationship between organisational structures and behaviours. The depth of discussion is significant, as it explores how changing the system can influence culture and behaviour, which is central to understanding sociotechnical interactions. However, while the content is rich in ideas, it does not explicitly mention sociotechnical systems or frameworks, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T08:42:11",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organisational culture and systems rather than metrics or learning processes.",
     "level": "Ignored"
   },
@@ -1306,10 +1228,10 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T08:42:16",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile transformation and organisational systems rather than psychological principles or theories related to motivation, engagement, or team dynamics.",
     "level": "Ignored"
   },
@@ -1324,56 +1246,477 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T14:18:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of organisational systems and their impact on culture, which relates to leadership in fostering an environment for change. However, it primarily focuses on systems rather than direct leadership practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of focusing on organisational systems rather than culture in the context of transformation, which indirectly relates to leadership. However, it lacks explicit mentions of leadership practices or strategies, and the depth of discussion on leadership is limited. The primary focus is on systems and culture rather than on leadership roles or techniques.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and systems rather than focusing on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-03-21T17:56:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile transformations and the importance of focusing on systems rather than culture, which is somewhat related to Agile principles. However, it does not explicitly mention the Agile Product Operating Model or its key topics, such as product management practices or continuous delivery. The primary focus is on cultural transformation rather than the product-oriented mindset central to APOM.",
     "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T14:18:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of organisational systems and their impact on culture, which aligns with the principles of decentralisation and adaptive organisational design. However, it primarily focuses on the concept of culture rather than directly addressing BetaCodex principles.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:18:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses organisational culture and systems rather than Scrum principles, roles, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in organisational change, which aligns with some principles of Beta Codex, such as decentralisation and adaptive organisational cultures. However, it primarily centres on traditional concepts of organisational change and does not explicitly mention Beta Codex or its principles. The discussion lacks depth in exploring human-centric approaches or case studies related to Beta Codex, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:18:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of organisational systems and their impact on culture, which relates to Agile practices, but it does not primarily focus on specific frameworks like Scrum or Kanban.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which aligns with the principles of self-organisation and decision-making. However, while it touches on collaboration and decision-making frameworks, it lacks a direct focus on social technologies as a primary theme, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:43:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile transformation and organisational culture, with no mention of Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:43:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational culture and systems rather than the application of AI in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the concept of organisational culture and transformation but does not explicitly mention Scrum or its principles. While it touches on systems and practices, which are relevant to Agile methodologies, it lacks a direct focus on Scrum roles, events, or artifacts. The discussion is more philosophical and does not provide detailed insights into Scrum practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of focusing on the system rather than culture in organisational transformations, which does not directly relate to the Shift-Left Strategy. While there are mentions of processes and frameworks, they do not specifically address early integration of testing, security, or compliance in software development, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in organisational change, which aligns with Continuous Improvement principles. It mentions the need for incremental changes and monitoring outcomes, reflecting a commitment to ongoing enhancement. However, the primary focus is on cultural transformation rather than Continuous Improvement itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which indirectly relates to aligning strategies with execution. However, it primarily centres on cultural transformation and systemic changes rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The mention of metrics and decision-making structures hints at alignment but lacks depth in discussing shared objectives or frameworks like OKRs.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on systems rather than culture in Agile transformations, which indirectly relates to competence through the need for effective processes and decision-making frameworks. However, it does not explicitly address continuous learning, skill development, or the role of competence in delivering quality outcomes, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in organisational change, which aligns with some principles of standardising processes. However, it primarily centres on Agile transformations and cultural aspects, lacking a direct focus on the One Engineering System framework or its specific components. The discussion is more about general organisational behaviour than the integration and standardisation of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of changing systems to influence culture, which aligns with the concept of intentional shaping of outcomes. However, it primarily focuses on cultural transformation rather than explicitly addressing Agentic Agility or differentiating between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility and does not mention AI systems, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:55:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which aligns with the principles of Agile product development. It addresses iterative changes, the role of leadership, and the need for continuous improvement, all of which are key themes in product development. However, while it touches on these topics, the primary focus is more on cultural aspects rather than product development methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:55:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile transformations and the importance of focusing on systems rather than culture. While it touches on themes of collaboration and decision-making, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The discussion lacks depth regarding the principles and applications of Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:55:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile transformations and the importance of focusing on the underlying systems rather than culture. While it touches on project management concepts like processes, decision-making frameworks, and performance metrics, it primarily centres on Agile practices and cultural change, which are not the main focus of project management as defined in the category. The discussion lacks depth in traditional project management principles and methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 0,
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of organisational culture and transformation, without a clear focus on the principles or components of the One Engineering System framework.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of focusing on the system rather than culture in Agile transformations. While it touches on themes relevant to Agile, such as collaboration and decision-making, it does not explicitly mention Open Space Agile or its principles. The discussion lacks depth regarding Open Space Technology and its application in Agile contexts, leading to a low confidence score for alignment with the Open Space Agile category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the importance of focusing on the system rather than culture in Agile transformations. While it touches on the idea of making changes that could lead to improved outcomes, it does not explicitly mention Unrealised Value or its indicators. The discussion lacks depth in exploring untapped opportunities or potential value, which are central to the concept of Unrealised Value. Therefore, while there is some conceptual alignment, the lack of direct mentions and detailed exploration results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:55:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which indirectly relates to improving processes that could affect Time to Market. However, it does not explicitly mention Time to Market or its associated metrics, nor does it provide detailed strategies for optimising delivery speed. The primary focus is on cultural transformation and systemic change, which are not directly aligned with the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:55:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which indirectly relates to measuring performance and outcomes. However, it lacks direct mentions of Current Value metrics or indicators, and the discussion is more about cultural change than the real-time assessment of value delivered by a product or service. The content does not provide specific techniques for gathering or analysing Current Value data, nor does it present case studies or comparisons with other value areas in Evidence-Based Management, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on the organisational system rather than culture, which aligns with some principles of CaaP, such as continuous improvement and the need for systemic changes. However, it does not explicitly mention CaaP or directly relate to the concept of treating the organisation as a product. The discussion is more centred on Agile transformations and cultural change, which are not strictly aligned with the CaaP framework. Therefore, while there are relevant themes, the primary focus is not on CaaP itself, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:55:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which indirectly relates to scaling practices. However, it does not explicitly mention scaling frameworks or strategies for cross-team collaboration, which are key topics in the Scaling category. The discussion is more about cultural change and system adjustments rather than the complexities of scaling Agile across multiple teams. Therefore, while there is some conceptual alignment, the depth of discussion and direct mentions of scaling are limited, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:55:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which indirectly touches on Hybrid Agile concepts. However, it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. The discussion lacks depth in addressing the specific challenges and pitfalls associated with Hybrid Agile, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:55:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which aligns with the Agnostic Agile principle of adapting methods based on context. However, it primarily centres on the mechanics of system change without explicitly referencing Agnostic Agile principles or comparing it to traditional frameworks. The discussion lacks depth in exploring Agnostic Agile as a distinct philosophy, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:56:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile transformations and cultural change within organisations, without any direct mention of GitHub or its functionalities. While it touches on concepts relevant to Agile and system changes, it does not align with GitHub's specific tools or practices, nor does it provide any insights into GitHub's services or methodologies. Therefore, the confidence score reflects a very low relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:56:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile transformations and the importance of focusing on the system rather than culture. While it touches on themes of organisational change, it does not explicitly mention or align with the principles of Cell Structure Design, such as decentralisation, autonomous cells, or the Beta Codex. The discussion is more centred on traditional management practices and Agile methodologies, which are outside the scope of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:21",
+    "ai_confidence": 76.0,
+    "ai_mentions": 14,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of focusing on the system rather than culture in Agile transformations, which aligns with actionable principles like Continuous Improvement and Self-Management. It thoroughly explores how making systematic changes can influence team behavior and organizational culture, supporting the idea of value delivery and adaptability. However, while it touches upon principles, it primarily centers on changing culture through systemic modifications, rather than explicitly detailing the actionable principles themselves. Thus, while relevant, it does not strictly adhere to discussing principles alone.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:21",
+    "ai_confidence": 22.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses cultural transformation in Agile environments and emphasizes the importance of the underlying systems rather than focusing on specific tools or mechanisms. While there are mentions of structures and metrics, the discourse does not delve into specific tools that facilitate these changes or provide a comparative analysis of any tools relevant to Agile practices. The content seems to brush on tools like metrics and decision-making frameworks but doesn't explore them in a context that aligns with the defined category of 'Tool.' Therefore, the confidence score is low.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of the system over culture in fostering organizational change, which indirectly touches on values. It references behaviors influenced by systemic changes but does not explicitly address core values like Agile Values or Scrum Values. The depth of discussion about the implications of systems on culture is present, but it lacks a strong emphasis on foundational values guiding those behaviors in organizations.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:21",
+    "ai_confidence": 55.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the philosophical underpinnings of Agile transformations, emphasizing the importance of understanding systems over culture. It aligns with the philosophy category by examining beliefs about organizational change and decision-making frameworks. However, while it touches on conceptual ideas, it does so largely in the context of practical change management, which detracts from its philosophical depth, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Discipline": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the importance of systematic changes within organizations as a means to achieve cultural transformation, aligning well with the principles of Agile and continuous improvement. It emphasizes the role of processes, frameworks, metrics, and leadership in shaping organizational behavior and culture, which showcases a clear understanding of the principles governing disciplines like Agile. While it touches on cultural aspects, the focus remains on the systemic and methodological changes, reflecting the core themes of discipline discussed in the classification. The content offers substantial detail on how to implement these changes, thus exhibiting depth in the discussion.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses primarily on organizational culture and systemic change, with minimal connection to specific artifacts used in Agile processes. It lacks direct references to Agile artifacts and does not delve into their structure or purpose effectively, which are key components of the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on cultural transformations in organizations and emphasizes system changes over cultural ones. While it briefly touches on the importance of metrics and monitoring outcomes, it does not directly discuss observability as defined in the category. The discussions are more aligned with Agile methodologies rather than the principles and practices of observability, which requires a deeper focus on metrics, logs, and traces specific to software systems.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content discusses the need for changes in systems and practices that affect organizational culture, it primarily focuses on philosophical ideas regarding culture transformation rather than providing specific actionable techniques or practices. The direct mentions of improving practices such as modifying performance metrics and introducing collaborative decision-making are limited and lack depth in detail about these techniques. Consequently, the content does not strongly align with the key topics under the 'Practice' category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 55.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the importance of focusing on the system and its components, which aligns with methods used in Agile frameworks to improve organizational performance. It mentions specific procedural elements such as processes, metrics, and decision-making frameworks, and how tweaking them can lead to cultural shifts. However, the primary focus of the content is more on cultural transformation rather than strictly following a particular method, which diminishes its alignment with the 'Method' category.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 55.0,
+    "ai_mentions": 2,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the transformation from a cultural perspective, emphasizing the need to focus on systems rather than culture directly. While it does not explicitly refer to any specific models like the Cynefin Framework or Lean Startup principles, it aligns with the key topics by advocating for understanding and improving systems to influence organizational culture. The depth of discussion regarding systemic change and its impact on behavior indicates a reasonable alignment with the 'Model' classification, but the lack of direct model references lowers the score.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 52.0,
+    "ai_mentions": 5,
+    "ai_alignment": 45.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content discusses frameworks in the context of Agile transformations, emphasizing the importance of modifying organizational systems and policies rather than focusing solely on cultural changes. It mentions decision-making frameworks and measurement frameworks as critical aspects of the systemic changes required for effective transformation. While there are direct mentions of frameworks and the content aligns with the themes of adapting methodologies, it lacks specific comparative analysis of different frameworks or in-depth exploration of Agile principles. The depth of discussion on specific frameworks is moderate, focusing more on a philosophical overview than detailed implementation strategies, which leads to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 35,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses how to change organizational culture by focusing on the underlying system rather than directly attempting to alter the culture itself. It outlines specific, actionable steps and concepts related to decision-making frameworks, performance metrics, and changing processes, which are closely aligned with the principles found in Agile tenets. However, while it mentions Agile indirectly, it does not specifically discuss Agile tenets themselves, which slightly reduces the overall alignment score. The depth of the content, with its focus on actionable system changes, supports a higher score in that dimension.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "Ca_0rw9AUlg",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of systemic change over cultural transformation in organizations, but it primarily focuses on specific practices and actions rather than on underlying capabilities that can be developed over time. While there are references to systems and frameworks, the discussion lacks in-depth exploration of capabilities in an Agile or DevOps context and does not provide concrete examples or strategies for fostering enduring competencies.",
     "level": "Ignored"
   }
 }

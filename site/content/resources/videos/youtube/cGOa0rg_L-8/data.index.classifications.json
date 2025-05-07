@@ -1,21 +1,27 @@
 {
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:30:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 52.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the flow of value and the need to eliminate bureaucratic blockages, which aligns with Value Stream Management principles, but it primarily focuses on agility in project ecosystems.",
+    "final_score": 52.0,
+    "reasoning": "The content discusses the importance of agility in project ecosystems and highlights the need to eliminate bureaucratic processes that hinder value delivery. While it touches on concepts related to value flow and maximising stakeholder value, it does not explicitly mention Value Stream Management or delve into its principles, techniques, or metrics. The focus is more on general agility rather than a detailed exploration of value stream management practices.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:30:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of shortening feedback loops and maximising value for stakeholders, which relates to metrics and learning, but it primarily focuses on the agility of the project ecosystem rather than metrics and learning as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of shortening feedback loops and maximising value for stakeholders, which aligns with the core themes of metrics and learning. However, it lacks explicit mentions of specific metrics or detailed techniques for data collection and analysis, which limits its depth and direct engagement with the category.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -28,29 +34,26 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:30:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of agility in project ecosystems and the need for shorter feedback loops, which aligns with Agile principles, but it does not focus specifically on product management practices or roles.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of agility in project ecosystems and highlights the need for automation and shorter feedback loops, which aligns with Agile principles. However, it lacks specific references to Agile Product Management practices, such as the role of the Product Owner or techniques for prioritising product backlogs, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T12:30:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agility and the need for a fluid ecosystem, which aligns with some principles of BetaCodex, but it primarily focuses on the challenges of bureaucratic processes rather than a deep exploration of BetaCodex principles.",
-    "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:30:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agility in project ecosystems and the need for automation, without a clear focus on the principles or components of the One Engineering System framework.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on agility and the need for a streamlined process, which aligns with some principles of BetaCodex. However, it lacks direct mentions of decentralisation, human-centric approaches, or adaptive organisational cultures, which are core themes of the category. The discussion is more focused on the operational aspects of agility rather than the foundational theories of BetaCodex.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -62,59 +65,50 @@
     "reasoning": "Content primarily discusses agility in project ecosystems and the need for automation, without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:30:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile methodologies and project management rather than the interplay between software code quality and complexity.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:31:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for automation and the elimination of bureaucratic processes to enhance delivery, which aligns with DevOps principles, but it primarily focuses on agility rather than DevOps as a central theme.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of automation and continuous integration/deployment (CI/CD), which are key principles of DevOps. It highlights the need for streamlined processes and short feedback loops, aligning well with DevOps themes of collaboration and efficiency. However, while it touches on DevOps concepts, the primary focus is on Agile practices, which slightly detracts from its alignment with the DevOps category.",
+    "level": "Primary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:31:02",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the agility of project ecosystems and the need for automation, but does not focus on specific installation or configuration processes.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:31:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of agility in project ecosystems and the need for shorter feedback loops, which aligns with the principles of Agile methodologies. However, it does not delve deeply into specific strategies or practices that enhance market adaptability, making it a major but secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agility within project ecosystems, highlighting the need for automation and shorter feedback loops, which aligns with the principles of Agile methodologies. However, while it touches on relevant themes, it lacks detailed exploration of specific strategies or practices that enhance market adaptability, such as DevOps or Lean principles. The focus is primarily on the internal processes rather than broader market responsiveness.",
     "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:31:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of maintaining agility in project ecosystems rather than providing news or reviews related to Agile methodologies or tools.",
-    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:31:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of agility in project ecosystems and the importance of shortening feedback loops and maximising value delivery, which aligns with the Agile Product Operating Model, but it primarily focuses on the challenges of agile implementation rather than the model itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes to achieve true agility, which aligns with the Agile Product Operating Model. However, it primarily focuses on project ecosystems and automation rather than explicitly addressing the core principles of APOM or product management. While it touches on relevant themes like stakeholder value and feedback loops, it lacks a deep exploration of the APOM framework itself.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -125,31 +119,16 @@
     "reasoning": "Content heavily discusses Agile methodologies and project management without a clear focus on decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T12:31:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of agile methodologies and the need for improved collaboration and feedback loops, indicating a focus on team dynamics and process efficiency, but it primarily centres on automation and deployment rather than human factors.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:31:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for agility in project ecosystems and the importance of reducing bureaucratic barriers, which relates to adaptability and continuous improvement, but it primarily focuses on technical implementations rather than organisational resilience or change management.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:31:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the importance of an agile ecosystem, focusing on automation, shortening feedback loops, and maximising value for stakeholders, which aligns closely with the principles of value delivery.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of an agile ecosystem and the need for automation to enhance value delivery. It mentions the significance of shortening feedback loops and maximising value for stakeholders, which aligns with key topics in the Value Delivery category. However, it lacks detailed exploration of specific methodologies or practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -163,39 +142,51 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:31:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for automation and shortening feedback loops in the context of agile programming, which relates to technical practices but primarily focuses on the broader concept of agility rather than specific engineering methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the need for automation and shortening feedback loops, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). However, it primarily focuses on the broader concept of agility rather than specific engineering practices or methodologies. The discussion lacks depth in technical excellence topics such as TDD, modular architecture, or emergent design principles, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:31:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of reducing bureaucracy and blockages in the delivery process, which relates to flow efficiency, but it primarily focuses on the overall agility of the project ecosystem rather than flow efficiency as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of streamlining processes and reducing delays in Agile ecosystems, which aligns well with the principles of Flow Efficiency. It explicitly mentions bottlenecks, automation, and feedback loops, all of which are key topics in the category. The depth of discussion on CI/CD and the impact of automation on delivery speed further supports a high confidence score.",
+    "level": "Primary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:31:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interconnectedness of agile teams and bureaucratic processes, highlighting the importance of feedback loops and value maximisation, which are relevant to Systems Thinking. However, the primary focus is on agility rather than a comprehensive exploration of Systems Thinking principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes, which touches on interconnectedness and holistic analysis. However, it primarily focuses on Agile methodologies and automation rather than explicitly exploring Systems Thinking principles or techniques. While there are mentions of feedback loops and value maximization, the depth of discussion on Systems Thinking concepts is limited.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:31:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of automation and reducing bureaucratic processes in the context of project delivery, which relates to the application lifecycle, but it primarily focuses on agility rather than the full scope of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining deployment processes, which are relevant to Application Lifecycle Management. However, it primarily focuses on Agile methodologies and automation rather than the full lifecycle of application management, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -206,23 +197,17 @@
     "reasoning": "Content primarily discusses Agile concepts and the need for automation and feedback loops, without a clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:31:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the agility of project ecosystems without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:31:39",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of having an agile ecosystem and the need for automation to enhance responsiveness and value delivery, which aligns with the principles of business agility. However, it primarily focuses on the challenges of integration between agile teams and bureaucratic processes, making business agility a secondary theme.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the importance of having an Agile ecosystem that encompasses not just Agile teams but also streamlined processes for deployment and delivery. It highlights the need for automation, short feedback loops, and continuous improvement, all of which are core principles of business agility. The depth of discussion is significant, providing practical advice and real-world examples that illustrate the concepts effectively. Overall, the content aligns well with the category of Business Agility, focusing on how to maximise value delivery in a dynamic market environment.",
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -242,23 +227,17 @@
     "reasoning": "Content heavily discusses Agile methodologies and the need for automation in deployment, but does not focus on Platform Engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:31:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for automation and reducing bureaucratic processes in Agile environments, which aligns with practical techniques, but it does not delve into specific tools or methodologies.",
-    "level": "Tertiary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:31:44",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of agility in the project ecosystem, focusing on the integration of agile teams and the need for automation in the delivery process, which aligns with product delivery principles. However, it does not delve deeply into specific methodologies or practices, making it a secondary theme.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 33,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Agile methodologies, the importance of automation in deployment, and strategies for shortening feedback loops, all of which are central to product delivery. It provides detailed insights into how to create an Agile ecosystem that enhances delivery efficiency and stakeholder value, aligning closely with the key topics outlined in the category definition.",
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -271,93 +250,63 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:31:47",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the need for an agile ecosystem, highlighting the importance of reducing bureaucracy and improving feedback loops, which aligns with the principles of organisational agility.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:31:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of shortening feedback loops and maximising value for stakeholders, which relates to accountability and transparency in the context of Agile practices, but it primarily focuses on the overall agility of the project ecosystem.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:31:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of shortening feedback loops and maximising value, which relates to learning and adaptation in agile environments, but primarily focuses on the agile ecosystem rather than discovery and learning processes.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the importance of having an Agile ecosystem that encompasses not just Agile teams but also streamlined processes, particularly focusing on automation and feedback loops. It aligns well with the core themes of organisational agility, such as enhancing adaptability and responsiveness, and provides detailed strategies for achieving end-to-end agility. The depth of discussion on practical implementations, like CI/CD pipelines and stakeholder engagement, further supports its relevance to the category.",
+    "level": "Primary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:31:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the agility of project ecosystems and the need for automation, without a clear focus on Evidence-Based Management principles or empirical data.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:31:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the need for automation in the context of Agile practices, highlighting the importance of streamlining processes and reducing bureaucratic delays. However, it does not explicitly mention AI or provide detailed insights into its role within Agile frameworks.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:31:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the agility of project ecosystems and the need for automation, without focusing on specific products, books, or methodologies related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:31:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses agility in project ecosystems but does not focus specifically on Scrum principles, roles, or practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to Evidence-Based Management. However, it primarily focuses on Agile methodologies and does not explicitly mention empirical evidence or metrics that are central to EBM. The discussion lacks depth in terms of data-informed decision-making and does not provide specific metrics or outcomes that align with the key topics of EBM.",
+    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:31:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between agile teams and bureaucratic processes, highlighting the impact of organisational structure on project agility and delivery speed, which aligns with sociotechnical systems principles.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the interplay between Agile teams and bureaucratic deployment processes, highlighting how organisational structures can hinder or enhance software delivery. It addresses the importance of aligning technical practices (automation, CI/CD) with business goals (maximising stakeholder value), which aligns with sociotechnical principles. However, while it touches on these themes, the primary focus remains on Agile practices rather than a comprehensive exploration of sociotechnical systems.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:31:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of agility and feedback loops, which are related to complexity thinking, but it primarily focuses on the need for automation and efficiency rather than a deep exploration of complexity science principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes, which touches on complexity in terms of managing non-linear dynamics and emergent behaviours. However, it primarily focuses on practical Agile implementation rather than a deep exploration of complexity science principles. While it mentions the need for responsiveness and adaptation, it lacks explicit references to complexity frameworks or theories, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:31:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for an agile ecosystem and the importance of reducing bureaucratic processes, which aligns with the theme of enterprise agility. However, it primarily focuses on team-level practices and does not delve deeply into organisational structures or broader implications.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the importance of having an Agile ecosystem that encompasses not just Agile teams but also streamlined processes for deployment and delivery. It highlights the need for automation, short feedback loops, and stakeholder engagement, which are all critical components of enterprise agility. The discussion goes beyond team-level practices, addressing organisational structures and strategies that support agility, thus aligning well with the core themes of the category.",
+    "level": "Primary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -370,82 +319,79 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:55:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of agility in project ecosystems and mentions agile programming teams, indicating a major but secondary theme related to Agile practices.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agility in project ecosystems and focuses on automation and feedback loops, without a clear emphasis on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile practices and the importance of collaboration, automation, and stakeholder engagement, which aligns with the principles of Social Technologies. However, while it touches on these themes, the primary focus is on Agile methodologies and technical processes rather than a deep exploration of social frameworks or collective intelligence. The discussion on automation and feedback loops is relevant but does not fully encapsulate the broader social technology concepts.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:29:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily revolves around agile methodologies and project management concepts rather than system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agility in project ecosystems and the need for automation without focusing on scaling Agile practices among multiple teams or enterprise-level strategies.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses automation and CI/CD pipelines, which are relevant to system configuration, but the primary focus is on Agile methodologies and project management rather than the specifics of system setup or configuration management. While there are mentions of automation and deployment processes, they are framed within the context of Agile practices rather than a detailed exploration of system configuration itself. Therefore, the confidence score reflects a moderate alignment with the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses the need for an agile ecosystem, emphasizing automation, shortening feedback loops, and maximizing value for stakeholders, which are consistent with Agile principles. However, it is somewhat focused on operational aspects rather than directly addressing the foundational philosophy.",
     "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses aspects of agility in the project ecosystem and emphasizes the need for fewer bureaucratic blockages, it does not clearly focus on change management principles or practices. It touches on the idea of agility and feedback loops, which are related to change, but it does not dive into strategies for managing change, stakeholder engagement, or leadership roles in transformation.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of aligning Agile practices with deployment processes, highlighting the need for a holistic approach to change management within an Agile ecosystem. It mentions strategies for engaging stakeholders and improving processes, which aligns with change management principles. However, while it touches on relevant topics, it primarily focuses on project delivery and automation rather than a comprehensive exploration of change management itself.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for automation in the context of Agile and improving feedback loops, which aligns with test automation principles, but it lacks a focused discussion on the specific practices, frameworks, or tools of test automation.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses automation in the context of Agile practices, particularly focusing on CI/CD and automated testing as means to enhance delivery speed and quality. While it does mention automation and its benefits, the primary focus is on the broader Agile ecosystem rather than specifically on test automation principles, frameworks, or best practices. The discussion on automated testing is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for reducing delays in delivering value to customers, hinting at concepts related to Lead Time, but it primarily focuses on the overall project ecosystem and automation rather than Lead Time itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-11T09:03:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of streamlining processes to enhance delivery speed, which aligns with the concept of Lead Time. It mentions delays caused by bureaucratic processes and the need for automation to reduce these delays, directly relating to Lead Time. However, while Lead Time is a significant theme, the content does not delve deeply into specific measurement techniques or the relationship between Lead Time and Cycle Time, which limits its depth of discussion. Overall, the content is relevant but not exclusively focused on Lead Time, hence the moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the need for automation and feedback loops within the project ecosystem, without a focus on team dynamics or motivational strategies.",
     "level": "Ignored"
   },
@@ -469,10 +415,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the overall agility of a project ecosystem but does not focus specifically on Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -496,28 +442,28 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the need for shorter feedback loops and maximizing value for stakeholders, which relates to customer engagement and retention. However, it primarily focuses on the agility of project processes rather than specific customer retention strategies.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the need for automation and reducing bureaucracy in deployment processes, which relates to frequent releases, but it primarily focuses on the overall agility of the project ecosystem rather than being a dedicated discussion on frequent releases specifically.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses themes of reducing bureaucracy and maximizing value, which are related to Lean principles, but the primary focus is on Agile methodologies and the project ecosystem, making Lean a secondary theme.",
     "level": "Tertiary"
   },
@@ -532,48 +478,48 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for agility in the project ecosystem and emphasizes the importance of shortening feedback loops and maximizing value for stakeholders, which relates to the principles of delivering working software. However, it does not focus primarily on the characteristics or best practices of working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the importance of Agile practices, automation, and continuous delivery, all of which are crucial for delivering working software. It highlights the need for streamlined processes and short feedback loops to maximise value for stakeholders, aligning closely with the core themes of the 'Working Software' category. The depth of discussion on CI/CD and real-world examples further supports its relevance.",
+    "level": "Primary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for automation and reducing bureaucratic blockages in the deployment process, touching on themes relevant to release management such as feedback loops and delivery. However, the primary focus is on the overall agility of project ecosystems rather than specific release management practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of streamlining deployment processes and highlights CI/CD practices, which are central to release management. It addresses the need for automation and short feedback loops to enhance delivery efficiency, aligning well with the core themes of release management. However, the primary focus is on Agile practices rather than a detailed exploration of release management itself, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of agility within project ecosystems and mentions the need to avoid bureaucratic processes, which relates to the adaptability and responsiveness necessary for organisational change. However, it primarily focuses on practices related to project management and development rather than explicitly addressing broader organisational change frameworks or strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of Agile practices and the need for a streamlined project ecosystem, which aligns with the principles of organisational change. However, it primarily focuses on Agile methodologies and deployment processes rather than broader organisational change strategies or frameworks. While it touches on aspects of change management, such as overcoming bureaucratic hurdles and enhancing team morale, it lacks in-depth exploration of organisational change frameworks or leadership roles, which limits its overall depth in this category.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content emphasizes the importance of shortening feedback loops and removing bureaucratic blockages, which aligns with the need for continuous improvement in Agile environments. However, it mainly addresses the issue of project ecosystem agility rather than continuous learning as a central theme.",
     "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the overall agility of project ecosystems and the importance of reducing bureaucracy, rather than specifically focusing on scaling Scrum or its related frameworks, roles, or practices.",
-    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -586,12 +532,15 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agility in project management and the need for automation to enhance delivery processes, which align with digital transformation themes, but the primary focus seems more on agile practices rather than a comprehensive discussion of digital transformation.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation in project ecosystems, which aligns with the themes of enhancing business agility and operational efficiency. However, it lacks a direct focus on broader digital transformation strategies or case studies, making it more about Agile methodologies than a comprehensive discussion on digital transformation.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -604,21 +553,24 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of shortening feedback loops and maximizing value for stakeholders, which relates to the principles of empirical process control. However, it mainly focuses on the overall agility of project ecosystems rather than an in-depth discussion on empirical process control specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to empirical process control. However, it primarily focuses on the challenges of deployment processes and the need for end-to-end agility rather than deeply exploring empirical process control principles like transparency, inspection, and adaptation. While it touches on key themes, it lacks a thorough examination of empirical process control itself.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content emphasizes the importance of reducing bureaucratic barriers and shortening feedback loops, which indirectly relates to customer satisfaction. However, the primary focus is on agility and automation rather than on measuring or enhancing customer satisfaction directly.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -631,21 +583,24 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the agility of project ecosystems and technical practices rather than leadership roles or Agile leadership principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the need to shorten feedback loops and maximize stakeholder value, which relates to customer feedback, but it primarily discusses the overall agility of the project ecosystem rather than detailing mechanisms for collecting and integrating specific customer feedback.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of shortening feedback loops and integrating customer feedback into the Agile process, which aligns well with the category. It provides specific strategies for gathering feedback and emphasises the role of feedback in maximising stakeholder value. The depth of discussion on feedback loops and their impact on Agile practices is substantial, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -667,21 +622,27 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of agility and the need for automation to improve project ecosystems, indicating a recognition of trends in agile practices. However, it primarily focuses on the current state of the ecosystem rather than analyzing specific trends or shifts in methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of Agile practices and the impact of automation on project ecosystems, which aligns with the themes of trend analysis in Agile methodologies. However, it lacks explicit references to emerging trends or a detailed examination of shifts in practices, focusing more on practical advice and personal experiences rather than a comprehensive analysis of trends.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of agility in project ecosystems, touching on concepts related to feedback loops and stakeholder value, which are relevant to product management. However, it lacks a strong focus on core product management strategies and frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content touches on the importance of agility in project ecosystems and the need for automation to enhance feedback loops, which aligns with product management principles. However, it lacks explicit discussions on product management methodologies, stakeholder alignment, or detailed frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -694,12 +655,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of shortening feedback loops and maximizing value for stakeholders, which aligns with Lean principles, but primarily focuses on Agile and automation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes to deliver value, which aligns with Lean principles. It mentions waste reduction through automation and short feedback loops, key aspects of Lean Product Development. However, the primary focus is on Agile methodologies rather than Lean specifically, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -721,12 +685,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agility in the project ecosystem and emphasizes the need for automation and reducing bureaucracy, which relates to engineering practices, but does not focus explicitly on software craftsmanship or specific engineering standards.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of automation and reducing bureaucratic processes to enhance agility in project ecosystems, which aligns with the principles of continuous integration and delivery. However, it lacks direct mentions of software craftsmanship or specific engineering practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -739,10 +706,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses general Agile principles and the importance of automation in project ecosystems, rather than focusing specifically on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -757,21 +724,24 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Agile, such as the importance of eliminating bureaucratic processes and shortening feedback loops, but it does not dive deeply into Agile methodologies or frameworks. Agile transformation is a major theme but not the sole focus.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the need for automation and streamlining processes to enhance agility in project delivery, which aligns with operational efficiency and practices relevant to Agile methodologies.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the importance of streamlining processes and integrating automation within Agile frameworks, which aligns closely with operational practices. It provides detailed insights into the impact of bureaucratic processes on Agile delivery and offers practical strategies for improvement, such as implementing CI/CD pipelines and shortening feedback loops. The focus on enhancing operational efficiency and delivering value to stakeholders further solidifies its relevance to the category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -793,28 +763,22 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18.0,
+    "ai_alignment": 39.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for a fully agile ecosystem and emphasizes the importance of minimizing bureaucracy and feedback loops, which aligns with adaptability and continuous value delivery in Agile Strategy, but it does not focus on strategic implementation.",
-    "level": "Tertiary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of agility in project ecosystems, focusing on the relationship between agile programming teams and bureaucratic deployment, which indirectly relates to the role of software developers. However, it does not delve deeply into specific practices or methodologies relevant to software developers.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content discusses the importance of having an Agile ecosystem that encompasses not just Agile teams but also streamlined processes for deployment and delivery. It highlights the need for alignment with Agile principles, continuous value delivery, and the integration of automation to enhance responsiveness and efficiency. While it does not explicitly mention Agile strategy as a primary focus, it aligns well with the core themes of the category, particularly in terms of adaptability and maximizing stakeholder value. The depth of discussion is substantial, providing practical advice and real-world examples, which further supports its relevance to Agile strategy.",
+    "level": "Primary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses the importance of automation and the need for agile practices within project ecosystems, making it a secondary theme related to Engineering Practices.",
     "level": "Tertiary"
   },
@@ -838,10 +802,10 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the agility of project ecosystems and automation, rather than specifically discussing cross-functional teams.",
     "level": "Ignored"
   },
@@ -856,12 +820,12 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "While the content touches on value maximization and efficiency, it primarily discusses agile practices and automation rather than core entrepreneurial principles like risk-taking or innovation, making it not closely aligned with the topic of entrepreneurship.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -874,12 +838,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the need for agile practices and automation to enhance delivery, which relates to technical leadership but is not exclusively focused on that theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of an agile ecosystem and the role of automation in achieving agility, which aligns with technical leadership principles. However, it primarily focuses on the operational aspects of agile practices rather than explicitly addressing the nuances of technical leadership, such as mentoring or team dynamics.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -892,11 +859,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:29:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agility in project ecosystems and the need for automation, without a clear focus on measuring or improving innovation capabilities.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to innovation. However, it primarily focuses on the operational aspects of Agile rather than explicitly addressing the mechanisms and practices that foster innovation. While there are mentions of improving processes and stakeholder value, the content lacks a deep exploration of innovation metrics, learning cycles, or specific strategies for enhancing innovation capacity, which are central to the category of 'Ability to Innovate'.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -910,30 +880,39 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for agility in project ecosystems and mentions principles related to Agile practices, but it does not directly focus on a specific Agile framework or provide a detailed exploration of any Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile practices and the importance of a cohesive Agile ecosystem, touching on principles like automation and feedback loops. However, it lacks a direct focus on specific Agile frameworks such as Scrum or Kanban, and while it aligns with Agile principles, it does not provide a comparative analysis or in-depth exploration of different frameworks.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of agility and the need for teamwork in the context of automation and feedback loops, but it does not primarily focus on team dynamics or specific team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of Agile teams and their collaboration, particularly in relation to deployment processes and stakeholder engagement. It highlights techniques for improving team performance through automation and shortening feedback loops, which are key aspects of enhancing team dynamics and productivity. The depth of discussion on these topics, along with direct mentions of Agile principles, supports a high confidence score in the context of Team Performance.",
+    "level": "Primary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses the importance of streamlining the delivery process and reducing bureaucratic delays, which relates to the overall flow of work and throughput, but it does not focus primarily on the measurement or optimization of throughput itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of streamlining processes to enhance throughput in Agile environments, particularly through automation and shortening feedback loops. It explicitly mentions delays and inefficiencies that impact work completion rates, aligning well with the core themes of throughput. The depth of discussion includes practical strategies for improving throughput, such as CI/CD implementation and frequent releases, which are crucial for optimising workflows. Overall, while the content is not solely focused on throughput, it provides substantial insights and actionable advice related to the category.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -962,15 +941,6 @@
     "reasoning": "Content heavily discusses agile processes and automation without addressing employee motivation or commitment.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the need for an agile project ecosystem and emphasizes the importance of automation, feedback loops, and value for stakeholders, which aligns with agile principles, but it does not focus specifically on the fundamental aspects of Agile Project Management.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T13:55:08",
@@ -982,21 +952,24 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the overall agility of the project ecosystem rather than specific Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content touches on themes of automation and shortening feedback loops relevant to Continuous Delivery, it primarily focuses on the broader topic of project agility and the integration of agile practices rather than specifying Continuous Delivery methodologies or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of automation and CI/CD pipelines, which are central to Continuous Delivery. It highlights the need for streamlined deployment processes and the role of feedback loops in delivering value, aligning well with Continuous Delivery principles. However, while it touches on these topics, the primary focus is on Agile practices rather than Continuous Delivery specifically, which slightly reduces the confidence score.",
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1009,10 +982,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses project ecosystems and agile workflows but does not specifically address the Definition of Done.",
     "level": "Ignored"
   },
@@ -1036,21 +1009,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of agile methodologies and feedback loops, which are relevant to decision-making, but it primarily focuses on agile processes rather than a structured discussion on evidence-based decision-making principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of streamlining processes and maximising stakeholder value, which aligns with decision-making principles. However, it primarily focuses on Agile practices and automation rather than structured decision-making methodologies. While it touches on feedback loops and stakeholder engagement, it lacks a deep exploration of evidence-based decision-making frameworks or empirical support, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile principles and the need for automation and feedback loops in the context of software projects, indicating a major focus on Agile methodologies related to software development.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 10,
+    "final_score": 92.0,
+    "reasoning": "The content extensively discusses Agile practices, CI/CD, and the importance of automation in the software development lifecycle. It provides detailed insights into how to achieve end-to-end agility, which aligns closely with the core themes of software development methodologies and practices. The depth of discussion on practical strategies and real-world examples further supports a high confidence score.",
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1070,21 +1049,12 @@
     "reasoning": "Content primarily discusses the overall agility of the project ecosystem rather than the specifics of Product Backlog management.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses agile practices in general but does not specifically focus on Scrum principles, roles, or product development processes.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses concepts related to maximizing value and reducing bureaucracy, which aligns with lean principles; however, it is more focused on agility and automation rather than Lean principles specifically.",
     "level": "Tertiary"
   },
@@ -1108,12 +1078,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of agility in project ecosystems, emphasizing the need for automation, reduced bureaucracy, and shorter feedback loops, which are relevant to Agile Planning but are not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses Agile practices extensively, focusing on the importance of streamlining processes and maintaining agility throughout the project lifecycle. It highlights key Agile principles such as short feedback loops, stakeholder engagement, and the role of automation in enhancing delivery. While it does touch on Agile methodologies, the primary focus is on the broader ecosystem rather than strictly Agile planning techniques, which slightly reduces the alignment score.",
+    "level": "Primary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1135,12 +1108,12 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses agile methodologies and the importance of shortening feedback loops, which are relevant to Lean principles, but it does not specifically focus on Lean Startup concepts like MVP, validated learning, or the Build-Measure-Learn feedback loop. Therefore, it's only marginally related to the Lean Startup category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1153,19 +1126,19 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the importance of shortening feedback loops and maximizing value for stakeholders, which is somewhat related to product validation, but primarily focuses on project ecosystem agility and not directly on validating product ideas through user engagement.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses the need for agility in a project's ecosystem and emphasizes the importance of shortening feedback loops and maximizing value, which aligns with Agile principles but focuses primarily on broader operational challenges.",
     "level": "Tertiary"
   },
@@ -1180,39 +1153,33 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the importance of agile methodologies and the need to shorten feedback loops, which relate to systems thinking and organisational dynamics. However, it primarily focuses on agile practices and deployment processes rather than a comprehensive examination of organisational physics principles.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the need for automation and shorter feedback loops in the context of agile deployment, indicating that deployment frequency is an important aspect, though it is not the primary focus.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the importance of optimising deployment processes to enhance Agile practices, highlighting the negative impact of bureaucratic deployment on value delivery. It provides detailed strategies for increasing deployment frequency through automation and CI/CD, and emphasises the significance of short feedback loops. The depth of discussion on these topics, along with multiple direct mentions of deployment frequency and related concepts, supports a high confidence score.",
+    "level": "Primary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the need for alignment and optimization in Agile practices, particularly in the context of project ecosystems and feedback loops, but it primarily focuses on execution rather than strategic formulation.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the concept of agility in project ecosystems and the need for automation, but does not specifically address the application of AI within Agile methodologies or DevOps practices.",
-    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1243,11 +1210,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the agility of project ecosystems and automation in deployment, but does not primarily address Test First Development or its principles.",
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to Test First Development. However, it does not explicitly mention Test First Development principles or practices like TDD or ATDD. The focus is more on general Agile methodologies and automation rather than the specific nuances of Test First Development.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1270,12 +1240,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical improvements in project ecosystems related to Agile, emphasizing the need for automation and feedback loops, aligning with pragmatic problem-solving in Agile contexts.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses practical strategies for achieving true Agile practices, particularly through automation and shortening feedback loops. It provides real-world examples and actionable advice, aligning closely with the core themes of pragmatic thinking in Agile contexts. The depth of discussion is significant, covering various aspects of Agile implementation and the importance of adapting processes to enhance efficiency and stakeholder value.",
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1295,39 +1268,36 @@
     "reasoning": "Content focuses primarily on the agility of project ecosystems rather than on coaching practices or techniques. It discusses automation and feedback loops without emphasizing the supportive and collaborative aspects of coaching.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for an agile ecosystem, emphasizing the importance of reducing bureaucracy and improving automation to enhance agility across the project lifecycle, which aligns with the theme of scaling agility beyond individual teams.",
-    "level": "Tertiary"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile practices but does not specifically focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes to enhance value delivery, which aligns with some Scrum Master responsibilities. However, it lacks a direct focus on the Scrum Master role, techniques for coaching, or the distinctions between Scrum and other methodologies. The mention of a 'Scrum Trainer' provides a slight connection, but overall, the content is more about Agile principles than the specific role of a Scrum Master.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of reducing delays and improving flow from team effort to delivery, which relates to Cycle Time, but it is not specifically focused on Cycle Time itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of streamlining processes and reducing delays, which are directly related to Cycle Time. It highlights the impact of bureaucratic deployment processes on delivery speed and team morale, aligning with the core themes of Cycle Time. Additionally, it provides practical advice on automation and shortening feedback loops, which are strategies for improving Cycle Time. However, while Cycle Time is a significant aspect of the discussion, it is not the sole focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T13:55:08",
+    "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and project ecosystems, with no clear focus on Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
@@ -1340,7 +1310,7 @@
     "reasoning": "Content discusses general agility in project ecosystems and automation, not specifically focusing on the delivery of working software increments.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:55:08",
     "ai_confidence": 0,
@@ -1360,12 +1330,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:55:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the agility of project ecosystems and the need for improved collaboration and automation to enhance teamwork and delivery, making it a major theme but not the sole focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of collaboration within Agile teams and highlights the role of automation and feedback loops in enhancing team dynamics. It provides practical advice on engaging stakeholders and improving communication, which aligns well with the core themes of team collaboration. The depth of discussion is substantial, with real-world examples illustrating the impact of collaboration on project success.",
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1375,5 +1348,432 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and automation but does not focus on Behaviour Driven Development or its key practices.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:39:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and the need for automation in deployment, but does not focus on Internal Developer Platforms specifically.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:39:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and the need for automation, but does not specifically address the role of AI in these processes.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on agile principles and the importance of reducing bureaucracy, which aligns with Scrum's emphasis on delivering value and shortening feedback loops. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a lower confidence score.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to the Shift-Left Strategy. However, it primarily focuses on the overall Agile ecosystem and deployment processes rather than explicitly addressing the integration of testing, security, and compliance earlier in the development lifecycle. While there are mentions of automating testing and shortening feedback loops, the depth of discussion on Shift-Left principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of streamlining processes and embracing automation to enhance Agile practices, which aligns with Continuous Improvement principles. It mentions techniques like CI/CD and the need for short feedback loops, indicating a focus on incremental enhancements. However, while it touches on Continuous Improvement, it primarily centres on Agile methodologies and deployment processes, which slightly dilutes its direct focus on Continuous Improvement as a standalone topic.",
+    "level": "Primary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of aligning Agile practices with deployment processes, which touches on the concept of Common Goals. However, it primarily focuses on automation and feedback loops rather than explicitly defining or exploring Common Goals within Agile and DevOps frameworks. While there are mentions of stakeholder value and team alignment, the depth of discussion on Common Goals is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of Agile practices and automation in project management, which indirectly relates to competence through the emphasis on continuous improvement and efficiency. However, it lacks a direct focus on skill development or the professional growth of team members, which are core aspects of the competence category. The discussion is more about processes and systems rather than the development of individual or team capabilities.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes, which aligns with some principles of the One Engineering System. However, it primarily focuses on Agile methodologies and automation rather than the specific integration and standardisation aspects of 1ES. The mention of CI/CD pipelines and automation is relevant but does not delve deeply into the broader framework of 1ES or its implementation challenges.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of automation and feedback loops, which are relevant to the concept of Agentic Agility. However, it primarily focuses on general Agile methodologies and does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T21:28:38",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Agile practices, particularly focusing on the importance of end-to-end agility in product management. It highlights the need for streamlined processes, automation, and short feedback loops, which are all key principles of Agile product development. The depth of discussion is significant, providing practical advice and real-world examples that align closely with the core themes of product development methodologies. The content is not merely a mention of Agile but delves into how to implement these practices effectively, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T21:28:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and the importance of automation and feedback loops in project management. While it touches on themes relevant to collaboration and efficiency, it does not explicitly mention Liberating Structures or delve into specific facilitation techniques. The focus is more on Agile methodologies rather than the principles and practices of Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T21:28:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile practices extensively, focusing on the importance of streamlining processes and maximising stakeholder value, which aligns with core project management principles. It addresses the project lifecycle, particularly in the context of Agile methodologies, and provides practical strategies for improving project delivery through automation and feedback loops. However, the primary focus is on Agile practices rather than a broader project management perspective, which slightly limits its overall alignment with the category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T21:28:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes to achieve true agility, but it does not explicitly mention Open Space Agile or its principles. While it touches on themes like collaboration and stakeholder engagement, it lacks a focus on the collective participation and psychological safety that are central to Open Space Agile. The depth of discussion on these specific aspects is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T21:28:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of agility in project ecosystems and the need for streamlined processes to maximise stakeholder value. However, it does not explicitly mention 'Unrealised Value' or focus on the potential value that can be captured through improvements and innovations. While it touches on concepts like automation and feedback loops that could relate to unrealised opportunities, the primary focus is on operational efficiency rather than exploring untapped potential or strategic decision-making related to unrealised value.",
+    "level": "Tertiary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T21:28:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of streamlining processes to enhance agility and reduce delays in delivery, which directly relates to Time to Market. It highlights the negative impact of bureaucratic deployment processes on value delivery and emphasises automation and short feedback loops as strategies to improve efficiency. The depth of discussion includes practical advice and real-world examples, demonstrating a strong alignment with the core themes of Time to Market. However, while the focus is primarily on improving delivery speed, it does not explicitly quantify metrics associated with Time to Market, which slightly lowers the confidence score.",
+    "level": "Primary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T21:28:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of delivering value to stakeholders and maximising that value through automation and short feedback loops, which aligns well with the concept of Current Value in Evidence-Based Management. It explicitly mentions the need to evaluate processes based on their contribution to stakeholder value, which is a direct reference to Current Value. The depth of discussion is substantial, providing practical advice and real-world examples that illustrate how to achieve Current Value through Agile practices. However, while the focus is strong, it does not delve deeply into specific metrics or indicators used to measure Current Value, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T21:29:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes to deliver value to stakeholders, which aligns with some principles of CaaP. However, it primarily focuses on Agile methodologies and deployment processes rather than explicitly treating the organisation as a product or integrating customer feedback into organisational design. The discussion lacks depth in terms of organisational culture and cross-functional collaboration, which are key aspects of CaaP.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T21:29:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of streamlining processes and automation to achieve true agility, which aligns with the core themes of scaling Agile practices. It mentions CI/CD pipelines and the need for cross-team collaboration, which are relevant to scaling discussions. However, while it touches on these topics, the primary focus is more on general Agile practices rather than specifically on methodologies for scaling, which slightly lowers the confidence score. The depth of discussion on automation and feedback loops is substantial, but it lacks explicit frameworks or case studies that are typically central to scaling discussions.",
+    "level": "Secondary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T21:29:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the challenges of integrating Agile teams with bureaucratic processes, which aligns with the Hybrid Agile theme. However, it does not provide a critical examination of Hybrid Agile itself, nor does it delve deeply into the implications or pitfalls of such integrations. The focus is more on promoting automation and streamlining processes rather than analysing the dysfunctions of Hybrid Agile, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T21:29:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of a truly Agile ecosystem and the role of automation and feedback loops in achieving agility. However, it primarily focuses on the mechanics of Agile practices and deployment processes rather than explicitly addressing the principles of Agnostic Agile. While it touches on value delivery and stakeholder engagement, it lacks a direct discussion of Agnostic Agile's philosophy or comparisons with traditional frameworks. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T21:29:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and the importance of automation and CI/CD pipelines, which are relevant to GitHub's functionalities. However, it does not explicitly mention GitHub or its specific services, making it more of a general discussion on Agile practices rather than a focused discourse on GitHub itself. The depth of discussion on CI/CD and automation is notable, but without direct references to GitHub, the alignment remains limited.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T21:29:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses Agile practices and the importance of streamlining processes but does not explicitly mention or align with the principles of Cell Structure Design. It focuses on automation and feedback loops rather than the decentralised, network-based structure of cells as described in the category definition.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content mainly focuses on Agile principles, particularly emphasizing the importance of automation, short feedback loops, and delivering value to stakeholders. It discusses actionable strategies that align with key Agile principles such as value delivery, continuous improvement, and adaptability. The depth of discussion on CI/CD and stakeholder engagement illustrates a clear understanding of how to implement these principles in practice. However, while it strongly aligns with core principles, the overall approach is more pragmatic and solution-oriented than purely theoretical, which slightly lowers the confidence score. Nevertheless, the content stays true to the principles guiding Agile methodologies.",
+    "level": "Primary"
+  },
+  "Tool": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 85.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content focuses significantly on tools such as automation and CI/CD pipelines, discussing their role in enhancing Agile practices and maximizing stakeholder value. It provides a detailed exploration of how these tools can improve deployment processes and team performance, which aligns well with the category of 'Tool'. However, while it mentions tools, the primary focus veers into methodology and observation rather than strictly tool-centric discussions, thus slightly lowering the confidence score.",
+    "level": "Primary"
+  },
+  "Values": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile principles extensively, emphasizing the importance of maximizing value for stakeholders and integrating automation into processes, linking these to core Agile values. However, it primarily focuses on delivery outcomes and practices, which slightly detracts from a deeper exploration of foundational values. While the topic of values is present, it is not the primary focus, and discussions about tools and methods overshadow the foundational principles that guide team dynamics and decision-making.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile principles and the importance of streamlined processes, but it primarily focuses on practical implications and techniques rather than the philosophical underpinnings of Agile. While there are mentions of value maximization and team dynamics, the discussions lean heavily on procedural aspects such as CI/CD and automation rather than exploring deeper philosophical questions. Hence, it aligns moderately with the philosophy category, but it is not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Discipline": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile principles extensively, particularly the importance of automation and streamlined processes in achieving true agility. It emphasizes maintaining Agile methodologies throughout the project ecosystem and aligns well with the concept of discipline as a structured approach to enhancing organizational performance. However, while the discussion is detailed regarding Agile practices, it lacks explicit mention of the broader characteristics and governance structures tied to the concept of discipline, which slightly lowers the score.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content primarily discusses the Agile ecosystem and the importance of automation and feedback loops, it does not specifically focus on the concept of artifacts as formal representations of work. There are brief mentions of Agile principles and practices, but artifacts themselves (e.g., Product Backlog, Sprint Backlog) are not clearly defined or elaborated upon. The exploration of Agile techniques is present, but it lacks depth and detailed discussion specific to the structure and role of artifacts.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 30.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content discusses Agile practices and emphasizes automation and continuous delivery, which are related to observability but do not directly address its core principles or metrics. It mentions continuous integration and feedback loops, which can support observability, but the primary focus is on improving Agile processes rather than on understanding system states through observability metrics, logs, or traces.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses actionable practices related to Agile ecosystems and emphasizes strategies like automation and continuous integration/continuous deployment (CI/CD), which are directly aligned with the category of 'Practice'. It mentions specific practices that teams can implement to improve their agility and effectiveness. However, while it offers valuable insights and examples, it does not delve deeply into individual practices like pair programming or retrospectives, which slightly lowers the depth score. Overall, it's a strong fit for the 'Practice' category.",
+    "level": "Primary"
+  },
+  "Method": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the importance of Agile methodologies, particularly focusing on automation and continuous integration/deployment (CI/CD) as methods to enhance the Agile ecosystem. It highlights structured strategies like shortening feedback loops and engaging stakeholders, which are closely aligned with key Agile methods. However, while these methods are discussed in detail, the content also leans somewhat on general philosophies of Agile rather than purely on structured, procedural steps, impacting the overall confidence slightly.",
+    "level": "Primary"
+  },
+  "Model": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 52.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content discusses Agile methodologies extensively and emphasizes the importance of automation and feedback loops in optimizing processes, which are key themes in models used in Agile contexts. However, it does not explicitly discuss established frameworks or conceptual models like the Cynefin Framework or Lean Startup principles, which would enhance its alignment with the 'Model' category. The mention of CI/CD pipelines as a method for improving value delivery hints at a modeling approach, but the overall focus is more on practical implementation than on theoretical models themselves.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile principles and the importance of automation within the agile ecosystem, highlighting CI/CD pipelines as a method to streamline processes. It mentions best practices and the need for alignment across project teams to maximize stakeholder value, which connects directly to the framework category. However, it focuses more on general advice and personal experiences rather than a structured methodology or a detailed framework like Scrum or Kanban, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 12,
+    "ai_alignment": 35,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content focuses significantly on Agile practices, particularly through the discussion of automation and feedback loops as essential tenets of Agile methodology. It provides actionable guidelines like implementing CI/CD pipelines and automating testing, which are concrete practices linked to the Agile tenets. Though it mentions various aspects of Agile, it does not go deeply into the concept of tenets as guiding principles but demonstrates their application. Therefore, while it aligns well with key topics associated with Agile tenets, it lacks a more structured and explicit breakdown that would elevate its classification confidence.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the importance of transforming organizational capabilities to achieve true agility, emphasizing the integration of Agile practices and automation into deployment processes. It explains how fragmented systems can undermine Agile efforts, highlighting continuous improvement and feedback loops that are key components of capabilities. However, while it touches on the importance of capabilities, much of the focus is on immediate practices and tools like automation and CI/CD, which may dilute its primary focus on enduring competencies.",
+    "level": "Primary"
   }
 }

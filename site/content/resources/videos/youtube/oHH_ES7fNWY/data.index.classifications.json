@@ -1,20 +1,26 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:22:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring email for an application, which is not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring email notifications in a release management system using Office 365. While it touches on aspects of release management, it does not engage with the core principles of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth in DevOps-related themes and does not explicitly mention DevOps as a philosophy or practice.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:22:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about configuring emails for an application and does not discuss Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring email notifications in a release management system using Office 365. While it briefly touches on communication within a team, it lacks a substantial discussion on collaboration, decision-making, or value delivery, which are core themes of Social Technologies. The depth of discussion is limited to technical instructions without exploring the underlying social frameworks or methodologies that promote collaboration and continuous improvement.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -44,15 +50,6 @@
     "reasoning": "Content primarily discusses configuring email for an application, which is not related to product management strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:47:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about configuring emails for an application and does not discuss Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T13:07:36",
@@ -73,10 +70,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T13:07:36",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuring email for Office 365 and does not address metrics, learning, or any related topics central to this category.",
     "level": "Ignored"
   },
@@ -96,24 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on configuring email for an application and does not relate to Agile frameworks or their principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about configuring emails for Office 365 and does not relate to Scrum product development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses email configuration rather than any events or presentations.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -163,10 +142,10 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T13:07:36",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on configuring email for an application and does not discuss the stages, practices, or tools related to Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -244,11 +223,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring emails, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on configuring email notifications in a release management system using Office 365. While it touches on release management, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The discussion lacks depth in relation to Continuous Delivery concepts, such as automation, rapid feedback, or cultural aspects, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -377,7 +359,7 @@
     "reasoning": "Content discusses configuring emails for Office 365 and does not relate to Value Stream Management.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-18T13:07:36",
     "ai_confidence": 0,
@@ -458,15 +440,6 @@
     "reasoning": "Content primarily discusses the configuration of email services in a specific application context, which does not relate to software craftsmanship, architecture, or engineering excellence.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring email for an application, which does not directly relate to software development methodologies, practices, or the role of developers within Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T13:07:36",
@@ -474,15 +447,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on configuring emails for an application and does not discuss Lean Product Development principles, waste reduction, or related topics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses configuring emails for an application, which is not related to code quality or complexity in software development.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -514,11 +478,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring emails for Office 365 and does not discuss the Scrum Master role or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on configuring email notifications in a release management system using Office 365, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -593,15 +560,6 @@
     "reasoning": "Content heavily discusses configuring emails in TFS 2013 and Office 365, which is unrelated to organisational change.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring emails for an application and does not discuss Scaled Agile methodologies, frameworks, or related practices.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T13:07:36",
@@ -609,15 +567,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on configuring emails in Office 365, which is unrelated to Lean Thinking principles or practices.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on configuring emails for an application, which is a technical discussion and does not address human factors or process methodologies.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -683,7 +632,7 @@
     "reasoning": "Content does not discuss Lead Time or related concepts; it focuses on configuring emails for an application.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T13:07:36",
     "ai_confidence": 0,
@@ -699,15 +648,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on configuring email settings in Office 365, with no discussion on Agile leadership principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about configuring email notifications in TFS 2013 and does not discuss AI or automation in Agile methodologies.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +695,6 @@
     "reasoning": "Content does not discuss any topics related to market adaptability; it focuses solely on email configuration for Office 365.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses configuring emails for an application, which is not related to AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T13:07:36",
@@ -809,15 +740,6 @@
     "reasoning": "Content does not discuss the Product Backlog or related Agile topics; it focuses on email configuration.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on configuring emails for an application and does not discuss Agile Project Management principles or methodologies.",
-    "level": "Ignored"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T13:07:36",
@@ -836,24 +758,6 @@
     "reasoning": "Content is primarily focused on configuring emails rather than identifying and resolving technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses configuring emails for an application, which is unrelated to books, tools, or products in the context of Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on configuring emails for an application, which is a technical how-to guide, and does not discuss News or Reviews in Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T13:07:36",
@@ -870,15 +774,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configuration of email settings for TFS 2013 and does not include personal reflections or experiences related to Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about configuring emails in Office 365 and does not discuss Scrum or scaling Scrum practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -919,11 +814,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring emails for an application and does not discuss Test First Development or related principles and practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on configuring email notifications in a release management system using Office 365, with no mention or discussion of Test First Development principles, practices, or related concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -1007,15 +905,6 @@
     "reasoning": "Content primarily discusses email configuration for an application, which is not related to the methodologies or practices of software product delivery.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring emails for Office 365 and is unrelated to Scaling Agility or agile practices.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-18T13:07:36",
@@ -1043,24 +932,6 @@
     "reasoning": "Content discusses configuring emails for an application and is unrelated to portfolio management topics.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on configuring email services and does not discuss resilience, adaptability, or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses email configuration for an application and does not address transparency or accountability.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T13:07:36",
@@ -1079,15 +950,6 @@
     "reasoning": "Content is primarily focused on configuring email for TFS 2013 and does not discuss frequent software releases or related topics.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses configuring email for an application, which is a specific technical task but lacks broader reference to Agile or DevOps methodologies or tools. It does not significantly focus on practical techniques or tooling relevant to Agile/DevOps practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T13:07:36",
@@ -1099,12 +961,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions configuring emails for an application to send through Office 365, which relates to system configuration, but it is not the primary focus. The content lacks depth in system configuration topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 85.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 20,
+    "final_score": 85.0,
+    "reasoning": "The content explicitly discusses the configuration of an SMTP server within a release management system, which is a direct application of system configuration principles. It provides detailed steps on how to set up the mail server, including specific settings and options, aligning well with the core themes of best practices for software installation and configuration. The depth of discussion is substantial, as it covers the necessary details for configuring the system, including where to find account details and settings. Overall, the content is highly relevant to the category of System Configuration.",
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1135,20 +1000,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring emails for an application, which is unrelated to Agile Product Operating Model or product-centric development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on configuring emails for an application, which is not related to discovery or learning processes.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on configuring email notifications in a release management system using Office 365. It does not discuss any principles or practices related to the Agile Product Operating Model, nor does it mention product management or agile methodologies. The content is entirely technical and operational, lacking any connection to the core themes of APOM.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1176,15 +1035,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses email configuration for an application, which is unrelated to automated testing principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring emails for an application and is not related to Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1261,10 +1111,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T13:07:36",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuring emails for an application and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -1342,28 +1192,34 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about configuring emails for an application and does not discuss Evidence-Based Management or related principles.",
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring email notifications in a release management system using Office 365. It does not discuss Evidence-Based Management principles, metrics, or data-informed decision-making. The mention of effective release management is too vague and does not align with the specific themes of EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T13:07:36",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content involves configuring emails for an application using Office 365, which relates to configuration processes, but it lacks detailed, actionable instructions and is more focused on a specific scenario rather than providing comprehensive guidance.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 20,
+    "final_score": 85.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on configuring the release management system to send emails using Office 365 SMTP. It explicitly discusses the installation and configuration process, including specific settings and options within the software. The content aligns well with the core themes of the category, focusing on practical instructions for setting up a tool relevant to DevOps practices. The depth of discussion is high, as it includes specific server details and navigation steps, making it actionable for users looking to implement this configuration.",
+    "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T13:07:36",
+    "calculated_at": "2025-04-10T15:55:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on configuring email for an application, which does not relate to the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -1374,6 +1230,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss operational practices or methodologies that enhance operational efficiency; it focuses on email configuration.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:15:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses configuring emails for an application, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:15:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses configuring email for an application, which is unrelated to AI, Agile, or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring email notifications for a release management system using Office 365. There are no direct mentions of Scrum principles, roles, events, or any related concepts. The discussion does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement. The depth of discussion is limited to technical configuration details, which are unrelated to Scrum.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring email notifications in release management using Office 365, which is unrelated to the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it discuss any principles or benefits associated with the Shift-Left approach. The content lacks depth in relation to the category, making it clear that it does not align with the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical steps for configuring email notifications in a release management system, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring email notifications in a release management system, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on team communication, it lacks depth and alignment with the core themes of shared objectives and strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the technical steps for configuring email notifications in a release management system, with no direct discussion of competence or its importance in Agile or DevOps contexts. While it touches on the need for effective communication within a team, it lacks depth in exploring continuous learning, skill development, or the professional standards associated with competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses solely on configuring email notifications in a release management system and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is practical and technical, lacking any depth related to the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

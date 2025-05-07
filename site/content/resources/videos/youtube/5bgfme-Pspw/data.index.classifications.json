@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T23:43:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the concept of momentum in a general sense, without specific reference to Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of momentum in the context of product development and team dynamics, which aligns with the themes of collaboration and decision-making. However, it primarily focuses on the idea of momentum rather than explicitly addressing social technologies or their frameworks. While there are mentions of Agile and Scrum methodologies, the depth of discussion on social technologies is limited, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,48 +22,60 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:43:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in product delivery and organisational change, without a clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of momentum in product development and agile methodologies, specifically Scrum. While it touches on themes of team collaboration and performance, it does not explicitly discuss DevOps principles or practices. The emphasis is on agile practices rather than the integration of development and operations, which is central to DevOps. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T23:43:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery and the importance of alignment among team members, which relates to product management. However, it lacks depth in strategic aspects and methodologies specific to product management.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of momentum in product delivery, which touches on the importance of alignment and direction in product management. However, it lacks explicit references to established product management methodologies or frameworks, and the discussion is somewhat abstract and lacks depth in terms of specific strategies or techniques relevant to product management.",
     "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T23:43:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in the context of product delivery and organisational change, which relates to leadership in guiding teams and ensuring alignment towards a common direction. However, it does not delve deeply into specific leadership practices or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of momentum in the context of product delivery and organisational change, which indirectly relates to leadership by highlighting the importance of direction and collective movement within a team. However, it lacks explicit discussions on leadership practices, strategies, or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery and organizational change, which aligns with themes of adaptability and alignment within teams. However, it does not deeply explore business agility principles, making it a secondary theme.",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team dynamics, which aligns with the principles of business agility. However, it primarily focuses on the idea of movement and direction rather than explicitly addressing business agility principles or practices. While there are mentions of Agile and Scrum methodologies, the depth of discussion on business agility itself is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content uses the concept of momentum in a metaphorical way to discuss movement in product delivery and organizational change. While it touches on themes of direction and collaboration, it does not engage with complexity science principles or frameworks, thus making the connection to Complexity Thinking weak.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -82,29 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily discussing the concept of momentum in product delivery and organizational change without providing empirical evidence or explicitly relating to Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the concept of momentum in product delivery and organizational change, which does not relate to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change without specific reference to Kanban principles or practices, nor does it address scaling Kanban in a structured manner.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product development and organisational culture, focusing on team dynamics and direction rather than empirical evidence or data-informed decision-making. While it mentions Agile and Scrum, it does not delve into Evidence-Based Management principles or metrics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -136,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery rather than the Definition of Ready for backlog items.",
     "level": "Ignored"
   },
@@ -150,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the concept of momentum in product delivery and organizational change, without discussing specific trends related to Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly discusses the concept of momentum in product delivery and organizational change without specific reference to scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -226,21 +217,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery, suggesting that team alignment and shared direction are crucial for successful outcomes. However, it lacks depth in specific methodologies or practices associated with product delivery.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery, highlighting its importance in guiding teams towards shared goals. It mentions Agile and Scrum methodologies, which are relevant to product delivery practices. However, while it touches on key themes such as team direction and collaboration, the discussion lacks depth in specific methodologies, best practices, or metrics related to product delivery. The focus is more on the motivational aspect rather than the technicalities of delivering software products effectively.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in product delivery and team alignment, with no clear focus on AI or its application within Agile or DevOps contexts.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +236,6 @@
     "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change, but does not focus on digital technologies or their strategic adoption for transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery and the importance of alignment among team members, which relates to team dynamics and collaboration. However, it does not delve into specific processes or detailed methodologies, making it a secondary theme.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-18T07:25:30",
@@ -267,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery and team alignment, without any clear focus on Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of momentum in product delivery and organizational change, without specific references to agile methodologies, principles, or practices.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -296,15 +263,6 @@
     "reasoning": "Content primarily discusses the concept of momentum in product delivery and team alignment rather than accountability in the context of ownership and team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of momentum in product delivery and the importance of direction, rather than focusing on transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-18T07:25:30",
@@ -314,23 +272,17 @@
     "reasoning": "Content discusses the concept of momentum in product delivery but does not focus specifically on release management processes, strategies, or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the concept of momentum in product delivery and organization change, but does not focus on the One Engineering System or its principles, tools, or practices.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses momentum in the context of product delivery and organizational change, indicating a major but secondary theme related to enterprise agility. However, it does not delve deeply into agile principles or organizational frameworks specifically associated with enterprise agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team dynamics, which is relevant to agility. However, it primarily focuses on team-level practices and does not delve into broader organisational structures or strategies that support enterprise agility. The mention of Agile and Scrum methodologies indicates some alignment, but the lack of depth in discussing organisational implications and frameworks for scaling agility limits its relevance to the category.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -361,12 +313,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change without specific reference to the Scrum Master role or Scrum practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of momentum in product development and organisational culture, which is relevant to Scrum and agile methodologies. However, it does not explicitly focus on the role of the Scrum Master or delve into their specific responsibilities, techniques, or impact. While it mentions Scrum and agile training, the primary focus is on the general idea of momentum rather than the Scrum Master's role in facilitating team effectiveness or promoting agile principles.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -379,10 +334,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery, lacking a clear focus on Agile values and principles.",
     "level": "Ignored"
   },
@@ -397,11 +352,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses momentum in product delivery and organizational change but does not address Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product development and organisational culture, with a focus on agile methodologies. However, it does not explicitly mention Test First Development or its principles, nor does it delve into topics such as success criteria, testing practices, or the role of testing in the development process. The discussion is more about team dynamics and direction rather than the specific practices associated with Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -424,11 +382,14 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in organizational change and product delivery, which implies a connection to the direction and involvement of the team, reflecting aspects of organizational culture. However, it does not directly address cultural elements, leadership, or specific Agile/DevOps practices, making it a secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team dynamics, which indirectly relates to organisational culture. However, it lacks explicit references to cultural elements that support Agile practices or the role of leadership in shaping culture. The discussion is more focused on movement and direction rather than a deep exploration of cultural aspects, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -460,21 +421,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the concept of momentum in product delivery and organizational change, but does not directly address the measurement or enhancement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the concept of momentum in the context of product delivery and organizational change, which relates to themes of Agile transformation but does not explicitly focus on Agile principles or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team dynamics, which aligns with Agile principles of collaboration and direction. It mentions Agile and Scrum methodologies, indicating a connection to Agile transformation. However, the discussion lacks depth on specific Agile transformation strategies or frameworks, focusing more on the general idea of momentum rather than detailed practices or methodologies. Therefore, while it is relevant, it does not fully meet the criteria for a primary focus on Agile transformation.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -503,24 +467,6 @@
     "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of momentum in the context of product delivery and organizational change, suggesting an awareness of helping teams understand direction and work collaboratively, which relates to themes of adaptability and organizational change management.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the concept of momentum in product delivery without discussing specific tools, methodologies, or practical techniques related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-18T07:25:30",
@@ -532,37 +478,31 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery rather than specific aspects of the Product Backlog.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal reflections on the concept of momentum in product delivery and organizational change, suggesting a significant personal perspective, but it lacks a strong personal narrative or specific experiences.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery and organizational change, but does not reference any specific events, presentations, or related activities in the context of Agile or DevOps.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of momentum in a team context, which aligns with personal reflections on team dynamics and Agile methodologies. However, it lacks explicit personal anecdotes or subjective insights, focusing more on general principles and consultancy promotion. The discussion is somewhat abstract and does not delve deeply into personal experiences or challenges faced, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change, without a clear focus on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
@@ -584,23 +524,17 @@
     "reasoning": "The content primarily discusses the concept of momentum in product delivery and organizational movement, and does not focus on Scrum Team roles, dynamics, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in the context of product delivery and organizational change, implying themes of alignment and direction which can relate to scaling agility, but does not explicitly focus on agile methodologies or frameworks.",
-    "level": "Tertiary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the concept of momentum in a general sense, particularly in relation to product delivery and organizational change, which aligns with the broader context of business agility but lacks direct reference to specific Agile methodologies or frameworks.",
-    "level": "Secondary"
+    "final_score": 12.0,
+    "reasoning": "The content discusses the concept of momentum in a general sense, but it heavily references Agile and Scrum methodologies, which are explicitly excluded from the Miscellaneous category. While it touches on themes of team movement and direction, the primary focus is on how these concepts relate to Agile practices, thus failing to align with the Miscellaneous classification.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -613,11 +547,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses momentum in product delivery without specific reference to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of 'momentum' in the context of agile teams and product delivery, but it does not explicitly address Continuous Delivery principles or practices. While it touches on themes of team movement and direction, it lacks a focus on automation, incremental improvements, or the specific strategies associated with Continuous Delivery. The discussion is more aligned with general agile methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -631,30 +568,36 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change, without specific references to remote working practices, Agile frameworks, or related challenges and solutions.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in the context of organizational change, indicating a major but secondary theme related to change management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team dynamics, which is somewhat related to change management. However, it lacks explicit discussions on change management strategies, stakeholder engagement, or leadership roles in transformation. The focus is more on team movement and Agile methodologies rather than the deeper principles and practices of change management as defined in the category.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery, touching on the need for shared understanding among team members, which relates to team dynamics and collaboration. However, it does not delve deeply into specific techniques or strategies for enhancing team collaboration.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of momentum in product delivery and the importance of ensuring that all team members understand the direction of the project. While it touches on aspects of team dynamics and collaboration, it lacks explicit references to Agile, Scrum, or DevOps frameworks. The discussion is somewhat abstract and does not delve deeply into specific techniques or strategies for enhancing team collaboration, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -665,7 +608,7 @@
     "reasoning": "Content primarily discusses the concept of momentum in a general context, not focusing on the Daily Scrum or its related principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T07:25:30",
     "ai_confidence": 0,
@@ -683,32 +626,26 @@
     "reasoning": "Content heavily discusses the concept of momentum in relation to product delivery and teamwork, with no mention of Windows or its functionalities.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery and its importance in aligning team direction and collaboration, suggesting a focus on learning and adaptation within a team environment.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the concept of momentum in product delivery and organizational change, but it does not specifically focus on self-organisation principles or practices. The primary topic is about movement and direction rather than self-organisation.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions product delivery and emphasizes the importance of understanding direction within a team, which aligns with themes of the Agile Product Operating Model, but it does not explicitly focus on Agile principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of momentum in product development and organisational culture, which is relevant to agile practices. However, it lacks direct references to the Agile Product Operating Model and does not delve into its core principles or frameworks. The focus is more on general agile methodologies and team dynamics rather than the specificities of the APOM.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -739,21 +676,27 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the concept of momentum in the context of product delivery and organisational change, indicating a consideration of dynamics within organisations, though it does not delve deeply into systems thinking or organisational systems.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of team dynamics and product delivery, which aligns with the idea of organisational behaviour. However, it primarily focuses on Agile methodologies and team movement rather than a comprehensive exploration of systems thinking or organisational dynamics. While there are mentions of direction and collective movement, the depth of discussion on systems thinking principles and their application is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly touches on the importance of ensuring that everyone understands the direction of movement in product delivery, which relates to transparency in communication and shared understanding. However, it does not primarily focus on transparency as a central theme.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product delivery and team dynamics, without explicitly addressing transparency or its importance in Agile processes. While it touches on team movement and direction, it lacks a focus on openness, visibility, or communication, which are core themes of transparency. The discussion is more about motivation and direction rather than fostering trust and accountability through transparency.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -775,10 +718,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery and does not focus on metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -793,10 +736,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery without focusing on Lean principles, waste reduction, or continuous improvement.",
     "level": "Ignored"
   },
@@ -809,32 +752,29 @@
     "reasoning": "Content focuses on the concept of momentum in product delivery and organizational change without addressing the mentoring process or related themes.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses the concept of momentum in product delivery and teamwork but does not mention AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery and organizational change, touching on the importance of understanding and aligning direction among team members. While it is relevant to sensemaking contextually, it does not primarily focus on the core aspects of sensemaking as outlined, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses 'momentum' in the context of team movement and direction, which touches on aspects of sensemaking, such as understanding shared goals and navigating change. However, it lacks explicit references to sensemaking principles, frameworks, or detailed discussions on decision-making processes. The focus is more on Agile methodologies and team dynamics rather than a thorough exploration of sensemaking in complex environments.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in relation to movement towards a common direction in product delivery and organizational change, which touches on strategic alignment and the importance of ensuring that all team members understand the strategic direction. However, it lacks a more in-depth exploration of strategic frameworks or adherence specifically to Agile, Scrum, or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team alignment, which relates to strategic alignment and team performance. However, it lacks explicit discussions on strategic frameworks like Agile, Scrum, or DevOps, and does not delve deeply into strategic planning or execution. The mention of Agile and Scrum methodologies is present but is more promotional than analytical, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -847,11 +787,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the concept of momentum in product delivery and organizational change, which relates to Agile principles of collaboration and direction but does not explicitly reference Agile philosophy or foundational principles.",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of momentum in the context of product delivery and team dynamics, which aligns with Agile principles of collaboration and direction. However, it primarily focuses on the metaphor of momentum rather than explicitly addressing Agile philosophy or its foundational principles. The mention of Agile and Scrum methodologies is present but does not delve deeply into the underlying philosophy, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -865,11 +808,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses momentum and alignment in moving towards a direction within a team or organization, it does not primarily focus on coaching techniques or practices. It touches on aspects of team dynamics and communication, but lacks depth in coaching strategies.",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of momentum in the context of team dynamics and product delivery, which indirectly relates to coaching. However, it lacks explicit discussions on coaching techniques, the role of a coach, or fostering a growth mindset. While it touches on themes of collaboration and direction, it does not delve deeply into the supportive and developmental aspects of coaching, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -919,21 +865,24 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the concept of momentum in a general sense, without specific reference to Agile methodologies, product management roles, or practices.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses momentum in the context of product delivery and organizational change, suggesting an awareness of interconnectedness and direction within teams. However, it does not explicitly address core Systems Thinking principles or techniques, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of team dynamics and product delivery, which touches on aspects of organisational behaviour. However, it lacks explicit references to Systems Thinking principles, such as interconnectedness or holistic analysis. The discussion is primarily focused on Agile methodologies and team movement rather than a comprehensive exploration of Systems Thinking concepts.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -944,31 +893,16 @@
     "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change, lacking a clear focus on Value Stream Management principles or techniques.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the concept of momentum in a general sense and does not directly address scaling Scrum methodologies, frameworks, or related practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the concept of momentum in team alignment and direction in product delivery, suggesting a relationship between social dynamics and organizational effectiveness, though it does not explicitly delve into sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses general concepts of momentum in product delivery and organizational change, but does not directly address specific products, books, or agile methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team dynamics, which touches on sociotechnical themes. However, it primarily focuses on the idea of movement and direction within teams rather than explicitly addressing the interplay between technology and organisational structures. While there are mentions of team dynamics and the importance of a shared direction, the discussion lacks depth in exploring how these elements influence software delivery and organisational effectiveness. Therefore, the confidence score reflects a moderate alignment with the sociotechnical systems category.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,20 +925,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery and organizational change, suggesting a practical perspective on guiding teams in the right direction. However, it does not delve deeply into specific Agile, Scrum, or DevOps methodologies that would align more closely with the category.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of momentum in the context of product delivery and organisational change, which aligns with the themes of adaptability and collaboration in Agile environments. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and does not provide detailed practical strategies or case studies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:08:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in a general sense, without a direct focus on Lead Time or its measurement and implications.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product development and team dynamics, without any explicit mention of Lead Time or its related metrics. While it touches on themes of team movement and direction, which could tangentially relate to efficiency, it does not provide any insights into Lead Time as an observability metric, its measurement, or strategies for optimisation. Therefore, the content does not align with the core themes of Lead Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,10 +958,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery without a clear focus on working software, Agile principles, or software quality.",
     "level": "Ignored"
   },
@@ -1045,21 +985,27 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches upon themes of movement and direction in a team or organization, which can relate to psychological aspects such as leadership and team dynamics, but it primarily focuses on product delivery rather than explicit psychological principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of momentum in the context of product delivery and organisational change, which touches on team dynamics and engagement. However, it lacks explicit references to psychological theories or principles, and the discussion is more focused on the metaphor of momentum rather than a deep exploration of organisational psychology. The mention of understanding direction aligns somewhat with leadership and team cohesion, but the overall depth and direct engagement with core psychological themes are limited.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery and organizational alignment, which touches on aspects of product strategy but primarily focuses on a metaphorical concept rather than outlining specific strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery, which is somewhat related to product strategy. However, it primarily focuses on team dynamics and Agile methodologies rather than explicitly addressing product vision, roadmapping, or market analysis. The discussion lacks depth in strategic planning and does not provide concrete frameworks or methodologies for product strategy, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1099,12 +1045,15 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses momentum in the context of product delivery and organizational change, which relates to entrepreneurial practices but is not focused specifically on entrepreneurship principles or innovation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of momentum in the context of product delivery and organisational change, which can relate to entrepreneurial practices. However, it lacks explicit mentions of entrepreneurship and does not delve deeply into the core themes such as innovation, risk-taking, or value creation. The discussion is more focused on the dynamics of team movement and direction rather than the entrepreneurial mindset or strategies.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1113,15 +1062,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the concept of momentum in product delivery but does not specifically address cross-functional teams or their characteristics and roles within Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of momentum in a broad sense, without a specific focus on software development, Agile methodologies, or DevOps practices. It does not directly relate to the role of software developers.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1144,29 +1084,20 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses concepts of momentum and direction in product delivery and organizational change, which are not related to installation and configuration.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses general concepts of momentum in product delivery without specific focus on the responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses abstract concepts of momentum in product delivery and organizational change, with no clear connection to Agile, DevOps news or reviews.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1207,21 +1138,27 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in the context of product delivery and organizational change, which hints at leadership and guiding teams through change. However, it lacks a strong focus on specific Agile leadership practices, making the category a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team dynamics, which aligns with Agile Leadership principles. However, while it touches on the importance of direction and collective movement towards goals, it lacks a direct focus on leadership roles or practices. The mention of Agile and Scrum methodologies suggests a connection to Agile Leadership, but the depth of discussion primarily revolves around the concept of momentum rather than explicitly addressing leadership strategies or the role of leaders in fostering Agile environments.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in relation to direction and collective movement towards a goal, which relates to team dynamics and motivation. However, it does not delve deeply into specific motivational strategies or practices, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of team movement and direction, which aligns with team motivation principles. It highlights the importance of shared goals and the collective movement of the team towards those goals, suggesting a focus on engagement and collaboration. However, while it touches on these themes, it lacks detailed strategies or practices for enhancing team motivation, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1234,47 +1171,47 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the concept of momentum in product delivery but does not directly relate to any specific methodologies or practices for validating product ideas with users.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:08:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in a general sense, rather than focusing on the measurement or optimization of throughput in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the concept of momentum in product delivery, but does not explicitly address Scrum principles, practices, or frameworks.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses 'momentum' in a general sense, focusing on team dynamics and direction rather than throughput as a delivery metric. While it touches on themes of movement and direction, it does not explicitly define or calculate throughput, nor does it provide any visualisation or analysis related to throughput metrics. The discussion lacks depth in terms of throughput and does not align with the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the concept of momentum in product delivery and how it relates to aligning team members towards a common direction, which can connect to value delivery principles, but it does not explicitly discuss strategies, methodologies, or practices for delivering value within Agile, Scrum, or DevOps frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery, which aligns with the idea of driving teams towards shared goals. However, it lacks explicit discussions on value delivery methodologies, customer value measurement, or specific Agile practices. The mention of Agile and Scrum is present but not deeply explored, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:08:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change, which does not relate to system configuration or its associated methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the concept of momentum in product development and agile methodologies, with no direct mention of system configuration. While it touches on themes of team dynamics and performance, these are not aligned with the core topics of system configuration such as configuration management, optimisation, or integration of systems. The discussion lacks depth regarding system setup or maintenance, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,48 +1225,45 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the concept of momentum in product delivery rather than on methodologies or practices related to product discovery.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content touches on product delivery and aligning people towards a common direction, but lacks specific references to Scrum principles, roles, or practices.",
-    "level": "Quaternary"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in the context of product delivery and organisational change, indicating it as a major theme. However, it lacks specific frameworks, methodologies, or deeper insights into effective change management, which keeps it from being a primary focus.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly touches on the concept of momentum in the context of organisational change, suggesting that understanding direction is crucial for effective transformation. However, it lacks explicit discussions on methodologies, frameworks, or detailed strategies related to organisational change. The mention of 'changing an organisation' indicates some relevance, but the overall focus remains vague and does not delve into the core themes of the category.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:25:30",
+    "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of momentum in product delivery and organizational change, which is not related to the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the concept of momentum in product delivery and alignment within teams, which aligns with Agile principles, but it does not focus primarily on Agile strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team dynamics, which aligns with Agile principles of direction and collaboration. However, while it mentions Agile and Scrum methodologies, the primary focus is on the concept of momentum rather than a comprehensive discussion of Agile strategy. The depth of discussion on Agile strategy is moderate, as it touches on team movement and direction but lacks detailed exploration of strategic planning or implementation at scale.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1342,21 +1276,27 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the concept of movement and direction in product delivery, which aligns with the need for clear strategic goals, but it does not primarily focus on defining or articulating those goals.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of team movement and direction, which is somewhat related to achieving goals. However, it lacks explicit references to long-term strategic objectives or frameworks for measuring them. The focus is more on the dynamics of team performance and Agile methodologies rather than on strategic goals themselves. While there is a mention of shared goals, the discussion does not delve into how these align with broader organisational strategies or adaptability in a competitive market.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of momentum in product delivery and organisational change, which relates to agility and responsiveness, but it does not focus primarily on key strategies or methodologies of organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and team dynamics, which aligns with the idea of organisational agility. However, it primarily focuses on the metaphor of momentum rather than providing in-depth strategies or frameworks for enhancing organisational agility. While it mentions Agile and Scrum methodologies, the discussion lacks detailed exploration of how these methodologies foster organisational adaptability or responsiveness. Therefore, while there is some alignment, the depth and direct mentions are limited.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1374,6 +1314,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the concept of momentum in product delivery and organizational change without focusing on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:58:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the concept of momentum in product delivery and organisational change, without any clear focus on Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:58:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the concept of momentum in product delivery and team alignment, without any mention of AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly touches on the concept of momentum in product delivery, which could relate to team dynamics in Scrum. However, it lacks explicit mentions of Scrum roles, events, or principles, and does not provide substantial detail on Scrum practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of 'momentum' in product delivery and team dynamics, with a focus on Agile and Scrum methodologies. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is more about team movement and direction rather than integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses 'momentum' in the context of product development and team performance, which is somewhat related to Continuous Improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation and learning. The focus is more on the concept of momentum rather than a structured approach to continuous improvement, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of momentum in product development and team dynamics, which indirectly relates to the idea of shared objectives and direction. However, it lacks explicit references to Common Goals as defined in Agile and DevOps frameworks. While it touches on the importance of moving in the same direction, it does not delve deeply into the strategic alignment or operationalisation of Common Goals, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses 'momentum' in the context of product delivery and team direction, which indirectly relates to competence through the idea of moving towards shared goals. However, it lacks explicit mentions of continuous learning, skill development, or the professional principles that underpin competence. The focus is more on the concept of momentum rather than on competence itself, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of 'momentum' in product development and agile methodologies, particularly Scrum. While it touches on themes relevant to team performance and direction, it does not explicitly discuss the One Engineering System framework or its principles. The discussion lacks depth regarding integration, standardisation, or the specific impacts of 1ES, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:57:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses 'momentum' in the context of product development and team performance but does not explicitly address Agentic Agility or its key themes. While it touches on the importance of direction and collective movement, it lacks a focus on intentional shaping of outcomes, the distinction between human and AI capabilities, or the mechanisms of Agentic Agility. The discussion is more aligned with general Agile practices rather than the specific concept of agency and intentionality.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:07:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and agile methodologies, which aligns with the principles of product development. However, while it mentions agile and scrum, the discussion lacks depth in specific methodologies or practices that facilitate product development. The focus is more on the motivational aspect of team dynamics rather than detailed product development strategies or customer feedback integration.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:07:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of 'momentum' in product development and team dynamics within Agile and Scrum contexts. However, it does not explicitly mention Open Space Agile or its principles. While there are references to collaboration and direction, which are relevant to Agile, the discussion lacks depth regarding Open Space Technology, psychological safety, or shared ownership, which are key themes of the Open Space Agile category. Overall, the content is more focused on general Agile practices rather than the specific nuances of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:07:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of 'momentum' in product development and team dynamics, with a strong emphasis on Agile and Scrum methodologies. However, it does not explicitly discuss Agnostic Agile principles or the importance of context-driven agility. The mention of Agile and Scrum is more about the mechanics of these frameworks rather than a critical examination of their application in various contexts, which is essential for Agnostic Agile discussions. Therefore, while there are some relevant themes, the overall focus does not align closely with the core principles of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:07:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of 'momentum' in product development and team dynamics, which is more aligned with general Agile principles rather than the specific complexities of scaling Agile practices. While it touches on themes of team direction and collaboration, it lacks explicit discussions on frameworks, strategies, or metrics related to scaling. The focus is on individual team performance rather than cross-team coordination or enterprise-level scaling, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:07:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of 'momentum' in the context of product development and agile methodologies, without any direct reference to Cell Structure Design or its principles. While it touches on themes of team movement and direction, which could loosely relate to the idea of autonomous cells, it lacks a clear connection to the core concepts of decentralisation, complexity theory, or the Beta Codex. The focus remains on agile practices rather than the specific organisational design model outlined in the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:07:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product development and Agile methodologies, but it does not explicitly mention Liberating Structures or any of its specific techniques. While there is a general alignment with themes of collaboration and team dynamics, the discussion lacks depth and does not provide detailed insights into Liberating Structures or their applications. The focus remains on Agile and Scrum without addressing the facilitation techniques that characterise Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:07:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses 'momentum' in the context of product delivery and team performance but does not explicitly mention Time to Market or its associated metrics. While it touches on themes of movement and direction, which could relate to efficiency in delivery, it lacks a direct focus on the measurement or improvement of Time to Market. The discussion is more about team dynamics and agile methodologies rather than the specific concept of delivering value quickly.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:07:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of product delivery and organisational change, which touches on themes relevant to Company as a Product (CaaP). However, it primarily focuses on agile methodologies and team dynamics rather than explicitly addressing the principles of CaaP or integrating customer feedback into organisational design. The discussion lacks depth in exploring how the organisation itself can be treated as a product, which is a core aspect of the CaaP framework. Therefore, while there are relevant elements, the overall focus is not sufficiently aligned with the CaaP category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:07:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of momentum in the context of product development and Agile methodologies, specifically focusing on team dynamics and performance. While it mentions Agile and Scrum, it does not directly address GitHub or its functionalities, nor does it provide insights into GitHub services, tools, or best practices. Therefore, the content does not align with the GitHub category, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:07:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the concept of momentum in product development and organisational culture, without explicitly discussing Unrealised Value or its related themes. While it touches on the importance of direction and team movement, it does not delve into indicators, strategies, or case studies related to untapped opportunities or potential improvements. The discussion lacks depth regarding the core themes of Unrealised Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:07:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product development and team dynamics, without directly addressing Current Value or its metrics. While it touches on themes of team performance and direction, it lacks explicit references to customer satisfaction, revenue impact, or the measurement of value, which are essential for the Current Value category. The discussion is more focused on motivational aspects rather than the real-time assessment of value delivered by a product or service.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:07:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of 'momentum' in product development and agile methodologies, without any direct mention or critical examination of Hybrid Agile. It discusses general agile principles and team dynamics but does not address the specific challenges or implications of merging traditional project management with agile practices. The lack of depth in discussing Hybrid Agile concepts further supports a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:07:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the concept of 'momentum' in the context of agile product development and team dynamics. While it mentions agile methodologies and touches on aspects of team performance, it lacks a comprehensive discussion of core project management principles, methodologies, or lifecycle phases. The references to agile and Scrum are present but are not explored in the context of broader project management strategies or tools. Therefore, while there is some relevance to project management, the depth and breadth of the discussion do not fully align with the category's requirements.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'momentum' in a general context related to product delivery and Agile methodologies. However, it does not explicitly reference any structured models or frameworks outlined in the 'Model' category. While it touches upon themes relevant to teamwork and shared goals, it lacks the necessary depth and specific discussion about models like the Cynefin Framework or Lean principles. Thus, it aligns with the category only peripherally, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 18.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 18.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product development and organizational culture, without explicitly addressing any specific artifacts or their roles. Although it mentions Agile and Scrum, it does not delve into the structures, purposes, or management of artifacts like Backlogs or Definitions of Done, which are central to the 'Artifact' category. Therefore, while there is minor alignment with Agile themes, the lack of detailed discussion on artifacts results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of Agile and Scrum, but it does not specifically focus on tools or software applications. While it mentions Agile and Scrum methodologies, the primary emphasis is on the intangible concept of momentum rather than specific tools that facilitate workflows or team collaboration. The content lacks detailed references to specific tools, their functionalities, or best practices for their implementation, which reduces its relevance to the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses momentum in the context of product delivery and team dynamics but lacks explicit mention of values or how they influence team behavior. While it implies the importance of shared direction and collaboration, it does not directly address or elaborate on core values such as Agile Values or Scrum Values, making it primarily focused on outcomes rather than foundational beliefs.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile and Scrum methodologies in the context of team performance and organizational culture. However, it primarily focuses on the concept of momentum rather than a structured framework for Agile or Scrum. While it touches on themes relevant to Agile frameworks, such as teamwork and direction, it lacks detailed discussion on specific frameworks or their implementation, making it align only tangentially with the 'Framework' category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses 'momentum' as a concept in product development and team dynamics, which is somewhat relevant to team practices. However, it lacks specific actionable techniques or habits that directly align with the 'Practice' category. Mentions of Agile and Scrum training suggest a focus on practices, but the content mainly describes the idea of momentum without diving into specific practices that improve team performance or collaboration.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses momentum in the context of product development and team dynamics, using language common in Agile and Scrum practices. However, it does not engage in philosophical discussions about the foundational beliefs or theoretical aspects of Agile and does not explore the ‘why’ or broader cultural implications of philosophies in organizations. Instead, it focuses heavily on motivation and the practical application of creating movement within teams, leaning toward procedural and tactical elements rather than philosophical exploration.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the concept of 'momentum' in the context of team performance and direction in product development, but it primarily focuses on motivating teams rather than delving into specific capabilities. Though the idea of momentum implies a movement towards a capability, it lacks a detailed examination of how this relates to cultivating enduring competencies or embedding capabilities within teams. The mention of Agile and Scrum is more about the frameworks than the capabilities themselves, leading to only a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "momentum-agile-discussion",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content touches on the concept of 'momentum' in product delivery and agile methodologies, suggesting movement and direction are key for teams. However, it fails to explicitly mention specific actionable tenets related to Agile, Lean, or DevOps practices, focusing instead on a broader conceptual idea of momentum. There are indirect references to team collaboration and direction but no direct discussion of tenets or prescriptive rules guiding behaviors or decision-making in an organizational context.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses 'momentum' in the context of product development and team dynamics, referencing agile and scrum methodologies. However, it primarily focuses on the concept of momentum rather than providing a structured method or detailed procedural steps. The word 'methods' is mentioned but not elaborated upon, and there is a lack of specific guidance or processes associated with agile frameworks. Therefore, it falls short of a strong alignment with the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the concept of 'momentum' in product development and Agile contexts but does not directly mention observability or its principles. The discussion seems focused on team dynamics and performance rather than on measuring and understanding internal states of systems. Therefore, it lacks a significant alignment with the core themes of observability, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content focuses on the concept of 'momentum' in product development and organizational culture, which is a broad idea but does not explicitly discuss foundational principles that guide decision-making in Agile, Lean, or DevOps. While it mentions Agile and Scrum, it does not detail actionable principles such as continuous improvement or self-management. The discussion of 'momentum' aligns somewhat with the core themes of team direction and collaboration but lacks the depth and direct engagement with specific principles that would justify a higher confidence score. Thus, it remains a secondary rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:41:06",
+    "ai_confidence": 30.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on the concept of momentum in agile team dynamics and product delivery. While it touches on related themes of Agile and Scrum, it does not explicitly mention the principles, methodologies, or systemic applications characteristic of a discipline. There is also limited depth in discussing how these relate to the broader concept of discipline, leading to a score reflecting low alignment.",
     "level": "Ignored"
   }
 }

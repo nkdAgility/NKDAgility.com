@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical setup for SharePoint development, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T12:50:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for developing solutions for SharePoint, with no focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T12:50:48",
@@ -53,49 +44,16 @@
     "reasoning": "Content heavily discusses technical implementations for developing solutions in SharePoint, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T12:50:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for developing solutions for SharePoint, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:51:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses developing solutions for SharePoint and does not mention Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T12:51:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementations for developing solutions in SharePoint without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:51:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on developing solutions for SharePoint and does not discuss DevOps principles, practices, or tools.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T12:51:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses developing solutions for SharePoint and does not relate to AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on developing SharePoint solutions using Visual Studio 2008, which does not align with the core principles of DevOps. There are no explicit discussions on DevOps practices, automation, collaboration, or shared accountability. The content is more about specific development tools and processes rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,28 +76,22 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:51:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical setup for SharePoint development, with no focus on Agile principles or product-centric approaches.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on developing SharePoint solutions using Visual Studio 2008, with no mention of agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as transitioning to a product ethos or operational stability in product delivery, which are core to the category.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T12:51:10",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical techniques and tooling for developing solutions for SharePoint, including specific tools and installation instructions.",
-    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:01:48",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical instructions for developing solutions for SharePoint, lacking personal reflections or experiences.",
     "level": "Ignored"
   },
@@ -159,24 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup and development process for SharePoint solutions, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:01:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on technical implementation details for developing solutions in SharePoint, with no emphasis on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:01:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical instructions for developing solutions for SharePoint, lacking relevance to industry news or reviews.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -242,24 +176,6 @@
     "reasoning": "Content primarily focuses on setting up a development environment for SharePoint, which does not align with the core principles of product delivery.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:02:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical setup and instructions for developing solutions for SharePoint, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:02:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical setup and development for SharePoint, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T18:02:13",
@@ -305,16 +221,7 @@
     "reasoning": "Content primarily discusses technical setup for SharePoint development, with no focus on business agility principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:02:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup and installation process for developing SharePoint solutions, with no focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T18:02:22",
     "ai_confidence": 0,
@@ -334,28 +241,34 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:02:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration steps necessary for developing solutions for SharePoint, including specific tools and instructions.",
+    "final_score": 78.0,
+    "reasoning": "The content provides specific installation instructions for VSeWSS 1.1 and references additional resources for setting up SharePoint development environments. It discusses the necessary steps to configure the development environment, which aligns with the core themes of the category. However, the depth of discussion is somewhat limited, focusing primarily on installation without extensive troubleshooting or configuration best practices.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:02:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical setup and development for SharePoint, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for developing SharePoint solutions and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined in the EBM definition.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:02:27",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup and development process for SharePoint solutions, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -379,19 +292,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration process needed for developing solutions for SharePoint, which aligns with system configuration practices, though it is primarily focused on SharePoint development.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the installation and configuration of specific software (VSeWSS 1.1) necessary for developing solutions for SharePoint, which aligns with the category of System Configuration. It provides direct instructions and links to resources, indicating a focus on practical setup. However, the discussion is primarily centred around development rather than broader system configuration principles, which limits its depth and alignment with the category's core themes.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:41:44",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily provides instructions for developing solutions for SharePoint, focusing on technical setup rather than innovation capabilities or practices.",
     "level": "Ignored"
   },
@@ -420,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on technical instructions for developing solutions in SharePoint, which does not relate to portfolio management themes or principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint development and setup, with no clear relation to Scrum practices or product development principles.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:41:44",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses practical steps for developing solutions in SharePoint, lacking any focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:41:44",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on development setup for SharePoint and does not mention the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on developing solutions for SharePoint and does not address any scaled Agile topics or frameworks.",
+    "reasoning": "Content focuses on development setup for SharePoint and does not mention the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,22 +473,16 @@
     "reasoning": "Content heavily discusses setting up a development environment for SharePoint and does not relate to collaboration tools or Agile principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses development for SharePoint, implying a software development context but lacks focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:41:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses the development process for SharePoint solutions, including setup instructions and necessary tools, which are central to software development.",
+    "reasoning": "The content primarily focuses on the practical steps required to set up a development environment for SharePoint, which is a specific aspect of software development. While it does not delve deeply into methodologies or best practices, it does provide relevant technical information that aligns with the software development process. The mention of specific tools and instructions indicates a moderate level of detail, but the overall discussion lacks broader context on software engineering principles.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -620,7 +512,7 @@
     "reasoning": "Content primarily discusses developing solutions for SharePoint rather than estimation practices within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:41:44",
     "ai_confidence": 0,
@@ -694,19 +586,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:41:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about developing solutions for SharePoint and setting up the development environment, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on developing SharePoint solutions locally and does not discuss Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the content lacks depth in relation to the category's key topics. It is more aligned with general software development practices rather than the specific discipline of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T18:41:44",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses developing for SharePoint and provides installation instructions, with no mention of Lead Time or its related themes.",
     "level": "Ignored"
   },
@@ -744,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical setup for SharePoint development and does not address hypothesis formulation, experimentation, or validated learning.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses SharePoint development and setup, with no mention of AI or its integration in Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +814,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:41:44",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on developing solutions for SharePoint and installation instructions, which do not relate to the concept of Definition of Ready.",
     "level": "Ignored"
   },
@@ -955,29 +841,23 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the specific steps and requirements for developing solutions for SharePoint, which includes technical details and installation instructions, but it is more about specific tools rather than overarching practices of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical setup required for developing SharePoint solutions, which includes specific tools and installation instructions. While it does touch on technical aspects, such as the need for VSeWSS and workflow DLLs, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The depth of discussion is moderate, providing practical steps but not delving into the underlying principles of technical mastery.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T18:41:44",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical setup and development for SharePoint, without a focus on remote working practices or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on developing solutions for SharePoint and technical setup, with no relation to Kanban principles or scaling.",
+    "reasoning": "Content primarily discusses technical setup and development for SharePoint, without a focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -987,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup for SharePoint development, with no relevance to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about developing solutions for SharePoint and does not discuss Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1018,10 +889,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T18:41:44",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on developing solutions for SharePoint and the technical requirements for setup, with no discussion of Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1090,12 +961,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation procedures related to SharePoint development that may involve Windows operating systems, making Windows a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the installation of Visual Studio extensions (VSeWSS) and provides links to resources for developing SharePoint solutions, which implies a Windows environment. However, the primary focus is on SharePoint development rather than Windows itself. While there are mentions of Windows-related tasks, the depth of discussion on Windows-specific topics is minimal, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1108,12 +982,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation and setup requirements for developing SharePoint solutions, which involves solving potential issues with development environments. However, it primarily focuses on setup instructions rather than troubleshooting specific problems.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content provides some guidance on setting up a development environment for SharePoint, which could imply troubleshooting steps for installation issues. However, it lacks explicit discussions on diagnosing or resolving specific technical problems, and the focus is more on setup instructions rather than troubleshooting methodologies or case studies.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1180,19 +1057,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T18:41:44",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup and development for SharePoint, with no relevance to working agreements or team collaboration.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T18:41:44",
+    "calculated_at": "2025-04-10T15:56:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on setup instructions for SharePoint development, not on the characteristics or delivery of working software.",
     "level": "Ignored"
   },
@@ -1268,15 +1145,6 @@
     "reasoning": "Content focuses on developing solutions for SharePoint and does not discuss asynchronous development principles, practices, or collaboration.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:41:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about developing solutions for SharePoint and does not discuss anything related to scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T18:41:45",
@@ -1313,22 +1181,16 @@
     "reasoning": "Content is primarily focused on developing solutions for SharePoint and does not discuss Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:41:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on developing solutions for SharePoint and does not discuss scaling agility or related principles.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:41:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on SharePoint development and technical setup, with no relevance to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on developing SharePoint solutions and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. The content is technical and specific to SharePoint development, making it irrelevant to the Scrum Master classification.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1213,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:41:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on developing solutions for SharePoint and does not discuss Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on developing SharePoint solutions using Visual Studio 2008, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks any discussion on manual or automated testing, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:14:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical setup for SharePoint development, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of developing SharePoint solutions using Visual Studio 2008, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category, and the depth of discussion is limited to technical instructions without addressing any social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1242,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details for developing solutions for SharePoint, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses developing solutions for SharePoint and specific tools required, with no focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:42:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses developing solutions for SharePoint and does not mention AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on developing solutions for SharePoint and does not mention Scrum or its principles, roles, events, or practices. There is no alignment with the core themes of Scrum, and the depth of discussion is minimal, as it lacks any relevant details about Scrum methodologies.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical setup for developing SharePoint solutions and does not discuss the Shift-Left Strategy or its principles, benefits, or practices. There are no mentions of integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for developing SharePoint solutions and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical instructions for developing SharePoint solutions, with minimal direct discussion of competence or continuous skill development. While it implies a level of expertise is required ('you must be a SharePoint developer guru'), it does not explore the broader themes of competence, such as continuous learning or fostering a culture of competence. The depth of discussion is limited to practical steps rather than a comprehensive exploration of competence as a principle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for developing SharePoint solutions and does not discuss Continuous Improvement principles, methodologies, or practices. There are no explicit mentions of continuous improvement concepts, nor does it provide any depth on related strategies or empirical evidence. The content is strictly instructional and lacks alignment with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for developing SharePoint solutions and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and relevance to the themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

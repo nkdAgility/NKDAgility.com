@@ -2,30 +2,33 @@
 title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
 description: Discover why patience is essential for agile teams. Learn practical strategies to foster trust, support growth, and enhance collaboration for lasting success.
 date: 2023-12-08T11:00:09Z
+weight: 1000
 ResourceId: 4p5xeJZXvcE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4p5xeJZXvcE
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-patience
+slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
 aliases:
-- /resources/videos/4p5xeJZXvcE
-- /resources/videos/-shorts-7-virtues-of-agile-patience
-- /resources/-shorts-7-virtues-of-agile-patience
 - /resources/4p5xeJZXvcE
-aliasesFor404:
+- /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
+- /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
+- /resources/videos/-shorts-7-virtues-of-agile-patience
+aliasesArchive:
+- /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
 - /resources/videos/-shorts-7-virtues-of-agile-patience
 - /resources/-shorts-7-virtues-of-agile-patience
+- cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
-- People and Process
-- Organisational Culture
-- Agile Leadership
-- Team Performance
 - Team Motivation
+- Organisational Culture
+- Team Collaboration
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,7 +37,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Leadership
+- Product Development
 
 ---
 In my journey through the world of agile practices, one lesson has consistently stood out: the importance of patience. It’s a simple yet profound concept that can make or break the success of any team or organisation. As I reflect on my experiences, I’ve come to realise that patience is not just a virtue; it’s a necessity in fostering a healthy, productive environment.
@@ -47,7 +50,7 @@ When we think about agile methodologies, we often focus on speed and efficiency.
 
 - **Avoiding Blame Culture**: Frustration can easily lead to a blame culture, which is detrimental to any organisation. When mistakes happen—and they will—it's vital to approach them with a mindset of learning rather than finger-pointing. A blame culture erodes trust and stifles creativity, making it nearly impossible to achieve our goals.
 
-- **Supporting Growth**: Teams need time to develop their skills and processes. As a product owner, I’ve seen firsthand how rushing to meet deadlines can compromise quality and morale. By allowing teams the time they need to refine their work, we ultimately achieve better outcomes.
+- **Supporting Growth**: Teams need time to develop their skills and processes. As a [product owner]({{< ref "/tags/product-owner" >}}), I’ve seen firsthand how rushing to meet deadlines can compromise quality and morale. By allowing teams the time they need to refine their work, we ultimately achieve better outcomes.
 
 ### Practical Steps to Cultivate Patience
 

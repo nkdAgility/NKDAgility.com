@@ -2,42 +2,41 @@
 title: Most Common Thing You Hear in a PSPO Course?
 description: "Discover Simon Reindl's impact on Agile in this insightful short! Join Martin Hinshelwood as he highlights key figures in Scrum and Agile. #Agile #Scrum"
 date: 2023-07-06T14:33:51Z
+weight: 1000
 ResourceId: pazZ3mW5VHM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pazZ3mW5VHM
 source: internal
 url: /resources/videos/:slug
-slug: part-2-most-influential-people-in-agile
+slug: most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
 layout: video
 preview: https://i.ytimg.com/vi/pazZ3mW5VHM/maxresdefault.jpg
 duration: 47
 isShort: true
 aliases:
-- /resources/part-2-most-influential-people-in-agile-2
-- /resources/part-2-most-influential-people-in-agile
-- /resources/most-common-thing-you-hear-in-a-pspo-course
-- /resources/most-influential-people-in-agile-simon-reindl
-- /resources/videos/most-influential-people-in-agile-simon-reindl
-- /resources/videos/pazZ3mW5VHM
 - /resources/pazZ3mW5VHM
-aliasesFor404:
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
+- /resources/videos/most-influential-people-in-agile-simon-reindl
+aliasesArchive:
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
 - /resources/part-2-most-influential-people-in-agile-2
 - /resources/part-2-most-influential-people-in-agile
 - /resources/most-common-thing-you-hear-in-a-pspo-course
 - /resources/most-influential-people-in-agile-simon-reindl
 - /resources/videos/most-influential-people-in-agile-simon-reindl
+- most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Personal
+tags: []
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
 ## Common Comments from the PSPO Course
@@ -46,13 +45,13 @@ Over the years teaching the PSPO course, I've heard one recurring sentiment from
 
 I hear this a lot from Product Owners seeking more control.
 
-## A Call to Elevate the Role of the Product Owner
+## A Call to Elevate the Role of the [Product Owner]({{< ref "/tags/product-owner" >}})
 
 These candid admissions illuminate the very crux of what many Product Owners experience: A sense of not being in the arena where they believe they should be.
 
 They often elaborate, saying:
 
-- "We can't change the product backlog order." 📋
+- "We can't change the [product backlog]({{< ref "/tags/product-backlog" >}}) order." 📋
 
 - "We can't influence the product goal.  It feels out of our hands " 🎯
 
@@ -82,10 +81,10 @@ For those feeling this 'gap', it's crucial to introspect on the road to empowerm
 
 3\.  " What bridges can I build to network and solidify my role's significance?" 🤝
 
-Importantly, as I always say: "To be entrusted with greater accountability, you must first shine with competence." 🔍
+Importantly, as I always say: "To be entrusted with greater accountability, you must first shine with [competence]({{< ref "/tags/competence" >}})." 🔍
 
 Are you a Product Owner feeling like you're benched on the sidelines?  ✨
 
 Feeling that your Product Owner role needs a boost?
 
-I invite you to delve deeper into the PSPO discourse with me.  Hop onto my Agile and Scrum courses, and together, let's align your role with the influence it deserves!🤝
+I invite you to delve deeper into the PSPO discourse with me.  Hop onto my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses, and together, let's align your role with the influence it deserves!🤝

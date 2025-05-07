@@ -37,21 +37,24 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-12T11:28:05",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the Gartner's Hype Cycle and general perceptions of Agile and Scrum, rather than focusing on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the dynamics of organisational change and the perception of Agile methodologies within organisations, indicating a major theme related to organisational behaviour and systems thinking.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the dynamics of Agile within organisations, touching on systems thinking principles such as the importance of people over processes and the need for cultural shifts. It explores the interplay between expectations and reality in organisational change, which aligns with the core themes of Organisational Physics. However, while it mentions organisational dynamics, the focus is more on Agile methodologies rather than a comprehensive exploration of systems thinking, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -91,39 +94,48 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and perceptions surrounding Agile adoption, touching on the importance of people over tools, which aligns with Agile leadership themes. However, it primarily focuses on the hype cycle and general sentiments rather than specific leadership practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the journey towards Agile enlightenment and touches on the importance of people and interactions over processes, which aligns with Agile Leadership principles. However, it lacks direct mentions of leadership roles and strategies, focusing more on the general state of Agile practices and community sentiments. The depth of discussion on leadership is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T11:28:14",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Gartner's Hype Cycle and perceptions of Agile and Scrum, without focusing on the Daily Scrum event or its specific practices.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T11:28:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:12:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the Hype Cycle, with no focus on system configuration or related technical aspects.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with no direct mention of system configuration or related topics. While it touches on themes of organisational change and improvement, it does not delve into configuration management, system setup, or automation practices, which are central to the System Configuration category. The focus is on Agile principles rather than the technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concepts of Agile and Scrum in the context of organisational change and the challenges faced during digital transformation, but it primarily focuses on the hype cycle rather than a strategic adoption of digital technologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and the challenges faced by organisations in adopting them, which indirectly relates to digital transformation. However, it primarily focuses on the Agile framework rather than the strategic adoption of digital technologies for business transformation. While there are mentions of organisational change and the importance of people in processes, the content lacks a direct focus on digital tools or methodologies that enhance business agility or operational efficiency.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -172,12 +184,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the perception of Agile methodologies and the cultural challenges organisations face in adopting them, indicating a secondary theme related to organisational culture.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the cultural aspects of Agile adoption, particularly the emphasis on people over processes, which aligns well with the themes of organisational culture. It highlights the importance of fostering a culture that prioritises individuals and interactions, which is a core element of Agile methodologies. The discussion on the shift towards enlightenment and the need to dismantle barriers also reflects cultural transformation. However, while the content touches on these themes, it does not delve deeply into specific cultural strategies or leadership roles, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -208,10 +223,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T11:28:34",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Gartner's Hype Cycle and perceptions of Agile methodologies, without addressing the Definition of Done.",
     "level": "Ignored"
   },
@@ -244,39 +259,36 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses perceptions of Agile and Scrum within the context of the Hype Cycle, touching on themes of disillusionment and the importance of people in Agile practices, which aligns with strategic discussions in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Agile journey and the challenges faced by organisations in achieving true Agile enlightenment, which aligns with strategic discussions in Agile contexts. It mentions the importance of people over processes and the need for realistic expectations, which are key strategic considerations. However, while it touches on strategy, it does not delve deeply into specific strategic frameworks or techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T11:28:44",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without a clear focus on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile concepts and frameworks, particularly in the context of public perception and organisational challenges, but it is not primarily focused on the frameworks themselves.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T11:28:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without focusing on scaling agility practices or frameworks.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Agile framework in the context of the Hype Cycle, addressing common misconceptions and the journey towards understanding Agile principles. It mentions the importance of people and interactions, which aligns with Agile values. However, while it touches on Agile concepts, it does not delve deeply into specific frameworks like Scrum or Kanban, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -307,10 +319,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T11:28:52",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Gartner's Hype Cycle and perceptions of Agile methodologies, without a focus on Cycle Time or its measurement.",
     "level": "Ignored"
   },
@@ -334,12 +346,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the perception of Scrum within the context of the Hype Cycle, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and the challenges faced within Agile communities, which aligns with software development practices. However, it primarily focuses on perceptions and opinions rather than providing detailed methodologies or best practices. The mention of Agile is significant, but the overall depth of discussion lacks concrete examples or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +367,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T11:29:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:12:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Gartner's Hype Cycle and perceptions of Agile methodologies, without focusing on throughput or its measurement and optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Agile journey and the Hype Cycle, focusing on perceptions of Agile rather than throughput as a delivery metric. There are no direct mentions of throughput, and while it touches on themes of improvement and expectations, it does not provide any analysis or visualisation of throughput metrics. The discussion lacks depth in relation to throughput, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,12 +388,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses perceptions of Agile and its implementation, touching on the importance of people over tools and the need for fundamental changes in work practices, which aligns with Agile values. However, it primarily focuses on the hype cycle and opinions about Agile frameworks rather than a deep exploration of Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the journey towards Agile enlightenment, emphasising the importance of people and interactions over processes, which aligns well with Agile values. It mentions the need to evaluate expectations and prioritise individuals, reflecting core Agile principles. However, it primarily critiques the current state of Agile rather than deeply exploring its foundational values, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -406,12 +427,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition of organisations in their understanding of Agile principles and the challenges they face, which aligns with change management themes. However, it primarily focuses on the Hype Cycle and perceptions of Agile rather than providing in-depth strategies or practices for effective change management.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the journey towards Agile enlightenment and touches on the importance of people and adaptability, which aligns with change management principles. However, it primarily focuses on the Hype Cycle and perceptions of Agile rather than providing in-depth strategies or practices for effective change management. The discussion is relevant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -458,22 +482,16 @@
     "reasoning": "Content heavily discusses the Gartner's Hype Cycle and Agile methodologies, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and their impact on organisations, which is relevant to software developers, but it primarily focuses on general perceptions and experiences rather than specific practices or roles within Agile and DevOps.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:29:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, with no focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with no direct mention of Test First Development principles or practices. While it touches on themes of expectations and collaboration, it lacks specific references to success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,30 +550,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T11:29:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Hype Cycle and perceptions of Agile methodologies, with no clear focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T11:29:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses perceptions of Agile and Scrum without focusing on scaling Agile practices across multiple teams or enterprise-level initiatives.",
+    "calculated_at": "2025-04-11T11:11:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Agile journey and the Hype Cycle, focusing on perceptions of Agile rather than Lead Time. There are no direct mentions of Lead Time or its measurement, and the discussion does not align with the core themes of Lead Time as an observability metric. The content lacks depth in addressing Lead Time, making it clear that this category is not a primary focus.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the current state of Agile and Scrum in relation to the Gartner's Hype Cycle, touching on practical experiences and perceptions within organisations. However, it primarily focuses on the hype and disillusionment rather than providing concrete pragmatic strategies or solutions.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Gartner's Hype Cycle in relation to Agile and Scrum, indicating a practical understanding of the challenges organisations face in adopting these methodologies. It highlights the importance of people over tools and the need for real-world application of Agile principles, which aligns with pragmatic thinking. However, the discussion is more focused on perceptions and experiences rather than providing specific problem-solving strategies or detailed case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -565,15 +580,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without a focus on deployment frequency or related practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile concepts and perceptions, particularly in relation to the Hype Cycle, but it is not primarily focused on Agile Project Management principles or methodologies.",
-    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -586,20 +592,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses perceptions of Agile methodologies and their implementation in organisations, touching on themes of disillusionment and the importance of people over tools, which aligns with Agile Strategy as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the journey towards Agile enlightenment, touching on the alignment of Agile principles with organisational practices. It highlights the importance of prioritising people over processes, which aligns with Agile's core values. The depth of discussion includes insights on expectations, community sentiments, and a roadmap for organisations, indicating a strong focus on Agile strategy. However, while it addresses Agile concepts, it does not delve deeply into specific strategic implementations or measurable outcomes, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:29:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the Hype Cycle, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of improvement and adaptation, it lacks a focus on the specific practices of Continuous Delivery, such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,21 +625,24 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T11:29:45",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Gartner's Hype Cycle and perceptions of Agile methodologies, with no clear focus on the Definition of Ready.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the perception of Agile methodologies in relation to the Hype Cycle, touching on themes of disillusionment and enlightenment within organisations. However, it primarily focuses on opinions about Agile rather than a structured exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of enlightenment within the context of Agile methodologies, touching on themes of expectations, disillusionment, and the importance of people over processes. While it does not explicitly mention sensemaking, it aligns with the category by exploring how organisations interpret their Agile journeys amidst complexity and uncertainty. However, the discussion lacks depth in frameworks or models of sensemaking, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -645,24 +660,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the Gartner's Hype Cycle and perceptions of Agile methodologies rather than focusing on team performance or collaboration strategies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T11:29:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the Hype Cycle without any mention of AI or its applications.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T11:29:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Hype Cycle and perceptions of Agile and Scrum, without a focus on Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -694,12 +691,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses perceptions of Agile and its implementation, touching on the challenges and cultural shifts associated with Agile transformation, but it is not primarily focused on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the journey towards Agile enlightenment, touching on the challenges and misconceptions surrounding Agile practices. It highlights the importance of people over processes, which aligns with Agile principles. However, while it mentions Agile transformation and its implications, it does not delve deeply into specific frameworks or methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -712,21 +712,24 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T11:30:01",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses perceptions of Agile and Scrum in relation to the Hype Cycle, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the perception of Agile methodologies and the challenges organisations face in adopting them, indicating a major theme of organisational change. However, it primarily focuses on personal opinions and experiences rather than structured strategies or frameworks for change.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of the 'slope of Enlightenment' in relation to Agile methodologies, indicating a recognition of organisational change. However, it primarily focuses on perceptions of Agile rather than detailed strategies or frameworks for implementing change. While it touches on the importance of people in solving problems and the need for fundamental changes in work practices, it lacks a structured discussion on methodologies or leadership roles in driving change, which are key aspects of the category.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -735,15 +738,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum concepts without any mention of test automation principles, practices, or tools.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T11:30:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses perceptions of Agile and Scrum in relation to the Hype Cycle, lacking a clear focus on Scrum product development practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -757,11 +751,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:30:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without a focus on empirical evidence or Evidence-Based Management principles.",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile's journey and perceptions but lacks a direct focus on Evidence-Based Management principles. While it touches on themes like expectations and the importance of people, it does not provide empirical evidence or metrics that align with EBM. The discussion is more about perceptions and experiences rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,23 +770,17 @@
     "reasoning": "Content primarily discusses perceptions of Agile and Scrum, focusing on the Hype Cycle rather than backlog refinement practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T11:30:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses perceptions of Agile and Scrum in relation to the Gartner's Hype Cycle, without a clear focus on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:30:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Hype Cycle and general perceptions of Agile, with only brief mentions of Scrum without a focus on the Scrum Master role.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile principles and the journey towards enlightenment but does not specifically focus on the role of the Scrum Master. While it touches on themes relevant to Agile and team dynamics, it lacks direct references to the responsibilities or impact of a Scrum Master, which diminishes its alignment with the category.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -838,10 +829,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T11:30:20",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses perceptions of Agile methodologies and the Hype Cycle, rather than focusing on Agile Planning principles or practices.",
     "level": "Ignored"
   },
@@ -854,7 +845,7 @@
     "reasoning": "Content primarily discusses the Hype Cycle and perceptions of Agile methodologies, without a clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T11:30:23",
     "ai_confidence": 0,
@@ -892,10 +883,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T11:30:29",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the Hype Cycle and general perceptions of Agile, with only brief mentions of Scrum and Agile principles, lacking a focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -928,20 +919,26 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the current state of Agile methodologies in relation to Gartner's Hype Cycle, indicating a trend analysis perspective. However, it primarily focuses on personal opinions and observations rather than a structured analysis of trends.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Gartner's Hype Cycle and mentions the slope of Enlightenment and the trough of disillusionment, which are relevant to trend analysis in Agile methodologies. However, the discussion is largely opinion-based and lacks substantial evidence or detailed analysis of trends. While it touches on the implications of these trends for organisations, it does not provide in-depth insights or case studies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T11:30:36",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses perceptions of Agile and its impact on organisations, touching on the importance of people over tools and the need for cultural change, which aligns with Agile Philosophy. However, it primarily focuses on the hype cycle and specific frameworks like Scrum and SAFe, making Agile a secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the perception of Agile and its implementation within organisations, touching on the disillusionment with Agile practices and the importance of people over tools. While it does not explicitly mention the Agile Manifesto or its principles, it aligns with the core themes of adaptability, value delivery, and the cultural shifts required for Agile adoption. However, the focus is more on the current state of Agile perceptions rather than a deep exploration of Agile philosophy itself.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -955,10 +952,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T11:30:39",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without focusing on Agile Planning Tools or their functionalities.",
     "level": "Ignored"
   },
@@ -1018,12 +1015,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the broader implications of Agile adoption within organisations and touches on the challenges and perceptions surrounding Agile methodologies, indicating a major but secondary theme related to enterprise agility.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of Agile enlightenment and the challenges faced by organisations in adopting Agile principles. While it touches on the broader implications of Agile on organisational performance and culture, it primarily focuses on team-level issues and perceptions rather than providing a comprehensive exploration of enterprise agility frameworks or strategies. The mention of organisational shifts and the importance of people over processes indicates some alignment with enterprise agility, but the depth of discussion remains limited.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1034,31 +1034,13 @@
     "reasoning": "Content heavily discusses Agile and Scrum without reference to Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges and perceptions surrounding Agile methodologies, touching on themes of organisational change and the need for adaptability. However, it primarily focuses on the hype cycle and personal opinions rather than providing a structured discussion on resilience strategies or change management practices.",
-    "level": "Tertiary"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T11:27:10",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses perceptions of Agile methodologies and the Hype Cycle, with no focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T11:27:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the Hype Cycle, with no focus on code quality or complexity in software development.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1068,15 +1050,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without a clear focus on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T11:27:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses perceptions of Agile methodologies and the Hype Cycle, without any mention of AI or automation.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1090,21 +1063,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile concepts and perceptions, particularly around Scrum and the Hype Cycle, but it does not focus primarily on Agile Product Management practices or methodologies.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concepts of the Hype Cycle and the challenges organisations face in understanding Agile methodologies, which touches on learning and adaptation. However, the primary focus is on the disillusionment with Agile rather than on discovery and learning processes.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile concepts and the challenges faced by organisations in adopting Agile methodologies, touching on themes like expectations, the human element, and the importance of culture. However, it lacks a direct focus on specific Agile Product Management practices, such as the role of the Product Owner or backlog prioritisation, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1117,39 +1084,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Hype Cycle and the challenges organisations face in adopting Agile methodologies, which touches on themes of uncertainty and organisational behaviour. However, it primarily focuses on Agile and Scrum rather than complexity science itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Gartner Hype Cycle and the perceptions of Agile methodologies, touching on themes of disillusionment and enlightenment within organisations. However, it lacks direct references to complexity science or frameworks like the Cynefin Framework. While it hints at the importance of understanding organisational dynamics and the role of people in problem-solving, it does not delve deeply into complexity theory or its principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T11:27:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without a focus on transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T11:27:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses perceptions of Agile and its implementation challenges without focusing on specific tools, methodologies, or practical techniques.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T11:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal opinions and observations about Agile methodologies without reference to specific events or presentations.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1162,20 +1105,26 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Gartner's Hype Cycle and personal reflections on Agile and Scrum, but it primarily focuses on opinions and experiences rather than established frameworks or actionable insights.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of the Hype Cycle in relation to Agile but heavily references Agile principles, frameworks, and critiques, particularly Scrum and Agile methodologies. While it touches on broader themes of enlightenment and disillusionment, the primary focus remains on Agile-related discussions, which detracts from its classification as Miscellaneous.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:27:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile and Scrum, with only a brief mention of DevOps at the end, making it not central to the overall discussion.",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with a focus on the journey of Agile rather than DevOps principles. While there are some mentions of collaboration and people-centric approaches, the core themes of DevOps, such as automation, shared accountability, and continuous improvement, are not explicitly addressed. Therefore, the content does not align closely with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,23 +1136,17 @@
     "reasoning": "Content heavily discusses Agile and Scrum concepts without specific reference to Azure DevOps.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T11:27:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Gartner's Hype Cycle and perceptions of Agile methodologies, without a focus on specific products or literature.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the perception of Agile methodologies and their impact on organisations, touching on themes of disillusionment and the importance of people in solving problems, which are relevant to business agility. However, the primary focus is on the hype cycle and Agile frameworks rather than a direct exploration of business agility principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Agile journey and the challenges faced by organisations in adapting to Agile principles, which aligns with the themes of business agility. However, it primarily focuses on the Hype Cycle and perceptions of Agile rather than providing in-depth strategies or case studies on business agility itself. The mention of prioritising people over processes and evaluating expectations hints at business agility but lacks comprehensive detail and direct discussion.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1234,55 +1177,46 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the current state of organisations in relation to Agile methodologies and the cultural shifts necessary for true agility, but it primarily focuses on perceptions of Agile rather than detailed strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the journey towards Agile enlightenment, highlighting the importance of people and cultural shifts over rigid processes. It mentions the challenges organisations face in adopting Agile principles and provides insights into fostering a culture of agility. The depth of discussion includes practical steps for organisations to enhance their adaptability, aligning well with the core themes of organisational agility.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content reflects personal insights and interpretations regarding the current state of Agile methodologies and the Hype Cycle, but it primarily discusses broader themes rather than personal experiences.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T11:27:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the human factors influencing Agile methodologies and the importance of people in overcoming disillusionment with processes, making it a central theme.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the collective experiences and perceptions of the Agile community, reflecting on the challenges and insights related to Agile transformations. While it does not provide personal anecdotes, it aligns with the themes of personal reflections on Agile practices and the human element in Agile methodologies. The depth of discussion is moderate, focusing on community sentiments rather than individual experiences, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interplay between organisational culture and Agile methodologies, highlighting the importance of people over tools, which aligns with sociotechnical principles. However, the primary focus is on the Hype Cycle and Agile perceptions rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T16:42:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the current state of Agile methodologies in relation to Gartner's Hype Cycle, which aligns with industry news and trends. However, it primarily reflects personal opinions and observations rather than providing a structured review or analysis.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Agile methodology and its implications for organisational culture and team dynamics, which aligns with sociotechnical systems. It highlights the importance of people and interactions over rigid processes, reflecting the interplay between social and technical aspects. However, while it touches on these themes, it does not delve deeply into specific sociotechnical frameworks or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T11:27:49",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without a focus on metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -1315,39 +1249,51 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T20:55:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges and perceptions surrounding Agile methodologies, touching on the importance of people over tools, which aligns with leadership themes. However, it primarily focuses on the Hype Cycle and general sentiments rather than specific leadership practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of the 'slope of enlightenment' in the context of Agile methodologies, touching on the challenges organisations face in adopting Agile practices. However, it primarily focuses on the disillusionment with Agile rather than on leadership strategies or practices. While there are mentions of the importance of people over tools and the need for organisational change, the discussion lacks depth in exploring leadership roles or frameworks. Therefore, it aligns with the category only tangentially.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T20:55:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum in the context of the Gartner's Hype Cycle, indicating a major theme related to social technologies, but it is primarily focused on personal opinions and observations rather than a structured discussion of the methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and the journey towards enlightenment, which aligns with the principles of self-organisation and collaboration. It touches on the importance of people over processes and highlights the need for cultural shifts within organisations. However, while it mentions Agile's impact on collaboration and decision-making, it does not delve deeply into specific frameworks or methodologies that promote these aspects, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:55:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses perceptions of Agile methodologies and the Hype Cycle, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile concepts and the journey towards enlightenment but does not specifically address the Agile Product Operating Model or its principles. It focuses more on general Agile practices and perceptions rather than product management integration or operational frameworks.",
     "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T20:55:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of people in solving problems and hints at dismantling bureaucratic processes, which aligns with human-centric approaches. However, it primarily focuses on the Hype Cycle and Agile methodologies, making Beta Codex a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile principles and the importance of people over processes, which aligns with the human-centric approach of Beta Codex. However, it primarily focuses on the Hype Cycle and general Agile discourse rather than explicitly addressing Beta Codex principles or decentralised organisational design. The depth of discussion on Beta Codex concepts is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1358,22 +1304,431 @@
     "reasoning": "Content heavily discusses Agile and Scrum concepts without a direct connection to platform engineering.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:55:17",
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Gartner's Hype Cycle and personal opinions on Agile and Scrum, without focusing on the principles or implementation of the One Engineering System.",
+    "reasoning": "Content heavily discusses Agile methodologies and the Hype Cycle, with no focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:54:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and the Hype Cycle, with no mention of AI or its applications.",
     "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T20:55:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses perceptions of Scrum within the context of Agile methodologies, indicating that Scrum is a significant theme, but it is not the primary focus of the discussion.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of disillusionment and expectations surrounding Agile methodologies. However, it does not delve into specific Scrum roles, events, or practices, which are essential for a strong alignment with the Scrum category. The discussion is more focused on general perceptions of Agile rather than the Scrum framework itself.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Agile Hype Cycle and the challenges faced by Agile practitioners, with no explicit mention of the Shift-Left Strategy. While it touches on themes of improvement and collaboration, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the journey of Agile and the challenges faced, which indirectly relates to Continuous Improvement. However, it primarily focuses on the Hype Cycle and perceptions of Agile rather than explicitly addressing Continuous Improvement principles. While there are mentions of learning and adapting, the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the journey of Agile and the challenges faced, touching on themes of collective understanding and the importance of people over processes. However, it lacks a direct focus on shared objectives or strategic alignment, which are central to the concept of Common Goals. While it hints at the need for alignment in Agile practices, it does not delve deeply into how these alignments can be operationalised or their impact on organisational performance.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the journey towards Agile enlightenment, touching on the importance of understanding Agile principles and prioritising people over processes, which aligns with the core themes of competence. However, while it mentions the need for realistic expectations and learning from pioneers, it does not delve deeply into continuous skill development or strategies for fostering a culture of competence, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:20:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with no direct mention of the One Engineering System (1ES). While it touches on themes of collaboration and improvement in software practices, it does not provide specific insights or discussions related to the principles, components, or implementation of 1ES. The focus remains on Agile's evolution rather than the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the journey towards enlightenment but does not explicitly address Agentic Agility or its principles. While it touches on themes of adaptability and the importance of people in Agile, it lacks a focused discussion on intentionality, accountability, or the distinction between human and AI capabilities in shaping outcomes.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:11:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and the journey towards understanding and implementing Agile principles, which aligns with the core themes of product development. It addresses customer feedback and the importance of people in the Agile process, reflecting on iterative learning and continuous improvement. However, while it touches on relevant topics, it lacks a detailed exploration of specific product development practices and methodologies, which slightly lowers the depth score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:11:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile concepts and the journey towards enlightenment but does not explicitly mention Open Space Agile or its principles. While it touches on themes of collaboration and the importance of people in Agile, it lacks a direct focus on Open Space Technology or the specific practices associated with Open Space Agile. The discussion is more general about Agile's evolution rather than a detailed exploration of Open Space Agile methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:11:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the journey of Agile through the lens of the Hype Cycle, touching on themes of disillusionment and enlightenment. While it does mention the importance of people over processes, which aligns with Agnostic Agile principles, it primarily focuses on the challenges and perceptions surrounding Agile rather than explicitly discussing Agnostic Agile principles or comparing it to traditional frameworks. The depth of discussion on Agnostic Agile is moderate, as it hints at the need for adaptability and critical thinking but lacks detailed exploration of its core principles or case studies.",
+    "level": "Secondary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:11:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile's journey and the challenges faced by organisations, but it primarily focuses on the general state of Agile rather than specific methodologies or frameworks for scaling Agile practices. While there are mentions of community shifts and the importance of people over processes, the discussion lacks depth in terms of scaling strategies, frameworks, or metrics that are central to the Scaling category. The content does not provide concrete examples or case studies related to scaling, which further diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:11:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with no direct mention of Cell Structure Design or its principles. While there are themes of decentralisation and self-organisation that could tangentially relate to the category, the focus remains on Agile practices rather than the specific organisational design model outlined in the Cell Structure Design category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:11:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile concepts and the Hype Cycle but does not mention Liberating Structures or their specific techniques. While it touches on themes of collaboration and the importance of people in Agile, it lacks a direct focus on the facilitation techniques that define Liberating Structures. The discussion is more about the general state of Agile rather than the specific methods that enhance participation and collaboration within groups.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:11:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the Agile journey and the Hype Cycle, focusing on perceptions of Agile rather than the specific metrics or strategies related to Time to Market. While it touches on themes of expectations and the human element in Agile, it lacks a direct focus on the efficiency of delivering market-ready products or features, which is central to the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:11:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and the journey towards enlightenment within organisations, but it does not explicitly frame the company itself as a product. While there are mentions of organisational change and the importance of people over processes, the primary focus remains on Agile practices rather than a comprehensive exploration of the Company as a Product concept. The discussion lacks depth in terms of CaaP principles and does not provide substantial strategies or case studies related to the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:11:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, with no direct mention of GitHub or its functionalities. While it touches on themes relevant to Agile project management, it does not specifically address GitHub services, tools, or best practices. The discussion lacks depth regarding GitHub, making it clear that the focus is not aligned with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:11:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of enlightenment in the context of Agile methodologies, touching on themes of disillusionment and potential improvements. However, it does not explicitly mention 'Unrealised Value' or provide a focused discussion on indicators or strategies for identifying untapped opportunities. While there are hints at recognising the importance of people and interactions, the primary focus remains on the Agile journey rather than on the potential value that can be captured through further improvements and innovations.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:11:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the Agile journey and the Hype Cycle, touching on themes of disillusionment and enlightenment. However, it lacks direct mentions of Current Value or its metrics, focusing instead on perceptions and expectations within Agile practices. While there are hints at evaluating expectations and prioritising people, the discussion does not delve into specific indicators or techniques for measuring Current Value, which diminishes its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:11:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile's journey and the challenges faced by organisations, but it does not explicitly mention Hybrid Agile or critically examine the integration of traditional methodologies with Agile practices. While it touches on themes of disillusionment and expectations, it lacks a focused analysis of the specific challenges and pitfalls associated with Hybrid Agile, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:11:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 7,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the Hype Cycle, which are relevant to project management but focuses heavily on Agile's evolution rather than broader project management principles. While it touches on themes like expectations, team dynamics, and the importance of people over processes, it lacks detailed exploration of core project management concepts such as scope, time, cost, and quality. The discussion is more about Agile's perception and community sentiment rather than practical strategies or tools for managing projects effectively.",
+    "level": "Tertiary"
+  },
+  "Principle": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of Agile and the journey toward enlightenment within Agile practices. It emphasizes actionable principles, such as prioritizing people over processes and fostering a culture of adaptability. Direct mentions are made of changing expectations and understanding the essence of Agile, aligning well with key principles like self-management, customer collaboration, and respect for people. While it provides rich insights into the Agile mindset, there is a slight lack of depth in explicitly detailing specific guiding principles or how they influence team behavior in practical terms, leading to a high confidence score without reaching the maximum.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 30.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content focuses primarily on the journey and perceptions of Agile methodologies as illustrated by the Hype Cycle, discussing concepts such as enlightenment and disillusionment. However, it does not explicitly mention any specific tools or provide a detailed analysis of how tools relate to Agile practices, which is necessary for robust alignment with the 'Tool' category. While there are hints at underlying themes of improvement and collaboration, the absence of tool-specific discussion or practical application results in a low confidence score for the category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 79.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 79.0,
+    "reasoning": "The content discusses perspectives on Agile and its journey from disillusionment to enlightenment, emphasizing the importance of people and interactions over processes. The mention of prioritizing people reflects a core Agile value, and the overall theme aligns with values that shape team dynamics. However, the focus on specific Agile challenges and trends, while relevant, does not deeply engage with the philosophical underpinnings of values themselves, resulting in a high but not maximum score.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses concepts related to the philosophical underpinnings of Agile methodologies, focusing on the journey towards understanding and implementing Agile principles. It highlights the importance of collective understanding and people-centered approaches, which aligns with philosophical themes. However, the content also delves into practical elements and expectations within Agile, which detracts from its philosophical focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 48.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 48.0,
+    "reasoning": "The content discusses Agile as a discipline, addressing its evolution and the challenges faced in organizations. It touches upon core principles of Agile but primarily does so in a context of hype and disillusionment, lacking depth in the systematic application and governance structures of the discipline itself. While there are mentions of Agile and its essence, the focus remains on the challenges and misconceptions rather than a structured discussion on the overall discipline, resulting in a medium confidence score that reflects its partial alignment with the category.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses Agile's broader philosophical journey and the hype cycle but does not specifically mention or analyze any artifacts related to Agile, Scrum, or Lean. The focus is primarily on misconceptions and human elements in Agile rather than on tangible constructs or their purposes in transparency and decision-making.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on the Agile journey and the Hype Cycle, with little to no direct mention of observability, metrics, logs, traces, or related tools and best practices. While there are mentions of transparency and team collaboration, these concepts do not specifically align with the observability category's core themes. The discussion does not offer detailed insights or practical experiences related to observability strategies in software systems.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content focuses primarily on discussing the Agile journey and the emotional landscape of Agile practitioners rather than specific actionable techniques or practices. While it mentions the importance of evaluating expectations and prioritizing people, these discussions are more philosophical and conceptual rather than detailed practice-oriented techniques. The content gives a brief mention of practices in the Agile community, but it lacks depth in delivering actionable content related to practices. Therefore, while there is some alignment, it does not center on practice itself.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 35.0,
+    "ai_mentions": 3,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the Agile framework and its journey towards enlightenment, but it does so in a way that focuses more on general perceptions and challenges of the Agile philosophy rather than outlining specific methods or structured procedures for implementation. While there are mentions of Agile principles and the human aspect of Agile, the content lacks detailed, step-by-step procedures that would qualify it firmly under the 'Method' category. It touches on expectations, culture, and leadership but doesn’t provide specific methods or in-depth discussion on applying Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 0,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Hype Cycle in relation to Agile's evolution, which touches on conceptual frameworks but primarily focuses on the journey rather than specific models. It makes some references to Agile principles but does not delve deeply into formal frameworks. The alignment with the Model category is moderate due to the mention of expectations and community dynamics but lacks explicit discussions of key models or their applications within Agile, DevOps, or Lean contexts.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:27",
+    "ai_confidence": 60.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 60.0,
+    "reasoning": "The content discusses Agile concepts broadly and references the Agile framework and its challenges. While the title and sections touch on the Agile journey and the perception within the Agile community, the discussion lacks focus on specific frameworks or implementation strategies, which are essential for deeper alignment with the 'Framework' category. There are mentions of Agile principles but without in-depth exploration or structured methodologies, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:27",
+    "ai_confidence": 60.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the Agile framework and its journey towards enlightenment, touching on concepts around expectations and the role of people in Agile processes. It includes actionable insights like evaluating expectations and prioritizing people over processes, which align with tenets of Agile. However, it does not specifically delineate tenets or actionable guiding rules, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "3NtGxZfuBnU",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 6,
+    "ai_alignment": 25,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the Agile journey and community perspectives rather than focusing on the specific concept of capabilities. While it touches on themes related to organizational change and culture, the depth is insufficient to qualify it as a robust discussion of capabilities. It mainly highlights emotional responses and perceptions within the Agile community, without providing a detailed exploration of enduring competencies or systemic practices related to capability development.",
     "level": "Tertiary"
   }
 }

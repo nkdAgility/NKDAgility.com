@@ -2,29 +2,35 @@
 title: 'Harnessing Evidence-Based Management: Transform Your Decision-Making with Data-Driven Insights'
 description: Unlock the power of evidence-based management! Discover how data-driven decisions can transform your organisation and enhance team collaboration.
 date: 2024-08-14T07:12:45Z
+weight: 1000
 ResourceId: Nf6XCdhSUMw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Nf6XCdhSUMw
 url: /resources/videos/:slug
-slug: introduction-to-evidence-based-management
+slug: harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 layout: video
 aliases:
-- /resources/videos/Nf6XCdhSUMw
-- /resources/videos/introduction-to-evidence-based-management
-- /resources/introduction-to-evidence-based-management
 - /resources/Nf6XCdhSUMw
-aliasesFor404:
+- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/introduction-to-evidence-based-management
+aliasesArchive:
+- /resources/videos/harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 - /resources/videos/introduction-to-evidence-based-management
 - /resources/introduction-to-evidence-based-management
+- harnessing-evidence-based-management-transform-your-decision-making-with-data-driven-insights
 preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
 duration: 414
 isShort: false
 tags:
-- Evidence Based Management
 - Decision Making
 - Evidence Based Leadership
+- Metrics and Learning
+- Evidence Based Management
+- Pragmatic Thinking
+- Operational Practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,6 +39,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 
 ---
 In my journey through the world of agile and organisational management, I've come to appreciate the profound impact that evidence-based management can have on our decision-making processes. It’s not just a buzzword; it’s a strategic approach that can transform how we operate at both tactical and strategic levels. Today, I want to share my insights on this topic, drawing from my experiences and the lessons I've learned along the way.
@@ -72,7 +79,7 @@ The essence of evidence-based management lies in collecting a wealth of evidence
 
 #### Final Thoughts:
 
-- **Continuous Learning**: Embrace the idea that evidence-based management is a journey of continuous improvement.
+- **[Continuous Learning]({{< ref "/tags/continuous-learning" >}})**: Embrace the idea that evidence-based management is a journey of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 - **Adapt and Evolve**: Be prepared to adjust your strategies as new data and insights emerge.
 
 In conclusion, evidence-based management is a powerful tool that can enhance our organisational effectiveness. By focusing on data to inform our decisions, understanding the metrics that shape behaviours, and engaging with our teams, we can create a more responsive and value-driven environment. As we navigate the complexities of our work, let’s remember that the goal is not just to collect data but to use it wisely to foster a culture of continuous improvement and collaboration.

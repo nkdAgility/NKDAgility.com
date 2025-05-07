@@ -2,8 +2,10 @@
 title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
 description: Explore Azure DevOps through the eyes of a seasoned consultant. Gain insights on migration, tools, and real-world applications to enhance your team's productivity!
 date: 2024-07-31T09:21:03Z
+weight: 665
 ResourceId: isU2kPc5HFw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: isU2kPc5HFw
@@ -15,32 +17,30 @@ preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
 duration: 998
 isShort: false
 aliases:
-- /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/videos/talk-us-through-your-experience-with-azure-devops
-- /resources/videos/isU2kPc5HFw
-- /resources/talk-us-through-your-experience-with-azure-devops
 - /resources/isU2kPc5HFw
-aliasesFor404:
+- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+- /resources/videos/talk-us-through-your-experience-with-azure-devops
+aliasesArchive:
+- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 - /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 - /resources/videos/talk-us-through-your-experience-with-azure-devops
 - /resources/talk-us-through-your-experience-with-azure-devops
+- the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Personal
 - Azure DevOps
 - Software Development
-- Software Developers
-- Practical Techniques and Tooling
 - Pragmatic Thinking
+- Personal
 resourceTypes:
 - video
 categories:
 - DevOps
 
 ---
-When I first encountered Azure DevOps back in 2006, it wasn't even called Azure DevOps. Back then, it was known as Visual Studio Team Services (VSTS), and before that, Team Foundation Server (TFS). Over the years, the name has changed several times, but the core intent has remained consistent: empowering teams to enhance their capabilities through powerful tools. In this blog post, I want to take you through my journey with Azure DevOps, from my early days as a software engineer to becoming a Microsoft MVP and a DevOps consultant. I'll share personal experiences, lessons learned, and practical advice on leveraging Azure DevOps to its full potential.
+When I first encountered Azure [DevOps]({{< ref "/categories/devops" >}}) back in 2006, it wasn't even called [Azure DevOps]({{< ref "/tags/azure-devops" >}}). Back then, it was known as Visual Studio Team Services (VSTS), and before that, Team Foundation Server (TFS). Over the years, the name has changed several times, but the core intent has remained consistent: empowering teams to enhance their capabilities through powerful tools. In this blog post, I want to take you through my journey with Azure DevOps, from my early days as a software engineer to becoming a Microsoft MVP and a DevOps consultant. I'll share personal experiences, lessons learned, and practical advice on leveraging Azure DevOps to its full potential.
 
 ## **Early Experience with Team Foundation Server (TFS)**
 
@@ -130,7 +130,7 @@ One of the most rewarding aspects of my work is seeing the impact of these tools
 
 ### **A Continuous Journey**
 
-As both a user and consultant for Azure DevOps, I've witnessed the platform's evolution and its impact on organizations of all sizes. While my work has increasingly shifted to GitHub, I still hold a deep appreciation for the capabilities Azure DevOps offers. However, as powerful as these tools are, there are always gaps that require custom solutions or expert guidance.
+As both a user and consultant for Azure DevOps, I've witnessed the platform's evolution and its impact on organizations of all sizes. While my work has increasingly shifted to [GitHub]({{< ref "/tags/github" >}}), I still hold a deep appreciation for the capabilities Azure DevOps offers. However, as powerful as these tools are, there are always gaps that require custom solutions or expert guidance.
 
 **Final Thoughts**
 

@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T19:15:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses empiricism in the context of agile methodologies, indicating a connection to Agile practices, but it does not primarily focus on the frameworks or principles of Scrum, Kanban, Lean, or Agile.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and continuous improvement, which aligns with the principles of social technologies. It emphasises transparency, collaboration, and iterative processes, all of which are key themes in the category. However, while it touches on these concepts, it primarily focuses on the empirical approach rather than a broader discussion of social technologies, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,21 +22,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:15:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, with a focus on data-driven insights rather than DevOps principles or practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses data-driven decision-making and continuous improvement, which are relevant to DevOps principles. However, it primarily focuses on empiricism within an agile context rather than explicitly addressing DevOps practices or cultural shifts. The mention of continuous improvement aligns with DevOps, but the overall discussion lacks depth in DevOps-specific themes.",
+    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T19:15:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which is relevant to product management methodologies, particularly in Agile. However, it does not delve deeply into specific product management strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which aligns with the principles of Evidence-Based Management in product management. However, it lacks direct mentions of product management frameworks or specific methodologies, and the depth of discussion is limited to general ideas about data-driven decision-making without concrete examples or strategies related to product management.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -46,12 +55,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T19:15:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in agile methodologies, which relates to decision-making and adaptability in business. However, it does not primarily focus on business agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses empiricism and its application in agile methodologies, which relates to business agility. However, it lacks explicit mentions of business agility principles and does not delve deeply into strategies or leadership roles that foster agility. The focus is more on data-driven decision-making rather than the broader themes of business agility.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -64,12 +76,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T19:15:42",
-    "ai_confidence": 40,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses the concept of empiricism, which is related to Scrum's principles of transparency, inspection, and adaptation, but it does not focus specifically on Scrum roles, events, or practices.",
-    "level": "Quaternary"
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the concept of empiricism, which is relevant to Scrum's empirical process control. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve into the specific principles or practices of Scrum. The discussion is more general and does not provide the depth required for a strong alignment with the Professional Scrum category.",
+    "level": "Tertiary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -82,47 +97,38 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:15:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which aligns with the principles of Evidence-Based Management. However, it does not delve deeply into specific EBM practices or metrics, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T19:15:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses empiricism and its application in decision-making, without a clear focus on software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T19:15:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and empiricism, which aligns closely with Evidence-Based Management principles. It explicitly mentions the need for access to data, deliberate actions based on hypotheses, and monitoring outcomes, all of which are key aspects of EBM. However, while it touches on agile methodologies, it does not delve deeply into specific EBM metrics or frameworks, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T19:15:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the principles of empiricism and data-driven decision-making, which are relevant to hypothesis-driven development, but it does not explicitly focus on formulating hypotheses or conducting experiments in a structured manner.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which aligns with the principles of hypothesis-driven development. However, it lacks explicit mentions of formulating hypotheses or conducting structured experiments, focusing instead on general data-driven insights. The depth of discussion is limited, as it does not provide specific examples or detailed methodologies related to hypothesis testing.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T19:15:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism and its relation to the agile way of working, indicating a connection to Agile principles, but it does not primarily focus on Agile frameworks themselves.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses empiricism and its relevance to the agile way of working, indicating a connection to Agile principles. However, it lacks a direct focus on specific Agile frameworks or a detailed exploration of their applications, which limits its depth and overall alignment with the category.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -136,10 +142,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T19:15:54",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +156,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making rather than focusing on trend analysis within Agile, DevOps, or business agility frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T19:15:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -226,39 +223,27 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T19:16:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in agile methodologies, which is relevant to product delivery, but it does not focus primarily on the end-to-end process of delivering software products.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which is relevant to agile methodologies. However, it lacks a direct focus on product delivery processes, such as planning, testing, or deployment. While it touches on data-driven insights, it does not delve into specific practices or methodologies that are essential for effective product delivery.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T19:16:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in Agile methodologies, without a clear focus on AI or its integration within Agile, DevOps, or software development.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T19:16:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in decision-making and agile methodologies, which are relevant to digital transformation. However, it does not primarily focus on digital technologies or their strategic adoption for business transformation.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T19:16:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism in relation to decision-making and its adoption in agile methodologies, indicating a connection to human behaviour and structured processes, but it does not primarily focus on team dynamics or collaboration.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and the empirical approach within agile methodologies, which aligns with the themes of digital transformation. However, it lacks a direct focus on the strategic adoption of digital technologies for business transformation, making it more of a secondary discussion rather than a primary focus on digital transformation.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -268,15 +253,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses empiricism and data-driven decision-making, with no clear focus on Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T19:16:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the concept of empiricism and its application in agile methodologies, but does not focus primarily on agile project management principles or frameworks.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +272,6 @@
     "reasoning": "Content primarily discusses empiricism and data-driven decision-making, with no clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T19:16:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of data access and monitoring outcomes, which relates to transparency in decision-making. However, it primarily focuses on empiricism and data-driven insights rather than explicitly addressing transparency and accountability within Agile teams.",
-    "level": "Tertiary"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T19:16:22",
@@ -312,15 +279,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:16:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -352,39 +310,48 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T19:16:30",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:16:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and data-driven decision-making without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of empiricism and its relevance to agile practices, which aligns with the Scrum Master's role in promoting continuous improvement. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities associated with the role, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T19:16:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism and its relevance to decision-making in an agile context, indicating a secondary theme related to Agile Planning, but it does not primarily focus on Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empiricism in decision-making, which aligns with Agile principles of using data for continuous improvement and adapting based on feedback. It mentions the cycle of experimentation, which is relevant to Agile Planning, but does not explicitly focus on Agile methodologies or practices like sprints or user stories. The depth of discussion on data-driven decisions and continuous improvement is substantial, but the primary focus is more on empirical practices than on Agile Planning specifically.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T19:16:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses empiricism and its relevance to Agile methodologies, indicating a connection to Agile principles, but it primarily focuses on the concept of empiricism rather than the core Agile values and principles themselves.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses empiricism as a foundational principle within Agile methodologies, highlighting its importance in decision-making and continuous improvement. It aligns well with Agile values, particularly the emphasis on responding to change and fostering a culture of experimentation. However, while it touches on Agile principles, it does not explicitly reference the Agile Manifesto or its core values, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -397,11 +364,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:39:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses empiricism and data-driven decision-making within an agile context but does not explicitly mention Test First Development or its principles. While it touches on concepts like experimentation and continuous improvement, these are not directly aligned with the core themes of Test First Development, which focuses specifically on defining success criteria and testing practices. The discussion lacks depth regarding Test First methodologies such as TDD or ATDD.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -442,12 +412,15 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-17T19:16:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its relevance to data-driven decision-making, which is a significant aspect of estimation in Agile. However, it does not specifically focus on estimation techniques or practices within Agile or Scrum frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empiricism and data-driven decision-making, which aligns with the principles of estimation in Agile. It mentions the need for access to data and monitoring outcomes, which are relevant to estimation practices. However, it does not explicitly focus on estimation techniques or collaborative practices specific to Agile or Scrum, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -460,21 +433,27 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T19:16:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which relates to Evidence-Based Management principles. However, it does not primarily focus on the Ability to Innovate as a central theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empiricism and data-driven decision-making, which aligns with the principles of Evidence-Based Management. However, while it touches on continuous improvement and the cycle of experimentation, it lacks a direct focus on the broader organisational capacity to innovate or specific frameworks for measuring innovation capabilities. The discussion is insightful but does not delve deeply into the core themes of the Ability to Innovate category.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T19:16:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism and its relevance to Agile practices, indicating a connection to Agile methodologies, but it does not primarily focus on Agile transformation strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of empiricism and its application within Agile practices, particularly emphasising data-driven decision-making and continuous improvement. It aligns well with Agile principles, highlighting the importance of adapting based on real-world feedback. However, while it touches on Agile concepts, it does not delve deeply into specific Agile frameworks or methodologies, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -501,24 +480,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on Scrum Values.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T19:17:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T19:17:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on specific tools, methodologies, or frameworks related to Agile and DevOps practices.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -548,21 +509,12 @@
     "reasoning": "Content primarily discusses the concept of empiricism and its application in Agile methodologies without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T19:17:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T19:17:14",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on working agreements or team collaboration.",
     "level": "Ignored"
   },
@@ -582,15 +534,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and data-driven decision-making, which is not specific to Scrum or its team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T19:17:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on scaling agile practices or frameworks.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -613,11 +556,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:17:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and continuous improvement, which are relevant to Continuous Delivery principles. However, it primarily focuses on empiricism and agile methodologies without explicitly addressing Continuous Delivery practices, tools, or case studies. The discussion lacks depth in terms of specific Continuous Delivery techniques and does not mention automation or deployment strategies, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -631,10 +577,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T19:17:24",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -665,7 +611,7 @@
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without specific reference to the Daily Scrum or its related practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T19:17:31",
     "ai_confidence": 0,
@@ -683,15 +629,6 @@
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T19:17:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of empiricism and its application in decision-making and experimentation, which aligns closely with the themes of discovery and learning in product development.",
-    "level": "Secondary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T19:17:35",
@@ -703,12 +640,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:17:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in agile methodologies, which aligns with the principles of the Agile Product Operating Model, but it does not focus primarily on the model itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and empiricism within an agile context, which aligns with the principles of the Agile Product Operating Model. However, it does not explicitly mention the Agile Product Operating Model or delve deeply into product management practices, focusing instead on general agile methodologies. The discussion on continuous improvement and informed decision-making reflects some core themes of APOM, but lacks specific references to product-oriented frameworks or structures.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -730,12 +670,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T19:17:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of data-driven decision-making, which is a significant aspect of market adaptability, but it primarily focuses on the concept of empiricism rather than directly addressing strategies or methodologies for enhancing market responsiveness.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and the empirical approach within Agile methodologies, which aligns well with the principles of market adaptability. It highlights the continuous cycle of experimentation and observation, emphasising how these practices can enhance responsiveness to market changes. However, while it touches on relevant themes, it does not delve deeply into specific strategies or case studies related to market adaptability, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -748,12 +691,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T19:17:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of having access to data and monitoring outcomes, which relates to transparency in decision-making processes. However, it primarily focuses on empiricism rather than transparency itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of transparency in relation to data access and decision-making, which aligns well with the core themes of the Transparency category. It explicitly mentions transparency as crucial for making informed decisions and building trust with stakeholders. The depth of discussion is significant, as it elaborates on the cycle of experimentation and the role of data in fostering a culture of continuous improvement. However, while transparency is a key aspect, the primary focus is on empiricism and data-driven decision-making, which slightly detracts from a full alignment with the Transparency category.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -766,21 +712,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T19:17:50",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the principles of empiricism and its application in decision-making processes, emphasising the importance of data-driven insights and monitoring outcomes, which aligns well with evidence-based decision-making practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses decision-making through the lens of empiricism and data-driven insights, aligning closely with the principles of evidence-based management. It provides a structured approach to decision-making, detailing the cycle of experimentation and the importance of data in guiding actions. The depth of discussion on monitoring outcomes and fostering continuous improvement further supports its relevance to the category.",
+    "level": "Primary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T19:17:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of empiricism in decision-making, emphasising the importance of observable data and iterative experimentation, which aligns closely with the principles of metrics and learning.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the importance of data-driven decision-making and the empirical approach within Agile methodologies. It directly mentions the role of data in making informed decisions and highlights the continuous cycle of experimentation, which aligns closely with the core themes of the 'Metrics and Learning' category. The depth of discussion is significant, providing a structured breakdown of the experimentation cycle and its relevance to Agile practices. Overall, the content is highly relevant and focused on metrics and learning, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -809,50 +761,53 @@
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on mentoring or coaching in Agile environments.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T19:17:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on AI or automation within Agile frameworks.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T19:17:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of empiricism in decision-making and the importance of data in understanding outcomes, which aligns with sensemaking principles. However, it primarily focuses on the concept of empiricism rather than a broader exploration of sensemaking in complex environments.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and the empirical approach, which aligns with the principles of sensemaking. It highlights how teams can interpret data to make informed decisions, reflecting the core themes of the category. However, while it touches on the concept of navigating complexity, it does not delve deeply into frameworks or models specific to sensemaking, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T19:18:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in Agile decision-making, which aligns with strategic approaches in Agile environments. However, it does not delve deeply into strategic alignment or specific techniques for optimising delivery, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of empiricism and data-driven decision-making within Agile frameworks, which aligns with strategic approaches in Agile. It mentions continuous improvement and informed decision-making, both of which are key themes in the Strategy category. However, while it touches on strategic concepts, it lacks a deeper exploration of how these ideas specifically relate to the strategic alignment of teams and organisational goals, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T19:18:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which relates to evidence-based decision-making in operational contexts. However, it does not focus primarily on operational practices or methodologies like Agile, DevOps, or Lean.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and the empirical approach within Agile methodologies, which aligns well with operational practices. It explicitly mentions the cycle of experimentation, monitoring outcomes, and continuous improvement, all of which are key aspects of enhancing operational efficiency. However, while it provides a solid overview, it lacks specific techniques or metrics that would further deepen the discussion on operational practices.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T19:18:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses empiricism and its relevance to Agile practices, indicating a major but secondary theme related to Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses empiricism and its role in decision-making within an Agile context, highlighting the importance of data-driven decisions and continuous improvement. While it does not explicitly mention the Agile Manifesto or its principles, it aligns well with the core themes of adaptability and collaboration inherent in Agile philosophy. The depth of discussion on the cycle of experimentation and its implications for Agile practices contributes to a strong confidence score.",
+    "level": "Primary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -883,12 +838,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T19:18:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the principles of empiricism and data-driven decision-making, which are relevant to continuous learning and improvement. However, it primarily focuses on the concept of empiricism rather than explicitly addressing continuous learning practices or team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and the cycle of experimentation, which aligns with the principles of Continuous Learning. It highlights the need for informed decisions and continuous improvement, reflecting a growth mindset. However, while it touches on these themes, it does not explicitly focus on knowledge sharing or team dynamics, which are crucial for a higher confidence score.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -919,12 +877,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T19:18:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism and its relevance to Agile methodologies, suggesting a connection to data-driven decision-making in product management, but does not focus specifically on Agile Product Management practices or roles.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empiricism and data-driven decision-making within an agile context, highlighting continuous improvement and informed decisions. However, it lacks specific references to Agile Product Management practices, such as the role of the Product Owner or backlog prioritisation, which limits its depth and direct alignment with the category.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -944,15 +905,6 @@
     "reasoning": "Content primarily discusses empiricism and data-driven decision-making, without a clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T19:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and data-driven decision-making without a clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T19:18:21",
@@ -962,23 +914,17 @@
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T19:18:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without specific references to products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T19:18:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which aligns with the principles of empirical process control. However, it does not delve deeply into Agile methodologies or specific practices related to transparency, inspection, and adaptation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the principles of empiricism and its application in decision-making, aligning closely with the core themes of empirical process control. It highlights the importance of data transparency, continuous experimentation, and adaptation based on observed outcomes, which are central to Agile methodologies. The depth of discussion is substantial, providing a clear cycle of experimentation and its relevance to Agile practices, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -991,20 +937,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:18:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the application of empiricism in decision-making within Agile contexts, highlighting practical, experience-based approaches to problem-solving. However, it primarily focuses on the concept of empiricism rather than a broader discussion on pragmatic thinking in Agile or Scrum frameworks.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the application of empiricism in decision-making within Agile frameworks, highlighting practical strategies for data-driven decisions, continuous improvement, and the importance of real-world feedback. It aligns well with the core themes of pragmatic thinking, particularly in its emphasis on adaptability and evidence-based management practices. The depth of discussion is significant, providing a clear cycle of experimentation that illustrates practical problem-solving techniques.",
+    "level": "Primary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T19:18:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T10:39:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of empiricism and data-driven decision-making within an agile context. While it touches on the importance of data and continuous improvement, it does not explicitly mention Lead Time or its relationship to Cycle Time. The discussion lacks depth regarding Lead Time as a metric, focusing instead on general principles of experimentation and decision-making. Therefore, the content does not align well with the category of Lead Time.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,10 +970,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T19:18:30",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on working software or its delivery.",
     "level": "Ignored"
   },
@@ -1063,21 +1015,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T19:18:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses empiricism in the context of decision-making and its adoption in agile methodologies, making it a major but secondary theme related to software development.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of empiricism and its application within agile methodologies, which aligns with software development practices. However, it primarily focuses on decision-making and data-driven insights rather than specific software development techniques or methodologies. While it touches on the importance of data in agile, it lacks detailed discussions on coding practices, SDLC, or CI/CD, which are core themes of the Software Development category.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T19:18:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, which aligns with evidence-based leadership principles. However, it does not explicitly connect to leadership practices or organisational improvements, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of empiricism and data-driven decision-making, which aligns closely with the principles of Evidence Based Leadership. It provides a detailed exploration of how to gather and analyse data, the cycle of experimentation, and the significance of informed decisions, all of which are core themes of the category. The depth of discussion is substantial, offering practical insights and a structured approach to applying evidence-based practices in leadership contexts.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1090,12 +1048,15 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T19:18:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making processes through the lens of empiricism and data-driven insights, which aligns with decision theory principles. However, it primarily focuses on the application of empiricism in Agile methodologies rather than a comprehensive exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses decision-making processes through the lens of empiricism and data-driven insights, which aligns with the core themes of Decision Theory. It explicitly mentions the importance of data in making informed decisions and outlines a cycle of experimentation that reflects decision-making frameworks. However, while it touches on relevant concepts, it does not delve deeply into heuristics, biases, or the broader implications of behavioural economics, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1113,15 +1074,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on cross-functional teams or their characteristics.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T19:18:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, with only a brief mention of Agile methodologies, making it not central to the role of software developers.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1144,10 +1096,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T19:18:52",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without any focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1158,15 +1110,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on the responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T19:18:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without focusing on specific news, updates, or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1207,10 +1150,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T19:19:10",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on Agile leadership roles or practices.",
     "level": "Ignored"
   },
@@ -1225,56 +1168,62 @@
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T19:19:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of empiricism and its application in decision-making through observable data, which aligns closely with hypothesis-driven experimentation in Agile workflows.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the cycle of experimentation, including hypothesis formulation, action, observation, and repetition, which aligns closely with the core themes of the 'Experimentation' category. It provides a detailed exploration of how data-driven decisions can enhance Agile practices, emphasising the importance of continuous improvement and learning from outcomes. The depth of discussion is significant, as it outlines a clear process and rationale for experimentation within Agile workflows, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T19:19:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and data-driven decision-making, which are relevant to validating product ideas, but it does not focus specifically on user testing or product validation methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and the cycle of experimentation, which aligns with the principles of product validation. However, it lacks direct references to user testing, market fit, or customer feedback loops, which are key topics in the category. The focus is more on general empirical practices rather than specific methodologies for validating product ideas with users.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T19:19:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:38:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a clear focus on throughput or its measurement and optimisation.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and the empirical approach, which indirectly relates to throughput as it emphasises monitoring outcomes and continuous improvement. However, it does not explicitly mention throughput as a delivery metric or provide specific insights into measuring or visualising throughput. The focus is more on general empirical practices rather than on throughput as a distinct concept, leading to a low confidence score.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:19:23",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses empiricism and its relation to data-driven decision-making, which is relevant to Agile principles but does not focus specifically on Scrum or its framework.",
-    "level": "Quaternary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T19:19:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in Agile methodologies, which relates to data-driven decision-making and iterative processes. However, it does not explicitly focus on value delivery strategies or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making within an agile context, which aligns with the principles of iterative development and continuous improvement. It highlights the cycle of experimentation and the need for monitoring outcomes, which are key aspects of value delivery. However, while it touches on relevant themes, it does not delve deeply into specific strategies or methodologies for maximising customer value, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T19:19:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:38:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses empiricism and data-driven decision-making, with no focus on system configuration topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of empiricism and its application in decision-making within agile methodologies. While it touches on data-driven decisions and continuous improvement, it does not directly address system configuration, configuration management tools, or related best practices. The focus is more on general agile practices rather than the specific setup and integration of systems, which is essential for the 'System Configuration' category.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,15 +1244,6 @@
     "reasoning": "Content primarily discusses the concept of empiricism and data-driven decision-making, without a clear focus on product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T19:19:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of empiricism and data-driven decision-making without a clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T19:19:35",
@@ -1315,21 +1255,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T19:19:36",
+    "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of empiricism and its application in decision-making, without a focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T19:19:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in Agile methodologies, indicating a major theme related to decision-making and data-driven insights within an Agile context.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of empiricism in decision-making within an Agile context, highlighting how data-driven insights can enhance adaptability and continuous improvement. It aligns well with Agile principles, particularly in fostering a culture of informed decision-making and responsiveness to change. However, while it touches on Agile methodologies, it does not delve deeply into strategic planning or leadership roles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1351,12 +1294,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:19:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and its application in agile methodologies, indicating a focus on data-driven decision-making which aligns with organisational agility principles. However, it does not delve deeply into broader organisational agility strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empiricism and data-driven decision-making, which aligns with the principles of agility, particularly in fostering a culture of continuous improvement and informed decision-making. However, while it touches on agile concepts, it does not explicitly focus on organisational agility as a primary theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1369,11 +1315,441 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T19:19:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of empiricism and data-driven decision-making, which aligns with Lean Startup principles, but it does not explicitly focus on Lean Startup methodologies or the iterative learning process central to it.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the empirical approach to decision-making and experimentation, which aligns with Lean Startup principles. However, it does not explicitly mention Lean Startup concepts like MVP or the Build-Measure-Learn loop. The focus is more on general agile methodologies rather than specifically on Lean Startup, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:52:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses empiricism and its application in decision-making, with no focus on Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:52:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses empiricism and data-driven decision-making without a clear focus on AI applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the concept of empiricism, which is relevant to Scrum's emphasis on empirical process control. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum principles or practices. The focus is more on general decision-making and data-driven insights rather than specific Scrum methodologies.",
     "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses empiricism and data-driven decision-making within an agile context but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on continuous improvement and informed decisions, these concepts are not directly tied to integrating testing, security, or compliance earlier in the software development lifecycle, which is the core focus of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the importance of data-driven decisions and the cycle of experimentation, which are key aspects of Continuous Improvement. It highlights how empirical evidence can lead to informed decisions and foster a culture of continuous improvement. However, while it aligns well with the principles of Continuous Improvement, it does not delve deeply into specific strategies or case studies, which slightly limits the depth of discussion.",
+    "level": "Primary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making within an agile context, which aligns with the principles of continuous improvement and informed decision-making. However, it does not explicitly mention Common Goals or their significance in aligning strategy with execution. The focus is more on the empirical approach rather than on shared objectives or team alignment, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and continuous improvement, which aligns with the principles of competence in Agile methodologies. It mentions the need for deliberate actions and monitoring outcomes, reflecting a commitment to skill development and quality delivery. However, while competence is a significant theme, the primary focus is on empiricism and data rather than directly on competence itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of empiricism and its application in agile methodologies, without directly addressing the One Engineering System framework or its principles. While it touches on data-driven decision-making, it does not explore integration, standardisation, or the specific components of 1ES, which are essential for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses data-driven decision-making and the importance of empiricism in agile practices, which aligns with the principles of Agentic Agility. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The discussion is more about general agile practices rather than a deep exploration of Agentic Agility.",
+    "level": "Tertiary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:38:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the importance of data-driven decision-making within an agile framework, which aligns closely with the principles of continuous improvement and iterative processes in product development. It highlights the cycle of experimentation, which is a core aspect of agile methodologies, and emphasises the role of empirical evidence in making informed decisions. The depth of discussion on how to implement these practices and the focus on adapting based on feedback further supports its relevance to product development. However, while the content is strong, it does not delve deeply into specific product strategies or cross-functional team dynamics, which slightly lowers the overall confidence score.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:38:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses empiricism and data-driven decision-making within an agile context, but it does not explicitly mention Open Space Agile or its principles. While it touches on themes of continuous improvement and informed decision-making, which are relevant to agile methodologies, it lacks a direct focus on the collaborative and participatory aspects of Open Space Agile. The depth of discussion is primarily centred on empirical processes rather than the specific practices or challenges of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:38:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of empiricism and its application in agile practices, which aligns with the principles of Agnostic Agile. However, it does not explicitly mention Agnostic Agile or its key themes, focusing instead on data-driven decision-making without a clear connection to the broader philosophy of adapting agile methods contextually. The depth of discussion is limited to the empirical cycle without exploring comparisons to specific frameworks or ethical considerations.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:38:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of empiricism and its application in decision-making within an agile context. While it touches on the importance of data-driven decisions and continuous improvement, it does not explicitly address scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The discussion lacks a direct focus on scaling Agile practices or the specific challenges and strategies associated with scaling, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of scaling, despite some relevant concepts being mentioned.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:38:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of empiricism and its application in data-driven decision-making within agile methodologies. It does not mention or align with the principles of Cell Structure Design, nor does it explore the characteristics of autonomous cells or decentralised structures. The focus is on individual decision-making processes rather than organisational design models.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:38:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the concept of empiricism and its application in agile methodologies, focusing on data-driven decision-making. While it touches on themes of continuous improvement and informed decision-making, it does not explicitly mention Liberating Structures or their specific techniques. The discussion lacks depth regarding facilitation techniques or group dynamics, which are central to the Liberating Structures category. Therefore, the content is only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:38:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and continuous improvement within an agile context, which indirectly relates to Time to Market. However, it does not explicitly mention Time to Market or its associated metrics, nor does it provide detailed strategies for improving it. The focus is more on the empirical approach rather than the speed of delivering value to customers.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:38:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and continuous improvement, which are relevant to the principles of CaaP. However, it lacks direct mentions of organisational design or customer-centric strategies, and the depth of discussion does not fully explore the CaaP framework. The focus is primarily on empirical methods rather than on treating the company itself as a product, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:38:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of empiricism and its application in agile methodologies, focusing on data-driven decision-making. While it touches on themes relevant to Agile, it does not mention GitHub or its functionalities, nor does it provide insights into GitHub services or practices. Therefore, it lacks direct mentions and depth related to GitHub, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:38:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of empiricism and its application in data-driven decision-making within agile methodologies. While it touches on the importance of data and continuous improvement, it does not explicitly mention 'Unrealised Value' or its indicators, nor does it explore untapped opportunities or potential innovations. The focus is more on the process of making informed decisions rather than identifying or measuring unrealised value within an organisation.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:38:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making and the empirical approach, which aligns with the principles of Current Value in Evidence-Based Management. It mentions the need for access to data, monitoring outcomes, and making informed decisions, which are relevant to assessing Current Value. However, while it touches on these themes, it does not explicitly define Current Value or provide specific metrics or case studies related to it, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:38:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of empiricism and data-driven decision-making within an agile context. However, it does not explicitly mention Hybrid Agile or engage with the specific challenges and implications associated with merging traditional project management methodologies with agile practices. The discussion lacks depth regarding the core themes of Hybrid Agile, such as the conflicts between leadership and delivery teams or the preservation of command-and-control structures. Overall, while it touches on agile principles, it does not critically examine Hybrid Agile as a category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:38:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of empiricism and its application in decision-making, particularly within an agile context. While it does touch on aspects of project management, such as data-driven decisions and continuous improvement, it primarily focuses on the empirical approach rather than core project management principles or methodologies. The mention of agile indicates some alignment, but the depth of discussion is more about the empirical process than comprehensive project management strategies.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 57.0,
+    "ai_mentions": 2,
+    "ai_alignment": 65.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 57.0,
+    "reasoning": "The content discusses empiricism and data-driven decision-making, which are related to the broader themes of models and frameworks in Agile. However, it does not explicitly mention specific models or frameworks such as the Cynefin Framework or Lean principles, which would strengthen its relevance to the 'Model' category. The discussion of the cycle of experimentation hints at a model of learning, but lacks depth in detailing any established frameworks, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily addresses the concept of empiricism and data-driven decision-making within agile methodologies but does not explicitly discuss artifacts such as Product Backlogs or Sprints. While it references the importance of data transparency and continuous improvement, it lacks direct focus on the structure and management of specific artifacts, which is essential for higher confidence in this classification.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses empiricism and data-driven decision-making within an Agile context but does not focus on specific tools that facilitate these processes. While there are mentions of concepts like transparency and continuous improvement, there is no in-depth discussion of any specific tool or its features, implementation practices, or comparative analyses that would align it with the 'Tool' category. Therefore, it presents moderate conceptual alignment with the general usage of tools in Agile but lacks the necessary depth and direct mentions.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 47.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 47.0,
+    "reasoning": "While the content discusses the principles of empiricism and how it supports decision-making within agile methodologies, it does not primarily focus on values that influence team dynamics or organizational behavior. The explicit mention of continuous improvement and building trust hints at values, but these themes are not deeply explored or philosophically examined in relation to organizational culture. Therefore, while there is a connection to the category, it does not provide a strong focus on values as defined by the guidelines.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content discusses empirical decision-making as a vital aspect of Agile, it does not focus specifically on any established Agile frameworks like Scrum or Kanban. The mentions of Agile are present but serve more as a context for the principles of empiricism rather than a deep exploration of frameworks themselves. The alignment with the core themes around continuous improvement and data-driven decision-making suggests some relevance, but the overall depth is limited as it lacks a structured discussion around guidelines or implementation strategies of specific frameworks.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 74.0,
+    "ai_mentions": 12,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 74.0,
+    "reasoning": "The content discusses an empirical approach to decision-making, which aligns with the themes of continuous improvement and deliberate actions in team practices. While it doesn't directly mention specific practices like retrospectives or pair programming, the emphasis on data-driven decisions and continuous experimentation supports the concept of improving team effectiveness. The discussion depth is reasonable as it breaks down a cycle of action, observation, and adjustment, which is relevant to practice. However, specific actionable techniques are lacking, preventing a higher score.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses empiricism and its role in data-driven decision-making, specifically within the agile context. While it provides insights into the philosophy of empiricism, it focuses on the practices of making decisions based on data rather than exploring the foundational beliefs that guide these practices. The discussion on continuous improvement and trust building touches on broader cultural aspects relevant to organizational philosophy but does so primarily in the context of how empiricism is applied in practice, making it less aligned with the philosophical exploration expected in the category.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 8,
+    "ai_alignment": 78.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the process of making data-driven decisions and the importance of continuous improvement, which are closely aligned with the concept of Capability. It emphasizes empirical practices that empower teams to adapt and improve, reflecting an enduring capability rather than transient tools or techniques. While it does not strictly define 'capabilities' as per the category, it effectively illustrates concepts promoting better decision-making and team dynamics, which are core to enhancing organisational performance. The depth of discussion on experimentation and monitoring outcomes adds to its relevance, though some aspects could be more explicitly tied to the broader framework of capabilities.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 76.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content extensively discusses empiricism within the context of Agile, linking it to data-driven decision-making and continuous improvement, which are key tenets of Agile methodology. It emphasizes the importance of evidence-based actions and monitoring outcomes, aligning closely with the principles of accountability and iterative learning. While it does not explicitly mention Agile tenets as guidelines, the practices outlined strongly correlate with actionable rules in Agile and Lean frameworks, demonstrating a good depth of discussion on the subject.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses a structured approach to decision-making through the lens of empiricism, closely aligning with iterative and experimental methods as seen in Agile practices. It explicitly details a step-by-step cycle of hypothesis, action, observation, and repetition, which are fundamental elements of scientific experimentation and correlate with Agile methodologies. However, while the piece addresses methodologies rooted in empiricism, it does not thoroughly explore established methods like Scrum or Kanban, which slightly lowers its alignment and depth score.",
+    "level": "Secondary"
+  },
+  "Observability": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content emphasizes the importance of data-driven decisions and monitoring outcomes, which are key aspects of observability. However, it primarily focuses on empiricism and decision-making in a general sense rather than on observability as a distinct technical practice. While there are mentions of concepts related to observation and data collection, it does not delve deeply into metrics, logs, traces, or specific tools that enhance observability. The discussion aligns somewhat with the principles of observability but lacks the necessary technical depth and specific focus on observability practices.",
+    "level": "Secondary"
+  },
+  "Principle": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 92.0,
+    "reasoning": "The content is primarily focused on the principle of empiricism, detailing how it is applied in decision-making processes within Agile methodologies. It discusses the foundational aspects of empiricism, the steps to implement it, and emphasizes its importance for informed decision-making and continuous improvement, aligning closely with the core themes of the category. The description also provides a detailed examination of the empirical cycle, thus showing depth in discussing actionable principles that guide decision-making.",
+    "level": "Primary"
+  },
+  "Discipline": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:46",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the principles of empiricism and its relevance to agile methodologies, aligning with the themes of disciplined decision-making and continuous improvement. However, while it touches on the importance of data-driven decisions and the scientific cycle of experimentation, it lacks deeper engagement with the governance structures, ethical considerations, or the systemic maturation of disciplines beyond the agile context. Therefore, while the core themes are present and substantial, the specific application to broader disciplinary frameworks is limited.",
+    "level": "Secondary"
   }
 }

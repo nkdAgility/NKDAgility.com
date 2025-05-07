@@ -2,42 +2,41 @@
 title: Why is Lego a shit idea for a Scrum trainer - Part 2
 description: Martin Hinshelwood critiques the use of LEGO in Scrum training, explaining why it's a poor choice for professional Scrum trainers. Discover more in Part 2!
 date: 2023-10-04T11:24:58Z
+weight: 1000
 ResourceId: mqgffRQi6bY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: mqgffRQi6bY
 source: internal
 url: /resources/videos/:slug
-slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
 layout: video
 preview: https://i.ytimg.com/vi/mqgffRQi6bY/maxresdefault.jpg
 duration: 51
 isShort: true
 aliases:
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
-- /resources/videos/mqgffRQi6bY
 - /resources/mqgffRQi6bY
-aliasesFor404:
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
+aliasesArchive:
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Complexity Thinking
+tags: []
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
-- Product Management
+- Uncategorized
 
 ---
 ## Confronting Complexity 
 
-In Part 2 of this exploration, we dive deeper into another pivotal reason that makes Lego a less-than-ideal tool in Scrum training.  
+In Part 2 of this exploration, we dive deeper into another pivotal reason that makes Lego a less-than-ideal tool in [Scrum]({{< ref "/categories/scrum" >}}) training.  
 
 The challenge? Acknowledging complexity. 🤯🚀 
 
@@ -49,7 +48,7 @@ A fundamental idea we aim to instil is understanding the nuanced complexity of c
 
 Navigating the world of Scrum training, we often encounter tools that aim to elucidate concepts, yet sometimes, as with Lego, we find ourselves facing an oversimplification of the intricate realities we aim to convey. 
 
-- Uniformity Over Variance 🧱: Lego pieces, designed to fit perfectly, oversimplify the intricate, often messy, world of software development. 
+- Uniformity Over Variance 🧱: Lego pieces, designed to fit perfectly, oversimplify the intricate, often messy, world of [software development]({{< ref "/tags/software-development" >}}). 
 
 - Incompatibility Issues 💻: Real-world software pieces, unlike Lego, are notorious for their integration challenges, something Lego fails to emulate. 
 

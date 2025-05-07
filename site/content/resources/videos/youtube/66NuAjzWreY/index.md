@@ -2,8 +2,10 @@
 title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
 description: Discover how Evidence-Based Management (EBM) empowers organisations to make informed, data-driven decisions that enhance outcomes and drive success.
 date: 2024-09-11T13:36:29Z
+weight: 690
 ResourceId: 66NuAjzWreY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 66NuAjzWreY
@@ -14,15 +16,17 @@ preview: https://i.ytimg.com/vi/66NuAjzWreY/maxresdefault.jpg
 duration: 414
 isShort: false
 aliases:
-- /resources/mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/videos/introduction-to-evidence-based-management
-- /resources/videos/66NuAjzWreY
-- /resources/introduction-to-evidence-based-management
 - /resources/66NuAjzWreY
-aliasesFor404:
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/videos/introduction-to-evidence-based-management
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-don-t-control
+aliasesArchive:
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/videos/introduction-to-evidence-based-management
 - /resources/introduction-to-evidence-based-management
+- mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-don-t-control
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,10 +34,15 @@ tags:
 - Evidence Based Management
 - Decision Making
 - Evidence Based Leadership
+- Metrics and Learning
+- Operational Practices
+- Pragmatic Thinking
+- Value Delivery
 resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Product Management
 
 ---
@@ -69,7 +78,7 @@ Before diving into metrics, you need to establish **what outcomes you want to ac
 
 - 📈 **Increased revenue**
 
-- 💡 **Enhanced value delivery** to customers
+- 💡 **Enhanced [value delivery]({{< ref "/tags/value-delivery" >}})** to customers
 
 - 💵 **Cost savings**
 
@@ -145,7 +154,7 @@ Data doesn’t always tell the whole story. There will be **gaps and unknowns**.
 
 By adopting an evidence-based approach, your organization can enjoy several benefits:
 
-- 🚀 **Better alignment** between strategic goals and day-to-day actions.
+- 🚀 **Better alignment** between [strategic goals]({{< ref "/tags/strategic-goals" >}}) and day-to-day actions.
 
 - 💬 **Improved communication** as data becomes a common language for decision-making.
 
@@ -155,7 +164,7 @@ By adopting an evidence-based approach, your organization can enjoy several bene
 
 ### **Personal Advice from the Field**
 
-As a Scrum Trainer, I’ve seen firsthand the transformative power of EBM in organizations. It’s not about hitting a specific number every time—it’s about using data to **guide meaningful conversations** and **adjust your course** when needed.
+As a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve seen firsthand the transformative power of EBM in organizations. It’s not about hitting a specific number every time—it’s about using data to **guide meaningful conversations** and **adjust your course** when needed.
 
 Remember, it’s okay if the data doesn’t always tell you what you want to hear. 📊 It’s a tool to help you get closer to your goals, not a measure of your worth or your team’s value.
 

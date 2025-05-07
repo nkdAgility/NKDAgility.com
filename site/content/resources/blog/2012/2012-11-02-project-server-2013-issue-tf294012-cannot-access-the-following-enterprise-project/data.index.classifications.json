@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T15:13:48",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T15:13:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific issue related to Project Server 2013 and provides a practical solution involving permissions management and PowerShell commands, which aligns with the exploration and application of tooling in a DevOps context.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T15:13:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T15:13:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific error related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions rather than code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T15:13:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific technical issue related to Project Server 2013 and does not focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T15:13:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server 2013 and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the discussion lacks depth in relation to data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T15:13:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring Project Server 2013 and Team Foundation Server, including specific steps to resolve a permissions issue and switch permission modes, which aligns with installation and configuration topics.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error related to Project Server 2013 and provides a detailed solution involving configuration changes. It discusses the necessary steps to switch permission modes, which is a critical aspect of installation and configuration. The content includes direct mentions of installation-related issues, configuration settings, and specific commands to execute, demonstrating a strong alignment with the category. However, while it is detailed, the discussion could be more structured as a step-by-step guide, which slightly affects the depth score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T15:14:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T15:14:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T15:14:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Project Server and Team Foundation Server, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Project Server 2013 and Team Foundation Server, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it touches on aspects of project management and permissions, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,39 +98,21 @@
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and does not focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T15:14:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and does not reference any events, presentations, or discussions relevant to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-14T15:14:14",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific error related to Project Server 2013 and does not address flow efficiency principles, bottlenecks, or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T15:14:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server without focusing on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-14T15:14:20",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, without addressing broader themes of enterprise agility or organisational adaptability.",
     "level": "Ignored"
   },
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T15:14:23",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to Project Server and Team Foundation Server, including permissions management and a PowerShell solution, which aligns with technical practices. However, it primarily focuses on troubleshooting rather than broader engineering methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management. While it touches on technical aspects, such as the need for correct permission modes and the use of PowerShell commands, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The mention of switching permission modes is relevant but does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,20 +193,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T15:14:38",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T15:14:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, without focusing on reviews, analyses, or discussions of products or literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -305,7 +236,7 @@
     "reasoning": "Content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on error resolution and permissions management, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T15:14:53",
     "ai_confidence": 0,
@@ -316,11 +247,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T15:14:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server 2013 and Team Foundation Server, with no direct mention of agile methodologies, product management principles, or the Agile Product Operating Model. The discussion is centred around permissions and access management, which does not align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +266,13 @@
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T15:14:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue and solution related to Project Server 2013, lacking a focus on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T15:15:01",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific error related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions rather than the broader scope of Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T15:15:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses an issue related to Project Server 2013 and Team Foundation Server, with no mention of Scrum principles, roles, events, or practices.",
+    "reasoning": "Content primarily discusses a specific error related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions rather than the broader scope of Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +286,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T15:15:14",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical issue related to Project Server and Team Foundation Server, including troubleshooting steps and a solution involving permission management. While it touches on technical aspects, it primarily focuses on a specific problem rather than broader principles of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management. While it does touch on technical aspects, such as the need for proper permissions and the use of PowerShell commands, it lacks a broader discussion on software craftsmanship, best practices, or methodologies that would align it more closely with the 'Technical Mastery' category. The depth of discussion is limited to a specific problem and its solution, rather than exploring overarching principles of software engineering.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +316,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T15:15:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to Project Server 2013 and Team Foundation Server, with no mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Project Server 2013 and Team Foundation Server, with no direct mention of Continuous Delivery principles or practices. While it discusses software management and permissions, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. The depth of discussion is limited to troubleshooting a specific issue, which does not contribute to the understanding of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,19 +355,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T15:15:29",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an issue related to Project Server 2013 and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-14T15:15:31",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, without focusing on portfolio management practices or strategic alignment.",
     "level": "Ignored"
   },
@@ -487,19 +409,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management rather than operational efficiency or practices.",
-    "level": "Quaternary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management. While it touches on operational aspects, such as switching permission modes, it lacks a broader discussion on operational practices, methodologies, or strategies aimed at enhancing efficiency within Agile, DevOps, or Lean frameworks. The content does not provide detailed insights into process optimisation or continuous improvement, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T15:15:43",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no focus on Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
@@ -559,10 +484,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T15:15:58",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -586,28 +511,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to Project Server and Team Foundation Server, which involves software configuration and permissions management. While it touches on software development tools and practices, the primary focus is on troubleshooting rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T15:16:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on agile methodologies or principles.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific issue related to Project Server 2013 and Team Foundation Server, which are tools used in software development. It provides a detailed account of troubleshooting a specific error and offers a solution involving permission management, which aligns with software development practices. However, the focus is more on resolving a specific technical issue rather than broader software development methodologies or best practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T15:16:07",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +620,6 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to Project Server 2013, without any focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T15:16:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no mention of Scrum principles, frameworks, or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-14T15:16:25",
@@ -726,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and does not address psychological safety or its related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T15:16:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on scaling agile practices or methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,11 +685,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T15:16:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to a specific error in Project Server 2013, detailing real-world applications and solutions that align with Agile and DevOps principles.",
+    "reasoning": "The content discusses a specific technical issue related to Project Server 2013 and provides a practical solution based on real-world experience. It highlights problem-solving strategies and the importance of understanding permissions in a complex environment, which aligns with the core themes of pragmatic thinking. However, the discussion is primarily focused on a specific error and its resolution rather than broader Agile, Scrum, or DevOps principles, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +706,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T15:16:41",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions rather than innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T15:16:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Project Server and Team Foundation Server, with no clear connection to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T15:16:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no reference to Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,10 +751,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T15:16:53",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific error in Project Server 2013 and troubleshooting steps, rather than focusing on the delivery of functional software or Agile principles.",
     "level": "Ignored"
   },
@@ -919,10 +805,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-14T15:17:04",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an issue related to Project Server 2013 and Team Foundation Server, with no focus on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -955,10 +841,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-14T15:17:09",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting an error in Project Server 2013 and does not focus on release management processes or practices.",
     "level": "Ignored"
   },
@@ -1000,19 +886,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-14T15:17:21",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no clear focus on change management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T15:17:22",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no clear focus on team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1034,7 +920,7 @@
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, without a focus on digital transformation strategies or the integration of digital technologies for business enhancement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T15:17:27",
     "ai_confidence": 0,
@@ -1043,22 +929,16 @@
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on Minimum Viable Product concepts or related methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T15:17:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T15:17:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring permissions in Project Server 2013, which aligns with system configuration practices. It provides specific instructions and solutions related to system setup and configuration management.",
+    "reasoning": "The content primarily discusses a specific issue related to configuring Project Server 2013 and Team Foundation Server, including troubleshooting permission settings and providing a solution through PowerShell commands. It directly addresses configuration management and optimisation strategies, aligning well with the core themes of the category. However, while it provides a detailed account of the problem and solution, the depth of discussion on broader best practices and methodologies for system configuration is somewhat limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,21 +979,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T15:17:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to Project Server 2013 and Team Foundation Server, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific error related to Project Server 2013 and does not mention Test First Development or its principles. There is no focus on success criteria, testing practices, or any related concepts that align with Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses an issue related to Project Server 2013, which operates within the Windows environment, but the focus is more on Project Server and Team Foundation Server rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses an issue related to Project Server 2013 and Team Foundation Server, which are applications that run on Windows. However, it does not focus on the Windows operating system itself, such as installation, configuration, or troubleshooting of Windows. While there are mentions of Windows in the context of URLs and PowerShell commands, the main discussion revolves around specific software functionalities rather than the Windows environment as a whole. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it does not meet the criteria for a primary focus.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1135,19 +1021,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T15:17:44",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and does not address team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-14T15:17:45",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1162,11 +1048,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T15:17:48",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the identification and resolution of a specific error (TF294012) encountered in Project Server 2013, detailing the troubleshooting steps taken to resolve the issue, including permission management and configuration changes.",
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses a specific error (TF294012) encountered in Project Server 2013, detailing the steps taken to identify and resolve the issue. It provides a clear problem statement, describes the troubleshooting process, and offers a solution involving permission management. The depth of discussion includes personal experiences and references to documentation, which enhances the practical application of troubleshooting techniques. Overall, the content aligns well with the key topics of the Troubleshooting category.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1180,11 +1069,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T15:17:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no reference to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to Project Server 2013 and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of Scrum or agile principles, and the depth of discussion is focused on troubleshooting rather than any aspect of Scrum methodology.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,20 +1090,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-14T15:17:54",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and does not address working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-14T15:17:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific error related to Project Server and Team Foundation Server, without focusing on the role of software developers in Agile or DevOps contexts.",
+    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and does not address working agreements or team collaboration principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1252,19 +1135,19 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-14T15:18:03",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, lacking a focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-14T15:18:04",
+    "calculated_at": "2025-04-10T15:55:24",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1214,6 @@
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and does not address accountability or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T15:18:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T15:18:17",
@@ -1360,11 +1234,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:49:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Project Server 2013 and Team Foundation Server, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks depth in addressing any of the key topics outlined for the Social Technologies category, such as self-organisation or collective intelligence. The content is more aligned with technical troubleshooting rather than the principles of social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1251,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Project Server 2013 and Team Foundation Server, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:21:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses an issue related to Project Server and Team Foundation Server, without focusing on the concept of Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:21:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to Project Server and Team Foundation Server, with no direct mentions of Scrum principles, roles, events, or practices. While it touches on project management concepts, it does not align with the core themes of Scrum, nor does it provide any depth in discussing Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific error related to Project Server 2013 and Team Foundation Server, focusing on troubleshooting and permissions management. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion lacks depth regarding proactive measures or methodologies that would typically be associated with a Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in Project Server 2013 and does not discuss Continuous Improvement principles or practices. While it provides a solution to a technical issue, it lacks any mention of empirical evidence, data-driven decision-making, or a culture of experimentation, which are core to Continuous Improvement. The discussion is narrowly focused on resolving a technical problem rather than reflecting on processes or fostering team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in Project Server 2013 and does not discuss Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Project Server 2013 and does not discuss competence, continuous learning, or skill development. While it touches on the importance of permissions and settings, it lacks a broader discussion on competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific error in Project Server 2013 and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and procedural, lacking any exploration of the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

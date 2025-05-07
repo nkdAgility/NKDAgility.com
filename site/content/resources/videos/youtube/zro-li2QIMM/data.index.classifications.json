@@ -1,23 +1,17 @@
 {
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T14:27:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and personal motivations rather than AI applications.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 52.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of helping others and fostering success within organizations in an agile context, which aligns with themes of collaboration and shared ownership, but it is not the primary focus.",
+    "final_score": 52.0,
+    "reasoning": "The content briefly mentions Agile and the desire to help others succeed, which aligns with the themes of teamwork and collaboration. However, it lacks specific techniques or strategies for improving team dynamics and does not delve deeply into the core topics of the category. The focus is more on individual interactions rather than collective team collaboration.",
     "level": "Tertiary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T14:27:20",
     "ai_confidence": 0,
@@ -37,11 +31,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T14:27:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:28:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal motivations and general agile discussions without focusing on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal empowerment, community impact, and the sharing of knowledge rather than discussing throughput as a delivery metric. There are no direct mentions of throughput, nor does it delve into the analysis or visualisation of throughput metrics. While it touches on agile practices, it does not provide any specific insights or discussions related to throughput, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Scrum Values": {
@@ -91,11 +88,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-12T14:27:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses helping others in the agile space and the desire to support their success, which aligns with mentoring principles. However, it lacks specific techniques or strategies for mentoring, making it a secondary theme rather than the primary focus.",
+    "final_score": 62.0,
+    "reasoning": "The content mentions a willingness to help others and discusses the desire for organizational success in Agile, which aligns with mentoring principles. However, it lacks explicit discussions on mentoring techniques, coaching, or leadership development, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
@@ -109,12 +109,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses helping organisations succeed in Agile, which aligns with pragmatic problem-solving in a real-world context, but it is more focused on personal motivations and informal discussions rather than specific strategies or techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions Agile and the intention to help solve problems, indicating a practical approach. However, it lacks detailed discussion on specific pragmatic strategies or real-world applications, which limits its depth and alignment with the core themes of the category.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -136,10 +139,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T14:27:39",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal motivations for helping others in agile contexts, without a clear focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -154,10 +157,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T14:27:42",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal motivations and general conversations about Agile without focusing on specific Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -172,12 +175,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:27:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile concepts and personal motivations without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses agile practices and the importance of collaboration and empowerment within organisations, which aligns with the Scrum Master's role. However, it lacks direct references to specific Scrum methodologies or the distinct responsibilities of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -190,10 +196,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T14:27:48",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses personal motivations and informal discussions about Agile without focusing on specific Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -217,20 +223,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T14:27:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal motivations and informal conversations about agile, lacking a focus on empirical evidence or structured management practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on inviting individuals to discuss agile and technical challenges in a general sense, without explicitly addressing Evidence-Based Management principles or metrics. While it touches on themes of empowerment and community impact, it lacks direct references to empirical decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile practices and their impact on organisational success, indicating a major but secondary theme related to organisational change.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions agile and organisational success, indicating a focus on helping organisations improve. However, it lacks detailed discussion on specific frameworks, methodologies, or the principles of organisational change. The mention of 'agile' is too vague and does not delve into the core themes of organisational change, such as leadership roles or overcoming resistance. Overall, while there is some alignment with the category, the depth and explicit focus are insufficient for a higher confidence score.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -262,11 +274,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:27:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile principles and personal motivations rather than Continuous Delivery practices or methodologies.",
+    "calculated_at": "2025-03-21T18:12:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices and personal empowerment rather than focusing on Continuous Delivery principles. While it touches on themes of collaboration and improvement, it lacks direct mentions of Continuous Delivery, automation, or specific practices related to software delivery cycles.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -289,12 +304,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses helping organisations succeed in Agile, which aligns with the theme of Agile Leadership, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of empowerment, collaboration, and community impact within Agile practices, which aligns well with Agile Leadership principles. It emphasises the role of leaders in fostering a supportive environment and encourages open conversations to tackle challenges, reflecting a strong understanding of Agile leadership dynamics. However, while it touches on key themes, it lacks a more structured exploration of specific leadership strategies or techniques, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -325,12 +343,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of helping others and fostering success in Agile environments, which aligns with Agile values of collaboration and customer-centricity. However, it does not delve deeply into the core values or principles of Agile, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of empowerment, collaboration, and community impact, which align with Agile values. However, it lacks direct references to the Agile Manifesto or specific Agile principles, making it more of a general discussion on Agile practices rather than a focused exploration of Agile values and principles.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -343,19 +364,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T14:28:09",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal motivations and general agile conversations without focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T14:28:11",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal motivations and general agile conversations, without focusing on the Definition of Done or its criteria.",
     "level": "Ignored"
   },
@@ -368,32 +389,17 @@
     "reasoning": "Content primarily discusses personal motivations and general agile principles without a focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile in a general sense and mentions helping organizations succeed in Agile, but it does not focus specifically on the role of software developers or their practices within Agile frameworks.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T14:28:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal motivations and informal discussions about Agile without focusing on scaling practices or frameworks.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile methodologies and the importance of success in agile practices, but it primarily focuses on personal motivations and informal discussions rather than concrete software development practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile practices and their impact on organisations, which aligns with software development methodologies. However, it focuses more on personal motivation and community impact rather than specific software engineering practices or detailed methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -424,12 +430,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of helping organizations succeed in Agile, which aligns with the theme of fostering an Agile culture and supporting continuous value delivery. However, it lacks a detailed exploration of Agile strategies or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of agile practices and their impact on organisational success, which aligns with the core themes of Agile Strategy. However, it lacks specific strategic discussions or detailed methodologies, focusing more on personal engagement and empowerment rather than a structured approach to Agile strategy implementation.",
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -442,12 +451,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Agile in organisations and the speaker's desire to help others succeed in Agile, indicating a major but secondary theme related to Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses agile practices and their impact on organisations, highlighting empowerment and community impact, which aligns with Agile Transformation principles. However, it lacks specific methodologies or frameworks and does not delve deeply into change management or leadership roles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -557,15 +569,6 @@
     "reasoning": "Content heavily discusses agile principles and personal motivations rather than Azure Pipelines or related CI/CD practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of agile in organisations and the speaker's desire to help others succeed in agile, but lacks specific details on agile methodologies or practices.",
-    "level": "Tertiary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-12T14:28:45",
@@ -604,12 +607,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the importance of helping others and fostering success within organisations, which aligns with team motivation themes, but it is primarily focused on personal motivations and charitable actions rather than specific strategies for enhancing team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empowerment, collaboration, and community impact, which are key aspects of team motivation. It explicitly mentions the desire to help others succeed and fosters a culture of collaboration and innovation. However, while it touches on these themes, it does not delve deeply into specific strategies or practices for enhancing team dynamics, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -649,12 +655,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of helping others succeed in Agile, which aligns with the values of collaboration and customer satisfaction, but it is not primarily focused on the Agile Philosophy itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agile practices in empowering individuals and fostering collaboration, which aligns with the Agile Philosophy. However, it primarily focuses on personal engagement and community impact rather than delving deeply into the foundational principles of Agile or the Agile Manifesto. The mention of agile practices is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -667,11 +676,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T14:29:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal motivations for helping organizations with agile practices, without a focus on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T09:19:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on inviting individuals to discuss agile and technical challenges in a general sense, without any explicit mention of Lead Time or its related concepts. While it touches on themes of empowerment and collaboration within agile practices, it does not delve into the specifics of Lead Time as an observability metric, its measurement, or strategies for optimisation. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -681,15 +693,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses general agile practices and personal motivations rather than specific principles or practices of Behaviour Driven Development.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T14:29:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal motivations and general agile concepts without a clear focus on Scrum principles or product development.",
     "level": "Ignored"
   },
   "Product Strategy": {
@@ -712,10 +715,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T14:29:11",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile practices and personal motivations rather than technical mastery or software craftsmanship.",
     "level": "Ignored"
   },
@@ -748,12 +751,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses helping others and fostering success in agile environments, which aligns with the principles of Continuous Learning, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on Agile discussions and the desire to help others succeed, which aligns with the principles of Continuous Learning. However, it lacks explicit mentions of growth mindset, knowledge sharing, or detailed practices that promote continuous improvement. The focus is more on offering assistance rather than exploring the core themes of Continuous Learning.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -793,29 +799,23 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T14:29:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:28:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile methodologies and personal motivations rather than system configuration topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile practices and personal empowerment rather than system configuration. While it mentions 'technical challenges', it does not delve into specific system configuration topics such as configuration management tools, optimisation techniques, or best practices for maintaining system setups. The discussion is more about general support and collaboration rather than the technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T14:29:25",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile practices and personal motivations rather than technical debt management or its implications.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T14:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal motivations for helping organisations with agile, without a clear focus on scaling Scrum principles or practices.",
+    "reasoning": "Content primarily discusses Agile practices and personal motivations rather than technical debt management or its implications.",
     "level": "Ignored"
   },
   "Remote Working": {
@@ -854,15 +854,6 @@
     "reasoning": "Content does not discuss backlog refinement or related Agile practices; it focuses on personal motivations and general discussions about Agile without specific reference to backlog management.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T14:29:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal motivations for helping others in agile without addressing scaling agility frameworks, practices, or organisational strategies.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
     "calculated_at": "2025-02-12T14:29:37",
@@ -874,12 +865,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the importance of helping organisations succeed in agile, which implies a cultural aspect of support and collaboration, but it primarily focuses on personal motivations and interactions rather than a deep exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of organisational culture in the context of Agile practices, particularly focusing on empowerment, collaboration, and continuous improvement. It highlights how a thriving organisation positively impacts its employees and the community, aligning well with the core themes of the category. However, while it touches on cultural aspects, the primary focus remains on personal engagement and technical challenges, which slightly diminishes the depth of discussion specifically on organisational culture.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -892,12 +886,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses helping others and facilitating success in agile environments, which aligns with coaching principles, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of helping others succeed and fostering a culture of collaboration and empowerment, which aligns with coaching principles. However, it lacks direct mentions of specific coaching techniques or frameworks, and the depth of discussion on coaching practices is moderate, focusing more on general support rather than detailed coaching methodologies.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -915,15 +912,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses agile practices and personal motivations rather than focusing on product validation methodologies or user engagement.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T14:29:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses general agile principles and personal motivations rather than specific Kanban practices or scaling strategies.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -946,11 +934,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses helping organizations succeed in agile, which aligns with the theme of technical leadership, but it lacks a clear focus on specific technical leadership principles or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of helping others succeed in agile and technical contexts, which aligns with the principles of technical leadership. However, it lacks direct mentions of specific technical leadership practices or frameworks, and the depth of discussion on agile methodologies is limited. The focus is more on personal motivation and community impact rather than concrete strategies for leading teams or implementing agile practices.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -982,20 +973,26 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of agility and its impact on organisational success, indicating a focus on Agile principles, but lacks a detailed exploration of specific Agile frameworks or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile practices and their impact on organisations, highlighting themes of empowerment and community. However, it lacks specific references to Agile frameworks or methodologies, making it more of a general discussion about agile rather than a focused exploration of Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:29:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses general agile principles and personal motivations rather than Test First Development or its practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on offering support for agile and technical challenges without any explicit mention of Test First Development principles. While it discusses empowerment and collaboration in agile practices, it does not delve into the specifics of Test First Development, such as success criteria, TDD, or ATDD. The overall discussion lacks depth and direct relevance to the category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
@@ -1014,15 +1011,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and personal motivations rather than Azure DevOps specifically.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T14:26:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal interactions and motivations related to Agile, without focusing on specific products, books, or methodologies.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1054,30 +1042,27 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of agile practices within organisations and the desire for organisational success, indicating a connection to sociotechnical systems. However, it primarily focuses on personal motivations and informal discussions rather than a detailed exploration of the interplay between social and technical aspects.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T14:26:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal motivations and informal discussions about Agile without a focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of people and organisations in the context of agile practices, which aligns with sociotechnical systems. It mentions empowerment and community impact, reflecting on the interplay between social and technical aspects. However, it lacks explicit references to sociotechnical frameworks or detailed exploration of organisational structures, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile principles and the desire to help organisations succeed in adopting agile practices, but it does not delve deeply into specific strategies or frameworks related to organisational agility.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agile practices and their impact on organisational success, highlighting themes of empowerment, collaboration, and continuous improvement. While it does not delve deeply into specific agile methodologies or frameworks, it aligns well with the core principles of organisational agility by emphasising the cultural and structural shifts necessary for adaptability. The invitation for a discussion on challenges indicates a focus on practical solutions, which further supports the category's themes.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1090,92 +1075,50 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T14:26:41",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal motivations and informal conversations about Agile without focusing on metrics, data, or learning principles.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T14:26:42",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a personal approach to helping organisations with Agile but lacks specific focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T14:26:43",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses personal motivations and general agile principles rather than installation or configuration topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T14:26:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal motivations for helping organizations succeed in Agile without any mention of AI or automation technologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T14:26:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal motivations and informal discussions about Agile without providing industry news, updates, or reviews.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T14:26:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile principles and personal motivations rather than DevOps practices or principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile practices and technical challenges rather than DevOps specifically. While it touches on themes of collaboration and continuous improvement, which are relevant to DevOps, it lacks direct mentions of DevOps principles or practices. The discussion is more about general empowerment and community impact rather than the specific cultural and operational shifts associated with DevOps.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of helping others succeed in agile environments, which aligns with themes of collaboration and organisational success, but it is not the primary focus.",
-    "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T14:26:52",
+    "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the author's personal approach to helping organizations with Agile, without a clear focus on technical practices or methodologies that enhance software development and delivery processes.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T14:26:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal interactions and motivations related to Agile, without reference to specific events, presentations, or structured learning experiences.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T14:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile methodologies and personal motivations for helping others, with no focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Lean": {
@@ -1198,30 +1141,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 26,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal motivations and experiences related to helping others in the agile space, which aligns with the Miscellaneous category as it does not reference specific Agile frameworks or methodologies.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T14:27:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal motivations for helping others in agile contexts rather than focusing on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T14:27:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal motivations and general thoughts on Agile without specific reference to practical techniques, tools, or methodologies.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of helping others succeed in agile and technical contexts, but it does not delve into specific Agile methodologies or frameworks. While it touches on themes of empowerment and community impact, which are relevant to Agile, it does so in a generalised manner without referencing specific practices or authors. The invitation for a virtual coffee chat and the focus on personal reflections and anecdotes further align it with the Miscellaneous category, as it lacks a direct connection to established Agile principles.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1243,21 +1171,27 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of agility in organisations and the speaker's desire to help organisations succeed in agile practices, indicating a focus on broader organisational success rather than just team-level practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile practices and their impact on organisations, highlighting themes of empowerment, collaboration, and community impact. However, it lacks specific frameworks, metrics, or detailed strategies for enterprise agility, making it more of a general discussion rather than a focused exploration of the category.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:54:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile principles and the desire to help organizations succeed in agile practices, indicating a secondary theme of business agility, but lacks a clear primary focus on the broader principles and practices of business agility.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of agile practices and their impact on organisational success, which aligns with the principles of business agility. However, it lacks explicit discussions on specific strategies or frameworks that directly contribute to business agility, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1286,15 +1220,6 @@
     "reasoning": "Content primarily discusses personal motivations and informal conversations about agile, lacking a focus on product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T14:27:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses personal interactions and motivations related to Agile without a clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-12T14:27:15",
@@ -1306,11 +1231,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-12T14:27:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content shares personal motivations and experiences related to helping others succeed in Agile, reflecting individual insights and a personal approach to Agile practices.",
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions personal motivations for helping others succeed in Agile, which aligns with the Personal category. However, it lacks detailed personal anecdotes or reflections on specific experiences with Agile transformations or challenges. The focus is more on offering assistance rather than sharing personal insights or experiences, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1324,20 +1252,26 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T14:54:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses helping organisations succeed in Agile, which relates to leadership in fostering an environment for success, but it primarily focuses on personal interactions rather than specific leadership practices.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the desire to help others succeed in agile environments, which aligns with leadership principles. However, it lacks explicit discussions on leadership strategies, decision-making processes, or team dynamics, resulting in a lower confidence score.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:54:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal engagement and support in agile contexts without focusing on the Agile Product Operating Model or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile practices and the importance of empowerment and collaboration within organisations, which aligns with some core themes of the Agile Product Operating Model. However, it lacks direct mentions of the APOM framework, specific principles, or detailed discussions on product management practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1349,31 +1283,443 @@
     "reasoning": "Content primarily discusses offering support in agile contexts without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:54:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses agile in a general sense without a clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:54:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile practices and the desire to help organizations succeed in agile, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of collaboration, empowerment, and community impact within organisations, which aligns with the core themes of Social Technologies. However, it lacks explicit references to specific frameworks or methodologies, and the depth of discussion on these themes is somewhat limited, focusing more on personal motivation and general encouragement rather than detailed exploration of social technologies.",
+    "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:54:53",
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:45:50",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile challenges and personal interactions rather than the principles or implementation of the One Engineering System.",
+    "reasoning": "Content heavily discusses Agile methodologies and personal coaching rather than Internal Developer Platforms.",
     "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:45:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile practices and personal coaching without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'agile' and discusses helping organizations succeed in agile practices, but it lacks specific references to Scrum roles, events, or artifacts. The discussion is more general and does not delve into the core themes of Scrum, such as the framework or empirical process control. Therefore, while there is some relevance to the Scrum category, it does not meet the criteria for a strong alignment.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on general agile practices and personal engagement rather than explicitly discussing the Shift-Left Strategy. While it touches on themes of empowerment and collaboration, it lacks direct references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses empowerment and fostering a culture of collaboration and continuous improvement, which aligns with the principles of Continuous Improvement. However, it lacks direct mentions of specific Continuous Improvement techniques or frameworks, and the depth of discussion is more focused on general support rather than detailed strategies or empirical evidence.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of collaboration and empowerment within organisations, which aligns with the principles of Common Goals. However, it primarily focuses on personal engagement and support rather than explicitly defining or detailing Common Goals in the context of Agile or DevOps. The mention of collective success and community impact hints at shared objectives, but the discussion lacks depth in connecting these ideas to specific frameworks or strategic alignment.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of helping others succeed in agile practices and technical challenges, which aligns with the concept of competence. However, it lacks direct mentions of continuous learning or skill development, focusing more on empowerment and community impact. The depth of discussion is moderate, providing insights into the benefits of collaboration and knowledge sharing but not delving deeply into the principles of competence as defined in the category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:11:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal engagement and support in agile practices rather than discussing the One Engineering System framework. While it touches on agile methodologies, it lacks direct references to 1ES principles, components, or implementation strategies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses empowerment and collaboration within agile practices, which aligns with the principles of Agentic Agility. However, it lacks explicit mentions of the category and does not delve deeply into the distinctions between human and AI capabilities or the intentional shaping of outcomes. The focus is more on general agile practices and community impact rather than a specific exploration of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:28:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile practices and their impact on organisational success, which aligns with the principles of product development. It mentions empowerment through agile, community impact, and the importance of collaboration, which are relevant to the category. However, the focus is more on personal engagement and support rather than specific methodologies or practices in product development, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:28:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile practices and the importance of collaboration and empowerment within organisations, which aligns with some core themes of Liberating Structures. However, it does not explicitly mention any specific Liberating Structures techniques or principles, nor does it delve deeply into facilitation methods. The focus is more on general agile challenges and personal engagement rather than structured facilitation techniques, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:28:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on offering support for agile and technical challenges, which is a narrow aspect of project management. While it mentions empowerment and community impact, it lacks direct references to core project management principles, methodologies, or detailed discussions on project lifecycle phases. The emphasis is more on personal engagement and support rather than structured project management practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:28:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on agile practices and the importance of collaboration and empowerment within organisations, which aligns with some core themes of Open Space Agile. However, it lacks direct mentions of Open Space Technology or specific discussions on psychological safety, co-creation, or iterative dialogue. The depth of discussion is limited, focusing more on a general invitation for conversation rather than a detailed exploration of Open Space Agile principles.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:28:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on offering support for agile and technical challenges without explicitly discussing Unrealised Value or its indicators. While it touches on themes of empowerment and community impact, which could relate to potential improvements, it lacks a direct exploration of untapped opportunities or strategies for identifying unrealised value. The discussion is more about personal engagement and support rather than a structured analysis of unrealised value in an organisational context.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:28:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on offering support for agile and technical challenges without explicitly discussing Time to Market. While it touches on themes of empowerment and collaboration, which can indirectly relate to improving Time to Market, it lacks direct mentions or detailed exploration of metrics, strategies, or case studies relevant to the category. The overall discussion is more about community and individual success rather than the efficiency of delivering market-ready products.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:28:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on offering support for agile and technical challenges without explicitly discussing Current Value or its metrics. While it touches on themes of empowerment and community impact, it lacks a direct connection to the real-time assessment of value delivered by a product or service, which is central to Current Value. The discussion is more about personal engagement and support rather than the measurement or analysis of value in an Evidence-Based Management context.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:28:30",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses agile practices and the importance of empowering organisations, which aligns with some principles of the Company as a Product (CaaP) framework. However, it lacks direct mentions of CaaP and does not delve deeply into organisational design or customer-centric strategies. The focus is more on individual empowerment and community impact rather than a structured approach to treating the organisation as a product.",
+    "level": "Tertiary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:28:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on offering support for agile and technical challenges without specifically addressing scaling methodologies or frameworks. While it touches on themes of empowerment and collaboration, it lacks direct discussions on scaling Agile practices, cross-team collaboration, or managing dependencies, which are essential for the 'Scaling' category. The overall depth of discussion is limited, focusing more on personal engagement rather than structured scaling strategies.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:28:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on offering support for agile and technical challenges without explicitly discussing Hybrid Agile or its core themes. While it touches on empowerment and collaboration, it lacks critical examination of the integration of traditional and agile methodologies, which is essential for the Hybrid Agile category. The discussion is more about general agile practices rather than the specific challenges and implications of Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:28:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on agile practices and the importance of empowerment and collaboration, which aligns with some principles of Agnostic Agile. However, it lacks direct references to Agnostic Agile itself and does not delve into its specific principles or comparisons with traditional frameworks. The focus is more on personal engagement and community impact rather than a structured discussion of Agnostic Agile concepts.",
+    "level": "Tertiary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:28:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on general agile practices and personal empowerment rather than GitHub-specific functionalities or tools. There are no direct mentions of GitHub, and while it discusses agile methodologies, it does not align with GitHub's core themes or provide any depth regarding GitHub services or practices.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:28:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile practices and personal empowerment within organisations, without any direct mention of Cell Structure Design or its principles. While it touches on themes of empowerment and collaboration, which are relevant to the broader context of organisational design, it lacks specific references to the Beta Codex, autonomous cells, or decentralised structures. The discussion is more about general agile methodologies rather than the specificities of Cell Structure Design, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses empowerment, collaboration, and continuous improvement, which are principles relevant to Agile. It explicitly mentions an environment fostering collaboration, and highlights the importance of sharing knowledge within a community. However, while these principles are noted, the focus of the content is more on offering assistance and facilitating discussions rather than deeply analyzing or applying specific principles. As such, it doesn't strictly adhere to the core requirement of focusing on principles as guiding rules in a systematic way.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content invites readers to a virtual coffee to discuss agile and technical challenges but does not focus on specific tools or their functionalities. While it touches on agile practices, it lacks direct mentions of tools or detailed discussion related to how tools can facilitate workflows or improve performance, thus falling short of the 'Tool' category criteria.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 73.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content demonstrates a strong alignment with the category of Values by emphasizing empowerment, community impact, and the sharing of knowledge as core beliefs guiding the author's motivations and philosophy. The direct mention of empowering employees and fostering collaboration aligns well with the values discussed in agile practices. While the content ranges into practical solutions and a call to action, which slightly detracts from a purely values-focused discussion, it still maintains a significant emphasis on the foundational principles that govern behavior and decisions within organizations. Therefore, the score reflects a high degree of conceptual relevance and depth of discussion.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the broader impacts and philosophy behind agile practices, emphasizing empowerment, community, and the importance of collaboration. However, it primarily focuses on actionable solutions and personal motivations, which detracts from a deep exploration of philosophical frameworks. Thus, while it aligns with some philosophical themes, it lacks depth and direct engagement with core philosophical discussions.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 52.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content touches upon agile practices and emphasizes empowerment and collaboration within organizations, which aligns with aspects of the Discipline category. However, it primarily focuses on personal engagement and support rather than the structured principles and methodologies of an agile discipline itself. The reference to helping others succeed and fostering a culture reflects some underlying principles but lacks depth in discussing governance or ethical considerations central to the concept of discipline. Thus, while it has some relevance, it does not qualify as a primary focus of 'Discipline'.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on inviting engagement regarding agile and technical challenges but does not mention specific artifacts or discuss their roles, structure, or purpose in Agile or Scrum systems. It emphasizes personal connection and empowerment rather than formal representations of work, leading to very low confidence in its alignment with the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content discusses general agile and technical challenges but does not mention observability explicitly or delve into its core themes, such as metrics, logs, traces, or implementation practices. The focus is more on collaboration and empowerment rather than on understanding system states through observability.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content primarily invites people for a virtual coffee to discuss agile and technical challenges, which loosely aligns with the idea of practices that enhance team performance. However, while it mentions the empowerment brought by agile practices, it lacks concrete actionable techniques or detailed discussions on specific practices. The focus is more on conversation and support rather than directly on effective practices, leading to a moderate score reflecting that some elements resonate with the category but the depth and direct focus are lacking.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses agile practices and technical challenges in a general sense, but it does not provide a structured or step-by-step procedural focus on any specific method. It emphasizes empowerment and community impact rather than outlining methods like Scrum or Kanban.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on inviting individuals to discuss their agile and technical challenges rather than providing a conceptual representation or framework related to models. While it mentions empowering organisations and addressing complex challenges, it does not explicitly address any specific models or frameworks associated with Agile, DevOps, or Lean. Overall, it lacks direct mentions and detailed exploration of relevant models, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content touches on agile concepts and principles, but it primarily focuses on a personal invitation to discuss challenges rather than on structured frameworks or methodologies. Mentions of agile are very general and not deeply aligned with the specific themes of framework discussions, such as implementation strategies or comparative analyses of frameworks. The content lacks detailed discussion on how frameworks can be adopted or adapted, failing to meet the depth required for a stronger alignment with the category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 34.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 34.0,
+    "reasoning": "The content primarily discusses engaging with individuals facing agile and technical challenges, emphasizing empowerment and collaboration. However, it lacks direct references to specific actionable tenets or guiding principles as outlined in the category definition. The focus is more on the conversational aspect and personal motivations than on concrete tenets of methodologies like Agile or Lean, resulting in a moderate alignment and depth of discussion.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "zro-li2QIMM",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 65.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content emphasizes the importance of empowering organizations through agile practices, which aligns with the core themes of capability. It discusses fostering a culture of collaboration, innovation, and continuous improvement, which are characteristic elements of capability development. While the primary focus is on offering help and insights rather than a detailed exploration of enduring competencies, it reflects on the impact of these practices on organizational success and community, thus contributing positively to the capability theme. However, it doesn't discuss specifics about capabilities, their measurement, or systematic integration into culture and processes in depth, which affects the overall score.",
+    "level": "Secondary"
   }
 }

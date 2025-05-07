@@ -1,13 +1,4 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:53:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal competition and does not relate to AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
     "calculated_at": "2025-02-17T09:53:49",
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a personal competition and does not discuss decision-making processes or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:53:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal competition and does not discuss team dynamics, collaboration, or any relevant processes.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:53:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal competition and does not discuss organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +37,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:53:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or frameworks; it appears to be a personal or gaming-related topic.",
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts, roles, events, or principles. It appears to be a personal or gaming-related discussion with no relevance to Scrum.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -134,15 +110,6 @@
     "reasoning": "Content is primarily about a personal competition and does not relate to platform engineering or its principles.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal competition and does not discuss software code or complexity.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "calculated_at": "2025-02-17T09:54:06",
@@ -206,24 +173,6 @@
     "reasoning": "Content is primarily about a personal competition and does not discuss Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:54:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal competition between individuals, lacking relevance to Agile, DevOps, or technology news and reviews.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:54:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any practical techniques or tooling related to Agile or DevOps; it appears to be a personal anecdote or comparison.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:54:18",
@@ -258,15 +207,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a personal competition and does not discuss Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:54:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not pertain to any events or presentations related to Agile, DevOps, or software engineering.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,33 +245,6 @@
     "reasoning": "Content primarily discusses a personal competition with a brother-in-law, lacking relevance to Agile, Scrum, DevOps, or Lean methodologies.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:54:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a personal competition and does not discuss any themes related to discovery, learning, or innovation.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:54:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal competition and does not address transparency or accountability in any context.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:54:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal competition and does not relate to products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T09:54:35",
@@ -350,7 +263,7 @@
     "reasoning": "Content is primarily about a personal competition and does not discuss any DevOps principles, practices, or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:54:37",
     "ai_confidence": 0,
@@ -429,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to the principles and practices of empirical process control, focusing instead on a personal competitive scenario.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not relate to Scaling Scrum or Agile methodologies; it appears to be a personal or gaming discussion.",
     "level": "Ignored"
   },
   "Increment": {
@@ -609,15 +513,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a personal competition and is unrelated to strategic goals, business agility, or long-term objectives.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scaled Agile methodologies or frameworks; it appears to be a personal or casual topic unrelated to agile practices.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -881,7 +776,7 @@
     "reasoning": "Content discusses personal competition and does not relate to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T10:22:27",
     "ai_confidence": 0,
@@ -933,15 +828,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to Agile methodologies or strategies and focuses on a personal competition.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to software development, Agile methodologies, or DevOps principles; it appears to be a personal or gaming discussion.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +882,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Scrum values; it seems to focus on a personal competition without any mention of Scrum principles.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Kanban or its scaling practices, discussing a personal competition instead.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1205,15 +1082,6 @@
     "reasoning": "Content appears to be personal and unrelated to software testing or automation.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scrum and does not discuss product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T10:22:27",
@@ -1268,24 +1136,6 @@
     "reasoning": "Content primarily discusses a personal competition and does not relate to innovation or evidence-based management.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal and unrelated to scaling agility or any of its core principles.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Agile Project Management; it focuses on a personal comparison unrelated to the topic.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-17T10:22:27",
@@ -1331,15 +1181,6 @@
     "reasoning": "Content discusses personal competition and includes unrelated tags about Xbox, without any reference to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T10:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal competition and gaming, with no relevance to AI, Agile, or DevOps topics.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T10:22:27",
@@ -1374,6 +1215,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a personal competition and does not discuss leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:55:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily about a personal competition and does not discuss Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:55:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily about a personal competition and does not discuss AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:52:12",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content does not discuss any aspects of the Shift-Left Strategy, focusing instead on a personal anecdote unrelated to software development processes.",
     "level": "Ignored"
   }
 }

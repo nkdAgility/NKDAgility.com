@@ -2,50 +2,43 @@
 title: Worst trait in unskilled scrum masters?
 description: "Discover the worst trait in unskilled Scrum Masters! Martin Hinshelwood reveals why it's a critical no-go zone for effective Agile teams. #Scrum #Agile"
 date: 2023-04-26T07:00:00Z
+weight: 690
 ResourceId: -pW6YDYEO20
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: -pW6YDYEO20
 source: internal
 url: /resources/videos/:slug
-slug: worst-trait-in-unskilled-scrum-masters
+slug: worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
 duration: 54
 isShort: true
 aliases:
-- /resources/worst-trait-in-unskilled-scrum-masters
-- /resources/videos/worst-trait-in-unskilled-scrum-masters-
-- /resources/videos/-pW6YDYEO20
-- /resources/worst-trait-in-unskilled-scrum-masters-
 - /resources/-pW6YDYEO20
-aliasesFor404:
+- /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+aliasesArchive:
+- /resources/videos/worst-trait-in-unskilled-scrum-masters
 - /resources/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/worst-trait-in-unskilled-scrum-masters-
+- worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Master
-- People and Process
-- Scrum Team
-- Team Performance
-- Agile Frameworks
-- Self Organisation
-- Coaching
-- Agile Project Management
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
-- Social Technologies
 
 ---
-**Worst trait in unskilled scrum masters?**
+**Worst trait in unskilled [scrum]({{< ref "/categories/scrum" >}}) masters?**
 
-Do you picture a Scrum Master as a stern taskmaster, a zealous micromanager, or even an omnipotent boss? If that's a 'yes', prepare to flip your perceptions upside down! 🔄
+Do you picture a [Scrum Master]({{< ref "/tags/scrum-master" >}}) as a stern taskmaster, a zealous micromanager, or even an omnipotent boss? If that's a 'yes', prepare to flip your perceptions upside down! 🔄
 
 In the realm of Scrum Masters, there's no 'one' worst trait. 🚫 Yep, you've guessed it, the list of unsuitable characteristics can run as long as a never-ending story. 📜👀
 

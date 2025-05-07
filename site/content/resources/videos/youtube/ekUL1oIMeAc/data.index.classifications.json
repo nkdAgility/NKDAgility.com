@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T22:46:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of a Product Owner in a Scrum context, highlighting issues related to collaboration and team dynamics during a Sprint review.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Product Owner within a Scrum team, highlighting the importance of collaboration and support in decision-making. However, while it touches on themes of accountability and teamwork, it primarily focuses on a specific negative experience rather than a broader discussion of social technologies or methodologies that promote collaboration and value delivery. The depth of discussion is limited, as it does not explore techniques or frameworks in detail, nor does it provide case studies or tools that align with the category's core themes.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,30 +22,39 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T22:46:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Product Owner in a Scrum context, which is not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within the Scrum framework, focusing on accountability and support in Agile practices. While it touches on collaboration, it does not explicitly address DevOps principles or practices, nor does it delve into the cultural shifts or automation aspects central to DevOps. Therefore, the alignment with the DevOps category is minimal.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T22:46:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in a Scrum context, highlighting issues related to stakeholder management and team support, which are relevant to product management, but it primarily focuses on a specific negative experience rather than broader strategic themes.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a specific negative experience involving a product owner during a Sprint review, which touches on the role of product management in Agile frameworks. However, it lacks a broader discussion on strategic alignment, methodologies, or frameworks that guide product managers. The focus is more on a personal anecdote rather than a comprehensive exploration of product management principles.",
     "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T22:46:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in a Scrum context, highlighting the impact of their actions on team dynamics and accountability, which relates to leadership practices. However, it primarily focuses on a specific incident rather than broader leadership strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific negative experience involving a product owner during a Sprint review, highlighting a failure in leadership and support for the development team. While it touches on leadership dynamics, it primarily focuses on a single incident rather than broader leadership strategies or frameworks. The direct mention of the product owner's actions provides some relevance, but the overall discussion lacks depth and does not explore the core themes of effective leadership in an Agile context.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -64,11 +76,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T22:47:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content discusses a specific experience related to the role of a Product Owner during a Sprint review, highlighting the importance of support and accountability within Scrum practices.",
+    "reasoning": "The content briefly mentions the role of the Product Owner and discusses a specific incident during a Sprint review, which aligns with Scrum events. However, it lacks a comprehensive exploration of Scrum principles and does not provide in-depth analysis or theoretical grounding, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -82,48 +97,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:47:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a negative experience with a Product Owner during a Sprint review, lacking focus on evidence-based management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T22:47:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a negative experience related to Scrum roles and events, without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T22:47:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a negative experience related to a Product Owner in a Scrum context, with no mention of Kanban principles or scaling practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum framework, focusing on interpersonal dynamics and accountability rather than evidence-based management practices. There are no direct mentions of empirical evidence or metrics related to value delivery, innovation, or decision-making, which are central to Evidence-Based Management. The discussion is more anecdotal and lacks the depth required to align with the category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T22:47:12",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a negative experience with a product owner during a Sprint review, focusing on team dynamics rather than hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T22:47:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific experience related to the role of a Product Owner within a Sprint review, which is a key aspect of the Scrum framework. However, it does not provide a broader exploration of Agile frameworks or their principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific incident involving a Product Owner during a Sprint review, which is a key aspect of the Scrum framework. However, it lacks a broader exploration of Agile frameworks or principles, focusing instead on a singular negative experience. While it touches on the role of the Product Owner, it does not provide a comprehensive analysis or insights into Agile frameworks as a whole.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +139,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T22:47:16",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience involving a Product Owner during a Sprint review, rather than focusing on the criteria or importance of the Definition of Ready.",
     "level": "Ignored"
   },
@@ -150,15 +153,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience with a Product Owner during a Sprint review, focusing on interpersonal dynamics rather than trend analysis in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T22:47:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a specific incident involving a Product Owner in a Scrum context, without addressing scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -181,12 +175,15 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T22:47:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific incident during a Sprint Review, highlighting the roles of the product owner and stakeholders, but it primarily focuses on a negative experience rather than the overall purpose or best practices of the Sprint Review.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content explicitly discusses a negative experience during a Sprint Review, highlighting the roles of the product owner and stakeholders. While it mentions the Sprint Review directly, the focus is more on a specific incident rather than a comprehensive exploration of the Sprint Review process or best practices. The alignment with the core themes is moderate, as it touches on stakeholder engagement but lacks depth in discussing the overall purpose and techniques for effective Sprint Reviews.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -199,12 +196,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T22:47:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Product Owner in a Sprint review and its impact on team dynamics, which is relevant to team performance, but it is primarily focused on a specific negative experience rather than broader strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a negative experience involving a Product Owner during a Sprint review, highlighting the impact of leadership on team dynamics. While it touches on team performance and the role of the Product Owner, it lacks a broader discussion on strategies or methodologies for enhancing team collaboration and effectiveness. The focus is primarily on a specific incident rather than a comprehensive exploration of team performance principles.",
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -226,21 +226,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T22:47:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific incident involving a product owner during a Sprint review, which relates to product delivery practices, but it is primarily focused on a negative experience rather than a comprehensive discussion of product delivery methodologies.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses a specific incident involving a product owner during a Sprint review, which relates to product delivery practices. However, it primarily focuses on a negative experience rather than providing a comprehensive discussion on methodologies or best practices. While it mentions the role of the product owner, it lacks broader insights into product delivery processes, making it a secondary mention rather than a primary focus.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T22:47:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses a negative experience related to a Product Owner in a Scrum context, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,32 +245,14 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T22:47:36",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the product owner in a Scrum environment and the impact of their behaviour on team dynamics during a Sprint review.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T22:47:37",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Product Owner in a Sprint review, which is not related to Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T22:47:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in an Agile context, specifically during a Sprint review, highlighting the importance of support and collaboration within the team.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -289,21 +265,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T22:47:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a situation where a product owner failed to take responsibility for the team's decisions, highlighting the negative impact on team dynamics and accountability. However, it primarily focuses on a specific incident rather than a broader discussion on accountability principles.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T22:47:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific incident involving a product owner's lack of support and accountability during a Sprint review, highlighting issues of transparency and accountability within the team dynamics. However, it primarily focuses on a negative experience rather than a broader discussion on the principles of transparency and accountability.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of a Product Owner in maintaining accountability within a Scrum team, highlighting the importance of supporting the team rather than assigning blame. It explicitly mentions accountability and provides a detailed example of a situation where a Product Owner failed to uphold this principle, thus aligning well with the core themes of the category. The depth of discussion is significant, as it explores the balance between accountability and support, making it a primary focus of the content.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -312,15 +282,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:47:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a negative experience related to a Product Owner in a Scrum context, which is not aligned with the principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -361,30 +322,39 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:47:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner in a Scrum context, which indirectly relates to the Scrum Master’s responsibilities in facilitating team dynamics and supporting the team during Scrum events.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner rather than the Scrum Master. While it touches on Scrum principles and team dynamics, the focus is on the Product Owner's responsibilities and missteps, which does not align with the primary focus of the Scrum Master category. The discussion lacks depth regarding the Scrum Master's role and responsibilities, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T22:47:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific incident involving a Product Owner during a Sprint review, which relates to Agile Planning principles, particularly the roles and responsibilities within Agile teams. However, it primarily focuses on a negative experience rather than broader Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of the Product Owner within the Scrum framework, highlighting the importance of balancing accountability and support, which aligns with Agile principles. However, it primarily focuses on a specific incident rather than broader Agile Planning methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T22:47:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific incident involving a Product Owner during a Sprint review, highlighting issues related to team dynamics and collaboration, which are relevant to Agile principles. However, it primarily focuses on a negative experience rather than a comprehensive discussion of Agile values.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Product Owner within a Scrum Team, highlighting the importance of accountability and support, which aligns with Agile principles. However, it primarily focuses on a specific incident rather than a broader discussion of Agile values and principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -397,11 +367,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:48:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:52:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a negative experience with a product owner during a Sprint review, focusing on team dynamics rather than Test First Development principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner in a Scrum context, focusing on accountability and support within a team. It does not mention Test First Development, success criteria, or any testing practices, which are central to the category. The discussion is more about team dynamics and stakeholder management rather than the principles of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,21 +433,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T22:48:11",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a negative experience related to a Product Owner's behaviour during a Sprint review, without addressing innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T22:48:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific incident involving a Product Owner during a Sprint review, which relates to Agile practices. However, it primarily focuses on a negative experience rather than broader Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a Product Owner within a Scrum framework, highlighting the importance of accountability and support in Agile practices. While it does not explicitly mention Agile transformation strategies or methodologies, it aligns with Agile principles and the need for cultural shifts in team dynamics. The depth of discussion is moderate, focusing on a specific incident rather than broader Agile transformation themes.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -496,30 +472,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T22:48:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a negative experience involving a Product Owner's behaviour during a Sprint review, which indirectly touches on the values of respect and openness. However, the primary focus is on the incident rather than a thorough exploration of Scrum Values.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T22:48:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a negative experience with a Product Owner during a Sprint review, focusing on team dynamics rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T22:48:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a negative experience related to a product owner's behaviour during a Sprint review, without focusing on practical techniques or tooling.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Product Owner in relation to team dynamics and accountability, which touches on the Scrum Values of Openness and Respect. However, it primarily focuses on a specific incident rather than a comprehensive exploration of all Scrum Values. The discussion is relevant but lacks depth in addressing the core themes of commitment, courage, and focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -532,30 +493,27 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T22:48:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in a Sprint review, which is related to the management of the Product Backlog, but it primarily focuses on a negative experience rather than the backlog itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the Product Owner and their responsibilities during a Sprint Review, which indirectly relates to the Product Backlog. However, it does not explicitly address the Product Backlog itself or its management. The focus is more on the interpersonal dynamics and accountability rather than backlog refinement or prioritisation techniques. Therefore, while there is some relevance, it does not meet the primary focus required for a higher confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T22:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily shares a personal anecdote about a negative experience with a Product Owner during a Sprint review, reflecting on team dynamics and individual insights related to Agile practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a personal experience with a product owner's misstep during a Sprint Review, which aligns with the Personal category's focus on individual reflections and insights related to Agile practices. The author shares a specific anecdote that illustrates the challenges faced in Scrum roles, particularly the balance between accountability and support. However, while the content provides a personal perspective, it also delves into technical aspects of Scrum, which slightly detracts from its alignment with the Personal category. The depth of discussion is moderate, focusing on a single incident rather than broader personal experiences or reflections.",
     "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T22:48:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a negative experience during a Sprint review, which is not focused on events or presentations.",
-    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -577,21 +535,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T22:48:31",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner and its impact on team dynamics during a Sprint review, highlighting issues of support and accountability within the Scrum Team.",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner within a Scrum Team, highlighting the importance of support and accountability. It aligns well with the themes of team dynamics and collaboration, particularly in the context of a Sprint Review. The depth of discussion is substantial, providing a specific example of a misstep that illustrates the impact of roles on team effectiveness.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T22:48:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a specific incident involving a Product Owner and the development team, focusing on team-level dynamics rather than organisational scaling of agile practices.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -604,30 +556,36 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T22:48:37",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience with a product owner during a Sprint review, focusing on team dynamics rather than customer retention strategies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:48:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Product Owner in a Scrum context, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within the Scrum framework, focusing on accountability and support rather than Continuous Delivery principles. While it touches on Agile practices, it does not address Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, which are central to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T22:48:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a negative experience related to a product owner's interaction with customers and stakeholders during a Sprint review, highlighting the impact on customer satisfaction. However, it primarily focuses on the product owner's behaviour rather than broader strategies or methodologies for enhancing customer satisfaction.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific incident involving a Product Owner's failure to manage customer expectations during a Sprint Review, which indirectly relates to customer satisfaction. However, the primary focus is on the roles and responsibilities within a Scrum team rather than on customer satisfaction strategies or methodologies. While there are mentions of customer dissatisfaction, the overall depth and alignment with the core themes of customer satisfaction are limited.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -649,12 +607,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T22:48:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a negative experience related to the role of a Product Owner in a Scrum context, highlighting issues in team dynamics and communication during a Sprint review, which are relevant to team collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Product Owner in a Scrum team, highlighting the importance of support and accountability within the team dynamics. It explicitly mentions the need for collaboration and the negative impact of undermining team decisions, which aligns well with the core themes of team collaboration in Agile. However, while it provides a detailed example, the focus is primarily on the misstep of an individual rather than broader team collaboration techniques or strategies.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -665,7 +626,7 @@
     "reasoning": "Content primarily discusses a negative experience during a Sprint Review, not the Daily Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T22:48:48",
     "ai_confidence": 0,
@@ -683,15 +644,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T22:48:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T22:48:51",
@@ -703,11 +655,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:48:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner within an Agile context, highlighting issues related to value delivery and team dynamics, but it is primarily focused on a specific negative experience rather than a comprehensive discussion of the Agile Product Operating Model.",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum framework, highlighting a specific incident that reflects on accountability and support. While it touches on Agile principles, it does not delve into the broader Agile Product Operating Model or its key topics, such as transitioning to a product ethos or Evidence-Based Management. The focus is more on Scrum practices rather than the integration of agile methodologies with product management principles, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -721,10 +676,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-17T22:49:01",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience with a product owner during a Sprint review, focusing on team dynamics rather than BDD principles or practices.",
     "level": "Ignored"
   },
@@ -748,19 +703,22 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T22:49:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a situation in a Sprint review that highlights the lack of support and accountability from the product owner, which relates to transparency in team dynamics. However, the primary focus is on the negative experience rather than a broader discussion on transparency itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of transparency within a Scrum team, particularly in the context of a Product Owner's role during a Sprint Review. It highlights the need for clear communication and support from the Product Owner to foster trust and accountability. However, while transparency is a key theme, the content primarily focuses on a specific incident rather than providing a comprehensive exploration of transparency in Agile practices. The discussion is relevant but lacks depth and broader context, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T22:49:06",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience with a product owner during a Sprint review, focusing on team dynamics rather than the mechanisms of collecting and utilising customer feedback.",
     "level": "Ignored"
   },
@@ -775,28 +733,31 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T22:49:09",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience with a Product Owner during a Sprint review, focusing on team dynamics rather than metrics or learning principles.",
     "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T22:49:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a negative experience related to a product owner's behaviour that impacted the team's psychological safety during a Sprint review, highlighting the importance of support and accountability in team dynamics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a Product Owner in a Scrum team and highlights the importance of support and accountability. However, it primarily focuses on a specific incident rather than a broader discussion on psychological safety. While there are elements that touch on team dynamics and the need for support, the overall emphasis is on the actions of the Product Owner rather than fostering a psychologically safe environment. Therefore, the confidence score reflects a low alignment with the core themes of psychological safety.",
+    "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T22:49:13",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience related to Scrum roles and does not focus on Lean principles or practices.",
     "level": "Ignored"
   },
@@ -807,15 +768,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience with a Product Owner during a Sprint review, focusing on team dynamics rather than mentoring or coaching practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T22:49:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a negative experience related to a Product Owner's behaviour during a Sprint review, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -847,19 +799,22 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T22:49:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in an Agile context, highlighting issues related to collaboration and support within a team, which are relevant to Agile philosophy. However, it primarily focuses on a specific incident rather than the broader principles of Agile.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Product Owner within a Scrum framework, highlighting the importance of collaboration, accountability, and support, which are core themes of Agile Philosophy. It explicitly mentions Agile principles and the collaborative spirit that Agile champions, indicating a strong alignment with the category. However, the focus is primarily on a specific incident rather than a broader discussion of Agile Philosophy, which slightly limits the depth of the discussion.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T22:49:24",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience with a Product Owner during a Sprint review, without focusing on Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -919,12 +874,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T22:49:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in an Agile context, specifically during a Sprint review, highlighting the importance of support and stakeholder engagement.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within a Scrum framework, highlighting the importance of accountability and support in Agile practices. It provides a detailed account of a specific incident that illustrates the consequences of poor decision-making by a Product Owner, which aligns well with the core themes of Agile Product Management. The depth of discussion is significant, as it not only addresses the responsibilities of the Product Owner but also reflects on the implications for team dynamics and stakeholder engagement. Overall, the content is highly relevant and offers valuable insights into Agile principles.",
+    "level": "Primary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -944,32 +902,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T22:49:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a negative experience with a Product Owner during a Sprint review, without addressing scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T22:49:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interaction between a product owner and the development team during a Sprint review, highlighting the impact of team dynamics and communication on software delivery. However, it primarily focuses on a specific negative experience rather than a broader exploration of sociotechnical systems.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the Product Owner within a Scrum Team, highlighting the importance of accountability and support in team dynamics. While it touches on the interplay between social (team dynamics, stakeholder expectations) and technical (Scrum processes) aspects, it does not explicitly frame these discussions within the broader context of sociotechnical systems. The focus is more on individual roles and responsibilities rather than a comprehensive exploration of sociotechnical interactions.",
     "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T22:49:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a negative experience with a product owner during a Sprint review, rather than focusing on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -991,20 +934,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T22:49:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific negative experience related to a Product Owner's role in a Scrum context, highlighting the importance of support and collaboration within the team. However, it primarily focuses on a single incident rather than broader pragmatic strategies or principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses a specific incident involving a Product Owner's failure to support their team during a Sprint Review, which directly relates to pragmatic thinking in Agile contexts. It highlights the importance of balancing accountability and support, aligning with the core themes of practical problem-solving and real-world applications of Agile principles. The depth of discussion is substantial, providing a clear example and takeaway, but it could benefit from more explicit strategies or techniques for navigating such situations.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T22:49:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a negative experience with a Product Owner during a Sprint review, focusing on team dynamics rather than Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T11:46:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner in a Scrum context, focusing on accountability and support within the team. It does not mention Lead Time or its significance as an observability metric, nor does it explore its relationship with Cycle Time or any techniques for measuring Lead Time. The discussion is centred around team dynamics and stakeholder interactions, which are not aligned with the core themes of Lead Time. Therefore, the confidence score reflects a very low relevance to the category.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,11 +967,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T22:49:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific incident involving a Product Owner during a Sprint review, which relates to the delivery of working software and the importance of stakeholder feedback. However, the primary focus is on the negative experience rather than on broader principles or practices of working software.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses the role of a Product Owner in a Scrum context, highlighting the importance of supporting the development team and aligning with stakeholder expectations. While it touches on the dynamics of a Sprint Review, it does not focus on the delivery of functional software or best practices for ensuring software quality. The discussion is relevant but lacks depth in terms of working software characteristics and metrics.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -1054,21 +1006,24 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T22:49:56",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T22:49:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific experience related to the role of a Product Owner within a Scrum framework, which is a key aspect of Agile methodologies in software development.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within the Scrum framework, which is a key aspect of Agile methodologies in software development. It highlights the importance of accountability and support in team dynamics during the Sprint Review process. While it does not delve deeply into technical practices or methodologies, it aligns well with the core themes of Agile and Scrum, thus justifying a relatively high confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1115,15 +1070,6 @@
     "reasoning": "Content primarily discusses a negative experience with a Product Owner during a Sprint review, rather than focusing on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T22:50:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in a Scrum context, which is related to Agile practices, but the primary focus is on the product owner's actions rather than the developers' roles or practices.",
-    "level": "Tertiary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T22:50:07",
@@ -1144,30 +1090,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T22:50:10",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a negative experience related to Scrum roles and team dynamics, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T22:50:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the actions and responsibilities of a Product Owner during a Sprint review, highlighting the impact of their behaviour on the development team and stakeholder engagement.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner, particularly in the context of a Sprint Review, highlighting their responsibilities in managing stakeholder expectations and supporting the development team. It provides a detailed account of a misstep by a Product Owner, illustrating the importance of accountability and support, which aligns well with the core themes of the category. However, while the content is focused on the Product Owner's role, it also touches on broader Scrum dynamics, which slightly detracts from its primary focus.",
     "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T22:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a negative experience related to a product owner's behaviour during a Sprint review, lacking broader industry news or reviews.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1198,30 +1138,36 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T22:50:18",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a negative experience related to a product owner's role in a Sprint review, focusing on synchronous team dynamics rather than asynchronous development principles.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T22:50:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Product Owner in an Agile context, highlighting the impact of their actions on team dynamics and performance, which aligns with Agile Leadership themes. However, it primarily focuses on a specific negative experience rather than broader leadership strategies or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Product Owner within a Scrum Team, highlighting the importance of accountability and support, which aligns with Agile Leadership principles. However, it primarily focuses on a specific incident rather than broader leadership strategies or concepts, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T22:50:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the negative impact of a product owner's behaviour on team dynamics and morale during a Sprint review, highlighting issues related to support and accountability within the team context.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Product Owner in supporting the Scrum Team, which touches on team dynamics and accountability. However, it primarily focuses on a specific incident rather than broader strategies for team motivation. While it highlights the importance of support and collaboration, it lacks a comprehensive exploration of techniques or practices that enhance overall team motivation.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1234,30 +1180,24 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T22:50:24",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience with a product owner's behaviour during a Sprint review, rather than focusing on methodologies or practices related to validating product ideas with users.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T22:50:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:45:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a negative experience with a Product Owner during a Sprint review, focusing on team dynamics rather than throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner in a Scrum context, focusing on accountability and support within the team. While it touches on aspects of team dynamics and stakeholder expectations, it does not explicitly mention throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The discussion is more about interpersonal relationships and responsibilities rather than measurable delivery capacity, which is the core of the throughput category. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:50:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner within the context of a Sprint review, highlighting Scrum events and team dynamics.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1270,11 +1210,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T22:50:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:46:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within the Scrum framework, focusing on team dynamics and accountability rather than any aspects of system configuration. There are no direct mentions of system setup, configuration management, or related best practices. The discussion is centred around Agile methodologies and team interactions, which do not align with the core themes of system configuration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,21 +1231,12 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T22:50:34",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T22:50:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses a specific incident involving a Product Owner during a Sprint review, highlighting the importance of roles and responsibilities within Scrum, but does not provide a comprehensive exploration of Scrum practices.",
-    "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1315,10 +1249,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T22:50:39",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a negative experience with a Product Owner during a Sprint review, which does not relate to the Definition of Done.",
     "level": "Ignored"
   },
@@ -1351,12 +1285,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T22:50:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific incident involving a Product Owner during a Sprint review, highlighting issues related to team dynamics and accountability, which are relevant to organisational agility. However, it primarily focuses on a negative experience rather than broader strategies or practices that enhance agility.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Product Owner within a Scrum Team, highlighting the importance of accountability and support in Agile practices. While it touches on Agile principles, it primarily focuses on a specific incident rather than broader organisational agility strategies or frameworks. The discussion lacks depth in exploring how this incident relates to overall organisational adaptability or responsiveness, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1374,6 +1311,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a product owner in a Scrum context, which is not directly related to Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:57:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:57:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the role of a Product Owner in a Scrum context, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner within the context of a Sprint review, which is a key event in the Scrum framework. It highlights a specific scenario that reflects on team dynamics and the importance of support from the Product Owner. While it does not cover all aspects of Scrum, such as other roles or events, it provides a detailed account of a Scrum-related experience, demonstrating a clear understanding of the principles involved.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum framework, focusing on accountability and support rather than integrating testing, security, or compliance early in the development process. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes or provide depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner in a Scrum context, focusing on accountability and support within the team. While it touches on themes of collaboration and stakeholder management, it does not explicitly address Continuous Improvement principles or practices. The discussion lacks depth in terms of strategies for fostering a culture of experimentation or integrating Continuous Improvement into processes, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a Product Owner within a Scrum team, highlighting the importance of accountability and support. However, it primarily focuses on a specific negative experience rather than the broader concept of Common Goals. While it touches on themes of collaboration and stakeholder expectations, it lacks a detailed exploration of how these elements connect to shared objectives or strategic alignment within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a Product Owner in a Scrum team, highlighting the importance of accountability and support, which aligns with the concept of competence. However, it primarily focuses on a specific incident rather than a broader discussion on continuous learning or skill development, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:36:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within the Scrum framework, focusing on accountability and support in Agile practices. It does not mention the One Engineering System (1ES) or its principles, components, or implementation. The discussion is centred on Scrum, which is outside the scope of 1ES, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum framework, focusing on accountability and support rather than the intentional shaping of outcomes through autonomy and adaptability. While it touches on aspects of accountability, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:45:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of a Product Owner within a Scrum framework, highlighting the importance of accountability and support in product development. It directly mentions Scrum practices and the responsibilities of a Product Owner, which aligns with the principles of Agile product development. The depth of discussion is moderate, focusing on a specific incident but providing valuable insights into the dynamics of team collaboration and stakeholder management. However, it lacks broader discussions on methodologies or continuous improvement practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:45:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum framework, focusing on accountability and support rather than the principles of Open Space Agile. While it touches on themes of collaboration and team dynamics, it does not explicitly mention Open Space Agile or its core tenets. The discussion lacks depth regarding Open Space Technology and its application in Agile contexts, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:45:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within the Scrum framework, discussing specific incidents and behaviours rather than the broader principles of Agnostic Agile. While it touches on accountability and support, which are relevant to agile practices, it does not engage with the core themes of Agnostic Agile, such as ethical considerations or the importance of adapting methods based on context. The discussion is heavily centred on Scrum mechanics, which detracts from its alignment with the Agnostic Agile philosophy.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:45:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within a Scrum framework, discussing accountability and support in team dynamics. While it touches on aspects of collaboration and stakeholder management, it does not delve into scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The discussion is more about individual roles and responsibilities rather than the broader strategies and frameworks necessary for scaling Agile practices across an enterprise.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:45:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum framework, focusing on accountability and support in Agile practices. It does not mention or align with the principles of Cell Structure Design, such as decentralisation, autonomous cells, or the Beta Codex. The discussion is centred around traditional Scrum roles rather than the organisational design model described in the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:45:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within a Scrum framework, discussing accountability and support in Agile environments. However, it does not mention Liberating Structures or their techniques, nor does it explore the principles of facilitation or group dynamics that are central to the category. The discussion is more about individual roles and responsibilities rather than collective engagement or facilitation methods.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:45:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner in a Scrum context, focusing on accountability and support within the team. While it touches on stakeholder expectations, it does not explicitly address Time to Market or its associated metrics, strategies, or impacts. The discussion is more about team dynamics and individual performance rather than optimising processes for quicker delivery of value.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:45:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within a Scrum framework, discussing accountability and support in team dynamics. It does not explicitly mention the concept of 'Company as a Product' or align with its core themes, such as organisational design or customer-centric strategies. The discussion is limited to a specific incident and lacks depth regarding broader organisational strategies or the integration of customer feedback into organisational design.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:45:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum framework, focusing on accountability and team dynamics. It does not mention GitHub or its functionalities, nor does it relate to GitHub's services or tools. The discussion is centred around Agile and Scrum principles without any direct connection to GitHub, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:45:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within a Scrum team and discusses a specific incident of poor performance. While it touches on themes of accountability and support, it does not explicitly mention or explore the concept of Unrealised Value or its indicators. The discussion is more about operational issues rather than potential improvements or innovation opportunities, which are central to the category of Unrealised Value. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:45:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner in a Scrum context, focusing on accountability and support within the team. While it touches on stakeholder expectations and team dynamics, it does not explicitly address Current Value or its measurement. The discussion lacks depth in terms of metrics or techniques for assessing value, which are crucial for the Current Value category. Therefore, the confidence score reflects a low alignment with the core themes of Current Value.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:45:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner within a Scrum framework, focusing on accountability and support in team dynamics. While it touches on themes relevant to Agile practices, it does not explicitly address Hybrid Agile or the challenges of merging traditional and agile methodologies. The discussion lacks critical examination of Hybrid Agile's implications, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:45:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner within the Scrum framework, discussing specific incidents and behaviours rather than broader project management principles or methodologies. While it touches on accountability and stakeholder expectations, it lacks a comprehensive exploration of project management concepts such as planning, execution, or risk management. The discussion is limited to a specific agile role and does not integrate into a wider project management context, which diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 55.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the role of the Product Owner within the Scrum framework and emphasizes how their behavior affects team dynamics and decision-making. It mentions the importance of accountability and support, which ties into the principles of customer collaboration and respect for people. However, the focus is more on a specific incident rather than a thorough exploration of the principles themselves, which affects the overall confidence score. Additionally, while actionable principles are lightly implied, they are not deeply articulated, limiting the depth of the discussion.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the role of a Product Owner and their responsibilities within a Scrum framework but does not mention any specific tools or provide any discussions related to tools. It mainly focuses on a misstep in agile practices rather than analyzing or recommending tools that assist in Agile or Scrum methodologies. As such, the content very loosely aligns with the Tool category, earning only a modest confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content references values related to the Scrum framework, particularly around accountability and support, which are foundational aspects of Agile values. It discusses the importance of a product owner balancing stakeholder expectations and team support, aligning with core themes related to values in organizational behavior. However, while the content touches on these values, it does not deeply analyze them, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific incident involving a Product Owner in a Scrum environment, focusing on practices, situations, and roles rather than exploring deeper philosophical questions or frameworks behind Agile principles. While it touches upon implications for team dynamics and accountability, it lacks a broader philosophical discussion on why such practices matter or the theoretical foundations of Agile as a whole.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 55.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the role of a Product Owner within the Scrum framework, focusing on accountability and support in team dynamics, which aligns with the principles of Agile discipline. However, it primarily emphasizes individual practices and anecdotes rather than a systemic view of discipline as a whole. It does mention Agile principles and expectations, but lacks depth in discussing broader governance or the evolution of discipline.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on the behavior and performance of a Product Owner within a Scrum setting, emphasizing team dynamics and accountability, rather than discussing specific artifacts such as the Product Backlog or Sprint Backlog. While it involves Scrum roles, it does not align directly with the concept of artifacts as defined in the category, which focuses on tangible constructs that provide transparency in Agile processes. There are only brief mentions of Scrum events and roles without exploration into particular artifacts.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the role of a Product Owner in a Scrum environment, discussing accountability and team support. However, it does not reference observability or related topics such as metrics, logs, or traces. The discussions are centered on team dynamics and expectations rather than how to measure or understand system states, which makes it only tangentially related to observability at best.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 30.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of a Product Owner in the context of a negative experience during a sprint review. While it touches on the importance of supporting the development team, which aligns with the principles of Agile practices, it does not provide actionable techniques or consistent practices to enhance team performance. The discussion is more of a narrative about a failure rather than a focused examination of a specific practice, leading to low confidence in the content's alignment with the 'Practice' category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 43.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 43.0,
+    "reasoning": "The content discusses the role of a Product Owner within Scrum, referring to the accountability and support aspects of their position. However, it primarily focuses on a negative example and general reflections rather than providing structured, step-by-step procedures or methodologies characteristic of the Method category. The content engages with the concept of roles in Scrum but lacks detailed procedural insights on how to effectively execute those roles. Therefore, while relevant, it does not delve deeply into the structured methodologies needed for achieving goals within Agile.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 22.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the role of a Product Owner within the Scrum framework, but it does not explicitly focus on conceptual models or frameworks relevant to decision-making in Agile contexts. There is a mention of the accountability and support expected from a Product Owner, which is tangentially related to the idea of models in Agile but lacks the depth and specific model discussion required for this category. Overall, the content is more anecdotal and focuses on the performance of a single role rather than on conceptual frameworks or their applications.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 30.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the role of the Product Owner within a Scrum framework, highlighting issues that arise during a Sprint Review. While it touches on Scrum principles, the overall focus is on a negative experience rather than providing a structured methodology or guidelines for implementing the framework. The discussion is more anecdotal and does not present a thorough analysis or comparison of frameworks. Therefore, while it is related to Scrum, it does not fit well within the comprehensive framework category as defined.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content discusses the role of a Product Owner in a Scrum context and highlights the importance of accountability and support, it does not articulate specific tenets or actionable guiding rules that shape decision-making within an organization. The focus is more on a personal anecdote about poor practices rather than a discussion of defined principles or tenets central to Agile and Scrum methodologies.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "ekUL1oIMeAc",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the role and responsibilities of a Product Owner within a Scrum team but primarily focuses on the negative consequences of poor performance rather than on the capabilities that empower teams or organizations. While it briefly touches upon the importance of balancing support and accountability, it does not delve into the broader implications of capabilities or strategies for developing them. Instead, it emphasizes isolated practices and roles, resulting in a limited alignment with the Capability category.",
     "level": "Ignored"
   }
 }

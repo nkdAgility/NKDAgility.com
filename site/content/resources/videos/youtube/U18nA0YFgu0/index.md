@@ -2,8 +2,10 @@
 title: '7 deadly sins of Agile: Wrath'
 description: "Explore the impact of wrath in agile teams! Discover how blame deflection and lack of accountability disrupt productivity. Watch now! \U0001F680\U0001F4CA"
 date: 2023-10-16T11:00:31Z
+weight: 640
 ResourceId: U18nA0YFgu0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: U18nA0YFgu0
@@ -15,33 +17,32 @@ preview: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg
 duration: 262
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-wrath
-- /resources/videos/wrath!-7-deadly-sins-of-agile
-- /resources/videos/U18nA0YFgu0
-- /resources/wrath!-7-deadly-sins-of-agile
 - /resources/U18nA0YFgu0
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-wrath
+- /resources/videos/wrath-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-wrath
+- /resources/videos/7-deadly-sins-of-agile-wrath
 - /resources/7-deadly-sins-of-agile-wrath
 - /resources/videos/wrath!-7-deadly-sins-of-agile
 - /resources/wrath!-7-deadly-sins-of-agile
+- /resources/videos/wrath-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-wrath
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Accountability
-- People and Process
-- Organisational Culture
-- Transparency and Accountability
-- Agile Project Management
+- Continuous Learning
+- Team Performance
+- Team Collaboration
 - Agile Philosophy
-- Personal
-- Software Development
-- Software Developers
-- Pragmatic Thinking
+- Organisational Culture
+- Psychological Safety
+- Team Motivation
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 
@@ -58,10 +59,10 @@ In the dynamic world of Agile, wrath often lurks in the shadows, manifesting as 
 
 - **Breaking the Cycle of Blame**: The key to overcoming wrath in Agile teams is to foster an environment where accountability is valued more than blame. This means creating a culture where it's safe to make and admit mistakes. 
 
-- **Product Owner's Role in Accountability**: In situations where questions are raised about the team's decisions, the Product Owner should step in, owning the decisions made, and steer the conversation towards constructive feedback and potential improvements. 
+- **[Product Owner]({{< ref "/tags/product-owner" >}})'s Role in Accountability**: In situations where questions are raised about the team's decisions, the Product Owner should step in, owning the decisions made, and steer the conversation towards constructive feedback and potential improvements. 
 
 - **Encouraging Risk-Taking and Learning**: Teams should be encouraged to experiment and learn from outcomes. This attitude helps in breaking the cycle of wrath and promotes a more resilient and adaptive team culture. 
 
 **Conclusion: Embracing Mistakes as Stepping Stones 🌟🌈** 
 
-To truly thrive in an Agile environment, it's essential to transform the wrathful tendency of seeking blame into a culture of shared accountability and continuous learning. By doing so, teams can move beyond the fear of being wrong and embrace each challenge as an opportunity to grow and innovate. Remember, in Agile, it's not about avoiding mistakes; it's about how we respond to and learn from them.
+To truly thrive in an Agile environment, it's essential to transform the wrathful tendency of seeking blame into a culture of shared accountability and [continuous learning]({{< ref "/tags/continuous-learning" >}}). By doing so, teams can move beyond the fear of being wrong and embrace each challenge as an opportunity to grow and innovate. Remember, in Agile, it's not about avoiding mistakes; it's about how we respond to and learn from them.

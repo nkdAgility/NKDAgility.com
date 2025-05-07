@@ -2,36 +2,36 @@
 title: 'Rethinking Budgeting: How to Break Free from Traditional Constraints and Maximise Value'
 description: Break free from traditional budgeting! Discover how Beyond Budgeting fosters agility, maximises value, and seizes opportunities in a dynamic market.
 date: 2024-12-09T06:30:00Z
+weight: 1000
 ResourceId: kXhJrisYofU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kXhJrisYofU
 source: youtube
 url: /resources/videos/:slug
-slug: agile-budgeting-for-predictable-costs
+slug: rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 layout: video
 aliases:
-- /resources/videos/kXhJrisYofU
-- /resources/videos/agile-budgeting-for-predictable-costs
-- /resources/agile-budgeting-for-predictable-costs
 - /resources/kXhJrisYofU
-aliasesFor404:
+- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
+- /resources/videos/agile-budgeting-for-predictable-costs
+aliasesArchive:
+- /resources/videos/rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 - /resources/videos/agile-budgeting-for-predictable-costs
 - /resources/agile-budgeting-for-predictable-costs
+- rethinking-budgeting-how-to-break-free-from-traditional-constraints-and-maximise-value
 preview: https://i9.ytimg.com/vi/kXhJrisYofU/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCuCmAp98BMQG6vEAhRCo2oBtgP4g
 duration: 496
 isShort: false
 tags:
-- Agile Project Management
-- Agile Product Operating Model
-- Agile Product Management
-- Agile Values and Principles
-- Change Management
-- Resilience and Change
-- People and Process
+- Business Agility
+- Organisational Agility
+- Pragmatic Thinking
+- Value Delivery
 - Market Adaptability
-- Agile Planning
+- Enterprise Agility
 - Agile Strategy
 sitemap:
   filename: sitemap.xml
@@ -40,7 +40,7 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
+- Product Development
 
 ---
 In the world of traditional budgeting, we often find ourselves entrenched in a cycle that feels more like a battleground than a strategic planning session. Each year, we gather around the table, armed with our spreadsheets and projections, ready to fight for our share of the budget pie. It’s a familiar scene: departments squabbling over funds, each vying for the largest slice, knowing that if they don’t spend their allocated budget, they risk losing it the following year. 
@@ -55,13 +55,13 @@ Let’s take a moment to reflect on the implications of this traditional model:
   
 - **Missed Opportunities**: Imagine a scenario where a brilliant idea emerges mid-year, one that could capture a significant market opportunity. However, because it wasn’t included in the annual budget, it’s sidelined, and we lose out on potential revenue and growth.
 
-- **Unrealised Value**: In the realm of evidence-based management, we often talk about unrealised value. This is the value that exists in our backlog but isn’t being acted upon. The traditional budgeting cycle makes it incredibly difficult to adapt to these shifts, leading to a backlog that doesn’t reflect the true potential of our products.
+- **[Unrealised Value]({{< ref "/tags/unrealised-value" >}})**: In the realm of evidence-based management, we often talk about unrealised value. This is the value that exists in our backlog but isn’t being acted upon. The traditional budgeting cycle makes it incredibly difficult to adapt to these shifts, leading to a backlog that doesn’t reflect the true potential of our products.
 
 ### Embracing Beyond Budgeting
 
 So, how do we break free from this cycle? Enter the concept of **Beyond Budgeting**. This approach encourages organisations to rethink their budgeting processes, allowing for more flexibility and responsiveness. Here’s what I’ve learned from my experiences:
 
-- **Dynamic Funding**: Instead of allocating all funds at the start of the year, consider a model where you have a pool of finance available. This allows you to allocate resources to projects as they arise, based on their current value and potential impact.
+- **Dynamic Funding**: Instead of allocating all funds at the start of the year, consider a model where you have a pool of finance available. This allows you to allocate resources to projects as they arise, based on their [current value]({{< ref "/tags/current-value" >}}) and potential impact.
 
 - **Iterative Investment**: In the agile world, we’re accustomed to delivering working products to our customers frequently. This principle can be applied to budgeting as well. By assessing projects regularly, you can decide whether to continue funding them or pivot to new initiatives that offer greater value.
 

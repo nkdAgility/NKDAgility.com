@@ -1,20 +1,23 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T14:12:17",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on discovering unrealised value in a product and metrics related to product performance, rather than the stages or practices of Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T14:12:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the identification of unrealised value through metrics, aligning closely with evidence-based management principles and the role of metrics in understanding product dynamics.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the concept of unrealised value and the importance of metrics in understanding potential gaps in product value, which aligns well with the core themes of the category. It mentions evidence-based management and suggests specific metrics to consider, indicating a strong conceptual alignment. The depth of discussion is substantial, as it explores how to identify and measure these gaps, although it could benefit from more detailed examples or case studies.",
     "level": "Secondary"
   },
   "Install and Configuration": {
@@ -46,12 +49,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:12:23",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of unrealised value within the framework of evidence-based management, highlighting the importance of metrics and data-driven approaches to identify potential value gaps in a product.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) and its application in identifying unrealized value in products. It provides a clear definition of unrealized value and outlines specific metrics and practical approaches to measure and act on this value, aligning closely with the core themes of EBM. The depth of discussion is substantial, offering detailed examples and actionable insights, which reinforces its primary focus on EBM.",
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -71,40 +77,13 @@
     "reasoning": "Content primarily focuses on identifying unrealised value in products through evidence-based management, without a clear emphasis on Systems Thinking principles or interconnectedness.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:12:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product value and evidence-based management, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:12:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses discovering unrealised value in a product through evidence-based management, without a clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T14:12:31",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on identifying unrealised value in a product rather than discussing strategies or practices that enhance market adaptability.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T14:12:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on metrics and product value rather than the interplay between human behaviour and structured methodologies.",
+    "reasoning": "Content primarily focuses on identifying unrealised value in a product rather than discussing strategies or practices that enhance market adaptability.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -125,22 +104,16 @@
     "reasoning": "Content heavily discusses evidence-based management principles and metrics related to product value, which are directly linked to established Agile practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:12:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product value discovery and evidence-based management, lacking a clear connection to industry news or reviews.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T14:12:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses strategies for identifying and measuring unrealised value in a product, aligning with key topics of value delivery and evidence-based management.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the concept of unrealised value and mentions evidence-based management, which aligns with the principles of measuring and maximising customer value. However, while it touches on relevant topics, the depth of discussion is somewhat limited, focusing primarily on identifying gaps rather than providing comprehensive strategies or methodologies for value delivery.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
@@ -163,21 +136,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T14:12:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses evidence-based management and metrics related to unrealised value, which are central to Agile Product Management practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of unrealised value and evidence-based management, which are relevant to Agile Product Management. It mentions metrics and the product backlog, indicating a connection to prioritising product value. However, it lacks a direct focus on Agile methodologies or the role of the Product Owner, which limits its depth and direct mentions of Agile principles.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:12:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on discovering unrealised value in a product through evidence-based management, without addressing organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -190,39 +157,39 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T14:12:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and understanding value gaps, which are relevant to organisational agility, but the primary focus is on product value rather than agility practices or frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the concept of unrealised value and metrics, which can relate to organisational agility in terms of understanding customer needs and improving product value. However, it lacks a direct discussion on agile methodologies, leadership roles, or cultural shifts necessary for fostering agility. The focus is more on metrics rather than the broader strategies and practices that enhance organisational adaptability.",
     "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:12:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses evidence-based management and metrics for product value, without a focus on AI or automation in Agile practices.",
-    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T14:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses identifying unrealised value and metrics, which relates to decision-making processes, but it primarily focuses on product management rather than decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the concept of unrealised value and metrics, which relates to decision-making in uncertain environments. However, it lacks a direct focus on decision theory principles, such as heuristics, biases, or frameworks. The discussion is more about product management than decision-making processes, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:12:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of unrealised value in relation to product backlogs, which is a key aspect of Agile practices, but it primarily focuses on metrics and value discovery rather than the frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in identifying unrealized value, which aligns with the principles of continuous improvement and value delivery. However, while it touches on collaboration with stakeholders and prioritising product backlog, the primary focus is on metrics and product development rather than the broader social technologies framework. The depth of discussion on social frameworks is moderate, but it lacks a comprehensive exploration of self-organisation and collective intelligence.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -253,39 +220,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:12:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics related to unrealised value in products, which aligns with the theme of understanding and delivering value in a dynamic market. However, it primarily focuses on evidence-based management rather than broader principles of business agility.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the concept of unrealised value and metrics, which are relevant to business agility, but it lacks a direct focus on the principles and practices that enable organisations to adapt and innovate. The discussion is more centred on product management and metrics rather than a comprehensive exploration of business agility as a whole.",
     "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:12:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of unrealised value and metrics in product management without a clear focus on specific Agile or DevOps tools or methodologies.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:12:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product value and metrics, with no clear focus on events or presentations.",
-    "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:13:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses identifying unrealised value in a product, which relates to product delivery metrics and understanding customer needs, but it is not primarily focused on the end-to-end process of delivering usable software products.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of unrealised value in products, which relates to understanding customer needs and product metrics. However, it lacks explicit discussions on methodologies or practices directly tied to the end-to-end product delivery process. While it touches on metrics and the product backlog, it does not delve deeply into planning, testing, or deployment phases, which are crucial for a higher confidence score in the Product Delivery category.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -296,59 +251,41 @@
     "reasoning": "Content primarily focuses on discovering unrealised value in a product through metrics, without addressing broader organisational agility or its implications.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:13:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of unrealised value in products and references evidence-based management, which relates to Agile methodologies. However, it does not focus on specific products or literature, making it a secondary theme.",
-    "level": "Tertiary"
-  },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T14:13:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses identifying unrealised value and metrics related to product value, which aligns with Value Stream Management principles, but it primarily focuses on evidence-based management and product metrics.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of unrealized value and how to identify and act on it using Evidence-Based Management (EBM) metrics. While it touches on aspects of value delivery and continuous improvement, it primarily focuses on product management and metrics rather than the broader principles of Value Stream Management. The discussion of aligning product backlog with customer value is relevant, but the overall emphasis is more on product development practices than on the strategic approach of Value Stream Management.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:13:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to unrealised value in a product context, which aligns with the Agile Product Operating Model, but it is not the primary focus.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:13:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the product backlog, which is a key artifact in Scrum, and touches on evidence-based management, indicating a connection to Scrum principles, but it is primarily focused on discovering unrealized value rather than Scrum itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in identifying unrealized value, which aligns with the principles of the Agile Product Operating Model. However, while it touches on product management and continuous improvement, it lacks a comprehensive exploration of the APOM framework and its key topics, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:13:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses metrics related to product value and backlog management, which are not central to DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and product development, with a focus on identifying unrealized value. While it touches on concepts like continuous improvement and stakeholder engagement, which are relevant to DevOps, it does not explicitly address DevOps principles or practices. The discussion lacks depth in terms of DevOps culture, automation, or collaboration, leading to a low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:13:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses identifying unrealised value in a product, which relates to discovery and learning through evidence-based management and metrics. However, it primarily focuses on metrics rather than broader methodologies or processes of learning.",
-    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -357,15 +294,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses identifying unrealised value and metrics related to product management, rather than optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:13:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management and product value metrics, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -377,48 +305,36 @@
     "reasoning": "Content primarily discusses evidence-based management and metrics related to product value, without a clear focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on uncovering unrealized value in products and evidence-based management rather than Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:51:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on discovering unrealized value in a product and discusses metrics for product management, which does not relate to system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on discovering value in products and metrics related to evidence-based management, without discussing scaling Agile practices or coordination among multiple teams.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and strategies for identifying and realising product value, which are not directly related to system configuration. There are no explicit mentions of system configuration tools, practices, or methodologies. While there is a conceptual alignment with the idea of optimising product development, it lacks depth in discussing system setup, integration, or maintenance, which are core to the category of System Configuration.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses unrealized value and metrics within the context of product management, which aligns with the Agile principle of value delivery, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of unrealized value and how to identify it using Evidence-Based Management (EBM), which aligns with Agile principles of continuous improvement and customer collaboration. However, while it touches on Agile concepts, it primarily focuses on specific metrics and practices rather than the broader Agile philosophy itself. The discussion lacks depth in exploring the foundational principles of Agile, such as the Agile Manifesto or the cultural shifts required for Agile adoption.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T14:40:26",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on discovering unrealized value in products and metrics related to evidence-based management, not on change management principles or practices.",
     "level": "Ignored"
   },
@@ -433,11 +349,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses unrealized value in products and evidence-based management, without a clear focus on lead time or its measurement.",
+    "calculated_at": "2025-04-11T09:16:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and unrealized value in product development, with a focus on metrics like customer satisfaction and market share. While it touches on the importance of improving product delivery, it does not explicitly mention Lead Time or its measurement, nor does it delve into the relationship between Lead Time and Cycle Time. The discussion lacks depth regarding Lead Time as an observability metric, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -451,12 +370,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of unrealized value in the context of product development and mentions the product backlog, which is a Scrum artifact, indicating that Scrum principles are a significant part of the discussion.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of unrealized value and its relation to Evidence-Based Management (EBM), which is relevant to Scrum practices. It mentions the product backlog, a key Scrum artifact, and provides a real-world example from a Scrum Trainer's perspective. However, the primary focus is on EBM rather than Scrum principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -496,12 +418,15 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses measuring satisfaction and exploring unrealized value, which can relate to customer retention, but the primary focus on value discovery is not directly about retention strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the concept of unrealized value and how to measure it through customer satisfaction metrics, which directly relates to customer retention strategies. It provides detailed insights into identifying gaps in customer experience and suggests actionable steps to improve user satisfaction, thereby enhancing retention. The emphasis on continuous improvement and stakeholder engagement further aligns with the core themes of customer retention. However, while the focus is strong, it does not exclusively centre on retention strategies, hence the score is not at the maximum.",
+    "level": "Primary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -532,19 +457,22 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses identifying unrealized value in a product, which is related to delivering effective software that meets customer needs. However, it focuses more on value metrics and gap identification rather than directly discussing working software or Agile principles.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the concept of unrealized value in product development, which aligns with the principles of working software by emphasising the importance of delivering functional software that meets customer needs. It mentions metrics and customer feedback, which are crucial for ensuring software quality and functionality. However, while it touches on relevant themes, the primary focus is on identifying and acting on unrealized value rather than on the characteristics of working software itself, leading to a high but not perfect confidence score.",
+    "level": "Primary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T14:40:26",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses identifying unrealized value in a product and metrics related to product management, not specifically about release management processes.",
     "level": "Ignored"
   },
@@ -566,23 +494,17 @@
     "reasoning": "Content primarily discusses methods for identifying unrealized value in products through evidence-based management rather than focusing on continuous learning principles, growth mindset, or knowledge sharing.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses metrics for discovering unrealized value in a product, with an emphasis on evidence-based management rather than scaling Scrum practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses evidence-based management and the use of metrics to discover unrealized value in a product, aligning it closely with evidence-based leadership principles.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) and its application in identifying unrealized value in products, which aligns closely with the principles of Evidence-Based Leadership. It provides detailed metrics and practical approaches for data-driven decision-making, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, including real-world examples and actionable insights, reinforcing the importance of empirical evidence in leadership practices.",
+    "level": "Primary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -604,21 +526,27 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management and metrics related to unrealized value, which aligns with empirical process control principles, but is primarily focused on discovering value rather than directly focusing on empirical process control as a central theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in identifying unrealized value, which aligns with empirical process control principles. It mentions metrics and continuous improvement, key aspects of the category. However, the primary focus is on product value rather than a deep exploration of empirical process control itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to customer experience and satisfaction gaps in the context of discovering unrealized value in a product, indicating a significant, but not primary focus on customer satisfaction.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18.0,
+    "ai_alignment": 36.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content discusses customer satisfaction in the context of uncovering unrealized value through metrics like NPS and customer feedback. It aligns well with the principles of customer satisfaction, particularly in Agile practices, but the primary focus is on value discovery rather than customer satisfaction itself. The depth of discussion on customer satisfaction metrics is substantial, but it is part of a broader narrative about product value.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -658,12 +586,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "Content discusses metrics and understanding product value, which relates to the Product Owner's role in backlog management and identifying unrealized value.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in identifying and prioritising unrealised value through Evidence-Based Management (EBM). It explicitly mentions the product backlog and stakeholder engagement, which are key responsibilities of a Product Owner. The depth of discussion includes practical metrics and strategies for backlog management, aligning well with the core themes of the category. Overall, the content is focused on the Product Owner's role, providing substantial insights and actionable advice.",
+    "level": "Primary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -676,30 +607,36 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content focuses on uncovering unrealized value in products through evidence-based management, which is a key aspect of product management involving metrics and understanding customer satisfaction.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of unrealised value in products, which aligns with the strategic aspects of product management. It mentions evidence-based management and metrics, which are relevant to assessing product success. However, the discussion lacks depth in exploring methodologies or frameworks in product management, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T14:40:26",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses discovering unrealized value in a product, focusing on metrics rather than backlog refinement practices or techniques.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses discovering unrealized value in a product, which aligns with Lean principles of identifying value and understanding gaps, although it does not explicitly focus on Lean Product Development as a primary topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of unrealized value and the use of Evidence-Based Management (EBM) to identify gaps in product value, which aligns with Lean principles of maximising value and minimising waste. However, while it touches on continuous improvement and customer feedback, it does not explicitly mention Lean methodologies or techniques for waste elimination, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -730,12 +667,15 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses metrics related to understanding unrealized value in a product, which touches upon aspects of product strategy such as market analysis and customer-centric approaches. However, it lacks a comprehensive focus on defining a clear vision or roadmap, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the concept of unrealized value in product development, which aligns closely with product strategy principles. It explicitly mentions metrics, customer feedback, and competitive analysis, all of which are key components of product strategy. The depth of discussion is substantial, providing practical approaches and real-world examples that illustrate how to identify and act on unrealized value. However, while it touches on Agile principles, it does not delve deeply into the strategic frameworks or methodologies typically associated with product strategy, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -766,12 +706,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses metrics related to unrealized value and evidence-based management, which are relevant to operational efficiency and identifying gaps for improvement; however, it primarily focuses on value discovery rather than specific operational practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in identifying unrealized value, which aligns with operational practices aimed at improving efficiency and delivery. It mentions metrics and practical approaches, indicating a focus on continuous improvement and operational excellence. However, while it touches on relevant topics, the primary focus is more on product value discovery rather than directly on operational practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -793,21 +736,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to value delivery and metrics in the context of Agile practices, which aligns with Agile Strategy as a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on product value and metrics rather than the role of software developers in Agile and DevOps.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of unrealized value and how to identify it using Evidence-Based Management (EBM), which aligns with Agile principles of continuous improvement and customer-centric approaches. However, while it touches on Agile methodologies, the primary focus is on product development metrics rather than a comprehensive Agile strategy. The depth of discussion on strategic alignment and leadership roles is limited, which affects the overall confidence score.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -856,12 +793,15 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses identifying unrealized value in products, which is relevant to entrepreneurship in terms of innovation and value creation. However, it lacks a broader focus on overall entrepreneurial practices and strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of unrealized value in product development, which aligns with entrepreneurial principles of innovation and value creation. It mentions metrics and frameworks that can help identify opportunities for improvement, reflecting a mindset focused on growth and customer needs. However, the primary focus is on product management and metrics rather than broader entrepreneurial strategies or risk-taking, which limits its alignment with the core themes of entrepreneurship.",
+    "level": "Secondary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -892,12 +832,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses evidence-based management and metrics related to unrealized value, which are important for understanding and measuring innovation capabilities, making this a secondary theme.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the concept of unrealized value and how Evidence-Based Management (EBM) can be used to identify and measure this value, which aligns closely with the Ability to Innovate category. It provides a detailed exploration of metrics and frameworks for measuring innovation capabilities, emphasising continuous improvement and adaptability. The depth of discussion is significant, with practical examples and strategies for integrating these concepts into product development, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -928,11 +871,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:51:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses identifying unrealized value and metrics related to product evaluation, rather than focusing on throughput as defined in Agile and DevOps contexts.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses metrics and frameworks related to Evidence-Based Management (EBM) and unrealized value, but it does not explicitly focus on throughput as a delivery metric. While it mentions metrics and improvement processes, it lacks a direct analysis or visualisation of throughput, which is essential for a higher confidence score in this category. The discussion is more about identifying gaps and improving product value rather than measuring the completion of work items over time, which is the core of throughput.",
     "level": "Ignored"
   },
   "Windows": {
@@ -962,50 +908,53 @@
     "reasoning": "Content primarily discusses product value evaluation and evidence-based management, with no direct focus on employee engagement or related themes.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses concepts related to product backlog and metrics in the context of value discovery, which aligns with agile project management principles, but does not primarily focus on agile methodologies.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses metrics and understanding unrealized value, which are related to hypothesis-driven development, but it primarily focuses on identifying gaps and metrics without a central emphasis on hypothesis formulation or experimentation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and metrics for identifying unrealized value, which aligns with the principles of hypothesis-driven development. However, it lacks explicit mentions of hypothesis formulation and experimentation, focusing more on metrics and stakeholder engagement. The depth of discussion on hypothesis-driven practices is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of unrealized value in relation to metrics and product backlog, which are relevant to Agile planning and tools, but the main focus is on value discovery rather than Agile planning tools themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of unrealized value and its relation to product backlogs, which aligns with Agile planning principles. However, while it mentions backlog management and prioritisation, the primary focus is on Evidence-Based Management (EBM) rather than specific Agile planning tools or methodologies. The depth of discussion on Agile planning tools is moderate, but it lacks a comprehensive exploration of various tools or techniques typically associated with Agile planning.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses metrics and unrealized value in product management, which is irrelevant to Continuous Delivery principles and practices.",
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and the concept of unrealized value, which are related to improving product delivery and responsiveness to user needs. However, it does not explicitly focus on Continuous Delivery principles, practices, or automation in testing and deployment. The discussion is more centred on product management and metrics rather than the Continuous Delivery cycle itself.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses identifying gaps in potential product value, which relates to understanding customer needs and metrics in the context of product discovery, but it is not focused primarily on discovery methodologies or user research.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on identifying unrealized value in products, which aligns closely with the core themes of Product Discovery. It discusses methodologies such as Evidence-Based Management (EBM) and highlights techniques for gathering customer feedback, prioritising product features, and the importance of continuous improvement. The depth of discussion is substantial, providing specific metrics and actionable insights, which reinforces its relevance to the category.",
+    "level": "Primary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1036,21 +985,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses evidence-based management principles and the use of metrics to identify unrealized value in products, which aligns with structured decision-making processes.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses Evidence-Based Management (EBM) and its role in identifying unrealized value, which aligns closely with structured decision-making principles. It provides detailed metrics and frameworks for evaluating product value, demonstrating a strong conceptual alignment with decision-making methodologies. The depth of discussion is significant, as it includes practical steps for prioritising product backlog items based on empirical evidence and stakeholder input, showcasing a comprehensive approach to informed decision-making.",
+    "level": "Primary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management, which is related to software project management and product development, but is not primarily focused on software development methodologies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) in the context of software product development, focusing on identifying unrealized value through metrics and continuous improvement. It aligns closely with key topics in software development, such as Agile practices, product backlog management, and stakeholder engagement. The depth of discussion is substantial, providing practical approaches and real-world examples, which reinforces its relevance to the Software Development category.",
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1063,21 +1018,15 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the product backlog as a source of understanding unrealized value, but the primary focus is on identifying gaps in value rather than directly discussing backlog management or refinement techniques.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses metrics for evaluating product value and mentions the product backlog, indicating a connection to Scrum principles, but focuses more on discovering unrealized value rather than Scrum practices overall.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of unrealized value and its relationship to the product backlog, highlighting how identified gaps should inform backlog prioritisation. However, while it mentions the backlog and provides some actionable insights, the primary focus is on the broader concept of Evidence-Based Management and metrics rather than an in-depth exploration of backlog management techniques or practices.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1108,12 +1057,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of unrealized value in product management, which is related to measuring and understanding value in the context of a product backlog, a key element in Agile Planning. However, it does not focus primarily on Agile Planning methodologies or techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of unrealized value and how to identify it using Evidence-Based Management (EBM), which aligns with Agile principles of continuous improvement and adapting to customer needs. However, while it mentions the product backlog and prioritisation, the primary focus is on metrics and value discovery rather than the core methodologies and practices of Agile Planning. The depth of discussion on Agile Planning principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1153,12 +1105,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses evidence-based management and metrics related to understanding unrealized value in a product, which connects to validating product assumptions and customer needs, although it does not focus primarily on user engagement or testing methodologies.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its role in identifying unrealized value, which directly relates to validating product ideas through user feedback and metrics. It provides detailed methodologies for measuring customer satisfaction and market fit, aligning well with the core themes of product validation. The depth of discussion is significant, offering practical insights and real-world examples that illustrate the application of these concepts in product development.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -1171,10 +1126,10 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T14:40:26",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses discovering unrealized value in a product, which relates more to product management and metrics rather than managing a portfolio of projects and initiatives.",
     "level": "Ignored"
   },
@@ -1198,21 +1153,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses identifying unrealized value in a product using metrics, which is related to strategic alignment and value-driven approach, but it primarily focuses on product management rather than a broader strategic context.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product value and evidence-based management without a focus on AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the concept of unrealized value within the context of Evidence-Based Management (EBM), which aligns with Agile principles. It provides a detailed exploration of metrics and practical approaches to identify and act on gaps in product value, demonstrating a strong connection to strategic alignment and continuous improvement practices. The depth of discussion on prioritising product backlog items based on identified gaps further reinforces its relevance to the Strategy category.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1243,11 +1192,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on discovering unrealized value and metrics related to product management, rather than principles or practices of Test First Development.",
+    "calculated_at": "2025-04-08T16:08:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and unrealized value in product development, with no direct mention of Test First Development principles or practices. While it touches on metrics and continuous improvement, it does not align with the core themes of Test First Development, such as defining success criteria before implementation or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1270,21 +1222,27 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on practical strategies for identifying unrealized value in a product, which aligns with evidence-based management and the pragmatic application of metrics to enhance productivity and decision-making.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content discusses practical strategies for identifying and addressing unrealized value in products using Evidence-Based Management (EBM) metrics. It aligns well with the core themes of pragmatic thinking by emphasising real-world applications, continuous improvement, and stakeholder engagement. The depth of discussion is substantial, providing a case study that illustrates the application of these concepts in an Agile context, which enhances its relevance to the category.",
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content mentions market share as part of discussing potential value and metrics for product evaluation, but it is not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses market share as one of the metrics for identifying unrealized value in a product. While it mentions competitive analysis and the importance of understanding market position, the primary focus is on uncovering value rather than directly strategising for market share growth. The discussion on market share is present but not the main theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1295,23 +1253,17 @@
     "reasoning": "Content primarily focuses on product value discovery and evidence-based management, with no clear emphasis on coaching practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on discovering unrealized value in a product and discusses metrics related to product management, rather than on scaling agile practices across an organization.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T14:40:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product value and evidence-based management metrics rather than the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in identifying unrealized value in products, which is relevant to Scrum practices. However, it does not explicitly focus on the Scrum Master role or its responsibilities. While there are mentions of product backlog and stakeholder engagement, the primary focus is on product management rather than the Scrum Master’s influence or techniques. The depth of discussion on Scrum Master-specific topics is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1324,10 +1276,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T14:40:26",
+    "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses unrealized value in product management and evidence-based management metrics without focusing on Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
@@ -1340,7 +1292,7 @@
     "reasoning": "The content largely discusses unrealized value and metrics rather than the delivery of software increments within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T14:40:26",
     "ai_confidence": 0,
@@ -1374,6 +1326,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on discovering unrealized value and metrics in product management, with no clear discussion on Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:43:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses evidence-based management and unrealised value in products, with no clear focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:43:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses product value discovery and evidence-based management, with no clear focus on AI applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions the product backlog, which is a key artifact in Scrum, indicating some relevance to the Scrum framework. However, it primarily focuses on the concept of unrealised value and evidence-based management without delving deeply into Scrum roles, events, or principles. The discussion lacks substantial detail on Scrum practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and the concept of unrealized value in product development, which does not directly address the Shift-Left Strategy. While there are mentions of metrics and continuous improvement, these are not specifically tied to integrating testing, security, or compliance earlier in the development process, which is the core of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its role in identifying and acting on unrealized value, which aligns closely with the principles of Continuous Improvement. It highlights the importance of metrics, stakeholder engagement, and iterative development, all of which are core to fostering a culture of continuous enhancement. The depth of discussion on practical applications and real-world examples further supports a high confidence score.",
+    "level": "Primary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of unrealized value and how to identify it using Evidence-Based Management (EBM), which indirectly relates to aligning team efforts with strategic goals. However, it primarily focuses on metrics and practical approaches rather than explicitly addressing the foundational principles of Common Goals in Agile and DevOps. The mention of product backlog prioritisation hints at alignment but lacks depth in discussing shared objectives or strategic commitments.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of unrealized value and the importance of continuous improvement through Evidence-Based Management (EBM), which aligns with the principles of competence. However, while it touches on metrics and stakeholder engagement, it does not delve deeply into the continuous learning aspect or the development of skills, which are central to the competence category. The focus is more on product value rather than on the competence of individuals or teams.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:54:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and unrealized value in product development, which are not directly related to the One Engineering System framework. While there are mentions of metrics and product backlogs, these concepts do not align with the core themes of 1ES, such as integration of tools and processes across teams or standardisation of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of unrealized value and the use of Evidence-Based Management (EBM) to identify and act on gaps in product value. However, it primarily focuses on metrics and practical approaches rather than explicitly addressing Agentic Agility principles such as intentional shaping of outcomes, the distinction between human and AI capabilities, or the role of accountability and reflection. While there are elements of adaptability and proactive intervention, the discussion lacks depth in exploring the transformative capacity of individuals and systems in a socio-technical context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:50:56",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 20,
+    "final_score": 92.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) and its role in identifying unrealized value in products, which aligns closely with the principles of Agile product development and continuous improvement. It provides detailed insights into metrics for assessing customer satisfaction and market share, which are crucial for iterative development processes. The depth of discussion is significant, as it includes practical steps for integrating these insights into the product backlog and emphasises stakeholder engagement, further reinforcing its relevance to product development methodologies. Overall, the content is highly focused on product development, making it a strong fit for the category.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:51:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and how to uncover unrealized value in products, with no direct mention of Liberating Structures or their techniques. While it touches on collaboration and stakeholder engagement, these concepts are not explored in the context of Liberating Structures. The focus is on metrics and product development rather than facilitation techniques or group dynamics, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:51:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in identifying unrealized value in products, which aligns with project management principles of continuous improvement and stakeholder engagement. However, it primarily focuses on product development rather than broader project management methodologies or lifecycle phases. While it mentions the product backlog and prioritisation, which are relevant to project management, the depth of discussion is more centred on product management practices rather than comprehensive project management strategies. Therefore, while there is a significant connection to project management, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:51:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and how to uncover unrealized value in products, with no direct mention of Open Space Agile principles or practices. While it touches on Agile concepts like continuous improvement and stakeholder engagement, it lacks a focus on the collaborative and emergent aspects of Open Space Agile. The discussion does not align with the core themes of Open Space Agile, which emphasises collective participation and psychological safety in organisational change.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:51:12",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
+    "non_ai_confidence": 10,
+    "final_score": 92.0,
+    "reasoning": "The content explicitly discusses the concept of unrealised value, providing a clear definition and exploring its significance within Evidence-Based Management (EBM). It outlines various metrics for identifying unrealised value, such as customer satisfaction and market share, which aligns well with the key topics of the category. The depth of discussion is substantial, including practical strategies for measuring and acting on unrealised value, as well as a real-world case study that illustrates the concept in action. Overall, the content is highly relevant and focused on the category, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:51:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of unrealized value and how to identify and act on it using Evidence-Based Management (EBM) metrics. While it does mention the importance of delivering value efficiently and includes metrics that could relate to Time to Market, the primary focus is on uncovering unrealized value rather than explicitly addressing the speed of delivering products to market. The discussion on prioritising the product backlog and continuous improvement aligns with Time to Market principles, but the depth of discussion on specific Time to Market metrics is limited. Overall, the content is relevant but not solely focused on Time to Market, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:51:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the concept of unrealized value within the framework of Evidence-Based Management (EBM), which is a key aspect of Current Value. It provides a clear definition of unrealized value and outlines various metrics for measuring it, such as customer satisfaction and market share. The depth of discussion is significant, as it includes practical techniques for identifying gaps and actionable insights for product backlog prioritisation. Overall, the content aligns well with the core themes of Current Value, making it a strong candidate for this classification.",
+    "level": "Primary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:51:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and how to uncover unrealized value in a product, focusing on metrics and customer feedback. While it touches on customer-centric strategies, it does not explicitly frame the company as a product or discuss organisational design in the context of CaaP. The discussion lacks depth regarding the principles of CaaP and does not explore the broader implications for organisational culture or cross-functional collaboration, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:51:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and how to uncover unrealized value in products, which is related to value delivery but does not specifically address scaling methodologies or frameworks. While it touches on metrics and stakeholder engagement, it lacks a primary focus on scaling Agile practices or cross-team collaboration, which are essential for the 'Scaling' category. The discussion is more about improving individual product value rather than coordinating multiple teams or managing dependencies at scale.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:51:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and how to uncover unrealized value in products, without any explicit mention of Hybrid Agile or its challenges. While it touches on agile principles like continuous improvement, it does not critically examine the integration of traditional and agile methodologies, nor does it address the specific pitfalls associated with Hybrid Agile. Therefore, the confidence score reflects a very low alignment with the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:51:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and its role in identifying unrealized value in products. While it touches on agile principles like continuous improvement and stakeholder engagement, it does not explicitly mention Agnostic Agile or its core principles. The focus is more on specific metrics and practices rather than a broader discussion of agility tailored to context, which is central to Agnostic Agile. Therefore, while there is some alignment with agile principles, the lack of direct mention and depth regarding Agnostic Agile results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:51:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and product development strategies without any direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not specifically relate to GitHub services, tools, or practices. The discussion lacks depth in terms of GitHub-related topics, making it largely irrelevant to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:51:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and how to uncover unrealized value in products, with no direct mention of Cell Structure Design or its principles. While it touches on concepts of value delivery and continuous improvement, these are not aligned with the core themes of Cell Structure Design, which focuses on decentralised organisational structures and autonomous cells. The discussion lacks depth regarding the characteristics or functions of cells, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:18",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) as a method for uncovering unrealized value, which indirectly ties to principles of Continuous Improvement and Value Delivery. It mentions actionable metrics and involves stakeholders, aligning with principles of Adaptability and Customer Collaboration. However, while the content discusses principles, it emphasizes value and insights without directly linking to broader guiding principles of Agile, Lean, or DevOps in a structured manner. Therefore, while relevant, it does not fully meet the stringent criteria for the 'Principle' category.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 38.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 38.0,
+    "reasoning": "The content provides an overview of Evidence-Based Management (EBM) and discusses its metrics and processes for identifying unrealized value in a product. However, while it touches upon tools for gathering insights (like surveys and customer feedback), the primary focus is on the concept and methodology of EBM rather than a detailed examination of specific tools that implement these practices or how they fit within Agile or DevOps frameworks. The content lacks in-depth discussion about specific tools and their functionalities, thus fitting poorly in the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 50,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content discusses the concept of 'unrealized value' and emphasizes the importance of metrics in product development, it mainly focuses on practical approaches for delivering value rather than exploring the underlying values that guide decisions. The explicit mentions are primarily about value in a deliverable sense rather than articulating core beliefs or principles. Although there is some reference to continuous improvement, which could relate to values, it does not delve deeply into the foundational values that influence team dynamics or decision-making.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 22.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in identifying unrealized value, which has philosophical implications regarding decision-making and prioritization in product development. However, the content is primarily focused on practical applications, metrics, and specific steps to implement EBM, rather than exploring the foundational beliefs or theoretical aspects that underpin the philosophy itself. The mention of stakeholders and continuous improvement hints at broader philosophical themes but does not delve deeply into the core philosophical discussions required for higher confidence in the 'Philosophy' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in uncovering unrealized value in products but focuses more on practical tools and metrics rather than the systemic principles and methodologies of a discipline. While it does mention continuous improvement and touches on Agile principles, it lacks a thorough discussion on the characteristics and governance structures of a discipline, which diminishes its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 55.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the concept of 'Unrealized Value' and how it relates to Evidence-Based Management (EBM), including insights on prioritizing the product backlog based on identified gaps in value. Although it mentions 'product backlog' which is an artifact, the main focus is on the broader concept of uncovering potential value and not sufficiently on the formal representation or framework of artifacts in Agile methodologies. The discourse on artifacts is limited and secondary, causing the confidence to remain moderate.",
+    "level": "Tertiary"
+  },
+  "Observability": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 35.0,
+    "ai_mentions": 3,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) and the concept of unrealized value in product development rather than observability. While it mentions the use of metrics and discusses customer satisfaction and feedback as ways to identify gaps, it does not directly address the principles of observability or the technical implementations necessary for achieving it. The relationship to observability is incidental, leaning more towards overall product management rather than the specific observability themes like metrics, logs, and traces in software systems.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "While the content discusses the concept of Evidence-Based Management (EBM) and its role in identifying unrealized value, it mainly addresses the identification of metrics and gaps rather than specific actionable practices or techniques that teams can utilize regularly for improvement. The discussion includes strategies for building a product backlog based on findings, which aligns with practice, yet the focus remains broader on EBM without tying back to recurrent actionable techniques or collaboration habits crucial for team performance. Thus, it is moderately aligned with the Practice category but not deeply engaged in specific practices.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "How-to-Discover-Unrealized-Value",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 58.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses Evidence-Based Management (EBM) and provides structured approaches to identify and prioritize unrealized value in products through metrics. It includes actionable steps for building a product backlog based on identified gaps, which aligns well with methodical practices in Agile contexts. However, it lacks a deep exploration of broader established methods like Scrum or Kanban, leading to a moderate confidence score rather than a high one.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content focuses primarily on Evidence-Based Management (EBM), which is a specific model used for assessing and uncovering unrealized value in product development. It discusses how EBM helps in identifying value gaps and prioritizing improvements, directly aligning it with the concepts of models used for decision-making and informed product development. However, while EBM is mentioned as a framework, the depth of discussion is somewhat generalized and does not delve deeply into other models or comparative analysis, which slightly reduces the confidence score.",
+    "level": "Secondary"
+  },
+  "Framework": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 35.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and its role in uncovering unrealized value, which could imply the use of a framework. However, it doesn't focus specifically on the structured methodologies of Agile frameworks, nor does it provide a comprehensive framework discussion. While it mentions metrics and the product backlog, it lacks depth in terms of methodology, implementation strategies, or best practices strictly aligned with Agile, DevOps, or Lean principles, focusing instead on the concept of unrealized value.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 75.0,
+    "ai_mentions": 10,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on Evidence-Based Management (EBM) and its application to uncover unrealized value in products, which aligns well with the classification of 'Tenet.' It discusses actionable practices such as using metrics to identify product gaps and emphasizes continuous improvement, aligning with the tenets of Agile methodologies. However, while it mentions some key concepts, it lacks a comprehensive exploration of core tenets or frameworks, which limits the depth of discussion regarding specific prescriptive rules. Therefore, confidence is moderately high but not maximum.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "cbLd-wstv3o",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:19",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the concept of 'Unrealized Value' and emphasizes the need for continuous improvement and measurement through Evidence-Based Management (EBM). However, it primarily focuses on metrics and practical approaches rather than the development of enduring capabilities or strategic integration within teams and organizations. While it does mention elements that relate to capability, such as prioritization and stakeholder engagement, these aspects are presented more as tools and techniques rather than as systemic capabilities. Therefore, while there is some relevant discussion, it does not meet the threshold of depth or conceptual alignment with the category of Capability.",
     "level": "Ignored"
   }
 }

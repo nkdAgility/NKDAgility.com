@@ -46,11 +46,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:46:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses teaching a product owner apprentice without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on aspects of effective communication and decision-making, it does not explicitly discuss Evidence-Based Management principles or metrics. The connection to EBM is minimal and lacks depth, as the content does not provide empirical evidence or data-informed decision-making strategies.",
     "level": "Ignored"
   },
   "Personal": {
@@ -71,24 +74,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:47:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are unrelated to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:47:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching a product owner apprentice without addressing transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-17T14:47:04",
@@ -97,15 +82,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on teaching a product owner apprentice without a clear emphasis on market adaptability strategies or methodologies.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T14:47:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses teaching a product owner, which relates to team dynamics and roles within Agile and Scrum environments, but it does not delve deeply into the interplay of human behaviour and structured methodologies.",
-    "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -123,15 +99,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses teaching a product owner apprentice, which is directly related to Scrum and Agile principles.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:47:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching concepts related to the role of a product owner rather than providing news or reviews about Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -163,21 +130,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T14:47:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions teaching a product owner, which relates to Agile Product Management, but it is not the primary focus and lacks depth in discussing Agile principles or practices.",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the role of a product owner and the importance of negotiation skills, which are relevant to Agile Product Management. However, it lacks a detailed discussion on Agile methodologies, prioritisation techniques, or stakeholder engagement, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:47:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -197,15 +158,6 @@
     "reasoning": "Content primarily focuses on teaching specific roles and practices related to product ownership within Scrum, rather than discussing broader organisational agility strategies or frameworks.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:47:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses teaching a product owner apprentice and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "calculated_at": "2025-02-17T14:47:24",
@@ -217,12 +169,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:47:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and Agile, which are relevant to the category, but the primary focus appears to be on teaching a product owner apprentice rather than a deep discussion of the methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses negotiation skills relevant to product ownership, which indirectly relates to collaboration and decision-making. However, it primarily focuses on negotiation techniques rather than the broader themes of social technologies. While there are mentions of fostering collaboration and effective communication, the depth of discussion on social frameworks is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -260,32 +215,17 @@
     "reasoning": "Content primarily focuses on teaching a product owner apprentice, with an emphasis on Scrum roles and events, rather than discussing business agility principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:47:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the top 5 teachings for a product owner apprentice without delving into specific tools, methodologies, or practical techniques related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:47:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching concepts related to the role of a product owner rather than discussing specific events or presentations.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:47:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions teaching a product owner, which relates to Agile methodologies and product delivery, but it does not delve deeply into the core principles of product delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the role of a product owner, which is relevant to product delivery, but primarily focuses on negotiation skills rather than the methodologies and practices involved in delivering software products. The discussion lacks depth in terms of product delivery processes and does not cover key topics such as Agile methodologies, testing, or deployment strategies.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -294,15 +234,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on a product owner apprenticeship without addressing broader organisational agility.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:47:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses teaching points for a product owner apprentice without focusing on specific products or literature.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -316,38 +247,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:47:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching a product owner apprentice without a clear discussion on the Agile Product Operating Model.",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on aspects relevant to product ownership, such as stakeholder communication and decision implications, it does not explicitly discuss the Agile Product Operating Model or its core principles. The discussion lacks depth in relation to APOM, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:47:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions the role of a Product Owner, which is a key aspect of Scrum, but it does not provide substantial detail on Scrum principles or practices.",
-    "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:47:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to DevOps principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:47:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on collaboration, which is a component of DevOps, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The discussion lacks depth in relation to the core themes of DevOps, such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -359,15 +278,6 @@
     "reasoning": "Content heavily discusses teaching a product owner apprentice without a focus on flow efficiency principles or optimisation of work throughput.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:48:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T14:48:02",
@@ -377,31 +287,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Scrum and Agile principles, specifically product owner training, without focusing on Kanban or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:20:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on project management rather than system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses roles and teachings specific to a Product Owner in Scrum without a focus on scaling Agile methodologies or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on negotiation skills for product owners, drawing insights from a book on negotiation. There are no direct mentions of system configuration, nor does it align with the core themes of system setup, integration, or maintenance. The discussion is centred around interpersonal skills rather than technical or system-related topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -433,11 +328,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses teachings for a product owner apprentice and does not focus on Lead Time or its related topics.",
+    "calculated_at": "2025-04-11T09:18:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from the book *Never Split the Difference*. While it touches on the implications of decisions affecting timelines and customer satisfaction, it does not explicitly discuss Lead Time as a metric or its importance in workflow efficiency. The mention of timelines is too vague and does not align with the core themes of Lead Time, which requires a more focused discussion on measurement and optimisation strategies. Overall, the content lacks direct references and depth regarding Lead Time, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -451,12 +349,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions teaching concepts relevant to being a Product Owner, which aligns with Scrum principles, but it is presented in a short video format and lacks depth on Scrum practices full exploration.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the role of a Product Owner and discusses negotiation skills relevant to that role. However, it lacks a comprehensive exploration of Scrum principles, roles, or practices, and does not delve into the Scrum framework or its core themes. The focus is more on negotiation techniques rather than on Scrum itself, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -566,15 +467,6 @@
     "reasoning": "Content focuses on teaching product owner principles rather than continuous learning practices or team knowledge sharing.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on teaching a product owner in general without discussing scaling Scrum principles or practices. It is not primarily about scaling Scrum.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-17T15:05:50",
@@ -658,12 +550,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content title suggests a focus on teaching aspects related to a Product Owner apprentice, the body of the content does not provide specific information about the Product Owner role or its responsibilities. It only indicates a series of teachings without detailing what those teachings entail.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 20,
+    "final_score": 68.0,
+    "reasoning": "The content discusses negotiation skills specifically for product owners, which is relevant to stakeholder engagement and communication. However, it lacks depth in covering broader responsibilities and practices of the Product Owner role, focusing mainly on negotiation rather than comprehensive backlog management or prioritisation strategies.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -676,12 +571,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions teaching a product owner, which relates to product management, but it seems to focus more on general Agile and Scrum principles rather than delving deeply into specific strategic aspects of product management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions the role of negotiation for product owners, which is relevant to product management. However, it lacks a detailed exploration of product management methodologies or frameworks, focusing instead on negotiation skills without connecting them to broader product management strategies or practices.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -739,12 +637,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content specifically mentions training for a Product Owner, which is a key role within a Scrum Team. However, it does not delve deeply into Scrum Team dynamics or collaboration techniques, making it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, which is relevant to the role within a Scrum Team. However, it does not delve deeply into team dynamics, collaboration, or other key aspects of Scrum Teams. While it mentions the importance of communication and collaboration, these are not explored in the context of Scrum practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -757,12 +658,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements related to Agile and Scrum, indicating a focus on product ownership which is relevant to Agile principles, but it does not explicitly center on Agile transformation itself.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, which is not directly related to Agile transformation principles or methodologies. While it touches on aspects of communication and stakeholder engagement, it lacks explicit discussions on Agile frameworks, change management, or organisational agility. Therefore, it only marginally aligns with the category.",
+    "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -798,15 +702,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses primarily on teaching aspects related to the role of a Product Owner within the Scrum framework, without a clear discussion on Agile strategy or its alignment with organizational vision and decision-making.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching a product owner apprenticeship, which does not centralize around software developers' roles in Agile or DevOps.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -892,11 +787,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching roles in Scrum for product owners, which does not relate to the measurement or improvement of innovation capabilities.",
+    "calculated_at": "2025-04-10T23:20:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it discusses important skills that can enhance collaboration and outcomes, it does not directly address innovation or the mechanisms that foster it. The discussion lacks explicit references to innovation metrics, learning cycles, or strategies for enhancing organisational innovation capacity, which are central to the category of 'Ability to Innovate'. Therefore, the content is only tangentially related to the category.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -910,12 +808,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and Scrum, indicating a focus on Agile frameworks, but it is primarily aimed at practical advice for product owners rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, referencing a specific book and its techniques. While it touches on aspects relevant to product ownership, it does not explicitly discuss Agile frameworks or their principles, nor does it provide a comparative analysis or case studies related to Agile methodologies. The mention of product ownership is secondary to the main theme of negotiation, leading to a low confidence score in alignment with the Agile Frameworks category.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -928,11 +829,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:20:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on teaching a product owner and discusses Scrum roles, with no clear emphasis on throughput or work completion rates.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not mention throughput as a delivery metric, nor does it discuss any related concepts such as delivery capacity, flow-based systems, or empirical forecasting. While it touches on the implications of decisions and effective communication, these themes do not align with the core topics of throughput. Overall, the content lacks direct references and depth regarding throughput, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -962,15 +866,6 @@
     "reasoning": "Content heavily discusses training for a product owner in Scrum and Agile methodologies, which are not focused on employee engagement.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and the role of a Product Owner, indicating that Agile Project Management is a significant theme, but it is not the central focus.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T15:05:50",
@@ -991,11 +886,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and agile project management, which are unrelated to Continuous Delivery principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not discuss Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1045,12 +943,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum and Agile, which are significant parts of the software development process, though the primary focus is on teaching a product owner role rather than on software development methods themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, which, while relevant to the role, does not delve into software development methodologies or practices. It briefly touches on aspects of product ownership but lacks a strong connection to software engineering processes or frameworks.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1069,15 +970,6 @@
     "final_score": 0.0,
     "reasoning": "Content discusses general teachings for a product owner apprentice without a clear focus on product backlog topics.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses key concepts relevant to the Product Owner role, which is central to Scrum, suggesting a significant connection to Scrum Product Development practices.",
-    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1205,15 +1097,6 @@
     "reasoning": "The content focuses on teaching roles related to product ownership in a general sense, without a strong emphasis on strategic themes or concepts within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on teaching aspects related to the role of a product owner in Agile without any direct discussion on the integration of AI in Agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-17T15:05:50",
@@ -1225,12 +1108,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses what to teach a product owner apprentice, which suggests a focus on mentoring and coaching within Agile environments, though the primary focus appears to lean more toward general Scrum roles and responsibilities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the role of a product owner and the importance of negotiation skills, which could relate to mentoring in an indirect way. However, it primarily focuses on negotiation techniques rather than providing guidance or coaching on mentoring practices. The discussion lacks depth in terms of mentoring strategies or the development of skills specific to Agile methodologies.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1243,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching a product owner apprenticeship, with no mention of Test First Development or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not discuss Test First Development principles, success criteria, or any related testing practices. The mention of product ownership is too tangential to the core themes of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1295,22 +1184,16 @@
     "reasoning": "Content primarily discusses a product owner apprenticeship and Scrum roles without a clear focus on coaching as a primary topic.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching a product owner, which relates to team-level roles and practices, rather than scaling agility at an organisational level.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:05:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching a Product Owner, not on the role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-08T16:15:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, with no direct mention of the Scrum Master role or responsibilities. While it touches on collaboration and communication, which are relevant to Scrum, it does not delve into the specific duties or impact of a Scrum Master, nor does it discuss Scrum principles or practices. Therefore, the alignment with the Scrum Master category is minimal.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1340,7 +1223,7 @@
     "reasoning": "Content primarily discusses the training of a product owner and does not focus on the concept of Increment in Agile and Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:05:50",
     "ai_confidence": 0,
@@ -1374,6 +1257,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on teaching about product ownership within Scrum, which is not aligned with Behaviour Driven Development principles.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:45:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:45:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the role of a Product Owner, which is a key role in Scrum, but it primarily focuses on negotiation skills rather than Scrum principles or practices. While there is some alignment with the responsibilities of a Product Owner, the discussion lacks depth regarding Scrum events, artifacts, or the overall framework. Therefore, the confidence score reflects a low primary focus on Scrum.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, with no direct mention or discussion of the Shift-Left Strategy. While it touches on aspects of communication and collaboration, these are not specifically tied to integrating testing, security, or compliance earlier in the software development lifecycle. The content lacks depth and relevance to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on themes like effective communication and collaboration, it does not explicitly discuss Continuous Improvement principles or practices. The connection to Continuous Improvement is minimal, as the content lacks a focus on empirical evidence, data-driven decision-making, or strategies for integrating Continuous Improvement into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, which is not directly related to the concept of Common Goals. While it touches on collaboration and communication, it lacks explicit discussions on shared objectives or alignment within Agile and DevOps frameworks. The mention of improving outcomes through negotiation does not sufficiently connect to the core themes of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses negotiation skills essential for product owners, which indirectly relates to competence through the lens of skill development and effective communication. However, it primarily focuses on negotiation techniques rather than a broader discussion on competence in Agile or DevOps contexts. While there are mentions of skills and their importance, the depth of discussion on competence as a foundational principle is limited.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:07:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not discuss the One Engineering System framework, its principles, or its implementation. While there are mentions of collaboration and communication, these are not directly tied to the core themes of 1ES, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions negotiation skills and their importance for product owners, which aligns with the concept of intentional shaping of outcomes. However, it lacks a direct focus on Agentic Agility principles, such as the distinction between human and AI capabilities, and does not delve into the mechanisms of AI Agentic Agility or the role of intent and reflection. The discussion is primarily centred on negotiation techniques rather than the broader themes of agency and adaptability.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:20:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses negotiation skills specifically for product owners, which aligns with the category of Product Development. It mentions the importance of effective communication, empathy, and active listening, which are crucial in product ownership and development contexts. However, while it touches on relevant themes, the focus is primarily on negotiation techniques rather than broader product development methodologies or practices. The depth of discussion on product development is moderate, as it does not delve deeply into iterative processes or customer feedback loops, which are key aspects of the category.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:20:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on negotiation skills for product owners, drawing insights from the book *Never Split the Difference*. While it discusses collaboration and communication, it does not explicitly mention Liberating Structures or their techniques. The themes of negotiation and effective communication are relevant to group dynamics but do not align closely with the core principles of Liberating Structures, which emphasise facilitation techniques and inclusive engagement. Therefore, the content does not meet the criteria for a strong alignment with the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:20:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, which is a specific aspect of project management but does not delve into broader project management principles or methodologies. While it touches on communication and stakeholder engagement, which are relevant to project management, the discussion lacks depth in core project management topics such as project lifecycle phases, methodologies, or governance structures. Therefore, it aligns with the category but does not serve as a primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:20:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on negotiation skills for product owners, drawing insights from a specific book. It does not mention Open Space Agile or its principles, nor does it discuss topics related to organisational agility or collaborative change processes. While there are elements of collaboration and communication, they are not framed within the context of Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:20:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not directly discuss Unrealised Value or its indicators, nor does it explore potential improvements or innovation opportunities within an organisation. While there are mentions of effective communication and decision-making, these are not tied to the concept of Unrealised Value as defined in the category. Therefore, the content lacks the necessary focus and depth to align with the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:20:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses negotiation skills for product owners, which indirectly relates to improving outcomes and potentially influencing timelines. However, it does not explicitly mention Time to Market or provide metrics or strategies for optimising delivery processes. The focus is primarily on negotiation techniques rather than the broader concept of Time to Market, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:20:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on aspects like customer satisfaction and decision implications, it does not explicitly discuss Current Value or its measurement in the context of Evidence-Based Management. The discussion lacks depth and does not provide practical applications or metrics related to Current Value, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:20:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on collaboration and communication, it does not explicitly discuss the concept of 'Company as a Product' or its core themes such as organisational design, customer feedback integration, or cross-functional collaboration. The discussion is more about individual skills rather than organisational strategy, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:20:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. While it touches on collaboration and communication, it does not explicitly discuss scaling methodologies, frameworks, or the complexities involved in scaling Agile practices. The mention of collaboration is too general and does not align with the specific themes of scaling as defined in the category. Overall, the content lacks depth and direct relevance to the scaling category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:20:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on negotiation skills for product owners, drawing insights from a specific book. It does not mention Hybrid Agile or discuss its characteristics, challenges, or implications. The themes of negotiation and communication are relevant to agile roles but do not align with the critical examination of Hybrid Agile as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:20:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on negotiation skills for product owners, drawing insights from a specific book. It does not directly mention Agnostic Agile or its principles, nor does it discuss the application of agile methodologies in a context-driven manner. While there are elements of collaboration and communication that could relate to agile practices, the discussion lacks depth and does not align with the core themes of Agnostic Agile, such as ethical considerations or comparisons with traditional frameworks.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:20:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on negotiation skills for product owners, drawing insights from a specific book. It does not mention GitHub or its functionalities, nor does it discuss any related topics such as version control, collaboration features, or project management within the context of GitHub. The discussion is primarily centred on negotiation techniques, which are not relevant to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:20:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on negotiation skills for product owners, drawing insights from a specific book. It does not mention or discuss Cell Structure Design, nor does it align with its core themes such as decentralised structures or autonomous cells. The discussion is centred around negotiation techniques rather than organisational design principles.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses negotiation skills and their importance for product owners, but it does not explicitly address foundational principles that guide decision-making or team behavior in Agile, Lean, or DevOps. While it emphasizes techniques and personal insights, it lacks a clear connection to the actionable principles of collaboration and respect for people, which are crucial in these frameworks. Thus, while related concepts are introduced, they are secondary to the main topic of negotiation, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 10.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses negotiation skills and insights from a book without focusing on specific tools or their application within Agile, Lean, or DevOps frameworks. While it mentions techniques that could be valuable in a workplace context, it lacks direct references to tools as required by the category criteria.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses primarily on negotiation skills relevant to product ownership, discussing practical techniques learned from the book *Never Split the Difference*. While negotiation can align with values such as collaboration and understanding (indicating a slight alignment with the category of 'Values'), the main focus remains on tactical skills rather than on deeply held beliefs or principles that guide behaviour. The direct mentions of values are minimal, with the emphasis placed on negotiation methodology rather than the foundational values that influence team dynamics or organizational behaviour.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses heavily on negotiation skills and practical applications for product owners without discussing the philosophical principles or foundational beliefs that would align with the category of Philosophy. It does not mention philosophical frameworks nor does it explore the 'why' and 'what' behind Agile or Lean practices, which are essential to the philosophical category. The content is largely about interpersonal skills and techniques, which places it outside the scope of the philosophical discussion intended for this category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses negotiation skills essential for product owners, referencing the book *Never Split the Difference*. While negotiation is a valuable competency in the realm of professional practices, the focus here is primarily on practical techniques and tools rather than discussing the underlying principles or systemic application of a specific discipline. The mention of negotiation techniques does connect somewhat to the broader context of professional conduct, but it lacks an in-depth exploration of the principles or methodologies that characterize a discipline. Thus, while there are elements that touch on themes relevant to discipline, the overall focus leans toward tool usage without firmly establishing the content within the category of Discipline.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses primarily on negotiation skills for product owners with references to a book, but does not discuss any artifacts or their roles within Agile, Scrum, or Lean frameworks. There are no mentions of specific artifacts, their definitions, purposes, or management practices. The content lacks direct relevance to the concept of artifacts in Agile contexts.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on negotiation skills for product owners, referencing a book on negotiation techniques. It does not discuss observability, internal states of systems, or related concepts such as metrics, logs, or collaboration in terms of transparency and continuous improvement in Agile or DevOps environments.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content discusses negotiation skills that product owners need, focusing on practical applications such as active listening, empathy, and strategic questioning. While negotiation is indirectly related to team practices, the discussion is primarily centered around negotiation itself rather than collaborative or technical practices that would fall squarely within the 'Practice' category. The mention of 'Practice Makes Perfect' indicates a connection to actionable techniques, but the overall emphasis is on negotiation rather than team practices like pair programming or retrospectives.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content does touch on the skill set that product owners need, such as negotiation techniques influenced by the book *Never Split the Difference*, it primarily focuses on general principles rather than specific, structured methods employed within Agile or product development contexts. The discussion lacks detailed procedural steps or practices directly related to established methods in the Agile framework, such as Scrum or Kanban, and is more about communication skills than about methods used to implement those frameworks.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses on negotiation skills for product owners and discusses the principles from the book 'Never Split the Difference'. While negotiation can be a valuable skill in product ownership, the content does not directly discuss any conceptual models, frameworks, or their application in Agile, DevOps, or Lean contexts. It mentions negotiation strategies and personal insights but does not detail any frameworks or models that inform decision-making or enhance organizational agility as required by the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses negotiation skills for product owners, referencing the book 'Never Split the Difference.' While there may be indirect implications for frameworks in Agile product ownership, the specific discussion of frameworks such as Scrum or other Agile methodologies is absent. Instead, it focuses on practical negotiation techniques and their application in product ownership without providing structured guidelines or discussions on Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:40",
+    "ai_confidence": 23.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content discusses negotiation skills for product owners but does not explicitly mention or align with the specific tenets of Agile, DevOps, or Lean methodologies. It focuses on general negotiation techniques and personal development, lacking actionable guiding rules or doctrines relevant to decision-making within an organization.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "BR9vIRsQfGI",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 2,
+    "ai_alignment": 5,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily emphasizes negotiation skills for product owners, focusing on practical techniques rather than on enduring capabilities. While it touches on abilities relevant to product ownership, it does not directly discuss capabilities in an Agile or DevOps context. Mentions of skills and strategies are more transient and not aligned with the deeper understanding of capabilities that should support sustainable organizational growth or processes.",
     "level": "Ignored"
   }
 }

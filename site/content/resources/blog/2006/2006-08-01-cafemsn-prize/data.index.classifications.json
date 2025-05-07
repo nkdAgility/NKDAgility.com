@@ -44,7 +44,7 @@
     "reasoning": "Content is primarily about winning a prize and does not discuss BetaCodex principles or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T11:13:39",
     "ai_confidence": 0,
@@ -60,15 +60,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on a personal achievement and does not discuss Kanban principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T11:13:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about winning a prize and does not discuss software code or complexity.",
     "level": "Ignored"
   },
   "DevOps": {
@@ -98,15 +89,6 @@
     "reasoning": "Content is primarily about winning a prize and does not discuss market adaptability or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T11:13:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal experience of winning a voucher, with no relevance to Agile, DevOps, or technology news and reviews.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
     "calculated_at": "2025-02-17T11:13:48",
@@ -123,24 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about winning a prize and does not discuss decision-making processes or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T11:13:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal achievement related to winning a voucher, with no focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T11:13:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about winning a prize and does not discuss organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -206,15 +170,6 @@
     "reasoning": "Content is focused on a personal achievement related to winning a voucher and does not discuss Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T11:14:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses winning a prize and does not relate to any events or presentations in Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-17T11:14:04",
@@ -242,15 +197,6 @@
     "reasoning": "Content is primarily about winning a prize and does not discuss platform engineering or related topics.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T11:14:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about winning a prize and does not discuss any practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T11:14:09",
@@ -262,11 +208,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T11:14:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses a personal experience related to winning a prize, which does not align with specific Agile, Scrum, DevOps, or Lean frameworks.",
+    "reasoning": "The content primarily discusses a personal experience related to winning a voucher, which does not connect to Agile, Scrum, DevOps, or Lean principles. While it does not explicitly mention the category, it fits within the Miscellaneous theme as it is a personal anecdote that lacks actionable insights or relevance to established frameworks. The depth of discussion is moderate, focusing on a singular event without broader implications.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -278,24 +227,6 @@
     "reasoning": "Content is primarily about winning a prize and does not discuss organisational agility or related themes.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T11:14:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses winning a prize and does not address transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:14:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses winning a prize and does not relate to discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "calculated_at": "2025-02-17T11:14:15",
@@ -305,31 +236,16 @@
     "reasoning": "Content is primarily about winning a prize and does not discuss Evidence-Based Management principles or practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T11:14:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about winning a voucher and does not discuss AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T11:14:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses winning a voucher and does not focus on products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:14:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about winning a prize and does not discuss Scrum principles, practices, or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts, roles, or practices. It focuses on a personal achievement unrelated to project management or Agile methodologies.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -413,15 +329,6 @@
     "reasoning": "Content is a personal anecdote about winning a prize and does not relate to customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not relate to Scrum principles or product development, focusing instead on a personal achievement unrelated to Scrum.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-17T11:46:57",
@@ -456,15 +363,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on a personal experience related to winning a prize and does not discuss cross-functional teams or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses winning a prize and does not relate to AI, Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -620,15 +518,6 @@
     "reasoning": "Content is unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about winning a prize and does not relate to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Strategy": {
     "category": "Strategy",
     "calculated_at": "2025-02-17T11:46:57",
@@ -674,15 +563,6 @@
     "reasoning": "Content is primarily about winning a prize and does not discuss topics relevant to asynchronous development practices or collaboration.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a personal achievement unrelated to Agile Project Management, making it irrelevant to the category.",
-    "level": "Ignored"
-  },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
     "calculated_at": "2025-02-17T11:46:57",
@@ -721,20 +601,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:46:57",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily a personal account of winning a prize and does not relate to the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses winning a prize and does not relate to software development, Agile, or DevOps topics.",
+    "reasoning": "Content is primarily a personal account of winning a prize and does not relate to the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -845,7 +716,7 @@
     "reasoning": "Content is primarily about winning a prize and does not discuss pragmatic thinking, problem-solving strategies, or Agile/Scrum/DevOps principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:46:57",
     "ai_confidence": 0,
@@ -1124,15 +995,6 @@
     "reasoning": "Content is focused on winning a prize and has no relevance to Lean Thinking principles or concepts.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on winning a prize and unrelated to Agile practices or scaling Agile methodologies.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T11:46:57",
@@ -1176,15 +1038,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to Test Driven Development; it discusses winning a prize rather than TDD principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to scaling agility, focusing instead on a personal achievement and prize winnings.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1266,15 +1119,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is about winning a prize and does not discuss Continuous Delivery principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scaling Scrum and discusses a personal achievement instead.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1374,6 +1218,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about winning a prize and does not discuss leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:56:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is focused on personal achievements and does not discuss Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:56:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily about winning a prize and does not discuss AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss any aspects of the Shift-Left Strategy, focusing instead on a personal anecdote about winning a voucher, which is unrelated to software development processes.",
     "level": "Ignored"
   }
 }

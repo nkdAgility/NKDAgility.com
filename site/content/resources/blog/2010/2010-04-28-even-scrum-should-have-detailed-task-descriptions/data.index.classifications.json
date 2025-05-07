@@ -1,21 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T00:48:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the importance of detailed task descriptions within the Scrum framework, which is a key aspect of Agile Product Management.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions within Scrum, which relates to the role of the Product Owner and team collaboration. However, it lacks a broader discussion on Agile principles, prioritisation techniques, or stakeholder engagement, limiting its depth and overall alignment with Agile Product Management.",
     "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which relates to practical techniques in Agile methodologies, but it does not extensively cover specific tools or frameworks.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:48:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses task management within Scrum without reference to evidence-based practices or empirical data.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:48:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management rather than code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:48:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:48:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management without any mention of AI or automation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of detailed task descriptions within the Scrum framework, focusing on team collaboration and project integrity. While it touches on aspects of project management, it does not engage with the core themes of Evidence-Based Management, such as empirical decision-making or metrics related to value delivery. The discussion is more about Scrum practices than evidence-based approaches.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +43,12 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:48:37",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and task management rather than installation or configuration processes.",
     "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of providing detailed task descriptions in Scrum to ensure that any team member can pick up a task, which relates to transparency in communication and accountability for task completion.",
-    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content heavily discusses Scrum roles and task management without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:48:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:48:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management, which are not central to DevOps principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum, a specific framework for agile project management, rather than discussing DevOps principles or practices. While it touches on team collaboration, it does not address the broader DevOps philosophy, such as automation, shared accountability, or continuous improvement. Therefore, it lacks significant alignment with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content heavily discusses Scrum roles and task management without a focus on decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:48:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management rather than events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:48:47",
@@ -160,15 +106,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses task descriptions in Scrum without addressing flow efficiency principles or optimisation of work throughput.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:48:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of detailed task descriptions in Scrum, highlighting team involvement and communication, which are central to effective processes.",
-    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:48:51",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of detailed task descriptions in Scrum, without a focus on metrics, data analysis, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -235,12 +172,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses task management within Scrum, which is a methodology related to product delivery, but it primarily focuses on the specifics of task descriptions rather than the broader aspects of product delivery.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions within the Scrum framework, which is a methodology related to product delivery. However, it primarily focuses on task management rather than the broader aspects of product delivery such as planning, testing, or deployment. While it touches on the need for clear communication and documentation, it lacks depth in discussing the overall product delivery process and does not cover key topics like iterative development or deployment strategies.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -260,22 +200,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:49:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses task management within Scrum but does not focus on specific products or literature.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which relates to ensuring effective communication and collaboration within teams, a key aspect of delivering value. However, the primary focus is on task management rather than broader value delivery strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which indirectly relates to value delivery by emphasising the need for clarity and information sharing among team members. However, it primarily focuses on task management rather than broader value delivery strategies or methodologies. The mention of protecting the integrity of the project and customer satisfaction hints at value delivery, but the overall discussion lacks depth in exploring how these practices enhance customer value or align with Agile principles.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -305,7 +239,7 @@
     "reasoning": "Content heavily discusses Scrum roles and task management without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:49:10",
     "ai_confidence": 0,
@@ -316,11 +250,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:49:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management rather than the Agile Product Operating Model as a whole.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum practices, specifically the importance of detailed task descriptions within Scrum. While it touches on aspects of agile methodologies, it does not address the broader principles of the Agile Product Operating Model, such as product management integration, operational stability, or continuous improvement. The focus remains on project integrity and team collaboration rather than on a product-oriented mindset or the key topics outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +269,6 @@
     "reasoning": "Content heavily discusses Scrum roles and task management rather than broader organisational agility principles.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:49:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses task management within Scrum, lacking a focus on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T00:49:16",
@@ -350,30 +278,21 @@
     "reasoning": "Content heavily discusses Scrum roles and task management, which are not central to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:49:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the importance of detailed task descriptions within the Scrum framework, highlighting team collaboration and project integrity.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-16T10:28:54",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses the creation of tasks in Scrum without a clear focus on Daily Scrum discussions or events.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:28:54",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the need for detailed task descriptions in Scrum, which does not directly relate to the Definition of Done.",
     "level": "Ignored"
   },
@@ -397,11 +316,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management, which are unrelated to Continuous Delivery principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum practices and the importance of detailed task descriptions within that framework. While it touches on aspects of project integrity and team collaboration, it does not explicitly address Continuous Delivery principles, automation, or the delivery of software in reliable cycles. The focus is on task management rather than the broader Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T10:28:54",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses task management in Scrum but does not mention Lead Time or its measurement and implications.",
     "level": "Ignored"
   },
@@ -433,11 +355,14 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content emphasizes the importance of adding detailed information to tasks within Scrum to ensure they are actionable for any team member, aligning with the principles of Definition of Ready; however, it does not fully focus on the specific criteria or processes for establishing a Definition of Ready.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of adding detailed information to tasks in Scrum, which aligns with the concept of ensuring backlog items are well-defined and actionable. However, it does not explicitly mention the Definition of Ready or provide a structured discussion on its criteria or significance. The focus is more on task management rather than a comprehensive exploration of DoR.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -460,12 +385,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses task management within Scrum, which is a key part of Agile Planning, but may not fully encompass the broader principles and methodologies of Agile Planning.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions within the Scrum framework, which is a key aspect of Agile Planning. It highlights the need for clarity and information sharing among team members to ensure project integrity and adaptability. However, while it touches on Agile principles, the discussion lacks depth in exploring broader Agile Planning methodologies and practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -487,21 +415,27 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses task management within Scrum, which relates to operational practices in Agile, but primarily focuses on task description rather than broader operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions within Scrum, which relates to operational practices by emphasising the need for clarity and completeness in task management. However, it primarily focuses on Scrum roles and task management rather than broader operational efficiency techniques or strategies. The discussion lacks depth in exploring how these practices can enhance overall operational performance, thus limiting its alignment with the category.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content references task creation within a Scrum context and emphasizes the importance of team involvement and task clarity, making the Scrum Team dynamics a significant theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions within a Scrum context, highlighting team involvement and the need for comprehensive information to ensure task continuity. It aligns well with Scrum principles, particularly regarding team collaboration and communication. However, while it touches on these themes, it lacks a broader exploration of roles and dynamics within the Scrum Team, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -514,12 +448,12 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:18",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content focuses on task creation and information sharing within Scrum, which is more about operational practices than strategic alignment or formulation.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -532,12 +466,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content is primarily focused on Scrum practices, particularly the importance of detailed task descriptions within a Scrum framework. While it discusses specific Scrum practices, it does not delve into the broader topic of Agile transformation as a strategic shift.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses task management within the Scrum framework, which is a component of Agile practices. However, it lacks a broader discussion on Agile transformation strategies, principles, or methodologies. While it touches on the importance of detailed task descriptions, it does not delve into the cultural or organisational shifts necessary for Agile transformation, nor does it address leadership roles or change management strategies. Therefore, while there is some relevance to Agile, the focus is too narrow to warrant a high confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -559,12 +496,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum and the impact this has on team collaboration and project integrity. While it touches on team dynamics, it primarily focuses on task management rather than broader team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which relates to team collaboration and communication. However, it lacks a broader discussion on team dynamics or performance metrics, focusing instead on task management specifics. While it touches on the role of the team in task discussions, it does not delve deeply into strategies for enhancing overall team performance or methodologies that maximise effectiveness.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -586,38 +526,35 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses detailed task descriptions within the context of Scrum, which is a methodology relevant to the software development lifecycle.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum roles and the importance of detailed task descriptions, which aligns closely with Agile principles and practices.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the importance of detailed task descriptions within the Scrum framework, which is a key Agile methodology in software development. It explicitly mentions Scrum and provides practical advice on task management, aligning well with the core themes of software development practices. The depth of discussion is significant, as it elaborates on the implications of task clarity for team collaboration and project integrity.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:28:54",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and task management without addressing the core Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses the creation of detailed task descriptions in the context of Scrum, which relates to Scrum practices and the management of tasks within the framework.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions within the Scrum framework, which aligns with Scrum principles. However, it lacks a comprehensive exploration of Scrum roles, events, or artifacts, and does not delve deeply into the theoretical foundations or practical implementations of Scrum. The focus is more on task management rather than a broader discussion of Scrum practices.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -640,10 +577,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T10:28:54",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses task creation and information sharing process within Scrum, which does not directly address the Scrum values themselves.",
     "level": "Ignored"
   },
@@ -701,15 +638,6 @@
     "reasoning": "Content heavily discusses task descriptions and team collaboration within Scrum, with no focus on customer satisfaction or related principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on detailed task descriptions within Scrum but does not discuss scaling Scrum, frameworks, or coordination among multiple teams. It is primarily about task management in Scrum rather than applying Scrum principles at scale.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:28:54",
@@ -726,15 +654,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses task management within the Scrum framework rather than psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on task detail within a team context.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,11 +703,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the practical aspects of task creation in Scrum, emphasizing the real-world application of adding sufficient information to ensure task integrity and to facilitate team collaboration.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which aligns with pragmatic thinking by emphasising practical problem-solving and real-world applications. It highlights the need for adaptability and thoroughness in task management to ensure project integrity, reflecting the core themes of the category. The depth of discussion is moderate, providing examples and scenarios that illustrate the importance of comprehensive task information, but it could benefit from more detailed strategies or case studies.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +724,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:28:54",
+    "calculated_at": "2025-04-10T15:56:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management rather than the ability to innovate or empirical measures related to it.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of detailed task descriptions within the Scrum framework, emphasizing team collaboration and task clarity, which are central to Scrum practices.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management without a focus on scaling Agile methodologies or coordination among multiple teams.",
+    "reasoning": "Content heavily discusses Scrum roles and task management rather than the ability to innovate or empirical measures related to it.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,20 +769,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which can relate to ensuring working software through team alignment, but it primarily focuses on task management practices rather than the broader context of delivering functional software.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions within Scrum, which relates to ensuring that tasks are well-defined for effective software development. However, it primarily focuses on task management rather than broader aspects of working software, such as quality assurance or customer feedback. The discussion is relevant but lacks depth in exploring how these practices contribute to delivering functional software.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses task creation and details within Scrum, which relates to Agile planning tools, but it primarily focuses on the importance of detailed task descriptions rather than exploring specific tools or methodologies for Agile planning.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses task creation within Scrum, which is a part of Agile methodologies, but it does not explicitly mention Agile Planning Tools or their functionalities. While it touches on the importance of detailed task descriptions for team collaboration, it lacks a broader discussion on Agile planning tools or techniques for backlog management, sprint planning, or integration with Agile practices. The focus is more on task management within Scrum rather than on the tools that facilitate Agile planning.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -973,10 +883,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T10:28:54",
+    "calculated_at": "2025-04-10T15:56:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses task descriptions in Scrum without addressing Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1009,11 +919,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of providing detailed task descriptions within the context of Scrum, which relates to team communication and collaboration. However, it primarily focuses on the task management aspect rather than broader team collaboration dynamics.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of providing detailed task descriptions in Scrum, which indirectly relates to team collaboration by emphasising shared understanding and communication within the team. However, it primarily focuses on task management rather than broader themes of team dynamics or collaboration strategies. The mention of team involvement in discussions is relevant, but the overall depth and focus on collaboration techniques are limited.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1034,22 +947,13 @@
     "reasoning": "Content heavily discusses Scrum roles and task management without a central focus on digital transformation initiatives or technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:28:54",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and task management rather than the concept of Minimum Viable Product.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management without any mention of AI or its applications.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1072,11 +976,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses task management within Scrum, which is a key agile methodology. While it centers around task descriptions and their importance for project integrity, it does touch upon principles relevant to technical leadership in agile environments, such as team involvement and clarity in task communication. However, it does not comprehensively cover broader topics of technical leadership or agile best practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which touches on aspects of agile methodologies and team collaboration. However, it lacks a direct focus on technical leadership principles, such as mentoring or fostering a culture of continuous improvement. The discussion is somewhat relevant but does not delve deeply into the core themes of technical leadership.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -1099,11 +1006,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses task descriptions and information sharing within Scrum, and does not mention Test First Development or TDD principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of detailed task descriptions in Scrum, focusing on team collaboration and project integrity. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion is more about task management within Scrum rather than any testing methodologies or practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1135,10 +1045,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T10:28:54",
+    "calculated_at": "2025-04-10T15:56:00",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses task descriptions and guidelines for Scrum without focusing on team motivation or engagement strategies.",
     "level": "Ignored"
   },
@@ -1180,20 +1090,26 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses task creation within Scrum, highlighting documentation practices relevant to the Scrum process, suggesting it is a significant theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions within the Scrum framework, which aligns with the responsibilities of a Scrum Master in facilitating effective team collaboration and ensuring project integrity. However, it does not explicitly mention the Scrum Master role or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of providing detailed information in Scrum tasks to ensure project integrity and team collaboration, highlighting transparency as a key element for task management.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of adding detailed information to tasks in Scrum, which aligns with the concept of transparency by promoting clear communication and visibility of work. However, it primarily focuses on task descriptions rather than broader transparency practices in Agile methodologies. The discussion is somewhat superficial, lacking in-depth exploration of transparency's impact on team dynamics or accountability.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -1204,15 +1120,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the creation of detailed task descriptions in Scrum, which is more about task management than working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of detailed task descriptions within Scrum, which is a key Agile practice, thus relating to the role of software developers in that context.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1252,29 +1159,38 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Scrum practices and task management within a Scrum framework, which relates to product management methodologies but does not delve into strategic aspects or decision-making in product management.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the importance of detailed task descriptions within the Scrum framework, which is a project management methodology. While it touches on aspects of team collaboration and task management, it lacks a direct focus on the strategic elements of product management, such as aligning customer needs with business objectives or discussing product vision. The depth of discussion is moderate, but it does not sufficiently cover the core themes of product management as outlined in the category definition.",
     "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of providing detailed information in Scrum tasks, which supports the notion of self-organisation by ensuring that team members can autonomously take over tasks. However, the primary focus is on task management rather than broader self-organisation principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses task descriptions within Scrum, which touches on aspects of team collaboration and information sharing. However, it primarily focuses on the need for detailed task descriptions rather than exploring the principles of self-organisation or fostering autonomy. The discussion lacks depth in addressing self-organisation as a core theme, and while it mentions team involvement, it does not delve into how this relates to self-organisation principles or practices.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum, including task creation and information sharing within Scrum teams, which are central to the framework.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Scrum, a specific Agile framework, focusing on task management within that framework. It directly mentions Scrum and provides practical advice on task descriptions, which aligns well with the principles of Agile frameworks. However, while it offers useful insights, the depth of discussion is somewhat limited to task descriptions without broader exploration of Scrum's principles or comparative analysis with other frameworks.",
     "level": "Secondary"
   },
   "Agile Strategy": {
@@ -1324,21 +1240,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of providing detailed task descriptions in Scrum, which indirectly relates to accountability by emphasizing team ownership and ensuring task continuity. However, it primarily centers on task management rather than directly engaging the broader principles of accountability in Agile teams.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:28:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and task management, with no mention of Kanban principles or scaling Kanban in any capacity.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of providing detailed task descriptions in Scrum, which relates to accountability in terms of ownership and ensuring that team members can take over tasks if needed. However, it does not explicitly address the distinction between accountability and blame or delve deeply into strategies for fostering a culture of accountability. The focus is more on task management rather than the broader implications of accountability within team dynamics.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1360,11 +1270,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:59:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the importance of detailed task descriptions within the Scrum framework, highlighting roles, responsibilities, and the need for effective communication and collaboration in a Scrum team.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which relates to team collaboration and project integrity. However, it primarily focuses on the technical aspects of task management rather than the broader principles of social technologies. While there are mentions of collaboration, the depth of discussion on self-organisation, transparency, and collective intelligence is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1374,6 +1287,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses task management within Scrum and does not focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:32:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:32:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and task management without any mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the importance of detailed task descriptions within the Scrum framework, highlighting the collaborative nature of task management and the need for comprehensive information to ensure project integrity. It aligns well with Scrum principles, particularly regarding team dynamics and continuous improvement. However, while it provides practical advice, it lacks a broader discussion of Scrum roles, events, or artifacts, which limits its depth.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses task management within Scrum, focusing on the importance of detailed task descriptions for team collaboration. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is centred around Scrum practices rather than the proactive measures associated with Shift-Left methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which indirectly relates to Continuous Improvement by enhancing team collaboration and project integrity. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The focus is primarily on task management within Scrum rather than on broader Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which indirectly relates to team collaboration and project integrity. However, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The focus is more on task management rather than aligning strategy with execution or shared objectives, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of detailed task descriptions in Scrum, which indirectly relates to competence by emphasising the need for clarity and thoroughness in task management. However, it does not explicitly address continuous learning, skill development, or the broader implications of competence in Agile methodologies. The focus is more on task integrity and team collaboration rather than on fostering a culture of competence or professional development.",
+    "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of detailed task descriptions in Scrum, focusing on team collaboration and project integrity. It does not explicitly mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more aligned with general Agile practices rather than the specific themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

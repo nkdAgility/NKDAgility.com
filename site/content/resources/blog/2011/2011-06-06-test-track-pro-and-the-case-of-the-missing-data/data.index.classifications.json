@@ -8,58 +8,25 @@
     "reasoning": "Content primarily discusses technical issues related to data querying and integration, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:42:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for querying and managing data within the Test Track Pro Adapter, including specific coding examples and methodologies for optimising data retrieval, which aligns with the category focus.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T22:42:26",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to querying data and debugging within a specific integration platform, without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:42:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and processing, without a focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T22:42:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses issues related to querying data in a software system, focusing on code quality, performance, and the complexities involved in managing data retrieval effectively. It highlights the impact of query design on system performance and maintainability, which aligns well with the themes of code quality and complexity.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T22:42:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to querying data and debugging issues, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T22:42:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to querying data and debugging within a specific software integration context, without any mention of AI or automation in Agile practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and query optimisation without a clear focus on Evidence-Based Management principles. While it touches on data handling and decision-making based on data (e.g., using a high water mark for data updates), it lacks explicit references to EBM concepts such as current value, time to market, or empirical decision-making. The discussion is more about practical implementation rather than strategic management based on empirical evidence.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses troubleshooting and querying issues related to the Test Track Pro Adapter, which involves aspects of configuration and data retrieval. However, it primarily focuses on specific problems encountered rather than providing a comprehensive guide on installation or configuration processes.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T22:42:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and processing, without a focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses troubleshooting and debugging issues related to querying data in the Test Track Pro Adapter for the TFS Integration Platform. While it touches on aspects of configuration, such as setting filters for data retrieval, it primarily focuses on specific problems encountered during the process rather than providing a comprehensive guide or step-by-step instructions for installation or configuration. The discussion lacks broader context on installation procedures or best practices, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses technical issues related to data querying and processing without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T22:42:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and integration, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:42:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to data querying and migration in Test Track Pro, without a clear focus on DevOps principles, practices, or tools.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and integration within a specific tool (Test Track Pro and TFS Integration). While it touches on aspects of workflow optimisation and data management, it lacks a direct focus on DevOps principles such as collaboration, automation, or shared accountability. The discussion does not explicitly mention DevOps as a philosophy or its key topics, leading to a low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,32 +98,17 @@
     "reasoning": "Content primarily discusses technical issues related to data querying and processing in Test Track Pro, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T22:42:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and migration, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to data retrieval efficiency and the impact of query performance on workflow, which aligns with flow efficiency principles, but it is primarily focused on a specific technical problem rather than a broader discussion on flow efficiency.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T22:42:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and processing, with no clear focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to data retrieval efficiency and the impact of query performance on workflow, which aligns with the principles of Flow Efficiency. It highlights the importance of optimising query parameters to reduce load times and improve throughput, particularly in the context of a data migration process. However, while it touches on relevant concepts, the discussion lacks depth in terms of broader flow efficiency strategies and metrics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,11 +130,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of querying data and the importance of tracking changes over time, which relates to performance data analysis. However, it primarily focuses on technical issues rather than a broader discussion on metrics and learning principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a technical issue related to querying data and the importance of timing in data retrieval, which touches on metrics indirectly. However, it lacks a direct focus on metrics and learning principles, such as evidence-based decision-making or continuous improvement methodologies. The discussion is more about troubleshooting a specific problem rather than exploring broader themes of metrics and learning in Agile or DevOps contexts.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -208,11 +151,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T22:42:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical challenges and solutions related to querying data in a software integration context, focusing on the importance of efficient data retrieval and the implications of using high water marks in data processing, which aligns with engineering practices that enhance software development and delivery processes.",
+    "reasoning": "The content discusses a technical issue related to querying data in a software integration context, which touches on aspects of code quality and efficiency. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility, such as TDD or CI/CD. While it provides some technical detail, it does not delve deeply into the principles of technical excellence or how they apply to the overall software development process.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,12 +181,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:13",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses technical issues related to data querying and migration within a specific software integration context, which does not directly address methodologies or practices involved in the end-to-end process of delivering usable software products.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -260,15 +206,6 @@
     "reasoning": "Content primarily discusses technical issues related to data querying and integration, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T22:43:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and debugging related to the Test Track Pro software, without focusing on reviews, analyses, or discussions of Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T22:43:12",
@@ -280,12 +217,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the TFS Integration Platform, which is part of Azure DevOps, but primarily focuses on a specific problem with data queries rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses issues related to the TFS Integration Platform, which is part of the Azure DevOps ecosystem. However, it primarily focuses on a specific problem with data queries and does not provide a comprehensive overview of Azure DevOps services or best practices. While there are mentions of TFS, the discussion lacks depth in terms of Azure DevOps functionalities and methodologies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -305,22 +245,25 @@
     "reasoning": "Content primarily discusses technical issues related to data querying and processing in a specific software context, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T22:43:17",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to a specific software integration problem and debugging efforts, without focusing on the principles or practices of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:43:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and integration, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and integration with TFS, lacking any explicit mention or alignment with Agile Product Operating Model principles. It does not address product management, agile methodologies, or the transition from project to product ethos, which are core to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +275,16 @@
     "reasoning": "Content primarily discusses technical issues related to data querying and processing within a specific software context, without addressing organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T22:43:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and debugging related to Test Track Pro, lacking a focus on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to data migration and querying in the context of Test Track Pro and TFS Integration Platform, which are relevant to the maintenance and management stages of the application lifecycle. However, it primarily focuses on technical troubleshooting rather than broader ALM methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:43:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to data querying and integration, with no clear focus on Scrum principles, roles, events, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a technical issue related to querying data in the context of a specific software tool (Test Track Pro) and its integration with TFS. While it touches on aspects of data management and querying, it lacks a comprehensive discussion on the broader stages of the application lifecycle, governance, or best practices in application lifecycle management. The focus is more on troubleshooting and specific implementation details rather than the overall management of the application lifecycle.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +298,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to data querying in a software integration context, with no relevant connection to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical implementation details, including the use of queries for data retrieval, handling of timestamps, and managing records through the TFS Integration Platform, which are relevant to software craftsmanship and engineering practices.",
+    "reasoning": "The content discusses a technical issue related to querying data in a software integration context, which touches on aspects of software craftsmanship and debugging practices. However, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to high-quality software development. The focus is primarily on a specific problem and its solution rather than a comprehensive exploration of technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +328,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on troubleshooting and querying specific data records in a system, without any mention of Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and integration within a specific software context, focusing on the Test Track Pro Adapter for TFS Integration. While it touches on aspects of data management that could relate to Continuous Delivery, such as the importance of timely data updates, it lacks a direct focus on Continuous Delivery principles, practices, or automation. The discussion does not explore the broader themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +349,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with querying data and the performance of the Test Track Pro Adapter, with no clear focus on Lead Time or its measurement and implications.",
     "level": "Ignored"
   },
@@ -433,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to data queries in a software integration context, which does not pertain to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -487,11 +421,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses challenges and strategies related to querying data efficiently in the context of the TFS Integration Platform, focusing on improving the data retrieval process, which aligns with operational practices to enhance efficiency.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses a specific technical issue related to querying data efficiently, which aligns with operational practices aimed at improving performance. It highlights the importance of optimising queries to reduce load times and ensure data accuracy, reflecting concepts of process optimisation and continuous improvement. However, the discussion lacks broader strategies or methodologies typically associated with Agile, DevOps, or Lean frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
@@ -577,37 +514,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to data retrieval and querying in a specific software tool without mention of Acceptance Test Driven Development principles, acceptance criteria, or collaborative practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses issues related to data querying and integration in a software development context, specifically dealing with a Test Track Pro Adapter and the TFS Integration Platform. The explanations of querying, high water marks, and data handling methodologies align directly with software development practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on data querying and integration issues with Test Track Pro and TFS, without discussing Agile principles, methodologies, or practices.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to querying data within the context of software development, specifically focusing on the Test Track Pro Adapter and TFS Integration Platform. It provides detailed insights into the coding practices, debugging efforts, and the importance of high water marks in data migration processes. The discussion aligns well with software development methodologies and practices, particularly in the areas of data handling and system integration, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to data querying and migration processes, without any reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +553,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to querying data and the TFS Integration Platform, which does not focus on modern source control practices or version control systems.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on technical issues related to data queries and integration processes, with no clear discussion of empirical process control or Agile principles.",
     "level": "Ignored"
   },
@@ -667,10 +598,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues related to querying data and software integration challenges, with no clear relation to organisational change or transformation practices.",
     "level": "Ignored"
   },
@@ -701,21 +632,12 @@
     "reasoning": "Content primarily discusses technical issues related to the development and querying of a Test Track Pro Adapter, with no direct relevance to customer satisfaction or enhancing customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to a data query and integration platform, with no references to Scrum principles, scaling practices, or multi-team coordination.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to data querying and integration without connecting to evidence-based leadership practices.",
     "level": "Ignored"
   },
@@ -728,23 +650,17 @@
     "reasoning": "Content is primarily focused on technical issues related to data querying and processing within the Test Track Pro Adapter, with no discussions about psychological safety, team dynamics, or fostering a supportive culture.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical issues with data queries and integration, with no relevance to scaling agile practices or principles.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to data retrieval in a software integration context, which touches on aspects of software craftsmanship and problem-solving in engineering practices. However, it primarily focuses on a specific technical problem rather than providing a broader discussion on engineering excellence concepts.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a technical issue related to querying data and the implications of using incorrect time filters, which touches on best practices in coding and debugging. However, it lacks a broader discussion on engineering excellence principles, such as software craftsmanship or continuous improvement processes. While it does provide some depth in terms of the specific problem and solution, it does not fully align with the core themes of the category.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -784,11 +700,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a practical problem faced while developing a Test Track Pro Adapter, including real-world applications of filters in queries and strategies for effectively handling data migration in the context of TFS Integration. It emphasizes problem-solving techniques related to adapting queries to avoid the loss of data and improve efficiency.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses practical problem-solving strategies related to querying data in a software integration context, which aligns with the core themes of pragmatic thinking. It provides a detailed account of the challenges faced and the solutions implemented, demonstrating adaptability and critical thinking in a real-world scenario. The author reflects on their experience and intuition in decision-making, particularly regarding the use of time filters in queries, which is a practical application of Agile and DevOps principles. However, while the content is rich in practical examples, it does not explicitly mention Agile or Scrum frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to data querying and processing, without a clear focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on technical issues related to a software integration process, which does not align with Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on resolving technical issues related to the Test Track Pro Adapter and data queries, with no references to scaled agile frameworks, multiple teams, or enterprise-level Agile practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +748,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and debugging related to a Test Track Pro adapter and data migration, with no clear focus on test automation principles, frameworks, or practices.",
     "level": "Ignored"
   },
@@ -865,12 +766,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical issues related to data queries in a software system, which may relate to ensuring the operational functionality of the software, but it primarily focuses on troubleshooting rather than the overall delivery or quality of working software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific technical issue related to data retrieval in a software integration context, which touches on aspects of working software, such as functionality and quality. However, it lacks a broader discussion on best practices, customer feedback, or iterative development, which are key themes in the 'Working Software' category. The focus is primarily on a specific problem rather than the overall delivery of functional software.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -883,10 +787,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a specific technical issue related to querying data and does not discuss Continuous Integration principles, practices, tools, or examples.",
     "level": "Ignored"
   },
@@ -973,10 +877,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with data querying and processing in a specific software system, without focusing on the measurement or implications of Cycle Time.",
     "level": "Ignored"
   },
@@ -1000,10 +904,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical challenges related to data management and querying, with no clear connection to Change Management principles or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +938,7 @@
     "reasoning": "Content primarily discusses technical issues related to data queries and system integration, without a focus on digital transformation strategies or implications.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:28:44",
     "ai_confidence": 0,
@@ -1043,23 +947,17 @@
     "reasoning": "Content discusses technical issues specific to a data query in a software integration context, with no relation to Minimum Viable Products or their development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on technical issues related to querying and migrating data within Test Track Pro and TFS Integration Platform, without any mention of AI or its applications in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to querying data and configuring filters for data migration, which are relevant to system configuration. However, the primary focus is on a specific implementation problem rather than a broader discussion of configuration methodologies or best practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to querying and filtering data in the context of a Test Track Pro Adapter for the TFS Integration Platform. While it touches on aspects of system configuration, such as the importance of high water marks and data retrieval strategies, the primary focus is on troubleshooting specific data issues rather than broader system configuration practices. The discussion includes some relevant technical details, but it lacks comprehensive coverage of best practices or methodologies for system configuration, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,11 +997,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to data querying and TFS Integration rather than Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and query optimisation in the context of a specific software integration. It does not explicitly mention Test First Development principles, success criteria, or testing practices. While there are elements of debugging and data handling, these do not align with the core themes of Test First Development, which focuses on defining success criteria and the role of testing in the development process.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1126,10 +1027,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T10:28:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical issues related to a specific software integration and data handling, with no mention or relevance to Agile methodologies, scaling practices, or large-scale Agile frameworks.",
     "level": "Ignored"
   },
@@ -1162,12 +1063,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses a specific problem with retrieving data from a system, including debugging steps taken to identify and resolve the issue with query parameters related to time-based filters. It provides insights and techniques for diagnosing the observed failures and offers a practical solution, making troubleshooting the clear focus.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue with the Test Track Pro Adapter and the TFS Integration Platform. It discusses the problem of missing data due to query filters and provides a detailed analysis of the situation, including the identification of the root cause and a proposed solution. The content aligns well with the key topics of troubleshooting, such as diagnosing software bugs and providing methodologies for resolving integration issues. The depth of discussion is substantial, as it includes code snippets and explanations of the logic behind the queries, demonstrating a thorough understanding of the troubleshooting process.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1084,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:28:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and does not mention Scrum, the Scrum Master role, or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval in a software integration context, with no direct mention of Scrum Master responsibilities or related concepts. While there may be a tangential connection to agile practices through the mention of workflow optimisation, the focus is not on the role of a Scrum Master or the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,15 +1112,6 @@
     "reasoning": "Content primarily discusses a technical issue related to querying a database and data migration processes, without addressing working agreements or team collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses technical challenges and solutions related to data queries and the TFS Integration Platform, which may be relevant to software developers but lacks a strong focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T10:28:44",
@@ -1225,21 +1123,27 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of querying and managing data within the context of the TFS Integration Platform, which relates to engineering practices such as data handling and migration. However, it does not focus on the core Agile engineering practices like clean code, automation, or Test-Driven Development.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a technical issue related to querying data and the implications of using different time filters in a software integration context. While it touches on aspects of software engineering, such as data handling and querying efficiency, it lacks a direct focus on core engineering practices like clean code, TDD, or CI/CD. The discussion is more about troubleshooting a specific problem rather than promoting broader engineering methodologies or principles. Therefore, while there are mentions of relevant concepts, the overall alignment and depth of discussion do not strongly support the category of Engineering Practices.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses issues related to data querying and processing, it also hints at suboptimal code decisions that lead to inefficiencies. It focuses on troubleshooting a specific problem with data retrieval and the negative impact of these decisions on the system's functionality, which aligns with the concept of technical debt, though it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific technical issue related to querying data and the implications of using incorrect time filters, which can be seen as a form of technical debt. However, it does not explicitly mention technical debt or its management, and the focus is more on troubleshooting a specific problem rather than a broader discussion on technical debt concepts or strategies. The depth of discussion is limited to a single case without exploring the long-term implications or best practices for managing such issues.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1331,40 +1235,37 @@
     "reasoning": "Content focuses on technical challenges and data retrieval issues rather than discussing accountability principles within Agile teams.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:28:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to data queries and migration rather than Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to data retrieval speed and efficiency in the context of a Test Track Pro Adapter, hinting at the importance of improving query responses and optimizing data flow, which can be seen as related to throughput. However, it primarily focuses on technical challenges rather than a comprehensive exploration of throughput as defined in Agile, DevOps, or Lean contexts.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to data retrieval times and the efficiency of queries, which indirectly relates to throughput. However, it lacks a direct focus on measuring or optimising throughput in Agile or DevOps contexts. The mention of 'High Water Mark' and the impact of query performance on data updates suggests some understanding of throughput concepts, but the overall discussion is more about troubleshooting specific technical problems rather than a comprehensive exploration of throughput as defined in the category.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:28:45",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses issues related to data querying and migration using Test Track Pro and does not focus on Test Driven Development practices or principles.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:56:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to data querying and integration, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical challenges related to data retrieval and integration within a specific software context. It does not discuss collaboration, decision-making, or value delivery, which are core themes of Social Technologies. While there are mentions of workflow optimisation, they are not framed within a social or collaborative context, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1275,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to data querying and integration, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to querying data and debugging within a specific integration platform, without a clear focus on Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:28:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to data querying and migration in Test Track Pro, with no mention of AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses technical issues related to data querying and integration with the TFS Integration Platform, with no direct mentions or discussions of Scrum principles, roles, events, or practices. It lacks alignment with Scrum's core themes and does not provide any depth on Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a technical issue related to querying data in a specific software context, without addressing the principles or benefits of the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide techniques or case studies relevant to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses troubleshooting and optimising a data retrieval process, which aligns with the principles of Continuous Improvement. However, it lacks explicit mentions of Continuous Improvement concepts and does not provide a comprehensive exploration of the topic. The focus is primarily on a specific technical issue rather than a broader discussion on continuous improvement methodologies or strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical challenges and solutions related to data retrieval in a specific software context. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment. The mention of workflow optimisation is too vague and does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses technical challenges and solutions related to data retrieval in a specific software context. While it touches on problem-solving and debugging, it lacks a direct focus on competence as defined in Agile and DevOps methodologies. The discussion does not explicitly address continuous learning, skill development, or the broader implications of competence in team dynamics or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses technical challenges related to data retrieval and query optimisation within a specific software context. While there are elements of problem-solving and adaptation, the focus is not on the intentional shaping of outcomes or the principles of Agentic Agility. The discussion lacks explicit references to agency, intent, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

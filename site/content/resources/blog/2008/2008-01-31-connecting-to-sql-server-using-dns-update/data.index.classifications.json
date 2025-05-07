@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses technical aspects of connecting to SQL Server and managing Service Principal Names (SPNs) without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T18:45:33",
     "ai_confidence": 0,
@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:45:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of configuring Service Principal Names (SPNs) for SQL Server, which is a key aspect of installation and configuration. It provides actionable insights on connecting to SQL Server and mentions the need to move SPNs when relocating databases, aligning well with the category's focus.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the process of adding Service Principal Names (SPNs) to Active Directory for SQL Server connectivity, which aligns with installation and configuration tasks. It provides specific commands and mentions troubleshooting steps related to connecting to SQL Server, indicating a focus on practical implementation. However, the depth of discussion is somewhat limited, as it does not cover broader configuration best practices or system requirements in detail.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses technical details related to SQL Server and DNS updates, with no connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:45:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of connecting to SQL Server and managing Service Principal Names (SPNs), with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:45:42",
@@ -96,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to SQL Server and Service Principal Names (SPNs), with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:45:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses connecting to SQL Server and managing Service Principal Names (SPNs), which does not align with Agile and DevOps practices or tooling.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:45:46",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to connecting to SQL Server and managing Service Principal Names, with no focus on metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -154,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:45:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical details related to connecting to SQL Server and managing Service Principal Names (SPNs), with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on technical aspects of connecting to SQL Server and managing Service Principal Names (SPNs), with no mention or discussion of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:45:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on connecting to SQL Server and managing Service Principal Names, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:45:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details related to connecting to SQL Server and managing Service Principal Names, which does not align with industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on connecting to SQL Server and managing Service Principal Names (SPNs), with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss any agile methodologies, product management practices, or related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting to SQL Server and managing Service Principal Names (SPNs), which is not directly related to platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:46:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about connecting to SQL Server and managing Service Principal Names, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:46:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on connecting to SQL Server and managing Service Principal Names, with no relevance to AI or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:46:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses connecting to SQL Server and managing Service Principal Names (SPNs), which is not related to code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:46:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details related to SQL Server configuration and does not reference any events, presentations, or discussions relevant to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:46:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details related to connecting to SQL Server and managing Service Principal Names, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:46:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting to SQL Server and managing Service Principal Names (SPNs), which is not central to DevOps principles or practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on connecting to SQL Server and managing Service Principal Names (SPNs), which are technical aspects of database management rather than discussions on DevOps principles. While there is a mention of infrastructure setup, it lacks explicit references to DevOps philosophy, practices, or cultural shifts. The discussion does not align with key DevOps topics such as collaboration, automation, or shared accountability, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting to SQL Server and managing Service Principal Names (SPNs), which does not align with the principles of Technical Excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:46:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details related to SQL Server and Service Principal Names (SPNs) without addressing human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:46:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details related to SQL Server and Service Principal Names (SPNs) without any focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:46:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details related to SQL Server and DNS updates, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,19 +292,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of Service Principal Names (SPNs) for SQL Server, which directly aligns with system configuration processes and methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the addition of Service Principal Names (SPNs) in Active Directory for SQL Server connectivity, which is a specific aspect of system configuration. It directly mentions the configuration of SPNs, which is relevant to system setup. However, while it touches on the process of connecting to SQL Server and moving databases, it lacks a broader discussion on best practices or optimisation strategies, limiting its depth. Overall, it aligns well with the category but does not provide extensive detail.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:06:12",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details about connecting to SQL Server and managing Service Principal Names, with no focus on innovation or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -420,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on technical details of connecting to SQL Server, unrelated to portfolio management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about connecting to SQL Server and does not relate to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:06:12",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to SQL Server, specifically connecting to it using DNS updates, with no relevant mention of Agile values or principles.",
     "level": "Ignored"
   },
@@ -501,15 +408,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on connecting to SQL Server and configuring service principal names, which is unrelated to the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on connecting to SQL Server and managing Service Principal Names, with no relevance to Agile methodologies or scaled Agile practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,23 +473,17 @@
     "reasoning": "Content discusses SQL Server configuration and Service Principal Names, which is unrelated to collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SQL Server connections and SPNs, which do not align with the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting to SQL Server and mentions SPN (Service Principal Name) configuration, which is relevant to software development practices related to database management. However, the primary focus is on implementation details rather than broader software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses connecting to SQL Server and mentions Service Principal Names (SPNs), which are relevant to software development, particularly in the context of database connectivity and configuration. However, the discussion lacks depth in software development methodologies or practices, focusing more on a specific technical issue rather than broader software engineering principles. The primary focus is on a practical implementation detail rather than a comprehensive exploration of software development concepts.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +512,7 @@
     "reasoning": "Content discusses connecting to SQL Server and managing ServicePrincipalNames, with no relevance to estimation in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:06:12",
     "ai_confidence": 0,
@@ -694,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on connecting to SQL Server and managing Service Principal Names (SPNs), which does not relate to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on connecting to SQL Server and managing Service Principal Names (SPNs), which are not related to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with the core themes such as automation, rapid feedback, or software quality. The depth of discussion is limited to technical details about SQL Server configuration, making it irrelevant to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is mainly focused on SQL Server connection and technical details, with no relevance to hypothesis formulation, experimentation, or product development methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on connecting to SQL Server and managing Service Principal Names, with no mention of AI, Agile, or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -955,12 +841,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting to SQL Server and managing Service Principal Names (SPNs), which relates to software engineering practices and server configuration. However, the primary focus is on troubleshooting specific connectivity issues rather than a broader technical mastery of software development principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the technical process of connecting to SQL Server and managing Service Principal Names (SPNs). While it touches on a specific technical task, it lacks broader discussions on software craftsmanship, best practices, or principles of clean code. The focus is more on a practical implementation rather than a deep exploration of technical mastery concepts.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -971,15 +860,6 @@
     "reasoning": "Content primarily discusses connecting to SQL Server and managing Service Principal Names, which is unrelated to remote working or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical details of connecting to SQL Server and does not discuss Kanban principles or scaling in an organizational context.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:06:12",
@@ -987,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily technical, discussing SQL Server connection issues and service principal names, with no relevance to customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on connecting to SQL Server and managing Service Principal Names, with no relevance to Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,12 +961,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses logging into a SQL Server using Windows Authentication, which pertains to Windows in a secondary capacity. However, the primary focus is on SQL Server configurations and not directly on Windows operating system features.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses connecting to SQL Server using Windows Authentication, which is a specific feature of the Windows operating system. However, the primary focus is on SQL Server and its configuration rather than on Windows itself. While there are mentions of Windows Authentication and the use of SPNs (Service Principal Names), the discussion does not delve deeply into Windows installation, configuration, or troubleshooting. Therefore, while there is some relevance to the Windows category, it is not the primary focus of the content.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1108,11 +982,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T19:06:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses resolving a specific connection issue with SQL Server after updating Service Principal Names (SPNs), which aligns with troubleshooting topics.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the process of adding Service Principal Names (SPNs) to Active Directory and successfully connecting to SQL Server, which directly relates to troubleshooting connectivity issues. The mention of moving databases and ensuring SPNs work in a new SQL Cluster indicates a focus on resolving potential issues. However, the depth of discussion is somewhat limited, as it primarily describes a successful connection without delving into broader troubleshooting techniques or methodologies.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1268,15 +1145,6 @@
     "reasoning": "Content is focused on technical aspects of connecting to SQL Server and managing Service Principal Names (SPNs), with no relevance to asynchronous development or collaboration practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:06:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on SQL Server configuration and does not discuss Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T19:06:13",
@@ -1313,22 +1181,16 @@
     "reasoning": "Content is focused on technical aspects of connecting to a SQL Server and does not discuss Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:06:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical aspects of connecting to SQL Server and managing Service Principal Names, without any reference to agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:06:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses technical details about connecting to SQL Server and managing Service Principal Names (SPNs), which is unrelated to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical aspects of connecting to SQL Server and managing Service Principal Names (SPNs), with no mention or relevance to the role or responsibilities of a Scrum Master. It does not discuss any Scrum principles, team dynamics, or agile methodologies, which are essential for alignment with the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1213,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:06:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on connecting to SQL Server and managing Service Principal Names, with no discussion on Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on connecting to SQL Server and managing Service Principal Names (SPNs), which is unrelated to Test First Development principles. There are no mentions of testing practices, success criteria, or any relevant discussions that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:15:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of connecting to SQL Server and managing Service Principal Names (SPNs), with no relevance to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of connecting to SQL Server and managing Service Principal Names (SPNs). It does not discuss collaboration, decision-making, or value delivery, which are central to the Social Technologies category. The mention of infrastructure setup is tangential and does not align with the core themes of social technologies. Overall, the content lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1242,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to connecting to SQL Server and managing Service Principal Names, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:44:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses connecting to SQL Server and managing Service Principal Names (SPNs), which is not related to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:44:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses connecting to SQL Server and managing Service Principal Names, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical aspects of connecting to SQL Server and managing Service Principal Names (SPNs), with no direct mentions or relevant discussions about Scrum principles, roles, events, or practices. The focus is entirely on database connectivity rather than project management frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses connecting to SQL Server and managing Service Principal Names (SPNs), which is unrelated to the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance processes in the software development lifecycle, nor does it provide any insights into integrating these elements earlier in development. The focus is entirely on database connectivity rather than any proactive software quality measures.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical details related to connecting to SQL Server and managing Service Principal Names (SPNs). It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment. The mention of SPNs and database access is strictly technical and lacks any connection to team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting to SQL Server and managing Service Principal Names (SPNs). While it demonstrates a level of technical competence in handling database connections, it does not explicitly discuss the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps contexts. The mention of SPNs and database management is more about performative activity rather than a discussion on competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting to SQL Server and managing Service Principal Names (SPNs). It does not discuss Continuous Improvement principles, nor does it reflect on processes, team effectiveness, or empirical evidence. The mention of moving databases and SPNs is operational rather than indicative of a culture of continuous improvement or learning.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting to SQL Server and managing Service Principal Names (SPNs). It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The mention of moving databases and SPNs does not relate to intentional shaping of outcomes or the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

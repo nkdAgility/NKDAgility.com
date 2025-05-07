@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses technical aspects of a software project without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T22:28:47",
     "ai_confidence": 0,
@@ -46,21 +46,24 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-16T22:28:48",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and technical aspects of a software project without addressing market adaptability strategies or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the setup and installation complexities of the EventHandler, indicating a secondary theme related to installation and configuration, but it primarily focuses on the development and refactoring process.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions the installation process briefly, specifically in the context of moving to a Windows Service and the complications faced during setup. However, it lacks detailed step-by-step instructions or best practices for installation and configuration, which are crucial for a higher confidence score. The focus is more on the development and refactoring of the EventHandler rather than providing actionable insights on installation or configuration.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses a specific technical project related to Team Foundation Server and does not align with Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:28:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical aspects of a software project without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T22:28:55",
@@ -97,15 +91,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and deployment of a software project, with no clear reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the development and refactoring of a Team Foundation Server EventHandler, which relates to practical tooling in a DevOps context, but it is not the primary focus.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:28:59",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and deployment of a software project, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:29:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development and technical aspects of a software project, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the development of a software tool (TFS EventHandler) and its transition to a more reliable system. There are no explicit mentions of Evidence-Based Management principles or metrics. The focus is on technical implementation rather than data-informed decision-making or value delivery, which are core themes of EBM. The discussion lacks depth and does not provide any empirical evidence or strategic insights related to management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:29:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation of a Team Foundation Server EventHandler and does not address Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:29:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development and technical details of a specific project rather than providing industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the development of a specific software tool (TFS EventHandler) and its transition to a more reliable system. It does not mention or align with the Agile Product Operating Model or its principles, focusing instead on technical implementation details and personal development updates.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -206,42 +188,6 @@
     "reasoning": "Content primarily discusses the development and deployment of a specific tool (TFS EventHandler) without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software project related to Team Foundation Server and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:29:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the development and deployment of a Team Foundation Server EventHandler, with no clear focus on AI or automation within Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a refactoring process and the transition to a more reliable system architecture, which relates to code quality and complexity. However, the primary focus is on the project announcement and setup rather than an in-depth exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T08:20:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development and technical details of a software project, rather than providing reviews or discussions on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
     "calculated_at": "2025-02-17T08:20:35",
@@ -251,15 +197,6 @@
     "reasoning": "Content primarily discusses the development and technical aspects of a software project, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T08:20:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of a software project and does not focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
   "Agile Product Management": {
     "category": "Agile Product Management",
     "calculated_at": "2025-02-17T08:20:39",
@@ -267,15 +204,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of a software project and does not relate to Agile Product Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T08:20:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development and technical details of a software project without focusing on discovery, learning, or innovation processes.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -296,15 +224,6 @@
     "reasoning": "Content primarily discusses the addition of an EventHandler to CodePlex and mentions a refactor and changes in architecture, but lacks a clear focus on engineering practices or methodologies that enhance agility in software development.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T08:20:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development and technical aspects of a software project, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-17T08:20:49",
@@ -316,11 +235,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T08:20:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a specific tool (TFS EventHandler) and its transition to a different architecture, without focusing on DevOps principles, practices, or cultural aspects.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the development of a specific tool (TFS EventHandler) and its transition to a more reliable system. While it touches on aspects of software development and mentions a shift in technology (from web services to Message Queuing), it lacks explicit discussions on DevOps principles such as collaboration, automation, or shared accountability. The focus is more on the technical implementation rather than the cultural or philosophical aspects of DevOps, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Personal": {
@@ -350,15 +272,6 @@
     "reasoning": "Content primarily discusses a specific EventHandler for Team Foundation Server (TFS) without focusing on Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T08:20:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development and features of a software project, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T10:22:11",
@@ -379,12 +292,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a project related to Team Foundation Server and mentions moving to a Windows Service, which relates to Windows operating systems. However, it primarily focuses on the event handler and development aspects rather than in-depth Windows OS topics.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the development of a Team Foundation Server EventHandler, which is related to Windows as it mentions moving to a Windows Service. However, the primary focus is on the development process and the use of CodePlex rather than a comprehensive discussion of Windows itself. While there are direct mentions of Windows and some alignment with installation and configuration aspects, the depth of discussion is more about the project than the Windows operating system as a whole.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -397,20 +313,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T10:22:11",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a project update regarding an EventHandler without addressing the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development and setup of a Team Foundation Server EventHandler without clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the transition of a TFS EventHandler to CodePlex and mentions technical changes like moving to Message Queuing and Windows Service. However, it lacks explicit discussions on Continuous Delivery principles, automation, or delivery practices. The focus is more on the development process rather than Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -429,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical project involving a Team Foundation Server EventHandler, focusing on implementation details rather than principles of empirical process control.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software project related to Team Foundation Server, with no mention of scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Increment": {
@@ -460,11 +370,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition to a more reliable message queuing system and the move to a Windows Service, which relates to system setup, but it primarily focuses on software development and project updates.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the transition of a system to a more reliable Message Queuing setup and mentions the complexities of installation and configuration. However, it lacks a detailed exploration of best practices or methodologies for system configuration, focusing instead on personal experiences and project updates. The primary focus is not on system configuration principles, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -505,12 +418,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T10:22:11",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses the development of an EventHandler for Team Foundation Server, but primarily focuses on technical details and future plans rather than the delivery or functionality of working software.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -532,20 +445,26 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the development and refactoring of a software project related to Team Foundation Server, including decision-making about architecture and methodology, which are relevant to software development practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the development of a Team Foundation Server EventHandler, which is relevant to software development practices. It mentions moving to a more reliable Message Queuing system and transitioning to a Windows Service, indicating a focus on improving software architecture and design. However, the discussion lacks depth in terms of methodologies or best practices, and while it touches on relevant topics, it does not provide extensive detail or a structured approach to software development processes.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a Team Foundation Server EventHandler and does not address Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the transition of a TFS EventHandler to a more reliable system and does not mention Test First Development principles, success criteria, or testing practices. It lacks any direct references to testing methodologies or the importance of defining criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -609,15 +528,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a technical project and its development process, with no discussion of long-term objectives or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific technical implementation related to Team Foundation Server and does not discuss Scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -712,11 +622,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of refactoring and system architecture, which are relevant to software craftsmanship, but it lacks a comprehensive focus on core technical mastery principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a technical project involving the refactoring of a Team Foundation Server EventHandler and mentions moving to a more reliable architecture with Message Queuing. However, it lacks a detailed exploration of best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The focus is primarily on the project itself rather than on broader technical mastery concepts.",
     "level": "Tertiary"
   },
   "Asynchronous Development": {
@@ -766,12 +679,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T10:22:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions refactoring and discusses system changes, which are related to engineering practices, but the primary focus is on the event handler project and its deployment rather than core Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions refactoring and discusses moving to a more reliable system, which aligns with engineering practices. However, it lacks a detailed exploration of core Agile principles such as clean code, TDD, or CI/CD. The focus is more on project updates rather than a deep dive into engineering methodologies.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -784,10 +700,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T10:22:11",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of a specific project and software development tools, without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -847,10 +763,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T10:22:11",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and deployment of a Team Foundation Server EventHandler, with no clear focus on Cycle Time metrics or related topics.",
     "level": "Ignored"
   },
@@ -865,10 +781,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T10:22:11",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and documentation of a software project, without any mention of backlog items or Definition of Ready criteria.",
     "level": "Ignored"
   },
@@ -881,7 +797,7 @@
     "reasoning": "Content primarily discusses a Team Foundation Server EventHandler project and related technical issues, without a focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T10:22:11",
     "ai_confidence": 0,
@@ -919,10 +835,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T10:22:12",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical update on a project related to Team Foundation Server and does not address Lead Time or its key topics.",
     "level": "Ignored"
   },
@@ -933,15 +849,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a Team Foundation Server EventHandler project, technical implementation details, and software setup rather than Agile strategy.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a specific software tool (TFS EventHandler) and its transition to a more reliable system, but does not focus on the role of software developers within Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -998,15 +905,6 @@
     "reasoning": "Content is primarily about a software project and technical implementation, with no focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software tool and its development without any clear relation to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Product Validation": {
     "category": "Product Validation",
     "calculated_at": "2025-02-17T10:22:12",
@@ -1054,12 +952,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a software project involving refactoring and moving to more reliable systems, which relates to continuous improvement and technical debt management, but it mainly focuses on project specifics rather than broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions refactoring and moving to a more reliable system, which aligns with the principles of software craftsmanship and technical debt management. However, it lacks a detailed discussion on best practices, coding standards, or quality assurance, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1099,10 +1000,10 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T10:22:12",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical details about a software project and its development process, with no mention of market share or strategies related to increasing market presence.",
     "level": "Ignored"
   },
@@ -1205,15 +1106,6 @@
     "reasoning": "Content primarily discusses development details related to Team Foundation Server and system architecture, with no clear focus on test automation principles or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a software project related to Team Foundation Server and does not address Scrum principles or product development practices.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T10:22:12",
@@ -1234,11 +1126,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Masters or their roles; it focuses on a software project and technical aspects.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical project related to Team Foundation Server and its transition to a more reliable system. There are no direct mentions of the Scrum Master role, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The focus is on technical implementation rather than Scrum practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1261,29 +1156,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T10:22:12",
+    "calculated_at": "2025-04-10T15:57:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical updates related to Team Foundation Server and project setup, with no clear focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on a Team Foundation Server EventHandler project, unrelated to scaling agile methodologies or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software tool and its development process, with no focus on agile principles or methodologies.",
+    "reasoning": "Content primarily discusses technical updates related to Team Foundation Server and project setup, with no clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1331,15 +1208,6 @@
     "reasoning": "Content primarily discusses technical aspects of a Team Foundation Server EventHandler, with no clear relation to Value Stream Mapping.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T10:22:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software project related to Team Foundation Server and does not address AI integration in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T10:22:12",
@@ -1360,11 +1228,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:31:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development and technical aspects of a software project, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of the TFS EventHandler and its transition to CodePlex, with minimal discussion on collaboration, decision-making, or value delivery. While it invites community involvement, it lacks depth in exploring social technologies or their impact on team dynamics and organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to Team Foundation Server and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:53:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a specific project related to Team Foundation Server and its development, without focusing on the broader concepts or benefits of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:53:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the development and deployment of a Team Foundation Server EventHandler, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a software project related to Team Foundation Server and its transition to a different architecture. There are no direct mentions of Scrum roles, events, or principles, and the discussion lacks depth regarding Scrum practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the development of a specific software project (TFS EventHandler) and mentions technical aspects like moving to Message Queuing and Windows Service. There is no explicit discussion of integrating testing, security, or compliance earlier in the development process, nor does it address the principles or benefits of the Shift-Left Strategy. The focus is on project updates rather than the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the development of a specific software project and its transition to a new system. While it mentions the development journey and invites collaboration, it lacks explicit discussions on Common Goals, alignment with strategic objectives, or the principles of Agile and DevOps. The content does not delve into the significance of shared objectives or frameworks like OKRs, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the development and transition of a software project, mentioning technical aspects and personal experiences. While there is a brief mention of documentation and a call for community involvement, it lacks a direct discussion on competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, and the depth of discussion does not provide substantial insights into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions a transition to a more reliable system and a refactoring process, which could imply some aspects of Continuous Improvement. However, it lacks explicit discussions on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or a culture of experimentation. The focus is primarily on the technical aspects of the TFS EventHandler and its development journey, rather than on systematic improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the development and transition of a software project without addressing the principles of Agentic Agility. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability. The focus is on technical details and project updates rather than the transformative capacity of individuals or systems in a socio-technical context.",
     "level": "Ignored"
   }
 }

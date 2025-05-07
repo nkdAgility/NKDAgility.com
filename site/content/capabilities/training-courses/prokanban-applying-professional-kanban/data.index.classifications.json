@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:03:02",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on the Kanban framework, detailing its principles, practices, and application in team environments, which aligns closely with the category of Social Technologies.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions collaborative growth and real-time application, which aligns with the principles of social technologies. However, it primarily focuses on the Kanban course structure and learning methodology without delving deeply into the core themes of self-organisation, decision-making, or value delivery. The discussion lacks explicit references to social technologies or their impact on organisational culture, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,19 +22,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:03:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Kanban training and methodologies, which are not central to DevOps principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is a project management methodology rather than a discussion on DevOps principles. While there are elements of collaboration and continuous learning mentioned, they do not explicitly align with the core themes of DevOps, such as automation, shared accountability, or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:03:07",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of Product Owners and Managers in the context of a Kanban course, which is relevant to product management, but the primary focus is on Kanban training rather than strategic product management.",
     "level": "Tertiary"
   },
@@ -46,10 +52,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on the 'Applying Professional Kanban' course, which relates to agile methodologies. While it discusses principles and practices that can align with business agility, the primary focus is on Kanban training rather than a broader discussion on business agility itself.",
     "level": "Tertiary"
   },
@@ -64,10 +70,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Kanban principles and practices, which are separate from Scrum methodologies.",
     "level": "Ignored"
   },
@@ -82,46 +88,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on a Kanban training course and does not discuss evidence-based management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Kanban training, project management, and team workflows, without any significant discussion on software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a training course on Kanban principles, focusing on team-level applications rather than scaling Kanban across large organizations or multiple teams.",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course and its immersive learning experience, with no direct mention of Evidence-Based Management principles or metrics. While it discusses practical application and real-world scenarios, it lacks explicit references to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on Kanban training and principles, with no clear discussion of hypothesis formulation, experimentation, or validated learning in product development.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content revolves primarily around the Kanban framework, its principles, practical applications, and its integration within Agile practices, fulfilling the criteria for the category effectively.",
     "level": "Secondary"
   },
@@ -136,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a Kanban training course and does not address the Definition of Ready, its criteria, or related agile practices directly.",
     "level": "Ignored"
   },
@@ -150,15 +141,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a Kanban training course without any explicit focus on trend analysis within Agile or DevOps frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a Kanban course aimed at individual team performance rather than on scaled Agile practices or frameworks for multiple teams.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -172,10 +154,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly focuses on Kanban practices and agile methodologies, which do not center primarily on software craftsmanship or engineering excellence.",
     "level": "Ignored"
   },
@@ -199,19 +181,19 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content is centered around a training course that focuses on applying Kanban principles to improve team workflow and productivity. While it discusses team dynamics and collaboration implicitly, it primarily emphasizes the Kanban methodology and its application rather than detailing specific strategies or practices that enhance team performance within an agile framework.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a Kanban training course without discussing specific collaboration tools or their role in Agile team dynamics.",
     "level": "Ignored"
   },
@@ -226,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a training course for applying Kanban, which is a methodology that can improve product delivery practices. However, it does not extensively cover broader product delivery methodologies, processes, or deployment strategies.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on a Kanban training course and its application, with no discussions on AI or its integration within Agile methodologies, DevOps practices, or software development processes.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,39 +224,21 @@
     "reasoning": "Content primarily focuses on a Kanban training course, which is centered around workflow and team efficiency, without a direct emphasis on the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses team dynamics and collaboration relevant to Kanban methodology, which is a process-oriented and team-focused approach. However, it leans more towards the training aspect of Kanban rather than an in-depth exploration of the interplay between human behavior and structured methodologies.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban methodology, project management, and course offerings, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 70,
-    "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily focuses on a Kanban training course, which is a methodology within the agile framework. While it thoroughly discusses Kanban principles and their application, it does not comprehensively cover broader agile project management concepts or other frameworks within agile, making it a significant but secondary theme.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content is primarily focused on Kanban, which is a Lean tool aimed at improving workflow and efficiency. It discusses core Lean principles like flow and continuous improvement, making Lean Thinking a major theme.",
     "level": "Secondary"
   },
@@ -296,31 +251,13 @@
     "reasoning": "The content primarily focuses on a Kanban training course and its objectives, without a clear discussion on accountability as a principle or topic.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a Kanban training course and teamwork efficiency, without a primary emphasis on transparency and accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban training and methodologies, without a clear focus on release management practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on Kanban training and practices, which are not aligned with the One Engineering System framework principles or discussions.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -334,74 +271,80 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 80,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on the Applying Professional Kanban course, detailing its principles and practices, key outcomes, and real-world applications of Kanban methodology. It addresses various topics central to Kanban such as flow, WIP limits, and visual board creation, making Kanban the clear primary topic.",
     "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on a Kanban training course, discussing its principles and applications, but does not directly address the core topics of technical leadership as defined in the classification criteria.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a Kanban course, which is related to Agile methodologies, but it does not specifically discuss Agile Planning Tools. The emphasis is more on the Kanban approach rather than planning tools specifically.",
     "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on Kanban training and its application, without specifically discussing the role, responsibilities, or practices of a Scrum Master.",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is outside the Scrum framework. While it mentions concepts like continuous learning and real-world application, it does not directly discuss the role or responsibilities of a Scrum Master, nor does it align with the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily focuses on Kanban and its principles, it indirectly touches on Agile concepts and methodologies, particularly in the context of team alignment and workflow management. However, the focus is more on Kanban than on Agile Planning specifically.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions agile principles in relation to Kanban, positioning them within a broader training context. However, the primary focus is on Kanban as a framework rather than on Agile values and principles themselves.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content is primarily focused on the principles and practices of Kanban, which are fundamental to enhancing flow efficiency in work processes. It discusses key topics like managing work in progress, visual management, and optimizing workflows, all of which align closely with the category of Flow Efficiency.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Kanban training and methodologies, with no mention of Test First Development principles or practices.",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a Kanban course and does not discuss Test First Development principles, success criteria, or testing practices. There are no direct mentions or relevant themes related to Test First Development, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,82 +403,64 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the Kanban methodology and training without explicitly discussing the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content is primarily about a Kanban course, which is a framework within Agile practices; while it discusses principles related to Agile practices, the main focus is on Kanban itself rather than on Agile transformation as a whole.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a Kanban training course which focuses on project management and delivery skills rather than core engineering practices such as clean code, TDD, CI/CD, or automation.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on Kanban principles, which are closely related to Lean thinking, particularly in terms of workflow efficiency and continuous improvement. However, it primarily emphasizes Kanban rather than core Lean principles, making Lean a secondary theme.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a Kanban course and does not discuss Scrum values or any related principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Kanban, which can be related to enhancing team performance, workflow, and efficiency, aligning with themes of organisational resilience and adaptability. However, the primary focus is on certification training rather than directly addressing broader resilience and change strategies.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the practical application of Kanban principles and methodologies, detailing how to implement Kanban in real-world scenarios, create visual boards, and manage workflow. It emphasizes skills and tools relevant to enhancing Agile practices, thus aligning well with the category.",
-    "level": "Secondary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban training and principles rather than Value Stream Mapping.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Kanban training course and does not discuss the Product Backlog or its management in Agile contexts.",
     "level": "Ignored"
   },
@@ -548,21 +473,12 @@
     "reasoning": "Content primarily discusses a Kanban training course and its features rather than personal experiences or reflections related to Agile methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content describes a course that includes live sessions and implies a learning environment, but it does not explicitly focus on an event or presentation format central to the classification.",
-    "level": "Tertiary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Kanban training course and its principles, rather than on working agreements or teamwork norms.",
     "level": "Ignored"
   },
@@ -577,20 +493,11 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on a training course for Kanban rather than discussing Scrum Teams, their roles, and dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Kanban training course targeted towards teams, emphasizing team-level practices without discussing broader scaling strategies or organizational agility.",
+    "reasoning": "The content primarily focuses on a training course for Kanban rather than discussing Scrum Teams, their roles, and dynamics.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -604,68 +511,71 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses mainly on a Kanban training course and does not address strategies related to customer retention.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Kanban training and principles, not on Continuous Delivery practices or methodologies.",
+    "calculated_at": "2025-03-21T15:02:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is not directly related to Continuous Delivery. While it mentions concepts like continuous learning and incremental improvements, these are not explicitly tied to Continuous Delivery principles or practices. The discussion lacks depth and does not provide specific insights into Continuous Delivery methodologies, tools, or case studies.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a training course on applying Kanban principles, without a clear focus on customer satisfaction or related metrics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on a Kanban course and does not address the practices, challenges, or solutions of remote working in an Agile context.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Kanban training course and its principles, which does not discuss change management strategies or practices directly.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses enhancing workflow and productivity within teams, which is a major theme related to team collaboration. However, the primary focus is on the Kanban training methodology rather than explicit team collaboration techniques.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T07:21:05",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a course about Kanban, which is unrelated to the Daily Scrum event or discussions about Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T07:21:05",
     "ai_confidence": 0,
@@ -683,15 +593,6 @@
     "reasoning": "Content is primarily focused on Kanban methodology and training, with no relation to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The course emphasizes practical application and continuous improvement through Kanban principles, which aligns with learning methodologies. However, the primary focus is on Kanban as a project management framework rather than on broader discovery and learning processes.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-18T07:21:05",
@@ -703,11 +604,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:21:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on a Kanban course and does not primarily discuss Agile Product Operating Model concepts or frameworks.",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is not directly related to the Agile Product Operating Model. While it mentions agile principles, it does not discuss product management or the core themes of APOM, such as transitioning to a product ethos or operational stability in product delivery.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -721,19 +625,19 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Kanban methodologies and does not discuss Behaviour Driven Development or its principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Kanban principles and practices that can enhance workflow efficiency and team productivity, which are related to market adaptability practices. However, it primarily focuses on the course information rather than explicit strategies for responding to market shifts.",
     "level": "Tertiary"
   },
@@ -757,10 +661,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on a Kanban training course and does not discuss customer feedback loops or the integration of customer feedback into product development processes.",
     "level": "Ignored"
   },
@@ -775,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the assessment of key flow metrics and analytics within the context of Kanban, indicating a secondary theme related to metrics and learning, but primarily focuses on the course structure and delivery rather than solely on metrics.",
     "level": "Tertiary"
   },
@@ -793,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Kanban, which is related to Lean principles, including efficiency and continuous improvement. However, it primarily focuses on Kanban training rather than being entirely centered on Lean Product Development.",
     "level": "Tertiary"
   },
@@ -807,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on a Kanban training course and its associated outcomes, target audiences, and methodologies, with no direct discussion of mentoring processes or themes related to guidance or coaching.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:21:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on a Kanban course and its associated principles, without discussion of AI or automation in Agile frameworks.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -829,37 +724,37 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Kanban principles and emphasizes team alignment and delivery improvement, which are relevant to strategy in Agile contexts, but it largely focuses on training and practical application rather than strategic formulation.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the application of Kanban principles, which are practical methodologies aimed at improving operational efficiency and workflow management within teams. It details the implementation of Kanban systems and continuous improvement practices, aligning well with the key topics of the Operational Practices category.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a specific framework (Kanban) and its implementation rather than discussing Agile Philosophy as a central topic. However, it does touch on Agile principles and their application, indicating a significant connection to Agile concepts.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban principles and training, without any emphasis on Acceptance Test Driven Development or related topics.",
     "level": "Ignored"
   },
@@ -883,46 +778,46 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 75,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
+    "final_score": 75.0,
     "reasoning": "The content primarily focuses on delivering a Kanban course aimed at enhancing team performance and efficiency through learning and practical application. While it emphasizes learning and skill development, it does not explicitly frame these topics around Continuous Learning principles such as feedback loops, growth mindset, or culture of experimentation.",
     "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is predominantly focused on Kanban principles and training, not specifically about Azure Boards or its functionalities.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on a Kanban course and training for teams and individuals rather than on the strategic alignment, prioritization, and value optimization of a portfolio of projects.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses exclusively on Kanban training and project management, without any direct relation to modern source control practices or version control systems.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Kanban principles as they relate to product management, specifically mentioning areas relevant to Product Owners and aiming to optimize product delivery, which aligns with Agile product management themes.",
     "level": "Tertiary"
   },
@@ -937,64 +832,46 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban training and methodologies, which, while related to efficiency, does not specifically address or align with the core principles of Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:21:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily focused on a Kanban course and does not discuss Scaling Scrum, Scrum principles, or frameworks for scaling Scrum.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses team dynamics, workflow management, and the implications of Kanban in team environments, which align with sociotechnical aspects. However, the primary focus remains on the Kanban methodology rather than a deeper exploration of the interplay between technology and organizational structures.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:21:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a training course on Kanban, which is related to Agile methodologies, but it does not directly focus on a specific product or book for review or analysis.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban training and its principles, without a clear emphasis on empirical process control concepts such as transparency, inspection, and adaptation within Agile frameworks.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Kanban methodologies and project management, which are unrelated to Continuous Integration principles and practices.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the practical application of Kanban principles and methodologies within team environments, emphasizing real-world scenarios and the effectiveness of Kanban for improving team efficiency and productivity.",
     "level": "Secondary"
   },
@@ -1009,19 +886,19 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kanban training, project management, and team efficiency without addressing technical debt or its implications.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Kanban training course without focus on working software delivery or related methodologies.",
     "level": "Ignored"
   },
@@ -1036,10 +913,10 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 60,
     "non_ai_confidence": 50,
-    "final_score": 59.0,
+    "final_score": 60.0,
     "reasoning": "The content discusses Kanban principles, which are related to Lean methodologies, but it focuses primarily on the Kanban framework and its application rather than Lean itself as a primary topic.",
     "level": "Tertiary"
   },
@@ -1054,19 +931,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Kanban training course and the principles of Kanban methodology rather than discussing product strategy or related frameworks.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content primarily discusses a Kanban training course, which is a methodology related to software development processes and project management. While it is focused on the Kanban methodology itself, it does relate significantly to software development practices, especially in how teams can improve their workflow and efficiency, making it a major but secondary theme.",
     "level": "Secondary"
   },
@@ -1090,10 +967,10 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a course on applying Kanban principles and practices. It does not address decision-making processes or theory. Instead, it focuses on workflow improvement and team efficiency within an Agile context, which is not closely related to decision theory.",
     "level": "Ignored"
   },
@@ -1108,21 +985,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Kanban training course and does not discuss cross-functional teams or their role in Agile methodologies.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:21:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Kanban which is often used in Agile methodologies and has relevance for software developers working in team environments to improve workflows and delivery processes.",
-    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1144,30 +1012,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a Kanban training course, discussing its structure, intended audience, and learning outcomes, without any mention of installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions Product Owners as part of its delivery audience and touches on their role in product delivery and management, but the primary focus is on Kanban principles and training.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:21:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily describes a training course on Kanban, which does not fit the criteria of providing industry news, updates, or reviews related to Agile or DevOps.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1180,46 +1039,46 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Kanban training course, focusing on methodologies and principles rather than specific engineering practices that enhance agility in software development.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a Kanban course, discussing principles and practices related to Kanban methodology rather than Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban training and certification without discussing asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Kanban training course and does not emphasize Agile leadership roles, practices, or principles.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the application of Kanban in team environments and aims to enhance team performance and efficiency, making team motivation a significant theme, although it primarily centers on Kanban principles.",
     "level": "Tertiary"
   },
@@ -1234,100 +1093,94 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Kanban training course rather than on validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Kanban principles and practices, which relate to workflow and improving efficiency, but it is primarily focused on a training course structure rather than a deep exploration of throughput.",
     "level": "Tertiary"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:21:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily focuses on Kanban training and practices, which are unrelated to Scrum principles and framework.",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on a Kanban course, with no direct mentions of Scrum principles, roles, or events. It does not align with the core themes of Scrum, such as iterative progress or team dynamics, and lacks depth in discussing any Scrum-related topics.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 70,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses improving team efficiency and value delivery through Kanban principles, making it a major theme, although it primarily focuses on training aspects rather than direct value delivery strategies.",
     "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban training and project management methodologies, which are unrelated to system configuration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the Kanban methodology for project and workflow management rather than deployment strategies.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban training and project management rather than discussions on product discovery methodologies, user research, or understanding customer needs.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:21:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily focuses on Kanban methodologies and training, without any strong reference to Scrum principles or practices relevant to product development.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Kanban training, which is related to process improvement and efficiency within teams, indicating that organisational change principles might be a secondary theme but not the main focus.",
     "level": "Tertiary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Kanban training course and does not address the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on a Kanban training course that supports agile practices. While it discusses principles related to Agile, it does not address broader strategic implications or organizational alignment.",
     "level": "Tertiary"
   },
@@ -1351,10 +1204,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the principles and practices of Kanban, which falls under agile methodologies that contribute to organisational agility. However, it primarily focuses on a training course rather than directly addressing the broader strategies and cultural shifts necessary for organisational agility.",
     "level": "Tertiary"
   },
@@ -1369,11 +1222,107 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-18T07:21:06",
+    "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Kanban training and principles, which is not directly related to Lean Startup methodology or concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course and does not mention AI or its applications in Agile or DevOps. While it discusses learning methodologies, it lacks any direct connection to AI, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is unrelated to Internal Developer Platforms. There are no direct mentions of IDPs, and the discussion does not align with the core themes of IDPs, such as streamlining development processes or automation. The depth of discussion is also minimal, as it revolves around training methodologies rather than the IDP framework.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-21T11:22:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course and does not explicitly mention the Shift-Left Strategy or its principles. While it discusses continuous learning and practical application, it lacks direct references to integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content mentions continuous learning and reflects on the importance of real-world application and facilitated reflections, which align with the principles of Continuous Improvement. However, it lacks explicit discussions on empirical evidence, data-driven decision-making, or specific strategies for integrating Continuous Improvement into organisational processes. The focus is more on the course structure rather than a comprehensive exploration of Continuous Improvement concepts.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course and its immersive learning experience, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it mentions collaborative growth and real-world application, these concepts are not directly tied to the foundational principles of Common Goals, such as alignment and shared objectives. The content lacks depth in addressing the category's key topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses continuous learning and skill development through the 'Applying Professional Kanban' course, which aligns with the core themes of competence. It highlights the importance of real-world application and reflective practice, indicating a focus on mastery and professional growth. However, while competence is a significant aspect, the content primarily promotes the course rather than deeply exploring the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course, which is unrelated to the One Engineering System framework. There are no direct mentions of 1ES principles, components, or discussions on integration and standardisation of engineering processes. The content does not align with the core themes of 1ES, and the depth of discussion regarding 1ES is virtually non-existent.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Kanban course and its immersive learning experience, which does not explicitly discuss Agentic Agility or its key themes. While there are elements of reflection and real-world application, they are not framed within the context of intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth regarding the principles of Agentic Agility, making it only tangentially related.",
     "level": "Ignored"
   }
 }

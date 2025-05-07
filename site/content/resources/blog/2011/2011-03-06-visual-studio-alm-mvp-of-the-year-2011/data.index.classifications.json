@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T23:39:10",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal achievements and community engagement related to Visual Studio ALM, with no clear discussion on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's efforts to document problems and solutions related to Team Foundation Server (TFS), which aligns with practical techniques and tooling. However, the primary focus is on personal achievements and community engagement rather than a detailed exploration of specific tools or methodologies.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:39:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal achievements and blogging efforts related to Visual Studio ALM, without a focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T23:39:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal achievements and community engagement rather than the interplay between software code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's efforts to document problems and solutions related to Team Foundation Server, which aligns with knowledge sharing and continuous learning. However, the primary focus is on personal achievements and community engagement rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T23:39:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal achievements and goals related to Visual Studio ALM MVP, with no focus on AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal achievements and contributions to the Visual Studio ALM community, with no explicit discussion of Evidence-Based Management principles or metrics. While there is a mention of documenting problems and sharing knowledge, it lacks a clear connection to data-informed decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,12 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T23:39:21",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal achievements and goals related to blogging and community engagement, with no clear focus on installation or configuration processes.",
     "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's efforts to document problems and solutions related to Team Foundation Server, which aligns with the principles of transparency and accountability. However, the primary focus is on personal achievements and goals rather than a comprehensive discussion of transparency and accountability within Agile teams.",
-    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,32 +65,29 @@
     "reasoning": "Content primarily focuses on personal achievements and community engagement rather than the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T23:39:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal achievements and blogging efforts without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T23:39:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal achievements and community contributions related to Visual Studio ALM, without discussing DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an individual's recognition as an MVP in the context of Visual Studio ALM and shares personal experiences and goals related to blogging and community engagement. While it mentions Team Foundation Server (TFS), it does not delve into the core principles or practices of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth and does not align with the key topics outlined in the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses personal experiences and reflections related to being voted as an MVP, with some mention of blogging and community contributions, but lacks a direct connection to Agile, Scrum, DevOps, or Lean principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the author's personal experience and reflections regarding being nominated for the Visual Studio ALM MVP award. While it touches on topics related to Team Foundation Server (TFS) and blogging, it does not delve into specific Agile, Scrum, DevOps, or Lean methodologies. The discussion is anecdotal and lacks actionable insights or direct references to established frameworks, aligning it more with the Miscellaneous category. However, the depth of personal narrative and goals for community engagement provides a significant amount of detail, justifying a higher confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses personal achievements and goals related to blogging and community engagement, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T23:39:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal achievements and blogging efforts, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T23:39:32",
@@ -160,15 +106,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal achievements and goals related to blogging and community engagement, with no clear focus on flow efficiency principles or optimisation of work throughput.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses personal achievements and community engagement, which touches on collaboration and knowledge sharing among peers, but it primarily focuses on individual recognition and blogging rather than structured methodologies or team dynamics.",
-    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T23:39:37",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal achievements and goals related to blogging and community engagement, without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's efforts to document problems and solutions related to Team Foundation Server (TFS), which aligns with the principles of sharing knowledge and improving engineering practices. However, the primary focus is on personal achievements and community engagement rather than specific technical methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's personal experience and recognition as an MVP, with some mention of documenting problems and sharing knowledge about Team Foundation Server (TFS). While there are elements of community contribution and knowledge sharing, the discussion lacks a direct focus on specific engineering practices or methodologies that enhance technical excellence. The content does not delve into topics like TDD, CI/CD, or modular architecture, which are central to the category. Therefore, while there is some alignment, it is not substantial enough to warrant a higher confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -235,10 +175,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T23:39:43",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal achievements and community engagement rather than methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
@@ -253,47 +193,47 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T23:39:45",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal achievements and goals related to blogging and Team Foundation Server, without a clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the intention to write a book on the Team Foundation Server API, which aligns with the category, but the primary focus is on personal achievements and community contributions rather than a detailed discussion of products or literature.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's efforts to document problems and solutions related to Team Foundation Server (TFS), which aligns with the idea of delivering value to customers through shared knowledge. However, the primary focus is on personal achievements and goals rather than a structured discussion on value delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the idea of delivering value through blogging and sharing knowledge, which aligns with the concept of value delivery. However, it primarily focuses on personal achievements and community engagement rather than specific strategies or methodologies related to Agile, Scrum, or DevOps frameworks. The discussion lacks depth and does not provide substantial insights into value delivery practices.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Team Foundation Server (TFS), which is part of Azure DevOps, and discusses personal experiences related to it. However, the primary focus is on the author's recognition and goals rather than a detailed discussion of Azure DevOps functionalities or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions Team Foundation Server (TFS), which is part of the Azure DevOps suite, but it primarily focuses on personal achievements and community engagement rather than discussing Azure DevOps functionalities or best practices in detail. While there is some alignment with the category through the mention of TFS and the author's goals related to community contributions, the overall depth and focus on Azure DevOps are limited.",
     "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-15T23:39:50",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content shares personal reflections on receiving an MVP award and discusses individual contributions to the community, which aligns with personal experiences and insights related to Agile practices.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the author's personal experience of being nominated for the Visual Studio ALM MVP award, reflecting on their contributions and goals for the community. It includes personal anecdotes about their blogging practices and interactions with colleagues, which aligns with the Personal category. However, while it touches on personal insights, the discussion lacks depth in relation to Agile, Scrum, or DevOps methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -305,22 +245,25 @@
     "reasoning": "Content primarily discusses personal achievements and goals related to blogging and Team Foundation Server, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T23:39:53",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal achievements and experiences related to Visual Studio ALM MVP, with no clear focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:39:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal achievements and community contributions related to Visual Studio ALM, without a focus on Agile Product Operating Model principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the author's recognition as an MVP in Visual Studio ALM and their personal experiences with Team Foundation Server (TFS). It does not discuss the Agile Product Operating Model or its principles, nor does it align with the key topics outlined for the category. The mention of TFS and blogging about problem-solving does not connect to the core themes of APOM, which emphasises a product-oriented mindset and agile methodologies in product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +275,17 @@
     "reasoning": "Content primarily focuses on personal achievements and community contributions rather than discussing organisational agility strategies or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's recognition as a Visual Studio ALM MVP and their contributions to the community, which relates to industry updates and personal insights. However, it primarily focuses on personal achievements and goals rather than broader industry news or reviews.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's recognition as an ALM MVP and mentions Team Foundation Server (TFS), which relates to application lifecycle management. However, the primary focus is on personal achievements and community engagement rather than a detailed exploration of ALM methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T23:39:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal achievements and goals related to Visual Studio ALM and Team Foundation Server, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content mentions Visual Studio ALM and Team Foundation Server (TFS), which are relevant to Application Lifecycle Management. However, the primary focus is on personal achievements and community engagement rather than a detailed discussion of ALM methodologies, practices, or tools. The content lacks depth in exploring the stages of the application lifecycle or best practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,48 +298,57 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss the Definition of Done; it focuses on a personal achievement and goals related to community contributions and blogging.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses documentation and community contributions related to Team Foundation Server (TFS), which aligns partially with the principles of software craftsmanship, though it primarily focuses on personal achievements and goals rather than best practices or technical methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the author's recognition as an MVP and their personal reflections on blogging and community contributions. While there are mentions of documenting problems with Team Foundation Server (TFS) and sharing knowledge, the discussion lacks depth in technical methodologies or principles of software craftsmanship. The alignment with the category is moderate, as it touches on community engagement and knowledge sharing, but does not delve into best practices or technical excellence in software development.",
     "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses being awarded MVP and sharing personal experiences with Team Foundation Server, rather than focusing on methods for user research, defining product features, or understanding customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on receiving an MVP award and the author's community contributions rather than discussing Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's recognition as an MVP and their blogging efforts related to Team Foundation Server (TFS). While it mentions documenting problems and sharing knowledge, it does not explicitly discuss Continuous Delivery principles, practices, or related topics. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects of delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions personal goals for the year aimed at increasing value in the community, aligning with a broader intent of strategic objectives, but primarily focuses on individual accomplishments and community engagement rather than overarching strategic business goals.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions personal goals for the year, which could relate to strategic objectives, but lacks a clear focus on long-term organisational strategies or business agility. The discussion is more about personal achievements and community contributions rather than articulating strategic goals aligned with Agile principles.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -433,10 +370,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the author's recognition as a Visual Studio ALM MVP and focuses on personal achievements and community contributions, with no mention of the Definition of Ready or related concepts.",
     "level": "Ignored"
   },
@@ -451,10 +388,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an individual's recognition as an MVP and their blogging activities regarding Team Foundation Server (TFS), which does not align with the discussions on Product Backlog in Agile projects.",
     "level": "Ignored"
   },
@@ -469,19 +406,19 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the author's recognition as a Visual Studio ALM MVP, contributions to the community, and personal goals for blogging and documentation, without mentioning Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the author's experience and reflections on being nominated for an MVP award, and it focuses on personal goals and community engagement rather than on mechanisms of collecting or utilizing customer feedback.",
     "level": "Ignored"
   },
@@ -496,10 +433,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the author's recognition as a Visual Studio ALM MVP, efforts in blogging, and community contributions, which are not focused on Scrum Teams or their dynamics.",
     "level": "Ignored"
   },
@@ -523,10 +460,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the author's recognition as a Visual Studio ALM MVP and reflections on blogging and sharing knowledge, without relating to product validation methodologies or user testing.",
     "level": "Ignored"
   },
@@ -559,10 +496,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the author's personal experience and achievements related to being nominated for an MVP award, sharing personal goals, and a focus on blogging and documentation. It does not center on team performance or practices that enhance team dynamics, effectiveness, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -586,28 +523,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal experiences related to Team Foundation Server (TFS) and the author's involvement in the Visual Studio ALM community, which touches on software development practices and community engagement but is primarily focused on the author's achievements and goals rather than being a central discussion on development methodologies or techniques.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily revolves around the author's recognition as an MVP for Visual Studio ALM and their blogging efforts concerning Team Foundation Server, with no direct focus on Agile Project Management principles, practices, or methodologies.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions Team Foundation Server (TFS) and the author's efforts to document problems and solutions related to it, which aligns with software development practices. However, the primary focus is on personal achievements and community engagement rather than in-depth discussions of software development methodologies or practices. The depth of discussion is limited, focusing more on personal reflections than on technical content.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal recognition and contributions in the community, specifically related to Visual Studio ALM and Team Foundation Server, without a clear discussion on Agile values or principles.",
     "level": "Ignored"
   },
@@ -694,20 +625,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal reflections and experiences related to the Visual Studio ALM MVP award, with no clear discussion on customer satisfaction or related strategies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses an individual's recognition and contributions related to Team Foundation Server (TFS) and blogging, with no relevance to scaling Scrum practices or discussions.",
+    "reasoning": "Content primarily focuses on personal reflections and experiences related to the Visual Studio ALM MVP award, with no clear discussion on customer satisfaction or related strategies.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,23 +650,17 @@
     "reasoning": "Content focuses on the author's achievement and contributions to the community, with no direct discussion of psychological safety or its relevance in team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal achievement and blogging efforts, lacking discussion on frameworks, leadership, or organizational scaling of agile practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal achievements and goals in relation to documentation and community contributions regarding Team Foundation Server, which is related to best practices in software development and sharing knowledge, but it does not primarily focus on the technical aspects of engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's personal experience and recognition as an MVP, with some mention of blogging and sharing knowledge about Team Foundation Server (TFS). While there are elements of community engagement and knowledge sharing, which can relate to engineering excellence, the discussion lacks depth in terms of specific engineering practices, standards, or methodologies. The content does not explicitly address key topics such as coding standards, CI/CD practices, or technical debt management, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,21 +691,24 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal achievements and contributions to the community related to being recognized as an MVP, with no clear focus on customer retention strategies or user engagement.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses personal achievements and community contributions, it briefly touches on practical problem-solving in the context of Team Foundation Server, suggesting a secondary theme of pragmatic thinking.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions the author's efforts to document problems and solutions related to Team Foundation Server (TFS), which aligns with practical problem-solving in a real-world context. However, it lacks a deeper exploration of Agile, Scrum, or DevOps principles, and does not provide substantial detail on pragmatic techniques or strategies. The focus is more on personal achievements and community engagement rather than on pragmatic thinking itself.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the author's recognition as MVP and their blogging efforts, which do not directly relate to the measurement and improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the author's recognition as an MVP and their blogging efforts about Team Foundation Server, without a clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal achievements and community contributions related to Visual Studio ALM and Team Foundation Server, without focusing on scaling Agile practices or methodologies.",
+    "reasoning": "The content primarily discusses the author's recognition as MVP and their blogging efforts, which do not directly relate to the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -964,10 +865,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal recognition and blogging about Team Foundation Server without any focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -1009,12 +910,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the author's efforts to document and share knowledge about Team Foundation Server (TFS) and encourages blogging among colleagues, indicating a secondary theme of collaboration and knowledge sharing within a team context.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions collaboration through blogging and sharing knowledge, which aligns with team dynamics. However, it primarily focuses on individual recognition and personal achievements rather than in-depth discussions on team collaboration techniques or strategies. The depth of discussion is limited, as it does not explore the core themes of teamwork or shared ownership in detail.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1034,22 +938,13 @@
     "reasoning": "Content primarily discusses personal achievements and intentions related to being recognized as an MVP in a specific area, without focusing on digital transformation, strategies, or the integration of digital technologies for business improvement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the author's recognition as a Visual Studio ALM MVP rather than focusing on Minimum Viable Products or related concepts in product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on personal achievements and contributions related to Visual Studio ALM, with no discussion on AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1063,10 +958,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal achievements, community contributions, and blogging efforts rather than discussions on product strategy methodologies, frameworks, or planning.",
     "level": "Ignored"
   },
@@ -1099,19 +994,22 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses achievements and personal reflections on being an MVP, with no focus on Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the author's recognition as an MVP and their blogging efforts related to Team Foundation Server (TFS). It does not discuss Test First Development principles, success criteria, or any related testing practices. The mention of documenting problems and solutions does not align with the core themes of Test First Development, which emphasises defining success criteria before implementation. Overall, the content lacks any substantial connection to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Visual Studio and Team Foundation Server (TFS), which are related to software development and not specifically about the Windows operating system's installation, configuration, or management.",
     "level": "Ignored"
   },
@@ -1135,10 +1033,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal achievements and contributions without focusing on team dynamics, engagement, or motivation strategies.",
     "level": "Ignored"
   },
@@ -1153,21 +1051,27 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the author's efforts in documenting problems and solutions related to Team Foundation Server, which aligns with knowledge sharing and continuous growth. However, it primarily focuses on personal achievements and blogging rather than a broader discussion on continuous learning principles or team improvement.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the author's efforts to document problems and solutions related to Team Foundation Server (TFS) and the importance of sharing knowledge through blogging. This aligns with the principles of Continuous Learning, particularly in knowledge sharing and creating a culture of learning. However, the focus is more on personal achievements and goals rather than a comprehensive exploration of Continuous Learning principles, which limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses documenting problems and solutions related to Team Foundation Server, which aligns with troubleshooting, but the main focus is on recognition and blogging rather than direct troubleshooting techniques.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions documenting problems with Team Foundation Server (TFS), which aligns with troubleshooting. However, it primarily focuses on the author's recognition and goals rather than providing detailed methodologies or insights into diagnosing and resolving technical issues. The discussion lacks depth and does not systematically address troubleshooting techniques or case studies.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,21 +1084,27 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss any aspects of the Scrum Master role or responsibilities, focusing instead on personal achievements and goals related to blogging and Team Foundation Server.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on an individual's recognition as a Visual Studio ALM MVP and their contributions to the community through blogging about Team Foundation Server (TFS). There are no direct mentions of the Scrum Master role, nor does it discuss Scrum principles, responsibilities, or the impact of a Scrum Master on team dynamics or organisational change. The content lacks depth in relation to the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's efforts to document and share knowledge about Team Foundation Server (TFS) through blogging, which aligns with the theme of promoting transparency in communication and knowledge sharing within a community.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the author's efforts to document problems and solutions related to Team Foundation Server (TFS), which aligns with the theme of transparency in sharing knowledge and fostering collaboration. The author mentions the importance of context in problem-solving, which supports the idea of clear communication. However, while transparency is a significant aspect of the content, it is not the primary focus, as the main narrative revolves around personal achievements and goals rather than a comprehensive exploration of transparency in Agile processes.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1204,15 +1114,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal achievements and goals related to blogging and Team Foundation Server, without discussing working agreements or teamwork principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Team Foundation Server (TFS) and blogging about software development challenges, which are relevant to software developers, but it lacks a direct focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1252,10 +1153,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and achievements related to being named Visual Studio ALM MVP, with no clear focus on strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1306,10 +1207,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T00:54:13",
+    "calculated_at": "2025-04-10T15:55:52",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal achievements and contributions related to Visual Studio ALM and Team Foundation Server, with no clear focus on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1329,15 +1230,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on personal achievements and contributions in the Visual Studio ALM community, not on accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:54:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal achievement and community involvement related to Visual Studio ALM and TFS, with no mention of Kanban principles or scaling methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1360,11 +1252,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:57:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal achievements and goals related to blogging and community engagement, without a clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's personal achievements and experiences as an MVP, with limited discussion on collaboration or decision-making frameworks. While there are mentions of blogging and sharing knowledge, which align with social technologies, the overall emphasis is on individual recognition rather than collective intelligence or organisational practices. The depth of discussion on relevant social technology themes is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1269,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal achievements and contributions to the community rather than discussing leadership practices or strategies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:29:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal achievements and experiences related to Visual Studio ALM MVP, with no clear focus on Internal Developer Platforms or their associated concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:29:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal achievements and contributions related to Visual Studio ALM and Team Foundation Server, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's recognition as a Visual Studio ALM MVP and their blogging efforts related to Team Foundation Server (TFS). While it touches on themes of community contribution and knowledge sharing, it does not explicitly discuss Scrum principles, roles, events, or practices. The mention of TFS may relate to Agile practices, but it lacks direct relevance to Scrum, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the author's recognition as a Visual Studio ALM MVP and their blogging efforts related to Team Foundation Server (TFS). While there is a mention of documenting problems and sharing knowledge, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The content lacks depth in addressing the core themes of integrating testing, security, or compliance early in the development process, which are central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the author's efforts to document problems and solutions related to Team Foundation Server (TFS), which aligns with the idea of sharing knowledge for improvement. However, it lacks a strong focus on Continuous Improvement principles, such as empirical evidence, structured methodologies, or a culture of experimentation. The discussion is more about personal achievements and goals rather than a systematic approach to enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions personal goals and community contributions, but it lacks a clear focus on the principles of Common Goals within Agile and DevOps. While there are references to collaboration and sharing knowledge, the discussion does not explicitly connect these to strategic alignment or organisational objectives, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the author's efforts to document problems and share knowledge through blogging, which aligns with the idea of continuous learning and skill development. However, it lacks a focused discussion on competence as a foundational principle, and the depth of exploration into strategies for fostering a culture of competence is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal achievements and contributions to the Visual Studio ALM community, with no explicit discussion of Agentic Agility or its principles. While there are elements of sharing knowledge and community engagement, these do not align with the core themes of intentionality, autonomy, or adaptability as defined in the category. The content lacks depth in discussing the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

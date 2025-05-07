@@ -2,8 +2,10 @@
 title: What are the barriers that prevent developers from fully accepting a Product Owner as the final decision maker?
 description: Explore the barriers hindering developers from accepting product owners' decisions. Discover the importance of respect and accountability in agile teams!
 date: 2023-10-03T07:00:08Z
+weight: 790
 ResourceId: A0Y-zySHXyc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: A0Y-zySHXyc
@@ -15,46 +17,35 @@ preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg
 duration: 315
 isShort: false
 aliases:
-- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
-- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
-- /resources/videos/A0Y-zySHXyc
-- /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/A0Y-zySHXyc
-aliasesFor404:
+- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
+- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+aliasesArchive:
+- /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+- what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Accountability
-- Product Owner
-- Scrum Product Development
-- Transparency and Accountability
-- Scrum Team
-- Agile Product Management
-- People and Process
-- Agile Project Management
-- Team Collaboration
-- Professional Scrum
+tags: []
 resourceTypes:
 - video
 categories:
-- Leadership
 - Scrum
 - Product Management
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 
 
-In the realm of software development, the relationship between developers and Product Owners is a critical one. Let's explore why sometimes this relationship is strained and how to mend it. 
+In the realm of [software development]({{< ref "/tags/software-development" >}}), the relationship between developers and Product Owners is a critical one. Let's explore why sometimes this relationship is strained and how to mend it. 
 
 ## Accountability: The Silent Culprit 🕵️‍♂️ 
 
 Understanding accountability is key in dissecting the relationship between developers and Product Owners. We'll delve into how its absence can create barriers. 
 
-## Other Influencers Undermining the Product Owner 
+## Other Influencers Undermining the [Product Owner]({{< ref "/tags/product-owner" >}}) 
 
 - **Senior Intervention**: Senior figures may inadvertently disrupt the Product Owner's authority. 
 
@@ -70,7 +61,7 @@ When a Product Owner's authority is undermined, it triggers a chain reaction. Le
 
 - **Second Guessing**: Decisions made by the Product Owner may be scrutinised unnecessarily. 
 
-## The Struggle of Ownership and Decision Making 💼 
+## The Struggle of Ownership and [Decision Making]({{< ref "/tags/decision-making" >}}) 💼 
 
 Balancing ownership and decision-making is an art and a challenge. Let's uncover the struggles that occur when the balance tips. 
 
@@ -86,7 +77,7 @@ Aligning accountability with ownership is pivotal. Let's explore how these two a
 
 ## Cultivating Trust and Credibility 
 
-- **Open Communication**: Transparency can prevent misunderstandings. 
+- **Open Communication**: [Transparency]({{< ref "/tags/transparency" >}}) can prevent misunderstandings. 
 
 - **Consistency is Key**: Regular support for the Product Owner's decisions strengthens their position. 
 

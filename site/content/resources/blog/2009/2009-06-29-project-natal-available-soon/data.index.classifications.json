@@ -8,15 +8,6 @@
     "reasoning": "Content does not discuss Agile principles or product management; it focuses on a product release announcement.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:27:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a product release and does not discuss practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:27:43",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:27:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a product release and does not discuss Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:27:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a product release and does not discuss software code or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:27:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a product release without any focus on discovery, learning, or related methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:27:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily about a gaming product release and does not discuss AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a product launch related to Xbox and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:27:49",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the availability and pricing of a product, with no focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:27:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a product release and personal excitement, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,22 +65,16 @@
     "reasoning": "Content primarily discusses a product release without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:27:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a product release and personal excitement, with no relevance to organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:27:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a product release and does not discuss any DevOps principles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a product launch related to Xbox and does not mention any DevOps principles, practices, or discussions. There is no alignment with the core themes of DevOps, and the depth of discussion is non-existent in this context.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +95,6 @@
     "reasoning": "Content is primarily about a product release and personal excitement, with no discussion of decision-making processes or related themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:28:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses a product release rather than any events or presentations related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:28:03",
@@ -159,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a product release and does not discuss flow efficiency or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:28:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a product release and personal excitement, with no focus on team dynamics, processes, or human factors.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:28:08",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a product release and does not discuss metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -260,15 +194,6 @@
     "reasoning": "Content is primarily about a product release and does not discuss Value Stream Management or its principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:28:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a product release without any reference to Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:28:19",
@@ -305,22 +230,25 @@
     "reasoning": "Content is primarily about a product release and does not discuss Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:28:24",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a product release and does not discuss the principles or components of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:28:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a product release and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a product launch related to Xbox and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related themes. The content lacks depth and relevance to the category, making it unsuitable for classification under the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +260,6 @@
     "reasoning": "Content primarily discusses a product release and personal excitement, with no focus on organisational agility or related themes.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:28:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a gaming product release without relevance to Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T02:28:28",
@@ -348,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a product release and personal excitement, with no relevance to application lifecycle management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:28:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or frameworks; it focuses on a product release.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +280,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:09",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a product release and personal opinions, with no mention of Definition of Done or Agile principles.",
     "level": "Ignored"
   },
@@ -397,11 +307,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on a product release, specifically Project Natal, with no discussion of Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the launch of a gaming product, with no direct mentions or discussions related to Continuous Delivery principles, practices, or benefits. It lacks any relevant detail or alignment with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +346,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:09",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a product release announcement and does not address the Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -593,21 +506,12 @@
     "reasoning": "Content focuses on a product announcement related to Xbox and does not discuss software development practices, methodologies, or techniques.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a product release related to Xbox, with no mention of Agile Project Management principles or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:09",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Project Natal and its release details, which are unrelated to Agile values and principles.",
     "level": "Ignored"
   },
@@ -701,15 +605,6 @@
     "reasoning": "The content focuses on personal enthusiasm for a product release, lacking discussions on customer satisfaction, measurement techniques, or feedback related to the customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a product release and unrelated to Scrum or scaling methodologies.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:09",
@@ -726,15 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss psychological safety; it is focused on the release of a product.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a product release with no relevance to scaling agility or agile practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +688,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:09",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses a product release and personal excitement, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum practices, principles, or product development; it primarily focuses on a product release announcement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Agile practices, scaling, or enterprise-level initiatives; it focuses on a product release.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1034,22 +902,13 @@
     "reasoning": "Content primarily discusses the release of a gaming product, which is not aligned with the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:09",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a product and expresses excitement, but does not address Minimum Viable Product concepts or related development and validation processes.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses Project Natal and personal excitement about a product release, with no clear relevance to AI in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1099,11 +958,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Project Natal and does not relate to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a product launch related to Xbox and does not mention or discuss any principles or practices related to Test First Development. There are no references to success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1180,11 +1042,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:09",
+    "calculated_at": "2025-04-08T19:30:38",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a product release relevant to gaming, with no mention of Scrum Master responsibilities, roles, or related Agile practices.",
+    "reasoning": "The content is entirely focused on a product launch related to Xbox and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the release of a product and personal opinions, with no reference to working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is not related to software development, Agile, or DevOps; it discusses a product related to Xbox.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1187,6 @@
     "reasoning": "Content is primarily about a product release and does not discuss accountability in Agile contexts.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a product release and does not discuss Kanban or its scaling principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:09",
@@ -1360,11 +1207,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:02:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a product release and personal excitement, with no mention of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the launch of a gaming product, Project Natal, with no discussion of social technologies, collaboration, or decision-making. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1224,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a product release and does not discuss leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:35:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily about a product release and does not discuss Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:35:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a product release related to Xbox, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a product release without any discussion of Scrum principles, roles, or practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:36:09",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content does not discuss any aspects of the Shift-Left Strategy, focusing instead on a product release with no relevance to software development processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the launch of a product, Project Natal, and does not discuss any principles or practices related to Continuous Improvement. There are no direct mentions of improvement processes, empirical evidence, or strategies for enhancing effectiveness, which are core to the category. The content lacks depth and relevance to the themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the launch of a product related to Xbox, with no discussion of Agile, DevOps, or the concept of Common Goals. It lacks any direct mentions or alignment with the principles outlined in the category, making it irrelevant to the topic.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the launch of a gaming product and does not discuss any aspects related to competence, continuous learning, or professional development. It lacks any direct mentions or alignment with the key topics outlined in the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the launch of a gaming product and does not discuss any aspects of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. There are no direct mentions or relevant themes related to the category, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

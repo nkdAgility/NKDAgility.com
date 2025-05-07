@@ -2,40 +2,35 @@
 title: Discipline versus motivation?
 description: "Discover the key difference between discipline and motivation in high-performance teams with Martin Hinshelwood. Unlock your team's potential! #shorts #agile"
 date: 2023-05-15T07:00:21Z
+weight: 790
 ResourceId: sidTi_uSsdc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sidTi_uSsdc
 source: internal
 url: /resources/videos/:slug
-slug: discipline-versus-motivation
+slug: discipline-versus-motivation-sidTi_uSsdc
 layout: video
 preview: https://i.ytimg.com/vi/sidTi_uSsdc/maxresdefault.jpg
 duration: 28
 isShort: true
 aliases:
-- /resources/discipline-versus-motivation
-- /resources/videos/discipline-versus-motivation
-- /resources/videos/sidTi_uSsdc
 - /resources/sidTi_uSsdc
-aliasesFor404:
-- /resources/discipline-versus-motivation
+- /resources/videos/discipline-versus-motivation-sidTi_uSsdc
+aliasesArchive:
 - /resources/videos/discipline-versus-motivation
+- /resources/discipline-versus-motivation
+- discipline-versus-motivation-sidTi_uSsdc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Project Management
-- Agile Transformation
-- People and Process
-- Team Motivation
-- Agile Philosophy
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
-- Scrum
+- Uncategorized
 
 ---
 **Discipline versus motivation?**
@@ -44,9 +39,9 @@ A Crucial Agile Debate
 
 Today, I will share my perspective on a topic that's always been close to my heart, and I want to talk a little about the differences between a popular topic of debate: Discipline vs Motivation.   
 
-Which one takes the upper hand when it comes to successful Agile transformation?  Let's find out. 😎 
+Which one takes the upper hand when it comes to successful [Agile transformation]({{< ref "/tags/agile-transformation" >}})?  Let's find out. 😎 
 
-And if you're an Agile and Scrum enthusiast like me, you'll understand why this matters so much. 🎯
+And if you're an Agile and [Scrum]({{< ref "/categories/scrum" >}}) enthusiast like me, you'll understand why this matters so much. 🎯
 
 Understanding Motivation and Discipline
 
@@ -56,7 +51,7 @@ It's the force that encourages you to take up the challenge - the 'why' behind i
 
 On the flip side, discipline is the work ethic that powers you through.  In other words, it's the nuts and bolts of the transformation process.  It's your work ethic for actually doing the work – the meticulous 'how' behind achieving tasks and milestones.
 
-Discipline is what keeps us true to Scrum values like commitment, courage, focus, openness, and respect.  Discipline ensures that we stay on the Agile path, even when the road gets bumpy. 🛠️
+Discipline is what keeps us true to [Scrum values]({{< ref "/tags/scrum-values" >}}) like commitment, courage, focus, openness, and respect.  Discipline ensures that we stay on the Agile path, even when the road gets bumpy. 🛠️
 
 Blend of Both: Discipline and Motivation in Agile
 

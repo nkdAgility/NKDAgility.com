@@ -19,10 +19,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-16T21:49:36",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a service factory without addressing enterprise agility principles or organisational context.",
     "level": "Ignored"
   },
@@ -35,12 +35,12 @@
     "reasoning": "Content primarily discusses technical implementation details of a service factory without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T21:49:39",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a managed service factory and technical implementation details, without a clear focus on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:49:49",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the design and implementation of a service factory rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses the implementation of a service factory and technical details related to accessing services, which does not align with the Miscellaneous category's focus on broader discussions or non-technical explorations.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementations of a service factory without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:49:54",
@@ -97,15 +88,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a service factory and technical details related to accessing services, without reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific implementation of a service factory, which involves practical techniques and tooling related to service management and integration. However, it lacks a broader exploration of Agile or DevOps methodologies.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:49:58",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a managed service factory and technical implementation details, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:50:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:02:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the creation of a managed service factory and technical implementation details, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the technical implementation of a managed service factory and does not explicitly mention Evidence-Based Management or its key topics. While it touches on aspects of service management, it lacks a focus on empirical decision-making or metrics related to value delivery, innovation, or outcome management, which are central to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:50:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation of a managed service factory and technical implementation details, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:50:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical implementation of a service factory without any focus on news, updates, or reviews related to Agile, DevOps, or technology trends.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the creation of a managed service factory and technical implementation details, with no explicit mention of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks alignment with the core themes of APOM, such as continuous delivery, product-oriented mindset, or Evidence-Based Management. The depth of discussion is focused on technical solutions rather than strategic product management or agile practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -199,57 +178,15 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a managed service factory, which relates to internal service management and could enhance developer productivity, but it primarily focuses on implementation details rather than broader platform engineering principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses creating a managed service factory, which relates to the concept of internal platforms and service management. However, it lacks explicit mentions of platform engineering principles and does not delve deeply into enhancing developer productivity or automation in the application lifecycle. While it touches on service accessibility and management, it does not provide a comprehensive exploration of Internal Developer Platforms (IDPs) or their components, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:50:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a technical solution for accessing services and does not mention Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:50:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the creation of a service factory and implementation details, with no clear focus on AI or automation within Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a solution for managing services in a software architecture context, touching on aspects of code quality and design patterns, but it primarily focuses on implementation details rather than a deep exploration of complexity theory or its principles.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:50:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical solution for accessing services and does not focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:50:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical implementation of a service factory without addressing transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -298,12 +235,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of Azure DevOps, but the primary focus is on creating a service factory rather than on Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses creating a service factory and references Team Foundation Server (TFS), which is part of Azure DevOps. However, it lacks a direct focus on Azure DevOps functionalities, methodologies, or best practices. The discussion is more technical and abstract, with limited depth on Azure DevOps services, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -316,48 +256,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses creating a service factory and accessing services, but it does not primarily focus on DevOps principles, practices, or tools. It lacks a clear connection to DevOps themes such as CI/CD, automation, or collaboration between development and operations.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses creating a managed service factory, which touches on aspects of service management and integration but does not explicitly mention DevOps principles or practices. While there is a focus on accessing services and potential for load balancing, the discussion lacks depth in terms of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content is more technical and implementation-focused rather than addressing the cultural and process-oriented aspects of DevOps.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T21:50:31",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses a technical solution for creating a managed service factory, which involves engineering practices related to service architecture and implementation. However, it lacks a strong focus on broader engineering methodologies or principles that enhance agility in software development.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which involves technical concepts such as service architecture and implementation details. However, it lacks explicit references to established engineering practices like TDD or CI/CD, which are central to the category of Technical Excellence. While it does touch on modular architecture and the potential for load balancing, the overall focus is more on a specific implementation rather than broader engineering methodologies. Therefore, while there is a reasonable alignment with the category, the depth and direct mentions are not strong enough to warrant a higher confidence score.",
     "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:50:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a service factory without addressing human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:50:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details of a service factory without discussing discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:50:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical solution for accessing services rather than focusing on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -379,28 +298,34 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a solution for accessing services across different locations and integrates various services, which relates to configuration in a distributed system, making system configuration a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses creating a managed service factory, which involves some aspects of system configuration, such as service hosting and integration. However, it primarily focuses on the implementation of a specific solution rather than broader system configuration principles or best practices. The discussion lacks depth in terms of configuration management tools, optimisation strategies, or troubleshooting, which are key topics in the System Configuration category. Therefore, while there are relevant elements, the overall focus is more on a specific implementation rather than a comprehensive exploration of system configuration.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content describes a technical solution for managing services in a distributed environment, which implies innovation in service management, but it doesn't extensively cover frameworks, metrics, or strategies related to fostering a culture of innovation or evidence-based management practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a technical solution for managing services across multiple locations, which implies an innovative approach to service management. However, it lacks explicit references to the Ability to Innovate category, such as frameworks, metrics, or Evidence-Based Management principles. While it demonstrates a practical application of innovation, the depth of discussion on fostering a culture of innovation or empirical data analysis is limited.",
     "level": "Tertiary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical solution for managing services across multiple locations and does not address cross-functional teams or related Agile concepts.",
     "level": "Ignored"
   },
@@ -422,23 +347,17 @@
     "reasoning": "Content discusses creating a managed service factory and service retrieval mechanisms, but does not address portfolio management principles, strategic alignment, or investment prioritization.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the implementation of a service factory and does not address Scrum principles, practices, or product development processes.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of a service factory and includes aspects of code structuring and interface usage, which align with engineering practices, but the primary focus is not on core Agile practices like TDD, CI/CD, or Clean Code.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the creation of a service factory and the implementation of client services, which touches on software engineering concepts. However, it lacks a direct focus on Agile engineering practices such as clean code, TDD, or CI/CD. While it mentions the use of interfaces and service management, it does not delve into the principles of maintainability or automation that are central to the category. The discussion is more about architectural design rather than the core methodologies of Agile development.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -460,10 +379,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a managed service factory, and does not focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +415,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of a service factory and does not mention the Definition of Done or its related concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content predominantly discusses software engineering and service management without any mention of Agile practices or scaling Agile methodologies.",
+    "reasoning": "Content primarily discusses the implementation of a service factory and does not mention the Definition of Done or its related concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,10 +460,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a service factory and does not mention Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -575,23 +485,17 @@
     "reasoning": "Content primarily focuses on implementing a managed service factory and discussing client-server relationships rather than on collaboration tools or their effects on Agile teamwork.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a service management solution and provides code examples, which are relevant to software development practices, but it does not explicitly focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a service factory architecture, detailing techniques and methodologies related to software development, with a focus on handling services across different locations and managing client-server interactions.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which is a software design pattern relevant to software development. It provides a detailed explanation of how to implement a service manager that can handle both local and remote services, aligning with best practices in software architecture. The mention of interfaces and service contracts indicates a focus on coding practices. However, while the content is rich in technical detail, it lacks explicit references to broader software development methodologies or frameworks, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +524,7 @@
     "reasoning": "Content heavily focuses on creating a managed service factory and technical implementation details, with no discussion on estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:33",
     "ai_confidence": 0,
@@ -685,20 +589,23 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details and services architecture without discussing long-term objectives or business agility.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating a service management solution, which does not relate to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a managed service factory for accessing local and remote services, which does not directly address Continuous Delivery principles or practices. While it discusses service management and implementation, it lacks explicit mentions of Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The discussion is more aligned with software architecture rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -730,29 +637,23 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a managed service factory which involves accessing services in a distributed manner. While it touches on improving efficiency in accessing services, it does not clearly focus on broader digital transformation strategies or business agility.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses creating a managed service factory, which involves accessing and managing services across multiple locations. While it touches on aspects of digital technologies and their implementation, it lacks a clear focus on strategic digital transformation initiatives or the broader implications for business agility and innovation. The discussion is more technical and operational rather than strategic, which diminishes its alignment with the core themes of digital transformation.",
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a managed service factory without any focus on hypothesis formulation, experimentation, or data-driven decision making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a service factory solution and software architecture without any clear focus on AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -793,10 +694,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating a service factory for accessing services and does not discuss Lean Product Development principles, techniques, or culture.",
     "level": "Ignored"
   },
@@ -811,10 +712,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details of a service factory and does not address evidence-based leadership practices or decision-making.",
     "level": "Ignored"
   },
@@ -847,10 +748,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses building a service factory and accessing services, with no focus on modern source control practices or methodologies.",
     "level": "Ignored"
   },
@@ -874,10 +775,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a managed service factory and technical implementation details, which do not relate to team performance or collaboration within agile frameworks.",
     "level": "Ignored"
   },
@@ -919,28 +820,28 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a service factory and does not focus on team collaboration or dynamics related to Agile, Scrum, or DevOps methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the creation of a managed service factory and does not address the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on the creation of a managed service factory and discusses service implementation rather than Acceptance Test Driven Development, acceptance criteria, or collaborative development approaches. It does not mention ATDD principles or practices.",
     "level": "Ignored"
   },
@@ -955,29 +856,23 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical solution for creating a managed service factory, detailing software design patterns and implementation approaches which align well with principles of software craftsmanship and engineering practices.",
+    "reasoning": "The content discusses the creation of a managed service factory, which involves software design and architecture principles. It touches on the implementation of interfaces and service management, aligning with technical mastery concepts. However, the discussion lacks depth in best practices and methodologies, focusing more on a specific implementation rather than broader engineering principles.",
     "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the creation of a managed service factory for accessing services, without a focus on remote working challenges, practices, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses creating a managed service factory and does not address Kanban principles or scaling Kanban practices.",
+    "reasoning": "Content primarily discusses the creation of a managed service factory for accessing services, without a focus on remote working challenges, practices, or Agile methodologies.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -987,15 +882,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation and service management without focus on customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on creating a service factory and discusses technical implementation details unrelated to Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1045,10 +931,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on creating a managed service factory and does not discuss customer feedback or its integration into product development.",
     "level": "Ignored"
   },
@@ -1090,12 +976,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:44:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses creating a managed service factory that integrates with Microsoft Team Foundation Server and mentions Active Directory, which relates to Windows services. However, the primary focus appears to be on service architecture rather than specific Windows operational aspects.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses creating a managed service factory and references Team Foundation Server, which is a Microsoft product that operates within the Windows environment. However, the primary focus is on service management and implementation rather than specific Windows installation, configuration, or troubleshooting. While there are mentions of Windows-related services, the overall discussion does not deeply engage with the core themes of the Windows operating system, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1171,10 +1060,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a service management solution and does not address Behaviour Driven Development principles, practices, or collaboration among stakeholders.",
     "level": "Ignored"
   },
@@ -1189,12 +1078,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content presents technical details about creating a service factory, which involves software design and implementation, it does not extensively focus on discussions about the functional delivery, quality, or customer feedback aspects of working software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which relates to the delivery of functional software. However, it lacks explicit references to Agile or Scrum principles, and while it touches on software functionality, it does not delve deeply into best practices or customer feedback mechanisms. The focus is more on technical implementation rather than the broader context of delivering working software that meets user needs.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1207,30 +1099,33 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses a technical solution involving service management and does not address Scrum Team roles, dynamics, or any related themes.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details about creating a managed service factory without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses practical implementation of a managed service factory and shows application of concepts in a real-world scenario, but lacks a strong focus on Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses a practical solution for accessing services in a managed service factory, which aligns with pragmatic thinking in terms of applying real-world problem-solving techniques. It provides a detailed explanation of the implementation, showcasing adaptability and practical application of concepts. However, while it touches on relevant themes, it lacks explicit references to Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1243,11 +1138,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a service factory and the implementation details of accessing and managing services, which falls into engineering practices related to software development. However, the focus is more on specific implementations and less on broader principles or best practices directly tied to engineering excellence.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the creation of a managed service factory, which touches on software development practices and architectural design. However, it lacks explicit mentions of engineering excellence principles, such as coding standards or quality assurance. While it aligns conceptually with the idea of improving software architecture and potentially enhancing development efficiency, the depth of discussion on best practices and continuous improvement is limited. Overall, it provides a practical solution but does not deeply engage with the broader themes of engineering excellence.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -1261,20 +1159,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T08:18:33",
+    "calculated_at": "2025-04-10T15:57:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on creating a service factory for accessing remote and local services, without discussing asynchronous development principles, tools, or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content mainly discusses a technical solution for accessing services in multiple locations and does not address Scaling Scrum topics such as Scrum roles, frameworks, or practices.",
+    "reasoning": "Content focuses on creating a service factory for accessing remote and local services, without discussing asynchronous development principles, tools, or team dynamics.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,12 +1177,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a method for creating a managed service factory which touches on streamlining service access and potential benefits in an enterprise environment, making it relevant to operational practices but not primarily focused on them.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses creating a managed service factory, which touches on operational practices related to service management and access. However, it lacks a direct focus on enhancing operational efficiency within Agile, DevOps, or Lean frameworks. While it mentions concepts like service accessibility and potential load balancing, it does not delve into specific methodologies or strategies that would align more closely with the core themes of operational practices. The discussion is more technical and implementation-focused rather than providing a comprehensive view of operational efficiency improvements.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1313,22 +1205,16 @@
     "reasoning": "Content primarily discusses a technical solution for creating a managed service factory and does not relate to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation related to service management and does not focus on scaling agility principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on technical implementation details and service management, with no relevant discussion about the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a managed service factory and discusses technical implementation details without any mention of Scrum Master responsibilities, roles, or related concepts. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is limited to technical aspects unrelated to Scrum.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1237,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses creating a managed service factory, with no clear mention or focus on Test First Development or related concepts such as Test-Driven Development (TDD).",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the creation of a managed service factory and does not mention Test First Development principles, success criteria, or testing practices. It lacks any focus on automated or manual testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical solution for managing services and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a managed service factory and technical implementation details, with minimal reference to collaboration, decision-making, or value delivery. While it discusses accessing services and some aspects of service management, it lacks a clear connection to the principles of social technologies, such as self-organisation or collective intelligence. The discussion is heavily technical and does not delve into the social frameworks or methodologies that promote collaboration within organisations.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1266,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to service management and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 50.0,
+    "reasoning": "The content discusses creating a service factory that facilitates access to services in a managed environment, which aligns with the concept of an Internal Developer Platform. However, it primarily focuses on implementation details rather than the broader themes of IDPs.",
+    "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:51:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the creation of a service factory and does not mention or relate to Artificial Intelligence, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a technical solution for accessing services in a managed service factory context, with no explicit mention of Scrum principles, roles, events, or artifacts. While it touches on aspects of software development, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The discussion lacks depth regarding Scrum practices, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the creation of a managed service factory and does not address the principles, benefits, or techniques related to the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on these topics. The focus is on service management rather than proactive quality assurance in software development.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a managed service factory, discussing specific coding practices and service management without addressing the concept of Common Goals in Agile or DevOps. While it mentions achieving goals in a general sense, it lacks explicit discussion on shared objectives, alignment, or frameworks like OKRs, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical implementation details of creating a managed service factory, with no explicit discussion on competence, continuous learning, or skill development. While it touches on aspects of service management, it lacks depth in addressing the core themes of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a managed service factory and discusses technical implementation details without addressing Continuous Improvement principles. While there are mentions of enhancing enterprise solutions, the discussion lacks explicit references to Continuous Improvement concepts such as empirical evidence, culture of experimentation, or strategies for integrating improvement into processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a managed service factory and discusses technical implementation details without addressing the principles of Agentic Agility. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion lacks depth in exploring the interplay between human and AI capabilities or the transformative capacity of individuals and systems, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

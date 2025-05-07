@@ -15,6 +15,10 @@ class HugoMarkdown {
 
     HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent, [string]$FilePath, [string]$FolderPath) {
         # Directly assign the front matter to the class property
+        if ($frontMatter -eq $null) {
+            Write-ErrorLog "Front matter is null"
+            exit 1
+        }
         $this.FrontMatter = $frontMatter
         # Set the body content
         $this.BodyContent = $bodyContent
@@ -35,13 +39,23 @@ function Get-HugoMarkdown {
     if ($content -match '^(?s)---\s*\n(.*?)\n---\s*\n(.*)$') {
         $frontMatterContent = $matches[1]
         $bodyContent = $matches[2]
-
+        if ([string]::IsNullOrEmpty($frontMatterContent)) {
+            throw "The markdown file in $Path is junk"
+            exit 1
+        }
         # Convert front matter content to an ordered hash table
-        $frontMatter = ConvertFrom-Yaml -Yaml $frontMatterContent -Ordered
+        try {
+            $frontMatter = ConvertFrom-Yaml -Yaml $frontMatterContent -Ordered
+        }
+        catch {
+            Write-Host "Error: Failed to convert YAML. Stopping execution." -ForegroundColor Red
+            throw
+        }
     }
     else {
         # If no front matter is found, set frontMatter to an empty ordered hash table
-        throw "The markdown file in $outputDir is junk"
+        
+        throw "The markdown file in $Path is junk"
         exit 1
     }
 
@@ -115,6 +129,94 @@ function Update-Field {
     return 
 }
 
+function Update-HashtableList {
+    param (
+        [Parameter(Mandatory = $true)]
+        [System.Collections.Specialized.OrderedDictionary]$frontMatter,
+        [Parameter(Mandatory = $true)]
+        [string]$fieldName,
+        [Parameter(Mandatory = $true)]
+        [AllowEmptyCollection()]
+        [hashtable[]]$values, # Accepts only an array of hashtables
+        [string]$addAfter = $null,
+        [string]$addBefore = $null,
+        [switch]$Overwrite
+    )
+
+    # Ensure values are always an array and remove any null values
+    $values = @($values | Where-Object { $_ -ne $null })
+
+    # Convert all input hashtables to ordered hashtables while keeping their order intact
+    $values = $values | ForEach-Object {
+        if ($_ -is [System.Collections.Specialized.OrderedDictionary]) { $_ }
+        else { 
+            $orderedHash = [ordered]@{}
+            $_.GetEnumerator() | ForEach-Object { $orderedHash[$_.Key] = $_.Value }
+            $orderedHash
+        }
+    }
+
+    # If the field doesn't exist, create it with position handling
+    if (-not $frontMatter.Contains($fieldName)) {
+        $index = $null
+        if ($addAfter -and $frontMatter.Contains($addAfter)) {
+            $index = $frontMatter.Keys.IndexOf($addAfter) + 1
+        }
+        elseif ($addBefore -and $frontMatter.Contains($addBefore)) {
+            $index = $frontMatter.Keys.IndexOf($addBefore)
+        }
+
+        if ($index -ne $null) {
+            $frontMatter.Insert($index, $fieldName, $values)
+        }
+        else {
+            $frontMatter[$fieldName] = $values
+        }
+
+        Write-Debug "$fieldName added"
+    }
+    else {
+        # Ensure the field is always an array
+        if (-not ($frontMatter[$fieldName] -is [System.Collections.IEnumerable])) {
+            $frontMatter[$fieldName] = @($frontMatter[$fieldName])
+        }
+
+        if ($Overwrite) {
+            $frontMatter[$fieldName] = $values
+        }
+        else {
+            # Preserve the existing values as an ordered array
+            $existingValues = @($frontMatter[$fieldName])
+
+            # Create a lookup table of existing hashtables for deduplication
+            $existingHashtablesJson = @{}
+            foreach ($hash in $existingValues) {
+                $existingHashtablesJson[(ConvertTo-Json $hash -Compress)] = $true
+            }
+
+            # Append only unique hashtables in original order
+            foreach ($hash in $values) {
+                $hashJson = ConvertTo-Json $hash -Compress
+                if (-not $existingHashtablesJson.ContainsKey($hashJson)) {
+                    $existingHashtablesJson[$hashJson] = $true
+                    $existingValues += $hash
+                }
+            }
+
+            # Maintain the original order exactly
+            $frontMatter[$fieldName] = $existingValues
+            Write-Debug "$fieldName updated with new unique values"
+        }
+    }
+
+    # Ensure the field remains an array even if it has only one value
+    if ($frontMatter[$fieldName] -isnot [array]) {
+        $frontMatter[$fieldName] = @($frontMatter[$fieldName])
+    }
+}
+
+
+
 # Update-List function to have the same signature as Update-Field
 # Update-List -frontMatter $frontMatter -fieldName 'tags' -values @('DevOps', 'Agile', 'Scrum')
 function Update-StringList {
@@ -175,6 +277,9 @@ function Update-StringList {
             }
         }       
     }
+    
+    # Remove any null values
+    $frontMatter[$fieldName] = @($frontMatter[$fieldName] | Where-Object { $_ -ne $null })
 
     # Ensure uniqueness while preserving the first occurrence’s casing
     $seen = @{}
@@ -200,9 +305,7 @@ function Update-StringList {
     }
 }
 
-
-
-# Function to save updated HugoMarkdown to a file
+# Function to save updated HugoMarkdown to a file only if the content differs
 function Save-HugoMarkdown {
     param (
         [Parameter(Mandatory = $true)]
@@ -211,11 +314,27 @@ function Save-HugoMarkdown {
         [string]$Path
     )
 
+    # Generate the updated content
     $updatedContent = "---`n$(ConvertTo-Yaml $hugoMarkdown.FrontMatter)`n---`n$($hugoMarkdown.BodyContent.TrimEnd())"
     $updatedContent = $updatedContent -replace "`r`n", "`n"  # Normalize line endings
     $updatedContent += "`n"
-    Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
+
+    # Check if the file exists and read its current content
+    if (Test-Path $Path) {
+        $currentContent = Get-Content -Path $Path -Raw -Encoding UTF8
+        $currentContent = $currentContent -replace "`r`n", "`n"  # Normalize line endings
+
+        # Only save if the content differs
+        if ($currentContent -ne $updatedContent) {
+            Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
+        }
+    }
+    else {
+        # If the file doesn't exist, create it
+        Set-Content -Path $Path -Value $updatedContent -Encoding UTF8NoBOM -NoNewline
+    }
 }
+
 
 function Get-HugoMarkdownList {
     param (
@@ -233,5 +352,73 @@ function Get-HugoMarkdownList {
 
     return $metadataList
 }
+
+function Get-HugoMarkdownListAsHashTable {
+    param (
+        [Parameter(Mandatory = $true)]
+        [Array]$hugoMarkdownList
+    )
+
+    $hashTable = @{}
+    
+    foreach ($item in $hugoMarkdownList) {
+        if ($item.FrontMatter.ResourceId) {
+            $hashTable[$item.FrontMatter.ResourceId] = $item
+        }
+        elseif ($item.FrontMatter.Title) {
+            $hashTable[$item.FrontMatter.Title] = $item
+        }
+        else {
+            Write-Warning "Item missing both ResourceId and Title: $($item | Out-String)"
+        }
+    }
+
+    return $hashTable
+}
+
+function Get-RecentHugoMarkdownResources {
+    param (
+        [string]$Path = ".\site\content\resources",
+        [int]$YearsBack = 10
+    )
+
+    Write-InformationLog "Retrieving markdown files from '$Path'..."
+
+    $cutoffDate = (Get-Date).AddYears(-$YearsBack)
+    $resources = Get-ChildItem -Path "$Path\*" -Recurse -Include "index.md", "_index.md" | Sort-Object { $_ } -Descending
+    $resourceCount = $resources.Count
+    $progressStep = [math]::Ceiling($resourceCount / 10)
+    $hugoMarkdownObjects = @()
+
+    Write-InformationLog "Loading ({count}) markdown files..." -PropertyValues $resourceCount
+
+    $resources | ForEach-Object -Begin { $index = 0 } -Process {
+        if (Test-Path $_) {
+            $hugoMarkdown = Get-HugoMarkdown -Path $_
+            $hugoMarkdownObjects += $hugoMarkdown
+        }
+
+        $index++
+        if ($index % $progressStep -eq 0 -or $index -eq $resourceCount) {
+            Write-InformationLog "Progress: $([math]::Round(($index / $resourceCount) * 100))% complete"
+        }
+    }
+
+    Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownObjects.Count
+
+    $filtered = $hugoMarkdownObjects | Where-Object {
+        if ($_.FrontMatter.date) {
+            $date = [DateTime]::Parse($_.FrontMatter.date)
+            return $date -gt $cutoffDate
+        }
+        return $false
+    } | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
+
+    Write-InformationLog "Filtered to ({count}) recent HugoMarkdown Objects." -PropertyValues $filtered.Count
+
+    return $filtered
+}
+
+
 
 Write-InfoLog "HugoHelpers.ps1 loaded"

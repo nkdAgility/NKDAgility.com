@@ -2,8 +2,10 @@
 title: What is the one thing that no Agile team can survive?
 description: Discover how contempt for leadership can cripple agile teams. Learn to foster a positive culture and boost productivity in this insightful video!
 date: 2023-10-17T11:00:23Z
+weight: 665
 ResourceId: c0ncdBixyfo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: c0ncdBixyfo
@@ -15,29 +17,33 @@ preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
 duration: 505
 isShort: false
 aliases:
-- /resources/what-is-the-one-thing-that-no-agile-team-can-survive
-- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
-- /resources/videos/c0ncdBixyfo
-- /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
 - /resources/c0ncdBixyfo
-aliasesFor404:
+- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
+aliasesArchive:
+- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
 - /resources/what-is-the-one-thing-that-no-agile-team-can-survive
 - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
 - /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
+- what-is-the-one-thing-that-no-agile-team-can-survive
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Organisational Culture
+- Employee Engagement
+- Personal
+- Sociotechnical Systems
+- Team Motivation
 resourceTypes:
 - video
 categories:
 - Leadership
+- Product Development
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams
 
-In the realm of product development, especially within Agile and Scrum teams, a disturbing trend often emerges—a culture of contempt. This sentiment extends from leadership to the company, the product, and even the customers. It's a profound issue that goes beyond mere dissatisfaction; it represents an active disdain for decisions made, often without considering the team's insights or contributions.
+In the realm of [product development]({{< ref "/categories/product-development" >}}), especially within Agile and [Scrum]({{< ref "/categories/scrum" >}}) teams, a disturbing trend often emerges—a culture of contempt. This sentiment extends from [leadership]({{< ref "/categories/leadership" >}}) to the company, the product, and even the customers. It's a profound issue that goes beyond mere dissatisfaction; it represents an active disdain for decisions made, often without considering the team's insights or contributions.
 
 ## The Root of Contempt
 

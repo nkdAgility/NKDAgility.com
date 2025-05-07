@@ -2,45 +2,54 @@
 title: How Do You Know the Value Currently Delivered in Your Organization?
 description: "Unlock your organisation's potential with EBM! Discover 5 compelling reasons to embrace evidence-based management in your environment. #EBM #Shorts"
 date: 2024-01-23T11:00:05Z
+weight: 1000
 ResourceId: 5qtS7DYGi5Q
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5qtS7DYGi5Q
 source: internal
 url: /resources/videos/:slug
-slug: how-do-you-know-the-value-currently-delivered-in-your-organization
+slug: how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
 preview: https://i.ytimg.com/vi/5qtS7DYGi5Q/maxresdefault.jpg
 duration: 37
 isShort: true
 aliases:
-- /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-- /resources/videos/5qtS7DYGi5Q
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 - /resources/5qtS7DYGi5Q
-aliasesFor404:
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+aliasesArchive:
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
 - /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+- how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Evidence Based Leadership
-- Value Delivery
-- Evidence Based Management
-- Metrics and Learning
-- Pragmatic Thinking
 - Decision Making
+- Evidence Based Management
+- Current Value
+- Continuous Improvement
+- Ability to Innovate
+- Pragmatic Thinking
+- Operational Practices
+- Metrics and Learning
+- Customer Satisfaction
+- Value Delivery
 resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Product Management
 
 ---
-In today's fast-paced world, organizations must understand their value to make informed decisions and drive continuous improvement. But how do you know the value that’s currently being delivered in your organization? 🤔 This is where **Evidence-Based Management (EBM)** comes into play, offering a clear path to evaluate and enhance your organizational outcomes. In this blog post, we'll explore how EBM can help you gauge your organization's value, optimize performance, and make data-driven decisions.
+In today's fast-paced world, organizations must understand their value to make informed decisions and drive [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). But how do you know the value that’s currently being delivered in your organization? 🤔 This is where **Evidence-Based Management (EBM)** comes into play, offering a clear path to evaluate and enhance your organizational outcomes. In this blog post, we'll explore how EBM can help you gauge your organization's value, optimize performance, and make data-driven decisions.
 
 * * *
 
@@ -70,7 +79,7 @@ When implementing Evidence-Based Management, the question is: What metrics shoul
 
 Here are some essential metrics that provide insights into organizational value:
 
-### 1\. **Customer Satisfaction**
+### 1\. **[Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}})**
 
 Customer satisfaction is one of the most critical indicators of value. It reflects how well your products or services meet or exceed customer expectations. The higher the satisfaction rate, the greater the perceived value you deliver.
 
@@ -88,15 +97,15 @@ Your people are the engine driving your organization forward. Keeping them satis
 
 **Metrics to consider:**
 
-- **Employee engagement surveys**: How connected and passionate are your employees about their work?
+- **[Employee engagement]({{< ref "/tags/employee-engagement" >}}) surveys**: How connected and passionate are your employees about their work?
 
 - **Attrition rates**: Are you losing top talent?
 
 - **Feedback channels**: Are employees openly sharing their thoughts and ideas? 💡
 
-### 3\. **Revenue Per Employee**
+### 3\. **[Revenue Per Employee]({{< ref "/tags/revenue-per-employee" >}})**
 
-Revenue per employee is a great metric for understanding how efficiently your workforce is contributing to your organization's overall revenue. It can provide insight into the effectiveness of your teams, processes, and leadership.
+Revenue per employee is a great metric for understanding how efficiently your workforce is contributing to your organization's overall revenue. It can provide insight into the effectiveness of your teams, processes, and [leadership]({{< ref "/categories/leadership" >}}).
 
 **Formula:**
 
@@ -160,7 +169,7 @@ EBM is not a one-and-done exercise. It’s an ongoing process that encourages co
 
 ## Personal Experience: Applying EBM in My Organization
 
-Let me share a personal story about implementing Evidence-Based Management in a Scrum transformation project. 🚀
+Let me share a personal story about implementing Evidence-Based Management in a [Scrum]({{< ref "/categories/scrum" >}}) transformation project. 🚀
 
 When I first introduced Scrum to a large client, the team was unsure of how to measure the value they were delivering. They were making progress, but without concrete data, it was challenging to see the real impact. We implemented a set of EBM metrics, focusing on:
 

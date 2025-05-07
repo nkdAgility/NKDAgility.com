@@ -2,30 +2,33 @@
 title: 'Navigating the Judgment Trap: How to Foster a Healthy Agile Environment'
 description: Discover how to break free from the "judgment trap" in Agile. Learn to foster collaboration, innovation, and a healthier team environment today!
 date: 2023-11-09T06:45:04Z
+weight: 455
 ResourceId: uRqsRNq-XRY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uRqsRNq-XRY
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-judgement
+slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
 layout: video
 aliases:
-- /resources/videos/uRqsRNq-XRY
-- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
-- /resources/7-signs-of-the-agile-apocalypse-judgement
 - /resources/uRqsRNq-XRY
-aliasesFor404:
+- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
+- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
+- /resources/videos/7-signs-of-the-agile-apocalypse-judgement
+aliasesArchive:
+- /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
 - /resources/videos/7-signs-of-the-agile-apocalypse-judgement
 - /resources/7-signs-of-the-agile-apocalypse-judgement
+- navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
 isShort: true
 tags:
-- Metrics and Learning
-- People and Process
-- Organisational Agility
-- Pragmatic Thinking
+- Agile Philosophy
+- Organisational Culture
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,9 +36,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
-- Engineering Excellence
-- Product Management
+- Product Development
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call the "judgment trap." This is one of the seven signs of the agile apocalypse, and it’s something that can derail even the most well-intentioned teams. Today, I want to share my thoughts on how judgment manifests in Agile environments and how we can navigate this challenge to foster a healthier, more productive atmosphere.
@@ -73,6 +74,6 @@ To combat the detrimental effects of judgment, it’s crucial to establish clear
 
 ### Conclusion
 
-In my experience, the journey towards a truly agile mindset requires us to be vigilant against the pitfalls of judgment. By setting meaningful goals and adapting our metrics, we can create an environment that promotes collaboration, innovation, and continuous improvement. 
+In my experience, the journey towards a truly agile mindset requires us to be vigilant against the pitfalls of judgment. By setting meaningful goals and adapting our metrics, we can create an environment that promotes collaboration, innovation, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). 
 
 Let’s strive to build Agile teams that are not only productive but also resilient and empowered. After all, agility is about more than just following rules; it’s about fostering a culture where everyone can thrive.

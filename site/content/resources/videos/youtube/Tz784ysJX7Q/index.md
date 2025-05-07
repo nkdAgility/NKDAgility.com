@@ -2,33 +2,32 @@
 title: 'Balancing Speed and Stability: Why Quality Should Always Come First in Delivery Management'
 description: Discover how to balance speed and stability in project delivery. Learn why prioritising quality over tight deadlines is essential for long-term success.
 date: 2025-01-24T06:30:21Z
+weight: 450
 ResourceId: Tz784ysJX7Q
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Tz784ysJX7Q
 source: youtube
 url: /resources/videos/:slug
-slug: balancing-speed-and-stability-in-delivery
+slug: balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 layout: video
 aliases:
-- /resources/videos/Tz784ysJX7Q
-- /resources/videos/balancing-speed-and-stability-in-delivery
-- /resources/balancing-speed-and-stability-in-delivery
 - /resources/Tz784ysJX7Q
-aliasesFor404:
+- /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
+- /resources/videos/balancing-speed-and-stability-in-delivery
+aliasesArchive:
+- /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 - /resources/videos/balancing-speed-and-stability-in-delivery
 - /resources/balancing-speed-and-stability-in-delivery
+- balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
 preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 isShort: false
 tags:
-- People and Process
-- Product Delivery
-- Decision Making
-- Complexity Thinking
 - Pragmatic Thinking
-- Sociotechnical Systems
+- Product Delivery
 resourceTypes:
 - video
 sitemap:
@@ -36,6 +35,7 @@ sitemap:
   priority: 0.6
 categories:
 - Engineering Excellence
+- Product Development
 
 ---
 One of the questions I often encounter as a delivery manager is how to balance speed and stability, especially when we're under pressure from tight deadlines. However, I would argue that there's a fundamental issue with the premise of this question: why are we under such tight deadlines in the first place? More often than not, these deadlines exist because stakeholders lack confidence in our ability to meet them. This is the absurdity of deadlines.

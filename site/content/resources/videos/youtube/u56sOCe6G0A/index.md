@@ -2,8 +2,10 @@
 title: 3 core practices of Kanban. Actively managing work items in a workflow.
 description: Unlock your team's potential with our guide to active workflow management in Kanban. Learn to optimise processes and prevent bottlenecks for seamless operations!
 date: 2024-02-26T14:06:47Z
+weight: 1000
 ResourceId: u56sOCe6G0A
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: u56sOCe6G0A
@@ -15,36 +17,39 @@ preview: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg
 duration: 234
 isShort: false
 aliases:
-- /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
-- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
-- /resources/videos/u56sOCe6G0A
-- /resources/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
 - /resources/u56sOCe6G0A
-aliasesFor404:
+- /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
+- /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow.
+aliasesArchive:
+- /resources/videos/-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
+- /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
 - /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
 - /resources/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
+- 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
+- /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
+- 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+- /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Operational Practices
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Agile Frameworks
 - Software Development
-- Lean Thinking
-- Agile Project Management
-- Pragmatic Thinking
+- Flow Efficiency
+- Operational Practices
 - Throughput
-- Value Delivery
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
+- Product Development
 
 ---
-### Actively Managing Your Workflow in a Kanban Strategy
+### Actively Managing Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy
 
 **Introduction**
 

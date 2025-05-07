@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no relevance to Agile Product Management.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:30:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and issues with Windows Vista, lacking focus on Agile or DevOps tools, methodologies, or practical techniques.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:30:21",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:30:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:30:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no focus on software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:30:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:30:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no mention of AI, automation, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Windows Vista and its Service Pack 2, with no direct mention or alignment to Evidence-Based Management principles. It focuses on personal experiences and technical issues rather than data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation of Windows Vista Service Pack 2, which relates to the installation and configuration of software, but the primary focus is on personal experiences and opinions rather than providing clear, actionable instructions.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:30:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no focus on transparency or accountability principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the availability of Windows Vista Service Pack 2 and mentions some installation-related issues, but it lacks detailed step-by-step instructions or configuration best practices. The primary focus is on personal experiences and opinions regarding performance rather than actionable guidance on installation or configuration processes.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -100,39 +61,36 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-16T02:30:32",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Windows Vista and its performance, without addressing the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:30:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:30:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no mention of DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Windows Vista and its Service Pack 2, focusing on user experience and technical issues related to the operating system. There are no direct mentions of DevOps principles, practices, or cultural shifts, nor does it align with the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is entirely centred on a specific software update and personal experiences, which are unrelated to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T02:30:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and opinions related to using Windows Vista, which does not align with specific Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses personal experiences and opinions regarding the use of Windows Vista and its service packs, which do not directly relate to Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks. While it touches on technology and tools, it lacks a clear connection to established Agile methodologies, making it suitable for the Miscellaneous category. The depth of discussion is significant, as it provides detailed personal reflections and anecdotes about the challenges faced with the operating system.",
+    "level": "Primary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:30:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no mention of events, presentations, or related topics.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:30:39",
@@ -159,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Windows Vista and its performance, with no focus on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Windows Vista and its service packs, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:30:43",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Windows Vista and its performance, with no focus on metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -260,15 +200,6 @@
     "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:30:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, without focusing on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:30:59",
@@ -298,14 +229,14 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-16T02:31:03",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:31:04",
     "ai_confidence": 0,
@@ -316,11 +247,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:31:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T09:16:48",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no relevance to Agile principles or product operating models.",
+    "reasoning": "The content focuses entirely on Windows Vista and its service pack updates, with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss product management, agile methodologies, or any related topics.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +266,6 @@
     "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no relevance to organisational agility or related themes.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of Windows Vista Service Pack 2, which is a relevant update in the technology field, but it primarily focuses on personal experiences and opinions regarding the operating system rather than providing a comprehensive review or analysis.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T02:31:08",
@@ -348,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, without addressing the management of software applications or their lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:31:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no mention of Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +286,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on Windows Vista and Service Pack updates, with no relevance to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a personal experience with Windows Vista and updates related to it, with no relevant discussion regarding Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Windows Vista and its Service Pack 2, focusing on user experience and troubleshooting rather than Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the themes of automation, incremental improvements, or software quality are absent.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Windows Vista and its service packs, which is unrelated to the Definition of Ready in Agile.",
     "level": "Ignored"
   },
@@ -577,37 +496,28 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to Windows Vista and service packs, with no mention of Acceptance Test Driven Development or related topics.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to the Windows Vista operating system and service packs, with little emphasis on software development methodologies, practices, or tools.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista, its service pack, and personal computing experiences rather than Agile Project Management principles or methodologies.",
+    "reasoning": "Content primarily discusses issues related to the Windows Vista operating system and service packs, with little emphasis on software development methodologies, practices, or tools.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to Windows Vista and Service Packs, with no reference to Agile methodologies, values, or principles.",
     "level": "Ignored"
   },
@@ -701,15 +611,6 @@
     "reasoning": "The content primarily discusses issues related to using Windows Vista and does not address customer satisfaction, experience, or related metrics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Windows Vista and its updates, with no discussion regarding Scrum, scaling frameworks, or related topics.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:12",
@@ -726,15 +627,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to Windows Vista and its service packs, and does not mention or relate to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to Windows Vista and its service packs, which is unrelated to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -757,10 +649,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on issues related to Windows Vista and service packs, with no discussion of asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -802,29 +694,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and service packs, with no clear focus on innovation capabilities, evidence-based management, or related frameworks.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and does not mention Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses Windows Vista and its updates, with no relation to Agile practices or scaling Agile methodologies.",
+    "reasoning": "Content primarily discusses issues related to Windows Vista and service packs, with no clear focus on innovation capabilities, evidence-based management, or related frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -919,19 +793,19 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and issues with Windows Vista and its service packs, which does not relate to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on issues related to Windows Vista and its service pack updates, with no discussion of hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -955,12 +829,12 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:24",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content mentions Service Pack 2 for Windows Vista, which relates to software updates and releases, but it primarily focuses on personal experiences with the operating system rather than discussion of release management practices or strategies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -1018,10 +892,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T10:29:12",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to Windows Vista and its service packs, with no mention of Behaviour Driven Development or relevant practices.",
     "level": "Ignored"
   },
@@ -1034,7 +908,7 @@
     "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, which do not align with the strategic adoption and integration of modern digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:12",
     "ai_confidence": 0,
@@ -1043,23 +917,17 @@
     "reasoning": "The content discusses issues related to Windows Vista and does not mention MVP, product development, or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about issues with Windows Vista and its updates, not related to AI in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions updates and performance issues related to Windows Vista, which touches on the configuration and optimization aspects of system setup. However, it primarily focuses on personal experiences rather than technical methodologies or best practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges and experiences of using Windows Vista, including references to Service Pack updates. However, it primarily focuses on personal experiences and opinions rather than providing detailed insights into system configuration practices, methodologies, or best practices. While there are mentions of system performance and resource usage, these are not explored in depth or in a structured manner that aligns with the core themes of system configuration.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,21 +967,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Windows Vista and its service packs, with no discussion of Test First Development principles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Windows Vista and its Service Pack 2, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T10:29:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Windows Vista and its Service Packs, focusing on updates, performance issues, and comparisons to Windows 7, making it relevant to the Windows category.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses Windows Vista, specifically its Service Pack updates, which directly aligns with the category's focus on Windows operating system discussions. It provides detailed insights into installation and troubleshooting aspects related to Vista, including performance issues and comparisons with Windows 7. The depth of discussion is substantial, as it reflects personal experiences and expectations regarding updates, thus fulfilling the criteria for a high confidence score.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1162,12 +1036,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues with using Windows Vista and the hope that Service Pack 2 will resolve some of these problems, indicating a focus on troubleshooting potential software performance issues.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses issues related to Windows Vista and mentions the release of Service Pack 2, which could imply troubleshooting efforts. However, it lacks a focused discussion on diagnosing or resolving specific technical problems, and instead leans more towards personal experiences and opinions about the operating system's performance. The depth of troubleshooting methodologies or systematic problem-solving is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1057,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:13",
+    "calculated_at": "2025-04-08T19:30:54",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to Windows Vista and its updates, with no relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on Windows Vista and its service packs, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile principles. It does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1083,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on issues related to the Windows Vista operating system, updates, and personal experiences with software performance, with no discussion of working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:29:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues with the Windows Vista operating system and references service packs, with no focus on software development practices, Agile, DevOps, or the role of software developers.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1306,10 +1177,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T10:29:13",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on personal experiences with Windows Vista and service packs, with no relevance to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1202,6 @@
     "reasoning": "Content focuses on technical issues related to Windows Vista and Service Packs, with no mention of accountability or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is solely focused on Windows Vista and its performance issues, with no relation to Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:13",
@@ -1351,20 +1213,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:13",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about Windows Vista and service packs, with no relation to Test Driven Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:02:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no mention of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical aspects of Windows Vista and its Service Pack 2, with no focus on social technologies, collaboration, or decision-making frameworks. It lacks any relevant discussion on organisational culture or methodologies that promote collective intelligence or value delivery.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1239,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Windows Vista and its service packs, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:35:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no mention of Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:35:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Windows Vista and its service packs, with no mention of Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to Windows Vista and its service packs, with no mention of Scrum principles, roles, events, or any related topics. It does not align with the core themes of Scrum or provide any depth of discussion on the subject.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to Windows Vista and its service packs, with no mention of software development processes, testing, security, or compliance. It does not align with the core themes of the Shift-Left Strategy, which focuses on integrating critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Windows Vista and its Service Pack 2, focusing on personal experiences and technical issues rather than Continuous Improvement principles. There are no direct mentions of Continuous Improvement concepts, and the discussion lacks depth in relation to the category's themes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to Windows Vista and its Service Pack 2, with no mention of Agile, DevOps, or the concept of Common Goals. It focuses on personal experiences and technical details about software rather than aligning strategies or objectives within a team or organisation.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Windows Vista and its Service Pack 2, focusing on technical issues and personal experiences rather than on competence in Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of competence or related themes such as continuous learning or skill development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T19:30:50",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses entirely on Windows Vista and its Service Pack 2, discussing technical issues and solutions related to the operating system. There is no mention of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. The discussion is strictly about software updates and personal experiences with the operating system, which does not align with the category's focus.",
     "level": "Ignored"
   }
 }

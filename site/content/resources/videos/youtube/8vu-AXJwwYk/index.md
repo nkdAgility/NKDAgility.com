@@ -2,36 +2,30 @@
 title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
 description: Unlock your organisation's potential with expert consulting insights! Discover how a consultant's unique perspective can drive swift, impactful change.
 date: 2023-01-24T07:30:02Z
+weight: 840
 ResourceId: 8vu-AXJwwYk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 8vu-AXJwwYk
 url: /resources/videos/:slug
-slug: how-much-of-an-impact-can-a-great-agile-consultant-have-
+slug: unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
 layout: video
 aliases:
-- /resources/videos/8vu-AXJwwYk
-- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
-- /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/8vu-AXJwwYk
-aliasesFor404:
+- /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
+- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have
+aliasesArchive:
+- /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
+- /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have
+- unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: false
-tags:
-- Pragmatic Thinking
-- Organisational Change
-- People and Process
-- Change Management
-- Organisational Physics
-- Organisational Agility
-- Sociotechnical Systems
-- Resilience and Change
-- Transparency and Accountability
-- Organisational Culture
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,10 +33,10 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
-When I reflect on my experiences as a consultant, I often find myself pondering the profound impact a great consultant can have on an organisation. It’s a topic that resonates deeply with me, especially when I consider the distinction between consulting and coaching. 
+When I reflect on my experiences as a consultant, I often find myself pondering the profound impact a great consultant can have on an organisation. It’s a topic that resonates deeply with me, especially when I consider the distinction between consulting and [coaching]({{< ref "/tags/coaching" >}}). 
 
 **The Consultant's Role: A Unique Perspective**
 
@@ -50,9 +44,9 @@ A consultant is not just an agile consultant; they are a catalyst for change. Un
 
 - **Focused Expertise**: Consultants are brought in to tackle specific problems. They don’t linger unnecessarily, which can often be a sign of their value. If a company wants you around full-time, it might mean you’re not charging enough for your expertise.
 
-- **State of Agile Reports**: One of my go-to strategies is conducting a "state of agile" report. This involves interviewing a diverse range of employees to gauge the current agile practices within the organisation. The insights I gather often reveal a stark contrast between what leadership believes is happening and the reality on the ground. 
+- **State of Agile Reports**: One of my go-to strategies is conducting a "state of agile" report. This involves interviewing a diverse range of employees to gauge the current agile practices within the organisation. The insights I gather often reveal a stark contrast between what [leadership]({{< ref "/categories/leadership" >}}) believes is happening and the reality on the ground. 
 
-- **Bridging the Gap**: It’s not uncommon to hear leadership touting their commitment to continuous delivery and unit testing, while the teams on the ground express frustration over the lack of these practices. This disconnect highlights the need for open and transparent communication within the organisation.
+- **Bridging the Gap**: It’s not uncommon to hear leadership touting their commitment to [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) and unit testing, while the teams on the ground express frustration over the lack of these practices. This disconnect highlights the need for open and transparent communication within the organisation.
 
 **Identifying and Addressing Core Issues**
 
@@ -84,6 +78,6 @@ Interestingly, I’ve found that many organisations believe they have unique pro
 
 **Conclusion: The Consultant's Edge**
 
-In conclusion, the value of a great consultant lies in their ability to quickly identify and address core issues within an organisation. They bring a unique perspective that can catalyse change, helping organisations navigate the complexities of agile transformation. 
+In conclusion, the value of a great consultant lies in their ability to quickly identify and address core issues within an organisation. They bring a unique perspective that can catalyse change, helping organisations navigate the complexities of [agile transformation]({{< ref "/tags/agile-transformation" >}}). 
 
 If you find yourself in a situation where you’re grappling with organisational challenges, consider the potential benefits of engaging a consultant. Their insights could be the key to unlocking your organisation’s true potential. Remember, the journey to agility is not just about adopting new practices; it’s about fostering a culture that embraces change and innovation.

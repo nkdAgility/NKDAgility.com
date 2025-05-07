@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T12:14:05",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of ITSM with TFS and technical implementation details, lacking a focus on Agile product management principles.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T12:14:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of the Heat ITSM product for managing support calls and its integration with Team Foundation Server, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
-    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -37,12 +28,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Heat ITSM with TFS and mentions refactoring and development practices, but the primary focus is on the specific application and its features rather than broader engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS and mentions the use of an Event Handler model, which relates to technical practices. However, it primarily focuses on the implementation details and specific tools rather than broader engineering methodologies or principles that enhance agility and technical excellence. The discussion lacks depth in terms of exploring concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -53,49 +47,16 @@
     "reasoning": "Content primarily discusses technical implementations and the use of a specific ITSM tool, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T12:14:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of Heat ITSM and TFS for managing support calls, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:14:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Heat ITSM and TFS for managing support calls, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T12:14:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical implementations of IT service management and integration between systems without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Heat ITSM with TFS, which relates to automation and workflow management, but it primarily focuses on specific tools rather than broader DevOps principles.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T12:14:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of Heat ITSM with TFS for support call management, without a focus on AI or automation in Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses integrating Heat ITSM with TFS, which relates to workflow management and support call tracking. However, it primarily focuses on specific tools and their integration rather than the broader principles of DevOps such as collaboration, automation, or shared accountability. While there are mentions of streamlining workflows, the discussion lacks depth in core DevOps themes and does not emphasise the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,21 +79,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:14:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of ITSM with TFS and technical implementation details, lacking a focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the integration of Heat ITSM with TFS for support call management, which does not align with the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The focus is on technical implementation rather than product-oriented agile methodologies.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T12:14:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Heat ITSM with Team Foundation Server (TFS), detailing practical techniques for syncing support calls and creating work items, which aligns with the exploration and application of tools in Agile and DevOps practices.",
-    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -154,12 +109,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration and syncing of Heat ITSM with TFS, which involves configuration aspects, but the primary focus is on development and coding rather than detailed installation or configuration procedures.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS, which involves installation and configuration aspects, such as creating work items and syncing data between systems. However, it lacks detailed step-by-step instructions or best practices, which limits its depth. The primary focus is on the integration process rather than a comprehensive guide on installation or configuration.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -172,29 +130,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:14:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of Heat ITSM with TFS and the development of a related application, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of code refactoring and complexity in the context of integrating systems, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T12:14:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of Heat ITSM and TFS for managing support calls, focusing on technical implementation rather than industry news or reviews.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of Heat ITSM with TFS for support call management, focusing on technical implementation rather than evidence-based management principles. There are no direct mentions of evidence-based practices, and the discussion lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to current value or innovation capacity.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,14 +178,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T12:14:40",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration and management of support calls using Heat ITSM and TFS, without a focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T12:14:41",
     "ai_confidence": 0,
@@ -271,48 +214,36 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T12:14:45",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of integrating Heat ITSM with TFS, lacking personal reflections or experiences.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T12:14:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details and project management aspects related to the Heat ITSM system, without a focus on discovery or learning methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 40.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Heat ITSM with TFS (Team Foundation Server), which is part of the Azure DevOps suite, but the primary focus is on the Heat ITSM product and its functionalities rather than Azure DevOps itself.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T12:14:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of Heat ITSM and TFS for managing support calls and work items, with no clear focus on transparency or accountability principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, the primary focus is on the Heat ITSM product and its functionalities rather than on Azure DevOps itself. While there are mentions of TFS and some alignment with Azure DevOps tools, the depth of discussion is limited to specific implementations and lacks broader insights into Azure DevOps methodologies or best practices.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Heat ITSM with TFS for managing support calls and work items, which relates to application lifecycle management practices. However, the primary focus is on the technical implementation rather than a comprehensive discussion of ALM methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of Heat ITSM in managing support calls and integrating it with Team Foundation Server (TFS), which relates to application management. However, it lacks a comprehensive exploration of the application lifecycle stages, best practices, or governance principles. The mention of ALM is brief and does not delve into the core themes of Application Lifecycle Management, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -321,15 +252,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration and management of support calls using Heat ITSM and TFS, focusing on technical implementation rather than Systems Thinking principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T12:14:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of integrating ITSM with TFS, lacking focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -352,12 +274,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Heat ITSM with TFS for managing support calls, which relates to product delivery practices, but the primary focus is on technical implementation rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS for managing support calls, which touches on aspects of product delivery such as tracking and syncing items. However, it lacks a comprehensive exploration of methodologies, practices, or strategies that are central to the product delivery category. The focus is more on technical implementation rather than the broader principles of delivering software products effectively.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -442,11 +367,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the integration of Heat ITSM with Team Foundation Server and mentions refactoring and code clarity, indicating a focus on software development practices. However, it also includes elements related to project management and software deployment, which somewhat dilutes the primary focus on technical mastery.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS, showcasing a technical implementation and a refactor process. While it touches on aspects of software craftsmanship, such as refactoring and code quality, it lacks a broader discussion on best practices or principles of software design. The focus is primarily on a specific project rather than a comprehensive exploration of technical mastery.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -467,7 +395,7 @@
     "reasoning": "Content primarily discusses the use of a tool for tracking support calls and does not focus on scaling Agile methodologies or large-scale Agile transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:01:32",
     "ai_confidence": 0,
@@ -478,20 +406,11 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of Heat ITSM with Team Foundation Server (TFS) for managing support calls, which is not directly related to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the use of Heat ITSM for managing support calls and integration with Team System, with no mention of agile methodologies, principles, or practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -514,10 +433,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on ITSM and TFS integration, with no relevant discussion on Scrum roles, team dynamics, or practices associated with a Scrum Team.",
     "level": "Ignored"
   },
@@ -577,10 +496,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific IT service management tool and its integration with Team Foundation Server, without addressing remote working practices or Agile frameworks.",
     "level": "Ignored"
   },
@@ -640,11 +559,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software development practices such as tracking support calls and creating work items, along with refactoring and automation in system integration, which aligns with engineering excellence themes but is not the primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS and mentions refactoring, which aligns with engineering practices. However, it primarily focuses on specific tools and implementations rather than broader principles of engineering excellence or best practices in software craftsmanship.",
     "level": "Tertiary"
   },
   "Hypothesis Driven Development": {
@@ -665,24 +587,6 @@
     "reasoning": "Content primarily discusses the integration and management of IT support calls and work items, with no clear mention or focus on estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the use of a tool (Heat ITSM) in the context of development practices and includes references to TFS and work item management, which aligns with software development but is more focused on tools rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Heat ITSM and TFS for support call management and work item tracking, with no clear focus on AI integration, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T18:01:32",
@@ -694,19 +598,22 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:29:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "Content discusses TFS (Team Foundation Server) and its integration with Heat ITSM, which is used within the Windows environment, but the primary focus is on the integration process rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the integration of Heat ITSM with Team Foundation Server (TFS), which is a tool used in Windows environments. However, it does not focus on the Windows operating system itself, such as installation, configuration, or troubleshooting. While there are mentions of TFS and its functionalities, the discussion lacks depth regarding Windows-specific topics, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details and system integrations using Heat ITSM and TFS, and does not focus on product strategy, vision, or market analysis.",
     "level": "Ignored"
   },
@@ -721,11 +628,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses integrating and developing applications related to Team Foundation Server (TFS) and Heat ITSM, detailing software development practices and methodologies, including event handling, application creation, and code refactoring.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with Team Foundation Server (TFS), which is a relevant topic in software development, particularly in the context of version control and project management. It explicitly mentions the use of TFS Event Handler and the development of a TFS Heat ITSM application, indicating a focus on software engineering practices. The content aligns well with the core themes of software development, such as collaborative development and code quality through refactoring. However, while it provides a good level of detail, it does not delve deeply into broader methodologies or best practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -737,39 +647,30 @@
     "reasoning": "Content primarily discusses the use of Heat ITSM for managing support calls and integration with Team Foundation Server, with no focus on Agile frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the use of the Heat ITSM tool and its integration with Team Foundation Server for managing support calls, without addressing any aspects of scaling Agile practices or methodologies.",
-    "level": "Ignored"
-  },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical implementation details and tools related to IT Service Management without focusing on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses ITSM and TFS integration without a clear focus on Lead Time metrics or concepts.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation and management of a software tool (Heat ITSM) within an organization, focusing on technical details rather than decision-making methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -784,37 +685,40 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration and development of a tool (TFS Heat ITSM) which suggests an innovative approach to handle support calls through system synchronization. However, it does not primarily focus on the broader themes of measuring or fostering innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS and mentions a refactor for simplification, which indicates some level of innovation. However, it lacks a direct focus on the broader themes of the Ability to Innovate category, such as Evidence-Based Management or frameworks for measuring innovation. The discussion is primarily technical and operational rather than strategic or empirical, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical implementation of a software tool and development processes without addressing product discovery methodologies or user needs.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a system integration project involving Heat ITSM and Team Foundation Server, with no focus on Cycle Time or related concepts.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Heat ITSM and TFS for managing support calls and work items, without focusing on validation of product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -838,12 +742,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development and integration of tools related to TFS and project management, mentioning refactoring as part of the process. However, it is primarily focused on the use of ITSM tools rather than core engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS and mentions refactoring, which aligns with engineering practices. However, it primarily focuses on specific tools and implementations rather than broader Agile principles or methodologies. The discussion lacks depth in core topics like clean code or TDD, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -856,19 +763,19 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses software tools and tracking for support calls, but does not focus on the Product Backlog or its management in Agile contexts.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses ITSM system integration and project management tasks rather than the Definition of Done.",
     "level": "Ignored"
   },
@@ -883,11 +790,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of Heat ITSM with TFS for support call management and work item creation, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of Heat ITSM with TFS for support call management, which does not directly address Continuous Delivery principles or practices. While there are mentions of workflow and productivity, these are not explicitly tied to Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements. The focus is more on system integration rather than the delivery process itself.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -901,12 +811,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific software application for managing support calls and refers to the development process and integration with Team Foundation Server, indicating a focus on working software aspects. However, it mainly centers on technical implementation details rather than a broader discussion on the principles of working software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS for managing support calls, which relates to the operational aspect of software. However, it lacks a strong focus on the characteristics of working software, best practices for quality, or customer feedback mechanisms. The discussion is more about technical implementation rather than the broader principles of delivering functional software that meets user needs.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -937,10 +850,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical integration between IT service management tools and software development practices, with no clear discussion on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -973,11 +886,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses using Heat ITSM and TFS for managing support calls and creating workflow items, which are efforts to streamline operational processes. However, the primary focus is on the technical integration of systems rather than broader operational practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS for managing support calls, which touches on operational practices related to workflow management and process optimisation. However, it lacks a comprehensive exploration of techniques or strategies that enhance operational efficiency, focusing more on specific implementation details rather than broader operational practices. The mention of syncing items and creating work items indicates some alignment with operational efficiency, but the depth of discussion is limited to technical implementation without broader strategic insights.",
     "level": "Tertiary"
   },
   "Throughput": {
@@ -998,21 +914,12 @@
     "reasoning": "Content primarily focuses on implementing Heat ITSM and Team Foundation Server for tracking support calls, without any clear emphasis on empirical process control principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration and use of ITSM and TFS, without focusing on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of IT systems and the development of an application, with no focus on criteria for backlog item readiness or Agile practices.",
     "level": "Ignored"
   },
@@ -1027,38 +934,44 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details related to the Heat ITSM product and its integration with TFS, rather than focusing on strategic aspects of product management.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using the Heat ITSM tool for managing support calls and integrating it with TFS, without discussing Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:43:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on integrating IT service management tools and developing applications without discussing Test First Development principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of Heat ITSM with TFS for support call management, focusing on workflow and productivity enhancements. There are no explicit mentions of Test First Development principles, success criteria, or testing practices. The content lacks depth in discussing any related concepts, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and how it tracks work items related to support calls, indicating some focus on version control practices, although it is primarily about integrating a support tool with TFS.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS (Team Foundation Server), which relates to version control practices. However, the primary focus is on managing support calls and the development of a specific application rather than broader best practices or methodologies in modern source control. While TFS is mentioned, the discussion lacks depth in version control strategies, branching, or collaboration workflows, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -1081,10 +994,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of integrating systems, specifically Heat ITSM and TFS, without any clear focus on change management principles or strategies.",
     "level": "Ignored"
   },
@@ -1117,21 +1030,27 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating digital tools (Heat ITSM and TFS) to enhance support call management and streamline processes, which aligns with digital transformation themes. However, it mainly focuses on specific technical implementations rather than broader transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with TFS for managing support calls, which touches on the use of digital tools for operational efficiency. However, it lacks a broader discussion on digital transformation strategies, case studies, or the impact of emerging technologies. The focus is primarily on technical implementation rather than strategic transformation, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical integration between Heat ITSM and TFS in a real-world context, emphasizing problem-solving within an Agile framework, but it primarily focuses on the technical aspects rather than broader Agile principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses practical problem-solving techniques related to integrating Heat ITSM with TFS, which aligns with the pragmatic thinking category. It mentions the use of TFS Event Handler to sync items, demonstrating a real-world application of DevOps principles. However, while it provides some detail on the implementation, it lacks a broader discussion on Agile or Scrum methodologies, which limits its overall depth and alignment with the category.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -1153,30 +1072,33 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on tracking support calls with Heat ITSM and TFS integration, without discussing teamwork norms or working agreements.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content mainly discusses the integration of IT service management systems and project tracking tools, with no clear focus on team dynamics, collaboration, or agile methodologies.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration and synchronization of Heat ITSM with Team Foundation Server (TFS), which are both tools used for managing workflows and support calls, making it relevant to collaboration tools in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with Team Foundation Server (TFS) for managing support calls, which touches on collaboration between tools. However, it primarily focuses on technical implementation details rather than broader discussions on collaboration tools or their impact on Agile teams. The mention of syncing items between systems indicates some relevance to collaboration, but it lacks depth in exploring features, best practices, or case studies related to collaboration tools in Agile environments.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1189,10 +1111,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details regarding the Heat ITSM software and its integration with TFS, without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1214,31 +1136,28 @@
     "reasoning": "Content primarily discusses the integration of Heat ITSM with Team System and the development of a specific application rather than deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content mainly discusses the usage of Heat ITSM for managing support calls and the development of applications using Team Foundation Server (TFS), without a clear focus on Scrum principles or practices related to product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating and syncing issues between Heat ITSM and Team System, which aligns with troubleshooting integration issues, but it is primarily focused on development and implementation rather than direct troubleshooting methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with Team System and mentions the need for syncing items between the two systems, which hints at troubleshooting integration issues. However, it lacks a detailed exploration of specific troubleshooting techniques or methodologies, and the primary focus is more on development and integration rather than on diagnosing and resolving technical issues.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on ITSM and TFS technical details, without any discussion related to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the integration of Heat ITSM with TFS for support call management, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, the Scrum Master's role, or any related topics. The focus is on technical implementation rather than Scrum practices or team dynamics.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1252,10 +1171,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of IT service management systems and does not focus on team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1270,10 +1189,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:01:32",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on integrating and managing IT support systems, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1203,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration and functionality of Heat ITSM with TFS, without mentioning Test Driven Development or its principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses managing support calls and synchronizing data between systems, which is unrelated to Scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1324,20 +1234,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating and syncing items between Heat ITSM and Team Foundation Server, which relates to system configuration, but it primarily focuses on the development aspect and the creation of applications rather than solely on configuration methodologies.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:01:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of integrating IT service management tools and does not address scaling agile practices or organizational agility.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Heat ITSM with Team Foundation Server (TFS), which touches on aspects of system configuration, such as syncing items and creating work items. However, the primary focus is on the development and functionality of the applications rather than the methodologies or best practices of system configuration. While there are mentions of configuration through the use of event handlers and work items, the depth of discussion is more aligned with software development rather than a comprehensive exploration of system configuration principles.",
     "level": "Ignored"
   },
   "Entrepreneurship": {
@@ -1360,11 +1264,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:07:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Heat ITSM and TFS for managing support calls and work items, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical integration of Heat ITSM with TFS for support call management, lacking explicit discussions on collaboration, decision-making, or value delivery. While it mentions workflow enhancement, it does not delve into the social frameworks or methodologies that characterise social technologies. The depth of discussion is largely technical, with minimal relevance to the core themes of the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1281,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to IT service management and software development, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:41:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Heat ITSM with Team Foundation Server (TFS) and does not focus on the broader concepts of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:41:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of Heat ITSM with TFS for support call management, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the use of Heat ITSM and TFS for managing support calls and work items, with no explicit mention of Scrum principles, roles, events, or artifacts. While it touches on project management tools, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum practices, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the use of Heat ITSM for managing support calls and integrating it with TFS, without any explicit mention of the Shift-Left Strategy. While there are references to tracking and managing work items, these do not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth on the principles or benefits of the Shift-Left Strategy, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on integrating Heat ITSM with TFS for support call management, which does not directly address Continuous Improvement principles. While there is a mention of refactoring and simplifying code, these aspects are not discussed in the context of Continuous Improvement methodologies or frameworks. The content lacks a clear commitment to empirical evidence, experimentation, or learning, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the integration of Heat ITSM with TFS for support call management, which does not directly address the concept of Common Goals in Agile or DevOps. While there are mentions of workflow and productivity, these are not explicitly tied to shared objectives or strategic alignment. The discussion lacks depth regarding the principles of Common Goals, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the integration of Heat ITSM with TFS for support call management, which does not directly address the principles of competence in Agile or DevOps. While there are mentions of development and workflow enhancement, these are secondary to the main topic of tool integration. The discussion lacks depth regarding continuous learning, skill development, or fostering a culture of competence, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on integrating Heat ITSM with TFS for support call management, which does not directly discuss Agentic Agility. While there are mentions of workflow and productivity, these are not aligned with the core themes of intentional shaping of outcomes or the principles of Agentic Agility. The content lacks depth in discussing the role of intent, accountability, or the interplay between human judgement and AI logic, which are crucial for this category.",
     "level": "Ignored"
   }
 }

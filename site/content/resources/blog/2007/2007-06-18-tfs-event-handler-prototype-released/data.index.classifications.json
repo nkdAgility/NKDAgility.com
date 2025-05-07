@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T21:50:39",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the release of a prototype application and does not discuss the stages, practices, or tools related to Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses the release of a software prototype without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T21:50:44",
     "ai_confidence": 0,
@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the release of a prototype application and hints at configuration and documentation, but it does not provide clear, actionable instructions or detailed discussions on installation and configuration processes.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content mentions the release of a prototype application and hints at configuration, but it lacks detailed instructions or a structured guide on installation and configuration processes. While it does touch on the need for documentation, it does not provide actionable insights or thorough discussions that align with the core themes of the category.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses the release of a prototype application and does not relate to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:50:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a software prototype and documentation, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:50:52",
@@ -97,15 +91,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software prototype and does not reference complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of a TFS Event Handler prototype, which implies practical application of tooling, but lacks detailed exploration of methodologies or frameworks.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:50:56",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a prototype application without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,30 +139,27 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:51:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a software prototype and does not address Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool (TFS Event Handler) and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The discussion lacks depth and relevance to the core themes of EBM, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:51:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a prototype application and does not address Agile principles, product-centric development, or value delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool (TFS Event Handler) and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the key topics outlined in the APOM framework. The content lacks depth and relevance to the category, making it unsuitable for classification under the Agile Product Operating Model.",
     "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the release of a prototype application, which aligns with industry updates, but lacks a broader context or analysis related to Agile or DevOps.",
-    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -204,51 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a prototype application without a clear focus on platform engineering principles or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:51:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a TFS Event Handler prototype and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:51:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a prototype application without any clear focus on AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:51:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release of a prototype application and code, with no focus on code quality, complexity, or related best practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:51:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a software prototype and does not focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:51:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a prototype application and the author's plans for documentation, without a focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:51:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the release of a prototype application and code, with no substantial discussion on DevOps principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a specific tool (TFS Event Handler) and does not explicitly discuss DevOps principles, practices, or cultural shifts. While it may relate to software development and configuration, it lacks direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The discussion is superficial and does not delve into the core themes of DevOps, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the release of a prototype application and does not discuss engineering practices or methodologies related to technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:51:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a software prototype and documentation, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:51:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the release of a prototype and the upcoming documentation, lacking discussions on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:51:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of a software prototype without focusing on reviews, analyses, or discussions related to Agile methodologies or DevOps practices.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,19 +292,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions configuring the TFS Event Handler and hints at setup, but the primary focus is on the release announcement rather than detailed system configuration processes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the release of a prototype application and hints at configuration, but it lacks detailed discussion on system configuration practices or methodologies. The focus is more on the release announcement rather than an in-depth exploration of system configuration principles.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:35",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a prototype application and code, with no clear focus on innovation capabilities, measurement, or Evidence-Based Management principles.",
     "level": "Ignored"
   },
@@ -420,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a TFS Event Handler prototype and does not address any aspects of portfolio management, strategic alignment, or investment prioritization.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the release of a prototype application and documentation, with no clear focus on Scrum principles, roles, or product development practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:35",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the release of a software prototype and documentation, with no clear discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:35",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses the release of a prototype application and documentation but does not address the Definition of Done in any capacity.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a prototype TFS Event Handler and does not address topics related to scaling Agile or multiple team coordination.",
+    "reasoning": "The content discusses the release of a prototype application and documentation but does not address the Definition of Done in any capacity.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,23 +473,17 @@
     "reasoning": "Content is primarily focused on the release of a prototype application and does not discuss collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a software prototype without focusing on Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the release of a software application (TFS Event Handler) and mentions code and documentation, which indicates a focus on software development but lacks in-depth methodological context.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content mentions the release of a prototype application related to TFS Event Handler, which indicates a focus on software development. However, it lacks detailed discussion on methodologies, best practices, or frameworks that guide the development lifecycle. The mention of documentation suggests an awareness of software practices, but the overall depth and alignment with core themes of software development are limited.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +512,7 @@
     "reasoning": "Content is primarily about the release of a TFS Event Handler prototype and does not discuss estimation within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:35",
     "ai_confidence": 0,
@@ -694,19 +586,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about releasing a TFS Event Handler prototype, with no discussion on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool, which does not explicitly discuss Continuous Delivery principles or practices. While there is a mention of a release, it lacks depth in exploring automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T08:18:35",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the release of a prototype application and documentation, without any clear discussion of Lead Time or its significance.",
     "level": "Ignored"
   },
@@ -744,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on the release of a TFS event handler prototype and does not discuss hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a TFS Event Handler prototype and does not mention AI or its application in Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -865,11 +751,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content primarily discusses a specific release of a prototype but does not delve into broader principles, practices, or strategies related to frequent releases as a general concept.",
+    "reasoning": "The content mentions a specific release of a prototype application, which aligns with the concept of frequent releases. However, it lacks a broader discussion on continuous delivery principles, automation techniques, or strategies for incremental improvements. The focus is primarily on the announcement of a single release rather than a comprehensive exploration of frequent release practices.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -928,10 +817,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:35",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a TFS Event Handler prototype and does not address the Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -955,29 +844,23 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content presents information about releasing a prototype application and implies some level of technical work, it largely focuses on the announcement and documentation rather than on software craftsmanship, methodologies, or principles central to Technical Mastery.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the release of a prototype application and mentions documentation, but it lacks a detailed discussion on software craftsmanship, best practices, or technical principles. While it hints at configuration and extension, it does not delve into the methodologies or practices that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T08:18:35",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the release of a TFS Event Handler prototype and lacks any discussion on remote work practices, challenges, or solutions.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses the release of a prototype application without reference to Kanban principles or scaling practices.",
+    "reasoning": "Content primarily focuses on the release of a TFS Event Handler prototype and lacks any discussion on remote work practices, challenges, or solutions.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -987,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about the release of a software prototype and does not discuss customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Agile methodologies, principles, or frameworks. It is primarily focused on the release of a software prototype without any clear connection to Agile Project Management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1018,10 +892,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:18:35",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a prototype TFS Event Handler and documentation, with no clear mention or focus on Cycle Time.",
     "level": "Ignored"
   },
@@ -1180,21 +1054,24 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T08:18:35",
+    "calculated_at": "2025-04-10T15:57:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software prototype and documentation, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the release of a prototype application, indicating the delivery of functional software, but lacks detail on quality or customer alignment.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the release of a prototype application, which indicates a focus on delivering functional software. However, it lacks detailed discussion on quality assurance, user feedback, or iterative development practices that are crucial to the 'Working Software' category. The mention of documentation is relevant but does not significantly enhance the depth of the discussion on working software principles.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1234,11 +1111,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the release of a prototype application, which relates to the topic of release management, but lacks depth in strategies and practices typically associated with the category.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions the release of a prototype application, which aligns with the concept of release management. However, it lacks detailed discussion on planning, scheduling, or controlling the release process. The focus is primarily on the announcement of the release rather than the strategies or practices involved in release management.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -1266,15 +1146,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the release of a software prototype without discussing asynchronous development principles, practices, or team collaboration.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a prototype TFS Event Handler without any mention of Scrum principles, scaling practices, or related frameworks.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,22 +1184,16 @@
     "reasoning": "Content primarily discusses the release of a TFS Event Handler application and does not relate to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the release of a software prototype and lacks any discussion related to scaling agile principles or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not mention Scrum or the role of a Scrum Master; it focuses on a TFS Event Handler release.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the release of a TFS Event Handler prototype and does not mention the Scrum Master role or its responsibilities. There is no alignment with the core themes of the Scrum Master category, and the depth of discussion is non-existent regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1216,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the release of a prototype application without any mention or focus on Test First Development or related principles like Test-Driven Development (TDD).",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool and does not discuss Test First Development principles, success criteria, or testing practices. There are no explicit mentions of testing methodologies or the importance of defining success criteria before implementation, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:29:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the release of a prototype application and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a technical tool (TFS Event Handler) and does not discuss any aspects of social technologies, collaboration, or decision-making. There are no explicit mentions of self-organisation, collective intelligence, or value delivery, which are core themes of the category. The depth of discussion is limited to the tool's release and configuration, lacking any exploration of social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of a software prototype and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:51:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of a prototype application and code, with no clear focus on Internal Developer Platforms or their related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:51:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of a prototype application and code, with no mention of AI or its integration within Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the release of a TFS Event Handler prototype and does not explicitly mention Scrum principles, roles, events, or any related concepts. There is no depth of discussion regarding Scrum, and the focus is on a specific tool rather than the Scrum framework or its practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a prototype application and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is unrelated to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool and does not discuss Common Goals, Agile, or DevOps principles. There are no explicit mentions of shared objectives or alignment strategies, and the depth of discussion is minimal, lacking any connection to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the release of a tool (TFS Event Handler) and mentions documentation, but it does not explicitly discuss competence, continuous learning, or skill development. While there is a slight implication of needing to configure and extend the tool, it lacks depth in exploring the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the release of a prototype tool and does not explicitly discuss Continuous Improvement principles. While there is a mention of configuring and extending the tool, it lacks a clear connection to the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation. The depth of discussion is minimal, primarily revolving around the release announcement rather than any strategic or incremental advancements.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the release of a TFS Event Handler prototype and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, nor does it provide any depth on the interplay between human and AI capabilities. The content is more about a software release than about the concepts outlined in the Agentic Agility category.",
     "level": "Ignored"
   }
 }

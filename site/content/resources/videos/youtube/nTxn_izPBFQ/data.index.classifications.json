@@ -1,20 +1,26 @@
 {
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and includes a mention of the 'Experimenter' stance, which relates to iterative innovation and experimentation. However, the primary focus is on the APSPOA course and product ownership rather than on hypothesis formulation and testing.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the role of an 'Experimenter' in product ownership, which aligns with hypothesis-driven development. However, it lacks a detailed discussion on formulating hypotheses, conducting experiments, or analysing data. The focus is more on the APSPOA course and product ownership roles rather than on empirical testing or validated learning.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 55.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the role of 'Experimenter' as part of the product owner's responsibilities, which aligns with the theme of experimentation. However, the primary focus is on the APSPOA course and product ownership rather than a detailed exploration of experimentation itself.",
+    "final_score": 55.0,
+    "reasoning": "The content briefly discusses the role of the 'Experimenter' within the context of product ownership, which aligns with the category of Experimentation. However, the primary focus is on the APSPOA course and its tools for product direction rather than a detailed exploration of hypothesis-driven experimentation. While there are mentions of iterative innovation and small experiments, the overall depth of discussion on experimentation techniques and their integration into Agile workflows is limited.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -28,21 +34,24 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-12T04:00:21",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and leadership in determining product direction, rather than focusing on the Product Backlog itself.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner and the APSPOA course, which relates to Scrum principles, but it primarily focuses on the course's effectiveness rather than an in-depth exploration of Scrum itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the APSPOA course and its relevance to product ownership, which is a key role in Scrum. It mentions the importance of product direction and outlines various stances of product ownership, aligning with Scrum principles. However, the focus is more on the course and its tools rather than a deep exploration of Scrum itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -55,21 +64,27 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T01:04:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of product owners and the APSPOA course, which includes elements of coaching and development for leaders. However, the primary focus is on product direction and leadership rather than coaching practices specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the APSPOA course and its role in helping leaders determine product direction, which is more focused on directive leadership rather than coaching. While it mentions the importance of product owners and their roles, it lacks a strong emphasis on the collaborative and supportive nature of coaching. The discussion on the six stances of product ownership touches on aspects of leadership and team dynamics but does not delve deeply into coaching techniques or the role of a coach in fostering growth and development. Overall, the content does not align closely with the core themes of coaching.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the APSPOA course and its role in helping leaders determine product direction, which touches on evidence-based practices in leadership. However, it primarily focuses on the course's tools and techniques rather than a comprehensive discussion on evidence-based leadership principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the APSPOA course and its role in helping leaders determine product direction, but it primarily focuses on the course's tools and techniques rather than on empirical evidence or data-driven decision-making. While there are mentions of leadership roles and the importance of decision-making, the discussion lacks a strong emphasis on evidence-based practices or metrics that would align it closely with the category of Evidence Based Leadership.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -82,38 +97,47 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-12T04:00:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of product ownership and leadership in determining product direction, which aligns closely with product management principles. It explores the tools and techniques provided by the APSPOA course that aid product owners in their strategic roles, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the role of product owners in determining product direction, highlighting the importance of balancing customer advocacy with innovation. It explores various stances a product owner should adopt, such as being a visionary and a decision-maker, which aligns well with the strategic aspects of product management. The depth of discussion on the responsibilities and challenges faced by product owners indicates a strong focus on product management principles, although it lacks a structured methodology or framework. Overall, the content is primarily focused on product management, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-12T04:00:32",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of leaders in determining product direction and highlights the importance of various stances of product ownership, which aligns with Agile Leadership principles. However, it primarily focuses on the APSPOA course and product ownership rather than leadership practices in an Agile context.",
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of product owners and leaders in determining product direction, which aligns with Agile Leadership principles. It touches on the importance of collaboration, decision-making, and innovation, which are relevant to Agile leadership. However, the focus is more on the technical aspects of product ownership rather than on leadership practices specifically, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T04:00:33",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the APSPOA course and product ownership, with no clear focus on the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T04:00:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T13:00:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile leadership and product ownership, with no focus on system configuration or related technical aspects.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile leadership and the APSPOA course, focusing on product ownership and team alignment rather than system configuration. There are no direct mentions of system configuration topics such as configuration management tools, system optimisation, or integration of hardware and software. The discussion is centred around methodologies and roles in Agile, which do not align with the core themes of system configuration. Therefore, the confidence score reflects a very low relevance to the specified category.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -136,12 +160,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of leaders and product owners in determining product direction, which involves decision-making processes. However, it primarily focuses on the APSPOA course and its tools rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of leaders in determining product direction and highlights the importance of decision-making in the context of product ownership. It mentions the need for product owners to be decisive and to evaluate their approaches, which aligns with the principles of structured decision-making. However, the discussion is more focused on the APSPOA course and its tools rather than a comprehensive exploration of decision-making methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -163,10 +190,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T04:00:43",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners in an Agile context, without a clear focus on Lean principles or practices.",
     "level": "Ignored"
   },
@@ -181,10 +208,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-12T04:00:46",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, without a clear focus on customer feedback integration or feedback loops.",
     "level": "Ignored"
   },
@@ -208,28 +235,31 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T04:00:50",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners, with no focus on the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and the importance of determining product direction, which aligns with product strategy. However, it primarily focuses on the APSPOA course and Agile practices, making product strategy a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of leaders and product owners in determining product direction, which aligns with product strategy. However, it primarily focuses on the APSPOA course and Agile practices rather than providing a comprehensive exploration of product strategy methodologies or frameworks. While it touches on important aspects like vision and customer advocacy, the depth of discussion on strategic planning and market analysis is limited.",
+    "level": "Secondary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-12T04:00:52",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners in determining product direction, with minimal focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
@@ -244,56 +274,62 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners and leadership in determining product direction, which relates to strategic alignment and development within Agile frameworks. However, the primary focus is on the APSPOA course and its tools rather than a comprehensive strategic discussion.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of leaders and product owners in determining product direction, which aligns with strategic discussions in Agile environments. It mentions tools and techniques from the APSPOA course that can aid in shaping product strategy, indicating a focus on strategic alignment and development. However, while it touches on strategic concepts, the depth of discussion is more about the roles and tools rather than a comprehensive strategy formulation or execution, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners in innovation and the importance of bridging gaps in their capabilities, particularly through the APSPOA course. However, the primary focus is on product direction and leadership rather than a comprehensive exploration of innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of product owners and their ability to innovate, particularly through the APSPOA course. It mentions the importance of the innovator stance and iterative innovation, which aligns with the category's focus on enhancing innovation capabilities. However, the primary focus is more on product direction and leadership rather than a comprehensive exploration of innovation metrics or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the APSPOA course and its relevance to product ownership within the Agile framework, highlighting roles and responsibilities of product owners, which is a significant aspect of Agile practices.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T04:01:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the APSPOA course and the role of product owners, focusing on individual skills and responsibilities rather than organisational scaling of agile practices.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the APSPOA course and its relevance to product ownership within the Agile framework, highlighting the roles and stances of product owners. While it does mention Agile principles and the importance of leadership in an Agile context, it primarily focuses on the course and its tools rather than a comprehensive exploration of Agile frameworks themselves. The discussion aligns with Agile concepts but lacks depth in comparing frameworks or providing case studies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners and their collaboration with teams, which is a significant aspect of team dynamics in Agile. However, the primary focus is on the APSPOA course and individual roles rather than direct team collaboration techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of product owners and their responsibilities, which includes collaboration as a key aspect. However, the primary focus is on individual roles and tools rather than on team dynamics or collaboration techniques. While there are mentions of collaboration, they are not the central theme, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners in understanding customer needs and delivering what customers want, which aligns with customer satisfaction principles. However, the primary focus is on the APSPOA course and product ownership rather than customer satisfaction itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of product owners and their importance in understanding customer needs, which aligns with customer satisfaction principles. However, the primary focus is on the APSPOA course and product direction rather than directly measuring or enhancing customer satisfaction. While there are mentions of customer advocacy, the depth of discussion on customer satisfaction metrics and strategies is limited.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
@@ -316,10 +352,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T04:01:08",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, which are not central to Agile engineering practices such as clean code, TDD, or CI/CD.",
     "level": "Ignored"
   },
@@ -334,12 +370,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the role of product owners, which are relevant to software development practices, but the primary focus is on the APSPOA course and leadership rather than software engineering processes.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the APSPOA course and its relevance to product ownership within an Agile framework, which is a part of software development practices. However, the focus is more on leadership and product direction rather than specific software development methodologies or practices. While Agile principles are mentioned, the depth of discussion on software development techniques is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +391,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T04:01:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T13:00:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, without a focus on measuring or optimising throughput in Agile or DevOps contexts.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in enhancing product ownership and leadership skills. It does not discuss throughput as a delivery metric, nor does it analyse or visualise throughput in any capacity. While there are mentions of product direction and leadership, these are not related to throughput as defined in the classification criteria. The content lacks any direct references to throughput metrics, calculations, or visualisations, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,11 +412,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of product owners and leadership in an Agile context, touching on Agile principles such as customer advocacy and collaboration. However, it primarily focuses on the APSPOA course and specific roles rather than a deep exploration of Agile values and principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of product owners and the APSPOA course, which indirectly relates to Agile principles such as customer advocacy and collaboration. However, it primarily focuses on specific tools and roles rather than the foundational values and principles of Agile. The mention of Agile concepts is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -397,12 +442,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T04:01:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner, including responsibilities, skills, and the importance of various stances in product ownership, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner, highlighting their responsibilities, the importance of balancing customer advocacy with innovation, and the need for effective stakeholder engagement. It delves into various stances a Product Owner should adopt, such as being a visionary and a decision-maker, which aligns well with the key topics of the category. The depth of discussion is substantial, providing insights into the challenges faced by Product Owners and strategies to overcome them, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -433,12 +481,15 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and the importance of understanding customer needs, which relates to product validation. However, it primarily focuses on the APSPOA course and leadership rather than direct methodologies for validating product ideas through user engagement.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the APSPOA course and its role in helping leaders determine product direction, which is somewhat related to product validation. However, it primarily focuses on the tools and roles of product owners rather than directly addressing methodologies for validating product ideas through user engagement. The mention of 'Experimenter' as a role does touch on iterative innovation, but the overall discussion lacks depth in user testing, market fit, or customer feedback loops, which are core themes of product validation.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -458,22 +509,16 @@
     "reasoning": "Content primarily discusses the APSPOA course and its relevance to product ownership and leadership in Agile, with no focus on revenue per employee metrics or related financial efficiency discussions.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T04:01:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product owners and leaders in Agile, rather than focusing on software developers and their practices within Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:01:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the APSPOA course and its role in product ownership and leadership within Agile, without any direct reference to Test First Development principles or practices. While it touches on Agile methodologies, it does not address success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,29 +577,26 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T04:01:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T13:00:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners, with no clear focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T04:01:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, without a focus on scaling Agile practices across multiple teams or enterprise-level initiatives.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in enhancing product ownership and leadership skills. There are no direct mentions of Lead Time or its significance as an observability metric. While it discusses aspects of Agile and product direction, it does not align with the core themes of Lead Time, such as measuring efficiency or optimising workflows. The discussion lacks depth regarding Lead Time, making it clear that this category is not a primary focus of the content.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T04:01:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical tools and techniques for product owners in the context of Agile, particularly through the APSPOA course. It highlights the importance of adaptability and real-world application of Agile principles, making it a significant theme, though not the sole focus.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of product owners in Agile environments, highlighting practical strategies for decision-making and collaboration. It touches on the importance of balancing customer advocacy with innovation and the need for product owners to make decisions, even in uncertainty. However, while it aligns with pragmatic thinking, the discussion lacks depth in specific problem-solving techniques and real-world applications, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -565,15 +607,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, with no focus on deployment frequency or related practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T04:01:47",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, which aligns with agile principles and practices, particularly in the context of product direction and leadership in agile environments.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -586,48 +619,57 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of leaders and product owners in determining product direction within an Agile context, touching on Agile principles and the importance of continuous improvement. However, it primarily focuses on the APSPOA course and specific roles rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of leaders and product owners in determining product direction, which aligns with Agile principles. It mentions the APSPOA course and its tools, indicating a focus on leadership and product ownership within an Agile context. However, while it touches on Agile methodologies, the primary focus is on the course and its benefits rather than a comprehensive Agile strategy. The depth of discussion on strategic alignment and adaptability is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:01:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners in Agile, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in product ownership and Agile leadership, with no direct discussion of Continuous Delivery principles or practices. While it touches on Agile concepts, it does not explore Continuous Delivery's core themes such as automation, incremental improvements, or rapid feedback, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T04:01:57",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, without a clear focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T04:01:58",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, without addressing the criteria for backlog item readiness or the Definition of Ready.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of leaders and product owners in determining product direction, which involves elements of sensemaking. However, the primary focus is on the APSPOA course and its tools rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of leaders and product owners in determining product direction, which touches on decision-making processes. However, it primarily focuses on the APSPOA course and its tools rather than exploring the broader principles of sensemaking in complex environments. While there are mentions of understanding gaps and roles, the depth of discussion on sensemaking frameworks or techniques is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -647,30 +689,12 @@
     "reasoning": "Content primarily discusses the APSPOA course and its relevance to product ownership rather than focusing on team performance or collaboration within agile teams.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T04:02:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the APSPOA course and its relevance to product ownership and Agile methodologies, without any mention or focus on AI.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T04:02:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the APSPOA course and the role of product owners in Agile environments, with no focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-12T04:02:11",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, with no clear focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -694,12 +718,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the APSPOA course and its relevance to product ownership within Agile frameworks, highlighting the roles and responsibilities of product owners, which is a significant aspect of Agile transformation. However, it primarily focuses on the course and product direction rather than broader Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the APSPOA course and its relevance to product ownership within an Agile context. While it mentions Agile principles and roles, such as the product owner and their responsibilities, the primary focus is on the course itself rather than a comprehensive discussion of Agile transformation strategies or methodologies. The content does touch on aspects of Agile leadership and the importance of evolving practices, but it lacks a deeper exploration of Agile transformation as a whole, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -712,21 +739,21 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T04:02:18",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:21",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses the APSPOA course and its relevance to product ownership and leadership in an Agile context, rather than focusing on broader organisational change strategies or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -737,31 +764,25 @@
     "reasoning": "Content primarily discusses Agile leadership and the role of product owners, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T04:02:22",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of product owners within the Scrum framework and highlights tools and techniques for product direction, making Scrum a significant theme. However, it also focuses on the APSPOA course and broader Agile leadership concepts, which slightly detracts from its primary focus on Scrum product development.",
-    "level": "Secondary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T04:02:24",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, without a clear focus on operational efficiency or practices within Agile, DevOps, or Lean frameworks.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:02:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners in Agile, without a focus on empirical evidence or evidence-based management principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the APSPOA course and its role in enhancing product ownership and leadership, but it lacks a direct focus on Evidence-Based Management principles. While it touches on the importance of understanding gaps in current approaches and the need for data-informed decision-making, it does not provide empirical evidence or metrics that are central to EBM. The discussion is more about Agile practices and roles rather than a strategic approach grounded in evidence-based decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,30 +794,24 @@
     "reasoning": "Content primarily discusses the role of product owners and leadership in determining product direction, without a focus on backlog refinement practices or techniques.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T04:02:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the APSPOA course and the role of product owners, without a clear focus on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T04:02:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Product Owners and the APSPOA course, with minimal focus on the Scrum Master role.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner and the APSPOA course, with only brief mentions of Scrum and Agile principles. While it touches on leadership and team alignment, it does not delve into the specific responsibilities or impact of the Scrum Master role, which is the primary focus of the category. The discussion lacks depth regarding Scrum Master techniques, influence on team dynamics, or distinctions from other roles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T04:02:30",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, focusing on individual Agile practices rather than large-scale Agile principles or frameworks.",
     "level": "Ignored"
   },
@@ -811,20 +826,26 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of leaders in determining product direction and the importance of product ownership, which aligns with aspects of technical leadership. However, it primarily focuses on the APSPOA course and product owner roles rather than broader technical leadership principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of leaders in determining product direction and highlights the importance of various stances of product ownership. However, it primarily focuses on the APSPOA course and its tools rather than delving deeply into the principles of technical leadership or agile methodologies. While there are mentions of leadership and product ownership, the discussion lacks depth in terms of technical leadership strategies, mentoring, or agile practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and the importance of understanding customer needs, which aligns with product discovery. However, it primarily focuses on the APSPOA course and its tools rather than in-depth methodologies for product discovery.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of product owners and the APSPOA course in shaping product direction, which touches on aspects of product discovery. However, it primarily focuses on leadership and the tools provided by the course rather than directly exploring methodologies for identifying customer needs or defining product features. While there are mentions of customer advocacy and innovation, the depth of discussion on product discovery techniques is limited.",
     "level": "Tertiary"
   },
   "Lean Startup": {
@@ -838,12 +859,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and tools for determining product direction within an Agile context, which aligns with Agile Planning principles. However, it primarily focuses on the APSPOA course and product ownership rather than Agile Planning methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of product owners and the APSPOA course, which indirectly relates to Agile Planning principles. It mentions tools and techniques for product direction, aligning with Agile methodologies, but lacks a direct focus on Agile Planning practices such as sprints or backlogs. The depth of discussion on product ownership roles provides some insight into Agile principles, but it does not fully explore the core themes of Agile Planning.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -854,7 +878,7 @@
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, without a clear focus on accountability or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T04:02:40",
     "ai_confidence": 0,
@@ -865,10 +889,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-12T04:02:41",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners, with no clear focus on collaboration tools or their impact on Agile team dynamics.",
     "level": "Ignored"
   },
@@ -883,20 +907,23 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-12T04:02:44",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and leadership in Agile methodologies, with no focus on deployment strategies or practices.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner, which is a key role within a Scrum Team, and touches on collaboration and leadership aspects relevant to Scrum. However, it primarily focuses on the APSPOA course and product direction rather than the broader dynamics of a Scrum Team.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key role within a Scrum Team, but it primarily focuses on the APSPOA course and the various stances of product ownership rather than the dynamics and collaboration within a Scrum Team. While there are mentions of roles and responsibilities, the depth of discussion on team collaboration and dynamics is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -919,10 +946,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-12T04:02:49",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile leadership and the role of product owners, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -937,12 +964,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and leadership within an Agile context, touching on Agile principles and the importance of adaptability and continuous improvement, but primarily focuses on the APSPOA course and specific roles rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the APSPOA course and its role in helping leaders determine product direction, which is somewhat related to Agile principles. However, it primarily focuses on specific tools and roles within the Agile framework rather than the broader Agile philosophy itself. While there are mentions of Agile concepts, the depth of discussion on the foundational principles and values of Agile is limited.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -955,19 +985,19 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T04:02:55",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners rather than focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-12T04:02:56",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, with no focus on Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
@@ -982,48 +1012,60 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-12T04:02:59",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the APSPOA course and its role in shaping product ownership and leadership, without a clear focus on market share strategies or methodologies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of leaders in determining product direction and the importance of product ownership, which relates to strategic goals. However, it primarily focuses on the APSPOA course and the roles of product owners rather than explicitly defining long-term strategic objectives.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of leaders and product owners in determining product direction, which touches on strategic decision-making. However, it primarily focuses on the APSPOA course and the roles of product owners rather than articulating long-term strategic goals or aligning them with agile principles. The discussion lacks depth in exploring how these roles contribute to broader organisational strategies or business agility.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the APSPOA course and its role in helping product owners improve their skills and adapt their approaches, which aligns with the theme of continuous learning. However, the primary focus is on the course's tools and techniques rather than a broader discussion on continuous learning principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the APSPOA course and its role in helping product owners develop their skills and adapt their approaches, which aligns with the principles of Continuous Learning. It mentions the importance of evaluating and improving skills, which reflects a growth mindset. However, the primary focus is on the course and product ownership rather than a broader discussion on Continuous Learning practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses decision-making in the context of product ownership and leadership, highlighting the importance of making informed choices and the roles of product owners. However, the primary focus is on Agile methodologies and the APSPOA course rather than a deep exploration of decision theory itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of product owners in decision-making and highlights the importance of making decisions in uncertain environments. However, it primarily focuses on Agile methodologies and the APSPOA course rather than a comprehensive exploration of decision theory principles. While there are mentions of decision-making and the importance of being decisive, the depth of discussion on decision theory concepts such as heuristics, biases, or frameworks is limited.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of leaders and product owners in determining product direction, which touches on aspects of agility and leadership. However, it primarily focuses on the APSPOA course and individual roles rather than broader organisational agility practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and the role of product owners, which is more aligned with team-level agile practices rather than enterprise-level agility. While it touches on leadership and the importance of adaptability, it lacks a broader organisational context and does not discuss frameworks, structures, or metrics related to enterprise agility. The discussion is more about individual roles and tools rather than the overall agility of the organisation.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1034,31 +1076,13 @@
     "reasoning": "Content primarily discusses Agile methodologies and the APSPOA course, with no clear focus on Lean principles or practices.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T03:59:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners in Agile environments, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T03:59:34",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, with no focus on installation or configuration of tools or software.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T03:59:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile leadership and the APSPOA course, with no focus on software code quality or complexity theory.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,41 +1094,29 @@
     "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners, without a focus on optimising work throughput or flow efficiency principles.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T03:59:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners in Agile, without any mention of AI or automation technologies.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and the APSPOA course in shaping product direction, which relates to product delivery. However, it primarily focuses on the development of leadership skills rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of product owners and the APSPOA course in shaping product direction, which aligns with product delivery principles. It mentions methodologies like Agile and highlights the importance of various roles in product ownership. However, while it touches on relevant topics, the focus is more on the course and its benefits rather than a comprehensive exploration of product delivery methodologies and practices.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T03:59:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in Agile frameworks, particularly in relation to the APSPOA course and its tools for shaping product direction, which aligns closely with Agile Product Management principles.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of the Product Owner in Agile frameworks, particularly focusing on the various stances a Product Owner should adopt. It touches on the importance of balancing customer advocacy with innovation and collaboration, which aligns with Agile principles. However, while it mentions Agile and Scrum, the discussion lacks depth in terms of specific Agile methodologies and practices, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the APSPOA course and its role in helping product owners develop skills and tools for effective product direction, touching on themes of learning and innovation. However, the primary focus is on the course and its benefits rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1122,33 +1134,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the APSPOA course and its relevance to product ownership and Agile leadership, without a clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T03:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the APSPOA course and the roles of product owners without a focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the APSPOA course and its tools for product owners, which aligns with practical techniques in Agile. However, the primary focus is on the roles and responsibilities of product owners rather than specific tooling or methodologies.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T03:59:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the APSPOA course and its relevance to product ownership, without reference to specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1171,11 +1156,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T03:59:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and the role of product owners, with no clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and the role of product ownership rather than discussing DevOps principles or practices. While there are mentions of collaboration and continuous improvement, these are framed within the context of Agile and product leadership, which do not align with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,22 +1175,16 @@
     "reasoning": "Content primarily discusses the APSPOA course and product ownership in an Agile context, with no mention of Azure DevOps or its functionalities.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T03:59:55",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the APSPOA course and its relevance to product ownership and leadership in Agile methodologies, making it a significant theme. However, it also includes broader discussions about product ownership roles and Agile practices, which slightly dilutes the focus on specific products or literature.",
-    "level": "Secondary"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and leadership in determining product direction, which relates to business agility principles. However, the primary focus is on the APSPOA course and its tools rather than a comprehensive exploration of business agility itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of product owners and leadership in determining product direction, which touches on aspects of business agility. However, it primarily focuses on the APSPOA course and product ownership rather than the broader principles and practices of business agility. While there are mentions of innovation and adaptability, the depth of discussion does not fully align with the core themes of business agility, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1216,12 +1198,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners and the APSPOA course in shaping product direction, which relates to delivering value to customers. However, the primary focus is on the course and its tools rather than on specific value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of product owners and the APSPOA course in shaping product direction, which touches on aspects of value delivery. However, it primarily focuses on the responsibilities and development of product owners rather than directly addressing strategies for delivering value to customers. While there are mentions of customer advocacy and iterative innovation, the depth of discussion on value delivery principles is limited.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,55 +1219,46 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of product owners and leadership in determining product direction, which relates to organisational agility. However, it primarily focuses on the APSPOA course and specific roles rather than broader strategies or frameworks for enhancing organisational agility.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of leaders and product owners in determining product direction, which aligns with the principles of agility. It mentions tools and techniques that can enhance adaptability and responsiveness, particularly in the context of product ownership. However, the focus is more on the APSPOA course and its benefits rather than a broader discussion on organisational agility as a whole. The depth of discussion on agile principles is moderate, but it lacks comprehensive exploration of cultural shifts or organisational structures that support agility.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal insights and reflections on the APSPOA course and its impact on product ownership, but it primarily focuses on the course's content and tools rather than personal experiences or anecdotes.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T04:00:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of leaders and product owners in determining product direction, emphasising the importance of collaboration, leadership, and the human factors involved in Agile methodologies.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the APSPOA course and its relevance to product ownership, but it primarily focuses on the course's tools and techniques rather than personal experiences or reflections. While there are some personal insights about the roles of product owners, the overall emphasis is on the course content and its application, which does not fully align with the Personal category's focus on individual anecdotes or subjective interpretations.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of product owners and leaders in shaping product direction, which touches on the interplay between social roles and technical practices in Agile environments. However, the primary focus is on the APSPOA course and its tools rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T04:00:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the APSPOA course and its relevance to product ownership, lacking a focus on industry news or reviews.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of product owners and leadership in determining product direction, which touches on the social aspects of team dynamics and leadership. However, it primarily focuses on the APSPOA course and its tools rather than a comprehensive exploration of sociotechnical systems. The relationship between organisational culture and technology adoption is not explicitly addressed, and while there are mentions of collaboration and team roles, the depth of discussion on sociotechnical interactions is limited.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T04:00:10",
+    "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of product owners and the APSPOA course, without a focus on metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -1315,20 +1291,26 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:25:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of product owners within Agile frameworks, including tools and techniques from the APSPOA course, which aligns with Agile practices and the importance of collaboration and continuous improvement.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of product owners and leadership in Agile environments, touching on collaboration and decision-making. However, it primarily focuses on the APSPOA course and its tools rather than a broader discussion of social technologies or frameworks that promote collaboration and value delivery. While there are mentions of collaboration and leadership, the depth of discussion on social technologies is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T08:26:00",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of leaders in determining product direction and the importance of leadership skills in product ownership, making leadership a central theme.",
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of product owners as leaders, highlighting the importance of decision-making, collaboration, and innovation in product direction. It aligns well with leadership themes in Agile, particularly in fostering an environment for effective product ownership. However, while it touches on leadership aspects, it primarily focuses on the product owner's role rather than broader leadership practices, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -1340,31 +1322,16 @@
     "reasoning": "Content primarily discusses the APSPOA course and product ownership roles within an Agile framework, without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:26:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the APSPOA course and its relevance to product ownership, without focusing on the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:26:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner within the Scrum framework, including the importance of leadership in product direction and the tools provided by the APSPOA course, which aligns closely with Scrum principles.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:26:08",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of product owners and the APSPOA course, which aligns with product-centric development and leadership in an Agile context. However, it primarily focuses on the course and its tools rather than a comprehensive discussion of the Agile Product Operating Model itself.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the APSPOA course, which focuses on enhancing product ownership and leadership in an Agile context. It aligns well with the Agile Product Operating Model by addressing the transition from project to product leadership and the roles of product owners. However, while it touches on key themes, it does not delve deeply into the broader principles of the Agile Product Operating Model, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Platform Engineering": {
@@ -1375,5 +1342,432 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile leadership and the role of product owners, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:02:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile methodologies and the role of product owners, with no clear focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:02:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile leadership and the APSPOA course, with no clear focus on Artificial Intelligence or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key role in the Scrum framework. It touches on the responsibilities and challenges faced by Product Owners, aligning with Scrum principles. However, the discussion lacks depth in terms of Scrum events and artifacts, and it does not explicitly mention the Scrum framework or its events, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of product owners and the APSPOA course in shaping product direction, with no explicit mention of the Shift-Left Strategy or its principles. While there are elements of Agile and product ownership that could tangentially relate to early integration of processes, the focus is not on integrating testing, security, or compliance earlier in the development lifecycle, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the APSPOA course and its role in enhancing product ownership and leadership skills, which indirectly relates to Continuous Improvement through the emphasis on iterative learning and adapting roles. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence or specific strategies for integrating these practices into organisational processes.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the APSPOA course and its role in helping leaders determine product direction, which indirectly relates to aligning team efforts with strategic goals. However, it primarily focuses on the tools and roles of product ownership rather than explicitly addressing Common Goals within Agile and DevOps frameworks. The mention of alignment is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the APSPOA course and its role in enhancing the skills and capabilities of product owners, which aligns with the concept of competence. It mentions the importance of understanding gaps in skills and the continuous journey of improvement, reflecting the need for ongoing development. However, while competence is a theme, it is not the primary focus, as the content primarily centres on the course and its tools rather than a broader discussion on competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:14:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in product ownership within Agile frameworks, without discussing the One Engineering System or its principles. While it touches on leadership and product direction, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or standardisation in software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of product owners and the APSPOA course, which touches on aspects of leadership and decision-making. However, it lacks a direct focus on the principles of Agentic Agility, such as intentional shaping of outcomes and the distinction between human and AI capabilities. The discussion is more about Agile practices and tools rather than a deep exploration of agency and intentionality.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:59:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in enhancing product ownership and leadership within an Agile framework. It discusses the importance of product direction, the roles of product owners, and the iterative nature of product development, which aligns well with the core themes of the Product Development category. The mention of tools and techniques for product owners indicates a strong connection to methodologies that facilitate product delivery. However, while the content is rich in insights, it does not delve deeply into specific Agile principles or practices, which slightly lowers the depth score. Overall, the content is highly relevant to product development discussions.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T13:00:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and the role of product owners in Agile environments, without any direct mention or discussion of Open Space Agile principles or practices. While it touches on themes of leadership and collaboration, it does not align with the core concepts of Open Space Agile, such as psychological safety, co-creation, or iterative dialogue. The depth of discussion is limited to the course's tools and roles, lacking any exploration of Open Space Technology or its application in Agile contexts.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T13:00:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in enhancing product ownership and leadership within Agile frameworks. While it touches on collaboration and decision-making, it does not explicitly mention or discuss Liberating Structures or their specific techniques. The discussion is more centred on Agile principles and product ownership rather than the facilitation techniques that characterise Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T13:00:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the APSPOA course and its role in helping leaders determine product direction, which indirectly relates to the concept of Current Value by emphasising the importance of understanding customer needs and product ownership. However, it lacks a direct focus on Current Value metrics, techniques for gathering data, or its role in decision-making. The discussion is more about the course's benefits rather than a real-time assessment of value delivered, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T13:00:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in enhancing product ownership and leadership skills. While it touches on the importance of product direction and the roles of product owners, it does not explicitly discuss Time to Market or related metrics. The discussion lacks depth in terms of strategies for improving Time to Market or its impact on customer satisfaction, which are key aspects of the category. Overall, the content is more about product leadership than the efficiency of delivering value quickly.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T13:00:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in enhancing product ownership and leadership within Agile frameworks. While it touches on Agile principles, it does not explicitly discuss Agnostic Agile or its core themes, such as ethical, context-driven agility or the importance of adapting methods based on specific project needs. The discussion is more centred on the mechanics of the APSPOA course and the roles of product owners rather than a broader exploration of Agnostic Agile principles.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T13:00:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Agile leadership and the APSPOA course, discussing product ownership roles and tools rather than the principles of Cell Structure Design. There are no direct mentions of cells, decentralisation, or the Beta Codex, and the discussion does not align with the core themes of the category. The content lacks depth in relation to Cell Structure Design, making it largely irrelevant to the classification.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T13:00:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in enhancing product ownership and leadership within Agile frameworks. While it touches on concepts relevant to leadership and product direction, it does not explicitly discuss the organisation as a product or the principles of CaaP. The mention of product ownership roles and the importance of customer advocacy aligns somewhat with CaaP themes, but the depth of discussion is limited to the course's tools and techniques rather than a broader organisational strategy. Therefore, the confidence score reflects a low alignment with the CaaP category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T13:00:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the APSPOA course and its role in helping leaders determine product direction, which touches on the concept of unrealised value in terms of identifying gaps and potential improvements in product ownership. However, the primary focus is on the course's tools and techniques rather than a deep exploration of unrealised value itself. While there are mentions of innovation and bridging gaps, the discussion lacks specific indicators or strategies for measuring unrealised value, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T13:00:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the APSPOA course and its relevance to Agile leadership and product ownership, with no direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not align with GitHub's specific tools or practices, nor does it provide any depth regarding GitHub services or methodologies. Therefore, the confidence score is very low, reflecting a lack of relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T13:00:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its relevance to product ownership within an Agile context. While it mentions project management in the hashtags and discusses aspects of leadership and product direction, it does not delve deeply into core project management principles, methodologies, or lifecycle phases. The discussion is more centred on the role of product owners rather than broader project management strategies, which limits its alignment with the category. Therefore, while there are relevant elements, the overall focus is more on Agile practices than comprehensive project management.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T13:00:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its benefits for product owners and leaders in an Agile context. While it discusses Agile roles and tools, it does not critically examine the integration of traditional project management methodologies with Agile practices, nor does it address the challenges or pitfalls of Hybrid Agile. The mention of Agile principles is superficial and lacks depth in exploring the complexities of Hybrid Agile environments.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T13:00:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the APSPOA course and its role in enhancing product ownership and leadership skills. While it touches on aspects of Agile leadership, it does not explicitly discuss scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The mention of product direction and the roles of product owners is relevant to Agile practices but does not align with the specific themes of scaling as defined in the category. Overall, the content lacks depth in discussing scaling strategies or frameworks, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 67.0,
+    "ai_mentions": 14,
+    "ai_alignment": 24,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content discusses principles related to product ownership and leadership in Agile, but it primarily focuses on the tools and techniques provided by the APSPOA course rather than the foundational principles that guide decision-making. While it mentions roles and responsibilities that can be seen as principles, it doesn't deeply engage with principles such as self-management or continuous improvement. Therefore, while there is good alignment with Agile practices, the focus is more on practical application than principle-based discussion, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 68.0,
+    "ai_mentions": 2,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content explicitly discusses tools related to the APSPOA course that assist product owners in determining product direction, fitting the definition of tools as mechanisms to support Agile practices. However, the primary focus is on roles and methodologies rather than deeply exploring specific tool functionalities. This results in a moderate confidence score, as while tools are mentioned and their importance recognized, the depth of discussion on their application in the Agile framework could be enhanced.",
+    "level": "Secondary"
+  },
+  "Values": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 37.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content focuses on how an APSPOA course helps leaders in determining product direction, primarily discussing roles and techniques rather than core values. While it touches on some themes of leadership qualities that may align with values such as collaboration and decisiveness, it lacks a direct and thorough discussion about the values themselves that shape decision-making and team dynamics in Agile contexts. The main focus remains on practical tools and roles instead of emphasizing foundational beliefs guiding behavior.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content discusses the APSPOA course and its tools for product direction but primarily focuses on practical aspects and specific roles of product ownership within Agile. While it touches on the importance of leadership in product direction, it lacks a deep exploration of the philosophical underpinnings of Agile methodology or how these influence decision-making and team dynamics, therefore it does not align closely with the category of Philosophy.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 47.0,
+    "ai_mentions": 13,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the APSPO-A course aimed at enhancing product direction and Agile leadership. It mentions the roles and stances of product ownership, aligning with principles of Agile as a discipline. However, it largely focuses on tools and techniques rather than delving deeply into the systemic application and maturation of these concepts. The mention of Agile practices reflects some alignment with the category of Discipline but lacks depth in discussing governance structures or continuous improvement as core components of a discipline, hence a medium confidence score.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the roles and tools for product owners in Agile rather than focusing on specific artifacts such as Product Backlogs or Increment definitions. While it mentions the APSPOA course and its relevance to product direction, the exploration of artifacts as tangible constructs tied to Agile practices is minimal. The content does not delve into artifact management, transparency, or evidence-based decision-making directly related to artifacts, which heavily limits its alignment with the category. Overall, the mention of artifacts is very secondary and does not meet the criteria for a stronger classification.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and the APSPOA course for product owners, discussing their roles and responsibilities rather than observability in software systems. There are no direct mentions of observability concepts such as metrics, logs, or traces, nor does it delve into the tools and practices that enhance observability. The alignment with observability themes is minimal, and the discussion lacks depth in this area, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the APSPOA course and its tools for product owners, focusing on leadership and product direction rather than actionable practices that improve team effectiveness or continuous improvement. While there are some relevant concepts related to Agile practices, the core focus is on the course and leadership roles rather than specific, repeatable practices. Thus, it does not align closely with the 'Practice' category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 45.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content mentions the APSPOA course and discusses various roles and stances that product owners can adopt, which relates to methods in Agile. However, it primarily focuses on the evolution of product ownership and individual capabilities rather than detailing structured, step-by-step procedures within specific methodologies. The actual methods of Agile are tangentially referenced but not explored in a procedural context, leading to a low confidence score for alignment with the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 22.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content discusses product ownership and the APSPOA course, which indirectly relates to frameworks for enhancing decision-making in Agile contexts. Although it touches on roles and tools for product ownership, it lacks a clear focus on conceptual models or frameworks and does not provide in-depth analysis or direct mention of relevant models such as the Cynefin Framework or Lean principles. Thus, the confidence score is low.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses a specific Agile course related to product ownership and leadership but does not provide a structured discussion of frameworks in detail as per the category definition. While there is a mention of Agile principles and the importance of product ownership, the primary focus is on course effectiveness rather than on the frameworks themselves. The depth concerning broader implementation strategies or comparisons between frameworks is inadequate, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:40:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 4,
+    "ai_alignment": 28,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the APSPOA course and its goals in aiding product owners, touching on specific roles and strategies related to product ownership in an Agile context. However, while it mentions relevant concepts like 'customer advocate' and 'innovator,' it lacks a clear focus on prescriptive tenets or actionable guidelines that align directly with the established tenets of Agile or other methodologies. The mention of roles is informative but does not translate into specific, actionable tenets that guide decision-making or behavior, limiting its alignment with the category 'Tenet.'",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "nTxn_izPBFQ",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:40:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the APSPOA course which focuses on enhancing capabilities for product owners and leaders. It mentions critical product ownership roles and how the course helps bridge gaps in capabilities. However, the primary focus is on tools and roles rather than the enduring competencies themselves, which diminishes alignment with the Capability category. There is some detailed discussion on how the course impacts leadership skills, but it does not delve deeply into how these capabilities are integrated into organizational processes or culture.",
+    "level": "Secondary"
   }
 }

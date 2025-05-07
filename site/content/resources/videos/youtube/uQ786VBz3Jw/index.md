@@ -2,36 +2,41 @@
 title: 'Mastering Sprint Planning: Key Principles for Agile Success'
 description: Master Sprint planning with top tips on understanding your product backlog and establishing clear goals. Boost team collaboration and achieve success!
 date: 2023-05-26T14:00:37Z
+weight: 665
 ResourceId: uQ786VBz3Jw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uQ786VBz3Jw
 url: /resources/videos/:slug
-slug: what-is-your-1-tip-for-effective-sprint-planning-
+slug: mastering-sprint-planning-key-principles-for-agile-success
 layout: video
 aliases:
-- /resources/videos/uQ786VBz3Jw
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
-- /resources/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/uQ786VBz3Jw
-aliasesFor404:
+- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
+aliasesArchive:
+- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
 - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/what-is-your-1-tip-for-effective-sprint-planning-
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
+- mastering-sprint-planning-key-principles-for-agile-success
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: false
 tags:
-- Transparency
-- Agile Planning Tools
-- Transparency and Accountability
-- Agile Product Management
-- People and Process
-- Product Owner
 - Agile Planning
-- Team Collaboration
+- Agile Planning Tools
+- Agile Product Management
+- Professional Scrum
+- Software Development
+- Product Delivery
+- Common Goals
 - Agile Frameworks
-- Agile Transformation
+- Pragmatic Thinking
+- Team Collaboration
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,13 +45,13 @@ resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 - Product Management
-- Social Technologies
 
 ---
 When it comes to effective Sprint planning, I’ve learned that there are a couple of key principles that can make all the difference. Drawing from my experiences, I want to share my top tips to help you and your team navigate this crucial phase of the Agile process.
 
-### Understand the Product Backlog
+### Understand the [Product Backlog]({{< ref "/tags/product-backlog" >}})
 
 First and foremost, it’s essential that everyone on your team has a solid understanding of what’s in the product backlog. This isn’t just a nice-to-have; it’s the foundation of effective Sprint planning. Here’s why:
 
@@ -78,4 +83,4 @@ To summarise, here are the key takeaways for effective Sprint planning:
 
 By adhering to these principles, you’ll be well on your way to building great products and fostering a truly collaborative team environment. 
 
-If you found this post helpful, I encourage you to engage with me. I always welcome comments and discussions about Agile, Scrum, or DevOps. Feel free to book a coffee chat with me through Naked Agility. Let’s keep the conversation going!
+If you found this post helpful, I encourage you to engage with me. I always welcome comments and discussions about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}). Feel free to book a coffee chat with me through Naked Agility. Let’s keep the conversation going!

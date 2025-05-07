@@ -1,65 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T19:03:05",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:03:07",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical techniques and tooling involved in migrating from TF Service to TF Server using the TFS Integration Platform, including configuration details and user mapping.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the migration process between Team Foundation Service and Team Foundation Server, which relates to internal development processes and tools. However, it primarily focuses on the migration specifics rather than broader platform engineering principles or enhancing developer productivity.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the migration process from TF Service to TF Server using the TFS Integration Platform. While it touches on aspects of internal tools and user management, it lacks a direct focus on the principles of Platform Engineering, such as enhancing developer productivity or optimising the application lifecycle. The discussion is more about migration logistics rather than the design and construction of internal platforms, which diminishes its alignment with the category.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:03:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:03:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the migration process from TF Service to TF Server, focusing on user account mapping and compliance issues, rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:03:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no significant emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:03:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the migration process from TF Service to TF Server, focusing on technical details and user account mapping, without any mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no direct mention of Evidence-Based Management principles or metrics. While it discusses compliance and data management, it does not align with the core themes of EBM, such as empirical decision-making or value delivery metrics.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:03:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration and migration process from TF Service to TF Server using the TFS Integration Platform, providing actionable instructions and insights relevant to installation and configuration.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:03:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed guide on migrating from TF Service to TF Server using the TFS Integration Platform, which directly relates to installation and configuration processes. It discusses specific steps for configuring user accounts and mapping identities, which are crucial for successful migration. The content aligns well with the key topics of the category, such as configuration best practices and troubleshooting common issues. However, while it is comprehensive, it could benefit from more explicit step-by-step instructions and troubleshooting tips to enhance its depth further.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -100,30 +64,24 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-15T19:03:21",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with little to no discussion on the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:03:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, without a focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration process between Team Foundation Service and Team Foundation Server, which relates to version control and configuration management, key aspects of DevOps practices. However, it primarily focuses on the technical details of migration rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform. While it touches on compliance and user account management, it lacks a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The mention of compliance could relate to DevOps, but it is not a primary focus. Overall, the content does not align well with the core themes of DevOps, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:03:31",
@@ -160,15 +109,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration process from TF Service to TF Server, focusing on user account mapping and configuration, rather than optimising work throughput or addressing flow efficiency principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses user account mapping and the implications of organisational compliance on data management, which touches on human factors in the migration process. However, the primary focus is on technical migration details rather than a comprehensive exploration of team dynamics or process methodologies.",
-    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:03:37",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, focusing on user account mapping and configuration, without addressing metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,11 +148,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of migrating from TF Service to TF Server, including configuration and user mapping, which relates to engineering practices. However, it primarily focuses on the migration process rather than broader principles of technical excellence.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform. While it discusses specific technical practices related to user account mapping and data migration, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The mention of planning and forethought in migration aligns somewhat with technical excellence, but the overall depth and focus on engineering practices are limited.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -235,12 +178,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration process between TF Service and TF Server, which relates to the delivery of software products. However, it primarily focuses on technical aspects of migration rather than broader product delivery methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the technical aspects of migrating from TF Service to TF Server, focusing on user account mapping and configuration. While it touches on planning and forethought necessary for migration, it lacks a broader discussion on methodologies, practices, or strategies that are central to product delivery. The mention of continuity and user management is relevant but does not sufficiently align with the core themes of product delivery, such as Agile methodologies or deployment strategies.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -253,39 +199,33 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T19:03:46",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:03:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of migrating from TF Service to TF Server using the TFS Integration Platform, without focusing on reviews, analyses, or discussions of products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T19:03:49",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration from Team Foundation Service (TFS) to Team Foundation Server (TF Server), which is related to Azure DevOps services. However, the primary focus is on the migration process rather than broader Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the migration process from Team Foundation Service (TFS) to Team Foundation Server (TFS) using the TFS Integration Platform, which is a part of Azure DevOps. It provides detailed steps and considerations for user account mapping and data migration, aligning well with Azure DevOps functionalities. However, while it focuses on a specific aspect of Azure DevOps, it does not cover broader topics such as CI/CD pipelines or agile project management practices, which slightly lowers the alignment score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -298,29 +238,32 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-15T19:03:52",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, focusing on user account mapping and configuration, without addressing Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T19:03:54",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration process from TF Service to TF Server using the TFS Integration Platform, without focusing on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:03:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform. It does not discuss the Agile Product Operating Model or its principles, nor does it touch on product management practices or agile methodologies. The content is more aligned with traditional project management and technical migration processes, which are outside the scope of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +275,17 @@
     "reasoning": "Content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:03:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial about migrating from TF Service to TF Server, lacking discussions on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the migration process between Team Foundation Service and Team Foundation Server, which relates to application management and governance. However, it primarily focuses on technical migration details rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:04:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the migration process from TF Service to TF Server, focusing on technical aspects and user account mapping, with no clear relation to Scrum principles, roles, or practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the migration process from TF Service to TF Server, which touches on aspects of application lifecycle management, particularly in terms of deployment and maintenance. However, it lacks a comprehensive exploration of the entire application lifecycle, governance, or best practices. The focus is primarily on technical migration details rather than broader ALM principles.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,20 +298,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses migration from TF Service to TF Server and does not relate to the Definition of Done in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the technical process of migrating from TF Service to TF Server and touches upon user account mapping and configuration. However, it focuses more on the migration steps rather than underlying principles, practices, or methodologies related to software craftsmanship.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform. While it discusses specific technical challenges and configurations, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The mention of user account mapping and the technical details of the migration process are relevant but do not deeply engage with the core themes of Technical Mastery, such as clean code, testing practices, or architectural principles.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +328,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on migration from TF Service to TF Server with the TFS Integration Platform, which does not directly discuss principles or practices of Continuous Delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the migration process from TF Service to TF Server using the TFS Integration Platform. While it touches on aspects of software management and data compliance, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of user account mapping and data migration does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or incremental improvements. Overall, the content lacks depth and direct relevance to Continuous Delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,19 +367,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the migration process between TF Service and TF Server, which is not related to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no clear connection to discussions on portfolio management, project alignment, or related themes.",
     "level": "Ignored"
   },
@@ -460,46 +394,49 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform, which does not align with agile planning methodologies or practices.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on migrating data between Team Foundation Service and Team Foundation Server, with no discussion of Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no mention of customer feedback or feedback integration processes.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses migration strategies and configuration considerations for Team Foundation Service to Team Foundation Server, which relates to operational efficiency in DevOps practices. However, the focus is primarily on the migration process rather than general operational practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the technical aspects of migrating from TF Service to TF Server, focusing on user account mapping and configuration. While it touches on operational challenges related to compliance and data management, it lacks a strong emphasis on broader operational practices or methodologies like Agile, DevOps, or Lean. The discussion is more about the migration process itself rather than strategies for enhancing operational efficiency or continuous improvement.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical migration between TF Service and TF Server, without reference to Scrum Team roles, dynamics, or practices.",
     "level": "Ignored"
   },
@@ -559,10 +496,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of migrating from TF Service to TF Server, focusing on user account configuration and compliance issues, without addressing team dynamics, collaboration, or agile methodologies.",
     "level": "Ignored"
   },
@@ -577,37 +514,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration process from TF Service to TF Server and does not mention Acceptance Test Driven Development or related topics.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on the migration process between Team Foundation Service and Team Foundation Server, which involves specific software development practices and techniques related to configuration, user account management, and data handling in software projects.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the migration from TF Service to TF Server and focuses on technical aspects related to data management and user accounts, without clear alignment to Agile Project Management principles or practices.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the migration process from TF Service to TF Server using the TFS Integration Platform, which is a specific software development task. It discusses technical aspects such as user account mapping, source control, and work item tracking, aligning well with software development practices. The depth of discussion is substantial, providing detailed steps and considerations for the migration process, which is crucial for software engineering outcomes.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on migrating systems and user account configurations, not discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +553,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the migration process from TF Service to TF Server, focusing on source control user mappings and configuration, which are relevant to modern source control practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the migration from TF Service to TF Server, which is relevant to source control practices. It mentions user identity mapping in source control and the configuration of the TFS Integration Platform, indicating a focus on version control systems. However, the discussion lacks depth in best practices and methodologies, and while it touches on source control, it does not explore broader themes like branching strategies or code review processes.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the technical aspects and procedures for migrating from TF Service to TF Server, with no clear emphasis on empirical process control or Agile principles.",
     "level": "Ignored"
   },
@@ -658,19 +592,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on migration processes and technical details regarding TFS Integration Platform rather than discussions on collaboration tools or their impact on Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of migrating from Team Foundation Service to Team Foundation Server, focusing on user account mapping and data management rather than organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -694,28 +628,19 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical details of migrating from TF Service to TF Server without addressing customer satisfaction principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content focuses on the migration between Team Foundation Service and Team Foundation Server and does not address any aspects of scaling Scrum principles, practices, or frameworks.",
+    "reasoning": "Content heavily discusses technical details of migrating from TF Service to TF Server without addressing customer satisfaction principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of migrating systems and does not focus on evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -728,23 +653,17 @@
     "reasoning": "Content heavily discusses the technical process of migrating from TF Service to TF Server, with no mention or focus on psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the technical details and processes for migrating from TF Service to TF Server, without discussing agile methodologies or scaling agility at an organizational level.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform, which touches on coding and development practices. However, the focus is more on migration and system configuration rather than broader software craftsmanship or engineering excellence topics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, which is a specific task rather than a broader discussion on engineering excellence. While it touches on some relevant topics like user account mapping and configuration, it lacks a comprehensive exploration of best practices, quality assurance, or continuous improvement in engineering processes. The discussion is more about practical implementation than promoting high standards in software craftsmanship.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,20 +694,23 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical migration from TF Service to TF Server, with no discussion of customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses practical strategies for migrating from TF Service to TF Server using the TFS Integration Platform, detailing user account mapping, configuration, and potential challenges, which aligns with pragmatic thinking in a real-world Agile context.",
+    "reasoning": "The content discusses practical steps for migrating from TF Service to TF Server, which aligns with pragmatic problem-solving in a real-world context. It addresses specific challenges and solutions related to user account mapping and compliance issues, demonstrating adaptability and experience-based decision-making. However, while it touches on relevant themes, the depth of discussion on broader Agile or DevOps principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +724,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the technical details of migrating from TF Service to TF Server and does not address innovation practices or measurement.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses migration processes and technical configurations related to TFS and does not address Scrum practices, roles, or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating data between Team Foundation Service and Team Foundation Server, without any reference to scaling Agile practices or principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +751,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the migration process from TF Service to TF Server with no significant discussion on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -865,28 +769,31 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the migration process between Team Foundation Service and Team Foundation Server, mentioning configurations and considerations that relate to software functionality and user account mapping, but it is largely focused on the migration technicalities rather than working software principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the technical aspects of migrating from TF Service to TF Server, focusing on user account mapping and configuration. While it touches on the operational aspects of software migration, it lacks a direct emphasis on delivering functional software that meets customer needs or quality assurance practices. The discussion is more about the migration process rather than the characteristics or best practices of working software.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration processes related to Team Foundation Service and Team Foundation Server, without a focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on migrating from TF Service to TF Server using the TFS Integration Platform, which does not discuss Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -955,10 +862,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating from TF Service to TF Server, which does not focus on release management practices, strategies, or planning.",
     "level": "Ignored"
   },
@@ -1000,19 +907,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical aspects of migrating from TF Service to TF Server and does not discuss strategies, principles, or practices related to change management.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects and steps of migrating from TF Service to TF Server without focusing on team collaboration, communication, or shared ownership which are central to the category.",
     "level": "Ignored"
   },
@@ -1034,7 +941,7 @@
     "reasoning": "Content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with little to no discussion on the strategic adoption of digital technologies or their impact on business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:05:04",
     "ai_confidence": 0,
@@ -1043,22 +950,16 @@
     "reasoning": "The content primarily discusses the migration process from TF Service to TF Server, focusing on technical configuration and user account mapping, which does not align with the concept of Minimum Viable Product.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about migrating from TF Service to TF Server using the TFS Integration Platform and does not discuss AI within Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration processes involved in migrating from TF Service to TF Server, specifically focusing on user account mapping and system setup. It provides detailed steps on configuring the TFS Integration Platform for this migration, which aligns with system configuration practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the configuration aspects of migrating from TF Service to TF Server, detailing specific steps and considerations for user account mapping and system integration. It discusses the configuration of the TFS Integration Platform, which is directly related to system setup and optimisation. The depth of discussion is substantial, covering both source control and work item tracking configurations, which aligns well with the key topics of system configuration. However, while the content is rich in practical details, it does not delve deeply into broader system optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,21 +1000,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration from TF Service to TF Server using the TFS Integration Platform, with no significant focus on Test First Development practices or principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the migration process from TF Service to TF Server using the TFS Integration Platform, focusing on user account mapping and compliance issues. There is no explicit mention of Test First Development principles, success criteria, or testing practices. The discussion lacks depth in relation to the Test First Development category, making it largely irrelevant to the topic.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses the migration process between TF Service and TF Server, with specific reference to user account configurations, including Windows Live IDs and domain accounts. While it has a significant focus on the migration aspect related to the Team Foundation Services, it mentions the management of user accounts, which indirectly relates to the Windows environment. However, the main topic is more about Team Foundation Server and its integration rather than the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the migration from TF Service to TF Server, which is related to the Windows environment through the use of Microsoft accounts and the TFS Integration Platform. However, while it touches on user accounts and configurations, it does not delve deeply into Windows-specific installation, troubleshooting, or performance optimisation. The primary focus is on the migration process rather than the Windows operating system itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1135,19 +1042,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details and procedures for migrating services rather than any team motivation strategies or practices.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the technical aspects of migrating from TF Service to TF Server, without discussing remote working practices, strategies, or challenges.",
     "level": "Ignored"
   },
@@ -1162,11 +1069,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the migration process from TF Service to TF Server, highlighting specific challenges and configurations needed for successful integration, which aligns closely with troubleshooting technical issues in a migration scenario.",
+    "reasoning": "The content discusses the migration process from TF Service to TF Server, highlighting potential issues such as user account mapping and compliance requirements. While it does touch on troubleshooting aspects, such as the need for planning and the challenges faced during migration, the primary focus is on the migration process itself rather than a systematic approach to diagnosing and resolving technical issues. The discussion lacks depth in troubleshooting methodologies and does not provide specific techniques or tools for problem-solving, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1090,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration processes related to Team Foundation Server and does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no direct mention of the Scrum Master role or its responsibilities. While it touches on user accounts and data management, it does not align with the core themes of Scrum or the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1111,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating data from TF Service to TF Server and does not address working agreements or team collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration from TF Service to TF Server, which involves technical aspects that are relevant to software developers, particularly in the context of teamwork and tool usage. However, it primarily focuses on the migration process rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1252,19 +1156,19 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, focusing on configurations, user account mapping, and compliance, which are not central to product management topics.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server with no focus on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1235,6 @@
     "reasoning": "Content discusses technical migration processes and does not focus on accountability, ownership, or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:05:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the migration process between TF Service and TF Server, with no clear discussion of Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T20:05:04",
@@ -1351,20 +1246,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T20:05:04",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration from TF Service to TF Server using the TFS Integration Platform, and does not address any principles or practices of Test Driven Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:48:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of migrating from TF Service to TF Server, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform. While it touches on user accounts and data management, it does not discuss collaboration, decision-making, or value delivery in a meaningful way. The mention of user accounts is more about technical configuration rather than fostering collaboration or enhancing team dynamics, which are core themes of Social Technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1272,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details and processes related to migrating from TF Service to TF Server, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the migration process from TF Service to TF Server using the TFS Integration Platform, which does not focus on the broader concepts of Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:19:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the migration process from TF Service to TF Server, focusing on technical details and user account mapping, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the technical aspects of migrating from TF Service to TF Server using the TFS Integration Platform. It does not mention Scrum roles, events, or principles, nor does it align with the core themes of Scrum. The focus is on technical migration processes rather than project management methodologies or team dynamics associated with Scrum.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the technical aspects of migrating from TF Service to TF Server, focusing on user account mapping and data management. There are no explicit mentions of integrating testing, security, or compliance earlier in the development process, which are core to the Shift-Left Strategy. The discussion lacks depth in relation to the principles or benefits of the Shift-Left approach, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no explicit discussion on Continuous Improvement principles. While it touches on planning and forethought, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The discussion is more about execution rather than fostering a culture of experimentation or learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on compliance and user mapping, these topics do not connect to the core themes of shared objectives or strategic alignment within teams. The discussion lacks depth regarding the principles of Common Goals, making it a secondary focus at best.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with minimal direct discussion on competence or skill development. While it touches on the need for planning and understanding user mappings, it lacks a deeper exploration of continuous learning or the role of competence in achieving quality outcomes. The mention of planning and forethought suggests some alignment with competence, but it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating from TF Service to TF Server, with no explicit discussion of Agentic Agility or its principles. While there are mentions of compliance and user mapping, these do not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The content lacks depth in exploring the transformative capacity of individuals or systems, and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

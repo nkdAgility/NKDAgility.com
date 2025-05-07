@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T18:59:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experience of a trainer rather than focusing on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Russell's qualifications and teaching style for a PSPO course, with limited direct discussion on social technologies or their principles. While it touches on value maximization and learning experiences, it lacks a strong emphasis on collaboration, decision-making, or frameworks that promote collective intelligence, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -19,21 +22,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:59:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no clear focus on DevOps principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific trainer and his approach to Product Ownership, with no direct mention of DevOps principles or practices. While there are themes of value maximization and collaboration, they are framed within the context of Scrum and Agile methodologies rather than the broader DevOps philosophy. The discussion lacks depth in relation to DevOps concepts such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T18:59:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding the connection between product and value maximisation, which relates to product management principles, but it primarily focuses on the trainer's qualifications rather than strategic product management topics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the role of a trainer in relation to product ownership but lacks a detailed discussion on product management methodologies or frameworks. While it touches on the importance of understanding the connection between product and value, it does not delve into strategic aspects or provide substantial insights into product management practices.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -64,12 +73,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T18:59:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the PSPO course and the trainer's qualifications, which relates to Scrum principles, but it primarily focuses on the trainer's background rather than in-depth Scrum concepts.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the PSPO (Professional Scrum Product Owner) course and highlights the trainer's experience, which relates to the Professional Scrum category. However, it lacks a detailed exploration of Scrum principles, roles, or practices, focusing instead on personal opinions about the trainer's capabilities. The discussion does not delve into the core themes of Scrum, such as the framework, artifacts, or values, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -82,29 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:59:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the trainer's qualifications and personal experiences rather than discussing Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T18:59:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no focus on software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T18:59:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experience of a trainer for a PSPO course, with no mention of Kanban principles or scaling practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a PSPO trainer and his personal experiences, with minimal reference to evidence-based management principles. While there are mentions of value maximization and practical insights, these are not grounded in empirical evidence or metrics related to EBM. The discussion lacks depth in terms of data-informed decision-making or the specific key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -136,10 +133,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T18:59:53",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experience of a trainer rather than the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +147,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experiences of a trainer rather than analysing trends in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T18:59:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on an individual trainer's qualifications and experiences rather than discussing Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -226,20 +214,11 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T19:00:06",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the trainer's qualifications and experience rather than on methodologies or practices related to product delivery.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T19:00:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -251,15 +230,6 @@
     "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no clear focus on digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T19:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of Russell's experience and understanding of the connection between product and work processes, which relates to the human factors in training and collaboration. However, it primarily focuses on Russell as an individual rather than broader team dynamics or methodologies.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T19:00:15",
@@ -267,15 +237,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the qualifications and experiences of a trainer, with no mention of Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T19:00:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the trainer's qualifications and experience rather than discussing Agile principles or methodologies.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -296,15 +257,6 @@
     "reasoning": "Content primarily focuses on Russell's qualifications and experience as a trainer, rather than discussing accountability within Agile teams.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T19:00:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualifications and experience of a trainer, lacking a focus on transparency and accountability principles within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T19:00:21",
@@ -312,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the qualifications of a trainer and does not discuss release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:00:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -361,11 +304,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:00:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a PSPO trainer, with no direct reference to the Scrum Master role or responsibilities.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Russell as a Professional Scrum Trainer and his expertise in Product Ownership, rather than discussing the role and responsibilities of a Scrum Master. While it mentions Scrum and touches on agile principles, it does not delve into the specific responsibilities or impact of a Scrum Master within a Scrum Team. The discussion is more about training and product ownership than the Scrum Master's role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -379,10 +325,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T19:00:32",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the qualifications and experience of a trainer rather than discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -397,11 +343,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:00:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the qualifications and experiences of a trainer, with no discussion of Test First Development principles or practices.",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and discussing his experience and teaching philosophy. It does not mention Test First Development, its principles, or related practices. The discussion is centred around product ownership and training rather than any testing methodologies or practices.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,10 +409,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T19:00:49",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experiences of a trainer rather than focusing on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -503,59 +452,35 @@
     "reasoning": "Content primarily discusses the qualifications and experience of a trainer rather than the Scrum Values themselves.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T19:00:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the qualifications and experiences of a trainer rather than discussing organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T19:00:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualifications and experience of a trainer rather than practical techniques or tooling related to Agile and DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T19:00:58",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the qualifications and experience of a trainer rather than discussing Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T19:01:00",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experience of a trainer rather than the Product Backlog or its management.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T19:01:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content shares personal experiences and insights regarding Russell's training abilities and the value of his background, but it primarily focuses on his qualifications rather than personal reflections on Agile methodologies.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T19:01:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer rather than specific events or presentations.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content provides a personal endorsement of Russell as a PSPO trainer, sharing individual experiences and insights from attending his classes. However, while it touches on personal reflections, it lacks a deeper exploration of Agile methodologies or personal challenges faced in adopting Scrum or DevOps practices, which limits its alignment with the core themes of the Personal category.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -584,23 +509,17 @@
     "reasoning": "Content primarily focuses on the qualifications of a trainer rather than discussing Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T19:01:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on an individual's qualifications as a trainer rather than discussing scaling agility practices or frameworks.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T19:01:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the trainer's qualifications and experiences, which are relevant to the broader context of business agility but do not directly reference Agile, Scrum, DevOps, or Lean principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the qualifications and experiences of a specific trainer, Russell, in relation to the PSPO course. While it does touch on themes of value and product ownership, it does not reference any specific Agile frameworks or methodologies, making it more aligned with the Miscellaneous category. The discussion is anecdotal and personal, lacking actionable insights or direct connections to established Agile practices.",
+    "level": "Secondary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -613,11 +532,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:01:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Russell's qualifications and teaching style as a Professional Scrum Trainer, with an emphasis on Product Ownership rather than Continuous Delivery. While there are mentions of product development and value maximization, these do not directly address the principles or practices of Continuous Delivery. The discussion lacks depth and specific alignment with the key topics outlined for Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -665,7 +587,7 @@
     "reasoning": "Content focuses on the qualifications of a trainer and does not discuss the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T19:01:19",
     "ai_confidence": 0,
@@ -683,15 +605,6 @@
     "reasoning": "Content discusses a trainer's qualifications and experiences, which is unrelated to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T19:01:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the qualifications and experience of a trainer rather than on discovery and learning processes or methodologies.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T19:01:24",
@@ -703,12 +616,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:01:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the qualifications and experience of a trainer rather than discussing the Agile Product Operating Model or its principles.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Russell as a Professional Scrum Trainer and his approach to teaching Product Ownership. While it touches on aspects of product development and value maximization, it lacks a direct discussion of the Agile Product Operating Model as a framework. The content does not delve into the principles or operational aspects of APOM, making it more of a promotional piece rather than a thorough exploration of the category.",
+    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -775,10 +691,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T19:01:36",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the trainer's qualifications and personal experiences rather than metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -793,10 +709,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T19:01:38",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experience of a trainer rather than Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -807,15 +723,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Russell's qualifications and experience as a trainer rather than focusing on mentoring techniques or the mentoring process itself.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T19:01:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the qualifications and experience of a trainer, with no mention of AI, automation, or Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -865,12 +772,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T19:01:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Russell's effectiveness as a trainer, which relates to coaching, but primarily focuses on his qualifications and experiences rather than coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Russell's experience and effectiveness as a trainer, which aligns with the coaching theme. However, it lacks explicit discussions on coaching techniques, team dynamics, or the collaborative nature of coaching. The focus is more on Russell's credentials rather than on coaching practices or methodologies.",
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -910,21 +820,24 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T19:02:00",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no mention of version control practices or related topics.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T19:02:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of the Product Owner role and the connection between product value and training, but it primarily focuses on the trainer's qualifications rather than Agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions the role of a trainer in a PSPO (Professional Scrum Product Owner) course, which relates to Agile Product Management. However, it lacks detailed discussion on Agile principles, product backlog prioritisation, or stakeholder engagement. The focus is more on the trainer's credentials rather than the methodologies or practices of Agile Product Management.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -937,20 +850,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T19:02:06",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T19:02:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experience of a trainer, with no clear focus on Scaling Scrum principles or practices.",
+    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -962,21 +866,12 @@
     "reasoning": "Content primarily focuses on the qualifications and experiences of a trainer rather than the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T19:02:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the trainer's qualifications and experiences rather than specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T19:02:10",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the qualifications and experiences of a trainer rather than discussing empirical process control principles or practices.",
     "level": "Ignored"
   },
@@ -991,20 +886,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:02:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical experience and effectiveness of a trainer in delivering a PSPO course, highlighting the importance of real-world application and understanding in Agile contexts, but it is primarily focused on the trainer's credentials rather than broader pragmatic thinking strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Russell's practical experience and insights in Product Ownership, which aligns with pragmatic thinking. It highlights real-world applications and value maximization strategies, but lacks a direct focus on Agile, Scrum, or DevOps frameworks. The depth of discussion on practical problem-solving is moderate, primarily showcasing Russell's experience rather than specific techniques or case studies.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T19:02:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:34:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the qualifications and experience of a trainer rather than discussing Lead Time or its related concepts.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on promoting Russell as a Professional Scrum Trainer and discusses his experience and teaching philosophy. It does not mention Lead Time or its importance as an observability metric, nor does it explore any related concepts such as Cycle Time or strategies for optimisation. The discussion is entirely centred on Russell's qualifications and the value of his training, making it irrelevant to the category of Lead Time.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1054,10 +955,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T19:02:22",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the trainer's qualifications and experiences rather than discussing product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -1115,15 +1016,6 @@
     "reasoning": "Content primarily focuses on the qualifications and experience of a specific trainer rather than discussing cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T19:02:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, rather than focusing on software development practices or the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T19:02:34",
@@ -1144,30 +1036,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T19:02:37",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the qualifications and experiences of a trainer rather than on installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T19:02:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the importance of maximising product value and references the Product Owner class, but it primarily focuses on the trainer's qualifications rather than the specific responsibilities or practices of a Product Owner.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T19:02:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal opinions about Russell's qualifications as a trainer, lacking industry news or reviews relevant to Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on Russell's expertise and training in Product Ownership, discussing his philosophy and methods for maximising product value. It explicitly mentions the role of a Product Owner and provides insights into effective practices and strategies relevant to the role. However, while it aligns well with the core themes of the category, the depth of discussion on specific responsibilities and challenges faced by Product Owners could be more comprehensive.",
+    "level": "Primary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1234,47 +1120,44 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T19:02:52",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experience of a trainer rather than methodologies or practices related to product validation.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T19:02:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:34:22",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer rather than focusing on throughput measurement or optimisation.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:02:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the qualifications of a trainer for a PSPO course, with no clear focus on Scrum principles, practices, or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and does not discuss throughput as a delivery metric. There are no direct mentions of throughput, nor does it align with the core themes of defining, calculating, or visualising throughput. The discussion is centred around product ownership and training, lacking any depth related to throughput metrics or analysis.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T19:02:55",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the trainer's qualifications and personal experiences rather than on strategies or methodologies related to value delivery.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T19:02:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:34:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no focus on system configuration topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Russell's qualifications and experiences as a Professional Scrum Trainer, discussing aspects of product ownership and training rather than system configuration. There are no direct mentions of system configuration, and the themes of the content do not align with the core topics outlined for the category. The depth of discussion is also minimal regarding system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,20 +1171,11 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T19:02:59",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experience of a trainer rather than methodologies or practices related to product discovery.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T19:03:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the qualifications of a trainer rather than Scrum principles or product development practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -1315,10 +1189,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T19:03:02",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the qualifications and experiences of a trainer rather than discussing the Definition of Done.",
     "level": "Ignored"
   },
@@ -1374,6 +1248,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the qualifications and experience of a trainer, with no focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:52:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses a trainer's qualifications and experiences related to a PSPO course, with no mention of Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:52:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the role of a Product Owner (PSPO) and touches on the importance of maximising value, which aligns with Scrum principles. However, it lacks detailed discussion on Scrum roles, events, or the framework itself, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:57:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Russell's qualifications and teaching philosophy regarding Product Ownership, with no explicit mention of the Shift-Left Strategy or its principles. While there are references to enhancing product value and learning through case studies, these do not align with the core themes of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth on the Shift-Left approach, making it peripheral to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a PSPO trainer and his qualifications, with little to no direct discussion on Continuous Improvement principles. While it touches on value maximization and learning, these concepts are not explored in the context of Continuous Improvement methodologies or practices. The overall emphasis is on Russell's expertise rather than on systematic processes for ongoing enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a PSPO trainer and his personal experiences, rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on aspects of product ownership, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Russell's expertise and teaching methods, highlighting his experience and the value of his PSPO course. While it mentions competence indirectly through Russell's qualifications and the transformative nature of his training, it does not explicitly focus on continuous learning or skill development as core themes. The depth of discussion is moderate, providing insights into Russell's approach but lacking a thorough exploration of competence as a foundational principle.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Russell's qualifications and teaching style as a Professional Scrum Trainer, discussing his experience and philosophy in product ownership. It does not mention the One Engineering System or its principles, components, or implementation. The discussion is centred around Scrum and product ownership, which are not aligned with the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:38:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a PSPO trainer and does not explicitly discuss Agentic Agility or its principles. While there are mentions of value maximization and product ownership, these concepts are not framed within the context of intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth and does not engage with the core themes of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:33:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Russell's expertise in Product Ownership and his role as a trainer for the PSPO course, which aligns with the principles of product development. It highlights the importance of value maximization, customer-centric strategies, and practical learning experiences, all of which are core themes in product development methodologies. The depth of discussion is significant, providing insights into Russell's approach and the transformative nature of his training. However, while it touches on relevant topics, it primarily focuses on Russell as an individual rather than a broader exploration of product development methodologies, which slightly limits its alignment.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:33:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and does not explicitly mention Open Space Agile or its principles. While it discusses aspects of product ownership and training, it lacks direct references to the core themes of Open Space Agile, such as collective participation, psychological safety, or co-creation. The depth of discussion is centred around Russell's qualifications and teaching style rather than the collaborative change processes associated with Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:33:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and his PSPO course, with little direct mention of Agnostic Agile principles. While it touches on value maximization and practical experience, which align with Agnostic Agile's emphasis on context-driven agility, it lacks a thorough exploration of the category's core themes. The discussion is more about the trainer's qualifications and teaching style rather than the principles of Agnostic Agile or comparisons with other frameworks.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:33:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and discussing his qualifications and teaching philosophy. While it touches on concepts related to product ownership and value maximization, it does not explicitly address scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The discussion lacks depth in terms of scaling strategies or frameworks, and the category of 'Scaling' is not a primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:33:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Russell's qualifications and teaching methods for a Professional Scrum Product Owner (PSPO) course. It does not mention or discuss the principles of Cell Structure Design, the Beta Codex, or any related concepts. While there is a brief mention of value maximization, it is not aligned with the core themes of decentralised organisational structures or autonomous cells. Overall, the content is centred on individual training and product ownership rather than organisational design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:33:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and does not mention Liberating Structures or discuss facilitation techniques. While it touches on themes relevant to Agile and product ownership, it lacks any direct references to the principles or methods of Liberating Structures, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:34:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and his approach to teaching Product Ownership. While it touches on concepts related to value maximization and product development, it does not explicitly discuss Time to Market or its associated metrics, strategies, or impacts. The mention of 'value-driven strategies' is vague and does not provide substantial insight into how these strategies relate to reducing Time to Market. Overall, the content lacks a direct focus on the category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:34:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Russell as a Professional Scrum Trainer and his approach to teaching Product Ownership. While it touches on concepts related to product value and innovation, it does not explicitly discuss the organisation as a product or the principles of CaaP. The content lacks a clear connection to customer-centric strategies or organisational design, which are central to the CaaP framework. Therefore, the confidence score reflects a minimal alignment with the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:34:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific trainer and their approach to teaching Product Ownership, with no direct mention of GitHub or its functionalities. While it discusses concepts related to Agile and Scrum, it does not align with GitHub's core themes or services. The depth of discussion is centred around personal experiences and philosophies rather than GitHub-related practices or tools.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:34:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and his teaching philosophy, with an emphasis on value maximisation in product ownership. While it touches on the importance of increasing inherent value and includes some elements of innovation and learning, it does not explicitly discuss unrealised value or provide insights into untapped opportunities within an organisation. The discussion lacks depth in exploring the concept of unrealised value as defined in Evidence-Based Management, making it a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:34:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Russell's approach to Product Ownership and value maximization, which aligns with the concept of Current Value. However, it primarily focuses on Russell's qualifications and teaching style rather than providing a detailed analysis of Current Value metrics or techniques. While there are mentions of value-driven strategies and maximizing efforts, the discussion lacks depth in terms of specific indicators or real-time assessments of value delivered, which are crucial for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:34:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and does not discuss Hybrid Agile concepts or challenges. There are no direct mentions of Hybrid Agile, nor does it critically examine the integration of traditional and agile methodologies. The content lacks depth in addressing any of the key topics outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:34:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Russell as a Professional Scrum Trainer and his approach to teaching Product Ownership, which is a specific aspect of Agile methodologies. While it touches on concepts relevant to project management, such as value maximization and practical experience, it lacks a broader discussion of project management principles, methodologies, or lifecycle phases. The emphasis is on training and personal experience rather than comprehensive project management strategies or tools.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and does not discuss any conceptual models, frameworks, or representations related to Agile, DevOps, or Lean. There are no explicit mentions of models, and while there is a general emphasis on value maximization and product ownership, these concepts do not align closely with the Model category's specific focus on frameworks or decision-making models.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 22.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 8.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content focuses primarily on Russell as a trainer and his experience in product ownership, without discussing specific artifacts or their roles in Agile methodologies. While the term 'Product Ownership' is mentioned, it does not dive into the structure, purpose, or types of artifacts per the definition provided. Therefore, the relevance to the 'Artifact' category is weak.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 15.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses a PSPO course and a trainer's expertise but does not focus on specific tools or their application in Agile or related frameworks. While the training aspect is somewhat relevant, it does not provide a substantial or detailed exploration of tools, their functionalities, or how they enhance workflows.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 55.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 4,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses Russell's teaching methodology and underlying philosophy related to product ownership, focusing on concepts like 'Value Maximization' which aligns with the category 'Values.' While it touches on the importance of values in the context of product ownership, it primarily leans towards promoting Russell's course rather than a deep discussion of values themselves. There are explicit mentions of value-driven strategies, but the overall focus remains on the courses and Russell's expertise, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 23.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and does not delve into discussions on frameworks themselves. While 'Scrum' is mentioned, it is not a core discussion nor are any structured methodologies outlined. The content lacks depth in terms of discussing Agile frameworks or their implementation, and as such, it does not fully align with the framework category's key topics.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and his philosophy on Product Ownership rather than discussing specific practices or actionable techniques that enhance team performance or collaboration. While it touches on value-maximization and his experiences, it lacks detailed exploration of actionable practices or techniques related to continuous improvement, making it largely a promotional piece rather than a practice-focused discussion.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses Russell's qualifications and experience as a trainer for a PSPO course, focusing on practical teaching methods and personal anecdotes rather than engaging with philosophical concepts. While it briefly mentions a philosophy of 'Value Maximization', this is more about promoting a course rather than a deep exploration of the underlying philosophies of Agile or product ownership. Thus, while some alignment exists, it is not substantial enough to warrant a higher score.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on the individual qualifications and teaching style of Russell as a Professional Scrum Trainer, rather than on the enduring competencies that empower teams and organizations. While it hints at aspects of value maximization and practical learning, these are not framed as foundational capabilities. The discussion lacks explicit references to the concepts of capability development, its role in business agility, or continuous improvement practices, thus falling short of the category's criteria.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions concepts related to Product Ownership and value maximization, but it does not directly discuss specific tenets or actionable guiding rules that align with Agile, Lean, or DevOps methodologies. While there are references to maximizing value and sharing learning experiences, these are more philosophical than prescriptive. The primary focus is on Russell's credentials and the value of his training, rather than on the application of tenets that guide decision-making within an organization.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Russell as a PSPO trainer, focusing on his philosophy and personal experiences rather than detailing specific methods or structured procedures related to Agile or Scrum. While there are mentions of his 'methods' in a general sense, it lacks the depth and clarity required to fit firmly within the 'Method' category, focusing more on Russell's training approach and personal anecdotes.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content is focused on promoting Russell as a Professional Scrum Trainer and discusses Product Ownership principles, but it does not address observability in any form. There are no mentions of metrics, logging, tracing, or any related tools or practices which are essential to the category of Observability. Thus, it does not align with the core themes or provide any depth on the subject.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Russell's methodology and philosophy regarding product ownership, particularly emphasizing 'value maximization' as a guiding principle. This directly aligns with the core themes of the 'Principle' category, as it speaks to actionable principles that influence decision-making and approaches in Agile contexts. However, it largely focuses on Russell as an individual and his reputation rather than detailing the specific principles or frameworks like Agile or Scrum. The principles are mentioned but not explored in depth, reducing the overall score despite the relevant alignment.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Russell's qualifications and philosophy regarding his PSPO course, which is related to Product Ownership and Agile practices. However, it strongly focuses on his personal expertise and the benefits of the course rather than on the structured principles, methodologies, and shared standards that define a discipline. The mention of principles like 'value maximization' shows some alignment, but the depth of discussion is limited and lacks a systemic view of the discipline of Agile. Therefore, while it includes some relevant themes, it does not sufficiently concentrate on the definition and characteristics of a discipline as outlined in the provided category description.",
     "level": "Ignored"
   }
 }

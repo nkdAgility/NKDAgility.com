@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Server configuration and permissions, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:12:04",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical solutions and configurations related to Team Foundation Server, focusing on permissions and user roles, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T18:12:05",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:12:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Team Foundation Server configuration, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:12:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, which is not directly related to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:12:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to permissions in Team Foundation Server, without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:12:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, with no mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, with no direct mention or discussion of Evidence-Based Management principles. It lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery. The depth of discussion is limited to practical solutions for a technical issue, which does not engage with the strategic aspects of EBM.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:12:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration of features in Team Foundation Server 2013, including permissions and solutions for managing access, which aligns closely with installation and configuration processes.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:12:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the configuration of features in Team Foundation Server 2013, detailing specific permissions required and providing actionable solutions for users facing the TF50309 error. It aligns well with the core themes of installation and configuration by offering step-by-step guidance on managing permissions and configuring user groups. The depth of discussion is substantial, as it outlines multiple solutions and considerations for different scenarios, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses technical issues related to permissions in Team Foundation Server without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:12:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical issues and solutions related to Team Foundation Server configuration, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses permissions and configurations in Team Foundation Server, which is related to DevOps tools, but it primarily focuses on specific issues and solutions rather than broader DevOps principles or practices.",
-    "level": "Quaternary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and managing permissions, which does not align with the core principles of DevOps. While it touches on aspects of project management and user permissions, it lacks a discussion on collaboration, automation, or cultural shifts that are central to DevOps. The mention of permissions is too specific and does not reflect a broader DevOps philosophy.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to permissions in Team Foundation Server, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:12:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server configuration, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:12:27",
@@ -160,15 +106,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, which does not relate to optimising work throughput.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses permissions and roles within Team Foundation Server, which relates to team dynamics and collaboration, but it primarily focuses on technical configurations rather than a broader discussion on human factors or process methodologies.",
-    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:12:32",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, which is not related to Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:12:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Server configuration, without reference to specific products or literature relevant to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T18:12:50",
@@ -280,11 +208,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:12:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses configuring features in Team Foundation Server (TFS), which is part of the Azure DevOps suite, and addresses specific permissions and solutions related to TFS administration.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific issue (TF50309) related to configuring features in Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides solutions for permission management within TFS, indicating a focus on Azure DevOps functionalities. However, the discussion is primarily centred on a specific error and its resolution rather than a broader exploration of Azure DevOps services or methodologies. While it does mention TFS, which is relevant, it lacks depth in discussing the overall capabilities or best practices associated with Azure DevOps.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,22 +236,25 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to permissions in Team Foundation Server, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:12:56",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server (TFS), which is not directly related to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:12:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the core themes of APOM. The discussion is technical and project-specific, lacking any depth or alignment with the principles of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +266,17 @@
     "reasoning": "Content primarily discusses permissions and configurations in Team Foundation Server, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:13:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on troubleshooting and solutions for a specific error in Team Foundation Server, lacking industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses permissions and configurations in Team Foundation Server, which relates to managing aspects of the application lifecycle, but it primarily focuses on specific technical issues rather than the broader scope of Application Lifecycle Management.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses configuring features in Team Foundation Server (TFS), which is related to application management. However, it primarily focuses on permission issues and specific solutions rather than the broader aspects of Application Lifecycle Management. While it touches on aspects of governance and user permissions, it lacks a comprehensive discussion on the entire application lifecycle stages or best practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:13:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server (TFS) configuration and permissions, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,21 +289,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on permission issues and configuration in Team Foundation Server, with no discussion on Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses permissions management and user roles related to Team Foundation Server (TFS), which can be considered a technical topic. However, it mainly focuses on configuring user permissions rather than broader principles of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses a specific error related to permissions in Team Foundation Server (TFS) and provides solutions for addressing it. While it touches on aspects of software configuration and user permissions, which are relevant to technical practices, it lacks a broader discussion on software craftsmanship, architecture, or engineering principles. The focus is more on troubleshooting rather than on methodologies or best practices that contribute to high-quality software development.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +319,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on permissions and configuration issues in Team Foundation Server, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to permissions in Team Foundation Server (TFS) and does not discuss Continuous Delivery principles, practices, or benefits. While it touches on project management and configuration, it lacks any direct mention of Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The discussion is narrowly focused on TFS configuration issues, which are not aligned with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, without any mention of lead time or related metrics.",
     "level": "Ignored"
   },
@@ -433,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuration issues and permissions in Team Foundation Server, not on backlog item readiness or Definition of Ready.",
     "level": "Ignored"
   },
@@ -487,19 +412,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses managing permissions and operational aspects of configuring features in Team Foundation Server, which relates to the operational practices in the context of streamlining processes and enhancing delivery in Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses specific permissions and configurations within Team Foundation Server (TFS), which relates to operational practices in managing workflows and permissions. However, it lacks a broader discussion on process optimisation or continuous improvement strategies, focusing instead on specific solutions to a technical issue. While it touches on operational aspects, it does not delve deeply into methodologies like Agile or DevOps, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses permissions and configurations related to Team Foundation Server, with no focus on Scrum team roles, collaboration, or dynamics.",
     "level": "Ignored"
   },
@@ -559,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to permissions in Team Foundation Server, and does not focus on team performance, collaboration, or Agile principles.",
     "level": "Ignored"
   },
@@ -586,28 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of features in Team Foundation Server, which is closely related to software development practices, version control, and project management methodologies used in software engineering.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses configuring features in Team Foundation Server (TFS), which is a tool used in software development for project management and version control. It provides specific solutions related to permissions and roles within TFS, which aligns with best practices in collaborative development and project management methodologies. However, while it touches on relevant topics, the discussion lacks depth in broader software development methodologies and principles, focusing instead on a specific issue and its solutions.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses permissions and configurations in Team Foundation Server 2013, with no clear focus on agile methodologies or principles.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a technical issue related to configuring features in Team Foundation Server, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -631,10 +553,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to permissions and configuration in Team Foundation Server, without reference to empirical process control principles or Agile practices.",
     "level": "Ignored"
   },
@@ -701,15 +623,6 @@
     "reasoning": "Content heavily discusses technical implementation details regarding permissions in Team Foundation Server and does not focus on customer satisfaction or related principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Team Foundation Server configurations, which does not relate to scaling Scrum frameworks, roles, or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T19:53:15",
@@ -726,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses permission management in Team Foundation Server, not related to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring permissions in Team Foundation Server, with no clear focus on scaling agile practices across the organization.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,11 +688,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies for configuring features in Team Foundation Server, specifically addressing permission issues and solutions in a real-world setting.",
+    "reasoning": "The content discusses practical solutions to a specific issue in Team Foundation Server, which aligns with pragmatic thinking. It provides two distinct solutions to a common problem, demonstrating practical problem-solving strategies. However, it lacks a broader discussion on Agile or Scrum principles, which limits its alignment with the category. The depth of discussion is moderate, focusing on specific configurations rather than a comprehensive exploration of pragmatic approaches.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuration issues in Team Foundation Server (TFS) and does not address measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server, without any clear relevance to Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical configuration issues related to Team Foundation Server and permissions, with no clear discussion of scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -973,10 +862,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses configuring features in Team Foundation Server 2013 and permission issues, which are not related to Cycle Time.",
     "level": "Ignored"
   },
@@ -1009,10 +898,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on permissions and configurations in Team Foundation Server without discussing team dynamics, collaboration techniques, or Agile principles.",
     "level": "Ignored"
   },
@@ -1034,7 +923,7 @@
     "reasoning": "Content primarily discusses configuration issues and permissions in Team Foundation Server, which does not align with the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:53:15",
     "ai_confidence": 0,
@@ -1043,23 +932,17 @@
     "reasoning": "Content discusses Team Foundation Server configuration and permissions, which is not related to the Minimum Viable Product concept or its methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses configuring features in Team Foundation Server 2013 without any mention or relevance to AI applications or topics.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on configuring features in Team Foundation Server 2013, detailing permissions and solutions related to system setup and configuration.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content explicitly discusses configuring features in Team Foundation Server 2013, which directly relates to system configuration. It provides detailed solutions for permission management and user roles, aligning well with the core themes of system optimisation and configuration management. The depth of discussion is significant, as it outlines specific steps and considerations for configuring permissions, which is crucial for effective system setup. Overall, the content is highly relevant to the category.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,21 +982,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses permissions and configurations in Team Foundation Server, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses resolving a specific error in Team Foundation Server 2013 related to permissions and configuration, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. The focus is on administrative tasks rather than development methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring permissions in Team Foundation Server, which runs on the Windows operating system, but it primarily focuses on Team Foundation Server rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) and permissions management, which are not specific to the Windows operating system. While TFS may run on Windows servers, the focus is on configuration and permissions within TFS rather than Windows itself. There are brief mentions of Windows in the context of TFS, but the core themes of installation, configuration, troubleshooting, and updates specific to Windows are not adequately addressed.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1135,10 +1024,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T19:53:15",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses permissions and configurations in Team Foundation Server without addressing team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1162,12 +1051,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content provides specific details about an error (TF50309) encountered when configuring features in Team Foundation Server 2013 and outlines multiple solutions for resolving this permission issue, making troubleshooting the primary focus.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses a specific error (TF50309) encountered in Team Foundation Server 2013, detailing the permissions required to resolve the issue. It provides two distinct solutions for troubleshooting the problem, demonstrating a clear focus on diagnosing and resolving a technical issue. The depth of discussion includes practical steps and considerations for users facing this error, aligning well with the core themes of the Troubleshooting category.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1072,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to configuring features in Team Foundation Server and does not address Scrum Master responsibilities or themes.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific error related to Team Foundation Server (TFS) and managing permissions, with no direct mention of Scrum Master responsibilities or related concepts. While it touches on project administration, it does not align with the core themes of the Scrum Master role, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1204,15 +1099,6 @@
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on permissions and configurations in Team Foundation Server, unrelated to working agreements or team collaboration.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses a specific technical issue related to permissions in Team Foundation Server, it addresses a concern that software developers may encounter in their role. However, it does not directly engage with Agile or DevOps methodologies.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1331,15 +1217,6 @@
     "reasoning": "Content heavily discusses permission management in Team Foundation Server and does not focus on accountability within Agile teams.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:53:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses configuring permissions in Team Foundation Server, focusing on permissions management and project administration rather than scaling Kanban principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T19:53:15",
@@ -1369,11 +1246,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:16:25",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error related to permissions in Team Foundation Server 2013. While it briefly touches on the need for collaboration among project administrators, it lacks a substantial discussion on social technologies, self-organisation, or collective intelligence. The emphasis is on technical solutions rather than the underlying social frameworks that promote collaboration and decision-making.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:18:03",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Team Foundation Server, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses permissions and configuration issues in Team Foundation Server, which is not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:18:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses configuration issues and permissions in Team Foundation Server, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) and permissions management, with no direct mention of Scrum principles, roles, or events. While it touches on project administration, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical solutions rather than Scrum practices, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses permission management in Team Foundation Server (TFS) and does not address the Shift-Left Strategy. While it touches on aspects of project administration, it lacks any mention of integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The focus is on resolving a specific error and providing solutions related to user permissions, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, with no explicit discussion on Continuous Improvement principles. While it touches on configuration and user management, it lacks depth in exploring themes such as empirical evidence, experimentation, or strategies for enhancing processes, which are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, which does not directly address the concept of Common Goals in Agile or DevOps. While it touches on project management and permissions, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical error in Team Foundation Server 2013 and managing permissions. While it touches on aspects of user permissions and configuration, it does not explicitly discuss competence in terms of continuous learning, skill development, or fostering a culture of competence. The mention of permissions could relate to competence but lacks depth and direct relevance to the core themes outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific error in Team Foundation Server 2013 and managing permissions, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of project management and user permissions, it does not engage with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities in shaping outcomes.",
     "level": "Ignored"
   }
 }

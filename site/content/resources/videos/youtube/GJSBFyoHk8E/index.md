@@ -2,62 +2,57 @@
 title: How does a Scrum team create a sprint goal?
 description: Discover how scrum teams create impactful sprint goals to enhance collaboration and deliver value in this insightful short video with Martin Hinshelwood!
 date: 2023-06-01T11:00:15Z
+weight: 790
 ResourceId: GJSBFyoHk8E
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GJSBFyoHk8E
 source: internal
 url: /resources/videos/:slug
-slug: how-does-a-scrum-team-create-a-sprint-goal
+slug: how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 layout: video
 preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/how-does-a-scrum-team-create-a-sprint-goal
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
-- /resources/videos/GJSBFyoHk8E
-- /resources/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/GJSBFyoHk8E
-aliasesFor404:
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
+aliasesArchive:
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/how-does-a-scrum-team-create-a-sprint-goal-
+- how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- Scrum Team
-- Professional Scrum
-- People and Process
-- Agile Product Management
-- Agile Frameworks
 - Software Development
+- Agile Product Management
+- Scrum Team
 - Agile Planning
-- Value Delivery
-- Agile Project Management
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
 ## The Art of Sprint Goal Creation
 
-I'm back here again to discuss another fascinating aspect of the Scrum universe, which is the Scrum team's journey in the art of creating a Sprint Goal.🎯
+I'm back here again to discuss another fascinating aspect of the [Scrum]({{< ref "/categories/scrum" >}}) universe, which is the [Scrum team]({{< ref "/tags/scrum-team" >}})'s journey in the art of creating a Sprint Goal.🎯
 
 ##  Combining Strategic and Tactical Directions
 
 The inception of a valuable sprint goal necessitates the Scrum team to pull in a whole lot of information. 
 
-In order to create a craft a top-notch sprint goal, the Scrum team can't just grab the first item on the product backlog.
+In order to create a craft a top-notch sprint goal, the Scrum team can't just grab the first item on the [product backlog]({{< ref "/tags/product-backlog" >}}).
 
 It's far more nuanced than that.
 
-The team needs to absorb a lot of information, including the strategic direction of the product and the tactical direction the product owner is navigating.
+The team needs to absorb a lot of information, including the strategic direction of the product and the tactical direction the [product owner]({{< ref "/tags/product-owner" >}}) is navigating.
 
 Plus, they also need to delve into the current engineering issues of the product.  🚀
 

@@ -2,36 +2,39 @@
 title: 'Unlocking Growth: The Transformative Power of Poly Immersive Learning Experiences'
 description: Unlock the power of poly immersive learning! Discover how feedback, reflection, and practical application can transform your professional development journey.
 date: 2023-07-13T12:20:07Z
+weight: 1000
 ResourceId: wawnGp8b2q8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wawnGp8b2q8
 url: /resources/videos/:slug
-slug: if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
+slug: unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 layout: video
 aliases:
-- /resources/videos/wawnGp8b2q8
-- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
-- /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 - /resources/wawnGp8b2q8
-aliasesFor404:
+- /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
+- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
+aliasesArchive:
+- /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 - /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 - /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
+- /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
+- unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 isShort: false
 tags:
-- Discovery and Learning
 - Continuous Learning
-- Experimentation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 In my journey through the world of learning and development, I've come to appreciate the profound impact that poly immersive learning experiences can have. Today, I want to share three key benefits that stand out to me, particularly in our complex and ever-evolving environment.
@@ -58,7 +61,7 @@ One common challenge I’ve observed among learners is the tendency to forget wh
 
 - **Structured Assignments**: The poly immersive learning experience addresses this by incorporating assignments that require you to conduct small experiments in your professional environment. This structure not only reinforces your learning but also holds you accountable for applying it.
 
-- **Building Habits of Experimentation**: By the end of your learning journey, you’ll have a collection of experiments that you’ve conducted. This practice can be transformative, helping you cultivate a culture of experimentation and continuous learning within your organisation.
+- **Building Habits of [Experimentation]({{< ref "/tags/experimentation" >}})**: By the end of your learning journey, you’ll have a collection of experiments that you’ve conducted. This practice can be transformative, helping you cultivate a culture of experimentation and [continuous learning]({{< ref "/tags/continuous-learning" >}}) within your organisation.
 
 ### Conclusion
 

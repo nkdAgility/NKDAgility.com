@@ -1,19 +1,10 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:38:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on personal experiences and advocacy related to deep vein thrombosis, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:38:06",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal experiences and advocacy related to deep vein thrombosis, with no relevance to installation or configuration of tools or software.",
     "level": "Ignored"
   },
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and advocacy related to deep vein thrombosis (DVT) rather than decision-making processes in uncertain environments.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:38:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a personal story related to DVT and advocacy for awareness and treatment, with no focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:38:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and advocacy related to deep vein thrombosis (DVT) rather than organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +37,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:38:15",
+    "calculated_at": "2025-03-08T13:14:56",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about deep vein thrombosis (DVT) and personal advocacy, with no mention of Scrum principles, practices, or frameworks.",
+    "reasoning": "The content is entirely focused on deep vein thrombosis (DVT) and personal experiences related to it, with no mention or discussion of Scrum principles, practices, or frameworks. It does not align with any of the key topics associated with Scrum, such as roles, events, or agile principles.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -118,10 +94,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:38:23",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and advocacy related to deep vein thrombosis, with no focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -132,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on personal experiences and advocacy related to deep vein thrombosis, with no relevance to platform engineering or its principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:38:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses personal experiences and advocacy related to deep vein thrombosis, with no relevance to software code or complexity.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -206,24 +173,6 @@
     "reasoning": "Content focuses on personal experiences and advocacy related to deep vein thrombosis, with no relevance to Lean methodologies or principles.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:38:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal story related to DVT and a petition for awareness, lacking focus on Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:38:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and advocacy related to deep vein thrombosis (DVT), with no focus on practical techniques or tooling relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:38:44",
@@ -260,15 +209,6 @@
     "reasoning": "Content is focused on personal experiences and advocacy related to deep vein thrombosis, with no relevance to Agile methodologies or product operating models.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:38:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and a petition related to deep vein thrombosis, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Agile Product Management": {
     "category": "Agile Product Management",
     "calculated_at": "2025-02-17T09:38:50",
@@ -298,48 +238,27 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:38:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses personal experiences and reflections related to the death of a friend due to DVT, as well as the author's advocacy for awareness and testing, which aligns with the Personal category's focus on individual insights and experiences.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on a personal experience related to the death of a friend due to DVT, which aligns with the Personal category's emphasis on individual reflections and experiences. The author shares a personal anecdote about their friend's death and the subsequent advocacy for awareness and treatment of DVT, which provides a unique perspective. However, while it touches on personal insights, it lacks a deeper connection to Agile, Scrum, or DevOps themes, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:38:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and advocacy related to DVT, with no focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:38:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and advocacy related to DVT, lacking a focus on transparency and accountability principles within Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:39:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and advocacy related to deep vein thrombosis (DVT), with no focus on products or literature relevant to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:39:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and advocacy related to deep vein thrombosis (DVT), which does not align with specific Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses a personal narrative regarding deep vein thrombosis (DVT) and the advocacy for awareness and treatment changes. It does not reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks, aligning well with the Miscellaneous category. The depth of discussion is significant as it includes personal experiences and calls to action, but it lacks direct mentions of the category itself.",
+    "level": "Primary"
   },
   "DevOps": {
     "category": "DevOps",
@@ -350,21 +269,21 @@
     "reasoning": "Content is focused on personal experiences and advocacy related to deep vein thrombosis, with no relevance to DevOps principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:39:04",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal experiences and advocacy related to deep vein thrombosis, which is unrelated to the principles of the One Engineering System.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T11:08:59",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on personal experiences and advocacy related to deep vein thrombosis (DVT), not on Test Driven Development.",
     "level": "Ignored"
   },
@@ -397,10 +316,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:08:59",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a personal story and advocacy regarding deep vein thrombosis, with no relevance to the Definition of Done in Agile or Scrum practices.",
     "level": "Ignored"
   },
@@ -429,15 +348,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal experiences related to deep vein thrombosis and petitioning for awareness, which is unrelated to empirical process control.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely about a personal story and advocacy related to deep vein thrombosis and does not discuss Scrum or its scaling principles.",
     "level": "Ignored"
   },
   "Increment": {
@@ -469,10 +379,10 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T11:08:59",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on personal experiences and advocacy related to deep vein thrombosis, with no relevance to Acceptance Test Driven Development.",
     "level": "Ignored"
   },
@@ -541,10 +451,10 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T11:08:59",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about deep vein thrombosis (DVT) and advocacy for awareness and treatment, with no relevance to Test First Development or software development practices.",
     "level": "Ignored"
   },
@@ -609,15 +519,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal experiences related to DVT and a petition for awareness and treatment changes, but it does not focus on long-term objectives or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses deep vein thrombosis, personal experiences, and advocacy, which are unrelated to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -784,10 +685,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:08:59",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses deep vein thrombosis (DVT), personal experiences, and a petition for awareness and treatment changes, with no relevance to Agile values or principles.",
     "level": "Ignored"
   },
@@ -865,10 +766,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:08:59",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal experiences and advocacy related to deep vein thrombosis (DVT) rather than the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -881,7 +782,7 @@
     "reasoning": "Content focuses entirely on deep vein thrombosis (DVT), a medical issue, and does not discuss Azure Boards or related Agile project management topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:08:59",
     "ai_confidence": 0,
@@ -933,15 +834,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on personal experiences and a petition related to deep vein thrombosis, with no discussion of Agile methodologies or strategies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a personal story and medical information regarding deep vein thrombosis, which is unrelated to software development.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +888,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is entirely about personal experiences related to DVT and does not discuss Scrum Values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely about personal experiences and awareness related to deep vein thrombosis, not about Kanban principles or scaling methodologies.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1099,10 +982,10 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T11:08:59",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about personal experiences and advocacy regarding DVT, with no relevant discussion of market share or strategies related to market presence.",
     "level": "Ignored"
   },
@@ -1198,20 +1081,11 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T11:08:59",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses personal experiences and advocacy related to deep vein thrombosis, not related to test automation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on personal experiences and a petition related to deep vein thrombosis, and lacks any discussion of Scrum principles or product development.",
+    "reasoning": "Content discusses personal experiences and advocacy related to deep vein thrombosis, not related to test automation.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1261,29 +1135,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:08:59",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal story and call to action regarding deep vein thrombosis, with no focus on measuring or enhancing innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal experiences and advocacy related to deep vein thrombosis (DVT) and does not discuss agile principles, methodologies, or organizational scaling.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses deep vein thrombosis (DVT) and related personal stories and health advocacy, which are unrelated to Agile Project Management.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1331,15 +1187,6 @@
     "reasoning": "Content is primarily about personal experiences and advocacy related to deep vein thrombosis, with no mention of Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:09:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on personal experiences and a petition regarding deep vein thrombosis, with no relevance to AI, Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T11:09:00",
@@ -1374,6 +1221,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and advocacy related to deep vein thrombosis, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:54:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is focused on personal experiences and advocacy related to deep vein thrombosis, with no relevance to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:54:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal experiences and advocacy related to deep vein thrombosis (DVT) and does not mention or relate to Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:51:41",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content discusses personal experiences and advocacy related to deep vein thrombosis (DVT) and does not address any aspects of software development, testing, security, or compliance. It is entirely unrelated to the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

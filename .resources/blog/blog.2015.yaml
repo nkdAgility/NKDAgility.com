@@ -1,0 +1,280 @@
+- FrontMatter:
+    title: Access denied for orchestration plan on Build
+    description: Troubleshoot TFS build errors with expert tips on resolving access denied issues for orchestration plans. Enhance your build system's performance today!
+    ResourceId: l331AonWBuN
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11411
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-12-16
+    weight: 660
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: access-denied-orchestration-plan-build
+    aliases:
+    - /blog/access-denied-orchestration-plan-build
+    - /access-denied-orchestration-plan-build
+    - /access-denied-for-orchestration-plan-on-build
+    - /blog/access-denied-for-orchestration-plan-on-build
+    - /resources/l331AonWBuN
+    - /resources/blog/access-denied-orchestration-plan-build
+    aliasesArchive:
+    - /blog/access-denied-orchestration-plan-build
+    - /access-denied-orchestration-plan-build
+    - /access-denied-for-orchestration-plan-on-build
+    - /blog/access-denied-for-orchestration-plan-on-build
+    - /resources/blog/access-denied-orchestration-plan-build
+    tags:
+    - Software Development
+    - Azure DevOps
+    - Azure Pipelines
+    - Troubleshooting
+    - Install and Configuration
+    - Azure Repos
+    - Pragmatic Thinking
+    - Windows
+    - System Configuration
+    categories:
+    - Uncategorized
+    preview: clip_image004-4-4.png
+  BodyContent: |
+    I was trying to setup a Build Agent within one of my current customers. They do over 1 million builds a year through Team City and I need to demonstrate that the new TFS build system is awesome before they will consider it. So it never instils confidence when you get an error…
+
+    ```
+    10:01:25.328098 ---------------------------------------------------------------------------
+    10:01:25.341094 System.AggregateException: One or more errors occurred. ---> Microsoft.TeamFoundation.DistributedTask.WebApi.TaskOrchestrationPlanSecurityException: Access denied: Project Collection Build Service does not have write permissions for orchestration plan 13b88515-ebeb-4c2e-9213-cdcc683b8ff4.
+    10:01:25.341094 Microsoft.TeamFoundation.DistributedTask.WebApi.TaskOrchestrationPlanSecurityException: Access denied: Project Collection Build Service does not have write permissions for orchestration plan 13b88515-ebeb-4c2e-9213-cdcc683b8ff4.
+    ```
+
+    I had one of their guys setup a TFS agent on one of their many enormously powerful build servers and tried a simple build. The build immediately errored out and greeted me with a "there was an error" message with no logs at all. I knew that something fundamental was up because of the lack of logs, and had to go to the server to get the cryptic message, Project Collection Build Service does not have write permissions for orchestration plan, that really did not help me much.
+
+    ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+    { .post-img }
+
+    Boy was the lack of logs annoying. Especially since the only way to get any information was to log onto a server that I did not own to go get more info.
+
+    After much pain and suffering I got with Chris Paterson and isolated the issue to one of permissions. The new build system has two custom user accounts that are used to execute builds:
+
+    - Project Build Service
+    - Project Collection Build Service
+
+    Effectively you can choose to have the build configured to run at the Project level if you only need access to the data in a single project, and the collection level if you need to pull bits from multiple projects. As soon as he mentioned this I thought about one of the options that I changed during the configuration of the build definition.
+
+    ![image](images/image-8-8.png "image")
+    { .post-img }
+
+    These isolation levels make sense, however there is a bug in the TFS 2015 RTM upgrade that may result in the "Project Collection" level resulting in the "Task Orchestration Plan Security Exception" you see above.
+
+    At this point you can immediately unblock yourself by selecting "Current Project" from the list.
+
+    However if you need access to more than one Team Project, or might in the future, you need to dig a little deeper. If you have a look at the permissions on your build definition you should see the issue.
+
+    ![clip_image003](images/clip_image003-3-3.png "clip_image003")
+    { .post-img }
+
+    If you open the permissions for your build you should see both the "Project Build Service" and the "Project Collection Build Service" permissions with "Inherit Allow". You you don’t have both then you have an issue!
+
+    You can just add them to the Build Definition but you really want it to be inherited so that you don’t have to go add it for every Build Definition. To do that you have to go through Visual Studio to pop the correct UI.
+
+    ![image](images/image-1-7-7.png "image")
+    { .post-img }
+
+    It seams that the only way to pop the security panel for the root node of the Build Definitions, so that we can fix the cause, is in Visual Studio. So launch VS2015, head to the Builds page of Team Explorer, and click the "Actions" drop-down under "Build Definitions". Then select "Security"… this will pop the Web UI and get you strait to the right place.
+
+    Note: Not to be confused by the legacy XAML Build Definitions.
+
+    ![clip_image005](images/clip_image005-5-5.png "clip_image005")
+    { .post-img }
+
+    Once there you can see that I only have the "Project Build Service" in the "Users" list and I also need to have the "Project Collection Build Service". So even though this is not a [Windows]({{< ref "/tags/windows" >}}) user or group you need to click "Add" and then "Add Windows User or Group"… Then search for and add the "Project Collection Build Service".
+
+    ![clip_image006](images/clip_image006-6-6.png "clip_image006")
+    { .post-img }
+
+    Now, even though my build still fails, it fails for better reasons than just exploding. So if you run into the dreaded "Access denied: Project Collection Build Service does not have write permissions for orchestration plan" you will now know where to look and what might be the issue…
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-12-16-access-denied-orchestration-plan-build\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-12-16-access-denied-orchestration-plan-build
+- FrontMatter:
+    title: The High of Release
+    description: Explore the new web-based Release Management tools from Microsoft, designed to enhance DevOps and streamline your release pipelines for engineering excellence.
+    ResourceId: akntzjbRQe2
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11398
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-12-05
+    weight: 480
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: the-high-of-release
+    aliases:
+    - /blog/the-high-of-release
+    - /the-high-of-release
+    - /resources/akntzjbRQe2
+    - /resources/blog/the-high-of-release
+    aliasesArchive:
+    - /blog/the-high-of-release
+    - /the-high-of-release
+    - /resources/blog/the-high-of-release
+    tags:
+    - Release Management
+    - Software Development
+    categories:
+    - DevOps
+    preview: 2016-01-04_15-52-31-1-1.png
+  BodyContent: |
+    Just a week or so ago I was at Microsoft Future Decoded event in London to talk about the new [Release Management]({{< ref "/tags/release-management" >}}) tools that will be made available at [Connect()](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/) and that might make it in to TFS 2015 Update 2. Here is hoping! The focus of the track was on [DevOps]({{< ref "/categories/devops" >}}) and the focus of my session was on both Build and Release.
+
+    Microsoft have created a rich set of web based tooling that can allow you to build reliable release pipelines that meet the needs of your teams striving towards [engineering excellence]({{< ref "/categories/engineering-excellence" >}}). My favourite thing about the new tooling is that rather than focus on building full stack tools, they are focusing on orchestration and integration. If you want to use Chef, Puppet, or Docker to physically release your software then that's up to you. If you want to use PowerShell DSC, or just plain old PowerShell, then you can do that as well. And if you just want to build a custom task to deploy your software using PowerShell, ShellScript, or anything else you desire, then you can do that to.
+
+    They are getting out of the game of forcing you to use their tachtical toolset while providing a versatile tool to help orchastrate your strategic vision. In short... its awesome! Check out my video below for a full demo...
+
+    <iframe width="960" height="540" src="https://channel9.msdn.com/Events/FutureDecoded/Future-Decoded-2015-UK/15/player?format=html5" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
+    The new Release Management tools are completely web based and allow you to create a professional release pipeline right inside VSTS without the need for any other tools. The new Release Management tools are now in Public Preview on Visual Studio Team Services (VSTS) and you can use them to deploy from your on-premises TFS servers as well.
+
+    Many of my larger customers might still be working on being able to put their code in the cloud, but they have no problems with deploying the output of their builds to cloud environments on Azure or elsewhere.
+
+    Over the next few months I am hoping to get some local build output deployed to Azure where I can spin up 100 servers to deploy my application for the local testers. I will let you know how I get on...
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-12-05-the-high-of-release\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-12-05-the-high-of-release
+- FrontMatter:
+    title: 'Big Scrum: All you need and not enough'
+    description: "Explore the challenges of scaling Scrum in 'Big Scrum: All you need and not enough.' Discover essential practices for achieving agility at scale."
+    ResourceId: yCJ5ERuJHUU
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11361
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-07-01
+    weight: 305
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: big-scrum-all-you-need-and-not-enough
+    aliases:
+    - /blog/big-scrum-all-you-need-and-not-enough
+    - /big-scrum-all-you-need-and-not-enough
+    - /big-scrum--all-you-need-and-not-enough
+    - /blog/big-scrum--all-you-need-and-not-enough
+    - /resources/yCJ5ERuJHUU
+    - /resources/blog/big-scrum-all-you-need-and-not-enough
+    aliasesArchive:
+    - /blog/big-scrum-all-you-need-and-not-enough
+    - /big-scrum-all-you-need-and-not-enough
+    - /big-scrum--all-you-need-and-not-enough
+    - /blog/big-scrum--all-you-need-and-not-enough
+    - /resources/blog/big-scrum-all-you-need-and-not-enough
+    tags:
+    - Software Development
+    - Scaling
+    - Professional Scrum
+    - Agile Frameworks
+    - Pragmatic Thinking
+    - Agile Transformation
+    categories:
+    - Scrum
+    preview: clip_image003-3-3.png
+  BodyContent: |
+    I was in Norway for NDC Oslo 2015 and I was there to talk about "Big [Scrum]({{< ref "/categories/scrum" >}}): All you need and not enough" which is a kind of oxymoron as it really is enough, you just need to apply the values and principals at scale. I tried to cover what for me is a total 100% requirement for Scale.
+
+    \[embed\]https://vimeo.com/131642789\[/embed\]
+
+    ![clip_image001](images/clip_image0011-1-1.png "clip_image001")
+    { .post-img }
+
+    In order to scale you first need Professional Team and not Amateur Teams. In the Scrum world that means that you need to [embody the values and principals of agile, have awesome engineering practices, and know the mechanics](http://nkdagility.com/big-scrum-are-you-doing-mechanical-scrum/). Its really not enough to simply pay lip service to your process. Dig in and really do it.
+
+    ![clip_image002](images/clip_image0021-2-2.png "clip_image002")
+    { .post-img }
+
+    The second thing that I covered is why a cookie cutter process will not work. Your companies change is a unique fingerprint and the idea that you can buy and off-the-shelf process that will suit your culture and your journey is ludicrous.
+
+    ![clip_image003](images/clip_image003-3-3.png "clip_image003")
+    { .post-img }
+
+    To support [scaling]({{< ref "/tags/scaling" >}}) Scrum you need to have many [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Teams working together, and for that we need a few extra communication lines that are not new, but that need enshrined in the model to make sure that it works. Check out the video below to get a walk-through of the new events and their significance and value.
+
+    At the end of the session I highlighted a small number of additional, but optional, practices that make scaling a lot easier. These practices only scratch the surface of what is presented in Scrum.org's new Scaled Professional Scrum course, but they are representative of practices that we know, from experience, you need to build software big.
+
+    > ## Big Scrum: All you need and not enough
+    >
+    > The proliferation of scaling frameworks shows there are real challenges in scaling agility, and the solutions don’t seem to involve inventing yet more frameworks or formal processes. So then, why is it so hard to find success in agility at scale? [Large scale agility]({{< ref "/tags/large-scale-agility" >}}) can be found in exploiting Scrum’s simplicity while emerging and sustaining [technical excellence]({{< ref "/tags/technical-excellence" >}}). Something that sounds so easy shouldn't be so hard, and for some it isn't. This session highlights successes in growing large scale agility using Big Scrum while maintaining technical excellence to deliver value faster.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-07-01-big-scrum-all-you-need-and-not-enough\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-07-01-big-scrum-all-you-need-and-not-enough
+- FrontMatter:
+    title: 'Big Scrum: Are you doing mechanical Scrum'
+    description: Explore the pitfalls of mechanical Scrum and discover how to achieve true agility with Professional Scrum for enhanced productivity and team effectiveness.
+    ResourceId: 8wFtoutYII0
+    ResourceType: blog
+    ResourceContentOrigin: Human
+    ResourceImport: true
+    ResourceImportId: 11355
+    ResourceImportSource: Wordpress
+    ResourceImportOriginalSource: Wordpress
+    date: 2015-06-24
+    weight: 325
+    creator: Martin Hinshelwood
+    layout: blog
+    resourceTypes: blog
+    slug: big-scrum-are-you-doing-mechanical-scrum
+    aliases:
+    - /blog/big-scrum-are-you-doing-mechanical-scrum
+    - /big-scrum-are-you-doing-mechanical-scrum
+    - /big-scrum--are-you-doing-mechanical-scrum
+    - /blog/big-scrum--are-you-doing-mechanical-scrum
+    - /resources/8wFtoutYII0
+    - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
+    aliasesArchive:
+    - /blog/big-scrum-are-you-doing-mechanical-scrum
+    - /big-scrum-are-you-doing-mechanical-scrum
+    - /big-scrum--are-you-doing-mechanical-scrum
+    - /blog/big-scrum--are-you-doing-mechanical-scrum
+    - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
+    tags:
+    - Software Development
+    - Agile Frameworks
+    - Professional Scrum
+    categories:
+    - Scrum
+    - Product Development
+    preview: clip_image001-1-1.png
+  BodyContent: |
+    Last month I created an article for NDC Magazine on [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}). The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional [Scrum Team]({{< ref "/tags/scrum-team" >}}), why we need it, and how we can scale it.
+
+    ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+    { .post-img }
+
+    \[[Download NDC Magazine 2015.1 as a PDF](http://issuu.com/developermagazine/docs/ndc-magazine-1-2015-web/28)\]
+
+    ### Excerpt from the article
+
+    Many organisations move towards Scrum and Agile for the allure of hyper-productivity. This is the promise that led them to Scrum in the first place and they are, more often than not, sorely disappointed when they don’t achieve it. The easiest way to make Scrum as ineffective as possible, is to pay lip service to it. Forgetting about the values, principles, and [technical excellence]({{< ref "/tags/technical-excellence" >}}) that are the underpinning of its effectiveness.
+
+    ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+    { .post-img }
+
+    It's just fine to start with mechanical Scrum and work from there. Just don’t expect to get the effectiveness that you desire without the other two pillars. You need all three of the pillars to be able to ship twice the features in half the time.
+
+    ### The desire: Twice the features in half the time
+
+    No really! You can ship twice the features in half the time, but only with [Professional Scrum]({{< ref "/tags/professional-scrum" >}}). In Professional Scrum we not only follow the framework, but enact the values and principles. In Professional Scrum we strive for technical excellence and really focus on doing the right thing and minimising [technical debt]({{< ref "/tags/technical-debt" >}}) (yes, I know that unhedged fund is technically more accurate.)
+
+    Jeff Sutherland talks often of using Scrum to make money as a venture capitalist. His company buys struggling software companies and turning them around. Jeff does this by implementing Professional Scrum and turning that struggling software organisation into a highly tuned, effective team that turns ideas into customer value. He can then sell that company for many time that which he bought it for; professionals are worth far more than cowboys.
+
+    It beggars belief that so many organisations only practice flaccid Scrum and waste their investors' money. That’s bad when it is private investment, but down right criminal in a public company. And let's not get started with the public sector.
+
+    Is your organisation paying lip service to the values and principals? Does it feel more like 'yeeha', or a group of professionals?
+
+    Mechanical Scrum is only the start \[[read more...](http://issuu.com/developermagazine/docs/ndc-magazine-1-2015-web/28)\]
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-06-24-big-scrum-are-you-doing-mechanical-scrum\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-06-24-big-scrum-are-you-doing-mechanical-scrum
+

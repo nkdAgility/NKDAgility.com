@@ -8,15 +8,6 @@
     "reasoning": "Content does not discuss Agile principles, product management, or related methodologies; it focuses on software installation and documentation.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which does not align with practical techniques or tooling in Agile and DevOps.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:36:23",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:36:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:36:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:36:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:36:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses the size of a software installation and the absence of MSDN documentation, which is unrelated to AI and automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, with no direct mention or relevance to Evidence-Based Management principles or metrics. It lacks any discussion on data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:36:32",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is not related to installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:36:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the size of the VS2010 iso and the absence of MSDN documentation, which is unrelated to transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,22 +65,16 @@
     "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, with no focus on sociotechnical interactions or organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:36:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:36:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks any alignment with the core themes of collaboration, automation, or continuous value delivery.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +95,6 @@
     "reasoning": "Content discusses the size of a software installation and the absence of documentation, which is unrelated to decision-making processes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:37:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the size of a software installation and the absence of MSDN documentation, which is unrelated to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:37:17",
@@ -159,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the size of an installation file and the absence of MSDN documentation, which is unrelated to flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:37:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 iso and the absence of MSDN documentation, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:37:22",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to metrics or learning.",
     "level": "Ignored"
   },
@@ -260,15 +194,6 @@
     "reasoning": "Content discusses the size of an installation file and the absence of MSDN documentation, which is unrelated to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:37:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is not related to Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:37:37",
@@ -305,22 +230,25 @@
     "reasoning": "Content primarily discusses the size of the VS2010 iso and the absence of MSDN documentation, which is unrelated to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:37:41",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the size of a software installation and the absence of MSDN documentation, which is unrelated to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:37:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the size of an ISO file and the absence of MSDN documentation, which is unrelated to the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss the Agile Product Operating Model or any related principles. It focuses solely on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to agile methodologies or product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +260,6 @@
     "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is not related to organisational agility.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:37:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which does not align with the themes of Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T02:37:46",
@@ -348,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, with only a loose mention of ALM in the tags, which does not constitute a central theme.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:37:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or frameworks; it focuses on the size of an installation file and MSDN documentation.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -397,11 +307,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses reasons for the size of an ISO installation and absence of MSDN documentation, which are unrelated to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with any of the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +346,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:15",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the size of the VS2010 ISO and does not discuss the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -593,21 +506,12 @@
     "reasoning": "Content primarily focuses on the size of the VS2010 ISO and the absence of MSDN documentation, with little relevance to software engineering practices or methodologies.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the size of an installation file and the absence of MSDN documentation, with no relevance to Agile Project Management principles or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:15",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on software installation and documentation issues, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +605,6 @@
     "reasoning": "Content is primarily focused on the size of an installation file and the absence of offline documentation, with no discussion related to customer satisfaction.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scrum principles, scaling practices, or frameworks; it discusses VS2010 iso and documentation instead.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:15",
@@ -726,15 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a software installation issue and the presence of MSDN documentation, which is unrelated to the concept of psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the size of VS2010 iso and the absence of MSDN documentation, which is unrelated to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +688,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:15",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the size of the VS2010 iso and the absence of MSDN documentation, with no focus on innovation capabilities or related topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum or product development; it focuses on the size of a software installation related to MSDN documentation.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the size of an installation and the MSDN documentation, with no relevance to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1034,22 +902,13 @@
     "reasoning": "Content primarily discusses the size and content of the VS2010 iso and does not relate to digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:15",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to MVP or product development; it discusses the size of a software installation and MSDN documentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content mainly discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is not related to AI, Agile, or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1099,11 +958,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related topics; it focuses on the size of a software ISO file and documentation availability.",
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss Test First Development or any related principles. It focuses solely on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1180,11 +1042,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum methodology, Scrum Master role, or related responsibilities; it is focused on VS2010 installation details.",
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss the role or responsibilities of a Scrum Master, nor does it touch on any related concepts or themes. It focuses entirely on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the size of a software installation package and MSDN documentation rather than working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:29:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss software development practices, Agile or DevOps; it's focused on the size of a Visual Studio installation and related documentation.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1187,6 @@
     "reasoning": "Content heavily discusses the size of software installation and MSDN documentation, which is unrelated to the concept of accountability in Agile teams.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses software installation and documentation, with no relation to Kanban principles or scaling in organizations.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:16",
@@ -1360,11 +1207,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:03:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to Social Technologies frameworks like Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to social technologies, collaboration, or decision-making. There are no direct mentions of social frameworks or methodologies, and the discussion lacks depth in any relevant themes.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1224,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the size of a software installation and the absence of documentation, which is unrelated to leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:36:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses the size of a software installation and the absence of documentation, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:36:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses the size of a software installation and the absence of MSDN documentation, which is unrelated to AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on the size of a software installation and the absence of MSDN documentation, which are unrelated to Scrum principles, practices, or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss the Shift-Left Strategy or its principles, focusing instead on the size of a software installation and the absence of MSDN documentation. There are no relevant mentions or alignment with the core themes of integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to Continuous Improvement principles. There are no direct mentions of continuous improvement practices, nor does it align with the core themes of the category. The discussion lacks depth and does not provide any insights into processes, products, or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss Common Goals or any related Agile or DevOps principles. It focuses solely on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the size of the VS2010 ISO and the absence of MSDN documentation, which does not relate to the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of continuous learning, skill development, or any related themes that would align with the category of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the size of the VS2010 ISO and the absence of MSDN documentation, which is unrelated to the concept of Agentic Agility. There are no direct mentions of agency, intentionality, or the principles of Agentic Agility, nor does it discuss human or AI capabilities in shaping outcomes.",
     "level": "Ignored"
   }
 }

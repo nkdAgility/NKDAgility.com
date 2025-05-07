@@ -13,6 +13,7 @@ timezone: "Europe/London"
 
 # Site-wide parameters
 params:
+  TakingOnNewClients: true
   description: "Technical leadership and engineering excellence for software teams. We deliver measurable outcomes through Lean, Agile, DevOps, and evidence-based methods. Experts in Azure DevOps, GitHub, .NET, Azure, and AI, we optimise value and enable smarter decisions."
   shortdescription: "Deep expertise in DevOps and Agility with Scrum, Kanban, Visual Studio, Azure DevOps, Azure, & AI"
   keywords: "Agile, Scrum, Kanban, DevOps, Azure DevOps, Github, AI"
@@ -65,6 +66,7 @@ services:
 taxonomies:
   category: categories
   tag: tags
+  classification-type: concepts
   course-topic: course-topics
   course-vendor: course-vendors
   course-learning-experience: course-learning-experiences
@@ -83,6 +85,7 @@ permalinks:
   taxonomy:
     categories: "/resources/:slug/"
     tags: "/resources/:slug/"
+    concepts: "/resources/:slug/"
     marketing: "/marketing/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences"
@@ -94,6 +97,7 @@ permalinks:
   term:
     categories: "/resources/:slug/"
     tags: "/resources/:slug/"
+    concepts: "/resources/:slug/"
     marketing: "/:slug/"
     resourceTypes: "/resources/types/:slug/"
     delivery-audiences: "/capabilities/audiences/:slug/"
@@ -122,6 +126,12 @@ menus:
       weight: 50
 
 markup:
+  highlight:
+    style: github # or dracula, github, etc.
+    guessSyntax: true # auto-detect language if none provided
+    lineNos: true # show line numbers
+    tabWidth: 4 # number of spaces for a tab
+    lineNumbersInTable: false # show line numbers in tables
   goldmark:
     renderer:
       unsafe: true # Allows raw HTML in Markdown

@@ -2,49 +2,52 @@
 title: 3 best ways to wreck Kanban. Don't have a working agreement.
 description: Discover the top 3 pitfalls of Kanban adoption and learn why a working agreement is essential for team alignment and success in agile collaboration!
 date: 2024-03-01T07:00:17Z
+weight: 690
 ResourceId: h6yumCOP-aE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: h6yumCOP-aE
 source: internal
 url: /resources/videos/:slug
-slug: 3-best-ways-to-wreck-kanban-don-t-have-a-working-agreement
+slug: 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
 layout: video
 preview: https://i.ytimg.com/vi/h6yumCOP-aE/maxresdefault.jpg
 duration: 302
 isShort: false
 aliases:
-- /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
-- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
-- /resources/videos/h6yumCOP-aE
-- /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
 - /resources/h6yumCOP-aE
-aliasesFor404:
+- /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
+- /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
+aliasesArchive:
+- /resources/videos/-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
+- /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
 - /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
 - /resources/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
+- 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
+- /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+- /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
+- 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+- /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Team Performance
-- Team Collaboration
+- Operational Practices
 - Working Agreements
-- Agile Project Management
+- Team Performance
 - Pragmatic Thinking
-- Strategy
-- Team Motivation
-- Accountability
-- Self Organisation
+- Team Collaboration
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-### Achieving Team Alignment with Kanban: The Importance of a Working Agreement
+### Achieving Team Alignment with [Kanban]({{< ref "/categories/kanban" >}}): The Importance of a Working Agreement
 
 **Introduction**
 
@@ -64,7 +67,7 @@ A working agreement is essential for team alignment and efficiency. Here’s why
 
 - Without consensus, the team lacks direction, leading to random and inefficient task selection and execution.
 
-1. **Scrum Framework Misconceptions**:
+1. **[Scrum]({{< ref "/categories/scrum" >}}) Framework Misconceptions**:
 
 - Many believe that merely adopting Scrum or another framework will solve all problems. However, frameworks provide guidelines, not detailed instructions.
 
@@ -84,7 +87,7 @@ A working agreement is essential for team alignment and efficiency. Here’s why
 
 - Clearly outline each team member’s role and their responsibilities. This ensures everyone knows what is expected of them.
 
-1. **Set Common Goals**:
+1. **Set [Common Goals]({{< ref "/tags/common-goals" >}})**:
 
 - Agree on the team’s objectives and how to measure success. This could involve setting specific targets for deliverables, timelines, or quality standards.
 
@@ -94,7 +97,7 @@ A working agreement is essential for team alignment and efficiency. Here’s why
 
 1. **Create a Definition of Workflow**:
 
-- Document the workflow stages and establish criteria for moving tasks from one stage to the next. This ensures consistency and transparency.
+- Document the workflow stages and establish criteria for moving tasks from one stage to the next. This ensures consistency and [transparency]({{< ref "/tags/transparency" >}}).
 
 1. **Regularly Review and Adjust**:
 

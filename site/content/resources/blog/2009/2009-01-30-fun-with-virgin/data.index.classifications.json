@@ -8,23 +8,17 @@
     "reasoning": "Content is primarily about personal experiences with home entertainment setup and does not relate to Agile Product Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T10:31:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with a Virgin+ box and troubleshooting, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T10:31:50",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses a personal experience with setting up a Virgin+ box and does not reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles.",
-    "level": "Primary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses a personal experience related to setting up a Virgin+ box and does not reference any Agile, Scrum, DevOps, or Lean principles. While it provides a detailed narrative about a technical issue and its resolution, it lacks a direct connection to established frameworks or methodologies, aligning well with the Miscellaneous category. The discussion is anecdotal and non-technical in the context of Agile practices, thus justifying a higher confidence score.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -53,49 +47,16 @@
     "reasoning": "Content primarily discusses a personal experience with technology and problem-solving, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T10:31:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with home entertainment setup and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T10:31:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal experiences with home improvement and technology, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T10:31:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with home improvement and technology troubleshooting, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:32:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with home entertainment setup and troubleshooting, with no relevance to DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T10:32:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily about personal experiences with home entertainment setup and does not discuss AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on personal experiences related to setting up a Virgin+ box and does not discuss any DevOps principles, practices, or cultural shifts. There are no mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +79,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:32:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal experiences with home entertainment setup and does not discuss Agile principles or product operating models.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T10:32:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with setting up a Virgin+ box and troubleshooting a TV connection, which does not align with the category's focus on Agile and DevOps practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal anecdotes related to setting up Virgin+ and does not mention or align with any principles of the Agile Product Operating Model. There is no discussion of agile methodologies, product management, or any related concepts.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,12 +109,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a troubleshooting guide for configuring a Virgin+ box, which is related to installation and configuration, but the primary focus is on a personal anecdote rather than a structured guide.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content provides a brief mention of troubleshooting a Virgin+ box, which involves a reset and configuration steps. However, the primary focus is on a personal anecdote rather than a structured guide or detailed discussion on installation and configuration processes. The content lacks depth and does not align closely with the core themes of the category.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -172,29 +130,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:32:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with home improvement and technology troubleshooting, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T10:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with home entertainment setup and does not relate to software code or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T10:32:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with setting up a Virgin+ box, lacking relevance to industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal anecdotes and technical troubleshooting related to setting up Virgin+, with no mention or discussion of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,14 +178,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T10:32:26",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with setting up a Virgin+ box and does not relate to metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:32:27",
     "ai_confidence": 0,
@@ -271,20 +214,11 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T10:32:33",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal situation involving home improvement and technology troubleshooting, with no clear connection to Agile, Scrum, DevOps, or related methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T10:32:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with setting up a Virgin+ box and troubleshooting technical issues, with no focus on discovery or learning methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -294,15 +228,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal experiences with Virgin+ and does not relate to Azure DevOps or its functionalities.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T10:32:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with technology and home improvements, with no focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +246,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with home entertainment setup and troubleshooting, with no relevance to Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T10:32:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with technology and home setup, with no focus on team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -467,7 +383,7 @@
     "reasoning": "Content is a personal narrative about home renovations and technical troubleshooting with Virgin+ and does not discuss Agile methodologies or scaling Agile across an organization.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:10:50",
     "ai_confidence": 0,
@@ -483,15 +399,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal experiences with home entertainment systems and troubleshooting, with no relation to Site Reliability Engineering or its principles.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about personal issues related to home improvement and technology setup, with no relevance to Agile Project Management.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -665,24 +572,6 @@
     "reasoning": "Content focuses on personal anecdotes and technical issues related to setting up a TV and cable box, with no relevance to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to software development, Agile, or DevOps; it discusses personal experiences with home improvement and technology troubleshooting.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is focused on a personal story regarding home improvements and troubleshooting a TV connection issue, with no discussion of AI, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T11:10:50",
@@ -694,10 +583,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T11:10:50",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with Virgin+ and HDMI connections, with no clear focus on the Windows operating system.",
     "level": "Ignored"
   },
@@ -735,15 +624,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is predominantly about personal experiences with home setup and technology, with no relevance to Agile frameworks or principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal experiences with home entertainment technology, not on Agile practices or scaling methodologies.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +664,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T11:10:50",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal story about setting up a Virgin+ box and troubleshooting a technical issue, with no direct relevance to innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -865,10 +745,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T11:10:50",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with technology and home improvement, with no relevance to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -883,11 +763,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is a personal anecdote about installing a Virgin+ box and troubleshooting HDMI and SCART connections, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to setting up Virgin+ and does not discuss Continuous Delivery principles, practices, or any related topics. There are no direct mentions or relevant themes that align with Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -998,21 +881,12 @@
     "reasoning": "Content discusses a personal experience with home improvements and technology setup, with no clear connection to empirical process control principles, Agile methodologies, or related practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal experiences related to home improvement and technology issues, with no relevance to Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T11:10:50",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is unrelated to Agile practices or any discussion about backlog item readiness.",
     "level": "Ignored"
   },
@@ -1045,11 +919,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal experiences with home renovation and troubleshooting electronics, with no relevance to Test First Development or any related software practices.",
+    "final_score": 5.0,
+    "reasoning": "The content is focused on personal experiences related to setting up Virgin+ and does not mention or align with any principles of Test First Development. There are no discussions on success criteria, testing practices, or software development methodologies.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1117,10 +994,10 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-16T11:10:50",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with home technology and troubleshooting, with no strategic discussion of digital technologies for business transformation.",
     "level": "Ignored"
   },
@@ -1214,31 +1091,28 @@
     "reasoning": "Content is primarily a personal anecdote about setting up a Virgin+ box and does not relate to deployment strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal experience with household tasks and does not relate to Scrum or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting a specific technical issue with a Virgin+ box and provides a detailed resolution procedure. It focuses on identifying a problem related to HDMI and SCART connections and offers a solution, aligning well with troubleshooting.",
+    "final_score": 75.0,
+    "reasoning": "The content discusses a specific troubleshooting scenario involving a Virgin+ box and the HDMI/SCART issue. It provides a clear step-by-step solution to the problem, which aligns with the core themes of troubleshooting. However, the primary focus is more on a personal anecdote rather than a systematic approach to troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal experience with home entertainment setup and does not relate to Scrum roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss the role of a Scrum Master or any related concepts. It focuses on personal experiences with setting up Virgin+ and does not align with the key topics of the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1144,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:10:50",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal experiences related to home setup and technology troubleshooting, with no relevant connection to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1158,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is about personal experiences with setting up a Virgin+ box and has no relation to Test Driven Development or its principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is personal in nature, discussing a home improvement scenario and technology troubleshooting, with no relevance to Scrum or its scaling.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1196,6 @@
     "reasoning": "Content primarily describes a personal anecdote about setting up a TV with a Virgin+ box, without a focus on systematic configuration principles or best practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:10:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal experiences with home improvement and technology setup, with no relevance to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T11:10:50",
@@ -1360,11 +1216,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:04:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with technology and home setup, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences related to setting up Virgin+ and does not discuss any themes related to social technologies, collaboration, or decision-making. It lacks any mention of frameworks or methodologies that promote teamwork or organisational value delivery.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1233,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with home improvement and technology troubleshooting, with no relevance to leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:37:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily about personal experiences with home entertainment systems and does not discuss Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:37:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal experiences with home entertainment systems and does not relate to Artificial Intelligence or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss Scrum principles, practices, or frameworks. It focuses on a personal anecdote about home improvement and technology troubleshooting, with no relevance to Scrum or its core themes.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:37:38",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content is a personal anecdote about home improvement and technology troubleshooting, with no relevance to software development or the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal anecdotes and troubleshooting a technical issue with Virgin+, lacking any discussion on Continuous Improvement principles, methodologies, or practices. It does not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal anecdotes related to setting up Virgin+ and does not discuss any concepts related to Common Goals, Agile, or DevOps. There are no mentions of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal anecdotes related to setting up Virgin+ and does not discuss competence, skill development, or any related themes. There are no direct mentions of competence or its importance in professional settings, and the depth of discussion is minimal, focusing instead on a personal experience.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal anecdotes related to setting up Virgin+ and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

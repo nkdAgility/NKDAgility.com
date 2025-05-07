@@ -8,23 +8,17 @@
     "reasoning": "Content primarily discusses issues related to server outages and personal experiences with TFS, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses TFS Sticky Buddy and mentions Team Foundation Server, indicating a focus on software products relevant to Agile and DevOps practices, but it is primarily about a personal experience rather than a review or analysis.",
-    "level": "Tertiary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a personal experience related to a server outage while working on a project, which does not directly reference Agile, Scrum, DevOps, or Lean principles, but is related to the broader context of business agility.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses a personal experience related to a server outage while working on a specific tool (TFS Sticky Buddy) without delving into Agile, Scrum, DevOps, or Lean principles. While it mentions TFS, it does not provide actionable insights or align with recognised practices, making it fit within the Miscellaneous category. The depth of discussion is significant as it details the author's frustration and appreciation for the service, but it lacks a direct connection to established frameworks.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -53,49 +47,16 @@
     "reasoning": "Content primarily discusses a technical issue with a server and does not focus on decision-making processes or related themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:01:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with a server outage and does not relate to any events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:01:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with a server and personal experiences, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:01:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with a server outage and does not focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:01:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with a specific server and personal experiences, lacking a focus on DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:01:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues with a server and personal experiences with TFS, with no mention of AI or automation in Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a personal experience with server outages while launching a specific software version, which is more focused on a specific incident rather than the broader principles of DevOps. While it mentions TFS (Team Foundation Server), which is a tool often used in DevOps contexts, the discussion lacks depth on DevOps practices such as collaboration, automation, or shared accountability. The mention of server issues does not align with the core themes of DevOps, and the overall focus is more anecdotal than philosophical or methodological.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +79,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:01:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to a server outage and personal frustrations with a development environment, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:01:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with a server outage and does not focus on practical techniques or tooling related to Agile or DevOps.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages during the launch of a specific product, TFS Sticky Buddy v2.0. While it mentions a product launch, it does not engage with the Agile Product Operating Model principles or themes, such as transitioning to a product ethos, agile processes, or continuous improvement. The focus is on a technical issue rather than the broader framework of agile product management.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,10 +109,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T11:02:01",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with a server outage and does not provide actionable instructions or insights related to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -172,29 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:02:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with a server outage and does not address Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T11:02:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an outage issue with a server and personal frustrations, with no substantial focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:02:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with a server outage related to TFS, lacking broader industry news or reviews.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses personal frustrations related to server outages during a software launch, with no explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,19 +175,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:02:11",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with a server outage and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T11:02:12",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with TFS and personal experiences rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
@@ -271,21 +211,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content shares a personal experience related to a technical issue faced while working on a project, reflecting on the challenges encountered, but primarily focuses on the technical aspects of the situation.",
+    "reasoning": "The content reflects a personal experience with a technical issue related to TFS, showcasing individual frustration and appreciation for the service. However, it primarily focuses on a technical problem rather than deeper personal insights or reflections on Agile methodologies, which limits its alignment with the Personal category.",
     "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:02:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a server outage issue related to TFS and expresses frustration, with no focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -294,15 +228,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with TFS (Team Foundation Server) and does not focus on Azure DevOps functionalities or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:02:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with a server outage and does not focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +246,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal experience with a server outage related to TFS, lacking any focus on Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:02:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue with a server and personal frustration, lacking a focus on team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -370,12 +286,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to software release, specifically the inability to check in code due to a server outage, which indirectly pertains to release management. However, the primary focus is on the difficulties experienced rather than detailed aspects of release management practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the release of TFS Sticky Buddy v2.0 and the impact of a server outage on the release process. However, it lacks a detailed discussion on release management strategies, practices, or metrics. The focus is more on a personal experience with a server issue rather than a structured exploration of release management concepts.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -467,7 +386,7 @@
     "reasoning": "Content discusses personal experience with TFS server issues and does not relate to large-scale Agile practices or strategies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:43:23",
     "ai_confidence": 0,
@@ -483,15 +402,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a personal experience with server issues and development workflow, without discussing principles or practices of Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an outage of Team Foundation Server and personal frustrations, with no mention of agile principles, methodologies, or project management practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -665,24 +575,6 @@
     "reasoning": "Content heavily discusses issues with a server outage and personal frustrations, with no relevant connection to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions TFS (Team Foundation Server) and the challenges encountered by a software developer, but it does not focus on Agile, DevOps, or best practices in software development. The discussion is more anecdotal and related to personal frustration rather than a clear exploration of developer roles within Agile or DevOps contexts.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses issues related to TFS and CodePlex without any mention of AI or its applications in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T11:43:23",
@@ -694,10 +586,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T11:43:23",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS (Team Foundation Server) and its outages, with minimal reference to the Windows operating system or its functionalities.",
     "level": "Ignored"
   },
@@ -721,12 +613,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to using Team Foundation Server (TFS) in the context of software development but primarily focuses on a personal experience with server downtime rather than outlining software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses an issue with the TFS (Team Foundation Server) while attempting to release a software version, which relates to version control and collaborative development. However, the focus is more on a personal experience with a service outage rather than a detailed exploration of software development methodologies or practices. The mention of TFS and the context of code checking in provide some alignment with the category, but the overall depth and focus on broader software development concepts are limited.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -735,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and service outages, with no clear focus on Agile frameworks or principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with a specific software server and does not address Agile practices or scaling Agile methodologies.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +670,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T11:43:23",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal frustration with server issues related to TFS and does not discuss innovation capabilities or strategies.",
     "level": "Ignored"
   },
@@ -883,11 +769,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a personal experience with server issues related to TFS, lacking any discussion on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages while attempting to launch a specific software version. While it mentions a software release, it does not delve into Continuous Delivery principles, practices, or the role of automation, which are central to the category. The focus is more on personal experiences and challenges rather than on Continuous Delivery as a disciplined practice.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -901,12 +790,12 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:15",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses a server outage affecting the development of a specific software version, but it primarily focuses on the author's frustration rather than delivering discussions on the characteristics, best practices, or the functionalities of working software.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -998,15 +887,6 @@
     "reasoning": "Content primarily discusses an issue with a server and personal frustration with a service, not focusing on empirical process control or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a personal experience with TFS server issues and does not discuss Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
     "calculated_at": "2025-02-16T11:43:23",
@@ -1045,21 +925,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to server downtime and personal experiences with TFS, without mentioning Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages during the launch of a software product, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks any depth or alignment with the core themes of Test First Development, focusing instead on operational challenges rather than testing methodologies.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to accessing TFS (Team Foundation Server) for code check-ins, which is tied to version control practices, but does not primarily focus on source control methodologies or best practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions TFS (Team Foundation Server) and discusses an outage affecting the author's ability to check in code, which relates to source control. However, the focus is primarily on the outage experience rather than best practices or methodologies in modern source control. The discussion lacks depth in terms of strategies or techniques for effective version control, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1214,31 +1100,28 @@
     "reasoning": "Content primarily discusses frustration with a server outage and checking in code, rather than deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an unrelated issue with TFS and server problems, with no focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue with the TFS server and the author's efforts to report the problem, indicating a connection to troubleshooting, but it primarily focuses on the author's experience rather than providing systematic problem-solving techniques.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses an issue with a TFS server, which aligns with troubleshooting in a technical context. However, it lacks detailed methodologies for diagnosing or resolving the issue, focusing more on the author's frustration rather than providing insights or solutions. The mention of reporting the issue does indicate some troubleshooting activity, but it is not the primary focus of the content.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is mainly about technical issues related to TFS and does not discuss Scrum Master responsibilities or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses technical issues related to server outages during a software launch, with no direct mention of Scrum Master responsibilities or concepts. While it touches on challenges faced in a software development context, it lacks any discussion of Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1153,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:43:23",
+    "calculated_at": "2025-04-10T15:56:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues with a specific tool (TFS) and does not focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1167,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with the TFS server and does not address Test Driven Development practices or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a personal issue with a server outage and does not relate to Scaling Scrum or its principles and practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1205,6 @@
     "reasoning": "Content primarily discusses experiences with a specific server outage and does not focus on system configuration practices or methodologies.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:43:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with a server and personal experience with the TFS environment, with no clear relation to scaling agile principles or practices.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T11:43:23",
@@ -1360,11 +1225,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:05:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal experience with a server outage and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal experience with server outages while launching a software product, which does not directly discuss social technologies or their principles. While there is a mention of communication with the CodePlex team, it lacks a broader discussion on collaboration, decision-making, or value delivery within organisations. The content does not explore any frameworks or methodologies related to social technologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1242,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS and Codeplex, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:38:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues with a specific server and personal experiences, lacking focus on Internal Developer Platforms or their benefits.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:38:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to TFS server outages and personal experiences, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses an issue with a TFS server and does not mention Scrum principles, roles, events, or any related topics. While it touches on project management tools, it lacks any direct references to Scrum or its framework, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a personal experience with a server outage related to TFS, lacking any explicit mention of the Shift-Left Strategy or its principles. There is no alignment with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. Overall, it is focused on a specific incident rather than the broader Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal experience with server outages during a software launch, lacking any explicit discussion on Continuous Improvement principles. While there is a mention of frustration and a call for service improvement, it does not delve into systematic processes, empirical evidence, or strategies for fostering a culture of learning and experimentation. The overall discussion does not align with the core themes of Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's frustrations with server outages while trying to launch a specific product. It does not discuss Common Goals, Agile, or DevOps principles, nor does it provide any insights into aligning strategy with execution. The mention of TFS (Team Foundation Server) is more about a technical issue rather than a discussion on shared objectives or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages during a software launch, which does not directly address the principles of competence in Agile or DevOps. While there is a brief mention of the service provided by CodePlex, it lacks a focus on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The discussion is more about operational challenges rather than fostering a culture of competence or professional development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses frustrations related to server outages during a software launch, lacking any explicit mention or exploration of Agentic Agility principles. It does not address intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The focus is on a personal experience with technical issues rather than on the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

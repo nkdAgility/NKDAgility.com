@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:03:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and traditional project management, with no clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of agile consultants and the importance of difficult conversations in driving organisational change. While it touches on themes of engagement and accountability, which are relevant to DevOps, it does not explicitly discuss DevOps principles or practices. The discussion lacks depth in terms of DevOps-specific topics such as automation, shared accountability among teams, or continuous improvement in a DevOps context.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:03:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum practices, highlighting the clash between Agile methodologies and traditional management, which is a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of dialogue and engagement in the context of agile consulting, which aligns with the principles of collaboration and decision-making. However, it does not explicitly mention social technologies or frameworks, and while it touches on themes of openness and accountability, it lacks depth in discussing specific methodologies or tools that promote these concepts. Overall, the content is relevant but does not fully meet the criteria for a strong alignment with the category.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -64,48 +70,36 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the clash of Agile and traditional management practices without a focus on metrics, data utilization, or learning mechanisms.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges between agile consultants and traditional management environments, with mentions of Scrum training and coaching. However, it does not focus primarily on Scrum principles, roles, or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of difficult conversations in fostering change, which indirectly relates to Scrum principles such as openness and continuous improvement. However, it lacks direct references to Scrum roles, events, or artifacts, and does not provide in-depth exploration of Scrum as a framework.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the relationship between Agile practices and management environments, particularly mentioning Agile consulting and Scrum, making Agile frameworks a significant theme, although it primarily focuses on client-consultant dynamics.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses Agile and Scrum environments and mentions the importance of collaboration and continuous improvement, it primarily focuses on the challenges faced by Agile consultants and their interactions with traditional management, rather than specific Scrum product development practices.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the challenges faced by agile consultants and does not reference specific events, presentations, or structured learning experiences.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of difficult conversations in fostering organisational change, which aligns with Agile principles. However, it lacks direct mentions of specific Agile frameworks and does not provide in-depth analysis or case studies related to Agile methodologies. The focus is more on the consultant's role rather than on Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -118,12 +112,12 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content mentions the clash between accountability and blame in Agile vs traditional management, but it is primarily focused on the role of clients and Agile consultants, rather than directly discussing accountability as a central topic.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -145,12 +139,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses the clash between Agile and traditional management cultures, it does mention the positive impact of a happy and inspired workforce on customer experience, which ties into customer satisfaction as a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of engagement and dialogue between clients and consultants, which indirectly relates to customer satisfaction. However, it primarily focuses on the role of consultants and the necessity of challenging conversations rather than directly addressing customer satisfaction metrics, techniques, or strategies. The discussion lacks depth in exploring customer satisfaction as a holistic approach integrated into Agile practices.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -181,10 +178,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the clash between Agile and traditional management practices and does not focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -208,10 +205,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the clash between Agile and traditional management practices, focusing on the roles of clients and agile consultants, rather than on specific collaboration tools or their impact on team dynamics.",
     "level": "Ignored"
   },
@@ -235,28 +232,31 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile methodologies and project management, with no clear primary focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:58:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of agile consultants and the importance of difficult conversations in driving organisational change. While it touches on themes of transformation and improvement, it does not explicitly mention Continuous Delivery or its principles, practices, or benefits. The focus is more on agile methodologies and consultant-client dynamics rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the challenges of Agile and traditional project management without specific focus on customer feedback integration.",
     "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Agile consultancy and project management rather than specific engineering practices related to software development.",
     "level": "Ignored"
   },
@@ -271,10 +271,10 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the clash between agile and traditional management practices, focusing on the role of agile consultants and teamwork rather than strategies for customer retention.",
     "level": "Ignored"
   },
@@ -289,47 +289,62 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodology, particularly in relation to Scrum and the role of Agile consultants, which is a significant but secondary theme in the context of software development practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of difficult conversations in fostering change within organisations. While it touches on Agile methodologies, the primary focus is on interpersonal dynamics rather than specific software development practices or methodologies. The mention of Agile is relevant but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of agile consultants and the importance of collaboration in agile environments, which aligns with coaching themes. However, it primarily focuses on the clash between agile and traditional management rather than specific coaching techniques or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating difficult conversations, which aligns with coaching principles of fostering growth and encouraging engagement. However, it primarily focuses on the consultant's role rather than the coaching process itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the clash between Agile and traditional project management environments and highlights the role of Agile consultants, which suggests a secondary theme related to Agile Planning and its principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of difficult conversations in fostering change, which indirectly relates to Agile Planning principles. However, it lacks direct mentions of Agile Planning methodologies, techniques, or specific practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges in Agile consulting, emphasizing the clash between Agile and traditional management practices, which relates to Agile principles and strategies, but is primarily focused on client behavior rather than a comprehensive discussion of Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating difficult conversations that lead to organisational change, which aligns with the core themes of Agile Strategy. It emphasises the importance of engagement, accountability, and fostering a culture of openness, all of which are crucial for implementing Agile methodologies effectively. However, while it touches on strategic aspects, it does not delve deeply into specific Agile strategies or frameworks, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of client behavior on an agile consultant's ability to foster high-performing teams, which relates to team dynamics and collaboration, but it primarily focuses on the interaction between agile and traditional management practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating difficult conversations, which can indirectly relate to team dynamics and performance. However, it lacks direct mentions of team performance metrics, agile ceremonies, or specific strategies for enhancing collaboration. The focus is more on the consultant's role rather than the team's performance itself, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lean": {
@@ -368,23 +383,17 @@
     "reasoning": "Content heavily discusses Agile and Scrum practices without a clear focus on Value Stream Management principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile methodologies and the challenges faced by agile consultants in traditional management environments, lacking a focus on the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges that arise when agile principles clash with traditional management practices, highlighting the need for cultural adaptation and the impact of organizational environments on agile consultants, which relates to change management aspects.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the role of agile consultants in facilitating meaningful change through difficult conversations, which aligns well with the principles of change management. It discusses the importance of engagement, accountability, and fostering a culture of openness, all of which are key themes in change management. The depth of discussion is substantial, providing insights into how organisations can navigate change effectively. However, while it is closely related to change management, it does not explicitly cover all aspects of the category, such as measuring the impact of change initiatives or case studies, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -415,12 +424,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the clash between agile methodologies and traditional management, touching on aspects of systems thinking and the influence of organizational cultures on effectiveness. However, the primary focus is on agile practices rather than a deep exploration of organisational dynamics and systems thinking.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating difficult conversations that can lead to organisational change, which aligns with the principles of systems thinking and organisational dynamics. However, while it touches on themes of engagement and transformation, it lacks a comprehensive exploration of systems thinking principles and their application in organisational contexts, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -449,15 +461,6 @@
     "reasoning": "Content heavily discusses the clash between agile methodologies and traditional project management, focusing on cultural issues rather than technical practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of traditional management on agile consultants and does not focus directly on the role of software developers within Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T08:37:40",
@@ -467,23 +470,17 @@
     "reasoning": "Content primarily focuses on Agile methodologies and the clash between Agile and traditional project management, without addressing Lean Product Development principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile methodologies and the clash between Agile and traditional management practices, focusing on team dynamics and project management rather than software code quality or complexity.",
-    "level": "Ignored"
-  },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the clash of cultures between Agile and traditional management, highlighting the impact of organizational culture on Agile practices. However, it primarily promotes a consultancy service, making the cultural theme a secondary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the importance of engaging in difficult conversations and fostering a culture of openness and trust, which are key elements of organisational culture. It aligns well with the themes of transformation and continuous improvement, highlighting the role of consultants in challenging the status quo and encouraging critical reflection within teams. The depth of discussion is substantial, providing insights into how these cultural aspects can facilitate Agile practices. Overall, the content is primarily focused on organisational culture, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -505,19 +502,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the challenges faced by agile consultants and the cultural clash between Agile and traditional management practices, with limited specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of dialogue in driving change, but it does not explicitly mention the Scrum Master or their specific responsibilities. While there are themes related to facilitation and engagement that align with Scrum principles, the primary focus is on the consultant's role rather than the Scrum Master. The depth of discussion on related concepts is moderate, but it lacks a direct connection to the Scrum Master role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses individual Agile consultant experiences and Scrum practices rather than large scale Agile transformation or frameworks.",
     "level": "Ignored"
   },
@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses the clash between agile and traditional management practices, with a focus on challenges faced by agile consultants, rather than on decision-making processes or theories in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Scrum and discusses issues related to Agile consulting in Scrum environments, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T08:37:40",
@@ -586,21 +577,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the clash between Agile and traditional management environments, mentioning the impact on collaboration and control, which relates to organisational change. However, it primarily focuses on Agile consultancy and training rather than organisational change methodologies.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the clash between Agile and traditional management practices without focusing specifically on scaling Agile or coordinating multiple teams at an enterprise level.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating organisational change through difficult conversations and challenging the status quo. While it does not explicitly mention frameworks or methodologies for organisational change, it aligns with the core themes of fostering a culture of agility and the importance of leadership in enabling change. The depth of discussion is moderate, focusing on the consultant's role rather than broader organisational strategies.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -610,15 +595,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile methodologies and their challenges, with no clear discussion of Lean Thinking principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the interplay between people (clients and agile consultants) and the impact of organizational culture on agile practices, aligning well with the themes of collaboration, communication, and leadership in an agile environment.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,21 +607,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the clash between agile and traditional management practices, which relates to business agility but primarily focuses on the challenges faced by agile consultants rather than directly exploring the principles and practices of business agility.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating difficult conversations that can lead to organisational change, which aligns with the principles of business agility. However, it primarily focuses on the consultant's role rather than broader business agility strategies or frameworks. While it touches on themes of engagement and accountability, it lacks detailed exploration of business agility metrics or case studies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content relates to Agile methodologies and the cultural clash with traditional management, indicating an awareness of complexity in organizational systems, but it primarily focuses on Agile practices rather than on complexity science per se.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of agile consultants in provoking thought and challenging the status quo within organisations, which aligns with the idea of enabling change in complex systems. However, it lacks direct references to complexity science principles, frameworks like Cynefin, or detailed exploration of non-linear dynamics. The focus is more on the interpersonal dynamics of consultancy rather than a comprehensive discussion of complexity thinking.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -667,23 +649,26 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges faced by Agile consultants in traditional management environments and does not focus on the Definition of Ready.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the clash of agile and traditional project management practices without mentioning lead time or its relevance.",
+    "calculated_at": "2025-04-11T12:24:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of agile consultants and the importance of engaging in difficult conversations for organisational transformation. It does not explicitly mention Lead Time or its significance as an observability metric. While there are themes of process improvement and accountability, these do not directly relate to Lead Time or its measurement. The discussion lacks depth regarding Lead Time, making it clear that this category is not a primary focus.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T08:37:40",
     "ai_confidence": 0,
@@ -694,21 +679,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses the clash between agile and traditional management practices, it does not primarily focus on leadership roles or practices within Agile contexts. It highlights challenges faced by agile consultants but does not explicitly address themes of Agile leadership.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile consultancy and cultural clashes rather than AI and automation.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating change and transformation, which aligns with Agile Leadership principles. It emphasises the importance of open dialogue, challenging assumptions, and fostering a culture of trust and accountability, all of which are key aspects of Agile Leadership. However, while it touches on leadership themes, the primary focus is on the consultant's role rather than on leadership itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -739,30 +718,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the clash between agile and traditional project management environments, highlighting issues of collaboration versus control, which aligns with themes of team dynamics. However, the primary focus seems to be on client interactions and challenges faced by consultants, making 'Team Collaboration' a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of allowing agile consultants to engage in difficult conversations, which indirectly relates to team collaboration by emphasising the need for open communication and challenging the status quo. However, it primarily focuses on the role of consultants rather than on team dynamics or collaboration techniques, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile principles and the challenges faced by agile consultants, which implies a relevance to market adaptability, but it does not focus primarily on strategies or practices that enhance organizational responsiveness to market shifts.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile methods and the role of consultants, without any mention of AI or its integration within Agile practices.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating change and transformation within organisations, which aligns with the principles of market adaptability. It highlights the importance of open dialogue and challenging the status quo, which are essential for fostering responsiveness to market shifts. However, while it touches on relevant themes, it does not delve deeply into specific methodologies like Agile, DevOps, or Lean practices, which slightly limits its depth of discussion. Overall, the content is relevant but not exhaustive in its exploration of market adaptability.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -793,10 +769,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the clash between agile and traditional management practices without addressing broader organizational agility concepts.",
     "level": "Ignored"
   },
@@ -808,15 +784,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the clash between agile and traditional project management environments, focusing on the role and impact of clients on agile consultants, without addressing the Product Backlog specifically.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the intersection of agile and traditional project management, mentioning agile practices and their impact on teams, making it a major but secondary theme.",
-    "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -836,24 +803,6 @@
     "reasoning": "Content primarily discusses the clash between agile and traditional management practices without focusing on troubleshooting or the identification and resolution of technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the interaction between agile consultants and clients, not specific products or literature.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the intersection of Agile and traditional project management, with a focus on challenges faced by Agile consultants, making it a significant theme though not strictly a news or review piece.",
-    "level": "Tertiary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T08:37:40",
@@ -872,21 +821,12 @@
     "reasoning": "Content primarily discusses the interaction between agile consultants and traditional management systems, without sharing personal experiences or insights.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the clash between agile and traditional management environments, but does not focus specifically on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the clash between agile and traditional management practices and does not focus on cross-functional teams.",
     "level": "Ignored"
   },
@@ -901,12 +841,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the clash between Agile and traditional management practices, touching on Agile roles and environments, but primarily focuses on the challenges faced by Agile consultants rather than specific Agile product management practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of engaging in difficult conversations, which aligns with Agile principles of stakeholder engagement and fostering a culture of openness. However, it lacks direct mentions of specific Agile Product Management practices, such as backlog prioritisation or the role of the Product Owner, which limits its depth in the category.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -919,11 +862,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile consulting and Scrum practices, without any focus on Test First Development or Test-Driven Development principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of agile consultants and the importance of difficult conversations in driving organisational change. It does not mention Test First Development, its principles, or related practices such as TDD or ATDD. The focus is on dialogue and transformation rather than testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,12 +883,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile concepts and integrates elements related to implementation in Scrum environments, but does not focus specifically on Scrum Team dynamics or roles in a detailed manner.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of difficult conversations in fostering change, but it does not explicitly mention Scrum Teams or their dynamics. While it touches on themes of engagement and accountability, which are relevant to team effectiveness, it lacks a direct focus on Scrum roles, collaboration techniques, or specific Scrum practices.",
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -973,12 +922,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the clash between agile and traditional management methodologies, hinting at strategic implications for agile consultants but does not primarily focus on strategic alignment or in-depth strategy development.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating difficult conversations that can lead to organisational change, which aligns with strategic discussions in Agile environments. However, while it touches on themes of engagement and transformation, it lacks a direct focus on strategic alignment or specific Agile strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -991,12 +943,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the clash between Agile and traditional management approaches and emphasizes the importance of collaboration and continuous improvement, which are key themes in Agile Philosophy. However, it leans towards specific Agile consultancy practices more than the broader philosophical implications.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating difficult conversations, which aligns with the Agile Philosophy's emphasis on collaboration, continuous improvement, and adaptability. It highlights the importance of open dialogue and challenging the status quo, reflecting core themes of the Agile mindset. However, while it touches on these principles, it primarily focuses on the consultant's role rather than a broader discussion of Agile principles, which slightly limits its depth in the context of Agile Philosophy.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1007,32 +962,29 @@
     "reasoning": "Content primarily discusses the clash between Agile and traditional management environments, focusing on the challenges faced by Agile consultants rather than the specific methodologies or practices of product delivery.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the clash between agile and traditional management practices, focusing on the role of an agile consultant rather than organizational scaling of agile methodologies.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the clash between agile and traditional management, highlighting the impact on consultants and the need for continuous improvement, which aligns with themes of organisational agility.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating organisational change through difficult conversations, which aligns well with the principles of organisational agility. It emphasises the importance of open dialogue, challenging the status quo, and fostering a culture of continuous improvement, all of which are key themes in the category. However, while it touches on these concepts, it does not delve deeply into specific agile methodologies or frameworks, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the clash between Agile and traditional management practices and highlights the role of Agile consultants, making Agile a significant theme, though the primary focus seems to be on client interactions rather than comprehensive Agile transformation strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating transformation through difficult conversations, which aligns with the principles of Agile transformation. It highlights the importance of engagement, challenging the status quo, and fostering a culture of openness, all of which are key themes in Agile methodologies. However, while it touches on these concepts, it does not delve deeply into specific Agile frameworks or methodologies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1043,30 +995,12 @@
     "reasoning": "Content primarily discusses the conflict between Agile and traditional management practices without focusing on portfolio management or the alignment of strategy with execution.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the clash between agile methodologies and traditional management practices, touching on themes of adaptability and continuous improvement, which are relevant to resilience and change, but the primary focus is on the role of agile consultants rather than organizational resilience.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the clash between Agile and traditional management practices, focusing on cultural issues rather than transparency and accountability specifically.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T08:37:40",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the clash between Agile and traditional management practices, and the role of an Agile consultant, but does not focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -1077,15 +1011,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the clash between Agile and traditional management approaches, focusing on the role of Agile consultants rather than on frequent software releases or related practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the cultural clash between Agile and traditional management approaches and does not focus on practical techniques or specific tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1099,11 +1024,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:24:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile methodologies and project management practices, which are not related to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of agile consultants and the importance of dialogue in driving organisational change. It does not discuss system configuration, configuration management tools, or any related topics. While it touches on themes of transformation and improvement, these are not aligned with the specific aspects of system configuration as defined in the category. The lack of direct mentions and minimal conceptual alignment results in a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1135,21 +1063,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses the clash between Agile and traditional management, focusing on the challenges faced by Agile consultants, rather than on the Agile Product Operating Model itself.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of difficult conversations in driving organisational change. However, it does not explicitly mention the Agile Product Operating Model or its core principles. While it touches on themes of transformation and engagement, it lacks a direct focus on product management practices, operational stability, or the integration of agile methodologies with product management, which are central to the APOM framework.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the clash between Agile and traditional management, which touches upon the learning and adaptation aspects necessary for improvement. However, the primary focus is on the challenges faced in Agile environments rather than the processes of discovery and learning themselves.",
-    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1178,23 +1100,17 @@
     "reasoning": "Content primarily discusses agile consulting, project management, and the clash of cultures between agile and traditional management environments, with no focus on automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile and Scrum, with no focus on Scaling Kanban or its principles.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interaction between Agile methods and traditional management, highlighting practical challenges faced by Agile consultants in real-world settings, making it a major theme but not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of allowing agile consultants to ask difficult questions and provoke thought within an organisation, which aligns with pragmatic thinking in terms of real-world application and problem-solving. However, while it touches on Agile principles, it lacks detailed strategies or case studies that would enhance its depth and alignment with the category.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1261,12 +1177,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the clash of Agile values with traditional management practices, highlighting the importance of collaboration and continuous improvement, which are related to Agile principles. However, it primarily focuses on specific Agile consultancy services and client-consultant dynamics rather than deeply exploring Agile values and principles themselves.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of engaging in difficult conversations and fostering a culture of openness and trust, which aligns with Agile principles of collaboration and continuous improvement. However, it primarily focuses on the role of consultants rather than explicitly detailing Agile values or principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1279,12 +1198,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T08:37:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the clash of culture and organizational environments in agile versus traditional management, touching upon the interplay of social systems (people and culture) and technical practices (agile methodologies). However, the primary focus is on client interactions and agile consultancy rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating difficult conversations, which indirectly touches on the interplay between social dynamics (team engagement, culture of openness) and technical practices (agile methodologies). However, it lacks explicit references to sociotechnical systems as a primary focus, and while it aligns with some core themes, it does not delve deeply into the broader implications of these interactions within organisational structures.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1297,12 +1219,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-18T08:37:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the impact of traditional management practices on Agile processes, hinting at the importance of transparency versus control, which makes transparency a major secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of open dialogue and engagement in Agile processes, which aligns with the core themes of transparency. It highlights the need for a culture of openness and trust, particularly in the context of working with agile consultants. The discussion on creating a safe space for difficult conversations and fostering accountability further supports the transparency theme. However, while transparency is a significant aspect of the content, it is not the primary focus, as the main emphasis is on the role of consultants and the nature of difficult conversations.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1315,20 +1240,23 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T08:37:41",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile consultancy, Scrum, and the clash between Agile and traditional management without a central focus on Systems Thinking principles.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T08:37:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:24:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the clash between Agile and traditional project management practices, focusing on cultural issues rather than the measurement or optimization of throughput.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of agile consultants and the importance of difficult conversations in driving organisational change. While it touches on themes of improvement and engagement, it does not explicitly discuss throughput as a delivery metric, nor does it provide any analysis or visualisation of throughput. The discussion lacks depth in relation to throughput metrics, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1342,38 +1270,471 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T08:37:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the clash between agile and traditional management practices, focusing on cultural issues rather than empirical evidence and data-driven decision making, which are central to Evidence Based Management.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of dialogue in driving change, but it does not explicitly mention Evidence-Based Management or its key topics. While there is some alignment with the idea of fostering a culture of openness and accountability, the focus is primarily on interpersonal dynamics rather than data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T08:37:41",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the challenges faced by agile consultants in traditional management environments, without any focus on installation or configuration topics.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T08:37:41",
+    "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the clash between agile and traditional management cultures but does not focus on measuring or improving the Ability to Innovate.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T08:37:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of traditional project management on Agile practices, indicating a secondary theme related to operational efficiency and improvement strategies. However, the primary focus is on cultural clashes rather than specific operational techniques.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating difficult conversations that can lead to operational improvements. While it touches on themes of engagement and accountability, it lacks specific techniques or strategies for optimising processes within Agile or Lean frameworks. The focus is more on the importance of dialogue rather than concrete operational practices, which limits its alignment with the category.",
+    "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:00:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and Scrum practices, with no mention of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:00:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and the challenges faced by Agile consultants, with no mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 30,
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions agile and scrum but primarily focuses on the role of consultants in facilitating change rather than discussing Scrum principles, roles, or events in detail. While it touches on themes of collaboration and challenging the status quo, it lacks a thorough exploration of Scrum's framework or practices.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of agile consultants and the importance of difficult conversations in fostering organisational change. While it touches on themes of engagement and improvement, it does not explicitly mention or align with the Shift-Left Strategy, which focuses on integrating testing, security, and compliance earlier in the software development lifecycle. The discussion is more about general Agile principles rather than the specific proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of engaging in difficult conversations to drive change and improvement within organisations, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the role of agile consultants and the necessity of dialogue rather than providing a comprehensive exploration of Continuous Improvement methodologies or frameworks. While it touches on themes of reflection and accountability, it lacks detailed strategies or empirical evidence typically associated with Continuous Improvement discussions.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of dialogue and challenging conversations in the context of agile consulting, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the importance of communication and engagement rather than explicitly addressing shared objectives or alignment within teams. The mention of accountability and ownership hints at Common Goals but lacks depth and direct connection to strategic alignment in Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of engaging in difficult conversations and fostering a culture of openness, which aligns with the principles of competence in Agile. It highlights the role of consultants in provoking thought and facilitating learning, which are key aspects of continuous development. However, while competence is a significant theme, the focus is more on dialogue and transformation rather than explicitly on skill development or professional capability, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of agile consultants and the importance of difficult conversations in driving organisational change. It does not explicitly mention the One Engineering System or its principles, components, or implementation. While it touches on themes of engagement and transformation, these are not directly aligned with the core topics of 1ES, such as standardisation and integration of software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of engaging in difficult conversations and challenging the status quo, which aligns with the principles of Agentic Agility. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is more on the role of consultants and fostering dialogue rather than on intentional shaping of outcomes through autonomy and adaptability.",
+    "level": "Secondary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:23:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating transformation through difficult conversations, which aligns with the principles of Agile product development and continuous improvement. However, it lacks direct mentions of specific product development methodologies and does not delve deeply into iterative processes or customer feedback loops. The focus is more on the consultant's role rather than on product development practices themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:23:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of dialogue and engagement in the context of agile transformation, which aligns with the principles of Open Space Agile. However, it does not explicitly mention Open Space Agile or its specific practices. The focus is more on the role of consultants and the necessity of difficult conversations rather than on collective participation or shared ownership, which are core themes of Open Space Agile. The depth of discussion on Open Space Agile principles is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:23:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of engaging in difficult conversations, which aligns with the principles of Agnostic Agile regarding critical thinking and professionalism. However, it does not explicitly mention Agnostic Agile or its core principles, nor does it provide a deep exploration of the category. The focus is more on the consultant-client relationship rather than on the broader context of agility or comparisons with specific frameworks.",
+    "level": "Tertiary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:23:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of agile consultants in facilitating difficult conversations to drive transformation within organisations. While it touches on themes of engagement and accountability, it does not explicitly address scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The focus is more on individual team dynamics and consultant-client interactions rather than on scaling Agile practices or cross-team collaboration, which are central to the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:23:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of agile consultants and the importance of difficult conversations in driving organisational change. While it touches on themes of engagement and accountability, it does not explicitly mention or align with the principles of Cell Structure Design, such as decentralisation, autonomous cells, or the Beta Codex. The focus is more on traditional consulting practices rather than the specific organisational model outlined in the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:23:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of dialogue and challenging assumptions in the context of agile consulting, which aligns with the principles of fostering engagement and psychological safety. However, it does not explicitly mention Liberating Structures or specific techniques associated with them. The focus is more on the role of consultants and the necessity of difficult conversations rather than on facilitation techniques or group dynamics as defined by Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:23:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of agile consultants and the importance of engaging in difficult conversations to drive organisational change. While it touches on themes of transformation and improvement, it does not explicitly mention Time to Market or related metrics. The discussion lacks depth regarding the measurement or optimisation of processes that would directly impact Time to Market, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:23:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating transformation through difficult conversations, which touches on aspects of organisational change and engagement. However, it does not explicitly mention the concept of 'Company as a Product' or provide a detailed exploration of how organisations can be treated as dynamic products. The focus is more on the consultant's role and the importance of dialogue rather than on integrating customer feedback into organisational design or fostering a culture of continuous improvement in a structured way. Therefore, while there are relevant themes, the primary focus is not on CaaP, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:23:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of agile consultants and the importance of difficult conversations in driving organisational change. It does not mention GitHub or its functionalities, nor does it align with the core themes of GitHub services, collaboration features, or version control practices. The focus is on Agile methodologies in a general sense, without specific reference to GitHub, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:24:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of engaging in difficult conversations with agile consultants to drive transformation and improvement within organisations. However, it does not explicitly mention 'Unrealised Value' or its indicators. While it touches on themes of potential improvements and innovation through dialogue, the primary focus is on the role of consultants and the necessity of open communication rather than on identifying or measuring untapped opportunities. The depth of discussion on the specific concept of Unrealised Value is minimal, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:24:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating change through difficult conversations, but it does not explicitly mention Current Value or its metrics. While it touches on themes of engagement and improvement, it lacks a direct focus on measuring or assessing value in real-time, which is central to the Current Value category. The discussion is more about the process of transformation rather than evaluating the tangible benefits delivered by a product or service.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:24:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of difficult conversations in driving transformation, but it does not explicitly mention Hybrid Agile or its specific challenges. While it touches on themes of accountability and engagement, it lacks a critical examination of the integration of traditional and agile methodologies, which is central to the Hybrid Agile category. The focus is more on the consultant's role rather than the hybrid approach itself.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:24:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the role of agile consultants and the importance of difficult conversations in driving organisational change. While it touches on themes relevant to project management, such as stakeholder engagement and fostering a culture of openness, it lacks direct mentions of core project management principles, methodologies, or tools. The discussion is more centred on agile practices and consultant-client dynamics rather than broader project management strategies, which limits its depth and alignment with the category.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the role of agile consultants in facilitating change through difficult conversations. While it touches on themes such as engaging stakeholders and provoking thought, it does not explicitly reference any models or frameworks outlined in the 'Model' category. The focus is more on interpersonal dynamics than on the application of conceptual models or decision-making frameworks relevant to Agile, DevOps, or Lean contexts. Thus, although there's some conceptual relevance, the overall depth regarding models is minimal.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of agile consultants and the importance of difficult conversations in facilitating change within organizations. While it touches upon the general context of Agile practices, it does not explicitly discuss artifacts, their definitions, purposes, or types within Agile or Scrum. The mention of engaging stakeholders and fostering dialogue does not relate directly to the examination of artifacts as representations of work. Therefore, the confidence score reflects a very low alignment with the 'Artifact' category criteria.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the importance of dialogue and engagement between agile consultants and clients, discussing interpersonal dynamics and transformation rather than specific tools or mechanisms that facilitate Agile practices. There are no direct mentions of tools, and while it touches on themes of change and improvement, it doesn't provide depth around the tools that enable these processes or any practical application of tool usage.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 5,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content actively discusses the necessity of difficult conversations and open dialogue as vital components of organizational growth and cultural transformation. It emphasizes values such as openness, trust, accountability, and the encouragement of critical reflection, which are aligned with the core themes of organizational values. However, while it articulates these values somewhat well, it lacks a deeper exploration of how these values shape team dynamics or decision-making processes specifically, thus the depth is slightly lower.",
+    "level": "Secondary"
+  },
+  "Framework": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content does mention Agile consulting and the importance of difficult conversations, suggesting some alignment with Agile principles. However, it lacks a structured discussion of specific frameworks and does not provide detailed strategies for implementing Agile methodologies or adapting frameworks in organizational contexts. The primary focus is on the role of consultants rather than on frameworks themselves.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 38.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the importance of dialogue and difficult conversations with agile consultants, which indirectly ties to the themes of team effectiveness and continuous improvement. However, it lacks direct mentions of specific practices or actionable techniques, focusing instead on the consultant's role and the need for challenging discussions. While it touches upon fostering open communication and accountability, these concepts are not described with sufficient depth or specificity to warrant a stronger connection to the 'Practice' category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of engaging in difficult conversations for meaningful transformation in organizations, hinting at a philosophical approach by emphasizing the reasons behind actions rather than focusing solely on practices. However, the primary focus on the role of the consultant and practical implications pulls it away from a strictly philosophical discussion, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 12,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content touches on the concepts of transformation and engagement in the context of working with agile consultants, which relates somewhat to the idea of developing capabilities, particularly in fostering an environment conducive to change and learning. However, it primarily focuses on the consultant's role and the importance of dialogue rather than addressing the enduring competencies or systematic capability development within teams or organizations. Due to this focus, the direct mentions score is moderate as the content does advocate for engagement as a drive for improvement but lacks deeper insights into strategies for embedding capabilities or measuring them within an organizational context. Consequently, it fails to deeply explore the core themes of the capability category.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 48.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 48.0,
+    "reasoning": "While the content discusses the role of dialogue in facilitating change within agile practices and touches on themes of accountability and continuous improvement, it does not explicitly define or elaborate on specific actionable tenets that could guide decision-making. Instead, it focuses more on personal experiences and the importance of difficult conversations without directly tying them to the application of tenets in Agile or related methodologies. Therefore, the discussion is relevant but lacks a strong focus on prescriptive tenets, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses the importance of communication and engagement in the context of agile consulting, focusing on dialogues and challenging conversations. It does not detail any specific methods, structured procedures, or practices associated with Agile or other methodologies. While it aligns conceptually with the idea of promoting transformation within organizations, it lacks depth in methodical discussions typically required for the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the role of agile consultants in driving organizational transformation through conversation and reflection. It does not discuss observability or related concepts such as metrics, logs, or the internal states of systems. There is no mention of the principles of observability or practices that enhance it. The content does not explore team collaboration metrics or any case studies on observability, making it largely unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of difficult conversations with agile consultants, which touches on principles of self-management and continuous improvement. It emphasizes fostering a culture of openness and accountability, aligning with core Agile principles. However, while it effectively highlights the need for dialogue and engagement, it does not thoroughly delve into specific actionable principles that guide Agile or Lean practices, resulting in a moderate depth score.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:41:15",
+    "ai_confidence": 48.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 48.0,
+    "reasoning": "The content discusses the role of agile consultants in facilitating change, focusing on the importance of dialogue and challenging the status quo. While it touches on principles of Agility and the importance of engagement, it lacks a broader discussion on the characteristics and governance of disciplines as a whole. Direct mentions of discipline-related concepts are present, but the content primarily emphasizes interpersonal dynamics and transformation rather than a systematic exploration of the Agile discipline itself.",
     "level": "Tertiary"
   }
 }

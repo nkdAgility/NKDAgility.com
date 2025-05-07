@@ -4,8 +4,9 @@ description: Transform your leadership with the Professional Scrum Master course
 ResourceId: NphdCz-Fh4k
 ResourceImport: true
 ResourceType: course
+ResourceContentOrigin: human
 shortTitle: Professional Scrum Master
-weight: 100
+weight: 350
 date: 2017-01-01
 creator: Martin Hinshelwood
 type: course
@@ -19,7 +20,7 @@ aliases:
 - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
 - /resources/NphdCz-Fh4k
-aliasesFor404:
+aliasesArchive:
 - /training-courses/professional-scrum-master
 - /training-courses/professional-scrum-master-psm-training
 - /training-courses/professional-scrum-master-training-with-certification
@@ -40,10 +41,29 @@ delivery-audiences:
 - Lean Agile Practitioners
 delivery-audiences_weight: 100
 tags:
-- Agile Project Management
+- Scrum Master
+- Agile Frameworks
+- Agile Leadership
+- Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Coaching
+- Complexity Thinking
+- Continuous Learning
+- Definition of Done
+- Empirical Process Control
+- Operational Practices
+- Organisational Agility
+- Pragmatic Thinking
+- Product Backlog
+- Product Delivery
+- Professional Scrum
+- Scrum Team
+- Self Organisation
+- Sensemaking
 categories:
 - Scrum
-- Social Technologies
+- Technical Leadership
 preview: NKDAgility-Courses-PSM-16x9.svg
 card:
   title: Professional Scrum Master

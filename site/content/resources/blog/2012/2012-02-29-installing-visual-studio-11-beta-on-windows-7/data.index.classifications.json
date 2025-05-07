@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation process of Visual Studio 11, which is a practical tool relevant to software development, but it does not delve into methodologies or frameworks that enhance Agile or DevOps practices.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T20:54:56",
@@ -28,66 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:54:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:54:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and user interface of Visual Studio 11, with no focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:54:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process and user interface of Visual Studio 11, with no significant discussion on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:55:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no mention of AI, automation, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 11 and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for the category. The discussion is superficial and does not provide any depth related to data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T20:55:02",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:55:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 11 on Windows 7, including details about the installation experience, user interface, and minimal configuration required.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 on Windows 7, providing a step-by-step narrative of the installation experience. It discusses the ease of installation, the lack of configuration required, and the time taken for the installation, which aligns well with the key topics of the 'Install and Configuration' category. However, while it mentions installation and configuration, the depth of technical detail regarding specific configurations or troubleshooting is somewhat limited, which slightly lowers the overall confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:55:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no significant focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:55:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:55:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 on Windows 7, discussing its features and user interface. There are no explicit mentions of DevOps principles, practices, or cultural shifts. The discussion lacks alignment with key DevOps topics such as collaboration, automation, or shared accountability, and does not provide any depth related to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a presentation about new features in Visual Studio 11, indicating a connection to an event, but the primary focus is on the installation process and user interface of the software.",
-    "level": "Tertiary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:55:15",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on flow efficiency or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:55:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no significant focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:55:20",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -244,10 +181,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-15T20:55:30",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
@@ -259,15 +196,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the installation and features of Visual Studio 11, which is a software product relevant to Agile and DevOps practices, but does not delve into reviews or analyses that would strengthen its alignment with the category.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -305,22 +233,25 @@
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T20:55:39",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:55:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no relevance to Agile principles or product operating models.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the installation process of Visual Studio 11 and does not mention or align with any principles of the Agile Product Operating Model. There are no discussions on product management, agile methodologies, or related frameworks, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and features of Visual Studio 11, which is relevant to technology updates, but it primarily focuses on a personal experience rather than broader industry news or reviews.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T20:55:44",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on application lifecycle management practices or methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:55:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no clear focus on Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +283,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:31:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is predominantly about installing and using Visual Studio 11, with no mention or discussion of the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation process and user interface of Visual Studio 11, touching on aspects that might be related to software development tools but lacks a strong focus on principles of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11, which is more of a user experience and setup guide rather than a discussion on technical mastery. While it mentions aspects of the user interface and installation efficiency, it lacks in-depth discussions on software craftsmanship, architecture, or engineering practices. The content does not delve into best practices, code quality, or methodologies that contribute to high-quality software development, which are essential for the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation and features of Visual Studio 11, without any reference to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 on Windows 7, discussing its features and user interface. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:31:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about installing Visual Studio 11 and does not discuss any aspects of Definition of Ready.",
     "level": "Ignored"
   },
@@ -496,10 +415,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:31:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation of Visual Studio 11 and its features, with no relevant content or discussions related to Scrum Teams, roles, or practices.",
     "level": "Ignored"
   },
@@ -559,10 +478,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:31:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with only a brief mention of Team Foundation Server, which does not focus on team performance or collaboration.",
     "level": "Ignored"
   },
@@ -586,28 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation and features of Visual Studio 11, which is a software development tool. However, it mostly revolves around the installation process and user interface rather than methodologies or practices in software development.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the installation and features of Visual Studio 11, with no discussion of agile methodologies or project management.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11, which is a software development tool. While it mentions aspects of the user interface and installation experience, it lacks a deeper discussion on software development methodologies, best practices, or coding principles. The mention of Team Foundation Server hints at collaborative development but does not provide substantial insights into software engineering practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:31:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the installation and features of Visual Studio 11, without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,12 +535,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions connecting to Team Foundation Server, which relates to source control, but mainly discusses the installation and features of Visual Studio 11.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the installation and user interface of Visual Studio 11, with only a brief mention of connecting to Team Foundation Server, which is related to source control. However, it lacks a detailed discussion on version control practices, methodologies, or strategies, making it only tangentially relevant to the category.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -658,12 +574,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio 11 and mentions connecting to Team Foundation Server, implying some collaboration aspect, but the primary focus is on installation and user interface features rather than collaboration tools for Agile teams.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the installation and features of Visual Studio 11, with only a brief mention of Team Foundation Server, which is a collaboration tool. However, the discussion does not delve into how collaboration tools enhance Agile team dynamics or workflows, making it peripheral to the category.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -701,15 +620,6 @@
     "reasoning": "Content primarily discusses the installation process and features of Visual Studio 11, with no focus on customer satisfaction or related principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on the installation and features of Visual Studio 11, with no mention of Scrum principles, practices, or scaling methodologies.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:31:44",
@@ -726,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no mention of psychological safety or related concepts.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on installing and discussing features of Visual Studio 11, with no relevance to scaling agility practices or frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +703,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:31:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and features of Visual Studio 11 rather than discussing innovation capabilities or strategies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 11, which is unrelated to Scrum practices or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the installation and features of Visual Studio 11, with no relevance to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1009,10 +892,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:31:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11 with no significant focus on team collaboration, Agile, Scrum, or DevOps principles.",
     "level": "Ignored"
   },
@@ -1034,31 +917,25 @@
     "reasoning": "Content focuses primarily on the installation process of Visual Studio 11 and user interface features, without discussing digital transformation or its strategic use in business.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-15T21:31:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the installation and features of Visual Studio 11, which does not relate to the concept of Minimum Viable Product or product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses solely on the installation process and features of Visual Studio 11, with no discussion of AI in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Visual Studio 11, mentioning aspects of the installation process, ease of use, and UI configurations. While it does contain some relevant elements to system configuration, it primarily focuses on the installation experience rather than a detailed exploration of system configuration methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the installation process of Visual Studio 11 on Windows 7, which includes some aspects of system configuration, such as the installation experience and user interface. However, it lacks a detailed exploration of configuration management tools, optimisation strategies, or troubleshooting common configuration issues. While it does mention the installation being painless and the lack of configuration required, these points are not elaborated upon in a way that aligns with the core themes of system configuration. Therefore, while there are relevant mentions, the depth and conceptual alignment are limited.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1099,20 +976,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on installing Visual Studio 11 and discussing its user interface, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 and its features, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 11 on the Windows 7 operating system, which directly relates to the configuration and management of the Windows environment.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 11 on Windows 7, which directly aligns with the category's emphasis on installation procedures for Windows. It discusses the installation process, user interface, and configuration aspects, providing a detailed account of the experience. However, while it is centred on Windows, it does not delve deeply into broader Windows topics such as troubleshooting or system updates, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1135,10 +1018,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:31:44",
+    "calculated_at": "2025-04-10T15:55:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and features of Visual Studio 11, with no discussion on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1180,11 +1063,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installing Visual Studio, with no relevance to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the installation of Visual Studio 11 and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, team dynamics, or the responsibilities of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on installing and discussing Visual Studio 11, with no references to teamwork, collaboration, or working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation and features of Visual Studio 11, without focusing on the role of software developers in Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1208,6 @@
     "reasoning": "Content primarily focuses on the installation and features of Visual Studio 11, with no relevant discussion on accountability or team dynamics in Agile.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:31:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses installation of Visual Studio 11 and related technical aspects, which are unrelated to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T21:31:44",
@@ -1360,11 +1228,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:53:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 and its features, with no substantial discussion on social technologies, collaboration, or decision-making frameworks. While there is a brief mention of 'team Explorer', it does not delve into the principles or methodologies of social technologies as defined in the category. Overall, the content lacks relevance to the core themes of social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:25:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:25:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation and features of Visual Studio 11, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation and features of Visual Studio 11, with no direct mentions of Scrum principles, roles, events, or practices. While there is a brief mention of 'team' in the context of Team Foundation Server, it does not align with Scrum's core themes or provide any depth on Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation and user interface of Visual Studio 11, with no direct mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on these topics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 and its features, with no substantial discussion on Continuous Improvement principles. While there are mentions of user experience and interface design, these do not align with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 and its features, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there are mentions of team collaboration tools like Team Foundation Server, these are not connected to the overarching theme of aligning strategy with execution or shared objectives. The content lacks depth and relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 11 and its features, with no explicit discussion on competence, continuous learning, or skill development. While it touches on user experience and interface preferences, these aspects do not align with the core themes of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses solely on the installation process of Visual Studio 11 and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content is primarily technical and instructional, lacking any connection to the themes of agency or agility.",
     "level": "Ignored"
   }
 }

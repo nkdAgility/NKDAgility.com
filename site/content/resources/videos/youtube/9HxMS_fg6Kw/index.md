@@ -2,8 +2,10 @@
 title: What are some big red flags when hiring an agile consultant?
 description: Discover key red flags to watch for when hiring an agile consultant to ensure a successful transformation from traditional project management.
 date: 2023-01-25T07:30:02Z
+weight: 840
 ResourceId: 9HxMS_fg6Kw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9HxMS_fg6Kw
@@ -15,28 +17,22 @@ preview: https://i.ytimg.com/vi/9HxMS_fg6Kw/maxresdefault.jpg
 duration: 402
 isShort: false
 aliases:
-- /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant
-- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
-- /resources/videos/9HxMS_fg6Kw
-- /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
 - /resources/9HxMS_fg6Kw
-aliasesFor404:
+- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
+aliasesArchive:
+- /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant
 - /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant
 - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
 - /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
+- what-are-some-big-red-flags-when-hiring-an-agile-consultant
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Agile Philosophy
-- Pragmatic Thinking
-- Personal
-- Agile Strategy
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 What are some big red flags when hiring an agile consultant?
@@ -57,7 +53,7 @@ You want to work with people who are a part of a group, a community, a cause, or
 
 The reason this matter is because you don’t want people who operate in echo chambers. Places where their ideas are never challenged and where they aren’t exposed to different lines of reasoning or different case studies and experiences.
 
-You want them to be an active member of a professional melting pot where they learn from others, grow through the exposure to other lines of reasoning, and develop their critical analysis capabilities by challenging others or asking for coaching and mentoring from senior members of the community.
+You want them to be an active member of a professional melting pot where they learn from others, grow through the exposure to other lines of reasoning, and develop their critical analysis capabilities by challenging others or asking for [coaching]({{< ref "/tags/coaching" >}}) and [mentoring]({{< ref "/tags/mentoring" >}}) from senior members of the community.
 
 In my experience, there are few things better than having professionals in your community challenge your argument and allow you to develop a deeper understanding of why you think what you do, how that can improve, and in some cases, why that line of reasoning is valid.
 
@@ -67,15 +63,15 @@ That is what we are actively trying to avoid. Someone who is trapped in the past
 
 ## A lack of understanding or knowledge of the core concepts.
 
-In our industry, we sometimes have people who have practiced as a **scrum master** for a couple of years deciding to present themselves as an **agile coach** or **agile consultant** without the necessary skills development and appropriate knowledge to do so.
+In our industry, we sometimes have people who have practiced as a **[scrum]({{< ref "/categories/scrum" >}}) master** for a couple of years deciding to present themselves as an **agile coach** or **agile consultant** without the necessary skills development and appropriate knowledge to do so.
 
 You want people who can talk knowledgeably about the core concepts of **Agile**. Things like:
 
-- Empiricism or Empirical Process Control
+- Empiricism or [Empirical Process Control]({{< ref "/tags/empirical-process-control" >}})
 
-- Lean
+- [Lean]({{< ref "/categories/lean" >}})
 
-- Lean UX Product Development
+- Lean UX [Product Development]({{< ref "/categories/product-development" >}})
 
 And so forth.
 
@@ -103,7 +99,7 @@ The latter consultancy gets into a vicious cycle because as they contract more w
 
 This pattern repeats with each cycle and each time they hire, the barrier to entry lowers and the calibre of consultant that you are hiring drops with the volume dependency. Because the consultancy now has so many consultants, they need to be even more aggressive in acquiring clients to feed those overheads and the spiral continues downward until something breaks.
 
-A great **agile consultancy** limits their work in progress and is highly selective about the clients they bring onboard because their focus is on delivering great work, achieving objectives and goals for clients, and developing a strong reputation for competence and capability development.
+A great **agile consultancy** limits their work in progress and is highly selective about the clients they bring onboard because their focus is on delivering great work, achieving objectives and goals for clients, and developing a strong reputation for [competence]({{< ref "/tags/competence" >}}) and capability development.
 
 So, for me, these would be the 3 red flags to watch out for when hiring an agile consultant.
 

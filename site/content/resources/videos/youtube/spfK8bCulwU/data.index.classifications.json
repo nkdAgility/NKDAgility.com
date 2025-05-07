@@ -1,20 +1,26 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T07:27:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile methodologies rather than DevOps principles.",
+    "calculated_at": "2025-03-21T19:53:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on product ownership and the principles of Scrum, with only a brief mention of DevOps at the end. While it discusses collaboration and customer focus, which are relevant to DevOps, the core themes and depth of discussion do not align closely with the principles of DevOps as outlined in the classification criteria.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T07:27:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses the PSPO course and its relevance to Scrum and Agile practices, highlighting the importance of roles and frameworks in product development.",
+    "reasoning": "The content discusses the role of a product owner, emphasising collaboration and team dynamics, which aligns with social technologies. However, while it touches on these themes, the primary focus is on product ownership and innovation rather than a comprehensive exploration of social technologies as defined. The depth of discussion on collaboration and decision-making is present but not extensive enough to fully meet the category's criteria.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -28,21 +34,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T07:27:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner and the importance of leadership in product development, making leadership a significant theme, but it primarily focuses on product management and training.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a product owner and the balance required in their approach, which touches on leadership aspects. However, it primarily focuses on product ownership and innovation rather than leadership practices in Agile or DevOps contexts. While there are mentions of collaboration and customer focus, the depth of discussion on leadership strategies and frameworks is limited.",
     "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T07:27:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner and the importance of product management in shaping product vision, but it primarily focuses on the PSPO course and Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of the product owner in balancing innovation with customer needs and team dynamics, which aligns well with the strategic aspects of product management. It touches on key themes such as customer focus, collaboration, and the importance of data in decision-making. However, while it provides a good depth of discussion, it does not explicitly mention methodologies like Agile or Scrum in detail, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -55,64 +67,55 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T08:00:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of a Product Owner in shaping product vision and mentions PSPO courses, indicating a focus on Product Owner responsibilities, but it also broadly discusses Agile principles and training unrelated to the specific role.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner, focusing on the balance between innovation and customer needs, which aligns well with the responsibilities of the role. It mentions the importance of understanding different facets of being a Product Owner and highlights the need for collaboration and customer focus. However, while it touches on key themes, it lacks detailed exploration of specific techniques for backlog management or prioritisation strategies, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T08:00:09",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the value of a PSPO course for entrepreneurs and does not discuss metrics, performance data, or feedback mechanisms central to the 'Metrics and Learning' category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T08:00:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the PSPO course and the role of a Product Owner, which are important aspects of Scrum. However, it mainly focuses on the course for entrepreneurs and has marketing elements, making Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework. It touches on the balance required in the Product Owner's responsibilities and the importance of customer focus and collaboration. However, while it mentions Scrum and agile concepts, it lacks a comprehensive exploration of Scrum principles, roles, and practices as outlined in the Scrum Guide. The discussion is more focused on the nuances of the Product Owner role rather than a broader examination of Scrum as a whole.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T08:00:09",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the PSPO course related to Scrum, emphasizing the knowledge and skills needed for product development within an Agile context, making Agile frameworks a significant theme, though not the sole focus.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T08:00:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Product Owner and the value of the PSPO course, which are related to Scrum methodologies, but the focus is more on training and personal development rather than deep Scrum practices or specific product development methodologies.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T08:00:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a PSPO course and includes a video of a speaker discussing its value, indicating a connection to a presentation format, though the primary focus is on product ownership and agile methodologies rather than event details.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a product owner, which is a key aspect of the Scrum framework, but it does not provide a comprehensive exploration of Agile frameworks as a whole. While it touches on Agile principles and the importance of balance in product ownership, the focus is primarily on the product owner's responsibilities rather than a broader analysis of Agile frameworks. The mention of Agile and Scrum at the end is brief and does not significantly contribute to the overall discussion, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T08:00:09",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Scrum roles and the benefits of PSPO training for entrepreneurs rather than discussing methodologies related to validating product ideas with users.",
     "level": "Ignored"
   },
@@ -145,10 +148,10 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T08:00:09",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses product ownership and scrum training without a clear focus on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
@@ -181,10 +184,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T08:00:09",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of a PSPO course for entrepreneurs and the role of a product owner, without addressing the Definition of Done.",
     "level": "Ignored"
   },
@@ -235,19 +238,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T08:00:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and product management rather than Continuous Delivery principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a product owner and the importance of balancing innovation with customer needs and team dynamics. While it touches on concepts like collaboration and customer feedback, which are relevant to Continuous Delivery, it does not explicitly discuss Continuous Delivery principles, practices, or automation in testing and deployment. The discussion lacks depth in Continuous Delivery-specific topics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T08:00:09",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses product management training and Agile methodologies without focusing on customer feedback integration.",
     "level": "Ignored"
   },
@@ -271,10 +277,10 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T08:00:09",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the PSPO course and the role of product owners in product development, without a clear focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
@@ -289,21 +295,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content focuses on Scrum and Agile methodologies in relation to product development, making it a major theme but not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a product owner within the context of Agile methodologies, particularly Scrum, which is a key aspect of software development. It touches on concepts like customer needs, team dynamics, and collaboration, which are relevant to software engineering practices. However, the focus is more on the personal reflections and experiences of the author rather than a detailed exploration of software development methodologies or practices. While it does mention Agile and Scrum, the depth of discussion on specific software development techniques is limited.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile coaching and highlights the importance of training and support related to product ownership and development, making coaching a significant aspect, but not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of collaboration and understanding team dynamics, which aligns with coaching principles. However, it primarily focuses on product ownership rather than coaching itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -316,21 +328,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of a Product Owner and the PSPO course, which are related to Agile principles, but the primary focus is on training and development rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a product owner within the context of Agile methodologies, particularly through the lens of the Advanced PSPO course. While it touches on Agile principles such as customer focus and team dynamics, the primary focus is on the product owner's responsibilities rather than a broader Agile strategy. The discussion includes elements of collaboration and measuring success, which align with Agile principles, but lacks a comprehensive exploration of strategic planning or organisational alignment. Therefore, while there is a significant connection to Agile concepts, it does not fully meet the criteria for a primary focus on Agile Strategy.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on the role of the Product Owner and the value of the PSPO course, it mentions the importance of building collaborative and high-performing teams in an Agile context, making Team Performance a significant secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses team dynamics and collaboration, which are key aspects of team performance. It mentions the importance of fostering an environment where team members feel valued and heard, aligning well with the category's focus. However, while it touches on these themes, the primary focus is on the role of the product owner rather than a comprehensive exploration of team performance strategies. The depth of discussion on team dynamics is moderate, providing some insights but lacking extensive detail on methodologies or metrics for measuring team performance.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -361,20 +379,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile and Scrum practices, focusing on product ownership and management without directly addressing Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and training rather than the One Engineering System framework.",
+    "reasoning": "Content heavily discusses Agile and Scrum practices, focusing on product ownership and management without directly addressing Value Stream Management principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -406,12 +415,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the value of the PSPO course for entrepreneurs and highlights the importance of acquiring skills and knowledge for product development and management, which relates to ongoing learning and improvement but is primarily focused on training for specific roles rather than broader continuous learning principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of balance between innovation and customer needs, which aligns with the principles of Continuous Learning. However, it primarily focuses on product ownership rather than explicitly addressing Continuous Learning practices or methodologies. The mention of collaboration and customer feedback hints at knowledge sharing, but the depth of discussion on Continuous Learning concepts is moderate, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -449,31 +461,13 @@
     "reasoning": "Content heavily discusses Scrum roles and events without focusing on technical practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product ownership and Agile training for entrepreneurs, without a clear emphasis on the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Scrum training and Agile methodologies, with no clear emphasis on Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without addressing software code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,30 +499,36 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a Product Owner and the PSPO course, with little to no direct reference to the responsibilities or practices specific to Scrum Masters.",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a product owner rather than the Scrum Master. While it touches on themes relevant to Scrum, such as collaboration and team dynamics, it does not explicitly discuss the responsibilities or impact of a Scrum Master. The discussion is more aligned with product ownership and its challenges, which are distinct from the Scrum Master's role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role of Scrum and product ownership, without addressing large-scale agility principles or frameworks for scaling Agile across an organization.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the PSPO course and its benefits for product management and development, touching upon value creation and agile principles but primarily focuses on course promotion and product owner importance.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a product owner in balancing innovation with customer needs, which aligns well with the principles of value delivery. It highlights the importance of understanding customer feedback, collaboration, and measuring success, all of which are key themes in value delivery. However, while it touches on these topics, the focus is more on personal reflections and experiences rather than a structured discussion of value delivery methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -557,15 +557,6 @@
     "reasoning": "Content primarily focuses on Agile and Scrum training and coaching rather than decision-making processes, heuristics, or frameworks associated with Decision Theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content heavily discusses the role of a Product Owner and mentions Scrum training and the PSPO course. However, it mainly focuses on product development for entrepreneurs rather than delving deeply into the Scrum framework itself.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T08:00:10",
@@ -593,15 +584,6 @@
     "reasoning": "Content primarily focuses on the PSPO course and agile training without directly addressing organisational change strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the PSPO course, Scrum roles, and individual Agile practices without focus on scaling Agile across multiple teams or an enterprise context.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T08:00:10",
@@ -610,15 +592,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the PSPO course, Scrum, and Agile methodologies, with no clear focus on Lean Thinking principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of a product owner in shaping product development and emphasizes the role of effective teamwork and leadership in Agile environments, making 'People and Process' a major theme.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,12 +604,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a product owner in shaping product development and management, relating it to agility and Scrum practices, which are relevant to business agility. However, the main focus is more on the PSPO training course rather than a comprehensive discussion on business agility principles and practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a product owner and touches on themes of customer needs, team dynamics, and collaboration, which are relevant to business agility. However, it primarily focuses on product ownership and Scrum practices rather than directly addressing the broader principles and strategies of business agility. The discussion lacks depth in exploring how these elements contribute to organisational agility, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -667,23 +643,26 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Product Owner and the benefits of a specific course for entrepreneurs but does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses product ownership and Agile training without mentioning Lead Time or its relevance to delivery times.",
+    "calculated_at": "2025-04-11T12:15:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a product owner, discussing aspects such as customer needs, team dynamics, and collaboration. While it touches on the importance of data and metrics, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T08:00:10",
     "ai_confidence": 0,
@@ -699,15 +678,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content predominantly focuses on product ownership and Scrum training, without a clear emphasis on Agile leadership principles or the role of leaders in fostering an Agile environment.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Scrum roles, product development, and training without any mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -739,30 +709,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of product development and management within an Agile context, and mentions the role of teams in evolving and improving, but does not focus primarily on team collaboration dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of a product owner and highlights the importance of team dynamics and collaboration, which are central to team collaboration in Agile frameworks. It explicitly mentions 'team collaboration' and explores how fostering an environment where team members feel valued can lead to better outcomes. The depth of discussion on balancing innovation with team needs and customer focus further strengthens its alignment with the category. However, the primary focus is on the product owner's role rather than team collaboration itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training and the role of a product owner, which relates to Agile practices that can enhance market adaptability, but the primary focus is on product development training rather than on specific strategies for responding to market changes.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses product management and Agile methodologies without mentioning AI.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a product owner in balancing innovation and customer needs, which aligns with market adaptability principles. It mentions customer focus and collaboration, key aspects of Agile methodologies. However, while it touches on data-driven decision-making, it lacks a direct emphasis on continuous feedback loops or specific DevOps practices, which limits its depth in the context of market adaptability.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -793,30 +760,21 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and product management without addressing broader organizational agility or its implications.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the PSPO course and general product management and development concepts, without focusing on the Product Backlog specifically.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "Content discusses the role of the Product Owner and mentions Scrum training, which are significant aspects of Agile Project Management, but it primarily focuses on the PSPO course and its relevance to entrepreneurs.",
-    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -834,24 +792,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and product management, with no focus on diagnosing or resolving technical issues.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the PSPO course, which is related to product ownership and Scrum training, but the primary focus is more on the role of a product owner and the benefits of Agile coaching rather than on specific products or literature.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the PSPO course and its relevance to entrepreneurs, rather than providing news or reviews about Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -872,21 +812,12 @@
     "reasoning": "Content primarily focuses on the Advanced PSPO course, product ownership, and business implications rather than personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the value of the PSPO course for individual product owners and entrepreneurs rather than on scaling Scrum practices across multiple teams or organizations.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the value of the PSPO course and does not focus on cross-functional teams or their dynamics.",
     "level": "Ignored"
   },
@@ -901,12 +832,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in Agile frameworks and the benefits of the PSPO course for product management, aligning well with Agile Product Management principles.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the role of the product owner within Agile frameworks, particularly through the lens of the Advanced PSPO course. It highlights key aspects such as balancing innovation with customer needs, the importance of collaboration, and the use of data-driven decision-making, all of which align closely with Agile Product Management principles. The depth of discussion on these topics indicates a strong focus on Agile methodologies, making it highly relevant to the category.",
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -919,11 +853,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the PSPO course and the role of product owners in Agile and Scrum, without focusing on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:59:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product ownership, customer needs, and team dynamics, with no direct mention of Test First Development principles or practices. While it touches on collaboration and the importance of understanding customer feedback, it does not discuss success criteria, testing methodologies, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,12 +874,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Product Owner, which is a key role within a Scrum Team. However, it primarily focuses on the PSPO course and product management rather than the dynamics and collaboration of the Scrum Team itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key role within a Scrum Team, and touches on team dynamics and collaboration. However, it primarily focuses on the individual perspective of the Product Owner rather than the broader dynamics of the Scrum Team as a whole. While there are mentions of team collaboration and the importance of understanding team dynamics, the depth of discussion on Scrum-specific practices and the roles of other team members is limited.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -955,12 +895,15 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of product ownership for entrepreneurs and the value of a specific course for advancing product development skills, indicating a significant but not exclusive focus on entrepreneurial themes.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of product ownership in entrepreneurship, highlighting the balance between innovation and customer needs, which aligns well with the principles of entrepreneurship. It explicitly mentions the importance of understanding customer demands and the need for a holistic approach in product development, which are key themes in entrepreneurship. However, while it touches on these topics, the depth of discussion on broader entrepreneurial strategies and risk management is somewhat limited, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1000,39 +943,39 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of Product Owners and Scrum methodologies, which are relevant to product delivery, but the primary focus is on the training and development aspects rather than the end-to-end delivery process.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a specific training course for product owners and does not discuss scaling agile practices within organizations.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of a product owner, emphasising customer needs, team dynamics, and collaboration, which are all integral to product delivery. It mentions methodologies like hypothesis-driven engineering and the importance of balancing innovation with customer feedback, aligning well with the core themes of product delivery. However, while it provides substantial insights, it lacks a detailed exploration of specific methodologies or practices directly related to the end-to-end delivery process, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of product ownership in shaping product development and highlights Scrum training, which is related to agile practices. However, it primarily focuses on the PSPO course and product management rather than broader principles of organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of a product owner and touches on aspects of customer needs, team dynamics, and collaboration, which are relevant to organisational agility. However, it primarily focuses on the product ownership role and the Advanced PSPO course rather than explicitly addressing broader organisational agility strategies or frameworks. The discussion on balancing innovation with customer feedback and team collaboration aligns with agile principles but lacks depth in exploring how these contribute to overall organisational agility.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles, particularly through the lens of the PSPO course, focusing on Scrum roles and how they relate to product development and management. It has a strong emphasis on Agile training but is primarily about product ownership rather than a comprehensive Agile transformation discussion.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a product owner within the context of Agile methodologies, particularly Scrum, and highlights the importance of balancing innovation with customer needs and team dynamics. It aligns well with Agile principles, emphasising collaboration and customer focus, which are core to Agile transformation. However, while it touches on Agile concepts, it does not delve deeply into broader strategies or frameworks for Agile transformation, which slightly limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1041,24 +984,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses product development and Scrum training, which are not central to portfolio management.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the PSPO course and Agile methodologies rather than discussions on resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of a PSPO course for entrepreneurs and focuses on product development and management, without clear emphasis on transparency or accountability principles in Agile teams.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
@@ -1079,15 +1004,6 @@
     "reasoning": "Content primarily focuses on the role of a product owner and the benefits of a PSPO course for entrepreneurs, with no discussion on frequent software releases or related practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the PSPO course and its value for enhancing product management skills, making Agile tools and practices relevant, but is primarily focused on training and certification rather than the specific application of practical techniques and tooling.",
-    "level": "Tertiary"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T08:00:10",
@@ -1099,19 +1015,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:15:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and product development, with no focus on system configuration or related technical aspects.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product ownership, innovation, and team dynamics, with no direct mention of system configuration or related topics. While there are discussions about collaboration and customer needs, these themes do not align with the core aspects of system configuration, such as configuration management tools or system optimisation. The depth of discussion is also limited to product ownership rather than any technical configuration practices.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the PSPO course and Scrum training, with a focus on roles and processes rather than product discovery methodologies.",
     "level": "Ignored"
   },
@@ -1135,21 +1054,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Product Owner and the PSPO course, indicating a focus on Agile product management and development, but it primarily emphasizes training rather than a comprehensive discussion on the Agile Product Operating Model.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and the Professional Scrum Product Owner course without a clear emphasis on the processes of discovery and continuous learning.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a product owner and touches on agile principles, particularly through the lens of the Advanced Professional Scrum Product Owner course. While it mentions customer focus and collaboration, which are relevant to the Agile Product Operating Model, it does not explicitly address the broader framework or principles of APOM. The discussion is more centred on the individual role of the product owner rather than the organisational model itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1178,23 +1091,17 @@
     "reasoning": "Content primarily discusses product ownership and Scrum, not automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and product ownership, with no substantial discussion on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of Scrum training for product owners, highlighting practical skills in product management and development that align with Agile and Scrum frameworks, but is primarily focused on the course offering rather than a deeper exploration of pragmatic problem-solving strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of a product owner within the context of Agile and Scrum, highlighting the importance of balancing innovation with customer needs and team dynamics. It mentions practical strategies such as hypothesis-driven engineering and collaboration, which align with pragmatic thinking. However, while it touches on these themes, the discussion lacks depth in practical problem-solving strategies and real-world applications, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1207,12 +1114,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how the PSPO-A course helps entrepreneurs shape product management decisions, which relates to decision-making in product development. However, the overall focus is more on the course and its benefits rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a product owner and touches on decision-making aspects, particularly through the lens of hypothesis-driven engineering and the importance of data in guiding choices. However, it primarily focuses on personal reflections and experiences rather than structured, evidence-based methodologies. While there are mentions of collaboration and customer needs, the depth of discussion on decision-making frameworks and empirical evidence is limited.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1252,28 +1162,31 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses product vision and development but focuses heavily on Agile methodologies and Scrum training rather than on product strategy itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a product owner and touches on customer needs and collaboration, which are relevant to product strategy. However, it primarily focuses on team dynamics and Scrum practices rather than providing a clear vision or roadmap for product development. The depth of discussion on strategic methodologies is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the PSPO course and product development, with a significant emphasis on Scrum training and frameworks rather than Agile values and principles.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and product ownership, with no focus on Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -1324,11 +1237,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:15:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a product owner and training courses related to product development, with no focus on measuring or optimizing throughput.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a product owner, discussing aspects such as customer needs, team dynamics, and collaboration. While it touches on the importance of data and metrics, it does not explicitly define or analyse throughput as a delivery metric. The discussions are more about balancing innovation and customer focus rather than examining throughput in terms of work item completion or delivery capacity.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1342,28 +1258,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T08:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Professional Scrum Product Owner course and its relevance for entrepreneurs, without a focus on Evidence-Based Management principles or empirical data-driven approaches.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a product owner and touches on concepts like customer needs and team dynamics, which are relevant to Evidence-Based Management. However, it primarily focuses on the balance between innovation and customer focus without deeply engaging with empirical decision-making or specific metrics that define EBM. The mention of hypothesis-driven engineering hints at data-informed decision-making, but the overall discussion lacks a strong emphasis on the core themes of EBM, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the value of a PSPO course for entrepreneurs and does not focus on installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T08:00:10",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum training and the role of product ownership, without a central theme of measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
@@ -1375,5 +1294,432 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on the value of a PSPO course and product development rather than on operational practices specifically related to efficiency or delivery within Agile methodologies.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:59:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:59:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses product ownership and Agile methodologies without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework. However, it primarily focuses on the balance between innovation and customer needs rather than the broader Scrum principles or practices. While it touches on collaboration and customer focus, it lacks detailed exploration of Scrum events or empirical process control, which are central to the category. The mention of 'agile, scrum, or DevOps' at the end indicates a broader context but does not significantly enhance the focus on Scrum specifically.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a product owner and the importance of balancing innovation with customer needs and team dynamics. While it touches on collaboration and customer engagement, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses aspects of product ownership, including customer needs and team dynamics, which are relevant to Continuous Improvement. However, it primarily focuses on the role of a product owner and innovation rather than explicitly addressing Continuous Improvement principles. While there are mentions of data-driven decision-making and collaboration, the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of balance, customer needs, and team dynamics, which are relevant to the concept of Common Goals. However, it primarily focuses on personal reflections and experiences rather than explicitly addressing shared objectives or strategic alignment within Agile and DevOps frameworks. The mention of collaboration and customer focus aligns with the category, but the overall depth and direct discussion of Common Goals are limited.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a product owner and touches on aspects of competence, such as the importance of understanding customer needs and fostering collaboration. However, it primarily focuses on product ownership and team dynamics rather than a deep exploration of competence as a foundational principle in Agile methodologies. The mentions of competence are not the primary focus, and while there is some alignment with the core themes, the depth of discussion on competence itself is limited.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a product owner within the context of Scrum and Agile methodologies, discussing customer needs, team dynamics, and collaboration. However, it does not explicitly mention the One Engineering System (1ES) framework or its principles, components, or implementation. The discussion is more centred on personal experiences and insights related to product ownership rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of balance, customer focus, and collaboration, which are relevant to the concept of Agentic Agility. However, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, and does not delve deeply into the principles of Agentic Agility. The focus is more on product ownership and Agile practices rather than the transformative capacity of individuals and systems.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:14:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the role of a product owner, which is central to product development. It highlights key aspects such as customer needs, team dynamics, and the importance of balance in product ownership. The mention of hypothesis-driven engineering and collaboration aligns well with the principles of Agile product development and customer feedback loops. The depth of discussion is substantial, covering various facets of the product owner's role and the importance of integrating customer feedback into product design. Overall, the content is highly relevant to the category, demonstrating a strong understanding of product development methodologies.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:14:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of a product owner within the context of Scrum and Agile methodologies, discussing aspects such as customer needs, team dynamics, and collaboration. However, it does not explicitly mention Open Space Agile or its principles. While there are elements of collaboration and balance that align with Agile values, the discussion lacks depth regarding Open Space Technology, psychological safety, or co-creation, which are central to the Open Space Agile category. Therefore, the confidence score reflects a low alignment with the specific category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:15:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a product owner within the context of the Scrum framework, particularly through the lens of the Advanced PSPO course. While it touches on themes such as customer needs and team dynamics, which are relevant to Agnostic Agile, it does not explicitly discuss the principles of Agnostic Agile or advocate for a context-driven approach. The discussion lacks depth in exploring how these concepts relate to Agnostic Agile, and it does not provide comparisons with other methodologies or ethical considerations in agile practices. Therefore, while there are some relevant elements, the overall focus remains on Scrum mechanics rather than the broader philosophy of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:15:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a product owner and the importance of balancing innovation with customer needs and team dynamics. While it touches on collaboration and customer focus, which are relevant to scaling, it does not explicitly discuss scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The discussion lacks depth in terms of scaling strategies and does not provide specific examples or metrics related to scaling efforts, leading to a low confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:15:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product ownership within the context of Scrum and Agile methodologies, discussing customer needs, team dynamics, and collaboration. While it touches on themes of balance and collaboration, it does not explicitly mention or align with the principles of Cell Structure Design or the Beta Codex. The discussion lacks depth regarding the characteristics of autonomous cells or decentralised structures, which are central to the category. Therefore, the confidence score reflects minimal relevance to the specified category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:15:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a product owner and touches on collaboration and customer focus, which are relevant to group dynamics. However, it does not explicitly mention Liberating Structures or their specific techniques. The discussion is more centred on product ownership and Agile principles rather than the facilitation techniques that characterise Liberating Structures. Therefore, while there is some conceptual alignment, the lack of direct mentions and depth regarding Liberating Structures results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:15:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of balancing innovation with customer needs and team dynamics. However, it does not explicitly mention 'Time to Market' or related metrics. While there is some conceptual alignment regarding the need for collaboration and understanding customer needs, the depth of discussion on optimising processes for quicker delivery is minimal. Overall, the focus is more on product ownership principles rather than directly addressing Time to Market.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:15:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 30,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of customer focus and collaboration, which are relevant to the CaaP concept. However, it primarily centres on product ownership rather than the broader organisational strategy of treating the company as a product. While there are mentions of customer needs and team dynamics, the discussion lacks a direct focus on organisational design or the integration of customer feedback into the overall company strategy, which are key aspects of CaaP. Therefore, while there is some alignment, it does not fully meet the criteria for a strong confidence score.",
+    "level": "Tertiary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:15:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a product owner and discusses concepts related to product management, customer needs, and team dynamics. While it briefly mentions Agile and Scrum, it does not specifically address GitHub or its functionalities, tools, or best practices. The lack of direct mentions of GitHub and minimal alignment with the core themes of the category results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:15:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a product owner and the importance of balancing innovation with customer needs, but it does not explicitly mention 'Unrealised Value' or its indicators. While there are elements of potential improvements and innovation opportunities, the focus is primarily on product ownership and team dynamics rather than on identifying or measuring untapped opportunities within an organisation. The discussion lacks depth in exploring specific strategies or frameworks related to Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:15:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a product owner and touches on customer needs and data-driven decision-making, which are relevant to Current Value. However, it lacks a direct focus on measuring Current Value or specific metrics, and the discussion remains more theoretical than practical. While there are mentions of customer feedback and collaboration, the depth of analysis on Current Value indicators and their impact on decision-making is limited.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:15:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a product owner within the context of Scrum and agile methodologies, discussing aspects like customer needs, team dynamics, and collaboration. However, it does not explicitly mention Hybrid Agile or critically examine the integration of traditional project management with agile practices. The discussion lacks depth regarding the challenges and pitfalls of Hybrid Agile, and it does not address the core themes outlined for this category. Overall, while there are elements of agile practices, the content does not align with the specific focus of Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:15:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the role of a product owner within the context of Scrum, which is a specific agile methodology. While it touches on themes such as customer needs, team dynamics, and collaboration, which are relevant to project management, it lacks a broader discussion of core project management principles, methodologies, and lifecycle phases. The emphasis on product ownership and agile practices limits its alignment with the wider project management category, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content touches on aspects of product ownership and collaboration, it primarily focuses on the role and responsibilities of a product owner without directly discussing specific conceptual models or frameworks that inform decision-making. There are brief mentions of how product ownership aligns with innovation and customer needs, but these do not dive deeply into the frameworks listed under the 'Model' category. The main themes of the content are more centered around personal reflections and the practical implications of being a product owner rather than a thorough exploration of models related to Agile or Lean methodologies.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the role of a product owner in a Scrum context, touching on concepts like customer needs and team dynamics. However, it does not explicitly discuss artifacts as defined in the context of Agile frameworks. While there is mention of balance and hypothesis-driven engineering, the focus is more on the responsibilities and mindset of the product owner rather than on the artifacts themselves, such as the Product Backlog or Sprint Backlog. Thus, it aligns partially with the category but lacks direct focus on artifacts.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses on the role and responsibilities of a product owner in the context of Scrum but lacks direct discussion of specific tools or their functionalities that support these responsibilities. While it touches on concepts like collaboration and customer focus, it does not address any tools that facilitate implementing these ideas or processes within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 45.0,
+    "ai_mentions": 6,
+    "ai_alignment": 25,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the role of a product owner and emphasizes collaboration, customer focus, and team dynamics. These themes align with the core values of Agile and Scrum, particularly the focus on collaboration and understanding customer needs. However, while these values are present, the primary focus remains on the practical aspects of product ownership rather than explicitly discussing underlying beliefs or principles guiding these practices. Thus, the direct mentions are moderate, the alignment with core themes is fair, and the depth of discussion provides some valuable insights but lacks a comprehensive exploration of values as foundational elements.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 63.0,
+    "ai_mentions": 2,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the role of product ownership, emphasizing its importance in frameworks like Scrum through the lens of the Advanced PSPO course. While it does touch on Agile principles and collaboration, it primarily focuses on personal insights and the importance of balancing customer needs and team dynamics rather than providing structured methodologies or detailed implementation strategies inherent to framework discussions. The mention of Scrum and its roles contributes positively but does not make it a primary focus of the content.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 38.0,
+    "ai_mentions": 7,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 38.0,
+    "reasoning": "The content discusses the role of a product owner, emphasizing balance, customer focus, and collaboration. While these themes are relevant to practices in agile and product management, they do not delve into specific actionable techniques or habitual practices directly associated with the category 'Practice'. The mentions of concepts like collaboration and customer focus align conceptually with practices but lack depth in actionable techniques or detailed discussion of the practices themselves. The core topics of practices like pair programming, TDD, and retrospectives are not addressed, suggesting a secondary focus rather than a primary focus on practice.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 17.0,
+    "ai_mentions": 0,
+    "ai_alignment": 28.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 17.0,
+    "reasoning": "The content primarily discusses concrete aspects of product ownership, focusing on practical issues like team dynamics, customer needs, and specific methodologies related to Scrum and Agile. While there are hints of philosophical reflection on the role of a product owner, such as balancing innovation with customer focus, these do not constitute a deep exploration of the philosophical underpinnings that guide decision-making or team culture. Therefore, the content only partially aligns with the 'Philosophy' category and lacks both direct mentions and in-depth discussion of core philosophical themes.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly touches on the importance of balance, customer focus, and team dynamics, which are important for product ownership. However, it primarily focuses on the role of the product owner and innovation rather than discussing capabilities as enduring competencies that teams cultivate over time. While collaboration and understanding customer needs are mentioned, these elements are framed within the context of product ownership rather than as systemic capabilities integrated into organizational processes. Thus, the primary discussion is not aligned closely enough with the defined category of 'Capability'.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the role of a product owner and emphasizes themes like customer focus and collaboration. However, it lacks direct mentions of specific tenets or actionable guiding rules from Agile, Lean, or DevOps methodologies. While it touches on relevant principles and concepts, it lacks depth in translating these into specific tenets or actionable practices, thus resulting in a relatively low confidence score for alignment with the 'Tenet' category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 7,
+    "ai_alignment": 26,
+    "ai_depth": 21,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a product owner and mentions the Advanced PSPO course, which hints at certain methodologies related to product ownership, such as customer focus and collaboration. However, it lacks a detailed focus on structured procedural methods such as Scrum or specific techniques for Agile practices. The discussion is more conceptual and philosophical about the role and its importance rather than outlining step-by-step methods or procedures.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mentions metrics and data in the context of product ownership but does not focus on observability as defined by the category. It briefly discusses the importance of gathering data and measuring success related to product features, which aligns somewhat with observability concepts, but it lacks depth in discussing internal system states or specific observability practices. The primary discussion revolves around product ownership, customer needs, and team dynamics rather than observability principles or practices.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a product owner with an emphasis on balancing innovation, customer focus, and team dynamics, which are aligned with principles of Agile methodologies. The mentions of customer collaboration and the focus on data-driven decisions relate to principles like customer collaboration and continuous improvement. The depth regarding the balance required in product ownership demonstrates a good understanding of actionable principles, although it lacks explicit reference to traditional Agile or Lean principles.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "spfK8bCulwU",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:41:10",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 28,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the role of a product owner, emphasizing balance, customer needs, and team dynamics, which relate to principles of Agile methodology. However, it primarily focuses on the practical aspects of being a product owner and does not delve deeply into the overarching principles, methodologies, or governance structures associated with the discipline of Agile or Lean. The discussions are more centered around responsibilities and challenges rather than the systemic application or maturation of these practices as established disciplines.",
+    "level": "Tertiary"
   }
 }

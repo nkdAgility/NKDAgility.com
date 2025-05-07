@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:04:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the integration of UX practices within the Scrum framework, focusing on roles, collaboration, and continuous improvement, which aligns closely with the principles of Social Technologies.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of UX within Scrum, highlighting collaboration and cross-functional teamwork, which aligns with the principles of social technologies. However, it primarily focuses on UX techniques and certification rather than a broader discussion on social technologies or their impact on organisational culture and behaviour. The mention of community support and collaborative learning adds to the relevance, but the depth of discussion on social technologies is limited.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,19 +22,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:05:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum and UX integration, which does not align with the core principles of DevOps.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and UX, which are not central to DevOps principles. While there are mentions of collaboration and cross-functional teams, the discussion lacks depth in DevOps concepts such as automation, shared accountability, and continuous improvement. The emphasis is on Scrum methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:05:03",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the integration of UX practices within Scrum, which is relevant to product management, particularly in understanding customer needs and product discovery. However, the primary focus is on Scrum training rather than broader product management strategies.",
     "level": "Tertiary"
   },
@@ -46,82 +52,67 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses concepts related to Scrum and UX integration, which are associated with agile methodologies; however, it primarily focuses on a specific training course rather than central principles of business agility.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and User Experience Integration, without a central focus on Complexity Thinking or its principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily discusses the intersection of User Experience (UX) and Scrum, focusing on how to effectively integrate UX practices within Scrum teams. It covers practical applications of Scrum principles and roles, which enhances understanding of Scrum in a professional context.",
     "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum practices and user experience integration within Agile, with no focus on automated testing principles or methodologies.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on integrating User Experience into Scrum practices, rather than on evidence-based management principles or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Scrum and UX integration, without discussing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum and its integration with User Experience, with no focus on Scaling Kanban principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of UX in Scrum and does not explicitly discuss Evidence-Based Management principles. While it touches on value-based outcomes and collaborative practices, it lacks a strong emphasis on empirical decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses experimentation in the context of Scrum and mentions testing hypotheses with experiments, indicating that hypothesis-driven development is a significant theme. However, the primary focus seems to be on integrating UX practices within Scrum, making hypothesis-driven development a secondary theme.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on the Scrum framework, emphasizing its integration with User Experience (UX) practices, which is a core aspect of Agile frameworks. It discusses Scrum roles, practices, and how to effectively implement UX within Scrum teams, aligning with the key topics of Agile frameworks.",
     "level": "Secondary"
   },
@@ -136,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a course on integrating UX with Scrum, not focusing on the Definition of Ready criteria.",
     "level": "Ignored"
   },
@@ -150,15 +141,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a course on integrating UX with Scrum, focusing on roles, responsibilities, and techniques rather than analyzing trends or their impacts on Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and UX integration within Scrum teams, without addressing scaling Agile or enterprise-level practices.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -181,10 +163,10 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a training course focusing on integrating User Experience with Scrum, rather than specifically addressing the Sprint Review process or its elements.",
     "level": "Ignored"
   },
@@ -199,10 +181,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of UX within Scrum teams and how Scrum Masters and Product Owners can enhance collaboration and delivery through UX principles, making 'Team Performance' a significant theme, but it is not the primary focus.",
     "level": "Tertiary"
   },
@@ -226,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the integration of UX practices within the Scrum framework, which is relevant to product delivery methodologies, but it primarily focuses on UX integration rather than the end-to-end product delivery process.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily focused on Scrum and User Experience, with no mention or application of AI in Agile or DevOps practices.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,39 +224,21 @@
     "reasoning": "Content primarily focuses on Scrum training and UX integration rather than on digital transformation strategies or the application of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the integration of User Experience (UX) into Scrum processes, emphasizing collaboration within Scrum Teams and how various roles (Scrum Masters, Product Owners, UX Professionals) interact to improve product discovery and delivery. The focus on teamwork and maintaining effective processes aligns strongly with the category.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Scrum and User Experience methodology, without any mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the integration of User Experience (UX) with Scrum, focusing on how Scrum teams can enhance their processes and delivery through UX practices, which aligns well with Agile Project Management principles.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the integration of UX practices within the Scrum framework, which aligns with Lean principles of delivering value and continuous improvement. However, it is primarily focused on Scrum and UX rather than Lean Thinking specifically.",
     "level": "Tertiary"
   },
@@ -296,31 +251,13 @@
     "reasoning": "Content primarily discusses a course on integrating UX with Scrum, without a clear focus on accountability or team ownership principles.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum training focused on UX integration and does not emphasize transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Scrum and UX integration rather than on release management practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Professional Scrum and User Experience, lacking any discussion of the One Engineering System framework.",
+    "reasoning": "Content primarily focuses on Scrum and UX integration rather than on release management practices.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -343,46 +280,49 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses integrating UX with Scrum practices, which may address aspects of technical leadership, but it focuses more on UX practices than on guiding development teams or the principles of technical leadership.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on integrating UX practices within Scrum without direct discussion on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "While the content discusses the role of Scrum Masters and how they can integrate UX practices into Scrum, the primary focus appears to be on the UX aspect within the Scrum framework rather than on the explicit responsibilities, coaching, and practices of Scrum Masters themselves.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of UX within Scrum but does not focus on the responsibilities or impact of the Scrum Master. While it mentions Scrum and the importance of collaboration in cross-functional teams, it lacks a direct exploration of the Scrum Master's role, responsibilities, or influence on team dynamics and organisational change. The primary focus is on UX and its integration into Scrum, which is secondary to the Scrum Master category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses integrating UX practices within Scrum, which relates to planning and executing work in an Agile context, but the primary focus is on UX rather than Agile Planning principles themselves.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily focuses on Professional Scrum and UX integration, it discusses Agile concepts like self-organizing teams, continuous learning, and customer focus, making Agile values a significant but secondary theme.",
     "level": "Tertiary"
   },
@@ -397,11 +337,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:31:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum and User Experience, with no mention of Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of UX in Scrum and does not explicitly discuss Test First Development principles. While it touches on collaborative practices and agile methodologies, it lacks direct mentions of success criteria, testing practices, or the importance of defining tests before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,82 +403,64 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily focuses on integrating User Experience (UX) within Scrum, it touches upon enhancing continuous learning, managing UX work in Scrum, and focusing on outcomes over outputs, which relate to the Ability to Innovate. However, the main theme revolves around Scrum methodology rather than A2I as a central topic.",
     "level": "Tertiary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily focuses on integrating User Experience (UX) within Scrum, which is a critical aspect of Agile transformation, emphasizing the collaboration and adaptation required to enhance Scrum practices.",
     "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on UX integration within Scrum, which does not align primarily with Engineering Practices such as clean code, TDD, or CI/CD.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the integration of UX practices in Scrum, and while it mentions Lean UX, the primary focus remains on Scrum and UX, making Lean Principles a secondary theme.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the integration of UX practices within Scrum, with no clear discussion on Scrum values themselves.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and UX integration, focusing on technical aspects of training rather than resilience and change methodologies.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on integrating UX practices within Scrum, highlighting practical techniques and methodologies that enhance Scrum implementation. It discusses specific learning outcomes related to Scrum and UX collaboration, which aligns well with the category.",
-    "level": "Secondary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Scrum and UX integration, with no clear mention or discussion of Value Stream Mapping.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the integration of UX practices within Scrum and mentions managing work in Sprints and the Product Backlog, but it primarily focuses on UX and Scrum training rather than on Product Backlog itself.",
     "level": "Tertiary"
   },
@@ -548,21 +473,12 @@
     "reasoning": "Content primarily discusses a training course for Scrum with a focus on user experience, lacking personal anecdotes or individual insights.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content describes a training course focused on Scrum, which can be categorized under professional learning experiences similar to events, though it does not primarily discuss specific events or presentations.",
-    "level": "Tertiary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Scrum and UX integration without discussing working agreements or team collaboration principles.",
     "level": "Ignored"
   },
@@ -577,21 +493,12 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 75,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
+    "final_score": 75.0,
     "reasoning": "The content primarily focuses on how UX practices integrate within Scrum Teams and discusses the roles of Scrum Masters and Product Owners in relation to team dynamics and effectiveness. However, it also includes broader discussions on UX and Agile principles, making Scrum a significant but secondary theme.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Scrum practices and user experience integration rather than scaling agility at an organizational level.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -613,28 +520,31 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of UX within Scrum and does not explicitly discuss Continuous Delivery principles or practices. While it touches on collaborative processes and value delivery, it lacks depth in Continuous Delivery topics such as automation, rapid feedback, or specific strategies for improving software quality.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the integration of User Experience (UX) within Scrum, which indirectly relates to customer satisfaction through understanding user needs and improving overall product experiences. However, the primary focus remains on Scrum training rather than directly measuring or enhancing customer satisfaction.",
     "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and UX integration within Scrum teams, without addressing remote working practices, challenges, or solutions.",
     "level": "Ignored"
   },
@@ -649,23 +559,23 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the integration of User Experience (UX) into Scrum teams, emphasizing collaboration and communication within cross-functional teams, which aligns well with the themes of team collaboration in Agile frameworks.",
     "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a course related to integrating UX practices within the Scrum framework, without specific reference to the Daily Scrum event.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T00:49:53",
     "ai_confidence": 0,
@@ -683,32 +593,26 @@
     "reasoning": "Content focuses entirely on Scrum and User Experience training, with no mention of Windows operating system or related topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on integrating UX practices into Scrum, emphasizing continuous learning, product discovery techniques, and fostering a culture of experimentation and feedback within Scrum teams.",
-    "level": "Secondary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of self-organizing teams within the context of integrating UX practices into Scrum, making self-organisation a significant theme although not the sole focus.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of UX into Scrum and touches on aspects of product teams, user-centric approaches, and continuous value delivery within an Agile framework, but it primarily focuses on Scrum and UX rather than a broader discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of UX within the Scrum framework, which is a specific agile practice rather than a comprehensive discussion on the Agile Product Operating Model. While it mentions collaboration and value delivery, it lacks a detailed exploration of the core principles and themes of APOM, such as transitioning to a product ethos or operational governance.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -721,19 +625,19 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Scrum and the integration of UX practices, without clear alignment to the principles of Behaviour Driven Development.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on integrating UX practices into Scrum, which is a significant aspect of Agile methodologies. While it discusses responsiveness and collaboration in Scrum teams, the overall emphasis does not predominantly center on market adaptability strategies.",
     "level": "Tertiary"
   },
@@ -757,10 +661,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the integration of UX in Scrum and mentions understanding user needs, which relates to gathering customer feedback. However, it is primarily focused on UX practices within Scrum rather than customer feedback loops specifically.",
     "level": "Tertiary"
   },
@@ -775,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses UX integration into Scrum without a focus on metrics, data collection, or learning methodologies essential for the 'Metrics and Learning' category.",
     "level": "Ignored"
   },
@@ -793,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses integrating UX practices within Scrum, which touches on Lean principles and continuous learning, making Lean a significant but secondary theme.",
     "level": "Tertiary"
   },
@@ -807,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Scrum training course covering UX integration and certification, without discussing mentoring processes or coaching techniques.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on integrating UX with Scrum, without discussing AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -829,46 +724,46 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on integrating UX practices within Scrum, which involves discussions around team performance and delivery optimization, making strategy a significant theme.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily discusses the integration of UX practices within the Scrum framework and mentions techniques for managing work in Sprints, which relates to operational practices, but it focuses more on Scrum and UX integration rather than directly on operational efficiency.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "Content discusses the integration of UX within Scrum and emphasizes aspects of outcomes and impacts, continuous learning, and the role of teams, which aligns with Agile principles, but the primary focus is on Scrum practices.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on UX integration within Scrum and does not address Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Scrum training and the integration of UX practices, which involves elements of coaching within teams but is not solely about coaching as a primary topic.",
     "level": "Tertiary"
   },
@@ -883,10 +778,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content emphasizes continuous learning in the context of integrating UX practices into Scrum, discusses managing UX work within Scrum teams, and highlights how to balance discovery and delivery work, making the Continuous Learning category central to the course material.",
     "level": "Secondary"
   },
@@ -910,66 +805,48 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum and UX integration, with no discussion on version control practices.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses professional Scrum with a focus on integrating User Experience (UX) within Scrum teams, emphasizing roles relevant to Agile Product Management such as Product Owners and Scrum Masters. It covers how UX practices can enhance product discovery and delivery in an Agile context.",
     "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on integrating UX practices into Scrum, rather than on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum and User Experience, without a clear emphasis on Value Stream Management or its principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on UX integration within Scrum teams, but does not address scaling Scrum in large organizations or the coordination of multiple teams.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the integration of UX within Scrum teams and touches upon team dynamics and collaboration, which are relevant to sociotechnical systems. However, the primary focus is on Scrum methodology rather than the broader interplay between social and technical systems.",
     "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific training course that focuses on enhancing Scrum practices with user experience, which aligns with the category of products and training resources relevant to Agile methodologies.",
-    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -982,19 +859,19 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about Scrum and User Experience, with no mention of Continuous Integration principles, practices, or tools.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on practical strategies for integrating UX practices in Scrum, involving hands-on learning and real-world applications of Scrum principles, which aligns closely with pragmatic thinking.",
     "level": "Secondary"
   },
@@ -1018,10 +895,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses integrating User Experience (UX) into Scrum, which relates to enhancing working software. However, the primary focus is on UX and Scrum roles rather than on delivering functional software itself.",
     "level": "Tertiary"
   },
@@ -1054,19 +931,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Scrum practices and user experience integration rather than strategic product vision or roadmap development.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily discusses Scrum methodologies, user experience integration, and practices within Scrum teams, aligning well with software development themes.",
     "level": "Secondary"
   },
@@ -1108,21 +985,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses how UX professionals can effectively integrate within Scrum teams, emphasizing the importance of cross-functional collaboration and the role of diverse skill sets in achieving outcomes. It provides insights on managing UX work in Scrum and how Scrum Masters and Product Owners can leverage a cross-functional team structure.",
     "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how Scrum and UX practices integrate, which relates to the role of software developers in Agile teams. However, the main focus is more on Scrum and UX rather than directly on software developers themselves.",
-    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1144,30 +1012,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the integration of UX in Scrum and does not address installation or configuration topics.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Product Owners in relation to their role in coordinating UX within Scrum teams, indicating a secondary theme focusing on the Product Owner's responsibilities.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily describes a training course on Professional Scrum with UX rather than discussing industry news or providing reviews.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1198,46 +1057,46 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and User Experience training, with no clear focus on asynchronous development practices or principles.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on integrating UX practices in Scrum, which does not explicitly address Agile leadership roles or themes.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with a focus on UX integration rather than team motivation strategies.",
     "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
+    "final_score": 80.0,
     "reasoning": "The content discusses the integration of experimentation and hypothesis testing within Scrum and UX practices, focusing on how to validate outcomes and enhance decision-making in Agile workflows.",
     "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses how to integrate UX practices into Scrum processes, which includes elements of product discovery and validation through understanding user needs and feedback. While the focus is primarily on Scrum and UX rather than product validation methodologies directly, it does incorporate some relevant themes about user engagement and techniques for understanding user needs.",
     "level": "Tertiary"
   },
@@ -1252,19 +1111,22 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content focuses on integrating User Experience (UX) practices within the Scrum framework, highlighting Scrum roles, team dynamics, and specific outcomes related to Scrum principles.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the integration of UX within the Scrum framework, highlighting the importance of cross-functional teams and collaborative practices. While it mentions Scrum and its principles, the focus on Lean UX and dual-track agile processes indicates a broader scope that slightly dilutes the primary focus on Scrum itself. The depth of discussion on Scrum roles and events is moderate, primarily contextualised within the UX perspective.",
     "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses significantly on integrating User Experience practices within the Scrum framework, which is integral to delivering value to customers. It discusses how to balance product discovery and delivery, emphasizes understanding customer needs, and highlights the role of Scrum in enhancing continuous learning and value delivery.",
     "level": "Secondary"
   },
@@ -1288,46 +1150,37 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on integrating user experience practices within Scrum, emphasizing product discovery techniques, understanding user needs, and balancing discovery with delivery in product development.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T00:49:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on integrating User Experience (UX) into Scrum practices, emphasizing the roles of Scrum Masters and Product Owners in enhancing product development through UX, which aligns with the principles of Scrum Product Development.",
     "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content focuses primarily on a Scrum training course with an emphasis on the integration of UX practices in Scrum, which is more about agile training rather than organisational change strategies. It does touch on collaboration within Scrum teams, but does not primarily address organisational change processes.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a course about integrating UX practices within Scrum, rather than discussing the Definition of Done itself.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum and User Experience integration, which relates to Agile methodologies but focuses more on technical practices than on strategic planning or implementing Agile at scale.",
     "level": "Tertiary"
   },
@@ -1351,10 +1204,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum and its integration with UX practices, which are relevant to organizational agility, but the primary focus remains on Scrum training rather than a broader exploration of agility in the organizational context.",
     "level": "Tertiary"
   },
@@ -1369,11 +1222,107 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-18T00:49:53",
+    "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum and UX integration, which are not central to Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and UX, with no direct mention of Artificial Intelligence or its application within Agile methodologies or DevOps practices. While it discusses collaboration and product development, it does not explore how AI can enhance these processes, thus lacking alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and UX practices, with no direct mention of Internal Developer Platforms. It discusses the role of UX in Scrum and does not align with the core themes of IDPs, such as streamlining development processes or automation. The depth of discussion is limited to Scrum methodologies, which are unrelated to the IDP concept.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of UX in Scrum and does not explicitly discuss the Shift-Left Strategy. While it touches on collaborative practices and Lean UX, it lacks a direct connection to integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of UX in Scrum and mentions Lean UX techniques, which align with Continuous Improvement principles. However, it primarily focuses on UX and Scrum rather than Continuous Improvement as a primary topic. The discussion of empirical and incremental skill development hints at Continuous Improvement but lacks depth and direct focus on its core themes.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of UX in Scrum and mentions collaboration within cross-functional teams, which aligns with the concept of shared objectives. However, it primarily focuses on UX techniques and certification rather than explicitly addressing Common Goals in Agile or DevOps. The discussion lacks depth on how these elements connect to overarching strategic objectives, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of UX in Scrum and mentions skill development through hands-on learning and community support, which aligns with the concept of competence. However, it primarily focuses on UX practices rather than a broader discussion of competence in Agile methodologies. The depth of discussion on competence is limited, as it does not delve into strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and UX practices, with no direct mention of the One Engineering System framework. While it discusses collaboration and integration within teams, it does not align with the core principles of 1ES, nor does it provide depth on standardising engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of UX in Scrum and does not explicitly discuss Agentic Agility or its principles. While it touches on collaboration and value-based outcomes, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
     "level": "Ignored"
   }
 }

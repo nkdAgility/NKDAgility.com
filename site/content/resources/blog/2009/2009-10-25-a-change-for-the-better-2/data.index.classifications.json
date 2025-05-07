@@ -8,15 +8,6 @@
     "reasoning": "The content primarily discusses personal career experiences and roles related to software architecture and productivity, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools like Visual Studio and TFS, and mentions methodologies related to improving productivity and team dynamics, but it primarily focuses on personal experiences and job transitions rather than a detailed exploration of practical techniques and tooling.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T01:53:10",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:53:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career experiences and job roles, with no clear focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T01:53:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal career experiences and job roles rather than the interplay between software code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses personal experiences and insights related to job satisfaction and productivity, which aligns with learning and improvement, but it primarily focuses on career transitions and specific roles rather than broader discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:53:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal career experiences and roles within software development, with no clear focus on AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences rather than discussing Evidence-Based Management principles. While there are mentions of productivity and rules for improvement, these do not directly relate to empirical decision-making or the key topics outlined in the EBM category. The discussion lacks depth and does not provide metrics or data-driven insights that are central to EBM.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:53:18",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and roles rather than specific installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T01:53:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal career experiences and job roles, with no clear focus on transparency or accountability principles within Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -100,38 +58,38 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's transition between roles and the importance of communication and organisational culture in job satisfaction, which aligns with sociotechnical themes, but it primarily focuses on personal experiences and job responsibilities.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses personal experiences related to job satisfaction and adaptability in the workplace, which aligns with themes of resilience and change, but it primarily focuses on personal career transitions rather than organisational strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the author's transition between roles at Aggreko and SSW, touching on aspects of organisational culture and personal job satisfaction. However, while it mentions communication with management and the importance of enjoying one's job, it lacks a comprehensive exploration of the interplay between social and technical systems. The focus is more on personal experiences and job roles rather than a detailed analysis of sociotechnical systems.",
     "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses roles and responsibilities related to software architecture and ALM (Application Lifecycle Management), which are relevant to DevOps practices, but the primary focus is on personal career development and experiences rather than core DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences rather than discussing DevOps principles or practices. While there are mentions of roles and responsibilities that could relate to DevOps, such as improving productivity and collaboration, these are not explored in the context of DevOps philosophy or its core themes. The discussion lacks depth regarding automation, shared accountability, or cultural shifts necessary for effective DevOps implementation.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T01:53:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and reflections related to a job transition, including insights on workplace happiness and productivity, without directly referencing Agile, Scrum, DevOps, or Lean principles.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses personal experiences and reflections related to a job transition, which aligns with the Miscellaneous category. While it mentions tools and roles, it does not delve into specific Agile, Scrum, DevOps, or Lean methodologies. The discussion is anecdotal and lacks actionable insights, focusing instead on personal narratives and general productivity tips, which fits the criteria for Miscellaneous content.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses personal career decisions and experiences rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:53:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal career experiences and job transitions rather than events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T01:53:29",
@@ -160,15 +109,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career experiences and roles rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:53:31",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses personal experiences related to job satisfaction, communication with leadership, and the importance of enjoying one's work, which aligns with team dynamics and the human factors influencing workplace processes.",
-    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T01:53:34",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and job transitions rather than metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,12 +148,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's transition to a new role involving technical responsibilities and tools, such as TFS and SharePoint, but primarily focuses on personal experiences and job satisfaction rather than engineering practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on personal experiences and career transitions rather than on specific engineering practices or methodologies that enhance technical excellence. While there are mentions of tools like Visual Studio and TFS, the discussion lacks depth in technical methodologies such as TDD or CI/CD. The content does not provide substantial insights into how these tools contribute to technical excellence or agile practices, making it more of a personal narrative than a technical discussion.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -226,11 +169,14 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses employee satisfaction and the importance of enjoying one's job, which relates to psychological aspects of organisational behaviour. However, the primary focus is on personal career experiences and technical roles, making the category a secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on employee satisfaction and the importance of enjoying one's job, which aligns with motivational theories. However, the primary focus is on personal career progression and technical roles rather than a deep exploration of organisational psychology principles. The discussion lacks comprehensive detail on psychological theories or strategies that influence team dynamics or organisational performance.",
     "level": "Tertiary"
   },
   "Product Delivery": {
@@ -260,15 +206,6 @@
     "reasoning": "Content primarily discusses personal career experiences and job roles, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:53:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and job transitions rather than specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T01:53:45",
@@ -280,20 +217,26 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Team Foundation Server (TFS), which is part of the Azure DevOps suite, and discusses roles and responsibilities related to its implementation. However, the primary focus is on personal experiences and job transitions rather than a detailed exploration of Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions Team Foundation Server (TFS), which is part of the Azure DevOps suite, but it primarily focuses on personal experiences and job transitions rather than discussing Azure DevOps functionalities or best practices. The alignment with Azure DevOps themes is minimal, and while there is some depth regarding the author's role and responsibilities, it lacks a comprehensive exploration of Azure DevOps as a whole.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T01:53:48",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content shares personal experiences and reflections on job transitions, challenges faced in previous roles, and insights on workplace happiness, which align with the Personal category. However, it also includes technical details about tools and responsibilities that may detract from its primary focus on personal experiences.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences and reflections regarding their job transition from Aggreko to SSW. It discusses personal feelings about job satisfaction, interactions with colleagues, and the impact of workplace culture on individual happiness. However, while it touches on personal insights, the depth of discussion on Agile, Scrum, or DevOps principles is limited, and the technical aspects of the roles mentioned detract from the personal focus.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -305,7 +248,7 @@
     "reasoning": "Content primarily discusses personal career experiences and job roles rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T01:53:50",
     "ai_confidence": 0,
@@ -316,48 +259,39 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:53:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career experiences and roles rather than the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences rather than discussing the Agile Product Operating Model. While there are mentions of productivity and rules for better work, these do not directly relate to the core principles or themes of the APOM. The content lacks detailed discussion on agile methodologies, product management practices, or the transition from project to product ethos, which are essential for a higher confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal experiences and roles that touch on organisational practices and productivity, but it primarily focuses on individual career progression rather than a comprehensive exploration of organisational agility principles.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a personal career transition and mentions tools and practices relevant to Agile and DevOps, but it primarily focuses on personal experiences rather than industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on personal experiences and roles within organisations, but lacks a focused discussion on organisational agility principles. While it mentions improving productivity and adapting to new roles, it does not delve into agile methodologies, leadership roles in fostering agility, or strategies for continuous improvement, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's transition to a role that involves responsibilities related to Visual Studio ALM offerings and migrating TFS customers, indicating a focus on application lifecycle management as a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:53:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal career experiences and roles rather than Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the author's transition to a new role at SSW, where they will be involved in tasks related to Visual Studio ALM offerings and migrating customers to TFS 2010. While there are mentions of ALM and some relevant practices, the overall focus is more on personal experiences and job satisfaction rather than a comprehensive discussion of Application Lifecycle Management methodologies or tools. The depth of discussion on ALM is moderate, but it lacks a thorough exploration of the lifecycle stages or best practices.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,20 +304,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and job responsibilities rather than the Definition of Done in Agile and Scrum frameworks.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's new role involving technical strategies and tools, such as TFS and SharePoint, which are relevant to software development practices, but the primary focus is more on career transition and personal experiences rather than deeply exploring engineering principles or best practices.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the author's career transition and personal experiences rather than delving deeply into technical mastery principles. While there are mentions of roles related to software architecture and tools like Visual Studio and SharePoint, the discussion lacks a thorough exploration of best practices, methodologies, or principles that define technical mastery. The content is more narrative and personal than analytical or instructional regarding software craftsmanship.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -397,11 +334,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career experiences and tasks at Aggreko and SSW, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences rather than discussing Continuous Delivery principles or practices. While there are mentions of roles related to software development and productivity, there is no explicit discussion of Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The content lacks depth in addressing the key topics outlined for the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -424,19 +364,22 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily focuses on personal experiences and job responsibilities, it touches on the importance of enjoying work and communicating with superiors about job satisfaction, which are facets of organisational culture. However, it does not delve deeply into cultural aspects or their influence on agile practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses personal experiences and reflections on job satisfaction and organisational rules at SSW, which touches on aspects of organisational culture. However, it primarily focuses on individual experiences and technical roles rather than a comprehensive exploration of cultural elements that influence agility or transformation within teams. The mention of rules and expectations from leadership provides some alignment with the category, but the depth of discussion is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a personal career transition and experiences at Aggreko and SSW, without discussing the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -487,19 +430,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions improving organizational practices and productivity in a new role, focusing on rules and methods that might align with operational practices, but it lacks a clear, primary focus on specific operational techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on personal experiences and career transitions rather than operational practices. While it briefly mentions improving productivity and organisational efficiency through SSW's rules, it lacks detailed discussions on specific operational techniques or methodologies relevant to Agile, DevOps, or Lean frameworks. The content does not provide substantial insights into process optimisation or continuous improvement strategies.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses personal career changes and responsibilities in a new role, without a focus on Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -559,12 +505,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on personal experiences related to job roles, team dynamics, and the importance of enjoying one's job, which aligns with team performance discussions but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on personal experiences and reflections related to job satisfaction and team dynamics, particularly in the context of moving from Aggreko to SSW. However, it lacks a focused discussion on specific strategies or methodologies for enhancing team performance, collaboration, or Agile practices. The mention of SSW's rules hints at team productivity but does not delve into the core themes of team performance as defined in the category.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -586,28 +535,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a transition to a role in software architecture and mentions specific tools and practices related to software development, but it also includes personal experiences and productivity advice, making software development a major but secondary theme.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on career progression, personal experiences, and specific technologies rather than discussing Agile Project Management methodologies or concepts.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the author's transition to a new role as a Senior Software Architect and mentions various technologies and practices related to software development, such as Visual Studio, TFS, and SharePoint. However, the primary focus is on personal experiences and opinions rather than a detailed exploration of software development methodologies or practices. While there are mentions of software tools and responsibilities, the depth of discussion on software development principles is limited.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a personal job transition and specific roles at Aggreko and SSW, rather than focusing on Agile values and principles.",
     "level": "Ignored"
   },
@@ -667,10 +610,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences, job changes, and specific software roles without a focus on organisational change processes or methodologies.",
     "level": "Ignored"
   },
@@ -701,15 +644,6 @@
     "reasoning": "Content primarily discusses personal employment experiences and job responsibilities rather than customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a personal career transition and experiences related to software roles without mentioning scaling Scrum principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:03:09",
@@ -721,37 +655,34 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of communication about job satisfaction and the potential feelings of unhappiness in one’s job, linking to themes of psychological safety in the workplace. However, it primarily focuses on personal experiences and career transitions rather than a detailed exploration of psychological safety as a primary topic.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career experiences and roles rather than strategies for scaling agility across an organization.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on aspects of psychological safety, particularly in the context of discussing job satisfaction and the importance of communication with one's boss about unhappiness at work. However, it does not delve deeply into the broader themes of psychological safety, such as team dynamics or strategies for fostering a supportive culture. The focus is more on personal experiences and job transitions rather than a comprehensive exploration of psychological safety as a concept.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses roles and responsibilities related to software architecture and mentions standards for productivity, which relates to best practices in software development, but the primary focus is on personal career experiences rather than engineering excellence itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's career transition and personal experiences rather than explicitly discussing engineering excellence or best practices in software development. While there are mentions of rules and standards from SSW that could relate to engineering practices, the overall discussion lacks depth in technical topics such as coding standards, CI/CD, or quality assurance. The content does not provide substantial insights into engineering processes or metrics, which are crucial for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job roles, personal experiences, and workplace standards without addressing Revenue per Employee metrics or related financial analysis.",
     "level": "Ignored"
   },
@@ -784,12 +715,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical aspects of transitioning roles and improving productivity at the workplace, but it does not primarily focus on problem-solving strategies in Agile, Scrum, or DevOps contexts.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses personal experiences and transitions between roles, touching on productivity and job satisfaction, which are relevant to pragmatic thinking. However, it lacks a strong focus on specific Agile, Scrum, or DevOps methodologies and does not provide detailed practical problem-solving strategies or case studies. The mention of SSW's rules hints at a pragmatic approach but does not delve deeply into their application in complex environments.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,39 +736,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal career development, job transition, and tasks related to software architecture rather than innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal employment experiences, roles, and responsibilities in software development, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on personal career experiences and specific tools used rather than discussing Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses personal experiences and reflections on job satisfaction, the importance of enjoying one's job, and the necessity of communicating unhappiness to management, which touches on employee engagement topics. However, the primary focus is on career change and specific roles rather than deeply exploring employee engagement strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses aspects of employee engagement, particularly in the context of job satisfaction and the importance of communication with management about unhappiness at work. It mentions the expectation to enjoy one's job and the need for personal and professional improvement, which aligns with intrinsic motivation. However, the primary focus is on the author's career transition and technical roles rather than a comprehensive exploration of employee engagement strategies or practices.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -865,12 +784,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses roles related to software architecture, productivity in software projects, and specific software tools like Visual Studio and SharePoint, but does not primarily focus on the delivery of working software.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's career transition and personal experiences rather than discussing the characteristics or delivery of working software. While there are mentions of software tools and roles, the discussion lacks depth on how these relate to delivering functional software that meets customer needs. The alignment with the core themes of working software is minimal, as it does not address best practices, customer feedback, or iterative development in a meaningful way.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -937,12 +859,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily focuses on a personal career transition and roles, it does touch upon discussions of making decisions regarding job satisfaction and the importance of communication with supervisors, which can relate to decision-making processes in organizations.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on decision-making in the context of job satisfaction and personal career choices, but it lacks a structured, evidence-based approach to decision-making as outlined in the category definition. While it mentions discussions with a boss about job happiness, it does not delve into empirical evidence or frameworks for decision-making, which are central to the category.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1000,21 +925,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches upon transitioning from one job to another and discusses personal experiences and insights related to organizational change, albeit in a more personal narrative rather than a structured approach to change management.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a personal career transition and mentions the importance of job satisfaction and communication with management, which are tangentially related to change management. However, it lacks a focused discussion on change management strategies, principles, or practices, and does not provide depth on how to navigate organisational change effectively.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a new role involving communication and productivity guidelines from SSW that may involve collaborative practices, but it primarily focuses on personal career transitions and individual responsibilities rather than explicit techniques or strategies for team collaboration.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on team dynamics and personal experiences related to job satisfaction and communication with a boss, but it lacks a focused discussion on team collaboration techniques or Agile principles. The mention of SSW's rules hints at collaboration but does not delve into specific strategies or case studies that would enhance understanding of teamwork within Agile or DevOps frameworks.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1027,29 +958,23 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the implementation of modern digital tools like SharePoint and CRM as well as improving productivity, which are relevant to digital transformation, but the primary focus is on personal career transition rather than a strategic discussion of digital transformation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on personal experiences and job transitions rather than a strategic discussion on digital transformation. While it mentions tools like SharePoint and Visual Studio, it lacks a clear emphasis on how these technologies enhance business agility or foster innovation. The depth of discussion is more about personal productivity and job satisfaction than about organisational change or digital transformation strategies.",
+    "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:03:09",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the author's job transition and responsibilities at SSW, with no mention of MVP, product development, or market validation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses career transition and experiences at Aggreko and SSW, with no specific focus on AI integration into Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1099,21 +1024,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:27:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses personal career experiences and roles within a company, without focusing on the principles or practices of Test First Development or Test-Driven Development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's career transition and experiences at Aggreko and SSW, with no explicit discussion of Test First Development principles or practices. While there are mentions of productivity and rules, these do not align with the core themes of Test First Development, such as success criteria, automated testing, or collaboration among development roles.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions various software and technologies associated with Windows, particularly Visual Studio and SharePoint, making Windows a secondary theme in the discussion of a job transition. However, it does not focus primarily on Windows operating system topics like installation, configuration, or troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions Windows-related technologies such as Visual Studio and SharePoint, which are part of the Windows ecosystem. However, the primary focus of the content is on personal career development and experiences rather than on Windows operating system discussions. The alignment with the core themes of the Windows category is limited, as it does not delve into installation, configuration, or troubleshooting of Windows itself. The depth of discussion regarding Windows is minimal, primarily referencing tools rather than providing insights or guidance on managing the Windows environment.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1126,38 +1057,44 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal career experiences and specific job roles rather than large scale agility principles or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of enjoying one's job and addressing job dissatisfaction within a team context, which touches on aspects of team motivation. However, the focus on technical roles and responsibilities limits its alignment with the primary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of enjoying one's job and the need for communication with management regarding job satisfaction, which aligns with team motivation principles. However, it primarily focuses on personal experiences and job transitions rather than broader team dynamics or strategies for enhancing team engagement.",
     "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job changes, roles, and personal experiences related to software development, without a focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal growth and improvement related to a new job role, which relates to Continuous Learning, but it is not its primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses personal experiences and reflections on job satisfaction and improvement, which touches on aspects of continuous learning, such as self-improvement and adapting to new roles. However, it lacks a strong focus on structured principles of continuous learning, such as feedback loops or knowledge sharing within teams. The mention of SSW's rules hints at a culture of improvement, but the overall discussion is more anecdotal and does not deeply explore the core themes of continuous learning in an Agile or DevOps context.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1180,11 +1117,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:03:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses employment and personal experiences in software development roles, with no focus on Scrum Master responsibilities or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences as a Senior Software Architect, with no direct mention of the Scrum Master role or its responsibilities. While there are references to productivity and organisational improvement, these do not align with the core themes of the Scrum Master category. The discussion lacks depth regarding Scrum practices or the influence of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1138,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T02:03:09",
+    "calculated_at": "2025-04-10T15:56:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal career changes and experiences rather than discussions about working agreements or team norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses the author's job transition and personal experiences, it does mention tasks related to software development tools and methodologies (e.g., Visual Studio, TFS). However, it does not heavily focus on Agile or DevOps principles, making the theme a secondary aspect.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1331,15 +1262,6 @@
     "reasoning": "Content primarily discusses job change and personal experiences rather than focusing on accountability within Agile teams.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:03:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal career transitions and productivity rules without any mention of Kanban or its scaling principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:03:10",
@@ -1360,20 +1282,116 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:01:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal career experiences and job roles rather than focusing on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's personal career journey and experiences rather than discussing social technologies in a meaningful way. While there are mentions of rules and practices that could relate to team dynamics and productivity, the discussion lacks depth and does not explicitly address the core themes of collaboration, decision-making, or value delivery within organisations. The content is more anecdotal and does not provide substantial insights into social technologies or their impact on organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T12:01:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal experiences and insights related to job satisfaction and communication with management, which are relevant to leadership themes, but the primary focus is on personal career transitions and technical roles.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on leadership principles through the mention of Adam Cogan's rules and the importance of enjoying one's job, which can be seen as a leadership quality. However, the primary focus is on personal experiences and technical roles rather than a deep exploration of leadership practices or strategies. The discussion lacks substantial depth on leadership frameworks or the impact of leadership on team dynamics, which limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:34:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal experiences and roles within companies, focusing on job satisfaction and responsibilities rather than the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:34:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal career experiences and roles in software development without any mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses personal career experiences and roles within a company, with no explicit mention of Scrum principles, roles, events, or artifacts. While there are references to team dynamics and productivity, they do not align specifically with Scrum practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences and job transitions rather than discussing the Shift-Left Strategy. While there are mentions of improving processes and being proactive, these concepts are not explicitly tied to the Shift-Left approach, which emphasises early integration of testing, security, and compliance in software development. The discussion lacks depth and specific techniques related to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses personal experiences and changes in roles, touching on productivity and improvement through rules and standards. However, it lacks a focused discussion on Continuous Improvement principles, empirical evidence, or structured methodologies. While there are mentions of improving oneself and the workplace, these are not deeply explored or tied to a broader framework of Continuous Improvement.",
     "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and experiences transitioning between jobs, with minimal discussion on Common Goals within Agile or DevOps frameworks. While there are mentions of productivity and rules that could relate to team alignment, these are not explicitly connected to the principles of Common Goals. The content lacks depth in discussing how shared objectives guide decision-making or connect individual contributions to organisational missions.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the author's transition to a new role and mentions the importance of enjoying one's job and improving oneself, which aligns with the concept of competence. However, it lacks a direct focus on continuous learning or skill development, and the depth of discussion on competence is limited, primarily revolving around personal experiences rather than broader strategies or principles.",
+    "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses a personal journey and experiences in transitioning between roles, with a focus on productivity and enjoyment in work. However, it lacks explicit discussions on the principles of Agentic Agility, such as intentional shaping of outcomes or the interplay between human and AI capabilities. While there are elements of adaptability and personal agency, they are not deeply explored or connected to the broader themes of Agentic Agility.",
+    "level": "Ignored"
   }
 }

@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T18:55:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile practices and offers training classes related to Scrum roles, indicating a secondary theme of social technologies.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, which does not directly discuss social technologies or their principles. While it mentions community and collaboration in a broad sense, it lacks depth in exploring self-organisation, decision-making, or value delivery. The discussion is more about marketing and incentives rather than the frameworks or methodologies that characterise social technologies.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,21 +22,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:55:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss DevOps principles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the themes of collaboration, automation, or shared accountability are absent. The content is more aligned with marketing and educational outreach rather than the core concepts of DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T18:55:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions training for Product Owners and Product Managers, but the primary focus is on a referral programme and course promotion.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions product managers in the context of training classes, but it primarily focuses on a referral programme and promotional aspects rather than strategic discussions on product management. While there is some alignment with the category through the mention of training for product managers, the overall depth and focus on product management principles are minimal.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -64,12 +73,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T18:55:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Scrum Masters and Scrum Teams in the context of training classes, indicating a secondary theme related to Professional Scrum.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses and does not explicitly discuss Scrum principles, roles, or practices. While it mentions Scrum Masters and Scrum Teams in the context of training, it lacks depth and detailed exploration of Scrum concepts, making it only tangentially related to the Professional Scrum category.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -82,29 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:55:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:01:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a referral programme and upcoming training classes, with no clear discussion on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T18:55:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a referral programme and training classes, with no focus on software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T18:55:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no focus on Scaling Kanban principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions enhancing value and community support, it lacks the empirical evidence and data-informed decision-making aspects central to EBM.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,12 +115,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T18:55:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile principles and offers training classes related to Scrum roles, indicating a significant but secondary theme related to Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile concepts in the context of training and courses, particularly for roles like Scrum Masters and Product Owners. However, it lacks a detailed exploration of Agile frameworks, their principles, or comparative analysis. The primary focus is on a referral programme and course offerings rather than a substantive discussion on Agile frameworks.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T18:55:56",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no focus on the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -150,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and upcoming training classes, with no discussion of trend analysis in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T18:55:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -199,10 +190,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T18:56:04",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a referral programme and upcoming training classes, with no clear focus on team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -226,20 +217,11 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T18:56:08",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and upcoming training classes, with no substantial discussion on product delivery methodologies or practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T18:56:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a referral programme and training classes, with no mention of AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -251,15 +233,6 @@
     "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T18:56:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a referral programme aimed at enhancing community engagement and learning, which touches on collaboration and communication among participants, but it primarily focuses on the programme details rather than a deep exploration of team dynamics or process methodologies.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T18:56:16",
@@ -268,15 +241,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T18:56:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile principles and offers training for roles such as Scrum Masters and Product Owners, indicating a secondary theme related to Agile Project Management.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +260,6 @@
     "reasoning": "Content primarily discusses a referral programme and does not address accountability or team dynamics in an Agile context.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T18:56:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral programme and promotional offers, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T18:56:22",
@@ -312,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and training classes, with no clear discussion on release management strategies or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:56:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -352,37 +298,40 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T18:56:30",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:56:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a section specifically for Scrum Masters, indicating that it is a major but secondary theme within a broader context of training and community engagement.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum Masters in the context of training courses but does not delve into their roles, responsibilities, or impact within a Scrum framework. The primary focus is on a referral programme and course promotion, which does not align with the core themes of the Scrum Master category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T18:56:33",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a referral programme and upcoming training classes, with no clear focus on Agile Planning principles or methodologies.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T18:56:34",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -397,11 +346,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:56:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses and does not mention or discuss any principles or practices related to Test First Development. There are no references to success criteria, testing methodologies, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -415,10 +367,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T18:56:39",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no mention of Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -460,19 +412,19 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T18:56:46",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T18:56:47",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a referral programme for courses and does not discuss Agile transformation principles, methodologies, or practices.",
     "level": "Ignored"
   },
@@ -496,29 +448,11 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T18:56:51",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no clear focus on Scrum Values.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T18:56:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T18:56:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a referral programme and upcoming training classes without a clear focus on practical techniques or tooling related to Agile and DevOps.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -532,65 +466,50 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T18:56:58",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no clear focus on the Product Backlog or its management.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T18:56:59",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and promotional details rather than personal experiences or reflections related to Agile methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T18:57:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upcoming training classes, which may involve presentations and workshops, but the primary focus is on a referral programme rather than specific events or presentations.",
-    "level": "Tertiary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T18:57:02",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and upcoming training classes, with no clear discussion on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T18:57:03",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme aimed at enhancing customer engagement and promoting courses, without a clear focus on market share strategies or methodologies.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T18:57:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content includes references to Scrum roles and training for Scrum Teams, but the primary focus is on a referral programme and course promotion.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T18:57:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss scaling agility or related frameworks, practices, or organisational strategies.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum Teams in the context of training courses aimed at improving skills for Scrum Masters and Development Teams. However, it lacks a detailed discussion on the dynamics, roles, or collaboration techniques specific to Scrum Teams. The primary focus is on a referral programme and course offerings, which does not align closely with the core themes of the Scrum Team category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -604,37 +523,46 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T18:57:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a referral programme aimed at enhancing customer engagement and loyalty, which is a strategy related to customer retention. However, the primary focus is on the referral programme itself rather than broader retention strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content introduces a Referral Programme aimed at enhancing customer engagement and retention by incentivising referrals. While it does mention the importance of providing value to customers, the focus is primarily on the referral mechanism rather than broader strategies for customer retention. The discussion lacks depth in exploring customer satisfaction metrics, feedback mechanisms, or personalisation strategies, which are crucial for a comprehensive understanding of customer retention.",
     "level": "Tertiary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:57:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral programme for courses and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is minimal, as it does not provide any relevant insights or details pertaining to Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T18:57:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses enhancing customer experience through a referral programme, which is a strategy to improve customer engagement and satisfaction, but it primarily focuses on the programme details rather than broader customer satisfaction principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions enhancing customer experience through a referral programme, which aligns with customer satisfaction principles. However, it lacks depth in discussing measurement techniques or strategies for improving customer engagement. The focus is primarily on the referral programme rather than a comprehensive exploration of customer satisfaction as defined in the category.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T18:57:18",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss remote working practices, challenges, or solutions within an Agile context.",
     "level": "Ignored"
   },
@@ -649,23 +577,23 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T18:57:21",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and course offerings, with no clear discussion on team collaboration or Agile principles.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T18:57:22",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a referral programme and upcoming training classes, with no clear focus on the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T18:57:25",
     "ai_confidence": 0,
@@ -683,15 +611,6 @@
     "reasoning": "Content primarily discusses a referral programme for courses and does not mention or relate to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T18:57:27",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a Referral Programme that encourages sharing knowledge and learning through course enrolment, which aligns with the theme of fostering a culture of learning. However, the primary focus is on the referral process rather than on discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T18:57:29",
@@ -703,11 +622,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:57:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss the Agile Product Operating Model or related principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses and does not explicitly discuss the Agile Product Operating Model or its principles. While it mentions agile in the context of training, it lacks depth and direct relevance to the core themes of APOM, such as product management practices or continuous delivery.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -775,10 +697,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T18:57:45",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and promotional aspects of training classes, with no substantial discussion on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -793,10 +715,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T18:57:48",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -807,15 +729,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss mentoring or related themes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T18:57:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -847,10 +760,10 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T18:57:58",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and promotional aspects of training classes, with no substantial discussion on Agile principles or philosophy.",
     "level": "Ignored"
   },
@@ -883,12 +796,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T18:58:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a Referral Programme that encourages knowledge sharing and participation in courses, which aligns with the theme of Continuous Learning, but it primarily focuses on the referral aspect rather than in-depth discussions on growth mindset or team improvement.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions knowledge sharing through a referral programme, which aligns with the concept of continuous learning. However, it lacks depth in discussing the principles and practices that promote a growth mindset or effective knowledge sharing. The focus is primarily on the referral programme rather than on continuous learning itself, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -919,12 +835,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T18:58:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:26:37",
+    "ai_confidence": 23.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions training for Product Owners and Product Managers, which relates to Agile Product Management, but the primary focus is on a referral programme and course promotion.",
-    "level": "Tertiary"
+    "final_score": 23.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses and does not directly discuss Agile Product Management principles or practices. While it mentions training for roles like Product Owners, it lacks depth in discussing Agile methodologies, prioritisation techniques, or stakeholder engagement, which are core to the category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -944,15 +863,6 @@
     "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T18:58:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a referral programme and upcoming training classes, with no clear focus on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T18:58:15",
@@ -961,15 +871,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and training classes, with no significant discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T18:58:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a referral programme for courses related to Agile methodologies, which is a major theme, but it primarily focuses on the programme details rather than specific products or literature.",
-    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -1000,11 +901,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T18:58:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:32:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no focus on Lead Time or related metrics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, with no direct mention of Lead Time or its related concepts. While it discusses the benefits of referrals and discounts, it does not address Lead Time as an observability metric, its relationship with Cycle Time, or any strategies for optimisation. The overall discussion is unrelated to the key topics outlined for the Lead Time category.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,10 +922,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T18:58:25",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and training classes, with no clear focus on working software or its delivery.",
     "level": "Ignored"
   },
@@ -1054,28 +958,31 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T18:58:30",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and upcoming training classes, with no clear discussion on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T18:58:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a referral programme for courses related to Agile and Scrum, which are methodologies within software development, but the primary focus is on marketing and community engagement rather than software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses, which is more aligned with marketing and community engagement rather than software development practices. While it briefly mentions training for roles like Scrum Masters and Developers, the overall discussion lacks depth in software development methodologies or practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T18:58:33",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes without any focus on evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -1108,21 +1015,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T18:58:38",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and upcoming training classes, with no substantial discussion on cross-functional teams.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T18:58:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions courses for developers and Scrum teams, indicating a focus on improving skills relevant to software development within Agile contexts, but the primary focus is on a referral programme rather than in-depth discussions on Agile or DevOps practices.",
-    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1144,30 +1042,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T18:58:43",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T18:58:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions training for Product Owners but primarily focuses on a referral programme and general course offerings.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T18:58:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a new referral programme and upcoming training classes, which are relevant to the Agile community, but it primarily focuses on promotional aspects rather than providing industry news or reviews.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'Product Owners / Product Managers' in the context of training classes, but it does not delve into the specific responsibilities, skills, or practices of a Product Owner. The primary focus is on a referral programme and general training offerings, which do not align closely with the core themes of the Product Owner role.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1207,19 +1099,19 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T18:58:52",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and course offerings, with no clear discussion on Agile leadership principles or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T18:58:53",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and course offerings, with no clear discussion on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1234,47 +1126,44 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T18:58:55",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and promotional strategies, with no focus on validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T18:58:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:32:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no focus on throughput measurement or optimisation.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, with no direct mention of throughput as a delivery metric. While it discusses the benefits of referrals and credits, it does not analyse or visualise throughput, nor does it provide any insights into delivery capacity or performance metrics. The themes of throughput are not present, and the content does not delve into any relevant discussions that would align with the category.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:58:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content includes references to Scrum roles and training for Scrum Masters and Scrum Teams, indicating that Scrum is a significant theme, but the primary focus is on a referral programme and course promotion.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T18:59:01",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and promotional aspects rather than strategies or methodologies related to value delivery in Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T18:59:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:32:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a referral programme and training classes, with no focus on system configuration topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, with no direct mentions or discussions related to system configuration. While it touches on community engagement and course offerings, it lacks any relevant themes or depth concerning system setup, integration, or maintenance practices. Therefore, it aligns very poorly with the category.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,20 +1177,11 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T18:59:05",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme and upcoming training classes, with no clear discussion on methodologies or practices related to product discovery.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T18:59:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses a referral programme and upcoming training classes, with only brief mentions of Scrum roles and training for Scrum teams, lacking a clear focus on Scrum product development.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -1315,19 +1195,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T18:59:09",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T18:59:10",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a referral programme for courses and does not discuss Agile strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1374,6 +1254,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a referral programme and upcoming training classes, with no focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:52:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a referral programme for courses and does not address Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:52:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a referral programme and training classes, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:19:07",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 50,
+    "final_score": 47.0,
+    "reasoning": "The content briefly mentions Scrum in the context of training courses for Scrum Masters, Developers, and Product Owners, indicating a focus on skill improvement within the Scrum framework. However, the primary focus of the content is on a referral programme and general training offerings, with limited depth on Scrum principles or practices. The alignment with Scrum concepts is present but not extensive, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses and does not discuss any aspects of the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance in the software development lifecycle, nor does it provide any techniques or case studies related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme and does not explicitly discuss Continuous Improvement principles. While it mentions enhancing the experience for participants, it lacks depth in discussing empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning. The connection to Continuous Improvement is minimal and secondary, primarily revolving around customer engagement rather than systematic process enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme and does not explicitly discuss Common Goals within Agile or DevOps frameworks. While it mentions community and collaboration, it lacks depth in connecting these concepts to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, which indirectly relates to competence through the encouragement of learning and skill development. However, it lacks direct discussions on competence as a foundational principle in Agile or DevOps methodologies. The mention of classes for different roles suggests a slight alignment with the theme of skill development, but the overall depth of discussion on competence is minimal.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses and does not mention or discuss the One Engineering System or its principles. There is no alignment with the core themes of 1ES, such as integration of tools or processes, and the depth of discussion is minimal, as it does not provide any relevant information on the topic.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, which does not explicitly discuss Agentic Agility or its principles. While there is a mention of community and empowerment, it lacks depth in exploring the intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. Overall, the content does not align with the core themes of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:32:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses rather than discussing product development methodologies or practices. While it mentions classes related to Agile and Scrum, it does not delve into the principles or practices of product development, customer feedback integration, or iterative processes. The discussion is more about marketing and community engagement than about product development itself.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:32:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, with no direct mention of Open Space Agile principles or practices. While it touches on community engagement, it lacks any substantial discussion on psychological safety, co-creation, or Agile transformation, which are core themes of Open Space Agile. The overall depth of discussion is minimal, as it does not explore any relevant topics related to organisational agility or collaborative change processes.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:32:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses and does not discuss Agnostic Agile principles, methodologies, or any related topics. There are no direct mentions of Agnostic Agile or its core themes, and the depth of discussion is minimal, as it is mainly an advertisement rather than a discussion on agile practices.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:32:23",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, with no direct mention of scaling methodologies or frameworks. While it touches on community engagement and learning, it lacks any discussion on cross-team collaboration, alignment with business goals, or strategies for managing dependencies, which are essential to the Scaling category. The overall content does not delve into the complexities or strategies involved in scaling Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:32:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses, with no direct mention of Cell Structure Design or its principles. While it discusses community engagement and value creation, these concepts are not aligned with the core themes of decentralised organisational structures or the Beta Codex. The depth of discussion is minimal, lacking any detailed exploration of the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:32:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, with no direct mention of Liberating Structures or facilitation techniques. While it touches on community engagement, it lacks any discussion of the principles, techniques, or applications associated with Liberating Structures. The content does not provide any depth or detail relevant to the category, making it largely irrelevant.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:32:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, which does not directly address Time to Market concepts. There are no explicit mentions of Time to Market, and the discussion lacks alignment with the core themes of measuring or improving the speed of delivering value. The content is more about community engagement and course promotion rather than optimising processes for quicker delivery of products or features.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:32:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 40,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, which does not directly discuss the principles or strategies associated with treating the organisation as a product. While there is a mention of enhancing customer experience, it lacks depth in exploring organisational design, customer feedback integration, or cross-functional collaboration. Overall, the content does not align with the core themes of CaaP, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:32:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a referral programme for courses and does not mention GitHub or its functionalities at all. While it touches on themes of community and learning, it lacks any direct or conceptual alignment with GitHub services, tools, or best practices. The discussion is entirely unrelated to version control, collaboration features, or any GitHub-specific methodologies.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:32:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, which does not directly discuss Unrealised Value or its indicators. While there is a mention of enhancing value for participants, it lacks a clear connection to the concept of untapped opportunities or strategic decision-making related to Evidence-Based Management. The discussion is more about immediate benefits rather than potential improvements or innovations.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:32:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, which does not directly discuss Current Value or its metrics. While it mentions enhancing customer experience and providing value, these concepts are vague and not aligned with the specific indicators or techniques related to Current Value in Evidence-Based Management. There is no detailed discussion or practical application of Current Value principles, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:32:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses and does not discuss Hybrid Agile concepts or challenges. There are no direct mentions of Hybrid Agile, nor does it engage with any of the key topics outlined for this category. The content lacks depth and relevance to the critical examination of Hybrid Agile, making it unsuitable for classification under this category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:32:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a referral programme for courses, which is not directly related to project management principles or methodologies. While it mentions classes and training, it lacks substantial discussion on project management topics such as methodologies, lifecycle phases, or tools. The mention of Scrum roles is present but is not the main focus, leading to a low confidence score in alignment with the Project Management category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on promoting a referral program and does not discuss any conceptual models or frameworks related to Agile, DevOps, or Lean. The subject matter is a marketing announcement rather than a discussion on models for decision-making or systems thinking.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a referral program and does not discuss artifacts in Agile, Scrum, or Lean. There are no explicit mentions of any artifacts, and the themes do not align with the core ideas of transparency, empirical control, or evidence-based decision-making related to artifacts.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses a referral program, which is a marketing initiative rather than a tool or mechanism used for Agile, Scrum, Lean, or DevOps practices. Although it briefly relates to community engagement within a learning environment, it lacks direct mention or detailed discussion of any tools that facilitate Agile or Lean workflows. Therefore, it does not align with the category definitions.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on promoting a referral program which incentivizes sharing and community support but lacks a deep discussion of underlying values, principles, or ethical considerations. The direct mentions of values are absent, and while there is a slight alignment with concepts like community and empowerment, these are not explored in depth. The primary focus is on the mechanics of the referral program, rather than on how it reflects or shapes organizational values.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on a referral program and course promotions, with only brief mentions of Agile concepts in a promotional context. There is no substantial discussion or detailed examination of any Agile frameworks or their methodologies. The mention of 'Agile excellence' is not enough to qualify this content as primarily focused on the Framework category. Overall, it fails to address the key themes or depth expected in discussions of frameworks.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on promoting a referral program for courses, which is unrelated to practical techniques for team improvement or effectiveness. There are no direct mentions of specific practices, techniques, or actionable methods that align with the 'Practice' category. The brief mention of classes does not delve into specific practices that would enhance team performance, making the alignment and depth of discussion minimal.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a promotional referral program for courses, lacking any discussions on philosophical principles or foundational beliefs related to Agile, DevOps, Lean, or any theoretical frameworks. There are no mentions of decision-making, team dynamics, or cultural aspects of organizations, thus failing to meet the standards for the Philosophy category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on a referral program and promotional activities rather than discussing capabilities as defined in the category. There are brief mentions of learning and improvement, but these do not provide substantial insights into capability development, measurement, or alignment with organizational goals. The discussion lacks depth and does not engage with the core themes of the Capability category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses a referral program for courses and does not mention or align with specific tenets related to Agile, Lean, or DevOps. It lacks actionable guiding rules or doctrines that help shape decision-making and behaviors. Overall, it does not engage with key topics or provide any context on tenets as defined.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content describes a Referral Programme, which outlines a promotional strategy rather than a structured method. There are no explicit mentions of any Agile or Lean methods, and the focus is on referral incentives rather than steps or procedures related to delivering value or managing work in a methodological context.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on a referral program for courses and does not discuss observability or any related concepts, metrics, or practices. It does not align with software systems, Agile, or DevOps principles. Therefore, it does not meet any criteria for the Observability category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a referral program for courses, which does not discuss principles related to Agile, Lean, or DevOps. There are no explicit mentions of principles, and the content lacks depth on actionable guidance for decision-making or team behavior, which are key aspects of the 'Principle' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "TJDLWyX3cZt",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:43",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily promotes a referral program and provides information on how to participate, with a focus on incentivizing course enrollment. While it briefly mentions training classes related to Agile disciplines, it lacks a substantive discussion on the principles, methodologies, or systemic applications that define the category of Discipline. The emphasis is on promotional content rather than on the characteristics or evolution of disciplines like Agile or DevOps.",
     "level": "Ignored"
   }
 }

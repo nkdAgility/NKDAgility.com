@@ -1,20 +1,26 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:15:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the suitability of a trainer for an organisation, which is unrelated to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal health, perspective, and connection in the tech industry, with no explicit discussion of DevOps principles or practices. While it touches on themes of innovation and leadership, these are not aligned with the core concepts of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:15:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any frameworks or principles related to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses themes of health, perspective, and connection in the tech industry, which are somewhat related to social technologies. However, it lacks direct mentions of collaboration, decision-making, or value delivery frameworks. While it touches on fostering creativity and understanding team dynamics, it does not delve deeply into methodologies or frameworks that promote collaboration or continuous improvement, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -87,24 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is focused on choosing a trainer and their fit for an organization, which does not involve discussions on Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the suitability of a trainer for an organization, which is unrelated to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of selecting the right trainer and does not focus on any specific event or presentation. It lacks a clear connection to live or recorded events, webinars, or talks.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -181,10 +169,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T11:35:46",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of fit and training rather than the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -235,11 +223,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Continuous Delivery principles, practices, or methodologies; it focuses on trainer fit and optimism.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal health, perspective, and innovation in the tech industry, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of creativity and connection, these are not aligned with the core aspects of Continuous Delivery, such as automation, testing, or deployment strategies. The discussion lacks depth regarding Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -298,12 +289,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of finding the right trainer for an organization and hints at qualities like optimism, which are relevant to coaching, but it is not primarily focused on coaching as a central theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the importance of perspective and connection in a team context, which aligns with coaching principles. However, it lacks explicit discussions on coaching techniques, team dynamics, or the role of a coach, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -366,15 +360,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses trainer fit and organizational culture rather than Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the fit of a trainer for an organization and does not relate to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -449,15 +434,6 @@
     "reasoning": "Content focuses on organizational fit and trainer qualities without discussing technical practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss software development methodologies, roles, or practices; it focuses on choosing a trainer for an organization.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:35:46",
@@ -465,15 +441,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Lean Product Development principles or techniques and focuses instead on organizational fit and trainer selection.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses trainer fit and organizational culture rather than code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,11 +472,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles, responsibilities, or related themes and focuses instead on general organizational fit and training.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on health, perspective, and innovation in the tech industry, with no direct mention of Scrum Master responsibilities or related concepts. While it touches on leadership and team dynamics, it does not align with the core themes of the Scrum Master role, such as facilitating Scrum processes or promoting agile principles.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -557,15 +527,6 @@
     "reasoning": "Content focuses on the fit of a trainer for an organization rather than on decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum concepts, roles, or practices; it focuses on organizational fit and trainer alignment.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:46",
@@ -593,15 +554,6 @@
     "reasoning": "Content focuses on selecting a trainer for an organization rather than discussing organizational change strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses finding the right trainer for an organization without reference to Scaling Agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:35:46",
@@ -610,15 +562,6 @@
     "final_score": 0.0,
     "reasoning": "Content discusses trainer fit and organizational culture rather than Lean principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions the importance of finding the right fit for trainers in an organization, which relates to human factors in team dynamics and collaboration.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -667,10 +610,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T11:35:46",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on selecting a trainer for an organization and does not discuss the Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -683,7 +626,7 @@
     "reasoning": "Content focuses on the fit of a trainer for an organization and does not discuss Lead Time or related metrics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T11:35:46",
     "ai_confidence": 0,
@@ -699,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Agile leadership topics; it focuses on the fit of a trainer for an organization.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss AI, automation, or Agile practices; it focuses on trainer selection and organizational fit.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +689,6 @@
     "reasoning": "Content does not discuss market adaptability; it is focused on trainer fit and organizational culture.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content does not discuss AI, Agile methodologies, DevOps practices, or their integration; it is focused on choosing a trainer for an organization.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T11:35:46",
@@ -809,15 +734,6 @@
     "reasoning": "Content discusses trainer selection and organizational fit, which are unrelated to the Product Backlog in Agile.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Agile Project Management or related topics; it focuses on trainer selection and organizational fit.",
-    "level": "Ignored"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T11:35:46",
@@ -836,24 +752,6 @@
     "reasoning": "Content heavily discusses trainer selection and organizational fit, not troubleshooting technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the fit and qualities of a trainer without focusing on specific products or books related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on the fit between a trainer and an organization without discussing any industry news, updates, or reviews relevant to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T11:35:46",
@@ -870,15 +768,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the importance of selecting the right trainer for an organization, rather than sharing personal experiences or insights related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about choosing the right trainer for an organisation and does not address any aspects of Scaling Scrum.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -919,21 +808,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Test First Development or related principles; it focuses on organizational fit and trainer selection.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses health, perspective, and innovation in the tech industry, with no direct mention or alignment to Test First Development principles. It lacks any discussion on testing practices, success criteria, or related methodologies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of choosing the right trainer and creating optimism, which is relevant to broader business contexts but does not specifically reference Agile, Scrum, DevOps, or Lean frameworks. This makes it a major theme but not central to recognized Agile practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses personal experiences and perspectives related to health and innovation in a tech context, which aligns with the Miscellaneous category. However, it lacks direct references to Agile, Scrum, DevOps, or Lean principles. The discussion is somewhat detailed but remains anecdotal and does not provide actionable insights or connect to established frameworks.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1007,15 +902,6 @@
     "reasoning": "The content focuses on the selection of a trainer for an organization without any discussion on methodologies, practices, or principles related to product delivery.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss scaling agile practices or any relevant topics related to the category; it focuses on selecting a trainer for an organization.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-18T11:35:46",
@@ -1043,24 +929,6 @@
     "reasoning": "Content is primarily focused on selecting the right trainer for an organization, which does not relate to portfolio management or the alignment of strategy with execution.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on finding the right trainer for an organization rather than discussing resilience, change management, or organizational adaptability.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the fit of a trainer for an organization, lacking focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T11:35:46",
@@ -1077,15 +945,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content does not discuss software delivery or the principles of frequent releases; it focuses on choosing a suitable trainer for an organization.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on selecting the right trainer and does not address any practical techniques, tools, or methodologies related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1135,20 +994,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses trainer fit and optimism without reference to Agile principles or product operating models.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses choosing a trainer for an organization, without any focus on discovery or learning processes.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal insights related to health, perspective, and innovation in the tech industry, without any direct mention or discussion of the Agile Product Operating Model or its principles. While it touches on themes of leadership and creativity, these are not aligned with the core topics of APOM, such as product management practices or agile processes.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1176,15 +1029,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not mention or discuss automated testing; it focuses on organizational fit and training.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Kanban principles or their application in large organizations; it primarily focuses on organizational fit for trainers.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1342,11 +1186,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on choosing the right trainer for an organization and creating optimism, which is not related to Evidence-Based Management principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses personal insights on health, perspective, and connection in the tech industry, without a direct focus on Evidence-Based Management principles. While it touches on themes like innovation and leadership, it lacks explicit references to empirical evidence or metrics that are central to EBM. The discussion is more anecdotal and motivational rather than grounded in data-informed decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1360,10 +1207,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:35:46",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the fit and qualities of a trainer rather than the organization's ability to innovate or related topics.",
     "level": "Ignored"
   },
@@ -1374,6 +1221,446 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the importance of selecting the right trainer for an organization and does not focus on operational practices, methodologies, or efficiency improvement strategies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:09:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content does not discuss Internal Developer Platforms; it focuses on trainer selection and organisational fit.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:09:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on organisational fit and training rather than AI applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. While it discusses themes of collaboration and innovation, which are relevant to Agile methodologies, it lacks a direct focus on Scrum. The discussion is vague and does not provide sufficient detail or alignment with Scrum concepts, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal reflections about health, perspective, and innovation in the tech industry, with no direct mention or discussion of the Shift-Left Strategy. While it touches on themes of creativity and detail, it does not align with the core principles of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses themes of health, perspective, and connection in the tech industry, but it does not explicitly mention Continuous Improvement or its principles. While there are elements that touch on innovation and fostering environments for creativity, these are not directly tied to the core themes of Continuous Improvement. The discussion lacks depth in terms of strategies or frameworks that support Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on personal reflections and insights related to health, perspective, and connection in the tech industry, rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on themes of innovation and leadership, it lacks explicit references to shared objectives or alignment with strategic goals, which are central to the Common Goals category. The discussion is more anecdotal and motivational, without a clear connection to the principles of Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses themes of health and perspective in relation to innovation in tech, but it does not explicitly address competence or skill development. While there are mentions of fostering creativity and supporting builders, these are secondary to the main focus on well-being and perspective. The alignment with competence is weak, as the discussion lacks depth on continuous learning or professional development.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:13:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal insights related to health, perspective, and innovation in the tech industry, without any direct mention or discussion of the One Engineering System framework or its principles. While it touches on themes of connection and leadership, these are not aligned with the core topics of 1ES, such as standardisation and integration of software development practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses themes of health, perspective, and connection in the tech industry, but it does not explicitly mention Agentic Agility or its principles. While there are elements of adaptability and fostering innovation, the focus is more on personal growth and leadership rather than the intentional shaping of outcomes through agency. The depth of discussion on related concepts is moderate, but it lacks a clear connection to the specific category of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on personal reflection and insights on health, perspective, and connection in the tech industry, with no discussion of Hybrid Agile concepts or integration of traditional and agile methodologies. It lacks any specific mentions or critical examinations of Hybrid Agile, showing only minimal relevance through the general themes of innovation and well-being.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses health, perspective, and innovation within the tech industry without any direct references to cell structure design or the principles behind it. Although it touches on leadership styles and creative environments, it does not align with decentralized organizational frameworks or the concepts of autonomous cells. The content lacks depth regarding Cell Structure Design and does not mention key related topics such as the Beta Codex, self-organisation, or complexity theory.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions concepts related to perspective and connection, but it does not discuss actionable principles or how they relate to decision-making in frameworks like Agile or Lean. Although it hints at health, perspective, and connection being important for innovation, these are presented more as values or personal reflections than strict principles that guide team behaviour or processes.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on personal insights about health, perspective, and connections in the tech industry rather than discussing project management methodologies, principles, or tools. While it touches on leadership and innovation, it does not mention any core project management concepts or detailed methodologies, resulting in a low confidence score for the Project Management category.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content discusses themes like health, perspective, and connection in the tech industry, but it does not mention Open Space Agile or Agile principles. The discussion focuses on personal growth and innovation rather than collaborative processes or the principles of Open Space Technology. There is minimal indirect alignment with the concept of fostering connection among team members, but it is not framed within the context of Open Space Agile practices.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses personal well-being, perspective, and leadership in the tech industry without any focus on specific tools or their utilization within Agile, Lean, or DevOps frameworks. The mention of 'skepticism' as a tool is metaphorical and does not refer to a practical application or software tool, hence it fails to align with the definition of 'Tool' category discussions.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 5.0,
+    "ai_depth": 11.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content discusses health, perspective, and connection in the tech industry but does not mention or explore any specific Liberating Structures or facilitation methods. The focus is on individual experiences and insights that do not align with the core themes of engagement or structured interactions characteristic of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Values",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 47.0,
+    "ai_mentions": 6,
+    "ai_alignment": 33,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 47.0,
+    "reasoning": "The content touches upon personal journeys, health, perspective, and connections, which relate to values but does not explicitly address the core themes of organizational or team values, such as Agile or Scrum. While there are mentions of fostering an environment for creativity and the significance of health, these concepts are more about individual improvement rather than collective values guiding behavior and decision-making in an organizational context. The alignment is moderate due to the reference to fostering an innovative tech community, but lacks depth in discussing core values systematically.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 6,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content touches on themes such as perspective and well-being, which could relate to philosophical concepts of human potential and creativity, it primarily focuses on personal experiences and practical insights rather than engaging deeply with philosophical discourse. The ideas presented are more anecdotal and lack strong theoretical foundations or discussions on the underlying 'why' behind practices in technology. This content is not a primary discussion on philosophy, but rather an inspirational piece on personal growth and leadership in a tech context.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 20.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on personal health and perspective as factors influencing innovation in the tech industry, but it lacks a rigorous discussion on the principles and methodologies related to the discipline category. While there are mentions of fostering creativity and details that hint at leadership qualities, the content does not delve deeply into the structured principles, governance, or systemic application that define a discipline like Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on health, perspective, and personal leadership experiences in the tech industry. It does not discuss any specific artifacts related to Agile, Scrum, Lean, or DevOps, nor does it engage with the structure or purpose of artifacts. Instead, it presents motivational insights that are abstract and unrelated to tangible constructs that enable inspection and adaptation in work processes.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses health, perspective, and personal growth in the tech industry, with no direct mention or exploration of observability, software metrics, or related technologies. While there are mentions of leadership and fostering environments, these do not align with the core themes of observability as defined. The content does not provide any substantial detail or discussion relevant to the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 100.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on themes of health, perspective, and connection in the tech industry, with no direct mention or discussion related to Time to Market. Although it touches upon innovation and effective leadership, it does not address the specific metrics, strategies, or discussions vital to understanding Time to Market. Therefore, the confidence score reflects its minimal relevance to the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content touches on themes of innovation and the intersection of health and perspective, it does not directly address any methodologies or practices related to product development. The discussion is primarily focused on personal insights and motivation rather than structured product delivery processes, customer feedback integration, or Agile principles, which are central to the category of 'Product Development'. Therefore, while there is some conceptual overlap, especially in terms of fostering an innovative mindset, it does not provide sufficient detail or explicit discussion on the specific practices of product development, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 15,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses themes such as perspective, connection, and well-being in the tech industry, but these are more about personal growth and leadership than actionable practices that enhance team performance. The direct mentions are limited, focusing mainly on general insights rather than specific techniques, and the depth of discussion does not provide actionable methods or practices that teams can adopt.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses personal insights and well-being within the tech industry, without any direct mention of treating the company as a product or how organizational strategies can evolve based on customer insights or measurable outcomes. Although it touches on themes that might relate to innovation and leadership, these are presented in a personal context without a structured discussion of CaaP principles. Therefore, the alignment and depth relate minimally to the required category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Method",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses personal insights on health, perspective, and connection in the tech industry, focusing on the broader implications for innovation rather than structured procedural methods. There are no direct mentions of established methods, and while it touches on themes relevant to productivity and leadership, it lacks the specificity required to be categorized under 'Method'. The discussion lacks depth in terms of structured procedures or steps within a methodological framework.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses personal health, perspective, and leadership in the tech industry rather than focusing on unrealised value in an organisational context. Although it touches on themes of innovation, it does not explicitly mention unrealised value or the indicators and measures that highlight untapped opportunities. There is no direct reference to Evidence-Based Management and the specifics of unrealised value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on individual perspectives and the health-related aspects influencing innovation in technology, with no direct discussion of scaling methodologies, frameworks, or cross-team collaboration. While there are themes of connection and perspective that could indirectly relate to team dynamics, it lacks explicit alignment with scaling frameworks or detailed exploration of issues related to scaling in agile practices.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Model",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses health, perspective, and personal experiences in relation to technology and innovation without focusing on any conceptual models, frameworks, or structured approaches typically discussed in the 'Model' category. While it touches on themes of perspective and connection, these do not directly align with the key aspects of decision-making models or frameworks such as Agile, DevOps, or Lean principles.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the importance of health, perspective, and connection in fostering innovation in the tech industry. It does not directly mention Current Value or its indicators relevant to Evidence-Based Management. While it touches on themes of leadership and innovation, it lacks the metrics, practical application, or real-time assessment of value which are central to Current Value discussions.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses personal insights on health, perspective, and innovation in the tech industry without addressing specific frameworks related to Agile, DevOps, or Lean principles. There are no direct mentions or in-depth discussion of any frameworks, making the alignment with the 'Framework' category minimal. While it touches on leadership and collaboration, these concepts are not linked to structured methodologies or implementation strategies typical of frameworks.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on personal reflections about health, perspective, and innovation in tech, lacking direct mentions and actionable tenets related to Agile, Lean, or DevOps methodologies. While it touches on themes like perspective and connection, these are discussed in vague terms without concrete, prescriptive rules or doctrines that align with the Tenet category. The overall discussion is more philosophical and anecdotal without a clear focus on structured guiding principles.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses on health, perspective, and personal insights within the tech industry without any mention or discussion related to GitHub or its functionalities. It does not address any GitHub-related topics such as version control, collaboration tools, or project management methodologies.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content does not explicitly mention Agnostic Agile or its principles. While it discusses the importance of perspective, connection, and well-being in the tech industry, these themes do not directly relate to Agnostic Agile. There is no comparison with specific agile methodologies, nor is there a focus on adaptability based on context or principles over frameworks—as would align with Agnostic Agile. The content primarily reflects a personal perspective on health and innovation, lacking the required depth or alignment to be classified under Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T15:03:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content emphasizes personal growth, health, and perspective but does not focus on enduring competencies or organizational capabilities. While it briefly touches on the importance of the environment for creativity and innovation, it lacks a thorough discussion on how these insights could be integrated into an organization's cultural capabilities. The main emphasis is on individual and interpersonal aspects rather than systemic or sustainable capabilities.",
     "level": "Ignored"
   }
 }

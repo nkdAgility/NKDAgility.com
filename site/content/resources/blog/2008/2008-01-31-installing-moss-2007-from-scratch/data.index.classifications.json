@@ -19,28 +19,28 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-16T18:47:07",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technical details, with no focus on enterprise agility or organisational adaptability.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-16T18:47:09",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical installation process of MOSS 2007 and related software, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:47:10",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related technologies, with no focus on the principles or practices of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:47:13",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content provides a detailed step-by-step guide on installing Microsoft Office SharePoint Server (MOSS) 2007, including prerequisites, installation procedures, and configuration steps, which aligns closely with the category's focus on installation and configuration processes.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed step-by-step guide on installing Microsoft Office SharePoint Server (MOSS) and its prerequisites, including SQL Server and .NET Framework. It discusses specific installation procedures, configuration steps, and considerations for updates and service packs, which align closely with the key topics of the 'Install and Configuration' category. The depth of discussion is substantial, covering various aspects of the installation process, troubleshooting, and best practices, thus justifying a high confidence score.",
     "level": "Primary"
   },
   "Decision Theory": {
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related technical details, which are not aligned with the Miscellaneous category's focus on broader discussions unrelated to specific Agile, Scrum, DevOps, or Lean frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:47:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical aspects of installing Microsoft Office SharePoint Server, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:47:19",
@@ -97,15 +91,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technical details, with no reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:47:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in installing Microsoft Office SharePoint Server (MOSS) and related tools, which aligns with the category's focus on practical application of tooling.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:47:23",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technologies, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,37 +139,34 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:47:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technical details, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no direct mentions or discussions related to Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:47:29",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technical details, with no reference to Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:47:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for installing Microsoft Office SharePoint Server, lacking discussions on industry news, updates, or reviews.",
+    "final_score": 0.0,
+    "reasoning": "The content focuses entirely on the installation process of Microsoft Office SharePoint Server 2007, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any relevant topics such as transitioning from project to product ethos, operational stability, or continuous improvement, which are core to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T18:47:32",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation process of MOSS 2007 and related software, which does not align with the core principles of product delivery.",
     "level": "Ignored"
   },
@@ -206,66 +188,21 @@
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related components, without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:47:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technologies, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:47:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technologies, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:47:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related software, without addressing code quality, complexity theory, or best practices in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:47:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:47:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of installing MOSS 2007 and related software, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T18:47:43",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technical details, with no focus on business agility principles or practices.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-16T18:47:44",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical process of installing Microsoft Office SharePoint Server, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
@@ -280,10 +217,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T18:47:47",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technical details, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
@@ -316,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:47:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation process of Microsoft Office SharePoint Server and related technologies, without discussing DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server 2007, detailing technical steps and configurations. While it touches on aspects of infrastructure management, it does not engage with the core principles of DevOps such as collaboration, automation, or continuous improvement. The discussion lacks any significant mention of DevOps philosophy or practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -332,66 +272,42 @@
     "reasoning": "Content primarily focuses on the installation process of MOSS 2007 and related software, lacking discussions on engineering practices or methodologies that enhance agility in software development.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:47:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical installation steps for MOSS 2007 and does not discuss human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:47:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical installation process of MOSS 2007, lacking discussions on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:48:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related software, without focusing on reviews, analyses, or discussions of products or literature relevant to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical installation details for MOSS 2007, which is unrelated to the strategic aspects of product management.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical installation steps for Microsoft Office SharePoint Server and does not discuss product validation methodologies or user feedback.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration process of Microsoft Office SharePoint Server (MOSS) and the necessary steps for setting up related software and hardware, which aligns closely with system configuration practices.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Microsoft Office SharePoint Server (MOSS) 2007, detailing the steps taken to set up the server, including prerequisites like .NET 3.5 and SQL Server installation. It discusses specific configuration tasks, such as managing instances and handling service packs, which align closely with the core themes of system configuration. The depth of discussion is substantial, providing insights into the installation process and potential issues, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the technical process of installing Microsoft Office SharePoint Server and related components, with no direct discussion of innovation capabilities or practices.",
     "level": "Ignored"
   },
@@ -420,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and setup process for Microsoft Office SharePoint Server, which does not relate to portfolio management or the alignment of strategy with execution.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses technical installation steps for Microsoft Office SharePoint Server (MOSS) and other related server setups, with no references to Scrum principles, roles, or product development methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of Microsoft Office SharePoint Server and related technical details, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the technical installation process of MOSS 2007 and does not discuss the Definition of Done in any capacity.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on technical instructions for installing Microsoft Office SharePoint Server and related components, without any reference to Agile practices or scaling Agile methodologies.",
+    "reasoning": "Content focuses on the technical installation process of MOSS 2007 and does not discuss the Definition of Done in any capacity.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,10 +448,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation of Microsoft Office SharePoint Server and related SQL setup, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -575,22 +473,16 @@
     "reasoning": "Content primarily discusses the technical installation and setup process of Microsoft Office SharePoint Server (MOSS) and related systems, with no explicit focus on agile collaboration tools or enhancing team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related technologies, which is not focused on the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on the installation process of MOSS 2007, which involves software setup, server configuration, and dependencies related to software development environments, indicating a central theme related to software development practices.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server (MOSS) and related components, which is a technical task within software development. However, while it discusses specific steps and considerations for setting up a development environment, it lacks broader discussions on methodologies, best practices, or frameworks that are typically associated with software development as a discipline. The content is more of a procedural guide rather than a comprehensive exploration of software development principles.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -604,10 +496,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installing and configuring software, with no discussion of product strategy methodologies, frameworks, or alignment with customer needs.",
     "level": "Ignored"
   },
@@ -620,7 +512,7 @@
     "reasoning": "Content primarily discusses the installation process of MOSS 2007 and related software, with no focus on estimation practices within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:00:40",
     "ai_confidence": 0,
@@ -694,19 +586,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Microsoft Office SharePoint Server (MOSS) and related software, with no mention of Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server 2007, detailing steps and configurations without discussing Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the content does not align with the core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is limited to installation specifics, which are unrelated to Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on installing Microsoft Office SharePoint Server, detailing the installation process and related setups, without mentioning lead time or related metrics.",
     "level": "Ignored"
   },
@@ -721,10 +616,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical aspects of installing Microsoft Office SharePoint Server (MOSS) and related software, with no clear connection to organisational change or its frameworks.",
     "level": "Ignored"
   },
@@ -739,20 +634,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process for Microsoft Office SharePoint Server and related systems, with no focus on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is focused on installing and configuring Microsoft Office SharePoint Server (MOSS) and does not discuss AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -766,10 +652,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical steps for installing Microsoft Office SharePoint Server (MOSS) and SQL Server, with no discussion of change management practices or principles.",
     "level": "Ignored"
   },
@@ -784,19 +670,19 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related configurations, which is unrelated to deployment frequency principles in Agile or DevOps.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technologies, without any reference to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -883,10 +769,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the technical installation of MOSS 2007 and does not discuss Product Backlog or Agile methodologies.",
     "level": "Ignored"
   },
@@ -901,10 +787,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation details of installing Microsoft Office SharePoint Server and does not discuss the responsibilities or roles of a Product Owner.",
     "level": "Ignored"
   },
@@ -928,19 +814,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about the installation process of Microsoft Office SharePoint Server and does not address the concept of Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of Microsoft Office SharePoint Server and related server setups, with no mention of Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -955,12 +841,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) including technical prerequisites, configuration, and specific steps involved, which aligns closely with the principles of software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server (MOSS) and related components, which is a technical task. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on technical aspects such as prerequisites and installation steps, it does not delve into deeper topics like code quality, testing, or architectural considerations, which are essential for the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -971,15 +860,6 @@
     "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technical details, with no focus on remote working practices, challenges, or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about installing Microsoft Office SharePoint Server, with no relevant discussion on scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:00:40",
@@ -987,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical installation details of Microsoft Office SharePoint Server and its related components, which is not relevant to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical details of installing Microsoft Office SharePoint Server and has no relevance to Agile Project Management principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1018,10 +889,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the installation process of MOSS 2007 and does not discuss Cycle Time or its implications in Agile or DevOps contexts.",
     "level": "Ignored"
   },
@@ -1090,12 +961,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) on a Windows environment, including the installation of prerequisites like .NET and SQL Server, which directly relates to the Windows operating system's requirements and configurations.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Microsoft Office SharePoint Server (MOSS) on a Windows environment, which aligns closely with the Windows category. It discusses the installation of .NET 3.5 and SQL Server, both of which are integral to the Windows operating system. The depth of discussion is significant, detailing specific steps and considerations during the installation process, including updates and service packs relevant to Windows. The content does not stray into non-Windows topics, maintaining a strong focus on Windows-related procedures.",
+    "level": "Primary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1108,12 +982,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses experiences related to installation issues and considerations while setting up MOSS 2007, indicating some troubleshooting of installation prerequisites and dependencies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the installation process of MOSS 2007 and touches on potential issues encountered during the setup, such as the need for pre-requisites and the unexpected running of the Configuration Wizard. However, while it does mention troubleshooting aspects, such as the need to manage SQL Server instances and the implications of security requirements, the primary focus is on the installation steps rather than a systematic approach to diagnosing and resolving technical issues. Therefore, it aligns moderately with the troubleshooting category but lacks depth in discussing methodologies or strategies for resolving issues.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1135,12 +1012,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 40,
+    "calculated_at": "2025-03-15T07:35:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 37.0,
-    "reasoning": "The content includes some aspects of software installation which may touch on deployment concepts, but the focus is primarily on the installation process and specific configurations rather than strategies for deploying software into production.",
-    "level": "Quaternary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server (MOSS) and related software, rather than discussing deployment strategies. While it touches on aspects of setting up a development environment, it lacks explicit discussions on methodologies for deploying software, such as blue-green deployments or canary releases. The content does not provide actionable insights into deployment strategies, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1171,10 +1051,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related software, with no relevance to Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1198,10 +1078,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses entirely on installation procedures for Microsoft Office SharePoint Server (MOSS) and does not address user needs, feature definitions, or product discovery methodologies.",
     "level": "Ignored"
   },
@@ -1261,20 +1141,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-10T15:56:45",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and does not address asynchronous development principles, practices, or tools.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about installing and configuring Microsoft Office SharePoint Server, which does not relate to Scaling Scrum or its methodologies.",
+    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and does not address asynchronous development principles, practices, or tools.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,22 +1184,16 @@
     "reasoning": "The content is focused on the installation of Microsoft Office SharePoint Server and related technical processes, which is not relevant to Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related SQL Server setup, with no relevance to scaling agile practices or principles.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:00:40",
+    "calculated_at": "2025-04-08T20:07:06",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses technical installation processes for MOSS and SharePoint, without any relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on the installation process of Microsoft Office SharePoint Server 2007 and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any Scrum-related concepts or practices. Therefore, it does not align with the category of Scrum Master in any meaningful way.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1216,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:00:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related systems, with no mention of test-driven development or test-first practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server 2007, detailing steps and configurations without any reference to Test First Development principles, success criteria, or testing practices. There is no discussion of automated or manual testing, nor any mention of collaboration among development roles, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:16:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related technical details, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical installation process of Microsoft Office SharePoint Server 2007, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While SharePoint can be a tool for collaboration, the content does not address its social technology aspects or how it enhances team dynamics or organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical installation details of Microsoft Office SharePoint Server and related software, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:44:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server (MOSS) and related components, without focusing on the concept of Internal Developer Platforms or their benefits, architecture, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:44:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation process of Microsoft Office SharePoint Server and related technologies, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server (MOSS) and related technologies, with no direct mentions or discussions of Scrum principles, roles, events, or practices. While it touches on project management aspects indirectly through the mention of TFS (Team Foundation Server), it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation process of Microsoft Office SharePoint Server (MOSS) and related components. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any case studies or tools related to Shift-Left practices. The content is largely technical and procedural, lacking any alignment with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While there are mentions of project management tools like TFS, they are not connected to the concept of aligning strategy with execution or shared objectives. The content lacks depth and relevance to the category, making it unsuitable for classification under Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no explicit discussion of competence, continuous learning, or skill development. While it touches on the need for certain prerequisites and configurations, it does not delve into the broader themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no discussions or reflections on Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are essential for the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Microsoft Office SharePoint Server 2007, with no explicit discussion of Agentic Agility or its principles. While there are mentions of planning and execution, these do not align with the core themes of intentionality, autonomy, or adaptability as defined in the category. The content lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

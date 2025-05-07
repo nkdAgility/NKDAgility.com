@@ -1,93 +1,57 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T23:01:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details related to TFS Integration Platform and does not focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T23:01:47",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a TFS Integration Platform Adapter, detailing practical coding techniques, configuration, and troubleshooting related to Agile and DevOps tooling.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, which relates to internal developer platforms and enhancing developer productivity through migration tools. However, it also includes significant details about specific coding issues and debugging, making platform engineering a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, which is related to the migration of work items and integration processes. While it touches on aspects of developer productivity and application lifecycle management, it lacks a focused discussion on the principles of Platform Engineering or Internal Developer Platforms (IDPs). The content is more technical and specific to a particular implementation rather than a broader discussion on platform engineering concepts.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:01:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:41:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the technical implementation of a TFS Integration Platform Adapter, focusing on code and configuration details, rather than the principles or practices of Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T23:02:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, focusing on code quality, complexity in handling data migrations, and the challenges faced in ensuring proper functionality and maintainability of the code. It includes detailed code snippets and addresses issues related to code complexity, such as managing data mappings and handling exceptions, which are central themes in the context of software development and complexity.",
-    "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T23:02:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on technical implementation details related to creating a TFS Integration Platform Adapter, rather than discussing processes or methodologies that foster innovation, experimentation, or continuous learning.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T23:02:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the development of a TFS Integration Platform Adapter and does not focus on AI or automation within Agile frameworks.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on technical implementation details of a TFS Integration Platform Adapter, with no explicit discussion or alignment with Evidence-Based Management principles or metrics. It lacks references to data-informed decision-making, current value metrics, or empirical decision-making, which are central to the EBM category.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T23:02:17",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and troubleshooting related to work item migration, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T23:02:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a TFS Integration Platform Adapter, including detailed XML configuration, code snippets for setting up migration processes, and troubleshooting installation issues. It provides actionable insights into the installation and configuration of the adapter, which aligns well with the category.",
+    "final_score": 78.0,
+    "reasoning": "The content provides detailed instructions and code snippets for creating a TFS Integration Platform Adapter, which directly relates to the installation and configuration of software tools. It discusses specific configuration settings, troubleshooting issues, and integration practices, aligning well with the key topics of the category. The depth of discussion is substantial, covering various aspects of the setup process, including XML configuration, code implementation, and error handling.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T23:02:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a TFS Integration Platform Adapter, with no clear focus on transparency or accountability principles within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +71,17 @@
     "reasoning": "Content primarily focuses on technical implementation details of a TFS Integration Platform Adapter, with no significant discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T23:02:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation details of a TFS Integration Platform Adapter, with no clear focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, which involves aspects of continuous integration and delivery, but it is heavily focused on specific implementation details rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on creating a WIT adapter for the TFS Integration Platform, which is more aligned with software development and integration rather than the core principles of DevOps. While it touches on aspects of automation and integration, it lacks a broader discussion on collaboration, shared accountability, or cultural shifts that are central to DevOps. The depth of technical detail is present, but it does not sufficiently engage with the DevOps philosophy or practices.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,31 +101,13 @@
     "reasoning": "The content primarily discusses technical implementation details related to the TFS Integration Platform and does not focus on decision-making processes, heuristics, or any aspects of decision theory.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T23:02:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical implementation details and issues related to a TFS Integration Platform Adapter, with no reference to events, presentations, or discussions relevant to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-15T23:02:44",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and troubleshooting related to data migration, which does not focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T23:02:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses technical implementation details related to creating a TFS Integration Platform Adapter, focusing on code and configuration rather than human factors or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T23:02:54",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and the associated technical challenges, rather than focusing on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,11 +148,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T23:03:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and debugging of a TFS Integration Platform Adapter, focusing on technical practices such as handling data migration, error management, and code refactoring to improve functionality. It aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD) and modular architecture, which are key aspects of technical excellence.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed exploration of creating a TFS Integration Platform Adapter, focusing on technical aspects such as code implementation, error handling, and migration strategies. It discusses specific engineering practices like handling work item revisions, managing change groups, and addressing conflicts, which align closely with the principles of Technical Excellence. The depth of discussion on technical challenges and solutions indicates a strong focus on enhancing software development practices.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,12 +178,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the development and integration of a TFS Integration Platform Adapter, which relates to the deployment and management of software products, but it primarily focuses on technical implementation details rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a TFS Integration Platform Adapter, discussing specific coding issues and debugging steps. While it touches on aspects of product delivery, such as the migration of work items and the handling of changes, it lacks a comprehensive discussion on methodologies, best practices, or strategies that are central to the product delivery category. The content is more technical and implementation-focused rather than addressing broader product delivery principles.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -253,38 +199,32 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T23:03:15",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and debugging of a TFS Integration Platform Adapter, focusing on technical implementation details rather than Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T23:03:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details and issues related to TFS Integration Platform, rather than reviews or discussions of products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T23:03:22",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of a TFS Integration Platform Adapter without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T23:03:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a TFS Integration Platform Adapter, which is directly related to Azure DevOps functionalities, particularly in the context of work item tracking and migration processes.",
+    "reasoning": "The content primarily discusses the creation of a TFS Integration Platform Adapter, which is directly related to Azure DevOps functionalities. It includes specific references to work item tracking, migration processes, and error handling within the context of TFS, which is part of Azure DevOps. The depth of technical detail provided about the implementation and troubleshooting of the adapter indicates a strong alignment with Azure DevOps practices, particularly in relation to CI/CD and work item management. However, the focus on specific implementation details may detract slightly from broader discussions on Azure DevOps as a whole.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,22 +245,25 @@
     "reasoning": "Content primarily discusses the technical implementation of a TFS Integration Platform Adapter, focusing on code and configuration details, rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T23:03:34",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a TFS Integration Platform Adapter and specific coding issues, with no clear focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:03:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a TFS Integration Platform Adapter and technical details related to code and migration processes, with no clear focus on Agile Product Operating Model principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a WIT adapter for the TFS Integration Platform, which is more aligned with technical implementation details rather than discussions on the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the key topics outlined in the APOM definition. The content does not engage with the core themes of transitioning to a product-oriented mindset or continuous delivery, thus demonstrating minimal relevance to the specified category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +275,17 @@
     "reasoning": "Content primarily discusses technical implementation details of a TFS Integration Platform Adapter, focusing on code and error handling rather than organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T23:03:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical implementation details and troubleshooting of a TFS Integration Platform Adapter, rather than providing industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T23:03:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the development and integration of a TFS Integration Platform Adapter, which is closely related to managing the lifecycle of software applications, particularly in the context of migration and updates of work items. It addresses aspects of application lifecycle management such as change management, integration of tools, and the handling of work item states, which are central to ALM practices.",
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the development and integration of a TFS Integration Platform Adapter, which relates to the application lifecycle management process, particularly in the context of migration and updates of work items. It touches on aspects of deployment and maintenance, but lacks comprehensive coverage of all lifecycle stages and best practices, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T23:03:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,38 +298,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T23:41:04",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about creating a TFS Integration Platform Adapter, which is focused on technical implementation details rather than discussing the Definition of Done in Agile or Scrum contexts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T23:41:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects related to the TFS Integration Platform, including source code, issue resolutions, and methodologies for integrating and migrating data, which is closely aligned with software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed exploration of creating a TFS Integration Platform Adapter, discussing various technical challenges and solutions related to software craftsmanship, including code quality, debugging, and integration practices. It aligns well with the principles of clean code and software craftsmanship, while also addressing the role of testing and continuous integration in the context of migration and adaptation of work items. The depth of discussion on specific coding practices and the challenges faced in achieving a functional integration demonstrates a strong focus on technical mastery.",
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T23:41:04",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation and debugging of a TFS Integration Platform Adapter, which is not related to product discovery methodologies, user research, or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:41:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly focuses on the technical implementation of a TFS Integration Platform Adapter and does not substantively discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a WIT adapter for the TFS Integration Platform, which is more about integration and migration rather than Continuous Delivery practices. While it touches on aspects of software delivery, such as handling work items and updates, it lacks a direct discussion on Continuous Delivery principles, automation, or rapid feedback mechanisms that are central to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +349,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T23:41:04",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the implementation details and issues related to a TFS Integration Adapter. It does not focus on Lead Time, its measurement, or its relation to efficiency and processes.",
     "level": "Ignored"
   },
@@ -433,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T23:41:04",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a technical implementation related to TFS Integration and migration, without clear discussion or emphasis on the Definition of Ready criteria in Agile practices.",
     "level": "Ignored"
   },
@@ -451,10 +385,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T23:41:04",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to a TFS integration adapter and specific coding issues, without addressing the concepts or best practices associated with Product Backlog in Agile methodologies.",
     "level": "Ignored"
   },
@@ -469,19 +403,19 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T23:41:04",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on TFS Integration Platform and Test Track Pro integration, with no discussions on Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T23:41:04",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical aspects of creating a TFS Integration Platform Adapter and migration of work items, without a focus on collecting or integrating customer feedback.",
     "level": "Ignored"
   },
@@ -496,10 +430,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T23:41:04",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on creating a TFS Integration Platform adapter, which does not address Scrum Team dynamics, roles, or collaboration techniques.",
     "level": "Ignored"
   },
@@ -523,10 +457,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of creating a TFS Integration Platform adapter, focusing on implementation details, coding issues, and migration functionality, which do not align with the principles of product validation or user feedback mechanisms.",
     "level": "Ignored"
   },
@@ -550,64 +484,58 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses code development for an adapter in TFS Integration Platform, without focusing on the principles or methodologies of automated testing.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of creating a TFS Integration Platform Adapter and addressing issues with work item migration, with little to no focus on team dynamics or enhancing Agile team collaboration.",
     "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content predominantly discusses the development and configuration of a TFS Integration Platform Adapter, focusing on technical aspects of migration of work items, and does not center around the concepts of Increment in Agile or Scrum. It mentions software changes and migration processes, which are not aligned with the core themes of Increment as defined.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on a specific technical implementation related to TFS (Team Foundation Server) Integration Platform and does not address Acceptance Test Driven Development or its principles, such as defining acceptance criteria or collaboration between teams.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T23:41:05",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses a specific aspect of software development, focusing on the implementation of a custom adapter for the TFS Integration Platform, which is closely related to migration processes in software development and involves software engineering practices.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed discussion on creating a TFS Integration Platform Adapter, which directly relates to software development practices, particularly in the context of version control, migration of work items, and integration methodologies. It includes specific code examples, configuration details, and addresses challenges faced during the development process, demonstrating a strong alignment with software engineering principles and practices.",
     "level": "Primary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T23:41:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical aspects of creating a TFS Integration Platform Adapter and does not align with Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of a TFS Integration Platform Adapter, with no clear focus on Agile Values or Principles.",
     "level": "Ignored"
   },
@@ -622,28 +550,31 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the integration and migration of work items within the context of TFS (Team Foundation Server), which relates to source control practices, but the focus is on implementation and specific adapter development rather than best practices or methodologies of modern source control.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, which involves aspects of version control, such as managing work items and handling changes. It includes specific references to TFS, work item tracking, and migration processes, aligning with modern source control practices. However, the focus is more on implementation details rather than broader best practices or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the technical implementation of a TFS Integration Platform Adapter and does not specifically discuss empirical process control, Agile, or related principles.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details related to the TFS Integration Platform and work item tracking, with no mention of Scrum Values, principles, or practices.",
     "level": "Ignored"
   },
@@ -667,10 +598,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and coding solutions related to the TFS Integration Platform, with no focus on organisational change methodologies or management strategies.",
     "level": "Ignored"
   },
@@ -685,37 +616,31 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content briefly mentions the need for a rolling migration and frequent updates, aligning it with the concept of Frequent Releases, but the main focus is on the technical implementation of integration with TFS and Test Track Pro, rather than a comprehensive discussion on mechanisms or strategies for frequent releases.",
+    "reasoning": "The content discusses the implementation of a TFS Integration Platform Adapter and mentions the need for regular updates and shipping changes, which aligns with the concept of frequent releases. However, the primary focus is on technical implementation details rather than the broader principles and practices of frequent releases, such as continuous delivery or deployment strategies.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T23:41:05",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily focused on technical implementation details of a TFS Integration Platform Adapter, with no clear reference to customer satisfaction principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T23:41:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the development of a TFS Integration Platform Adapter and migration of work items rather than discussing scaling Scrum principles or frameworks.",
+    "reasoning": "The content is primarily focused on technical implementation details of a TFS Integration Platform Adapter, with no clear reference to customer satisfaction principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T23:41:06",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical aspects of integrating systems rather than applying empirical evidence to leadership practices.",
     "level": "Ignored"
   },
@@ -728,22 +653,16 @@
     "reasoning": "Content is technically focused on TFS integration and programming without addressing psychological safety or its impact on teams.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T23:41:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical implementation details of a TFS Integration Platform Adapter, which does not align with discussions on scaling agility in organizations.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T23:41:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of creating a TFS Integration Adapter, focusing on coding practices, debugging, and best practices for software development processes related to integration and migration. It aligns well with the principles of software craftsmanship and technical debt management.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the development of a TFS Integration Platform Adapter, focusing on coding practices, debugging, and the management of technical debt through iterative improvements. It includes specific coding examples and addresses issues related to software craftsmanship, such as error handling and versioning, which align with the principles of engineering excellence. However, the primary focus is on implementation details rather than broader engineering practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -757,10 +676,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T23:41:06",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a TFS Integration Platform Adapter without any clear focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -775,21 +694,24 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T23:41:06",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical implementation details of a TFS Integration Platform Adapter and does not discuss customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T23:41:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a practical problem-solving approach related to the TFS Integration Platform and migration of work items, showcasing adaptability, real-world application, and critical thinking to handle coding challenges and conflicts in an Agile context.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed account of practical problem-solving strategies in the context of developing a TFS Integration Platform Adapter. It discusses real-world challenges faced during the integration process, including handling data migration, managing versioning, and addressing errors encountered in the TFS environment. The author reflects on their experiences and adjustments made to the code, demonstrating adaptability and critical thinking in navigating complex issues, which aligns well with the principles of Pragmatic Thinking.",
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +724,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T23:41:06",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on the technical details of creating a TFS Integration Platform Adapter and troubleshooting specific integration issues rather than discussing innovation capabilities or strategic approaches to enhancing the ability to innovate within organizations.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T23:41:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical implementation of a TFS Integration Platform adapter for Test Track Pro, which focuses on data migration rather than Scrum principles or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T23:41:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on TFS integration and development rather than discussions on Scaled Agile methodologies or frameworks.",
+    "reasoning": "The content primarily focuses on the technical details of creating a TFS Integration Platform Adapter and troubleshooting specific integration issues rather than discussing innovation capabilities or strategic approaches to enhancing the ability to innovate within organizations.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +751,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T23:41:06",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the development and issues related to a TFS Integration Platform Adapter, which does not focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -865,11 +769,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T23:41:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the development, migration, and integration of work items within a software context, specifically using the TFS Integration Platform, showcasing the challenges and solutions related to delivering high-quality, functional software.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter, focusing on the migration of work items, which is a direct application of working software principles. It includes detailed code snippets, problem-solving approaches, and discussions on handling work item revisions, which align with the iterative development and continuous delivery aspects of working software. However, while it touches on software quality and functionality, it lacks a structured discussion on best practices or metrics for assessing software quality.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -883,10 +790,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T23:41:06",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a WIT Adapter for TFS Integration Platform, detailing code snippets, migration issues, and debugging challenges, which are not focused on Continuous Integration practices or principles.",
     "level": "Ignored"
   },
@@ -928,10 +835,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T23:41:07",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses the technical details of creating a TFS Integration Platform Adapter and migration issues, without any mention or focus on hypothesis formation, experimentation, or validated learning.",
     "level": "Ignored"
   },
@@ -964,19 +871,19 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T23:41:07",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical details of creating a TFS Integration Platform Adapter, which is unrelated to the responsibilities, skills, or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T23:41:07",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the development and debugging of a TFS Integration Platform Adapter without addressing the concept or metrics of Cycle Time. There is no relevant discussion about workflow efficiency or measurement of time taken to complete work units.",
     "level": "Ignored"
   },
@@ -1000,28 +907,28 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T23:41:07",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily technical and focused on coding and integration solutions for TFS, with no clear connection to Change Management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T23:41:07",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical implementation and troubleshooting of a TFS Integration Platform adapter without discussing team dynamics, communication, or collaboration strategies.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T23:41:07",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the creation of a TFS Integration Platform Adapter, focusing on migration and integration issues, without any clear connection or focus on Behaviour Driven Development (BDD) principles, practices, or collaboration mechanisms.",
     "level": "Ignored"
   },
@@ -1034,7 +941,7 @@
     "reasoning": "The content is primarily about configuring and debugging a specific software integration process, which does not directly address topics of digital transformation such as business agility, innovation techniques, or the strategic implementation of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T23:41:07",
     "ai_confidence": 0,
@@ -1043,30 +950,24 @@
     "reasoning": "The content is primarily about creating a TFS Integration Platform Adapter and does not discuss Minimum Viable Products or relevant MVP concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T23:41:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about developing and troubleshooting a TFS Integration Platform Adapter, with no mention or discussion of AI within Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T23:41:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content focuses primarily on technical aspects of configuring a specific system (TFS Integration Platform) and involves discussions about system setup, migration configurations, and detailed XML configurations relevant to system performance. It adheres to best practices in software configuration and addresses troubleshooting issues associated with system settings.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the configuration of a TFS Integration Platform Adapter, detailing the XML configuration, code snippets, and troubleshooting steps related to system setup and performance. It discusses specific configuration settings, migration processes, and error handling, which are all relevant to system configuration. The depth of technical detail provided supports a high confidence score, as it aligns closely with the key topics outlined in the category definition.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T23:41:07",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to creating a TFS Integration Platform Adapter and does not address product strategy principles such as vision formulation, roadmapping, market analysis, or customer-centric approaches.",
     "level": "Ignored"
   },
@@ -1099,11 +1000,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:41:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a TFS Integration Platform adapter without any significant focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the creation of a WIT adapter for TFS Integration Platform, focusing on integration and migration issues rather than the principles of Test First Development. There are no explicit mentions of success criteria, automated testing practices, or the impact of Test First on collaboration, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1135,19 +1039,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T23:41:08",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical details of creating a TFS Integration Platform Adapter and does not focus on team motivation or any related themes. It does not address strategies or practices that enhance engagement or performance within agile teams.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T23:41:08",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses technical aspects of integrating TFS with Test Track Pro, focusing on migration, configuration, and error handling, but does not address remote working practices or Agile team dynamics.",
     "level": "Ignored"
   },
@@ -1162,12 +1066,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T23:41:08",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses a technical problem involving the TFS Integration Platform, focusing on identifying and resolving issues related to work item migration, errors encountered, and modifications made to the integration code to address those issues.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues encountered while developing a TFS Integration Platform Adapter. It discusses specific problems, such as handling history in work items, debugging exceptions, and resolving conflicts during migration. The detailed exploration of errors, including 'Index was out of range' and date format issues, aligns well with the troubleshooting category, providing insights into diagnosing and resolving technical issues.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1087,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:41:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS Integration Platform and technical coding details, without discussion on Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to creating a WIT adapter for TFS Integration Platform, with no direct discussion of Scrum Master responsibilities, techniques, or influence on team dynamics. It does not align with the core themes of the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1108,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T23:41:08",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily relates to technical implementation of a TFS Integration Platform Adapter and migration of work items, lacking any focus on teamwork norms or principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content primarily discusses the development and issues related to a specific software integration using TFS (Team Foundation Server) Integration Platform, but it does not focus on Agile or DevOps principles as outlined in the category description.",
-    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1252,10 +1153,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T23:41:09",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical implementation of a TFS Integration Platform Adapter, which does not align with product management strategies, methodologies, or frameworks.",
     "level": "Ignored"
   },
@@ -1306,19 +1207,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T23:41:09",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical details and implementation of a TFS integration adapter, without discussing Lean principles or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T23:41:09",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical implementation related to TFS and TestTrack integration without any focus on analyzing trends in Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
@@ -1329,15 +1230,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical implementation and migration details related to TFS Integration Platform, with no clear discussion of accountability or Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T23:41:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the creation and migration of a TFS Integration Platform Adapter, focusing on technical details and challenges related to migration rather than on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1351,20 +1243,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T23:41:09",
+    "calculated_at": "2025-04-10T15:55:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on integrating Test Track Pro with TFS and the development of an adapter, with no clear discussion of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:56:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating a WIT adapter for TFS Integration Platform, with no significant discussion on collaboration, decision-making, or value delivery. It lacks alignment with the core themes of social technologies, such as self-organisation or collective intelligence, and does not provide depth in these areas.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1269,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to TFS Integration Platform and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and specific coding issues, rather than focusing on the broader concepts of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:29:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the development of a TFS Integration Platform Adapter and does not focus on the application of AI in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and does not explicitly mention Scrum principles, roles, events, or artifacts. While it may touch on aspects of project management and team collaboration indirectly, it lacks a direct focus on Scrum methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the development of a TFS Integration Platform Adapter and does not focus on integrating testing, security, or compliance earlier in the software development lifecycle, which are key aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical implementation details and troubleshooting of a TFS Integration Platform Adapter, with minimal reference to Continuous Improvement principles. While there are mentions of problem-solving and iterative development, these are not the main focus of the content, which is more about specific coding challenges and solutions rather than a broader discussion on Continuous Improvement methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to creating a WIT adapter for TFS Integration Platform, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there are mentions of work items and migration processes, these do not connect to the overarching themes of shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on technical implementation details and troubleshooting of a TFS Integration Platform Adapter, with minimal direct discussion on competence, continuous learning, or skill development. While there are some references to problem-solving and adapting code, these are not framed within the context of competence as defined in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to creating a WIT adapter for TFS Integration Platform, with no explicit discussion of Agentic Agility principles or themes. While there are elements of adaptability in the problem-solving process, the content does not engage with the intentional shaping of outcomes or the interplay between human and AI capabilities in a socio-technical context.",
     "level": "Ignored"
   }
 }

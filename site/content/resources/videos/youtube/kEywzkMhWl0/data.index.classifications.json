@@ -1,20 +1,26 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:10:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and Agile principles, without a focus on DevOps practices or principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile methodologies, discussing teaching as a critical skill. While Agile practices can intersect with DevOps principles, the content does not explicitly mention DevOps or its core themes, such as collaboration, automation, or shared accountability. The discussion is centred around Scrum, which is a specific framework rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:10:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master, focusing on teaching as a critical skill within the Scrum framework, which aligns with Agile practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Scrum Master, focusing on teaching as a critical skill. While it touches on collaboration and understanding within teams, it does not explicitly address broader social technologies or frameworks that promote collective intelligence or decision-making. The emphasis is more on individual skills rather than organisational methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -28,21 +34,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T08:10:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in teaching and facilitating change, which aligns with leadership practices in Agile. However, the primary focus is on the teaching aspect rather than broader leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of teaching and understanding within the context of a Scrum Master role, which touches on leadership skills. However, it primarily focuses on the mechanics of teaching rather than broader leadership strategies or frameworks. While there is a mention of helping people understand the 'why' behind actions, the discussion lacks depth in exploring leadership practices or the impact of leadership on team dynamics.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T08:10:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is related to Agile methodologies and indirectly touches on aspects of product management, but it primarily focuses on teaching and facilitation rather than strategic product management.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the role of a Scrum Master, which is related to product management in an Agile context. However, it lacks a comprehensive discussion on product management strategies, methodologies, or frameworks. The focus is more on teaching and understanding rather than on strategic alignment or decision-making in product management.",
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -64,48 +76,33 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of teaching in the Scrum Master position rather than focusing on metrics, data utilization, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "Content is primarily focused on the role of a Scrum Master, specifically emphasizing the importance of teaching within that context and how it relates to Scrum principles and facilitating Agile transformation.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master within the Scrum framework, emphasizing teaching as a critical skill and its importance in facilitating Agile transformation, which aligns with the Agile frameworks theme.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master, which is a key aspect of the Scrum framework, an Agile methodology. It discusses the importance of teaching within this role, linking it to Agile principles and the process of change. While it does not provide a comprehensive overview of Agile frameworks, it aligns well with the core themes of Agile, particularly in relation to Scrum. The depth of discussion is moderate, as it elaborates on the teaching aspect but does not delve into other Agile frameworks or broader Agile principles.",
     "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of a Scrum Master, focusing on teaching as a critical skill, which is relevant to Scrum practices but not primarily about product development.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the role and skills of a Scrum Master, focusing on teaching and Agile principles, but it does not reference specific events, presentations, or discussions related to formal talks or workshops.",
-    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -172,19 +169,19 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Scrum Master and the importance of teaching, which focuses on Agile principles rather than Lean Principles specifically.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and the importance of teaching in Agile transformation, without directly addressing the Definition of Done.",
     "level": "Ignored"
   },
@@ -217,12 +214,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in teaching and guiding teams towards understanding the principles of Agile, which relates to the themes of self-organisation. However, the primary focus is on teaching rather than self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Scrum Master in teaching and facilitating understanding within teams, which aligns with the principles of self-organisation. It highlights the importance of empowering team members to embrace Agile principles and drive change themselves, reflecting the core themes of autonomy and collaboration. However, while it touches on self-organisation, the primary focus is on the teaching aspect of the Scrum Master role, which may not fully encapsulate the broader category of self-organisation.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -235,11 +235,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and teaching within Agile frameworks, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile practices. While it touches on Agile principles, it does not discuss Continuous Delivery, its practices, or its benefits. The mention of Agile does not align with the specific focus on Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -289,47 +292,62 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the role of a Scrum Master and emphasizes teaching within the Agile framework, which is a significant aspect of software development methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master within the Agile framework, focusing on the importance of teaching as a critical skill. It aligns well with the Software Development category by addressing Agile practices and the Scrum methodology, which are key components of software development processes. The depth of discussion on how teaching impacts team dynamics and Agile transformation adds to its relevance, although it could benefit from more technical details on software development practices.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the role of a Scrum Master in facilitating understanding and engagement within teams, emphasizing teaching as a method of coaching rather than directive leadership. It aligns with coaching principles, but is primarily focused on the specific skills of Scrum Masters.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a Scrum Master, emphasising the importance of teaching and facilitating understanding among team members, which aligns with coaching principles. It highlights the need for Scrum Masters to guide teams through change rather than simply directing them, reflecting the supportive nature of coaching. However, while it touches on coaching aspects, it primarily focuses on teaching rather than broader coaching techniques, which slightly limits its depth in the coaching category.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and emphasizes the importance of teaching Agile principles, which relates to Agile Planning, but is primarily focused on the skill of teaching rather than specific Agile planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a Scrum Master, emphasising the importance of teaching Agile principles, which aligns with Agile Planning. It highlights how understanding the 'why' behind Scrum can facilitate change and improve team dynamics, reflecting key themes of Agile Planning. However, it does not delve deeply into specific Agile Planning techniques or methodologies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of teaching in fostering understanding of Agile principles, which is a significant aspect of Agile Strategy, but it does not deeply engage with strategic implementation or broader organizational alignment.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a Scrum Master, emphasising the importance of teaching as a critical skill in facilitating Agile transformation. It aligns with Agile Strategy by highlighting how understanding the 'why' behind Agile principles can drive engagement and change within teams. However, while it touches on strategic aspects, the primary focus is on the Scrum Master's role rather than broader organisational strategies, which slightly limits its depth in the context of Agile Strategy.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the critical skill of a Scrum Master, focusing on the importance of teaching within agile teams. It highlights how effective teaching can drive team engagement, understanding of roles, and promote change, aligning well with team performance and collaboration principles in Agile frameworks.",
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of teaching and understanding within the context of a Scrum Master’s role, which relates to team dynamics and collaboration. However, it lacks explicit mentions of team performance metrics, agile ceremonies, or detailed strategies for enhancing team effectiveness, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lean": {
@@ -361,38 +379,35 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the role of a Scrum Master, teaching, and Agile principles, with no direct connection to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and emphasizes teaching within the Scrum framework, which does not align with the One Engineering System concepts.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the role of a Scrum Master in facilitating understanding and engagement during Agile transformations, which aligns with change management principles. However, it primarily focuses on teaching skills rather than broader change management strategies.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of a Scrum Master in facilitating change through teaching, which aligns with the principles of effective change management in Agile environments. It highlights the importance of understanding the 'why' behind Agile practices, which fosters engagement and reduces resistance to change. However, while it touches on change management, the primary focus is on the teaching aspect of the Scrum Master role, which may not fully encompass the broader strategies and practices of change management as outlined in the category definition.",
     "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content emphasizes the role of teaching in driving Agile Transformation, which is a component of digital transformation; however, the primary focus is on the skill set of a Scrum Master rather than a broader discussion of digital transformation strategies or impacts.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a Scrum Master in facilitating change and teaching Agile principles, which aligns with the broader theme of digital transformation. However, it primarily focuses on the teaching aspect rather than the strategic adoption of digital technologies. While it mentions Agile Transformation, it does not delve deeply into how digital tools or methodologies are leveraged for business transformation, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -406,12 +421,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of teaching and understanding in the context of Agile and Scrum, which aligns with principles of continuous learning by emphasizing the need for team members to grasp the 'why' behind their roles and processes.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of teaching in the context of a Scrum Master, which aligns with the principles of Continuous Learning by emphasising the importance of understanding and knowledge sharing. It highlights how effective teaching can facilitate a growth mindset and drive engagement, which are key aspects of Continuous Learning. However, while it touches on these themes, the focus is primarily on the teaching aspect rather than a broader exploration of Continuous Learning practices, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -449,15 +467,6 @@
     "reasoning": "Content discusses the role of a Scrum Master and emphasizes teaching and facilitation over technical practices and software craftsmanship.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role and skills of a Scrum Master, focusing on teaching and change management rather than on software developers specifically.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T10:21:52",
@@ -467,23 +476,17 @@
     "reasoning": "Content primarily discusses the role and skills of a Scrum Master, focusing on teaching and facilitating Agile principles rather than Lean Product Development specifically.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and the importance of teaching within Agile methodologies, which is not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in teaching the 'why' of Agile principles, which touches upon cultural aspects of understanding and adapting to change. However, it primarily focuses on the skills of Scrum Masters rather than a deeper exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Scrum Master, particularly focusing on the importance of teaching and understanding the 'why' behind Agile principles. While it touches on aspects of engagement and transformation, it primarily centres on the Scrum Master's responsibilities rather than a broader discussion of organisational culture. The mentions of teaching and change are relevant but do not delve deeply into cultural dimensions or strategies for fostering a culture of continuous improvement, which are key topics in the category. Therefore, while there is some alignment, the depth and focus on organisational culture are limited.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -505,12 +508,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the critical skill of teaching within the Scrum Master role, linking it to Agile change and team dynamics.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master, focusing on the critical skill of teaching, which is essential for facilitating understanding and change within teams. It aligns well with the core themes of the category, such as the responsibilities of a Scrum Master and their influence on team dynamics. The depth of discussion is significant, providing insights into how teaching impacts Agile transformation and team engagement.",
+    "level": "Primary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -523,21 +529,27 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content emphasizes the role of a Scrum Master in teaching the values of Agile and how understanding these values can facilitate change and enhance team engagement, relating indirectly to value delivery.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of a Scrum Master in teaching and facilitating understanding of Agile principles, which aligns with the concept of delivering value through effective communication and engagement. However, it primarily focuses on the teaching aspect rather than broader strategies for value delivery, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of a Scrum Master in facilitating understanding of Agile principles, which is a relevant aspect of technical leadership, but the focus is more on teaching rather than broader technical leadership themes.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Scrum Master, focusing on the importance of teaching and understanding the 'why' behind Agile principles. While it touches on aspects of technical leadership, such as guiding teams and fostering engagement, it lacks a comprehensive exploration of broader technical leadership themes like servant leadership, mentoring, or conflict resolution. The primary focus is on the teaching aspect rather than a holistic view of technical leadership.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -556,15 +568,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Scrum Master and the importance of teaching in Agile environments, lacking a focus on decision-making processes or theories.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master, focusing on the critical skill of teaching within the context of Scrum, thus making Scrum a central theme.",
-    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -586,20 +589,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the role of a Scrum Master in driving Agile transformation and emphasizes the importance of teaching and understanding the reasons behind change. While it primarily focuses on the teaching aspect, it also relates to facilitating organisational change through effective communication and understanding of Scrum principles.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master and teaching within a Scrum framework, without addressing scaling Agile practices or coordination among multiple teams.",
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the importance of teaching and understanding the reasons behind change, which aligns with the concept of overcoming resistance to change. However, it primarily focuses on the role of a Scrum Master and does not delve into broader organisational change strategies or frameworks. The discussion lacks depth and does not explicitly mention organisational change methodologies or leadership roles, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -610,15 +607,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile practices, without discussing Lean principles or topics directly related to Lean Thinking.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master in facilitating change through teaching, which is a fundamental aspect of team dynamics and collaboration in Agile environments.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,12 +619,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master in facilitating Agile change, which relates to principles of business agility, but primarily focuses on teaching skills rather than broader business agility concepts.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of teaching within Agile frameworks, which is tangentially related to business agility. However, it primarily focuses on Scrum practices rather than the broader principles and strategies of business agility. While it mentions Agile transformation and the importance of understanding the 'why', it lacks depth in discussing how these concepts contribute to organisational agility as defined in the category.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -667,23 +658,26 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the teaching role of a Scrum Master rather than the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:31:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and skills of a Scrum Master, focusing on teaching and facilitating understanding rather than Lead Time or its measurement.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. There are no direct mentions of Lead Time or its related concepts. While there is a brief mention of Agile transformation, it does not delve into Lead Time as a metric or its implications on workflow efficiency or delivery to customers. The discussion lacks depth and relevance to the category, leading to a very low confidence score.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:21:52",
     "ai_confidence": 0,
@@ -694,21 +688,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses on the role of Scrum Masters in teaching and facilitating understanding within Agile teams, which aligns closely with Agile Leadership principles, emphasizing empowerment and driving change.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of a Scrum Master, emphasising the importance of teaching as a critical skill for facilitating change within Agile teams. It aligns well with Agile Leadership by highlighting how effective teaching can empower team members and foster a culture of understanding and engagement. The depth of discussion on the teaching aspect and its impact on Agile transformation indicates a strong connection to the category, although it primarily focuses on the Scrum Master role rather than broader leadership practices.",
     "level": "Secondary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master, focusing on teaching and facilitation skills rather than AI and automation in Agile frameworks.",
-    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -721,12 +709,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the teaching role of a Scrum Master and emphasizes understanding Agile principles, which relates to empirical process control in promoting transparency and adaptation. However, it primarily focuses on the teaching aspect rather than empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Scrum Master, particularly focusing on teaching as a critical skill. While it touches on Agile principles and the importance of understanding the 'why' behind Scrum, it does not explicitly address empirical process control or its core themes such as transparency, inspection, and adaptation. The discussion is more about the facilitative role of the Scrum Master rather than the empirical process itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -739,30 +730,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master in teaching and fostering understanding within the team, which is related to collaboration but primarily focuses on the teaching aspect rather than explicit team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content briefly touches on the role of a Scrum Master in teaching and facilitating understanding within a team, which aligns with the concept of improving team communication and collaboration. However, it lacks depth and does not explore broader themes of shared ownership, trust, or specific strategies for fostering collaboration. The focus is primarily on individual skills rather than team dynamics, which limits its relevance to the category.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in facilitating change and understanding Agile principles, which relates to the theme of market adaptability. However, the focus is more on teaching and roles rather than on specific strategies or methodologies that enhance market adaptability.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of teaching within Agile frameworks, which indirectly relates to market adaptability through the lens of Agile transformation. However, it lacks a direct focus on strategies or practices that enhance an organisation's ability to respond to market shifts. The discussion is more centred on the personal skills of a Scrum Master rather than broader organisational adaptability.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on the teaching role of a Scrum Master within Agile methodologies, without any mention of AI or its applications.",
-    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -775,10 +763,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of teaching, rather than specifically focusing on the Daily Scrum event.",
     "level": "Ignored"
   },
@@ -793,12 +781,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master, emphasizing teaching and understanding Agile principles, which are relevant to broader themes of change and agility within teams. However, it primarily focuses on team-level practices rather than enterprise-level agility.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on themes of change and Agile transformation, it does so from a team-level perspective rather than addressing broader organisational agility. The discussion lacks explicit references to enterprise-level frameworks, structures, or metrics, which are crucial for the category of Enterprise Agility.",
+    "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -808,15 +799,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role and skills of a Scrum Master rather than discussing Product Backlog management or its components.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the role of a Scrum Master, emphasizing the importance of teaching within the context of Agile and Scrum principles.",
-    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -836,76 +818,61 @@
     "reasoning": "Content heavily discusses the teaching role of a Scrum Master and the importance of understanding Agile principles, rather than focusing on troubleshooting technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses the role and skills of a Scrum Master, without specific reference to products, books, or literature related to Agile methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the role and skills of a Scrum Master rather than providing news, updates, or reviews related to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of teaching in the Scrum Master role, which relates to motivating and engaging team members by helping them understand the value of Agile principles. Teaching is positioned as a way to fuel engagement and drive change, aligning with team motivation themes. However, since it primarily focuses on teaching rather than broader motivational strategies, it is classified as a major but secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of teaching as a critical skill for Scrum Masters, which aligns with team motivation by emphasising the importance of understanding and engagement. It highlights how effective teaching can enhance team members' grasp of their roles and the value of Agile principles, thereby fostering motivation and ownership. However, while it touches on these motivational aspects, the primary focus remains on the teaching role rather than broader team dynamics or strategies for motivation, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the personal view of the author regarding the role of a Scrum Master and emphasizes teaching as a critical skill in that position. However, it primarily focuses on the role and responsibilities rather than providing deep personal anecdotes or reflections.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of teaching, without addressing scaling Scrum or related frameworks and practices.",
-    "level": "Ignored"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of a Scrum Master and emphasises the importance of teaching as a critical skill, which aligns with personal insights and experiences in Agile practices. However, while it provides personal reflections, it primarily focuses on the role and responsibilities rather than deeply exploring personal anecdotes or challenges faced in Agile transformations.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and skills of a Scrum Master and does not focus on cross-functional teams.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and emphasizes the importance of teaching the principles behind Scrum, which touches on the values of Openness and Focus, but is primarily centered on the role itself and the teaching aspect.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a Scrum Master and emphasises the importance of teaching, which indirectly relates to Scrum Values like Openness and Respect. However, it does not explicitly mention the Scrum Values or provide a detailed exploration of them, focusing instead on the teaching aspect of the Scrum Master's role. This results in a moderate confidence score, as the primary focus is not on the Scrum Values themselves.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of a Scrum Master, emphasizing teaching and understanding Agile principles, which are central to Agile Product Management.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master, which is a key aspect of Agile frameworks, particularly in relation to teaching and facilitating understanding of Agile principles. It aligns well with the category by emphasising the importance of teaching the 'why' behind Scrum, which is crucial for effective product management in an Agile context. However, while it touches on Agile concepts, it does not delve deeply into product management strategies or techniques, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -919,11 +886,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:02:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of a Scrum Master in teaching and facilitating Agile principles, but does not cover Test First Development or related concepts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile practices. It does not discuss Test First Development principles, success criteria, or testing methodologies, which are central to the category. The mention of Agile transformation is too vague and does not connect to the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,11 +907,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role and critical skills of a Scrum Master, focusing on teaching and facilitating understanding within the Scrum Team.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master, specifically highlighting the importance of teaching as a critical skill. It discusses how this skill impacts team dynamics and engagement, which aligns well with the themes of collaboration and communication within a Scrum Team. The depth of discussion on the teaching aspect and its implications for team performance adds to the overall relevance, although it does not cover other roles or broader team dynamics extensively.",
     "level": "Secondary"
   },
   "Trend Analysis": {
@@ -973,66 +946,75 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of a Scrum Master in teaching the 'why' behind Agile principles, which relates to strategic alignment and engagement in Agile environments, but lacks a broader strategic discussion.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Scrum Master, particularly focusing on the importance of teaching within Agile frameworks. While it touches on the significance of understanding the 'why' behind Agile principles, which aligns with strategic alignment and team performance, it lacks a comprehensive exploration of strategic approaches or techniques. The primary focus is on the teaching aspect rather than broader strategic discussions, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching as a skill, which relates to the mentoring process. However, it does not directly discuss broader mentoring strategies or techniques.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of a Scrum Master as a teacher, which aligns with mentoring principles. It highlights the importance of teaching for understanding and engagement, key aspects of effective mentoring. The depth of discussion on teaching as a critical skill for Scrum Masters indicates a strong focus on mentoring, although it does not explicitly mention mentoring techniques or strategies.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content primarily revolves around the role of the Scrum Master, highlighting the importance of teaching and understanding the 'why' behind Agile principles, which relates to Agile Philosophy. However, it leans heavily on Scrum-specific discussions, making the Agile philosophy a major but secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a Scrum Master with a focus on teaching, which aligns with Agile principles of collaboration and understanding. It highlights the importance of understanding the 'why' behind Agile practices, which is a core aspect of Agile Philosophy. However, the primary focus is on the Scrum framework rather than the broader Agile Philosophy, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master, which is related to Agile methodologies, a key topic in product delivery, but primarily focuses on teaching skills rather than the overall process of product delivery.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master and teaching, focusing on team-level practices rather than scaling agility at the organisational level.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Scrum Master, which is relevant to Agile methodologies and product delivery. It highlights the importance of teaching within the Scrum framework, aligning with the iterative development and feedback loops essential for product delivery. However, the focus is primarily on the teaching aspect rather than the broader methodologies and practices of product delivery, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master in facilitating change and teaching Agile principles, but it primarily focuses on the teaching aspect rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a Scrum Master, emphasising the importance of teaching as a critical skill for facilitating change within teams. It aligns well with the principles of organisational agility by highlighting how effective teaching can enhance understanding and acceptance of Agile methodologies, thus fostering a culture of adaptability. The depth of discussion on the teaching aspect and its impact on Agile transformation indicates a strong connection to the category, although it primarily focuses on the Scrum Master role rather than broader organisational strategies.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of a Scrum Master in driving Agile transformation by emphasizing the importance of teaching and helping team members understand Agile principles, which aligns well with the category of Agile Transformation.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master in facilitating Agile transformation through teaching, which is a critical aspect of driving change within teams. It aligns well with the principles of Agile transformation by emphasising the importance of understanding the 'why' behind Agile practices. The depth of discussion is significant, as it explores how effective teaching can lead to meaningful change and engagement in Agile environments. Overall, the content is highly relevant to the category.",
+    "level": "Primary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1043,30 +1025,12 @@
     "reasoning": "Content heavily discusses the role of a Scrum Master and the importance of teaching within Agile methodology, which is not directly related to Portfolio Management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content primarily discusses the role of teaching in fostering change and understanding Agile practices, which is a key aspect of facilitating adaptive change. However, it does not delve deeply into broader strategies for organisational resilience or comprehensive change management practices.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the teaching role of a Scrum Master but does not primarily address transparency or accountability.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the role of a Scrum Master and the importance of teaching in Agile transformation, but does not focus on Agile Planning Tools or planning processes.",
     "level": "Ignored"
   },
@@ -1079,31 +1043,25 @@
     "reasoning": "Content heavily focuses on the role of a Scrum Master and the importance of teaching, rather than discussing frequent software releases or related concepts.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching skills of a Scrum Master, not practical techniques or tooling.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of a Scrum Master in teaching and facilitating understanding among team members, which relates to sensemaking in the context of Agile transformation. However, the primary focus is on Scrum roles and teaching skills rather than deep exploration of sensemaking itself.",
     "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:31:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and skills of a Scrum Master, focusing on teaching and facilitating Agile processes, which does not align with system configuration topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the role of a Scrum Master and the importance of teaching within Agile methodologies. There are no direct mentions of system configuration, nor does it discuss any relevant themes such as configuration management, system optimisation, or automation practices. The discussion is centred around project management and team dynamics, which are outside the scope of system configuration.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1135,21 +1093,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Scrum Master and emphasizes teaching within Agile practices, which is relevant to the Agile Product Operating Model, but is not the primary focus of the content.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content emphasizes the teaching role of a Scrum Master and its importance in helping team members understand Agile principles, which aligns with the themes of learning and fostering understanding in a team environment.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on Agile principles, it does not explicitly discuss the Agile Product Operating Model or its core themes. The discussion is more about Scrum practices rather than the broader product-oriented mindset and operational aspects of APOM.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1162,10 +1114,10 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the teaching role of a Scrum Master, emphasizing how effective teaching can enhance engagement and motivation among team members, making it a significant but secondary theme.",
     "level": "Tertiary"
   },
@@ -1178,23 +1130,17 @@
     "reasoning": "Content heavily discusses the role of a Scrum Master and teaching within Agile frameworks, with no mention of automated testing principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role and skills of a Scrum Master, primarily focusing on teaching within the Scrum framework, with no relevant connection to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on the role of teaching within the context of a Scrum Master and its practical implications in driving Agile change, making it a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of teaching and understanding within the Scrum framework, which aligns with pragmatic thinking by emphasising practical problem-solving and the need for real-world application of Scrum principles. However, it lacks depth in exploring specific strategies or techniques, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1261,30 +1207,36 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the role of a Scrum Master and the importance of teaching Agile principles, making Agile values a major theme but also focuses significantly on Scrum specifics.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Scrum Master, focusing on the importance of teaching and understanding the 'why' behind Agile principles. While it does mention Agile and its transformation, the primary focus is on the Scrum framework and the teaching aspect rather than a deep exploration of Agile values and principles. Therefore, it aligns with the category but does not fully meet the criteria for a primary focus.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and teaching within Agile practices, with no mention of Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master with a focus on teaching, understanding of Agile principles, and team dynamics, which aligns with sociotechnical system concepts, though it primarily emphasizes teaching skills.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a Scrum Master, particularly focusing on the teaching aspect, which indirectly touches on the social dynamics within a team. However, it lacks explicit references to sociotechnical systems or their principles. The discussion is primarily centred on the Scrum Master's responsibilities rather than the broader interplay between technology and organisational structures, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1324,11 +1276,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:31:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching role of a Scrum Master and does not focus on throughput, work completion rates, or related metrics in Agile contexts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the teaching role of a Scrum Master and does not discuss throughput as a delivery metric. While it touches on aspects of Agile and change management, it lacks any direct mention or analysis of throughput, its calculation, or its implications for team delivery capacity. The discussion is more about the philosophy of teaching within Agile rather than any measurable metrics related to throughput.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1342,28 +1297,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the teaching role of a Scrum Master and aspects of Agile transformation, but does not focus on Evidence-Based Management principles or the use of empirical evidence in management.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on aspects of Agile transformation, it does not explicitly discuss Evidence-Based Management or its key topics. The discussion lacks empirical evidence or metrics that are central to EBM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and the importance of teaching in Agile transformation, which is not relevant to installation or configuration.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T10:21:52",
+    "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a Scrum Master in facilitating understanding and driving change, without a clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -1374,6 +1332,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the role of teaching for a Scrum Master rather than focusing on operational practices, methodologies, or techniques to enhance operational efficiency.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:00:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and the importance of teaching within Agile methodologies, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:00:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the role of a Scrum Master and the importance of teaching in Agile methodologies, with no mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master, which is a key aspect of the Scrum framework. It discusses the importance of teaching and understanding the principles behind Scrum practices, aligning with the core themes of team dynamics and continuous improvement. However, it lacks detailed exploration of Scrum events or artifacts, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile practices. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. The mention of Agile transformation is too general and does not specifically relate to integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of teaching in the context of a Scrum Master, which indirectly relates to Continuous Improvement through the lens of fostering understanding and engagement in Agile practices. However, it lacks a direct focus on Continuous Improvement principles, empirical evidence, or specific strategies for integrating these practices into organisational processes. The discussion is more centred on the teaching aspect rather than on continuous improvement methodologies or frameworks.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the teaching role of a Scrum Master rather than discussing Common Goals directly. While it touches on the importance of understanding the 'why' behind Agile principles, it lacks explicit discussions on shared objectives or alignment within teams, which are central to the Common Goals category. The content does not delve deeply into how these teaching skills connect to broader organisational goals or frameworks like OKRs, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the critical skill of teaching for Scrum Masters, which aligns with the concept of competence in Agile environments. It highlights the importance of understanding and effectively communicating the 'why' behind Agile principles, fostering a culture of learning and capability development. The depth of discussion on teaching as a means to drive change and enhance team understanding contributes significantly to the overall competence theme.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:02:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile methodologies, which does not directly address the principles or components of the One Engineering System. While it touches on Agile practices, it lacks a clear connection to the integration and standardisation of engineering processes that 1ES emphasises.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a Scrum Master and the importance of teaching in facilitating Agile practices. While it touches on themes of change and understanding value, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The focus is primarily on teaching as a skill rather than on intentional shaping of outcomes, which limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:30:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a Scrum Master, emphasising the importance of teaching within Agile methodologies. It directly mentions Agile principles and the Scrum framework, which are integral to product development. The discussion aligns with the category by highlighting how effective teaching can facilitate understanding and engagement in Agile practices, thus contributing to product development outcomes. However, while it touches on key themes, the depth of discussion is somewhat limited to the teaching aspect rather than a broader exploration of product development methodologies.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:30:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on themes of change and engagement, which are relevant to Agile principles, it does not explicitly mention Open Space Agile or its core concepts. The discussion lacks depth regarding Open Space Technology, psychological safety, or co-creation, which are central to the Open Space Agile category. Therefore, the confidence score reflects a low alignment with the specific category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:30:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on Agile principles, it does not explicitly discuss Agnostic Agile or its core themes. The mention of teaching as a critical skill aligns somewhat with the idea of adapting practices to context, but the overall discussion is heavily centred on Scrum, which is a specific framework rather than a broader, context-driven approach. Therefore, the confidence score reflects a low direct mention of Agnostic Agile, moderate conceptual alignment, and limited depth in discussing the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:30:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on Agile principles, it does not address the complexities or strategies involved in scaling Agile practices across multiple teams or the enterprise. The discussion is more about individual skills rather than frameworks or methodologies for scaling, which is the core focus of the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:31:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile methodologies. It does not mention or discuss Cell Structure Design, nor does it align with the core themes of decentralised organisational structures or the principles of the Beta Codex. The discussion is centred around Scrum practices, which are unrelated to the specified category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:31:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on facilitation and change management, it does not explicitly mention Liberating Structures or their specific techniques. The discussion is more aligned with general Agile principles rather than the core themes of Liberating Structures, which emphasise participatory techniques and group dynamics. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:31:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on concepts related to Agile and change management, it does not explicitly discuss Time to Market or its associated metrics, strategies, or impacts. The discussion is more about the facilitation and educational aspects of the Scrum Master role rather than optimising processes for quicker delivery of value to customers. Therefore, the confidence score reflects a very low alignment with the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:31:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile methodologies. While it touches on themes of change and engagement, it does not explicitly discuss the concept of 'Company as a Product' or its principles. The discussion is centred around individual roles and skills rather than organisational strategies or customer-centric approaches, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:31:16",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and the importance of teaching within Agile methodologies. It does not mention GitHub or its functionalities, nor does it provide insights into GitHub services, tools, or best practices. The focus is on Agile principles rather than GitHub-specific discussions, leading to a very low confidence score for alignment with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:31:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role. While it touches on themes of change and understanding value, it does not explicitly discuss Unrealised Value or its indicators, nor does it explore potential improvements or innovation opportunities in a meaningful way. The discussion is more about the facilitation of Agile practices rather than identifying untapped opportunities within an organisation.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:31:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the teaching role of a Scrum Master rather than discussing Current Value or its metrics. While it touches on the importance of understanding value in the context of Agile transformation, it does not provide a detailed exploration of Current Value as defined in Evidence-Based Management. The mention of value is brief and secondary to the main theme of teaching, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:31:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within Agile frameworks. It does not explicitly mention Hybrid Agile or discuss the integration of traditional project management methodologies with agile practices. While it touches on Agile principles, it lacks critical examination of Hybrid Agile challenges, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:31:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master, specifically highlighting the importance of teaching within that role. While it touches on Agile principles, it does not delve into broader project management concepts such as project lifecycle phases, methodologies, or governance structures. The discussion is limited to the Scrum framework and does not provide a comprehensive view of project management as a whole, which is necessary for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses the role of a Scrum Master, emphasizing the importance of teaching as a skill. While it touches on concepts relevant to Agile, it does not focus on models or frameworks that inform decision-making, nor does it delve into any specific conceptual representations or systematic approaches within Agile, DevOps, or Lean contexts, which are necessary for a stronger alignment with the 'Model' category. The content primarily centers around the personal attributes and skills of the Scrum Master rather than on the conceptual models themselves.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching. There are no direct discussions about artifacts, their definitions, or any specific types of artifacts in Scrum or Agile. The mention of Scrum implies some context for artifacts, but it doesn't delve into how they function as formal representations of work or their role in transparency or adaptation. Therefore, the alignment and depth scores are quite low, resulting in a low overall confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of teaching within that role, rather than discussing any specific tools or their functionalities. There are no direct mentions of tools, and while it touches upon Agile methodology, it does not delve into how tools facilitate this process, nor does it analyze or compare tools. Thus, the content does not align well with the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content touches on the importance of teaching as a skill for Scrum Masters, which indirectly relates to the values embodied in Agile principles, such as collaboration and openness. However, the focus remains largely on practical skills rather than discussing values as a foundational concept. While it mentions how understanding the 'why' influences change and engagement, it lacks a deeper exploration of the underlying values driving these dynamics. Overall, the content offers some relevant insights, but it does not sufficiently concentrate on values themselves to warrant a high confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 47.0,
+    "ai_mentions": 8,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 47.0,
+    "reasoning": "The content discusses the critical skill of teaching in the context of the Scrum Master role, which is part of the Agile framework. There are direct mentions of Scrum and Agile principles, indicating some alignment with the framework category. However, the focus is more on the personal skills of a Scrum Master rather than an in-depth exploration of Scrum as a framework or its implementation strategies. The depth of discussion is moderate as it provides insights into the teaching aspect but lacks broader discussions on a more comprehensive understanding of frameworks or related methodologies. Therefore, while there is relevance to the Framework category, it is not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Practice": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 37.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content primarily discusses the role of a Scrum Master and emphasizes teaching as a critical skill, which aligns somewhat with the category of Practice. However, it lacks a strong focus on actionable techniques or specific practices that improve team effectiveness. The discussion mainly revolves around the importance of teaching within the context of Agile without delving into practical methodologies or repeatable actions commonly associated with the Practice category. Thus, while there are relevant mentions, the content does not meet the depth or actionable discussion expected for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master, specifically emphasizing teaching as a critical skill. While it touches upon the importance of understanding the 'why' of Agile, it frames this discussion within the context of Scrum practices and roles, thus making it more aligned with practical aspects rather than philosophical exploration. There are mentions of the significance of the 'why' in Agile, but these are secondary to the discussion on Scrum techniques and responsibilities, leading to a low confidence score in terms of alignment with the philosophy category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master and the importance of teaching as a skill, which does not align with the overarching theme of 'Capability'. While it mentions how teaching drives change and helps teams understand Agile principles, it does not discuss enduring competencies, systemic capabilities, or strategies for embedding capabilities within organizations. The specific focus on the Scrum Master role and teaching techniques detracts from its relevance to the Capability category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the role of a Scrum Master and emphasizes the importance of teaching as a critical skill, which relates to Agile principles. However, it focuses more on the general philosophy of teaching rather than actionable tenets or specific guiding rules. There are references to Agile transformation and team engagement, but the content lacks a strong, prescriptive element that would fully align with the category of Tenet. Overall, although it touches on Agile concepts, it does not sufficiently delve into specific tenets that guide behaviors or decision-making processes.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 40.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 40.0,
+    "reasoning": "The content discusses the role of a Scrum Master and emphasizes the importance of teaching skills in the context of Scrum. However, while it touches upon a method related to Scrum, it lacks a structured, step-by-step discussion of specific procedures or techniques. The focus is more on the role and philosophy behind teaching within Scrum rather than outlining a methodical approach to implementing Scrum practices.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master and emphasizes the importance of teaching within Agile teams. While there is a mention of change and understanding in the context of Agile, it does not address observability as defined in the category. There are no direct discussions about metrics, logs, traces, or how to measure and understand system states. The alignment with observability is minimal, and the depth of discussion is superficial regarding the category's key topics.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content focuses on the critical skill of teaching for Scrum Masters, which indirectly relates to principles such as self-management, continuous improvement, and customer collaboration. However, it primarily emphasizes the role of a Scrum Master and the act of teaching rather than articulating actionable principles that guide decision-making. While it provides details on why teaching is important and how it supports Agile transformation, it does not explicitly define or discuss specific principles, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "kEywzkMhWl0",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:41:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 6,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a Scrum Master, particularly emphasizing teaching as a critical skill. While it relates to Agile methodologies, it doesn't adequately explore the foundational principles or governance aspects that define the category of Discipline. The discussion is more about the personal attributes and practical skills needed for a Scrum Master rather than a systemic examination of discipline within Agile frameworks. Therefore, although there are direct mentions and some alignment, the depth of discussion on the broader themes of Discipline is limited.",
     "level": "Ignored"
   }
 }

@@ -2,36 +2,37 @@
 title: 'Mastering Agile: The Power of "Just Enough and No More" for Optimal Efficiency'
 description: Discover how the mantra "just enough and no more" can transform your agile practices. Learn to optimise processes, enhance productivity, and deliver value effectively.
 date: 2023-12-05T11:00:27Z
+weight: 690
 ResourceId: b-2TDkEew2k
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: b-2TDkEew2k
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-temperance
+slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
 layout: video
 aliases:
-- /resources/videos/b-2TDkEew2k
-- /resources/videos/-shorts-7-virtues-of-agile-temperance
-- /resources/-shorts-7-virtues-of-agile-temperance
 - /resources/b-2TDkEew2k
-aliasesFor404:
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
+- /resources/videos/-shorts-7-virtues-of-agile-temperance
+aliasesArchive:
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
 - /resources/videos/-shorts-7-virtues-of-agile-temperance
 - /resources/-shorts-7-virtues-of-agile-temperance
+- mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: true
 tags:
-- Agile Values and Principles
-- Agile Planning
-- Agile Frameworks
-- Agile Project Management
-- Agile Product Management
-- Agile Philosophy
-- Agile Transformation
-- Software Development
-- Organisational Agility
+- Operational Practices
 - Pragmatic Thinking
+- Software Development
+- Agile Philosophy
+- Agile Planning
+- Agile Transformation
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +40,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 I often find myself reflecting on a conversation I had with Ken Schwaber many years ago. He shared a simple yet profound mantra that has stuck with me ever since: "Just enough and no more." This phrase resonates deeply within the agile community, and I believe it holds the key to understanding how we can optimise our processes and deliver value effectively.
@@ -52,7 +53,7 @@ When I think about the various aspects of agile practices, this mantra applies u
 
 - **Team Composition**: How many developers do we need? Again, the answer is just enough and no more. Having too many developers can lead to communication overhead and inefficiencies, while too few can hinder progress. The key is to find the right balance that allows the team to function optimally.
 
-- **Refinement Time**: How much time should we dedicate to backlog refinement? You guessed it—just enough and no more. Spending excessive time on refinement can lead to analysis paralysis, while insufficient time can result in poorly defined user stories. The goal is to strike a balance that keeps the team aligned and ready to deliver.
+- **Refinement Time**: How much time should we dedicate to [backlog refinement]({{< ref "/tags/backlog-refinement" >}})? You guessed it—just enough and no more. Spending excessive time on refinement can lead to analysis paralysis, while insufficient time can result in poorly defined user stories. The goal is to strike a balance that keeps the team aligned and ready to deliver.
 
 - **Upfront Planning**: How much planning should we do before starting a project? Just enough and no more. While planning is essential, over-planning can stifle creativity and adaptability. Agile encourages us to embrace change and be ready to pivot as needed.
 
@@ -68,6 +69,6 @@ One of the core principles of the Agile Manifesto is to maximise the amount of w
 
 ### Conclusion
 
-In my experience, embracing the "just enough and no more" philosophy has transformed the way I approach agile practices. It encourages a mindset of focus, efficiency, and continuous improvement. By applying this principle across various aspects of our work, we can create a more agile environment that fosters collaboration, innovation, and ultimately, success.
+In my experience, embracing the "just enough and no more" philosophy has transformed the way I approach agile practices. It encourages a mindset of focus, efficiency, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). By applying this principle across various aspects of our work, we can create a more agile environment that fosters collaboration, innovation, and ultimately, success.
 
 So, the next time you find yourself grappling with a quantity question, remember Ken's words: "Just enough and no more." It’s a powerful reminder to keep things simple and focused, allowing us to maximise our impact while minimising unnecessary effort.

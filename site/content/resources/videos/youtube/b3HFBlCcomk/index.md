@@ -2,8 +2,10 @@
 title: 'The Fallacy of Equating Agility with Speed: What Agile Really Means'
 description: Discover why Agile isn't just about speed! This video reveals its true focus on value, adaptability, and delivering the right products. Embrace a strategic mindset!
 date: 2024-07-11T06:45:01Z
+weight: 840
 ResourceId: b3HFBlCcomk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: b3HFBlCcomk
@@ -15,35 +17,30 @@ preview: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
 duration: 494
 isShort: false
 aliases:
-- /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
-- /resources/videos/debunking-the-myth-agile-is-not-about-speed
-- /resources/videos/b3HFBlCcomk
-- /resources/debunking-the-myth-agile-is-not-about-speed
 - /resources/b3HFBlCcomk
-aliasesFor404:
+- /resources/videos/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
+- /resources/videos/debunking-the-myth-agile-is-not-about-speed
+aliasesArchive:
+- /resources/videos/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
 - /resources/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
 - /resources/videos/debunking-the-myth-agile-is-not-about-speed
 - /resources/debunking-the-myth-agile-is-not-about-speed
+- the-fallacy-of-equating-agility-with-speed-what-agile-really-means
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
-- Agile Product Operating Model
-- Agile Project Management
-- People and Process
-- Agile Values and Principles
-- Agile Frameworks
-- Value Delivery
+- Agile Philosophy
 - Agile Transformation
+- Agile Values and Principles
+- Pragmatic Thinking
+- Software Development
 - Organisational Agility
-- Product Delivery
+- Agile Strategy
 resourceTypes:
 - video
 categories:
-- Scrum
-- Product Management
-- Social Technologies
+- Product Development
 
 ---
 In the world of Agile, there’s a common misconception that agility equals speed. However, this idea is as much of an oxymoron as the concept of an "agile project manager." The truth is, Agile isn’t about rushing through tasks or speeding up processes; it's about spending your time wisely on valuable endeavors. Let’s dive deeper into what agility truly means and why it’s not about doing things faster, but doing the right things.
@@ -58,7 +55,7 @@ One of the most important aspects of agility is the efficient use of time. The g
 
 - **Iterative Process**: You might need to test and refine multiple ideas, which can take time. For instance, if each experiment takes two weeks, and you test 10 ideas, that's 20 weeks of work just to find the one approach that truly delivers value.
 
-So, the notion that agility equals speed is a complete fallacy. Agile allows for experimentation, learning, and adaptation, which might seem slower but ensures you’re building the right thing.
+So, the notion that agility equals speed is a complete fallacy. Agile allows for [experimentation]({{< ref "/tags/experimentation" >}}), learning, and adaptation, which might seem slower but ensures you’re building the right thing.
 
 ## **The Danger of Building the Wrong Product**
 
@@ -98,7 +95,7 @@ A famous example of Agile in action is the Sentinel project, the FBI’s records
 
 3. **Another Attempt**: They then spent another five years and $300 million, only to have another failed product.
 
-5. **Agile Transformation**: In 2012, the FBI decided to switch to Agile. They reduced the team from 400 to 40 people, set up Scrum teams, and delivered a working product to production within a year.
+5. **[Agile Transformation]({{< ref "/tags/agile-transformation" >}})**: In 2012, the FBI decided to switch to Agile. They reduced the team from 400 to 40 people, set up [Scrum]({{< ref "/categories/scrum" >}}) teams, and delivered a working product to production within a year.
 
 Was Agile faster? Not really. What changed was the focus—they stopped trying to build the entire system at once and instead focused on delivering the first piece, the part that would provide immediate value.
 

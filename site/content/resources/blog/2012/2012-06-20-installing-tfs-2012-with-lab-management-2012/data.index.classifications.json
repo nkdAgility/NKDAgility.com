@@ -1,93 +1,57 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T20:25:36",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no focus on Agile principles, product management roles, or customer feedback integration.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:25:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management 2012, detailing practical steps, tools, and methodologies involved in the deployment process.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T20:25:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) and Lab Management, which are integral components of an Internal Developer Platform (IDP). It focuses on enhancing developer productivity through automation and standardisation of tools and processes, aligning well with the principles of platform engineering.",
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) and Lab Management, which are integral components of an Internal Developer Platform (IDP). It discusses the steps involved in setting up a platform that enhances developer productivity through automation and standardisation of tools. The detailed walkthrough of the installation process, including integration with System Centre Virtual Machine Manager (SCVMM), aligns well with the principles of platform engineering. However, while it provides substantial detail, it lacks broader discussions on the overarching principles of platform engineering and its impact on developer efficiency, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:25:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no discussion of Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:25:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no significant focus on code quality, complexity theory, or related best practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:25:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical implementation details of installing and configuring TFS 2012 and Lab Management, with minimal emphasis on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:25:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no focus on AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any references to data-informed decision-making, current value metrics, or empirical decision-making, which are central to the category.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T20:25:49",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no clear discussion of Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:25:51",
-    "ai_confidence": 95,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 30,
-    "final_score": 88.0,
-    "reasoning": "The content provides a detailed, step-by-step guide on installing and configuring TFS 2012 and Lab Management 2012, including specific procedures, troubleshooting tips, and best practices, which aligns closely with the 'Install and Configuration' category.",
+    "final_score": 92.0,
+    "reasoning": "The content provides a comprehensive, step-by-step guide on installing and configuring TFS 2012 and Lab Management 2012, detailing specific tasks, time estimates, and troubleshooting tips. It explicitly discusses installation procedures, configuration best practices, and integration of tools, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, with detailed descriptions of each installation step and the challenges faced, demonstrating a strong focus on practical implementation.",
     "level": "Primary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:25:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical steps involved in installing and configuring TFS 2012 and Lab Management, with no clear discussion on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +71,16 @@
     "reasoning": "Content primarily focuses on the technical installation and configuration of TFS 2012 and Lab Management, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:25:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the technical installation and configuration of TFS 2012 and Lab Management, with no clear discussion on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:25:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, which are integral to DevOps practices, particularly in Continuous Integration and Continuous Delivery. It details the steps involved in setting up a DevOps environment, including automation and integration of various tools, which aligns well with DevOps principles.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are tools related to DevOps practices. However, it lacks a broader discussion on the DevOps philosophy, principles, and cultural shifts. While it touches on aspects of automation and integration, it does not delve into the collaborative and continuous improvement aspects that are central to DevOps. Therefore, while there is some relevance, the content does not fully align with the core themes of the DevOps category.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily focuses on the technical installation and configuration of TFS 2012 and Lab Management, with no discussion of decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T20:26:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no focus on events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:26:06",
@@ -159,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no clear discussion on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on the technical aspects of installing and configuring TFS 2012 and Lab Management, with minimal discussion on team dynamics, collaboration, or human factors in the process.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:26:11",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no significant discussion on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,12 +148,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which involves technical practices and methodologies. However, it lacks a deeper discussion on broader engineering principles or methodologies that enhance agility and technical excellence.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which involves technical processes and practices. However, while it touches on aspects of deployment and integration, it lacks a deeper exploration of methodologies like TDD, CI/CD, or modular architecture that are central to the 'Technical Excellence' category. The discussion is more operational and procedural rather than a comprehensive analysis of engineering practices that enhance agility and quality in software development.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -235,12 +178,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are part of the product delivery process. However, it lacks a broader discussion on methodologies, practices, or strategies that enhance the overall product delivery framework.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are integral to the product delivery process. It discusses various steps involved in deploying the software, including installation, configuration, and testing, which align with the methodologies and practices of product delivery. However, while it provides a detailed walkthrough, it lacks a broader discussion on agile methodologies, iterative development, or cross-functional team roles, which are key themes in the product delivery category. Therefore, while the content is relevant, it does not fully encompass the depth of discussion expected in the category.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -253,39 +199,33 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T20:26:22",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no clear discussion on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T20:26:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation and configuration process of TFS 2012 and Lab Management, without discussing any specific products or literature related to Agile methodologies or DevOps practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T20:26:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical installation and configuration of TFS 2012 and Lab Management, lacking discussions on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:26:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) 2012, which is a key component of Azure DevOps, along with Lab Management. It provides detailed steps and insights into the deployment process, aligning with Azure DevOps functionalities.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) 2012, which is a key component of Azure DevOps. It discusses various aspects of TFS, including integration with Lab Management and System Centre Virtual Machine Manager (SCVMM), which are relevant to Azure DevOps functionalities. The depth of discussion is significant, providing detailed steps and considerations for deployment, which aligns well with the category's focus on best practices and methodologies associated with Azure DevOps. However, the content does not explicitly mention Azure DevOps itself, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -305,22 +245,25 @@
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no clear discussion on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T20:26:31",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, without discussing the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:26:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no clear discussion on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no direct mention of Agile Product Operating Model principles or practices. It lacks discussions on product management, agile methodologies, or any related frameworks, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +275,17 @@
     "reasoning": "Content primarily focuses on the technical installation and configuration of TFS 2012 and Lab Management, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T20:26:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on a technical installation process for TFS 2012 and Lab Management, lacking discussions on industry news, updates, or reviews relevant to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, which are tools relevant to the application lifecycle. However, it lacks a comprehensive discussion on the broader methodologies and practices of Application Lifecycle Management.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:26:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are tools relevant to the application lifecycle. However, it lacks a comprehensive discussion on the broader methodologies, practices, and governance aspects of Application Lifecycle Management. While it touches on deployment and integration, it does not delve into maintenance, retirement, or best practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,39 +298,45 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of TFS 2012 and Lab Management, not focusing on the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the technical steps and challenges involved in installing and configuring TFS 2012 and Lab Management 2012, which aligns with principles of software craftsmanship and engineering practices.",
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which involves technical processes and practices. However, while it discusses specific technical tasks, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The depth of discussion is more procedural than conceptual, which limits its alignment with the category of Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details for installing TFS and Lab Management, without focusing on product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the setup and configuration of TFS and Lab Management, which are related to deployment processes and potentially to Continuous Delivery. However, it primarily focuses on installation steps rather than discussing principles or practices specific to Continuous Delivery itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are tools that can support Continuous Delivery practices. However, it lacks a direct discussion on Continuous Delivery principles, automation in testing and deployment, or the cultural aspects of Continuous Delivery. While it touches on aspects of deployment and testing, it does not delve into the broader themes of Continuous Delivery, such as rapid feedback, incremental improvements, or strategies for reducing errors. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Continuous Delivery category.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -415,10 +349,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no clear focus on Lead Time as a concept or metric.",
     "level": "Ignored"
   },
@@ -433,28 +367,28 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management 2012, focusing on technical steps and issues encountered during the setup process. It does not address any concepts or discussions specifically related to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no discussion on portfolio management methodologies, strategic alignment, or investment decision frameworks.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of TFS and Lab Management, with no clear focus on the Product Backlog, its purpose, or its management in Agile frameworks.",
     "level": "Ignored"
   },
@@ -469,37 +403,40 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, without focusing on Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation process of TFS 2012 and Lab Management without discussing customer feedback integration or feedback loops.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management 2012, detailing specific steps, techniques for successful implementation, and strategies involved in managing the deployment process effectively, which align with operational practices in DevOps.",
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, detailing specific steps and challenges encountered during the process. While it does touch on operational practices such as deployment and configuration, it lacks a broader discussion on techniques or strategies for enhancing operational efficiency within Agile, DevOps, or Lean frameworks. The content is more of a procedural guide rather than a strategic discussion on operational practices.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the installation and configuration of TFS and Lab Management, with no discussions on Scrum roles, team dynamics, or collaborative practices within a Scrum framework.",
     "level": "Ignored"
   },
@@ -523,10 +460,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration process of TFS 2012 and Lab Management, without a clear focus on validating product ideas or user feedback methodologies.",
     "level": "Ignored"
   },
@@ -550,19 +487,22 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, focusing on automated build and testing with mentions of automated test agents, which aligns with the category of Automated Testing.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the installation and configuration of TFS 2012 and Lab Management, which includes some aspects of automated testing, particularly in the context of testing automated builds and environments. However, the primary focus is on the installation process rather than a thorough exploration of automated testing principles, practices, or methodologies. While there are mentions of testing and automated builds, the depth of discussion on automated testing concepts is limited, and the content does not align closely with the key topics outlined for the category.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no discussions on team dynamics, collaboration, or performance metrics related to agile teams.",
     "level": "Ignored"
   },
@@ -577,37 +517,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of TFS 2012 and Lab Management, with no focus on Acceptance Test Driven Development principles, acceptance criteria, or collaboration among stakeholders.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides detailed discussion on the installation and configuration of Team Foundation Server 2012 and Lab Management, which are crucial tools in the software development lifecycle, particularly in CI/CD practices. The steps outlined contribute to effective software engineering outcomes.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) and Lab Management, with no clear focus on agile project management principles, frameworks, or practices.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed walkthrough of installing and configuring Team Foundation Server (TFS) 2012 and Lab Management, which are integral components of the software development lifecycle. It discusses specific steps, challenges, and solutions encountered during the installation process, aligning closely with best practices in software development and deployment methodologies. The depth of discussion is significant, covering various aspects of the installation process, including integration with other tools and troubleshooting, which enhances its relevance to the Software Development category.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of TFS and Lab Management, which is technical and implementation-focused, lacking discussion on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +556,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of TFS (Team Foundation Server) and Lab Management, focusing on deployment steps and setup issues rather than modern source control practices, strategies, or version control methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes the installation process and technical details of TFS 2012 and Lab Management, with no significant focus on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -667,10 +601,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the technical installation and configuration of TFS 2012 and Lab Management, without any discussion of strategies or practices related to organisational change.",
     "level": "Ignored"
   },
@@ -694,20 +628,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T21:31:25",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical installation and configuration steps for TFS and Lab Management, without any focus on customer satisfaction or customer experience.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content focuses on installing and configuring TFS 2012 and Lab Management, with no mention of Scaling Scrum principles, frameworks, or practices.",
+    "reasoning": "Content primarily discusses technical installation and configuration steps for TFS and Lab Management, without any focus on customer satisfaction or customer experience.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,23 +653,17 @@
     "reasoning": "Content primarily discusses the installation process of TFS 2012 and Lab Management without any focus on psychological safety or its impact on team dynamics, communication, or culture.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:31:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about the installation and configuration of TFS 2012 and Lab Management, with no discussions about scaling agile practices or relevant frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS and Lab Management, focusing on technical steps and best practices for system deployment. However, it does not delve into broader engineering excellence principles such as software craftsmanship or coding practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which is more operational than strategic. While it touches on aspects of software deployment and testing, it lacks a strong emphasis on engineering excellence principles, best practices, or continuous improvement. The discussion is more about practical steps and troubleshooting rather than promoting high standards in software craftsmanship or development processes.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,20 +694,23 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T21:31:26",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical steps involved in installing and configuring Team Foundation Server (TFS) and Lab Management, which does not relate to customer retention strategies or maintaining user engagement.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:31:26",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily focuses on the practical steps taken to install and configure TFS 2012 and Lab Management 2012, emphasizing a hands-on, experience-based problem-solving approach within a real-world context. It demonstrates adaptability, critical thinking, and evidence-based management through specific examples of overcoming challenges during the installation process.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of the practical steps taken to install and configure TFS 2012 and Lab Management, showcasing real-world problem-solving techniques. It discusses the challenges faced during the installation process and how they were navigated, which aligns well with the core themes of pragmatic thinking. However, while it mentions practical strategies and experiences, it lacks a broader discussion on Agile or Scrum principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +724,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:31:26",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and configuration process of TFS 2012 and Lab Management, with no focus on innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:31:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management 2012, without any clear connection to Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:31:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) and Lab Management, focusing on the technical aspects and steps of the deployment process without addressing Agile scaling concepts or frameworks.",
+    "reasoning": "Content primarily discusses the installation and configuration process of TFS 2012 and Lab Management, with no focus on innovation capabilities or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,11 +751,14 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T21:31:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) and its integration with Lab Management, which includes elements of automated build and testing processes.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses the installation and configuration of TFS 2012 and Lab Management, which includes a section on testing automated builds. However, the primary focus is on the installation process rather than the principles or practices of test automation itself. While there are mentions of testing and automated builds, the depth of discussion on test automation principles, frameworks, or best practices is minimal, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -865,12 +772,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of TFS 2012 and Lab Management 2012, which indirectly relates to working software by detailing processes leading to functional software deployment. However, it primarily focuses on installation procedures rather than the principles or practices of delivering working software itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are tools that contribute to the delivery of working software. It discusses practical steps taken to ensure the software is operational, which aligns with the category's emphasis on functional software. However, while it touches on aspects of software quality and deployment, it lacks a deeper exploration of best practices, customer feedback integration, and iterative development, which are crucial for a higher confidence score in the 'Working Software' category.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -883,19 +793,22 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server) and its integration with Lab Management, which is part of the CI/CD pipeline, but lacks deep exploration of Continuous Integration principles and practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with some references to automated builds and testing. However, it lacks a comprehensive discussion on Continuous Integration principles, best practices, or tools. While it touches on aspects related to CI, such as testing and build processes, these are not the main focus of the content, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-15T21:31:26",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of TFS 2012 and Lab Management, which is unrelated to market share strategies or discussions.",
     "level": "Ignored"
   },
@@ -955,28 +868,31 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content describes the installation and configuration processes of TFS and Lab Management, which involves aspects of release management such as coordination of deployment, testing environments, and integration. However, it focuses more on the technical installation process rather than the broader strategies and practices of release management.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are components of a software release process. However, it lacks explicit discussions on broader release management strategies, such as version control, risk management, or CI/CD practices. While it touches on aspects of deployment and testing, it does not provide a comprehensive view of release management as defined in the category. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T21:31:26",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses technical installation and configuration details for TFS 2012 and Lab Management, which does not relate to the responsibilities or practices of a Product Owner in Agile and Scrum. The role of the Product Owner is not addressed in this content.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T21:31:26",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation process of TFS 2012 and Lab Management 2012, focusing on technical steps rather than any discussions related to Cycle Time measurement or its implications in Agile or DevOps.",
     "level": "Ignored"
   },
@@ -991,28 +907,28 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T21:31:26",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation and configuration of TFS 2012 and Lab Management, lacking discussions on optimization of deployment intervals or deployment frequency practices.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T21:31:26",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no focus on change management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:31:26",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration process of TFS 2012 and Lab Management, without focus on teamwork, communication, or shared ownership in Agile, Scrum, or DevOps. The core topics do not align with team collaboration dynamics.",
     "level": "Ignored"
   },
@@ -1034,7 +950,7 @@
     "reasoning": "Content is primarily focused on the technical aspects of installing and configuring Team Foundation Server (TFS) and Lab Management. It does not discuss the strategic adoption or integration of digital technologies for business transformation, nor does it explore themes related to business agility, innovation, or operational efficiency.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:31:26",
     "ai_confidence": 0,
@@ -1043,30 +959,24 @@
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, without discussion of Minimum Viable Products, rapid iteration, or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:31:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the installation process of TFS 2012 and Lab Management, without any mention of AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:31:26",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the installation and configuration processes of TFS 2012 and Lab Management 2012, detailing steps and considerations involved in setting up the systems, which aligns closely with the 'System Configuration' category's focus.",
+    "final_score": 92.0,
+    "reasoning": "The content provides a detailed walkthrough of installing and configuring TFS 2012 and Lab Management 2012, which directly aligns with the category of System Configuration. It discusses best practices for software installation, configuration management, and troubleshooting common issues, all of which are key topics outlined in the category definition. The depth of discussion is significant, as it includes specific steps, time estimates, and considerations for each component of the installation process, demonstrating a thorough understanding of system configuration principles.",
     "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T21:31:26",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical installation steps and troubleshooting for TFS 2012 and Lab Management, rather than discussing product strategy, vision, or competitive analysis.",
     "level": "Ignored"
   },
@@ -1099,29 +1009,38 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content focuses primarily on the installation and configuration of TFS and Lab Management, with no clear discussion of Test First Development practices or principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with minimal reference to Test First Development principles. While there are mentions of testing and configuration, the discussion lacks a clear emphasis on defining success criteria or the structured practices associated with Test First Development, such as TDD or ATDD.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:31:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content focuses primarily on the installation and configuration of Team Foundation Server (TFS) and Lab Management, which are components that operate within the Windows environment and require specific Windows OS settings.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of Team Foundation Server (TFS) 2012 and Lab Management 2012, which are both Windows-based applications. It discusses specific installation procedures, configuration settings, and troubleshooting steps relevant to the Windows environment. The detailed walkthrough of the installation process, including SQL Server and System Centre Virtual Machine Manager, aligns well with the key topics of the Windows category. The content is rich in detail and provides practical insights, demonstrating a strong alignment with the category's focus on managing and utilising the Windows operating system.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T21:31:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses prominently on the deployment of TFS 2012 and Lab Management 2012, detailing the steps and considerations involved in the process. It discusses various aspects of deployment methodology, such as installation configurations, integration with other services, and troubleshooting which align well with deployment strategies.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are specific tasks related to deployment. While it does mention various steps and considerations involved in the deployment process, it lacks a broader discussion on deployment strategies such as Blue-Green Deployments or Canary Releases. The content provides practical insights into the installation process but does not delve deeply into methodologies for managing risks or optimising deployment speed, which are key aspects of the 'Deployment Strategies' category.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1135,19 +1054,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:31:27",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical implementation details regarding the installation and configuration of TFS 2012 and Lab Management, with no discussions on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T21:31:27",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installation and configuration of TFS 2012 and Lab Management, with no discussion of remote work practices, Agile challenges, or solutions.",
     "level": "Ignored"
   },
@@ -1162,12 +1081,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:31:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily details the process of installing and configuring TFS and Lab Management, discussing various issues encountered during installation and providing resolutions. It includes specific examples of problems faced and how they were addressed, making troubleshooting a central theme.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, detailing specific issues encountered during the process and how they were resolved. It discusses troubleshooting steps, such as addressing configuration errors, installation prerequisites, and integration challenges, which align closely with the core themes of the Troubleshooting category. The depth of discussion is significant, providing detailed insights into the problems faced and the solutions implemented, thus demonstrating a strong alignment with the category's purpose.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1102,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is heavily focused on technical installation and configuration of TFS 2012 and Lab Management, with no discussion on Scrum roles, responsibilities, or Agile principles related to the Scrum Master role.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing and configuring TFS 2012 and Lab Management, with no direct mention of the Scrum Master role or its responsibilities. While it may touch on aspects of team collaboration indirectly, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or facilitating Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1123,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T21:31:27",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no mention or exploration of working agreements, norms, or team collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) and Lab Management, which relates to the tools and practices used by software developers in Agile environments. However, it lacks a focus on Agile practices or developer roles specifically.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,12 +1141,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of TFS 2012 and Lab Management in a detailed manner, which includes some aspects of software deployment and testing practices. However, it primarily focuses on installation steps and troubleshooting rather than deeper principles of Agile engineering practices like clean code or test-driven development.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, which are technical tasks rather than discussions on engineering practices. While it touches on aspects of automation and testing, it lacks a thorough exploration of Agile methodologies, clean code principles, or TDD. The discussion is more about practical steps and troubleshooting rather than the underlying engineering practices that enhance collaboration and efficiency in Agile teams.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1252,10 +1171,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T21:31:27",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical implementation details of installing and configuring TFS and Lab Management, with no discussion of strategic product management practices or frameworks.",
     "level": "Ignored"
   },
@@ -1306,19 +1225,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T21:31:27",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the installation and configuration of TFS and Lab Management and does not discuss Lean Product Development principles or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T21:31:27",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation steps and configuration details for TFS 2012 and Lab Management 2012, with no focus on trend analysis or any emerging patterns in Agile or DevOps methodologies.",
     "level": "Ignored"
   },
@@ -1329,15 +1248,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of TFS and Lab Management with no clear focus on accountability, team dynamics, or ownership principles.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:31:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and configuration of TFS 2012 with Lab Management, with no reference to Kanban principles, scaling techniques, or related topics.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1351,20 +1261,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T21:31:27",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and configuration of TFS and Lab Management, with no focus on Test Driven Development principles, practices, or the TDD cycle.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:52:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing and configuring TFS 2012 and Lab Management, with minimal discussion on collaboration, decision-making, or value delivery. While it mentions working with a customer and running workshops, these elements are not explored in depth or connected to the principles of social technologies. The content lacks a clear focus on the social frameworks or methodologies that promote collaboration and continuous improvement within teams.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1287,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical implementation of TFS 2012 and Lab Management, with no discussions on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 80,
+    "non_ai_confidence": 0,
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses the installation and configuration of Team Foundation Server (TFS) and Lab Management, which are integral components of an Internal Developer Platform. It details the steps involved in setting up an environment that streamlines development processes, aligning well with the definition and purpose of IDPs.",
+    "level": "Secondary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:24:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation and configuration of TFS 2012 and Lab Management, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no direct references to Scrum principles, roles, events, or artifacts. While it discusses project management tools, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The mention of 'Team Project' is too vague to establish a connection to Scrum practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of TFS 2012 and Lab Management, with no explicit discussion of integrating testing, security, or compliance earlier in the development process. While it touches on aspects of deployment and testing, it does not align with the core themes of the Shift-Left Strategy, which emphasises proactive measures in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation process of TFS 2012 and Lab Management, with minimal references to Continuous Improvement principles. While there are mentions of troubleshooting and adjustments made during the installation, these do not constitute a discussion on Continuous Improvement as defined. The content lacks a structured approach to empirical evidence, data-driven decision-making, or a culture of experimentation, which are key aspects of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing and configuring TFS 2012 and Lab Management, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it touches on project management and deployment processes, it lacks depth in aligning strategy with execution or fostering collaboration, which are core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in installing TFS 2012 and Lab Management, with minimal discussion on competence or skill development. While there are references to the need for proper configuration and troubleshooting, these are not explored in the context of continuous learning or professional growth, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical installation and configuration of TFS 2012 and Lab Management, with no explicit discussion of Agentic Agility principles, intent, or the interplay between human and AI capabilities. It lacks depth in addressing the transformative capacity of individuals or systems in shaping outcomes intentionally.",
     "level": "Ignored"
   }
 }

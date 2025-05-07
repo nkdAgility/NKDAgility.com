@@ -2,41 +2,38 @@
 title: 1 thing that sinks a consulting engagement before it starts gaining traction?
 description: 'Discover the key factor that can derail your consulting engagement before it even begins. Join Martin Hinshelwood for essential insights! #agile #consulting #shorts'
 date: 2023-08-19T07:00:06Z
+weight: 1000
 ResourceId: 7VBtGTlkAdM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 7VBtGTlkAdM
 source: internal
 url: /resources/videos/:slug
-slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 preview: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg
 duration: 55
 isShort: true
 aliases:
-- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
-- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /resources/videos/7VBtGTlkAdM
-- /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
 - /resources/7VBtGTlkAdM
-aliasesFor404:
+- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
+aliasesArchive:
+- /resources/videos/-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
+- 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Values and Principles
-- Pragmatic Thinking
-- Agile Philosophy
+tags: []
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
+- Uncategorized
 
 ---
 ## The Double-Edged Sword of Consulting Contracts
@@ -53,7 +50,7 @@ The moment "your contract states exactly what needs to be delivered, when, and a
 
 You might believe that outlining everything in black and white gives you a sense of security, but in reality, it's quite the opposite.  In the consulting world, being too prescriptive in contracts can be the first nail in the coffin.
 
-## Uncertainty in Product Development
+## Uncertainty in [Product Development]({{< ref "/categories/product-development" >}})
 
 Why is this a problem?
 
@@ -69,7 +66,7 @@ You'll want to talk about the 'outcome'.  For example. - What is it that you're
 
 By focusing on what matters—the actual value and end results—everything else is irrelevant.
 
-## Unlock Consulting Mastery with Agile and Scrum Courses
+## Unlock Consulting Mastery with Agile and [Scrum]({{< ref "/categories/scrum" >}}) Courses
 
 Don't fall into the contract trap.  Equip yourself with the agility and foresight to handle the unpredictability of consulting engagements.
 

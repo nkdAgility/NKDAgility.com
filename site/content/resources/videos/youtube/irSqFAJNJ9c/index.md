@@ -2,8 +2,10 @@
 title: What does a poor scrum team look, act and feel like?
 description: Discover the signs of a struggling Scrum team and learn how to harness the full potential of the Scrum framework for better productivity and success.
 date: 2023-01-27T07:00:16Z
+weight: 690
 ResourceId: irSqFAJNJ9c
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: irSqFAJNJ9c
@@ -15,37 +17,28 @@ preview: https://i.ytimg.com/vi/irSqFAJNJ9c/maxresdefault.jpg
 duration: 390
 isShort: false
 aliases:
-- /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
-- /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
-- /resources/videos/irSqFAJNJ9c
-- /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 - /resources/irSqFAJNJ9c
-aliasesFor404:
+- /resources/videos/what-does-a-poor-scrum-team-look-act-and-feel-like
+aliasesArchive:
+- /resources/videos/what-does-a-poor-scrum-team-look-act-and-feel-like
 - /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
 - /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 - /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
+- what-does-a-poor-scrum-team-look-act-and-feel-like
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
-- Agile Product Management
-- Scrum Product Development
-- Agile Project Management
-- Scrum Team
-- People and Process
-- Product Owner
-- Agile Frameworks
-- Team Performance
 - Software Development
+- Scrum Team
+- Team Performance
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
-Sure, there are poor practices that impact **scrum teams**, but I tend to focus on the outcomes to determine whether a **scrum team** is failing or progressing.
+Sure, there are poor practices that impact **[scrum]({{< ref "/categories/scrum" >}}) teams**, but I tend to focus on the outcomes to determine whether a **[scrum team]({{< ref "/tags/scrum-team" >}})** is failing or progressing.
 
 <figure>
 
@@ -67,11 +60,11 @@ What does a poor scrum team look, act and feel like?
 
 An example of a poor outcome would be a scrum team that has a lead developer who insists on imposing their will on others, fails to listen to others and take their expertise into account, and insists that others do what they are told, when they are told.
 
-I would argue that this isn’t a team, it’s a dictatorship and you aren’t going to get great results out of that team regardless of whether they are doing scrum or not. It doesn’t support experimentation, innovation, or progression at all.
+I would argue that this isn’t a team, it’s a dictatorship and you aren’t going to get great results out of that team regardless of whether they are doing scrum or not. It doesn’t support [experimentation]({{< ref "/tags/experimentation" >}}), innovation, or progression at all.
 
-### Dysfunctional Product Owner
+### Dysfunctional [Product Owner]({{< ref "/tags/product-owner" >}})
 
-I once worked with a team where they got roasted by customers and product stakeholders during the **sprint review**. The customers and stakeholders were irate and wanted to know why the team had built what they had built, in the way they had chosen to build it.
+I once worked with a team where they got roasted by customers and product stakeholders during the **[sprint review]({{< ref "/tags/sprint-review" >}})**. The customers and stakeholders were irate and wanted to know why the team had built what they had built, in the way they had chosen to build it.
 
 What you would expect in a healthy scrum team is for the **product owner** to take ownership of that situation, stand before the scrum team and describe what happened, why it happened, and to recalibrate and reconnect with what customers and stakeholders wanted to see.
 
@@ -99,7 +92,7 @@ A product owner can prove dysfunctional in several other ways too, each of which
 
 - No commitment to producing valuable, working increments to customers/stakeholders.
 
-- No openness and transparency in the team or customer environment.
+- No openness and [transparency]({{< ref "/tags/transparency" >}}) in the team or customer environment.
 
 ## What does great look like?
 
@@ -111,7 +104,7 @@ Sure, in professional sports we see great teams in action all of the time and ca
 
 It is really hard to grow a high-performance team because most organizations set teams up for failure. **Agile**, as an ideology, was developed for this very reason.
 
-Traditional management and project management does not breed high-performance teams, nor does it provide room for flexibility, growth, experimentation, and development of a team for them to become a high-performing team.
+Traditional management and [project management]({{< ref "/tags/project-management" >}}) does not breed high-performance teams, nor does it provide room for flexibility, growth, experimentation, and development of a team for them to become a high-performing team.
 
 So, the challenge isn’t so much pointing out what a poor scrum team looks like, it’s more about identifying all the barriers and constraints that exist in the client environment that would prevent a group of people forming a high-performing team.
 
@@ -131,7 +124,7 @@ Trip someone up and watch them fall to protect your own career.
 
 There is no way that a team can thrive or grow and develop into a high-performing team over a couple of years because the organizational policies created and nurtured dysfunctional behaviours.
 
-Great teams build great products that delight customers, and so the incentive to build environments where great teams can thrive exists is high. As a scrum master, agile coach, or agile consultant, it is important that you focus on all elements of team development rather than focusing exclusively on how well the team are executing scrum events.
+Great teams build great products that delight customers, and so the incentive to build environments where great teams can thrive exists is high. As a [scrum master]({{< ref "/tags/scrum-master" >}}), agile coach, or agile consultant, it is important that you focus on all elements of team development rather than focusing exclusively on how well the team are executing scrum events.
 
 ## About NKD Agility
 

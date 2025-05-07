@@ -8,58 +8,25 @@
     "reasoning": "Content primarily discusses MVVM and related programming patterns, with no focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the MVVM pattern and its implementation in WPF and Silverlight, which relates to practical techniques in software development, but it does not focus on Agile or DevOps practices specifically.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-16T01:29:12",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM architecture and patterns in WPF and Silverlight, with no clear connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:29:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MVVM (Model-View-ViewModel) design pattern and its implementation in WPF and VB.NET, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses MVVM and its implementation in WPF and Silverlight, touching on code quality principles like separation of concerns, which relates to complexity in software design.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T01:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses MVVM patterns and technical implementation details without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses MVVM and related programming patterns, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the MVVM design pattern in software development, with no mention or discussion of Evidence-Based Management principles or practices. It does not align with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:29:20",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM design patterns and code examples, with no focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T01:29:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses MVVM and related programming patterns without addressing transparency or accountability.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,22 +65,16 @@
     "reasoning": "Content heavily discusses MVVM and technical patterns without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T01:29:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses MVVM and technical implementations without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:29:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MVVM architecture and patterns, with no relevance to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the MVVM (Model-View-ViewModel) design pattern in WPF and Silverlight, which is unrelated to DevOps principles. There are no direct mentions of DevOps, and the discussion does not align with the core themes of collaboration, automation, or continuous value delivery that define DevOps. The depth of discussion is also minimal regarding any relevant DevOps concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +95,6 @@
     "reasoning": "Content primarily discusses MVVM and technical implementations in WPF and Silverlight, with no focus on decision-making processes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:29:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses MVVM patterns and coding practices without reference to any events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T01:29:31",
@@ -159,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM architecture and coding practices, with no focus on flow efficiency or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:29:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses MVVM patterns and coding practices without addressing human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T01:29:36",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM architecture and coding practices, with no focus on metrics or learning.",
     "level": "Ignored"
   },
@@ -208,12 +142,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses MVVM and related design patterns, which are relevant to engineering practices, but the primary focus is on explaining MVVM rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the MVVM pattern and its implementation in WPF and Silverlight, which relates to modular architecture and separation of concerns. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility, such as TDD or CI/CD. The focus is primarily on code examples rather than a comprehensive exploration of technical excellence principles.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses MVVM (Model-View-ViewModel) design pattern and its implementation in WPF and Silverlight, which is unrelated to Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:29:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses MVVM patterns and coding practices without focusing on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T01:29:46",
@@ -305,22 +233,25 @@
     "reasoning": "Content primarily discusses MVVM and related programming patterns without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T01:29:51",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the MVVM pattern and its implementation in WPF and Silverlight, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:29:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses MVVM and related programming patterns without reference to Agile principles or product value delivery.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the MVVM (Model-View-ViewModel) design pattern in WPF and Silverlight, with no mention or discussion of the Agile Product Operating Model or its principles. It does not align with the core themes of APOM, such as product management or agile methodologies, and lacks any depth related to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily discusses MVVM and related programming patterns, with no focus on organisational agility or related themes.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T01:29:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical details and code examples related to MVVM, lacking industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T01:29:55",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM (Model-View-ViewModel) design pattern and its implementation in WPF and Silverlight, which is not directly related to Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:29:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MVVM and related programming patterns, with no mention of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +283,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T01:39:40",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM patterns and implementation in WPF and Silverlight, without any reference to the Definition of Done or Agile methodologies.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses best practices and principles related to the MVVM (Model-View-ViewModel) design pattern in software development, focusing on clean architecture and separation of concerns in WPF and Silverlight applications.",
+    "reasoning": "The content discusses the MVVM pattern in detail, including its principles and implementation in WPF and Silverlight. It explicitly mentions separation of concerns, which aligns with best practices in software design. The depth of discussion is significant, providing code examples that illustrate ideal and compromised implementations, thus demonstrating a strong focus on technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the MVVM pattern and its implementation, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the MVVM (Model-View-ViewModel) design pattern in WPF and Silverlight, discussing best practices for code structure and separation of concerns. It does not mention Continuous Delivery or its principles, practices, or benefits, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T01:39:40",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on MVVM and its related patterns, with no mention of Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -586,28 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses MVVM, a software architectural pattern, along with coding practices in WPF and Silverlight, which are relevant to software development.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about MVVM (Model-View-ViewModel) and software architecture patterns, with no discussion on Agile Project Management or its principles.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the MVVM (Model-View-ViewModel) design pattern, which is a key software architecture pattern in software development. It provides detailed examples in C# and VB.NET, illustrating best practices for implementing MVVM in WPF and Silverlight applications. The discussion includes concepts like separation of concerns and dependency injection, which are central to software design principles. The depth of the examples and explanations indicates a strong focus on software development practices, aligning well with the category's core themes.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T01:39:40",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on MVVM (Model-View-ViewModel) patterns and implementation details without any reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +535,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T01:39:40",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the MVVM design pattern in WPF and Silverlight, which does not relate to version control practices.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T01:39:40",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM and its implementation in WPF and Silverlight, with no relation to Empirical Process Control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -701,15 +614,6 @@
     "reasoning": "Content heavily discusses MVVM and technical implementations without reference to customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the MVVM pattern in software development and does not relate to Scrum or its scaling.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T01:39:40",
@@ -728,22 +632,16 @@
     "reasoning": "Content heavily discusses MVVM design patterns and C# programming, with no relevance to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on MVVM and its implementation in WPF and Silverlight, which does not relate to scaling agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses MVVM, separation of concerns, and coding standards related to WPF and Silverlight, which are relevant to software engineering practices, but the primary focus is on MVVM as a pattern rather than broader engineering excellence principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the MVVM pattern and its implementation in WPF and Silverlight, which relates to software craftsmanship and coding standards. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance or continuous improvement practices. The focus is primarily on specific coding examples rather than a comprehensive exploration of engineering excellence.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -802,29 +700,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T01:39:40",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation details of MVVM pattern and does not discuss the measurement or enhancement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on MVVM pattern in WPF and does not discuss Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses entirely on MVVM (Model-View-ViewModel) architecture and does not discuss Agile practices or scaling Agile methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -919,10 +799,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T01:39:40",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses MVVM design patterns and practices in WPF and Silverlight development, which are unrelated to Site Reliability Engineering.",
     "level": "Ignored"
   },
@@ -1018,10 +898,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T01:39:40",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on MVVM architecture and patterns, with no discussion of Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1034,22 +914,13 @@
     "reasoning": "Content primarily discusses the MVVM design pattern and its implementation in WPF and Silverlight, without a clear focus on digital transformation or its strategic use in business contexts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T01:39:40",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about MVVM (Model-View-ViewModel) and its implementation, and does not discuss Minimum Viable Products or their development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MVVM and related coding practices without any focus on AI.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1099,19 +970,22 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on MVVM architecture and patterns in WPF and Silverlight, with no mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the MVVM (Model-View-ViewModel) architectural pattern in WPF and Silverlight, discussing best practices for code structure and separation of concerns. There is no mention of Test First Development principles, success criteria, or testing practices, which are central to the category. The content does not align with the key topics outlined for Test First Development, and it lacks depth in discussing any related concepts.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T01:39:40",
+    "calculated_at": "2025-04-10T15:56:05",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM (Model-View-ViewModel) architectural pattern and its implementation in WPF and Silverlight, rather than focusing on Windows operating system topics.",
     "level": "Ignored"
   },
@@ -1180,11 +1054,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on MVVM design pattern and does not discuss Scrum Masters or related responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the MVVM design pattern and its implementation in WPF and Silverlight, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile principles. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,15 +1082,6 @@
     "reasoning": "Content is focused on MVVM and coding practices rather than on working agreements or team collaboration.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MVVM architecture and pattern implementation, not focusing on Agile or DevOps methodologies or the role of software developers within those frameworks.",
-    "level": "Ignored"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T01:39:40",
@@ -1225,11 +1093,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the MVVM pattern, which relates to the principles of clean code and separation of concerns, but it is primarily about MVVM itself rather than core Agile engineering practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the MVVM (Model-View-ViewModel) pattern, which is relevant to clean code and separation of concerns, aligning with the principles of Engineering Practices. However, it primarily focuses on MVVM without delving deeply into Agile methodologies or practices like TDD, CI/CD, or automation. The discussion is somewhat technical but lacks comprehensive detail on the broader engineering practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Debt": {
@@ -1331,15 +1202,6 @@
     "reasoning": "Content primarily discusses MVVM, design patterns, and coding practices, without mentioning accountability or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T01:39:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on MVVM and WPF architecture, which are unrelated to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T01:39:40",
@@ -1360,11 +1222,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:00:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses MVVM and related programming patterns, which are not aligned with the Social Technologies category.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the MVVM (Model-View-ViewModel) design pattern in software development, specifically within WPF and Silverlight contexts. It discusses technical implementations and best practices without addressing any themes related to collaboration, decision-making, or value delivery within organisations. There are no direct mentions of social technologies or their principles, and the depth of discussion is limited to technical aspects, which do not align with the core themes of the Social Technologies category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1239,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses MVVM and technical implementation details, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:33:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses MVVM and related programming patterns, with no mention of Internal Developer Platforms or their relevance to software development processes.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:33:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses MVVM architecture and coding practices, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses MVVM (Model-View-ViewModel) and related design patterns in WPF and Silverlight, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on software development practices, it does not align with the core themes of Scrum, such as iterative progress, team dynamics, or empirical process control. The depth of discussion is focused on MVVM rather than any aspect of Scrum.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the MVVM (Model-View-ViewModel) design pattern in WPF and Silverlight, focusing on separation of concerns and implementation details. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with the core themes of integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the MVVM design pattern and best practices in WPF and Silverlight development. It does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence related to Continuous Improvement. The mention of best practices is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the MVVM design pattern and its implementation in WPF and Silverlight, with no direct discussion of Common Goals, Agile, or DevOps principles. While it touches on separation of concerns, it does not connect to shared objectives or strategic alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the MVVM design pattern and its implementation in WPF and Silverlight, which does not directly address the principles of competence as defined in Agile, Scrum, DevOps, and Lean methodologies. While there are mentions of best practices and code quality, these are not explicitly tied to continuous learning or skill development, which are core themes of competence. The discussion lacks depth in exploring how these practices contribute to professional growth or team trust.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the MVVM design pattern in WPF and Silverlight, discussing best practices for code structure and separation of concerns. It does not mention Agentic Agility or its principles, nor does it explore the intentional shaping of outcomes, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

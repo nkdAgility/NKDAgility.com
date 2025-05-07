@@ -2,54 +2,49 @@
 title: One critical skill for a Scrum Master and why?
 description: 'Discover the one essential skill every Scrum Master must master for success in Agile! Join Martin Hinshelwood in this quick, insightful #shorts video.'
 date: 2023-04-25T07:00:15Z
+weight: 665
 ResourceId: kEywzkMhWl0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: kEywzkMhWl0
 source: internal
 url: /resources/videos/:slug
-slug: 1-critical-skill-for-a-scrum-master-and-why
+slug: one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
 layout: video
 preview: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/1-critical-skill-for-a-scrum-master-and-why
-- /resources/one-critical-skill-for-a-scrum-master-and-why
-- /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
-- /resources/videos/kEywzkMhWl0
-- /resources/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/kEywzkMhWl0
-aliasesFor404:
+- /resources/videos/one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
+- /resources/videos/one-critical-skill-for-a-scrum-master-and-why
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+aliasesArchive:
+- /resources/videos/one-critical-skill-for-a-scrum-master-and-why
 - /resources/1-critical-skill-for-a-scrum-master-and-why
 - /resources/one-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
+- /resources/videos/1-critical-skill-for-a-scrum-master-and-why
+- one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Scrum Team
-- Agile Project Management
 - Scrum Master
-- Team Performance
-- Professional Scrum
-- Agile Frameworks
-- Agile Leadership
 - Agile Transformation
-- Agile Product Management
+- Professional Scrum
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Uncategorized
 
 ---
-**1 critical skill for a Scrum Master and why?**
+**1 critical skill for a [Scrum]({{< ref "/categories/scrum" >}}) Master and why?**
 
-When you think of the role of a Scrum Master, I bet teaching isn't the first thing that comes to mind. Most view Scrum Masters as facilitators, project managers, or even referees. 
+When you think of the role of a [Scrum Master]({{< ref "/tags/scrum-master" >}}), I bet teaching isn't the first thing that comes to mind. Most view Scrum Masters as facilitators, project managers, or even referees. 
 
 But when you dig a little deeper, you may be a little surprised to find one keyword that pops up more often than most - teaching. And it's not just your garden-variety, read-from-a-textbook kind of teaching. No, it's the kind of teaching that lights up ideas💡 in people's minds, paving the way for deep understanding and impactful change.
 
@@ -71,7 +66,7 @@ As a Scrum Master:
 
 ✔️ Teaching the 'why' behind Scrum principles fuels engagement and motivation.
 
-✔️ Once team members understand the value of Agile Transformation, they become more open to change and often drive that change themselves.
+✔️ Once team members understand the value of [Agile Transformation]({{< ref "/tags/agile-transformation" >}}), they become more open to change and often drive that change themselves.
 
 In summary, understanding the why is vital, and it's through effective teaching, as a Scrum Master, that I can help teams embrace Agile.
 

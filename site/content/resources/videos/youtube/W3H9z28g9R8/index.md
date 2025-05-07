@@ -1,9 +1,11 @@
 ---
-title: 7 Harbingers of the Agile Apocalypse. Famine.
+title: 7 Harbingers of the Agile Apocalypse - Famine
 description: "Explore how resource scarcity in organisations mirrors the Aztec's Fourth Sun, Nahui-Atl. Discover insights and solutions to combat organisational famine! \U0001F30D\U0001F4BC"
 date: 2023-10-19T15:00:30Z
+weight: 665
 ResourceId: W3H9z28g9R8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: W3H9z28g9R8
@@ -15,33 +17,29 @@ preview: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg
 duration: 448
 isShort: false
 aliases:
-- /resources/7-harbingers-of-the-agile-apocalypse-famine
-- /resources/videos/famine!-7-harbingers-agile-apocalypse
-- /resources/videos/W3H9z28g9R8
-- /resources/famine!-7-harbingers-agile-apocalypse
 - /resources/W3H9z28g9R8
-aliasesFor404:
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-famine
+- /resources/videos/famine-7-harbingers-agile-apocalypse
+aliasesArchive:
+- /resources/videos/-harbingers-of-the-agile-apocalypse-famine
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-famine
 - /resources/7-harbingers-of-the-agile-apocalypse-famine
 - /resources/videos/famine!-7-harbingers-agile-apocalypse
 - /resources/famine!-7-harbingers-agile-apocalypse
+- /resources/videos/famine-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-famine
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Decision Making
-- Change Management
-- Transparency and Accountability
-- Agile Philosophy
-- Sociotechnical Systems
+- Agile Leadership
 - Pragmatic Thinking
-- Organisational Physics
 - Organisational Culture
-- Organisational Agility
+- Beta Codex
 resourceTypes:
 - video
 categories:
-- Leadership
+- Product Development
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀
@@ -60,7 +58,7 @@ Famine in Agile settings is often a byproduct of traditional, top-down managemen
 
 ### Personal Insights: The Spanish Example 🇪🇸
 
-Let me share a revelation from my experience with organizations in Spain, where every employee is allocated a personal budget for training. This empowerment allows individuals to invest in areas they're passionate about, whether it's Agile training, technical skills, or something else entirely. This approach eradicates the famine of growth opportunities, fostering a culture of continuous improvement and self-determination.
+Let me share a revelation from my experience with organizations in Spain, where every employee is allocated a personal budget for training. This empowerment allows individuals to invest in areas they're passionate about, whether it's Agile training, technical skills, or something else entirely. This approach eradicates the famine of growth opportunities, fostering a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and self-determination.
 
 ## Breaking the Chains: Empowerment over Restriction 🔗
 
@@ -76,13 +74,13 @@ To navigate and ultimately overcome the famine within our organizations, conside
 
 1. **Empower at All Levels:** Shift decision-making authority closer to those with the keenest understanding of what's needed. This could mean allocating training budgets directly to team members or enabling frontline workers to approve necessary expenses.
 
-3. **Foster an Environment of Trust:** Cultivate a culture where trust is the foundation, and every team member feels valued and believed in.
+2. **Foster an Environment of Trust:** Cultivate a culture where trust is the foundation, and every team member feels valued and believed in.
 
-5. **Redefine Budgetary Approaches:** Advocate for budget flexibility that prioritizes value delivery over strict adherence to fiscal allocations.
+3. **Redefine Budgetary Approaches:** Advocate for budget flexibility that prioritizes [value delivery]({{< ref "/tags/value-delivery" >}}) over strict adherence to fiscal allocations.
 
-7. **Promote Transparency in Decision-Making:** Ensure that the rationale behind financial decisions is clearly communicated and understood, highlighting the impact on the organization's broader goals.
+4. **Promote [Transparency]({{< ref "/tags/transparency" >}}) in Decision-Making:** Ensure that the rationale behind financial decisions is clearly communicated and understood, highlighting the impact on the organization's broader goals.
 
-9. **Invest in People:** Recognize that your team's growth and development are the most valuable investments you can make. Encourage continuous learning and provide the tools necessary for success.
+5. **Invest in People:** Recognize that your team's growth and development are the most valuable investments you can make. Encourage [continuous learning]({{< ref "/tags/continuous-learning" >}}) and provide the tools necessary for success.
 
 ### Implementing Change: A Consultant's Perspective 🔍
 
@@ -94,6 +92,6 @@ Famine, as a harbinger of the Agile apocalypse, is a formidable foe, but not an 
 
 Remember, the journey to Agile success is paved with the resources we choose to invest in. Let's make those choices wisely, and together, we'll conquer the famine and emerge stronger, more resilient, and unstoppable. 💪
 
-Until next time, keep pushing boundaries and challenging the status quo. And, if you're looking to dive deeper into Agile, Scrum, or DevOps discussions, feel free to reach out for a chat over coffee. ☕
+Until next time, keep pushing boundaries and challenging the status quo. And, if you're looking to dive deeper into Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}) discussions, feel free to reach out for a chat over coffee. ☕
 
 _Thanks for tuning in. If you found this post enlightening, don't forget to like, follow, and subscribe for more insights and strategies to fuel your Agile journey._

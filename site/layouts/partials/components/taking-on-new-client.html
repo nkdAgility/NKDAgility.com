@@ -1,0 +1,60 @@
+{{ if and (.Site.Params.TakingOnNewClients) (ne .RelPermalink "/company/book-online/") }}
+  <!-- Link to Open Modal -->
+  <div class="animated-text text-nowrap  align-items-center">
+    <span class="icon"><i class="fa-solid fa-rocket-launch"></i></span>
+    <span class="icon"><i class="fa-solid fa-bracket-curly"></i></span>
+    <span class="text text-nowrap"><a href="#" data-bs-toggle="modal" data-bs-target="#newClientsModal" title="We're looking for 1 new client!">Accepting 1 new client!</a></span>
+    <span class="icon"><i class="fa-solid fa-bracket-curly-right"></i></span>
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="newClientsModal" tabindex="-1" aria-labelledby="newClientsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="newClientsModalLabel">We're looking for 1 new client!</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body text-start text-small">
+          <p class="text-small">To maintain quality and focus, <strong>we limit concurrent engagements</strong> and never overbook. When we work with you, our attention is fully on your needs. Whether you need a short-term boost or a long-term strategic partnership, we tailor our approach to deliver real value.</p>
+          <p class="text-small">Check out what <a href="/company/working-with-us/">Working with Us</a> looks like.</p>
+          <p class="text-small">We operate on a fixed-price model, eliminating the need for time tracking or approval gates. Our engagements are based on a defined time period, ensuring full flexibility to collaborate on any topic within our expertise—technical, process-related, or strategic.</p>
+          <p class="text-small"><a href="/company/book-online/">Get in touch today</a> to discuss how we can support your organisation’s agility, DevOps adoption, and value delivery.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary btn-sm text-small" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    .animated-text {
+      display: flex;
+      align-items: center; /* Ensures all elements are vertically aligned */
+      gap: 0.3rem; /* Adds a small spacing between elements */
+    }
+
+    .animated-text .icon {
+      display: flex;
+      align-items: center; /* Aligns icons to the center */
+    }
+
+    .animated-text .text {
+      display: inline-block;
+      max-width: 0;
+      overflow: hidden;
+      white-space: nowrap;
+      animation: expandText 1s ease-in-out 2s forwards; /* 2s delay */
+    }
+
+    @keyframes expandText {
+      from {
+        max-width: 0;
+      }
+      to {
+        max-width: 100%; /* Ensures it only grows to the text width */
+      }
+    }
+  </style>
+{{ end }}

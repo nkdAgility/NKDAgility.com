@@ -2,40 +2,39 @@
 title: Do you think we are on the slope of enlightenment in Gartner's Hype Cycle?
 description: "Explore Agile's journey from disillusionment to enlightenment with Martin as he uncovers truths, debunks myths, and sets realistic expectations. \U0001F680\U0001F4A1"
 date: 2023-07-07T07:00:03Z
+weight: 1000
 ResourceId: 3NtGxZfuBnU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3NtGxZfuBnU
 source: internal
 url: /resources/videos/:slug
-slug: do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
+slug: do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 preview: https://i.ytimg.com/vi/3NtGxZfuBnU/maxresdefault.jpg
 duration: 219
 isShort: false
 aliases:
-- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
-- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
-- /resources/videos/3NtGxZfuBnU
-- /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - /resources/3NtGxZfuBnU
-aliasesFor404:
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
+aliasesArchive:
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
+- do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Agile Philosophy
+tags: []
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
-- Social Technologies
-- Leadership
+- Uncategorized
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  
@@ -44,7 +43,7 @@ This question echoes across the corridors of enterprises attempting to decode th
 
 ## The Quest for Agile Enlightenment 
 
-Every scroll through LinkedIn, every conference, every workshop seems to echo with discontent - from "Scrum is broken" to "Agile is dead." The cacophony of disillusionment appears to be the melody of the day. But is it really the predominant theme, or are we witnessing the early symphonies of an enlightened majority? 🎶👥 
+Every scroll through LinkedIn, every conference, every workshop seems to echo with discontent - from "[Scrum]({{< ref "/categories/scrum" >}}) is broken" to "Agile is dead." The cacophony of disillusionment appears to be the melody of the day. But is it really the predominant theme, or are we witnessing the early symphonies of an enlightened majority? 🎶👥 
 
 ## The Hype Cycle's Reality Check 🔄 
 

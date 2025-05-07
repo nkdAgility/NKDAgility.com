@@ -2,8 +2,10 @@
 title: What Does the Assessment Phase of a Consulting Engagement Look and Feel Like?
 description: Discover the assessment phase of agile consulting with NKD Agility. Martin Hinshelwood shares insights on tackling challenges and enhancing team performance.
 date: 2023-06-19T10:00:25Z
+weight: 790
 ResourceId: GmLW6wNcI6k
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GmLW6wNcI6k
@@ -15,41 +17,31 @@ preview: https://i.ytimg.com/vi/GmLW6wNcI6k/maxresdefault.jpg
 duration: 275
 isShort: false
 aliases:
-- /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
-- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
-- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
-- /resources/videos/GmLW6wNcI6k
-- /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 - /resources/GmLW6wNcI6k
-aliasesFor404:
+- /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
+aliasesArchive:
+- /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
 - /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
 - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
 - /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
+- /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
+- what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Discovery and Learning
-- Complexity Thinking
 - Pragmatic Thinking
-- Business Agility
-- Empirical Process Control
-- Market Adaptability
-- Personal
-- Agile Philosophy
-- Organisational Agility
 resourceTypes:
 - video
 categories:
-- DevOps
-- Social Technologies
+- Uncategorized
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement
 
-So, as a Scrum Master, I often find myself grappling with an intriguing question - what does the assessment phase of a consulting engagement look like?"
+So, as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself grappling with an intriguing question - what does the assessment phase of a consulting engagement look like?"
 
 Come along with me as we explore the facets of this initial consulting stage and why it might not be as rigid as we think. 🌟
 
@@ -79,7 +71,7 @@ It's all about convincing the customer to collaborate with you and then fluidly 
 
 ## Dynamic Adaptations and Realisations
 
-Reflecting upon my early years immersed in DevOps engagements in the US, I remember the emphasis on understanding and meeting the customer's needs within a short timeframe, sometimes within a week.
+Reflecting upon my early years immersed in [DevOps]({{< ref "/categories/devops" >}}) engagements in the US, I remember the emphasis on understanding and meeting the customer's needs within a short timeframe, sometimes within a week.
 
 This meant figuring out what the customer needs and delivering it within that window, with no room for extension.  This journey taught me the necessity to continuously adapt to what's going on once you hit the ground, embracing an agile mindset that keeps pace with evolving needs and dynamics.  🌟
 

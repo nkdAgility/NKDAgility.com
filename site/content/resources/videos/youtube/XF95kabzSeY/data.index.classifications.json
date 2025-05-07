@@ -46,11 +46,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:45:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching aspects related to the role of a product owner, without discussing Evidence-Based Management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding product vision and delivering value, which aligns with some aspects of Evidence-Based Management, particularly in terms of defining success metrics. However, it lacks explicit references to empirical decision-making or the specific metrics outlined in the EBM framework. The focus is more on the role of a Product Owner and communication strategies rather than a data-informed approach to management.",
     "level": "Ignored"
   },
   "Personal": {
@@ -71,24 +74,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:45:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are unrelated to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:45:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching aspects related to the role of a product owner, without addressing transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-17T14:45:45",
@@ -97,15 +82,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on teaching aspects of a product owner role within Scrum, without a clear emphasis on market adaptability strategies or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T14:45:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses teaching a product owner, which relates to team dynamics and roles within Agile and Scrum environments, but it is not the primary focus.",
-    "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -123,15 +99,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses specific teachings related to the role of a product owner within the Scrum framework.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:45:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching aspects of a product owner role rather than providing news or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -163,21 +130,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T14:45:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions teaching a product owner, which relates to Agile Product Management, but it is not the primary focus and is overshadowed by promotional elements and general Agile terminology.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:45:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner, discussing the importance of understanding the product vision and engaging stakeholders, which aligns well with Agile Product Management principles. However, it lacks detailed exploration of techniques for prioritising backlogs or incorporating customer feedback, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -197,15 +158,6 @@
     "reasoning": "Content primarily focuses on teaching specific aspects of the product owner role within Scrum, rather than discussing broader organisational agility strategies or practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:46:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a product owner in Scrum without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "calculated_at": "2025-02-17T14:46:05",
@@ -217,12 +169,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:46:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions teaching a product owner, which relates to Scrum and Agile practices, but it does not delve deeply into the frameworks or principles themselves.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Product Owner in engaging teams and delivering value, which aligns with the principles of collaboration and decision-making in social technologies. However, it lacks explicit references to social technologies or frameworks, and while it touches on communication and engagement, it does not delve deeply into methodologies or case studies that would strengthen its alignment with the category.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -260,32 +215,17 @@
     "reasoning": "Content primarily focuses on teaching a product owner role within Scrum, which is more about specific practices rather than the broader principles of business agility.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:46:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching concepts related to the role of a product owner without specific reference to practical techniques or tooling.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:46:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching concepts related to the role of a product owner rather than discussing specific events or presentations.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:46:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions teaching a product owner, which relates to product delivery, but it is primarily focused on a video format and lacks detailed discussion on methodologies or practices involved in the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of a product owner in understanding and communicating the product vision, which is a crucial aspect of product delivery. However, it lacks explicit mentions of methodologies, testing, deployment, or other key practices associated with the end-to-end delivery process. The focus is primarily on the initial stages of product development rather than the comprehensive delivery process, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -294,15 +234,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on a specific aspect of agile practices without addressing broader organisational implications.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:46:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses teaching points for a product owner apprentice, without a focus on specific products or literature.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -316,38 +247,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:46:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching aspects related to a product owner apprenticeship, without a clear emphasis on the Agile Product Operating Model or its principles.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:46:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions the role of a Product Owner, which is a key aspect of Scrum, but it does not provide in-depth discussion on Scrum principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Product Owner and the importance of understanding product vision, engaging teams, and delivering value, which aligns with the principles of the Agile Product Operating Model. However, it lacks explicit references to agile methodologies or the broader framework of APOM, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:46:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to DevOps principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:46:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While there are elements of collaboration and feedback, which are relevant to DevOps, the overall emphasis is on product ownership rather than the broader DevOps philosophy or practices. The discussion lacks depth in DevOps-specific principles and does not address key topics such as automation, shared accountability, or cultural shifts necessary for effective DevOps implementation.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -359,15 +278,6 @@
     "reasoning": "Content heavily discusses teaching a product owner apprentice, focusing on Scrum roles and events, rather than flow efficiency principles or optimisation techniques.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:46:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T14:46:31",
@@ -377,31 +287,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching aspects of being a product owner within a Scrum framework, with no mention of Kanban principles or scaling methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:18:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum roles and agile methodologies, which are unrelated to system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on teaching concepts related to the role of a Product Owner, which is primarily about individual Agile practices and does not address scaling Agile at an enterprise level.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. There are no direct mentions of system configuration, and the themes discussed do not align with the core topics of system setup, automation, or maintenance. The depth of discussion is also minimal regarding system configuration, as it does not address any relevant practices or methodologies.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -433,11 +328,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teachings for a product owner and is focused on Scrum concepts, without specific mention or discussion of Lead Time as a primary topic.",
+    "calculated_at": "2025-04-11T09:18:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in clarifying vision, engaging teams, and delivering value, without any direct mention or discussion of Lead Time as a metric. While it touches on aspects of product development and success measurement, it does not align with the core themes of Lead Time, such as its definition, measurement techniques, or strategies for optimisation. The discussion lacks depth regarding Lead Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -451,12 +349,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content refers to teaching concepts relevant to the role of a Product Owner, which aligns with Scrum principles, but it does so in a brief and secondary manner without deeper exploration of Scrum frameworks or practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner, discussing the importance of understanding the product vision and value, which aligns with Scrum principles. However, it lacks explicit references to the Scrum framework, roles, or events, and does not delve deeply into Scrum practices or artifacts, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -566,15 +467,6 @@
     "reasoning": "Content primarily discusses what to teach a product owner apprentice and does not focus on principles of Continuous Learning or team improvement.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses teachings for a product owner and does not focus on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-17T15:05:49",
@@ -658,12 +550,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions teaching a product owner apprentice, indicating a focus on the Product Owner role, but lacks detail on responsibilities or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the role of a Product Owner, focusing on understanding the product vision and engaging stakeholders, which are key responsibilities of the role. It aligns well with the core themes of stakeholder engagement and communicating product value. The depth of discussion is significant, as it explores the importance of vision and value delivery, which are critical for a Product Owner's success.",
+    "level": "Primary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -676,12 +571,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses teachings for a product owner within the context of Scrum and Agile, making product management a significant theme, but it may also heavily focus on broader Agile and Scrum concepts.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the role of a product owner in understanding and communicating the product vision, which is a key aspect of product management. It aligns with the core themes of strategic alignment and stakeholder engagement. However, while it touches on important concepts, the depth of discussion is somewhat limited, focusing primarily on the initial steps of defining vision and value without delving into methodologies or frameworks that guide product management.",
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -739,12 +637,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on teaching aspects relevant to the role of a Product Owner, which is a significant role within a Scrum Team, but it does not provide a detailed discussion about Scrum Team dynamics or collaboration.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner, discussing aspects of vision, engagement, and value delivery. While it touches on the importance of communication and team dynamics, it lacks a comprehensive exploration of Scrum Team roles and collaboration techniques. The discussion is relevant but does not delve deeply into the broader dynamics of a Scrum Team, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -757,12 +658,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to the role of a product owner within Agile practices, which is a significant aspect of Agile transformation, but it does not primarily focus on the broader strategies or methodologies of Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of a Product Owner, which is relevant to Agile practices, particularly in Scrum. However, it primarily focuses on personal reflections and strategies for engaging stakeholders and delivering value rather than on broader Agile transformation principles or methodologies. While it touches on aspects of Agile, such as communication and value delivery, it lacks a comprehensive exploration of Agile transformation strategies, frameworks, or change management, which are central to the category.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -798,15 +702,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses primarily on teaching specific aspects related to the role of a product owner in a Scrum context, without a broader strategic discussion on Agile methodologies or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a product owner apprenticeship, which is not central to the role of software developers in Agile and DevOps contexts.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -892,10 +787,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:05:49",
+    "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses training for a product owner in Scrum and Agile practices, without clear emphasis on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -910,11 +805,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses aspects of Agile and Scrum, but primarily focuses on teaching a product owner rather than an in-depth exploration of Agile frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a Product Owner, which is relevant to Agile frameworks, particularly Scrum. However, it primarily focuses on the responsibilities and strategies of a Product Owner rather than exploring Agile frameworks in depth. While it touches on concepts like vision and value delivery, it lacks a comprehensive analysis of Agile principles or frameworks themselves, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -928,11 +826,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:18:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on teaching aspects of a product owner apprentice, with no direct discussion on throughput measurement or optimization.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in clarifying vision, engaging teams, and delivering value, without any explicit discussion of throughput as a delivery metric. While it touches on measuring success, it does not delve into throughput analysis, visualisation, or trends, which are core to the category. The lack of direct mentions and minimal conceptual alignment with throughput metrics results in a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -962,15 +863,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are focused on project management rather than employee engagement.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the role of a Product Owner, which is relevant to Agile Project Management, but it primarily seems to serve as an introduction to a video rather than a detailed discussion on agile principles or practices.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T15:05:49",
@@ -991,11 +883,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are unrelated to Continuous Delivery.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While it touches on aspects of delivering value, it does not explicitly address Continuous Delivery principles, practices, or the role of automation, which are central to the category. The discussion lacks depth in Continuous Delivery topics and does not provide specific strategies or tools related to the category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1045,12 +940,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses topics related to Scrum and Agile, which are methodologies within software development, but the primary focus is on teaching roles to a product owner rather than on software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of a Product Owner in product development, which is relevant to software development practices, particularly in Agile methodologies. It touches on aspects like understanding product vision, engaging stakeholders, and delivering value, which align with Agile principles. However, it lacks detailed discussions on specific software development methodologies or technical practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1069,15 +967,6 @@
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on teaching a Product Owner without specific reference to Product Backlog concepts or practices.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions teaching a product owner, which relates to Scrum roles and product development, but does not provide detailed information about Scrum practices or frameworks.",
-    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1205,15 +1094,6 @@
     "reasoning": "The content primarily discusses the role of a Product Owner in Scrum, which is more focused on specific roles and events rather than strategic approaches or discussions relevant to Agile strategy formulation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses teachings for a product owner apprenticeship, focusing on Scrum and Agile methodologies without mentioning AI.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-17T15:05:49",
@@ -1225,12 +1105,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content suggests teaching concepts to a product owner apprentice, it primarily focuses on the apprenticeship aspect rather than mentoring techniques, strategies, or principles specific to agile mentoring. It appears to be a major theme but is secondary to the broader topics of Scrum and Agile. More context on mentoring itself would strengthen the category alignment.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a product owner in understanding and communicating the product vision and value, which is more aligned with product management than mentoring. While there are elements of engaging and communicating with others, it lacks explicit discussions on mentoring techniques, coaching, or the development of leadership skills within Agile teams. The depth of discussion is limited to the product owner's responsibilities rather than providing guidance or support for professional growth.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1243,11 +1126,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on teaching aspects related to the role of a product owner and does not discuss Test First Development or its principles.",
+    "calculated_at": "2025-04-08T16:14:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in clarifying vision and engaging teams, with no direct mention of Test First Development principles or practices. While it touches on the importance of defining success metrics, it does not delve into testing methodologies or the significance of success criteria in guiding design and implementation, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1295,22 +1181,16 @@
     "reasoning": "Content focuses on teaching concepts related to the role of a product owner, which is more aligned with project management and Scrum roles rather than coaching practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on teaching specific skills for a product owner apprenticeship rather than discussing scaling agile practices at the organizational level.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:05:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the role of a Product Owner, with no significant discussion on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner, discussing vision, engagement, and value delivery, which are not central to the responsibilities or impact of a Scrum Master. While there are some indirect references to team dynamics and communication, the content does not explicitly address the Scrum Master's role or responsibilities, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1340,7 +1220,7 @@
     "reasoning": "Content mostly discusses general teachings for a Product Owner apprentice without focusing on the Increment or its significance in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:05:49",
     "ai_confidence": 0,
@@ -1374,6 +1254,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses lessons for a product owner, focusing on Scrum and Agile project management rather than Behaviour Driven Development.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:45:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:45:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner, which is a key aspect of the Scrum framework. It discusses the importance of understanding the product vision and value, which aligns with Scrum principles of delivering business value. However, it lacks detailed discussions on Scrum events or other roles, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in understanding product vision and engaging stakeholders, with no explicit mention of the Shift-Left Strategy. While there are elements of value delivery and alignment with product goals, these do not directly relate to integrating testing, security, or compliance earlier in the development process. The discussion lacks depth in addressing the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses aspects of product ownership, such as understanding vision and engaging teams, which are related to Continuous Improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or structured methodologies. The focus is more on individual responsibilities and communication rather than on systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding product vision and aligning team efforts with that vision, which relates to the concept of Common Goals. However, it primarily focuses on the role of a Product Owner and personal experiences rather than explicitly addressing the broader implications of Common Goals within Agile and DevOps frameworks. The discussion lacks depth in exploring how these goals connect to organisational performance or frameworks like OKRs.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding product vision and engaging teams, which indirectly relates to competence through effective communication and clarity in roles. However, it lacks a direct focus on continuous learning or skill development, which are core aspects of the competence category. The depth of discussion on delivering value and aligning features with vision provides some insight into competence but does not fully explore the foundational principles of professionalism and quality delivery.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:06:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While it touches on aspects of team communication and alignment, it does not explicitly mention or align with the principles of the One Engineering System framework. The discussion lacks depth regarding integration of tools and processes or best practices for implementing a unified engineering system, which are key topics for the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a Product Owner in clarifying vision and delivering value, which touches on aspects of intentionality and alignment with value. However, it lacks explicit discussions on Agentic Agility principles, such as the distinction between human and AI capabilities, and does not delve deeply into the mechanisms of agency or adaptability. The focus is more on general product ownership practices rather than a thorough exploration of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:17:50",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the role of a Product Owner in product development, focusing on understanding product vision, engaging teams, and delivering value. It aligns well with key topics such as customer feedback loops, continuous improvement, and the importance of aligning product strategy with business objectives. The depth of discussion is substantial, providing actionable insights and strategies for effective product ownership, which reinforces its relevance to the category of Product Development.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:17:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While it touches on aspects of team engagement and communication, it does not explicitly mention Liberating Structures or their techniques. The discussion lacks depth in terms of facilitation methods or group dynamics, which are central to the category of Liberating Structures. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:17:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner, discussing vision, engagement, and value delivery in product development. While it touches on aspects of stakeholder communication and the importance of aligning product features with a vision, it lacks a broader discussion of project management principles, methodologies, or lifecycle phases. The emphasis is more on the specific role and responsibilities rather than comprehensive project management strategies, which limits its alignment with the category.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:17:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While it touches on themes of communication and team engagement, it does not explicitly mention Open Space Agile or its principles. The discussion lacks depth regarding collaborative change processes or psychological safety, which are central to Open Space Agile. Overall, the content does not align closely with the category's focus.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:18:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding product vision and delivering value, which are related to the concept of Unrealised Value. However, it primarily focuses on the role of a Product Owner and strategies for engagement rather than explicitly addressing unrealised opportunities or potential improvements. The mention of 'value' is vague and does not delve into specific indicators or measures of unrealised value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:18:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of a Product Owner in clarifying vision and delivering value, which indirectly relates to Time to Market. However, it lacks explicit mentions of Time to Market metrics or strategies for improving it. The focus is more on communication and engagement rather than the efficiency of delivering products to market, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:18:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of understanding and articulating product value, which aligns with the concept of Current Value in Evidence-Based Management. It mentions measuring success through metrics like user engagement and customer satisfaction, which are key indicators of Current Value. However, while it touches on these aspects, the discussion lacks depth in terms of specific techniques for gathering and analysing Current Value data, and it does not provide case studies or detailed examples of Current Value application in Agile or DevOps environments. Therefore, while the content is relevant, it does not fully meet the criteria for a high confidence score.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:18:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. While it touches on aspects of customer engagement and team dynamics, it does not explicitly discuss the company as a product or the broader organisational strategy associated with CaaP. The principles of aligning product features with a vision and measuring success are relevant but do not delve deeply into organisational design or customer-centric strategies at the company level. Therefore, while there is some conceptual alignment, the lack of direct mentions and depth in discussing CaaP results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:18:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in clarifying vision, engaging teams, and delivering value, which are important aspects of product development but do not specifically address the complexities of scaling Agile practices or frameworks. While there are mentions of alignment and value delivery, these concepts are not explored in the context of scaling across multiple teams or the methodologies that facilitate such scaling. The discussion lacks depth in terms of strategies for cross-team collaboration or managing dependencies, which are critical to the Scaling category. Overall, the content is more aligned with general product ownership rather than the specific challenges and strategies involved in scaling.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:18:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. It does not explicitly mention Hybrid Agile or its challenges, nor does it critically examine the integration of traditional and agile methodologies. While there are elements of agile practices discussed, they are not framed within the context of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:18:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner and the importance of vision and value delivery in product development. While it touches on concepts like value delivery and engaging teams, it does not explicitly mention Agnostic Agile or its principles. The discussion lacks depth regarding the application of Agnostic Agile principles or comparisons with traditional frameworks, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:18:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. It does not mention GitHub or its functionalities, nor does it align with the core themes of GitHub services, collaboration features, or version control practices. The discussion is centred around general product management principles rather than GitHub-specific methodologies or tools.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:18:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in product development, discussing vision, engagement, and value delivery. It does not directly mention or align with the principles of Cell Structure Design, nor does it explore the characteristics of autonomous cells or decentralised structures. While there are elements of team engagement and communication, these are not framed within the context of the Beta Codex or the specific organisational design model described in the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:38",
+    "ai_confidence": 55.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the importance of having a clear product vision, engaging the team, and delivering value, which aligns with core principles of value delivery and customer collaboration. However, the focus is more on the roles and activities of a Product Owner rather than an explicit discussion of actionable principles guiding decision-making. The principles are mentioned but not deeply explored, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Product Owner, focusing on vision and engagement rather than specific tools that facilitate these processes. While it touches on the importance of communication and delivering value, it does not mention any tools or their functions, nor does it connect to Agile, Lean, or DevOps frameworks. Therefore, it only partially aligns with the category and lacks depth and specific mentions of tools.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 51.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 51.0,
+    "reasoning": "The content discusses the concept of 'value' in terms of product ownership, emphasizing its importance as a guiding principle. However, it primarily focuses on actionable methods and personal experiences rather than a deep exploration of underlying values as a philosophical foundation. The mention of 'core value' offers a connection to the category, but the overall emphasis on tangible outcomes like engagement and delivery detracts from a stronger focus on values themselves.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses aspects of product ownership and communication, but it primarily focuses on the practical tasks involved in engaging team members and articulating vision rather than exploring the philosophical underpinnings of decision-making or team dynamics. While there are brief mentions of why understanding vision is important, the majority of the content is dedicated to how to perform tasks, which falls outside the realm of philosophical discussion.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the role of a Product Owner in product development and emphasizes the importance of engaging the team and delivering value, but it lacks direct discussions on discipline, such as methodologies or principles specific to Agile or DevOps. While some core themes of discipline like continuous learning and improvement are implied, they are not explicitly defined or explored. Therefore, the confidence score reflects a low primary focus on the category of Discipline.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the role of a Product Owner and emphasizes product vision, engagement, and value delivery. Though it touches on vital aspects of product development and discusses communication and alignment which are relevant to artifacts, it does not directly address any specific artifacts used in Agile or Scrum. Therefore, while aspects like product value and metrics are mentioned, they do not center on the explicit nature or function of artifacts. The mention of visuals and metrics as tools for communication and measurement hints at the relevance to artifacts but remains too abstract and indirect to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on product ownership, vision, and value delivery without mentioning observability or related concepts. While there are discussions about measuring success and engaging teams, these topics are not sufficiently aligned with the principles of observability, such as metrics, logs, and internal state understanding. Therefore, the overall confidence is low, reflecting the lack of focus on observability as a primary theme.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 2,
+    "ai_depth": 3,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the role of a Product Owner and emphasizes the importance of understanding product vision and engaging with the team to deliver value. However, while it touches on concepts that could relate to practices (like engaging the team and value delivery), it does not focus on specific actionable practices or techniques that improve team effectiveness, collaboration, or value delivery as outlined in the category's key topics. The mention of strategies for communication and engagement shows some alignment but lacks depth and specificity typically expected in 'Practice' focused discussions.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content predominantly focuses on the role of a Product Owner and principles of effective communication and engagement with the team and stakeholders. While it discusses important aspects of product ownership like understanding the product vision and delivering value, it lacks a structured, step-by-step methodology that characterizes true 'method' content. The mentions of identifying value and measuring success are more principle-oriented rather than procedural. Hence, while there is some connection to methods in Agile, it does not provide the depth or structure generally required to fit firmly into the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content discusses the role of a Product Owner in product development and the importance of vision and engagement, it does not directly reference any conceptual models or frameworks outlined in the 'Model' category. There are mentions of alignment and measurement of success, which could relate tangentially to certain modelling concepts, but the focus remains heavily on practical advice and personal experience rather than a discussion of models, frameworks, or systematic approaches within Agile, DevOps, or Lean contexts.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly touches on the role of a Product Owner and emphasizes principles like product vision and team engagement, but it lacks explicit mentions of any specific frameworks like Scrum or Kanban. The alignment with the core themes of frameworks is weak, as it does not detail implementation strategies or case studies, and focuses more on personal insights and responsibilities rather than structured methodologies or framework comparisons.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 29.0,
+    "ai_depth": 39.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Product Owner rather than explicitly outlining tenets or actionable guiding rules related to Agile practices. While it touches on communication and engagement, which are important in Agile, it does not focus on specific tenets or principles, and much of the discussion revolves around personal experiences and general advice rather than prescriptive tenets. The lack of direct mentions and focus on actionable guiding rules reduces its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses primarily on the role of a Product Owner and emphasizes communication, vision, and engagement, which are more closely tied to roles and responsibilities than to enduring capabilities. Although there are mentions of 'defining success' and 'delivering value', these discussions do not delve deeply into how capabilities are built, measured, or related to organizational culture. The content does not sufficiently address the development of capabilities within teams or their impact on business agility, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

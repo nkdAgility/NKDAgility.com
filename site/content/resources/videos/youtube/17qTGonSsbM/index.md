@@ -2,8 +2,10 @@
 title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 description: "Evaluate your project's direction! \U0001F9ED Discover how to make informed choices and adapt in a changing world. Join us for insights and guidance! \U0001F4A1"
 date: 2024-01-20T07:00:00Z
+weight: 840
 ResourceId: 17qTGonSsbM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 17qTGonSsbM
@@ -14,35 +16,29 @@ preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
 duration: 312
 isShort: false
 aliases:
-- /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
-- /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
-- /resources/videos/17qTGonSsbM
-- /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/17qTGonSsbM
-aliasesFor404:
+- /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
+- /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
+aliasesArchive:
+- /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
 - /resources/the-importance-of-evaluating-direction-are-you-heading-the-right-way
 - /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
+- /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
+- the-importance-of-evaluating-direction-are-you-heading-the-right-way
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- Resilience and Change
-- Product Strategy
-- Decision Making
-- Sensemaking
-- Pragmatic Thinking
+- Continuous Improvement
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
-- Engineering Excellence
-- Leadership
+- Product Development
 
 ---
-As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional Scrum trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️
+As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️
 
 In this post, we’ll explore why it’s crucial to evaluate your direction regularly at different levels—individual, team, and organizational—and how you can pivot when necessary to achieve better outcomes.
 
@@ -70,7 +66,7 @@ One personal experience I often share is when a team I was working with delivere
 
 The same principle applies to product owners. It’s easy to get tunnel vision, especially when you're committed to delivering certain features. But the real question is: **Are you building the right features that truly benefit your users?**
 
-I remember working with a product owner who was keen on adding more features to a product. The team built these out with speed and efficiency, but the customers weren’t interested in using them. The product was feature-packed, yet didn’t solve the key pain points of its users. Had we stopped to evaluate direction, we would have realized this much sooner.
+I remember working with a [product owner]({{< ref "/tags/product-owner" >}}) who was keen on adding more features to a product. The team built these out with speed and efficiency, but the customers weren’t interested in using them. The product was feature-packed, yet didn’t solve the key pain points of its users. Had we stopped to evaluate direction, we would have realized this much sooner.
 
 ### **Product Owner's Evaluation Checklist:**
 

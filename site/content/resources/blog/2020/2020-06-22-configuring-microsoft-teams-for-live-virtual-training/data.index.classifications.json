@@ -55,19 +55,22 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T09:28:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no discussion of Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, with no direct mention of Evidence-Based Management principles or metrics. While it discusses setup and user experience, it lacks alignment with the core themes of EBM, such as data-informed decision-making or empirical evidence. The depth of discussion is also minimal regarding EBM, as the content is more instructional and practical rather than strategic or analytical.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-14T09:28:44",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, lacking discussions on organisational agility or broader implications of agility on performance and culture.",
     "level": "Ignored"
   },
@@ -91,28 +94,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T09:28:48",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no significant discussion on metrics, data utilisation, or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T09:28:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, with no clear discussion on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T09:28:51",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Microsoft Teams for virtual training, with only peripheral mentions of Azure AD and Microsoft 365, which do not align with Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
@@ -136,21 +130,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T09:28:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the step-by-step configuration and setup of Microsoft Teams for live virtual training, detailing specific tasks and requirements necessary for effective implementation.",
-    "level": "Secondary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T09:28:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on the principles or components of the One Engineering System framework.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a comprehensive guide on configuring Microsoft Teams for live virtual training, detailing specific installation and configuration steps, such as creating an Azure AD tenant, setting up a Microsoft 365 subscription, and enabling guest access. It directly addresses the installation and configuration processes, aligning well with the key topics of the category. The depth of discussion is significant, with clear tasks outlined for the reader, making it actionable and relevant to the category.",
+    "level": "Primary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -170,32 +158,17 @@
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, lacking a clear emphasis on engineering practices or methodologies that enhance software development and delivery processes.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, with only brief mentions of the human aspect related to training and collaboration. The main emphasis is on tools and processes rather than the interplay between people and structured methodologies.",
-    "level": "Quaternary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses configuring Microsoft Teams for Professional Scrum classes, indicating a significant focus on Scrum-related training, but the primary topic is about Microsoft Teams setup rather than Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the setup and configuration of Microsoft Teams for delivering live virtual training, which relates to the delivery of a software product (the training experience). However, the primary focus is on technical setup rather than broader product delivery methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, which is more about tool setup than the methodologies and practices of product delivery. While it touches on aspects of delivering a training experience, it lacks a direct discussion on product delivery principles such as Agile methodologies, iterative development, or deployment strategies. The mention of 'Professional Scrum' hints at a connection to product delivery, but it is not the primary focus of the content.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -208,19 +181,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T09:29:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, which is not aligned with DevOps principles. While it touches on aspects of technology and collaboration, it lacks explicit discussions on DevOps philosophy, practices, or cultural shifts. The mention of Azure Active Directory and Microsoft 365 is more about tool configuration rather than the integration of people, processes, and technology for continuous value delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-14T09:29:14",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
@@ -235,20 +211,11 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-14T09:29:17",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of Microsoft Teams for virtual training, with no focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T09:29:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no discussion of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -260,22 +227,16 @@
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no direct relation to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T09:29:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the practical configuration and setup of Microsoft Teams for live virtual training, detailing specific tasks and tools required for effective implementation, which aligns well with the category's emphasis on practical techniques and tooling.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T09:29:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, with no direct mention of the Agile Product Operating Model or its principles. While it discusses aspects of training and collaboration, it does not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is limited to technical setup rather than strategic product delivery.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -285,15 +246,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, lacking discussions on market adaptability strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T09:29:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, lacking a central theme of discovery or learning methodologies.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -307,20 +259,11 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-14T09:29:28",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on business agility principles or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T09:29:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on transparency or accountability principles within Agile teams.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -330,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no discussion of BetaCodex principles or related topics.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T09:29:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the configuration and setup of Microsoft Teams for virtual training, with no focus on software code quality or complexity theory.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -352,75 +286,42 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-14T09:29:35",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical setup and configuration of Microsoft Teams for training, lacking personal anecdotes or reflections related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses setting up Microsoft Teams for live virtual training, which is related to events and presentations. However, it primarily focuses on technical configuration rather than the event or presentation itself.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T09:29:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no clear discussion on scaling Agile practices or related frameworks.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T09:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, with no significant discussion on products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T09:29:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical setup and configuration of Microsoft Teams for virtual training, lacking industry news or reviews.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T08:56:26",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses solely on configuring Microsoft Teams for live virtual training, with no mention or discussion of Daily Scrum or its related topics.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T08:56:26",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuring Microsoft Teams for training and does not discuss the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mainly discusses configuring Microsoft Teams for virtual training, which involves some technical setup and the use of Azure AD. However, it primarily focuses on the operational aspects of using these tools for training rather than a deep dive into software craftsmanship, principles, or methodologies central to Technical Mastery.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, which is more about operational setup than technical mastery in software craftsmanship or engineering practices. While it does touch on some technical aspects, such as Azure Active Directory and Microsoft 365 subscriptions, it lacks a deeper exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The discussion is practical and instructional but does not delve into the core themes of technical mastery as defined in the category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -433,11 +334,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T08:56:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuration and usage of Microsoft Teams for virtual training rather than any principles or practices related to Continuous Delivery.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, discussing setup and user access rather than Continuous Delivery principles, practices, or tools. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with its core themes such as automation, rapid feedback, or software quality improvement.",
     "level": "Ignored"
   },
   "Technical Leadership": {
@@ -451,10 +355,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T08:56:26",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring Microsoft Teams for virtual training and does not relate to lead time discussions or its measurement.",
     "level": "Ignored"
   },
@@ -469,10 +373,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T08:56:26",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring Microsoft Teams for training and does not address the Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -532,10 +436,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T08:56:26",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Microsoft Teams and does not focus on Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -577,12 +481,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses practical setup and configuration strategies for Microsoft Teams specifically aimed at facilitating live virtual training, which aligns with applying real-world problem-solving techniques in an Agile/Scrum context.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content provides practical guidance on configuring Microsoft Teams for virtual training, which aligns with pragmatic thinking by emphasising real-world applications and problem-solving strategies. However, it lacks a strong focus on Agile, Scrum, or DevOps principles, and the discussion is more about technical setup than navigating complexity in project management.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -595,10 +502,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T08:56:26",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for conducting virtual training sessions, without a central discussion on team performance or Agile principles.",
     "level": "Ignored"
   },
@@ -620,32 +527,26 @@
     "reasoning": "Content is primarily about configuring Microsoft Teams for virtual training and does not discuss Acceptance Test Driven Development or related concepts.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T08:56:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses configuring Microsoft Teams for virtual training sessions and does not address Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T08:56:26",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on configuring Microsoft Teams for virtual training rather than on Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses configuring Microsoft Teams for Professional Scrum classes, implying a connection to Scrum training, but primarily focuses on technical setup and tools rather than an in-depth exploration of Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'Professional Scrum' in the context of configuring Microsoft Teams for training, but it primarily focuses on technical setup rather than in-depth discussions of Scrum principles, roles, or practices. While it touches on the importance of a professional experience for Scrum classes, it lacks substantial exploration of Scrum concepts or frameworks.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -667,28 +568,31 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on configuring Microsoft Teams for virtual training, discussing technical setup and features, with no clear discussion of Scrum values.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Microsoft Teams, which is a collaboration tool, specifically for facilitating live virtual training, emphasizing features and setups that enhance communication and collaboration within a training environment.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams, a collaboration tool, for virtual training, which aligns well with the category. It discusses specific features and configurations that enhance communication and coordination within teams, directly addressing the use of collaboration tools in an Agile context. However, while it provides substantial detail on setup and features, it lacks broader discussions on best practices or comparisons with other tools, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training, without discussing organisational change strategies, frameworks, or practices.",
     "level": "Ignored"
   },
@@ -712,20 +616,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 10,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "The content primarily focuses on technical configuration details for Microsoft Teams, with minimal emphasis on customer satisfaction principles or strategies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses primarily on configuring Microsoft Teams for virtual training, which does not relate to scaling Scrum processes or frameworks. It lacks discussions on Scrum roles, events, or scaling challenges.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -748,10 +643,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Microsoft Teams and related Microsoft 365 services, with no mention or focus on Azure Boards or its functionalities in Agile project management.",
     "level": "Ignored"
   },
@@ -820,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training and does not discuss innovation or evidence-based management principles relevant to enhancing an organisation's capacity to innovate.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses configuring Microsoft Teams for virtual training, which is unrelated to Scrum product development principles, practices, and methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses primarily on configuring Microsoft Teams for virtual training and does not discuss scaling Agile practices or related frameworks.",
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training and does not discuss innovation or evidence-based management principles relevant to enhancing an organisation's capacity to innovate.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -883,10 +760,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on configuring Microsoft Teams for training, rather than on the delivery of functional software or software quality.",
     "level": "Ignored"
   },
@@ -1000,10 +877,10 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Microsoft Teams for virtual training, with mention of Azure Active Directory and Microsoft 365 subscriptions, but does not address Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
@@ -1018,21 +895,24 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the technical setup and configuration of Microsoft Teams for virtual training without discussing change management principles or strategies.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the setup and configuration of Microsoft Teams for virtual training, which indirectly relates to collaboration among team members in a training environment. However, the primary focus is on configuration rather than collaborative techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training rather than discussing team collaboration dynamics. While it mentions facilitating training for others, it lacks in-depth exploration of team communication, shared ownership, or trust-building strategies, which are core themes of the 'Team Collaboration' category.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1045,14 +925,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring Microsoft Teams and leveraging Microsoft 365 for training purposes, which aligns with digital tools used for enhancing business processes and operational efficiency. However, it primarily focuses on practical setup rather than a strategic approach to digital transformation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, which is a specific application of digital tools rather than a broader discussion on digital transformation strategies or impacts. While it touches on the use of digital technologies in training, it lacks a comprehensive exploration of how these technologies enhance business agility or foster innovation. The discussion is more operational and instructional, with limited emphasis on strategic implications or case studies related to digital transformation.",
+    "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T08:56:27",
     "ai_confidence": 0,
@@ -1061,23 +944,17 @@
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for virtual training and does not discuss Minimum Viable Product concepts or related strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on configuring Microsoft Teams for live virtual training and does not address AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration processes and methodologies for setting up Microsoft Teams, including Azure Active Directory and Microsoft 365 subscriptions, which are central to system configuration.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the configuration of Microsoft Teams for live virtual training, detailing specific tasks such as creating an Azure AD tenant, setting up a Microsoft 365 subscription, enabling guest access, and configuring external identities. It provides a comprehensive guide that aligns well with the core themes of system configuration, including best practices for software installation and configuration, configuration management, and security considerations. The depth of discussion is significant, with detailed steps and explanations, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,20 +976,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on configuring Microsoft Teams for virtual training and does not address cross-functional teams or their characteristics in Agile.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses entirely on configuring Microsoft Teams for live virtual training and does not discuss Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on configuring Microsoft Teams for virtual training, with no mention or discussion of Test First Development principles, practices, or related concepts. It does not address success criteria, testing methodologies, or any aspect of software development that aligns with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1135,29 +1015,32 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for live training, with no clear discussion on scaling Agile methodologies or related enterprise-level practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical setup and configuration of Microsoft Teams for training sessions and does not discuss team dynamics, engagement, or motivational strategies.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses configuring Microsoft Teams for live virtual training, which relates to remote work practices and tools, but primarily focuses on setup rather than specific Agile methodologies or collaboration strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, which is relevant to remote working. However, it lacks a direct discussion on Agile practices or methodologies, making it more of a general remote work guide rather than one specifically tailored to Agile remote working strategies. While it touches on tools and setup for remote collaboration, it does not delve into Agile-specific challenges or solutions.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
@@ -1171,12 +1054,12 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:38",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "Content primarily focuses on configuring Microsoft Teams for training with minimal mention of troubleshooting specific technical issues. While some potential issues are implied, the content does not center on diagnosis or resolution methods typical in troubleshooting contexts.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1189,11 +1072,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:24:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses configuring Microsoft Teams for virtual training, with only a brief mention of Professional Scrum classes, which does not focus on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, with only a brief mention of Scrum in the context of Professional Scrum Trainers. It lacks a detailed discussion on the role, responsibilities, or impact of a Scrum Master, and does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1207,20 +1093,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses configuring Microsoft Teams for live virtual training, focusing on technical setup and software features rather than working agreements or team collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses configuring Microsoft Teams for virtual training, focusing on setup and administrative tasks rather than the role of software developers in Agile or DevOps practices.",
+    "reasoning": "The content primarily discusses configuring Microsoft Teams for live virtual training, focusing on technical setup and software features rather than working agreements or team collaboration principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1270,10 +1147,10 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on configuring Microsoft Teams for virtual training, lacking discussions about self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -1297,10 +1174,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T08:56:27",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Microsoft Teams for virtual training and related topics, with only peripheral references to Azure Active Directory and Microsoft 365, but does not focus on Azure Repos or source control management.",
     "level": "Ignored"
   },
@@ -1329,15 +1206,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on configuring Microsoft Teams for virtual training and does not address accountability or team dynamics related to Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T08:56:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on configuring Microsoft Teams for virtual training and does not discuss Kanban principles, scaling Kanban, or related topics.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1369,11 +1237,454 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:05:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring Microsoft Teams for virtual training, which relates to collaboration and team dynamics, but it primarily focuses on technical setup rather than the core principles of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, lacking a direct discussion on collaboration, decision-making, or value delivery. While it touches on aspects of guest access and collaboration tools, these are presented in a technical context rather than as frameworks or methodologies that promote social technologies. The depth of discussion is more about technical procedures than the underlying social frameworks that drive collaboration and collective intelligence.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:07:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses configuring Microsoft Teams for virtual training, with no clear focus on Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:07:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses configuring Microsoft Teams for virtual training, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of facilitating training sessions but lacks a detailed discussion on Scrum principles, roles, or events. While it touches on the importance of configuration for Professional Scrum classes, it does not delve into the Scrum framework or its core themes, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, with no direct mention of the Shift-Left Strategy or its principles. While there are elements of preparation and setup that could tangentially relate to early integration of processes, the discussion lacks depth and does not address testing, security, or compliance in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, providing practical setup instructions rather than discussing Continuous Improvement principles. While there are elements of enhancing user experience, they do not align with the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-21T20:53:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, lacking any explicit discussion of Common Goals within Agile or DevOps frameworks. While it touches on the importance of preparation for effective training, it does not connect to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, which is more about tool usage than the development of competence. While it briefly touches on the importance of preparation for a good training experience, it lacks a deep discussion on continuous learning, skill development, or fostering a culture of competence, which are core themes of the category. The mention of 'Professional Scrum Trainer' hints at competence but does not explore it in detail.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, which does not align with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion revolves around specific tools and configurations rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of setup and user experience, it does not engage with the intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the concept of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on configuring Microsoft Teams for virtual training, with no direct mention of Hybrid Agile concepts or discussions around the integration of traditional project management with agile practices. The themes of Hybrid Agile, such as the challenges of merging methodologies or the impact on project delivery, are not present. Therefore, it aligns minimally with the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the technical setup and configuration of Microsoft Teams for virtual training, without any mention or discussion of Cell Structure Design or related concepts such as decentralized organizational models, Beta Codex principles, or the characteristics of autonomous cells. It does not align with the key topics or themes under the category, failing to address the principles or practices related to Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, rather than discussing any core principles related to Agile, Lean, or DevOps. While there are some mentions of creating a good experience for students (which could relate to value delivery), it does not explore actionable guiding rules or foundational beliefs that shape decision-making or team behavior. The discussion lacks depth in principle-focused content, thereby limiting its alignment with the 'Principle' category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on setting up and configuring Microsoft Teams for virtual training sessions, which is more about technical setup rather than project management methodologies, principles, or practices. While there is a slight mention of Scrum in the context of training, the overall depth and focus are not aligned with core project management discussions, such as project lifecycle phases, methodologies, or governance structures.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training and does not directly engage with the principles or practices of Open Space Agile. It lacks discussion on collaborative change processes, psychological safety, or agile transformations, which are key topics in the Open Space Agile category. The absence of relevant themes leads to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 36,
+    "ai_depth": 31,
+    "non_ai_confidence": null,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses configuring Microsoft Teams, which is an essential tool for facilitating virtual training. It provides a thorough overview of the necessary setup steps, features, and integrations within the Microsoft 365 ecosystem. The discussion includes practical applications of the tool in the context of training, thereby aligning well with the category of Tools. While the description does touch on educational methodologies, the focus remains clearly on the tool's configuration and capabilities, meeting the classification criteria effectively.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content centers around configuring Microsoft Teams for virtual training, which is not relevant to Liberating Structures. There are no explicit mentions or discussions of specific Liberating Structures methods, nor does it provide insights on enhancing team engagement or facilitation techniques aligned with the category. Although the context involves facilitating training, it does not discuss the facilitation tools or methodologies that exemplify Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Values",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the technical setup and configuration of Microsoft Teams for live virtual training, focusing on tools and methods rather than any underlying values or principles guiding behavior. It does not mention or explore concepts such as Agile Values, Scrum Values, Lean Thinking, or ethical foundations relevant to teamwork and collaboration, leading to a very low alignment with the category of 'Values.'",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on practical setup and configuration details for using Microsoft Teams in a training context, which falls squarely into technical implementation rather than philosophical discussion. There are no direct mentions of philosophical underpinnings or values related to Agile, DevOps, or Lean methodologies, and the depth of discussion is solely about workflows and processes.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for virtual training, lacking direct discussion or in-depth exploration of discipline as defined in the category. While it touches on training methodologies, it does not address the principles, continuous improvement, or the evolution of disciplines like Agile or DevOps. Hence, it does not fit the defined category of 'Discipline.'",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content is primarily focused on configuring Microsoft Teams for virtual training and discusses the required setup steps, tools, and subscriptions. It does not delve into the definition, role, or management of artifacts in Agile or related disciplines. Any mention of artifacts is very minimal and not the primary focus of the discussion.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on configuring Microsoft Teams for virtual training, which does not align with the principles or practices of observability in software systems. There are no discussions about metrics, logs, or traces, nor does it address team effectiveness or continuous improvement in the context of observability. The content is strictly centered on practical setup tasks and user experience rather than insights into system state measurement or observability tools.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content discusses the configuration of Microsoft Teams for virtual training but does not explicitly mention 'Time to Market.' The focus is on setup and operational aspects rather than on the efficiency of delivering value or any metrics related to Time to Market. There is minimal conceptual alignment, as the discussion does not address the speed of delivering market-ready products, nor does it provide strategies or metrics for improving Time to Market. Overall, while the setup can indirectly impact Time to Market in terms of enabling online training, the primary focus remains irrelevant to the defined category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 100.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for live virtual training, without discussing product development methodologies or practices. While there are mentions of facilitating a good experience for students, it lacks depth in concepts of Agile, iterative processes, or customer feedback mechanisms fundamental to product development. Therefore, it does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 7,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the setup and configuration of Microsoft Teams, which does not align with actionable practices aimed at improving team performance or collaboration. While there are mentions of processes (like creating an Azure AD Tenant and enabling guest access), the content does not provide in-depth discussions on techniques or habits that enhance team effectiveness or continuous improvement as specified in the category definition.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring Microsoft Teams for virtual training. It does not discuss the principles or strategies of treating a company as a product (CaaP), nor does it relate to customer-centric strategies or organisational design. While there may be tangential mentions of user experience, these are not aligned with the core themes of CaaP, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Method",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content provides detailed step-by-step instructions for configuring Microsoft Teams for virtual training, including specific tasks related to Azure AD and Microsoft 365 subscriptions. While these instructions are practical and detailed, the focus is more on setup and configuration procedures rather than on structured methods associated with Agile or Lean methodologies. The detail provided on individual tasks such as creating an Azure AD tenant and enabling guest access demonstrates significant depth, but the alignment with the 'Method' category is somewhat loose since it does not strictly adhere to Agile, Lean, or DevOps methods but is more centered around tool configuration.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical setup and configuration of Microsoft Teams for live training, lacking any discussions or insights into potential opportunities for unrealised value or improvements. Although it touches on collaboration capabilities, it does not explore unutilised potential in evidence-based management or strategic decision-making related to unrealised value.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on the technical setup and configuration of Microsoft Teams for live virtual training rather than discussing scaling methodologies or frameworks. While it touches on aspects of managing guest access and collaboration, it lacks explicit mentions of scaling principles or frameworks, and the depth of discussion remains superficial with a focus on tool configuration rather than enterprise-level scaling strategies.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Model",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training rather than discussing conceptual models or frameworks relevant to Agile, DevOps, or Lean. While there are references to Scrum, they are not in the context of models or frameworks. The discussion lacks any substantial analysis or application of models that inform decision-making or enhance organizational agility.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring Microsoft Teams for virtual training rather than discussing Current Value in the context of Evidence-Based Management. While it mentions the importance of setup for enhancing the learning experience, it does not provide metrics or insights related to customer satisfaction, revenue impact, or performance feedback, which are critical for evaluating Current Value. The content lacks depth, detailed discussion, or practical application related to the key topics outlined for Current Value.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses technical setup and configuration for Microsoft Teams without focusing on frameworks related to Agile, DevOps, or Lean principles. The mention of Professional Scrum Trainers aligns loosely with the Agile context, but the overall content lacks structured methodologies or the adaptability of frameworks, making it unsuitable for the 'Framework' category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content does briefly mention relevant tenets such as configuration and setup processes in Microsoft Teams for training, which can align with actionable guiding principles in education contexts. However, it lacks explicit discussion on guiding rules or doctrines specific to Agile, Lean, or DevOps methodologies. The focus is more on practical configuration rather than on discussions that would help shape decision-making and behaviors in an organizational context, thus resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T17:26:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content strictly focuses on Microsoft Teams setup and configuration for virtual training. There is absolutely no mention or relevance to GitHub services, functionalities, or discussions. The primary themes of GitHub, including version control, CI/CD pipelines, and collaboration features, are entirely absent from this content.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T17:26:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses primarily on configuring Microsoft Teams for virtual training and does not address Agnostic Agile principles, methodologies, or any comparisons with Agile frameworks. It lacks direct mentions, strong conceptual alignment, or depth relating to Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T17:26:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on the configuration and setup of Microsoft Teams for live virtual training. It lacks a discussion on enduring competencies or capabilities that empower teams and organizations, which is the core focus of the 'Capability' category. While tools and techniques related to Microsoft Teams are mentioned, there are no discussions about developing or embedding organizational capabilities, enhancing business agility, or continuous improvement practices. Thus, it only briefly touches on a tangential aspect of capability without being a primary focus.",
+    "level": "Ignored"
   }
 }

@@ -1,65 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T01:05:00",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) and Visual Studio, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T01:05:02",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in upgrading to TFS 2010 RTM, including tool configuration, installation processes, and best practices for managing the upgrade, which aligns well with the category focus.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a component of internal developer platforms. While it touches on aspects of platform engineering, such as configuration and integration with SharePoint, the focus is more on the upgrade procedure rather than a comprehensive discussion on platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) and Visual Studio, which is more focused on specific tools and their configurations rather than the broader principles of Platform Engineering. While it touches on aspects of developer productivity and server management, it lacks a comprehensive exploration of Internal Developer Platforms (IDPs) or the automation and self-service capabilities that characterise Platform Engineering. The discussion is more technical and procedural, which does not align closely with the core themes of the category.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:05:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and related technical details, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T01:05:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and related configurations, with no significant focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T01:05:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical details of upgrading TFS and does not discuss discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:05:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and does not relate to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2010, with no direct mention of Evidence-Based Management principles or metrics. It lacks discussions on data-informed decision-making or empirical evidence, which are central to the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:05:16",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the step-by-step process of upgrading from TFS 2010 RC to TFS 2010 RTM, detailing installation and configuration procedures, including uninstallation, installation, and configuration of various components. It provides actionable instructions and insights relevant to the installation and configuration of TFS, making it a clear fit for the category.",
+    "final_score": 92.0,
+    "reasoning": "The content provides a comprehensive step-by-step guide on upgrading from TFS 2010 RC to TFS 2010 RTM, detailing the installation and configuration processes. It explicitly mentions installation steps, configuration options, and troubleshooting tips, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, covering various aspects of the upgrade process, including system requirements, configuration best practices, and integration with SharePoint and build servers.",
     "level": "Primary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T01:05:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2010, focusing on technical steps and personal experiences rather than transparency and accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +71,17 @@
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2010 without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T01:05:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of upgrading TFS 2010, with no focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:05:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a key tool in DevOps practices, particularly in Continuous Integration and Continuous Delivery. It includes details about configuration, automation, and integration with other services like SharePoint, which are relevant to DevOps workflows.",
-    "level": "Secondary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS (Team Foundation Server) from one version to another, detailing steps and technical aspects of the installation and configuration. While TFS is a tool that can be used within a DevOps context, the content does not discuss the broader DevOps philosophy, principles, or practices such as collaboration, automation, or shared accountability. It lacks a focus on cultural shifts or continuous improvement, which are central to DevOps discussions.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010, focusing on technical implementations and procedures rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:05:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and does not focus on any events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T01:05:31",
@@ -159,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and related configurations, with no clear focus on flow efficiency principles or practices.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:05:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the technical aspects of upgrading TFS and Visual Studio, with minimal focus on human behaviour or team processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T01:05:41",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and related technical details, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,19 +148,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T01:05:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2010, detailing technical steps, configurations, and best practices, which aligns with engineering practices that enhance software delivery processes.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010, detailing steps and considerations for installation and configuration. While it touches on aspects of technical practices, such as the importance of backups and server configurations, it lacks a deeper exploration of methodologies like TDD, CI/CD, or modular architecture. The discussion is more operational than strategic, which diminishes its alignment with the core themes of Technical Excellence.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-16T01:05:46",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010, focusing on technical steps and procedures without reference to complexity science or its principles.",
     "level": "Ignored"
   },
@@ -235,19 +178,22 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T01:05:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2010, which is a critical aspect of product delivery, including installation, configuration, and testing phases. It provides practical insights into the methodologies and practices involved in delivering a software product effectively.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from a release candidate to a release to manufacturing version. While it touches on deployment and configuration, it lacks a broader discussion on methodologies, practices, or strategies that are central to product delivery. The details provided are more about the upgrade process rather than the overarching principles of delivering software products effectively.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T01:05:50",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and related technical details, with no clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
@@ -260,15 +206,6 @@
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and related technical details, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2010, which is a software product relevant to Agile and DevOps practices, but it primarily focuses on technical details rather than reviews or analyses of the product.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T01:05:54",
@@ -280,12 +217,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T01:05:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a key component of Azure DevOps, detailing installation, configuration, and integration with other services like SharePoint. It aligns well with Azure DevOps functionalities and practices.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the upgrade process from TFS 2010 RC to TFS 2010 RTM, which is a part of Azure DevOps services. It includes detailed steps on installation, configuration, and integration with SharePoint, which are relevant to Azure DevOps functionalities. The depth of discussion is significant, providing practical insights and experiences related to TFS, which is a core component of Azure DevOps. However, it lacks broader discussions on Azure DevOps methodologies or best practices, slightly affecting the overall alignment score.",
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -305,22 +245,25 @@
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010, focusing on technical steps and configurations without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T01:06:03",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and related tools, without a focus on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T01:06:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and does not focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) and does not discuss any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the transition from project to product ethos, which are core to the APOM category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +275,17 @@
     "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and related technical details, with no clear focus on organisational agility or its principles.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2010, which includes updates and insights relevant to the technology and tools used in Agile and DevOps practices. However, it primarily focuses on a technical tutorial rather than a review or news update.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:06:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2010, which is a key aspect of Application Lifecycle Management. It covers stages such as deployment and maintenance, as well as tools and practices related to managing the application lifecycle.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2010, which is a tool used in Application Lifecycle Management (ALM). It covers various stages of the application lifecycle, including installation, configuration, and testing, which are integral to managing software applications. The content also touches on best practices for upgrades and integration with other tools like SharePoint, aligning well with ALM principles. However, while it provides substantial detail on the upgrade process, it lacks a broader discussion on governance, compliance, and metrics, which are also key aspects of ALM.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:06:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server (TFS) and Visual Studio, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,38 +298,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading from TFS 2010 RC to RTM, including technical steps and configurations, without addressing the principles or criteria of a Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content focuses on upgrading processes for TFS 2010, technical considerations, and configurations, which aligns with software craftsmanship and engineering practices.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) from a release candidate to a release to manufacturing version. It discusses specific steps, configurations, and considerations for a successful upgrade, which aligns with the principles of software craftsmanship and engineering practices. However, while it provides a fair amount of detail, it lacks a broader discussion on best practices or methodologies that contribute to high-quality software development, which limits its depth in the context of Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process and technical details related to TFS 2010, without focusing on customer needs, product features, or discovery methodologies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses upgrading and configuring Team Foundation Server (TFS) rather than focusing on Continuous Delivery principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010 from RC to RTM, detailing steps and technical considerations. While it touches on aspects of deployment and configuration, it lacks a direct discussion on Continuous Delivery principles, practices, or the role of automation in testing and deployment. The content does not explore the cultural aspects or benefits of Continuous Delivery, nor does it provide case studies or tools related to Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the upgrade process of TFS 2010 without mentioning backlog items or the Definition of Ready criteria.",
     "level": "Ignored"
   },
@@ -451,10 +385,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the upgrade process from TFS 2010 RC to RTM, including installation steps and technical configurations, with no mention of a Product Backlog or Agile backlog management.",
     "level": "Ignored"
   },
@@ -487,19 +421,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses operational practices related to upgrading Team Foundation Server, including techniques for configuration, ensuring backups, and testing the server post-upgrade, all of which align with improving operational efficiency.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the technical steps involved in upgrading from TFS 2010 RC to TFS 2010 RTM, detailing the installation and configuration processes. While it touches on operational aspects such as ensuring backups and testing the server, it lacks a broader discussion on operational efficiency or methodologies like Agile, DevOps, or Lean. The practical steps provided do not delve into strategies for continuous improvement or process optimisation, which are key themes of the 'Operational Practices' category.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses upgrading Team Foundation Server and provides technical details, with no clear focus on Scrum Team dynamics, roles, collaboration, or practices specific to Scrum.",
     "level": "Ignored"
   },
@@ -523,10 +460,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of upgrading TFS and Visual Studio rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -550,19 +487,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses upgrading from TFS 2010 RC to TFS 2010 RTM, focusing on installation and configuration aspects without addressing automated testing principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrading process of TFS and Visual Studio without a clear focus on Agile team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -577,37 +514,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects and processes involved in upgrading Team Foundation Server, with no focus on Acceptance Test Driven Development or related practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily focuses on the upgrade process for Team Foundation Server (TFS) and associated software, discussing detailed steps, considerations, and best practices in the context of software development, deployment, and version control.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed account of upgrading from TFS 2010 RC to RTM, which is a specific software development process. It discusses various aspects of the upgrade process, including installation steps, configuration, and integration with other tools like SharePoint and Visual Studio. The content aligns well with key topics in software development, such as version control systems, continuous integration practices, and software deployment methodologies. The depth of discussion is significant, covering practical steps and considerations, which enhances its relevance to the Software Development category.",
     "level": "Primary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server 2010 (TFS) and its integration with Visual Studio and SharePoint, without reference to agile methodologies, principles, or practices.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server and Visual Studio, without focusing on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,28 +553,31 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses upgrading Team Foundation Server (TFS), which is a modern source control system, and includes detailed procedures related to source control configuration, integration, and migration. It covers aspects relevant to source control practices, making it a central topic.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2010, which is a modern source control system. It includes specific details about installation, configuration, and integration with other tools like SharePoint and Visual Studio. The mention of source control functionality, configuration of build services, and the upgrade process aligns well with the core themes of modern source control practices. However, while it provides a good level of detail, it lacks broader discussions on methodologies or best practices, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly focuses on upgrading Team Foundation Server and related technologies, which does not align with the principles or practices of empirical process control.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about upgrading TFS and does not discuss Scrum values or their principles.",
     "level": "Ignored"
   },
@@ -685,12 +619,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process from TFS 2010 RC to TFS 2010 RTM, indicating a focus on software releases and the steps involved, but it does not primarily delve into continuous delivery principles or frequent release strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade process from TFS 2010 RC to RTM, which implies a release but lacks a focus on the principles of frequent releases, continuous delivery, or deployment. While it mentions the upgrade process and some aspects of deployment, it does not delve into the broader themes of continuous improvement, user feedback integration, or the role of DevOps in facilitating frequent releases. The discussion is more about a specific upgrade rather than a culture of frequent releases.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -699,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical details and procedures for upgrading TFS and Visual Studio, with no focus on customer satisfaction principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2010 and Visual Studio, with no clear focus on Scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,23 +656,17 @@
     "reasoning": "Content primarily discusses technical aspects of upgrading TFS and Visual Studio without any mention of psychological safety or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on upgrading Team Foundation Server (TFS) and related technical processes, rather than on scaling agile practices or methodologies across teams or organizations.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server, which involves technical processes related to software development practices. However, the focus is more on operational aspects rather than a comprehensive discussion on engineering excellence principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010, detailing steps and technical considerations. While it touches on aspects of software craftsmanship, such as configuration and testing, it lacks a comprehensive discussion on broader engineering excellence principles, best practices, or continuous improvement methodologies. The emphasis is more on procedural execution rather than fostering a culture of excellence in software development.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -784,11 +706,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed, practical guide on upgrading to TFS 2010 RTM with specific steps, decisions made during the process, and strategies for testing and configuration. It discusses real-world application of Agile principles in the context of software development and project management, aligning closely with pragmatic thinking principles.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the practical steps involved in upgrading from TFS 2010 RC to RTM, detailing specific actions taken and considerations made during the process. While it does touch on aspects of problem-solving and decision-making in a technical context, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The practical nature of the content aligns somewhat with pragmatic thinking, but it does not delve deeply into the key topics outlined for this category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +727,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T01:39:34",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS from Beta to RTM, focusing on installation steps and technical details rather than innovation practices or measurement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrade process for Team Foundation Server (TFS) 2010 and is focused on technical aspects of software deployment, not specifically on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T01:39:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses exclusively on upgrading Team Foundation Server and Visual Studio, with no discussion of Agile methodologies, frameworks, or scaling Agile practices.",
+    "reasoning": "The content primarily discusses the upgrade process of TFS from Beta to RTM, focusing on installation steps and technical details rather than innovation practices or measurement of innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +754,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading Team Foundation Server and related configurations, with no focus on test automation principles, frameworks, or practices.",
     "level": "Ignored"
   },
@@ -865,11 +772,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses on the upgrade process for Team Foundation Server (TFS) 2010, discussing practical steps for ensuring the software is operational and functional. It includes details about testing the software and best practices for migration, which align with the principles of delivering working software.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2010, which is a software product, but it lacks a strong focus on the characteristics of working software as defined in Agile and Scrum frameworks. While it mentions testing and configuration, it does not delve deeply into best practices for ensuring software quality or the importance of customer feedback, which are key themes in the 'Working Software' category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -883,12 +793,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading and configuring Team Foundation Server (TFS), which is related to build services and CI tools. However, the focus is more on the upgrade process than on Continuous Integration principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2010, which is related to Continuous Integration but does not focus on the principles or practices of CI itself. While it mentions build services and testing, it lacks a comprehensive exploration of CI concepts, best practices, or tools. The discussion is more about installation and configuration rather than the integration of code changes or automated testing, which are core to CI.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -919,10 +832,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading from TFS 2010 RC to TFS 2010 RTM, which does not relate to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -937,10 +850,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the process of upgrading software and technical steps involved, rather than focused decision-making methodologies or principles.",
     "level": "Ignored"
   },
@@ -955,19 +868,22 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content is primarily about upgrading and managing the release of Team Foundation Server (TFS) 2010, which aligns closely with release management practices such as version control and the scheduling of software releases.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS) from a release candidate (RC) to a release to manufacturing (RTM) version. It discusses various aspects of the release management process, including planning, scheduling, and controlling the upgrade, which aligns well with the core themes of release management. The depth of discussion is significant, detailing steps taken during the upgrade, the importance of backups, and configuration checks, which are all critical elements of effective release management. However, while the content is rich in detail, it does not explicitly mention broader release management strategies or practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses upgrading TFS (Team Foundation Server) and associated technical details, with no focus on Product Owner responsibilities or related themes.",
     "level": "Ignored"
   },
@@ -1009,10 +925,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of upgrading Team Foundation Server, with no central focus on team collaboration or dynamics.",
     "level": "Ignored"
   },
@@ -1034,7 +950,7 @@
     "reasoning": "Content is primarily focused on upgrading and configuring Team Foundation Server (TFS) and does not discuss strategic adoption of digital technologies or business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T01:39:35",
     "ai_confidence": 0,
@@ -1043,30 +959,24 @@
     "reasoning": "Content is primarily focused on the upgrade process of Team Foundation Server and Visual Studio rather than on discussions related to Minimum Viable Product (MVP) development or validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content mainly focuses on upgrading Team Foundation Server and does not discuss AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the processes involved in upgrading and configuring Team Foundation Server (TFS) from an earlier version to the Release to Manufacturing (RTM) version, including specific configuration steps, best practices, and troubleshooting common issues related to this system upgrade.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the process of upgrading and configuring Team Foundation Server (TFS) from a previous version to the latest release. It discusses specific steps taken during the upgrade process, including uninstalling old versions, installing the new version, and configuring settings for optimal performance. The detailed breakdown of tasks, such as taking snapshots, checking backups, and configuring SharePoint integration, aligns closely with the key topics of system configuration. The depth of discussion is substantial, providing practical insights and best practices for system setup and management.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation details and upgrading processes for TFS 2010, which does not align with discussions on product strategy.",
     "level": "Ignored"
   },
@@ -1099,29 +1009,38 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content is primarily about upgrading Team Foundation Server, with no significant discussion on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010 and does not discuss Test First Development principles, success criteria, or testing practices. There are no explicit mentions of Test First methodologies, and the overall discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily focuses on upgrading Team Foundation Server (TFS) in a Windows environment, outlining installation and configuration processes which are closely related to Windows operating system management.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the upgrade process of Team Foundation Server (TFS) 2010, which is closely tied to the Windows operating system environment, particularly in the context of installation and configuration. It discusses specific procedures for uninstalling and installing software on Windows servers, as well as considerations for running TFS in a Hyper-V virtual environment, which is a Windows feature. The depth of discussion is significant, covering detailed steps and troubleshooting related to the Windows environment. However, while it is heavily focused on Windows, it does not explicitly mention Windows as a primary topic, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) and related components, which involves methodologies for deploying and configuring software in a production environment. However, it also includes significant details that may relate more broadly to software installation and setup practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the upgrade process of TFS 2010, which includes some aspects of deployment strategies, such as taking backups, uninstalling previous versions, and installing the new version. However, it lacks a comprehensive focus on specific deployment methodologies like Blue-Green Deployments or Canary Releases. The discussion is more about the upgrade process rather than strategic deployment practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1135,21 +1054,24 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of upgrading from TFS 2010 RC to TFS 2010 RTM, including installation steps and configurations, without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the configuration and setup of Team Foundation Server, which can support remote developers, but the primary focus is on technical upgrade procedures rather than remote working practices or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) and does not explicitly discuss remote working practices or Agile methodologies. While there are brief mentions of remote developers and configurations that may support remote work, these are not the main focus of the content. The discussion lacks depth in terms of strategies, tools, or best practices specifically related to remote working in an Agile context.",
+    "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1162,11 +1084,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses specific steps and procedures related to upgrading TFS 2010, including checking backups, uninstalling old versions, installing new ones, and testing configurations, which directly relate to identifying and resolving issues during software upgrades.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the process of upgrading from TFS 2010 RC to TFS 2010 RTM, detailing steps taken and issues encountered during the upgrade. While it does mention troubleshooting aspects, such as checking backups and addressing potential errors, the overall emphasis is more on the upgrade process rather than systematic problem-solving or methodologies for diagnosing issues. Therefore, while there is some relevant content, it does not fully align with the core themes of the Troubleshooting category.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1105,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:39:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses upgrading Team Foundation Server and installation procedures, without reference to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2010 and does not mention the role or responsibilities of a Scrum Master. There are no references to Scrum principles, team dynamics, or coaching techniques, which are essential for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1126,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses upgrading procedures for TFS and Visual Studio, but does not address working agreements, team norms, or collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading Team Foundation Server (TFS), which relates to software development practices and tools. However, it primarily focuses on the upgrade process rather than the role of developers in Agile and DevOps practices.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,12 +1144,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a technical topic relevant to software engineering and practices, but does not predominantly focus on core Agile engineering practices like clean code, TDD, or CI/CD.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010, which is more related to deployment and configuration rather than core engineering practices like clean code, TDD, or CI/CD. While there are mentions of testing and configuration, these are not explored in depth or tied back to Agile engineering principles. The discussion lacks a strong emphasis on methodologies or practices that enhance collaboration and code quality.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1252,10 +1174,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on technical implementation details of upgrading TFS 2010, which does not align with the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1288,12 +1210,12 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:19",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "Content primarily discusses upgrading Team Foundation Server (TFS) and related installation processes, with limited direct focus on Azure Repos functionalities or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1306,19 +1228,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS and Visual Studio 2010, with no clear connection to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-16T01:39:35",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a specific upgrade process for TFS 2010, with no clear focus on trend analysis in Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
@@ -1329,15 +1251,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of upgrading software and does not address the principle of accountability in Agile teams.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T01:39:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on upgrading Team Foundation Server and does not discuss Kanban principles, scaling, or related topics.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1351,20 +1264,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T01:39:36",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process and configuration of Team Foundation Server (TFS) and Visual Studio 2010, with no clear focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:59:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-19T18:43:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2010 and related technical details, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading Team Foundation Server (TFS) and does not discuss social technologies, collaboration, or decision-making frameworks. While it mentions some interactions with team members, these are not explored in the context of social technologies or their impact on organisational culture or behaviour.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1290,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details and processes related to upgrading TFS, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 50.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS), which is a component of an Internal Developer Platform, but it does not focus on the broader concepts or benefits of an IDP.",
+    "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:32:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of Team Foundation Server and Visual Studio, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the upgrade process for Team Foundation Server (TFS) and Visual Studio, with no direct mentions of Scrum principles, roles, events, or artifacts. While it touches on project management tools, it does not align with the core themes of Scrum or provide any depth in discussing Scrum practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2010 and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it mentions testing in the context of ensuring the server works post-upgrade, this is not aligned with the proactive integration of testing and security earlier in the development lifecycle as defined by the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading from TFS 2010 RC to RTM, with minimal discussion on Continuous Improvement principles. While there are mentions of updates and improvements, they are not framed within the context of a Continuous Improvement culture or methodology. The content lacks depth in discussing strategies, empirical evidence, or case studies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-03-22T08:58:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading from TFS 2010 RC to RTM, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it touches on aspects of project management and team collaboration, these are not connected to the foundational principles of Common Goals, such as alignment of strategy and execution. The content lacks depth in discussing shared objectives or techniques for ensuring team alignment with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS 2010, with minimal reference to competence or skill development. While it discusses the importance of following procedures and checks during the upgrade, it does not delve into continuous learning, team trust, or professional development, which are core themes of the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading TFS 2010, with no explicit discussion of Agentic Agility or its principles. While there are mentions of decision-making and configuration, these do not align with the core themes of intentionality and agency in the context of agility.",
     "level": "Ignored"
   }
 }

@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to WPF threading and does not address Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T12:11:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to WPF threading and does not focus on products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T12:11:22",
@@ -53,49 +44,16 @@
     "reasoning": "Content heavily discusses technical issues related to WPF threading and does not address decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T12:11:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to WPF threading and references a blog post, with no mention of events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:11:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF threading issues and solutions, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T12:11:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical issues related to WPF threading and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:11:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF threading issues and solutions, which are not related to DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T12:11:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses WPF threading issues and solutions, with no relevance to AI or Agile methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on WPF threading and multi-threading solutions in .NET, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content does not provide depth or detail related to DevOps, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +76,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:11:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses WPF threading issues and solutions, with no relevance to Agile Product Operating Model principles or practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T12:11:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific problem related to WPF threading and a solution found in an external blog, without a focus on Agile or DevOps practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on WPF threading solutions and multi-threading skills in .NET, with no mention or relevance to the Agile Product Operating Model or its principles. It does not discuss any aspects of product management, agile methodologies, or the transition from project to product ethos, which are central to the category.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,10 +106,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:11:40",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses multi-threading issues in WPF and references external articles, lacking focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -172,29 +124,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:11:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses WPF threading issues and solutions, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T12:11:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific problem related to multi-threading in WPF, without addressing broader themes of code quality or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T12:11:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to WPF threading and a specific blog post, lacking a focus on industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on WPF threading solutions and multi-threading skills in .NET, with no direct mention or discussion of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery, and lacks any depth related to the category.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,19 +172,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T12:11:51",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to WPF threading and does not address metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T12:11:52",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses WPF threading issues and solutions, which are not related to the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -278,15 +215,6 @@
     "reasoning": "Content primarily discusses a technical issue related to WPF threading and does not focus on personal experiences or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T12:11:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to WPF threading and does not focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T12:12:00",
@@ -294,15 +222,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses WPF threading issues and solutions, with no mention of Azure DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T12:12:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses WPF threading issues and solutions, with no focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +240,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses multi-threading in WPF and does not address Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T12:12:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to WPF threading and does not focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -442,12 +352,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses multi-threading within the context of WPF, highlighting the importance of technical solutions and best practices in software development, but it primarily focuses on personal experiences and external resources.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions a specific technical issue related to multi-threading in WPF and references an external article that provides a solution. However, it lacks a detailed discussion on best practices, principles, or methodologies that contribute to software craftsmanship. The focus is more on personal experience and finding a solution rather than a comprehensive exploration of technical mastery.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -467,7 +380,7 @@
     "reasoning": "Content heavily discusses WPF threading and individual programming solutions, with no connection to large scale Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:01:30",
     "ai_confidence": 0,
@@ -483,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses multi-threading in WPF and does not relate to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses solely on WPF threading and technical issues related to multi-threading in programming, with no relevance to Agile Project Management concepts.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -577,10 +481,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T18:01:30",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about WPF threading and multi-threading solutions, with no mention of remote working or Agile practices.",
     "level": "Ignored"
   },
@@ -665,24 +569,6 @@
     "reasoning": "Content primarily discusses technical issues related to WPF threading and does not address estimation practices within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF threading issues and a solution from a blog, without addressing Agile, DevOps, or relevant methodologies in software development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on multi-threading issues in WPF and does not discuss AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T18:01:30",
@@ -721,11 +607,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to multi-threading in WPF, which is relevant to software development, but it is more of a personal experience and problem-solving narrative rather than a deep exploration of methodologies or practices in software development.",
+    "reasoning": "The content discusses a specific problem related to multi-threading in WPF, which is a software development topic. However, it primarily focuses on a personal experience and a solution found in an external blog rather than providing in-depth discussion on software development methodologies or best practices. The mention of multi-threading aligns with software development concepts, but the overall depth and focus on personal experience limit the confidence score.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
@@ -735,15 +624,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on WPF threading issues and solutions, which are unrelated to Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses WPF threading and multi-threading issues, which are unrelated to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +664,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:01:30",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a problem and solution related to WPF threading, which does not align with the Ability to Innovate category. It focuses on a specific technical issue rather than measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
@@ -883,11 +763,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses WPF multi-threading issues, not related to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and multi-threading skills in .NET, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is entirely centred on threading issues, making it irrelevant to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -901,10 +784,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T18:01:30",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to WPF threading and a specific solution found in an external blog, not focusing on the delivery of functional software or its alignment with user requirements.",
     "level": "Ignored"
   },
@@ -998,15 +881,6 @@
     "reasoning": "Content is focused on WPF threading issues and solutions, which is unrelated to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on WPF threading issues and solutions, with no relevance to Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
     "calculated_at": "2025-02-16T18:01:30",
@@ -1045,11 +919,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses WPF threading issues and does not address Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and multi-threading skills in .NET, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1153,10 +1030,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T18:01:30",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to WPF and multi-threading, which is unrelated to working agreements or team collaboration.",
     "level": "Ignored"
   },
@@ -1214,31 +1091,28 @@
     "reasoning": "Content primarily discusses multi-threading issues in WPF and does not address deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on WPF threading and does not address Scrum principles, roles, or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific problem with multi-threading in WPF and describes the process of finding a solution, which aligns well with troubleshooting techniques.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses a specific problem related to multi-threading with ObservableCollection in WPF, which aligns with troubleshooting. However, it primarily focuses on the author's experience and the solution found in an external blog rather than providing in-depth methodologies or techniques for diagnosing and resolving issues. The mention of seeking a solution indicates a troubleshooting context, but the overall depth and detail are limited.",
     "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on WPF threading and technical implementation details, with no relevant discussion on the Scrum Master role.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on WPF threading solutions and does not mention the Scrum Master role or any related concepts. It lacks any discussion on Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1144,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:01:30",
+    "calculated_at": "2025-04-10T15:56:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on WPF threading issues and solutions, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1158,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on WPF multi-threading issues and does not address Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on WPF and threading issues, which are unrelated to Scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1196,6 @@
     "reasoning": "Content focuses on WPF threading and individual problem-solving related to multi-threading with ObservableCollection, without discussing system configuration principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:01:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses WPF threading issues and does not relate to scaling agility practices or methodologies.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T18:01:30",
@@ -1360,11 +1216,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:07:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses WPF threading issues and solutions, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and multi-threading skills in .NET, with no direct discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1233,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to WPF threading and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:41:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses WPF threading issues and solutions, with no mention of Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:41:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses WPF threading and does not relate to AI in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses WPF threading issues and does not mention Scrum or its principles, roles, events, or practices. There is no alignment with Scrum concepts, and the depth of discussion is entirely focused on a technical problem unrelated to Scrum.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to WPF threading and does not mention or align with the principles of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance earlier in the development process, nor does it provide any insights into the benefits or methodologies associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and does not discuss Continuous Improvement principles. While it mentions learning from expert insights, it lacks a direct connection to the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and personal experiences with multi-threading in .NET, which does not relate to the concept of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any relevant themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and multi-threading skills in .NET, which are technical skills rather than discussions on competence in the context of Agile, Scrum, or DevOps. While there is a mention of enhancing skills, it lacks a direct discussion on continuous learning, professionalism, or the broader implications of competence within teams or organisations.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on WPF threading solutions and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and specific to multi-threading in .NET, lacking any connection to the themes of agency or agility.",
     "level": "Ignored"
   }
 }

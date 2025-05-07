@@ -8,58 +8,25 @@
     "reasoning": "The content primarily discusses personal experiences and opinions regarding Windows Phone 8.1, with no focus on Agile principles or product management practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T10:38:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its apps, without focusing on practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T10:38:25",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its features, with no clear focus on platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T10:38:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions regarding Windows Phone 8.1, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T10:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its features, with no focus on software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the excitement of discovering new technology and the process of upgrading to Windows Phone 8.1, which touches on themes of experimentation and user feedback. However, the primary focus is on personal experiences and technical details rather than a structured exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T10:38:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its features, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, with no direct mention of Evidence-Based Management principles or metrics. It lacks any empirical evidence or data-informed decision-making discussions, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T10:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides a step-by-step guide on how to upgrade to Windows Phone 8.1 Developer Preview, which aligns with installation and configuration processes.",
+    "final_score": 68.0,
+    "reasoning": "The content provides a step-by-step guide on how to upgrade to Windows Phone 8.1 Developer Preview, which aligns with the installation aspect of the category. However, the majority of the content focuses on personal experiences and opinions about the Windows Phone ecosystem rather than detailed technical instructions or configuration best practices. While it does mention some troubleshooting issues, the overall depth of discussion on installation and configuration is moderate, leading to a confidence score that reflects a primary focus but not an exhaustive treatment of the topic.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T10:38:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone 8.1, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its features, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T10:38:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions regarding Windows Phone and its features, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T10:38:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its features, with no focus on DevOps principles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, with no explicit mention of DevOps principles, practices, or cultural shifts. It lacks any discussion on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The focus is on technology and user experience rather than the integration of people and processes in a DevOps context.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses personal experiences and opinions regarding Windows Phone and its features, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T10:38:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone 8.1, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T10:38:44",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its features, with no focus on flow efficiency or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T10:38:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its features, with no significant focus on team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T10:38:49",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its features, with no focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses personal experiences and opinions regarding Windows Phone and its features, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T10:39:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions about Windows Phone and its features, rather than providing reviews or analyses of products or literature related to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T10:39:02",
@@ -289,12 +217,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on using Windows Phone, but the primary focus is on the technical aspects of the device and its features.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses personal experiences and reflections on using Windows Phone, which aligns with the Personal category. However, it lacks a strong connection to Agile, Scrum, or DevOps themes, and the depth of discussion on personal insights is limited. While there are mentions of personal anecdotes, they do not significantly contribute to the broader themes outlined in the category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -305,22 +236,25 @@
     "reasoning": "Content primarily discusses personal experiences and opinions regarding Windows Phone and its features, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T10:39:07",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and opinions regarding Windows Phone 8.1, with no relevance to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T10:39:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and opinions regarding Windows Phone 8.1, with no relevance to Agile principles or product operating models.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences and features related to Windows Phone 8.1, with no direct mention or alignment to the Agile Product Operating Model. It lacks any discussion on agile methodologies, product management principles, or the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +266,6 @@
     "reasoning": "Content primarily discusses personal experiences and opinions regarding Windows Phone and its features, with no focus on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade to Windows Phone 8.1 and provides personal insights and experiences, which aligns with the review aspect of the category. However, it primarily focuses on personal anecdotes and opinions rather than broader industry news or trends.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T10:39:13",
@@ -348,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and opinions regarding Windows Phone and its applications, with no focus on application lifecycle management methodologies, practices, or tools.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T10:39:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal experiences and opinions regarding Windows Phone 8.1, with no mention of Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +286,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:16:36",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, without any mention of the Definition of Done in Agile or Scrum contexts.",
     "level": "Ignored"
   },
@@ -388,20 +304,23 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T20:16:36",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on personal experiences with Windows Phone and its features, rather than discussing methodologies or practices related to product discovery.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:16:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with upgrading to Windows Phone 8.1 and does not touch on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the personal experience of upgrading to Windows Phone 8.1 and does not focus on Continuous Delivery principles, practices, or benefits. While it mentions updates and features, it lacks a structured discussion on automation, incremental improvements, or user feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +334,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T20:16:36",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses personal experiences and opinions regarding Windows Phone 8.1, its features, and the update process, without any significant focus on Lead Time as a measure of time from work initiation to delivery.",
     "level": "Ignored"
   },
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:16:36",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses personal experiences and opinions regarding Windows Phone and its updates, without any reference to the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -469,10 +388,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T20:16:36",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal experiences and features related to Windows Phone, with no mention or relevance to Value Stream Mapping or Lean management principles.",
     "level": "Ignored"
   },
@@ -593,21 +512,12 @@
     "reasoning": "The content primarily discusses personal experiences with Windows Phone and its apps rather than focusing on software development techniques or methodologies.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal experiences and features related to Windows Phone and does not touch on Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:16:37",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and opinions related to Windows Phone and its features, with no mention of Agile values or principles.",
     "level": "Ignored"
   },
@@ -685,12 +595,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade to Windows Phone 8.1 and mentions the concept of a 'Developer Preview,' which implies a continuous delivery of updates and improvements. However, the main focus is on personal experiences with the system rather than systematic practices of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade process to Windows Phone 8.1 and mentions the concept of a 'Developer Preview', which implies a form of frequent updates. However, the primary focus is on personal experiences and opinions rather than a structured discussion on the principles or practices of frequent releases. The content lacks depth in discussing continuous delivery or deployment strategies, and while it touches on user feedback and issues encountered during updates, it does not provide a comprehensive analysis of frequent release methodologies.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -699,15 +612,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses personal experiences and opinions about upgrading to Windows Phone 8.1 and its features, without focusing on customer satisfaction principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Windows Phone and personal experiences with mobile technology, which is unrelated to Scaling Scrum.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -726,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and features related to Windows Phone 8.1, with no direct relation to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with Windows Phone and its features, with no relevance to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:16:37",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on personal experiences and opinions regarding Windows Phone 8.1 and does not address the measurement or improvement of innovation capabilities in organizations.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses personal experiences and features of the Windows Phone and does not relate to Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences and features related to Windows Phone, with no relevance to Scaled Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,12 +742,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading to Windows Phone 8.1 and mentions several issues with the software, indicating some aspects related to working software, but the primary focus is on personal experiences and opinions rather than systematic discussions on working software delivery or practices.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses personal experiences and opinions regarding Windows Phone and its updates, rather than focusing on the delivery of functional software that meets user needs. While it mentions the upgrade process and some issues encountered, it lacks a structured discussion on software quality, customer feedback, or best practices in software development.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -892,10 +772,10 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-15T20:16:37",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss market share, competitive advantage, or strategies for increasing market presence; rather, it focuses on personal experiences and features of Windows Phone 8.1.",
     "level": "Ignored"
   },
@@ -955,12 +835,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses upgrading to Windows Phone 8.1 Developer Preview, which involves aspects of release processes, such as planning and issues encountered after updates. However, the overarching theme is more about personal experiences with the phone and apps rather than focused strategies in release management.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, with minimal direct discussion of release management practices. While it mentions the process of upgrading to a new version, it lacks depth in discussing strategies, planning, or coordination typically associated with release management. The content does not align with the core themes of release management, such as version control, risk management, or CI/CD practices.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -973,10 +856,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T20:16:37",
+    "calculated_at": "2025-04-10T15:55:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the author's experience with Windows Phone and mobile applications, with no focus on Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1034,7 +917,7 @@
     "reasoning": "Content primarily discusses personal experiences and features of the Windows Phone 8.1 and does not align with strategic discussions on digital transformation, business agility, or the integration of digital technologies within organizations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:16:37",
     "ai_confidence": 0,
@@ -1043,23 +926,17 @@
     "reasoning": "Content primarily discusses personal experiences and features of Windows Phone 8.1, not Minimum Viable Product development or related topics.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses personal experiences and features of Windows Phone 8.1 and its applications, without any mention or focus on AI methodologies, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses upgrading to the Windows Phone 8.1 Developer Preview, including steps for installation and mentions of updates. While this involves some aspects of system configuration, the broader narrative focuses more on personal experiences and opinions rather than technical configuration processes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses upgrading to Windows Phone 8.1 and provides a step-by-step guide for obtaining the developer preview. While it touches on aspects of system configuration, such as the update process and potential issues encountered, the primary focus is on personal experiences and opinions regarding the operating system rather than a detailed exploration of system configuration methodologies or best practices. The discussion lacks depth in technical aspects and does not cover broader configuration management or optimisation strategies.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,21 +976,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses personal experiences and opinions about Windows Phone 8.1 and does not address Test First Development or related concepts.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, with no direct mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses upgrading to Windows Phone 8.1, mentioning installation details, features, and issues related specifically to Windows Phone, which is directly related to the Windows operating system.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses Windows Phone 8.1, including installation procedures, features, and troubleshooting issues, which aligns well with the Windows category. It provides detailed insights into the upgrade process, user experience, and specific problems encountered, demonstrating a strong focus on the Windows operating system. The mention of Windows Phone as a platform and its comparison with other operating systems further reinforces its relevance to the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1162,11 +1045,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses various issues encountered while using the Windows Phone 8.1 Developer Preview, indicating a primary focus on diagnosing and resolving technical problems, such as bugs in Facebook and Skype.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses issues encountered while upgrading to Windows Phone 8.1, such as problems with Facebook posting and Skype not starting, which aligns with troubleshooting. However, the primary focus is on personal experiences and opinions about the upgrade rather than a systematic approach to diagnosing and resolving technical issues. The depth of discussion on troubleshooting is moderate, as it lists specific problems but lacks detailed methodologies or tools for resolution.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1066,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:46:50",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses personal experiences and technical details about Windows Phone, with no relation to Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss any responsibilities, skills, or impacts associated with the Scrum Master role, nor does it touch on agile principles or team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1092,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal experiences and opinions on Windows Phone and related apps, with no focus on working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences with Windows Phone 8.1 and various applications rather than topics related to software development, Agile, or DevOps practices.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1211,6 @@
     "reasoning": "Content focuses on personal experiences with Windows Phone 8.1 and its features, lacking any discussion of accountability, team dynamics, or ownership in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences with Windows Phone and its features, which is unrelated to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T20:16:37",
@@ -1369,11 +1240,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:13:05",
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, with little to no discussion on social technologies, collaboration, or decision-making frameworks. While there are brief mentions of social media apps, they do not align with the core themes of social technologies as defined in the category. The content lacks depth in discussing any methodologies or frameworks that promote collaboration or enhance decision-making within organisations.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal experiences and features of Windows Phone 8.1, with no relevance to Internal Developer Platforms or their associated topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:14:20",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses personal experiences and opinions regarding Windows Phone and its apps, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses personal experiences and features of Windows Phone 8.1, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences and opinions regarding Windows Phone 8.1, with no direct mentions or relevant discussions about Scrum principles, roles, events, or practices. The focus is on technology and personal anecdotes rather than project management frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences and opinions regarding Windows Phone 8.1, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy, which focuses on integrating critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, with no substantial discussion on Continuous Improvement principles. While there are mentions of updates and features, they do not align with the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, lacking any discussion on shared objectives, alignment, or strategic goals relevant to Agile or DevOps frameworks. It does not address the principles of Common Goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, with no explicit discussion of competence, continuous learning, or skill development. While there are mentions of technology and updates, these do not align with the core themes of competence as defined in Agile, Scrum, DevOps, and Lean methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences and opinions regarding the Windows Phone 8.1 Developer Preview, lacking any explicit discussion of Agentic Agility. While there are mentions of technology and updates, the themes of intentional shaping of outcomes, autonomy, and adaptability in socio-technical environments are not addressed. The content does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems in a meaningful way.",
     "level": "Ignored"
   }
 }

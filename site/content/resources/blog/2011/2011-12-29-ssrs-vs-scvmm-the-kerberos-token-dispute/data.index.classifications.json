@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T21:41:30",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses specific technical issues and solutions related to the installation and configuration of TFS and SCVMM, which involves practical techniques and tooling in a DevOps context. However, the primary focus is on troubleshooting rather than a broader exploration of methodologies or frameworks.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:41:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installation and configuration, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T21:41:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation and configuration issues related to TFS and SCVMM, focusing on infrastructure and authentication problems rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T21:41:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM setup, focusing on specific problems and solutions without exploring broader themes of discovery or learning.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T21:41:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM setup, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM installations, focusing on Kerberos authentication problems. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or data-informed decision-making insights.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:41:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS and Lab Management, detailing specific issues encountered during the setup process and providing actionable insights for resolving them.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T21:41:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM setup, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 85.0,
+    "reasoning": "The content provides a detailed account of the installation and configuration processes for TFS and Lab Management, including specific hardware setups, server configurations, and troubleshooting steps for common issues like SPN errors. It directly addresses installation challenges and configuration best practices, aligning well with the key topics of the category. The depth of discussion is significant, as it covers multiple problems encountered during the setup and offers solutions, demonstrating a strong focus on the technical aspects of installation and configuration.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installations without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T21:41:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installations, focusing on authentication problems and system configurations, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation and configuration of TFS and SCVMM, which are relevant to DevOps practices, but the primary focus is on troubleshooting specific issues rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, focusing on Kerberos authentication problems and server configurations. While it touches on aspects of automation and collaboration in a DevOps context, these are not the main focus. The discussion lacks depth in core DevOps principles and does not explicitly address the cultural or philosophical aspects of DevOps, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installations, focusing on specific problems and solutions rather than decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T21:41:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and configurations related to TFS and SCVMM, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T21:41:56",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS, SCVMM, and Kerberos authentication, with no focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T21:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS, SCVMM, and Kerberos authentication without a focus on team dynamics, collaboration, or human factors in processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T21:42:01",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installation and configuration, with no focus on metrics, data utilisation, or learning principles.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical issues related to TFS, SCVMM, and Kerberos authentication, which touches on engineering practices and methodologies. However, the primary focus is on troubleshooting specific problems rather than broader engineering practices or methodologies that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses specific technical issues related to the installation and configuration of TFS and SCVMM, touching on aspects of system architecture and authentication protocols like Kerberos. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it mentions technical challenges and solutions, it does not delve deeply into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,20 +193,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T21:42:12",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS, SCVMM, and Kerberos authentication, with no focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T21:42:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and configurations related to TFS and SCVMM, without focusing on specific products or literature relevant to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -280,11 +211,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T21:42:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS (Team Foundation Server) and its integration with other services like SCVMM and Reporting Services, which are part of the Azure DevOps ecosystem.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of Azure DevOps, but it primarily focuses on specific technical issues related to installation and configuration rather than providing a comprehensive overview or best practices associated with Azure DevOps as a whole. While there are mentions of TFS and its components, the depth of discussion is more about troubleshooting and specific configurations rather than broader Azure DevOps functionalities or methodologies.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,22 +239,25 @@
     "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installations, focusing on specific problems and solutions rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T21:42:19",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installations, focusing on specific problems and solutions rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:42:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installation and configuration, with no focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, focusing on Kerberos authentication problems and server configurations. It does not mention or align with the Agile Product Operating Model or its principles, nor does it provide any depth on agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +269,13 @@
     "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installations, focusing on authentication and configuration problems rather than organisational agility or adaptability.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T21:42:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to TFS and SCVMM, lacking a focus on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T21:42:25",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installation and configuration, without a clear focus on the application lifecycle management processes or methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:42:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS, SCVMM, and Reporting Services, with no clear focus on Scrum principles, roles, events, or practices.",
+    "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installation and configuration, without a clear focus on the application lifecycle management processes or methodologies.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +289,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T22:41:47",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses technical issues related to TFS and SCVMM, focusing on installation problems and Kerberos authentication rather than the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T22:41:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content thoroughly discusses technical issues related to configuring TFS, SCVMM, and Reporting Services, including best practices and lessons learned during the installation process. It emphasizes technical details and problem-solving related to software architecture and configuration, which aligns closely with the Technical Mastery category.",
+    "reasoning": "The content discusses specific technical issues related to the installation and configuration of TFS and SCVMM, including authentication problems with Reporting Services and Kerberos. While it touches on technical aspects, such as service accounts and SPNs, the focus is more on troubleshooting and personal experiences rather than a comprehensive exploration of best practices or principles of software craftsmanship. Therefore, while there is some alignment with the category, it lacks depth and a primary focus on technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +319,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:41:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and configurations related to TFS, SCVMM, and Reporting Services, with no mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, focusing on Kerberos authentication problems and server configurations. It does not address Continuous Delivery principles, practices, or benefits, nor does it explore automation, rapid feedback, or cultural aspects related to Continuous Delivery. The mention of TFS and Lab Management is tangential and does not constitute a primary focus on Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +340,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T22:41:47",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM configurations, focusing on service accounts and Kerberos authentication, without addressing lead time or its measurement.",
     "level": "Ignored"
   },
@@ -433,19 +358,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T22:41:47",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to TFS and SCVMM installations and Kerberos authentication, but does not mention or relate to the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T22:41:47",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to TFS, SCVMM, and RS configurations without any focus on portfolio management or alignment with organizational strategy.",
     "level": "Ignored"
   },
@@ -478,10 +403,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical issues related to TFS server configurations and Kerberos errors, with no discussion of customer feedback mechanisms.",
     "level": "Ignored"
   },
@@ -550,10 +475,10 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS (Team Foundation Server) configuration, Reporting Services, and Kerberos authentication, with no clear focus on automated testing principles or practices.",
     "level": "Ignored"
   },
@@ -577,37 +502,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on setup and configuration issues related to TFS and SCVMM rather than Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses the installation and configuration of Team Foundation Server (TFS), Lab Management, and System Centre Virtual Machine Manager (SCVMM), which are integral to the software development lifecycle. It covers specific issues related to reporting services authentication and service principal names (SPNs) necessary for secure connections in a software development context.",
+    "reasoning": "The content discusses specific technical issues related to the installation and configuration of TFS (Team Foundation Server) and SCVMM (System Centre Virtual Machine Manager), which are relevant to software development practices, particularly in the context of CI/CD and infrastructure management. However, while it touches on software development tools and practices, the focus is more on troubleshooting and infrastructure rather than broader software development methodologies or best practices. The depth of discussion is moderate, primarily addressing specific problems rather than providing a comprehensive overview of software development principles.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the configuration and operational issues related to TFS, SCVMM, and Reporting Services without any mention of Agile principles, methodologies, or project management practices.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical issues surrounding TFS and SCVMM, with no clear discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -694,20 +613,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM setup and troubleshooting, without any focus on customer satisfaction or customer experience.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content is primarily focused on installation and configuration issues related to TFS, SCVMM, and Active Directory, with no discussion of Scrum principles, scaling Scrum, or related frameworks.",
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM setup and troubleshooting, without any focus on customer satisfaction or customer experience.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -726,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to TFS and SCVMM installation and configuration, with no emphasis on psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical details regarding the installation and configuration of TFS and SCVMM, with no clear connection to scaling agility or agile principles.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -775,20 +676,23 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to the installation and configuration of TFS and SCVMM, focusing on systems-level challenges rather than strategies for customer retention.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving encountered during the installation and configuration of TFS and SCVMM, including troubleshooting authentication issues with Kerberos, which aligns well with pragmatic thinking in complex environments. It emphasizes real-world applications and practical solutions, fitting the category's focus.",
+    "reasoning": "The content discusses practical problem-solving experiences related to TFS and SCVMM installations, highlighting real-world issues and solutions encountered during the setup process. It provides specific examples of challenges faced, such as Kerberos authentication issues and SPN configurations, which align with pragmatic thinking in complex environments. However, while it touches on practical applications, the focus is more on technical troubleshooting rather than broader Agile or Scrum methodologies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +706,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses technical issues related to setting up TFS and SCVMM, focusing on configuration and troubleshooting, without addressing any innovation capabilities, frameworks, or strategies related to the Ability to Innovate.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to installing and configuring TFS and SCVMM, with no clear connection to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical issues related to TFS and SCVMM installations, and does not discuss Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +733,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on server configuration, Active Directory, and Kerberos issues related to TFS and SCVMM, without any mention of test automation principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -865,10 +751,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and configurations related to TFS, RS, and SCVMM, without a central focus on the delivery of functional or high-quality software.",
     "level": "Ignored"
   },
@@ -955,10 +841,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily deals with technical issues related to installing and configuring TFS and SCVMM, including authentication problems with Kerberos, rather than discussing release management strategies or processes.",
     "level": "Ignored"
   },
@@ -973,10 +859,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical issues and configurations related to TFS, SCVMM, and Reporting Services, with no discussion on Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1000,10 +886,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical setup issues and troubleshooting for TFS and SCVMM rather than discussing change management strategies or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +920,7 @@
     "reasoning": "Content discusses technical issues related to setting up TFS, SCVMM, and SSRS in an infrastructure context, without any focus on digital transformation strategies, technologies, or their impact on organizational processes or culture.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T22:41:48",
     "ai_confidence": 0,
@@ -1043,23 +929,17 @@
     "reasoning": "Content predominantly discusses issues related to TFS, SCVMM, and Reporting Services, with no mention or focus on Minimum Viable Product (MVP) concepts or methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses TFS, SCVMM, and Kerberos issues, without any mention of AI applications or its integration within Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the setup and troubleshooting of system configurations, specifically related to TFS, SCVMM, and Active Directory configuration for reporting services. It provides detailed insights into the hardware and software setup, configuration problems encountered, and resolutions, which align well with the category of System Configuration.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the configuration and setup of various systems, specifically TFS and SCVMM, detailing the hardware specifications, installation processes, and troubleshooting steps related to system configuration issues. It discusses best practices for configuring services, the importance of SPNs in Active Directory, and the implications of service account permissions, which are all key aspects of system configuration. The depth of discussion is substantial, providing detailed insights into specific problems encountered during configuration and their resolutions, thus aligning well with the category's core themes.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1090,30 +970,36 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical implementation and troubleshooting of TFS and SCVMM, with no focus on cross-functional teams or Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses installation and configuration issues related to TFS and Lab Management, specifically around Server Management and Kerberos authentication, with no clear focus on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM installations, focusing on Kerberos authentication problems. It does not mention Test First Development principles, success criteria, or any testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to the installation and configuration of TFS (Team Foundation Server) and SCVMM (System Center Virtual Machine Manager) in a Windows environment, including Active Directory, Kerberos authentication, and Reporting Services, which are all relevant to managing Windows systems.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses issues related to the installation and configuration of TFS (Team Foundation Server) and SCVMM (System Centre Virtual Machine Manager) within a Windows environment. It includes specific troubleshooting steps for common problems encountered during setup, such as Kerberos authentication issues and SPN (Service Principal Name) configuration, which are directly relevant to Windows server management. The depth of discussion is significant, as it provides detailed insights into the configuration and operational challenges faced in a Windows context, thus aligning well with the key topics outlined for the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1144,10 +1030,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to TFS and SCVMM installation and configuration, focusing on technical problems and solutions rather than remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1162,12 +1048,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the troubleshooting of specific technical issues encountered during the installation and configuration of TFS and SCVMM, including SPN issues and Kerberos authentication problems, making it a clear focus within the troubleshooting category.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed account of troubleshooting issues encountered during the installation and configuration of TFS and SCVMM, specifically focusing on authentication problems related to Reporting Services and Kerberos errors. It discusses the identification of problems, the steps taken to resolve them, and the implications of misconfigurations, which aligns closely with the core themes of the Troubleshooting category. The depth of discussion is significant, as it includes specific errors, solutions, and technical details, demonstrating a strong focus on diagnosing and resolving technical issues.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1069,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to TFS and SCVMM setup, focusing on technical configurations and problem-solving, without any references to the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, with no direct mention of Scrum Master responsibilities or concepts. While there is a brief mention of team dynamics in the context of infrastructure work, it does not align with the core themes of the Scrum Master role or its impact on agile practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,20 +1090,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on technical issues related to TFS, SCVMM, and Kerberos, with no discussion of working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and configurations related to Microsoft TFS and SCVMM, not the role of software developers in Agile and DevOps contexts.",
+    "reasoning": "Content focuses on technical issues related to TFS, SCVMM, and Kerberos, with no discussion of working agreements or teamwork principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1252,19 +1135,19 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to configuring TFS and SCVMM, without any clear focus on product management concepts or strategies.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to software configuration and infrastructure management, with no clear focus on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1214,6 @@
     "reasoning": "Content heavily focuses on technical issues related to TFS, SCVMM, and Kerberos authentication, with no discussion on accountability or team dynamics in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T22:41:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to TFS, SCVMM, and Reporting Services, with no focus on Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T22:41:48",
@@ -1351,20 +1225,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T22:41:48",
+    "calculated_at": "2025-04-10T15:55:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on issues related to TFS, SCVMM, and Kerberos authentication, without any discussion or mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:54:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS, SCVMM, and Kerberos authentication, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS, SCVMM, and Kerberos authentication, with no significant discussion on collaboration, decision-making, or value delivery. While it mentions working with a colleague, it lacks depth in exploring social technologies or their impact on team dynamics and organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1251,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS and SCVMM installations, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:27:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to TFS, SCVMM, and Reporting Services, without a clear focus on Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:27:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues related to TFS, SCVMM, and Kerberos authentication, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on project management tools, it does not align with the core themes of Scrum or provide any depth in discussing Scrum practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM installations, focusing on authentication problems and infrastructure setup. It does not address the Shift-Left Strategy or its principles, benefits, or techniques, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical challenges and solutions related to TFS and SCVMM setups, with no explicit discussion of Continuous Improvement principles. While it touches on problem-solving, it lacks a broader context of ongoing reflection, adaptation, or a culture of experimentation that characterises Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical issues related to the installation and configuration of TFS and SCVMM, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on collaboration and problem-solving, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical issues related to Kerberos token management in SSRS and SCVMM setups, with minimal direct discussion on competence or skill development. While it touches on the need for understanding Active Directory and service configurations, it does not delve into continuous learning or the broader implications of competence in Agile or DevOps contexts. The discussion lacks depth in exploring how competence impacts team dynamics or quality outcomes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS and SCVMM setups, focusing on Kerberos authentication problems. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in either human or AI contexts. The discussion is strictly technical and lacks any mention of the transformative capacity of individuals or systems, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

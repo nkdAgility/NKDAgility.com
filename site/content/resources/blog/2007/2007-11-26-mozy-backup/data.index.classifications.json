@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses an online backup solution without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T19:43:25",
     "ai_confidence": 0,
@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the setup of Mozy Backup, highlighting its simple installation process and user experience, but primarily focuses on personal opinions and experiences rather than detailed installation instructions or configuration best practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the setup of Mozy Backup and provides some insights into its ease of use, which aligns with the installation aspect of the category. However, it lacks detailed step-by-step instructions or configuration best practices, focusing more on personal experiences and opinions rather than actionable guidance. The discussion does not delve into troubleshooting or system requirements, which are critical for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses a personal experience with an online backup solution, Mozy Backup, without any reference to Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:43:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an online backup solution and personal experiences with it, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:43:32",
@@ -96,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:43:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with an online backup solution, lacking focus on Agile or DevOps methodologies, tools, or practical techniques.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:43:37",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no focus on metrics, data analysis, or learning principles.",
     "level": "Ignored"
   },
@@ -154,30 +139,27 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:43:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with an online backup solution and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online backup solution, Mozy Backup, without any reference to Evidence-Based Management principles or metrics. It lacks direct mentions of EBM concepts such as current value, empirical decision-making, or outcome management, and does not provide any depth or alignment with the category's core themes.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:43:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no relevance to Agile principles or product operating models.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online backup solution, Mozy Backup, with no relevant mentions or discussions related to the Agile Product Operating Model. It lacks any connection to agile methodologies, product management principles, or the key topics outlined in the category description.",
     "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a personal review of the Mozy Backup service, which aligns with the review aspect of the category, but lacks broader industry news or updates.",
-    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -204,51 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no relevance to platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:43:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:43:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no relevance to AI or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:43:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an online backup solution and personal experiences with it, with no focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:43:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with an online backup solution and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:43:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with an online backup solution and does not address transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -289,12 +226,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content shares personal experiences and reflections on finding a backup solution, but it primarily focuses on the product rather than deeper insights into Agile, Scrum, or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the author's personal experience with finding an online backup solution, which aligns with the Personal category. However, it lacks a strong connection to Agile, Scrum, or DevOps methodologies, and the reflections are more focused on the product rather than personal insights related to broader themes in these methodologies. The depth of discussion is limited to the author's experience with Mozy Backup, which does not provide substantial insights into team dynamics or Agile practices.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -316,11 +256,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:44:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no focus on DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on an online backup solution, Mozy Backup, and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the discussion lacks alignment with the core themes of collaboration, automation, or shared accountability. The depth of discussion is limited to personal experiences with a backup service, which is unrelated to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -331,33 +274,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with an online backup solution, lacking focus on engineering practices or methodologies related to technical excellence.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:44:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with an online backup solution, focusing on the product features and pricing rather than team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:44:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and benefits of Mozy Backup as a solution for online data backup, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:44:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Mozy Backup product, including its features, pricing, and personal experience with its use, which aligns with the category's focus on discussions about tools and software products.",
-    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -379,19 +295,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the setup and configuration of the Mozy Backup software, detailing its features and some options for optimizing backup performance. However, the primary focus is more on personal experience and recommendations rather than in-depth system configuration methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the Mozy Backup solution, touching on its setup and user experience, which relates to system configuration. However, it primarily focuses on personal experiences and opinions rather than in-depth technical discussions or best practices for system configuration. The mentions of setup and options for backups provide some alignment, but the overall depth and focus on personal anecdotes limit the confidence score.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T20:19:21",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses personal experiences with an online backup solution and does not focus on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
@@ -420,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about an online backup solution and does not discuss portfolio management or related strategic topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on online backup solutions and personal experiences with Mozy Backup, with no mention or relevance to Scrum principles or practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T20:19:21",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses online backup solutions without any reference to Agile values, principles, or methodologies.",
     "level": "Ignored"
   },
@@ -496,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T20:19:21",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an online backup solution and personal experiences with it, with no mention of the Definition of Done or related Agile concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses online backup solutions and personal data management, with no relevance to Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content primarily discusses an online backup solution and personal experiences with it, with no mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +476,6 @@
     "reasoning": "Content discusses a backup solution and personal experiences with Mozy Backup, which is unrelated to collaboration tools.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an online backup solution (Mozy Backup) and personal experiences with it, which does not align with the role of software developers or Agile/DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T20:19:21",
@@ -620,7 +512,7 @@
     "reasoning": "Content primarily discusses online backup solutions and personal experiences with Mozy Backup services, with no focus on estimation in Agile or Scrum contexts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T20:19:21",
     "ai_confidence": 0,
@@ -694,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses online backup solutions and personal experiences with Mozy Backup, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online backup solution, Mozy Backup, and does not mention Continuous Delivery or its principles. There is no alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The depth of discussion is focused on personal experiences with a backup service rather than any relevant Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about personal experiences with an online backup solution and does not discuss hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on online backup solutions and personal data storage, with no mention of AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +814,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T20:19:21",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an online backup solution and personal experiences with it, with no relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -971,15 +857,6 @@
     "reasoning": "Content primarily discusses an online backup solution and personal experiences with it, lacking a focus on remote working or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Mozy Backup and personal data backup solutions, with no relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T20:19:21",
@@ -987,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with an online backup solution and does not address strategies for retaining customers or enhancing engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about an online backup solution and does not discuss any topics related to Agile Project Management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1054,10 +922,10 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-16T20:19:21",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about finding and discussing an online backup solution, unrelated to Agile, Scrum, or DevOps strategies.",
     "level": "Ignored"
   },
@@ -1090,10 +958,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T20:19:21",
+    "calculated_at": "2025-04-10T15:56:49",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses an online backup solution (Mozy Backup) and its pricing and features, without a clear focus on the Windows operating system, its installation, configuration, or troubleshooting.",
     "level": "Ignored"
   },
@@ -1268,15 +1136,6 @@
     "reasoning": "Content is focused on an online backup solution and does not discuss asynchronous development practices or principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about an online backup solution (Mozy Backup) and does not discuss Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T20:19:21",
@@ -1313,22 +1172,16 @@
     "reasoning": "Content focuses entirely on an online backup solution and does not discuss any Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an online backup solution and personal experiences with Mozy Backup, which is unrelated to agile practices or scaling agility frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:19:21",
+    "calculated_at": "2025-04-08T20:21:34",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses an online backup solution called Mozy. There are no references to Scrum, Agile principles, or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on an online backup solution, Mozy Backup, and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any related concepts or themes. There is no alignment with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1204,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:19:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal experiences with Mozy Backup, discussing its features and advantages, without any mention of Test First Development or related development practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on an online backup solution, Mozy Backup, and does not mention or discuss any principles or practices related to Test First Development. There are no references to success criteria, testing methodologies, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:25:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on an online backup solution, Mozy Backup, and does not discuss any aspects of social technologies, collaboration, or decision-making. While it mentions the importance of data protection, it lacks any connection to the core themes of social technologies, such as self-organisation or collective intelligence. The discussion is superficial and does not delve into any relevant methodologies or frameworks.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1233,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:46:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:46:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online backup solution, Mozy Backup, and does not mention Scrum principles, roles, events, or any related topics. There is no alignment with the core themes of Scrum, and the depth of discussion is minimal, focusing instead on personal experiences with a backup service.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online backup solution and personal experiences with Mozy Backup, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy, which focuses on integrating these elements earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal experience with an online backup solution, Mozy Backup, and does not discuss any aspects related to Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category. The discussion is anecdotal and lacks depth in relation to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online backup solution, Mozy Backup, and does not focus on competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of data protection and service reliability, these do not align with the core themes of competence, such as continuous learning or skill development. The discussion lacks depth and detail regarding competence, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting Mozy Backup as an online backup solution, discussing its features and pricing. There are no explicit mentions of Continuous Improvement principles, nor does it align with the core themes of the category. The discussion lacks depth and does not provide any insights into processes, team effectiveness, or empirical evidence related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an online backup solution, Mozy Backup, and does not address the principles of Agentic Agility. There are no direct mentions of autonomy, adaptability, or intentional shaping of outcomes. The focus is on the product's features and personal experiences rather than any conceptual alignment with the category.",
     "level": "Ignored"
   }
 }

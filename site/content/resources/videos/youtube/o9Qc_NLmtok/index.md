@@ -2,46 +2,43 @@
 title: 8-Week Immersive Learning Course in 60 Seconds
 description: Discover NKDAgility's immersive 8-week Scrum training! Engage in practical learning, reflections, and innovative assignments. Book now for a transformative experience!
 date: 2023-06-05T11:00:38Z
+weight: 840
 ResourceId: o9Qc_NLmtok
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: o9Qc_NLmtok
 source: internal
 url: /resources/videos/:slug
-slug: 8-week-immersive-learning-course-in-60-seconds
+slug: 8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
 layout: video
 preview: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/8-week-immersive-learning-course-in-60-seconds
-- /resources/videos/8-week-immersive-learning-course-in-60-seconds
-- /resources/videos/o9Qc_NLmtok
 - /resources/o9Qc_NLmtok
-aliasesFor404:
-- /resources/8-week-immersive-learning-course-in-60-seconds
+- /resources/videos/8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
+aliasesArchive:
+- /resources/videos/-week-immersive-learning-course-in-seconds
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds
+- /resources/8-week-immersive-learning-course-in-60-seconds
+- 8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Discovery and Learning
-- Agile Frameworks
-- Agile Project Management
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 ## Immersive Learning: 8 Weeks of Deep Engagement
 
 Hey, Agile enthusiasts! 🚀
 
-Let's go from surface skimming of immersive learning and delve into the magic behind the immersive learning approach of Scrum.org, all in a condensed narrative.
+Let's go from surface skimming of immersive learning and delve into the magic behind the immersive learning approach of [Scrum]({{< ref "/categories/scrum" >}}).org, all in a condensed narrative.
 
 Buckle up!
 

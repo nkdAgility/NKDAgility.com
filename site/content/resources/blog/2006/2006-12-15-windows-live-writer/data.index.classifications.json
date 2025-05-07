@@ -1,19 +1,10 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T10:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a blogging tool and does not relate to AI or Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T10:09:49",
+    "calculated_at": "2025-04-10T15:57:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experience with Windows Live Writer rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a blogging tool and does not discuss decision-making processes or related themes.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T10:09:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a tool for blogging without addressing human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T10:09:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a blogging tool and its features, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +37,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T10:09:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a blogging tool and does not discuss Scrum principles, practices, or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a blogging tool, which is unrelated to Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -118,10 +94,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T10:10:05",
+    "calculated_at": "2025-04-10T15:57:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a blogging tool and does not relate to metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -132,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a blogging tool and does not relate to platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T10:10:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a blogging tool and its features, with no focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -206,24 +173,6 @@
     "reasoning": "Content is primarily about a blogging tool and does not discuss Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T10:10:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal experience with a blogging tool rather than industry news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T10:10:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific tool (Windows Live Writer) without delving into broader Agile or DevOps practices or methodologies.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T10:10:19",
@@ -258,15 +207,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a blogging tool and does not discuss Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T10:10:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a blogging tool and does not relate to events or presentations.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,33 +245,6 @@
     "reasoning": "Content primarily discusses a tool for blogging rather than personal experiences or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T10:10:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of a specific tool for blogging without any focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T10:10:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a blogging tool and does not address transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T10:10:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific tool, Windows Live Writer, which aligns with the category's focus on software products. However, it lacks a deeper analysis or review that would elevate its relevance to the category.",
-    "level": "Tertiary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T10:11:08",
@@ -350,7 +263,7 @@
     "reasoning": "Content primarily discusses a blogging tool and does not relate to DevOps principles, practices, or tools.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T10:11:14",
     "ai_confidence": 0,
@@ -379,11 +292,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:21",
+    "ai_confidence": 45.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a tool named Windows Live Writer, which is related to the Windows ecosystem. However, it primarily focuses on the tool rather than broader aspects of the Windows operating system, making it a secondary theme.",
+    "final_score": 45.0,
+    "reasoning": "The content mentions 'Windows Live Writer', which is a tool associated with the Windows operating system, indicating a direct mention. However, the discussion primarily focuses on the tool's functionality rather than broader aspects of the Windows OS, such as installation, configuration, or troubleshooting. The alignment with core themes is limited, and the depth of discussion is minimal, focusing only on a specific application without exploring the Windows environment in detail.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -429,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a blogging tool, not related to empirical process control or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a blogging tool and does not discuss Scaling Scrum or related topics.",
     "level": "Ignored"
   },
   "Increment": {
@@ -611,15 +518,6 @@
     "reasoning": "Content primarily discusses a blogging tool and personal setup experience, with no relevance to strategic goals or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about a blogging tool and does not discuss Agile practices or scaling methodologies.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T11:09:24",
@@ -784,10 +682,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:09:24",
+    "calculated_at": "2025-04-10T15:57:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a blogging tool and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -881,7 +779,7 @@
     "reasoning": "Content discusses Windows Live Writer, which is unrelated to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:09:24",
     "ai_confidence": 0,
@@ -933,15 +831,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a blogging tool and does not discuss Agile methodologies or strategies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a blogging tool and does not relate to Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +885,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a tool for blogging and publishing, with no relevance to Scrum values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Windows Live Writer, a blogging tool, with no discussion of Kanban principles or their application in large organizations.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1205,15 +1085,6 @@
     "reasoning": "Content is focused on a blog writing tool and does not discuss test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is largely about a blogging tool and does not discuss Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:09:24",
@@ -1261,29 +1132,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:09:24",
+    "calculated_at": "2025-04-10T15:57:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a tool for blogging and does not focus on innovation capabilities or Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a blogging tool and does not relate to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Windows Live Writer, a blogging tool, and does not discuss Agile Project Management topics.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1331,15 +1184,6 @@
     "reasoning": "Content is about Windows Live Writer, a blogging tool, and does not relate to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:09:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a blogging tool and does not discuss AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T11:09:24",
@@ -1374,6 +1218,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a blogging tool and does not discuss leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:56:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily about a blogging tool and does not discuss Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:56:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily about a blogging tool and does not discuss AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a blogging tool and does not mention any aspects of the Shift-Left Strategy, such as testing, security, or compliance in software development. There is no alignment with the core themes of the category, and the depth of discussion is non-existent regarding Shift-Left practices.",
     "level": "Ignored"
   }
 }

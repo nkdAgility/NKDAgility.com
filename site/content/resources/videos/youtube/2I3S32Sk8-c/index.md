@@ -2,8 +2,10 @@
 title: What would you advise a scrum team to do in their first 4 weeks?
 description: Kickstart your scrum journey! Join Martin Hinshelwood as he shares actionable goals for new scrum teams in their first 4 weeks. Embrace agile success!
 date: 2023-02-16T07:00:01Z
+weight: 640
 ResourceId: 2I3S32Sk8-c
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2I3S32Sk8-c
@@ -14,38 +16,36 @@ preview: https://i.ytimg.com/vi/2I3S32Sk8-c/maxresdefault.jpg
 duration: 182
 isShort: false
 aliases:
-- /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
-- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
-- /resources/videos/2I3S32Sk8-c
-- /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
 - /resources/2I3S32Sk8-c
-aliasesFor404:
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
+aliasesArchive:
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-weeks
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 - /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
+- what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Transparency
-- Transparency and Accountability
-- Scrum Product Development
-- Scrum Team
-- People and Process
+- Pragmatic Thinking
+- Software Development
 - Team Performance
-- Team Collaboration
-- Professional Scrum
-- Agile Product Management
+- Transparency
+- Agile Planning
+- Scrum Team
 - Scrum Master
+- Agile Frameworks
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-What would you advise a scrum team to do in their first 4 weeks?
+What would you advise a [scrum]({{< ref "/categories/scrum" >}}) team to do in their first 4 weeks?
 
 That’s an interesting question because it depends on the intention of the team. In my opinion, if their intention is to try **scrum**, then that is what they should focus on in the first 4 weeks.
 
@@ -53,7 +53,7 @@ Get **scrum** right. Get it working correctly. Practice the events, artefacts, a
 
 ## Learn what doesn’t work.
 
-There is a lot of sound, strategic thinking behind what should happen in a **scrum environment**. There is also a lot of documentation, thought leadership, and advice about what isn’t great for scrum.
+There is a lot of sound, strategic thinking behind what should happen in a **scrum environment**. There is also a lot of documentation, thought [leadership]({{< ref "/categories/leadership" >}}), and advice about what isn’t great for scrum.
 
 You should get familiar with both.
 
@@ -73,7 +73,7 @@ A bright, North star that points the way to so much more effectiveness, creativi
 
 Do the same with your first 4 weeks.
 
-Apply scrum effectively and witness how it transforms the product development experience.
+Apply scrum effectively and witness how it transforms the [product development]({{< ref "/categories/product-development" >}}) experience.
 
 Solving complex problems is hard. Building complex solutions is hard. If you have people pulling in one direction, the organization pulling in another, customers pulling in a third direction, and product stakeholders pulling in a fourth direction, it becomes even harder.
 

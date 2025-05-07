@@ -4,7 +4,9 @@ description: Join our immersive APS-SD course to master Scrum for software devel
 ResourceId: IoUQqtS1U1Y
 ResourceImport: true
 ResourceType: course
+ResourceContentOrigin: human
 date: 2017-01-01
+weight: 350
 creator: Martin Hinshelwood
 type: course
 slug: applying-professional-scrum-for-software-development-aps-sd-with-certification
@@ -22,7 +24,7 @@ aliases:
 - /training-courses/scrum-training-courses/applying-professional-scrum-for-software-development-aps-sd-with-certification/
 - /capabilities/training-courses/Scrum.org/applying-professional-scrum-for-software-development-aps-sd-with-certification/
 - /resources/IoUQqtS1U1Y
-aliasesFor404:
+aliasesArchive:
 - /training-courses/professional-scrum-developer
 - /training-courses/applying-professional-scrum-with-certification
 - /training-courses/professional-scrum-development-team-training
@@ -45,10 +47,25 @@ delivery-audiences:
 - Developers
 tags:
 - Software Development
+- Agile Frameworks
+- Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Engineering Practices
+- Operational Practices
+- Pragmatic Thinking
+- Product Delivery
+- Professional Scrum
+- Scrum Team
+- Team Collaboration
+- Team Performance
+- Technical Excellence
+- Technical Mastery
+- Value Delivery
+- Working Software
 categories:
 - Scrum
 - Engineering Excellence
-- Social Technologies
 preview: naked-agility-Professional-Scrum-APSSD-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APSSD-400x.png
 brandColour: 

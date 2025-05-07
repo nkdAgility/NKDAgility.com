@@ -19,30 +19,39 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value creation, which is a significant aspect of entrepreneurship, but it primarily focuses on Scrum practices rather than the broader entrepreneurial process.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses value-based prioritization, which aligns with the entrepreneurial focus on value creation and customer needs. However, it primarily addresses Scrum practices rather than broader entrepreneurial principles, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-12T20:52:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the concept of value-based prioritisation within the context of the product backlog, highlighting its importance in delivering value to stakeholders and the prioritisation process in Agile projects.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly mentions the product backlog and discusses its prioritisation based on value, which aligns with the core themes of the category. However, the discussion lacks depth and does not cover other key aspects such as backlog refinement techniques or the role of the Product Owner.",
     "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses prioritization within the context of the product backlog, which is a key aspect of Scrum, but it does not delve deeply into Scrum roles, events, or principles, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the prioritisation of the product backlog based on value, which aligns with Scrum principles. However, it lacks a comprehensive exploration of Scrum roles, events, or artifacts, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -64,10 +73,10 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-12T20:52:58",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization in Scrum, which does not directly relate to evidence-based leadership practices or empirical decision-making.",
     "level": "Ignored"
   },
@@ -82,11 +91,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-12T20:53:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses value-based prioritization in the context of product management, specifically relating to stakeholder value and backlog prioritization within a Scrum framework.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses prioritisation in the context of product management, particularly within a Scrum framework, which aligns with the strategic aspects of product management. However, while it touches on value delivery and stakeholder focus, it lacks depth in exploring methodologies or frameworks in detail, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Agile Leadership": {
@@ -100,20 +112,23 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T20:53:04",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization in relation to the product backlog, which is not central to the Daily Scrum event.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T20:53:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:42:01",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses value-based prioritization in the context of Scrum and does not mention system configuration or related topics. It lacks direct references to system setup, integration, or maintenance, which are essential for this category. The focus is on project management rather than system configuration.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -127,20 +142,26 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritization based on value delivery, which is a significant aspect of working software, but it primarily focuses on the concept of value rather than the characteristics or delivery of functional software itself.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses prioritising the product backlog based on value, which aligns with the concept of delivering working software that meets customer needs. However, it lacks explicit mentions of working software characteristics and does not delve deeply into best practices or metrics for assessing software quality.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritization based on value, which relates to decision-making processes, but it primarily focuses on Scrum roles and backlog management rather than structured decision-making methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions prioritization based on value, which relates to decision-making in terms of selecting high-priority items. However, it lacks a detailed discussion on structured methodologies, evidence-based practices, or collaborative decision-making techniques. The focus is more on value delivery rather than the comprehensive decision-making frameworks outlined in the category description.",
     "level": "Tertiary"
   },
   "Self Organisation": {
@@ -163,12 +184,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses value delivery and prioritization, which aligns with Lean principles, but it primarily focuses on Scrum practices rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions value delivery and prioritization, which aligns with Lean principles, but lacks a comprehensive discussion on Lean methodologies or waste reduction. The focus on Scrum indicates a more Agile approach rather than a deep dive into Lean Product Development.",
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -217,11 +241,14 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses prioritization based on value delivery, which is a significant aspect of product strategy, but it primarily focuses on Scrum practices rather than broader strategic methodologies or frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions prioritization in the context of delivering value to stakeholders, which aligns with customer-centric approaches in product strategy. However, it primarily focuses on Scrum practices rather than providing a comprehensive discussion on product strategy methodologies, frameworks, or long-term vision, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Customer Retention": {
@@ -235,55 +262,55 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-12T20:53:23",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization in the context of Scrum, which is not directly related to Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value-based prioritization, which is a significant aspect of strategic alignment in Agile environments, but it primarily focuses on backlog management rather than broader strategic approaches.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses value-based prioritization, which is a strategic approach to aligning the product backlog with stakeholder value. This aligns with the core themes of strategic alignment and value-driven approaches in Agile. However, the discussion lacks depth and does not explore broader strategic concepts or techniques for optimising delivery, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T20:53:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:42:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization in Scrum, which is not directly related to the measurement and improvement of innovation capabilities.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses value-based prioritization in the context of Scrum, which is more focused on stakeholder value delivery rather than innovation itself. While there is a mention of prioritizing based on value, it does not explicitly address innovation mechanisms, metrics, or practices that foster innovation. The discussion lacks depth and does not explore the relationship between innovation and business agility or provide strategies for enhancing innovation capacity, which are key aspects of the 'Ability to Innovate' category.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value-based prioritization within the context of Scrum, indicating a major theme related to Agile frameworks, but it does not comprehensively explore various Agile frameworks or their principles.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T20:53:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses value-based prioritization within a Scrum context, which is focused on team-level practices rather than scaling agility across the organisation.",
-    "level": "Ignored"
+    "final_score": 68.0,
+    "reasoning": "The content discusses value-based prioritization within the context of Scrum, which is an Agile framework. However, it primarily focuses on a specific aspect of prioritization rather than providing a comprehensive exploration of Agile frameworks as a whole. The mention of Scrum indicates some direct relevance, but the overall discussion lacks depth and breadth regarding various Agile frameworks and their principles.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T20:53:29",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization in relation to the product backlog and does not focus on team collaboration or dynamics within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -298,11 +325,14 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value delivery and prioritization, which aligns with Lean principles, but it primarily focuses on Scrum practices rather than Lean Thinking itself.",
+    "final_score": 55.0,
+    "reasoning": "The content briefly mentions the concept of delivering value, which aligns with Lean Thinking principles. However, it primarily focuses on value-based prioritization within a Scrum context, lacking a deeper exploration of Lean principles, waste identification, or continuous improvement. The discussion does not provide sufficient detail on Lean tools or techniques, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Cycle Time": {
@@ -325,21 +355,27 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritisation based on value, which is relevant to portfolio management, but it primarily focuses on Scrum practices rather than a comprehensive portfolio management approach.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses value-based prioritization, which is relevant to the prioritisation frameworks for investment decisions in portfolio management. However, it primarily focuses on Scrum practices and does not delve deeply into broader portfolio management concepts such as strategic alignment, risk management, or metrics for measuring portfolio performance. The discussion lacks depth and does not fully encompass the core themes of portfolio management, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritisation within a Scrum framework, which is a key aspect of Agile methodologies in software development. However, it does not delve deeply into broader software development practices or methodologies, making it a secondary theme rather than a primary focus.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses value-based prioritization within the context of Scrum, which is a key Agile framework in software development. It explicitly mentions the product backlog and prioritization, aligning with Agile practices. However, the discussion lacks depth and detail on broader software development methodologies and practices, which limits its overall confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +388,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T20:53:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:42:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses value-based prioritization and does not focus on the measurement or optimisation of work completion rates.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses value-based prioritization in the context of Scrum, focusing on delivering value to stakeholders rather than explicitly addressing throughput as a delivery metric. While there is a mention of prioritizing work items, it does not delve into defining or calculating throughput, nor does it provide insights into visualising or analysing throughput trends. The discussion lacks depth and does not align with the core themes of throughput, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,12 +409,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of delivering value to stakeholders and prioritising the product backlog based on value, which aligns with Agile principles. However, it primarily focuses on the practice of prioritisation within a Scrum context, making Agile values a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the prioritisation of the product backlog based on value, which aligns with Agile principles of customer-centricity and delivering value. However, it primarily focuses on a specific practice within Scrum rather than a broader discussion of Agile values and principles. The mention of stakeholders indicates an understanding of customer collaboration, but the depth of discussion is limited to a single aspect of Agile methodology.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -397,11 +439,14 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T20:53:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses value-based prioritization, which is a key responsibility of the Product Owner in managing the product backlog and ensuring that the highest-value items are addressed first.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses prioritisation based on value, which is a key responsibility of the Product Owner. It aligns with the core themes of stakeholder engagement and backlog management. However, it lacks depth in exploring the broader responsibilities and practices of the Product Owner, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Change Management": {
@@ -433,10 +478,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T20:53:55",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses value-based prioritization in the context of Scrum, which is not directly related to validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -451,29 +496,23 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-12T20:53:58",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization in Scrum, with a focus on delivering value to stakeholders rather than on revenue per employee metrics or financial efficiency.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritization within a Scrum framework, which is relevant to Agile practices. However, it does not delve deeply into the role of software developers or their methodologies, making it a secondary theme.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T20:54:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses value-based prioritization in Scrum, which is unrelated to Test First Development principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses value-based prioritization in the context of Scrum, focusing on stakeholder value rather than the principles of Test First Development. There are no direct mentions of testing practices, success criteria, or the importance of automated testing, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -505,11 +544,14 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritization based on value delivery, which is related to the Increment concept, but it primarily focuses on backlog management rather than the Increment itself.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses value delivery to stakeholders and prioritisation of the product backlog, which are relevant to the Increment concept. However, it lacks a direct focus on the Increment itself and does not delve into the specifics of delivering a potentially shippable product increment or best practices related to it.",
     "level": "Tertiary"
   },
   "Windows": {
@@ -532,30 +574,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T20:54:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:59:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses value-based prioritization in Scrum, which is not directly related to Lead Time as defined.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T20:54:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses value-based prioritization within a Scrum context, which does not align with the principles of scaling Agile across multiple teams or at an enterprise level.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses value-based prioritization in the context of Scrum, focusing on delivering value to stakeholders. There are no direct mentions of Lead Time, and the discussion does not align with the core themes of Lead Time as an observability metric. The content lacks depth regarding Lead Time, providing minimal detail that could relate to the measurement or optimisation of Lead Time in workflows.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritization in Scrum with a focus on delivering value, which aligns with pragmatic approaches in Agile. However, it does not delve deeply into practical problem-solving strategies or real-world applications, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses value-based prioritization within a Scrum context, which aligns with pragmatic thinking by focusing on practical problem-solving strategies. However, it lacks depth in exploring how these concepts apply to complex environments or real-world applications, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -565,15 +604,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization in Scrum, which is not directly related to deployment frequency or its optimisation.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T20:54:13",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the prioritisation of the product backlog in a Scrum context, which aligns closely with agile principles and practices.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -586,20 +616,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value delivery and prioritization in the context of Agile methodologies, which aligns with Agile Strategy principles, but it primarily focuses on specific practices rather than a broader strategic discussion.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses value-based prioritization, which is a key aspect of Agile methodologies, particularly in relation to delivering value to stakeholders. However, it lacks a broader discussion on Agile strategy, such as organisational alignment or strategic planning. The focus is primarily on prioritization within the Scrum framework, which is more tactical than strategic.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T20:54:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses value-based prioritization in the context of Scrum, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions prioritization in the context of delivering value to stakeholders, which is a general software development practice rather than a focused discussion on Continuous Delivery. It lacks explicit references to Continuous Delivery principles, automation, or the specific practices that enhance software quality and responsiveness. The discussion is too high-level and does not delve into the core themes or provide sufficient detail related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -631,38 +667,20 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T20:54:25",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization in relation to product backlog management, without a clear focus on team dynamics or motivation strategies.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T20:54:26",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization in relation to product backlog management, which is not directly focused on team performance or collaboration.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T20:54:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses value-based prioritization in Scrum without any mention of AI or its integration in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T20:54:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -685,21 +703,27 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value delivery and prioritization, which aligns with Lean principles, but it primarily focuses on Scrum practices rather than Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses value delivery and prioritization, which aligns with Lean principles of value creation. However, it lacks a comprehensive exploration of Lean concepts such as waste reduction, continuous improvement, or specific Lean tools. The focus is primarily on Scrum practices, which are related but not central to Lean principles.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value-based prioritization within the context of Scrum, which is a key aspect of Agile practices, but it does not delve deeply into broader Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses value-based prioritization within the context of a Scrum team, which aligns with Agile principles. However, it lacks a broader discussion on Agile transformation strategies, change management, or leadership roles, limiting its depth and overall alignment with the category.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -712,10 +736,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T20:54:36",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses prioritization of the product backlog based on value, which is not directly related to the Scrum Values themselves.",
     "level": "Ignored"
   },
@@ -737,59 +761,53 @@
     "reasoning": "Content heavily discusses value-based prioritization in Scrum, which is not related to test automation.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T20:54:41",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the prioritization of the product backlog in a Scrum context, focusing on delivering value to stakeholders, which aligns closely with Scrum principles and practices.",
-    "level": "Secondary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritisation in the context of delivering value, which is relevant to operational efficiency, but it primarily focuses on value creation rather than specific operational practices or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses prioritisation in the context of delivering value, which is relevant to operational efficiency. However, it lacks detailed exploration of specific operational practices, techniques, or methodologies that enhance efficiency within Agile frameworks. The focus is more on value delivery rather than on operational strategies or metrics.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T20:54:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization in Scrum, which is not directly related to Evidence-Based Management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions value delivery and prioritization, which aligns with the concept of current value in Evidence-Based Management. However, it lacks a detailed discussion on empirical metrics or data-informed decision-making, focusing instead on general value creation without specific evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses prioritisation in the context of the product backlog, which is a key aspect of backlog refinement, but it does not delve deeply into the practices or techniques of backlog refinement itself.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T20:54:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization within a Scrum team context, without addressing scaling Scrum practices or frameworks relevant to larger organisations.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses prioritisation in the context of the product backlog, which is relevant to backlog refinement. However, it lacks a comprehensive exploration of backlog refinement techniques, roles, and best practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T20:54:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization in relation to product backlog management, without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the Scrum team and prioritization, which are relevant to the Scrum Master role, but it does not explicitly discuss the responsibilities or influence of the Scrum Master. The focus on value delivery aligns with Scrum principles, but lacks depth in exploring the Scrum Master's role in facilitating this process.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -820,11 +838,14 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses prioritization in the context of delivering value, which is relevant to understanding customer needs and defining product features, but it primarily focuses on Scrum practices rather than broader product discovery methodologies.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses prioritisation in the context of delivering value to stakeholders, which is relevant to product discovery. However, it primarily focuses on backlog management within a Scrum framework rather than exploring methodologies for identifying customer needs or validating product ideas. The mention of value creation hints at understanding user requirements, but the overall depth and direct focus on product discovery practices are limited.",
     "level": "Tertiary"
   },
   "Lean Startup": {
@@ -838,11 +859,14 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T20:54:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the prioritization of the product backlog based on value, which aligns closely with Agile Planning principles and practices, particularly in the context of Scrum.",
+    "reasoning": "The content discusses value-based prioritization, which is a key aspect of Agile Planning, particularly in relation to managing the product backlog. It aligns with Agile principles by emphasising the importance of delivering value to stakeholders and prioritising work accordingly. However, the discussion lacks depth and does not cover broader Agile Planning concepts such as iterative planning, feedback loops, or specific methodologies like Scrum or Kanban in detail.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -854,7 +878,7 @@
     "reasoning": "Content primarily discusses value-based prioritization in Scrum, focusing on delivering value rather than accountability or team ownership.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T20:54:58",
     "ai_confidence": 0,
@@ -892,12 +916,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Scrum team's role in prioritising the product backlog based on value, which is a significant aspect of Scrum practices, but it does not delve deeply into team dynamics or collaboration.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions the Scrum team in the context of prioritising the product backlog based on value. However, it lacks a detailed exploration of Scrum roles, team dynamics, or collaboration techniques, which are essential for a high-performing Scrum Team. The focus is more on value delivery rather than the interactions and practices within the team.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -937,12 +964,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value delivery, which is a major theme in Agile philosophy, but it primarily focuses on the Scrum framework and its practices rather than the broader Agile principles.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of delivering value to stakeholders, which aligns with the Agile Philosophy's emphasis on value delivery and customer collaboration. However, it primarily focuses on the practical aspect of prioritisation within a Scrum context, lacking a broader discussion on Agile principles or the mindset behind Agile practices.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -955,12 +985,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritisation within the context of a product backlog, which is relevant to Agile planning, but it does not extensively cover Agile Planning Tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses value-based prioritization, which is a technique relevant to backlog management in Agile methodologies. However, it lacks explicit mentions of specific Agile planning tools or a broader discussion on Agile planning strategies. The focus is primarily on the concept of prioritization rather than the tools or methodologies that facilitate Agile planning.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1027,38 +1060,23 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses value delivery and prioritization, which aligns with Lean principles, but it primarily focuses on Scrum practices rather than Lean methodologies.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T20:51:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses value-based prioritization in Scrum, which is not primarily about organisational resilience or change management.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions value delivery and prioritization, which are relevant to Lean principles, but it primarily focuses on Scrum practices without a substantial discussion of Lean methodologies or concepts. The alignment with Lean is weak as it does not delve into waste reduction or continuous improvement, and the depth of discussion is limited to a high-level overview of value prioritization.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T20:51:54",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses value-based prioritization in Scrum, which is not related to installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T20:51:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses value-based prioritization in Scrum, which is unrelated to software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,41 +1088,29 @@
     "reasoning": "Content primarily discusses value-based prioritization in Scrum, which is not directly related to optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T20:51:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses value-based prioritization in Scrum without any mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T20:52:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses prioritisation in the context of delivering value to stakeholders, which is a significant aspect of product delivery. However, it does not delve deeply into methodologies or practices related to the entire product delivery process, making it a secondary theme rather than the primary focus.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses prioritisation in the context of delivering value to stakeholders, which is a key aspect of product delivery. It aligns with the core themes of planning and prioritising product features. However, the depth of discussion is limited, focusing primarily on value-based prioritisation without delving into methodologies or practices that encompass the entire product delivery process.",
     "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T20:52:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses value-based prioritization in the context of product backlog management, which aligns closely with Agile Product Management principles, particularly in Scrum.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses value-based prioritization, which is a key aspect of Agile Product Management. It mentions the prioritization of the product backlog based on value delivered to stakeholders, aligning with the core themes of customer value and business objectives. However, the depth of discussion is somewhat limited, as it does not explore the role of the Product Owner, stakeholder engagement, or methods for incorporating customer feedback in detail.",
     "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T20:52:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on prioritization rather than discovery and learning processes.",
-    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1122,33 +1128,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization in Scrum, which does not align with the principles of complexity science or its application to organisational behaviour.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T20:52:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization and does not focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T20:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization in the context of Scrum without a clear focus on practical techniques or tooling related to Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T20:52:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization in Scrum, without reference to specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1171,11 +1150,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T20:52:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions the concept of delivering value, which is a core principle of DevOps. However, it primarily focuses on value-based prioritization within a Scrum context, lacking a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The depth of discussion is minimal, as it does not explore how these concepts integrate into a DevOps framework.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,22 +1169,16 @@
     "reasoning": "Content heavily discusses Scrum roles and events, with no specific mention of Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T20:52:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and events rather than specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritization based on value delivery, which aligns with the principles of business agility, but primarily focuses on Scrum practices rather than broader business agility concepts.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions prioritization based on value, which aligns with the principles of business agility. However, it lacks a comprehensive discussion on how this practice contributes to overall business agility, such as adapting to market changes or fostering a culture of innovation. The focus is more on Scrum practices rather than a broader exploration of business agility principles.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -1216,12 +1192,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T20:52:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses value-based prioritization in the context of delivering value to stakeholders, which aligns closely with the principles of iterative development and maximising customer value.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses value-based prioritization, which is a core aspect of delivering value to stakeholders. It aligns well with the principles of iterative development and incremental delivery by emphasising the prioritisation of the product backlog based on value. The depth of discussion is significant, as it touches on the importance of focusing on high-priority items that deliver the most value, although it could further elaborate on techniques for measuring and maximising customer value.",
+    "level": "Primary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,11 +1213,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritization in the context of delivering value to stakeholders, which aligns with agile principles. However, it primarily focuses on Scrum roles and events rather than broader organisational agility strategies or cultural shifts.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses value-based prioritization, which is a principle of Agile methodologies that aligns with the core themes of organisational agility. However, it primarily focuses on the prioritization process within Scrum rather than broader organisational strategies or cultural shifts. The mention of stakeholders indicates some alignment with agility principles, but the depth of discussion is limited to a specific practice without exploring the wider implications for organisational adaptability.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -1250,15 +1232,6 @@
     "reasoning": "Content primarily discusses value-based prioritization in Scrum without personal anecdotes or insights related to individual experiences or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses prioritization in the context of Scrum, which relates to team dynamics and collaboration, but it primarily focuses on value delivery rather than the interplay of human behaviour and structured methodologies.",
-    "level": "Tertiary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T20:52:36",
@@ -1268,21 +1241,12 @@
     "reasoning": "Content primarily discusses value-based prioritization in the context of Scrum, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T20:52:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses value-based prioritization in Scrum without addressing industry news, updates, or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T20:52:41",
+    "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses value-based prioritization and Scrum practices, with no clear focus on metrics or learning.",
     "level": "Ignored"
   },
@@ -1297,11 +1261,14 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T17:28:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses value-based prioritization, which is related to delivering value but primarily focuses on Scrum practices rather than the broader principles of Value Stream Management.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses value-based prioritization, which is related to delivering value to stakeholders, a key aspect of Value Stream Management. However, it primarily focuses on backlog prioritization within a Scrum context, which is not the main focus of Value Stream Management. The alignment with core themes is moderate, as it touches on value delivery but lacks depth in discussing techniques for mapping, analysing value streams, or continuous improvement practices.",
     "level": "Tertiary"
   },
   "Organisational Psychology": {
@@ -1324,21 +1291,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T17:28:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses value-based prioritization within the context of Scrum, focusing on delivering value to stakeholders and the prioritization of the product backlog, which aligns closely with Agile practices.",
-    "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T17:28:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the prioritization of the product backlog in relation to delivering value, which is a key aspect of Scrum practices.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions value delivery, which is a key aspect of social technologies, but it lacks a comprehensive discussion on collaboration, decision-making, or the underlying social frameworks. The focus is primarily on value-based prioritization in a Scrum context, which does not fully align with the broader themes of social technologies.",
+    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1349,23 +1310,17 @@
     "reasoning": "Content primarily discusses value-based prioritization in the context of Scrum, which does not align with the principles of BetaCodex or its focus on decentralised and adaptive organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T17:28:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses value-based prioritization in Scrum, which is not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T17:28:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses value delivery and prioritization in the context of product development, aligning well with the principles of the Agile Product Operating Model.",
-    "level": "Secondary"
+    "final_score": 55.0,
+    "reasoning": "The content discusses value-based prioritization, which aligns with the core principles of the Agile Product Operating Model, particularly in delivering customer-centric value. However, it lacks a comprehensive exploration of the APOM framework and its broader implications, focusing instead on specific practices within Scrum. This results in a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1374,6 +1329,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses value-based prioritization in the context of Scrum, which is not directly related to platform engineering.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:35:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:35:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses value-based prioritization in Scrum without any mention of AI or its application in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 75.0,
+    "reasoning": "The content explicitly mentions the Scrum team and the product backlog, which are key components of the Scrum framework. It discusses prioritization in the context of delivering value, aligning with Agile principles. However, the depth of discussion is limited, focusing primarily on value-based prioritization without delving into specific Scrum roles, events, or a comprehensive exploration of Scrum practices.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses value-based prioritization in the context of Scrum, which does not directly address the Shift-Left Strategy. While there is a mention of prioritising tasks, it lacks explicit references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept. The discussion is more focused on stakeholder value rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions prioritization based on value, which is a component of Continuous Improvement, but does not delve into the broader principles or practices associated with it. The focus is more on value delivery rather than on continuous reflection, adaptation, or empirical evidence, which are core to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions prioritization based on value, which relates to aligning team efforts with stakeholder needs. However, it lacks a detailed discussion on how this connects to broader Common Goals within Agile or DevOps frameworks. The focus is more on value delivery rather than explicitly discussing shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions prioritization and value delivery, which are relevant to competence in terms of ensuring quality outcomes. However, it lacks a direct discussion on continuous learning, skill development, or the role of competence in maintaining trust within teams. The focus is primarily on value rather than on the development of capabilities or professionalism.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses value-based prioritization within a Scrum context, which does not directly address the principles or components of the One Engineering System. While it touches on prioritization, it lacks explicit mentions of 1ES, integration of tools, or best practices related to the unified engineering framework. The focus is on stakeholder value rather than the standardisation and integration of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly touches on value delivery, which is a component of Agentic Agility, but it lacks explicit discussion on intentional shaping of outcomes, autonomy, or adaptability. It primarily focuses on value-based prioritization without addressing the broader themes of agency or the distinction between human and AI capabilities.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:41:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content explicitly mentions 'value-based prioritization' and discusses the importance of delivering value to stakeholders, which aligns with the principles of Agile product development. However, the discussion is somewhat limited in depth, focusing primarily on backlog prioritization without delving into broader methodologies or practices that facilitate iterative learning or customer feedback integration. The content does not explore the role of cross-functional teams or continuous improvement practices, which are key aspects of product development. Overall, while it touches on relevant themes, the lack of comprehensive detail and broader context results in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:41:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions delivering value to stakeholders, which is tangentially related to Time to Market. However, it lacks explicit discussion on Time to Market metrics, strategies for improvement, or any detailed exploration of the concept. The focus is more on value-based prioritisation rather than the efficiency of delivering products to market.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:41:26",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses value-based prioritization in the context of Scrum, focusing on stakeholder value and product backlog management. There are no direct mentions of GitHub or its functionalities, and while the concept of prioritization can relate to project management, it does not specifically align with GitHub's tools or practices. The depth of discussion is limited to general Agile principles without any reference to GitHub services or methodologies.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:41:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the concept of value delivery, which aligns with Agnostic Agile principles, but it primarily focuses on the mechanics of Scrum and does not engage deeply with the broader philosophy of Agnostic Agile. There is a lack of explicit discussion on the principles of Agnostic Agile or comparisons with other frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:41:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions delivering value to stakeholders, which aligns with the CaaP focus on customer value. However, it lacks explicit discussion of the company as a product concept, and the depth of exploration into organisational strategies or customer feedback integration is minimal. The focus on value-based prioritization is relevant but does not fully encompass the broader themes of CaaP.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:41:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly touches on the concept of value delivery, which is a fundamental aspect of Cell Structure Design, but it does not explicitly mention the principles of the Beta Codex or the characteristics of autonomous cells. The focus is primarily on value-based prioritization within a Scrum context, which is more aligned with traditional agile practices rather than the decentralised, network-based structure of Cell Structure Design. Therefore, while there is a minimal connection, it lacks depth and direct relevance to the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:41:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses value-based prioritization within a Scrum context, which does not directly address Liberating Structures or their facilitation techniques. There are no explicit mentions of Liberating Structures, and the discussion lacks alignment with the core themes of participation, collaboration, or the specific techniques associated with Liberating Structures. The depth of discussion is minimal, focusing solely on prioritization rather than group dynamics or facilitation methods.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:41:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses value-based prioritization within a Scrum context, which is a core agile practice. However, it does not explicitly mention Hybrid Agile or engage with the complexities and challenges associated with merging traditional and agile methodologies. The focus is on delivering value rather than examining the implications of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:41:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions 'value' in the context of prioritization but does not explicitly discuss Unrealised Value or its indicators. While it touches on the importance of delivering value to stakeholders, it lacks a focus on potential improvements or innovation opportunities, which are central to the concept of Unrealised Value. The discussion is more aligned with operational metrics rather than exploring untapped opportunities or strategic insights.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:41:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly touches on the concept of value delivery, which is a component of scaling discussions, but it does not explicitly address scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The focus is primarily on value-based prioritization within a Scrum context, which is more aligned with general Agile practices rather than the specific strategies and frameworks required for scaling.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:41:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'value' in the context of prioritization but lacks explicit discussion on Current Value as defined in Evidence-Based Management. While it touches on the importance of delivering value to stakeholders, it does not provide specific metrics or indicators related to Current Value, nor does it delve into techniques for gathering or analysing Current Value data. The discussion is more focused on prioritization rather than a comprehensive evaluation of Current Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:41:50",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content briefly mentions prioritization in the context of delivering value to stakeholders, which aligns with project management principles. However, it primarily focuses on Scrum, which is a specific agile methodology, and does not delve into broader project management concepts or methodologies. The discussion lacks depth regarding project lifecycle phases, tools, or roles, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:41:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses value-based prioritization within a Scrum context, which is a traditional Agile methodology. It does not explicitly mention Open Space Agile or its principles, nor does it engage with the core themes of collective participation, psychological safety, or co-creation that are central to Open Space Agile. The discussion lacks depth regarding the Open Space Technology framework and its application in Agile transformations, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content explicitly discusses the concept of value delivery as it relates to prioritizing product backlog items based on their value to stakeholders. This aligns closely with the Principle category as it demonstrates actionable guidance on how teams should behave and make decisions according to value delivery. However, the discussion lacks a deeper exploration of other principles or a broader context within Agile. Thus, while it touches on a key principle effectively, it doesn't encompass a comprehensive discussion on multiple guiding principles that shape team behavior, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses aspects of value-based prioritization within a product backlog in a Scrum context, but it does not mention any specific tools or mechanisms that facilitate this process. The focus is primarily on prioritization principles rather than tools, which falls short of the specific requirements for the 'Tool' category. While there is alignment with concepts of Agile and Scrum, the absence of a tool focus diminishes the overall relevance.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content briefly mentions 'value' and discusses prioritization in a way that suggests a focus on delivering stakeholder value. However, it primarily addresses value delivery as a measurable outcome rather than exploring the deeper beliefs and principles that guide behavior and decision-making within organizations. The content lacks a thorough examination of the underlying values that influence team dynamics or organizational behavior, which diminishes its alignment with the 'Values' category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions the concept of value delivery and prioritization in a Scrum team context, which relates vaguely to the philosophy of Agile regarding value creation. However, it primarily focuses on specific practices (backlog prioritization) rather than exploring the foundational beliefs or theoretical underpinnings of Agile methodology. The discussion lacks depth in the philosophical aspects and does not engage with broader cultural or decision-making implications, thus limiting its alignment with the philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions concepts related to value-based prioritization within the Scrum framework, but does not deeply explore the principles or methodologies that underpin the discipline of Agile. It focuses more on specific practices without discussing the systemic application or maturation of Agile as a discipline.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 37.0,
+    "ai_mentions": 3,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content mentions the product backlog and prioritization but lacks a detailed exploration of the artifact's structure, purpose, or management. The focus is more on value delivery rather than an in-depth discussion of artifacts as formal representations of work.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on value-based prioritization within a Scrum context, which is unrelated to observability. There are no direct mentions or discussions that align with observability concepts, metrics, or practices. The content does not delve into any principles, tools, or the role of observability in software systems, thus failing to meet the criteria for this category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 55.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content briefly mentions the concept of value-based prioritization, which aligns with the practice of prioritizing work based on its value to stakeholders. However, the discussion lacks detail about actionable practices or techniques related to the execution of this prioritization within a team context. While it touches on a key aspect of effective backlog management, it does not delve deeply into the specific practices that enhance team performance or collaboration.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content mentions the product backlog prioritization, which is directly related to Scrum method procedures, demonstrating a structured approach to value delivery. However, the discussion lacks in-depth procedural description and focuses more on the concept of value rather than specific methods or practices associated with Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 27.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 27.0,
+    "reasoning": "While the content discusses prioritization and value delivery, it lacks a direct focus on specific models or frameworks that align with the category. The mention of value is relevant but does not engage with the conceptual models of Agile or Lean methodologies extensively. The topic veers more towards practical application rather than a rigorous discussion of how models facilitate decision-making or enhance systems thinking.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 58.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "The content briefly mentions Scrum in the context of prioritizing the product backlog, which aligns with Agile framework principles. However, it lacks a deep discussion of how this prioritization fits into a larger framework or provides detailed strategies for implementation. The focus on value delivery hints at a recognition of Agile principles but does not thoroughly explore the framework itself or its adaptability to different contexts.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses delivering value to stakeholders, which aligns with the concept of prioritizing customer value in Agile practices. However, it doesn't explicitly mention any specific tenets or actionable guiding rules that shape decision-making and behaviors within an organization, making it more of a general discussion on prioritization rather than a focused exploration of tenets. Additionally, the reference to the product backlog hints at a Scrum context, but lacks depth in discussing how this relates to larger guiding principles or tenets.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:09:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly discusses value-based prioritization, which relates to delivering value to stakeholders. However, it does not delve into the broader concept of capabilities within Agile or DevOps contexts, nor does it explore how prioritization contributes to enduring competencies or organizational capabilities. The focus on Scrum team roles and prioritization techniques detracts from a discussion centered on capability development, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

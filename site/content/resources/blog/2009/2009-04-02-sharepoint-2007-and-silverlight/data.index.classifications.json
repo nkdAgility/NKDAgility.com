@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses SharePoint and Silverlight development, with no relevance to Agile Product Management.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practical methods and techniques related to deploying Silverlight to SharePoint, which aligns with the category, but it is primarily focused on a book review rather than a comprehensive exploration of Agile or DevOps tooling.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T03:00:08",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T03:00:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on SharePoint 2007 and Silverlight, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T03:00:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a book on SharePoint and Silverlight development, with no focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T03:00:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a book review about SharePoint and Silverlight, with no significant emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T03:00:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses SharePoint and Silverlight development, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2007 and Silverlight, with no direct mentions or discussions related to Evidence-Based Management. It lacks any empirical evidence or metrics that would align with the core themes of EBM, such as current value, time to market, or outcome management.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses deploying Silverlight to SharePoint and includes some aspects of installation and configuration, but the primary focus is on a book review rather than detailed installation procedures.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions deploying solutions and debugging against SharePoint, which relates to installation and configuration. However, the primary focus is on a book review rather than providing actionable installation or configuration instructions. The discussion lacks depth in terms of specific installation procedures or configuration best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T03:00:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a book on SharePoint and Silverlight development, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses a technical book on SharePoint and Silverlight, with no focus on sociotechnical interactions or organisational context.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T03:00:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses SharePoint and Silverlight development, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T03:00:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint and Silverlight development, with no clear focus on DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on SharePoint 2007 and Silverlight, discussing a book that provides practical guidance on development with these technologies. There are no direct mentions of DevOps principles, practices, or cultural shifts. The discussion lacks alignment with key DevOps topics such as automation, collaboration, or continuous improvement, and does not delve into any relevant depth regarding DevOps as a philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses a book on SharePoint and Silverlight development, with no focus on decision-making processes or related themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T03:00:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a book on SharePoint and Silverlight development, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T03:00:27",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a book on SharePoint and Silverlight development, with no focus on flow efficiency or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T03:00:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical book on SharePoint and Silverlight, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T03:00:36",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a book on SharePoint and Silverlight development, with no focus on metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses SharePoint 2007 and Silverlight development, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T03:00:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific book related to SharePoint and Silverlight, providing a review and insights into its content and usefulness.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T03:00:48",
@@ -305,7 +233,7 @@
     "reasoning": "Content primarily discusses a book on SharePoint 2007 and Silverlight, focusing on coding and deployment rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T03:00:57",
     "ai_confidence": 0,
@@ -316,11 +244,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T03:00:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a book on SharePoint 2007 and Silverlight, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on SharePoint 2007 and Silverlight development, with no mention of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined for the category, and the discussion lacks depth regarding agile practices.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily discusses a book on SharePoint and Silverlight development, with no focus on organisational agility or related themes.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily reviews a book related to SharePoint and Silverlight, which is relevant to technology but does not focus on Agile or DevOps specifically.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T03:01:02",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a book on SharePoint and Silverlight development, with no clear focus on application lifecycle management practices or methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T03:01:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint and Silverlight development, with no mention of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +283,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:40",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a SharePoint book and development with Silverlight, with no mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical aspects of using SharePoint and Silverlight, including code examples and development practices, but is primarily focused on a book review rather than an in-depth discussion on software craftsmanship or engineering principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a book on SharePoint 2007 and Silverlight, which includes technical topics such as creating custom field types and deploying solutions. However, the focus is more on the book's overview and personal impressions rather than a deep exploration of software craftsmanship principles or best practices. While there are mentions of coding and methods, the discussion lacks the depth and structured analysis expected in the Technical Mastery category.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the development of SharePoint and Silverlight, with no clear emphasis on Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2007 and Silverlight, discussing a specific book and its contents. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. Overall, the depth of discussion regarding Continuous Delivery is minimal, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:40",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a book review about SharePoint and Silverlight, with no discussion on backlog item readiness or Agile practices.",
     "level": "Ignored"
   },
@@ -577,37 +496,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:40",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on SharePoint development and Silverlight, with no mentions of Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses development techniques related to SharePoint and Silverlight, but it focuses more on personal reflections and recommendations regarding a specific book rather than systemic software development practices.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on SharePoint and Silverlight development, with no mentions of Agile principles or project management.",
-    "level": "Ignored"
+    "final_score": 68.0,
+    "reasoning": "The content discusses a book on SharePoint 2007 development using Silverlight, which is relevant to software development. However, the focus is more on the book's content and personal opinions rather than on specific software development methodologies or practices. While there are mentions of coding and deployment, the discussion lacks depth in terms of software engineering principles or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:40",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses SharePoint and Silverlight development without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +614,6 @@
     "reasoning": "Content heavily discusses a technical book on SharePoint and Silverlight without any mention of customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on SharePoint and Silverlight development and does not pertain to Scrum or its scaling.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:40",
@@ -726,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint and Silverlight development, with no relevance to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a book about SharePoint and Silverlight development, which is unrelated to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -757,10 +652,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T10:29:40",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Sharepoint 2007 and Silverlight development techniques and does not discuss principles, practices, or benefits of asynchronous development.",
     "level": "Ignored"
   },
@@ -802,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:40",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a book review and practical coding insights related to Sharepoint and Silverlight, with no discussions on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on SharePoint and Silverlight development, with no relevant topics related to Scrum or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on SharePoint 2007 and Silverlight development, with no mention of Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content focuses on a book review and practical coding insights related to Sharepoint and Silverlight, with no discussions on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,12 +742,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "Content discusses development tools and techniques related to SharePoint and Silverlight, but does not primarily focus on the delivery of functional, high-quality software or concepts central to 'Working Software' in Agile or Scrum frameworks.",
-    "level": "Quaternary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses a book on SharePoint 2007 and Silverlight, which does not focus on the delivery of functional software or the principles of Agile and Scrum. While it mentions aspects of software development, such as creating custom field types and deploying solutions, it lacks a direct discussion on working software as defined in the category. The depth of discussion on relevant topics is minimal, and the overall focus is more on the book's content rather than on working software principles.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -928,10 +808,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T10:29:40",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses SharePoint and Silverlight development without mentioning hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
@@ -1018,10 +898,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T10:29:40",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint development and Silverlight, with no mention of Behaviour Driven Development topics.",
     "level": "Ignored"
   },
@@ -1034,22 +914,13 @@
     "reasoning": "Content primarily discusses SharePoint 2007 and Silverlight development without a focus on digital transformation strategies or their impact on business operations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:40",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical book on SharePoint and Silverlight development, with no mention of MVP concepts or product validation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses SharePoint 2007 and Silverlight development, with no clear topic related to AI, Agile, or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1099,11 +970,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Sharepoint and Silverlight development, with no discussion on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2007 and Silverlight, discussing practical development skills and resources. There are no direct mentions of Test First Development principles, success criteria, or testing practices. The discussion lacks alignment with the core themes of Test First Development, and the depth of discussion is minimal, as it does not delve into any relevant testing methodologies or practices.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1117,12 +991,15 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions deploying solutions and provides some useful ideas and methods regarding deployment in the context of SharePoint and Silverlight, but it is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions deployment in the context of deploying Silverlight to SharePoint, but it lacks a detailed discussion on deployment strategies. The focus is more on the book's content and its coding aspects rather than on methodologies or practices related to deployment. While there is some relevance, it does not align closely with the core themes of the category.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1162,11 +1039,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 47.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions deploying solutions and debugging, which are relevant to troubleshooting, but the primary focus is on reviewing a book and its contents rather than a clear discussion on troubleshooting techniques.",
+    "final_score": 47.0,
+    "reasoning": "The content briefly mentions debugging against SharePoint, which relates to troubleshooting, but the primary focus is on a book review rather than a detailed discussion of troubleshooting techniques or methodologies. While there is some alignment with the category through the mention of deployment and debugging, the overall depth and direct mentions are limited.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1180,11 +1060,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on SharePoint and Silverlight development, with no relevant discussion on the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on SharePoint 2007 and Silverlight, with no mention of Scrum, Scrum Masters, or related agile practices. It does not align with any of the key topics associated with the Scrum Master role, nor does it provide any depth or discussion relevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1086,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on SharePoint and Silverlight development, with no discussion on working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:29:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Sharepoint and Silverlight book, which does not relate to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1306,10 +1180,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T10:29:41",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on SharePoint 2007 and Silverlight development, with no relevant discussion on Lean Product Development principles or processes.",
     "level": "Ignored"
   },
@@ -1331,15 +1205,6 @@
     "reasoning": "Content heavily discusses SharePoint and Silverlight development, which does not relate to the topic of accountability in Agile.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses SharePoint and Silverlight, which are unrelated to Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:41",
@@ -1351,20 +1216,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:41",
+    "calculated_at": "2025-04-10T15:56:17",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Sharepoint and Silverlight development, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:03:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint and Silverlight development, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of SharePoint 2007 and Silverlight integration, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions development skills, it does not align with the core themes of social technologies, such as self-organisation or collective intelligence. The depth of discussion is limited to technical details, further distancing it from the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1242,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of SharePoint and Silverlight development, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:37:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses SharePoint and Silverlight development, with no focus on Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:37:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses SharePoint and Silverlight development, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses SharePoint 2007 and Silverlight, with no direct mentions of Scrum principles, roles, events, or practices. It does not align with the core themes of Scrum, such as team dynamics or iterative progress, and lacks any depth in discussing Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a book on SharePoint 2007 and Silverlight, focusing on coding and deployment techniques. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes of early integration of testing, security, or compliance in software development. The content lacks depth in addressing any aspects related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2007 and Silverlight, discussing a specific book and its technical aspects. There are no direct mentions of Continuous Improvement principles, nor does it align with the core themes of the category. The discussion lacks depth regarding Continuous Improvement, making it irrelevant to the classification.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2007 and Silverlight, discussing a specific book and its technical aspects. There are no direct mentions of Common Goals, nor does it align with the core themes of Agile or DevOps. The discussion lacks depth regarding shared objectives or strategic alignment, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific book about SharePoint 2007 and Silverlight, discussing its practical applications and coding aspects. While it touches on enhancing development skills, it does not explicitly address the broader themes of competence, such as continuous learning or the importance of skill development in Agile or DevOps contexts. The discussion lacks depth regarding the principles of professionalism and quality delivery, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2007 and Silverlight, discussing practical development skills and resources. There are no direct mentions of Agentic Agility, nor does it align with the core themes of intentionality, autonomy, or adaptability. The discussion lacks depth regarding the transformative capacity of individuals or systems in socio-technical environments.",
     "level": "Ignored"
   }
 }

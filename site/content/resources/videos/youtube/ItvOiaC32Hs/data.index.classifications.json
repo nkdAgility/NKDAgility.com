@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:46:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses chaos in teams and the importance of alignment towards common goals, but it does not specifically address Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:46:55",
@@ -19,39 +10,27 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T15:46:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of alignment and common goals within teams and organisations, which relates to Systems Thinking principles. However, it primarily focuses on chaos in agile teams rather than a comprehensive exploration of Systems Thinking.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of alignment and shared goals within teams and organisations, which touches on the interconnectedness of components in a system. However, it lacks explicit references to Systems Thinking principles, techniques, or frameworks, and does not delve deeply into the complexities of organisational dynamics or feedback loops.",
     "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T15:46:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of alignment and common goals within teams and organisations, which relates to leadership practices, but it primarily focuses on the issue of chaos rather than leadership strategies or techniques.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T15:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of chaos in Agile teams without reference to specific events, presentations, or structured learning experiences.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T15:47:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the importance of alignment and common goals within Agile teams, but does not focus on discovery or learning processes.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of having a common goal within teams and the organisation, which aligns with leadership's role in fostering collaboration and direction. However, it lacks explicit discussions on leadership strategies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -62,32 +41,17 @@
     "reasoning": "Content primarily discusses team alignment and organisational goals, which are not directly related to software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T15:47:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses chaos in agile teams and organisational alignment, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:47:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of aligning goals within teams and organisations, which is a significant aspect of product management, but it primarily focuses on the chaos in Agile teams rather than specific product management strategies.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T15:47:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of chaos in Agile teams without providing news, updates, or reviews related to Agile methodologies or tools.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of aligning teams with organisational goals, which is a key aspect of product management. However, it primarily focuses on the chaos within teams rather than specific product management methodologies or frameworks. While it touches on the need for a common goal, it lacks detailed exploration of product management strategies or techniques, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -116,32 +80,29 @@
     "reasoning": "Content primarily discusses team alignment and organisational goals rather than specific engineering practices or methodologies related to technical excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T15:47:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of alignment and collaboration within Agile teams, highlighting the impact of shared goals on team dynamics and organisational coherence.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:47:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile team dynamics and the challenges of alignment, without a focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and the challenges associated with chaos in Agile teams, rather than discussing DevOps principles or practices. While there are mentions of collaboration and alignment, which are relevant to DevOps, the overall emphasis is on Agile practices and team dynamics, leading to a low confidence score for the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:47:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of alignment and common goals within teams, which relates to Agile practices and team dynamics, but it does not delve deeply into specific frameworks or methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of alignment, communication, and collaboration within Agile teams, which aligns with the core themes of Social Technologies. However, while it touches on these aspects, it does not delve deeply into specific frameworks or methodologies that promote collaboration or decision-making. The focus is more on the challenges of chaos rather than a thorough exploration of social technologies themselves.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -163,20 +124,26 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses chaos in agile teams and alignment towards common goals, with no reference to continuous delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses chaos in Agile teams and strategies for alignment, which are not directly related to Continuous Delivery principles. While it touches on aspects of team alignment and communication, it lacks explicit references to Continuous Delivery practices, automation, or the delivery cycle. The focus is more on Agile methodologies rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses chaos in Agile teams and organizational alignment, with no reference to Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses chaos in Agile teams and strategies for alignment and communication, with no direct mention of Test First Development principles or practices. While it touches on the importance of clear goals and communication, it does not delve into testing methodologies or the role of success criteria in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -190,10 +157,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses team alignment and goals, which are not related to installation or configuration topics.",
     "level": "Ignored"
   },
@@ -253,28 +220,22 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of aligning goals within teams and organizations, which relates to Agile Leadership themes of fostering collaboration and empowerment. However, it does not explicitly focus on leadership roles or practices, making it a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to team alignment and goals within an agile context, but does not delve deeply into specific agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the challenges of chaos within Agile teams and offers strategies for overcoming these issues, which aligns with the themes of Agile Leadership. It touches on the importance of clear goals, communication, and alignment with organisational vision, all of which are relevant to leadership in an Agile context. However, while it addresses leadership indirectly, it does not explicitly focus on the role of Agile leaders or servant leadership, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of having aligned goals within teams and organizations but does not specifically address cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
@@ -289,20 +250,26 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses chaos in team alignment and organizational goals rather than focusing on lead time as a measure of delivery efficiency.",
+    "calculated_at": "2025-04-11T08:40:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of chaos in Agile teams and strategies for alignment and communication. While it touches on themes of efficiency and productivity, it does not directly mention Lead Time or provide insights into its measurement, importance, or impact on customer satisfaction. The discussion is more focused on overcoming chaos rather than optimising Lead Time, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the alignment of Agile teams towards common goals, which directly relates to strategic alignment and the development of a collaborative approach in Agile environments.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of alignment within Agile teams and offers strategies to overcome chaos, which directly relates to strategic alignment and optimisation of delivery processes. It provides specific recommendations for establishing clear goals and fostering communication, aligning well with the core themes of the Strategy category. However, while it touches on strategic concepts, it does not delve deeply into metrics or KPIs, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -330,15 +297,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content mainly discusses issues of alignment and common goals within teams, rather than focusing on coaching techniques or the practice of facilitating growth and development.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses chaos in teams and organisations without specifically addressing Scaling Kanban principles, practices, or their application.",
     "level": "Ignored"
   },
   "Windows": {
@@ -385,15 +343,6 @@
     "final_score": 0.0,
     "reasoning": "Content discusses alignment and goal-setting within Agile teams, which is not directly related to product validation methodologies or user engagement.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of aligning teams and having clear goals, which relates to fostering a culture of adaptability and facilitating change. However, it primarily focuses on the chaos in teams rather than specifically addressing resilience or change management strategies in a comprehensive manner.",
-    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -442,19 +391,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of alignment and shared goals within teams, which relates to team collaboration, but the primary focus is on chaos and misalignment rather than collaboration techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of alignment, communication, and collaboration within Agile teams, which are core themes of Team Collaboration. It provides specific recommendations for fostering open communication and cross-functional collaboration, indicating a strong focus on enhancing teamwork dynamics. The depth of discussion is substantial, addressing the chaos factor and its impact on team performance, but it could benefit from more explicit examples or case studies to further strengthen its alignment with the category.",
+    "level": "Primary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the importance of alignment and common goals within teams and organizations but does not address metrics, data utilization, or learning processes explicitly related to evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -478,21 +430,27 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses alignment towards common goals and the chaos that arises without it, indicating an awareness of navigating complex environments, but it primarily focuses on Agile team dynamics rather than a comprehensive sensemaking framework.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of chaos within Agile teams, highlighting the importance of clear goals, communication, and alignment with organisational vision. While it does not explicitly mention sensemaking, it aligns with the core themes of interpreting complexity and making informed decisions. The depth of discussion on strategies to overcome chaos contributes to a moderate confidence score, but the lack of direct references to sensemaking frameworks or models limits its overall alignment.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of aligning goals throughout the organization, which is relevant to portfolio management, but primarily focuses on team-level dynamics rather than the overarching management of a project portfolio.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of alignment and clear goals within Agile teams, which touches on aspects of strategic alignment and stakeholder engagement relevant to portfolio management. However, it primarily focuses on team-level dynamics and Agile practices rather than the broader context of managing a portfolio of projects. The discussion lacks depth in portfolio-specific methodologies and frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -523,29 +481,26 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of having aligned goals within teams and organizations, which is relevant to decision-making processes. However, it does not provide structured methodologies or techniques specifically focused on decision-making.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of chaos on decision-making processes within Agile teams, highlighting how a lack of clear goals and communication can lead to ineffective decisions. While it does touch on decision-making, the primary focus is on chaos and alignment rather than structured, evidence-based methodologies. The recommendations provided are practical but do not delve deeply into empirical evidence or frameworks for decision-making, which limits the depth of discussion in this category.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of having a clear common goal for teams and the alignment of organizational and product goals, which touches on aspects of product strategy as a secondary theme. However, it primarily focuses on addressing chaos in team dynamics rather than on specific methodologies or frameworks of product strategy.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of aligning teams towards common goals, which is a theme related to scaling agility. However, it primarily focuses on team-level dynamics and the chaos within teams, rather than implementing broader organisational strategies.",
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of alignment and clear goals within Agile teams, which touches on aspects of product strategy. However, it primarily focuses on team dynamics and Agile practices rather than explicitly addressing product vision, roadmapping, or market analysis. The discussion lacks depth in strategic planning and does not provide a comprehensive exploration of product strategy methodologies.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -559,38 +514,23 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of chaos on teams, which touches on team dynamics and organizational alignment, but it primarily focuses on Agile methodologies rather than psychological principles.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the challenges of alignment and collaboration within Agile teams, without mentioning AI or automation technologies.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on team dynamics and the importance of shared goals, which are relevant to organisational psychology. However, it primarily focuses on Agile methodologies and the chaos within teams rather than delving into psychological principles or theories. The discussion lacks depth in exploring psychological aspects such as motivation, leadership styles, or employee engagement strategies.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses chaos in teamwork and alignment towards goals but does not focus specifically on Scrum Team dynamics, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on general discussions about chaos in Agile teams and the importance of alignment towards common goals, without practical techniques or tooling being a central theme.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -604,30 +544,27 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses general themes of chaos and alignment within Agile teams without focusing specifically on the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the challenges of chaos in Agile teams and offers strategies for alignment and communication, which are relevant to the Scrum Master's role. However, it does not explicitly mention the Scrum Master or delve deeply into their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the alignment of goals across the organization, indicating a need for collaborative effort and adaptability beyond just individual teams, making enterprise agility a major theme.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses issues of chaos in Agile teams without reference to specific products, tools, or literature on Agile methodologies.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of chaos on Agile teams and how it affects the entire organisation, which aligns with the principles of Enterprise Agility. It addresses the need for clear goals, communication, and cross-functional collaboration, all of which are essential for fostering a culture of agility. However, the primary focus remains on team-level issues rather than a comprehensive organisational perspective, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -665,15 +602,6 @@
     "reasoning": "Content primarily focuses on Agile conflicts and team alignment rather than Lean methodologies or principles.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of having common goals and alignment within teams and organizations, suggesting a secondary focus on accountability and transparency in understanding and contributing to those goals.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T23:35:51",
@@ -685,11 +613,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of aligning teams and organisational goals to prevent chaos, which emphasizes the interplay between social aspects (team alignment, mutual understanding) and technical processes (goal setting, direction of work). This fits well within the Sociotechnical Systems category.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the interplay between team dynamics, communication, and organisational goals, which aligns with sociotechnical systems. However, while it touches on these themes, it primarily focuses on chaos in Agile teams without deeply exploring the broader sociotechnical implications or providing extensive theoretical frameworks. The recommendations for overcoming chaos suggest an understanding of sociotechnical interactions, but the depth of discussion on these aspects is limited.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -701,23 +632,17 @@
     "reasoning": "Content heavily discusses alignment in Agile teams, not source control practices.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of alignment and collaboration not only at the team level but also at the organizational level, which is relevant to scaled Agile principles.",
-    "level": "Tertiary"
-  },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of aligning teams with organizational goals, which is a theme related to change management, though it primarily focuses on chaos in Agile teams rather than deep change management strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the chaos factor in Agile teams and offers strategies for overcoming it, which aligns with change management principles. However, it primarily focuses on the symptoms of chaos rather than a comprehensive exploration of change management strategies or practices. While it mentions the importance of aligning teams with organisational goals and fostering communication, it lacks depth in discussing the broader implications of change management within Agile contexts.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -739,14 +664,17 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aligning agile teams towards common goals, which is related to the role of technical leadership in guiding development teams, but it does not explicitly focus on agile methodologies or technical leadership practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges of chaos in Agile teams and offers strategies for overcoming these issues, which aligns with the principles of technical leadership. However, while it touches on Agile practices and team alignment, it lacks a direct focus on technical leadership roles, mentoring, or specific agile ceremonies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:35:51",
     "ai_confidence": 0,
@@ -766,38 +694,38 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aligning goals within Agile teams, which relates to product management but does not dive deeply into specific Agile practices or methodologies.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly discusses team alignment and organizational goals without focusing on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the challenges of chaos in Agile teams and offers strategies for alignment and communication, which are relevant to Agile Product Management. However, it lacks direct references to specific Agile roles or practices, and while it touches on Agile methodologies, it does not delve deeply into product management aspects such as backlog prioritisation or stakeholder engagement.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses the alignment of goals within teams and their impact on organisational success, which relates to organisational dynamics. However, it primarily focuses on Agile teams and chaos rather than systems thinking as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the dynamics of chaos within Agile teams and its impact on organisational effectiveness, which aligns with the principles of systems thinking. It highlights the interplay between team alignment, communication, and organisational goals, reflecting a holistic view of organisational behaviour. However, while it touches on organisational dynamics, the primary focus is on Agile practices rather than a comprehensive exploration of systems thinking, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:40:51",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses chaos in team alignment and organizational goals, but does not focus on throughput, measurement, or optimization of work completion rates.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses chaos in Agile teams and strategies for alignment and communication, without any direct mention of throughput as a delivery metric. While it touches on themes of team alignment and productivity, it does not provide any analysis or visualisation of throughput, nor does it discuss its calculation or trends. The focus is more on overcoming chaos rather than measuring delivery capacity, which is essential for the throughput category.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -820,10 +748,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses chaos in team alignment and organizational goals, but does not focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -838,46 +766,43 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "While the content touches on themes of chaos in teams and the importance of alignment towards common goals, it does not focus specifically on Agile Planning Tools, their methodologies, or techniques. The primary theme is more about team alignment rather than the tools or techniques for planning in Agile contexts.",
-    "level": "Quaternary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of chaos in teams and alignment with organizational goals, without a clear focus on Scrum principles or practices.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses elements of team alignment and the importance of having clear goals, which are relevant to self-organisation principles. However, it primarily focuses on the chaos that arises from a lack of alignment rather than directly addressing self-organisation practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of clear goals, communication, and alignment within teams, which are essential for self-organisation. It provides practical recommendations that align with fostering autonomy and collaboration, although it primarily focuses on addressing chaos rather than self-organisation itself. The depth of discussion on techniques and strategies for improving team dynamics contributes positively to the score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of alignment and common goals across the organization, which is relevant to large scale agility, but primarily focuses on the challenges at the team and organizational levels rather than specific frameworks or strategies for scaling Agile.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of chaos on Agile teams and the importance of alignment with organisational goals, which aligns with the principles of Large Scale Agility. However, it primarily focuses on team-level issues and recommendations rather than enterprise-level frameworks or strategies. While it touches on cross-team collaboration and the need for clear communication, it lacks in-depth exploration of scaling Agile methodologies or specific frameworks, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues of alignment and chaos within Agile teams, rather than specifically addressing the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -910,20 +835,26 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the importance of shared goals and organizational alignment, which are key elements of team motivation. However, it does not delve deeply into specific motivational strategies, but rather focuses on the consequences of lack of alignment.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of chaos on team dynamics and highlights the importance of clear goals, open communication, and alignment with the organisation's vision, which are all relevant to team motivation. However, while it touches on these aspects, the primary focus is on identifying chaos rather than deeply exploring motivational strategies or practices. The recommendations provided do align with motivational themes but lack extensive depth in discussing how to foster engagement and high performance specifically.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for alignment and common goals within Agile teams, which is relevant to the Agile Product Operating Model, but it does not primarily focus on product-centric development or the specifics of the model itself.",
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses chaos in Agile teams and offers strategies for alignment and communication, which are relevant to the Agile Product Operating Model. However, it primarily focuses on general Agile practices rather than the specific principles and frameworks of the APOM. The mention of Agile methodologies is too broad and lacks a direct connection to product management principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -946,10 +877,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses chaos in team alignment and organizational goals rather than directly addressing working software or its characteristics.",
     "level": "Ignored"
   },
@@ -973,12 +904,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of alignment and shared goals in Agile teams, which is a major theme related to product delivery, though it mainly focuses on chaos and teamwork rather than specific delivery methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges of chaos in Agile teams, which directly relates to product delivery methodologies. It highlights the importance of clear goals, communication, and alignment with organisational vision, all of which are crucial for effective product delivery. While it does not delve deeply into specific product delivery practices, it provides actionable recommendations that align with the category's focus on improving delivery processes.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -991,21 +925,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of aligning goals within teams and organizations, which is relevant to the Agile philosophy of collaboration and value delivery. However, it primarily focuses on the chaos factor and not specifically on Agile principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges of chaos within Agile teams and offers recommendations for overcoming these issues, which aligns with the Agile Philosophy's emphasis on collaboration, clear goals, and adaptability. However, while it touches on Agile principles, it primarily focuses on practical issues and solutions rather than a deep exploration of the underlying philosophy itself.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team alignment within agile frameworks, a secondary theme in the context of Agile methodologies. However, it primarily focuses on organizational alignment rather than specific software development practices.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses Agile methodologies, focusing on the challenges and solutions related to team alignment and communication within Agile frameworks. It explicitly mentions Agile practices and provides detailed recommendations for overcoming chaos in teams, which aligns well with the Software Development category. The depth of discussion on Agile practices and their impact on team dynamics further supports a high confidence score.",
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1027,12 +967,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "Content discusses the importance of alignment and common goals for teams, which relates to team collaboration and effectiveness, but primarily focuses on the broader concept of chaos within teams rather than specific agile practices or methodologies.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the challenges of chaos within Agile teams and provides actionable strategies for overcoming these issues, which aligns closely with the core themes of team performance. It addresses the importance of clear goals, communication, and alignment with organisational vision, all of which are critical for enhancing team dynamics and productivity. The depth of discussion is substantial, offering specific recommendations and insights into the impact of chaos on team morale and decision-making.",
+    "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1045,10 +988,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses chaos and alignment of goals in Agile teams without directly addressing the Definition of Done.",
     "level": "Ignored"
   },
@@ -1059,15 +1002,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses issues of team alignment and organization goals, which are not related to Continuous Integration principles or practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content revolves around Agile team dynamics and organizational goals, with no mention of AI applications or relevance.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1081,38 +1015,38 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of having a common goal and collaboration within teams, which aligns with Agile values, but it primarily focuses on the challenges of chaos in teams rather than explicitly discussing Agile principles or values.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges of chaos in Agile teams and offers recommendations for overcoming these issues, which aligns with Agile principles of collaboration and clear communication. However, it does not explicitly mention the Agile Manifesto or its core values, leading to a moderate confidence score. The depth of discussion on strategies to mitigate chaos provides a reasonable level of insight into Agile values, but the primary focus remains on the chaos factor rather than the values themselves.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the alignment of teams towards common organizational goals, which relates to the theme of organizational change, but the primary focus appears to be on addressing team chaos rather than a structured change management process.",
-    "level": "Tertiary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of having aligned goals within Agile teams, which is relevant to software developers' collaboration and productivity. However, it does not delve deeply into specific Agile practices or the role of developers themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of alignment within teams and the organisation, which touches on the broader theme of organisational change. However, it lacks explicit mention of change management strategies or frameworks, and the depth of discussion is limited to the chaos within teams rather than comprehensive organisational transformation. Therefore, while there is some relevance, it does not fully meet the criteria for a strong alignment with the category.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the alignment of agile teams and the chaos factor, which does not focus on empirical evidence or data-driven decision-making in Evidence-Based Management.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the challenges of chaos in Agile teams and offers strategies for alignment and communication. While it touches on the importance of clear goals and communication, it does not explicitly mention Evidence-Based Management or its key topics. The focus is more on Agile practices rather than data-informed decision-making or empirical evidence, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1126,12 +1060,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of having common goals and alignment in teams, which relates significantly to Agile planning principles, but does not delve deeply into specific Agile planning techniques or methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of clear goals, communication, and alignment within Agile teams, which aligns with Agile Planning principles. However, while it touches on Agile practices, it does not delve deeply into specific Agile planning methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -1144,11 +1081,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:40:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and team alignment rather than system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and team dynamics, discussing chaos in Agile teams rather than system configuration. There are no direct mentions of system configuration, and while there are some conceptual overlaps regarding team alignment and communication, these do not align with the core themes of system configuration. The depth of discussion is also low, as it lacks specific details or practices related to system setup, automation, or maintenance.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1169,23 +1109,17 @@
     "reasoning": "Content primarily discusses chaos in teams and the importance of having aligned goals but does not focus specifically on employee engagement or related psychological and social aspects.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues of alignment and chaos in Agile teams, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of alignment and common goals within Agile teams, which relates to the principles of Agile frameworks, but lacks detailed exploration of specific frameworks or their application.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges of chaos within Agile teams and offers recommendations for overcoming these issues, which aligns well with the principles of Agile frameworks. It mentions the importance of clear goals, communication, and the use of Agile practices, indicating a strong conceptual alignment with Agile methodologies. However, while it touches on Agile practices, it does not delve deeply into specific frameworks like Scrum or Kanban, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1207,10 +1141,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T23:35:51",
+    "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to team alignment and chaos in organizations, without specifically addressing remote working practices or Agile methodologies in a remote context.",
     "level": "Ignored"
   },
@@ -1234,12 +1168,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of chaos in agile teams and emphasizes the importance of aligning goals and collaboration, which are relevant to pragmatic approaches in Agile. However, it does not provide specific practical problem-solving strategies or detailed real-world applications, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the chaos in Agile teams and the importance of having a common goal, which aligns with pragmatic thinking in terms of practical problem-solving and navigating complexity. However, it lacks explicit mentions of Agile, Scrum, or DevOps principles and does not delve deeply into specific strategies or techniques, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1252,12 +1189,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses alignment of goals and teamwork within the organization, which relates to elements of organizational culture, but it primarily focuses on chaos within agile teams rather than a deep examination of cultural aspects.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of chaos on team dynamics and organisational alignment, which are key aspects of organisational culture. It highlights the importance of clear goals, communication, and alignment with the organisation's vision, all of which are crucial for fostering a supportive culture for Agile practices. The depth of discussion on strategies to overcome chaos and enhance collaboration further supports its relevance to the category, although it does not explicitly frame these issues as cultural challenges in every instance.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1279,38 +1219,50 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team alignment and shared goals in the context of Agile teams, highlighting the importance of understanding goals, which relates to Agile transformation. However, it does not delve deeply into specific Agile methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the challenges of chaos within Agile teams and offers strategies for overcoming these issues, which aligns well with Agile transformation principles. It mentions the importance of clear goals, communication, and alignment with organisational vision, all of which are crucial for successful Agile transformations. However, while it touches on Agile practices, it does not delve deeply into specific frameworks or methodologies, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of aligning goals within teams and the organization to reduce chaos, which relates to the Agile Strategy category's focus on alignment of organizational vision and execution in Agile contexts.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of alignment within Agile teams and the organisational vision, which directly relates to Agile Strategy. It highlights the consequences of chaos due to misalignment and offers strategies for overcoming these challenges, demonstrating a strong conceptual alignment with the category. The depth of discussion is substantial, providing specific recommendations and insights into fostering an Agile culture, which further supports the classification.",
+    "level": "Primary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to team alignment and common goals, which are relevant to working agreements but does not primarily focus on the creation or implementation of working agreements themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of having a common goal within teams, which is a foundational aspect of working agreements. However, it lacks explicit mention of working agreements themselves and does not delve into specific techniques or examples related to creating or implementing them. The focus is more on the consequences of chaos in teams rather than structured norms for collaboration.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of having clear organizational goals and alignment towards those goals to prevent chaos. It emphasizes how understanding and working towards common objectives is crucial at both team and organizational levels, which directly relates to strategic goals and their impact on business agility.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of establishing clear goals and aligning teams with the organisation's vision, which directly relates to strategic goals. It highlights the negative impact of chaos on team performance and organisational culture, emphasising the need for clear objectives and communication. However, while it touches on strategic alignment, the focus is more on operational challenges and solutions rather than a deep exploration of long-term strategic objectives.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1324,21 +1276,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses alignment of goals within teams and the organisation, which relates to organisational agility, but it primarily focuses on the concept of chaos within agile teams rather than deeper agility practices or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the challenges of chaos within Agile teams and offers strategies for overcoming these issues, which aligns well with the principles of organisational agility. It addresses the importance of clear goals, communication, and alignment with the organisation's vision, all of which are key themes in fostering agility. The depth of discussion is substantial, providing specific recommendations and insights into the impact of chaos on organisational effectiveness. Overall, the content is a strong fit for the category, focusing on enhancing adaptability and responsiveness.",
+    "level": "Primary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:35:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of alignment and having common goals within teams, which relates to fostering a culture of adaptability and innovation, a key aspect of business agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges of chaos within Agile teams and offers strategies for alignment and communication, which are essential for fostering business agility. It directly addresses the importance of clear goals and organisational alignment, aligning well with the principles of business agility. However, while it touches on Agile practices, it does not delve deeply into broader business agility concepts or case studies, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1375,5 +1333,432 @@
     "final_score": 0.0,
     "reasoning": "Content discusses team alignment and chaos in agile teams but does not focus specifically on asynchronous development practices.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:47:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and team alignment, with no focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:47:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses team alignment and chaos in Agile methodologies without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of having a common goal and teamwork, which aligns with Scrum principles of collaboration and team dynamics. However, it does not explicitly mention Scrum roles, events, or artifacts, leading to a lower confidence score. The discussion is more general about agile teams rather than focused specifically on Scrum.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the challenges of chaos in Agile teams and offers recommendations for improving alignment and communication. While it touches on themes relevant to team dynamics and Agile practices, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is more on general Agile methodologies rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses strategies for overcoming chaos in Agile teams, which indirectly relates to Continuous Improvement by promoting alignment and communication. However, it lacks explicit references to Continuous Improvement principles, empirical evidence, or frameworks. The focus is more on addressing chaos rather than on the ongoing practice of reflection and adaptation that defines Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of establishing clear goals and aligning teams with the organisation's vision, which directly relates to the concept of Common Goals. It highlights the negative impact of chaos due to misalignment and the necessity of shared objectives for effective collaboration. However, while it touches on these themes, the discussion is somewhat anecdotal and lacks a deeper exploration of frameworks like OKRs or specific Agile methodologies, which slightly reduces the depth of the analysis.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of alignment and communication within Agile teams, which indirectly relates to competence. However, it primarily focuses on chaos and team dynamics rather than explicitly addressing competence, continuous learning, or skill development. The depth of discussion on competence-related themes is minimal, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:26:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on addressing chaos within Agile teams and does not explicitly mention the One Engineering System (1ES) framework or its principles. While it discusses alignment and communication, which are relevant to 1ES, it lacks a direct connection to the integration and standardisation of engineering processes that define 1ES. The discussion is more about Agile practices rather than the comprehensive framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of alignment and clear goals within Agile teams, which touches on aspects of Agentic Agility. However, it primarily focuses on chaos management and general Agile practices without explicitly addressing the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals and systems, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T08:40:10",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the challenges of chaos within Agile teams, which directly relates to product development methodologies. It discusses the importance of clear goals, communication, and alignment with organisational vision, all of which are key aspects of Agile product development. The depth of discussion is substantial, providing specific strategies to overcome chaos, which aligns well with continuous improvement practices in product development. However, while it touches on Agile principles, it does not delve deeply into iterative processes or customer feedback loops, which slightly lowers the overall confidence score.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T08:40:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses chaos in Agile teams and offers strategies for alignment and communication, which are relevant to Agile principles. However, it does not explicitly mention Open Space Agile or its core concepts such as psychological safety, co-creation, or emergence. The focus is more on general Agile practices rather than the specific methodologies and discussions that characterise Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T08:40:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the challenges of chaos in Agile teams and offers strategies for alignment and communication, which are relevant to Agnostic Agile principles. However, it does not explicitly mention Agnostic Agile or its core philosophies. The focus is more on general Agile practices rather than a critical examination of methodologies or the ethical considerations inherent in Agnostic Agile. Therefore, while there is some alignment with the category's themes, the lack of direct mention and depth in discussing Agnostic Agile principles results in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T08:40:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of alignment and communication within Agile teams, which are relevant to scaling practices. However, it primarily focuses on chaos management rather than specific scaling frameworks or methodologies. While it mentions strategies for alignment and collaboration, it lacks depth in discussing frameworks like SAFe or LeSS, which are central to the scaling category. The recommendations provided are practical but do not delve into the complexities of scaling Agile across multiple teams or the enterprise level, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T08:40:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses chaos in Agile teams and strategies for alignment, which are not directly related to Cell Structure Design. While there are mentions of team alignment and communication, these concepts do not delve into the principles of the Beta Codex or the characteristics of autonomous cells. The focus remains on traditional Agile practices rather than the decentralised, network-based structure that Cell Structure Design advocates.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T08:40:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses chaos in Agile teams and offers strategies for alignment and communication, which are relevant to group dynamics. However, it does not explicitly mention Liberating Structures or their specific techniques. The focus is more on general Agile practices rather than the facilitation techniques that characterise Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T08:40:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of alignment and communication within Agile teams, which indirectly relates to Time to Market by suggesting that improved clarity and collaboration can lead to more efficient processes. However, it does not explicitly mention Time to Market or provide metrics or strategies specifically aimed at reducing the time from conception to delivery. The focus is more on overcoming chaos rather than optimising processes for quicker delivery of value.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T08:40:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 28,
+    "ai_depth": 31,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of alignment and communication within Agile teams, which indirectly relates to the principles of Company as a Product (CaaP). It highlights the need for clear goals and cross-functional collaboration, aligning with CaaP's focus on customer-centric strategies and organisational agility. However, the primary focus is on Agile practices rather than a comprehensive exploration of CaaP, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T08:40:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and team dynamics without any direct mention of GitHub or its functionalities. While it touches on concepts relevant to Agile project management, it does not specifically address GitHub services, tools, or best practices. The focus is on overcoming chaos in Agile teams rather than on GitHub as a platform for collaboration or version control, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T08:40:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the challenges of chaos within Agile teams and strategies for alignment and communication. While it touches on the importance of clear goals and collaboration, it does not explicitly mention Unrealised Value or its indicators. The focus is more on operational issues rather than exploring untapped opportunities or potential improvements, which are central to the concept of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T08:40:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of chaos in Agile teams and strategies to overcome it, without directly addressing Current Value or its metrics. While it touches on the importance of clear goals and communication, which can indirectly relate to Current Value, it lacks explicit discussions on measuring value, customer satisfaction, or performance feedback. The focus is more on team dynamics and alignment rather than on the real-time assessment of value delivered by a product or service.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T08:40:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content discusses chaos in Agile teams and offers strategies for alignment and communication, but it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. The focus is primarily on general Agile practices rather than the specific challenges and implications of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T08:40:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on the challenges of chaos within Agile teams, which is a specific aspect of project management. While it discusses the importance of clear goals, communication, and alignment with organisational vision, it does not delve deeply into broader project management principles or methodologies beyond Agile. The mention of Agile practices and the emphasis on team alignment suggest some relevance to project management, but the discussion is limited to Agile contexts, which may not fully encompass the wider scope of project management methodologies and tools.",
+    "level": "Secondary"
+  },
+  "Principle": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses chaos as a significant barrier to Agile practices and proposes actionable strategies that align with key principles such as establishing clear goals, fostering communication, and promoting collaboration. Although it doesn't explicitly mention Agile principles in detail, the recommendations offered closely correlate to principles like self-management, continuous improvement, and customer collaboration. Overall, while the principles are implied throughout the content, they could be articulated more explicitly for a stronger alignment.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 50.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses chaos in Agile teams and provides recommendations for overcoming it, focusing more on methodologies and practices rather than specific tools. While there is some mention of Agile practices, there are no direct discussions about specific tools or their functionalities, making it difficult to classify this content strongly under the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "TamingChaosFactor",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 55.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the importance of alignment, clear goals, and open communication within Agile teams, which are closely related to underlying values. However, it does not explicitly reference Agile or Scrum values, and while there is a focus on improving team dynamics and collaboration, it primarily revolves around practices and challenges rather than a philosophical discussion of values as foundational elements.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "TamingChaos01",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile but primarily focuses on practical strategies to mitigate chaos within teams rather than exploring the foundational beliefs that shape Agile philosophy. While it mentions concepts like clear goals and communication, it does not delve into the theoretical underpinnings or 'why' behind these practices, which is crucial for alignment with the Philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile teams and strategies to overcome chaos, which relates to the principles of the Agile discipline. However, while it touches on the importance of structure and alignment, it does not delve into the deeper systemic application or evolution of Agile as a discipline. The focus is more on practical tools and strategies rather than on the underlying principles of a discipline, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 100.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content provides some discussion on the chaos factor in Agile teams, it primarily focuses on team dynamics, communication, and alignment rather than specific artifacts themselves. The mention of Agile practices indicates an awareness of the Agile framework, but there is minimal focus on defining or exploring the structural role of artifacts like the Product Backlog or Sprint Backlog, which are central to the category of 'Artifact'. The content suggests strategies to improve team alignment but does not delve into how artifacts serve to facilitate that alignment or improve transparency in Agile work.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on managing chaos within Agile teams, discussing communication, alignment, and the overall effectiveness of teamwork. However, it does not explicitly mention observability, metrics, logs, or traces nor does it delve into the principles of measuring internal system states based on generated data. While there is a slight conceptual linkage to transparency and informed decision-making, the discussion lacks depth in regards to the observability framework and its core components, leading to a very low confidence score in alignment with the Observability category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 14,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content focuses on addressing chaos in Agile teams and emphasizes actionable strategies like establishing clear goals, fostering open communication, and utilizing Agile practices such as daily stand-ups and retrospectives. These strategies align with the 'Practice' category as they promote techniques that enhance team performance and collaboration. However, the primary focus is more on identifying chaos and overarching strategies rather than a deep dive into specific practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "TamingChaosFactor",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses strategies to mitigate chaos within Agile teams, which indirectly relates to the structured methods and practices within Agile. It mentions clear goals, open communication, and Agile practices, indicating a procedural approach. However, the focus is more on overall strategies and philosophies rather than detailed, step-by-step methods specific to Agile frameworks like Scrum or Kanban. The depth of discussion is good, but it lacks detailed procedural instructions that are characteristic of a pure 'Method' classification.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "TamingChaosAGileTeams",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the challenges of chaos within Agile teams and emphasizes the importance of clear goals and communication. While it touches upon the need for clarity and alignment, it lacks a focused discussion on conceptual models or frameworks like the Cynefin Framework or Lean principles. The mention of Agile practices does not constitute a thorough exploration of models as defined by the category, leading to a lower confidence score due to the focus being more on general best practices rather than specific models.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "TamingChaosFactor",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 23,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of alignment, communication, and clear goals within Agile teams, which relate to framework principles. While it mentions Agile practices and encourages the integration of Agile methodologies, it leans more towards personal observations and strategies rather than a structured analysis of frameworks themselves. The focus on personal experiences and loose interpretations of chaos in Agile teams dilute its positioning strictly under the Framework category, but there are valuable insights relevant to the topic.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 65.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 4,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses how to overcome chaos in Agile teams, emphasizing the need for clear goals, communication, and alignment with organizational vision, which aligns with actionable guiding rules in Agile principles. However, it primarily focuses on the challenges and strategies rather than directly discussing specific tenets or their application, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:38:33",
+    "ai_confidence": 65.0,
+    "ai_mentions": 3,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the chaos factor in Agile teams and offers strategies for alignment and communication, which touches on the concept of capability indirectly. However, the primary focus is on identifying chaos and addressing communication issues rather than on cultivating enduring competencies or integrating those into organizational processes. The mention of clear goals and fostering communication represents some alignment with capability development, but the content lacks depth in discussing how these strategies contribute to long-term capabilities within the organization.",
+    "level": "Secondary"
   }
 }

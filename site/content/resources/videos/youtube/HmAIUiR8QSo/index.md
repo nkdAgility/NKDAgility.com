@@ -2,52 +2,50 @@
 title: 'Cultivating a Culture of Quality: Lessons from Boeing and Volkswagen for Engineering Excellence'
 description: Cultivate a culture of quality in your organisation! Discover how to prioritise integrity and excellence for exceptional, safe products.
 date: 2024-11-29T07:00:17Z
+weight: 175
 ResourceId: HmAIUiR8QSo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HmAIUiR8QSo
 source: youtube
 url: /resources/videos/:slug
-slug: building-a-culture-of-quality
+slug: cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 layout: video
 aliases:
-- /resources/videos/HmAIUiR8QSo
-- /resources/videos/building-a-culture-of-quality
-- /resources/building-a-culture-of-quality
 - /resources/HmAIUiR8QSo
-aliasesFor404:
+- /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
+- /resources/videos/building-a-culture-of-quality
+aliasesArchive:
+- /resources/videos/cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 - /resources/videos/building-a-culture-of-quality
 - /resources/building-a-culture-of-quality
+- cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 preview: https://i.ytimg.com/vi/HmAIUiR8QSo/maxresdefault.jpg
 duration: 387
 isShort: false
 tags:
-- Technical Leadership
-- People and Process
-- Technical Mastery
 - Organisational Culture
-- Pragmatic Thinking
-- Sociotechnical Systems
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Leadership
 - Engineering Excellence
+- Technical Leadership
 
 ---
-Building a culture of quality within your organisation is not a solo endeavour; it requires a collective commitment from every individual involved. Each person must demonstrate their own technical excellence, leadership, and engineering capability. When individuals embody these qualities, they set a standard that others are likely to emulate. The more people in your organisation adopt this mindset, the quicker it becomes the norm.
+Building a culture of quality within your organisation is not a solo endeavour; it requires a collective commitment from every individual involved. Each person must demonstrate their own [technical excellence]({{< ref "/tags/technical-excellence" >}}), [leadership]({{< ref "/categories/leadership" >}}), and engineering capability. When individuals embody these qualities, they set a standard that others are likely to emulate. The more people in your organisation adopt this mindset, the quicker it becomes the norm.
 
-Reflecting on this, I often think about the Boeing story, which serves as a cautionary tale. For years, Boeing was synonymous with engineering excellence and technical leadership. Their mantra, "if it's not Boeing, I'm not going," epitomised their commitment to quality. They were the gold standard in the aviation industry, known for their superior build quality and safety.
+Reflecting on this, I often think about the Boeing story, which serves as a cautionary tale. For years, Boeing was synonymous with [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and [technical leadership]({{< ref "/categories/technical-leadership" >}}). Their mantra, "if it's not Boeing, I'm not going," epitomised their commitment to quality. They were the gold standard in the aviation industry, known for their superior build quality and safety.
 
 However, everything changed when Boeing acquired McDonnell Douglas. The shift in leadership brought a new focus—revenue extraction rather than value creation. Over the next 15 to 20 years, this change decimated Boeing's culture of quality. Employees began to express concerns about safety, with some even joking about having a "death wish" when flying on their planes. This is not the sentiment you want from the engineers responsible for building life-critical products.
 
-So, why does this matter in the context of software development? Much of the software we use has a significant impact on our quality of life and the world around us. We want these products to be developed within a culture that prioritises quality, integrity, and value—not one that cuts corners for the sake of profit.
+So, why does this matter in the context of [software development]({{< ref "/tags/software-development" >}})? Much of the software we use has a significant impact on our quality of life and the world around us. We want these products to be developed within a culture that prioritises quality, integrity, and value—not one that cuts corners for the sake of profit.
 
-To create exceptional products, we must focus on what truly matters. Agile frameworks are often touted as the solution to our problems, but they can also become part of the issue. These frameworks are merely tools; it’s the culture within our organisation that determines how effectively we use them. A hammer can drive a nail or be used to cause harm—it's all about how we choose to wield it.
+To create exceptional products, we must focus on what truly matters. [Agile frameworks]({{< ref "/tags/agile-frameworks" >}}) are often touted as the solution to our problems, but they can also become part of the issue. These frameworks are merely tools; it’s the culture within our organisation that determines how effectively we use them. A hammer can drive a nail or be used to cause harm—it's all about how we choose to wield it.
 
 Consider the Volkswagen scandal, where an engineer manipulated code to produce false emissions results. This decision stemmed from a lack of a quality-driven culture. If your organisation fosters a culture of quality, such unethical choices are far less likely to occur.
 

@@ -8,23 +8,17 @@
     "reasoning": "Content primarily discusses the setup of a website for hosting applications and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T12:32:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a personal site for hosting applications, with no substantial focus on reviews, analyses, or discussions of literature or tools related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a personal project related to hosting applications and tools, which does not directly reference Agile, Scrum, DevOps, or Lean principles, but is not entirely disconnected from the broader context of business agility.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the setup of a personal website for hosting applications and tools, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it mentions tools like ClickOnce and TFS, these references do not align with the core themes of the specified frameworks. The discussion lacks depth in terms of actionable insights or connections to recognised practices, making it more of a personal narrative about a project rather than a focused discussion on Agile-related topics.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -53,49 +47,16 @@
     "reasoning": "Content primarily discusses the setup of a website for hosting applications and does not focus on decision-making processes or related themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T12:33:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a personal site for hosting applications and tools, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:33:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal website and tools related to ClickOnce applications and TFS, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T12:33:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a website for hosting applications and tools, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:33:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the setup of a personal site for hosting applications and does not focus on DevOps principles, practices, or tools.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T12:33:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a website for hosting applications and does not address AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal site for hosting ClickOnce applications and tools related to TFS, with no explicit discussion of DevOps principles or practices. While TFS is mentioned, it does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related concepts.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +79,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:33:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the setup of a personal site for hosting applications, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T12:33:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a personal site for hosting applications, lacking a focus on specific Agile or DevOps techniques and tooling.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal website for hosting ClickOnce applications and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics that align with the APOM framework. The content lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,10 +109,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:33:21",
+    "calculated_at": "2025-04-10T15:56:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a website for hosting applications rather than specific installation or configuration procedures.",
     "level": "Ignored"
   },
@@ -172,29 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:33:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the setup of a website for hosting applications and does not address Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T12:33:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a website for hosting applications, with no focus on code quality, complexity, or related best practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T12:33:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a personal site and hosting applications, lacking a focus on industry news, updates, or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal website for hosting ClickOnce applications and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to value delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,14 +175,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T12:33:33",
+    "calculated_at": "2025-04-10T15:56:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup of a website for hosting applications and does not focus on metrics, learning, or related themes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T12:33:34",
     "ai_confidence": 0,
@@ -278,15 +218,6 @@
     "reasoning": "Content primarily discusses the setup of a website and hosting applications, lacking personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T12:33:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a website for hosting applications, with no focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T12:33:40",
@@ -294,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal website and ClickOnce applications, with only brief mentions of TFS, which is not central to Azure DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T12:33:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a personal site and hosting applications, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup of a website for hosting applications and tools, with no clear focus on Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T12:33:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a website and hosting applications, with no clear focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -467,7 +380,7 @@
     "reasoning": "Content discusses personal website setup and tools but does not involve large scale agility principles or practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:40:54",
     "ai_confidence": 0,
@@ -478,20 +391,11 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T12:40:54",
+    "calculated_at": "2025-04-10T15:56:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup of a web hosting site for applications and tools, with no mention of Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a personal website and tools related to ClickOnce Applications and Team Foundation Server, with no relevant discussion on Agile Project Management principles or practices.",
+    "reasoning": "Content primarily discusses the setup of a web hosting site for applications and tools, with no mention of Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -665,24 +569,6 @@
     "reasoning": "Content primarily discusses the setup of a website and hosting applications, with no focus on estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a personal website and tools related to ClickOnce applications rather than focusing on the roles, practices, or methodologies relevant to software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal site setup for hosting applications and tools, with no focus on AI applications in Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T12:40:54",
@@ -721,12 +607,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses setting up a site for hosting ClickOnce applications and mentions TFS (Team Foundation Server), which is related to software development practices. However, the primary focus seems to be more on the personal project rather than a systematic discussion on software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions hosting ClickOnce applications and references Team Foundation Server (TFS), which are related to software development. However, it lacks a detailed discussion on methodologies, best practices, or frameworks that are central to the Software Development category. The focus is more on personal updates and site setup rather than a deep exploration of software engineering practices.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -735,15 +624,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal website and tools without any reference to Agile frameworks or principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a personal website setup for hosting applications and tools, with no relevant focus on scaling Agile practices or methodologies.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +664,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:40:54",
+    "calculated_at": "2025-04-10T15:56:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup of a website for hosting applications and does not focus on innovation capabilities or related strategies.",
     "level": "Ignored"
   },
@@ -865,10 +745,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T12:40:54",
+    "calculated_at": "2025-04-10T15:56:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about setting up a website and hosting applications, with no discussion of the Definition of Done or relevant Agile principles.",
     "level": "Ignored"
   },
@@ -883,11 +763,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal website and application hosting with no mention of Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on a personal website for hosting ClickOnce applications and tools related to TFS, with no explicit discussion of Continuous Delivery principles, practices, or benefits. While it mentions tools that could be part of a delivery pipeline, it lacks depth and direct relevance to Continuous Delivery as a discipline.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -998,21 +881,12 @@
     "reasoning": "Content is primarily about a personal website and tools for hosting applications, with no clear discussion on empirical process control or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal website setup and tools, with no relation to Kanban or its scaling principles.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T12:40:54",
+    "calculated_at": "2025-04-10T15:56:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about hosting applications and personal tools, with no relevant discussion on Definition of Ready.",
     "level": "Ignored"
   },
@@ -1045,11 +919,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses website setup and tools without any focus on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a website for hosting ClickOnce applications and does not discuss Test First Development principles, success criteria, or any related testing practices. There are no explicit mentions of Test First Development, and the overall theme is unrelated to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1214,15 +1091,6 @@
     "reasoning": "Content primarily discusses a personal website setup and hosting tools, with no focus on deployment methodologies or strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the setup of a personal site and tools related to ClickOnce applications, with no mention of Scrum practices, principles, or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "calculated_at": "2025-02-16T12:40:54",
@@ -1234,11 +1102,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal website setup and hosting tools, with no reference to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal website for hosting ClickOnce applications and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. The mention of TFS (Team Foundation Server) is related to development tools rather than Scrum practices.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1141,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T12:40:54",
+    "calculated_at": "2025-04-10T15:56:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses website setup and tools without any reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1155,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup of a site for hosting ClickOnce applications and related tools, which does not address Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly discusses the setup of a personal site for hosting applications and does not address Scaling Scrum topics or principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1193,6 @@
     "reasoning": "Content primarily discusses setting up a website and hosting applications, which does not focus on technical system configuration aspects.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:40:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the setup of a website for hosting applications and does not address scaling agility or related practices.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T12:40:54",
@@ -1360,11 +1213,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:07:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the setup of a personal site for hosting applications and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a personal website for hosting ClickOnce applications and tools related to TFS, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions tools that could be used in a development context, it lacks depth and alignment with the core themes of social technologies, such as self-organisation or collective intelligence.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1230,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup of a website and hosting applications, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:42:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a personal site for hosting ClickOnce applications and tools, with no clear focus on Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:42:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the setup of a website for hosting applications and tools, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It focuses on a personal project related to hosting applications and tools, which does not align with the core themes of Scrum. There is minimal conceptual alignment, as the content does not discuss Agile principles or team dynamics. The depth of discussion regarding Scrum is non-existent, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the setup of a website for hosting applications and does not discuss any aspects of the Shift-Left Strategy, such as integrating testing or security early in the development process. There are no relevant mentions or alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the establishment of a personal website for hosting ClickOnce applications and does not discuss any common goals, alignment, or strategic objectives related to Agile or DevOps. It lacks explicit mentions of common goals and does not delve into the principles or significance of such goals within a team or organisational context.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the setup of a website for hosting ClickOnce applications and does not explicitly discuss competence, continuous learning, or skill development. While it mentions tools related to development, it lacks depth in exploring how these tools contribute to competence or quality outcomes in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the launch of a website for hosting ClickOnce applications and does not explicitly discuss Continuous Improvement principles. While there is a mention of enhancing the development experience, it lacks depth and does not align with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or strategies for organisational processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the setup of a website for hosting ClickOnce applications and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks depth and relevance to the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

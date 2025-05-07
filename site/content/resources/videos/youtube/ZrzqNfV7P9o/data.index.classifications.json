@@ -28,20 +28,23 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-11T21:36:07",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, without a focus on the Product Backlog or its management.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the application of Scrum principles in a unique educational setting using Minecraft, making Scrum a major theme, but it is not the primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the application of Scrum principles in a unique educational context using Minecraft, which aligns with the category's focus on practical implementations of Scrum. However, it lacks direct mentions of Scrum roles, events, or artifacts, and the depth of discussion on Scrum theory is limited, focusing more on the educational tool rather than core Scrum concepts.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -82,10 +85,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-11T21:36:15",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Minecraft Education to teach Scrum, rather than discussing strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -100,21 +103,24 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-11T21:36:18",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Minecraft Education Edition as a tool for teaching Scrum concepts, without specific reference to the Daily Scrum event.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the requirements for running Minecraft Education, including installation and IT admin considerations, which are relevant to system configuration. However, the primary focus is on the educational use of Minecraft and Scrum methodology, making system configuration a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education Edition as a tool for teaching Scrum, with minimal emphasis on system configuration. While it mentions installation requirements and some administrative considerations, these points are secondary to the main theme of Scrum education. The discussion lacks depth in system configuration practices and does not explore broader configuration management or optimisation strategies.",
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -163,10 +169,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-11T21:36:27",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, focusing on the complexities of product development rather than Lean principles.",
     "level": "Ignored"
   },
@@ -190,10 +196,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-11T21:36:31",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Minecraft Education, with only a brief mention of Azure Active Directory credentials without any focus on Azure Repos functionalities.",
     "level": "Ignored"
   },
@@ -208,19 +214,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-11T21:36:34",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, without any mention of the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-11T21:36:35",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, focusing on technical implementation and classroom logistics rather than product strategy.",
     "level": "Ignored"
   },
@@ -253,39 +259,36 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-11T21:36:39",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Minecraft Education to teach Scrum, with no clear emphasis on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum within a Minecraft Education context, making Scrum a significant theme, but it is primarily focused on the educational tool rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-11T21:36:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, focusing on team-level practices rather than scaling agility across an organisation.",
-    "level": "Ignored"
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education Edition as a tool to teach Scrum principles in a complex environment. It directly mentions Scrum and discusses its application in a unique context, which aligns with the exploration of Agile frameworks. However, the depth of discussion on Agile principles and comparative analysis of frameworks is limited, focusing more on the tool rather than broader Agile concepts. Overall, while it is relevant, it does not fully delve into the comprehensive exploration of Agile frameworks as outlined in the category definition.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Minecraft Education Edition as a collaborative tool in a Scrum training context, highlighting the importance of team participation and engagement. However, the primary focus is on the educational tool and its implementation rather than on broader team collaboration strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the dynamics of teamwork and communication within a collaborative environment using Minecraft as a tool for teaching. It highlights how the complexity of tasks can enhance team collaboration and participation, which aligns well with the core themes of the 'Team Collaboration' category. The mention of how everyone can participate and the focus on communication and relationship problems within teams further supports this alignment. However, while the content touches on these themes, it does not delve deeply into specific strategies or tools for fostering collaboration, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -307,10 +310,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-11T21:36:47",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -334,12 +337,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum methodology in a learning environment using Minecraft, making it a major theme, but it is primarily focused on educational aspects rather than software development practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the application of Scrum within a unique educational context using Minecraft, which aligns with Agile methodologies in software development. However, while it mentions Scrum and its benefits in a complex environment, the focus is more on the educational aspect rather than deep software engineering practices. The discussion lacks detailed exploration of software development principles, methodologies, or technical practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -361,19 +367,19 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-11T21:36:55",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of Azure Pipelines or related CI/CD practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-11T21:36:56",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft as a tool for teaching Scrum, focusing on practical application rather than Agile values and principles.",
     "level": "Ignored"
   },
@@ -397,10 +403,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-11T21:37:01",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Minecraft Education to teach Scrum concepts, without specific discussion on the Product Owner role or responsibilities.",
     "level": "Ignored"
   },
@@ -433,19 +439,19 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-11T21:37:07",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no focus on validating product ideas or user engagement.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-11T21:37:09",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education Edition for teaching Scrum, with no focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
@@ -458,22 +464,16 @@
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-11T21:37:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on using Minecraft Education Edition as a tool for teaching Scrum, rather than discussing the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-11T21:37:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education to teach Scrum principles, with no direct mention or discussion of Test First Development practices, success criteria, or testing methodologies. It lacks alignment with the core themes of Test First Development and provides minimal depth on any related concepts.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -514,12 +514,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions the use of Windows in the context of running Minecraft Education, which is a secondary theme in an otherwise primary discussion about Scrum and Minecraft Education.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education Edition for teaching Scrum, with only brief mentions of Windows in the context of compatibility and installation. While it does touch on installation requirements for Windows, this is not the main focus of the content, which is centred around educational methodologies and the use of a specific software application. The discussion lacks depth regarding Windows-specific topics such as configuration, troubleshooting, or system updates, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -532,29 +535,23 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-11T21:37:32",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of Lead Time or related metrics.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-11T21:37:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Scrum in a specific educational context without addressing scaling Agile practices across multiple teams or at an enterprise level.",
+    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of Lead Time or related metrics.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-11T21:37:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the application of Scrum principles in a complex environment using Minecraft Education, highlighting practical problem-solving strategies and real-world applications. However, it primarily focuses on the educational setup rather than deep pragmatic thinking techniques.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the evolution of problem-solving in a training context, particularly through the use of Minecraft to simulate complex situations. It highlights practical problem-solving strategies and the importance of adaptability in a learning environment, which aligns with the core themes of Pragmatic Thinking. However, while it touches on relevant concepts, the discussion lacks depth in terms of specific Agile or Scrum methodologies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -565,15 +562,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no focus on deployment frequency or related Agile/DevOps practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum within a Minecraft educational context, making Scrum a significant theme, but it is primarily focused on the educational use of Minecraft rather than Agile Project Management as a whole.",
-    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -595,75 +583,66 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-11T21:37:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on using Minecraft as a tool for teaching Scrum principles, with no direct mention or discussion of Continuous Delivery practices. While it touches on Agile methodologies, it does not explore Continuous Delivery's core themes, such as automation, rapid feedback, or software quality. The discussion is centred around educational techniques rather than software delivery practices.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-11T21:37:47",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, without a clear focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-11T21:37:48",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Minecraft to create a complex environment for applying Scrum, which touches on the theme of navigating complexity. However, the primary focus is on the practical application of Scrum rather than a deep exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the use of Minecraft Education to illustrate complexity in a Scrum training context, which aligns with the principles of sensemaking. However, it primarily focuses on the practical application of Scrum rather than a deep exploration of sensemaking concepts. While it mentions complexity and the need for effective decision-making in a chaotic environment, it lacks detailed frameworks or models related to sensemaking, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-11T21:37:51",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, focusing on technical implementation and tools rather than team dynamics or motivation.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Minecraft Education to facilitate Scrum practices and enhance team collaboration in a complex environment, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-11T21:37:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-11T21:37:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of Minecraft as a tool to enhance team collaboration and problem-solving in a training context. While it touches on aspects of team dynamics and participation, it lacks a focused discussion on specific Agile methodologies or practices. The mention of 'relationship problems' and 'communication' hints at team performance, but the overall depth and explicit references to Agile principles are minimal.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -694,28 +673,31 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum within a Minecraft educational context, making Agile principles a significant theme, but it primarily focuses on the educational tool rather than a comprehensive Agile transformation strategy.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the application of Scrum within a Minecraft Education context, which aligns with Agile principles. However, it primarily focuses on the educational aspect and the use of a specific tool rather than a comprehensive discussion on Agile transformation strategies or methodologies. While Scrum is mentioned, the depth of discussion on Agile transformation as a whole is limited.",
     "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-11T21:38:00",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of technical debt or related concepts.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-11T21:38:04",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education Edition as a tool for teaching Scrum, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
@@ -737,15 +719,6 @@
     "reasoning": "Content primarily discusses the application of Scrum in a Minecraft educational setting, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the application of Scrum principles in a unique educational setting using Minecraft, making Scrum a significant theme, but it is not the primary focus.",
-    "level": "Tertiary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
     "calculated_at": "2025-02-11T21:38:09",
@@ -757,11 +730,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-11T21:38:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education to teach Scrum methodologies, with no direct discussion of Evidence-Based Management principles or metrics. While it mentions collaboration and complexity, it does not provide empirical evidence or data-informed decision-making related to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,22 +749,16 @@
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, without focusing on backlog refinement or related Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-11T21:38:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on using Minecraft Education as a tool for teaching Scrum principles, without discussing scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-11T21:38:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on using Minecraft Education as a tool for teaching Scrum concepts, rather than discussing the role and responsibilities of a Scrum Master.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the application of Scrum principles in a Minecraft educational context, but it does not explicitly focus on the role or responsibilities of a Scrum Master. While it mentions Scrum and its application in a complex environment, the primary focus is on using Minecraft as a tool for teaching Scrum rather than on the Scrum Master's role in facilitating or coaching. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -811,19 +781,19 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-11T21:38:17",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Minecraft Education Edition as a tool for teaching Scrum, rather than discussing technical leadership principles or practices.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-11T21:38:18",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, focusing on technical implementation and classroom logistics rather than product discovery methodologies.",
     "level": "Ignored"
   },
@@ -854,7 +824,7 @@
     "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, focusing on the environment and tools rather than accountability principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-11T21:38:23",
     "ai_confidence": 0,
@@ -865,12 +835,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Minecraft Education as a collaborative tool in a Scrum training context, highlighting its features that enhance team collaboration. However, the primary focus is on the educational application of Scrum rather than a detailed exploration of collaboration tools.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the use of Minecraft Education as a collaborative tool in a Scrum training context, which aligns with the category of Collaboration Tools. However, the primary focus is on the educational application of Minecraft rather than a detailed exploration of collaboration tools themselves. While it mentions collaboration and provides some context on how the tool can enhance team dynamics, it lacks a comprehensive discussion on various collaboration tools or best practices in Agile environments.",
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -892,19 +865,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-11T21:38:32",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum concepts, but does not focus on Scrum Team dynamics, roles, or collaboration techniques.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-11T21:38:33",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, focusing on educational methodologies rather than technical practices or software craftsmanship.",
     "level": "Ignored"
   },
@@ -955,10 +928,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-11T21:38:40",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education Edition as a tool for teaching Scrum, rather than focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1000,10 +973,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-11T21:38:45",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Minecraft Education Edition as a tool for teaching Scrum, rather than discussing principles or practices of Continuous Learning.",
     "level": "Ignored"
   },
@@ -1034,31 +1007,16 @@
     "reasoning": "Content heavily discusses Scrum and its application in a Minecraft environment, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-11T21:35:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, focusing on technical implementations and educational tools rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-11T21:35:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed instructions on the installation and configuration of Minecraft Education, including requirements for participants and IT admins, making it a primary focus.",
-    "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-11T21:35:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the use of Minecraft Education to teach Scrum, focusing on the educational environment rather than software code quality or complexity theory.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the use of Minecraft as a teaching tool for Scrum principles, focusing on team dynamics and problem-solving rather than any technical aspects of installation or configuration of software or tools. There are no direct mentions of installation procedures, configuration best practices, or troubleshooting, which are essential for the category.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,41 +1028,26 @@
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, with no clear focus on flow efficiency principles or optimisation of work throughput.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-11T21:35:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum methodologies in a practical setting using Minecraft, which relates to product delivery, but the primary focus is on the educational aspect and the use of a game-based learning environment.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education as a tool for teaching Scrum methodologies, which is related to product delivery but does not explicitly discuss the end-to-end process of delivering software products. While it mentions Scrum and the complexities of product development, it lacks depth in discussing key topics such as deployment, testing, or cross-functional teams. The primary focus is on the educational aspect rather than practical product delivery methodologies.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-11T21:35:29",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Minecraft as a tool for teaching Scrum, rather than discussing Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the use of Minecraft Education Edition as a tool for applying Scrum principles in a complex environment, which aligns with the theme of learning and experimentation. However, the primary focus is on the technical setup and logistics of using the tool rather than on broader discovery and learning methodologies.",
-    "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1117,39 +1060,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of Scrum in a complex environment using Minecraft, highlighting the challenges of complexity in product development. However, it primarily focuses on the educational aspect of using Minecraft for Scrum training rather than a deep exploration of complexity science principles.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-11T21:35:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-11T21:35:36",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the application of Scrum methodologies in a practical setting using Minecraft Education Edition, which aligns with the exploration of tools and techniques to enhance Agile practices. However, the primary focus is on the educational aspect rather than a comprehensive exploration of Agile tooling.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the complexity of problem-solving in a training context, particularly through the use of Minecraft as a tool to simulate complex situations. However, while it touches on themes of complexity, such as the dynamics of teamwork and the evolution of problem-solving methods, it does not explicitly reference complexity science or its principles. The discussion is more focused on practical experiences rather than a theoretical exploration of complexity thinking, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific educational course that applies Scrum principles using Minecraft, which suggests a structured learning experience. However, it primarily focuses on the methodology and tools rather than detailing a specific event or presentation.",
-    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1171,30 +1090,24 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-11T21:35:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education Edition to teach Scrum principles, which is not aligned with the core themes of DevOps. While it mentions collaboration and teamwork, it does not discuss DevOps practices, automation, or the cultural shifts necessary for effective DevOps implementation. The emphasis is on Agile methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-11T21:35:43",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and the use of Minecraft Education for teaching, with only a brief mention of Azure Active Directory credentials, which is not central to the topic.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Minecraft Education Edition as a tool for applying Scrum principles, making it a major theme, but it primarily focuses on the application rather than a review or analysis of the product itself.",
-    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1225,10 +1138,10 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-11T21:35:48",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, focusing on the educational environment rather than engineering practices or methodologies that enhance software development.",
     "level": "Ignored"
   },
@@ -1243,46 +1156,31 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-11T21:35:52",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Minecraft Education Edition as a tool for teaching Scrum, without personal reflections or experiences.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the application of Scrum in a collaborative environment using Minecraft, highlighting team dynamics and participation, which aligns with the category. However, the primary focus is on the educational tool and its setup rather than a deep exploration of people and process methodologies.",
-    "level": "Tertiary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the application of Scrum in a collaborative environment using Minecraft Education, highlighting the interaction between team dynamics and technology. However, the primary focus is on the educational tool and its implementation rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-11T21:35:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on using Minecraft Education Edition as a tool for teaching Scrum, rather than discussing industry news or reviews.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education Edition as a tool for teaching Scrum, with limited discussion on the sociotechnical aspects of team dynamics or organisational culture. While it touches on collaboration and complexity in a learning environment, it lacks a thorough exploration of how these elements interact within a sociotechnical system. The mention of team participation and the challenges faced in traditional settings hints at sociotechnical considerations, but the overall emphasis remains on the technical tool rather than the interplay between social and technical systems.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-11T21:35:58",
+    "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Minecraft Education to teach Scrum, with no significant discussion on metrics, data, or learning methodologies.",
     "level": "Ignored"
   },
@@ -1315,11 +1213,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T10:41:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the application of Scrum within a complex environment using Minecraft, highlighting Scrum roles and practices in a collaborative learning context.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of Minecraft Education Edition as a tool to enhance collaboration and creativity in Agile teams, which aligns with the principles of social technologies. However, the primary focus is on the technical aspects of using Minecraft for educational purposes rather than a deep exploration of social frameworks or methodologies that promote collaboration and decision-making. While it mentions fostering collaboration, it lacks detailed discussion on self-organisation, transparency, or collective intelligence, which are core themes of the category.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1340,31 +1241,16 @@
     "reasoning": "Content primarily discusses the use of Minecraft Education for teaching Scrum, focusing on practical applications rather than the principles of Beta Codex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:41:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, which is unrelated to the principles of the One Engineering System.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:41:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the application of Scrum principles in a Minecraft educational setting, making Scrum a major theme, but it is not the sole focus.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:41:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on using Minecraft Education to teach Scrum, without a clear emphasis on the Agile Product Operating Model or its principles.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on using Minecraft as a tool for teaching Scrum principles rather than discussing the Agile Product Operating Model. While it mentions Agile teams and Scrum, it does not delve into the core themes of APOM, such as product management principles or the transition from project to product ethos. The discussion lacks depth regarding the operational aspects and governance of product delivery, which are central to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1374,6 +1260,446 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and its application in a Minecraft educational context, with no clear focus on platform engineering principles or Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:04:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:04:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the use of Minecraft Education for teaching Scrum, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 50,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the use of Minecraft as a tool for teaching complex problem-solving in a team setting, which aligns with Scrum principles of collaboration and iterative progress. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices. The focus is more on the educational aspect rather than a structured Scrum framework.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education to teach Scrum principles, with no direct mention or discussion of the Shift-Left Strategy. While it touches on collaboration and complexity in product development, it does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education to enhance the Applying Professional Scrum (APS) course, which is more about practical application and engagement in Agile methodologies rather than Continuous Improvement. While there are elements of improving team collaboration and learning through a new medium, the discussion lacks a direct focus on Continuous Improvement principles, empirical evidence, or strategies for integrating such practices into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on using Minecraft as a tool for teaching Scrum principles, rather than discussing Common Goals directly. While it mentions collaboration and complexity, it lacks explicit references to shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion is more about the educational methodology than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on using Minecraft as a tool for teaching Scrum principles, which indirectly relates to competence through the enhancement of collaborative skills and understanding of complex environments. However, it lacks direct discussions on continuous learning, skill development, or the professional aspects of competence. The mention of complexity and collaboration hints at the importance of competence but does not delve deeply into the foundational principles of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education Edition to teach Scrum principles, which is not aligned with the One Engineering System framework. While it discusses collaboration and Agile practices, it does not address the core themes of 1ES, such as standardisation, integration of tools, or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education to enhance the Applying Professional Scrum (APS) course, discussing collaboration and creativity in Agile teams. However, it does not explicitly address the concept of Agentic Agility, nor does it delve into the intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The discussion is more about practical application of Scrum rather than the transformative capacity of individuals or systems.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on using Minecraft as a learning tool in a Scrum environment, without any discussion on the critical examination of Hybrid Agile methodologies. There are no direct mentions or alignment with the themes or challenges associated with Hybrid Agile, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on educational experiences using Minecraft to illustrate Agile practices, specifically Scrum, rather than discussing Cell Structure Design or its principles. There are no direct mentions or detailed discussions about the core themes of the category. Although the content touches on complexity, it does not align with the principles or application of the Cell Structure Design model as defined in the category. Instead, it emphasizes traditional Agile coaching experiences.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content focuses on using Minecraft as a tool to teach Scrum principles in an educational setting. While it indirectly relates to the principles of Scrum, such as collaboration and complexity, it does not explicitly discuss or define any actionable principles. Instead, it emphasizes the environment and mechanics of the educational tool without delving into the guiding rules or foundational beliefs that shape decision-making in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content predominantly focuses on a specific educational framework using Minecraft as a tool to teach Scrum principles. While it mentions Scrum indirectly and touches on themes of collaboration and complexity in project development, it lacks a thorough discussion on core project management principles or methodologies beyond a narrow Agile scope. The discussion does not delve deeply into broader project management practices, lifecycle phases, tools, or roles, limiting its alignment with the Project Management category.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on using Minecraft Education in a Scrum educational context, without any explicit mention of Open Space Agile principles or practices. While there are mentions of collaboration and complexity that can relate to agile concepts, the content does not adequately address the specific themes or depth required for Open Space Agile discussions.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content extensively discusses Minecraft Education as a tool used to facilitate Scrum learning in an educational setting. It provides details about how Minecraft enhances collaboration and engagement within Agile teams, aligning closely with the core themes of the Tool category. It mentions specific tool functionalities, such as its cross-platform accessibility and collaborative features, and discusses practical application in a Scrum context. However, while it focuses on the tool, the overall depth regarding functionality and best practices for tool selection is somewhat limited compared to the content's primary focus on the learning experience and Scrum application.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on using Minecraft Education in the context of an Agile Scrum course. While it mentions collaboration and engagement among team members, it does not specifically refer to Liberating Structures or any of its techniques. The discussion lacks direct engagement with the methods related to the category and does not offer detailed insights into facilitation practices inherent to Liberating Structures. Therefore, the alignment is minimal, and the depth of discussion is insufficient to warrant a meaningful connection to the category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 31.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 31.0,
+    "reasoning": "The content mainly focuses on the mechanics of using Minecraft in an educational context and how it enhances the Applying Professional Scrum course. While it discusses collaboration and complexity within teams, it lacks direct mentions of the foundational values that guide behaviour and decision-making in Agile or Scrum contexts. The alignment with the category of Values is minimal, and the discussion does not delve deeply into core value principles like commitment, respect, or focus, which are critical to the category definition.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on practical aspects of using Minecraft for teaching Agile practices through a specific case study, primarily detailing activities and technical requirements rather than exploring the philosophical underpinnings or broader implications of Agile methodologies. It mentions complexity, but not in a way that directly connects to philosophical discussions about decision-making or team dynamics.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses using Minecraft as a tool to apply Scrum principles in a learning environment, but it primarily focuses on the practical application of these techniques rather than the underlying principles of discipline itself. While it briefly mentions Scrum and its relevance to teamwork and complexity, the core themes of discipline—such as shared principles, governance structures, and continuous learning—are not deeply explored. The content is more about a specific method of teaching Scrum rather than an analysis of the discipline itself.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:53:59",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content mentions Scrum in the context of a Minecraft-based learning environment but does not focus on artifacts or their definitions, types, or management. It primarily discusses the use of Minecraft Education Edition for collaboration and complexity but lacks depth in exploring any specific artifacts associated with Agile or Scrum methodology.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the use of Minecraft Education Edition in an Agile Scrum training context, focusing on collaboration and complexity in product development. It does not directly address observability or its key components such as metrics, logs, or tools used to enhance observability. The relationship to observability is extremely tenuous, making it challenging to classify this content under the Observability category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the use of Minecraft in the context of an Agile Scrum course, focusing on collaboration and creativity. It does not mention or relate to the concepts of Time to Market, such as metrics or strategies for improving delivery speed. The discussion is centered around educational methodologies rather than the efficiency of bringing products to market.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of Minecraft as a tool in teaching Professional Scrum, which aligns with Agile product development principles. It mentions the complexities of product development and how Scrum can be beneficial in dealing with these complexities, indicating a good conceptual alignment with the category. However, the focus is primarily on educational methods and the use of a specific tool rather than a deep dive into product development methodologies, which diminishes the depth of discussion. Overall, it presents relevant insights into how Scrum can facilitate product development through a unique learning approach, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 45.0,
+    "ai_mentions": 8,
+    "ai_alignment": 30,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses using Minecraft as an educational tool to demonstrate the principles of Scrum, which aligns somewhat with the Practice category. However, it focuses more on the use of a tool and context rather than actionable techniques or repeatable practices. The mention of 'practice Scrum' implies some alignment, but the depth of actionable practices for improving team effectiveness is lacking, limiting the confidence score.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content is focused on using Minecraft for an educational setting, specifically within a Scrum framework. It emphasizes collaboration and the complexity of product development, but does not discuss the company as a product concept, customer-centric strategies, or organizational design. The primary focus remains on Scrum methodologies and the educational environment rather than on treating the organization itself as a dynamic product.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content does touch on the application of Scrum through a case study using Minecraft Education, but it primarily focuses on the context of using Minecraft as an educational tool rather than providing a clear and structured method for implementing Scrum. While it mentions Scrum, the detailed procedural discussion specific to Scrum practices is lacking, which affects the overall confidence score in the 'Method' category.",
+    "level": "Tertiary"
+  },
+  "Unrealised Value": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on the implementation of Scrum within a Minecraft environment for educational purposes. While it mentions teamwork and the complexity of product development, it does not directly discuss the concept of Unrealised Value or potential improvements and innovations in that context. There are no explicit mentions of indicators, measures, or strategies related to untapped opportunities, which are central to the category of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses a Scrum training methodology using Minecraft as a tool for collaboration and education, focusing on how complexity impacts learning and teamwork. However, it does not address the broader scaling practices of Agile or frameworks for scaling, such as SAFe or LeSS, nor does it explore coordination of multiple teams, business alignment, or dependency management. Therefore, despite mentions of Scrum, the primary focus remains on a specific training environment rather than the complexities involved in scaling Agile practices.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content does briefly mention Scrum and discusses applying Scrum in a complex environment using Minecraft as a medium. However, it does not focus on discussing models or frameworks in the context of Agile, DevOps, or Lean philosophies, but rather describes a particular educational approach utilizing a game. The discussion lacks depth regarding conceptual models and their application, which are the main focus of the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content centers around using Minecraft to enhance the Applying Professional Scrum course, focusing on collaboration and creativity in Agile teams. However, it lacks any direct discussion of 'Current Value' as defined in Evidence-Based Management, including metrics or real-time assessments of value delivery. Its emphasis on educational methods and environments does not address the critical components of Current Value, such as customer satisfaction or revenue impact, making it irrelevant for this category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 52.0,
+    "ai_mentions": 12,
+    "ai_alignment": 35,
+    "ai_depth": 23,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content primarily discusses the application of Scrum principles within a Minecraft educational setting. It directly mentions Scrum and how it can be practiced through the unique environment created by Minecraft, which aligns with the concept of frameworks in terms of applying structured methodologies. However, the majority of the content focuses on the logistics and requirements for using Minecraft as a tool in this educational approach rather than offering a comprehensive overview or detailed discussion about the framework itself or strategies for framework implementation. This results in a moderate confidence score, as it is relevant but lacks depth in discussing framework principles and adaptations.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mentions Scrum as a framework and discusses using Minecraft Education Edition to enhance learning about Scrum. However, it lacks specific, actionable tenets that guide decision-making within the context of Agile or Scrum methodologies. The discussion primarily revolves around utilizing Minecraft as a tool for engagement and collaboration rather than focusing on prescriptive rules or guiding doctrines that are characteristic of tenets. The content is more about the application of Scrum in an educational scenario rather than a detailed exploration of tenets.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on using Minecraft Education Edition to teach Scrum principles. It does not mention GitHub or discuss any of its services, features, or methodologies, showing minimal relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 15.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses Scrum practices in an educational setting using Minecraft Education Edition, emphasizing collaboration and complexity. However, it primarily focuses on the mechanics and application of the Scrum framework without addressing Agnostic Agile principles, such as tailoring methodologies based on context or ethical considerations. The mention of Scrum is the only reference to Agnostic Agile concepts, and it occupies a minimal role in the overall narrative, which is predominantly instructional and framework-focused.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "ZrzqNfV7P9o",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:00",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on using Minecraft for education in a Scrum context, which does not delve into the enduring competencies or systemic capabilities required for Agile practices. While there are mentions of applying Scrum principles through this educational tool, the discussion lacks depth and specificity on capabilities themselves, as it is more concerned with practical implementation and tools rather than building long-term capabilities within teams or organizations.",
     "level": "Ignored"
   }
 }

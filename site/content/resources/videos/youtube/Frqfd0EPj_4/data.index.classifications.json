@@ -37,12 +37,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum training and the potential of immersive learning, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning specifically in the context of Scrum training, highlighting its importance for effective implementation of Scrum practices. It directly mentions Scrum multiple times and aligns well with the core themes of professional development and continuous improvement within Scrum. However, while it provides a good depth of discussion on immersive learning, it does not delve deeply into the specific roles, events, or artifacts of Scrum as outlined in the Scrum Guide, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -55,12 +58,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which relates to coaching methodologies. However, it primarily focuses on training formats rather than the coaching process itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, highlighting the importance of collaboration, ongoing support, and real-time problem-solving, which aligns with coaching principles. However, it primarily focuses on training methods rather than the coaching process itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -100,20 +106,23 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T07:37:16",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning in Scrum training, without specific reference to the Daily Scrum event.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T07:37:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and immersive learning, which are not related to system configuration.",
+    "calculated_at": "2025-04-11T08:26:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, discussing methodologies and practices related to training rather than system configuration. There are no direct mentions of system configuration, and while there are some conceptual overlaps regarding collaboration and problem-solving, these are not aligned with the core themes of system configuration. The depth of discussion is also minimal in relation to the category, as it lacks specific details on system setup, integration, or maintenance.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -145,10 +154,10 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-12T07:37:21",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning in Scrum training rather than self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -208,10 +217,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T07:37:32",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning in Scrum training rather than the Definition of Done.",
     "level": "Ignored"
   },
@@ -244,48 +253,48 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the future of Scrum training and the importance of immersive learning, which relates to enhancing team performance and optimising delivery processes. However, it primarily focuses on training methods rather than strategic alignment or execution.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses immersive learning as a strategic approach to Scrum training, emphasising the importance of collaboration, ongoing support, and real-time problem-solving. It aligns well with the Strategy category by focusing on optimising delivery processes and enhancing team performance through innovative training methods. The depth of discussion on how immersive learning can lead to long-term change and continuous improvement further supports its relevance to strategic discussions within Agile frameworks.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T07:37:38",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning in Scrum training rather than focusing on the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training and the learning approach related to Agile frameworks, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T07:37:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning in Scrum training without addressing scaling agility or organisational-level practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on Scrum training and the innovative approach of immersive learning, which is directly related to Agile frameworks. It discusses the challenges of traditional training methods in the context of Scrum and highlights the importance of collaboration and ongoing support, which are core principles of Agile. The depth of discussion is significant, providing insights into how immersive learning can enhance the application of Scrum practices, thus aligning well with the category's themes.",
+    "level": "Primary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which relates to team dynamics and collaboration, but it primarily focuses on the training format rather than direct team collaboration techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, which touches on team dynamics and collaboration. However, it primarily focuses on the learning format rather than directly addressing team collaboration techniques or strategies. While it mentions the challenges teams face when implementing changes post-training, it lacks depth in exploring the core themes of team collaboration, such as shared ownership or fostering trust within teams.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -316,10 +325,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T07:37:48",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning in the context of Scrum training, which deviates from core engineering practices and methodologies.",
     "level": "Ignored"
   },
@@ -334,12 +343,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum training and immersive learning, which are related to Agile methodologies, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on Scrum training, which is a key Agile framework within the Software Development category. It discusses immersive learning as a method to enhance the application of Scrum practices, aligning well with the core themes of software development methodologies and continuous improvement. The depth of discussion is substantial, covering the benefits of ongoing support, collaboration, and long-term learning, all of which are critical in software development training contexts.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +364,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T07:37:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:26:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning in Scrum training rather than throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, discussing its benefits and methodologies rather than analysing or interpreting throughput as a delivery metric. While it touches on concepts of collaboration and ongoing support, it does not define or calculate throughput, nor does it provide observable data about team delivery capacity. The discussion lacks depth in terms of throughput metrics, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,10 +385,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T07:37:57",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training methods rather than Agile values and principles.",
     "level": "Ignored"
   },
@@ -406,21 +421,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of implementing change in organisations and suggests immersive learning as a solution, which aligns with change management principles. However, the primary focus is on Scrum training rather than change management itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning as a method to facilitate lasting change in Scrum training, which aligns with change management principles. It highlights the importance of ongoing support, collaboration, and real-time problem-solving, all of which are crucial for effective change management. However, while it touches on change management concepts, the primary focus is on training methodologies rather than a comprehensive exploration of change management strategies in Agile contexts.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which relates to the development of skills and knowledge necessary for effective practice. However, it primarily focuses on training methods rather than direct mentoring or coaching techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses immersive learning in Scrum training, highlighting the importance of ongoing support and collaboration, which are relevant to mentoring. However, it primarily focuses on training methodologies rather than the mentoring process itself. While it touches on aspects of support and collaboration that can be related to mentoring, it lacks direct discussions on mentoring techniques, roles, or emotional intelligence, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -458,22 +479,16 @@
     "reasoning": "Content heavily discusses immersive learning in Scrum training without any mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training, which is relevant to Agile methodologies, but it primarily focuses on the training format rather than the role of software developers within Agile or DevOps contexts.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:38:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning in Scrum training, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:19:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive learning in Scrum training, focusing on collaboration and real-time problem-solving rather than the principles of Test First Development. There are no direct mentions of success criteria, automated testing, or Test-Driven Development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,29 +547,26 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T07:38:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning in Scrum training and does not address Lead Time or its related concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T07:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and immersive learning without addressing scaling Agile practices or coordination among multiple teams.",
+    "calculated_at": "2025-04-11T08:26:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training and does not directly mention Lead Time or its significance as an observability metric. While it discusses the importance of ongoing support and collaboration in training, it does not address Lead Time, its measurement, or its impact on processes and customer satisfaction. The discussion is more about training methodologies rather than the efficiency of workflows or delivery times, which are central to the concept of Lead Time.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T07:38:22",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the challenges of traditional training methods in Scrum and advocates for immersive learning as a practical solution, highlighting real-world applications and the need for adaptability in training approaches.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges of traditional training methods in Scrum and advocates for immersive learning as a practical solution. It highlights the complexity of organisational change and the need for ongoing support, which aligns with pragmatic thinking. However, while it touches on relevant themes, it lacks detailed exploration of specific problem-solving strategies or case studies, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -565,15 +577,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses immersive learning in Scrum training, with no focus on deployment frequency or related practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum training and the challenges of implementing agile practices, making Agile Project Management a major but secondary theme.",
-    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -586,20 +589,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the future of Scrum training and the importance of immersive learning, which relates to Agile methodologies. However, it primarily focuses on training methods rather than strategic alignment or implementation of Agile principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance Scrum training, which indirectly relates to Agile Strategy by focusing on the implementation of Agile methodologies. However, it primarily centres on training techniques rather than strategic alignment or organisational vision, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning in the context of Scrum training, with no mention of Continuous Delivery principles or practices.",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, which is not directly related to Continuous Delivery. While it touches on concepts like ongoing support and incremental improvements, these are framed within the context of Scrum and Agile practices rather than Continuous Delivery principles. The discussion lacks explicit references to Continuous Delivery practices, automation, or deployment strategies, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,21 +622,24 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T07:38:31",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning in Scrum training rather than the Definition of Ready.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexity of organisational change and the challenges faced when implementing new practices, which relates to sensemaking. However, the primary focus is on immersive learning and training methods rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, highlighting the importance of collaboration and real-time problem-solving in complex environments. However, while it touches on aspects of sensemaking, such as adapting to challenges and fostering a supportive learning culture, it primarily focuses on training methodologies rather than explicitly exploring sensemaking principles or frameworks. The discussion lacks depth in terms of frameworks or models that aid in understanding complexity, which limits its alignment with the core themes of the category.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -640,30 +652,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which relates to team performance and collaboration, but it primarily focuses on the training format rather than specific team dynamics or performance metrics.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T07:38:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses immersive learning in Scrum training without any mention of AI or its application in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T07:38:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum training and immersive learning, with no clear focus on Scaling Kanban principles or practices.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses immersive learning as a method to enhance team collaboration and effectiveness within Scrum training. It highlights the importance of ongoing support, real-time problem-solving, and collaborative learning experiences, all of which are crucial for improving team dynamics and performance. The focus on how immersive learning can lead to long-term change aligns well with the core themes of the 'Team Performance' category. The depth of discussion regarding the collaborative aspects and the challenges teams face in implementing Scrum practices further supports a high confidence score.",
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -694,12 +691,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum training and the importance of immersive learning, which relates to Agile practices, but it primarily focuses on training methods rather than broader Agile transformation strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses immersive learning as a method to enhance Scrum training, which is a key aspect of Agile transformation. It directly addresses the challenges of implementing Agile practices and highlights the importance of ongoing support and collaboration, aligning well with the principles of Agile transformation. The depth of discussion on how immersive learning can lead to lasting change in organisations further strengthens its relevance to the category.",
+    "level": "Primary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -712,21 +712,24 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T07:38:45",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning approaches for Scrum training rather than focusing on Scrum Values.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of implementing change within organisations and the need for effective training methods, which aligns with the theme of organisational change, but primarily focuses on Scrum training rather than broader change management strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, which is related to organisational change but does not explicitly focus on the broader strategies or methodologies of organisational change itself. While it touches on the challenges of implementing change within organisations, it primarily centres on training methods rather than the principles of Agile transformation or frameworks for organisational change. The depth of discussion is limited to the training format without delving into the organisational change processes or leadership roles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -737,31 +740,28 @@
     "reasoning": "Content heavily discusses immersive learning in Scrum training, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum training and its future, indicating a major theme related to Scrum, but does not focus primarily on Scrum product development practices.",
-    "level": "Tertiary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which relates to operational practices in terms of enhancing learning and overcoming roadblocks in organisational change. However, it primarily focuses on the training format rather than specific operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance Scrum training, which indirectly relates to operational practices by focusing on improving training effectiveness and collaboration within Agile frameworks. However, it lacks direct mentions of specific operational efficiency techniques or metrics, and the depth of discussion on operational practices is limited to the context of training rather than broader operational strategies.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T07:38:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning in Scrum training, without a focus on evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, discussing its benefits and methodologies without directly addressing Evidence-Based Management principles or metrics. While it touches on aspects of collaboration and ongoing support, it lacks a clear emphasis on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,23 +773,17 @@
     "reasoning": "Content primarily discusses immersive learning in Scrum training rather than backlog refinement.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T07:38:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning in Scrum training without focusing on scaling practices or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum training and the learning experience, which relates to the role of a Scrum Master in facilitating effective learning and team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, highlighting the importance of collaboration, ongoing support, and real-time problem-solving, which are relevant to the role of a Scrum Master. However, it does not explicitly focus on the responsibilities or skills of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -811,12 +805,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the future of Scrum training and the challenges of implementing learning in organisations, which relates to mentoring and coaching development teams, but it primarily focuses on immersive learning rather than technical leadership principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, which touches on aspects of technical leadership such as collaboration, ongoing support, and real-time problem-solving. However, it lacks direct mentions of technical leadership principles and does not delve deeply into the specific strategies or practices that define effective technical leadership in agile environments. While it aligns conceptually with fostering collaboration and continuous improvement, the focus remains more on training methodologies rather than on guiding development teams or influencing team dynamics.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -838,12 +835,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training, which is related to Agile methodologies, but the primary focus is on immersive learning rather than Agile Planning principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, which is related to Agile practices. However, it primarily focuses on training methodologies rather than the core principles of Agile Planning itself. While it touches on collaboration and ongoing support, it lacks a detailed exploration of Agile Planning techniques, strategies, or tools, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -854,7 +854,7 @@
     "reasoning": "Content primarily discusses immersive learning in Scrum training rather than accountability or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T07:39:06",
     "ai_confidence": 0,
@@ -865,10 +865,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-12T07:39:07",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning in Scrum training rather than collaboration tools or their impact on Agile teams.",
     "level": "Ignored"
   },
@@ -892,12 +892,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum training and its future, which is a major theme, but does not focus specifically on Scrum Team dynamics or roles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, highlighting collaboration, ongoing support, and real-time problem-solving, which are relevant to Scrum Team dynamics. However, it lacks explicit mentions of specific Scrum roles and detailed exploration of team interactions, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -937,12 +940,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, highlighting the challenges of traditional training methods and the need for adaptability in learning approaches, which aligns with Agile principles. However, the primary focus is on training methods rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, which is a specific Agile framework. While it touches on themes of collaboration, ongoing support, and continuous improvement, it primarily focuses on the training methodology rather than the broader Agile philosophy. The Agile principles are implied but not explicitly stated, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -955,10 +961,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T07:39:21",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses immersive learning in Scrum training rather than Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -1000,11 +1006,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-12T07:39:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses immersive learning as a method to enhance training experiences in Scrum, which aligns with the principles of Continuous Learning. However, it primarily focuses on the format of training rather than broader themes of growth mindset or knowledge sharing.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses immersive learning as a method for enhancing training in Scrum, which aligns with the principles of Continuous Learning. However, it primarily focuses on the format of training rather than the broader themes of growth mindset, knowledge sharing, or feedback loops. While it touches on the challenges of traditional training and the need for ongoing support, it lacks depth in exploring how these practices contribute to team improvement or adaptability in Agile environments.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -1034,31 +1043,13 @@
     "reasoning": "Content heavily discusses Scrum training and immersive learning, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the challenges of implementing change within organisations and highlights the importance of ongoing support and learning, which aligns with themes of resilience and adaptability. However, the primary focus is on immersive learning methods rather than organisational resilience strategies.",
-    "level": "Tertiary"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T07:36:06",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses immersive learning approaches for Scrum training rather than installation or configuration of tools.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T07:36:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning in Scrum training, which is not directly related to software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,40 +1061,28 @@
     "reasoning": "Content primarily discusses immersive learning in Scrum training rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T07:36:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses immersive learning in Scrum training without any mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training, which is related to Agile methodologies and practices that can impact product delivery, but it primarily focuses on the training format rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, which is relevant to product delivery methodologies. It highlights the importance of collaboration, ongoing support, and real-time problem-solving, aligning with key themes of product delivery. However, while it touches on Agile practices, the primary focus is on training methods rather than the end-to-end delivery process itself, which slightly reduces the confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum training and the challenges of implementing Agile practices, making Agile principles a major theme, but it does not focus specifically on product management.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T07:36:14",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses immersive learning as a method for enhancing training in Scrum, focusing on the processes and methodologies that foster continuous learning and adaptation within teams.",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, which is relevant to Agile practices. However, it primarily focuses on training methodologies rather than the core aspects of Agile Product Management, such as product backlog prioritisation or stakeholder engagement. While it touches on collaboration and real-time problem-solving, it lacks depth in discussing the role of the Product Owner or aligning product vision with organisational goals.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -1117,39 +1096,15 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the complexity involved in organisational learning and the challenges faced when implementing changes, which aligns with themes of complexity thinking. However, it primarily focuses on immersive learning in Scrum training rather than a deep exploration of complexity science itself.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T07:36:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning in Scrum training, without a focus on transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive learning as a method for training in Scrum and Kanban, which relates to practical techniques for implementing Agile practices. However, it primarily focuses on the learning experience rather than specific tools or methodologies.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which implies a connection to events and presentations, but it primarily focuses on the learning methodology rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum and Agile practices, highlighting the complexities involved in organisational change and the need for ongoing support and collaboration. While it touches on themes relevant to complexity thinking, such as non-linear dynamics and the challenges of implementing change in complex systems, it does not explicitly reference complexity science or frameworks like the Cynefin Framework. The depth of discussion on how immersive learning addresses these complexities is moderate, but the primary focus remains on training methodologies rather than a thorough exploration of complexity thinking principles.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1171,11 +1126,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T07:36:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and immersive learning, which are not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training and immersive learning, which are methodologies related to Agile practices rather than DevOps. While there are mentions of collaboration and continuous improvement, these concepts are not explicitly tied to the core principles of DevOps. The discussion lacks depth in addressing DevOps-specific themes such as automation, shared accountability, or the integration of quality and security practices.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1186,15 +1144,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and immersive learning, with no mention of Azure DevOps or its functionalities.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which relates to methodologies and frameworks in Agile. However, it primarily focuses on the training format rather than specific products or literature.",
-    "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1207,21 +1156,24 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-12T07:36:40",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and does not focus on Kanban principles or practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which relates to enhancing learning experiences that could lead to better value delivery. However, the primary focus is on training methods rather than direct value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance Scrum training, which indirectly relates to value delivery by emphasising ongoing support, collaboration, and real-time problem-solving. However, while it touches on aspects of Agile and Scrum, it lacks a direct focus on value delivery principles and methodologies, making it a secondary rather than primary focus.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,12 +1186,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses immersive learning in the context of Scrum training, which relates to organisational adaptability and responsiveness. However, it primarily focuses on training methods rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance Scrum training, which aligns with the principles of organisational agility by promoting adaptability and continuous improvement. It highlights the importance of collaboration, ongoing support, and real-time problem-solving, all of which are key themes in fostering an agile culture. However, while it touches on agility, the primary focus remains on training methodologies rather than broader organisational strategies, which slightly limits its depth of discussion on agility as a whole.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1250,39 +1205,24 @@
     "reasoning": "Content primarily discusses the future of Scrum training and immersive learning methods, lacking personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T07:36:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of immersive learning in Scrum training, focusing on how it impacts people and their ability to adapt processes within organisations.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T15:31:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges of implementing learning in organisational contexts, highlighting the interplay between training methods and organisational structures, which aligns with sociotechnical systems. However, the primary focus is on immersive learning rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T07:36:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses immersive learning in Scrum training rather than providing news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, highlighting the importance of collaboration, ongoing support, and the challenges of implementing change within organisational cultures. While it touches on the interplay between social and technical aspects, it primarily focuses on training methods rather than a comprehensive exploration of sociotechnical systems. The mention of organisational challenges and team dynamics indicates some alignment with the category, but the depth of discussion is limited to training rather than broader sociotechnical interactions.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T07:36:52",
+    "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning approaches for Scrum training rather than metrics, data utilisation, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -1315,12 +1255,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:31:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the future of Scrum training and the importance of immersive learning in relation to Scrum and Kanban methodologies.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses immersive learning as a method to enhance collaboration and problem-solving within Scrum training, aligning well with the principles of social technologies. It highlights the importance of ongoing support, real-time problem-solving, and collaborative learning experiences, which are core themes of the category. The depth of discussion is significant, providing detailed insights into how immersive learning can transform training and foster a supportive environment for continuous improvement. Overall, the content is highly relevant to the category, focusing on enhancing decision-making and value delivery through collaborative frameworks.",
+    "level": "Primary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1330,15 +1273,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses immersive learning approaches for Scrum training rather than leadership practices.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:31:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum training specifically, but also mentions Kanban and focuses on the broader concept of immersive learning rather than Scrum principles or practices exclusively.",
-    "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1358,22 +1292,443 @@
     "reasoning": "Content heavily discusses Scrum training and immersive learning, with no clear focus on platform engineering or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T15:31:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning in the context of Scrum training, which is not related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T15:31:31",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training rather than the Agile Product Operating Model. While it touches on Agile practices and collaboration, it lacks a direct discussion of the APOM principles, such as transitioning to a product ethos or operational governance. The depth of discussion is limited to training methods rather than the broader framework of APOM.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:46:46",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses immersive learning in Scrum training, without a clear focus on the Agile Product Operating Model.",
+    "reasoning": "Content heavily discusses Scrum training and immersive learning, which are unrelated to Internal Developer Platforms.",
     "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:46:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses immersive learning in Scrum training without any mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 50,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum training specifically, indicating a focus on Scrum principles and practices. However, it also mentions Kanban, which detracts from the primary focus on Scrum. The discussion on immersive learning aligns with the need for effective training in Scrum, but lacks detailed exploration of Scrum roles, events, or artifacts, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, discussing collaboration and ongoing support rather than integrating testing, security, or compliance earlier in the software development lifecycle. It does not address the Shift-Left Strategy directly or provide relevant techniques or case studies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance Scrum training, which indirectly relates to Continuous Improvement through the emphasis on ongoing support, real-time problem solving, and incremental changes. However, it primarily focuses on training methods rather than explicitly addressing Continuous Improvement principles or strategies. The mention of 'continuous improvement' is brief and not the main focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses immersive learning in Scrum training, which indirectly relates to the concept of Common Goals by emphasising collaboration and ongoing support. However, it lacks a direct focus on aligning strategy with execution or shared objectives that guide decision-making. The discussion is more about training methodologies than about establishing or operationalising Common Goals within Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses immersive learning as a method to enhance competence in Scrum training, emphasising continuous learning, collaboration, and real-time problem-solving. It aligns well with the core themes of competence, particularly in fostering a culture of ongoing skill development and the importance of support in applying learned skills. The depth of discussion on how immersive learning leads to long-term change and mastery of Scrum practices further strengthens its relevance to the competence category.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, which is not directly related to the One Engineering System framework. While it discusses collaboration and problem-solving, it does not address the principles, components, or implementation of 1ES, nor does it provide insights into standardising engineering practices across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses immersive learning in Scrum training, which touches on themes of collaboration and ongoing support. However, it lacks a direct focus on the intentional shaping of outcomes, accountability, and the distinction between human and AI capabilities. While it mentions the importance of adapting to challenges, it does not delve into the principles of Agentic Agility or provide a clear framework for understanding agency in this context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T08:25:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the future of Scrum training through immersive learning, which aligns closely with Agile product development principles. It discusses the importance of ongoing support, collaboration, and real-time problem-solving, all of which are essential for effective product development. The depth of discussion on how immersive learning can facilitate continuous improvement and customer feedback integration further strengthens its relevance to the category. However, while it touches on key aspects of product development, it does not delve deeply into broader methodologies or practices beyond Scrum, which slightly limits its overall alignment.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T08:25:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, which is not directly related to Open Space Agile principles. While it touches on collaboration and ongoing support, it lacks explicit discussions on Open Space Technology, psychological safety, or shared ownership, which are core to Open Space Agile. The mention of collaboration is too general and does not specifically align with the unique aspects of Open Space Agile methodologies. Overall, the content does not meet the criteria for a strong alignment with the Open Space Agile category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T08:25:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum training and the concept of immersive learning, which is a specific approach rather than a discussion on Agnostic Agile principles. While it touches on the need for adaptability and collaboration, it does not explicitly mention Agnostic Agile or its core themes. The discussion lacks depth regarding the principles of Agnostic Agile, such as ethical considerations or comparisons with other frameworks, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T08:25:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, which is more about enhancing individual and team capabilities rather than discussing scaling methodologies or frameworks. While it touches on collaboration and ongoing support, it does not delve into the complexities of scaling Agile practices or managing cross-team dependencies, which are central to the 'Scaling' category. The discussion lacks depth in terms of frameworks or strategies specifically aimed at scaling, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T08:25:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, discussing its benefits and methodologies without any direct mention or alignment with the principles of Cell Structure Design. It does not address the concepts of decentralised structures, autonomous cells, or the Beta Codex, which are central to the category. The discussion is centred around training methods rather than organisational design models.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T08:26:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, focusing on collaboration and real-time problem-solving. However, it does not explicitly mention Liberating Structures or their specific techniques. While there is some conceptual alignment with the principles of collaboration and engagement, the depth of discussion on Liberating Structures is minimal, and the primary focus remains on immersive learning rather than the facilitation techniques themselves.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T08:26:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses immersive learning in Scrum training, focusing on enhancing understanding and implementation rather than directly addressing Time to Market. While it touches on the importance of ongoing support and collaboration, which can indirectly relate to improving Time to Market, it does not explicitly mention metrics or strategies for reducing time from conception to delivery. The primary focus remains on training methodologies rather than the efficiency of delivering market-ready products or features.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T08:26:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training, discussing its benefits and methodologies. While it touches on collaboration and real-world application, it does not explicitly address the concept of treating the organisation as a product or integrating customer feedback into organisational design. The discussion lacks depth in relation to CaaP principles, making it more about training methods than organisational strategy.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T08:26:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses immersive learning in the context of Scrum training, focusing on training methodologies rather than GitHub or its functionalities. There are no direct mentions of GitHub, and while it touches on collaboration and Agile practices, it does not specifically address GitHub's tools or services. The depth of discussion is centred around training techniques rather than GitHub-related practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T08:26:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses immersive learning in Scrum training, focusing on enhancing understanding and implementation rather than explicitly addressing Unrealised Value. While it touches on the potential for long-term change and improvement, it does not provide specific indicators or strategies for identifying untapped opportunities, which are central to the concept of Unrealised Value. The discussion is more about training methodologies than about capturing potential value within an organisation.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T08:26:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses immersive learning in Scrum training, focusing on real-time problem-solving and ongoing support, which are relevant to the concept of Current Value. However, it does not explicitly define or measure Current Value, nor does it provide specific metrics or indicators related to customer satisfaction or revenue impact. The discussion is more centred on training methodologies rather than a direct assessment of value delivered by a product or service, leading to a lower confidence score despite some relevant themes being present.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T08:26:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on immersive learning in Scrum training and does not explicitly discuss Hybrid Agile or its challenges. While it touches on aspects of Agile practices, it lacks critical examination of the integration of traditional and agile methodologies, which is central to the Hybrid Agile category. The discussion is more about training methods rather than the implications of Hybrid Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T08:26:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on immersive learning within the context of Scrum training, which is a specific agile methodology. While it discusses aspects of training and collaboration that are relevant to project management, it does not address broader project management principles, methodologies, or lifecycle phases comprehensively. The mention of Scrum and Agile practices indicates a limited scope, focusing more on training techniques rather than project management as a whole. Therefore, while there is some alignment with project management concepts, the depth and breadth of discussion are insufficient for a higher confidence score.",
+    "level": "Tertiary"
+  },
+  "Principle": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses immersive learning in Scrum training and emphasizes collaboration, real-time problem-solving, and continuous improvement. These themes align with the principles of Agile methodologies; however, the primary focus is more on the training approach rather than explicitly outlining specific principles that guide decision-making or team behavior. While it does mention related concepts like ongoing support and collaboration, these are secondary to the broader topic of immersive learning rather than strict principles themselves.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses immersive learning as a training methodology rather than specific tools. While it briefly contrasts immersive learning with tools training, it does not delve into any specific tools or their functionalities. The mention of Scrum is relevant to the context, but the focus is not on how tools facilitate Agile practices, represent mechanisms, or compare specific software applications.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the concept of immersive learning rather than discussing core values or guiding principles related to Scrum or Agile practices. While it touches upon collaboration and support, which are values to some extent, it does not explicitly mention Agile Values or Scrum Values, nor deeply explore how these values shape decision-making or organizational culture.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:55",
+    "ai_confidence": 20.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on immersive learning techniques for Scrum training, discussing specific practices and methodologies rather than exploring philosophical foundations. The mentions of collaboration and engagement hint at a broader discussion but do not dive into the theoretical underpinnings of Agile or Lean philosophies. Therefore, while there are some relevant points, they remain secondary to the practical aspects of how Scrum is taught and implemented.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 2,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses immersive learning in the context of Scrum training, emphasizing collaborative and continuous improvement processes, which aligns with the characteristics of a structured discipline. However, it primarily focuses on the method of training rather than the overarching principles and governance structures typically associated with the discipline category. Direct mentions of discipline are limited, and while it presents valuable insights on Scrum as a system, it lacks a deeper exploration of the systemic application and maturation of the Scrum discipline itself.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses on immersive learning for Scrum training, discussing how it engages participants and fosters collaboration, but it does not explicitly mention or explore specific artifacts like Product Backlog or Sprint Backlog. While it touches on Scrum practices, it primarily discusses the context and methods of training rather than the artifacts themselves, leading to a low alignment with the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 2,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses Scrum training and immersive learning, focusing on collaboration and ongoing support in Agile environments. While it touches on improving practices and real-time problem solving, there is no direct reference to observability concepts like metrics, logs, or traces. The mere mention of continuous improvement does not adequately align with the key topics of observability, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content extensively discusses immersive learning as a practical approach to improving Scrum training. It highlights actionable techniques such as ongoing support, real-time problem solving, and collaborative learning, all aiming to enhance team performance. These points align closely with the themes of continuous improvement and effective practices, directly related to the 'Practice' category. However, the primary focus on immersive training itself, although relevant, doesn’t fully align it as a practice but rather as a method of training. This leads to a moderately high confidence score indicative of strong but not perfect alignment.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses immersive learning as an innovative approach to Scrum training, highlighting its structured process of engaging learners over an extended period and facilitating real-time problem-solving. While it does mention Scrum specifically, the focus is more on the method of immersive learning rather than the detailed procedures within Scrum itself. Thus, it aligns to a moderate degree with the 'Method' category, particularly in application but lacks depth in specific Scrum procedures or principles.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses immersive learning as a training approach within the Scrum framework, but it does not delve into specific conceptual models or frameworks relevant to Agile, DevOps, or Lean directly. While it references Scrum and teamwork in the context of training, it lacks the depth and focus on decision-making processes or model efficacy that aligns with the 'Model' category. Therefore, although some aspects intersect with the theme (such as collaboration and continuous improvement), the overall emphasis is more on training methodology than on models themselves.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 16,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on immersive learning as it pertains to Scrum training. It discusses the complexities of implementing Scrum and provides insights into the collaborative and ongoing support aspects necessary for effective framework integration. However, it does not delve deeply into the specifics of Scrum as a framework or compare it with other frameworks, which limits the depth of discussion around framework methodologies. The primary focus remains on training methodologies rather than the frameworks themselves.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:56",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 26,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses immersive learning within Scrum training, emphasizing practical application, ongoing support, and collaboration—key tenets of Agile methodologies. While it goes into depth about the advantages of immersive learning and how it aids Scrum implementation, it could strengthen its connection to specific tenets by directly referencing how these practices align with Agile principles. The focus on continuous improvement, real-time problem-solving, and collaborative learning supports the category, but it doesn't explicitly articulate concrete guiding rules or doctrines. Therefore, while relevant, it doesn't fully meet the most stringent criteria for the 'Tenet' category.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "Frqfd0EPj_4",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content predominantly discusses immersive learning as a new approach to Scrum training, focusing on collaboration and real-time problem-solving, which contributes indirectly to building team capabilities. However, the emphasis is more on training methodologies and participant experiences rather than defining or embedding enduring organizational capabilities. While it mentions elements of collaboration and ongoing support, which relate to capabilities in an Agile context, the primary focus remains on the immersive learning experience, making Capability a secondary theme rather than the main focus of the content.",
+    "level": "Secondary"
   }
 }

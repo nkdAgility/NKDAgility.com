@@ -1,0 +1,9 @@
+I think my best day as an agile consultant is difficult to answer so I'm going to answer it in two different ways. My most memorable moment as an agile consultant actually happened about seven years after the engagement that it pertained to.
+
+So I did an engagement in Utah where we did some training and workshops and consulting with a team of Java developers. At the time, I know nothing about Java but Java developers. I mean, I thought it went well. We helped them understand Scrum, we helped them understand agile, we did some user story workshops, we did some engineering practices workshops. I actually did a TDD explanation and lesson, and we did a TDD kata together even though I was writing in .NET because I know nothing about Java and they were writing in Java, and they were still correcting my code on the projector.
+
+But about seven years later, I got an email from one of the participants of that engagement just to let me know how much of a game changer that experience was for him, his team, and the organisation. That experience, I think I was only on site for five or six days, but that experience for them felt like a catalyst for so much change inside the organisation.
+
+I still speak to people that are from that engagement and hear from them on occasion, and they always talk about it in that way. I've even done gigs for people that have left and gone to other companies, and they've asked me to come in, but kind of nothing's compared to that one, which is funnily enough, that was the first APS class I ever taught, which was a lot of fun.
+
+Thanks for watching the video. If you enjoyed it, please like, follow, and subscribe. I always reply to comments, and if you want to have a chat about this or anything else agile, Scrum, or DevOps, then please book a coffee with me through Naked Agility.

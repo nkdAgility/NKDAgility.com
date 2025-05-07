@@ -1,36 +1,47 @@
-{{ $breadcrumbs := partial "functions/breadcrumbs.html" . }}
-<nav aria-label="breadcrumb" nkdMeta="[Kind:={{- .Kind }}][Type:={{- .Type }}]">
-  <ul class="breadcrumb">
-    <!-- Output breadcrumb trail -->
-    {{- range $index, $page := $breadcrumbs }}
-      <li class="breadcrumb-item" title="{{- $page.Title }}{{ if $page.Params.shorttitle }}&nbsp;({{ $page.Params.shorttitle }}){{ end }}{{ if $page.Description }}&nbsp;-&nbsp;{{ $page.Description }}{{ end }}">
-        {{- if eq $index (sub (len $breadcrumbs) 1) }}
-          <!-- Current page (no link) -->
-          <span class="active">
-            {{- if $page.Params.shorttitle }}
-              {{- $page.Params.shorttitle }}
+<div class="row">
+  <div class="col-12 col-lg-8">
+    {{ $breadcrumbs := partial "functions/breadcrumbs.html" . }}
+    <nav aria-label="breadcrumb" nkdMeta="[Kind:={{- .Kind }}][Type:={{- .Type }}]">
+      <ul class="breadcrumb">
+        <!-- Output breadcrumb trail -->
+        {{- range $index, $page := $breadcrumbs }}
+          <li class="breadcrumb-item" title="{{- $page.Title }}{{ if $page.Params.shorttitle }}&nbsp;({{ $page.Params.shorttitle }}){{ end }}{{ if $page.Description }}&nbsp;-&nbsp;{{ $page.Description }}{{ end }}">
+            {{- if eq $index (sub (len $breadcrumbs) 1) }}
+              <!-- Current page (no link) -->
+              <span class="active">
+                {{- if $page.Params.shorttitle }}
+                  {{- $page.Params.shorttitle }}
+                {{- else }}
+                  {{- $page.Title }}
+                {{- end }}
+              </span>
             {{- else }}
-              {{- $page.Title }}
-            {{- end }}
-          </span>
-        {{- else }}
-          {{ if $page.IsHome }}
-            <a href="{{- $page.Permalink }}"><i class="fa-light fa-house"></i></a>
-          {{ else }}
-            <!-- Linked breadcrumb items -->
-            <a href="{{- $page.Permalink }}">
-              {{- if $page.Params.shorttitle }}
-                {{- $page.Params.shorttitle }}
-              {{- else }}
-                {{- $page.Title }}
+              {{ if $page.IsHome }}
+                <a href="{{- $page.Permalink }}"><i class="fa-light fa-house"></i></a>
+              {{ else }}
+                <!-- Linked breadcrumb items -->
+                <a href="{{- $page.Permalink }}">
+                  {{- if $page.Params.shorttitle }}
+                    {{- $page.Params.shorttitle }}
+                  {{- else }}
+                    {{- $page.Title }}
+                  {{- end }}
+                </a>
               {{- end }}
-            </a>
-          {{- end }}
+            {{- end }}
+          </li>
         {{- end }}
-      </li>
-    {{- end }}
-  </ul>
-</nav>
+      </ul>
+    </nav>
+  </div>
+  <div class="col-12 col-lg-4 text-end">
+    <div class="d-inline-flex gap-2">
+      {{- partial "components/taking-on-new-client-poc-cycle.html" . }}
+      {{- partial "components/share-dropdown.html" . }}
+      {{- partial "components/admin-dropdown.html" . }}
+    </div>
+  </div>
+</div>
 
 <style>
   .breadcrumb {

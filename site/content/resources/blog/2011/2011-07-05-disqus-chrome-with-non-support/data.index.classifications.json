@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to Disqus and Chrome, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T22:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues with Disqus comments on a blog and does not focus on practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T22:18:22",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:18:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues with a third-party tool and does not relate to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T22:18:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues with a third-party commenting tool and interactions with customer support, with no focus on software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T22:18:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues with Disqus and Chrome, lacking focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T22:18:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues with Disqus comments on a blog and does not relate to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, with no direct mention or alignment to Evidence-Based Management principles. It lacks any empirical data or metrics relevant to decision-making in management.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T22:18:31",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with Disqus comments on a blog, rather than providing actionable installation or configuration guidance.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T22:18:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues with a third-party tool and does not focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,31 +65,28 @@
     "reasoning": "Content primarily discusses technical issues with a third-party tool and does not address the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T22:18:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues with Disqus and Chrome, lacking focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:18:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with Disqus comments on a blog, which is unrelated to DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to Disqus comments not loading in Chrome, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks depth in any relevant areas such as automation, collaboration, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-15T22:18:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses a personal issue with a third-party tool (Disqus) on a blog, which does not directly reference Agile, Scrum, DevOps, or Lean principles. It includes personal reflections and anecdotal experiences related to the problem, making it a suitable fit for the Miscellaneous category.",
+    "reasoning": "The content primarily discusses a technical issue related to the Disqus commenting system on a blog, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles. While it touches on a personal experience with a third-party tool, it lacks actionable insights or a structured discussion relevant to recognised practices in the Agile domain. The focus is on troubleshooting a specific problem rather than exploring broader concepts or methodologies, thus aligning it more with the Miscellaneous category.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues with Disqus comments on a blog, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T22:18:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue with Disqus comments on a blog, with no reference to events, presentations, or related discussions.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T22:18:43",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with Disqus comments on a blog, which is unrelated to the optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T22:18:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues with Disqus and Chrome, with no significant focus on team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T22:18:48",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues with Disqus comments on a blog, lacking focus on metrics, data analysis, or learning principles.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses issues with Disqus comments on a blog, which is unrelated to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T22:18:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues with the Disqus commenting system on a blog, rather than focusing on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T22:18:59",
@@ -289,12 +217,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and frustrations related to a technical issue with Disqus on a blog, which reflects individual insights and challenges faced in using a third-party tool. However, the primary focus is on the technical problem rather than broader themes of Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses a technical issue with Disqus comments on a blog, which does not align with the Personal category's focus on individual reflections or experiences related to Agile, Scrum, or DevOps. While there are some personal frustrations expressed, they are not tied to broader themes of Agile methodologies or personal insights into team dynamics or transformations.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -305,22 +236,25 @@
     "reasoning": "Content primarily discusses technical issues with Disqus comments on a blog, focusing on troubleshooting and communication with support, rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T22:19:07",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with Disqus comments on a blog and does not relate to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:19:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Disqus comments on a blog, with no relevance to Agile principles or product operating models.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant topics outlined in the APOM framework. The focus is on troubleshooting a specific problem rather than discussing agile practices or product delivery strategies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +266,6 @@
     "reasoning": "Content primarily discusses technical issues with a third-party tool and does not address organisational agility or related themes.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T22:19:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a personal issue with Disqus comments on a blog, lacking relevance to industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T22:19:12",
@@ -348,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with a third-party commenting tool on a blog, which does not relate to the management of software applications or the application lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T22:19:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Disqus comments on a blog and does not mention Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +286,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:06:43",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses a technical issue with blog comments and customer support, which does not relate to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:06:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a problem with comments on a blog using Disqus and Chrome, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses troubleshooting issues with Disqus comments in Chrome, which is unrelated to Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or tools, and the discussion does not align with the core themes of the category. The content lacks depth in any relevant aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +334,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T02:06:43",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to comments not loading on a blog and interactions with customer support, which does not pertain to Lead Time or its related concepts.",
     "level": "Ignored"
   },
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:06:43",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to Disqus comments on a blog but does not address the Definition of Ready or any criteria related to backlog item readiness.",
     "level": "Ignored"
   },
@@ -593,21 +512,12 @@
     "reasoning": "Content primarily discusses issues with using Disqus on a blog and interactions with support, which is not directly related to software development methodologies or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses issues related to the Disqus commenting system on a blog, which is unrelated to Agile Project Management principles, methodologies, or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:06:44",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a technical issue with Disqus and Chrome, unrelated to Agile values or principles.",
     "level": "Ignored"
   },
@@ -631,10 +541,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T02:06:44",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical issues with a commenting system and does not discuss empirical process control or related Agile principles.",
     "level": "Ignored"
   },
@@ -701,15 +611,6 @@
     "reasoning": "The content primarily discusses a technical issue with Disqus comments on a blog and the author's frustration with customer support, rather than focusing on enhancing customer satisfaction or related strategies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about a personal issue with a third-party commenting system and does not discuss any aspects related to Scaling Scrum or relevant frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:06:44",
@@ -726,15 +627,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses technical issues with a blog commenting system and email correspondence with support, with no clear focus on psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues with Disqus and comment loading on a blog, which is unrelated to scaling agility discussions.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +694,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:06:44",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue with a comment system on a blog and does not address any topics related to innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses personal issues with Disqus comments on a blog, which is unrelated to Scrum principles, product development methodologies, or any related Scrum practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues with Disqus comments on a blog, unrelated to Scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -919,10 +793,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T02:06:44",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content relates to issues with Disqus comments on a WordPress blog and communication with support, but it does not discuss Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -973,10 +847,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T02:06:44",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with Disqus on a blog and does not relate to the measurement or implications of Cycle Time.",
     "level": "Ignored"
   },
@@ -1034,7 +908,7 @@
     "reasoning": "Content primarily discusses technical issues related to the Disqus commenting system and compatibility with browsers rather than focusing on digital transformation strategies or the application of digital technologies for business innovation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:06:44",
     "ai_confidence": 0,
@@ -1043,21 +917,12 @@
     "reasoning": "Content focuses on technical issues with Disqus comments on a blog and customer support interactions, not related to Minimum Viable Products or product development concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is focused on troubleshooting issues with Disqus comments on Wordpress and does not discuss AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T02:06:44",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses an issue with comments not loading on a blog due to a problem with Disqus and Chrome, rather than the technical aspects of system configuration.",
     "level": "Ignored"
   },
@@ -1099,11 +964,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on a technical issue with a commenting system and does not discuss Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses troubleshooting issues with Disqus comments in Chrome and does not mention Test First Development or its principles. There is no alignment with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among team members. The depth of discussion is focused on a specific technical issue rather than any testing methodology.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1162,11 +1030,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to Disqus comments not loading on a WordPress blog, detailing a specific problem, potential reasons, and requests for support. It fits well within the troubleshooting scope by addressing identification and attempts at resolving a technical issue with a third-party service.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses a specific issue with Disqus comments not loading on a WordPress blog, which aligns with troubleshooting. It includes a detailed description of the problem, steps to reproduce it, and a response to a support request, indicating an effort to diagnose and resolve the issue. However, while the problem is clearly identified, the depth of technical discussion and methodologies for resolution is somewhat limited, focusing more on the user's frustration than on systematic troubleshooting techniques.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1051,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses technical issues related to a blog commenting system and does not address any aspects of the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics of the Scrum Master category, and the discussion is focused on troubleshooting a specific software problem rather than any aspects of Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1077,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to Disqus comments on a blog, with no focus on working agreements, teamwork, or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with a third-party commenting tool and browser compatibility, which does not align with the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1196,6 @@
     "reasoning": "Content primarily discusses technical issues with a third-party tool and expresses frustration with customer support, rather than focusing on accountability within Agile team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:06:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues with Disqus comments on a blog and doesn't relate to Scaling Kanban or its principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:06:44",
@@ -1360,11 +1216,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:56:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues with Disqus comments on a blog, which is unrelated to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue with Disqus comments in Chrome, lacking any substantial discussion on collaboration, decision-making, or value delivery. While it mentions user experiences and communication with support, these elements do not align with the core themes of Social Technologies as defined. The content does not explore frameworks or methodologies that promote collaboration or enhance decision-making within organisations.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1233,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Disqus and Chrome, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:28:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues with Disqus comments on a blog and does not relate to Internal Developer Platforms or their implementation.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:28:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues with Disqus comments on a blog and does not relate to Artificial Intelligence, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to Disqus comments on a blog, with no direct mentions or discussions of Scrum principles, roles, events, or practices. The focus is on troubleshooting a specific problem rather than any aspect of the Scrum framework or its implementation.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to a third-party commenting tool and does not mention or align with the principles of the Shift-Left Strategy in software development. There are no references to testing, security, or compliance processes, nor any proactive measures to enhance software quality. The focus is on troubleshooting a specific problem rather than integrating critical processes earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue with Disqus comments not loading in Chrome, focusing on troubleshooting and user experience rather than Continuous Improvement principles. There are no direct mentions of Continuous Improvement, nor does the content align with its core themes such as data-driven decision-making or fostering a culture of experimentation. The discussion lacks depth in relation to Continuous Improvement, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue with Disqus comments not loading in Chrome, which is unrelated to the concept of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any relevant themes. The focus is on troubleshooting a specific problem rather than fostering collaboration or accountability within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, which does not align with the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. There are no direct mentions of continuous learning, skill development, or professionalism, and the discussion lacks depth on any related themes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Disqus comments not loading in Chrome, with no explicit mention of Agentic Agility or its principles. While there is a minor element of seeking solutions and troubleshooting, it does not align with the core themes of intentional shaping of outcomes, autonomy, or adaptability in socio-technical environments. The focus is on a specific technical problem rather than a broader discussion of agency or agility.",
     "level": "Ignored"
   }
 }

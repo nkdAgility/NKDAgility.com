@@ -2,29 +2,36 @@
 title: 'Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meaningful Feedback'
 description: Transform your Sprint reviews from ghost towns to vibrant discussions! Discover strategies to engage stakeholders and secure valuable feedback effectively.
 date: 2023-12-15T11:00:17Z
+weight: 1000
 ResourceId: KhP_e26OSKs
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KhP_e26OSKs
 url: /resources/videos/:slug
-slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
 layout: video
 aliases:
-- /resources/videos/KhP_e26OSKs
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
-- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/KhP_e26OSKs
-aliasesFor404:
+- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
+- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+aliasesArchive:
+- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+- transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
 preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
+- Sprint Review
 - Product Owner
-- People and Process
-- Agile Project Management
+- Team Collaboration
+- Pragmatic Thinking
+- Agile Product Management
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,7 +39,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 One of the recurring challenges I encounter in organisations is the struggle that product owners, particularly those who are new to the role, face in securing stakeholder attendance at Sprint reviews. It’s a common scenario: you’ve put in the effort, crafted a compelling presentation, and yet, when the time comes, the room feels more like a ghost town than a vibrant discussion space. Even when stakeholders do show up, getting meaningful feedback can feel like pulling teeth. You ask for their thoughts, and all you hear is the sound of tumbleweeds rolling through the desert.
@@ -48,7 +55,7 @@ This situation, in my experience, is fundamentally a marketing issue. The crux o
    - **Ask Specific Questions**: Instead of a broad “What do you think?”, try asking targeted questions that guide them towards specific areas of the product. This can help spark more meaningful conversations.
 
 ### 3. **Engage Stakeholders Before the Review**
-   - **Pre-Review Check-Ins**: Reach out to stakeholders before the Sprint review to discuss what will be presented. This can help them prepare their thoughts and feel more invested in the discussion.
+   - **Pre-Review Check-Ins**: Reach out to stakeholders before the [Sprint review]({{< ref "/tags/sprint-review" >}}) to discuss what will be presented. This can help them prepare their thoughts and feel more invested in the discussion.
    - **Share Progress Updates**: Regular updates can keep stakeholders informed and engaged. Use newsletters, emails, or even quick catch-up meetings to maintain interest.
 
 ### 4. **Highlight Success Stories**

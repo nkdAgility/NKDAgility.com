@@ -2,34 +2,30 @@
 title: 'Navigating Client Needs: How Agile Consultants Can Uncover True Value Beyond Initial Requests'
 description: Unlock the secrets to effective agile consulting! Discover how to guide clients towards true value and sustainable growth in your projects.
 date: 2023-03-01T07:00:00Z
+weight: 690
 ResourceId: -Mz9cH0uiTQ
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: -Mz9cH0uiTQ
 url: /resources/videos/:slug
-slug: does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
+slug: navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
 aliases:
-- /resources/videos/-Mz9cH0uiTQ
-- /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
-- /resources/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 - /resources/-Mz9cH0uiTQ
-aliasesFor404:
+- /resources/videos/navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
+- /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around
+aliasesArchive:
+- /resources/videos/navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
 - /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 - /resources/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
+- /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around
+- navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: false
 tags:
-- People and Process
-- Value Delivery
-- Agile Philosophy
 - Pragmatic Thinking
-- Product Discovery
-- Agile Strategy
-- Business Agility
-- Personal
-- Organisational Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -38,7 +34,7 @@ layout: video
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 When I’m engaged as an agile consultant, I often find myself pondering a fundamental question: does the client dictate what they need, or is it my role to guide them towards the right solutions? My experience has led me to believe that it’s the latter, but the reality is often more nuanced.
@@ -52,7 +48,7 @@ Clients frequently arrive with a specific agenda. They might have a clear idea o
 
 The duration of my engagement can significantly influence how this process unfolds. Most of my work tends to be short-term, spanning two to three weeks. During these periods, clients typically seek advice on how to implement agile practices effectively. I provide insights and strategies, which they then take forward independently.
 
-However, I’ve also had the opportunity to engage in longer-term projects, particularly with professional services teams. In these cases, I work closely with various teams within the organisation, often collaborating with their Scrum Masters to observe and provide feedback.
+However, I’ve also had the opportunity to engage in longer-term projects, particularly with professional services teams. In these cases, I work closely with various teams within the organisation, often collaborating with their [Scrum]({{< ref "/categories/scrum" >}}) Masters to observe and provide feedback.
 
 ### The Agile Misconception
 
@@ -75,7 +71,7 @@ What’s crucial for any business, not just professional services, is understand
 
 ### The Real Challenge
 
-Most clients don’t truly know what they want. They may think they need agile or DevOps implementations, but the real challenge often lies elsewhere. My role is to help them identify these core difficulties, even if it means approaching the solution from an unexpected angle. 
+Most clients don’t truly know what they want. They may think they need agile or [DevOps]({{< ref "/categories/devops" >}}) implementations, but the real challenge often lies elsewhere. My role is to help them identify these core difficulties, even if it means approaching the solution from an unexpected angle. 
 
 Ultimately, the goal is to ensure they derive genuine value from our collaboration. It’s about guiding them towards the right path, even if it requires a bit of finesse.
 

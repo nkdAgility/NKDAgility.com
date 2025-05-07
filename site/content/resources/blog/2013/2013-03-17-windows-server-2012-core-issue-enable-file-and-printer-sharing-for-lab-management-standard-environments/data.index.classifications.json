@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T19:13:55",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Visual Studio Lab Management and does not address Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:13:57",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical solutions and techniques for enabling file and printer sharing in Visual Studio Lab Management environments, which aligns with the exploration and application of tooling.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:13:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:14:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting and configuration of file and printer sharing in Visual Studio Lab Management, which is not related to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:14:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to enabling file and printer sharing in specific environments, without any emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:14:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to file and printer sharing in Visual Studio Lab Management, with no relevance to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical troubleshooting for file and printer sharing in Visual Studio Lab Management environments. It does not discuss Evidence-Based Management principles, metrics, or data-informed decision-making, which are central to the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:14:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed step-by-step instructions for enabling File and Printer Sharing in Windows environments, which is a clear focus on installation and configuration processes.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:14:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed guide on enabling File and Printer Sharing for Visual Studio Lab Management environments, which directly relates to installation and configuration processes. It explicitly discusses the steps required to configure firewall settings on Windows 8 and Windows Server 2012, aligning well with the key topics of the category. The depth of discussion is significant, as it includes specific instructions and troubleshooting insights, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in specific software environments without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:14:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementations related to file and printer sharing in lab management environments, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:14:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting and configuration of file and printer sharing in Visual Studio Lab Management, which is not central to DevOps principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to file and printer sharing in Visual Studio Lab Management, which does not align with the core principles of DevOps. While it touches on integration and configuration, it lacks discussions on collaboration, automation, or cultural shifts that are central to DevOps. The mention of environments and server management is too specific and does not reflect a broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:14:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Lab Management in Visual Studio, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:14:19",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, which does not relate to flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:14:23",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -253,20 +190,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T19:14:35",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, which is not related to Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:14:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Visual Studio Lab Management, not products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -305,7 +233,7 @@
     "reasoning": "Content primarily discusses technical solutions for enabling file and printer sharing in specific environments, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:14:45",
     "ai_confidence": 0,
@@ -316,11 +244,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:14:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical troubleshooting for Visual Studio Lab Management and does not mention or align with any principles of the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management, or related concepts.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +263,13 @@
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:14:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on troubleshooting and technical solutions for Lab Management in Visual Studio, lacking relevance to industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T19:14:50",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting and configuration issues related to Lab Management in Visual Studio, which does not align with the core principles of Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:14:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Visual Studio Lab Management and does not mention Scrum principles, roles, events, or practices.",
+    "reasoning": "Content primarily discusses troubleshooting and configuration issues related to Lab Management in Visual Studio, which does not align with the core principles of Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +283,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:15:05",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -397,11 +310,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:15:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting issues related to file and printer sharing in Visual Studio Lab Management, which is not relevant to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to file and printer sharing in Visual Studio Lab Management, which does not align with the principles or practices of Continuous Delivery. There are no direct mentions of Continuous Delivery concepts, and the discussion lacks depth in any relevant areas such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,19 +349,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:15:20",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T19:15:22",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, which is not relevant to portfolio management.",
     "level": "Ignored"
   },
@@ -487,12 +403,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses enabling file and printer sharing for lab management environments, which relates to operational practices in managing IT environments, but it is primarily focused on troubleshooting rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on troubleshooting and configuring file and printer sharing in specific environments, which is more technical support than a discussion on operational practices. While it does touch on enabling features that could enhance operational efficiency, it lacks a broader context of methodologies like Agile, DevOps, or Lean. The depth of discussion is moderate, providing step-by-step solutions, but it does not explore strategies or techniques for improving operational efficiency in a systematic way.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -586,28 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical issues related to Visual Studio Lab Management, which is relevant to software development practices, but it primarily focuses on troubleshooting and configuration rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:15:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to file and printer sharing in Visual Studio Lab Management, with no relevance to Agile Project Management principles or practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific issue related to Visual Studio Lab Management, which is a tool used in software development. However, it primarily focuses on troubleshooting a configuration problem rather than broader software development methodologies or practices. While it mentions technical aspects relevant to software environments, it lacks depth in discussing software development principles or frameworks.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:15:49",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to file and printer sharing in Visual Studio Lab Management, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +614,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to enabling file and printer sharing in lab management environments, with no focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:16:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to Lab Management in Visual Studio, with no mention of Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T19:16:04",
@@ -726,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to file and printer sharing in Visual Studio Lab Management, with no mention of psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:16:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no relevance to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,12 +679,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides practical solutions for enabling file and printer sharing in specific environments, which aligns with pragmatic problem-solving in a technical context, but it primarily focuses on technical instructions rather than broader Agile or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a technical issue related to enabling file and printer sharing in specific environments, which is a practical problem-solving scenario. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve into the complexities of project management or decision-making processes. While it provides a solution to a specific problem, it does not align closely with the core themes of Pragmatic Thinking, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +700,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:16:20",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical troubleshooting for enabling file and printer sharing in Visual Studio Lab Management, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:16:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio Lab Management and does not address Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:16:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to file and printer sharing in Visual Studio Lab Management, with no reference to Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -955,10 +835,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T19:16:40",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting and configuration issues related to Lab Management in Visual Studio, without a focus on release management processes.",
     "level": "Ignored"
   },
@@ -1000,10 +880,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T19:16:49",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no focus on change management principles or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +914,7 @@
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in specific environments, without a focus on digital transformation strategies or the integration of digital technologies for business enhancement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:16:58",
     "ai_confidence": 0,
@@ -1043,23 +923,17 @@
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, which is unrelated to MVP concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:16:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses technical issues related to file and printer sharing in Visual Studio Lab Management, with no mention of AI or its applications.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:17:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of file and printer sharing settings in Windows environments, which is a key aspect of system configuration for enabling communication between servers in Lab Management.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses enabling file and printer sharing as a critical step in configuring environments for Visual Studio Lab Management, which directly aligns with system configuration practices. It provides detailed steps for both Windows 8 and Windows Server 2012, demonstrating a clear understanding of configuration management and troubleshooting. The depth of discussion is significant, covering specific actions required to ensure system integration and performance, thus fitting well within the category's focus.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,20 +973,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:17:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to enabling file and printer sharing in Visual Studio Lab Management, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to file and printer sharing in Visual Studio Lab Management, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of Test First Development, and the depth of discussion is limited to troubleshooting and configuration steps, which are unrelated to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T19:17:10",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content primarily discusses enabling File and Printer Sharing on Windows operating systems, specifically Windows 8 and Windows Server 2012, which aligns closely with the key topics of installation, configuration, and troubleshooting within the Windows environment.",
+    "final_score": 92.0,
+    "reasoning": "The content primarily focuses on enabling File and Printer Sharing in Windows environments, specifically detailing steps for Windows 8 and Windows Server 2012. It discusses installation and configuration aspects relevant to the Windows operating system, aligning closely with the key topics outlined in the Windows category. The depth of discussion is substantial, providing specific instructions and troubleshooting insights, which further supports a high confidence score.",
     "level": "Primary"
   },
   "Deployment Strategies": {
@@ -1162,12 +1042,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:17:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the identification and resolution of issues related to enabling file and printer sharing in Visual Studio Lab Management environments, providing specific solutions and steps to troubleshoot the problem.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses a specific troubleshooting issue related to enabling file and printer sharing in Visual Studio Lab Management environments. It identifies potential causes for the problem, provides detailed steps for diagnosing and resolving the issue, and includes practical solutions for both Windows 8 and Windows Server 2012. This aligns closely with the core themes of the Troubleshooting category, demonstrating a clear focus on identifying and resolving technical issues.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1063,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:17:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to Visual Studio Lab Management and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical issues related to Visual Studio Lab Management and does not mention or align with any aspects of the Scrum Master role, responsibilities, or agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no focus on teamwork or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:17:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting and configuration of file and printer sharing in Visual Studio Lab Management, which is not directly related to the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1252,10 +1129,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T19:17:31",
+    "calculated_at": "2025-04-10T15:55:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to Visual Studio Lab Management and does not address strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1331,15 +1208,6 @@
     "reasoning": "Content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:17:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio Lab Management and file sharing, with no relevance to Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T19:17:44",
@@ -1360,11 +1228,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:48:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to file and printer sharing in Visual Studio Lab Management, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical troubleshooting for file and printer sharing in Visual Studio Lab Management environments. It does not discuss collaboration, decision-making, or value delivery, which are core themes of Social Technologies. The mention of enabling sharing features is purely technical and lacks any connection to social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to enabling file and printer sharing in Visual Studio Lab Management, which does not align with leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:20:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses troubleshooting issues related to file and printer sharing in Visual Studio Lab Management, which is not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:20:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses technical issues related to file and printer sharing in Visual Studio Lab Management, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Visual Studio Lab Management and does not mention Scrum principles, roles, events, or any related concepts. It lacks any depth or alignment with Scrum topics, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to enabling file and printer sharing in Visual Studio Lab Management environments. It does not address the Shift-Left Strategy or its principles, benefits, or practices. The focus is on troubleshooting and configuration rather than integrating testing, security, or compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to file and printer sharing in Visual Studio Lab Management. It does not discuss Continuous Improvement principles, nor does it reflect on processes, team effectiveness, or empirical evidence. The mention of enabling features does not align with the core themes of Continuous Improvement, and the depth of discussion is limited to troubleshooting rather than fostering a culture of learning or experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical troubleshooting for enabling file and printer sharing in specific software environments. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to file and printer sharing in Visual Studio Lab Management. While it involves some level of technical competence, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of technical solutions does not align with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to file and printer sharing in Visual Studio Lab Management. It does not discuss Agentic Agility, its principles, or its implications for human or AI systems. The content lacks any mention of intentional shaping of outcomes, adaptability, or alignment with values, which are core to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

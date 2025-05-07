@@ -2,8 +2,10 @@
 title: Can organisations run an Applying Professional Scrum workshop? How would that help them?
 description: Discover how an Applying Professional Scrum workshop can enhance your team's effectiveness and align with agile values for better outcomes.
 date: 2023-03-29T07:00:17Z
+weight: 590
 ResourceId: olryF91pOEY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: olryF91pOEY
@@ -15,34 +17,43 @@ preview: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg
 duration: 479
 isShort: false
 aliases:
-- /resources/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
-- /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
-- /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
-- /resources/videos/olryF91pOEY
-- /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 - /resources/olryF91pOEY
-aliasesFor404:
+- /resources/videos/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
+- /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
+aliasesArchive:
+- /resources/videos/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
 - /resources/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
 - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
 - /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
+- /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
+- can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
+- Team Collaboration
+- Agile Frameworks
+- Agile Transformation
+- Professional Scrum
+- Software Development
+- Pragmatic Thinking
+- Team Performance
+- Agile Product Management
+- Value Delivery
+- Organisational Agility
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-**Can organisations run an Applying Professional Scrum workshop? How would that help them?**
+**Can organisations run an Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) workshop? How would that help them?**
 
 Is Your Organisation Seeking Professional Agile Guidance
 
-Recently I was asked an intriguing question: "When should an organisation consider running a Professional Scrum Workshop?"  🚀
+Recently I was asked an intriguing question: "When should an organisation consider running a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Workshop?"  🚀
 
 I want to highlight the importance of unity and collective learning in this article.
 
@@ -96,7 +107,7 @@ Implementing Scrum practices and experiencing the difference it brings can drast
 
 #### Cross-Functional Learning
 
-Bring everyone to the class. Yes, you heard it right! Not just software engineers or testers but everyone involved in building the product. This could be stakeholders, leadership positions, and members from other teams.
+Bring everyone to the class. Yes, you heard it right! Not just software engineers or testers but everyone involved in building the product. This could be stakeholders, [leadership]({{< ref "/categories/leadership" >}}) positions, and members from other teams.
 
 The benefit? Everyone clearly understands the value Scrum brings, improving their engagement in the process and promoting a shared vision. It's about fostering an ecosystem of understanding and support. Together, you can overcome the hurdles and smoothly implement your new way of working. 🏗️🤝
 
@@ -124,7 +135,7 @@ We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-Keywords:       Agile consulting, Scrum Workshop, Agile Transformation, Professional Scrum
+Keywords:       Agile consulting, Scrum Workshop, [Agile Transformation]({{< ref "/tags/agile-transformation" >}}), Professional Scrum
 
 Hashtags:        #AgileConsulting #ScrumWorkshop #AgileTransformation #ProfessionalScrum
 

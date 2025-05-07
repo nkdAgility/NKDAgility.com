@@ -10,30 +10,33 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T14:48:30",
+    "calculated_at": "2025-04-10T15:52:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses building trust and relationships in Agile, without a focus on metrics, data, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T14:48:31",
+    "calculated_at": "2025-04-10T15:52:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses interpersonal relationships and empathy within Agile teams, which is not related to installation or configuration topics.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T14:48:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the importance of empathy and building trust within teams and organisations, which are significant aspects of leadership. However, it primarily focuses on interpersonal relationships rather than broader leadership strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of empathy and building trust within teams and organisations, which aligns with leadership practices. However, it lacks explicit references to leadership strategies or frameworks, and the depth of discussion is limited, focusing more on interpersonal relationships than on broader leadership concepts.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -46,20 +49,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:48:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of empathy and relationships in Agile, rather than focusing on evidence-based management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, which does not directly address Evidence-Based Management principles. While it touches on aspects of decision-making and feedback, it lacks explicit discussions on metrics, empirical evidence, or data-informed decision-making that are central to EBM. The themes of trust and collaboration are relevant but do not align closely enough with the core topics of EBM.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T14:48:37",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses personal insights on building trust and empathy within Agile teams, reflecting on individual experiences and perceptions, which aligns with the Personal category. However, it does not provide a strong personal anecdote or detailed reflection, making it a secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses personal insights on building trust and empathy within Agile teams, which aligns well with the Personal category. It reflects on individual experiences and the importance of relationships in an Agile context. However, while it touches on personal reflections, it lacks detailed anecdotes or specific challenges faced, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -71,24 +80,6 @@
     "reasoning": "Content primarily discusses empathy and relationship-building in Agile, without a clear focus on Systems Thinking principles or methodologies.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:48:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses empathy and relationships in Agile, which is unrelated to software code or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:48:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses building trust and empathetic relationships, which are related to transparency and accountability, but it primarily focuses on empathy rather than these principles.",
-    "level": "Tertiary"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-17T14:48:45",
@@ -98,23 +89,17 @@
     "reasoning": "Content primarily discusses the importance of empathy and trust in Agile relationships, without a clear focus on market adaptability strategies or methodologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T14:48:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of empathy, trust, and relationships within Agile teams, highlighting human factors that influence collaboration and decision-making.",
-    "level": "Secondary"
-  },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T14:48:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empathy and trust in building relationships within teams and organisations, which aligns with themes of organisational psychology. However, it primarily focuses on Agile practices, making the psychological aspects a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of empathy in building trust and relationships within teams and organisations, which aligns with themes of organisational psychology. However, it primarily focuses on interpersonal dynamics rather than core psychological theories or structured discussions on motivation or leadership styles. The mention of cognitive bias adds some depth, but the overall discussion lacks comprehensive exploration of organisational psychology principles.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -123,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles, specifically focusing on empathy and trust within Agile teams, which aligns with established Agile practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:48:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on interpersonal relationships and empathy within Agile, lacking industry news or reviews.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -145,12 +121,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T14:48:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of building trust and empathetic relationships within teams and organisations, which aligns with the sociotechnical systems theme. However, it primarily focuses on interpersonal dynamics rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empathy and trust within teams and organisations, which aligns with the sociotechnical systems theme of interpersonal relationships affecting team dynamics. However, it lacks explicit references to organisational structures or technical aspects, and the depth of discussion is limited, focusing primarily on emotional intelligence rather than a comprehensive exploration of sociotechnical interactions.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -163,20 +142,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T14:48:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empathy and building relationships within Agile teams, which aligns with stakeholder engagement and collaboration, but does not primarily focus on Agile Product Management practices.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:48:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses building trust and empathetic relationships within teams and organisations, which does not directly address organisational resilience or change management.",
+    "final_score": 32.0,
+    "reasoning": "The content touches on the importance of building trust and empathetic relationships, which are relevant to stakeholder engagement in Agile Product Management. However, it lacks direct mentions of Agile methodologies, specific roles like the Product Owner, or techniques for prioritising product backlogs. The discussion is more focused on interpersonal dynamics rather than concrete Agile practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -190,39 +163,39 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T14:49:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of empathy and building trust within teams and organisations, which aligns with the cultural shifts necessary for organisational agility. However, it does not primarily focus on agile methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:49:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the importance of empathy and trust in Agile relationships, with no mention of AI or automation.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empathy and building trust within teams and organisations, which aligns with the cultural shifts necessary for organisational agility. However, it lacks direct mentions of agile methodologies or specific strategies for enhancing organisational responsiveness. The depth of discussion is limited, focusing more on interpersonal relationships rather than broader organisational practices.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T14:49:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of decision-making, particularly in relation to cognitive bias and the importance of perceptions in decision processes, but it primarily focuses on building trust and relationships in an Agile context.",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses decision-making processes, particularly in the context of Agile practices, and touches on cognitive biases and the importance of diverse perspectives. However, it primarily focuses on interpersonal relationships and empathy rather than a thorough exploration of decision theory principles. While there are relevant elements, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:49:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empathy and relationships within Agile teams, which aligns with collaboration and team dynamics, but it does not primarily focus on specific Agile frameworks or practices.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the importance of empathy, trust, and collaboration within agile practices, which aligns closely with the core themes of Social Technologies. It highlights self-organisation and decision-making processes, emphasising the role of relationships in fostering a collaborative environment. The depth of discussion is significant, providing practical strategies for enhancing team dynamics and communication, which are essential for optimising value delivery. Overall, the content is well-aligned with the category, focusing on social frameworks rather than just technical tools.",
+    "level": "Primary"
   },
   "Lean": {
     "category": "Lean",
@@ -253,30 +226,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:49:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of building trust and empathetic relationships within teams and organisations, which aligns with fostering a culture of innovation and adaptability, a key aspect of business agility. However, it does not primarily focus on business agility principles or practices.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:49:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on building trust and relationships in Agile, without discussing specific tools, methodologies, or practical techniques.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:49:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of empathy and trust in Agile without reference to specific events, presentations, or structured learning experiences.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of empathy in agile practices, which aligns with the principles of business agility, particularly in fostering a culture of collaboration and adaptability. It highlights the role of relationships within teams and with leadership and customers, which is crucial for delivering value in a dynamic market. However, while it touches on relevant themes, it does not delve deeply into specific strategies or metrics for measuring business agility, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -289,20 +247,11 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:49:20",
+    "calculated_at": "2025-04-10T15:52:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses interpersonal relationships and trust within teams rather than broader organisational agility or frameworks.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:49:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses interpersonal relationships and trust within Agile teams, without reference to specific products, books, or methodologies.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -316,39 +265,27 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:49:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of empathy and trust in Agile relationships, without a clear focus on the Agile Product Operating Model or its principles.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:49:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of empathy and building trust within teams and organisations, which is not central to Scrum principles or practices.",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in agile practices, which is relevant to the Agile Product Operating Model. However, it does not explicitly mention the APOM framework or its principles, focusing instead on interpersonal dynamics rather than product management or operational models. The alignment with core themes is moderate, but the depth of discussion on APOM is minimal.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:49:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses empathy and relationships within Agile, without any focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on empathy and relationship-building within agile practices, which, while relevant to team dynamics, does not directly address DevOps principles or practices. There are brief mentions of collaboration and feedback, which are important in DevOps, but the overall discussion lacks depth in terms of DevOps-specific themes such as automation, shared accountability, or continuous delivery. Therefore, the content does not align closely with the core principles of DevOps.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of building trust and empathetic relationships within teams, which can contribute to a culture of learning and innovation. However, the primary focus is on interpersonal dynamics rather than explicit methodologies or processes related to discovery and learning.",
-    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -357,15 +294,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses building trust and relationships in Agile, which is not related to flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:49:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses empathy and relationship-building in Agile, which is not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -395,41 +323,29 @@
     "reasoning": "Content primarily discusses interpersonal relationships and trust within Agile teams, which is not directly related to engineering practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on building trust and relationships in an Agile context, without any clear discussion on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:22:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses empathy and relationship-building in an Agile context, which is unrelated to system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of empathy and building trust within teams, without any clear focus on scaling Agile practices or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, with no direct mention of system configuration or related topics. While it touches on collaboration and communication, which are important in any team setting, it does not delve into system setup, configuration management, or automation practices. The discussion is more aligned with interpersonal dynamics rather than technical system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content emphasizes the importance of empathy and trust within Agile teams, which relates to the broader implications of Agile as a mindset focused on collaboration and relationships. However, it primarily discusses interpersonal dynamics rather than the foundational principles of Agile.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of empathy and relationships in Agile practices, aligning closely with the Agile Philosophy's emphasis on collaboration and customer satisfaction. It provides a detailed exploration of how empathy fosters trust within teams, with leadership, and towards customers, which are core themes of Agile. The depth of discussion on avoiding assumptions and valuing diverse perspectives further reinforces the principles of continuous improvement and adaptability inherent in Agile. Overall, the content strongly reflects the mindset and ethos of Agile, making it a primary focus.",
+    "level": "Primary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -451,21 +367,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of empathy and relationships in Agile, which does not relate to Lead Time metrics or measurement.",
+    "calculated_at": "2025-04-11T09:18:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, without any direct mention or discussion of Lead Time as a metric. While it touches on themes of collaboration and trust, which can indirectly relate to efficiency, it does not provide any specific insights or techniques related to measuring or optimising Lead Time. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses building trust and empathetic relationships within teams, which are key aspects of team motivation.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of empathy, trust, and respect within teams, which are crucial for fostering team motivation. It aligns well with the core themes of team dynamics, collaboration, and psychological safety. The depth of discussion is significant, providing practical strategies for enhancing relationships and communication within teams, which directly contributes to team motivation.",
+    "level": "Primary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -568,12 +490,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses building trust and empathetic relationships within teams and the organization, which can be related to the cultural aspects of organisational change. However, it primarily focuses on interpersonal relationships rather than specific change methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empathy and relationships within agile practices, which indirectly relates to organisational change by emphasising the need for collaboration and trust in driving effective change. However, it lacks explicit references to organisational change frameworks or methodologies, and the focus is more on interpersonal dynamics rather than structured change processes.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -582,15 +507,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on building trust and strong relationships through empathy in Agile, rather than discussing Continuous Learning principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses empathy, trust, and relationships in agile environments rather than focusing on scaling Scrum practices or frameworks.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -649,12 +565,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of building trust and relationships, which is a significant aspect of Agile Leadership, but it is primarily focused on concepts like empathy and relationships rather than direct leadership practices or strategies in an Agile context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the importance of empathy in Agile environments, highlighting how it fosters trust and collaboration, which are key aspects of Agile leadership. It addresses the role of leaders in building relationships and creating a culture of respect and openness, aligning well with the core themes of Agile leadership. The depth of discussion is substantial, providing practical strategies for enhancing team dynamics and decision-making processes, which further supports its relevance to the category.",
+    "level": "Primary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -712,19 +631,19 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T15:26:45",
+    "calculated_at": "2025-04-10T15:52:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses empathy and building trust in Agile, but does not focus on self-organisation principles or practices.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T15:26:45",
+    "calculated_at": "2025-04-10T15:52:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on building trust and relationships in Agile, which is primarily about individual and team-level practices rather than large scale agility principles.",
     "level": "Ignored"
   },
@@ -739,12 +658,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses building trust and interpersonal relationships within teams, which is relevant to team dynamics and collaboration in a Scrum context, but it does not specifically address Scrum roles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empathy and trust within teams, which aligns with Scrum Team dynamics. However, it lacks direct references to specific Scrum roles or practices, making it more of a general Agile discussion rather than a focused exploration of Scrum Team collaboration.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -757,12 +679,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of building trust and empathy within Agile teams and organizations, which aligns with the cultural shift towards Agile practices. However, it does not delve into specific Agile methodologies or frameworks, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empathy in Agile environments, highlighting how relationships and trust contribute to successful Agile practices. It aligns well with Agile principles, particularly in fostering collaboration and continuous improvement. However, while it touches on key Agile themes, it lacks specific references to Agile frameworks or methodologies, which slightly reduces its depth of discussion.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -793,21 +718,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of relationships and trust in an Agile context, which aligns as a secondary theme with Agile principles, but it lacks a strong primary focus on strategic planning or execution.",
-    "level": "Tertiary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:26:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on empathy and building relationships rather than specific discussions about software development practices or the roles of developers within Agile or DevOps frameworks.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of empathy in Agile practices, highlighting how relationships within teams, with leadership, and towards customers are crucial for successful Agile implementation. It aligns well with Agile principles by emphasising collaboration, trust, and continuous improvement, which are key to Agile strategy. However, while it touches on strategic aspects, it lacks a more explicit focus on broader organisational vision and execution strategies, which slightly limits its depth in the context of Agile strategy.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -829,12 +748,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses empathy and respect in relation to building trust and relationships, which aligns with the Scrum values of respect and openness. However, it also diverges into broader themes of decision-making and assumptions that are not strictly focused on Scrum Values.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of respect and empathy, which aligns closely with the Scrum Values of Respect and Openness. It highlights how these values foster collaboration and trust within teams and with leadership and customers. However, while it touches on these values, it does not explicitly mention the Scrum framework or its specific values, which slightly lowers the confidence score. The depth of discussion is substantial, but it primarily focuses on interpersonal relationships rather than the Scrum framework itself.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -892,10 +814,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:26:46",
+    "calculated_at": "2025-04-10T15:52:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on building trust and empathetic relationships in Agile, rather than on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
@@ -919,20 +841,26 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses building trust and empathetic relationships within teams, which is a major aspect of team performance and dynamics. However, it lacks a more detailed exploration of specific strategies or methodologies that would strongly align with the category.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of empathy in building trust and collaboration within agile teams, which aligns closely with the core themes of team performance. It provides detailed insights into fostering relationships within teams, the role of leadership, and the significance of diverse perspectives, all of which are crucial for enhancing team dynamics and productivity. The depth of discussion on strategies for improving team interactions and the emphasis on continuous improvement further support a high confidence score.",
+    "level": "Primary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:22:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses building trust and relationships in Agile, with no focus on throughput, measurement, or optimization of work rates.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships in agile practices, with no direct mention of throughput as a delivery metric. While it discusses collaboration and trust, it does not analyse or visualise throughput, nor does it provide any data or metrics related to delivery capacity. The themes of the content do not align with the core topics of throughput, and the depth of discussion is centred around interpersonal dynamics rather than throughput metrics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -955,21 +883,15 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses building trust and relationships, which are important aspects of employee engagement, but primarily focuses on empathy in the context of Agile practices.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses empathy within agile teams and building trust, which are relevant to agile project management practices, but it does not focus on core agile methodologies or principles. It is a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empathy, trust, and respect in building relationships within teams and with leadership, which aligns closely with the core themes of employee engagement. It highlights the role of open communication and feedback, essential for maintaining engagement. However, while it touches on these aspects, the primary focus is on agile practices rather than employee engagement strategies specifically, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -991,21 +913,24 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of empathy and building relationships within Agile teams, which is not relevant to Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:08:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of empathy and relationships within Agile practices, focusing on team dynamics and leadership rather than Continuous Delivery principles. While it touches on aspects of collaboration and feedback, it does not explicitly address Continuous Delivery concepts such as automation, incremental improvements, or deployment strategies.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T15:26:46",
+    "calculated_at": "2025-04-10T15:52:13",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses building trust and empathy in relationships, which is somewhat relevant to understanding customer needs but does not primarily focus on product discovery methodologies or practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -1018,12 +943,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses empathy, trust, and relationships within teams and the organization, which are relevant to organisational culture and its influence on Agile practices, but it is more focused on interpersonal dynamics than structural cultural elements.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of empathy and relationships in Agile practices, which directly ties into organisational culture. It highlights how trust and respect within teams and with leadership can foster a collaborative culture, aligning well with the core themes of the category. The depth of discussion is significant, providing practical strategies for enhancing team dynamics and continuous improvement, which are essential for a thriving Agile environment. Overall, the content is a strong fit for the category, focusing on cultural elements that facilitate Agile methodologies.",
+    "level": "Primary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -1036,12 +964,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions cognitive bias and its impact on perceptions related to decision making, which aligns with the theme of decision making as a secondary topic, but the primary focus is on building empathetic relationships rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in Agile environments, which indirectly relates to decision-making by emphasising collaboration and trust. It mentions cognitive biases and the role of diverse perspectives in decision-making, aligning with the category's themes. However, the primary focus is on interpersonal relationships rather than structured decision-making methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
@@ -1070,15 +1001,6 @@
     "reasoning": "Content primarily focuses on empathy and relationship-building in Agile, without addressing the Product Backlog or its management.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on building trust and relationships in an agile context, without specifically addressing Scrum principles, roles, or product development processes.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-17T15:26:46",
@@ -1090,21 +1012,27 @@
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses building trust and empathetic relationships which can relate to fostering psychological safety, but it mainly focuses on empathy rather than directly addressing psychological safety as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empathy and trust within teams, which are closely related to psychological safety. It highlights how respect and openness can create an environment where team members feel valued and safe to express their thoughts. However, while it touches on aspects of psychological safety, such as avoiding assumptions and valuing diverse perspectives, it does not explicitly focus on psychological safety as a primary theme. The discussion is rich in detail about interpersonal relationships and their impact on team dynamics, but it lacks a direct exploration of psychological safety strategies or case studies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empathy and understanding others' perspectives in decision-making, which relates to sensemaking in a team context. However, it primarily focuses on building trust and relationships rather than explicitly exploring the principles or frameworks of sensemaking.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in Agile environments, which indirectly relates to sensemaking by highlighting how understanding diverse perspectives can enhance decision-making. However, it primarily focuses on interpersonal dynamics rather than explicitly addressing sensemaking principles or frameworks. The discussion on avoiding assumptions and cognitive bias touches on aspects of sensemaking but lacks depth in exploring complex environments or decision-making frameworks.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -1162,12 +1090,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the importance of building trust and empathetic relationships within Agile teams, which aligns with Agile values of collaboration and customer-centricity.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content discusses the importance of empathy, trust, and collaboration, which are core Agile values. It highlights the significance of relationships within teams, with leadership, and towards customers, aligning well with Agile principles of customer collaboration and team dynamics. The depth of discussion on fostering a culture of respect and continuous improvement further supports its relevance to Agile values, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1205,15 +1136,6 @@
     "reasoning": "Content primarily discusses building trust and relationships in an Agile context, rather than focusing on strategic approaches or alignment with Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of empathy and building relationships in Agile practices, with no focus on AI or its integration into Agile methodologies.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-17T15:26:46",
@@ -1225,12 +1147,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of empathy and building trust within Agile teams, which aligns with the mentoring theme of fostering relationships and supporting team members' professional growth, though it is not exclusively focused on mentoring.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empathy and respect in Agile environments, which aligns with mentoring principles. It highlights the role of relationships in fostering collaboration and continuous improvement, key aspects of effective mentoring. However, while it touches on mentoring indirectly, it does not explicitly focus on mentoring techniques or strategies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1243,11 +1168,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses empathy, relationships, and communication in Agile rather than Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, with no direct mention of Test First Development principles or practices. While it touches on collaboration and feedback, it does not discuss success criteria, testing methodologies, or the role of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1288,30 +1216,27 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses building trust and empathetic relationships, which are important aspects of coaching. However, the primary focus seems to be on general communication and trust-building rather than specific coaching techniques or frameworks.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on building trust and relationships within teams and organizations but does not address scaling agile practices or methodologies.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of empathy, trust, and collaboration within Agile environments, which aligns closely with coaching principles. It highlights techniques for fostering relationships and creating a supportive atmosphere, essential for effective coaching. The depth of discussion on building trust and encouraging open communication further supports its relevance to the coaching category.",
+    "level": "Primary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses general concepts of empathy and building relationships in Agile without specific focus on the role and responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in agile practices, which aligns with the Scrum Master's role in fostering team dynamics and collaboration. However, it does not explicitly mention the Scrum Master role or its specific responsibilities, leading to a lower confidence score. The focus is more on general agile principles rather than the distinct functions of a Scrum Master.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1340,7 +1265,7 @@
     "reasoning": "Content focuses on building trust and empathy in Agile environments, with no clear discussion on the delivery of software increments or any related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:26:46",
     "ai_confidence": 0,
@@ -1360,12 +1285,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T15:26:46",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on building trust and relationships within teams, which aligns closely with the themes of teamwork and collaboration in Agile environments.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of empathy in fostering strong relationships within teams, which aligns closely with the core themes of team collaboration. It highlights techniques for improving communication, the role of trust, and the significance of diverse perspectives, all of which are crucial for effective teamwork in Agile environments. The depth of discussion is substantial, providing practical strategies and insights that enhance the understanding of team dynamics. Overall, the content is highly relevant to the category.",
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1374,6 +1302,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on empathy and relationship-building in Agile, without mentioning Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:45:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and building relationships, with no mention of Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:45:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses building trust and relationships in Agile, with no mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on themes of trust and relationships, which are relevant to team dynamics in Scrum, but it does not explicitly mention Scrum roles, events, or artifacts. The discussion is more focused on general agile principles rather than specific Scrum practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of empathy and relationships within Agile practices, focusing on team dynamics and communication rather than the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left concept. The discussion is more about interpersonal relationships and collaboration, which, while relevant to Agile, does not align with the specific principles and practices of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of empathy and respect in agile practices, which indirectly relates to Continuous Improvement through the emphasis on feedback and collaboration. However, it does not explicitly focus on Continuous Improvement as a primary theme, nor does it delve deeply into specific strategies or frameworks associated with it. The mention of fostering a culture of continuous improvement is present but is not the main focus of the discussion.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in Agile practices, which indirectly relates to Common Goals. However, it lacks direct mentions of shared objectives or strategic alignment, focusing more on interpersonal dynamics rather than the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses empathy and relationship-building in Agile, which are important but not directly related to the concept of competence. While it touches on aspects of trust and collaboration that can indirectly relate to competence, it lacks explicit discussions on skill development, continuous learning, or the professional standards that underpin competence. The focus is more on interpersonal dynamics rather than the foundational principles of competence in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:08:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, which does not directly address the principles or components of the One Engineering System. While it touches on collaboration and trust, it lacks specific discussions on standardising or integrating software development practices, making it only tangentially related to the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in agile practices, which touches on aspects of human interaction and collaboration. However, it does not explicitly mention Agentic Agility or its principles, nor does it differentiate between human and AI capabilities in the context of agility. The focus is more on interpersonal dynamics rather than the intentional shaping of outcomes through autonomy and adaptability.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:21:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of empathy and respect in agile practices, which aligns well with the principles of Agile product development. It highlights the significance of building trust within teams, with leadership, and towards customers, all of which are crucial for effective product development. The mention of customer feedback and the need for continuous improvement further strengthens its relevance to the category. However, while the content is rich in discussing interpersonal relationships and their impact on agile practices, it lacks a more detailed exploration of specific methodologies or frameworks, which slightly lowers the depth score.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:21:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empathy and trust in Agile practices, which aligns with the principles of collaboration and psychological safety found in Liberating Structures. However, it does not explicitly mention Liberating Structures or specific techniques associated with them, leading to a low direct mention score. The depth of discussion on facilitation techniques is also minimal, focusing more on general Agile principles rather than the structured methods of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:21:49",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, which is a narrower aspect of project management. While it touches on themes relevant to project management, such as team dynamics and stakeholder engagement, it lacks direct discussions of core project management principles, methodologies, or tools. The depth of discussion is limited to interpersonal relationships rather than broader project management strategies, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:21:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empathy and trust within Agile practices, which aligns with the principles of psychological safety and shared ownership. However, it does not explicitly mention Open Space Agile or its specific practices, leading to a low direct mention score. The conceptual alignment is moderate as it touches on collaboration and relationships, but lacks depth in discussing Open Space Technology or its implementation. Overall, while the themes resonate with Agile principles, the absence of direct references to Open Space Agile methodologies results in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:21:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and building relationships within agile practices. While it touches on themes of collaboration and trust, it does not explicitly discuss Unrealised Value or its indicators, nor does it explore potential improvements or innovations that could lead to capturing additional value for the organisation. The discussion is more centred on interpersonal dynamics rather than strategic insights related to untapped opportunities.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:21:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and building relationships within agile teams, which does not directly address Time to Market. While there are mentions of collaboration and decision-making, these concepts are not explicitly linked to the speed of delivering value or metrics associated with Time to Market. The discussion lacks specific strategies or metrics that would enhance the understanding of Time to Market, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:21:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and building relationships within Agile practices, which does not directly address Current Value or its metrics. While it touches on aspects of customer feedback and decision-making, it lacks explicit discussions on Current Value indicators or techniques for measuring it. The alignment with the core themes of Current Value is minimal, and the depth of discussion does not provide substantial insights into the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:22:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of empathy and trust within agile practices, which indirectly relates to the concept of Company as a Product (CaaP) by emphasising the value of relationships and customer feedback. However, it does not explicitly mention CaaP or delve into organisational design or strategies for integrating customer feedback into the organisational framework. The focus is more on interpersonal dynamics rather than the broader organisational strategy, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:22:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and building relationships within Agile practices, which does not directly address the complexities of scaling Agile methodologies or frameworks. While it touches on collaboration and trust, it lacks specific discussions on scaling frameworks, cross-team collaboration strategies, or metrics for measuring flow and value delivery at scale. Therefore, it does not align well with the core themes of the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:22:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, without any direct mention or critical examination of Hybrid Agile. It does not address the challenges or implications of merging traditional methodologies with agile practices, nor does it discuss the core themes outlined for the Hybrid Agile category. The discussion is more about fostering a positive agile environment rather than analysing the dysfunctions of Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:22:10",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in agile practices, which aligns with the principles of Agnostic Agile, particularly the emphasis on context and value delivery. However, it does not explicitly mention Agnostic Agile or its key themes, nor does it provide a detailed exploration of its principles. The focus is more on interpersonal dynamics rather than a critical examination of agile methodologies or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:22:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of empathy and relationships within Agile practices, without any direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not align with GitHub's specific tools or services, nor does it provide any detailed insights into GitHub-related practices. Therefore, the confidence score reflects a very low relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:22:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of empathy and relationships within agile practices, which does not directly address the principles or characteristics of Cell Structure Design. While it touches on themes of collaboration and trust, these are not specific to the decentralised, network-based structure of cells as outlined in the Cell Structure Design model. The discussion lacks explicit references to the Beta Codex, autonomous cells, or the impact of decentralisation, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:41",
+    "ai_confidence": 75.0,
+    "ai_mentions": 14,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content discusses principles that heavily influence agile practices, particularly emphasizing empathy, respect, and trust within teams and towards customers. While it primarily focuses on the human aspects of agile methodologies, these themes align closely with core agile principles such as respect for people, customer collaboration, and continuous improvement. However, the emphasis on emotional intelligence and interpersonal relationships does not strictly delve into actionable principles or frameworks like Agile or Lean, which slightly limits its classification strength. Overall, the content presents a robust discussion on how these principles affect decision-making and team dynamics in an agile context.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses the importance of empathy and relationships in Agile practices but does not mention any specific tools, techniques, or software applications. While it promotes concepts related to team dynamics and trust which can support Agile workflows, it fails to explicitly connect these to any tools or practices that fall under the 'Tool' category. Thus, the overall alignment with the category is low, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:41",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses values such as empathy, respect, and trust, which are critical to agile practices. It aligns well with the core themes of how values shape behavior and collaboration within teams and organizations. The depth of discussion on these values in the context of team dynamics, relationships with leadership, and customer interactions enhances its relevance. The content does not focus on tools or practices in isolation but rather integrates them with the underlying values that guide decisions and enhance collaboration.",
+    "level": "Primary"
+  },
+  "Philosophy": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:41",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content addresses the importance of empathy and relationships in Agile practices, which connects to the underlying philosophical aspects of collaboration and trust. However, it primarily focuses on practices and personal insights rather than a deep exploration of philosophical foundations that strictly fit the category. There are mentions of how these principles affect team dynamics and decision-making but not enough theoretical framing to elevate the discussion to a primary philosophical level.",
+    "level": "Tertiary"
+  },
+  "Discipline": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:41",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses empathy in Agile practices, which is an important aspect of the Agile discipline. However, it focuses more on interpersonal relationships and team dynamics rather than the principles, methodologies, and systemic approaches that define the discipline of Agile overall. While the text does touch on key facets like trust and decision-making, it doesn't delve into the structured methodologies or principles underlying Agile as a discipline, nor does it cover the governance, evolution, or case studies related to Agile. Therefore, while there is some relevance in terms of Agile practices, the primary focus is more on emotional intelligence rather than the discipline framework itself.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on relationships and empathy within Agile environments rather than discussing specific artifacts or their roles. It does not define or explore tangible constructs relevant to Agile, Scrum, or Lean. The discussion is primarily about interpersonal dynamics, which does not align with the category's emphasis on formal representations of work.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:41",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on empathy and relationships within Agile practices, which are not directly related to the principles or practices of observability. There are no direct mentions of observability concepts, metrics, or tools, and while there are themes of collaboration and feedback, they do not align significantly with observability's focus on system monitoring or measurement. The content is primarily about interpersonal dynamics rather than technical implementations related to observability.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:42",
+    "ai_confidence": 37.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content discusses empathy and relationships within agile practices but does not provide actionable techniques or consistent methods that enhance team effectiveness or collaboration as defined by the 'Practice' category. While it mentions important aspects like trust and communication, which are relevant, the focus is more on interpersonal relationships rather than specific practices like Pair Programming or Retrospectives that drive continuous improvement in teams.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the emotional and relational aspects of Agile, such as trust, empathy, and communication, but does not provide specific structured methods or step-by-step procedures relevant to the 'Method' category. The emphasis is on interpersonal relationships rather than concrete methodologies, making it only indirectly related to the defined topic of methods.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:42",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses primarily on the importance of empathy and relationship-building in Agile practices, rather than discussing any specific conceptual models or frameworks. There are no direct mentions of models or frameworks like the Cynefin Framework, Lean Startup principles, or any other specified frameworks from the provided criteria. The discussion, while related to Agile, does not align closely with the key topics outlined for the 'Model' category and lacks depth in terms of modelling concepts.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:42",
+    "ai_confidence": 27.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 27.0,
+    "reasoning": "The content discusses agile practices but primarily focuses on interpersonal relationships, empathy, and trust rather than on specific frameworks or methodologies. While it mentions frameworks briefly, it does not delve into structured methodologies or implementation strategies that are central to the 'Framework' category. Hence, its primary focus is not on frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content emphasizes the importance of empathy, respect, and collaboration in Agile practices. While it discusses principles that can enhance organizational behaviors, it primarily focuses on values and interpersonal relationships rather than actionable tenets with direct ties to Agile methodologies. The mention of teamwork and leadership aligns somewhat with Agile's emphasis on collaboration, but lacks specific actionable rules or practices that define the category of 'Tenet'. The content's primary focus on emotional intelligence and relationships does not meet the criteria for a deeper exploration of guiding principles that shape decision-making within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "2cSsuEzGkvU",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the importance of empathy and relationship-building in agile environments, which is more about interpersonal dynamics than the enduring competencies defined under the category of Capability. While it touches on aspects of enhancing team dynamics and fostering a culture of continuous improvement, it lacks a direct focus on developing or embedding organizational capabilities as outlined in the category definition. The depth of discussion regarding capabilities themselves is minimal, making the overall confidence score relatively low.",
     "level": "Ignored"
   }
 }

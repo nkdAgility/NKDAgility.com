@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:14:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Scrum event and does not focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically Scrum and Kanban, rather than focusing on DevOps principles. While it mentions concepts like flow and feedback loops, which are relevant to DevOps, the overall emphasis is on adapting teaching methods and community engagement rather than on the integration of people, processes, and technology for continuous value delivery. The discussion lacks depth in DevOps-specific practices and cultural shifts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:15:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Professional Scrum with Kanban, indicating a focus on Scrum and Kanban methodologies, but it primarily revolves around an event announcement rather than an in-depth discussion of the frameworks themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of community, collaboration, and adaptability in the context of Agile practices, which aligns with the core themes of Social Technologies. It mentions fostering a supportive environment and interactive sessions, indicating a focus on collective intelligence and communication. However, while these elements are present, the primary focus is more on specific Agile methodologies and tools rather than a broader discussion of social technologies as a framework. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -44,15 +50,6 @@
     "reasoning": "Content primarily focuses on a live chat about a Scrum class, lacking strategic discussions related to product management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily focuses on a live chat about a Professional Scrum with Kanban class, which does not align with the core principles and practices of Scrum.",
-    "level": "Ignored"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:22",
@@ -73,47 +70,35 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T12:23:22",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an upcoming event related to Professional Scrum with Kanban, with no mention of metrics, learning, or related themes.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions a Professional Scrum with Kanban class, which relates to Scrum, but the primary focus seems to be on a live chat event rather than an in-depth discussion of Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a Kanban class and its integration with Scrum, but lacks a focused exploration of Scrum principles, roles, and practices. While it mentions Scrum and its application, the discussion is more about Kanban and personal experiences rather than a deep dive into Scrum as outlined in the Scrum Guide.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Professional Scrum and Kanban, which are Agile frameworks, but the primary focus is on promoting a live chat about an event rather than an in-depth discussion of the frameworks themselves.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on promoting a Scrum training event and does not delve into Scrum product development principles or practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a live online event, specifically a Professional Scrum with Kanban class in Edinburgh, and the conversation around it, making it a significant focus of the discussion.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile practices, specifically mentioning Kanban and Scrum, which are key Agile frameworks. It explores concepts like flexibility, flow, and community engagement, aligning well with Agile principles. However, while it provides insights into teaching methods and community building, it lacks a deeper comparative analysis of frameworks or case studies, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -244,11 +229,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a live chat about Professional Scrum with Kanban, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile practices, specifically Scrum and Kanban, without a direct focus on Continuous Delivery principles. While it touches on flexibility and community, which are relevant to Agile, it lacks explicit discussions on Continuous Delivery practices such as automation, rapid feedback, or deployment strategies. The mention of flow and feedback loops is more aligned with Agile methodologies rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -298,12 +286,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Professional Scrum with Kanban, which is related to software development methodologies, but the primary focus is on the live chat and event rather than in-depth software development practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically Scrum and Kanban, which are key topics in software development. It includes conversations about teaching a Kanban class, addressing common challenges in Scrum teams, and the integration of tools for online learning. However, the discussion is somewhat informal and includes personal anecdotes, which detracts from a more structured exploration of software development practices. Overall, while the content is relevant, it lacks depth in technical detail and structured methodology, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -375,15 +366,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a specific event related to Scrum and Kanban training, which does not align with the core principles of Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a live chat about Professional Scrum with Kanban, which is not related to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -458,15 +440,6 @@
     "reasoning": "Content primarily discusses a Scrum event and logistics of a class rather than technical practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a live chat about a Professional Scrum with Kanban class, not focusing on the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T12:23:22",
@@ -474,15 +447,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a live chat about a Professional Scrum with Kanban class and does not discuss Lean Product Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses a Scrum event and class details without addressing software code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -514,12 +478,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on an event related to Professional Scrum with Kanban without directly addressing the role, responsibilities, or practices of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile practices and the adaptation of Scrum with Kanban, which relates to the role of a Scrum Master in facilitating team effectiveness. However, it primarily focuses on teaching methods and community engagement rather than the specific responsibilities and impact of a Scrum Master. While there are mentions of Scrum, the depth of discussion on the Scrum Master's role is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -593,15 +560,6 @@
     "reasoning": "Content primarily focuses on a specific event related to Professional Scrum with Kanban, with no clear discussion of organisational change strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific Scrum training event, without focus on scaling Agile practices or enterprise-level strategies.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T12:23:22",
@@ -609,15 +567,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about a live chat regarding a Professional Scrum with Kanban course, with no substantial focus on Lean principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a specific event and does not clearly discuss the interplay between human behavior and structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -683,7 +632,7 @@
     "reasoning": "Content primarily focuses on an event discussing Professional Scrum with Kanban, with no significant mention or discussion of Lead Time as a metric.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T12:23:22",
     "ai_confidence": 0,
@@ -699,15 +648,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an event related to Professional Scrum with Kanban, lacking a focus on Agile leadership or leadership roles.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on a live chat about a Scrum training event, without discussing AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +695,6 @@
     "reasoning": "Content focuses on an event and class about Scrum with Kanban and does not discuss market adaptability or related strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a Scrum event and does not reference AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T12:23:22",
@@ -775,10 +706,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T12:23:22",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on an event related to Professional Scrum with Kanban, without any mention of the Daily Scrum or its specific practices.",
     "level": "Ignored"
   },
@@ -809,15 +740,6 @@
     "reasoning": "Content is primarily focused on a live event and discussion about a Scrum class, with no mention of the Product Backlog or related concepts.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses an upcoming event related to Professional Scrum with Kanban but does not delve into Agile Project Management principles or practices.",
-    "level": "Ignored"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T12:23:22",
@@ -835,24 +757,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses an upcoming Scrum event rather than troubleshooting specific technical issues.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a live event related to a Scrum certification course, rather than reviews or analyses of specific products or literature.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific event related to Professional Scrum with Kanban, which is relevant to the Agile community. However, it focuses more on promoting the live chat rather than providing in-depth news or reviews.",
-    "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -872,15 +776,6 @@
     "reasoning": "Content primarily focuses on promoting a live chat and details about an upcoming Scrum with Kanban class rather than sharing personal experiences or insights.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on a specific event related to Scrum with Kanban and does not address Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T12:23:22",
@@ -892,10 +787,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T12:23:22",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an event and logistics related to a Professional Scrum with Kanban class rather than focusing on Scrum Values.",
     "level": "Ignored"
   },
@@ -919,11 +814,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a live chat regarding a Scrum event and does not discuss Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices, specifically focusing on Scrum and Kanban, without any explicit mention or discussion of Test First Development principles. While it touches on concepts like flexibility, flow, and community support, these are not directly related to the core themes of Test First Development, such as success criteria, TDD, or ATDD. The overall focus is on adapting teaching methods and fostering community rather than on testing practices.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,10 +835,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T12:23:22",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses an event related to Professional Scrum with Kanban and does not focus on Scrum Team dynamics or related topics.",
     "level": "Ignored"
   },
@@ -1007,15 +905,6 @@
     "reasoning": "Content primarily focuses on an event and does not discuss product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a specific event related to Professional Scrum with Kanban and does not discuss scaling agile practices or organisational agility.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
     "calculated_at": "2025-02-18T12:23:22",
@@ -1043,24 +932,6 @@
     "reasoning": "Content is focused on a live chat about a Scrum event and not on Portfolio Management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an event about Professional Scrum with Kanban, with no clear discussions on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on an event announcement and discussion about a class, with no emphasis on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T12:23:22",
@@ -1077,15 +948,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on a live chat discussing a Professional Scrum with Kanban event, not on software delivery or frequent releases.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on an event and discussion about a Professional Scrum with Kanban class without delving into practical techniques or tooling.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1135,20 +997,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a live chat about a Scrum course and does not focus on the Agile Product Operating Model or its principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an event announcement related to Professional Scrum with Kanban, without discussing discovery or learning processes.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses adapting Scrum with Kanban and focuses on teaching methods and community engagement rather than the Agile Product Operating Model itself. While it touches on agile principles and flexibility, it lacks a direct focus on the core themes of APOM, such as product management integration and operational governance.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1176,15 +1032,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a live chat about a Professional Scrum event and does not discuss automated testing principles, practices, or methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific Scrum training event and does not focus on scaling Kanban principles, techniques, or applications.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1261,10 +1108,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T12:23:22",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific Scrum class and event, lacking focus on Agile values and principles.",
     "level": "Ignored"
   },
@@ -1306,12 +1153,15 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Kanban in the context of a Professional Scrum with Kanban class, but primarily focuses on the live chat event rather than in-depth discussion of Kanban principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content features a discussion about a Kanban class and mentions Kanban principles, but it primarily focuses on the context of teaching and adapting to online formats rather than deeply exploring Kanban methodology itself. While there are references to Kanban concepts, they are not the primary focus of the conversation, which includes a lot of unrelated banter and discussions about tools and personal experiences.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1342,28 +1192,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a live chat about a specific Scrum class, rather than discussing Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses agile practices and community engagement rather than focusing on Evidence-Based Management principles. While it touches on flexibility and flow, it lacks explicit references to empirical decision-making or metrics that assess current value, time to market, or unrealised value. The discussion is more about adapting teaching methods and fostering community rather than using data to inform management decisions.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T12:23:22",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a live chat regarding a Professional Scrum with Kanban class, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T12:23:22",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a live chat about Professional Scrum with Kanban, with no focus on innovation capabilities, frameworks, or evidence-based management.",
     "level": "Ignored"
   },
@@ -1374,6 +1227,446 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is primarily about an event promoting a Professional Scrum with Kanban class and does not focus on enhancing operational efficiency or practical methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:08:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:08:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses a live chat about a Scrum event and does not mention AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Kanban and its integration with Scrum, rather than focusing on Scrum principles or practices. While there are mentions of Scrum roles and events, they are secondary to the discussion of Kanban. The depth of discussion on Scrum is limited, focusing more on the differences and integration with Kanban rather than a thorough exploration of Scrum itself.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agile practices and community engagement rather than focusing on the Shift-Left Strategy. While it touches on flexibility and feedback loops, which are relevant to agile methodologies, it does not explicitly address integrating testing, security, or compliance earlier in the development process. The discussion lacks depth in relation to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses adapting teaching methods and fostering community, which aligns with Continuous Improvement principles. However, it primarily focuses on the context of agile learning and community support rather than a structured approach to Continuous Improvement itself. The mention of feedback loops and flexibility indicates some alignment, but the depth of discussion on Continuous Improvement techniques and strategies is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile practices and community support but lacks a direct focus on Common Goals. While it touches on flexibility and flow, it does not explicitly connect these concepts to shared objectives or strategic alignment within teams. The emphasis is more on adapting teaching methods and fostering community rather than on aligning individual contributions to organisational goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses adapting teaching methods and fostering community in an Agile context, which touches on competence through the lens of continuous learning and skill development. However, it lacks explicit discussions on competence as a primary focus, and while it aligns with some core themes, it does not delve deeply into the strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:02:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices, specifically Scrum and Kanban, without any direct reference to the One Engineering System framework. While it touches on themes of flexibility and community, these are not aligned with the core principles of 1ES, which focuses on standardisation and integration across teams. The discussion lacks depth regarding the implementation or impact of a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses adapting Scrum with Kanban and the importance of community during uncertain times, which does not directly address the concept of Agentic Agility. While there are mentions of flexibility and adaptability, these are framed within general Agile practices rather than a focused discussion on intentional shaping of outcomes or the distinction between human and AI capabilities. The content lacks depth in exploring the principles of Agentic Agility, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses adapting Scrum and Kanban in a virtual setting but does not specifically address the challenges of Hybrid Agile frameworks. There is no critical examination of merging traditional methodologies with agile practices, nor does it explore the pitfalls of such integrations. The focus is on flexibility, community support, and teaching methods rather than the core themes outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses agile practices, specifically focusing on Scrum and Kanban, along with adapting to virtual learning environments. There is no direct mention of Cell Structure Design or its core principles, which are centered around decentralisation and autonomous cells. The content loosely aligns with some concepts of flexibility and community support, but it does not delve into the specifics of decentralised organizational structures or the Beta Codex principles. Overall, the discussion lacks the necessary depth and focuses on unrelated topics.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 40.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses adaptability and flexibility in work processes, which aligns with principles of Agile. It emphasizes the importance of community and feedback loops, which also align with Agile principles such as Customer Collaboration and Continuous Improvement. However, the focus is more on the practical aspects of adaptation and teaching rather than explicitly laying out foundational principles. The discussion is relatively broad and lacks deep exploration of specific principles guiding decision-making within Agile or Lean frameworks.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 52.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "While the content discusses agile practices and concepts related to Scrum and Kanban, it focuses heavily on specific roles and teaching methodologies rather than broader project management principles. The mention of Scrum and Kanban roles and practices makes the discussion relevant to project management, but it lacks a direct exploration of core project management themes such as risk management, governance structures, or project lifecycle phases. The depth of insights on how these practices can enhance project outcomes does provide some connection to project management, but it remains within a narrow focus on agile practices without integrating them into a wider project management framework.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses applying Agile principles in a virtual class setting but primarily focuses on Scrum and Kanban without directly addressing Open Space Agile concepts. It mentions community engagement and flexibility, which align with some themes of Open Space Agile but does not delve deeply into co-creation or the principles of Open Space Technology. Thus, while there are elements of agile transformation and community, Open Space Agile is not a primary focus.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 55.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content mentions specific tools like Zoom and Mural, which are used for collaboration in a virtual learning environment, fulfilling the discussion criteria under the 'Tool' category. It also discusses gamification tools relevant to Agile practices, indicating some depth and context. However, the primary focus of the content is on teaching methods and community rather than a comprehensive examination of tools or their integration into Agile frameworks, which lowers the overall confidence score.",
+    "level": "Tertiary"
+  },
+  "Liberating Structures": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses adapting Scrum with Kanban and emphasizes engagement and community support in virtual settings. However, it lacks specific references to Liberating Structures and their methods. While it touches on interactive sessions and feedback loops in teaching, it does not provide any detailed frameworks or specific Liberating Structures techniques. Therefore, while there is some alignment with the ideas of engagement and facilitation, the focus is more on general Agile practices rather than the specific topic of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10,
+    "ai_alignment": 26,
+    "ai_depth": 26,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses concepts like community support, flexibility, and open communication as essential values during uncertain times. While it doesn't explicitly mention Agile or Scrum values directly, it aligns with the core themes of values influencing collaboration and decision-making. The discussions on fostering a supportive community and creating interactive sessions highlight the importance of values like respect and openness in agile practices. However, the primary focus is more on the practices and tools used rather than a deeper philosophical exploration of values themselves, which slightly lowers the classification score.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses specific practices and tools related to Scrum and Kanban, which falls outside the philosophical exploration of agile methodologies. While there are brief mentions of flexibility and community support, these points are secondary to the description of the practical aspects of teaching methods and interactive class formats. The core discussion lacks a deeper exploration of the foundational beliefs and decision-making frameworks of the philosophies themselves, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses agile concepts, specifically Scrum and Kanban, and touches on themes like flexibility and community support. However, it primarily focuses on tools and teaching methods rather than the overarching principles and methodologies of discipline in agile practices. The core discussion lacks a detailed examination of the systemic application and maturation of these disciplines, thus reducing its alignment and depth in relation to the discipline category.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 5,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content emphasizes general Agile principles and community engagement but does not focus on specific artifacts such as Product Backlogs, Sprint Backlogs, or any tangible representations of work. Mentions of Scrum and Kanban are present, but these are not explicitly linked to the structure, purpose, and role of artifacts. Thus, while there is a moderate relevance to Agile concepts, the primary focus is on flexibility, community support, and teaching methodologies rather than on the artifacts themselves.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses Agile learning and community engagement, with a focus on flexibility and flow in Scrum and Kanban. It does not explicitly address observability, nor does it delve into metrics, logs, or traces related to software systems. While it includes elements like feedback loops and interaction, these concepts relate more to Agile methodologies than to observability specifically.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses agile learning methods and community engagement rather than focusing on Time to Market. While there are brief mentions of flexibility and flow, which could be tangentially related, it lacks a core discussion on metrics or strategies to optimize Time to Market. Overall, the content does not align with the key topics and objectives associated with the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 13,
+    "ai_alignment": 32,
+    "ai_depth": 27,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses adapting Agile methodologies, specifically Scrum and Kanban, in a context relevant to product development. It mentions key concepts such as flexibility, flow management, and feedback loops, which align with core themes of product development methodologies. However, while many aspects of Agile product development are covered, the primary focus is on educational approaches rather than a detailed exploration of product development practices themselves, thus leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses various practices related to agile methodologies, particularly Scrum and Kanban, including principles of flexibility, flow management, and community engagement. While it mentions core practices like Kanban, it lacks detailed actionable techniques that can be directly tied to improving team performance or collaboration, which diminishes its alignment with the category. The references to teaching methods may indicate the promotion of practices, but they do not provide in-depth discussions or actionable insights on improving practices directly.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on adapting Scrum and Kanban practices in an educational context amid the pandemic. It discusses flexibility, flow, and community support but does not explicitly mention treating the organization as a product or integrating customer feedback into organizational design. While it hints at some principles relevant to agile practices, it lacks a primary focus on the CaaP concept and does not align closely with its core themes or provide detailed insights into organizational strategy. Therefore, the confidence score reflects low relevance to the CaaP category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 40.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 40.0,
+    "reasoning": "The content discusses adapting teaching methods in the context of Agile practices, specifically mentioning Scrum and Kanban. However, it largely focuses on flexibility and community engagement rather than detailed procedural methodologies. While flow management is highlighted, the lack of structured, step-by-step procedures or comprehensive discussion of specific methods means it does not fully align with the key criteria for the category 'Method'. The material is more discussion-oriented rather than instructional on specific methods, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses agile practices and adapting teaching methods in the context of current challenges without explicitly addressing 'Unrealised Value' or providing insights into potential improvements and untapped opportunities. The focus on community and adaptability is relevant to agility but lacks a direct connection to identifying or measuring unrealised value within an organisation.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 28.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 28.0,
+    "reasoning": "The content primarily focuses on adapting teaching methods for Scrum and Kanban in a virtual environment, emphasizing flexibility and community support rather than discussing methodologies or frameworks specifically for scaling Agile practices. While there are mentions of flow and some collaborative elements, the overall lack of depth on scaling strategies and frameworks results in a low confidence score for the Scaling category. The primary emphasis is on general Agile principles and not the complexities involved in scaling initiatives.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content mentions agile practices and incorporates elements of flow management and flexibility, which are relevant to the discussion of models. However, it primarily focuses on the adaptation of teaching methodologies and community engagement rather than deeply exploring specific conceptual models or frameworks like Kanban or Scrum, making it less aligned with the core themes of the Model category. The discussion of gamification and community does show some depth about teaching agile concepts, but it lacks direct references to models and frameworks themselves, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on adapting Agile methodologies in uncertain times and emphasizes community and teaching methods but does not explicitly discuss Current Value or provide metrics related to it. While there are themes of flexibility and feedback in learning processes, they do not connect directly to the real-time assessment of value in the context of Evidence-Based Management. Therefore, while some general Agile principles are touched upon, the lack of specific, measurable discussions related to Current Value significantly lowers the alignment with the category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content discusses agile methodologies, specifically Scrum and Kanban, indicating a focus on frameworks that facilitate flexibility and flow. However, while there are direct mentions of Scrum and Kanban principles, the main emphasis is on adapting teaching methods and community engagement rather than in-depth analysis of framework implementation or best practices. Hence, it aligns somewhat with the Framework category but lacks significant detailed discussion of the frameworks themselves.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses several principles related to Agile and Kanban, such as flexibility, flow management, community support, and feedback loops, which resonate with the core tenets of Agile methodologies. However, while it touches on these actionable concepts, the overall focus remains more on personal experiences and general insights rather than direct application of specific tenets. The content does not explicitly promote distinct tenets per the strict definition, making it somewhat relevant but not strongly aligned to the category.",
+    "level": "Tertiary"
+  },
+  "GitHub": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices, Scrum, and Kanban but does not mention GitHub or its associated tools and services at all. It focuses on flexibility, community support, and teaching methods in the context of distributed learning, which is not relevant to GitHub functionalities. Therefore, it lacks direct mentions and alignment with GitHub, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on adapting Scrum and Kanban in teaching, but it does not delve into the principles of Agnostic Agile or discuss the ethical and context-driven elements central to that philosophy. While there are mentions of flexibility and community, the content centers on specific frameworks without a broader context-driven discussion, leading to lower scores in all evaluation dimensions.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "xaLNCbr9o3Y",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 32,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content discusses adaptability and learning within Agile and Scrum contexts, it predominantly focuses on teaching methods and community engagement rather than on the enduring capabilities that empower organizations. The mention of flexibility and flow can relate to capabilities but lacks a deeper examination of how these concepts cultivate systemic competencies. The details provided mostly relate to the teaching process and community interaction, which do not strongly correlate with the concept of enduring capabilities as outlined in the capability category.",
     "level": "Ignored"
   }
 }

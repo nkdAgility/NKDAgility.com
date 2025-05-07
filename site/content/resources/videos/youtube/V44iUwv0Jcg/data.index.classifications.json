@@ -1,21 +1,27 @@
 {
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:24:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement, which is a significant aspect of Value Stream Management, but it primarily focuses on the concept of Kaizen within the context of Kamban rather than directly addressing Value Stream Management as a whole.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which are relevant to Value Stream Management. However, it primarily focuses on the general idea of continuous improvement without explicitly linking it to value streams or the specific principles of Value Stream Management. The mention of Kanban suggests a connection to process optimisation, but it lacks depth in discussing value flow, waste elimination, or alignment with customer outcomes, which are core themes of Value Stream Management.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:24:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of continuous improvement, which is a significant aspect of metrics and learning, but it primarily focuses on the philosophy of Kaizen rather than specific metrics or data-driven decision-making.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to continuous improvement, a key theme in the Metrics and Learning category. It mentions the importance of observing and measuring improvements, aligning with the idea of using metrics for evidence-based decision-making. However, the discussion lacks specific techniques for collecting and analysing performance data, and does not delve deeply into feedback loops or case studies, which limits the depth of the discussion.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -44,48 +50,36 @@
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, which is not central to the principles of Beta Codex.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:24:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement within the context of Kamban, which is not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T12:24:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of Kaizen, which is relevant to Kanban and continuous improvement practices, but it does not primarily focus on Kanban principles or practices.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:24:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement in processes, which is not directly related to software code quality or complexity.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is relevant to Kanban's emphasis on continuous improvement. However, it lacks explicit references to Kanban practices such as visualisation of work or limiting work in progress. The mention of Kaizen is somewhat superficial and does not delve into the specific methodologies or principles of Kanban, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:24:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement within the context of Kanban, without a clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of continuous improvement, which is a principle that aligns with DevOps philosophy. However, it primarily focuses on Kaizen within Agile and Kanban contexts, lacking direct references to DevOps practices, principles, or cultural shifts. The depth of discussion on DevOps-related themes is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:24:15",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, which is not related to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -98,22 +92,16 @@
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement without a clear focus on market adaptability or related methodologies like Agile, DevOps, or Lean.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:24:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and its application in Kamban, without focusing on news, updates, or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:24:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, which is not central to the Agile Product Operating Model.",
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Kaizen and continuous improvement, which are relevant to Agile methodologies, but it primarily focuses on personal and team success rather than the Agile Product Operating Model specifically. While it touches on themes of improvement and collaboration, it lacks a direct connection to product management principles and the core elements of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -125,31 +113,16 @@
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, which is not directly related to decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T12:24:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which relates to process optimisation and team success. However, it does not explicitly address human behaviour or team dynamics, making it a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:24:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous improvement, which is a significant aspect of fostering adaptability and change within organisations, but it primarily focuses on the concept of Kaizen rather than broader organisational resilience strategies.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:24:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement, which is a key aspect of value delivery, but it primarily focuses on the concept of Kaizen without directly addressing value delivery strategies or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which aligns with the principles of iterative development and incremental delivery. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and does not delve deeply into strategies for measuring customer value or aligning product development with customer needs. The focus is more on the general idea of continuous improvement rather than specific methodologies or practices that enhance value delivery.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
@@ -172,20 +145,26 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:24:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement, which is a significant aspect of flow efficiency, but it primarily focuses on the concept of Kaizen rather than directly addressing flow efficiency principles or techniques.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of Kaizen, which relates to continuous improvement, a key aspect of Flow Efficiency. However, it lacks explicit mentions of flow efficiency principles, metrics, or techniques for eliminating bottlenecks. The discussion is more general and does not delve deeply into specific strategies or case studies related to flow efficiency, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:24:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and optimization of processes, which aligns with Systems Thinking principles, but it primarily focuses on the concept of Kaizen within the context of Kamban rather than a comprehensive exploration of Systems Thinking.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of Kaizen, which relates to continuous improvement and optimisation of processes. However, it lacks explicit references to Systems Thinking principles, such as interconnectedness or holistic analysis. While it touches on the idea of observing improvements in a system, it does not delve into the complexities of organisational dynamics or decision-making processes that are central to Systems Thinking. The discussion is more focused on continuous improvement rather than a comprehensive exploration of Systems Thinking.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
@@ -199,21 +178,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T12:24:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of Kaizen, which is a key principle of Lean thinking focused on continuous improvement. However, it primarily revolves around the application of Kaizen in the Kanban community, making Lean a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:24:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Kaizen, a key principle of Lean, focusing on continuous improvement. However, it primarily relates to Kanban without a broader context of Lean methodologies or waste reduction. While it aligns with Lean principles, the depth of discussion is limited to Kaizen without exploring other Lean tools or concepts.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -226,12 +199,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T12:24:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which can relate to personal experiences and insights, but it primarily focuses on the concept itself rather than personal anecdotes or reflections.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of Kaizen and its application in continuous improvement, which aligns with the broader themes of Agile and Lean methodologies. However, it lacks personal anecdotes or reflections that would strengthen its classification under the Personal category. The discussion is more focused on the concept itself rather than individual experiences or insights.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -241,15 +217,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, which is not directly related to platform engineering or its core principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:24:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of Kaizen in relation to continuous improvement, which is a key aspect of Agile methodologies. However, it lacks specific references to tools or practical techniques that enhance Agile practices.",
-    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -271,66 +238,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:24:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement, which is a significant aspect of organisational agility, but it primarily focuses on the concept of Kaizen rather than broader agile methodologies or organisational practices.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:24:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, without a focus on transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:24:59",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the concept of continuous improvement, which aligns with the themes of learning and adaptation in processes. However, it primarily focuses on the term 'Kaizen' and its application rather than broader methodologies or frameworks for discovery and learning.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the principles of Kaizen, which aligns closely with the themes of continuous improvement and adaptability central to organisational agility. It explicitly mentions continuous improvement and its application in team collaboration and process optimisation, which are key aspects of agility. The depth of discussion on fostering a culture of improvement and the mindset shift required further supports its relevance to the category. However, while it touches on agile methodologies, it does not delve deeply into broader organisational strategies or leadership roles, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:25:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement, which is a principle of Evidence-Based Management, but it primarily focuses on the concept of Kaizen rather than EBM itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which aligns with the principles of Evidence-Based Management, particularly in the areas of observation, measurement, and data-informed decision-making. However, the primary focus is on Kaizen rather than explicitly on Evidence-Based Management, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:25:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement within the context of Kamban, without any mention of AI or automation technologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:25:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and its application in continuous improvement, without reference to specific products, books, or tools related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:25:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Kaizen and its relation to continuous improvement, with a focus on Kanban, rather than Scrum principles or practices.",
-    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -370,57 +298,48 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:53:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen within the context of continuous improvement, which is a key principle of Lean and Kanban methodologies.",
+    "reasoning": "The content discusses the concept of Kaizen, which aligns with the principles of continuous improvement and team collaboration, key themes in Social Technologies. It explicitly mentions team dynamics and collaboration, which are central to the category. However, while it touches on these themes, the depth of discussion primarily focuses on personal and process improvement rather than broader organisational frameworks or methodologies. Therefore, while it is relevant, it does not fully encapsulate the category's primary focus.",
     "level": "Secondary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the concept of Kaizen and continuous improvement, not specifically on scaling Kanban principles or practices.",
-    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:53:55",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, which is related to process optimization but does not focus on the technical aspects of system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, which is closely related to individual Agile practices but does not focus on scaling Agile or enterprise-level implementation.",
+    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, which is related to process optimization but does not focus on the technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of continuous improvement, which is a key aspect of Agile Philosophy. However, it primarily centers around the term 'Kaizen' and its interpretation rather than addressing broader Agile principles or values comprehensively.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to the Agile philosophy of continuous improvement. It explicitly mentions the importance of continuous improvement, team collaboration, and the cultural shift required to embrace this mindset. However, while it aligns well with Agile principles, it primarily focuses on Kaizen as a specific practice rather than the broader Agile philosophy itself, which slightly limits its depth of discussion on Agile as a whole.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of continuous improvement related to Kaizen, which is a relevant aspect of change management. However, it primarily focuses on Kaizen's application and philosophy rather than comprehensive change management strategies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to continuous improvement—a key aspect of change management. It explicitly mentions the importance of fostering a culture of improvement and provides practical applications of Kaizen in team collaboration and personal development. However, while it aligns with the principles of change management, it does not delve deeply into the broader strategies or leadership roles involved in organisational change, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -433,19 +352,22 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:02:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement without a clear focus on Lead Time or its measurement.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which are related to optimising processes. However, it does not explicitly mention Lead Time or its measurement, nor does it delve into the relationship between Lead Time and Cycle Time. The focus is more on general improvement strategies rather than the specific observability metric of Lead Time, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T13:53:55",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of continuous improvement (Kaizen) without a focus on team dynamics or motivation strategies.",
     "level": "Ignored"
   },
@@ -469,10 +391,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:53:55",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the concept of Kaizen and continuous improvement, which is not related to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -514,12 +436,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content focuses on the principle of Kaizen, which is central to Lean Thinking and emphasizes continuous improvement. While it discusses its application in Kanban, the overarching theme is still closely tied to Lean principles.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on Kaizen, a core principle of Lean Thinking, discussing its importance in continuous improvement and its application in various contexts. It provides a detailed exploration of how Kaizen can enhance processes, team collaboration, and personal development, aligning well with Lean principles. The depth of discussion is significant, covering practical applications and mindset shifts necessary for embracing Kaizen, which further supports its relevance to Lean Thinking.",
+    "level": "Primary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -550,39 +475,36 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses continuous improvement and optimization, which are relevant to organisational change, but primarily focuses on the concept of Kaizen within the Kanban context rather than broader organisational change strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to continuous improvement and organisational change. It highlights the importance of fostering a culture of improvement, which aligns with the principles of Agile transformation and the role of leadership in driving change. However, the focus is primarily on personal and team development rather than broader organisational change strategies, which slightly limits its depth in the context of the category.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of continuous improvement (Kaizen) which aligns with Continuous Learning principles, but the primary focus appears to be on the concept itself rather than on techniques or practices for fostering a growth mindset or knowledge sharing within teams.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of Kaizen and continuous improvement, which is not specific to Scrum or its scaling practices.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the principles of Kaizen, which directly relates to continuous improvement and aligns well with the themes of Continuous Learning. It highlights the importance of a growth mindset, effective knowledge sharing, and the role of feedback loops, all of which are key topics in the category. The depth of discussion is significant, providing practical applications and tips for fostering a culture of continuous improvement within teams. Overall, the content is a strong fit for the Continuous Learning category.",
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:53:55",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the concept of continuous improvement (Kaizen) but does not significantly focus on evidence-based leadership or the application of empirical evidence in leadership decision-making. It lacks specific ties to data-driven leadership practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -604,12 +526,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous improvement, which is related to empirical process control and the concepts of inspection and adaptation, but it primarily focuses on the concept of Kaizen rather than empirical process control itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to continuous improvement and aligns with the principles of empirical process control. It mentions observation and measurement, which are key aspects of making evidence-based decisions. However, the primary focus is on Kaizen and its application in Kanban rather than a direct exploration of empirical process control itself. While it touches on relevant themes, it does not delve deeply into the specific practices or frameworks of empirical process control, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -694,12 +619,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement, which aligns with Lean principles, but it primarily focuses on the concept of Kaizen without specific reference to Lean Product Development methodologies or techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of Kaizen, which aligns with Lean principles of continuous improvement and process optimisation. However, it primarily focuses on personal and team success rather than explicitly addressing Lean Product Development as a primary topic. The discussion lacks depth in Lean-specific methodologies and tools, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -721,12 +649,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of continuous improvement, which is a relevant theme in the context of engineering practices. However, it primarily focuses on the philosophical side of Kaizen rather than specific engineering excellence practices, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of continuous improvement, which aligns with the principles of engineering excellence. However, it primarily focuses on the general idea of Kaizen without delving into specific software craftsmanship practices, coding standards, or technical debt management. The mention of continuous improvement is relevant but lacks depth in relation to engineering processes, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -739,10 +670,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:53:55",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, without specific focus on Scrum roles, team dynamics, or practices relevant to a Scrum Team.",
     "level": "Ignored"
   },
@@ -757,21 +688,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and Kaizen, which are related to Agile practices, particularly in the context of Kanban. However, the primary focus appears to be on the concept of Kaizen rather than a broader Agile transformation discussion.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to Agile principles, particularly in the context of continuous improvement. It aligns with Agile transformation themes by emphasising the importance of evolving processes and fostering a culture of improvement. However, while it touches on Agile methodologies like Kanban, it does not delve deeply into broader Agile transformation strategies or frameworks, which limits its depth of discussion. Overall, it provides a solid exploration of Kaizen within an Agile context, but lacks comprehensive coverage of Agile transformation as a whole.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of Kaizen, which is central to continuous improvement practices in Agile and Lean methodologies, aligning well with the category of Operational Practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the concept of Kaizen, which is a core principle of continuous improvement within Agile and Lean methodologies. It directly addresses process optimisation, team collaboration, and the importance of measurement and observation, all of which are key topics in operational practices. The depth of discussion is significant, providing practical applications and strategies for implementing Kaizen in various contexts, thus aligning well with the category's focus on enhancing operational efficiency.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -793,21 +730,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement, which is important in Agile methodologies, particularly in the context of Kanban. However, it does not primarily focus on Agile strategy or its integration into organizational vision and execution.",
-    "level": "Tertiary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Kaizen as a concept of continuous improvement without a clear focus on software developers or Agile/DevOps methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is integral to Agile methodologies, particularly in the context of continuous improvement. It aligns with Agile principles by emphasising the importance of incremental changes and adaptability. However, while it touches on Agile strategy, it primarily focuses on the Kaizen philosophy rather than a broader strategic framework, which slightly limits its depth in terms of strategic planning and execution.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -874,12 +805,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of continuous improvement, which is relevant to the theme of fostering a culture of continuous improvement and learning within agile methodologies, though it does not specifically address technical leadership or agile team dynamics directly.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of Kaizen and its application to continuous improvement, which aligns with the principles of fostering a culture of continuous improvement and learning in agile environments. However, it lacks direct mentions of technical leadership roles or specific agile practices, and the depth of discussion is more focused on the philosophy of Kaizen rather than actionable strategies for technical leadership.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -892,12 +826,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T21:16:29",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to continuous improvement, which aligns with the Ability to Innovate category as it touches on optimizing processes. However, it primarily focuses on the concept of Kaizen rather than the broader themes of innovation capabilities, Evidence-Based Management, or specific frameworks for measuring innovation.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to continuous improvement and innovation. It highlights the importance of making incremental changes and fostering a culture of open communication and collaboration, which aligns with the core themes of innovation. However, while it touches on innovation, it primarily focuses on personal and team improvement rather than providing a comprehensive exploration of innovation metrics or frameworks. The depth of discussion is moderate, with practical applications mentioned, but it lacks specific examples or case studies that would strengthen its alignment with the category.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -910,29 +847,38 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kaizen in relation to Kanban and touches on continuous improvement, which are relevant to Agile frameworks. However, it lacks a comprehensive exploration of Agile frameworks as a primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Kaizen, a principle closely associated with Agile methodologies, particularly Kanban. It explicitly mentions Kanban and explores the concept of continuous improvement, which aligns with Agile principles. However, while it provides a good overview of Kaizen and its applications, it lacks a deeper comparative analysis of Agile frameworks or detailed case studies, which would strengthen its alignment with the category.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of continuous improvement, which is a major theme in enhancing team performance. However, it primarily focuses on the concept of Kaizen in a broader context rather than specifically addressing agile teams or their dynamics.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of Kaizen and its application to team collaboration and continuous improvement, which aligns well with the themes of enhancing team dynamics and productivity. It explicitly mentions team collaboration and provides actionable tips for fostering a culture of improvement within teams. However, while it touches on relevant topics, it does not delve deeply into specific Agile ceremonies or metrics for measuring team performance, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:16:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses the concept of Kaizen and continuous improvement, without focusing specifically on the measurement or optimization of throughput as defined in Agile, DevOps, or Lean contexts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the philosophy of Kaizen and continuous improvement rather than discussing throughput as a delivery metric. While it mentions observation and measurement, it does not explicitly define or calculate throughput, nor does it analyse or visualise it in the context of team delivery capacity. The discussion lacks depth regarding throughput metrics and does not align with the key topics outlined for the category. Overall, the content is more about personal and team improvement culture without a direct connection to throughput metrics.",
     "level": "Ignored"
   },
   "Windows": {
@@ -962,15 +908,6 @@
     "reasoning": "Content discusses the concept of Kaizen and continuous improvement, focusing on processes and methodologies rather than employee motivation or engagement.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of Kaizen, which is relevant in the context of continuous improvement, a principle that aligns with agile methodologies. However, the primary focus is on the concept of Kaizen itself rather than a comprehensive discussion of Agile Project Management. Therefore, while it touches on themes relevant to agile practices, they are secondary to the main topic.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T13:53:55",
@@ -991,11 +928,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on the concept of Kaizen and continuous improvement, which is not specific to Continuous Delivery practices or principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is related to continuous improvement, but it does not explicitly address Continuous Delivery principles or practices. While it touches on themes of incremental changes and process optimisation, it lacks a direct focus on software delivery cycles, automation, or the specific practices associated with Continuous Delivery. The depth of discussion on continuous improvement is present, but it does not sufficiently align with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1009,10 +949,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:53:55",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the concept of Kaizen and continuous improvement, which is not directly related to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -1045,12 +985,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and its relevance to processes, which is a significant aspect of software development methodologies like Kanban. However, it is primarily focused on the concept of Kaizen rather than software development practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of Kaizen within the context of Agile methodologies, particularly Kanban, which is relevant to software development practices. However, while it touches on continuous improvement and team collaboration, it lacks specific details on software engineering processes or methodologies. The primary focus is on the philosophy of Kaizen rather than concrete software development practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1070,23 +1013,17 @@
     "reasoning": "Content heavily discusses the concept of Kaizen and continuous improvement, which is not specifically related to the Product Backlog or its management.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Kaizen and continuous improvement in Kanban, with no clear connection to Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kaizen, a key principle of Lean thinking focused on continuous improvement. However, it primarily emphasizes the general notion of continuous improvement without a deeper exploration of Lean principles or applications.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Kaizen, a core principle of Lean thinking, focusing on continuous improvement and process optimisation. It provides a detailed exploration of how Kaizen can be applied in various contexts, aligning well with Lean principles. The depth of discussion on fostering a culture of improvement and the practical applications of Kaizen further solidify its relevance to Lean Principles.",
+    "level": "Primary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1126,10 +1063,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T13:53:55",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement in the context of Kamban, without a clear focus on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -1162,12 +1099,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses continuous improvement, which is a key principle in Agile methodologies. However, it primarily focuses on the concept of Kaizen and its application in Kanban, making Agile values a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 26,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of Kaizen, which aligns with the Agile principle of continuous improvement. While it mentions Agile methodologies and touches on team collaboration and personal development, it primarily focuses on Kaizen as a philosophy rather than explicitly discussing Agile values and principles. The depth of discussion on continuous improvement is significant, but the overall focus on Agile values is secondary, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1180,11 +1120,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses continuous improvement and optimization of processes, which relates to the dynamics within organisations, but it primarily focuses on the concept of Kaizen in the context of Kamban rather than a comprehensive exploration of systems thinking in organisational contexts.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of Kaizen, which relates to continuous improvement and process optimisation. However, it primarily focuses on personal and team success rather than explicitly addressing systems thinking or organisational dynamics. While there are mentions of team collaboration and communication, the depth of discussion on organisational structure, culture, and processes is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
@@ -1203,15 +1146,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, without a clear focus on strategic alignment or execution within Agile, Scrum, or DevOps frameworks.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily focused on the concept of Kaizen and continuous improvement within processes, without any reference to AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1243,11 +1177,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous improvement ('Kaizen') without focusing on Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the philosophy of Kaizen and continuous improvement, which does not directly relate to Test First Development principles. While there are mentions of process optimisation and team collaboration, these are not specifically tied to the Test First approach or its practices. The focus is on general improvement rather than the specific testing methodologies outlined in the Test First Development category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1270,12 +1207,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of continuous improvement (Kaizen), which aligns with pragmatic approaches in Agile and Lean environments, but it focuses more on the abstract idea of continuous optimization rather than practical, experience-based problem-solving techniques.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to continuous improvement and aligns well with pragmatic thinking in Agile contexts. It provides practical strategies for applying Kaizen principles in team collaboration and personal development, demonstrating real-world applications. The depth of discussion on fostering a culture of improvement and the emphasis on observation and measurement further support its alignment with pragmatic thinking. However, while it mentions Agile and Kanban, the focus is more on Kaizen itself rather than a broader discussion of Agile methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1295,30 +1235,24 @@
     "reasoning": "Content primarily focuses on the concept of Kaizen and continuous improvement, without clear emphasis on coaching techniques or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement, which are more related to individual and team-level practices than to scaling agility across an organization.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:53:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement without specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses continuous improvement, a concept relevant to Scrum and Agile methodologies, but it primarily focuses on Kaizen and its application rather than the specific role and responsibilities of a Scrum Master. While there are mentions of team collaboration and process optimisation, these are not directly tied to the Scrum Master role, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T13:53:55",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Kaizen and continuous improvement without a specific focus on Cycle Time metrics or their implications in Agile and DevOps.",
     "level": "Ignored"
   },
@@ -1340,7 +1274,7 @@
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement rather than focusing on the delivery of software increments within Agile frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:53:55",
     "ai_confidence": 0,
@@ -1360,10 +1294,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:53:55",
+    "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement without focusing on team collaboration or Agile principles in a relevant way.",
     "level": "Ignored"
   },
@@ -1375,5 +1309,432 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on the concept of Kaizen and continuous improvement in the context of Kanban, which is unrelated to Behaviour Driven Development.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:38:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the concept of Kaizen and continuous improvement, which is not directly related to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:38:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the concept of Kaizen and continuous improvement in the context of Kamban, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Kaizen, a concept associated with continuous improvement, but it is framed within the context of Kanban rather than Scrum. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion lacks depth regarding Scrum principles or practices. The focus on Kaizen detracts from its relevance to the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of Kaizen and continuous improvement, which, while related to Agile methodologies, does not explicitly address the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the software development lifecycle, and the focus remains on general improvement practices rather than the specific proactive measures associated with Shift-Left.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 20,
+    "final_score": 92.0,
+    "reasoning": "The content explicitly discusses the concept of Kaizen, which is synonymous with Continuous Improvement, and provides a thorough exploration of its principles and applications. It aligns well with the core themes of Continuous Improvement, such as the importance of incremental changes, data-driven decision-making, and fostering a culture of experimentation. The depth of discussion is significant, covering various aspects of how Kaizen can be applied in both personal and team contexts, thus demonstrating a strong commitment to the principles of Continuous Improvement.",
+    "level": "Primary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which are relevant to Agile methodologies. However, it primarily focuses on personal and team development rather than explicitly addressing Common Goals within Agile or DevOps frameworks. While there are mentions of team collaboration and process optimisation, these are not directly tied to the overarching strategic objectives or alignment that define Common Goals. The discussion lacks depth in connecting Kaizen to shared objectives or frameworks like OKRs, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to continuous improvement and skill development, aligning well with the principles of competence. It highlights the importance of ongoing learning and the impact of small changes on personal and team success. The depth of discussion on fostering a culture of improvement and the emphasis on observation and measurement further supports its relevance to competence. However, while competence is a significant theme, it is not the sole focus, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of Kaizen and continuous improvement within Agile methodologies, particularly Kanban. While it touches on themes of process optimisation and team collaboration, it does not explicitly discuss the One Engineering System framework or its principles. The discussion is more about personal and team growth rather than the integration and standardisation of engineering processes, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of Kaizen, which focuses on continuous improvement and incremental changes. While it touches on themes of adaptability and personal development, it does not explicitly address Agentic Agility or the intentional shaping of outcomes. The discussion lacks a clear distinction between human and AI capabilities, and it primarily revolves around general Agile practices rather than the specific principles of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T21:15:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35,
+    "ai_depth": 40,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is closely related to continuous improvement—a key principle in Agile product development. It explicitly mentions continuous improvement and its application in team collaboration and process optimisation, aligning well with the core themes of the category. The depth of discussion is substantial, providing insights into how Kaizen can be applied in various contexts, including product development. However, while it touches on Agile methodologies, it does not delve deeply into specific product development practices or customer feedback loops, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T21:15:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the concept of Kaizen, which is related to continuous improvement but does not explicitly mention Liberating Structures or their specific techniques. While it touches on themes of team collaboration and fostering a culture of improvement, it lacks direct references to the principles and methods of Liberating Structures. The discussion is more aligned with general Agile and Lean principles rather than the specific facilitation techniques that Liberating Structures encompasses.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T21:15:53",
+    "ai_confidence": 55.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is related to continuous improvement, a key aspect of project management. However, it primarily focuses on Agile methodologies and personal development rather than broader project management principles. While it touches on team collaboration and process optimisation, it lacks detailed exploration of core project management topics such as project lifecycle phases, governance structures, or specific methodologies beyond Agile. Therefore, while there is some alignment with project management, it is not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T21:15:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of Kaizen and its application in continuous improvement, particularly within the Kanban framework. While it touches on themes of collaboration and communication, which are relevant to Agile methodologies, it does not explicitly mention Open Space Agile or its principles. The discussion lacks depth regarding Open Space Technology, psychological safety, or shared ownership, which are key aspects of the Open Space Agile category. Therefore, the content does not align well with the specified category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T21:15:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which aligns with the idea of enhancing processes and potentially capturing unrealised value. However, it does not explicitly mention 'Unrealised Value' or provide specific indicators or strategies related to it. The focus is more on the philosophy of continuous improvement rather than on identifying untapped opportunities or measuring potential value, which limits the depth of discussion in this context.",
+    "level": "Tertiary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T21:16:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which are related to process optimisation. However, it does not explicitly mention Time to Market or its associated metrics. While there is some alignment with the idea of improving processes, the focus is more on general improvement rather than specifically on reducing the time taken to deliver value to customers.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T21:16:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of Kaizen and continuous improvement, which are related to the idea of enhancing processes and potentially increasing value. However, it does not explicitly focus on Current Value as defined in Evidence-Based Management. While there are mentions of observation and measurement, the content lacks specific metrics or indicators that would align it more closely with Current Value. The discussion is more about the philosophy of improvement rather than a real-time assessment of value delivered by a product or service.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T21:16:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the concept of Kaizen and continuous improvement, which, while relevant to organisational development, does not explicitly discuss the company as a product framework. There are mentions of team collaboration and process optimisation, which align with some CaaP principles, but the overall focus is more on personal and team success rather than on organisational strategy or customer-centric approaches. The depth of discussion on Kaizen is substantial, but it lacks a direct connection to the broader themes of CaaP.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T21:16:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the concept of Kaizen and continuous improvement, which, while relevant to Agile methodologies, does not specifically address the complexities of scaling Agile practices or the coordination of multiple teams. The mention of team collaboration and process optimisation is too general and does not delve into frameworks or strategies for scaling. Therefore, while there are some relevant themes, they are not the primary focus, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T21:16:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of Kaizen and continuous improvement within Agile methodologies, particularly Kanban. It does not explicitly mention Hybrid Agile or discuss its challenges, implications, or the integration of traditional project management with agile practices. The discussion lacks depth regarding the core themes of Hybrid Agile, such as conflicting expectations, command-and-control structures, or accountability issues. Overall, the content does not align with the Hybrid Agile category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T21:16:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the concept of Kaizen, which is a principle of continuous improvement often associated with Lean and Kanban methodologies. While it touches on themes of improvement and adaptability, it does not explicitly discuss Agnostic Agile principles or its philosophy. The mention of Kaizen is relevant but does not delve into the broader context of Agnostic Agile or its ethical considerations. The depth of discussion is limited to the application of Kaizen rather than a comprehensive exploration of Agnostic Agile as a movement.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T21:16:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of Kaizen and its application in personal and team improvement, focusing on Agile methodologies and Kanban. There are no direct mentions of GitHub or its functionalities, and while it touches on themes of collaboration and process optimisation, these are not specifically tied to GitHub. The discussion lacks depth regarding GitHub services or practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T21:16:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of Kaizen and continuous improvement, which is not directly related to Cell Structure Design. While there are themes of improvement and team dynamics that could tangentially relate to the principles of decentralisation and self-organisation, the core discussion does not align with the specific principles of the Beta Codex or the characteristics of autonomous cells. There are no direct mentions of Cell Structure Design, and the depth of discussion is centred around Kaizen rather than the organisational model in question.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:27:35",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content predominantly discusses the principle of Continuous Improvement through the lens of Kaizen. It explicitly explains Kaizen as a core concept, detailing its implementation in team dynamics, personal development, and process optimisation. The focus on actionable strategies such as observation, measurement, and creating an environment for open communication aligns well with the category of principles. While it leans towards a philosophy, it effectively connects these ideas to practical applications, making it relevant under the 'Principle' classification.",
+    "level": "Primary"
+  },
+  "Tool": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:27:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses on the philosophy of Kaizen and its principles of continuous improvement rather than specific tools or software that facilitate this process. While there's a brief mention of improving processes and team collaboration, the absence of tool-specific discussions, features, or practical applications limits its alignment with the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:27:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content prominently discusses the philosophy of Kaizen, which aligns with the concept of continuous improvement as a deeply held value. It explains how this value influences personal development, teamwork, and process optimization. The depth of the discussion is significant, addressing how adopting a Kaizen mindset fosters open communication and a culture of growth, which are key aspects of organizational values. While there are mentions of practical applications, the overall focus remains on the underlying values and principles that drive continuous improvement, thus justifying a high confidence score.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:27:35",
+    "ai_confidence": 76.0,
+    "ai_mentions": 16,
+    "ai_alignment": 30,
+    "ai_depth": 38,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content strongly emphasizes the philosophical aspects of Kaizen, discussing its role as a mindset for continuous improvement, which aligns with the broader philosophical framework of Lean thinking. It explores how Kaizen influences team dynamics and personal development, making it relevant. However, it also includes specific practices associated with Kaizen and Kanban, which detracts from its purely philosophical nature, affecting the overall confidence score. Overall, it maintains a solid focus on why Kaizen matters and how it can transform practices without delving too deeply into procedural details.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:27:35",
+    "ai_confidence": 76.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the philosophy of Kaizen, which aligns well with principles of continuous improvement, a core aspect of the 'Discipline' category. It explicitly mentions Kaizen and provides substantial detail on its application in various contexts, including team dynamics and personal development, showing its relevance to Agile methodologies. While it does focus on practices, the emphasis on continuous improvement and system optimisation suggests an understanding of underlying principles, thus reinforcing relevance to the category. However, some parts of the content veer into more practical discussions without deep exploration of governance or ethical considerations, which lowers the confidence slightly.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:27:35",
+    "ai_confidence": 22.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content discusses the concept of Kaizen and its role in continuous improvement, but it does not focus on specific artifacts within Agile frameworks such as Scrum or Lean. Instead, it emphasizes principles and philosophy related to improvement rather than the tangible representations of work that artifacts represent. The discussion lacks direct mentions and depth on formal artifacts like Product Backlogs or Definition of Done, which are essential to the classification of 'Artifact'.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:27:35",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 18,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the concept of Kaizen, focusing on continuous improvement through observation and measurement of processes, which somewhat relates to observability. However, it does not delve into the specific observability principles, tools, or metrics relevant to software systems and lacks depth in discussing these topics explicitly. It emphasizes general improvement practices rather than technical implementations aligned with the observability category, hence the moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Practice": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:27:36",
+    "ai_confidence": 79.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 24,
+    "non_ai_confidence": null,
+    "final_score": 79.0,
+    "reasoning": "The content extensively discusses the concept of Kaizen, linking it directly to continuous improvement and team dynamics, which aligns well with the Practice category. It emphasizes actionable techniques and a mindset necessary for fostering improvement, thereby matching the category's intent. However, it is somewhat more philosophical in discussing Kaizen than strictly outlining specific repeatable practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:27:36",
+    "ai_confidence": 57.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Kaizen as a method for continuous improvement, highlighting its application in various contexts. However, it primarily presents Kaizen in a philosophical context rather than detailing specific procedural steps or structured practices. While there are mentions of improving processes and team dynamics, the lack of specific methods or step-by-step procedures limits the depth of discussion on method.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:27:36",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of Kaizen, a principle linked to continuous improvement, but it does not directly frame this within the context of models, decision-making frameworks, or organizational systems in the manner specified in the category definition. While it touches on the themes of improvement and methodology related to Kanban, it lacks explicit discussions around frameworks or comprehensive model analysis in Agile, DevOps, or Lean contexts. The content appears more focused on personal and team growth rather than on the structured use of models to inform and enhance systematic thinking.",
+    "level": "Secondary"
+  },
+  "Framework": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:27:36",
+    "ai_confidence": 37.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content mentions Kaizen as a principle related to continuous improvement and connects it to the Kanban framework, but it primarily focuses on the philosophy of Kaizen rather than providing structured methodologies or implementation strategies associated with frameworks. The discussion touches on team collaboration and personal development, which aligns with the broader themes of Agile principles but lacks depth in framework-specific content and structured methodologies.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:27:36",
+    "ai_confidence": 73.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the concept of Kaizen, which is a core tenet of Lean and aligns with the notion of continuous improvement. The themes of making incremental changes are well explained, and it emphasizes actionable practices like measuring effectiveness and fostering a culture of open communication. However, the discussion is somewhat generalized and focuses more on the philosophy rather than providing explicit, prescriptive rules that can guide specific team practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "V44iUwv0Jcg",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:27:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 34,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the principles of Kaizen and their impact on continuous improvement, which aligns well with the Capability category. It emphasizes the importance of incremental changes, observation, measurement, team collaboration, and fostering a culture of improvement. Although it mentions personal development and team dynamics, it lacks in-depth discussion about how these capabilities are integrated into organizational culture and processes, which is essential for achieving a higher alignment score.",
+    "level": "Secondary"
   }
 }

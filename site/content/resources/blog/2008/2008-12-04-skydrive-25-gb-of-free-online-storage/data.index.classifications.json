@@ -8,15 +8,6 @@
     "reasoning": "The content primarily discusses the features and services of SkyDrive, with no mention of Agile principles, product management, or related topics.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T10:51:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive, which does not align with the category focused on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T10:51:55",
@@ -53,49 +44,16 @@
     "reasoning": "Content primarily discusses the features and services of SkyDrive, with no focus on decision-making processes or related topics.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T10:52:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features of SkyDrive and related Windows Live services, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T10:52:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses SkyDrive and its features, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T10:52:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:52:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SkyDrive and its features, with no relevance to DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T10:52:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive, with no mention of AI, automation, or Agile methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses SkyDrive, a cloud storage service, with no direct mentions or relevant discussions about DevOps principles, practices, or cultural shifts. The focus is on features and integration of a specific product rather than on the collaborative and automated processes central to DevOps.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +76,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:52:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T10:52:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and integration of SkyDrive and other Windows Live services without reference to Agile or DevOps practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on SkyDrive and its features, with no mention or discussion of the Agile Product Operating Model or its principles. It does not align with any key topics related to APOM, such as product management or agile methodologies.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,10 +106,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T10:52:17",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and integration of SkyDrive services, without providing actionable installation or configuration instructions.",
     "level": "Ignored"
   },
@@ -172,37 +124,22 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:52:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T10:52:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive, with no focus on software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T10:52:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and updates of SkyDrive, lacking a focus on Agile, DevOps, or technology news and reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses SkyDrive's features and services without any reference to Evidence-Based Management principles or metrics. There are no mentions of data-informed decision-making, current value, or any other key topics related to EBM.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T10:52:23",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and services of SkyDrive, with no focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -235,19 +172,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T10:52:29",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and services of SkyDrive, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T10:52:30",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SkyDrive and its features, with no relevance to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -278,15 +215,6 @@
     "reasoning": "Content primarily discusses the features and services of SkyDrive without any personal reflections or experiences related to Agile, Scrum, DevOps, or business agility.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T10:52:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive without any focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T10:52:36",
@@ -294,15 +222,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SkyDrive and Windows Live services, with no mention of Azure DevOps or related functionalities.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T10:52:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive without addressing transparency or accountability principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +240,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and services of SkyDrive, with no mention of Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T10:52:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and functionalities of SkyDrive and related Windows Live services, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -424,10 +334,10 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-16T12:04:47",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses features of SkyDrive without any references to market share, competitive strategies, or methodologies to increase market presence.",
     "level": "Ignored"
   },
@@ -467,7 +377,7 @@
     "reasoning": "Content is primarily about SkyDrive and its features, with no focus on scaling Agile methodologies or related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:04:47",
     "ai_confidence": 0,
@@ -483,15 +393,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and integration of online storage services, with no reference to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and integration of SkyDrive, which is unrelated to Agile Project Management.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -665,24 +566,6 @@
     "reasoning": "Content primarily discusses the features of SkyDrive and its integration with other Windows Live services, with no reference to estimation techniques, Agile or Scrum practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses online storage services and features of SkyDrive, which do not relate to software development or Agile and DevOps methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about SkyDrive and related Windows Live services, with no reference to AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T12:04:47",
@@ -694,12 +577,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses SkyDrive and its integration with Windows Live services, which are related to the Windows operating system; however, it primarily focuses on the SkyDrive service rather than in-depth Windows-specific topics.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Windows Live services, including SkyDrive, which is integrated with the Windows environment. However, while it mentions Windows and its services, the focus is primarily on the features of SkyDrive rather than on installation, configuration, or troubleshooting of the Windows operating system itself. The discussion lacks depth in terms of Windows-specific operational guidance, which affects the overall confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -735,15 +621,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the features and integrations of SkyDrive, which is unrelated to Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is entirely focused on an online storage service and does not discuss Scaled Agile or related methodologies.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +661,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:04:47",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on features of SkyDrive and Windows Live services without discussing innovation practices, evidence-based management, or any related themes.",
     "level": "Ignored"
   },
@@ -865,10 +742,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T12:04:47",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses entirely on the features of SkyDrive and does not address the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
@@ -883,11 +760,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses SkyDrive and Windows Live services, which are unrelated to Continuous Delivery principles and practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses SkyDrive, an online storage service, with no direct mentions or relevant discussions about Continuous Delivery principles, practices, or tools. It lacks any focus on software delivery cycles, automation, or user feedback, which are essential aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -998,21 +878,12 @@
     "reasoning": "Content is primarily about a cloud storage service and does not discuss empirical process control or related Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses SkyDrive and Windows Live services, with no relevance to Scaling Kanban or its principles.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T12:04:47",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses Windows Live services and SkyDrive, with no mention or connection to Agile practices or the Definition of Ready.",
     "level": "Ignored"
   },
@@ -1045,11 +916,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:36:42",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on describing the SkyDrive service and its features, without any mention of Test First Development or related practices.",
+    "reasoning": "The content focuses entirely on the features and benefits of SkyDrive, a cloud storage service, without any mention or discussion of Test First Development principles, practices, or related topics.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1214,15 +1088,6 @@
     "reasoning": "Content focuses on online storage services and features of SkyDrive, without any discussion on deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the features of SkyDrive and other Windows Live services, with no reference to Scrum principles, product development methodologies, or any related discussions.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "calculated_at": "2025-02-16T12:04:47",
@@ -1234,11 +1099,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:04:47",
+    "calculated_at": "2025-04-08T19:36:44",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content discusses features of SkyDrive and various Windows Live services, with no mention of Scrum, Scrum Masters, or Agile methodologies.",
+    "reasoning": "The content is entirely focused on SkyDrive, a cloud storage service, and does not mention or discuss any aspects related to the role or responsibilities of a Scrum Master. There is no alignment with the key topics outlined for the Scrum Master category, nor is there any depth of discussion on the subject. Therefore, it does not meet the criteria for classification under this category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1138,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T12:04:47",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a cloud storage service and related features, with no mention of Agile values, principles, or methodologies.",
     "level": "Ignored"
   },
@@ -1284,15 +1152,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses online storage services and features of Windows Live, without any mention or relevance to Test Driven Development or its principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Windows Live services and online storage, with no relevant discussions regarding Scrum or scaling practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1190,6 @@
     "reasoning": "Content focuses on promoting SkyDrive and Windows Live services without discussing system configuration processes or methodologies.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:04:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses online storage services and features of SkyDrive, which is unrelated to scaling agility principles or practices.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T12:04:47",
@@ -1351,20 +1201,23 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T12:04:47",
+    "calculated_at": "2025-04-10T15:56:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses SkyDrive and online storage services, with no relevance to Continuous Integration principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:05:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and services of SkyDrive, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features of SkyDrive as a storage service, with minimal discussion on collaboration or decision-making frameworks. While it mentions integration with social platforms like Facebook and LinkedIn, it does not delve into the principles of self-organisation, collective intelligence, or value delivery that are central to the category of Social Technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1227,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and services of SkyDrive, with no relevance to leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:38:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses SkyDrive and its features, with no relevance to Internal Developer Platforms or their associated topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:38:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the features and services of SkyDrive, with no mention of Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses entirely on the features of SkyDrive and Windows Live services, which are unrelated to Scrum principles, practices, or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the features and services of SkyDrive, with no direct mention or alignment to the Shift-Left Strategy. It lacks any discussion on software development processes, testing, security, or compliance, which are central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features and functionalities of SkyDrive, with no direct mention or discussion of Continuous Improvement principles. It lacks alignment with the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The depth of discussion is minimal, as it does not explore any strategies or case studies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the features and benefits of SkyDrive, with no explicit mention of Common Goals, Agile, or DevOps principles. It lacks any discussion on alignment, shared objectives, or strategic frameworks, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the features and functionalities of SkyDrive, with no direct mention or discussion of competence, continuous learning, or skill development. It lacks alignment with the core themes of the competence category, focusing instead on product features and services.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the features and integration of SkyDrive with Windows Live services, with no explicit mention of Agentic Agility or its principles. It lacks any discussion on intentional shaping of outcomes, human or AI agency, or the transformative capacity of individuals and systems. The focus is on storage capabilities rather than agility or agency.",
     "level": "Ignored"
   }
 }

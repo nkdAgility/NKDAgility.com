@@ -10,29 +10,32 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T14:42:34",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of measuring understanding and the skills required for product owners, rather than focusing on metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T14:42:38",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the skills and responsibilities of a product owner, focusing on understanding and communication within a team, rather than installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T14:42:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in fostering understanding within a team, which relates to leadership in terms of communication and team dynamics, but it is primarily focused on the skills of the product owner rather than broader leadership practices.",
+    "final_score": 42.0,
+    "reasoning": "The content touches on the role of a product owner in facilitating understanding within a team, which aligns with leadership in fostering collaboration and communication. However, it lacks explicit discussions on broader leadership strategies or frameworks, and the depth of the discussion is limited to a specific skill rather than a comprehensive exploration of leadership practices.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -46,21 +49,27 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:42:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the subjective skills of product owners rather than empirical evidence or data-driven decision-making.",
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the interpersonal skills of product ownership and communication strategies rather than on evidence-based management principles. While it touches on the importance of understanding within teams, it lacks direct references to empirical metrics or data-informed decision-making, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T14:42:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides personal insights on the challenges of fostering understanding as a product owner, which aligns with personal reflections on Agile practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content provides personal insights into the challenges of ensuring understanding as a product owner, which aligns with the Personal category's focus on individual experiences and reflections. However, it lacks explicit mentions of Agile or Scrum frameworks, and while it touches on the importance of communication and team dynamics, it does not delve deeply into personal anecdotes or specific challenges faced in Agile transformations.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -69,24 +78,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the skills of product owners in fostering team clarity and understanding, without discussing Systems Thinking principles or methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:42:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of a product owner in fostering team understanding, which is unrelated to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:42:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges of measuring understanding and the skills needed for product owners, without a clear focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -98,22 +89,16 @@
     "reasoning": "Content primarily focuses on the skills of product owners in fostering team clarity, without a clear connection to market adaptability strategies or methodologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T14:42:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of a product owner in fostering team clarity and understanding, which aligns with the dynamics of team collaboration and communication.",
-    "level": "Secondary"
-  },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T14:42:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding team dynamics and communication, which relates to psychological aspects of organisational behaviour, but it primarily focuses on the role of a product owner rather than broader organisational psychology themes.",
+    "final_score": 42.0,
+    "reasoning": "The content touches on the importance of understanding and communication within a team, which aligns with themes of team dynamics and psychological safety. However, it lacks direct references to established psychological theories or a deeper exploration of organisational behaviour principles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -123,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of a product owner and the nuances of understanding within a team, which aligns with Agile principles.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:42:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the skills required for product owners rather than discussing news, updates, or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -145,11 +121,14 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T14:43:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a product owner in facilitating understanding within a team, which touches on team dynamics and communication, but does not primarily focus on the broader sociotechnical system interactions.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the role of a product owner in facilitating understanding within a team, which hints at the social aspects of team dynamics. However, it lacks explicit discussions on organisational structures, technology adoption, or the interplay between social and technical systems. The focus is more on individual skills rather than a comprehensive exploration of sociotechnical systems.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -163,21 +142,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T14:43:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of the Product Owner and the importance of understanding within the Agile framework, but it does not delve deeply into Agile methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:43:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the skills of product owners in facilitating understanding within teams, without addressing organisational resilience or change management.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions the role of the product owner, which is relevant to Agile Product Management. However, it lacks detailed discussion on Agile methodologies, prioritisation techniques, or stakeholder engagement. The focus is more on interpersonal skills rather than the strategic aspects of Agile product management.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -197,15 +170,6 @@
     "reasoning": "Content primarily focuses on the skills of product owners in facilitating understanding within teams, rather than discussing organisational agility or related strategies and practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:43:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the skills required for product owners to enhance team understanding, without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "calculated_at": "2025-02-17T14:43:12",
@@ -217,12 +181,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:43:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the skills of a product owner in fostering understanding within a team, rather than discussing specific frameworks or methodologies like Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding and communication within teams, which aligns with the principles of collaboration and decision-making in social technologies. However, it lacks direct mentions of social technologies and does not delve deeply into frameworks or methodologies that promote these concepts. The focus is primarily on the role of the product owner rather than broader organisational practices.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -260,30 +227,12 @@
     "reasoning": "Content primarily focuses on the skills of product owners in facilitating understanding within teams, rather than discussing principles or practices of business agility.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:43:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the skills and interpersonal aspects of a product owner rather than practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:43:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the skills required for product owners and does not discuss any specific events, presentations, or related topics.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:43:25",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the skills of a product owner in fostering team clarity, which is not directly related to the methodologies and practices of product delivery.",
     "level": "Ignored"
   },
@@ -294,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a product owner in facilitating understanding within a team, without addressing broader organisational agility or its implications.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:43:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the skills required for product owners rather than specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -316,39 +256,27 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:43:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the skills of product owners in fostering team clarity, without a clear emphasis on the Agile Product Operating Model or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team understanding and communication, which is relevant to product management. However, it lacks direct references to the Agile Product Operating Model and does not delve into its core principles or frameworks. While it touches on aspects of collaboration and team dynamics, it does not provide a comprehensive discussion on the APOM or its integration with agile methodologies.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:43:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner, which is a key aspect of the Scrum framework, but does not primarily focus on Scrum principles or practices.",
-    "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:43:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the skills required for product owners to enhance team understanding, which is not directly related to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on product ownership and communication strategies within teams, which are not directly related to DevOps principles. While there are elements of collaboration and team dynamics mentioned, they do not align with the core themes of DevOps such as automation, shared accountability, or continuous improvement. The discussion lacks depth in any DevOps-related topics, leading to a low confidence score.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:43:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding and communication within a team, which relates to learning and adapting. However, it primarily focuses on the role of the product owner rather than broader discovery and learning methodologies.",
-    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -357,15 +285,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the skills required for product owners to foster team clarity, which does not directly relate to the optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:43:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the skills required for product owners and does not discuss the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -379,11 +298,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:26:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in fostering team clarity, which is a significant aspect of product management, but it does not delve deeply into strategic alignment or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the role of a product owner, which is relevant to product management, but lacks explicit discussions on methodologies, frameworks, or strategic alignment with business objectives. The focus is more on interpersonal skills rather than the strategic aspects of product management.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -415,20 +337,26 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product owners and communication skills in fostering understanding within a team, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team communication and understanding, which does not directly address Continuous Delivery principles or practices. While there are elements of team dynamics that could tangentially relate to software delivery, the core themes of Continuous Delivery, such as automation, rapid feedback, and incremental improvements, are not discussed. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the skills required for product owners to foster understanding within teams, which is unrelated to Test First Development practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team understanding and communication. It does not explicitly mention Test First Development or its principles, nor does it discuss success criteria, testing practices, or the impact of testing on collaboration. The content is more aligned with general product ownership and team dynamics rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -523,20 +451,26 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the skills and responsibilities of a Product Owner, specifically in fostering team clarity and understanding, which aligns well with the Product Owner's role.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the role of a Product Owner, focusing on skills necessary for fostering team understanding and communication. It aligns well with key topics such as stakeholder engagement, collaboration with development teams, and the importance of understanding customer needs. The depth of discussion is substantial, providing practical strategies and insights relevant to the Product Owner's responsibilities. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:18:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the concept of understanding and communication skills for product owners, with no clear mention or discussion of Lead Time.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of understanding within product ownership, discussing communication strategies and team dynamics. It does not mention Lead Time or its importance as an observability metric, nor does it explore its relationship with Cycle Time or any techniques for measuring or optimising Lead Time. The discussion is more about interpersonal skills rather than process efficiency, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -550,12 +484,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on understanding within the team context, which relates to fostering clarity and communication, important aspects of team motivation, but it is primarily focused on the role of the product owner rather than team motivation in a broader sense.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses strategies for fostering understanding and communication within teams, which aligns with team motivation principles. It highlights the importance of creating a safe space for dialogue and encourages team engagement through open-ended questions and regular check-ins. However, while it touches on team dynamics, the primary focus is on communication skills rather than broader motivational strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -568,21 +505,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses skills necessary for product owners to improve team dynamics and understanding, which aligns with coaching principles, but primarily focuses on the role of the product owner rather than coaching itself.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the skills necessary for product owners to foster team clarity and does not discuss Kanban principles or scaling Kanban methodologies.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding within teams and highlights strategies for fostering communication and a safe environment, which aligns well with coaching principles. It mentions techniques like reading body language and asking open-ended questions, which are relevant to effective coaching. However, while it touches on coaching aspects, it primarily focuses on the role of a product owner rather than a coach, leading to a slightly lower depth score.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -613,10 +544,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:35:14",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on understanding and communication skills for product owners, without discussing validation methodologies or practices related to product ideas.",
     "level": "Ignored"
   },
@@ -640,12 +571,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses skills for product owners that could relate to mentoring in understanding team dynamics and communication, but it mainly focuses on product ownership rather than mentoring directly.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding within teams and offers strategies for product owners to enhance communication and team dynamics. While it touches on aspects relevant to mentoring, such as fostering a safe space for questions and encouraging dialogue, it primarily focuses on the role of a product owner rather than the mentoring process itself. The direct mentions of mentoring are minimal, and the depth of discussion does not fully explore the mentoring relationship or techniques for effective coaching.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -667,30 +601,39 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a product owner's role in facilitating understanding within a team, which is an important aspect of team collaboration, but it does not primarily focus on collaboration techniques or Agile principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding within a team context, which is relevant to team collaboration. However, it primarily focuses on the role of the product owner and does not delve deeply into broader team dynamics or collaboration techniques. While it touches on communication and understanding, it lacks specific strategies or examples related to Agile, Scrum, or DevOps frameworks.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the importance of understanding and communication within a team context, which relates to fostering a psychologically safe environment. However, it primarily focuses on the skills of a product owner rather than directly addressing psychological safety as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of creating a safe space for team members to express their lack of understanding, which aligns with the concept of psychological safety. It mentions strategies for fostering open communication and encourages team members to ask questions without fear of judgement. However, while it touches on psychological safety, the primary focus is on understanding and communication skills rather than a deep exploration of psychological safety itself.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding and communication within a team, which relates to sensemaking; however, it primarily focuses on the role of a product owner rather than a broader exploration of sensemaking as a primary topic.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding within teams, which aligns with sensemaking principles. It highlights strategies for fostering communication and awareness of team dynamics, which are crucial for navigating complexity. However, while it touches on sensemaking, it primarily focuses on practical skills for product owners rather than a comprehensive exploration of sensemaking frameworks or models.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -739,20 +682,11 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:35:14",
+    "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the interpersonal skills of product owners rather than specific methodologies or frameworks related to product strategy.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of product owners and team dynamics, without addressing scaling agile practices or frameworks.",
+    "reasoning": "Content primarily focuses on the interpersonal skills of product owners rather than specific methodologies or frameworks related to product strategy.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -766,30 +700,27 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of a Product Owner and their importance in fostering understanding within the Scrum Team, indicating a secondary theme related to team dynamics.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in fostering understanding within the team, which aligns with the Scrum framework. It discusses communication strategies, creating a safe space for dialogue, and the importance of team dynamics, all of which are relevant to Scrum Team effectiveness. However, it lacks explicit mentions of Scrum roles beyond the Product Owner and does not delve deeply into other aspects of team collaboration or dynamics, which slightly limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of a Product Owner and skills to enhance team understanding, rather than focusing on the responsibilities and practices of a Scrum Master.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner rather than a Scrum Master. While it touches on team dynamics and communication, which are relevant to Scrum, it does not explicitly discuss the responsibilities or impact of a Scrum Master. The discussion lacks depth in terms of Scrum-specific practices and the unique role of a Scrum Master in facilitating team effectiveness.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content is primarily focused on the skills needed for a Product Owner, it does touch on elements relevant to Scrum product development, such as team clarity and communication. However, it lacks a comprehensive discussion on Scrum principles and practices.",
-    "level": "Tertiary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -802,11 +733,14 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding and communication for product owners, which relates to understanding customer needs and fostering clarity in product development, but it does not directly address methods or practices specifically related to product discovery.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding within teams, which is relevant to product ownership and indirectly relates to product discovery. However, it primarily focuses on communication strategies and team dynamics rather than specific methodologies for identifying customer needs or defining product features. While it touches on aspects of fostering understanding that could aid in product discovery, it lacks direct discussions on user research, feature prioritisation, or validation frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -825,15 +759,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the challenges of measuring understanding in a team and the skills needed for product owners to foster clarity, which does not involve hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the skills of a product owner and the nuances of understanding within a team, without any reference to scaling Agile practices, frameworks, or coordination among multiple teams.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -863,7 +788,7 @@
     "reasoning": "Content primarily focuses on the skills required for product owners and understanding team dynamics, with no mention of automated testing.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:35:14",
     "ai_confidence": 0,
@@ -890,15 +815,6 @@
     "reasoning": "Content focuses on understanding and communication skills for product owners, without specific reference to remote work or Agile methods related to remote teamwork.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the skills of product owners in fostering team understanding, which does not pertain to scaling Scrum principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Organisational Physics": {
     "category": "Organisational Physics",
     "calculated_at": "2025-02-17T23:35:14",
@@ -910,11 +826,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:15:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the skills of a product owner in fostering team clarity, which is not directly related to measuring or optimizing throughput.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of understanding within teams and product ownership, without any direct mention or analysis of throughput as a delivery metric. While it discusses communication and team dynamics, it does not align with the core themes of throughput, such as measuring work items completed over time or visualising throughput metrics. The discussion lacks depth regarding throughput, making it clear that this content does not fit the category.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -937,10 +856,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:35:14",
+    "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the skills required for Product Owners to foster team understanding and clarity rather than addressing the specifics of Definition of Ready.",
     "level": "Ignored"
   },
@@ -982,10 +901,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:35:14",
+    "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of measuring understanding and the skills required for product owners, without clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -1036,10 +955,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:35:14",
+    "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not focus on Lean principles or waste reduction; instead, it emphasizes the skills needed for product owners without any mention of Lean Product Development concepts.",
     "level": "Ignored"
   },
@@ -1099,19 +1018,22 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner in fostering understanding within the team, which relates to team dynamics and communication, although it does not directly focus on measurable performance or practices explicitly tied to Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses strategies for fostering understanding and communication within teams, which aligns well with the core themes of team performance. It explicitly mentions techniques for reading team dynamics, encouraging open dialogue, and creating a safe space for communication, all of which are crucial for enhancing collaboration and trust. While it does not delve deeply into metrics or specific Agile ceremonies, the focus on communication and team dynamics supports the overall goal of maximising team effectiveness.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:35:14",
+    "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on understanding and communication skills for product owners, with no clear reference to the Definition of Done.",
     "level": "Ignored"
   },
@@ -1122,15 +1044,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a product owner in enabling understanding within a team, which is unrelated to Continuous Integration principles and practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses skills for product owners and team dynamics, without a focus on AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1144,30 +1057,12 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:35:14",
+    "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the role of product owners in fostering clarity, which does not specifically address Agile values or principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of product owners and their skills, which is not directly related to software developers' roles in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the role of the Product Owner and discusses the importance of fostering understanding within a team, which aligns with agile principles. However, it does not delve into other key aspects of agile methodologies, making it a secondary theme.",
-    "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -1180,20 +1075,23 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:35:14",
+    "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the soft skills required for Product Owners and does not address the Product Backlog or its management directly.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:15:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the roles and responsibilities of a product owner in a Scrum context, which is unrelated to system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on product ownership and communication strategies rather than system configuration. There are no direct mentions of system configuration topics such as configuration management tools, system optimisation, or integration of hardware and software. While there is a slight conceptual alignment in terms of fostering understanding within a team, it does not delve into the technical aspects or best practices related to system configuration. The depth of discussion is also minimal regarding the category, as it lacks any detailed exploration of system setup or maintenance.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1279,12 +1177,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the importance of understanding within a team and the role of communication which relates to team dynamics and culture, but it does not primarily focus on organisational culture.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding within teams, which indirectly relates to organisational culture by highlighting team dynamics and communication. However, it primarily focuses on the role of the product owner and specific strategies for fostering understanding rather than a broader examination of organisational culture itself. While there are mentions of creating a safe space and encouraging dialogue, the content lacks a comprehensive exploration of cultural dimensions that support Agile practices or the impact of culture on team dynamics, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1297,12 +1198,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:35:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses skills specific to the Product Owner role and emphasizes the need for effective communication and understanding within a Scrum context, but does not delve deeply into Scrum principles, roles, or practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner and the importance of fostering understanding within a team, which aligns with Scrum principles. However, it lacks direct references to specific Scrum events or artifacts, and while it discusses relevant skills, it does not delve deeply into the Scrum framework itself.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1374,6 +1278,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the skills needed for product owners to foster understanding within teams, without any focus on asynchronous development principles or practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:45:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the role of product owners and understanding within teams, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:45:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the skills required for product owners to enhance team understanding, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 55.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 55.0,
+    "reasoning": "The content briefly mentions the role of the Product Owner, which is a key aspect of the Scrum framework. However, it lacks detailed discussion on Scrum events, principles, or practices, focusing instead on the nuances of communication and understanding within the team. While it aligns conceptually with the importance of team dynamics and collaboration, it does not provide in-depth insights into Scrum methodologies or practices.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of product owners in fostering understanding and communication within teams, which does not directly address the Shift-Left Strategy. While there are elements of collaboration and communication that could tangentially relate to early integration of processes, the core themes of testing, security, and compliance are absent. The discussion lacks explicit mentions of Shift-Left principles or techniques, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses skills for product owners that can indirectly support team effectiveness and communication, which are relevant to Continuous Improvement. However, it lacks direct references to Continuous Improvement principles, empirical evidence, or structured methodologies. The focus is more on personal skills and team dynamics rather than systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding and communication within teams, which is relevant to fostering alignment and shared objectives. However, it does not explicitly mention Common Goals or connect to Agile and DevOps principles in a direct manner. The focus is more on personal skills and strategies rather than on the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding and communication within teams, which indirectly relates to competence. However, it primarily focuses on interpersonal skills and team dynamics rather than explicitly addressing continuous learning or skill development. While there are mentions of fostering a safe space for questions and tailoring communication, these do not delve deeply into the core themes of competence as defined in the category. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:05:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team communication and understanding, which does not directly address the principles or components of the One Engineering System. While there are elements of team dynamics that could tangentially relate to collaboration, the discussion lacks explicit references to 1ES, its integration of tools and processes, or best practices for its implementation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding and communication within teams, which touches on aspects of agency and adaptability. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is primarily on interpersonal skills rather than the broader implications of agency in socio-technical environments.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:14:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content focuses on essential skills for product owners, particularly in fostering team understanding and communication, which are crucial aspects of product development. It discusses the importance of reading team dynamics, tailoring communication, and creating a safe environment for dialogue, all of which align with Agile principles and the role of cross-functional teams. However, while it touches on relevant themes, it lacks a deeper exploration of methodologies or practices that facilitate iterative learning and customer feedback, which are central to the category. Therefore, the confidence score reflects a strong alignment with the category but acknowledges the need for more depth in discussing product development methodologies.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:14:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses skills for product owners that relate to team dynamics and communication, which are relevant to the principles of Liberating Structures. However, it does not explicitly mention Liberating Structures or specific techniques associated with them. The focus is more on general communication strategies rather than the facilitation techniques that enhance participation and collaboration as outlined in the category description.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:14:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the role of a product owner and communication strategies within a team, which are relevant to project management but do not encompass the broader principles or methodologies of project management itself. While it touches on aspects of team dynamics and understanding, it lacks direct mentions of project management methodologies, lifecycle phases, or tools. The discussion is more about interpersonal skills than project management strategies, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:15:01",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of understanding and communication within a team, which aligns with some principles of Open Space Agile, such as fostering a safe space for dialogue. However, it does not explicitly mention Open Space Agile or its core tenets, nor does it delve into the specific practices or challenges associated with this methodology. The focus is primarily on product ownership rather than organisational agility or collaborative change processes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:15:03",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team understanding and communication. While it touches on the importance of fostering an environment for open dialogue, it does not explicitly discuss Unrealised Value or its indicators, nor does it explore potential improvements or innovations within the context of Evidence-Based Management. The discussion lacks depth regarding the concept of Unrealised Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:15:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team understanding and communication. While these aspects can indirectly influence Time to Market by improving team dynamics, there is no direct mention of Time to Market or its associated metrics. The discussion lacks a clear connection to the core themes of Time to Market, such as process optimisation or delivery efficiency, and does not provide detailed insights into how these skills impact the speed of delivering value to customers.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:15:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team understanding and communication. While it touches on the importance of team dynamics and communication, it does not explicitly discuss Current Value or its metrics, nor does it provide insights into customer satisfaction or revenue impact. The discussion lacks depth in relation to the core themes of Current Value, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:15:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team communication and understanding. While it touches on aspects of collaboration and team dynamics, it does not explicitly discuss the concept of 'Company as a Product' or its core themes such as organisational design, customer feedback integration, or cross-functional collaboration in a broader context. The discussion is more centred on individual roles and interpersonal skills rather than the organisational strategy of CaaP.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:15:14",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the skills of product ownership and fostering understanding within a team, which are important for team dynamics but do not directly address the complexities of scaling Agile practices or frameworks. While there are mentions of team communication and dynamics, these are not explored in the context of scaling methodologies or cross-team collaboration, which are central to the 'Scaling' category. The discussion lacks depth in terms of strategies for scaling or managing dependencies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:15:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team understanding and communication. It does not explicitly mention Hybrid Agile or discuss its characteristics, challenges, or implications. While there are elements of agile practices in the discussion, such as fostering communication and understanding, these are not critically examined in the context of Hybrid Agile. Therefore, the content does not align well with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:15:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product ownership, particularly around fostering understanding within teams. While it touches on aspects of communication and team dynamics, it does not explicitly mention Agnostic Agile principles or discuss its core themes. The discussion lacks depth regarding the application of Agnostic Agile concepts, making it more aligned with general product ownership rather than the specific category of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:15:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners in fostering team understanding and communication. It does not mention GitHub or its functionalities, nor does it discuss any GitHub-related practices or tools. While it touches on concepts relevant to Agile and team dynamics, these are not specifically tied to GitHub, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:15:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance team understanding and communication. It does not directly mention or discuss the principles of Cell Structure Design, nor does it align with the core themes of decentralised organisational structures or autonomous cells. While there are elements of team dynamics and communication that could tangentially relate to self-organisation, the overall focus is on product ownership rather than the specific organisational design model outlined in the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:36",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses effective communication and team dynamics, which are important for product owners. It mentions elements like fostering a safe space and promoting curiosity, which can be seen as actionable principles related to team collaboration and understanding. However, it lacks direct mention of core principles of Agile, Lean, or DevOps, focusing more on general skills and concepts rather than specific guiding principles.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses essential skills for product owners that foster team understanding and communication but does not specifically address any tools, software, or mechanisms that support these practices. The mention of 'tools' is very general and not related to specific software or practical applications that align with Agile, Lean, or DevOps. The focus is on communication skills rather than tool usage, which diminishes the alignment with the category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:36",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content focuses on the importance of understanding and communication in product ownership, which touches on values like openness and fostering a supportive team environment. However, it does not explicitly connect to specific organizational values or frameworks like Agile or Scrum. The discussions of team dynamics and safe spaces for communication suggest an alignment with values, but do not delve deeply into philosophical foundations or the influence of values on decision-making. Overall, while the category of 'Values' is mentioned and there's a conceptual link, the discussion lacks sufficient depth and explicit connection to core values frameworks to score higher.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:36",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content mainly discusses practical skills for product ownership and emphasizes communication and team dynamics, which touches on aspects relevant to philosophical discussions. However, it does not explicitly engage with philosophical frameworks or the foundational beliefs behind Agile, DevOps, or Lean methodologies. The primary focus is on 'how to' approaches and personal strategies rather than on the deeper 'why' and 'what' that define those philosophies.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the role of communication skills and understanding within product ownership, which pertains to Agile methodologies. However, it focuses primarily on practical skills and personal interactions rather than a structured exploration of the discipline itself or its principles. The mention of working within teams and fostering understanding is relevant but lacks a deep connection to the characteristics or governance structures of the discipline. Overall, it aligns with the category only tangentially and does not delve into the systematic application or evolution of a discipline.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:37",
+    "ai_confidence": 22.0,
+    "ai_mentions": 2,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content centers around the skills of a product owner and the importance of communication in fostering team understanding, which is peripheral to the concept of artifacts. While it mentions aspects of team dynamics and communication, it does not focus on tangible artifacts or their structural roles in Agile frameworks. The references to 'understanding' and 'communication' are abstract and do not tie back to specific artifacts like Product Backlog or Sprint Backlog, leading to a low confidence rating.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:37",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on fostering understanding among team members and effective communication in product ownership, with no explicit mention of observability concepts or metrics. While there are indirect references to team dynamics and communication, these do not align with the principles of observability, such as metrics, logs, and traces, nor does it discuss tools for measuring internal states of systems. The depth of the discussion on related themes such as team understanding is minimal and does not significantly contribute to the observability category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:37",
+    "ai_confidence": 37.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content discusses skills essential for product owners, focusing on communication and team dynamics. While it does mention practices like fostering a safe environment and encouraging dialogue, these are not strong actionable techniques that directly relate to improving team performance in the context of the specified category of 'Practice'. The emphasis is more on interpersonal skills rather than repeatable actions or techniques specifically designed to enhance effectiveness or collaboration within a structured framework of practices like TDD or retrospectives.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:37",
+    "ai_confidence": 28.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 28.0,
+    "reasoning": "The content focuses heavily on the interpersonal skills necessary for product ownership rather than structured, step-by-step procedures related to specific methods like Scrum or Kanban. It promotes understanding and communication within teams, which aligns more with soft skills than with methodical approaches. There are few mentions of techniques or frameworks, and while concepts of teamwork and clarity are discussed, they lack procedural depth associated with methods in Agile or Lean contexts.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:37",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on the personal skills of product ownership and fostering understanding within a team, rather than discussing conceptual models, frameworks, or decision-making processes relevant to Agile, DevOps, or Lean. There are no direct mentions of models or frameworks, and while fostering understanding is related to team effectiveness, it does not explore any specific models that inform decision-making or systems thinking.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content discusses essential skills for product owners and emphasizes communication within teams, it lacks explicit references to specific frameworks like Agile, Scrum, or any structured methodologies. The discussion on understanding and communication makes only a tangential connection to the concept of frameworks, focusing more on personal skills than on how defined frameworks can be adapted or applied in a structured way.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:37",
+    "ai_confidence": 20.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on the skills of product ownership and communication within teams, emphasizing the importance of understanding rather than discussing specific tenets that guide decision-making in Agile or related methodologies. While it mentions principles that could be seen as indirectly aligning with Agile practices, such as fostering an environment of openness and communication, it lacks explicit tenets or actionable guiding rules that are characteristic of the 'Tenet' category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 3,
+    "ai_alignment": 7,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance understanding within their teams, which pertains to individual competencies rather than the broader organizational capabilities outlined in the 'Capability' category. Although it references aspects of team dynamics and communication that could contribute to capabilities, it lacks a direct discussion on enduring competencies or organizational practices. The depth of discussion is also limited to personal skills without connecting them to long-term organizational capabilities.",
     "level": "Ignored"
   }
 }

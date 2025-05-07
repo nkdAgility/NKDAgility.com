@@ -2,8 +2,10 @@
 title: What are the hierarchies of competence vs control?  Why does this matter?
 description: Explore the contrast between empowering coaching and micromanagement in hierarchies of competence vs control with Martin Hinshelwood.
 date: 2023-04-13T14:25:06Z
+weight: 1000
 ResourceId: AaCM_pmZb4k
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: AaCM_pmZb4k
@@ -15,39 +17,31 @@ preview: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
 duration: 567
 isShort: false
 aliases:
-- /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
-- /resources/what-are-hierarchies-of-competence-vs-control
-- /resources/videos/what-are-hierarchies-of-competence-vs-control-
-- /resources/videos/AaCM_pmZb4k
-- /resources/what-are-hierarchies-of-competence-vs-control-
 - /resources/AaCM_pmZb4k
-aliasesFor404:
+- /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
+- /resources/videos/what-are-hierarchies-of-competence-vs-control
+aliasesArchive:
+- /resources/videos/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 - /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 - /resources/what-are-hierarchies-of-competence-vs-control
 - /resources/videos/what-are-hierarchies-of-competence-vs-control-
 - /resources/what-are-hierarchies-of-competence-vs-control-
+- /resources/videos/what-are-hierarchies-of-competence-vs-control
+- what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Organisational Physics
-- Organisational Culture
+- Competence
 - Sociotechnical Systems
-- Organisational Change
-- Decision Making
-- Market Adaptability
-- Business Agility
-- Enterprise Agility
+- Organisational Agility
 resourceTypes:
 - video
 categories:
-- DevOps
-- Product Management
-- Leadership
+- Uncategorized
 
 ---
-## Hierarchies of Competence Vs Control: Insights & Relevance
+## Hierarchies of [Competence]({{< ref "/tags/competence" >}}) Vs Control: Insights & Relevance
 
 Have you ever wondered about the difference between hierarchies of competence and control?
 
@@ -65,7 +59,7 @@ Basically, it's an It's a system where everyone's told what to do.
 
 This means decision-making is a long process of escalation, often leading to delayed and possibly inefficient responses. 📚
 
-On the other hand, we have the _Hierarchy of Competence_, which is a model where leadership changes based on the task at hand and the competence required for it. This is all about flipping the traditional hierarchy on its head.
+On the other hand, we have the _Hierarchy of Competence_, which is a model where [leadership]({{< ref "/categories/leadership" >}}) changes based on the task at hand and the competence required for it. This is all about flipping the traditional hierarchy on its head.
 
 In this model, leaders emerge based on their understanding or ability within a particular context. It's a hierarchy created based on competence, allowing for dynamic changes in leadership as per the task at hand.
 

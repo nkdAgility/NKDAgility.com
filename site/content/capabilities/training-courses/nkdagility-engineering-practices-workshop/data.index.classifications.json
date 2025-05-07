@@ -1,29 +1,35 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:30:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions agile software engineering, which is related to the Agile methodology, but does not focus primarily on Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions agile software engineering practices, which are related to social technologies, but it lacks a direct focus on collaboration, decision-making, or value delivery. The discussion is primarily centred on technical practices rather than the underlying social frameworks that promote teamwork and adaptability. Therefore, while there is some alignment, it is not substantial enough to warrant a higher confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T00:30:24",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a workshop focused on agile software engineering practices, which aligns with the principles of software craftsmanship and development practices, but does not delve deeply into specific engineering excellence topics.",
     "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:30:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile software engineering and ALM practices, which are not central to DevOps discussions.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile software engineering and ALM practices, which are not directly aligned with the core principles of DevOps. While there is a mention of practices that could relate to DevOps, the discussion lacks depth and does not explicitly address key DevOps themes such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -82,29 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T00:30:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an engineering practices workshop without any mention of Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T00:30:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile software engineering and ALM practices without a clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T00:30:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile software engineering and ALM practices without any mention of Kanban principles or scaling.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile software engineering and ALM practices without any explicit mention of Evidence-Based Management principles or metrics. It lacks a direct discussion on data-informed decision-making or the core themes outlined in the EBM category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,10 +109,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T00:30:40",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions 'agile software engineering' but does not focus primarily on Agile frameworks or their principles.",
     "level": "Tertiary"
   },
@@ -152,15 +143,6 @@
     "reasoning": "Content primarily focuses on a workshop for agile software engineering and ALM practices, without discussing trend analysis or its implications.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T00:30:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on an engineering practices workshop without any reference to scaling Agile methodologies or frameworks.",
-    "level": "Ignored"
-  },
   "Test Automation": {
     "category": "Test Automation",
     "calculated_at": "2025-02-18T00:30:47",
@@ -172,10 +154,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T00:30:50",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions agile software engineering practices, which aligns with the category, but it is primarily focused on a workshop format rather than in-depth discussions on technical mastery.",
     "level": "Tertiary"
   },
@@ -217,30 +199,21 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-18T00:30:56",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile software engineering and ALM practices, which are not directly related to Site Reliability Engineering principles.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T00:30:58",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions agile software engineering, which is relevant to product delivery, but it primarily focuses on a workshop format rather than the end-to-end process of delivering software products.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T00:30:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses agile software engineering and ALM practices without any mention of AI or its applications.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +224,6 @@
     "reasoning": "Content primarily focuses on agile software engineering and ALM practices, which are not directly related to the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T00:31:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions agile software engineering, which relates to team dynamics and collaboration, but it primarily focuses on a workshop format rather than in-depth discussions on people and processes.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-18T00:31:04",
@@ -267,15 +231,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a workshop for agile software engineering and ALM practices without specific mention of Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T00:31:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on an engineering practices workshop without a clear emphasis on agile project management principles or methodologies.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -296,15 +251,6 @@
     "reasoning": "Content primarily focuses on an engineering practices workshop without discussing accountability or team dynamics in Agile.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T00:31:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an engineering practices workshop without addressing transparency or accountability.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-18T00:31:11",
@@ -312,15 +258,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile software engineering and ALM practices without a clear emphasis on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T00:31:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile software engineering and ALM practices without discussing the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -352,37 +289,40 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T00:31:19",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an engineering practices workshop without specific discussions on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T00:31:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on engineering practices and does not discuss the role or responsibilities of a Scrum Master.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions agile practices, which could relate to the Scrum framework, but it does not explicitly discuss the role or responsibilities of a Scrum Master. The focus is more on engineering practices rather than the Scrum Master’s influence or techniques, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T00:31:21",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on engineering practices and training rather than Agile Planning methodologies.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T00:31:22",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an engineering practices workshop without a clear emphasis on Agile values or principles.",
     "level": "Ignored"
   },
@@ -397,11 +337,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T00:31:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a workshop on agile software engineering without a clear focus on Test First Development principles or practices.",
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions agile software engineering practices but does not explicitly discuss Test First Development or its principles. There is no focus on success criteria, testing methodologies, or the impact of Test First on collaboration, which are core themes of the category. The overall discussion is too general and lacks depth in relation to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -469,19 +412,19 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T00:31:36",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions agile software engineering, which is related to Agile practices, but the primary focus is on a workshop format rather than a comprehensive discussion on Agile transformation.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T00:31:37",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions agile software engineering and ALM practices, indicating a major but secondary theme related to Engineering Practices, but lacks specific details on the core principles.",
     "level": "Tertiary"
   },
@@ -502,24 +445,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on engineering practices and training, with no direct discussion of Scrum Values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T00:31:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile software engineering and ALM practices, with no clear discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T00:31:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions agile software engineering practices, which aligns with the category, but lacks specific tools or methodologies.",
-    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -548,15 +473,6 @@
     "reasoning": "Content primarily focuses on a workshop for agile software engineering and does not include personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T00:31:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a workshop focused on agile software engineering, which aligns with the category of events and presentations.",
-    "level": "Secondary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "calculated_at": "2025-02-18T00:31:56",
@@ -584,15 +500,6 @@
     "reasoning": "Content primarily focuses on agile software engineering and ALM practices without specific reference to Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T00:32:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an engineering practices workshop, which is centred around agile software engineering and ALM practices, without discussing scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-18T00:32:02",
@@ -613,11 +520,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T00:32:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile software engineering and ALM practices without a clear focus on Continuous Delivery principles or methodologies.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions agile software engineering and ALM practices, but it does not explicitly discuss Continuous Delivery principles or practices. The focus is more on general software engineering rather than the specific aspects of Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -665,7 +575,7 @@
     "reasoning": "Content is primarily focused on an engineering practices workshop and does not discuss the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T00:32:13",
     "ai_confidence": 0,
@@ -683,15 +593,6 @@
     "reasoning": "Content primarily discusses agile software engineering and ALM practices, with no mention of Windows or related topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T00:32:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a workshop focused on agile software engineering, which may include elements of learning and discovery, but it primarily centres on engineering practices without a clear emphasis on methodologies that foster innovation or continuous learning.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-18T00:32:17",
@@ -703,11 +604,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T00:32:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on engineering practices and training rather than the Agile Product Operating Model.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions agile software engineering practices, which are related to agile methodologies but does not explicitly discuss the Agile Product Operating Model or its core principles. The focus is more on engineering practices rather than product management or the transition to a product-oriented mindset.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -775,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T00:32:29",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an engineering practices workshop without discussing metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -809,15 +713,6 @@
     "reasoning": "Content primarily focuses on a workshop for engineering practices without discussing mentoring or coaching techniques.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T00:32:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile software engineering and ALM practices without any mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T00:32:36",
@@ -838,19 +733,19 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T00:32:40",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a workshop for agile software engineering and ALM practices without specific emphasis on operational efficiency or methodologies.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T00:32:41",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an engineering practices workshop without a clear emphasis on Agile philosophy or its foundational principles.",
     "level": "Ignored"
   },
@@ -883,10 +778,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T00:32:47",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses a workshop aimed at enhancing skills in agile software engineering, which aligns with the theme of Continuous Learning, but it does not explicitly focus on the principles or practices of Continuous Learning.",
     "level": "Tertiary"
   },
@@ -919,10 +814,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T00:32:52",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on engineering practices and training, with no clear emphasis on Agile product management principles or practices.",
     "level": "Ignored"
   },
@@ -944,15 +839,6 @@
     "reasoning": "Content primarily focuses on agile software engineering and ALM practices, with no direct relation to Value Stream Management.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T00:33:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile software engineering and ALM practices without any specific mention of scaling Scrum or related frameworks.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-18T00:33:05",
@@ -960,15 +846,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile software engineering and training without addressing the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T00:33:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a workshop on agile software engineering rather than specific products or literature.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,10 +868,10 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T00:33:11",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions agile software engineering, which is relevant to pragmatic thinking, but it does not delve deeply into practical problem-solving strategies or real-world applications.",
     "level": "Tertiary"
   },
@@ -1018,19 +895,19 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T00:33:15",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile software engineering practices, which are relevant to the delivery of working software, but it does not focus primarily on the characteristics or delivery of functional software.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-18T00:33:16",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses agile software engineering and ALM practices without a direct connection to platform engineering.",
     "level": "Ignored"
   },
@@ -1063,10 +940,10 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T00:33:20",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "Content primarily focuses on agile software engineering practices, which are central to the Software Development category.",
     "level": "Secondary"
   },
@@ -1115,15 +992,6 @@
     "reasoning": "Content primarily focuses on an engineering practices workshop without discussing cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T00:33:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions agile software engineering, which is relevant to software developers, but it does not delve deeply into specific practices or methodologies central to the role of developers in Agile and DevOps contexts.",
-    "level": "Tertiary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-18T00:33:31",
@@ -1144,10 +1012,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T00:33:34",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile software engineering and ALM practices, without specific discussions on installation or configuration.",
     "level": "Ignored"
   },
@@ -1158,15 +1026,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on engineering practices and does not address the responsibilities or skills of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T00:33:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a workshop for engineering practices without discussing news, updates, or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1180,19 +1039,19 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T00:33:39",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions agile software engineering practices, which aligns with the category, but does not delve deeply into specific technical methodologies or principles.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T00:33:40",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions ALM practices in the context of an engineering workshop, indicating a secondary theme related to Application Lifecycle Management.",
     "level": "Tertiary"
   },
@@ -1207,10 +1066,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T00:33:42",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on engineering practices and training, with no clear emphasis on leadership roles or Agile leadership principles.",
     "level": "Ignored"
   },
@@ -1252,11 +1111,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T00:33:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on agile software engineering and ALM practices without specific reference to Scrum principles, roles, or events.",
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions 'agile software engineering practices' but does not explicitly discuss Scrum principles, roles, events, or artifacts. The focus appears to be on general agile practices rather than specifically on Scrum, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1295,15 +1157,6 @@
     "reasoning": "Content primarily discusses agile software engineering and ALM practices, which are not directly related to product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T00:33:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile software engineering and ALM practices without specific reference to Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-18T00:33:58",
@@ -1324,10 +1177,10 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T00:34:00",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on engineering practices and training rather than strategic alignment or implementation of Agile methodologies.",
     "level": "Ignored"
   },
@@ -1351,10 +1204,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T00:34:04",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile software engineering practices, which are related to organisational agility, but the primary focus is on a workshop format rather than a deep exploration of agility principles.",
     "level": "Tertiary"
   },
@@ -1374,6 +1227,102 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile software engineering and ALM practices, which are not directly related to Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on agile software engineering and ALM practices without any explicit mention or discussion of Artificial Intelligence. While it may touch on methodologies relevant to software development, it does not explore AI's role or applications within these contexts, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on agile software engineering and ALM practices, with no direct mention of Internal Developer Platforms. While it may touch on topics relevant to software development, it lacks the core themes and depth required to align with the IDP category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions agile software engineering practices but does not explicitly discuss the Shift-Left Strategy or its core themes. The focus is more on general engineering and ALM practices without delving into the integration of testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions agile software engineering practices, which can relate to Continuous Improvement, but it lacks explicit discussions on the principles of Continuous Improvement. The focus is more on a workshop format rather than a deep exploration of continuous improvement methodologies or strategies. Therefore, while there is some alignment, it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions agile software engineering practices, which could relate to Common Goals, but it lacks explicit discussion on shared objectives or alignment within teams. The focus is more on skills enhancement and practical demonstrations rather than the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content mentions enhancing skills and includes a workshop focused on agile software engineering practices, which aligns with the theme of continuous learning. However, it lacks explicit discussions on competence as a foundational principle, and the depth of exploration into strategies for fostering a culture of competence is minimal.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions agile software engineering practices, which are related to the broader field of software development but do not specifically address the One Engineering System framework or its principles. There is no direct mention of 1ES, and the discussion lacks depth regarding integration, standardisation, or best practices specific to 1ES. Overall, the content does not align closely with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on agile software engineering and ALM practices without explicitly discussing Agentic Agility or its core themes. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion lacks depth and does not differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

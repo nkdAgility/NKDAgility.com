@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL collation, with no focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific technical issue related to upgrading TFS and SQL collation, which is relevant to practical tooling, but it is primarily focused on a specific problem rather than a broader exploration of techniques or methodologies.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:29:09",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:29:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL collation conflicts, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:29:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to upgrading TFS and SQL collation conflicts, which are not central to the themes of code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:29:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL collation conflicts, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to upgrading TFS and SQL collation conflicts, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to upgrading TFS and SQL collation conflicts, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:29:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and upgrade process of TFS 2010, including specific errors encountered during the configuration related to SQL collation, which aligns with the key topics of installation and configuration.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:29:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL collation conflicts, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the installation and upgrade process of TFS 2010, detailing specific errors encountered during the upgrade due to SQL collation mismatches. It provides a clear account of the installation challenges faced, which aligns well with the category's focus on installation and configuration. The mention of specific error messages and the proposed solution of reinstalling everything indicates a depth of discussion that is relevant to troubleshooting installation issues. Overall, the content is highly relevant to the category, with a strong emphasis on practical installation and configuration challenges.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL Server, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:29:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL Server, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to upgrading Team Foundation Server (TFS), which is a tool used in DevOps practices, but the primary focus is on technical errors and solutions rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to upgrading TFS and SQL Server, specifically addressing collation conflicts. While it touches on aspects of software development and deployment, it does not engage with the core principles of DevOps such as collaboration, automation, or continuous improvement. The discussion lacks depth in DevOps concepts and does not mention any relevant practices or cultural shifts associated with the DevOps philosophy.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL collation conflicts, with no focus on decision-making processes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:29:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL collation, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:29:32",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to upgrading TFS and SQL collation conflicts, which do not relate to flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL collation conflicts, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:29:36",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL collation conflicts, with no focus on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -244,10 +181,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T02:29:44",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL collation conflicts, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
@@ -258,15 +195,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL Server, with no focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:29:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to the installation and upgrade of TFS, rather than focusing on products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -280,11 +208,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to upgrading Team Foundation Server (TFS), which is part of the Azure DevOps suite, but the primary focus is on a specific technical problem rather than broader Azure DevOps functionalities or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses issues related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it primarily focuses on a specific technical problem regarding SQL collation during an upgrade, lacking broader discussions on Azure DevOps functionalities or best practices. While TFS is mentioned, the content does not explore the core themes of Azure DevOps in depth, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -305,7 +236,7 @@
     "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL collation conflicts, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:29:52",
     "ai_confidence": 0,
@@ -316,11 +247,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:29:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL collation conflicts, with no focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical issues related to upgrading TFS and SQL collation conflicts, with no direct mention or discussion of the Agile Product Operating Model or its principles. The themes of product management, agile methodologies, or continuous delivery are absent, indicating a very low relevance to the specified category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +266,17 @@
     "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL collation conflicts, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:29:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues encountered during an upgrade process, lacking a focus on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an upgrade process related to Team Foundation Server (TFS), which is a tool used in Application Lifecycle Management. However, the primary focus is on a specific technical issue rather than a comprehensive discussion of ALM methodologies or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses an upgrade process related to Team Foundation Server (TFS), which is a tool used in the application lifecycle management context. However, it primarily focuses on a specific technical issue (collation mismatch) rather than the broader methodologies or practices of ALM. While it does mention ALM and touches on aspects of deployment and maintenance, the depth of discussion is limited to troubleshooting a specific error, lacking comprehensive coverage of the application lifecycle stages or best practices.",
     "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:30:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to TFS installation and SQL collation conflicts, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,21 +289,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:11",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to TFS and SQL Server installation and errors, which are not related to the Definition of Done in Agile.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to upgrading software and resolving technical conflicts between SQL collations, which aligns with technical challenges in software development. However, it primarily focuses on troubleshooting rather than best practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a technical issue related to upgrading TFS and SQL collation, which touches on aspects of software craftsmanship and technical problem-solving. However, it lacks a broader discussion on best practices, principles, or methodologies that would typically characterise a deeper exploration of technical mastery. The focus is primarily on a specific error and its resolution rather than on overarching engineering practices.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +319,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on issues encountered during an upgrade of TFS and SQL Server, without addressing Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to upgrading TFS and SQL collation conflicts, which does not directly address Continuous Delivery principles or practices. While it mentions aspects of software deployment, it lacks a discussion on automation, incremental improvements, or user feedback, which are core to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:11",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses installation issues related to TFS and SQL Server, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -586,28 +511,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to upgrading Team Foundation Server (TFS) and SQL collation conflicts, which are relevant to software development practices and operations.",
+    "reasoning": "The content discusses a specific issue related to upgrading Team Foundation Server (TFS) and SQL collation, which is relevant to software development practices, particularly in the context of version control and deployment. However, while it touches on a technical problem and solution, it lacks broader discussions on methodologies or best practices in software development, resulting in a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses technical issues related to TFS upgrade and SQL collation conflicts, which does not align with Agile Project Management principles or methodologies.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:11",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL collation conflicts, with no focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +541,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:24",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses issues related to upgrading Team Foundation Server (TFS), which is a source control system. However, it primarily focuses on installation errors and SQL collation conflicts rather than broader themes of modern source control practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T10:29:11",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to the upgrade of TFS and SQL Server collation, with no clear relation to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -667,10 +586,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T10:29:11",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to upgrading TFS and SQL Server, with no relevant focus on organisational change.",
     "level": "Ignored"
   },
@@ -701,15 +620,6 @@
     "reasoning": "Content heavily discusses technical issues regarding the upgrade of software and SQL collation conflicts, without any reference to customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to upgrading Team Foundation Server and SQL Server, with no relation to Scaling Scrum practices or principles.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:11",
@@ -726,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to upgrading TFS and SQL Server, with no mention of psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to upgrading TFS and SQL collation, with no relevance to the topic of scaling agility in organizations.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,11 +685,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific real-world problem encountered during a TFS upgrade, including practical troubleshooting steps and a proposed solution, which align with pragmatic thinking.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a practical problem encountered during the upgrade of TFS, highlighting a specific error related to SQL collation. While it does not explicitly mention Agile, Scrum, or DevOps frameworks, it demonstrates pragmatic thinking through the real-world application of problem-solving techniques. The author suggests a practical solution to the issue, which aligns with the core themes of adaptability and experience-based decision-making. However, the discussion lacks depth in exploring broader implications or strategies within Agile or DevOps contexts.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -802,29 +706,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:11",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to upgrading TFS and SQL Server but does not engage with concepts of innovation, Evidence-Based Management, or related frameworks.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS and SQL collation errors, with no focus on Scrum or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to upgrading to TFS 2010 and SQL server, with no mention of Agile methodologies or scaling Agile practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1000,10 +886,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T10:29:11",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to upgrading TFS and SQL Server collation, with no focus on change management principles or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +920,7 @@
     "reasoning": "Content primarily discusses technical issues related to upgrading Team Foundation Server and SQL collation, without focusing on digital transformation or related strategic themes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:11",
     "ai_confidence": 0,
@@ -1043,22 +929,16 @@
     "reasoning": "Content discusses technical issues related to upgrading software and SQL collation problems, which is not related to MVP or product development discussions.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses installation and upgrade issues related to TFS and SQL Server, without any mention of AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses installation and configuration issues related to TFS 2010 and SQL Server, particularly focusing on a collation conflict during the upgrade process. It addresses specific configuration challenges and potential solutions, making it highly relevant to the topic of system configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the installation and upgrade process of TFS 2010, including specific issues related to SQL collation mismatches, which directly pertains to system configuration. It provides detailed error messages and troubleshooting steps, demonstrating a clear focus on configuration challenges and solutions. The depth of discussion is significant, as it outlines the problems encountered during the upgrade and suggests a solution involving reinstallation and collation adjustments, aligning well with the key topics of system optimisation and troubleshooting. Overall, the content is highly relevant to the category, with a strong emphasis on practical configuration issues.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,20 +979,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to upgrading TFS and SQL collation conflicts, with no mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to upgrading TFS and SQL collation conflicts, with no direct mention of Test First Development principles or practices. It lacks any discussion on success criteria, testing methodologies, or the impact of testing on collaboration, which are core themes of the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "Content discusses issues related to the installation and upgrade of TFS 2010 on Windows servers, which is a major topic around Windows management. However, it primarily focuses on the TFS and SQL collation errors, making Windows a secondary theme.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the installation and upgrade process of Team Foundation Server (TFS) 2010, which is closely related to the Windows operating system environment. It explicitly mentions issues encountered during the upgrade, including SQL Server collation conflicts, which are relevant to Windows server management. The discussion aligns well with the core themes of installation, troubleshooting, and configuration within the Windows ecosystem. However, while it provides substantial detail on the specific problem, it does not cover broader Windows topics such as performance optimisation or security features, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1162,12 +1048,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses an issue related to collation conflict when upgrading TFS, providing specific error messages and a proposed solution, focusing on diagnosing and resolving a technical issue.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content explicitly discusses a specific issue encountered during the upgrade of TFS, detailing the error messages related to SQL collation conflicts. This aligns well with the troubleshooting category as it identifies a technical problem and suggests a resolution (reinstalling and changing collation). The depth of discussion includes specific error codes and the context of the issue, demonstrating a clear focus on diagnosing and resolving a technical problem.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1069,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL Server, without reference to Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical issues related to upgrading TFS and SQL collation conflicts, with no mention or discussion of the Scrum Master role or related responsibilities. It does not align with any core themes of the Scrum Master category, nor does it provide any depth on the subject. Therefore, it is classified with a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1204,15 +1096,6 @@
     "final_score": 0.0,
     "reasoning": "Content is primarily about technical issues related to TFS installation and collation conflicts, with no mention of teamwork or working agreements.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:24",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses an issue related to upgrading TFS, but it primarily focuses on a technical error regarding SQL collation that doesn't directly engage with the role of software developers in Agile or DevOps contexts.",
-    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1331,15 +1214,6 @@
     "reasoning": "Content heavily discusses technical issues related to TFS installation and SQL collation conflicts, with no mention of accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to TFS and SQL collation conflicts, which does not pertain to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:11",
@@ -1360,11 +1234,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:02:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS installation and SQL collation conflicts, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to upgrading TFS and SQL Server, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and provides minimal depth on any relevant topics.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1251,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to TFS installation and SQL collation, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:35:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to upgrading TFS and SQL collation conflicts, which are not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:35:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to TFS installation and SQL collation conflicts, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to upgrading Team Foundation Server (TFS) and SQL collation conflicts. There are no direct mentions of Scrum principles, roles, events, or any related concepts. The focus is on a specific technical problem rather than on Scrum practices or frameworks, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to upgrading TFS and SQL Server, with no explicit mention of the Shift-Left Strategy or its principles. It does not address integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is on resolving a specific error during an upgrade, which is unrelated to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical issue related to upgrading TFS and SQL collation conflicts. It does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The mention of a solution to a technical problem does not align with the core themes of Continuous Improvement, which requires a broader discussion on ongoing practices and strategies for enhancement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to upgrading TFS and SQL collation conflicts, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on project management aspects, it does not align with the core themes of shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to upgrading TFS and SQL collation conflicts. While it touches on problem-solving, it does not explicitly discuss competence, continuous learning, or skill development in Agile or DevOps contexts. The discussion lacks depth and does not align with the core themes of competence, such as professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical issues related to upgrading TFS and SQL collation conflicts, with no explicit discussion of Agentic Agility or its principles. While there is a mention of problem-solving, it does not align with the core themes of intentionality, autonomy, or adaptability in the context of Agentic Agility.",
     "level": "Ignored"
   }
 }

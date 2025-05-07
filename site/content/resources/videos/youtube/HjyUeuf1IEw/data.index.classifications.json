@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:07:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions DevOps as one of the topics for discussion, but it is not the primary focus, as it also includes Agility and Scrum-related topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile training and methodologies, with a significant emphasis on Scrum practices and continuous forecasting. While there are elements of collaboration and iterative processes that could relate to DevOps, the core discussion does not align with the principles of DevOps as a philosophy. The mention of Agile practices and tools does not sufficiently connect to the broader DevOps themes of shared accountability, automation, or continuous value delivery.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:07:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agility and references a Professional Scrum Trainer, indicating a focus on Agile practices, but it is primarily an invitation for a Q&A session rather than a detailed discussion on the frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile training and continuous forecasting, which are relevant to team dynamics and decision-making. However, it primarily focuses on training methods and tools rather than the broader principles of social technologies. While there are mentions of collaboration and adaptability, the depth of discussion on these themes is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -64,19 +70,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily an invitation to ask questions about various topics in DevOps and Agility, but does not focus specifically on metrics or learning. It lacks central discussions relevant to the defined category.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content invites questions on a variety of topics, including DevOps and Agility, with only a mention of Professional Scrum. It does not focus primarily on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
@@ -88,24 +94,6 @@
     "final_score": 0.0,
     "reasoning": "The content focuses on a Q&A session that includes topics from DevOps and Agility, but does not primarily discuss Agile frameworks or related principles, making it not sufficiently relevant.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content invites questions on various topics including DevOps and Agility, but does not focus specifically on Scrum Product Development or its practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an Ask Me Anything session, which is an interactive event allowing attendees to engage with an expert on topics related to DevOps and Agility, making it a significant theme.",
-    "level": "Tertiary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -235,11 +223,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Ask Me Anything session with a focus on DevOps and Agility, without specific mention of Continuous Delivery principles or practices.",
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, with only a brief mention of concepts related to Continuous Delivery. While it discusses planning and metrics that could relate to delivery practices, it lacks a direct focus on Continuous Delivery principles, automation, or deployment strategies. The depth of discussion on Continuous Delivery is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -289,12 +280,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily serves as a platform for questions about various topics including DevOps and Agile, making Software Development a major theme, but it does not delve deeply into these topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically Scrum and Kanban, and their application in training and software development contexts. It mentions continuous forecasting, sprint planning, and the use of metrics, which are relevant to software development practices. However, the discussion is somewhat informal and lacks depth in technical details, focusing more on training logistics and personal anecdotes rather than a rigorous exploration of software development methodologies.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -352,10 +346,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is general in nature and focuses on DevOps and Agile discussions rather than specifically on Azure Repos or its functionalities.",
     "level": "Ignored"
   },
@@ -366,15 +360,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Ask Me Anything session regarding DevOps and Agile, without a focus on One Engineering System (1ES).",
     "level": "Ignored"
   },
   "Change Management": {
@@ -433,10 +418,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content invites questions on broad topics from DevOps to Agility and does not provide substantial discussion specifically focused on Azure DevOps.",
     "level": "Ignored"
   },
@@ -449,15 +434,6 @@
     "reasoning": "Content is focused on a Q&A format relating to various topics including DevOps and Agility, which do not explicitly align with the principles of software craftsmanship or technical excellence.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions topics related to DevOps and Agility, which are relevant to software developers, but it is framed as a general Q&A session without a focused discussion on these methodologies.",
-    "level": "Tertiary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:35:39",
@@ -465,15 +441,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on Scrum and DevOps without specific discussion on Lean Product Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not focused on the interplay between code quality and complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,19 +472,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content invites questions on various topics including DevOps and Agility, without a specific focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile training and continuous forecasting, which are relevant to Scrum practices. However, while it mentions Scrum concepts, it does not focus specifically on the role of the Scrum Master or their responsibilities. The discussion on continuous forecasting aligns with Scrum principles but lacks depth in exploring the Scrum Master's influence or techniques. Overall, the content is related but not primarily focused on the Scrum Master role.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on general Agile topics and Scrum without discussing large scale Agile frameworks or principles.",
     "level": "Ignored"
   },
@@ -557,15 +527,6 @@
     "reasoning": "Content primarily focuses on an AMA session covering a variety of topics, including DevOps and Agility, without a central discussion on decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "While the content invites questions related to Scrum, it primarily promotes an interactive Q&A session about a range of topics, suggesting Scrum is a significant but not central theme.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:35:39",
@@ -593,15 +554,6 @@
     "reasoning": "Content focuses on a Q&A session with no clear emphasis on organisational change strategies or methodologies; it primarily revolves around DevOps and Agile without discussing change management.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Q&A session about various topics related to DevOps and Agility without specifically discussing scaled Agile methodologies or frameworks.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:35:39",
@@ -610,15 +562,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on DevOps and Agile topics, with no explicit discussion of Lean Thinking principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content invites questions on topics related to DevOps and Agility, suggesting a focus on human interactions within these methodologies, but it does not go into detail on those themes.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,10 +574,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily invites questions on various topics, including DevOps and Agility, but does not focus specifically on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -658,10 +601,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about an Ask Me Anything session with a focus on DevOps and Agility without specific reference to Azure Boards or its functionalities.",
     "level": "Ignored"
   },
@@ -683,12 +626,12 @@
     "reasoning": "Content primarily invites questions on various topics related to DevOps and Agility, with no clear focus on Lead Time.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a general Q&A about various topics including DevOps and Agility, without specific discussion on Minimum Viable Product or related concepts.",
     "level": "Ignored"
   },
@@ -699,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content invites questions on various topics, including DevOps and Agility, but does not specifically focus on Agile leadership or practices. It primarily serves as an open Q&A session rather than a discussion centered on Agile leadership principles or strategies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses general topics related to DevOps and Agility, without focusing specifically on AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +689,6 @@
     "reasoning": "The content is primarily an invitation for a Q&A session focused on various topics including DevOps and Agility, rather than a discussion specifically on strategies for market adaptability.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content promotes an open Q&A session covering various topics related to DevOps and Agility without specific focus on AI applications.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T11:35:39",
@@ -775,10 +700,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily invites questions on various topics related to DevOps and Agility but does not specifically focus on the Daily Scrum event or its key components.",
     "level": "Ignored"
   },
@@ -793,10 +718,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily mentions DevOps and Agility in a general context for an Ask Me Anything session, without a specific focus on enterprise agility or its broader implications.",
     "level": "Ignored"
   },
@@ -807,15 +732,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics including DevOps and Agility without focusing specifically on the Product Backlog.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content mainly promotes an open Q&A session with no specific focus on Agile Project Management principles or methodologies. It only briefly mentions 'Agility' without delving into agile project management practices or frameworks.",
     "level": "Ignored"
   },
   "Psychological Safety": {
@@ -836,24 +752,6 @@
     "reasoning": "Content is primarily an open forum for questions on various topics and does not focus on troubleshooting or the identification and resolution of technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily an invitation for questions rather than a discussion or analysis of specific products or literature.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily invites questions for an informal Q&A session rather than presenting news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T11:35:39",
@@ -872,15 +770,6 @@
     "reasoning": "The content is focused on a Q&A session with a professional, discussing various topics related to DevOps and Agility, but does not include personal experiences, reflections, or anecdotes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily about a Q&A session on various topics related to DevOps and Agility, with no central focus on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T11:35:39",
@@ -892,10 +781,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss Scrum Values; it invites questions on various unrelated topics including DevOps and Agility.",
     "level": "Ignored"
   },
@@ -919,11 +808,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not specifically discuss Test First Development, focusing instead on general Agile and DevOps questions.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, with no direct mention of Test First Development principles or practices. While it discusses Agile methodologies, it does not delve into the specifics of defining success criteria or the importance of testing in the development process, which are core to Test First Development. The discussion lacks depth and relevance to the category, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,10 +829,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content invites questions on various topics, including DevOps and Agility, without a specific focus on Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
@@ -1007,21 +899,12 @@
     "reasoning": "The content is an invitation for an open Q&A session and does not focus specifically on methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a Q&A format without specific emphasis on scaling agility; discussions may cover various topics including Scrum, but not in the context of scaling agility as a primary subject.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an open forum for questions, with Agility mentioned as one of many topics, but does not delve deeply into organisational agility practices or frameworks.",
     "level": "Ignored"
   },
@@ -1043,24 +926,6 @@
     "reasoning": "Content mostly invites questions on various topics including DevOps and Agility, without a focus on portfolio management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a Q&A session about DevOps and Agility, without a clear emphasis on resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an open forum for questions rather than specifically discussing transparency and accountability principles within Agile teams.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T11:35:39",
@@ -1077,15 +942,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on an AMA session about various topics, primarily Scrum and DevOps, without a clear emphasis on frequent releases.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is an invitation for questions on any topic within DevOps and Agility, but it does not provide any specific techniques, tools, or methodologies. It does not delve into practical application or exploration of tools that would align with the category's focus.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1117,10 +973,10 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly invites questions on various topics within DevOps and Agile, rather than focusing specifically on Azure Pipelines.",
     "level": "Ignored"
   },
@@ -1135,20 +991,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on a general Q&A session about various topics including DevOps and Agility without a specific emphasis on the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an 'Ask Me Anything' format regarding various topics, without a clear emphasis on methodologies or processes related to discovery and learning.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, which are related to Agile practices but do not specifically address the Agile Product Operating Model. While there are mentions of Scrum and some principles of Agile, the discussion lacks a direct focus on the core themes of the APOM, such as product management integration and operational governance. The depth of discussion on Agile practices is present, but it does not delve into the product-oriented mindset or the transition from project to product ethos, which are central to the APOM framework.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1176,15 +1026,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not specifically focus on automated testing; instead, it invites questions on various topics from DevOps to Agility without a clear discussion on automated testing principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a general Q&A session covering various topics including DevOps and Agility, with a specific emphasis on Scrum, rather than on Scaling Kanban.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1261,10 +1102,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a Q&A format around various topics including DevOps and agility, without a clear emphasis on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1342,28 +1183,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:35:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a general Q&A format and does not focus on Evidence-Based Management principles or data-driven decision-making.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile training and continuous forecasting, which are related to Agile practices but do not explicitly focus on Evidence-Based Management. While there are mentions of metrics and a flexible planning approach, the primary focus remains on training methods rather than empirical decision-making or value delivery metrics central to EBM.",
+    "level": "Tertiary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a Q&A session about various topics related to DevOps and Agility, but does not specifically address installation or configuration processes.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:35:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics including DevOps and Agility without focusing on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -1375,5 +1219,445 @@
     "final_score": 0.0,
     "reasoning": "The content is primarily an invitation for questions on various topics related to DevOps and Agility, rather than a focused discussion on operational practices or methodologies.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:07:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:07:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile topics without a clear focus on Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Scrum principles, particularly in relation to training and the application of Scrum in a virtual environment. It mentions Scrum roles and events, such as daily scrums and sprint planning, but the focus is more on training logistics and tools rather than a deep exploration of Scrum itself. While there are relevant mentions, the overall depth and primary focus lean towards training methodologies rather than a comprehensive discussion on Scrum.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, with no explicit discussion of the Shift-Left Strategy. While it touches on Agile practices and metrics, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses continuous forecasting, which aligns with the principles of Continuous Improvement by promoting adaptive planning and the use of metrics for better decision-making. However, the primary focus is on Agile training and methods rather than a dedicated exploration of Continuous Improvement practices. While there are relevant elements, such as the emphasis on iterative learning and feedback, the overall depth and direct mentions of Continuous Improvement concepts are limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on Agile practices and continuous forecasting, which are relevant to the Agile framework. However, it lacks a focused discussion on Common Goals, such as shared objectives or alignment within teams. The mention of sprint planning and metrics does not sufficiently connect to the core themes of Common Goals, and the overall depth of discussion is limited to training experiences rather than strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses innovative learning methods and continuous forecasting in Agile training, which aligns with the importance of continuous learning and skill development. However, while it touches on these themes, it does not explicitly focus on competence as a primary topic. The depth of discussion on fostering a culture of competence is moderate, but the overall emphasis is more on training methods rather than on competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:57:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile training and continuous forecasting, which are not directly related to the One Engineering System framework. While there are mentions of Agile practices, the discussion does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system. The depth of discussion on 1ES is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile training and continuous forecasting but does not explicitly address Agentic Agility or its principles. While there are mentions of adaptability and planning, the focus remains on Agile practices rather than the intentional shaping of outcomes through agency. The discussion lacks depth in exploring the distinctions between human and AI capabilities in this context.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Agile training, innovative learning methods, and continuous forecasting within the context of Scrum, without any critical examination of Hybrid Agile or its challenges. There are no direct mentions of Hybrid Agile, and while some concepts relate to agile practices, the discussion lacks depth on the integration of traditional methodologies or the pitfalls of Hybrid Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and continuous forecasting without any direct reference to Cell Structure Design, Beta Codex principles, or the organizational model involving autonomous cells. Additionally, the focus is on traditional Agile concepts rather than a decentralised and network-based structure, which is fundamental to the Cell Structure Design category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of continuous forecasting, which aligns with the Agile principle of adaptability in planning and responding to changes. It provides actionable insights on implementing this principle in a Scrum environment, indicating a focus on decision-making and team behavior. However, while it adheres closely to one principle, it does not delve deeply into other key principles like customer collaboration or continuous improvement. Hence, the score reflects a strong, but not comprehensive, alignment with the category 'Principle'.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 53.0,
+    "ai_mentions": 5,
+    "ai_alignment": 22,
+    "ai_depth": 26,
+    "non_ai_confidence": null,
+    "final_score": 53.0,
+    "reasoning": "The content primarily focuses on Agile training and concepts, specifically continuous forecasting in the context of Agile methodologies. While it does touch upon elements related to project management, such as sprint planning, metrics, and stakeholder engagement, the discussion remains heavily centered on Agile practices without delving into broader project management principles or methodologies. The references made are more about specific Agile roles and practices, which are not fully integrated into a wider project management context, resulting in a mid-level confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Agile training methods, continuous forecasting, and interactive virtual classes rather than Open Space Agile principles. There is no mention of Open Space Technology, psychological safety, co-creation in Agile transformations, or any core themes directly related to Open Space Agile, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 55.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses tools like Microsoft Teams and Mural that are used in the context of Agile training. It describes how these tools facilitate collaboration and engagement during virtual classes, which relates to the functionality of tools in Agile workflows. However, it lacks a deep comparative analysis or extensive details about their integration within Agile, Lean, or DevOps frameworks. The mention of continuous forecasting is relevant but does not focus on specific tools in detail, limiting the depth of discussion.",
+    "level": "Tertiary"
+  },
+  "Liberating Structures": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 35.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses Agile training and concepts such as continuous forecasting and virtual class setups. While there are mentions of Scrum roles and practices, there is no direct reference to Liberating Structures or their specific techniques. The content aligns somewhat with concepts of engagement and interactive learning, but it lacks a focus on the facilitation methods particular to Liberating Structures. Overall, it falls short in highlighting or utilizing specific Liberating Structures methods.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses practical aspects of Agile training and continuous forecasting but does not explicitly address the core values underpinning Agile practices. While it mentions Scrum principles like flexibility in planning, it lacks a focus on deeper discussions of values such as commitment, respect, or collaboration. The primary focus is on tools and methods, which detracts from its alignment with the 'Values' category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 2,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on practical aspects of Agile training, discussing specific methodologies, tools, and approaches used in training rather than the foundational philosophical underpinnings of Agile or related methodologies. While some concepts like continuous forecasting are mentioned, they are framed in a technical context rather than a philosophical discussion. The brief mentions of Agile principles do not constitute a substantial exploration of the philosophical aspects required to align fully with the Philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile training and the concept of continuous forecasting, which relate to the principles of Agile as a discipline. However, it mainly focuses on practical training methods and tools rather than the underlying principles, methodologies, or governance structures of disciplines as defined in the classification. Hence, while it touches on Agile, it does not provide a deep discussion of its evolution, systematic application, or organizational impact, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses Agile training and innovative methods in a general sense, without any specific focus on artifacts as formal constructs. While there is mention of 'continuous forecasting' and its relevance to Scrum practices, it lacks direct references to specific artifacts or an in-depth exploration of their structure and purpose. The discussion primarily revolves around training methods, tools, and engagement strategies, which do not align with the core themes of the Artifact category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 40.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile training and continuous forecasting, including the use of metrics to inform planning, which aligns with observability themes. However, the focus is primarily on training methodologies rather than deep observability principles, tools, or practices. While there are relevant mentions of metrics and their importance to team processes, the detailed exploration required for a strong alignment with observability is lacking. The discussion lacks explicit references to observability tools, challenges specific to observability, or case studies, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Time to Market": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 60.0,
+    "ai_mentions": 2,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 60.0,
+    "reasoning": "The content does mention concepts related to forecasting and Agile training, which can relate to Time to Market, particularly when discussing metrics like cycle time and throughput. However, the primary focus is on training methodologies and engagement rather than on the metrics or strategies specifically aimed at reducing Time to Market. Continuous forecasting is mentioned as a means to influence planning but without a strong emphasis or in-depth discussion on its direct impact on Time to Market. Therefore, while there is some relevant content, it is not the central theme.",
+    "level": "Tertiary"
+  },
+  "Product Development": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 14,
+    "ai_alignment": 24,
+    "ai_depth": 18,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content focuses significantly on Agile training, continuous forecasting, and interactive learning methods, which are related to product development practices. It directly mentions Agile principles and includes references to Scrum, which is foundational to Agile product development. However, the primary focus is more on training and enhancing learning environments rather than on methodologies and practices that deliver products. Therefore, while there is alignment with core themes, the content primarily serves educational purposes rather than in-depth product development discussions. This leads to a moderate confidence score reflecting good but not exhaustive relevance to the category.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 70.0,
+    "ai_mentions": 40.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": null,
+    "final_score": 70.0,
+    "reasoning": "The content explores innovative approaches to Agile training and emphasizes the practice of continuous forecasting, which aligns with actionable techniques to improve team performance in Agile environments. It discusses practical steps such as starting small with planning, leveraging metrics, and using Monte Carlo simulations for more accurate predictions, demonstrating a thoughtful approach to a practice within Agile. However, while it includes substantial actionable insights, the primary focus veers towards training and educational methods rather than strictly adhering to the category of practice techniques used by teams.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly touches on Agile training and continuous forecasting, but it does not explicitly discuss the company as a product or the organizational strategies that involve viewing a company through a customer-centric product lens. There are no direct mentions of CaaP principles or strategies, and the discussion lacks depth regarding organizational design or integration of customer feedback into processes. The focus is more on training and technical aspects of Agile rather than on the broader implications of CaaP.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 45,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content discusses specific methodologies related to Agile training and highlights the concept of continuous forecasting, which falls under methodical approaches for managing Agile projects. It provides structured steps on implementing continuous forecasting, such as starting small, utilizing metrics, and performing Monte Carlo simulations. However, while it touches upon methods in the context of Agile training, the primary focus is on the training experience rather than explicitly detailing structured procedures or methods themselves, which slightly lowers its alignment score.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Agile training and continuous forecasting but does not directly address the concept of Unrealised Value or its associated indicators and measures. While it touches on themes like innovation in training and adapting plans, these are not presented as potential improvements or untapped opportunities within an organisation. The primary focus is on training methods and tools, lacking a connection to the broader strategic implications of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses Agile training methods and continuous forecasting, which are not directly related to the complexities of scaling Agile practices across multiple teams. While some concepts, like dynamic planning, are mentioned, they are more relevant to Agile in general rather than specific scaling methodologies or frameworks. There's little focus on the coordination of teams or the specific challenges and strategies involved in scaling, leading to a low confidence score for the scaling category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 63.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": null,
+    "final_score": 63.0,
+    "reasoning": "The content discusses key Agile concepts such as continuous forecasting which relates to decision-making in Agile frameworks. It mentions metrics and their role in planning, which reflects alignment with the idea of models that assist in complex system management. However, while there is some focus on models like Scrum and Kanban, the primary emphasis is on training and engagement strategies rather than a detailed exploration of these models themselves. Thus, there’s a moderate level of confidence in its alignment with the 'Model' category.",
+    "level": "Secondary"
+  },
+  "Current Value": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 52.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content discusses continuous forecasting and its role in Agile training, referencing metrics and their utility. However, it primarily focuses on training methods and experiences, rather than a comprehensive evaluation of Current Value in Evidence-Based Management. Although it mentions metrics and their application within the context of Agile, the overall emphasis is on training and learning experiences rather than a deep dive into Current Value itself.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 57.0,
+    "ai_mentions": 5,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 57.0,
+    "reasoning": "The content provides insights into Agile training and discusses the concept of continuous forecasting as it relates to Sprint planning and Scrum principles. It does mention methods and tools used in Agile training, touching on key Agile concepts such as Scrum and Kanban, which are relevant to the Framework category. However, the discussion is more focused on practical applications of training techniques rather than a deep exploration of framework methodologies themselves, which affects the depth of discussion. Overall, while it aligns somewhat with the category's themes, it does not fully engage in comprehensive framework analysis, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of continuous forecasting specifically within the context of Agile methodologies. It illustrates the importance of flexible planning and adapting to changes, which aligns well with Agile tenets. The mention of metrics and their application shows an actionable approach to decision-making, providing a clear connection to the category. However, the overall focus is less on defining tenets or actionable guiding rules, instead leaning towards training and education in Agile practices, warranting a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Agile training and methodologies, explicitly discussing practices such as continuous forecasting and the use of tools like Microsoft Teams and Mural. There are no references to GitHub, its functionalities, or its integration with Agile practices. Therefore, it fails to meet the criteria for the GitHub category, with minimal conceptual alignment or depth related to GitHub.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Agile training methodologies and specific practices such as continuous forecasting and the use of Scrum and Kanban. However, it primarily focuses on the mechanics of these frameworks rather than the principles and broader philosophy of Agnostic Agile. The emphasis on training rather than principles, ethics, and the contextual application of Agile diminishes its relevance to the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:40",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content includes discussions about Agile training and the concept of continuous forecasting, suggesting a focus on adaptive planning, which aligns with capability development. However, the depth of discussion primarily revolves around training methods and tools rather than exploring capabilities as enduring competencies. There’s a notable mention of concepts like dynamic planning and metrics, but they are framed more as techniques rather than deeply embedded capabilities, limiting the overall alignment with the Capability category.",
+    "level": "Tertiary"
   }
 }

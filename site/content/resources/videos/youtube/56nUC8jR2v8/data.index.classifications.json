@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:01:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Taylorism and Agile concepts without a clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of Taylorism and its impact on agility in the workplace, which is not directly related to DevOps principles. While it touches on themes of collaboration and resistance to change, it lacks explicit references to DevOps practices, automation, or shared accountability. The focus is more on agile methodologies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:01:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily promotes an event and does not focus on Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of Taylorism on team dynamics and the importance of fostering collaboration and autonomy, which aligns with the core themes of social technologies. It highlights the need for a cultural shift towards agility and creativity, addressing the role of self-organisation and collective intelligence. However, while it touches on relevant topics, it does not delve deeply into specific methodologies or frameworks that promote these concepts, leading to a slightly lower depth score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -64,10 +70,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily promotes a meet-up session discussing Taylorism and agile concepts but doesn't engage with metrics, data utilization, or learning methodologies.",
     "level": "Ignored"
   },
@@ -82,30 +88,12 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses an event related to Taylorism and agility but does not focus on Agile frameworks or their principles, making it not relevant to the category.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Scrum or product development principles and is focused on a different topic related to agility.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on promoting a specific event (a session in a meetup group) related to Agile, aligning well with the category of Events and Presentations.",
-    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -181,10 +169,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily promotes a meetup on the topic of Taylorism and does not discuss the Definition of Done.",
     "level": "Ignored"
   },
@@ -235,11 +223,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on an event related to agile practices and does not address Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of Taylorism and its impact on agility in the workplace, without any direct mention of Continuous Delivery principles or practices. While it touches on themes of agility and collaboration, it does not delve into the specific practices or benefits of Continuous Delivery, nor does it provide any detailed discussion on automation, incremental improvements, or rapid feedback, which are key aspects of the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -307,19 +298,19 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on an event discussing Taylorism and mentions agile concepts without clearly emphasizing Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on promoting a meetup session rather than discussing Agile Strategy, with little mention of Agile methodologies or strategic context.",
     "level": "Ignored"
   },
@@ -366,15 +357,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a meetup session on Taylorism and Agile practices without a focus on Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an event focused on challenging traditional management practices and agile methodologies, without central relevance to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -449,15 +431,6 @@
     "reasoning": "Content heavily discusses themes of agility in the workplace and does not focus on technical practices or software engineering excellence.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a meetup session related to the concept of Taylorism and agile principles, without a focus on software developers or their roles in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:14:30",
@@ -465,15 +438,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on an event discussing Taylorism and Agile, but does not address Lean Product Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses an event related to workplace agility and does not address software code or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,19 +469,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master roles, responsibilities, or coaching methodologies, focusing instead on a general topic about embracing agility.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses agility and the challenges posed by traditional management philosophies like Taylorism, but it does not explicitly mention the role of the Scrum Master or delve into specific responsibilities associated with that position. While it touches on themes relevant to agile practices, such as autonomy and collaboration, it lacks a focused discussion on the Scrum Master's influence or techniques. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an event announcement and the critique of Taylorism, with no clear emphasis on scaling Agile methodologies or related topics.",
     "level": "Ignored"
   },
@@ -557,15 +524,6 @@
     "reasoning": "Content primarily focuses on promoting an event related to Agile practices rather than discussing decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an event related to Taylorism and agile concepts but does not center on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:14:30",
@@ -593,15 +551,6 @@
     "reasoning": "The content primarily promotes a meetup session and mentions Taylorism and agility, but does not delve into strategies, methodologies, or practices related to organisational change.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on an event about overcoming Taylorism and does not discuss scaled Agile methodologies or principles.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:14:30",
@@ -609,15 +558,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a session about Taylorism and agility, with no substantial discussion on Lean principles or related topics.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily promotes a meetup event and does not delve into discussions about the interplay between people and structured methodologies in technology or product development.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -631,10 +571,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily promotes an event and does not discuss principles, practices, or strategies related to business agility.",
     "level": "Ignored"
   },
@@ -667,23 +607,23 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an event and does not address the Definition of Ready or any related criteria or practices.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on promoting a meetup session and does not discuss Lead Time or related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T11:14:30",
     "ai_confidence": 0,
@@ -694,20 +634,11 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an event related to Taylorism and Agile discussions, without centering on leadership roles or practices in Agile contexts.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a meet-up session on Taylorism and Agile concepts without focusing on AI or automation within Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +686,6 @@
     "reasoning": "Content primarily focuses on an event promotion rather than discussing strategies or practices that enhance market adaptability.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a meetup session on Agile topics and does not mention AI or its application within Agile methodologies.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T11:14:30",
@@ -793,10 +715,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily announces an event and focuses on a critique of Taylorism rather than discussing enterprise agility as a organizational capability or culture.",
     "level": "Ignored"
   },
@@ -807,15 +729,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on an event announcement related to Agile principles, rather than discussing the Product Backlog.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an event discussing Taylorism and detecting agile BS, with no clear discussion on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Psychological Safety": {
@@ -836,24 +749,6 @@
     "reasoning": "Content focuses primarily on promoting a meetup session about Agile concepts and does not address any troubleshooting issues or methodologies.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an event rather than specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an upcoming meetup session and personal invitation, lacking substantial news or reviews about Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T11:14:30",
@@ -870,15 +765,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily promotes an upcoming event and does not provide personal reflections or insights related to Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on an event about Taylorism and general agility, with no mention of Scaling Scrum, its frameworks, or practices relevant to large organizations.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -901,10 +787,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a meetup session about Taylorism and does not discuss Agile Product Management, methodologies, or practices relevant to the category.",
     "level": "Ignored"
   },
@@ -919,21 +805,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily promotes a meetup session about challenging Taylorism and assessing Agile practices, with no substantial focus on Test First Development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of Taylorism and its impact on agility in the workplace, with no direct mention of Test First Development or its principles. While it touches on themes of collaboration and innovation, it does not delve into success criteria, testing practices, or the specifics of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily promotes an event and discusses a general theme related to agility, but does not focus specifically on Agile, Scrum, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions a session on 'agile BS' but does not delve into specific Agile frameworks or practices. It serves more as an announcement for an event rather than a discussion on Agile methodologies, which aligns it with the Miscellaneous category. However, the mention of 'agile' indicates a slight connection to the broader context of business agility.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -991,10 +883,10 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on an event announcement with minimal discussion on Agile principles or philosophy.",
     "level": "Ignored"
   },
@@ -1007,30 +899,21 @@
     "reasoning": "Content primarily promotes an event related to challenging Taylorism and discussing agility, but does not focus on product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily promotes an event focused on challenging Taylorism and does not specifically discuss scaling agility or related practices and frameworks.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily promotes an event rather than discussing organisational agility principles or practices.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily promotes an event and does not delve into subjects directly related to Agile transformation concepts or practices.",
     "level": "Ignored"
   },
@@ -1043,30 +926,12 @@
     "reasoning": "Content primarily focuses on an event related to Agile and does not discuss portfolio management concepts.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on promoting an event related to Agile principles and challenges to Taylorism, but does not address organisational resilience or change management as a central topic.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses an event and inviting people to join without addressing transparency or accountability topics.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a meetup discussion about Taylorism and agility, not on Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -1077,15 +942,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses a meetup event focused on challenging Taylorism and does not relate to software delivery or frequent releases.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a meetup session discussing Taylorism and perceptions of Agile, without reference to practical techniques, tools, or methodologies.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1135,20 +991,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a meetup discussion about Taylorism and agile concepts but does not specifically address the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily promotes an event related to Agile discussion and does not focus on learning methodologies or discovery processes.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of agility and critiques traditional management practices like Taylorism, but it does not explicitly mention the Agile Product Operating Model or its principles. While it touches on themes of autonomy, collaboration, and flexibility, which are relevant to agile methodologies, it lacks a direct focus on product management or the specific elements of the APOM framework. The depth of discussion is limited to general agile principles rather than a detailed exploration of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1178,15 +1028,6 @@
     "reasoning": "Content primarily discusses a meetup session on Taylorism and Agile concepts, not focusing on automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an event related to the challenges of Taylorism and general agility, with no central focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
     "calculated_at": "2025-02-18T11:14:30",
@@ -1198,10 +1039,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a meeting on Taylorism and Agile discussions, without any focus on Cycle Time.",
     "level": "Ignored"
   },
@@ -1261,10 +1102,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an event announcement and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -1342,28 +1183,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:14:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses an event related to Taylorism and agility but does not address Evidence-Based Management or its principles directly.",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the limitations of Taylorism and the importance of agility, but it does not explicitly mention Evidence-Based Management or its key topics. While it touches on the importance of metrics and collaboration, it lacks a focus on empirical decision-making and the specific metrics associated with EBM. The discussion is more about challenging outdated practices rather than providing a structured approach to management based on evidence.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a meetup discussing Agile concepts rather than any technical aspects of installation or configuration.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:14:30",
+    "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on promoting a meetup session discussing Taylorism and agile practices without addressing innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
@@ -1375,5 +1219,445 @@
     "final_score": 0.0,
     "reasoning": "The content primarily promotes an event discussing Taylorism and Agile without providing practical applications or strategies for operational efficiency.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:07:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and does not mention Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:07:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions agility but does not explicitly discuss Scrum principles, roles, or practices. It focuses more on a critique of Taylorism and does not provide substantial detail on Scrum or its implementation.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of Taylorism and its impact on agility, with no direct mention of the Shift-Left Strategy. While it touches on themes of collaboration and resistance to change, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the limitations of Taylorism and the importance of agility, which aligns with the principles of Continuous Improvement. However, it primarily focuses on critiquing outdated practices rather than providing a structured discussion on Continuous Improvement itself. The mention of fostering creativity and collaboration hints at improvement but lacks specific strategies or empirical evidence related to Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of agility and collaboration, which are related to Common Goals, but it primarily focuses on critiquing Taylorism and identifying misapplications of agile practices. While it touches on themes of autonomy and collaboration, it lacks a direct discussion on aligning strategy with execution or shared objectives that guide decision-making, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of agility and the pitfalls of Taylorism, touching on themes of autonomy and collaboration, which are related to competence. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into continuous learning or skill development, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:53:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of Taylorism and its impact on agility, without any direct mention or focus on the One Engineering System framework. While it touches on themes of collaboration and innovation, it does not align with the core principles of 1ES, such as standardisation and integration of software development practices. The discussion is more about challenging existing methodologies rather than implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of autonomy and creativity in the workplace, which aligns with the principles of Agentic Agility. However, it primarily critiques Taylorism and does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The discussion on metrics and collaboration touches on relevant themes but lacks depth in exploring the intentional shaping of outcomes or the mechanisms of AI Agentic Agility.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content discusses themes related to 'agile BS' and the misapplication of agile practices, it does not specifically address the Hybrid Agile concept or its challenges. The discussion is more philosophical about agility in a broad sense, without critical examination of Hybrid Agile complexities or case studies on failed implementations, which are required for a higher confidence score. The content mainly critiques Taylorism and emphasizes cultural shifts towards true agility, which aligns with agile concepts but does not fully align with the core objectives of the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content critiques Taylorism and discusses the importance of autonomy and creativity, which are relevant to the principles of decentralisation and autonomy in Cell Structure Design, it does not directly mention or delve into the specifics of Cell Structure Design or the concepts related to the Beta Codex. The discussion is more focused on agile practices rather than the formal framework of Cell Structure Design, providing limited direct references to the category and lacking depth in its discussion of the core themes.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "ChallengingTaylorism",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 68.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the principles of autonomy, collaboration, and flexibility, which are core to Agile methodologies. The mention of the 'tyranny of Taylorism' and the emphasis on overcoming rigid processes indicates a critical engagement with Agile principles. However, the content primarily critiques existing practices rather than deeply exploring specific Agile principles or actionable guidelines, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 43.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content touches on agility and challenges traditional management philosophies, it primarily focuses on the critique of Taylorism and does not delve deeply into project management methodologies, tools, or practices as outlined in the category definition. The mention of agile principles provides some relevance, but lacks the necessary detail and practical strategies associated with full project management discussions.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 37.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content discusses aspects of agility and challenges traditional management practices. However, it does not specifically mention Open Space Agile or delve into its principles such as psychological safety, co-creation, or emergence. The discussion is more focused on critiquing Taylorism and identifying flaws in agile practices rather than exploring the Open Space Agile approach itself, which limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the ideology surrounding Taylorism and agility, focusing on cultural and philosophical aspects rather than specific tools or their functionalities. While it touches on themes relevant to Agile practices, it does not mention or analyze any specific tools that facilitate Agile workflows or improvements, which is crucial for a stronger alignment with the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily critiques Taylorism and discusses broader themes of agility and collaboration without mentioning specific Liberating Structures or their practical application. It does not provide any concrete methods for engagement or facilitation techniques, which are essential for alignment with the 'Liberating Structures' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Values",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of community, shared learning, autonomy, and collaboration, which aligns well with the category of Values. It critiques Taylorism for inhibiting human creativity and emphasizes the need for a cultural shift toward true agility, highlighting key values such as autonomy and collaboration. While there are direct implications about Agile Values, the content does not explicitly mention them, which affects the direct mentions dimension. However, the alignment and depth concerning values guiding workplace behaviors are quite strong.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "ChallengingTaylorism",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the philosophical implications of Taylorism versus agility, exploring foundational beliefs about workplace dynamics and the value of innovation over strict metrics. It strongly critiques traditional management philosophies and advocates for a more humane and collaborative approach to work, which aligns well with key topics in philosophy, particularly around the notion of autonomy and creative potential in agile environments. However, the discussion drifts into specific concerns about practices and events, slightly pulling it away from pure philosophical discourse.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 55.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content references agility and critiques Taylorism, highlighting a conflict between traditional productivity measures and modern agile principles. While it discusses the importance of shared learning and the application of agile concepts, it primarily focuses on identifying problems with existing practices rather than delivering a systematic exploration of discipline itself. The discussion is more centered on specific issues within agile implementation and less on the overarching principles, methodologies, and standards that define a discipline, thus limiting the depth of alignment with the 'Discipline' category.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses the concepts of Taylorism and agility but does not mention specific artifacts or their roles within Agile, Scrum, or Lean frameworks. While it critiques rigid processes and emphasizes flexibility, it does not explore or define any artifacts or their importance in transparency, empirical control, or effective practices. Consequently, it lacks direct mentions and detailed discussion relevant to the category of 'Artifact'.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses concepts related to agility and critiques Taylorism, without directly addressing observability or providing insights into measuring internal states of systems through metrics, logs, or traces. While it touches on the importance of collaboration and metrics, it does so in a way that does not connect to the core themes of observability, nor does it offer detailed discussions or practices related to its implementation.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on critiquing Taylorism and discussing agile principles rather than directly addressing Time to Market. While there are hints at innovation and collaboration, the specific metrics, strategies, and discussions relevant to improving Time to Market are absent. Therefore, it does not meet the criteria for strong alignment with the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 45.0,
+    "ai_mentions": 4,
+    "ai_alignment": 2.5,
+    "ai_depth": 1.5,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the concept of agility, emphasizing creativity and autonomy over rigid processes, which is somewhat related to product development methodologies like Agile. However, it primarily critiques Taylorism and highlights the challenges of adopting Agile principles rather than focusing deeply on product development practices. While there are mentions of Agile methodologies, the discussion is more philosophical and critical than practical, providing limited actionable insights related to product development strategies. The depth of analysis on the principles of Agile is also not extensive, which impacts the confidence score.",
+    "level": "Tertiary"
+  },
+  "Practice": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses concepts related to agility in the workplace, challenging outdated mindsets associated with Taylorism. However, it lacks specific actionable practices or techniques that teams can implement to improve their effectiveness, which is central to the 'Practice' category. While it touches on issues such as autonomy, collaboration, and resistance to change, these are framed more as philosophical critiques than as specific practices. Thus, the mentions of practices are low, the conceptual alignment is moderate as it does relate to agile principles but not actionable practices, and the depth of discussion is somewhat higher as it provides insights on identifying and addressing problematic agile implementations.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content addresses agile principles and critiques traditional management approaches like Taylorism, it does not explicitly discuss the concept of 'Company as a Product'. The mention of fostering creativity and collaboration aligns somewhat with CaaP, but does not engage with the framework of integrating customer feedback or organisational design as a product. The principles discussed focus more on agile practices in general rather than the organizational strategy defined by CaaP. Thus, the overall confidence is low, as it does not sufficiently engage with the foundational topics of the CaaP category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Method",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the negative aspects of Taylorism and the importance of agility in the workplace, but it does not offer a structured, step-by-step method or procedure relevant to the 'Method' category. While it touches upon themes of collaboration and resistance to change, which could relate to agile practices, there are no specific methods or procedures described. The conversation seems more philosophical and critical rather than instructional or procedural.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content does not directly discuss Unrealised Value or its indicators but critiques management practices that hinder innovation and agility. While it touches on themes of autonomy and collaboration, which could tie into the broader concept of untapped potential, these ideas are not the primary focus. The discussion mainly revolves around the consequences of Taylorism in organizations, which is a relevant topic but does not specifically address unrealised value in the context of Evidence-Based Management. Therefore, the confidence score remains quite low.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 20.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "While the content discusses agility and critiques Taylorism, it primarily focuses on the philosophical and cultural aspects of agility rather than the specific methodologies and frameworks associated with scaling Agile practices. It briefly mentions collaboration but lacks substantial detail on cross-team coordination or alignment with business goals, indicating a shallow approach to the scaling theme.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Model",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily critiques Taylorism and discusses the importance of autonomy and creativity over rigid processes, which aligns partially with agile principles. However, there is minimal direct discussion of specific models, frameworks, or methodologies relevant to the 'Model' category, such as the Cynefin Framework, Lean Startup principles, or specific decision-making models relevant to Agile, DevOps, or Lean contexts. The content does mention agility but lacks a focus on conceptual models or frameworks essential to qualify for a higher confidence score in the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T17:26:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses challenges related to Taylorism and advocates for true agility in the workplace, without a focus on current value metrics or the assessment of value delivery. Although it touches on concepts of autonomy and collaboration which might indirectly relate to value, it lacks explicit discussions on current value indicators, measurement, or evidence-based management practices.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the pitfalls of rigid processes and the importance of collaboration and flexibility in the context of agility, which aligns with some principles associated with Agile frameworks. However, it primarily focuses on criticizing Taylorism and identifying 'Agile BS' rather than providing structured methodologies or detailed discussions on specific Agile frameworks. The primary focus is on challenging existing beliefs rather than on frameworks themselves, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses themes related to agile practices, including autonomy, collaboration, and resistance to change, suggesting an awareness of agile tenets. However, it primarily focuses on critiquing Taylorism and the misuse of agile rather than outlining specific, actionable guiding rules or doctrines. The direct mention of agile principles is limited, and the content lacks detailed exploration of tenets or their application within an organization, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the concepts of agility and critiques management philosophies like Taylorism, which are tangentially related to Agile methodologies but do not mention GitHub or its services. It lacks direct references to GitHub or its functionalities, and while it aligns conceptually with themes of collaboration and team autonomy, it fails to dive into GitHub-specific practices or tools. Therefore, the evaluation yields a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 65.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content touches on themes relevant to Agnostic Agile, such as the importance of flexibility in agile practices and critiques of rigid processes. However, it primarily focuses on challenging traditional management concepts like Taylorism rather than explicitly discussing Agnostic Agile principles or methodologies. Discussions on creativity and true agility align tangentially, but the primary focus remains on critique rather than a deep dive into Agnostic Agile itself. Thus, while there are strong connections, the content does not center sufficiently on Agnostic Agile to achieve high confidence.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "56nUC8jR2v8",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T17:26:35",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the concept of agility and its contrast to Taylorism, touching on aspects related to capability such as autonomy, collaboration, and cultural shifts needed for true agility. However, it does not directly discuss enduring competencies or how these capabilities align with organizational performance, focusing more on critiques of current practices rather than defining capabilities themselves or how they can be developed. This results in a moderate confidence score as the core themes of capability are only partially met.",
+    "level": "Tertiary"
   }
 }

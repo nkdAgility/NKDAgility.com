@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:57:31",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Scrum in the context of stakeholder engagement and team morale, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:57:32",
@@ -28,29 +19,14 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T15:57:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholder engagement and team morale, which are important aspects of leadership in an Agile context, but the primary focus is on Scrum roles and events rather than leadership practices.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T15:57:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and engagement issues rather than specific events or presentations.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T15:57:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of feedback and stakeholder engagement in the context of Agile and Scrum, which relates to learning and discovery, but it primarily focuses on engagement rather than broader methodologies or processes of learning.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the importance of stakeholder engagement and team morale, which are relevant to leadership in an Agile context. However, it primarily focuses on the concept of 'famine' in Agile without delving deeply into leadership strategies or frameworks. The discussion lacks substantial detail on how leaders can inspire collaboration or drive cultural change, which are key themes in the leadership category.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -62,41 +38,29 @@
     "reasoning": "Content heavily discusses stakeholder engagement and team morale within the context of Agile and Scrum, which are not directly related to engineering excellence or software craftsmanship.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T15:57:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses stakeholder engagement and team morale in the context of Agile and Scrum, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:57:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses stakeholder engagement and feedback within the context of Scrum, which relates to product management, but it is primarily focused on Agile and Scrum practices rather than strategic product management.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T15:57:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and stakeholder engagement rather than providing news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses stakeholder engagement and feedback within the context of Agile and Scrum, which are relevant to product management. However, it lacks a comprehensive exploration of product management methodologies and frameworks, focusing more on the implications of engagement rather than strategic alignment or decision-making processes. The mention of Scrum roles indicates some relevance, but the overall depth and focus on product management principles are limited.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T15:57:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal engagement and reflections on stakeholder involvement in Agile, but it primarily focuses on the concept of 'famine' in Scrum rather than personal experiences or anecdotes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on personal engagement and reflections regarding stakeholder involvement in Agile practices, but it primarily focuses on the technical aspects of Scrum and the consequences of stakeholder disengagement. While there are elements of personal experience suggested, they are not the main focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -116,31 +80,28 @@
     "reasoning": "Content primarily discusses stakeholder engagement and team morale within the context of Agile and Scrum, rather than focusing on technical practices or methodologies that enhance engineering excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T15:57:50",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of stakeholder engagement and team morale within the context of Agile and Scrum, highlighting human factors that influence team dynamics and processes.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:57:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:30:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile practices and stakeholder engagement, with only a brief mention of DevOps at the end. While it touches on themes like feedback and collaboration, which are relevant to DevOps, the overall discussion is centred around Agile methodologies rather than the core principles of DevOps. The depth of discussion on DevOps is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:57:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum principles, particularly the importance of stakeholder engagement and feedback, which are central to Agile practices.",
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with the principles of collaboration and decision-making in social technologies. However, while it touches on these themes, the primary focus is on the concept of 'famine' in Agile rather than a comprehensive exploration of social technologies. The depth of discussion on frameworks and methodologies is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Continuous Learning": {
@@ -163,20 +124,26 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and the importance of stakeholder engagement, which are not central to Continuous Delivery.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses stakeholder engagement within Agile practices, focusing on feedback and team morale rather than Continuous Delivery principles. While it touches on the importance of feedback, it does not delve into Continuous Delivery's core themes such as automation, incremental improvements, or deployment strategies. The discussion is more aligned with Agile methodologies than with Continuous Delivery specifically.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses stakeholder engagement and morale in Agile, not Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and feedback within Agile practices, with no direct mention of Test First Development principles or practices. While it touches on the importance of feedback, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing methodologies. The depth of discussion is focused on engagement strategies rather than testing practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -190,10 +157,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses stakeholder engagement and team morale within the context of Agile and Scrum, with no reference to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -253,20 +220,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content addresses engagement with stakeholders and team morale within an Agile context, but primarily focuses on Scrum roles rather than leadership practices.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses stakeholder engagement and team morale within the context of Scrum, which aligns well with agile principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with the role of Agile leaders in facilitating change and fostering a culture of collaboration. It provides specific strategies for improving engagement, indicating a depth of discussion on leadership practices. However, while it touches on leadership aspects, it primarily focuses on stakeholder dynamics rather than the broader themes of Agile leadership, which slightly limits its overall alignment.",
     "level": "Secondary"
   },
   "Cross Functional Teams": {
@@ -280,20 +241,26 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content addresses issues related to stakeholder engagement, which is a key responsibility of the Product Owner, but does not primarily focus on the Product Owner's role or responsibilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and the role of the Product Owner in facilitating this engagement. It highlights strategies for improving feedback loops and maintaining alignment between the team and business goals, which are core responsibilities of a Product Owner. While it does touch on broader Agile concepts, the focus on the Product Owner's involvement and the consequences of their absence in stakeholder engagement provides a strong alignment with the category.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses stakeholder engagement and team morale in the context of Scrum, without focusing on lead time or its measurement.",
+    "calculated_at": "2025-04-11T09:22:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and the consequences of a lack of feedback in Agile practices, which does not directly address Lead Time. While it touches on themes of team productivity and alignment with business goals, it fails to mention Lead Time explicitly or provide any techniques for measuring or optimising it. The focus is on engagement rather than the time from initiation to delivery, which is the core of Lead Time.",
     "level": "Ignored"
   },
   "Strategy": {
@@ -316,12 +283,15 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and the consequences of a lack of feedback in an Agile context, making customer feedback a significant theme, but it is not the primary focus of the discussion.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of feedback in Agile practices, particularly highlighting the consequences of a lack of feedback (referred to as 'famine'). It provides strategies for engaging stakeholders and fostering a feedback culture, which aligns well with the core themes of customer feedback loops. However, while it touches on the topic, it does not delve deeply into specific methods for collecting and analysing feedback, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -330,15 +300,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses stakeholder engagement and feedback within a Scrum context, rather than focusing on coaching techniques or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum principles and stakeholder engagement rather than focusing on Scaling Kanban.",
     "level": "Ignored"
   },
   "Windows": {
@@ -379,20 +340,11 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses stakeholder engagement in the Agile context rather than directly focusing on methodologies for product validation.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -442,21 +394,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses stakeholder engagement and team morale, which are related to team collaboration dynamics, but the primary focus is on the issues of feedback and engagement rather than broader collaboration strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns closely with the themes of team collaboration. It provides detailed strategies for improving communication and fostering a culture of feedback, which are key aspects of effective teamwork. The depth of discussion on the consequences of disengagement and the proposed solutions indicates a strong focus on enhancing team dynamics, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content mainly discusses engagement and feedback in an Agile context, it touches on the importance of feedback loops, which is relevant to metrics and learning. However, the primary focus is on stakeholder engagement rather than systematic learning and metrics.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of feedback in Agile practices, which aligns with the core themes of metrics and learning. It highlights the consequences of a lack of feedback and suggests strategies for improving stakeholder engagement, which indirectly relates to metrics and continuous improvement. However, the primary focus is on engagement rather than metrics themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -532,20 +490,11 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, particularly focusing on stakeholder engagement rather than product strategy.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses team engagement and feedback within the Scrum framework, without addressing broader organisational scaling strategies or practices.",
+    "reasoning": "Content heavily discusses Scrum roles and events, particularly focusing on stakeholder engagement rather than product strategy.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -559,39 +508,27 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement and morale, which are relevant to organisational psychology, but the focus is primarily on Agile and Scrum practices.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content predominantly focuses on stakeholder engagement and team morale within Scrum, with no direct mention of AI or automation.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on stakeholder engagement and team morale, which are relevant to organisational psychology. However, it primarily focuses on Agile and Scrum methodologies rather than exploring psychological principles or theories in depth. The discussion lacks substantial detail on core themes such as motivation, leadership styles, or team dynamics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content addresses stakeholder engagement and feedback within a Scrum context, making Scrum a significant theme, but it is not the primary focus.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses stakeholder engagement and team morale in Agile without specific reference to tools, techniques, or methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 20,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within the context of Scrum, particularly highlighting the role of the Product Owner. However, while it touches on Scrum dynamics, it primarily focuses on broader Agile principles and does not delve deeply into specific Scrum roles or team collaboration techniques. The discussion is relevant but lacks the depth and direct focus required for a higher confidence score.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -604,12 +541,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content addresses Scrum in the context of stakeholder engagement and team morale, making it a major but secondary theme related to the Scrum Master role.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within an Agile context, which is relevant to the Scrum Master's role in facilitating communication and collaboration. However, it does not explicitly focus on the Scrum Master role itself, nor does it delve deeply into the specific responsibilities or techniques associated with being a Scrum Master. The mention of the product owner and general Agile practices indicates some alignment, but the primary focus is on stakeholder engagement rather than the Scrum Master role.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -620,30 +560,24 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on team-level practices and stakeholder engagement rather than enterprise agility.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without focusing on specific products or literature. It does not provide reviews, analyses, or discussions on relevant resources.",
-    "level": "Ignored"
-  },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses stakeholder engagement, which is a key aspect of the Sprint Review, but is primarily focused on the broader context of Agile and not specifically on Sprint Reviews.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses stakeholder engagement and feedback, which are relevant to the Sprint Review process, but it does not explicitly mention the Sprint Review itself or provide detailed insights into its structure or purpose. The focus is more on general Agile practices rather than a specific examination of the Sprint Review event.",
     "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses stakeholder engagement and feedback in the context of Scrum, rather than focusing on methodologies for identifying customer needs or defining product features.",
     "level": "Ignored"
   },
@@ -665,15 +599,6 @@
     "reasoning": "Content heavily discusses Agile and Scrum, with no substantial reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the lack of feedback and engagement with stakeholders, which are related to transparency and accountability in Agile teams. However, it primarily centers around the concept of stakeholder engagement and morale rather than explicitly focusing on transparency and accountability as primary themes.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T23:36:05",
@@ -685,12 +610,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholder engagement and team morale within the context of Agile and Scrum, touching on the social aspects of software development. However, it primarily focuses on engagement and feedback rather than a deep exploration of the sociotechnical systems framework, which limits its relevance to this category.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with the sociotechnical systems theme of the interplay between social dynamics (stakeholder engagement) and technical processes (Agile methodologies). However, while it touches on these aspects, it does not delve deeply into the broader implications of sociotechnical systems or provide extensive detail on organisational structures or culture. The focus is primarily on practical strategies for engagement rather than a comprehensive exploration of sociotechnical interactions.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -701,23 +629,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events, without a focus on version control practices.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without addressing scaling Agile practices or enterprise-level initiatives.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholder engagement and team morale within the context of Scrum, indicating a secondary theme related to change management principles, though it primarily focuses on issues of engagement rather than a comprehensive discussion on change management.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with change management principles. It highlights strategies for fostering a culture of feedback and adaptability, directly addressing the need for effective change management in Agile environments. However, while it touches on key topics, it does not delve deeply into broader change management strategies or leadership roles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -739,14 +661,17 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in an agile context, which relates to team dynamics and collaboration, central themes in technical leadership. However, it mainly focuses on the issue of stakeholder engagement rather than providing comprehensive insights on technical leadership.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile environments, which aligns with the principles of technical leadership. However, it primarily focuses on the concept of 'famine' in feedback rather than directly addressing technical leadership strategies or practices. While it touches on mentoring and fostering a feedback culture, it lacks depth in discussing specific technical leadership techniques or agile ceremonies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:36:05",
     "ai_confidence": 0,
@@ -766,21 +691,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "Content primarily discusses the importance of stakeholder engagement in the Agile context, which aligns with Agile Product Management themes, but it is slightly diluted by a mix of casual commentary and a focus on video engagement.",
-    "level": "Secondary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses stakeholder engagement and team morale within the context of Scrum, but does not focus on scaling Scrum or related frameworks and practices.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of stakeholder engagement within Agile frameworks, particularly in relation to Scrum. It addresses the role of the Product Owner and provides strategies for enhancing feedback and collaboration, which are core themes of Agile Product Management. The depth of discussion is substantial, covering the consequences of disengagement and offering practical solutions, thus aligning well with the category's focus.",
+    "level": "Primary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -793,11 +712,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:22:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses stakeholder engagement and morale in Agile without addressing throughput measurement or optimization.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and the consequences of a lack of feedback in Agile practices, which does not directly address throughput as a delivery metric. While it touches on the importance of feedback and engagement, it does not define or calculate throughput, nor does it provide insights into visualising or analysing throughput metrics. The discussion is more focused on improving team morale and alignment with business goals rather than on throughput itself.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -820,10 +742,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on stakeholder engagement and team morale rather than discussing the Definition of Ready for backlog items.",
     "level": "Ignored"
   },
@@ -838,21 +760,12 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on stakeholder engagement and team morale in Scrum, without discussing Agile Planning Tools or their functionalities.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within a Scrum context, making Scrum a major theme, but does not focus extensively on core Scrum practices.",
-    "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -874,10 +787,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses engagement issues within Scrum, rather than measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
@@ -910,21 +823,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions stakeholder engagement and team morale, which are relevant to team motivation, but the focus is more on the agile context and the signs of engagement issues rather than specific motivational strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the importance of stakeholder engagement and feedback in Agile, which directly relates to team motivation. It highlights the negative impact of disengagement on team morale and productivity, aligning well with the core themes of fostering collaboration and building trust. The depth of discussion is substantial, providing specific strategies for enhancing engagement, which further supports the classification.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on stakeholder engagement and Scrum roles rather than the Agile Product Operating Model as a central theme.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses stakeholder engagement and feedback within an Agile context, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on the concept of 'famine' in Agile practices rather than explicitly addressing the APOM framework or its core themes. The discussion lacks depth in terms of product management principles and does not sufficiently cover the transition from project to product ethos, which is central to the APOM. Therefore, while there are relevant elements, the content does not fully meet the criteria for a strong alignment with the Agile Product Operating Model.",
+    "level": "Tertiary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -937,10 +856,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile concepts, particularly Scrum, and does not focus on Lean Product Development principles or waste reduction.",
     "level": "Ignored"
   },
@@ -973,12 +892,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in the context of Scrum and Agile methodologies, which are relevant to product delivery. However, the main focus appears to be on engagement issues rather than the overall product delivery process.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which are crucial for effective product delivery. It highlights the consequences of a lack of feedback and provides strategies for improving engagement, aligning well with the core themes of product delivery. However, while it touches on relevant aspects, it does not delve deeply into methodologies or practices specific to the end-to-end delivery process, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -991,21 +913,27 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content addresses the importance of stakeholder engagement and feedback in an Agile context, which aligns with the broader themes of collaboration and value delivery in Agile philosophy, but it is largely focused on Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with the Agile Philosophy's emphasis on collaboration and continuous improvement. However, it primarily focuses on Scrum-specific practices and does not delve deeply into the broader implications of Agile as a mindset. The discussion is relevant but somewhat limited in scope, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum concepts, specifically focusing on stakeholder engagement and team morale, which are important aspects of the software development process.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses Agile practices, specifically focusing on stakeholder engagement within the Scrum framework. It directly addresses the importance of feedback in Agile development, which aligns well with core themes of the Software Development category. The depth of discussion is substantial, providing strategies for improving engagement and the consequences of neglecting it. Overall, the content is highly relevant to software development methodologies, particularly Agile, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1027,28 +955,34 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and its impact on team morale and performance within an Agile context, making it a secondary theme despite not focusing primarily on team dynamics or performance strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the importance of stakeholder engagement and feedback in Agile practices, which directly relates to team performance. It highlights the consequences of a lack of feedback on team morale and productivity, aligning well with the core themes of enhancing team dynamics and communication. The depth of discussion is substantial, providing specific strategies for improving engagement and fostering a feedback culture, which are critical for maximising team effectiveness. Overall, the content is focused on team performance within an Agile context, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholder engagement and feedback in the context of Scrum, which relates to delivering value to customers. However, it does not focus primarily on value delivery methodologies or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile practices, which directly relates to value delivery. It highlights the consequences of a lack of feedback and offers strategies to enhance engagement, aligning well with the core themes of iterative development and customer value maximisation. The depth of discussion is substantial, providing specific strategies and insights, though it could further elaborate on value measurement techniques.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses stakeholder engagement and team morale, without addressing the Definition of Done.",
     "level": "Ignored"
   },
@@ -1059,15 +993,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on stakeholder engagement rather than Continuous Integration principles or practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a clear focus on the application of AI in Agile or DevOps.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1081,12 +1006,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses stakeholder engagement and feedback within an Agile context, which relates to Agile values, but is primarily focused on Scrum practices and implications.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with Agile values of collaboration and customer-centricity. However, it primarily focuses on Scrum practices and does not delve deeply into the core Agile values or principles themselves. The mention of feedback culture and engagement reflects Agile principles but lacks a comprehensive exploration of the Agile Manifesto or its twelve principles.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1097,58 +1025,61 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are more related to specific agile practices than to overarching organisational change frameworks or methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholders' engagement and team morale in an Agile context, which is relevant to software developers, but the primary focus is on stakeholder engagement rather than the role of developers specifically.",
-    "level": "Tertiary"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses stakeholder engagement and feedback in Agile contexts, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and feedback within Agile practices, which is relevant to improving outcomes but does not explicitly focus on Evidence-Based Management principles. While it touches on the importance of feedback and alignment with business goals, it lacks a strong emphasis on empirical evidence or metrics that define EBM. The discussion is more about Agile practices than data-informed decision-making.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholder engagement and feedback in the context of Agile, which relates to enhancing market adaptability; however, it primarily focuses on Scrum roles and events rather than broader market adaptability strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with the principles of adaptability in responding to market needs. However, while it touches on relevant themes, it primarily focuses on engagement strategies rather than broader market adaptability strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses stakeholder engagement and feedback within the Agile context, but it does not focus primarily on Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with Agile Planning principles. It highlights strategies for maintaining alignment and communication, which are key aspects of Agile methodologies. However, while it touches on relevant topics, it does not delve deeply into Agile Planning techniques or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:36:05",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses stakeholder engagement and team morale, rather than focusing on the Product Backlog or its management.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:22:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and stakeholder engagement, which are not related to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, stakeholder engagement, and team morale, with no direct mention of system configuration or related topics. While it discusses the importance of feedback and engagement in Agile practices, it does not align with the core themes of system configuration, such as configuration management tools, system optimisation, or automation. The depth of discussion is also limited to Agile practices, further distancing it from the category of system configuration.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1162,30 +1093,27 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses engagement with stakeholders and the impact of feedback on team morale, but it is primarily centered on Scrum and agile methodologies, which makes employee engagement a secondary theme.",
-    "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a focus on the One Engineering System framework.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile practices, which directly relates to employee engagement. It highlights the consequences of disengagement and offers strategies to foster a culture of feedback and collaboration, aligning well with the core themes of motivation and commitment. However, the primary focus is on Agile processes rather than a broader exploration of employee engagement, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on Scrum concepts and the importance of stakeholder engagement within an Agile context, but primarily focuses on issues related to stakeholder involvement rather than a deep exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses Agile concepts, particularly within the context of Scrum, and addresses the importance of stakeholder engagement, which is a core aspect of Agile frameworks. It provides practical strategies for enhancing feedback and collaboration, aligning well with the principles of Agile. The depth of discussion is substantial, covering consequences of disengagement and methods to foster a feedback culture, thus demonstrating a strong alignment with the category.",
+    "level": "Primary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1198,12 +1126,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholder engagement and feedback in the context of Agile and Scrum, which relates to customer satisfaction, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile practices, which indirectly relates to customer satisfaction. However, it does not explicitly mention customer satisfaction metrics or strategies for enhancing customer experience. The focus is more on team morale and stakeholder involvement rather than directly addressing customer satisfaction as a primary theme.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1216,12 +1147,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of feedback and engagement in Scrum, which relates to transparency and adaptation in empirical process control but is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile practices, which aligns with the principles of empirical process control. However, it primarily focuses on the consequences of a lack of feedback (termed 'famine') and strategies to improve engagement rather than explicitly discussing empirical process control itself. While it touches on key themes such as feedback and adaptation, it does not delve deeply into the theoretical foundations or specific practices of empirical process control, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1234,12 +1168,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to engagement and feedback in Scrum, which are practical aspects of Agile thinking. However, it does not delve deeply into practical problem-solving strategies or real-world applications, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions Scrum and the importance of stakeholder engagement, which aligns with pragmatic thinking in Agile contexts. However, it lacks detailed practical problem-solving strategies or in-depth discussions on navigating complexity, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1252,12 +1189,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement with stakeholders and team morale, which relates to organisational culture. However, the primary focus seems to be on Agile practices rather than culture explicitly.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, highlighting how a lack of engagement can lead to a culture of indifference and stagnation. It aligns well with the themes of organisational culture by addressing how cultural elements impact team morale and productivity. The strategies provided for fostering engagement and creating a feedback culture further demonstrate a deep understanding of the relationship between culture and Agile methodologies. However, while the focus is primarily on engagement, it does not delve deeply into broader cultural dimensions or leadership roles, which slightly limits its overall depth.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1270,30 +1210,39 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly discusses Scrum in relation to stakeholder engagement and feedback, but primarily focuses on broader agile issues, which makes it a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within the Agile framework, which is relevant to Scrum practices. However, it does not delve deeply into specific Scrum roles, events, or artifacts as outlined in the Scrum Guide. While it touches on the role of the Product Owner and mentions retrospectives, the overall focus is more on general Agile principles rather than a thorough exploration of Professional Scrum.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses struggles within the Scrum framework, particularly around stakeholder engagement and feedback, which are relevant to Agile transformation. However, it does not provide a comprehensive discussion on Agile transformation methodologies or strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses Agile practices, particularly focusing on stakeholder engagement and feedback, which are crucial for successful Agile transformation. It aligns well with the core themes of Agile transformation by addressing the importance of communication and collaboration within Agile teams. The depth of discussion is substantial, providing strategies for improving stakeholder involvement and the consequences of disengagement. However, while it touches on Agile principles, it does not delve deeply into broader frameworks or methodologies, which slightly limits its overall alignment.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of stakeholder engagement and team morale within the context of Agile, specifically Scrum, which suggests a focus on Agile principles. However, it does not delve deeply into strategic alignment or long-term Agile strategy implementation.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with the core themes of Agile Strategy. It addresses the consequences of disengagement and offers strategies for improvement, demonstrating a clear understanding of how these elements contribute to organisational success. The depth of discussion is substantial, providing actionable insights and reflecting on the reciprocal relationship between stakeholders and teams. However, while it touches on strategic aspects, it primarily focuses on practical implementations rather than a broader strategic framework, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1324,21 +1273,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses stakeholder engagement and team morale in the context of Agile and Scrum, highlighting principles that foster responsiveness, but it primarily focuses on specific challenges rather than broader organisational agility themes.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with the principles of organisational agility. It highlights the consequences of disengagement and offers strategies to enhance engagement, reflecting a focus on adaptability and responsiveness. However, while it touches on key themes, the depth of discussion on broader organisational agility concepts is limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses engagement and feedback in the context of Agile methodologies, highlighting aspects related to the importance of stakeholder involvement, which is relevant to business agility. However, the focus is primarily on Scrum and related practices, making business agility a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns with the principles of business agility. However, it primarily focuses on Scrum and Agile methodologies rather than broader business agility concepts. While it touches on the need for alignment with business goals and fostering a culture of feedback, it lacks a comprehensive exploration of business agility as a primary focus.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1374,6 +1329,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses engagement and feedback within Scrum, which is a synchronous framework, rather than focusing on asynchronous development practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:48:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:48:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 30,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Scrum in the context of stakeholder engagement and team morale, which are relevant to Scrum principles. However, it does not delve deeply into the Scrum framework, roles, or events, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and feedback within Agile practices, which does not directly address the Shift-Left Strategy. While it touches on the importance of feedback loops, it lacks explicit references to integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile practices, which aligns with the principles of Continuous Improvement. It highlights the consequences of a lack of feedback and suggests strategies for fostering a feedback culture, which are relevant to the category. However, the primary focus is on engagement rather than a comprehensive exploration of Continuous Improvement methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile, which relates to aligning team efforts with business goals. However, it primarily focuses on the consequences of a lack of feedback and strategies for engagement rather than explicitly defining or exploring Common Goals as a concept. While it touches on alignment with business objectives, it does not delve deeply into the foundational principles of Common Goals within Agile and DevOps frameworks.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and feedback in Agile practices, which are indirectly related to competence. While it touches on the importance of feedback for team morale and productivity, it does not explicitly address continuous learning or skill development, which are core to the competence category. The discussion lacks depth in exploring how competence can be fostered or measured, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:30:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices and stakeholder engagement, with no direct mention of the One Engineering System (1ES) framework. While it discusses the importance of feedback and team morale, it does not align with the core themes of 1ES, such as integration of tools and processes or standardisation across teams. The depth of discussion is limited to Agile methodologies, which are not the focus of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses stakeholder engagement and feedback within Agile practices, which touches on aspects of intentionality and alignment with business goals. However, it does not explicitly mention Agentic Agility or differentiate between human and AI capabilities. The focus is primarily on improving team morale and productivity rather than on the transformative capacity of individuals or systems to shape outcomes intentionally.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T09:21:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of stakeholder engagement and feedback within Agile practices, which aligns closely with the principles of iterative development and customer feedback loops. It provides detailed strategies for enhancing engagement and mitigating risks associated with lack of feedback, demonstrating a strong understanding of product development methodologies. The depth of discussion is significant, as it explores the consequences of disengagement and offers actionable solutions, reinforcing the content's relevance to product development.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T09:21:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses stakeholder engagement and feedback within Agile practices, which are relevant to Agile principles. However, it does not explicitly mention Open Space Agile or its core concepts such as psychological safety, co-creation, or iterative dialogue. The focus is primarily on Scrum and general Agile practices rather than the specific methodologies of Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T09:21:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and feedback within the context of Agile practices, particularly Scrum. While it touches on the importance of engagement and feedback, it does not explicitly mention Agnostic Agile or its principles. The focus is more on the mechanics of Scrum rather than a broader discussion of agility tailored to context, which is central to Agnostic Agile. The depth of discussion is limited to strategies for improving stakeholder involvement, lacking a comprehensive exploration of Agnostic Agile's philosophy or comparisons with other frameworks.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T09:21:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and feedback within Agile practices, which is more aligned with general Agile principles rather than the specific complexities of scaling Agile across multiple teams. While it touches on the importance of alignment with business goals, it lacks a detailed exploration of frameworks or methodologies for scaling, such as SAFe or LeSS. The discussion is more focused on individual team dynamics and engagement rather than the broader coordination and integration challenges faced in scaling efforts.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T09:21:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on stakeholder engagement and feedback within Agile practices, specifically Scrum. It does not directly mention or discuss the principles of Cell Structure Design, nor does it explore the characteristics of autonomous cells or decentralised structures. While there is a brief mention of team dynamics and engagement, it lacks depth in relation to the core themes of Cell Structure Design, such as complexity theory or the comparison with traditional hierarchies.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T09:21:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses stakeholder engagement and feedback within Agile practices, which are relevant to group dynamics and collaboration. However, it does not explicitly mention Liberating Structures or their specific techniques. The focus is primarily on Agile methodologies rather than the facilitation techniques that characterise Liberating Structures. While there is some alignment with the themes of enhancing participation and collaboration, the depth of discussion on Liberating Structures is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T09:22:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses stakeholder engagement and feedback within Agile practices, which indirectly relates to Time to Market by emphasising the importance of alignment and communication for effective delivery. However, it does not explicitly mention Time to Market or provide metrics or strategies specifically aimed at reducing the time from conception to delivery. The focus is more on engagement and morale rather than the efficiency of delivering market-ready products.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T09:22:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses stakeholder engagement and feedback within an Agile framework, which touches on aspects of organisational dynamics. However, it primarily focuses on Agile practices rather than explicitly conceptualising the company as a product. The mention of aligning with business goals hints at customer-centric strategies, but the overall discussion lacks depth in exploring the principles of CaaP or its broader implications on organisational culture and structure.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T09:22:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and stakeholder engagement without any direct mention of GitHub or its functionalities. While it touches on concepts relevant to Agile methodologies, it does not align with GitHub's core themes, such as version control, collaboration features, or CI/CD pipelines. The depth of discussion is focused on engagement strategies rather than GitHub-specific practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T09:22:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile practices, which indirectly relates to the concept of Unrealised Value by highlighting the potential for improvement and innovation through better engagement. However, it does not explicitly mention Unrealised Value or provide detailed insights into measuring or identifying untapped opportunities. The focus is more on the consequences of lack of feedback rather than exploring the potential value that could be realised through improvements, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T09:22:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile practices, which indirectly relates to Current Value by highlighting how engagement can impact team morale and productivity. However, it does not explicitly mention Current Value or provide metrics or techniques for measuring it. The focus is more on the consequences of lack of feedback rather than a real-time assessment of value delivered, which limits its alignment with the core themes of Current Value in Evidence-Based Management.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T09:22:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses stakeholder engagement and feedback within Agile practices, which is relevant to Agile methodologies but does not explicitly address Hybrid Agile or its challenges. While it touches on issues like misalignment and the importance of engagement, it lacks a critical examination of the integration of traditional project management with Agile practices, which is central to the Hybrid Agile category. The discussion is more focused on enhancing Agile practices rather than analysing the pitfalls of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T09:22:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on stakeholder engagement within an Agile context, which is a specific aspect of project management. While it discusses the importance of feedback and team morale, it does not cover broader project management principles or methodologies comprehensively. The mention of Agile practices and roles, such as the product owner, indicates a limited scope that aligns more with Agile-specific discussions rather than the wider project management category. Therefore, while there is some relevance, the depth and breadth of the discussion do not fully meet the criteria for a strong alignment with project management as a whole.",
+    "level": "Secondary"
+  },
+  "Principle": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 24,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the concept of stakeholder engagement within Agile practices, which aligns with the principle of Customer Collaboration. It emphasizes the importance of feedback, team morale, and aligning with business goals, showing actionable strategies for fostering engagement. While it doesn't explicitly list Agile principles, the discussion reflects the principles effectively, indicating a solid understanding of how to implement them in practice. The depth of discussion about engagement strategies and consequences of disengagement contributes positively to the confidence score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions tools like Kanban boards and burndown charts in the context of visualizing progress, which is a very lightweight reference to tools. However, the main focus of the content is on engaging stakeholders and the consequences of feedback scarcity, which do not align closely with the primary focus of the 'Tool' category. There are minimal direct discussions about the mechanisms, techniques, or software applications that support Agile practices, and the bulk of the content is centered around engagement strategies and stakeholder relationships rather than a detailed exploration of tools and their functionalities.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 17,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback in Agile practices, which can be related to underlying values of collaboration and respect for contributions. However, the primary focus is more on practical strategies rather than directly addressing foundational beliefs. While it highlights the consequences of disengagement and emphasizes a culture of feedback—a value aligned with Agile philosophy—the depth of exploration into core values is somewhat limited. The mention of a reciprocal relationship suggests an ethical dimension but lacks a deeper philosophical discussion of values.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 3,
+    "ai_alignment": 2,
+    "ai_depth": 100.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "Although the content discusses the importance of stakeholder engagement within Agile practices, it primarily focuses on practical strategies and specific practices rather than exploring the philosophical underpinnings of Agile. The title and description suggest a practical approach to Agile challenges, which diverts from the philosophical exploration intended for this category. There are mentions of broader themes such as team dynamics and the value of feedback, but these are not sufficiently developed in a philosophical context. The overall focus remains on the procedural aspects of engagement, which makes it less aligned with the core objectives of the Philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 55.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses Agile practices with a focus on stakeholder engagement and team morale, which are important aspects of Agile methodology. However, it primarily revolves around the application of techniques and strategies rather than a deeper exploration of the discipline itself or its underlying principles. While the topic is relevant to Agile as a discipline, the lack of structured discussion on governance, ethical considerations, or the maturation of the discipline limits its alignment with the core themes of 'Discipline'. Overall, the content provides useful insights and strategies, but it does not fully encapsulate the systemic aspects of a discipline.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses stakeholder engagement within Agile but does not explicitly mention any artifacts or delve into their importance or roles. While it explores the consequences of a lack of feedback, which is somewhat related, it does not fit the definition of artifacts focused on formal representations of work nor does it discuss specific artifact types or best practices. Thus, the primary focus remains on engagement strategies instead of artifacts, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "combatting-famine-agile",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 2,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content does not focus on observability concepts but rather discusses the importance of stakeholder engagement and feedback within Agile practices. While it mentions the need for regular check-ins and visualizing progress, these points do not fundamentally relate to observability as defined in the criteria. The main emphasis is on communication and engagement, which falls outside the primary focus of observability in software systems.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 65.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content does touch on practical elements to combat the issue of stakeholder engagement, which relates to Agile practices like regular check-ins and creating a feedback culture. However, it primarily focuses on identifying a problem (feedback famine) rather than deeply exploring actionable techniques or repeatable practices that improve team effectiveness. While it suggests some strategies, the depth of discussion on these practices is moderate, and it lacks explicit, structured methodologies that would fit squarely into the 'Practice' category.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement in Agile contexts, which implies some methods for improving feedback loops and team morale. However, it primarily focuses on the issue of 'famine' and more general strategies rather than a structured, procedural method like Scrum or Kanban. The article includes mentions of Scrum practices and some methods to engage stakeholders, but it does not delve into specific, structured procedures, thus limiting its depth and alignment with the Method category.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses engagement and feedback in Agile contexts, but it does not directly address conceptual models or frameworks, which are crucial for the 'Model' category. The focus is on stakeholder engagement strategies rather than on a specific model that would inform decision-making or improve systems thinking. While it mentions the importance of using tools like Kanban boards, it doesn't explore their conceptual framework in depth. Thus, it meets some criteria but does not strongly align with the expectations for the 'Model' classification.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 65.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of 'famine' in Agile practices, specifically linking it to the Scrum framework and emphasizing the importance of stakeholder engagement, feedback, and team morale. While it mentions Agile and Scrum explicitly, it does not dive deeply into structured methodologies or rules associated with Agile frameworks. The strategies proposed are practical but lean more towards general Agile practices than a direct examination of a specific framework's implementation or comparison. Overall, while relevant, the content does not fully meet the criteria for a primary discussion on a framework.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 50,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement in Agile, which aligns with the prescriptive nature of Agile practices and reflects a core tenet regarding the role of feedback. However, while it emphasizes actionable strategies to improve engagement and feedback loops, the overall focus is somewhat generalized without detailing specific tenets of Agile methodologies like decentralization or continuous improvement. The discussion illustrates the concept of feedback culture but lacks specific references to established Agile tenets, leading to a mid-range confidence score.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "k4F9DSE99Ok",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:38:38",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of stakeholder engagement and feedback within Agile frameworks, which could relate to capabilities. However, it primarily focuses on the challenges of feedback scarcity (referred to as 'famine') rather than detailing the development of enduring competencies. The strategies suggested are more about addressing engagement than cultivating capabilities, which is a secondary concern. The discussion lacks depth on how these strategies translate into sustainable and adaptive organizational capabilities, resulting in a lower overall confidence score.",
     "level": "Ignored"
   }
 }

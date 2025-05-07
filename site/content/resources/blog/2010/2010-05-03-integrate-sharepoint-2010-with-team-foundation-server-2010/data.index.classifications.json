@@ -8,15 +8,6 @@
     "reasoning": "The content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, which does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:44:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical integration of SharePoint 2010 with Team Foundation Server 2010, detailing specific steps, configurations, and tools involved in the process.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T00:44:40",
@@ -28,66 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:44:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, without any focus on evidence-based management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:44:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration process between SharePoint 2010 and Team Foundation Server 2010, focusing on installation and configuration steps rather than code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:44:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical implementation details of integrating SharePoint 2010 with Team Foundation Server 2010, without discussing processes or methodologies related to discovery and learning.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:44:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the integration of SharePoint with Team Foundation Server, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking any discussion on Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts such as current value, time to market, or empirical decision-making, and the depth of discussion is entirely centred on installation and configuration processes.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T00:44:47",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:44:48",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content provides detailed, step-by-step instructions on installing and configuring the integration between SharePoint 2010 and Team Foundation Server 2010, which aligns closely with the key topics of the 'Install and Configuration' category.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed, step-by-step guide on integrating SharePoint 2010 with Team Foundation Server 2010, which directly aligns with the 'Install and Configuration' category. It discusses installation procedures, configuration settings, and troubleshooting tips, demonstrating a strong focus on the technical aspects of setting up and configuring these tools. The depth of discussion is substantial, covering various configuration steps and considerations, which enhances its relevance to the category.",
     "level": "Primary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:44:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical integration between SharePoint 2010 and Team Foundation Server 2010, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -100,30 +61,24 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-16T00:44:51",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical integration of SharePoint and Team Foundation Server, without addressing the interplay between social and technical systems or organisational structures.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:44:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical integration between SharePoint 2010 and Team Foundation Server 2010, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which relates to DevOps practices in terms of streamlining workflows and enhancing collaboration between development and operations teams. However, the primary focus is on the technical steps for integration rather than broader DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, which is more aligned with project management and specific tool usage rather than the broader DevOps philosophy. While it touches on collaboration aspects, it lacks a comprehensive discussion on DevOps principles such as automation, shared accountability, or cultural shifts necessary for effective DevOps implementation.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:44:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical integration between SharePoint 2010 and Team Foundation Server 2010, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:45:00",
@@ -161,21 +107,12 @@
     "reasoning": "Content primarily discusses the integration process between SharePoint 2010 and Team Foundation Server 2010, with no focus on optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:45:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical integration steps between SharePoint 2010 and Team Foundation Server 2010, with no significant discussion on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-16T00:45:03",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking discussions on enterprise agility principles or organisational adaptability.",
     "level": "Ignored"
   },
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:45:11",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the integration of SharePoint 2010 with Team Foundation Server 2010, detailing installation and configuration processes. While it touches on technical practices, it does not delve deeply into broader engineering methodologies or principles that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the integration of SharePoint 2010 with Team Foundation Server 2010, detailing installation and configuration steps. While it touches on technical aspects, such as the installation of extensions and configuration settings, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The content does not explicitly mention key topics like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there are technical elements present, they do not align closely enough with the core themes of the category.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -260,15 +200,6 @@
     "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:45:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, without focusing on reviews, analyses, or discussions of products or literature related to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T00:45:25",
@@ -280,11 +211,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:45:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which is a component of Azure DevOps. It provides detailed instructions and configurations related to TFS, aligning with Azure DevOps functionalities.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which is a part of the Azure DevOps suite. However, it focuses more on the technical steps for integration rather than broader Azure DevOps functionalities or best practices. While it does mention TFS, which is relevant to Azure DevOps, the discussion lacks depth in terms of CI/CD practices, agile project management, or collaboration methodologies that are central to Azure DevOps. Therefore, while it is relevant, it does not fully align with the core themes of the Azure DevOps category.",
     "level": "Secondary"
   },
   "Personal": {
@@ -298,29 +232,32 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-16T00:45:29",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking discussions on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:45:30",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on integrating SharePoint 2010 with Team Foundation Server 2010, which does not align with the core principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:45:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, with no focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, which is more aligned with traditional project management and technical setup rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The discussion lacks depth in relation to agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +269,16 @@
     "reasoning": "Content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking discussions on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:45:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical integration steps between SharePoint 2010 and Team Foundation Server 2010, lacking discussions on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of SharePoint with Team Foundation Server, which relates to managing software applications, but primarily focuses on technical setup rather than the broader aspects of application lifecycle management.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:45:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, with no clear focus on Scrum principles, roles, events, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, which is a specific implementation detail rather than a broader discussion on Application Lifecycle Management. While it touches on aspects of application deployment and configuration, it lacks a comprehensive exploration of the application lifecycle stages, governance, or best practices that are central to ALM. The discussion is more about setup and configuration rather than lifecycle management principles.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +292,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:54:31",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010 and does not mention the Definition of Done or its key principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:54:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical steps involved in integrating SharePoint 2010 with Team Foundation Server 2010, including installation, configuration, and customization processes, which align with best practices in software engineering and architecture.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, detailing installation and configuration steps. While it does touch on technical practices, such as the setup of managed paths and permissions, it lacks a broader discussion on software craftsmanship principles, clean code, or methodologies that contribute to high-quality software development. The depth of discussion is practical but does not delve into best practices or principles of software engineering excellence.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +322,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint 2010 with Team Foundation Server 2010, which is more about project management and collaboration rather than Continuous Delivery practices. While it touches on aspects of software integration, it does not discuss Continuous Delivery principles, automation, or the delivery of incremental improvements, which are central to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:54:31",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration process between SharePoint 2010 and Team Foundation Server 2010, without mentioning or focusing on the Definition of Ready (DoR) or its related criteria.",
     "level": "Ignored"
   },
@@ -460,10 +388,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-16T00:54:31",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the integration of SharePoint with Team Foundation Server and does not focus on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -496,10 +424,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:54:31",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical integration of SharePoint with Team Foundation Server rather than focusing on Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
@@ -559,10 +487,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:54:31",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical integration of SharePoint and Team Foundation Server rather than team performance or collaboration.",
     "level": "Ignored"
   },
@@ -586,28 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:54:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration process between SharePoint 2010 and Team Foundation Server 2010, covering specific configurations related to software development tools, which aligns with software development practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:54:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on integrating SharePoint with Team Foundation Server, with no significant discussion of Agile principles, methodologies, or project management practices.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed guide on integrating SharePoint 2010 with Team Foundation Server 2010, which is a specific software development practice. It discusses installation steps, configuration settings, and the implications of these integrations on project management and collaboration, aligning well with the Software Development category. The depth of discussion is significant, covering various technical aspects and configurations necessary for successful integration, thus demonstrating a strong focus on software engineering practices.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:54:31",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical integration of SharePoint 2010 with Team Foundation Server 2010, without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -631,10 +553,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the integration of SharePoint and Team Foundation Server, with no discussion of empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -658,19 +580,22 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content provides detailed instructions on integrating SharePoint 2010 with Team Foundation Server 2010, which is related to collaboration tools. However, the main focus appears to be on technical setup and configuration rather than a broader discussion of collaboration tools in Agile environments.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which relates to collaboration tools. However, it primarily focuses on technical setup and configuration rather than on enhancing communication and coordination within Agile teams. While it mentions features that could support collaboration, it lacks a broader discussion on best practices or the impact of such tools on team dynamics.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical integration of SharePoint and Team Foundation Server, with no focus on organisational change strategies or practices.",
     "level": "Ignored"
   },
@@ -701,21 +626,12 @@
     "reasoning": "Content primarily discusses the technical integration of SharePoint and Team Foundation Server, without mention of customer satisfaction principles, practices, or metrics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, which is unrelated to the topic of scaling Scrum practices in large organizations.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical integration of SharePoint and Team Foundation Server without reference to evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -726,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical integration process between SharePoint 2010 and Team Foundation Server 2010, with no reference to psychological safety or its principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, focusing on technical installation and configuration details, which are unrelated to scaling agile principles or practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the technical integration of SharePoint 2010 and Team Foundation Server 2010, without discussing the broader themes of innovation, decision-making, or evidence-based management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, focusing on technical setup and configuration rather than Scrum principles, roles, or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, focusing on technical setup and configuration rather than any Scaled Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,19 +763,19 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of SharePoint with Team Foundation Server, rather than focusing on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly focuses on integrating SharePoint with Team Foundation Server, which does not align with Continuous Integration principles and practices.",
     "level": "Ignored"
   },
@@ -919,10 +808,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on integrating SharePoint 2010 with Team Foundation Server 2010, which does not relate to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -1000,19 +889,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, which does not align with the principles or practices of Change Management.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical instructions for integrating SharePoint 2010 with Team Foundation Server 2010, with no clear discussion on team collaboration dynamics or Agile principles.",
     "level": "Ignored"
   },
@@ -1034,7 +923,7 @@
     "reasoning": "Content primarily focuses on technical integration steps between SharePoint and Team Foundation Server rather than discussing strategic adoption or integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:54:32",
     "ai_confidence": 0,
@@ -1043,23 +932,17 @@
     "reasoning": "Content focuses on technical integration of SharePoint 2010 with Team Foundation Server 2010, which is unrelated to Minimum Viable Product concepts or discussions.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, lacking any focus on AI applications within Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the technical steps involved in configuring SharePoint 2010 and Team Foundation Server 2010 to integrate them properly, detailing installation, configuration settings, and best practices. It discusses specific system configuration required for optimal performance and reliability of these two systems.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the integration and configuration of SharePoint 2010 with Team Foundation Server 2010, detailing specific installation steps, configuration settings, and troubleshooting tips. It discusses best practices for software installation and configuration, as well as the necessary steps to ensure both systems work together effectively. The depth of discussion is substantial, providing detailed instructions and considerations for system setup, which aligns well with the core themes of system configuration.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1081,10 +964,10 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the technical integration between SharePoint 2010 and Team Foundation Server 2010, without focusing on Agile or Scrum estimation practices.",
     "level": "Ignored"
   },
@@ -1099,20 +982,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, with no mention of Test First Development or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint 2010 with Team Foundation Server 2010, discussing installation and configuration steps without any mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant discussion on manual or automated testing, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 68.0,
-    "reasoning": "While the primary focus of the content is on integrating SharePoint with Team Foundation Server, it explicitly discusses the installation and configuration processes on Windows operating systems, particularly Windows 7 and server OS. Therefore, Windows is a significant theme but not the sole focus.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, which involves Windows operating systems, particularly Windows 7 and Server OS. While it mentions Windows in the context of installation and configuration, the focus is more on SharePoint and TFS rather than on Windows itself. The content does not delve deeply into Windows-specific troubleshooting, updates, or performance optimisation, which are key themes of the Windows category. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Windows category.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1135,10 +1024,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:54:32",
+    "calculated_at": "2025-04-10T15:55:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical integration between SharePoint 2010 and Team Foundation Server 2010, without any focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1162,12 +1051,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the integration process of SharePoint 2010 with Team Foundation Server 2010, but also addresses installation issues and configuration steps which align with troubleshooting. However, the focus is more on integration than systematic problem-solving for technical issues.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the integration process between SharePoint 2010 and Team Foundation Server 2010, detailing installation and configuration steps. While it does touch on potential issues, such as limitations when installing on Windows 7 and the need for specific configurations, the main emphasis is on the procedural aspects rather than diagnosing and resolving technical issues. Therefore, it aligns moderately with the troubleshooting category but lacks depth in discussing methodologies for problem-solving.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1072,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on integrating SharePoint with Team Foundation Server, with no direct discussions regarding the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, with no direct mention of the Scrum Master role or its responsibilities. While there are references to project management and collaboration, these are not aligned with the core themes of the Scrum Master category, which emphasises facilitation, coaching, and agile principles. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1098,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on the integration of SharePoint and Team Foundation Server without discussing working agreements or norms for teamwork.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the technical integration of SharePoint and Team Foundation Server (TFS), with no emphasis on Agile methodologies, DevOps practices, or the role of software developers within those frameworks.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1217,6 @@
     "reasoning": "Content heavily discusses integration technicalities between SharePoint and Team Foundation Server, with no focus on accountability or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:54:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on integrating SharePoint with Team Foundation Server, with no discussion of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:54:32",
@@ -1360,11 +1237,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:59:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical integration of SharePoint 2010 with Team Foundation Server 2010, without focusing on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, detailing installation and configuration steps. While it mentions collaboration and project management, these aspects are secondary to the technical instructions. The discussion lacks depth in exploring social technologies' principles, such as self-organisation or collective intelligence, and does not provide insights into enhancing decision-making or value delivery within organisations.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1254,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical integration details between SharePoint 2010 and Team Foundation Server 2010, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, focusing on installation and configuration steps rather than the broader concepts of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:31:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of SharePoint 2010 with Team Foundation Server 2010, with no mention of Artificial Intelligence or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on integrating SharePoint with Team Foundation Server, with no direct mentions of Scrum principles, roles, events, or artifacts. While it discusses project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is also minimal regarding Scrum, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, without any discussion of integrating testing, security, or compliance earlier in the software development lifecycle. It does not address the principles, benefits, or methodologies associated with the Shift-Left Strategy, nor does it provide any case studies or metrics related to software quality and delivery speed.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking any discussion on Continuous Improvement principles. There are no direct mentions of continuous improvement practices, empirical evidence, or strategies for fostering a culture of experimentation. The content does not align with the core themes of Continuous Improvement, nor does it provide any depth in this area.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking any explicit discussion of Common Goals within Agile or DevOps frameworks. While it touches on project management and collaboration, it does not address shared objectives, alignment, or strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking explicit discussions on competence, continuous learning, or skill development. While it touches on configuration and installation processes, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it provide strategies for fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical integration of SharePoint 2010 with Team Foundation Server 2010, lacking any discussion on the intentional shaping of outcomes, autonomy, or adaptability. It does not address the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
     "level": "Ignored"
   }
 }

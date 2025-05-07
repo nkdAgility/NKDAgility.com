@@ -2,37 +2,42 @@
 title: 'Quotes: In the past the man has been first; in the future the system must be first. Frederick Winslow Taylor'
 description: "Explore Frederick Taylor's insight on prioritising systems over individuals in management. Join Martin Hinshelwood as he unpacks this shift in thinking. #shorts"
 date: 2023-10-12T11:00:15Z
+weight: 1000
 ResourceId: KX1xViey_BA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KX1xViey_BA
 source: internal
 url: /resources/videos/:slug
-slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
 layout: video
 preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
-- /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
-- /resources/videos/KX1xViey_BA
-- /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 - /resources/KX1xViey_BA
-aliasesFor404:
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first.-frederick-winslow-taylor
+aliasesArchive:
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 - /resources/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 - /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 - /resources/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
+- quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
+- /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first.-frederick-winslow-taylor
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Organisational Physics
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## People, Systems, and Finding the Balance 

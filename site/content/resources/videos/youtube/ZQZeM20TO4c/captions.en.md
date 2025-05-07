@@ -1,0 +1,3 @@
+So the difference between an agile leader and a traditional manager is that a traditional manager tends to focus on telling people what to do, right, on creating walls so that people can focus. But in actual fact, they reduce communication, they reduce the capability of the organization to make decisions and reduce the capability of the organization to respond to the market. It's not their fault as traditional managers; it's the system within which they're expected to operate, right? So they're just following the conventions of the organization that they're in.
+
+But the agile leader, I think, in those organizations challenges those organizations, pushes them towards thinking differently and enabling people to make the decisions that they need to make.

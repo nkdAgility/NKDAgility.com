@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:15:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions DevOps as a topic for discussion, but it is not the primary focus, as it also includes Agility and does not delve deeply into DevOps principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-03-21T21:04:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on scaling agility and Scrum methodologies, which are not directly aligned with the core principles of DevOps. While there is a brief mention of DevOps in the context of agility, it is not a primary focus. The discussion lacks depth in DevOps practices, automation, and shared accountability, which are essential to the DevOps philosophy.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:15:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agility and references a Professional Scrum Trainer, indicating a focus on Agile practices, but it is primarily an invitation to an open Q&A session rather than a detailed discussion on Social Technologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses scaling agility and the importance of collaboration in large-scale teams, which aligns with the principles of social technologies. However, the focus is primarily on Scrum and metrics rather than on broader social frameworks or methodologies that promote collaboration and decision-making. While there are mentions of collaborative learning and adapting to virtual training, the depth of discussion on social technologies is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -64,19 +70,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a Q&A format without specific discussions on metrics, data analysis, or learning principles. The primary topic is DevOps and Agility in general.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content invites questions on various topics including DevOps and Agility, without a primary focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
@@ -88,24 +94,6 @@
     "final_score": 0.0,
     "reasoning": "Content promotes an Ask Me Anything session on various topics including DevOps and Agility but does not specifically focus on Agile frameworks or their implementation.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not focus on Scrum product development; it invites questions on various topics without a specific focus on Scrum principles or product development processes.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content is primarily about an interactive Q&A event related to DevOps and Agility, featuring a Scrum Trainer, which aligns well with the category of Events and Presentations.",
-    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -235,11 +223,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and Agility without a focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling agility and Scrum practices, with no direct mention of Continuous Delivery principles or practices. While it touches on aspects of agile methodologies, it does not delve into the specific themes of Continuous Delivery such as automation, rapid feedback, or deployment strategies. The discussion is more about agility in a broad sense rather than the disciplined software delivery practices that Continuous Delivery entails.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -289,12 +280,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions topics related to Agility and DevOps, which are significant themes in software development, but it is primarily an invitation to an AMA session, making these themes secondary.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses scaling agility, Scrum practices, and the transition to virtual training, which are all relevant to software development methodologies. It explicitly mentions Scrum and Nexus, aligning well with Agile frameworks. The depth of discussion includes practical considerations for running classes and metrics, indicating a strong focus on software development practices.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -352,10 +346,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a general Q&A session on DevOps and Agile topics without any specific focus on Azure Repos functionalities or practices.",
     "level": "Ignored"
   },
@@ -366,15 +360,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses general topics related to DevOps and Agility, with a focus on Scrum and Azure DevOps, rather than specifically addressing Value Stream Management.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an open Q&A session on DevOps and Agility without a clear focus on the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -433,10 +418,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a Q&A format regarding various topics in DevOps and Agility, with Azure DevOps being mentioned but not a primary focus.",
     "level": "Ignored"
   },
@@ -449,15 +434,6 @@
     "reasoning": "Content primarily promotes an AMA session without focusing on specific technical practices or methodologies related to software craftsmanship.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions topics related to DevOps and Agility, which are relevant to software developers, but it does not focus specifically on any particular aspect or best practices within these frameworks.",
-    "level": "Tertiary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:22:30",
@@ -465,15 +441,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and Agility without focusing on Lean Product Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily addresses a Q&A session related to DevOps and Scrum, not focusing on code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,19 +472,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on a Q&A session about various topics including DevOps and Agility without a specific focus on the Scrum Master role.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum fundamentals and the scaling of agility, which are relevant to the role of a Scrum Master. However, it primarily focuses on broader agile practices and large-scale team dynamics rather than the specific responsibilities and impact of a Scrum Master. While there are mentions of Scrum and its principles, the depth of discussion on the Scrum Master's role is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content invites questions on various topics related to DevOps and Agility, but does not primarily focus on Large Scale Agility principles or practices.",
     "level": "Ignored"
   },
@@ -557,15 +527,6 @@
     "reasoning": "The content primarily promotes a Q&A session on various topics related to DevOps and Agility, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content promotes an AMA session that discusses various topics including DevOps and Agility, not focusing primarily on Scrum.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:30",
@@ -593,15 +554,6 @@
     "reasoning": "Content primarily focuses on an ask-me-anything session related to DevOps and Agility, without clear emphasis on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content invites questions on a broad range of topics, including DevOps and Agility, without a specific focus on scaled Agile methodologies or frameworks.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:22:30",
@@ -610,15 +562,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on a Q&A session related to DevOps and Agility, with no clear discussion on Lean principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content invites questions on topics related to DevOps and Agility, which can involve discussions on team dynamics and processes, but the primary focus seems to be more about an open Q&A session rather than an in-depth exploration of people and processes.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,10 +574,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites discussion on various topics related to DevOps and Agility without focusing specifically on Business Agility principles or practices.",
     "level": "Ignored"
   },
@@ -658,10 +601,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily an invitation for a Q&A session on various topics related to DevOps and Agile, without a specific focus on Azure Boards or its functionalities.",
     "level": "Ignored"
   },
@@ -683,12 +626,12 @@
     "reasoning": "Content is focused on a Q&A session regarding various topics in DevOps and Agility, with no specific discussion on Lead Time.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics related to DevOps and Agility, without a clear focus on MVP or its principles.",
     "level": "Ignored"
   },
@@ -699,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily an invitation for questions covering a wide range of topics, including DevOps and Agility, without a specific focus on Agile Leadership or its principles.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily invites questions on various topics related to DevOps and Agility, but does not focus on AI or automation within Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +689,6 @@
     "reasoning": "Content is an invitation to ask questions on a variety of topics and does not focus specifically on market adaptability strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content discusses a Q&A session on various topics related to DevOps and Agility, but does not focus on AI or its application within Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T11:22:30",
@@ -775,10 +700,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss the Daily Scrum, focusing instead on a general Q&A session regarding various topics related to DevOps and Agility.",
     "level": "Ignored"
   },
@@ -793,10 +718,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content refers to a Q&A session on various topics including DevOps and Agility, but it does not primarily focus on Enterprise Agility or its organizational implications.",
     "level": "Ignored"
   },
@@ -807,15 +732,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is an invitation to a general Q&A session about various topics, including DevOps and Agility, and does not specifically focus on Product Backlog discussions.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content invites questions on various topics, including DevOps and Agility, but does not focus specifically on Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Psychological Safety": {
@@ -836,24 +752,6 @@
     "reasoning": "Content primarily invites questions on various topics including DevOps and Agility but does not focus on troubleshooting or the resolution of technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily promotes an Ask Me Anything session and does not focus on specific products, tools, or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content invites questions about DevOps and Agility, making it relevant to the topics of interest in Agile and DevOps discussions, but it primarily centers on a Q&A format rather than delivering news or reviews.",
-    "level": "Tertiary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T11:22:30",
@@ -872,15 +770,6 @@
     "reasoning": "Content primarily promotes a Q&A session focused on DevOps and Agile topics without personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is not primarily focused on Scaling Scrum; it is an open Q&A session covering various topics, primarily on DevOps and Agility, with no specific emphasis on scaling practices.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T11:22:30",
@@ -892,10 +781,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss Scrum values; it focuses on a Q&A session covering various topics related to DevOps and Agility.",
     "level": "Ignored"
   },
@@ -919,11 +808,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an Ask Me Anything session on a variety of topics without focusing on Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling agility and Scrum practices, with no direct mention of Test First Development principles or practices. While it discusses agile methodologies, it does not address success criteria, testing practices, or the importance of automated testing, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,10 +829,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content promotes an open Q&A session on various topics, including DevOps and Agility, without a clear focus on Scrum Team dynamics or specific discussions related to Scrum roles or collaboration.",
     "level": "Ignored"
   },
@@ -1007,21 +899,12 @@
     "reasoning": "Content is primarily an invitation for a Q&A session regarding various topics, including DevOps and Agility, without a focused discussion on product delivery methodologies.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not primarily discuss scaling agility or related strategies; it is an invitation for a Q&A session and does not focus on any specific agile scaling frameworks or concepts.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content promotes a Q&A session on various topics including Agility but does not focus specifically on organisational agility strategies, practices, or frameworks.",
     "level": "Ignored"
   },
@@ -1043,24 +926,6 @@
     "reasoning": "Content is focused on general questions related to DevOps and Agility without specific emphasis on Portfolio Management or its key topics.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an open forum for questions on various topics related to DevOps and Agility, without a clear emphasis on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an open Q&A session without explicit discussions of transparency or accountability principles related to Agile teams.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T11:22:30",
@@ -1077,15 +942,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about an interactive Q&A session related to DevOps and Agility, without a specific focus on frequent releases or related practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily an invitation for questions in a general 'Ask Me Anything' format, without providing specific discussions, techniques, or tooling insights related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1117,10 +973,10 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Q&A session on DevOps and Agile topics without a specific focus on Azure Pipelines.",
     "level": "Ignored"
   },
@@ -1135,20 +991,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a Q&A session with no clear alignment to the Agile Product Operating Model, discussing a broad range of topics including DevOps and Agility without specific emphasis on the product operating model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily invites questions on various topics but does not focus on discovery or learning methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses scaling agility and Scrum practices, which are related to agile methodologies but do not specifically address the Agile Product Operating Model. While there are mentions of agile principles and practices, the focus is more on Scrum and large-scale team dynamics rather than the broader product-oriented mindset and principles outlined in the APOM. The depth of discussion on APOM-related topics is minimal, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1176,15 +1026,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily relates to an Ask Me Anything session on various topics within DevOps and Agile, without a focus on automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on general DevOps and Agile topics, with an emphasis on Scrum, which does not align with the specific discussions of Scaling Kanban.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1261,10 +1102,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily a call for questions on various topics including Agile, but does not delve into Agile values or principles specifically.",
     "level": "Ignored"
   },
@@ -1342,28 +1183,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily invites questions on a broad range of topics without a focus on evidence-based management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses scaling agility and Scrum practices, with only a brief mention of metrics. While it touches on the importance of metrics, it lacks a strong focus on evidence-based management principles, such as empirical decision-making or current value metrics. The discussion is more centred on agile frameworks rather than a data-informed approach to management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content invites questions on a variety of topics related to DevOps and Agility, without focusing on installation or configuration.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:22:30",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not focus on the Ability to Innovate; instead, it invites questions about a range of topics related to DevOps and Agility without addressing innovation capabilities directly.",
     "level": "Ignored"
   },
@@ -1374,6 +1218,446 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is an invitation to an open Q&A session about various topics, including Agile and DevOps, but does not focus on operational practices or methodologies aimed at enhancing operational efficiency.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:08:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses general DevOps and Agile topics, with a focus on Scrum, rather than specifically addressing Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:08:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses general topics related to DevOps and Agile without a specific focus on Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Scrum explicitly, mentioning roles, events, and training related to Scrum. It also touches on scaling Scrum and adapting practices for virtual environments, which aligns with Scrum principles. However, while it provides a fair amount of detail, it also includes discussions on related topics like DevOps and metrics, which slightly detracts from its focus on Scrum alone.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses scaling agility and Scrum practices without any explicit mention of the Shift-Left Strategy. While it touches on metrics and collaboration, it does not delve into integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses scaling agility and the importance of adapting practices for large-scale teams, which aligns with the principles of Continuous Improvement. However, it primarily focuses on Scrum and Nexus frameworks without deeply exploring Continuous Improvement methodologies or empirical evidence. The mention of metrics and adapting training formats hints at a commitment to improvement, but the overall depth and direct focus on Continuous Improvement principles are limited.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on scaling agility and practical aspects of Scrum and Nexus, with limited direct discussion on Common Goals. While it touches on collaboration and adapting practices for large teams, it lacks a clear emphasis on shared objectives or strategic alignment, which are central to the Common Goals category. The depth of discussion on the topic is also minimal, focusing more on personal experiences and event promotion rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses scaling agility and the importance of understanding practices for large-scale teams, which touches on competence. However, it primarily focuses on Scrum fundamentals and metrics rather than explicitly addressing continuous learning or skill development. The depth of discussion on competence is limited, as it does not delve into strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling agility and Scrum practices, which are not directly related to the One Engineering System framework. While there are mentions of collaboration and adapting practices, the discussion does not centre on the integration and standardisation of engineering processes as defined by 1ES. The content lacks depth in addressing the principles or components of 1ES, and it does not provide relevant examples or case studies related to the framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses scaling agility and Scrum practices, with minimal direct mention of Agentic Agility. While it touches on adaptability and collaboration, it lacks a focused exploration of intentional outcome shaping, accountability, or the interplay between human and AI capabilities. The discussion is more about general Agile practices rather than the specific themes of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on scaling agility, discussing frameworks like Scrum and Nexus while providing metrics and practical approaches. However, it does not critically examine or highlight the challenges and pitfalls of Hybrid Agile methodologies. Instead, it promotes scaling agility without addressing conflicting expectations, command-and-control structures, or accountability issues, which are key factors in the Hybrid Agile category. The content lacks depth in discussing Hybrid Agile's implications, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on scaling agility but does not directly discuss Cell Structure Design or its principles. It touches on Scrum and scaling frameworks, which are tangentially related but do not align with the core themes of decentralised organisational design, autonomous cells, or the Beta Codex principles outlined in the Cell Structure Design category. There is minimal mention of related concepts, and the depth of discussion on the category is absent.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 6,
+    "ai_alignment": 5,
+    "ai_depth": 4,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on core principles of Scrum when mentioning 'Scrum Fundamentals' but lacks a detailed discussion of actionable principles that guide decision-making in Agile or Lean contexts. It primarily focuses on scaling and adapting practices rather than deeply exploring the principles guiding effective agility. Additionally, while there is mention of practices and the adaptation during challenges, it does not emphasize the principles themselves as foundational beliefs that influence behavior, resulting in a relatively low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 45.0,
+    "ai_mentions": 6,
+    "ai_alignment": 25,
+    "ai_depth": 14,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses agile methodologies, specifically focusing on Scrum and Nexus, which are specific frameworks within the broader project management domain. While it touches upon themes relevant to project management like scaling, adaptation to change, and metrics, the emphasis is heavily on specific agile practices and roles rather than on general project management principles or methodologies. This limits its broader relevance to the project management category, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on scaling frameworks like Scrum and Nexus, which do not align with the principles of Open Space Agile. It lacks direct references to Open Space Technology or its core themes such as psychological safety, co-creation, and emergence. The brief mention of engaging interactions aligns slightly with collaborative elements but fails to delve into Open Space Agile methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 58.0,
+    "ai_mentions": 2,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "While the content discusses Agile practices, the category of 'Tool' is not the primary focus. There is some mention of tools regarding virtual training and collaborative learning, specifically mentioning the exploration of technologies like Tabletopia. However, the primary topics are more related to scaling Scrum and practices rather than detailed discussions about specific tools or their integration within Agile frameworks. The effectiveness of the content also centers on teaching and practices rather than a robust analysis or implementation of tools, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Liberating Structures": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses scaling agility and Scrum fundamentals without any specific reference to Liberating Structures or their application. While it touches on engagement and collaboration, it lacks the detailed exploration of specific Liberating Structures methods or integration into practices as defined in the category. Overall, the content does not align with the key topics outlined for Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile and Scrum practices but focuses primarily on scaling and metrics rather than the underlying values that guide decision-making and collaboration. While there are references to Agile principles, they are not the main focus, and deeper discussions on values such as commitment, courage, and respect are absent. The talk about experiences and cultural reflections hints at a broader perspective, but it doesn't deeply engage with the philosophical foundations of Values as defined in the category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on practical aspects of scaling agility, such as Scrum practices and metrics. While it does mention high-level ideas related to adapting and learning, which could hint at philosophical themes, the emphasis remains on specific methodologies and tools rather than exploring why these methodologies matter philosophically. The content lacks a deep exploration of the underlying principles of Agile, Lean, or DevOps necessary for a strong philosophical classification.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 4,
+    "ai_alignment": 55.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses aspects of Agile methodology, specifically Scrum, and how to scale its practices in large teams. It emphasizes understanding core principles and adapting frameworks but focuses heavily on practical implementation rather than the systemic application of discipline. While it aligns with core themes of discipline, such as continuous learning and principles of Agile, it primarily emphasizes tools and practices, which detracts from a fully aligned classification in the discipline category.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the theme of scaling agility and the challenges associated with it, without substantial discussion on specific artifacts that would fit the 'Artifact' classification. The mention of Scrum fundamentals and Nexus indicates some relation, but they are not explored in depth regarding their role as artifacts. Most of the content revolves around practices and metrics rather than formal representations of work, drifting away from the core definition and structure of artifacts in Agile. Therefore, while there are brief mentions of relevant topics, they lack the necessary depth and primary focus on artifacts to warrant a higher score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 22.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses scaling agility and Scrum practices rather than observability. It mentions metrics briefly, but does not delve into how these metrics relate to observability or the core themes outlined, such as internal system states, logs, or traces. The discussion is too focused on agile frameworks and training to meet the criteria for effective observability content.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions metrics and scaling agility, which can relate to Time to Market. However, it primarily focuses on Scrum frameworks and practices without directly addressing the core themes of Time to Market like delivery efficiency or customer value. The discussion lacks substantial depth regarding Time to Market improvements or strategies, leading to a low confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 53.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 53.0,
+    "reasoning": "The content extensively discusses agile methodologies, specifically focusing on scaling agility and Scrum, which are integral to product development practices. It mentions the importance of metrics and practical practices for large-scale teams, aligning with the principles of iterative learning and continuous improvement. However, the depth remains somewhat limited as it does not dive deeply into specific product development outcomes, customer feedback integration, or evidence-based decision-making. Therefore, while it talks about relevant concepts, it lacks comprehensive focus on product development as a primary theme.",
+    "level": "Tertiary"
+  },
+  "Practice": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 18,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses practices relevant to scaling agility, mentioning Scrum fundamentals and Nexus with a focus on practical applications for large-scale teams. However, it primarily revolves around the theoretical implications of these practices rather than providing in-depth, actionable techniques. This weakens the depth dimension, although there are several direct mentions of practices. Overall, the content aligns moderately well with the 'Practice' category due to its focus on principles and metrics related to team dynamics in an agile context.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on scaling agility within large-scale teams using Scrum and Nexus frameworks, without a direct mention of the 'Company as a Product' concept. The discussion centers around practices and metrics in agile environments, lacking emphasis on customer insights, strategic goals, or organisational design that characterizes CaaP. While agile methodologies can relate to aspects of CaaP, the content does not delve into the integral principles or strategic approaches that define 'Company as a Product', resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content mentions 'Scrum Fundamentals' and 'Nexus' and discusses practices related to scaling agility, which touches on the procedural aspects of methods in Agile. However, the primary focus is on a meetup and broader discussions about agility and adaptation rather than providing a structured, step-by-step procedural approach. Although there are thematic connections to the 'Method' category, the content does not delve deeply into specific methodologies or detailed procedures, thus limiting its alignment.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on scaling agility and specific practices within agile frameworks, such as Scrum. While it touches upon metrics and adapting to challenges, it lacks a clear emphasis on Unrealised Value or a discussion of potential improvements related to untapped opportunities. The connection to the category is very limited, as discussions about realising value, innovation potential, and identifying unrealised opportunities are not present.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 73.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content discusses scaling agility directly and mentions specific frameworks like Nexus, which is aligned with the category 'Scaling.' It highlights challenges and metrics related to large-scale teams, focusing on practical applications rather than just theory. While it does touch on Scrum fundamentals, the core discussion revolves around how to effectively scale Agile methodologies. However, much of the content also includes elements related to general Agile practices and not solely the intricacies of Scaling, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content discusses aspects of agility and mentions frameworks like Scrum and Nexus, it mainly focuses on practical applications and personal experiences rather than on conceptual models or frameworks that inform decision-making. The content does not explicitly mention any key models under the 'Model' category, and while it touches on important themes related to scaling agility, it lacks depth in discussing theoretical frameworks or comparative analyses of models. Therefore, it has low direct mentions and limited conceptual alignment, but some depth in terms of practical experiences is present.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content mentions metrics and practices but does not directly address Current Value or its measurement in a detailed way. It focuses on scaling agility and collaboration during virtual training, which are related but not specifically about the real-time assessment of value delivered. The primary emphasis is on general agile practices rather than on evaluating tangible benefits.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses scaling agility, focusing on Scrum and Nexus principles, which are frameworks within the Agile methodology. It emphasizes the importance of understanding these frameworks for large-scale teams. However, the discussion flows in a narrative format, with personal experiences and a call for community engagement, which detracts slightly from a rigorous framework-centered analysis. It provides practical insights but lacks a structured exploration of how these frameworks are implemented across various contexts, thus neither meeting a fully comprehensive depth nor fully adhering to the category's expectations.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 15,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses scaling agility and plans for a meetup that touches on Scrum principles and practices, which are loosely related to tenets of Agile. However, it primarily focuses on general experiences and insights rather than providing specific, actionable guiding rules or doctrines. The concepts of metrics and scaling frameworks are mentioned, but they are not explored in enough depth or detail specific to tenets to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content discusses scaling agility and Scrum practices, but it does not mention GitHub or its functionalities. The focus is on Agile methodologies and experiences rather than anything specifically related to GitHub's services, tools, or practices.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 8,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on scaling agility within specific frameworks like Scrum and Nexus, which does not align with the core principles of Agnostic Agile that emphasize flexibility and adapting practices based on context rather than adhering to a single methodology. While there is an acknowledgment of tailoring metrics for specific organizations, the discussion remains centered on specific frameworks rather than the ethical, context-driven scaling that the Agnostic Agile movement promotes. Therefore, while there are some relevant aspects mentioned, they are overshadowed by a predominantly framework-centric approach.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content discusses scaling agility and mentions key practices, its primary focus is on Scrum roles and techniques rather than on enduring capabilities. The insights provided are more about transient practices and metrics in scaling processes, lacking an emphasis on cultivating systemic capabilities within teams or organizations.",
     "level": "Ignored"
   }
 }

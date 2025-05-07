@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses personal representation through cartoonification tools and does not address sociotechnical interactions or organisational contexts.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T21:21:09",
     "ai_confidence": 0,
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses personal experiences and references to Southparkify and Simpsonize without any connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:21:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation through a creative tool and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:21:16",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal representation through cartoonification and does not reference complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:21:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation and does not focus on Agile or DevOps tools, methodologies, or practical techniques.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:21:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a creative topic related to personal representation through Southparkify and Simpsonize, with no mention or discussion of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:21:27",
+    "calculated_at": "2025-04-08T20:51:15",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about personal representation and does not discuss Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:21:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and tools without relevance to Agile, DevOps, or industry news.",
+    "reasoning": "The content focuses on a creative project involving Southparkify and Simpsonize, which is unrelated to the Agile Product Operating Model. There are no mentions of agile methodologies, product management principles, or any relevant topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal representation and does not relate to platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:21:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or frameworks; it focuses on unrelated topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:21:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation through cartoonification tools and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:21:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation and does not address software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:21:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation and does not relate to any events, presentations, or discussions on Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:21:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation and does not address transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -289,10 +223,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T21:21:46",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal blog post about Southparkify and Simpsonize without any clear connection to Agile, Scrum, DevOps, or related methodologies.",
     "level": "Ignored"
   },
@@ -316,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:21:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:51:04",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation and unrelated topics, with no focus on DevOps principles or practices.",
+    "reasoning": "The content focuses on a creative topic related to personal representation through Southparkify and Simpsonize, with no mention or discussion of DevOps principles, practices, or cultural shifts. It does not align with any key topics of the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal representation and does not focus on engineering practices or methodologies related to technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:21:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation and does not address team dynamics, collaboration, or any process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:21:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation through images and does not address themes of discovery, learning, or innovation.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:21:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation and does not focus on products, books, or Agile/DevOps methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -420,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to portfolio management; it discusses personal representation through a meme and blog links.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scrum or product development; it discusses personal representation and comparisons between 'Southparkify' and 'Simpsonize'.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -496,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:32:20",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses personal topics related to Southparkify and Simpsonize without any reference to Agile practices or the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses personal topics and unrelated themes like SharePoint and character creation, with no connection to Scaled Agile practices or frameworks.",
+    "reasoning": "Content discusses personal topics related to Southparkify and Simpsonize without any reference to Agile practices or the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +467,6 @@
     "reasoning": "Content does not address any collaboration tools or Agile methodologies; it discusses unrelated personal themes and references.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal aspects and themes unrelated to the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T21:32:20",
@@ -620,7 +503,7 @@
     "reasoning": "Content does not pertain to estimation practices within Agile or Scrum frameworks; it discusses personal branding and artistic representation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:32:20",
     "ai_confidence": 0,
@@ -694,11 +577,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:32:20",
+    "calculated_at": "2025-04-08T20:51:26",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on personal topics and does not relate to Continuous Delivery principles or practices.",
+    "reasoning": "The content focuses on a creative project involving Southparkify and Simpsonize, with no discussion of Continuous Delivery principles, practices, or related topics.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss hypothesis-driven development, experimentation, or validated learning; it appears to be more about artistic representation and personal expression.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal topics and does not discuss AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +805,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:32:20",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is unrelated to the Definition of Ready, focusing instead on personal branding and cartooning.",
     "level": "Ignored"
   },
@@ -971,15 +848,6 @@
     "reasoning": "Content is primarily about personal representation and does not address remote working or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Kanban principles or scaling; it focuses on personal representation and unrelated web resources.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:32:20",
@@ -987,15 +855,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on personal themes and blog-sharing, with no discussions on customer retention strategies or related topics.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal branding and entertainment related to South Park and The Simpsons, with no discussion of Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,10 +949,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T21:32:20",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Southparkify and Simpsonize, with no clear focus on Windows operating system topics.",
     "level": "Ignored"
   },
@@ -1268,15 +1127,6 @@
     "reasoning": "Content is about personal tagging and a blog post discussing the topics of Southparkify and Simpsonize, with no relevance to asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Scaling Scrum or related principles; it appears to be about personal branding or cartooning.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:32:20",
@@ -1313,22 +1163,16 @@
     "reasoning": "Content does not discuss any Scrum principles, roles, or practices and is focused on personal topics unrelated to Scrum.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal tags and themes unrelated to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:32:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:51:18",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content does not mention or discuss the role of Scrum Master or related topics.",
+    "reasoning": "The content focuses on a creative topic unrelated to Scrum or the role of a Scrum Master. It discusses a fun activity involving character representation and does not mention any Scrum principles, roles, or responsibilities.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1195,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:32:20",
+    "calculated_at": "2025-04-08T20:51:23",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about personal preferences and doesn't discuss Test First Development or related topics.",
+    "reasoning": "The content focuses on a creative topic related to personal representation through art styles and does not mention or align with any principles of Test First Development. There are no discussions on testing methodologies, success criteria, or any related practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:28:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal representation through Southparkify and Simpsonize, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the fun and creative aspects of combining two personalisation tools, Southparkify and Simpsonize. It does not discuss any themes related to collaboration, decision-making, or value delivery within organisations, which are central to the category of Social Technologies. The mention of tags and links does not contribute to the core themes outlined in the category description.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1224,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss leadership practices and is primarily focused on personal representation and unrelated topics.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:49:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal representation and does not relate to Internal Developer Platforms or their associated topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:49:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal representation through cartoonification tools and does not relate to AI in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on personal tags and a blog post about 'Simpsonize' and 'Southparkify', which are unrelated to Scrum principles, practices, or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss the Shift-Left Strategy or any related concepts. It appears to focus on personal representation and unrelated topics, lacking any mention of software development processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a creative project involving Southparkify and Simpsonize, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks any alignment with the core themes of the category and does not provide any depth on the subject matter.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a creative topic related to personal representation through art styles and does not discuss competence, continuous learning, or any related themes. There are no direct mentions or alignment with the principles of competence in Agile, Scrum, DevOps, or Lean methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a creative project involving Southparkify and Simpsonize, with no direct mentions or discussions related to Continuous Improvement principles, methodologies, or practices. It lacks any alignment with the core themes of Continuous Improvement, such as empirical evidence, team effectiveness, or organisational processes. The depth of discussion is minimal and does not provide any relevant insights into Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a creative journey involving Southparkify and Simpsonize, with no discussion of Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   }
 }

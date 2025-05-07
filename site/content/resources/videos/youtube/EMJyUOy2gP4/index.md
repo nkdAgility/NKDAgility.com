@@ -2,8 +2,10 @@
 title: 'The Problem with Incompetent Scrum Masters: Why Lack of Skills in Team Context Results in Poor ROI'
 description: Discover the true ROI of hiring skilled Scrum Masters and learn how their competence impacts team performance, innovation, and value delivery.
 date: 2024-10-22T07:00:08Z
+weight: 250
 ResourceId: EMJyUOy2gP4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: EMJyUOy2gP4
@@ -15,38 +17,42 @@ preview: https://i.ytimg.com/vi/EMJyUOy2gP4/maxresdefault.jpg
 duration: 491
 isShort: false
 aliases:
-- /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
-- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
-- /resources/videos/EMJyUOy2gP4
-- /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
 - /resources/EMJyUOy2gP4
-aliasesFor404:
+- /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+aliasesArchive:
+- /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 - /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 - /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
 - /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+- the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Metrics and Learning
+- Software Development
 - Scrum Team
+- Competence
 - Scrum Master
-- People and Process
-- Scrum Product Development
-- Operational Practices
-- Ability to Innovate
-- Professional Scrum
+- Pragmatic Thinking
 - Team Performance
-- Practical Techniques and Tooling
+- Evidence Based Leadership
+- Current Value
+- Agile Product Management
+- Decision Making
+- Operational Practices
+- Product Delivery
+- Value Delivery
 resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 - Product Management
-- Social Technologies
 
 ---
-When organizations invest in Scrum Masters, they expect results. Yet, too often, they find that the promised returns aren't realized. Why is that? It boils down to a lack of competence within the Scrum Master's role—particularly in understanding the context of the team, the product owner, and the organizational structure. Without this, the return on investment (ROI) diminishes. Let's dive into why having a skilled Scrum Master is crucial and how to measure their impact effectively.
+When organizations invest in [Scrum]({{< ref "/categories/scrum" >}}) Masters, they expect results. Yet, too often, they find that the promised returns aren't realized. Why is that? It boils down to a lack of [competence]({{< ref "/tags/competence" >}}) within the [Scrum Master]({{< ref "/tags/scrum-master" >}})'s role—particularly in understanding the context of the team, the [product owner]({{< ref "/tags/product-owner" >}}), and the organizational structure. Without this, the return on investment (ROI) diminishes. Let's dive into why having a skilled Scrum Master is crucial and how to measure their impact effectively.
 
 ## **Why Competent Scrum Masters Matter**
 
@@ -54,9 +60,9 @@ A competent Scrum Master can significantly impact a team's success. Here's how:
 
 - **Increased Team Delivery**: With a skilled Scrum Master, teams deliver more value. They are better equipped to take calculated risks, leading to more innovation and new opportunities.
 
-- **Enhanced Focus on New Work**: Without competent leadership, teams often spend excessive time on maintenance rather than focusing on new developments. A good Scrum Master helps balance this focus.
+- **Enhanced Focus on New Work**: Without competent [leadership]({{< ref "/categories/leadership" >}}), teams often spend excessive time on maintenance rather than focusing on new developments. A good Scrum Master helps balance this focus.
 
-- **Lower Defect Rates**: Competence in modern engineering practices and DevOps means fewer bugs and higher-quality products, which is essential in today's fast-paced tech landscape.
+- **Lower Defect Rates**: Competence in modern [engineering practices]({{< ref "/tags/engineering-practices" >}}) and [DevOps]({{< ref "/categories/devops" >}}) means fewer bugs and higher-quality products, which is essential in today's fast-paced tech landscape.
 
 ### **What Happens Without a Competent Scrum Master?**
 
@@ -90,7 +96,7 @@ To truly assess the impact of a Scrum Master, you need to gather data. Below are
 
 - **Definition**: This measures the percentage of time team members dedicate to your product versus other tasks, such as meetings or organizational activities.
 
-- **Why It Matters**: If your team spends too much time outside of product development, you're not getting the most out of your investment.
+- **Why It Matters**: If your team spends too much time outside of [product development]({{< ref "/categories/product-development" >}}), you're not getting the most out of your investment.
 
 - **Industry Insight**: Most teams allocate 80% of their time to the product and 20% to other activities, roughly equivalent to one day a week lost to non-productive tasks.
 
@@ -134,7 +140,7 @@ Let’s look at the combined impact of these metrics on your ROI. For every doll
 
 ### **Real-World Data: The Importance of Measuring Success**
 
-A bank I consulted with discovered the gap between perception and reality when they thought their feature usage was at 80%, but actual data showed just 8%. This was a wake-up call and led to changes in their product strategy.
+A bank I consulted with discovered the gap between perception and reality when they thought their feature usage was at 80%, but actual data showed just 8%. This was a wake-up call and led to changes in their [product strategy]({{< ref "/tags/product-strategy" >}}).
 
 📈 _Lesson_: Don’t rely on assumptions—use real data to drive your decisions.
 
@@ -144,13 +150,13 @@ A bank I consulted with discovered the gap between perception and reality when t
 
 A skilled Scrum Master can directly influence these metrics by:
 
-- **Boosting Innovation Rates**: By facilitating better team collaboration, encouraging experimentation, and focusing on value.
+- **Boosting Innovation Rates**: By facilitating better [team collaboration]({{< ref "/tags/team-collaboration" >}}), encouraging [experimentation]({{< ref "/tags/experimentation" >}}), and focusing on value.
 
 - **Increasing the On-Product Index**: Reducing distractions and helping the team maintain focus on delivering value.
 
 - **Improving the Usage Index**: Guiding product owners to focus on features that matter most to users.
 
-- **Elevating the Installed Version Index**: Encouraging best practices in release management and user adoption.
+- **Elevating the Installed Version Index**: Encouraging best practices in [release management]({{< ref "/tags/release-management" >}}) and user adoption.
 
 * * *
 

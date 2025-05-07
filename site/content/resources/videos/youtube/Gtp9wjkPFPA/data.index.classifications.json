@@ -1,30 +1,39 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T22:19:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and their integration with DevOps, making Agile a major theme, but it does not focus primarily on the specific frameworks or practices outlined in the Social Technologies category.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile and DevOps, which are related to social technologies, but it primarily focuses on their integration rather than discussing collaboration, decision-making, or value delivery in depth. While there is some alignment with the themes of teamwork and human-centric approaches, the overall discussion lacks the necessary detail and focus on social technologies as defined in the category.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T22:19:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, which relates to engineering practices, but primarily focuses on leadership and process rather than specific engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the integration of DevOps and Agile, which are related to engineering practices, but it primarily focuses on the philosophical relationship between the two rather than delving into specific engineering excellence topics such as coding standards, quality assurance, or CI/CD practices. The discussion lacks depth in terms of actionable insights or best practices that would promote high standards in software craftsmanship.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T22:19:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, highlighting their relationship and perspectives, making DevOps a major theme, but it does not delve deeply into specific DevOps practices or principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, which indicates a direct mention of DevOps. However, the focus is more on the relationship between the two methodologies rather than a deep exploration of DevOps principles or practices. The alignment with core DevOps themes is present but not robust, as it lacks detailed discussion on automation, shared accountability, or continuous improvement. Overall, while DevOps is a primary topic, the depth of discussion is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -37,21 +46,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T22:20:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, mentioning leadership as one of the perspectives, but it primarily focuses on the relationship between the two methodologies rather than on leadership practices themselves.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on leadership by mentioning the 'Agile lens' as it relates to people and process, but it does not delve deeply into leadership practices or strategies. The discussion primarily focuses on the integration of DevOps and Agile rather than exploring leadership's role in fostering organisational agility or team dynamics. While there is some conceptual alignment with leadership themes, the lack of depth and direct focus on leadership practices limits the overall confidence score.",
     "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T22:20:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Agile and DevOps, which relates to business agility as it touches on leadership and process. However, it primarily focuses on the relationship between the two methodologies rather than directly addressing business agility principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly discusses the integration of DevOps and Agile, which are related to business agility, but it does not explicitly focus on the principles or practices of business agility itself. The discussion lacks depth in exploring how these methodologies contribute to organisational adaptability or innovation. While there is some conceptual alignment with the themes of agility, the primary focus remains on the relationship between DevOps and Agile rather than on business agility as a standalone topic.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -82,29 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:20:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T22:20:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies, which are not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T22:20:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, with no focus on Kanban principles or scaling practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their unique perspectives and synergies. It does not explicitly mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or metrics related to decision-making. The discussion is more about methodologies rather than data-informed management practices.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,10 +118,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T22:20:18",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between DevOps and Agile, rather than focusing on Agile frameworks themselves.",
     "level": "Ignored"
   },
@@ -136,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T22:20:20",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, with no focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile without focusing on trend analysis or the implications of trends within these frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T22:20:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile without focusing on scaling Agile practices across multiple teams or enterprise-level initiatives.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -226,21 +217,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T22:20:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, which are relevant to product delivery methodologies, but it does not focus primarily on the end-to-end process of delivering usable software products.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, which are relevant to product delivery methodologies. However, it lacks explicit mentions of specific product delivery practices, such as planning, testing, or deployment. The discussion is somewhat conceptual, focusing on the relationship between the two methodologies rather than providing detailed insights into their application in product delivery. Therefore, while it touches on relevant themes, it does not delve deeply into the core aspects of product delivery.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T22:20:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies without any mention of AI or its applications within these frameworks.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +236,6 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies, without a clear focus on digital transformation or the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T22:20:44",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the interplay between Agile and DevOps, highlighting the importance of leadership and process in relation to people, which aligns with the category's focus. However, it does not delve deeply into specific team dynamics or methodologies, making it a secondary theme.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T22:20:45",
@@ -269,23 +245,17 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T22:20:46",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content briefly mentions Agile in the context of its integration with DevOps, but it does not primarily focus on Agile Project Management principles or practices.",
-    "level": "Quaternary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T22:20:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Lean in the context of DevOps and Agile integration, making it a significant but secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'lean' in the context of DevOps but does not delve into Lean Thinking principles or practices. The discussion primarily focuses on the integration of Agile and DevOps without a substantial exploration of Lean concepts, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -294,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a focus on accountability or team dynamics.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T22:20:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -314,23 +275,17 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on release management processes or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:20:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T22:20:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Agile and DevOps, which relates to organisational practices and perspectives on agility, but it does not delve deeply into enterprise-level agility or its broader implications.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the integration of Agile and DevOps, which are related to enterprise agility, but it lacks a direct focus on organisational agility or the broader implications of agility on organisational performance and culture. The discussion is more about the relationship between Agile and DevOps rather than how these concepts apply to enterprise-level agility, thus limiting its relevance to the category.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -343,48 +298,57 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T22:20:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, which relates to technical leadership principles, but it does not focus primarily on guiding development teams or specific leadership strategies.",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on Agile and its human-centric approach, which aligns with the principles of technical leadership. However, it lacks a detailed discussion on specific leadership strategies, mentoring, or agile practices, making it more of an introductory overview rather than a focused exploration of technical leadership.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T22:20:58",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:20:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile without a specific focus on the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, with only a brief mention of Agile principles. It does not focus on the specific role or responsibilities of a Scrum Master, nor does it delve into the core themes associated with the Scrum Master role. The discussion lacks depth regarding Scrum practices and the impact of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T22:21:00",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the relationship between DevOps and Agile, rather than focusing on Agile Planning methodologies and practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T22:21:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between Agile and DevOps, highlighting their integration and shared principles, but does not primarily focus on Agile values and principles themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile in the context of its integration with DevOps but does not delve into Agile's core values or principles. The discussion is more focused on the relationship between DevOps and Agile rather than on Agile values themselves, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -397,11 +361,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:21:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, with no direct mention of Test First Development principles or practices. While it touches on themes of collaboration and process, it lacks specific references to success criteria, testing methodologies, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,20 +427,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T22:21:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:40:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a focus on innovation capabilities or Evidence-Based Management.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their similarities and unique perspectives. It does not explicitly mention innovation or provide insights into mechanisms or practices that foster innovation. The discussion lacks depth regarding innovation metrics, learning cycles, or strategies for enhancing innovation capacity, which are critical to the category. Overall, the content is more about the relationship between DevOps and Agile rather than the ability to innovate.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T22:21:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Agile and DevOps, highlighting Agile principles and perspectives, but it primarily focuses on their relationship rather than a detailed exploration of Agile transformation strategies or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Agile in the context of its integration with DevOps, but it does not delve into specific Agile transformation strategies or methodologies. While it touches on Agile's focus on leadership and people, it lacks detailed discussion on Agile principles, frameworks, or transformation practices, which are essential for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -487,12 +460,15 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T22:21:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Lean in the context of integrating DevOps and Agile, indicating a secondary theme related to Lean principles, but it primarily focuses on the relationship between Agile and DevOps.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'lean' in the context of DevOps but does not delve into Lean Principles or their core concepts. The discussion primarily focuses on the integration of DevOps and Agile, lacking depth in Lean-specific practices or waste reduction. Therefore, while there is a mention of Lean, it is not a primary focus, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -501,24 +477,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on Scrum Values.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T22:21:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, focusing on their perspectives rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T22:21:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the philosophical integration of DevOps and Agile without reference to specific tools, methodologies, or practical applications.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -548,15 +506,6 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile without personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T22:21:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile without reference to specific events, presentations, or discussions related to them.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "calculated_at": "2025-02-17T22:21:27",
@@ -584,15 +533,6 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T22:21:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without focusing on scaling agility practices or frameworks.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T22:21:33",
@@ -613,12 +553,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:21:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between DevOps and Agile, with a mention of Continuous Delivery as part of the DevOps perspective. However, it primarily focuses on the integration of Agile and DevOps rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions continuous delivery in the context of DevOps but primarily focuses on the integration of DevOps and Agile without delving into the principles or practices of Continuous Delivery itself. While there is some conceptual alignment regarding the importance of collaboration and synergy, the depth of discussion on Continuous Delivery is minimal, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -665,7 +608,7 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, with no specific focus on the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T22:21:43",
     "ai_confidence": 0,
@@ -683,15 +626,6 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T22:21:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the integration of DevOps and Agile without focusing on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T22:21:47",
@@ -703,11 +637,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:21:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their synergies rather than the Agile Product Operating Model specifically. While Agile is mentioned, it does not delve into the principles or practices of the Agile Product Operating Model, nor does it address the key topics outlined in the category description. The discussion lacks depth regarding product management and the transition to a product-oriented mindset, which are central to the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -730,12 +667,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T22:21:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, which are relevant to market adaptability, but it does not focus on specific strategies or practices that enhance an organisation's ability to respond to market shifts.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on Agile and DevOps but lacks a focused discussion on market adaptability. While it mentions the integration of these methodologies, it does not delve into how they enhance an organisation's ability to respond to market shifts or competitive pressures. The discussion is more about the relationship between Agile and DevOps rather than their application in a market context.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -775,10 +715,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T22:21:57",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile without focusing on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -807,15 +747,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without focusing on mentoring, coaching, or related themes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T22:22:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile without any mention of AI or automation.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -847,11 +778,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T22:22:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between Agile and DevOps, highlighting Agile principles in the context of leadership and process, making it a major but secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Agile in the context of its integration with DevOps, but it primarily focuses on the relationship between the two rather than delving into the core principles of Agile Philosophy. While there is some alignment with Agile's human-centric approach, the discussion lacks depth and does not explore the foundational values or principles of Agile in detail.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -883,10 +817,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T22:22:13",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile without a focus on Continuous Learning principles or practices.",
     "level": "Ignored"
   },
@@ -919,10 +853,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T22:22:18",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
@@ -944,67 +878,58 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T22:22:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T22:22:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, touching on leadership and process in relation to people, which aligns with sociotechnical themes. However, it primarily focuses on the comparison of the two methodologies rather than a deep exploration of their sociotechnical implications.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T22:22:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile concepts rather than specific products or literature related to them.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, touching on the interplay between technical practices and human-centric approaches. However, it lacks a direct focus on sociotechnical systems as defined in the category, primarily addressing the methodologies rather than their organisational implications. The mention of leadership and people hints at social aspects, but the overall discussion remains superficial and does not delve deeply into the organisational context or the impact on software delivery.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T22:22:26",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile without focusing on empirical process control principles or practices.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T22:22:27",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T22:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, highlighting their practical relationship and perspectives, which aligns with pragmatic thinking. However, it lacks detailed practical problem-solving strategies or real-world applications, making it a secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly discusses the integration of DevOps and Agile, touching on their unique perspectives and strengths. However, it lacks a detailed exploration of practical problem-solving strategies or real-world applications within Agile or DevOps frameworks. The discussion is more conceptual than pragmatic, focusing on the theoretical relationship between the two methodologies rather than providing actionable insights or case studies that demonstrate pragmatic thinking.",
     "level": "Tertiary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T22:22:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:40:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile without focusing on Lead Time or its measurement.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their unique perspectives and synergies. There are no direct mentions of Lead Time, and while it touches on concepts related to efficiency and delivery, it does not delve into Lead Time as a specific metric or its importance. The discussion lacks depth regarding Lead Time, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1036,12 +961,15 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T22:22:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:37:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Lean in the context of DevOps and Agile integration, indicating a secondary theme related to Lean principles, but it primarily focuses on the relationship between Agile and DevOps.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'lean' in the context of DevOps but does not delve into Lean principles or methodologies. The primary focus is on the integration of DevOps and Agile, with limited discussion on Lean concepts, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1063,28 +991,31 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T22:22:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, which are both methodologies relevant to software development, but the focus is more on their conceptual relationship rather than specific practices or techniques.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, which are both key methodologies in software development. It mentions their unique perspectives and synergies, aligning with core themes of the Software Development category. However, the discussion lacks depth in specific practices or frameworks, focusing more on a general overview rather than detailed methodologies or best practices.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T22:22:45",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, focusing on their perspectives rather than evidence-based leadership practices.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T22:22:47",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the integration of DevOps and Agile without specific reference to Azure DevOps services or functionalities.",
     "level": "Ignored"
   },
@@ -1115,15 +1046,6 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T22:22:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, which are relevant to the role of software developers, but it does not delve deeply into specific practices or methodologies that enhance developer productivity or collaboration.",
-    "level": "Tertiary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T22:22:53",
@@ -1144,10 +1066,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T22:22:55",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile concepts rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1158,15 +1080,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without focusing on the specific responsibilities or practices of the Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T22:22:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile without providing news, updates, or reviews relevant to the industry.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1207,11 +1120,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T22:23:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the integration of Agile and DevOps, touching on leadership aspects within the Agile framework, but it primarily focuses on the comparison between the two methodologies rather than on Agile leadership specifically.",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Agile in the context of leadership, but it primarily focuses on the integration of DevOps and Agile without delving deeply into Agile leadership principles or practices. While there is some conceptual alignment regarding the human-centric approach of Agile, the discussion lacks depth and specific strategies related to Agile leadership.",
     "level": "Tertiary"
   },
   "Team Motivation": {
@@ -1243,38 +1159,38 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T22:23:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:39:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile without focusing on throughput or its measurement and optimisation.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:23:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on Scrum principles, roles, or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their unique perspectives and synergies. There are no direct mentions of throughput as a delivery metric, nor does it delve into any of the key topics related to throughput, such as measuring work items or visualising delivery capacity. The discussion is more philosophical and cultural rather than analytical or metric-driven, which does not align with the category's requirements.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T22:23:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of DevOps and Agile, touching on aspects of continuous delivery and lean principles, which are relevant to value delivery. However, it does not primarily focus on value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the integration of DevOps and Agile, mentioning continuous delivery, which is relevant to value delivery. However, it lacks a detailed discussion on specific strategies or methodologies that enhance customer value, making it more of an introductory overview rather than a focused exploration of value delivery principles.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T22:23:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:39:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies, which is not directly related to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile methodologies, focusing on their philosophical and operational synergies rather than on system configuration. There are no direct mentions of system configuration tools, practices, or techniques. The conceptual alignment is weak as the discussion revolves around process and team dynamics rather than the technical aspects of system setup or maintenance. The depth of discussion is also minimal, lacking any detailed exploration of system configuration topics.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,15 +1211,6 @@
     "reasoning": "Content primarily discusses the integration of DevOps and Agile methodologies, without focusing on product discovery or customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T22:23:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T22:23:18",
@@ -1315,21 +1222,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T22:23:19",
+    "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without focusing on the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T22:23:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the integration of Agile and DevOps, highlighting the Agile perspective on leadership and process, which aligns with Agile principles. However, the primary focus is on the relationship between Agile and DevOps rather than a comprehensive discussion on Agile strategy itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile in the context of its integration with DevOps, but it lacks a focused discussion on Agile strategy. While it touches on the human-centric approach of Agile, it does not delve into strategic planning, continuous value delivery, or leadership roles in fostering an Agile culture, which are key aspects of the Agile Strategy category.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1351,11 +1261,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T22:23:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Agile and DevOps, which relates to organisational agility, but it primarily focuses on their relationship rather than specific strategies or practices that enhance organisational adaptability.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Agile principles and their integration with DevOps, but it lacks a focused discussion on organisational agility. While it touches on leadership and the human-centric approach of Agile, it does not delve into the broader strategies or practices that enhance organisational adaptability. The depth of discussion is moderate, but it does not provide substantial insights into the key topics outlined for the category.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1374,6 +1287,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of DevOps and Agile, without a focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:57:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the integration of DevOps and Agile methodologies, which are unrelated to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:57:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the integration of DevOps and Agile methodologies without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, with no direct mention of Scrum principles, roles, or events. While it touches on Agile concepts, it does not delve into Scrum-specific practices or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, without any explicit mention of the Shift-Left Strategy. While it touches on themes of collaboration and process, it does not delve into the principles, techniques, or benefits specific to the Shift-Left approach. The focus remains on the relationship between DevOps and Agile rather than on integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, touching on their unique perspectives and strengths. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, measurable advancements, or specific strategies for fostering a culture of experimentation. The discussion is more about the synergy between DevOps and Agile rather than a commitment to ongoing improvement, which is central to the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the integration of DevOps and Agile, hinting at a shared objective but lacks a focused discussion on Common Goals. It does not explicitly define or explore the significance of Common Goals within Agile and DevOps frameworks, nor does it provide depth on how these frameworks create alignment and ownership within teams. The mention of 'synchronised synergies' suggests a connection but does not delve into the operationalisation of Common Goals or their impact on organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the integration of DevOps and Agile, hinting at the importance of understanding their strengths. However, it lacks a direct focus on competence, continuous learning, or skill development, which are central to the category. The discussion is more about the synergy between the two methodologies rather than a deep exploration of competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, which are not directly related to the One Engineering System framework. While there are mentions of engineering practices, the focus is on the relationship between DevOps and Agile rather than on the principles, components, or implementation of 1ES. The discussion lacks depth regarding 1ES and does not provide relevant examples or best practices related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their similarities and differences without addressing the intentional shaping of outcomes or the principles of Agentic Agility. There are no explicit mentions of agency, adaptability, or the role of intent, which are central to the category. The discussion lacks depth and does not explore the transformative capacity of individuals or systems in a socio-technical environment.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:39:21",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, which are relevant to product development methodologies. However, it primarily focuses on their relationship rather than delving into specific product development practices or principles. The mention of continuous delivery and a human-centric approach aligns somewhat with product development themes, but the depth of discussion lacks concrete examples or strategies related to product delivery, customer feedback, or iterative processes.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:39:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, without any direct mention of Open Space Agile or its principles. While it touches on Agile concepts, it does not align with the core themes of Open Space Agile, such as collective participation, psychological safety, or co-creation. The depth of discussion is limited to a general overview of the relationship between DevOps and Agile, lacking specific insights into Open Space Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:39:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their similarities and unique perspectives. While it touches on Agile principles, it does not explicitly mention Agnostic Agile or its core themes, such as ethical, context-driven agility or the importance of adapting methods based on project needs. The discussion lacks depth regarding Agnostic Agile principles and does not provide a comparative analysis with traditional frameworks, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:39:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their individual strengths and perspectives rather than addressing the complexities and strategies involved in scaling. While it briefly touches on the concepts of continuous delivery and lean principles, it does not delve into specific frameworks, methodologies, or challenges related to scaling Agile practices across multiple teams, which is the core focus of the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:39:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their unique perspectives and synergies. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised structures or autonomous cells. The depth of discussion is also minimal regarding organisational design, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:39:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their synergies and perspectives. There are no direct mentions of Liberating Structures or their specific techniques. While it touches on themes of collaboration and team dynamics, it does not delve into the principles or applications of Liberating Structures, nor does it provide any depth on facilitation techniques. Therefore, the overall confidence score reflects a minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:39:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their unique perspectives and strengths. While it touches on concepts relevant to Agile and DevOps, it does not explicitly mention Time to Market or discuss metrics, strategies, or impacts related to delivering value quickly. The discussion lacks depth in terms of how these methodologies can optimise processes to reduce time to market, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:39:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile methodologies, focusing on their individual strengths and perspectives. There are no direct mentions of the Company as a Product concept, nor does it explore organisational design or customer-centric strategies. The discussion lacks depth regarding the principles or practices associated with CaaP, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:39:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile methodologies without any direct mention of GitHub or its services. While it touches on themes relevant to software development practices, it does not align with the specific functionalities or best practices associated with GitHub. The discussion lacks depth regarding GitHub's tools, features, or collaborative aspects, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:39:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their unique perspectives and strengths. There are no direct mentions of Unrealised Value or its indicators, nor does it explore potential improvements or innovation opportunities. The discussion lacks depth in relation to the category, as it does not provide insights into untapped opportunities or strategies for identifying them.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:39:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their unique perspectives and synergies. There are no direct mentions of Current Value or its metrics, nor does it provide any insights into customer satisfaction, revenue impact, or performance feedback. The discussion lacks depth regarding the practical application of Current Value in decision-making or prioritisation, which is essential for this category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:39:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, without a critical examination of Hybrid Agile or its challenges. It lacks direct mentions of Hybrid Agile concepts and does not delve into the implications or pitfalls associated with merging traditional methodologies with agile practices. The focus is on the synergy between DevOps and Agile rather than the complexities of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:39:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the integration of DevOps and Agile, which are methodologies related to project management, but it does not explicitly discuss core project management principles or broader project management strategies. While it touches on themes of collaboration and synergy, it lacks depth in discussing project lifecycle phases, roles, or tools that are central to project management. The mention of Agile and Scrum is more about their practices rather than their integration into a comprehensive project management framework.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, but it primarily focuses on the general relationship and synergy between the two, rather than explicitly outlining principles guiding decision-making, team behaviour, or actionable frameworks. While it mentions continuous delivery and a human-centric approach, it lacks detailed discussions of the core principles like self-management, continuous improvement, or customer collaboration that are central to the 'Principle' category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 28.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 28.0,
+    "reasoning": "The content primarily discusses the integration and conceptual relationship between DevOps and Agile but does not mention any specific tools, software applications, or practical implementations. The discussion lacks a focus on how tools facilitate workflows or improve collaboration in these frameworks, which is a critical requirement for alignment with the category 'Tool'. The coverage of tools or their functionalities is very minimal, thus resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content briefly touches upon the integration of DevOps and Agile, hinting at their philosophical underpinnings of collaboration and human-centric approaches. However, it lacks a strong focus on core values or a detailed exploration of how these values shape behavior, decision-making, or culture. The discussion is more centered on the methodologies rather than the values that guide them, hence the moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 2,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content provides a brief discussion on the relationship between DevOps and Agile, presenting some philosophical insights about their integration. However, the focus is primarily on how they work together rather than exploring the deeper philosophical underpinnings of either approach. The direct mentions are present but lean more towards operational synergy than foundational beliefs, which are essential for this category. Thus, while it touches on relevant themes, it lacks substantial depth in philosophical discussion.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 65.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the relationship between DevOps and Agile but primarily focuses on their integration without deeply exploring underlying principles or methodologies that define the discipline of each field. While it mentions characteristics of both methodologies, it lacks a thorough exploration of the governance structures, ethical considerations, and evolution of these practices as disciplines. The discussion is more about the synergy between the two rather than a comprehensive evaluation of their roles within a structured discipline.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content provides a high-level overview of the integration of DevOps and Agile but does not explicitly discuss any specific artifacts or their roles. The discussion is more focused on philosophical perspectives rather than tangible representations and lacks detailed exploration of artifacts in Agile or DevOps systems, resulting in a very low confidence score for this category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 22.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the integration of DevOps and Agile methodologies, without directly addressing observability or its key principles. While it touches on aspects of team dynamics and synergies between methodologies, it does not delve into metrics, logs, traces, or specific tools related to observability. Hence, it is minimally related with a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile, focusing on their synergistic relationship rather than specific actionable practices or techniques. While it briefly mentions concepts related to collaboration and continuous delivery, it lacks detailed exploration of specific practices that teams can implement. The mentions of Agile and DevOps are general rather than focused on practices, resulting in a low confidence score primarily due to the lack of depth and actionable content.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile from a philosophical viewpoint rather than providing specific structured methods or procedures. While it aligns somewhat with the themes of collaboration and synergies, it lacks detailed procedural content necessary for the 'Method' category. There’s brief mention of the concepts of DevOps and Agile but no concrete steps or methods are proposed, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content focuses primarily on the integration of DevOps and Agile rather than on specific models or frameworks related to these methodologies. While it discusses their intersection, it does not delve into explicit conceptual models, such as the Cynefin Framework or Lean principles that inform decision-making. The discussion lacks depth in analyzing how these methodologies can enhance organizational agility or systems thinking, which is central to the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content briefly mentions Agile and DevOps, suggesting integration and collaboration, which relates to frameworks. However, it lacks in-depth discussion of specific frameworks, their implementation, and best practices. The focus is more on their relationship than on framework methodologies themselves, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the integration of DevOps and Agile but does not explicitly mention any specific tenets or actionable guiding rules associated with these methodologies. While there is a conceptual understanding that both approaches can work together synergistically, the content lacks detailed discussions about how specific tenets apply or their roles in practical decision-making processes. The focus is more on a general view of their similarities rather than on prescriptive rules or tenets that guide teams in their practices.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:43",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, emphasizing their synergies and perspectives rather than focusing on the enduring competencies or capabilities that empower organizations. While it touches on themes of cooperation and strengths, it does not provide a substantive discussion on capabilities themselves, which diminishes the relevance to the 'Capability' category.",
     "level": "Ignored"
   }
 }

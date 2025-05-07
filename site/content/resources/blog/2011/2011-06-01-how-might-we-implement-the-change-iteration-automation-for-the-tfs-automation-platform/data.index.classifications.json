@@ -1,66 +1,36 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T23:10:18",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of the TFS Automation Platform and iteration management, without a clear focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T23:10:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of automation techniques within the TFS Automation Platform, focusing on practical tooling for managing iterations and queries, which aligns well with the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T23:10:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the development of the TFS Automation Platform, focusing on automating processes to enhance developer productivity and streamline the application lifecycle, which aligns with the principles of Platform Engineering.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the TFS Automation Platform and its automation capabilities, which aligns with the principles of Platform Engineering. However, it primarily focuses on specific iteration issues and automation tasks rather than providing a comprehensive overview of Platform Engineering concepts or Internal Developer Platforms. The discussion lacks depth in terms of broader themes like enhancing developer productivity or standardisation of tools, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T23:10:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on technical details and user experience rather than evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on technical details and user experience rather than evidence-based management principles. There are no explicit mentions of evidence-based practices or metrics related to current value, time to market, or empirical decision-making. The discussion lacks depth in relation to the core themes of Evidence-Based Management, making it largely irrelevant to the category.",
     "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the automation of query updates in the TFS Automation Platform, touching on aspects of code complexity and the need for maintainable solutions. However, the primary focus is on the implementation details rather than a deep exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T23:10:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details and project management aspects of the Tfs Automation Platform without a clear focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses automation in the context of the TFS Automation Platform and its application to Agile processes, but it does not explicitly mention AI or its integration within Agile frameworks.",
-    "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",
@@ -73,21 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the need for automation in the TFS Automation Platform, including potential configuration options and the implications of changing iterations, which relates to the configuration aspect of the category. However, it does not provide clear, actionable installation or configuration instructions, making it a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T23:10:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on technical details and user interface considerations rather than transparency and accountability principles.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the implementation of a specific automation feature within the TFS Automation Platform, which implies a focus on configuration aspects. It mentions the need for a configuration screen and options for enabling automation, indicating a degree of depth in discussing setup processes. However, it lacks explicit step-by-step installation procedures or detailed troubleshooting guidance, which are key elements of the 'Install and Configuration' category. Therefore, while it aligns conceptually with the category, the depth and direct mentions are not comprehensive enough to warrant a higher confidence score.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +71,17 @@
     "reasoning": "Content primarily discusses technical implementation details of the Tfs Automation Platform without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses automation in the context of the TFS Automation Platform, touching on aspects of resilience related to server restarts and job execution consistency. However, the primary focus is on technical implementation rather than broader organisational resilience or change management strategies.",
-    "level": "Tertiary"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in the context of the TFS Automation Platform, which aligns with DevOps principles, but it primarily focuses on specific implementation details rather than broader DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses automation in the context of the TFS Automation Platform, which aligns with DevOps principles of automation and efficiency. However, it primarily focuses on specific implementation details and challenges related to TFS rather than broader DevOps philosophies or practices. The mention of automation is relevant, but the depth and breadth of discussion do not fully encompass the core themes of DevOps.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,32 +101,17 @@
     "reasoning": "Content primarily discusses the implementation of automation in the Tfs Automation Platform, focusing on technical details and processes rather than decision-making frameworks or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T23:10:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development and automation processes related to the Tfs Automation Platform, with no clear focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in the context of managing iterations and queries, which relates to optimising workflow and reducing manual bottlenecks. However, it primarily focuses on the implementation details rather than a comprehensive exploration of flow efficiency principles.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the challenges and considerations of automating processes within a team environment, touching on team dynamics and the impact of automation on productivity, but it primarily focuses on technical implementation details.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the automation of updating queries in the TFS Automation Platform, which relates to improving efficiency in handling iterations. However, it primarily focuses on the technical implementation details rather than explicitly addressing flow efficiency principles or metrics. While there are mentions of reducing manual effort and potential bottlenecks, the overall discussion lacks depth in flow efficiency concepts and does not provide a comprehensive exploration of the category.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T23:10:50",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on technical details and user interface considerations rather than metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,19 +151,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of automation in the TFS Automation Platform, which relates to engineering practices and methodologies. However, it primarily focuses on specific implementation details rather than broader principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the implementation of automation within the TFS Automation Platform, which touches on aspects of technical excellence such as automation and efficiency in software development. However, it lacks a direct focus on established engineering practices like TDD or CI/CD, and the depth of discussion on these topics is minimal. The primary focus is on a specific automation task rather than broader engineering methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-15T23:10:54",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on technical details and user experience rather than complexity science or its principles.",
     "level": "Ignored"
   },
@@ -235,11 +181,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of automation in the context of the TFS Automation Platform, which relates to the delivery process of software products. However, it primarily focuses on specific implementation details rather than broader methodologies or practices of product delivery.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the implementation of automation within the TFS Automation Platform, which relates to product delivery through the lens of improving efficiency in managing iterations. However, it lacks a comprehensive exploration of methodologies, practices, or metrics typically associated with product delivery. While it touches on aspects of deployment and automation, it does not delve deeply into the broader themes of Agile methodologies, testing, or cross-functional team dynamics, which are crucial for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -260,15 +209,6 @@
     "reasoning": "Content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on iteration management and technical details rather than the principles or practices of Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T23:11:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development and automation features of the Tfs Automation Platform, without focusing on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T23:11:02",
@@ -280,11 +220,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T23:11:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of automation within the TFS Automation Platform, which is a component of Azure DevOps, focusing on iteration management and query updates.",
+    "reasoning": "The content discusses the TFS Automation Platform, which is closely related to Azure DevOps, particularly in the context of automating tasks within the TFS (Team Foundation Server) environment. It mentions specific functionalities like updating WIQL queries and automating iteration changes, which align with Azure DevOps services. However, while it provides a good level of detail and practical examples, it lacks a broader discussion on Azure DevOps as a suite, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,22 +248,25 @@
     "reasoning": "Content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on specific technical issues and processes rather than exploring Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T23:11:07",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Tfs Automation Platform and specific automation tasks, without a clear focus on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T23:11:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on technical details and iteration management rather than the Agile Product Operating Model.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the implementation of automation within the TFS Automation Platform, focusing on technical details and specific queries related to iterations. While it touches on agile concepts like iterations and sprints, it lacks a comprehensive discussion on the Agile Product Operating Model principles, such as transitioning to a product ethos or integrating product management practices. The content does not explicitly mention the Agile Product Operating Model, which diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +278,17 @@
     "reasoning": "Content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on technical details and specific queries rather than organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T23:11:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the implementation details and challenges of the Tfs Automation Platform, rather than providing industry news, updates, or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation in the context of managing iterations within the TFS Automation Platform, which relates to the maintenance and deployment stages of the application lifecycle. However, it primarily focuses on specific implementation details rather than broader ALM methodologies or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses automation within the context of the TFS Automation Platform, which relates to application management. However, it primarily focuses on specific implementation details and iteration issues rather than the broader aspects of Application Lifecycle Management such as governance, compliance, or lifecycle stages. While there are mentions of automation and deployment, the depth of discussion does not fully encompass the key topics outlined in the category definition.",
     "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T23:11:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the TFS Automation Platform and iteration issues, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,38 +301,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation details of TFS Automation and iteration management, which are not related to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the implementation of an automation feature related to the TFS Automation Platform, which has elements of software craftsmanship and technical practices. However, it also delves into project management aspects and team dynamics, which are less focused on technical mastery.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the implementation of automation within the TFS Automation Platform, touching on aspects of software development and the need for efficient query management. However, it primarily focuses on specific implementation details and user concerns rather than broader principles of software craftsmanship, clean code, or architectural best practices. While there are mentions of automation and resilience, the depth of discussion does not fully align with the core themes of Technical Mastery.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details, automation features, and configuration for a platform, rather than exploring product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T23:27:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of automation in the context of TFS iteration management, rather than principles or practices of Continuous Delivery.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses automation in the context of the TFS Automation Platform, which aligns with Continuous Delivery principles. However, it primarily focuses on specific implementation details and iteration management rather than broader Continuous Delivery practices. The mention of automation is relevant, but the overall discussion lacks depth in exploring Continuous Delivery as a whole, such as rapid feedback, cultural aspects, or case studies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +352,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS Automation, iteration management, and related automation processes, with no clear focus on Lead Time or its measurement and optimization.",
     "level": "Ignored"
   },
@@ -433,10 +370,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the implementation of the Tfs Automation Platform and specific iteration issues, without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -451,19 +388,19 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses implementation details and issues related to the Tfs Automation Platform without focusing on the Product Backlog, Agile principles, or backlog management.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical implementation of automation in a TFS development environment rather than focusing on Agile Planning principles or practices.",
     "level": "Ignored"
   },
@@ -487,19 +424,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T23:27:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses the automation of TFS iteration changes, which involves optimizing workflow processes and reducing manual overhead in managing queries. This aligns well with operational practices aimed at improving efficiency within Agile frameworks.",
+    "reasoning": "The content discusses the implementation of automation within the TFS Automation Platform, which aligns with operational practices aimed at improving efficiency in managing queries during iterations. It mentions the need for automation to reduce manual effort and potential errors, which is a key aspect of operational efficiency. However, the discussion lacks depth in terms of broader operational strategies and metrics, focusing more on a specific implementation rather than a comprehensive overview of operational practices.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on automation related to TFS and iteration management rather than discussing Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -523,10 +463,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses development tasks and automation processes within a software platform rather than focusing on validating product ideas with user engagement. Topics like iteration management and automation do not align with product validation methodologies.",
     "level": "Ignored"
   },
@@ -559,10 +499,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the automation of tasks within the TFS Automation Platform and the technical specifics of managing queries during iterations, rather than focusing on team dynamics, collaboration, or performance strategies.",
     "level": "Ignored"
   },
@@ -577,37 +517,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of automation features for a platform without focusing on Acceptance Test Driven Development principles, acceptance criteria, or collaborative testing processes.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T23:27:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the implementation of automation features within the TFS (Team Foundation Server), which is relevant to software development practices, specifically in the context of managing iterations and queries in a development project. It touches on implementation details, automation processes, and potential challenges, making it a primary topic related to software development.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation features related to managing sprints and queries in TFS, which connects to agile project management practices, but it does not primarily focus on agile principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the implementation of automation within the TFS Automation Platform, which is a software development tool. It explicitly mentions the need for automation in managing iterations and queries, aligning closely with software development practices. The depth of discussion includes specific technical details about the automation process, potential issues, and considerations for implementation, demonstrating a strong understanding of software development methodologies and practices.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses mainly on the implementation details related to the Tfs Automation Platform, including automation processes and technical considerations, rather than discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -631,30 +565,33 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and automation processes related to TFS, without clear focus on empirical process control principles such as transparency, inspection, and adaptation in Agile methodologies.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects and implementation details of the Tfs Automation Platform, with no focus on Scrum values or principles.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses automation related to TFS (Team Foundation Server) and the management of iterations, which is connected to Azure Boards functionalities, but it is not the primary focus on Azure Boards itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the TFS Automation Platform and the need for automating the change of iterations, which is related to Azure Boards. However, it primarily focuses on the automation aspect rather than the functionalities and best practices of Azure Boards itself. While there are mentions of queries and iterations, the discussion lacks depth in exploring Azure Boards' features, work item types, or best practices for Agile project management.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -667,10 +604,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of implementing automation for the TFS platform and does not address strategies or practices related to organisational change.",
     "level": "Ignored"
   },
@@ -701,15 +638,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to the TFS Automation Platform and does not focus on customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T23:27:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses automation processes for Tfs and iteration management without a clear focus on scaling Scrum principles or frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T23:27:03",
@@ -728,23 +656,17 @@
     "reasoning": "Content heavily discusses the development and technical aspects of the Tfs Automation Platform, focusing on iteration processes without any mention of psychological safety, team dynamics, or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T23:27:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on specific automation tasks within the TFS platform and does not discuss strategies or practices for scaling agile methodologies across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content involves automating processes within the TFS Automation Platform, touching on principles of efficiency and process improvement in software engineering, which aligns with key themes of engineering excellence, but is primarily focused on a specific technical implementation rather than a broader discussion of engineering practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the implementation of automation in the TFS Automation Platform, which touches on aspects of engineering excellence such as automation and efficiency in development processes. However, it lacks a strong focus on broader principles of software craftsmanship, coding standards, or quality assurance practices. The discussion is more about specific implementation details rather than a comprehensive exploration of engineering excellence as defined in the category.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -757,10 +679,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T23:27:03",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the practical implementation of an automation feature within the Tfs Automation Platform, focusing on iteration management rather than asynchronous collaboration principles or practices.",
     "level": "Ignored"
   },
@@ -784,11 +706,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T23:27:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses practical automation solutions within the TFS Automation Platform, addressing real-world challenges faced in Agile environments, particularly the need for efficient iteration updates and managing queries. It emphasizes problem-solving in the context of iteration management, which aligns with pragmatic approaches in Agile.",
+    "reasoning": "The content discusses practical issues related to automating the change of iterations in a TFS Automation Platform, which aligns with pragmatic problem-solving in Agile contexts. It highlights real-world challenges faced during iteration transitions and proposes a solution, demonstrating adaptability and practical application of DevOps principles. However, while it touches on relevant themes, the depth of discussion on broader Agile or Scrum principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +727,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation as a solution for efficiency and improvement within the TFS Automation Platform, highlighting the need for innovation in handling queries and iterations, making it a major theme although it integrates with general project management practices.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T23:27:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses specific automation tasks related to TFS and iteration management but does not focus on Scrum principles, roles, or practices in product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T23:27:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on the technical implementation of a specific automation feature in the Tfs Automation Platform, without discussing Scaled Agile frameworks, coordination across multiple teams, or enterprise-level Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the implementation of automation within the TFS Automation Platform, which hints at innovative practices. However, it lacks a direct focus on the broader themes of the Ability to Innovate category, such as Evidence-Based Management or frameworks for measuring innovation. The discussion is more technical and operational rather than strategic or empirical, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,12 +757,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automation within the context of the TFS Automation Platform, particularly focusing on automating the change of iterations in team queries. While it leans more towards project management and system automation, the principles of test automation are implied through the setup and execution of automated jobs.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses automation in the context of the TFS Automation Platform, specifically focusing on automating the process of updating queries when moving between iterations. While it touches on automation, it lacks a direct focus on test automation principles, frameworks, or practices. The discussion is more about process automation rather than the automation of software testing, which is the primary focus of the Test Automation category. Therefore, while there are relevant elements, they do not align closely enough with the core themes of test automation.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -865,28 +778,31 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses automating processes in software development and TFS, focusing on practical implementations which suggest user needs and improving efficiency, a key aspect of delivering working software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the implementation of automation for the TFS Automation Platform, which relates to the delivery of functional software. However, it primarily focuses on specific technical challenges and considerations rather than broader themes of working software, such as user feedback or iterative development. While there are mentions of automation and improving processes, the depth of discussion on working software principles is limited.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS Automation and the technical aspects of database query management rather than Agile Planning Tools.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the TFS Automation Platform and iteration management in the context of task automation, rather than focusing on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -928,21 +844,24 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the implementation of the Tfs Automation Platform and iteration management without a clear focus on hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of decision-making related to automation in a development context, including considerations about capacity planning, server load, and the implications of automation on project management, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the implementation of an automation feature within the TFS Automation Platform, touching on aspects of decision-making related to capacity planning and resilience. However, it lacks a structured approach to decision-making principles and does not provide empirical evidence or frameworks for evaluating options. The focus is more on technical implementation rather than on evidence-based decision-making methodologies.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -964,19 +883,19 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details and automation processes related to the Tfs Automation Platform, rather than the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the implementation and automation of queries in TFS, with a focus on iteration management, but does not explicitly address Cycle Time as a primary topic.",
     "level": "Ignored"
   },
@@ -991,50 +910,53 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation and automation of queries in TFS without a clear focus on deployment frequency optimization or related Agile/DevOps practices.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical implementation of features in the TFS Automation Platform, with no clear alignment to change management strategies or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the automation of iteration updates in the TFS Automation Platform, discussing technical functionalities and potential issues without a central emphasis on team collaboration, communication, or Agile methodologies.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses automation processes related to TFS and does not focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-15T23:27:04",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses automation procedures and development within the TFS (Team Foundation Server) Automation Platform, which implies a focus on improving operational efficiency through digital tools. While the primary focus is on a specific automation project, the underlying theme relates to leveraging digital technologies for workflow improvements and business agility, making it relevant to digital transformation.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the development of the Tfs Automation Platform, which involves automating processes related to project management and iteration changes. While it touches on automation and efficiency, it lacks a broader strategic focus on digital transformation as defined in the category. The discussion is more technical and operational rather than strategic, with limited exploration of how these technologies enhance business agility or foster innovation.",
+    "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T23:27:04",
     "ai_confidence": 0,
@@ -1043,30 +965,24 @@
     "reasoning": "Content heavily discusses automation processes within the TFS Automation Platform and addresses issues related to iteration management, but does not center around MVP concepts or their related strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T23:27:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the development of a TFS Automation Platform and the process of automating tasks, but it does not clearly focus on the application of AI within Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T23:27:04",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses automation within the context of configuring the TFS Automation Platform and touches on configuration processes for managing iterations and related queries, making system configuration a major theme.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the implementation of automation within the TFS Automation Platform, which touches on aspects of system configuration, such as setting up automation processes and managing queries. However, the primary focus is on development and iteration management rather than detailed system configuration practices. While there are mentions of configuration screens and job execution, the depth of discussion on best practices or optimisation strategies is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses heavily on technical implementation details and specifics of automation within the TFS platform, rather than discussing product strategy, vision, or market analysis.",
     "level": "Ignored"
   },
@@ -1090,20 +1006,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the development of automation features in TFS and does not focus on cross-functional teams or their characteristics, roles, or best practices in Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T23:27:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the implementation and automation aspects of the Tfs Automation Platform without addressing Test First Development, TDD principles, or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of automation for managing queries in the TFS Automation Platform, focusing on iteration management rather than the principles of Test First Development. There are no explicit mentions of success criteria, testing practices, or the role of testing in the development process, which are central to the Test First Development category. The discussion lacks depth in relation to the key topics outlined for Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1117,37 +1036,37 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on automating updates and managing iterations within the TFS Automation Platform, which does not directly discuss deployment methodologies or strategies associated with deploying software into production.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a specific technical implementation for automation in TFS without discussing large-scale Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details regarding the Tfs Automation Platform and does not focus on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development and implementation details of the TFS Automation Platform and iteration automation, without focusing on remote work practices or Agile team collaboration.",
     "level": "Ignored"
   },
@@ -1180,11 +1099,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T23:27:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to the Tfs Automation Platform and does not address Scrum Master responsibilities, coaching, or team dynamics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of automation within the TFS Automation Platform, focusing on technical aspects and query management across sprints. While it touches on concepts related to iterations, it does not explicitly mention the role or responsibilities of a Scrum Master, nor does it engage with the core themes of Scrum Master discussions such as coaching, team dynamics, or organisational change. The content lacks depth in relation to the Scrum Master role, making it only tangentially relevant.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1120,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses technical implementation and issues related to the TFS Automation Platform, not focusing on working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T23:27:04",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of automation in the context of the Tfs Automation Platform, which directly relates to the work and methodologies used by software developers in Agile environments, such as managing iterations and queries.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,12 +1138,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the automation of tasks related to the TFS Automation Platform, which falls under the broader theme of automation in software engineering practices, a key aspect of Engineering Practices. However, it is more focused on the functionality and planning of an automation tool rather than core Agile principles like clean code, TDD, or CI/CD.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses automation in the context of the TFS Automation Platform, which aligns with the principles of automation in engineering practices. However, it lacks explicit mentions of clean code, TDD, or CI/CD, and the depth of discussion on these practices is minimal. The focus is more on specific implementation details rather than broader engineering methodologies.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1243,21 +1159,21 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS Automation and iteration management, without mention of the Sprint Review process or its core principles.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:13",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 20,
     "non_ai_confidence": 10,
-    "final_score": 19.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses technical implementation details and automation processes related to the Tfs Automation Platform, which does not align closely with the strategic aspects of product management. It does not primarily focus on product management methodologies, customer needs, or stakeholder alignment.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1270,12 +1186,12 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:13",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses automation related to the TFS (Team Foundation Server) and iterations but does not focus primarily on Agile frameworks or principles. It touches upon Agile concepts like iterations but lacks a detailed exploration of Agile frameworks themselves.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1306,10 +1222,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS Automation and iteration management rather than Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -1331,15 +1247,6 @@
     "reasoning": "Content primarily discusses the implementation and automation challenges within TFS, with no clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T23:27:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on the Tfs Automation Platform and iteration management issues, with no clear discussion on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T23:27:04",
@@ -1351,20 +1258,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T23:27:04",
+    "calculated_at": "2025-04-10T15:55:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on automating queries in the TFS Automation Platform and does not address Test Driven Development principles, practices, or the TDD cycle.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:57:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the implementation of automation for the TFS Automation Platform, focusing on technical details and specific queries rather than the frameworks of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical implementation of automation within the TFS Automation Platform, discussing specific queries and processes without a strong emphasis on collaboration, decision-making, or value delivery. While it touches on team dynamics and the need for efficiency, it lacks a detailed exploration of social technologies or frameworks that promote collective intelligence and transparency. The discussion is more technical than social, leading to a lower confidence score in alignment with the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1284,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to the Tfs Automation Platform and does not focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the TFS Automation Platform, which relates to automating tasks within a development environment, but it primarily focuses on specific iteration issues rather than the broader context of an Internal Developer Platform.",
+    "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:29:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the implementation of automation in the TFS Automation Platform without a clear focus on AI applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses automation related to iterations in the TFS Automation Platform, which is relevant to Scrum practices. However, it lacks explicit mentions of Scrum roles, events, or artifacts, and does not deeply engage with Scrum principles. The focus is more on technical implementation rather than Scrum methodology.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of automation within the TFS Automation Platform, focusing on iteration management rather than integrating testing, security, or compliance earlier in the development process. While there are mentions of automation and efficiency, these do not directly relate to the core principles of the Shift-Left Strategy, which emphasises early integration of critical processes in software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the implementation of automation in the TFS Automation Platform, which can be seen as a step towards improving efficiency in managing queries across sprints. However, it lacks a strong focus on Continuous Improvement principles, such as empirical evidence, a culture of experimentation, or detailed strategies for integrating Continuous Improvement into organisational processes. While there are mentions of enhancing efficiency and addressing iteration issues, the discussion does not delve deeply into the broader implications or methodologies associated with Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical implementation of automation within the TFS Automation Platform, discussing specific queries and processes rather than addressing shared objectives or alignment within teams. While it touches on the need for efficiency and mentions the context of iterations, it lacks a clear connection to the principles of Common Goals in Agile or DevOps, such as strategic alignment or ownership within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the implementation of automation in the TFS Automation Platform, focusing on technical details and processes rather than on the development of skills or continuous learning. While there are some references to the need for efficiency and resilience in managing queries, these do not explicitly connect to the broader themes of competence, such as skill development or fostering a culture of competence. The discussion lacks depth in exploring how competence impacts team dynamics or decision-making.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of automation within the TFS Automation Platform, focusing on technical details and operational efficiency rather than the intentional shaping of outcomes through agency and adaptability. While there are elements of automation that could relate to agility, the discussion lacks a clear connection to the principles of Agentic Agility, such as intent, accountability, and the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

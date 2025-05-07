@@ -35,7 +35,7 @@
     "reasoning": "Content heavily discusses a technical issue related to .NET and Active Directory without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T18:30:13",
     "ai_confidence": 0,
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, with no clear connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:30:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses a technical issue related to .NET and Active Directory without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:30:20",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:30:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a bug in .NET and its implications for security, without focusing on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -145,38 +127,35 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T18:30:28",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:30:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to .NET and Active Directory, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:30:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:30:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a bug in .NET 3.5 and its implications, rather than providing news or reviews related to Agile, DevOps, or technology updates.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to .NET and Active Directory, with no direct mentions or relevant discussions about the Agile Product Operating Model. It lacks alignment with the core themes of APOM, such as product management principles or agile methodologies, and provides minimal detail on any related concepts.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a bug in .NET related to Active Directory access, with no clear connection to platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:30:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a bug in .NET related to Active Directory and does not mention Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:31:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a bug in .NET related to Active Directory access, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:31:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific bug in .NET related to Active Directory access, without addressing broader themes of code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:31:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:31:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:31:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a bug in .NET related to Active Directory access, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses a specific error related to .NET and Active Directory, with no direct mention of DevOps principles, practices, or cultural shifts. While there is a brief mention of security concerns, it does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion lacks depth regarding DevOps concepts, focusing instead on a technical issue without broader implications for DevOps practices.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific bug in .NET and its implications for security, rather than focusing on engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:31:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory without addressing human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:31:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory without any focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:31:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a bug in .NET 3.5 and does not focus on products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:38:21",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a bug in .NET related to Active Directory without focusing on innovation practices or the ability to innovate.",
     "level": "Ignored"
   },
@@ -420,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a technical bug related to .NET and Active Directory, not portfolio management or strategic alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to .NET and accessing Active Directory, with no discussion or connection to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -503,15 +404,6 @@
     "reasoning": "Content heavily discusses a technical error related to .NET and Active Directory, with no mention of Definition of Done or relevant Agile practices.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on a bug in .NET related to Active Directory and does not discuss Agile methodologies or scaling Agile practices.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-16T18:38:21",
@@ -575,30 +467,24 @@
     "reasoning": "Content heavily discusses a bug in .NET PrincipalContext classes and does not relate to collaboration tools or Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses a bug in .NET related to active directory integration but does not address Agile, DevOps methodologies, or software development practices central to the Software Developers category.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses a bug encountered in .NET related to Active Directory interactions, which falls under software development practices, particularly in coding and handling security risks during development.",
+    "reasoning": "The content discusses a specific bug related to the .NET framework and its interaction with Active Directory, which is relevant to software development practices. It mentions a coding solution and raises concerns about security in the context of software design. However, the discussion lacks depth in terms of broader software development methodologies or best practices, focusing instead on a specific technical issue.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T18:38:21",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a bug in .NET regarding Active Directory access but does not relate to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -620,7 +506,7 @@
     "reasoning": "Content heavily discusses a technical error in .NET related to Active Directory and does not address estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:38:21",
     "ai_confidence": 0,
@@ -694,11 +580,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a bug in .NET related to Active Directory access, with no connection to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific error related to .NET and Active Directory, with no direct mention or exploration of Continuous Delivery principles, practices, or benefits. It lacks any discussion on automation, incremental improvements, or cultural aspects related to Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a specific bug in .NET related to accessing Active Directory, with no mention of hypotheses, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses a technical issue related to .NET and Active Directory, without any reference to AI, Agile methodologies, DevOps practices, or software development processes involving AI.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -955,29 +835,23 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific technical error in .NET related to accessing Active Directory, suggesting some technical challenges and security concerns, but it lacks a broader discussion on software craftsmanship or best practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a specific bug related to the .NET framework and its implications for security and user credentials management. While it touches on a technical issue, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The focus is primarily on a specific problem rather than on overarching technical mastery concepts.",
     "level": "Tertiary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T18:38:21",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a technical issue with .NET and Active Directory, not related to remote working or Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, with no connection to Kanban principles or scaling methodologies.",
+    "reasoning": "Content is primarily about a technical issue with .NET and Active Directory, not related to remote working or Agile frameworks.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -987,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, with no focus on customer retention strategies or themes.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory, without reference to Agile project management concepts or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,12 +955,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific error related to .NET and Active Directory access in a Windows environment, indicating its relevance to Windows. However, the primary focus is more on .NET and Active Directory functionality rather than direct Windows operating system topics.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific error related to the .NET framework and Active Directory, which are both relevant to Windows environments. However, it does not explicitly focus on Windows as a primary topic, nor does it cover broader aspects of Windows installation, configuration, or troubleshooting in detail. The mention of a specific error code and the context of using ASP.NET in a Windows environment indicates some alignment, but the depth of discussion is primarily technical and specific to a programming issue rather than a comprehensive exploration of Windows itself.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1108,11 +976,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses a specific error encountered in .NET related to active directory access and offers a suggestion for troubleshooting the issue, which aligns with the troubleshooting category.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses a specific bug related to the .NET PrincipalContext classes and provides a potential workaround for accessing Active Directory. This aligns with troubleshooting as it identifies a technical issue and suggests a solution. However, the depth of discussion is somewhat limited, focusing primarily on a single error without broader troubleshooting techniques or methodologies. The mention of security risks adds some conceptual alignment, but the overall depth could be improved.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1180,19 +1051,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T18:38:21",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to .NET and Active Directory, with no focus on working agreements or team collaboration.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T18:38:21",
+    "calculated_at": "2025-04-10T15:56:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a specific bug related to .NET PrincipalContext classes but does not focus on the delivery of functional software or best practices for ensuring software quality.",
     "level": "Ignored"
   },
@@ -1268,15 +1139,6 @@
     "reasoning": "Content primarily discusses a bug related to .NET PrincipalContext classes and Active Directory operations without any mention of asynchronous development principles, practices, or related topics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical bug related to .NET and security concerns regarding Active Directory, which is unrelated to Scaling Scrum topics.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T18:38:21",
@@ -1313,22 +1175,16 @@
     "reasoning": "Content is focused on a technical bug related to .NET and Active Directory, with no relevance to Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET and Active Directory rather than scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to .NET programming and does not mention Scrum or the role of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to .NET and Active Directory, with no direct mention of Scrum or the role of a Scrum Master. While there is a brief mention of a problem-solving approach, it does not align with the core themes of Scrum Master responsibilities, techniques, or influence on team dynamics. The focus is entirely on a programming error and its implications, which is unrelated to the Scrum framework.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1207,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:38:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a bug in .NET and a workaround related to Active Directory without addressing Test First Development or its principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific error related to .NET 3.5 and Active Directory access, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on the subject matter. The focus is entirely on a technical issue rather than on testing methodologies.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:15:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a bug in .NET related to Active Directory access, with no mention of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical issue related to .NET and Active Directory, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It briefly touches on security concerns but does not align with the core themes of social technologies or provide any depth in that area.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1236,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses a technical issue related to .NET and Active Directory, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:43:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a bug in .NET related to Active Directory access, which is not relevant to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:43:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a bug in .NET related to Active Directory access, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to .NET and Active Directory, with no direct mentions of Scrum principles, roles, events, or practices. While there is a brief mention of a problem that could be relevant in a team context, it does not align with the core themes of Scrum or provide any depth on Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific bug related to .NET and Active Directory without any reference to the Shift-Left Strategy. It does not address integrating testing, security, or compliance early in the development process, nor does it provide any techniques, case studies, or tools related to the Shift-Left approach. The focus is on a technical issue rather than a strategic discussion.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to .NET and Active Directory, with no mention of Common Goals, Agile, or DevOps principles. It focuses on a specific error and potential security risks without connecting to shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses a technical error related to .NET and Active Directory, with no explicit mention of competence or its principles. While it touches on a problem that may require skill to resolve, it does not delve into continuous learning, skill development, or the importance of competence in a professional context.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific error in .NET 3.5 related to Active Directory access, with no focus on Continuous Improvement principles. While there is a mention of a bug and a desire for better solutions, it lacks a structured discussion on improvement methodologies, empirical evidence, or strategies for fostering a culture of experimentation. The content does not align with the core themes of Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:43",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical error related to .NET and Active Directory, with no explicit mention of Agentic Agility or its principles. It does not explore the intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The focus is on a specific bug and its implications for security, which is unrelated to the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

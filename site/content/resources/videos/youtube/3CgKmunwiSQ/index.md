@@ -2,8 +2,10 @@
 title: 'Understanding the Difference: Traditional Management vs. Evidence-Based Management'
 description: Explore the key differences between Traditional Management and Evidence-Based Management (EBM) in decision-making for better organisational success!
 date: 2024-09-12T07:00:02Z
+weight: 1000
 ResourceId: 3CgKmunwiSQ
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3CgKmunwiSQ
@@ -14,33 +16,30 @@ preview: https://i.ytimg.com/vi/3CgKmunwiSQ/maxresdefault.jpg
 duration: 395
 isShort: false
 aliases:
-- /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
-- /resources/videos/traditional-management-vs-evidence-based-management
-- /resources/videos/3CgKmunwiSQ
-- /resources/traditional-management-vs-evidence-based-management
 - /resources/3CgKmunwiSQ
-aliasesFor404:
+- /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/traditional-management-vs-evidence-based-management
+- /resources/videos/understanding-the-difference-traditional-management-vs.-evidence-based-management
+aliasesArchive:
+- /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/videos/traditional-management-vs-evidence-based-management
 - /resources/traditional-management-vs-evidence-based-management
+- understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/understanding-the-difference-traditional-management-vs.-evidence-based-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
-- Evidence Based Management
 - Metrics and Learning
 - Evidence Based Leadership
-- People and Process
-- Decision Theory
-- Pragmatic Thinking
+- Evidence Based Management
+- Decision Making
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
-- Leadership
-- Social Technologies
+- Uncategorized
 
 ---
 ## **What Is Traditional Management?**
@@ -87,7 +86,7 @@ A common pitfall in evidence-based management is focusing on "vanity metrics." T
 
 - Include things like story points, velocity, or the sum of tasks completed per sprint.
 
-**Example**: Imagine a product owner who makes decisions solely based on velocity—the sum of story points completed each sprint. This might look impressive on paper, but it doesn’t necessarily mean the product is delivering value to the customer. It’s like judging a race based on how fast a car is going without considering if it’s going in the right direction.
+**Example**: Imagine a [product owner]({{< ref "/tags/product-owner" >}}) who makes decisions solely based on velocity—the sum of story points completed each sprint. This might look impressive on paper, but it doesn’t necessarily mean the product is delivering value to the customer. It’s like judging a race based on how fast a car is going without considering if it’s going in the right direction.
 
 ## **Common Decision-Making Pitfalls in Traditional Management**
 
@@ -167,6 +166,6 @@ Evidence-based management is not just a buzzword; it's a way to make smarter, mo
 
 - **More informed decisions** 🧠
 
-- **A culture of continuous improvement** 📈
+- **A culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}})** 📈
 
 The next time you're faced with a decision, ask yourself: Are you relying on evidence, or are you just making it up? Embrace the challenge, and you’ll see the difference it makes for your team and organization. 🌟

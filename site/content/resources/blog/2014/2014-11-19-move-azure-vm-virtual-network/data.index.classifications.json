@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical steps for configuring Azure virtual machines and networks, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:51:56",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses practical steps for configuring Azure virtual machines and networks, which aligns with the exploration and application of tools and methodologies in a DevOps context.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-14T23:51:57",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:51:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T23:52:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is more about cloud infrastructure management than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T23:52:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to Azure VM configuration, with no significant emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T23:52:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for moving an Azure VM to a virtual network, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T23:52:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a detailed step-by-step guide on configuring a virtual network and moving an Azure VM, which aligns well with installation and configuration processes.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T23:52:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for configuring Azure VMs and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "final_score": 85.0,
+    "reasoning": "The content provides a detailed step-by-step guide on configuring a virtual machine within Azure, which directly aligns with the category of Install and Configuration. It discusses the process of creating a virtual network, deleting and recreating a VM, and selecting the appropriate settings, all of which are essential aspects of installation and configuration. The content is rich in actionable instructions and addresses specific technical tasks, demonstrating a strong focus on the category. However, while it is comprehensive, some informal language and minor digressions slightly detract from the overall depth of technical discussion.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily focuses on technical steps for configuring Azure VMs and does not address the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T23:52:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for moving an Azure VM to a virtual network, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring Azure virtual machines and networks, which relates to DevOps practices, but it primarily focuses on specific technical steps rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical steps for moving an Azure VM to a virtual network, which is more aligned with cloud infrastructure management than the broader DevOps philosophy. While it touches on aspects of configuration and setup that could relate to DevOps practices, it lacks explicit discussions on collaboration, automation, or shared accountability, which are core to the DevOps ethos. The depth of discussion is limited to procedural instructions without engaging in the cultural or strategic elements of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical steps for configuring Azure virtual machines and networks, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T23:52:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for configuring Azure VMs and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T23:52:17",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which does not directly relate to optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T23:52:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for configuring Azure VMs and does not focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T23:52:21",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical steps for moving an Azure VM to a virtual network, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of moving an Azure VM to a virtual network, which relates to engineering practices in cloud infrastructure management. However, it primarily focuses on specific steps rather than broader principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the practical steps for moving an Azure VM to a virtual network, which is a technical task. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does touch on technical aspects, such as configuration and deployment, it does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -260,15 +200,6 @@
     "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, which does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T23:52:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for configuring Azure virtual machines and networks, with no focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-14T23:52:32",
@@ -280,10 +211,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T23:52:33",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving a virtual machine within Azure, which is not directly related to Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
@@ -305,22 +236,16 @@
     "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:52:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is not related to the principles or practices of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T23:52:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical instructions for moving an Azure VM to a virtual network, with no mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +257,6 @@
     "reasoning": "Content primarily focuses on technical steps for configuring Azure virtual machines and networks, with no discussion of organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T23:52:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for configuring Azure VMs, lacking discussions on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-14T23:52:44",
@@ -348,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is more related to cloud infrastructure management rather than the comprehensive management of the application lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T23:52:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure VM configuration and management, with no mention of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +277,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T23:52:55",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, with no mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of moving an Azure VM to a virtual network, which relates to software engineering practices, but it primarily focuses on specific implementation steps rather than broader principles of software craftsmanship or architecture.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the practical steps for moving an Azure VM to a virtual network, which is a technical task. However, it lacks a broader discussion on software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. While it does touch on technical aspects, it does not delve deeply into the principles of clean code, architecture, or engineering practices that are central to the 'Technical Mastery' category.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -397,11 +307,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:52:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical steps for moving an Azure VM to a virtual network, which does not directly address Continuous Delivery principles or practices. While there is a mention of 'Release Management', it is not explored in the context of Continuous Delivery. The discussion lacks depth on automation, rapid feedback, or cultural aspects related to Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +346,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T23:53:07",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -487,12 +400,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical steps involved in configuring Azure virtual machines and networks, which relates to operational practices in cloud management, but it is primarily focused on specific technical instructions rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical steps required to move an Azure VM to a virtual network, which is more of a procedural guide than a discussion on operational practices. While it touches on aspects of configuration and management, it lacks a broader discussion on optimising processes or improving operational efficiency within Agile, DevOps, or Lean frameworks. The content does not provide insights into strategies for continuous improvement or metrics for measuring operational efficiency, which are key themes of the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -586,28 +502,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of configuring Azure virtual machines and networks, which relates to software development practices, but it is primarily focused on specific Azure configurations rather than broader software development methodologies.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T23:53:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, with no mention of agile methodologies or principles.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the practical steps involved in configuring Azure virtual machines and networks, which aligns with software development practices, particularly in the context of cloud infrastructure management. It discusses specific actions related to the deployment and configuration of virtual machines, which is a relevant aspect of software development. However, while it provides a decent level of detail, it lacks a broader discussion on methodologies or best practices in software development, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T23:53:34",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps for configuring Azure virtual machines and networks, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -649,19 +559,19 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-14T23:53:42",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses moving Azure VMs and configuring virtual networks, which is unrelated to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-14T23:53:44",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is unrelated to collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
@@ -701,15 +611,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to Azure virtual machines and networking, with no focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T23:53:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on configuring Azure virtual machines and networks, with no relevance to Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-14T23:53:52",
@@ -726,15 +627,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical steps for configuring Azure virtual machines and networks, with no mention of psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T23:53:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, with no focus on scaling agility or related frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,12 +676,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical steps for configuring Azure VMs and networks, which aligns with pragmatic problem-solving in a technical context, but it is primarily focused on specific Azure configurations rather than broader Agile or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content provides a practical guide on moving an Azure VM to a virtual network, which aligns with pragmatic problem-solving in a real-world context. It discusses specific steps and considerations, demonstrating experience-based decision-making. However, while it touches on practical application, it lacks a broader discussion on Agile, Scrum, or DevOps principles, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T23:54:05",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical steps for moving an Azure VM to a virtual network, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T23:54:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring Azure virtual machines and networks, with no clear connection to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T23:54:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of configuring Azure virtual machines and networks, with no reference to Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,10 +751,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-14T23:54:16",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of configuring Azure virtual machines and networks, which is unrelated to Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -955,10 +832,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-14T23:54:27",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of configuring Azure virtual machines and networks, with only a brief mention of release management in the context of Azure Active Directory, which is not central to the overall topic.",
     "level": "Ignored"
   },
@@ -982,10 +859,10 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T23:54:30",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration and management of Azure virtual machines and networks, with no direct reference to Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
@@ -1034,7 +911,7 @@
     "reasoning": "Content primarily focuses on technical steps for configuring Azure virtual machines and networks, without discussing broader themes of digital transformation or strategic adoption of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T23:54:38",
     "ai_confidence": 0,
@@ -1043,23 +920,17 @@
     "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is unrelated to the concept of Minimum Viable Product or its development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T23:54:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, with no mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T23:54:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of configuring a virtual machine within Azure, including creating a virtual network and the steps necessary to ensure proper setup, which aligns closely with system configuration practices.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the process of configuring a virtual machine within Azure, which directly relates to system configuration. It discusses the steps required to create a virtual network, delete an existing VM, and set up a new VM correctly, demonstrating a clear understanding of configuration management. The depth of discussion includes specific actions and considerations, such as ensuring the correct region and managing disks, which aligns well with the key topics of system optimisation and configuration management tools. Overall, the content is highly relevant to the category, with a strong emphasis on practical configuration tasks.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,30 +970,39 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:54:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of moving an Azure VM to a virtual network, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail on automated or manual testing methodologies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration of a virtual machine in Azure, which is related to Windows environments, but the primary focus is on Azure rather than Windows OS itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses moving a virtual machine within Azure, which is a cloud service and not directly related to the Windows operating system itself. While there are mentions of configuring a domain controller and virtual machines, the focus is on Azure's infrastructure rather than Windows-specific installation, configuration, or troubleshooting. The content lacks depth in discussing Windows OS features or functionalities, leading to a low confidence score in alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of moving a virtual machine within Azure, which relates to deployment practices, but it primarily focuses on configuration rather than broader deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the process of moving a virtual machine within Azure, which is more about configuration and setup rather than deployment strategies. While it touches on aspects of infrastructure management, it lacks a direct discussion of deployment methodologies such as Blue-Green Deployments or Canary Releases. The content does not provide actionable insights into deployment strategies, thus resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1162,11 +1042,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T23:54:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of resolving an issue related to moving an Azure VM to a virtual network, detailing the steps required to delete and recreate the VM correctly.",
+    "reasoning": "The content primarily focuses on the troubleshooting process of moving an Azure VM to a virtual network, detailing the steps required to resolve the issue of a VM not being in a virtual network. It explicitly discusses the problem encountered and provides a systematic approach to resolving it, which aligns well with the core themes of troubleshooting. The depth of discussion includes specific actions to take, such as deleting the VM and creating a new one, which adds to the overall confidence in the classification.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1063,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T23:54:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details related to Azure virtual machines, with no reference to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical instructions for moving an Azure VM to a virtual network, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps for configuring Azure virtual machines and networks, with no focus on teamwork or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-14T23:55:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is more focused on cloud infrastructure management rather than the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1288,10 +1165,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-14T23:55:21",
+    "calculated_at": "2025-04-10T15:54:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses moving a virtual machine within Azure, which is unrelated to Azure Repos functionalities or source control management.",
     "level": "Ignored"
   },
@@ -1331,15 +1208,6 @@
     "reasoning": "Content primarily discusses technical steps for configuring Azure VMs and does not address accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T23:55:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is unrelated to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T23:55:29",
@@ -1369,11 +1237,116 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:11:03",
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for moving an Azure VM to a virtual network, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and does not provide any depth on social frameworks or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:12:25",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Azure VM to a virtual network, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, which is not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:12:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the process of moving an Azure VM to a virtual network, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Azure virtual machines and networks, with no direct mention of Scrum principles, roles, or practices. It lacks any discussion on Agile methodologies or team dynamics, which are core to the Scrum framework.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical steps for moving an Azure VM to a virtual network, with no explicit mention of the Shift-Left Strategy or its principles. While there is a brief mention of configuration, it does not align with the core themes of integrating testing, security, or compliance early in the development process. The discussion lacks depth regarding Shift-Left practices, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving an Azure VM to a virtual network, with no explicit discussion of Continuous Improvement principles. While there is a mention of optimising setup for better performance, it lacks depth in exploring continuous improvement methodologies, empirical evidence, or a culture of experimentation. The content does not align with the core themes of Continuous Improvement, making it unsuitable for this classification.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for moving an Azure VM to a virtual network, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on aspects of configuration and setup, it lacks any connection to shared objectives, team alignment, or strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving an Azure VM to a virtual network, lacking explicit discussions on competence, continuous learning, or skill development. While it touches on the process of configuring a virtual network, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it provide depth on fostering a culture of competence or inspecting and adapting skills over time.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical guide for moving an Azure VM to a virtual network, which does not relate to the principles or discussions surrounding the One Engineering System. There are no direct mentions of 1ES, and the content lacks alignment with its core themes such as integration of tools or standardisation of processes. The depth of discussion is limited to specific Azure configurations, further distancing it from the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for moving an Azure VM to a virtual network, lacking any discussion on the intentional shaping of outcomes, agency, or adaptability. It does not address the principles of Agentic Agility or differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

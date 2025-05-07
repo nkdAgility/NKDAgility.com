@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T19:31:21",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service and its potential applications, with no clear focus on the stages or practices of Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -35,12 +35,12 @@
     "reasoning": "Content primarily discusses a new service and its potential applications without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T19:31:27",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service (NeoWORX) and its potential applications, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:31:29",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and potential applications of NeoWORX, without providing actionable instructions or insights related to installation or configuration.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses a new service and its potential applications, without any direct reference to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:31:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:31:35",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service and its potential applications, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:31:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific service (NeoWORX) and its potential applications, without a focus on Agile or DevOps methodologies, tools, or practical techniques.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:31:39",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service and its potential applications, without focusing on metrics, data analysis, or learning principles.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:31:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a tool for data visualisation without any explicit reference to Evidence-Based Management principles or metrics. While it touches on the use of geographical data for presentations, it lacks a focus on empirical decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:31:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:31:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific service (NeoWORX) and its potential applications, lacking a focus on industry news or reviews related to Agile, DevOps, or technology trends.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a tool for visualising data and does not mention or align with any principles of the Agile Product Operating Model. It lacks any reference to agile methodologies, product management, or the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service and its potential applications, with no clear focus on platform engineering principles or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:31:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:32:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no clear focus on AI, automation, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:32:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:32:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:32:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -289,10 +223,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T19:32:12",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service and its potential applications for a company, lacking personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
@@ -316,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:32:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a tool for visualising data and its potential applications in corporate presentations. There is no explicit mention of DevOps principles, practices, or cultural shifts. The focus is on a specific product rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service and its potential applications, lacking a focus on engineering practices or methodologies that enhance software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:32:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications, with no focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:32:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a new service and its potential applications without focusing on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:32:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific service (NeoWORX) and its features, rather than focusing on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,19 +289,19 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on discussing a service (NeoWORX) and its potential applications, without detailing any specific system configuration practices or methodologies.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service and its potential applications rather than focusing on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -420,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service related to data presentation and visualization, which is not relevant to portfolio management or the strategic alignment of projects and initiatives.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on discussing a new service and its features, with no mention of Scrum principles, roles, or product development practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a service and its features without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses a new service and its potential applications, with no mention of the Definition of Done or Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a new service and its potential application for geographic data presentation but does not relate to Agile practices or scaling at an enterprise level.",
+    "reasoning": "Content discusses a new service and its potential applications, with no mention of the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -541,10 +433,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a new software service and its features, with no relevance to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -573,15 +465,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service, NeoWORX, and its potential applications rather than focusing on collaboration tools or Agile team dynamics.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new service called NeoWORX and its potential applications, with no focus on software developers' roles within Agile or DevOps.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -620,7 +503,7 @@
     "reasoning": "Content is focused on discussing a new service and its potential applications, with no mention of estimation, Agile, or Scrum practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T20:02:52",
     "ai_confidence": 0,
@@ -694,19 +577,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a new service (NeoWORX) and its features, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a tool for visualising data and its potential applications in corporate settings, with no direct mention or exploration of Continuous Delivery principles, practices, or related topics. It lacks any discussion on automation, incremental improvements, or software quality, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service and its potential applications, with no mention of Lead Time or related metrics.",
     "level": "Ignored"
   },
@@ -744,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a specific service 'NeoWORX' and its features rather than on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on a comparison of web services and data presentation tools, with no relation to AI, Agile methodologies, DevOps, or software development processes.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -847,10 +724,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a new service related to geographic data visualization, not source control practices.",
     "level": "Ignored"
   },
@@ -928,10 +805,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a new service and its features, with no relevant discussion on the Definition of Ready or Agile practices.",
     "level": "Ignored"
   },
@@ -971,15 +848,6 @@
     "reasoning": "Content discusses a data presentation tool and its application for tracking geographical data, with no reference to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a service similar to ClusterMaps and its potential business applications, without any discussion of Kanban principles or scaling methodologies.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T20:02:52",
@@ -987,15 +855,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a new service (NeoWORX) and expresses interest in its features, but does not relate to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses a service and its potential applications but does not relate to Agile Project Management principles, frameworks, or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1018,10 +877,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-10T15:56:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses a geographical data presentation tool and does not address Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1268,15 +1127,6 @@
     "reasoning": "Content primarily discusses a particular service (NeoWORX) and its functionalities, without any mention of asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a software service and data presentation tools without reference to Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T20:02:52",
@@ -1313,22 +1163,16 @@
     "reasoning": "Content is primarily focused on discussing a service similar to ClusterMaps and does not mention Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a software service unrelated to scaling agility practices, methodologies, or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T20:02:52",
+    "calculated_at": "2025-04-08T20:18:26",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about a new service and does not discuss Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on a tool for visualising data and does not mention Scrum, the role of a Scrum Master, or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master on teams or organisations.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1195,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T20:02:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Geo presentation tools and does not discuss Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a tool for visualising data and does not mention Test First Development principles, success criteria, or any related testing practices. It lacks any relevant detail or focus on the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:25:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a new service (NeoWORX) and its potential applications, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a tool for visualising data and enhancing corporate presentations, which does not align with the core themes of Social Technologies. While there is a mention of corporate needs, the focus is on technical capabilities rather than collaboration, decision-making, or value delivery. The discussion lacks depth in addressing social frameworks or methodologies that promote teamwork or organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1224,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a new service and its potential applications, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:45:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a service similar to ClusterMaps and its potential applications, with no clear focus on Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:45:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a new service related to data presentation and geographical mapping, with no clear focus on AI applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a new service and its potential applications, which are unrelated to Scrum principles, roles, or practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a new service (NeoWORX) and its potential applications, with no mention of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy, which focuses on integrating these elements early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a tool for visualising data and its potential applications in corporate settings, without any explicit mention of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of shared objectives or strategic alignment, and the depth of discussion is minimal, focusing instead on personal opinions and technical features.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a tool for data visualisation and its potential applications in corporate settings, with no explicit mention of competence, continuous learning, or skill development. The focus is on the functionality of NeoWORX rather than on any principles related to competence in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a new tool for data visualisation and its potential applications in corporate settings. There are no explicit mentions of Continuous Improvement principles, nor does it align with the core themes such as empirical evidence, experimentation, or team effectiveness. The discussion lacks depth regarding Continuous Improvement practices, focusing instead on a specific product without connecting it to broader improvement strategies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:48",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a tool for visualising data and its potential applications in corporate settings, without any explicit mention of Agentic Agility or its principles. There is no exploration of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category. The focus is on a specific product rather than the broader themes of agency and agility.",
     "level": "Ignored"
   }
 }

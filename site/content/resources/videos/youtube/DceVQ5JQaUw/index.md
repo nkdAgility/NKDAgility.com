@@ -1,57 +1,67 @@
 ---
-title: Most destructive thing a client can do to an agile consultant?
-description: Discover how traditional management practices can undermine agile consultants. Join Martin Hinshelwood as he reveals key pitfalls to avoid for success!
+title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agile Consultants is Key to Success'
+description: Unlock meaningful transformation in your organisation by embracing the tough conversations with agile consultants. Discover how dialogue drives change!
 date: 2023-05-01T07:00:05Z
+weight: 1000
 ResourceId: DceVQ5JQaUw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DceVQ5JQaUw
 url: /resources/videos/:slug
-slug: most-destructive-thing-a-client-can-do-to-an-agile-consultant-
+slug: unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=DceVQ5JQaUw
 aliases:
-- /resources/videos/DceVQ5JQaUw
-- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
-- /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/DceVQ5JQaUw
-aliasesFor404:
+- /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
+- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant
+aliasesArchive:
+- /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant
 - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
+- /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
+- unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 isShort: false
 tags:
-- People and Process
+- Change Management
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Uncategorized
 
 ---
- When #agile meets traditional #management and #projectmanagement environments, there is often a clash of culture. In one environment, we are interrogating the data and practices to discover probem areas and actively designing ways to improve and evolve. In the other, we're hiding problems to avoid blame and shifting the focus from collaboration to control.
+In my journey as an agile consultant, I've often encountered a recurring theme that can make or break the effectiveness of our work: the willingness of clients to engage in meaningful dialogue. The most destructive thing a client can do is to shut down that dialogue. When clients restrict consultants from engaging, speaking, and interacting with their teams, they inadvertently stifle the very change they seek.
 
-So, people are often the products of the systems and environments they serve, and sometimes clients can trip an #agileconsultant up simply through following best practice in the environment they serve.
+### The Role of the Consultant: More Than Just a Yes-Man
 
-In this short video, Martin Hinshelwood talks about one of the primary ways a client can destroy the efforts and capabilities of an #agileconsultant 
+As agile consultants, our role is not merely to please our clients. If our primary goal is to keep everyone happy, we risk perpetuating the status quo. True transformation requires us to be challenging, to ask the difficult questions that provoke thought and reflection. Here’s why this is essential:
 
-About NKD Agility
+- **Catalyst for Change**: When we ask, "Why is this the way it is?" we encourage teams to think critically about their processes and practices. This reflection is often the spark that ignites meaningful change within the organisation.
+- **Encouraging Engagement**: Stakeholders must enable and encourage this kind of engagement. If they bring in a consultant, they should be prepared for the tough conversations that will lead to growth and improvement.
+- **Creating a Safe Space**: It’s crucial to foster an environment where difficult questions are welcomed. This not only helps in identifying areas for improvement but also builds a culture of openness and trust.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+### The Importance of Being Difficult
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Being difficult, in this context, is not about creating conflict for the sake of it. Instead, it’s about challenging assumptions and pushing boundaries. Here are some key points to consider:
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+- **Provoke Thought**: By asking hard questions, we help teams to examine their practices and beliefs. This can lead to insights that drive innovation and efficiency.
+- **Facilitate Learning**: Engaging in difficult conversations can be uncomfortable, but it’s often where the most significant learning occurs. It’s through these discussions that teams can uncover hidden issues and opportunities for improvement.
+- **Drive Accountability**: When consultants challenge the status quo, they help teams take ownership of their processes. This accountability is vital for fostering a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+### Embracing the Consultant's Role
 
-We would love to work with you. 
+To truly benefit from the expertise of an agile consultant, organisations must embrace the idea that discomfort can lead to growth. Here are some recommendations for stakeholders:
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=DceVQ5JQaUw)
+- **Encourage Open Dialogue**: Create an environment where team members feel safe to express their thoughts and concerns. This openness will allow consultants to do their best work.
+- **Be Prepared for Change**: Understand that change can be challenging. Embrace the discomfort that comes with it, as it often leads to better outcomes.
+- **Value the Process**: Recognise that the journey towards agility is just as important as the destination. The conversations and reflections that occur along the way are what will ultimately lead to lasting change.
+
+In conclusion, the value of an agile consultant lies not in their ability to please, but in their capacity to provoke thought and challenge the status quo. By allowing consultants to engage fully, organisations can unlock the potential for meaningful transformation. If you’re interested in discussing this further or exploring how agile practices can benefit your organisation, I invite you to book a coffee chat with me through Naked Agility. Let’s embrace the difficult conversations together!

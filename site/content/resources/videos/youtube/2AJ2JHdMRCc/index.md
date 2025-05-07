@@ -2,30 +2,30 @@
 title: Why is DevOps such a Critical Element of Software Engineering?
 description: 'Discover why DevOps is essential in software engineering! Join Martin Hinshelwood as he unravels its critical role in delivering client solutions. #DevOps #shorts'
 date: 2023-06-14T14:30:02Z
+weight: 500
 ResourceId: 2AJ2JHdMRCc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2AJ2JHdMRCc
 source: internal
 url: /resources/videos/:slug
-slug: why-is-devops-such-a-critical-element-of-software-engineering
+slug: why-is-devops-such-a-critical-element-of-software-engineering-2AJ2JHdMRCc
 preview: https://i.ytimg.com/vi/2AJ2JHdMRCc/maxresdefault.jpg
 duration: 35
 isShort: true
 aliases:
-- /resources/why-is-devops-such-a-critical-element-of-software-engineering
-- /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
-- /resources/videos/2AJ2JHdMRCc
 - /resources/2AJ2JHdMRCc
-aliasesFor404:
-- /resources/why-is-devops-such-a-critical-element-of-software-engineering
+- /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering-2AJ2JHdMRCc
+aliasesArchive:
 - /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
+- /resources/why-is-devops-such-a-critical-element-of-software-engineering
+- why-is-devops-such-a-critical-element-of-software-engineering-2AJ2JHdMRCc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Value Delivery
 - Software Development
 resourceTypes:
 - video
@@ -36,7 +36,7 @@ categories:
 ---
 ## Game-Changer in Software Engineering!
 
-In the ever-evolving world of software engineering, there's one term that has taken the spotlight, yes, you guessed it - DevOps.
+In the ever-evolving world of software engineering, there's one term that has taken the spotlight, yes, you guessed it - [DevOps]({{< ref "/categories/devops" >}}).
 
 But why?
 
@@ -44,7 +44,7 @@ But why?
 
 We've all seen many of them around – buzzwords, but DevOps isn't just another buzzword.
 
-It's the union of processes, practices, and tools that enable the continuous delivery of value to our customers.
+It's the union of processes, practices, and tools that enable the [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value to our customers.
 
 Imagine having a bridge that seamlessly connects your ideas with its implementation and then to the hands of your end-users - that's the power of DevOps.  🔧
 
@@ -54,7 +54,7 @@ I like to think of DevOps as the essential glue in building products, which is a
 
 It's the mechanism, the strategy that allows us to put our products swiftly in front of our customers, ensuring that all-important feedback loop.
 
-## Attention Agile and Scrum enthusiasts!
+## Attention Agile and [Scrum]({{< ref "/categories/scrum" >}}) enthusiasts!
 
 Learn more about these practices and see the magic unfold in my Agile and Scrum courses.
 

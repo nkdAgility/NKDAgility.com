@@ -2,44 +2,47 @@
 title: The Power of Building Relationships Through Immersive Learning in Scrum
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in Part 2 of our series. Elevate your Agile journey with NKD Agility!
 date: 2024-02-06T07:00:03Z
+weight: 1000
 ResourceId: 7SdBfGWCG8Q
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 7SdBfGWCG8Q
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-building-relationships-through-immersive-learning-in-scrum
+slug: the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
 preview: https://i.ytimg.com/vi/7SdBfGWCG8Q/maxresdefault.jpg
 duration: 38
 isShort: true
 aliases:
-- /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
-- /resources/videos/7SdBfGWCG8Q
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 - /resources/7SdBfGWCG8Q
-aliasesFor404:
+- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
+- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
+aliasesArchive:
+- /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum
 - /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
+- the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Team Collaboration
-- Personal
+- Team Performance
+- Scrum Team
+- Coaching
+- Social Technologies
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
-- Social Technologies
-- Leadership
+- Uncategorized
 
 ---
-In today’s fast-paced world, learning isn’t just about acquiring knowledge—it’s about building lasting connections. This is especially true when it comes to immersive learning, where relationships formed with fellow learners play a pivotal role in enhancing the overall experience. As a Scrum Trainer, I’ve witnessed firsthand how these connections can elevate a practitioner’s journey, allowing them to not only learn but grow alongside their peers.
+In today’s fast-paced world, learning isn’t just about acquiring knowledge—it’s about building lasting connections. This is especially true when it comes to immersive learning, where relationships formed with fellow learners play a pivotal role in enhancing the overall experience. As a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve witnessed firsthand how these connections can elevate a practitioner’s journey, allowing them to not only learn but grow alongside their peers.
 
 ## **What Is Immersive Learning?**
 
@@ -111,7 +114,7 @@ The value of relationships doesn’t stop once the course ends. In fact, it’s 
 
 - **Job opportunities**: In the Scrum world, who you know can sometimes be as important as what you know. Your peers might know of opportunities that are a perfect fit for your skillset. 💼
 
-- **Continuous improvement**: Scrum is all about continuous improvement, and having a trusted group of practitioners to share your journey with makes that process even more effective. 🔄
+- **[Continuous improvement]({{< ref "/tags/continuous-improvement" >}})**: Scrum is all about continuous improvement, and having a trusted group of practitioners to share your journey with makes that process even more effective. 🔄
 
 ## **Final Thoughts: The Impact of Relationships on Your Scrum Journey**
 

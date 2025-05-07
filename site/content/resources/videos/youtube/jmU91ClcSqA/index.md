@@ -2,40 +2,40 @@
 title: What is Project Management?
 description: 'Discover the essence of project management in this short video! Learn how it evolved from manufacturing to enhance teamwork and efficiency. #agile #scrum'
 date: 2023-05-22T07:00:14Z
+weight: 1000
 ResourceId: jmU91ClcSqA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jmU91ClcSqA
 source: internal
 url: /resources/videos/:slug
-slug: what-is-project-management
+slug: what-is-project-management-jmU91ClcSqA
 layout: video
 preview: https://i.ytimg.com/vi/jmU91ClcSqA/maxresdefault.jpg
 duration: 52
 isShort: true
 aliases:
-- /resources/what-is-project-management
-- /resources/videos/what-is-project-management-
-- /resources/videos/jmU91ClcSqA
-- /resources/what-is-project-management-
 - /resources/jmU91ClcSqA
-aliasesFor404:
+- /resources/videos/what-is-project-management-jmU91ClcSqA
+aliasesArchive:
+- /resources/videos/what-is-project-management
 - /resources/what-is-project-management
 - /resources/videos/what-is-project-management-
 - /resources/what-is-project-management-
+- what-is-project-management-jmU91ClcSqA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Practical Techniques and Tooling
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## Unpacking Project Management
+## Unpacking [Project Management]({{< ref "/tags/project-management" >}})
 
 Ever found yourself wondering, "What exactly is project management?" 🎯
 
@@ -61,4 +61,4 @@ To help people know everything they're going to do, to plan the way forward and 
 
 - The ultimate aim – a know-it-all plan for action ✅
 
-If this information piques your curiosity and you're intrigued and ready to take the leap into the dynamic world of Project Management, I'd love to guide you on this journey with my Agile and Scrum courses 🚀
+If this information piques your curiosity and you're intrigued and ready to take the leap into the dynamic world of Project Management, I'd love to guide you on this journey with my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses 🚀

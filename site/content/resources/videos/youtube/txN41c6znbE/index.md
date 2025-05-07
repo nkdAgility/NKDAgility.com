@@ -2,8 +2,10 @@
 title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
 description: "Explore the competence crisis in Agile! Discover why skilled Scrum Masters matter and how to bridge the gap for real-world success. \U0001F331\U0001F680 #AgileLeadership"
 date: 2024-10-14T07:00:38Z
+weight: 250
 ResourceId: txN41c6znbE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: txN41c6znbE
@@ -15,31 +17,42 @@ preview: https://i.ytimg.com/vi/txN41c6znbE/maxresdefault.jpg
 duration: 1604
 isShort: false
 aliases:
-- /resources/where-agile-went-wrong-understanding-the-competence-crisis
-- /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
-- /resources/videos/txN41c6znbE
-- /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 - /resources/txN41c6znbE
-aliasesFor404:
+- /resources/videos/where-agile-went-wrong-understanding-the-competence-crisis
+- /resources/videos/the-difference-between-a-rock-solid-deeply-competent-scrum-master-and-a-jira-jockey
+aliasesArchive:
+- /resources/videos/where-agile-went-wrong-understanding-the-competence-crisis
 - /resources/where-agile-went-wrong-understanding-the-competence-crisis
 - /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
 - /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
+- /resources/videos/the-difference-between-a-rock-solid-deeply-competent-scrum-master-and-a-jira-jockey
+- where-agile-went-wrong-understanding-the-competence-crisis
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Competence
+- Continuous Learning
+- Scrum Master
+- Software Development
+- Agile Leadership
+- Sociotechnical Systems
+- Agile Strategy
+- Organisational Culture
+- Agile Philosophy
+- Pragmatic Thinking
+- Team Performance
 resourceTypes:
 - video
 categories:
+- Product Development
 - Leadership
-- Scrum
-- Social Technologies
+- Technical Leadership
 
 ---
-Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in software development. However, they made some assumptions that have come to haunt us.
+Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in [software development]({{< ref "/tags/software-development" >}}). However, they made some assumptions that have come to haunt us.
 
-Let’s dive into where these assumptions came from, how they shaped Agile’s early days, and why today’s landscape demands a more rigorous focus on competence and continuous learning. 🌱
+Let’s dive into where these assumptions came from, how they shaped Agile’s early days, and why today’s landscape demands a more rigorous focus on [competence]({{< ref "/tags/competence" >}}) and [continuous learning]({{< ref "/tags/continuous-learning" >}}). 🌱
 
 * * *
 
@@ -65,7 +78,7 @@ For Agile to truly succeed, we need to constantly reassess whether we are on the
 
 - **Closing Learning Loops** 🔄: Adjusting our mental models based on new insights and experiences.
 
-Yet, the world isn't set up to foster this kind of mindset widely. As someone who has seen Agile in action, I can tell you that only about 20% of people are truly committed to this level of continuous improvement. The rest? They often prefer a simpler routine—go to work, get a paycheck, go home.
+Yet, the world isn't set up to foster this kind of mindset widely. As someone who has seen Agile in action, I can tell you that only about 20% of people are truly committed to this level of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). The rest? They often prefer a simpler routine—go to work, get a paycheck, go home.
 
 * * *
 
@@ -73,7 +86,7 @@ Yet, the world isn't set up to foster this kind of mindset widely. As someone wh
 
 The demand for Agile professionals has outstripped the supply of truly competent individuals. Here’s where the gap lies:
 
-- **High Demand, Low Supply**: Many companies need Agile leaders, Scrum Masters, and effective doers—developers, product managers, etc.
+- **High Demand, Low Supply**: Many companies need Agile leaders, [Scrum]({{< ref "/categories/scrum" >}}) Masters, and effective doers—developers, product managers, etc.
 
 - **Quality vs. Quantity**: While there’s a plethora of people taking on these roles, the depth of understanding is often lacking.
 
@@ -93,7 +106,7 @@ Think of Agile teams as Special Operations teams:
 
 - **Not the Norm**: Most teams and organizations don’t operate this way. Many struggle to maintain that high level of focus and discipline.
 
-But this is precisely why a Scrum Master is vital—to act as a proxy for that focus and drive. When we find the right people to fill these roles, like Satya Nadella at Microsoft, they can transform an entire organization.
+But this is precisely why a [Scrum Master]({{< ref "/tags/scrum-master" >}}) is vital—to act as a proxy for that focus and drive. When we find the right people to fill these roles, like Satya Nadella at Microsoft, they can transform an entire organization.
 
 * * *
 
@@ -134,7 +147,7 @@ Satya Nadella is a prime example of someone who embodies these qualities. His en
 
 If Agile is to thrive, we need to focus on fostering competence within teams:
 
-- **Encourage Experimentation**: Create a culture where trying new things and failing forward is part of the norm.
+- **Encourage [Experimentation]({{< ref "/tags/experimentation" >}})**: Create a culture where trying new things and failing forward is part of the norm.
 
 - **Invest in People**: Systemic investment in training and development is essential to build the skills required.
 

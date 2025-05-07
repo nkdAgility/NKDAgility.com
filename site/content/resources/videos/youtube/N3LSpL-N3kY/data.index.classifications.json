@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T22:38:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the product owner and the learning process associated with it, which relates to Agile practices. However, it primarily focuses on the structure of the training classes rather than the core principles of Scrum or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, which is more about individual learning paths than the collaborative and decision-making aspects central to Social Technologies. While it touches on Agile principles, it lacks a strong emphasis on team dynamics, collective intelligence, or organisational culture, which are key themes in the category. The depth of discussion on the learning methods is present, but it does not sufficiently connect to the broader implications of social technologies in organisational contexts.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,20 +22,26 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T22:38:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the product owner role and training, which is not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between two training courses for Product Owners within the Agile framework, specifically Scrum. While it touches on learning and feedback, it does not discuss DevOps principles, practices, or cultural shifts. The mention of Agile does not align with the core themes of DevOps, which emphasises collaboration and automation across development and operations. Therefore, the content does not meet the criteria for a strong alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T22:38:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the product owner and the value of learning in relation to product management, but it primarily focuses on the structure of training classes rather than strategic aspects of product management.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the product owner in a learning context, which is relevant to product management. However, it primarily focuses on the structure and value of training classes rather than strategic aspects of product management. While there are mentions of understanding the product owner role, the discussion lacks depth in terms of methodologies, frameworks, or strategic alignment with business objectives.",
     "level": "Tertiary"
   },
   "Leadership": {
@@ -64,11 +73,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T22:39:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner and the learning process associated with it, which aligns with Scrum principles, but it primarily focuses on the structure of the training classes rather than in-depth Scrum practices.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses the role of the Product Owner and the value of training in this area, which aligns with the Professional Scrum category. However, it lacks a detailed exploration of Scrum principles, roles, and practices, focusing more on the training format rather than the Scrum framework itself.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -82,29 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T22:39:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the structure and value of product owner training classes, without a focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T22:39:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the structure and value of product owner training, which is unrelated to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T22:39:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the product owner and training formats, with no mention of Kanban principles or scaling practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their structure and benefits without any reference to evidence-based management principles or metrics. While it touches on learning and development, it lacks direct mentions of empirical decision-making or the core themes of EBM, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,12 +115,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T22:39:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the product owner, which is a key aspect of the Scrum framework, but it primarily focuses on the structure and value of the training classes rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of the product owner, which is a key aspect of the Scrum framework, but it does not delve into Agile principles or compare frameworks. The focus is more on the structure of the training rather than the Agile framework itself, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T22:39:13",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the value of a product owner class and its structure, without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the structure and value of product owner training classes, without addressing trends in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T22:39:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the value of product owner training and does not address scaling Agile practices or coordination among multiple teams.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -226,21 +217,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T22:39:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the product owner and the learning process associated with it, which relates to product delivery methodologies. However, it primarily focuses on the educational aspect rather than the end-to-end process of delivering software products.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the product owner and the learning process associated with it, which is relevant to product delivery. However, it primarily focuses on the educational aspect of the product owner class rather than the methodologies and practices of delivering software products. While there are mentions of connecting learning to real-world applications, the discussion lacks depth in terms of specific product delivery practices, methodologies, or metrics, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T22:39:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the structure and value of product owner training, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +236,6 @@
     "reasoning": "Content primarily discusses the structure and value of product owner training, without a clear focus on digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T22:39:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the learning and assessment aspects of the product owner role, which relates to team dynamics and the importance of feedback in a real-world organisational context. However, it primarily focuses on the structure of the training rather than the broader themes of collaboration or process methodologies.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T22:39:34",
@@ -268,15 +244,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the value of product owner training and does not address Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T22:39:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner and the learning process related to agile principles, but it is primarily focused on the comparison of class formats rather than a comprehensive exploration of Agile Project Management.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +263,6 @@
     "reasoning": "Content heavily discusses the structure and value of product owner training rather than accountability within Agile teams.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T22:39:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the structure and value of product owner training, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T22:39:40",
@@ -312,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the product owner role and training, with no focus on release management processes or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T22:39:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between two training formats for product owners, focusing on learning and assessment rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -361,11 +310,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T22:39:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Product Owner role and training, with no clear focus on the Scrum Master responsibilities or practices.",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Product Owner role and the differences between two training courses, with only brief mentions of Scrum principles. While it touches on Agile learning, it lacks a direct discussion of the Scrum Master's responsibilities or influence, which diminishes its alignment with the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -379,12 +331,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T22:39:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the core value of the product owner role and the learning process associated with it, which relates to Agile principles. However, it primarily focuses on the structure of the training classes rather than the underlying Agile values.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the value of learning and understanding the role of a product owner, which aligns with Agile principles of continuous improvement and customer-centricity. However, it primarily focuses on the structure of a training course rather than a deep exploration of Agile values or principles. The discussion lacks explicit references to the Agile Manifesto or its core values, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -397,11 +352,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T22:39:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the value of a product owner class and its structure, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two different training approaches for Product Owners, with no direct mention or discussion of Test First Development principles. While it touches on learning and feedback, it does not align with the core themes of Test First Development, such as defining success criteria or automated testing practices. The depth of discussion is also minimal regarding the category, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,10 +418,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T22:40:02",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the structure and value of product owner training rather than focusing on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -503,59 +461,35 @@
     "reasoning": "Content primarily discusses the structure and benefits of product owner classes rather than the Scrum Values themselves.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T22:40:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the structure and value of product owner training rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T22:40:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the value of product owner training and credentialing, without a clear focus on practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T22:40:15",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the value and structure of product owner training, with no mention of Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T22:40:16",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the value of a product owner class and its structure, rather than focusing on the Product Backlog itself.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T22:40:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the value of learning and connecting class material to real-world experiences, indicating a personal perspective on the training process, but it primarily focuses on the structure of the PSPO classes rather than personal anecdotes or reflections.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T22:40:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a training class format for product owners, which implies a structured learning experience, but it primarily focuses on the value of the class rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses personal reflections on the learning paths for Product Owner training, which aligns with the Personal category. It shares insights on the benefits and challenges of both the 2-day and 8-week courses, providing a subjective interpretation of how these formats can impact learning. However, while it touches on personal experiences, it lacks deeper anecdotes or specific challenges faced, which limits the depth of personal insight.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -577,21 +511,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T22:40:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of the Product Owner and the learning process associated with it, making it a major but secondary theme in the context of Scrum Team dynamics.",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the training paths for the Product Owner role, which is a part of the Scrum Team. However, it lacks a detailed exploration of team dynamics, collaboration, or the broader aspects of Scrum Team effectiveness. While it mentions the Product Owner's responsibilities, it does not delve into how these roles interact within a Scrum Team or the importance of team collaboration and communication strategies.",
     "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T22:40:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the product owner class and its structure, focusing on individual learning rather than scaling agile practices across an organisation.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -613,11 +541,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T22:40:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the product owner in Scrum, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their structure and learning outcomes. While it touches on Agile principles, it does not explicitly mention Continuous Delivery or its core themes such as automation, incremental improvements, or rapid feedback. The discussion is more about training methodologies rather than software delivery practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -665,7 +596,7 @@
     "reasoning": "Content primarily discusses the value of product owner training and does not focus on the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T22:40:38",
     "ai_confidence": 0,
@@ -683,15 +614,6 @@
     "reasoning": "Content heavily discusses product owner training and does not relate to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T22:40:40",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the learning aspects of the product owner class, emphasising the importance of understanding the role, gaining credentials, and connecting learning to real-world applications through feedback, which aligns well with the themes of discovery and continuous learning.",
-    "level": "Secondary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T22:40:42",
@@ -703,11 +625,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T22:40:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the structure and value of product owner training rather than the Agile Product Operating Model itself.",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, which is related to Agile practices but does not explicitly discuss the Agile Product Operating Model. While it touches on the role of the Product Owner and mentions Agile principles, it lacks a comprehensive exploration of the APOM framework and its core themes. The depth of discussion is moderate, but the primary focus remains on training formats rather than the broader operational model.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -757,11 +682,14 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T22:40:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions receiving feedback on practices in a real-world organisation, indicating a connection to customer feedback loops, but the primary focus is on the product owner class structure and learning outcomes.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on the concept of feedback in the context of the 8-week training approach, highlighting a 'steady feedback loop to refine your skills.' However, the primary focus is on comparing two training formats for Product Owners rather than exploring customer feedback mechanisms in product development. The discussion lacks depth and does not delve into the broader implications of customer feedback integration into product processes.",
     "level": "Tertiary"
   },
   "Decision Making": {
@@ -775,11 +703,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T22:40:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses learning and feedback mechanisms related to the product owner role, which aligns with the theme of continuous improvement. However, it primarily focuses on the structure of the training classes rather than metrics or data-driven decision-making.",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the comparison of two training approaches for Product Owners, discussing their merits and learning styles. While it touches on the importance of learning and feedback in the context of training, it lacks a direct emphasis on metrics, data analysis, or evidence-based decision-making, which are core to the 'Metrics and Learning' category. The discussion is more about personal learning preferences rather than the application of metrics or continuous improvement methodologies.",
     "level": "Tertiary"
   },
   "Psychological Safety": {
@@ -793,30 +724,24 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T22:40:56",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the structure and value of product owner training rather than Lean principles or practices.",
     "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T22:40:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning and feedback in the context of a product owner class, which relates to mentoring but is primarily focused on the structure of the training rather than mentoring techniques or strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the learning paths for Product Owners, touching on the importance of understanding the role and receiving feedback, which aligns with mentoring principles. However, it primarily focuses on course structures rather than the mentoring process itself, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T22:40:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the value of product owner training and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -865,12 +790,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T22:41:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning and feedback in the context of a product owner class, which aligns with coaching principles, but it primarily focuses on the structure of the classes rather than coaching as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the learning paths for Product Owner training, which indirectly relates to coaching by emphasising the importance of feedback and practical application. However, it primarily focuses on the structure of training rather than the coaching process itself. While there are mentions of feedback and integration of learning, the core themes of coaching, such as fostering growth and development through guidance, are not the primary focus.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -883,12 +811,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T22:41:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning and feedback in the context of a product owner class, which aligns with the principles of Continuous Learning, but it primarily focuses on the structure of the classes rather than broader themes of growth mindset or team improvement.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses two approaches to Product Owner training, highlighting the importance of learning and the integration of knowledge into real-world scenarios. While it mentions learning styles and the value of feedback, it does not deeply explore the principles of Continuous Learning or its impact on team dynamics and collaboration. The focus is more on the training formats rather than a broader discussion on Continuous Learning principles.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -919,12 +850,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T22:41:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner and the learning process associated with it, which aligns with Agile Product Management principles, but it is primarily focused on the structure of the training classes rather than broader Agile practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the training paths for Product Owners, which is a key role in Agile frameworks. It discusses the essence of the Product Owner role and the learning outcomes from different training durations, aligning well with Agile principles. However, while it touches on the importance of understanding the role, it lacks in-depth discussions on prioritisation, stakeholder engagement, or metrics, which are crucial aspects of Agile Product Management.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -937,39 +871,24 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T22:41:19",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of the product owner and the structure of training classes, which are not directly related to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T22:41:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the value of product owner training and does not address scaling Scrum principles or practices.",
+    "reasoning": "Content heavily discusses the role of the product owner and the structure of training classes, which are not directly related to Value Stream Management.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T22:41:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the value of a product owner class and its connection to real-world organisational practices, indicating a relationship between learning and organisational context, but it primarily focuses on the educational aspect rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T22:41:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a product owner class, which relates to Agile methodologies, but the primary focus is on the structure and value of the class rather than a review or analysis of a specific product or book.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the training paths for Product Owners, discussing the merits of different learning durations. While it touches on aspects of learning and integration into real-world scenarios, it lacks a direct discussion on the interplay between technology and organisational structures, which is central to sociotechnical systems. The mention of practical application in the workplace hints at a sociotechnical perspective but does not delve deeply into the organisational context or team dynamics, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -991,20 +910,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T22:41:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical application of learning about the product owner role and the benefits of connecting class material to real-world organisational practices, which aligns with pragmatic thinking in an Agile context.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the different approaches to Product Owner training, highlighting practical applications and real-world integration of learning. While it does not explicitly mention 'Pragmatic Thinking', it aligns with the category's themes by contrasting the intense 2-day course with the more reflective 8-week course, emphasising practical problem-solving and adaptability in learning styles. However, the depth of discussion on pragmatic techniques is limited, focusing more on the training formats rather than specific strategies or case studies.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T22:41:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the value and structure of product owner training classes, with no focus on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T11:44:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two different training courses for Product Owners, discussing their structure and benefits. There are no direct mentions of Lead Time or its importance as an observability metric. While the content touches on learning processes, it does not align with the core themes of Lead Time, such as measuring efficiency or identifying bottlenecks. The depth of discussion is also minimal regarding Lead Time, as the content is more about educational pathways rather than process efficiency.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1054,21 +979,24 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T22:41:42",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the structure and value of product owner training rather than product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T22:41:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the product owner in a learning context, which is relevant to Agile methodologies, but it primarily focuses on the educational aspect rather than software development practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Product Owner within Agile methodologies, which is a key aspect of software development. It mentions learning paths related to Agile and Scrum, indicating a focus on software development practices. However, the discussion is more about training and personal learning preferences rather than in-depth software engineering methodologies or practices, which limits the depth of the discussion.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1115,15 +1043,6 @@
     "reasoning": "Content primarily discusses the value of a product owner class and its structure, without a focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T22:41:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the value of a product owner class and its structure, which is not directly related to the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T22:41:52",
@@ -1144,30 +1063,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T22:42:01",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the value of product owner training and learning experiences, rather than installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T22:42:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the value and learning outcomes of a Product Owner class, focusing on understanding the role and its practical application.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the Product Owner role, discussing training options and the essence of the role. It provides a good level of detail about the learning paths available for aspiring Product Owners, which aligns well with the responsibilities and skills associated with the role. However, while it touches on key aspects of the Product Owner's responsibilities, it lacks in-depth exploration of specific techniques for backlog management or stakeholder engagement, which slightly lowers the overall confidence score.",
     "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T22:42:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the structure and value of product owner training classes, lacking a focus on industry news, updates, or reviews.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1234,47 +1147,47 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T22:42:20",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the structure and value of product owner training classes, rather than focusing on methodologies for validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T22:42:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:44:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the value of a product owner class and its structure, with no focus on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two different training courses for Product Owners, discussing their structure and benefits. There are no direct mentions of throughput as a delivery metric, nor does it analyse or visualise throughput in any way. The discussion is centred around learning styles and course formats rather than delivery capacity or performance metrics, which are essential to the concept of throughput. Therefore, the content does not align with the key topics or criteria for the 'Throughput' category.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T22:42:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of Scrum, but it primarily focuses on the structure and value of the training classes rather than the Scrum framework itself.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T22:42:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the value proposition of a product owner class and the benefits of connecting learning to real-world applications, which aligns with the theme of delivering value to customers. However, it primarily focuses on the structure of the classes rather than broader value delivery strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the training paths for Product Owners, touching on the value of learning and the importance of understanding the role. However, it primarily focuses on the training methods rather than specific strategies or methodologies for delivering value to customers. While there are mentions of practical application and feedback, the overall emphasis is more on the training experience than on value delivery principles within Agile frameworks.",
     "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T22:42:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:44:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the value of product owner training and learning methodologies, which are unrelated to system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the differences between two training courses for Product Owners within the Agile framework, specifically Scrum. There are no direct mentions of system configuration, nor does it discuss any related themes such as configuration management, system optimisation, or integration of software and hardware. The content is more aligned with educational methodologies rather than system configuration practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,21 +1201,12 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T22:42:28",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the structure and value of product owner training classes, rather than focusing on methodologies for identifying customer needs or defining product features.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T22:42:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner and the learning process associated with it, which is a significant aspect of Scrum. However, it primarily focuses on the educational format rather than the application of Scrum principles in product development.",
-    "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1315,10 +1219,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T22:42:32",
+    "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the value and structure of product owner training, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -1351,11 +1255,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T22:42:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses learning and applying product owner principles in a real-world organisational context, which aligns with the theme of organisational agility, but it primarily focuses on the structure of the training classes rather than broader agile practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the training paths for Product Owners, which touches on Agile principles but lacks a direct focus on organisational agility. While it mentions learning and adapting skills, it does not delve into broader organisational strategies or cultural shifts necessary for agility. The depth of discussion on the training methods is substantial, but it does not align closely with the core themes of organisational agility.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1374,6 +1281,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the value of a product owner class and its structure, without a clear focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:57:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the product owner role and training, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:57:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the structure and value of product owner training, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Product Owner, which is a key aspect of the Scrum framework. However, it primarily focuses on the educational aspect of a Product Owner class rather than the principles, practices, or events of Scrum itself. While there are mentions of learning and applying Scrum concepts, the depth of discussion is limited, and it does not cover the broader Scrum framework or its core themes in detail.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the training paths for Product Owners and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. While it touches on Agile concepts, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on comparing two training approaches for Product Owners, which does not directly address Continuous Improvement principles. While it mentions aspects of learning and feedback, it lacks a strong emphasis on empirical evidence, measurable advancements, or a culture of experimentation. The discussion is more about training formats rather than continuous improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on the importance of learning and understanding the Product Owner role, it lacks explicit discussions on shared objectives, alignment, or strategic goals that are central to the Common Goals category. The content does not delve into how these training paths connect to broader organisational missions or team collaboration, which diminishes its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of learning and skill development in the context of Product Owner training, which aligns with the core themes of competence. It contrasts two approaches to learning (intense vs. gradual), highlighting the benefits of each in terms of skill acquisition and practical application. However, while it touches on competence, it does not delve deeply into strategies for fostering a culture of competence or the impact of competence on decision-making, which limits its depth of discussion.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners within the Scrum framework, which does not align with the core principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes. The content is more about personal learning preferences and training methodologies rather than the unified engineering practices that 1ES promotes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their structure and benefits without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on learning and reflection, it does not delve into the core themes of agency, adaptability, or the interplay between human and AI capabilities.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:44:01",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the differences between two training approaches for Product Owners, which is relevant to product development. It mentions the importance of understanding the Product Owner role and the value of learning in an Agile context. However, while it touches on Agile principles and the role of feedback in learning, it lacks a deeper exploration of methodologies or practices that facilitate product delivery. The focus is more on training formats rather than the broader product development lifecycle, which limits its alignment with the category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:44:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two different training courses for Product Owners, specifically the 2-day and 8-week PSPO courses. It does not directly mention Open Space Agile or its principles. While it touches on Agile concepts, it lacks a discussion on collective participation, psychological safety, or co-creation, which are central to Open Space Agile. The depth of discussion is limited to training formats rather than the broader themes of organisational agility or collaborative change processes.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:44:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on comparing two specific Product Owner training courses, which are rooted in the Scrum framework. While it briefly touches on the importance of learning and adapting to different styles, it does not explicitly discuss Agnostic Agile principles or the broader context of agility beyond Scrum. The mention of learning styles and integration into professional life hints at a contextual approach, but it lacks depth in discussing the ethical and principle-driven aspects of Agnostic Agile. Overall, the content is more about the mechanics of training rather than the philosophy of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:44:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two different training courses for Product Owners, which is more aligned with Agile training rather than the complexities of scaling Agile practices across multiple teams. While it touches on learning and development within the Agile framework, it does not discuss methodologies, frameworks, or strategies specifically related to scaling, nor does it address cross-team collaboration or alignment with business goals. Therefore, the confidence score reflects a very low alignment with the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:44:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the differences between two Product Owner training courses and does not discuss any aspects of Cell Structure Design. There are no direct mentions of the principles of the Beta Codex, autonomous cells, or decentralised structures. While it touches on Agile methodologies, it does not align with the core themes of Cell Structure Design, which is about organisational design models. The depth of discussion is limited to training formats and does not explore any relevant concepts related to the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:44:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two different training formats for the Product Owner role within the Scrum framework. While it touches on Agile principles, it does not explicitly mention or discuss Liberating Structures or their facilitation techniques. The discussion lacks depth regarding the core themes of Liberating Structures, such as enhancing participation or collaboration in group settings. Overall, the content is more aligned with traditional training formats rather than the principles of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:44:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two different training approaches for Product Owners, discussing their merits and learning styles. While it touches on aspects of learning and development, it does not explicitly address Time to Market or its associated metrics, strategies, or impacts. The discussion is more about training duration and personal learning preferences rather than optimising processes for quicker delivery of value, which is the essence of Time to Market.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:44:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their structure and benefits. While it touches on aspects of learning and professional development, it does not explicitly mention or align with the principles of Company as a Product. The discussion lacks depth regarding organisational strategies, customer insights, or cross-functional collaboration, which are central to the CaaP concept. Therefore, the confidence score reflects a minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:44:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between two types of Product Owner training courses, discussing Agile concepts and learning methodologies without any direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not align with GitHub's specific tools or practices, nor does it provide any depth regarding GitHub services or collaboration features.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:44:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their structure and benefits without addressing the concept of Unrealised Value or its relevance to Evidence-Based Management. There are no direct mentions of unrealised opportunities or potential improvements within an organisation, and the discussion lacks depth in exploring any indicators or strategies related to unrealised value. Overall, the content does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:44:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their structure and learning outcomes. While it touches on the importance of learning and practical application, it does not explicitly mention Current Value or its metrics, nor does it provide insights into customer satisfaction or revenue impact. The discussion lacks depth in relation to the core themes of Current Value, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:44:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on comparing two training courses for Product Owners, discussing their merits and learning styles without addressing Hybrid Agile concepts. There are no direct mentions of Hybrid Agile, nor does it critically examine the integration of traditional and agile methodologies. The discussion lacks depth in exploring the challenges or implications of Hybrid Agile, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:44:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the differences between two training courses for Product Owners, which is a specific role within Agile methodologies. While it touches on aspects of learning and development relevant to project management, it lacks a broader discussion on core project management principles, methodologies, or lifecycle phases. The mention of Agile is present, but the content does not delve into project management strategies, tools, or techniques that would typically be expected in a comprehensive project management discussion. Therefore, while there are relevant elements, the overall focus is too narrow to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content touches on the learning paths for Product Owner training but primarily focuses on the course durations rather than core principles that guide decision-making in Agile or related frameworks. It briefly mentions understanding the Product Owner role and the essence of learning, but does not deeply discuss actionable principles like self-management, customer collaboration, or continuous improvement that are central to the category of 'Principle'. Therefore, while there are elements relevant to the topic, the overall focus is not aligned with discussing principles in a significant way.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on discussing two different training courses for the Product Owner role in Scrum. While it does imply some benefits of learning and integrating Agile concepts, it does not specifically address any tools or mechanisms that support these methodologies. The content mentions learning experiences but lacks direct mentions or detailed discussions about actual tools used in Agile, Lean, or DevOps practices. Consequently, it only partially aligns with the category of 'Tool.'",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content touches on the concept of 'core values of learning' and briefly discusses the value of connecting theoretical learning with practical experiences. However, it primarily focuses on the structure and benefits of Product Owner courses without diving into deeper discussions about values that guide behavior or decision-making within organizations. The emphasis is more on course logistics than on the underlying values that might influence the Product Owner role or Agile practices, resulting in a lower confidence score for alignment and depth.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the logistics and differences between two Product Owner courses and their formats, which emphasizes practical learning rather than any philosophical underpinnings of Agile methodologies. While there is a mention of learning styles, the core focus is on specific practices rather than exploring the foundational beliefs or reasons behind Agile principles. Additionally, the content lacks a deeper philosophical discussion on how these approaches influence decision-making or team dynamics.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on comparing two different training approaches for the Product Owner role in Agile, highlighting the aspects of learning styles and course structure rather than discussing the principles or methodologies characteristic of a discipline such as Agile itself. While it mentions Agile and touches on the importance of the Product Owner role, it does not delve into the systemic application or maturation of Agile as a discipline. The mention of learning principles provides a weak alignment, but overall, the depth and conceptual focus do not strongly resonate with the category of Discipline.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the comparison of two Product Owner training courses, emphasizing learning experiences rather than artifacts and their roles in Agile or Scrum. There are no explicit mentions of artifacts like Product Backlogs or Sprint Backlogs, and while it discusses aspects of the Product Owner role, it does not delve into the purpose or structure of artifacts themselves. Therefore, the alignment and depth regarding the artifact category are very limited, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on comparing two different training durations for the Product Owner role within the Agile framework. There are no explicit mentions or discussions regarding observability, metrics, logs, or traces. While the content touches on aspects of Agile learning, it does not align with the key themes or principles of observability, such as measuring internal system states or understanding workflows based on generated data. The depth of the content is entirely centered on educational paths rather than any observability discussions.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 30.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content discusses training pathways for Product Owners, without delving into actionable practices or techniques that improve team effectiveness or collaboration. While it highlights learning approaches, it does not provide actionable practices aligned with the 'Practice' category, thus leading to a low confidence score. The mention of practice in the context of the 8-week course suggests an appreciation for reflective learning, but lacks specificity in terms of actionable techniques.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 55.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the different methods of training for the Product Owner role in Agile, specifically contrasting a 2-day immersive course with an 8-week course. While the discussion touches on structured learning approaches (the methods), it mainly focuses on the differences in course duration and style rather than providing detailed procedures or actionable steps that define a specific method. The emphasis on the outcomes and learning experiences dilutes the focus on methodical practices which limits the overall confidence score.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses different training formats for the Product Owner role rather than focusing on conceptual models or frameworks relevant to Agile, DevOps, or Lean. While it briefly touches upon learning and potential application in a professional setting, it lacks direct discussions of specific models or analytical frameworks, resulting in low alignment and depth for the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses two different Product Owner training courses, which are framed within the context of Agile learning. However, the primary focus is on the comparison between the course durations rather than the frameworks or methodologies themselves. While it mentions Agile principles and the Product Owner role (which is part of the Scrum framework), it lacks in-depth discussion about the frameworks themselves, their implementation strategies, or best practices. The emphasis is more on the structure of the courses rather than a structured methodology for implementing frameworks like Scrum. Therefore, the content aligns somewhat with the Framework category, but does not meet the depth and concept alignment required for higher confidence.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 22.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses different approaches to Product Owner training rather than focusing on specific tenets of Agile, Lean, or DevOps. While it mentions Agile principles in the context of learning, it does not provide actionable rules or practices that guide decision-making or behaviors within an organization. The discussion lacks the depth and explicit alignment typical of the Tenet category, which focuses on prescriptive rules and principles. Therefore, the content does not fit well within the 'Tenet' classification.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "N3LSpL-N3kY",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 2,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the differences between two training courses for Product Owners, focusing on the learning experiences and outcomes rather than discussing enduring competencies or systemic capabilities within organizations. While it mentions the importance of learning in an Agile context, it lacks depth regarding the relationship between learning and the development of capabilities. Thus, while there is a brief mention of learning that could support capability development, it is not the central theme, resulting in a low confidence score in the Capability category.",
     "level": "Ignored"
   }
 }

@@ -2,8 +2,10 @@
 title: Technical Debt Management for Long-Term Quality
 description: Discover how automated testing transforms software engineering, reducing errors and speeding up feedback for high-quality, efficient delivery.
 date: 2024-11-21T07:00:11Z
+weight: 205
 ResourceId: BAwBXYtKj7o
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BAwBXYtKj7o
@@ -12,18 +14,26 @@ url: /resources/videos/:slug
 slug: technical-debt-management-for-long-term-quality
 layout: video
 aliases:
-- /resources/videos/BAwBXYtKj7o
-- /resources/videos/the-power-of-automated-testing
-- /resources/the-power-of-automated-testing
 - /resources/BAwBXYtKj7o
-aliasesFor404:
+- /resources/videos/technical-debt-management-for-long-term-quality
+- /resources/videos/the-power-of-automated-testing
+aliasesArchive:
+- /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/videos/the-power-of-automated-testing
 - /resources/the-power-of-automated-testing
+- technical-debt-management-for-long-term-quality
 preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
 duration: 451
 isShort: false
 tags:
+- Technical Debt
+- Automated Testing
+- Technical Excellence
+- Technical Mastery
 - Software Development
+- Engineering Practices
+- Working Software
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,9 +41,11 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- DevOps
+- Product Development
 
 ---
-# Technical Debt Management for Long-Term Quality | Martin Hinshelwood  
+# [Technical Debt]({{< ref "/tags/technical-debt" >}}) Management for Long-Term Quality | Martin Hinshelwood  
 
   📍  📍 Technical debt is a huge problem for, for organizations. I want to quickly define technical debt. Technical debt is
 
@@ -41,7 +53,7 @@ Future costs that you incur when  you or your team prioritize quick short term s
 
 You can also unknowingly introduce technical debt, i. e. we made some architectural choices, they were good choices at the time, but now they're no longer good choices. Technical debt can appear over time. I'm  thinking of a transaction system and we supported x number of transactions per second and our platform of choice was  reasonably priced, was able to support Well beyond what we thought we were going to transact, but now we're transacting a lot more than that, and we're reaching the limits of the system that we chose.
 
-A great example. A great example of that is the Azure DevOps team when they originally envisaged Work item tracking fields. So a, a, a, a work item was a row in a database and fields were a column.  And those of you who are software engineers have already figured out what the problem would be with that, in that you can only have 1024 columns in a SQL database.
+A great example. A great example of that is the Azure [DevOps]({{< ref "/categories/devops" >}}) team when they originally envisaged Work item tracking fields. So a, a, a, a work item was a row in a database and fields were a column.  And those of you who are software engineers have already figured out what the problem would be with that, in that you can only have 1024 columns in a SQL database.
 
 So they, they, not quickly but they did hit limitations on the number of columns that you could have for custom fields. Because who would have more than a thousand  fields on a work item? But yeah, people do, they do exist and people do that, and it was a thousand  totally within the system.
 
@@ -57,7 +69,7 @@ If you stop paying your mortgage then the bank comes and repossesses your house 
 
 There's no insurance. It's uninsured  From from from that perspective and nobody can magically come along and pay back all the all the debt. It's not insured at all  Or sell something and pay back. We claim an asset. So  It's something you're going to have to deal with and you can't like get out of control and there's a lot of unknown technical debt.
 
-I mean, that's, that's  like, I mean, I use the Azure DevOps team a lot as an example, but they'd been a waterfall team for many years shipping once every two years, and then they moved to a more continuous delivery three week model. And they found that they made lots of poor decisions, right, that didn't, weren't necessarily poor decisions within the context of two year, but they couldn't really see the impact of  the technical debt, the choices that they'd made, deliberate and non deliberate, right, on, on their ability to deliver product and their ability to deliver value.
+I mean, that's, that's  like, I mean, I use the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team a lot as an example, but they'd been a waterfall team for many years shipping once every two years, and then they moved to a more [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) three week model. And they found that they made lots of poor decisions, right, that didn't, weren't necessarily poor decisions within the context of two year, but they couldn't really see the impact of  the technical debt, the choices that they'd made, deliberate and non deliberate, right, on, on their ability to deliver product and their ability to deliver value.
 
 But I have a, I have a, I have a graph of, I think it's 2010 through to. 2018 for, for that product team. So eight years of development and they effectively go by moving to continuous delivery, moving to three week sprints, moving to that faster cycle from a two yearly cycle and running into issues with that and every issue they running into.
 
@@ -73,7 +85,7 @@ That's the benefit of having a slick. Easy system to add features to your produc
 
   
 
-At [NKD Agility](https://www.nkdagility.com), we help teams implement modern engineering practices, build robust testing strategies, and achieve engineering excellence. Ready to reduce errors and deliver faster? Visit us today to transform your software delivery pipeline. Let’s automate the future together!  
+At [NKD Agility](https://www.nkdagility.com), we help teams implement modern [engineering practices]({{< ref "/tags/engineering-practices" >}}), build robust testing strategies, and achieve [engineering excellence]({{< ref "/categories/engineering-excellence" >}}). Ready to reduce errors and deliver faster? Visit us today to transform your software delivery pipeline. Let’s automate the future together!  
 
 #agile #agileproductdevelopment #agileprojectmanagement #agileproductmanagement #productdevelopment #productmanager #productowner #projectmanager #scrummasters 
  [Watch on Youtube](https://www.youtube.com/watch?v=BAwBXYtKj7o)

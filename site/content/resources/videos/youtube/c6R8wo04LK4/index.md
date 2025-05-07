@@ -2,42 +2,40 @@
 title: Hardest Part of Adopting Scrum?
 description: 'Discover the toughest challenge in adopting Scrum as Martin Hinshelwood shares insights in this engaging short video. #Scrum #Agile #Shorts'
 date: 2023-06-17T11:00:32Z
+weight: 1000
 ResourceId: c6R8wo04LK4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: c6R8wo04LK4
 source: internal
 url: /resources/videos/:slug
-slug: hardest-part-of-adopting-scrum
+slug: hardest-part-of-adopting-scrum-c6R8wo04LK4
 layout: video
 preview: https://i.ytimg.com/vi/c6R8wo04LK4/maxresdefault.jpg
 duration: 36
 isShort: true
 aliases:
-- /resources/hardest-part-of-adopting-scrum
-- /resources/videos/hardest-part-of-adopting-scrum
-- /resources/videos/c6R8wo04LK4
 - /resources/c6R8wo04LK4
-aliasesFor404:
-- /resources/hardest-part-of-adopting-scrum
+- /resources/videos/hardest-part-of-adopting-scrum-c6R8wo04LK4
+aliasesArchive:
 - /resources/videos/hardest-part-of-adopting-scrum
+- /resources/hardest-part-of-adopting-scrum
+- hardest-part-of-adopting-scrum-c6R8wo04LK4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Agile Frameworks
-- Agile Project Management
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 ## Debunking the "Magic" Myth
 
-A question that often pops up in my discussions is, "What is the hardest part of adopting Scrum?
+A question that often pops up in my discussions is, "What is the hardest part of adopting [Scrum]({{< ref "/categories/scrum" >}})?
 
 It's a valid inquiry; I believe many of you have pondered it too.
 
@@ -57,7 +55,7 @@ There's this mistaken belief that repeating the same actions will result in diff
 
 These beliefs, while hopeful, border on the absurd and are very far from the reality of Scrum adoption.
 
-Shattering these illusions and ingraining a culture of continuous learning and adaptability is genuinely the toughest aspect of Scrum adoption.  🚫 
+Shattering these illusions and ingraining a culture of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and adaptability is genuinely the toughest aspect of Scrum adoption.  🚫 
 
 Recognising and addressing these deeply rooted beliefs is paramount; in my view, this understanding and transformation is the _real challenge_ in Scrum adoption.
 

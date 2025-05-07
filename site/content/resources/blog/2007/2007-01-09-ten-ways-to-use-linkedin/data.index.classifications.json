@@ -1,13 +1,4 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:57:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on using LinkedIn for networking and professional opportunities, with no relevance to AI or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
     "calculated_at": "2025-02-17T09:57:44",
@@ -26,30 +17,12 @@
     "reasoning": "Content primarily discusses the use of LinkedIn for networking and professional opportunities, which is unrelated to decision-making processes.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:57:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of LinkedIn as a networking tool, without a focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:57:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of LinkedIn for networking and professional opportunities, which is unrelated to organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:57:49",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of LinkedIn for networking and sales, which is not related to value delivery in Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -64,11 +37,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:57:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about using LinkedIn and does not discuss Scrum principles, practices, or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on LinkedIn and its uses for networking and professional growth, with no mention of Scrum principles, roles, events, or any related concepts. It does not align with the core themes of Scrum, nor does it provide any depth of discussion on the topic.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -134,15 +110,6 @@
     "reasoning": "Content primarily discusses the use of LinkedIn for networking and professional opportunities, with no relevance to platform engineering or internal developer platforms.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:58:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of LinkedIn for networking and professional opportunities, which is unrelated to software code or complexity.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "calculated_at": "2025-02-17T09:58:03",
@@ -206,24 +173,6 @@
     "reasoning": "Content focuses on using LinkedIn for networking and professional opportunities, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:58:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of LinkedIn as a networking tool, which does not align with the themes of Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:58:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of LinkedIn as a networking tool, which does not align with the focus on Agile and DevOps practices or specific methodologies and frameworks.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:58:18",
@@ -260,15 +209,6 @@
     "reasoning": "Content is focused on using LinkedIn for networking and professional opportunities, with no relevance to Agile principles or product development.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:58:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of LinkedIn as a networking tool, with no reference to events, presentations, or related topics.",
-    "level": "Ignored"
-  },
   "Agile Product Management": {
     "category": "Agile Product Management",
     "calculated_at": "2025-02-17T09:58:27",
@@ -280,10 +220,10 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T09:58:28",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of LinkedIn for networking and professional opportunities, which is not related to Value Stream Management.",
     "level": "Ignored"
   },
@@ -305,33 +245,6 @@
     "reasoning": "Content primarily discusses the use of LinkedIn as a networking tool, without personal reflections or insights related to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:58:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on utilising LinkedIn for networking and professional opportunities, without discussing discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:58:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of LinkedIn for networking and does not address transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:58:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of LinkedIn as a networking tool, which does not align with the category's focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T09:58:35",
@@ -350,7 +263,7 @@
     "reasoning": "Content primarily discusses the use of LinkedIn for networking and professional opportunities, which is unrelated to DevOps principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:58:38",
     "ai_confidence": 0,
@@ -397,10 +310,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T16:38:22",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on using LinkedIn for professional networking and does not discuss the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
@@ -429,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on using LinkedIn for professional networking and does not relate to empirical process control or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T16:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about using LinkedIn for networking and does not discuss Scaling Scrum or related methodologies.",
     "level": "Ignored"
   },
   "Increment": {
@@ -609,15 +513,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on practical uses of LinkedIn rather than discussing long-term strategic goals or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T16:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on LinkedIn usage and networking strategies, with no relation to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -865,10 +760,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T16:38:22",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on LinkedIn usage, which is unrelated to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -881,7 +776,7 @@
     "reasoning": "Content focuses entirely on LinkedIn and its use cases, with no mention or relevance to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T16:38:22",
     "ai_confidence": 0,
@@ -933,15 +828,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses how to use LinkedIn, which is unrelated to Agile methodologies or strategies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on LinkedIn usage and networking, which is not relevant to software developers or Agile/DevOps practices.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +882,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on LinkedIn usage and networking, which has no relevance to Scrum Values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T16:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about LinkedIn usage and networking, not related to Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1205,15 +1082,6 @@
     "reasoning": "Content primarily focuses on using LinkedIn for networking and professional growth, which is unrelated to test automation or software testing.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about using LinkedIn for networking and career opportunities, with no relevant connections to Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T16:38:22",
@@ -1261,29 +1129,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:38:22",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on using LinkedIn as a networking tool and its applications in sales and job seeking, which does not relate to the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T16:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the uses of LinkedIn, which is unrelated to scaling agility practices or principles.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on using LinkedIn as a networking tool and does not discuss Agile Project Management or related methodologies.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1324,20 +1174,11 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T16:38:22",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses LinkedIn usage, which is unrelated to Value Stream Mapping or Lean principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T16:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on using LinkedIn for professional networking and does not discuss AI or its application in Agile, DevOps, or software development.",
+    "reasoning": "Content discusses LinkedIn usage, which is unrelated to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1374,6 +1215,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of LinkedIn as a networking tool, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:55:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is focused on using LinkedIn for networking and professional opportunities, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:55:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the use of LinkedIn for networking and professional opportunities, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on LinkedIn usage for networking and professional opportunities, which is unrelated to software development processes or the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

@@ -2,42 +2,43 @@
 title: Why Immersive Learning Keeps Scrum Students Excited and Engaged
 description: 'Discover why immersive learning transforms Scrum training! Join us for Part 2 as we explore the second reason to love this engaging experience. #Shorts'
 date: 2024-02-01T07:00:09Z
+weight: 1000
 ResourceId: OyeZgnqESKE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OyeZgnqESKE
 source: internal
 url: /resources/videos/:slug
-slug: why-immersive-learning-keeps-scrum-students-excited-and-engaged
+slug: why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
 layout: video
 preview: https://i.ytimg.com/vi/OyeZgnqESKE/maxresdefault.jpg
 duration: 38
 isShort: true
 aliases:
-- /resources/why-immersive-learning-keeps-scrum-students-excited-and-engaged
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
-- /resources/videos/OyeZgnqESKE
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
 - /resources/OyeZgnqESKE
-aliasesFor404:
+- /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
+- /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
+aliasesArchive:
+- /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged
 - /resources/why-immersive-learning-keeps-scrum-students-excited-and-engaged
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
+- why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
-- Continuous Learning
-- Personal
+- Team Motivation
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-One of the main reasons I absolutely love the immersive learning experience for Scrum students is its ability to maintain a high level of **excitement** and **engagement**. It’s not just about passing knowledge from one person to another; it's about creating an atmosphere of **discovery**. Each session brings something fresh, something new, and that keeps people coming back for more. This blog post will delve into how immersive learning creates excitement, the importance of continuous learning, and how these principles can be applied in your own organization.
+One of the main reasons I absolutely love the immersive learning experience for [Scrum]({{< ref "/categories/scrum" >}}) students is its ability to maintain a high level of **excitement** and **engagement**. It’s not just about passing knowledge from one person to another; it's about creating an atmosphere of **discovery**. Each session brings something fresh, something new, and that keeps people coming back for more. This blog post will delve into how immersive learning creates excitement, the importance of [continuous learning]({{< ref "/tags/continuous-learning" >}}), and how these principles can be applied in your own organization.
 
 ## **The Power of Immersive Learning in Scrum**
 
@@ -57,7 +58,7 @@ One of the most effective ways to learn is by doing. In an immersive learning en
 
 Imagine this:
 
-- You attend a Scrum class today and then go back to your team tomorrow to try out a new **retrospective technique** or **Sprint Review format**.
+- You attend a Scrum class today and then go back to your team tomorrow to try out a new **retrospective technique** or **[Sprint Review]({{< ref "/tags/sprint-review" >}}) format**.
 
 - Next week, you return to the class, share your experiences, and get **feedback** not just from the instructor but from your peers as well.
 
@@ -79,7 +80,7 @@ One of the unique aspects of immersive learning is that it gives students the **
 
 - In the next session, they can **reflect** on their experience and adjust accordingly.
 
-This is the essence of continuous improvement, a cornerstone of **Scrum**.
+This is the essence of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), a cornerstone of **Scrum**.
 
 ### **2\. Keeping Engagement High with Weekly Sessions** **🔄**
 
@@ -99,7 +100,7 @@ This creates a sense of **anticipation** and excitement that traditional, one-of
 
 ## **Practical Tips for Creating an Immersive Learning Experience**
 
-If you’re an **Agile coach** or **Scrum Master**, you might be wondering how you can create a similar immersive learning experience for your team or organization. Here are a few practical tips I’ve learned over the years:
+If you’re an **Agile coach** or **[Scrum Master]({{< ref "/tags/scrum-master" >}})**, you might be wondering how you can create a similar immersive learning experience for your team or organization. Here are a few practical tips I’ve learned over the years:
 
 ### **1\. Break Down Content Into Manageable Chunks** **📚**
 
@@ -107,7 +108,7 @@ Don’t overwhelm your team with too much information at once. Instead, break do
 
 - Focus on one or two key topics per session.
 
-- Encourage hands-on **experimentation** between sessions.
+- Encourage hands-on **[experimentation]({{< ref "/tags/experimentation" >}})** between sessions.
 
 - Schedule regular check-ins or **feedback loops** to discuss what worked and what didn’t.
 

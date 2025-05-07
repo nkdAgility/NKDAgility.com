@@ -2,8 +2,10 @@
 title: How did you come to be a preferred Scrum training supplier for Microsoft?
 description: Discover how Martin Hinshelwood became the preferred Scrum training supplier for Microsoft, empowering their agile journey in product development.
 date: 2023-05-10T07:00:17Z
+weight: 1000
 ResourceId: tUC5TainG2E
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: tUC5TainG2E
@@ -15,28 +17,25 @@ preview: https://i.ytimg.com/vi/tUC5TainG2E/maxresdefault.jpg
 duration: 271
 isShort: false
 aliases:
-- /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
-- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
-- /resources/videos/tUC5TainG2E
-- /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
 - /resources/tUC5TainG2E
-aliasesFor404:
+- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
+aliasesArchive:
+- /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 - /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 - /resources/videos/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
 - /resources/how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft-
+- how-did-you-come-to-be-a-preferred-scrum-training-supplier-for-microsoft
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Personal
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
-Many of you have asked,  "How did I become the third Scrum training provider for Microsoft?"
+Many of you have asked,  "How did I become the third [Scrum]({{< ref "/categories/scrum" >}}) training provider for Microsoft?"
 
 One thing is for sure: I can say it's been a journey deeply rooted in building relationships and continually developing expertise.
 
@@ -46,7 +45,7 @@ Let's dive deep into that journey. 
 
 First and foremost, I owe much of this to my success as a Scrum training expert to my long-standing relationships with Microsoft, which have been instrumental to my development.
 
-As a Microsoft MVP (Most Valuable Professional) in the DevOps space for 14 years, I've established a rapport and delved deeply into Microsoft's unique ecosystem, giving me unique insight.   🤝
+As a Microsoft MVP (Most Valuable Professional) in the [DevOps]({{< ref "/categories/devops" >}}) space for 14 years, I've established a rapport and delved deeply into Microsoft's unique ecosystem, giving me unique insight.   🤝
 
 This relationship has allowed me to engage deeply with Microsoft's culture.  Their unique acronyms and idioms, like "let's double click on that", are all ingrained in my professional vocabulary now.
 
@@ -54,7 +53,7 @@ This relationship has allowed me to engage deeply with Microsoft's culture.  Th
 
 While many know Microsoft, few are seen as experts in _DevOps and Scrum/Agile and I feel fortunate to be seen as an expert in_ DevOps and Scrum.
 
-This unique combination meant numerous clients using Azure DevOps or other Microsoft tools found their way to me and made me stand out as a Scrum trainer in this dual domain.  🛠️
+This unique combination meant numerous clients using [Azure DevOps]({{< ref "/tags/azure-devops" >}}) or other Microsoft tools found their way to me and made me stand out as a Scrum trainer in this dual domain.  🛠️
 
 The result?
 

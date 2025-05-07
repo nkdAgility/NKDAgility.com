@@ -1,21 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its application in training and consulting, which aligns with Agile Product Management as a secondary theme.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses Scrum and Agile methodologies, particularly in the context of training and consulting. However, it primarily focuses on the author's availability for engagements rather than providing in-depth insights into Agile Product Management principles. While there are mentions of backlogs and the role of the Product Owner, the overall discussion lacks a comprehensive exploration of Agile practices in product management.",
     "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T23:10:15",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses training and consulting services related to Visual Studio ALM and Scrum, which are practical techniques and tools used in Agile and DevOps practices.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T23:10:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T23:10:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, with limited emphasis on discovery and learning processes.",
-    "level": "Quaternary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T23:10:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, without any substantial discussion on Evidence-Based Management principles. While it mentions the importance of customer needs and backlog management, it lacks a clear emphasis on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,30 +43,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:44",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses training and consulting related to Visual Studio ALM and TFS, which includes aspects of configuration and administration, but the primary focus is on availability for consulting rather than detailed installation or configuration procedures.",
     "level": "Tertiary"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T23:10:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the author's availability for consulting and training in Visual Studio ALM and Scrum, which implies a level of responsiveness to market demands. However, it primarily focuses on personal availability and service offerings rather than detailed strategies or methodologies related to market adaptability.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the need for flexibility in scheduling engagements and adapting to customer demands, which aligns with the concept of market adaptability. However, it lacks a detailed discussion on Agile methodologies, DevOps practices, or Lean principles that are central to the category. The focus is more on personal availability and training offerings rather than on strategies for enhancing organisational responsiveness to market changes.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -107,32 +71,26 @@
     "reasoning": "Content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, without a clear discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T23:10:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T23:10:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on consulting and training in Visual Studio ALM and Scrum, without a clear emphasis on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, which are methodologies and tools rather than core DevOps principles. While there are tangential references to collaboration and backlog management, the overall emphasis is on specific frameworks and training rather than the broader DevOps philosophy of integration, automation, and shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:08:44",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, which are specific methodologies. While there are personal reflections and general experiences shared, the main focus is on offering expertise in recognised frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses onsite training and consulting related to Scrum and ALM, which are relevant to events and presentations, but the primary focus is on availability and services rather than specific events or presentations.",
-    "level": "Tertiary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T23:10:38",
@@ -160,15 +109,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a clear focus on flow efficiency principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T23:10:39",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses consulting and training in Scrum, highlighting the importance of collaboration and backlog management, which are relevant to team dynamics and process methodologies.",
-    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T23:10:43",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,10 +148,10 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T23:10:45",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, without a clear emphasis on engineering practices or methodologies that enhance agility in software development.",
     "level": "Ignored"
   },
@@ -235,12 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses consulting and training related to Scrum and Visual Studio ALM, which are relevant to product delivery methodologies, but the primary focus is on availability and offering services rather than in-depth discussions on product delivery practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses consulting and training in Visual Studio ALM and Scrum, which are relevant to product delivery methodologies. It mentions the creation of a backlog for consulting engagements, aligning with iterative development and customer involvement. However, the primary focus is on availability and services offered rather than in-depth discussions on product delivery practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -253,48 +196,45 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T23:10:52",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training and consulting services related to Scrum and Visual Studio ALM, which are tools pertinent to Agile methodologies. However, it primarily focuses on the author's availability and services rather than providing a review or analysis of specific products or literature.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training and consulting services related to Scrum and ALM, which are relevant to value delivery practices, but the primary focus is on availability and service offerings rather than a deep exploration of value delivery strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses training and consulting services related to Scrum and ALM, which aligns with value delivery principles. However, it primarily focuses on the author's availability and logistics rather than in-depth strategies or methodologies for delivering value to customers. While there are mentions of customer needs and backlogs, the overall discussion lacks a strong emphasis on iterative development or continuous delivery practices.",
     "level": "Tertiary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Visual Studio ALM and TFS, which are related to Azure DevOps, but the primary focus is on consulting and training services rather than Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Visual Studio ALM and TFS, with a focus on Scrum training and consulting. While Azure DevOps is mentioned in the context of training, the overall discussion is more centred on Scrum and general project management practices rather than specific Azure DevOps functionalities or methodologies. The content lacks a detailed exploration of Azure DevOps services and does not provide insights into CI/CD practices or integration with other tools, which are key topics for the category.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:44",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with only brief mentions of personal availability and experiences.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -305,103 +245,91 @@
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T23:11:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM, TFS, and Scrum, without a focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies in the context of training and consulting, making it a major but secondary theme rather than a primary focus on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with minimal direct discussion of the Agile Product Operating Model. While Scrum is mentioned, it is not explored in the context of product management principles or the broader themes of the Agile Product Operating Model. The content lacks depth in discussing the transition from project to product ethos or the integration of agile methodologies with product management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies in the context of consulting and training, which aligns with the theme of organisational agility, but it primarily focuses on the author's availability and services rather than a deep exploration of agility principles.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T23:11:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on personal availability for consulting and training services rather than discussing industry news, updates, or reviews.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's availability for consulting and training in Visual Studio ALM and Scrum, with limited direct discussion on organisational agility. While it mentions Scrum, which is an Agile methodology, the content does not delve into the principles or practices that foster organisational agility. The alignment with the category is weak as it lacks a discussion on cultural shifts, leadership roles, or strategies for enhancing adaptability. The depth of discussion is minimal, primarily revolving around logistics and personal availability rather than exploring the broader themes of organisational agility.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio ALM and related training and consulting services, making ALM a significant theme, but it is primarily focused on the author's availability and offerings rather than a comprehensive discussion on the application lifecycle management methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of training and consulting services, making it a significant but secondary theme alongside Visual Studio ALM and TFS.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content mentions Visual Studio ALM and TFS, which are relevant to Application Lifecycle Management, but the primary focus is on the author's availability for consulting and training rather than a detailed discussion of ALM methodologies or practices. While there are references to ALM training and Scrum, the depth of discussion on the lifecycle stages, governance, or tools is minimal, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-14T23:11:17",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a clear focus on the Daily Scrum event or its specific practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T23:11:18",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without addressing the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training and consulting in Visual Studio ALM and Scrum, which are related to software engineering practices, but the primary focus is on availability and service offerings rather than deep technical mastery.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, which are more aligned with project management and service delivery rather than the core principles of software craftsmanship and engineering excellence. While there are mentions of Agile practices and training, the discussion lacks depth in technical methodologies, principles of clean code, or techniques for improving code quality. Therefore, it does not strongly align with the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-14T23:11:21",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T23:11:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no direct discussion of Continuous Delivery principles or practices. While it mentions Agile methodologies, it does not delve into Continuous Delivery concepts such as automation, rapid feedback, or incremental improvements, which are essential for this category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +343,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-14T23:11:25",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services, with no clear focus on Lead Time as a metric or its implications.",
     "level": "Ignored"
   },
@@ -433,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T23:11:27",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -451,66 +379,81 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 35.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of a backlog in the context of consulting engagements, indicating its importance in managing tasks and priorities, but it primarily focuses on consulting and training services rather than the Product Backlog itself.",
+    "final_score": 45.0,
+    "reasoning": "The content briefly mentions the concept of a backlog in the context of consulting engagements, indicating that the customer acts as the Product Owner. However, the primary focus of the content is on consulting and training services rather than a detailed discussion of the Product Backlog itself. While there is some alignment with the category's themes, the depth of discussion is limited, and the overall emphasis is not on backlog management.",
     "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies in the context of training and consulting, making Agile Planning a significant theme, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content mentions Scrum and discusses the concept of a backlog in the context of consulting engagements, which aligns with Agile Planning principles. However, the primary focus is on offering consulting and training services rather than a deep exploration of Agile Planning methodologies. The discussion lacks detailed insights into Agile principles, techniques, or best practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-14T23:11:32",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Visual Studio ALM, TFS, and Scrum, with no mention of Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-14T23:11:34",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on customer feedback integration mechanisms.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses consulting and training in Scrum and Visual Studio ALM, which relates to operational practices, but the primary focus is on availability and marketing services rather than specific operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's availability for consulting and training in Visual Studio ALM and Scrum, with some mention of backlog management in consulting engagements. While it touches on operational practices through the lens of Scrum and training, it lacks a detailed exploration of techniques or strategies aimed at enhancing operational efficiency. The discussion is more about personal availability and service offerings rather than a deep dive into operational practices within Agile or DevOps frameworks.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum in the context of training and consulting, making it a secondary theme rather than the primary focus.",
+    "final_score": 55.0,
+    "reasoning": "The content mentions Scrum in the context of training and consulting services, indicating a focus on Scrum roles and practices. However, it lacks a detailed exploration of team dynamics, collaboration, or specific Scrum methodologies, which are central to the category. The discussion is more about offering services rather than delving into the intricacies of Scrum Team effectiveness.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum in the context of training and consulting, indicating a major theme related to Agile practices, but it primarily focuses on specific services rather than the underlying Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, with only brief mentions of Agile concepts. While it touches on the idea of a backlog and customer collaboration, it lacks a thorough exploration of Agile principles or the broader implications of Agile as a philosophy. The discussion is more about practical applications and logistics rather than the foundational values and mindset of Agile.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -523,20 +466,23 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-14T23:11:40",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Agile training and consulting services, which are relevant to Agile transformation, but the primary focus is on availability for engagements rather than a comprehensive discussion on Agile transformation strategies or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions Scrum and discusses training and consulting related to Agile practices, but it primarily focuses on the author's availability for engagements rather than a comprehensive discussion on Agile transformation strategies or methodologies. While there are references to Scrum courses and consulting, the overall emphasis is on personal availability and logistics rather than the principles and practices of Agile transformation.",
     "level": "Tertiary"
   },
   "Mentoring": {
@@ -559,12 +505,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 25.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and training related to Agile methodologies, which are relevant to team performance, but the primary focus is on consulting services rather than team dynamics or performance strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and discusses training and consulting services related to Agile methodologies. However, it lacks a focused discussion on team performance, collaboration, or specific strategies to enhance team dynamics. The primary emphasis is on the author's availability for engagements rather than on the performance of agile teams or methodologies aimed at improving team effectiveness.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -577,46 +526,43 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-14T23:11:51",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no focus on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T23:11:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, which are relevant to software development practices. However, it also includes personal anecdotes and business management aspects, making the category a major but secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, which are relevant to software development practices. However, the discussion is more about personal availability and service offerings rather than in-depth exploration of software development methodologies or practices. While Scrum is mentioned, the overall depth of discussion on software development principles is limited, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies in the context of training and consulting, making it a significant but secondary theme.",
-    "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies in the context of training and consulting, making Agile principles a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with minimal direct discussion of Agile values and principles. While Scrum is mentioned, the content does not delve into the core values or principles of Agile methodologies, such as customer collaboration or responding to change. The discussion lacks depth regarding Agile's foundational beliefs, making it more of a service advertisement than a discussion on Agile values.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:08:44",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions Scrum in the context of training and consulting services, but the primary focus is on the author's availability and offerings rather than an in-depth exploration of Scrum principles or practices.",
     "level": "Tertiary"
   },
@@ -631,28 +577,31 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and consulting practices, which are related to empirical process control, but the primary focus is on availability for training and consulting rather than on empirical process control principles.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions Scrum and discusses consulting and training services related to Agile methodologies. However, it lacks a focused discussion on empirical process control principles such as transparency, inspection, and adaptation. The content primarily revolves around service offerings rather than an in-depth exploration of empirical process control concepts.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-14T23:12:02",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-14T23:12:03",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no clear focus on Azure Boards or its functionalities.",
     "level": "Ignored"
   },
@@ -667,10 +616,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-14T23:12:06",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a clear focus on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -694,21 +643,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses customer engagements and the importance of meeting customer needs, but it primarily focuses on the author's availability for consulting and training rather than exploring customer satisfaction principles or practices.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum in the context of training and consulting, but it does not primarily focus on scaling practices or frameworks for scaling Scrum.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's availability for consulting and training in Visual Studio ALM and Scrum, with only brief mentions of customer interactions and needs. While there are references to customer engagement and the importance of meeting customer needs, the discussion lacks depth on customer satisfaction principles and practices. The content does not explore measurement techniques or strategies for enhancing customer satisfaction, which are key topics in the category.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -728,15 +671,6 @@
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no focus on psychological safety or its related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and training related to agile methodologies, which are relevant to scaling agility, but the primary focus is on consulting and training services rather than on strategies for scaling agility across an organisation.",
-    "level": "Tertiary"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "calculated_at": "2025-02-14T23:12:20",
@@ -748,19 +682,19 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-14T23:12:22",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no focus on revenue per employee metrics or related financial efficiency discussions.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-14T23:12:23",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -775,64 +709,49 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-14T23:12:26",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:44",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses consulting and training in Scrum and Visual Studio ALM, highlighting practical experiences and strategies for engaging with customers, which aligns with pragmatic thinking. However, the primary focus is on availability and service offerings rather than in-depth problem-solving techniques.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation and management of a backlog in the context of consulting engagements, which relates to backlog refinement practices, but the primary focus is on consulting and training services rather than on backlog refinement itself.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the concept of a backlog in the context of consulting engagements, indicating some understanding of backlog management. However, it lacks a focused discussion on backlog refinement techniques, best practices, or the role of the Product Owner, which are critical to the category. The overall emphasis is more on consulting and training services rather than on the refinement process itself.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T23:12:35",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Scrum in the context of training and consulting, making it a significant but secondary theme.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and training related to Agile practices, but it primarily focuses on consulting and training services rather than on scaling Agile methodologies across multiple teams or at an enterprise level.",
-    "level": "Tertiary"
-  },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-14T23:12:38",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no focus on employee engagement strategies or practices.",
     "level": "Ignored"
   },
@@ -865,21 +784,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses consulting and training related to Scrum and Visual Studio ALM, which are relevant to working software, but the primary focus is on availability and service offerings rather than the delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's availability for consulting and training in Visual Studio ALM and Scrum, rather than discussing the delivery of functional software. While it mentions Scrum and training, it lacks a detailed exploration of working software principles, customer feedback integration, or iterative development practices. The discussion is more about personal availability and service offerings than about the characteristics or value of working software.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and backlog management in the context of consulting and training, making Agile Planning Tools a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions Scrum and Agile methodologies, but primarily focuses on consulting and training services rather than discussing Agile Planning Tools in detail. While there is a brief mention of backlog management in the context of consulting, the overall discussion lacks depth and does not explore the functionalities or benefits of specific Agile Planning Tools. Therefore, it aligns only marginally with the category.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -928,10 +853,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-14T23:12:57",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on hypothesis formulation or experimentation.",
     "level": "Ignored"
   },
@@ -964,28 +889,31 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of a backlog in the context of consulting engagements, where the customer acts as the Product Owner. However, the primary focus is on consulting and training services rather than the specific responsibilities and practices of a Product Owner.",
+    "final_score": 45.0,
+    "reasoning": "The content briefly mentions the role of the Product Owner in the context of backlog management during consulting engagements. However, the primary focus is on consulting and training services related to Visual Studio ALM and Scrum, rather than a detailed exploration of the Product Owner's responsibilities or practices. While there is some alignment with the category, the depth of discussion is limited, and the content does not primarily focus on the Product Owner role.",
     "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T23:13:04",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T23:13:05",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio ALM, TFS, and Scrum, with no clear focus on Azure Pipelines or related CI/CD practices.",
     "level": "Ignored"
   },
@@ -1000,28 +928,31 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-14T23:13:08",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, without a clear emphasis on change management strategies or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and consulting engagements, which are related to team dynamics and collaboration, but the primary focus is on personal availability and offering services rather than on enhancing team collaboration itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's availability for consulting and training in Visual Studio ALM and Scrum, with only brief mentions of Scrum principles. While it touches on aspects of team dynamics through the mention of backlogs and customer collaboration, it lacks a deep exploration of team collaboration techniques or the impact of shared ownership. The discussion is more about individual offerings rather than enhancing teamwork or communication within Agile frameworks.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-14T23:13:11",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio ALM, TFS, and Scrum, with no clear focus on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +965,7 @@
     "reasoning": "Content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, without a clear emphasis on digital transformation strategies or the integration of digital technologies for business enhancement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T23:13:13",
     "ai_confidence": 0,
@@ -1043,41 +974,38 @@
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on Minimum Viable Product concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T23:13:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:05:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses TFS 2013 Configuration & Administration, which relates to system configuration, but the primary focus is on consulting and training services rather than detailed system configuration practices.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with minimal direct discussion on system configuration. While there are mentions of TFS configuration, the overall emphasis is on project management and training rather than the technical aspects of configuring systems. The depth of discussion on system configuration is very limited, making it difficult to classify this content under the 'System Configuration' category.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-14T23:13:17",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses training and consulting in Scrum and Visual Studio ALM, which are relevant to technical leadership, but the primary focus is on availability and service offerings rather than on guiding teams or fostering collaboration.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the author's availability for consulting and training in Visual Studio ALM and Scrum, rather than discussing technical leadership principles or practices. While there are mentions of Scrum and training, the discussion lacks depth in exploring how to guide teams or implement agile methodologies effectively. The content does not provide substantial insights into mentoring, team dynamics, or continuous improvement, which are key aspects of technical leadership.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1090,20 +1018,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-14T23:13:22",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, without a clear discussion on cross-functional teams.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T23:13:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no focus on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no direct discussion or alignment with the principles of Test First Development. It lacks any mention of success criteria, testing practices, or the impact of Test First on collaboration, which are core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1126,39 +1057,42 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T09:08:44",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum and training related to Agile methodologies, which are relevant to large-scale agility, but the primary focus is on individual consulting and training services rather than on scaling Agile practices across an organisation.",
     "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T23:13:28",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-14T23:13:30",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on remote working practices or challenges.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training and consulting in Scrum and ALM, which relates to knowledge sharing and skill development, but it primarily focuses on service offerings rather than a deep exploration of Continuous Learning principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on offering consulting and training services related to Visual Studio ALM and Scrum, with limited discussion on Continuous Learning principles. While it mentions training and backlog management, it lacks a strong emphasis on growth mindset, knowledge sharing, or continuous improvement practices. The discussion is more transactional and promotional rather than exploratory of Continuous Learning concepts.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1180,12 +1114,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 65.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum in the context of training and consulting, indicating a secondary theme related to the Scrum Master role, but it primarily focuses on the author's availability and services rather than the responsibilities or practices of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content mentions Scrum in the context of training and consulting services, indicating a focus on Scrum-related expertise. However, it lacks a detailed discussion of the Scrum Master's specific role, responsibilities, and impact within a Scrum Team or organisation. While it aligns with the category by discussing Scrum courses and the importance of Scrum in consulting, it does not delve deeply into the nuances of the Scrum Master's role, which limits the overall depth of discussion.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1198,21 +1135,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-14T23:13:38",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on working agreements or team collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Visual Studio ALM, which are relevant to software development practices, but the primary focus is on consulting and training services rather than the role of software developers in Agile and DevOps contexts.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,19 +1153,19 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:44",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum and Agile methodologies, which are relevant to engineering practices, but the primary focus is on consulting and training services rather than the core principles of Agile engineering practices.",
     "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-14T23:13:43",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no clear focus on technical debt management or its implications.",
     "level": "Ignored"
   },
@@ -1252,12 +1180,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and its application in consulting and training, which relates to product management methodologies, but the primary focus is on personal availability and service offerings rather than strategic product management discussions.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, with limited direct discussion on product management principles. While it mentions the role of the Product Owner in backlog management, it lacks a broader strategic discussion on product management methodologies or frameworks. The depth of discussion is moderate, primarily detailing services offered rather than exploring product management concepts in detail.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -1270,28 +1201,34 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum in the context of training and consulting services, making it a significant but secondary theme compared to the overall focus on availability and service offerings.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum in the context of training and consulting services, which aligns with the Agile Frameworks category. However, the primary focus is on service offerings rather than a deep exploration of Agile principles or comparative analysis of frameworks. While Scrum is mentioned multiple times, the discussion lacks depth regarding its implementation or impact on organisational agility.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Agile methodologies in the context of training and consulting, making Agile a significant theme, but it primarily focuses on service offerings rather than strategic discussions.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, with some mention of Agile principles through the discussion of backlogs and customer collaboration. However, it lacks a strategic focus on Agile methodologies and does not delve into the broader themes of Agile strategy, such as organisational vision alignment or long-term success through Agile practices.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-14T23:13:52",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no clear focus on Azure Repos functionalities or practices.",
     "level": "Ignored"
   },
@@ -1306,10 +1243,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-14T23:13:54",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a focus on Lean principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1268,6 @@
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, without a clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T23:13:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio ALM, TFS, and Scrum, with no clear focus on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T23:13:59",
@@ -1351,10 +1279,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-14T23:14:00",
+    "calculated_at": "2025-04-10T15:54:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1369,11 +1297,116 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:10:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and its application in training and consulting, making it a major but secondary theme amidst other topics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on offering consulting and training services related to Visual Studio ALM, TFS, and Scrum. While it mentions Scrum, which is a framework that can facilitate collaboration and decision-making, the overall emphasis is on the services provided rather than a discussion of social technologies as defined in the category. The content lacks a deep exploration of self-organisation, collective intelligence, or transparency within teams, which are core themes of social technologies. Therefore, while there are relevant elements, they are not the primary focus.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:11:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Visual Studio ALM, TFS, and Scrum, with no focus on Internal Developer Platforms or their related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:11:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses consulting and training services related to Visual Studio ALM and Scrum, with no mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content explicitly mentions Scrum multiple times, particularly in the context of offering training and consulting services. It discusses the author's experience with Scrum courses and the role of the customer as a Product Owner in managing a backlog, which aligns with Scrum principles. However, the primary focus of the content is on the author's availability for work rather than an in-depth discussion of Scrum practices or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM and Scrum, with no explicit discussion of the Shift-Left Strategy or its principles. While there are mentions of backlog management and customer engagement, these do not align with the core themes of integrating testing, security, and compliance early in the software development lifecycle. The content lacks depth in discussing any Shift-Left practices or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on offering consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no explicit discussion on Continuous Improvement principles. While there are mentions of backlog management and customer engagement, these are not explored in the context of Continuous Improvement methodologies or practices. The content lacks depth and does not provide empirical evidence or strategies related to Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting consulting and training services related to Visual Studio ALM, TFS, and Scrum. While it mentions Scrum, it does not discuss the concept of Common Goals or their significance in Agile and DevOps frameworks. The content lacks a clear connection to shared objectives or alignment strategies, which are central to the Common Goals category. Therefore, the confidence score reflects minimal relevance to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on offering consulting and training services in Visual Studio ALM, TFS, and Scrum, which indirectly relates to competence through the provision of expertise and skill development. However, it lacks a direct discussion on the importance of continuous learning or the role of competence in delivering quality outcomes. The mention of training and consulting suggests a surface-level engagement with the concept of competence, but it does not delve into strategies for fostering a culture of competence or the impact of competence on decision-making. Overall, while competence is a theme, it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:27:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no explicit discussion of the One Engineering System framework or its principles. While it mentions Agile methodologies like Scrum, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on consulting and training services related to Visual Studio ALM, TFS, and Scrum, with no explicit discussion of Agentic Agility or its principles. While there are mentions of working with customers and adapting to their needs, these do not align with the core themes of intentionality, autonomy, or the transformative capacity of individuals and systems as defined in the category. The content lacks depth in discussing the interplay between human judgement and AI logic, and does not provide any case studies or examples illustrating Agentic Agility.",
+    "level": "Ignored"
   }
 }

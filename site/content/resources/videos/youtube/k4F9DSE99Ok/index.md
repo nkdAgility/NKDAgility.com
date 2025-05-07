@@ -2,29 +2,34 @@
 title: 'Combatting Famine in Agile: How to Foster Stakeholder Engagement and Boost Team Morale'
 description: Combat Agile famine by boosting stakeholder engagement! Discover strategies to enhance feedback and align your team with business goals for better outcomes.
 date: 2023-10-31T07:00:18Z
+weight: 665
 ResourceId: k4F9DSE99Ok
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: k4F9DSE99Ok
 url: /resources/videos/:slug
-slug: famine!-7-harbingers-agile-apocalypse-but-shorter!
+slug: combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
 layout: video
 aliases:
-- /resources/videos/k4F9DSE99Ok
-- /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/k4F9DSE99Ok
-aliasesFor404:
+- /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
+- /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
+- /resources/videos/famine-7-harbingers-agile-apocalypse-but-shorter
+aliasesArchive:
+- /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
 - /resources/videos/famine!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/famine-7-harbingers-agile-apocalypse-but-shorter
+- combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true
 tags:
-- People and Process
-- Agile Project Management
 - Agile Product Management
+- Software Development
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,12 +37,12 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-In the world of Agile, we often talk about the signs of an impending apocalypse, and one of the most critical indicators is famine. Now, before you picture a dystopian future, let’s unpack what this means in the context of Scrum and Agile practices.
+In the world of Agile, we often talk about the signs of an impending apocalypse, and one of the most critical indicators is famine. Now, before you picture a dystopian future, let’s unpack what this means in the context of [Scrum]({{< ref "/categories/scrum" >}}) and Agile practices.
 
-Famine, in our Agile framework, manifests as a significant lack of feedback. This isn’t just about the absence of comments on a product; it’s about a broader disengagement from stakeholders, including your product owner. When the business fails to engage, it creates a void that can be detrimental to the entire team’s morale and productivity.
+Famine, in our Agile framework, manifests as a significant lack of feedback. This isn’t just about the absence of comments on a product; it’s about a broader disengagement from stakeholders, including your [product owner]({{< ref "/tags/product-owner" >}}). When the business fails to engage, it creates a void that can be detrimental to the entire team’s morale and productivity.
 
 ### The Consequences of Famine
 
@@ -59,7 +64,7 @@ So, how do we combat this famine? Here are a few strategies that I’ve found ef
 
 - **Involve the Product Owner**: The product owner plays a crucial role in bridging the gap between the team and stakeholders. Ensure they are actively involved and communicating the needs and expectations of the business.
 
-- **Visualise Progress**: Use tools like Kanban boards or burndown charts to visually represent progress. This can help stakeholders see the value being delivered and encourage their involvement.
+- **Visualise Progress**: Use tools like [Kanban]({{< ref "/categories/kanban" >}}) boards or burndown charts to visually represent progress. This can help stakeholders see the value being delivered and encourage their involvement.
 
 ### The Importance of Engagement
 
@@ -67,4 +72,4 @@ Ultimately, the key takeaway here is that engagement is vital. If the business d
 
 I encourage you to reflect on your own experiences. Have you noticed signs of famine in your Agile practices? What steps can you take to ensure that feedback flows freely and that all parties remain engaged? 
 
-Thank you for taking the time to read this post. If you found it valuable, please like, follow, and subscribe. I always appreciate your comments, and if you’d like to discuss this topic further or anything else related to Agile, Scrum, or DevOps, feel free to book a coffee chat with me through Naked Agility. Let’s keep the conversation going!
+Thank you for taking the time to read this post. If you found it valuable, please like, follow, and subscribe. I always appreciate your comments, and if you’d like to discuss this topic further or anything else related to Agile, Scrum, or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee chat with me through Naked Agility. Let’s keep the conversation going!

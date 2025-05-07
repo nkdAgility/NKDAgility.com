@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T18:38:31",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to SQL Server and TFS backups, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:38:32",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for restoring TFS backups from SQL Enterprise to SQL Express, including specific SQL commands and troubleshooting steps, which aligns well with the category.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:38:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to restoring TFS backups in SQL Server, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:38:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to restoring TFS backups and SQL Server editions, without a clear focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:38:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details related to SQL Server and TFS backups without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:38:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses SQL Server backup restoration issues and does not relate to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for restoring TFS backups from SQL Enterprise to SQL Express, with no direct discussion of Evidence-Based Management principles or metrics. While it touches on the importance of understanding SQL Server features, it does not align with the core themes of EBM such as data-informed decision-making or value delivery. The content lacks depth in discussing any evidence-based practices or empirical decision-making.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:38:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the process of restoring TFS backups from SQL Enterprise to SQL Express, including specific SQL commands and troubleshooting steps related to installation and configuration issues.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:38:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed guide on restoring TFS backups from SQL Enterprise to SQL Express, which directly relates to installation and configuration processes. It discusses specific errors encountered during the restoration process, offers step-by-step instructions to resolve these issues, and includes SQL commands necessary for configuration adjustments. The focus is on practical, actionable insights that align well with the key topics of the category, such as troubleshooting installation issues and configuration best practices. The depth of discussion is significant, covering both the problem and the solution comprehensively.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses technical issues related to SQL Server and TFS backups without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:38:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical aspects of restoring TFS backups and SQL Server editions without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:38:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SQL Server backup and restore issues, which is not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on restoring TFS backups from SQL Server Enterprise to SQL Express, discussing specific SQL Server features and commands. While it touches on aspects of technology that could be relevant to a DevOps context, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The content lacks direct mentions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy. Therefore, it aligns very minimally with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to restoring TFS backups in SQL Server, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:38:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to SQL Server and TFS backups, with no mention of events, presentations, or discussions relevant to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:38:54",
@@ -161,21 +107,12 @@
     "reasoning": "Content primarily discusses issues related to restoring TFS backups and SQL Server editions, with no focus on flow efficiency principles or optimisation of work throughput.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:38:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to SQL Server and TFS backups, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-15T18:38:57",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to SQL Server editions and TFS backups, with no focus on enterprise agility principles or organisational adaptability.",
     "level": "Ignored"
   },
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:39:00",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical issues related to SQL Server editions and database management, which touches on engineering practices but is primarily focused on troubleshooting rather than broader technical excellence methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses a technical issue related to restoring TFS backups from SQL Server Enterprise to SQL Express, focusing on specific SQL commands and the implications of using enterprise features. While it touches on technical practices, such as database management and compression, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The depth of discussion is limited to a specific problem and solution without exploring the wider context of technical excellence.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,20 +193,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T18:39:09",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to SQL Server and TFS backups, with no focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:39:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to SQL Server and TFS backups, with no focus on products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -280,12 +211,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses restoring TFS backups, which is related to Azure DevOps, but primarily focuses on SQL Server issues rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses issues related to restoring TFS backups and SQL Server editions, which are tangentially related to Azure DevOps. While TFS (Team Foundation Server) is part of the Azure DevOps suite, the focus is more on SQL Server management rather than Azure DevOps functionalities or best practices. There are mentions of TFS, but the discussion lacks depth in Azure DevOps-specific practices, methodologies, or tools.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -305,7 +239,7 @@
     "reasoning": "Content primarily discusses technical issues related to SQL Server and TFS backups, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T18:39:19",
     "ai_confidence": 0,
@@ -316,11 +250,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:39:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SQL Server backup restoration issues and does not relate to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical aspects of restoring TFS backups from SQL Server Enterprise to SQL Express, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +269,13 @@
     "reasoning": "Content primarily discusses technical issues related to restoring TFS backups in SQL Server, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:39:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, without focusing on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:39:23",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to restoring TFS backups and SQL Server editions, which does not align with the core principles of Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:39:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to restoring TFS backups in SQL Server, with no mention of Scrum principles, roles, events, or practices.",
+    "reasoning": "Content primarily discusses issues related to restoring TFS backups and SQL Server editions, which does not align with the core principles of Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +289,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:37:27",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses SQL Server database restoration issues and does not relate to the Definition of Done in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups on different SQL Server editions, detailing SQL commands, error messages, and troubleshooting steps, which aligns with key topics of software craftsmanship and engineering practices.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups from SQL Enterprise to SQL Express, focusing on specific SQL Server features and commands. While it provides practical solutions and SQL commands, it lacks a broader discussion on software craftsmanship principles or best practices in software design and architecture. The depth of technical detail is moderate, but it does not fully align with the core themes of Technical Mastery, such as clean code principles or agile engineering practices.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +319,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to SQL Server database restoration, which does not pertain to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on restoring TFS backups from SQL Enterprise to SQL Express, discussing specific SQL Server features and errors. It does not address Continuous Delivery principles, practices, or benefits, nor does it mention automation, rapid feedback, or cultural aspects related to Continuous Delivery. The discussion is technical and specific to database management rather than software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,19 +358,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:37:27",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to restoring TFS backups on different editions of SQL Server, with no reference or relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T19:37:27",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical issues related to SQL Server database management, specifically restoring TFS backups, rather than discussing portfolio management topics.",
     "level": "Ignored"
   },
@@ -487,12 +412,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses practical steps and techniques related to SQL database management, specifically for restoring TFS backups and dealing with enterprise features, which aligns with operational practices but does not focus on Agile, DevOps, or Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it touches on the need to manage database features for successful operations, it lacks a broader focus on process optimisation or continuous improvement strategies. The depth of discussion is more technical than operational, leading to a low confidence score in the context of the specified category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -586,28 +514,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to restoring TFS backups in SQL Server, which involves software development practices, particularly around database management in context of TFS and SQL Server. It also covers altering database configuration and features relevant to development tools.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to restoring TFS backups and SQL Server editions, with no focus on Agile Project Management principles, methodologies, or frameworks.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups from SQL Server Enterprise to SQL Express, which is a specific software development task. It includes detailed instructions, SQL commands, and explanations of the limitations of different SQL Server editions, aligning well with software development practices. The depth of discussion is significant, providing practical solutions and insights into database management within the context of software development.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:37:27",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses SQL Server database management and does not mention Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +623,6 @@
     "reasoning": "Content heavily discusses technical details of restoring TFS backups and SQL Server features, without any mention of customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to restoring databases from SQL Server Enterprise to SQL Express, with no mention of Scrum principles, scaling practices, or related frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T19:37:27",
@@ -728,23 +641,17 @@
     "reasoning": "Content heavily discusses SQL Server backup and restore processes, without any mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to SQL Server editions and TFS backups, which is not relevant to scaling agility practices or strategies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical details regarding database management, specifically addressing issues with SQL Server editions and features. While this is relevant to engineering practice, the primary focus is not on broader engineering excellence principles but rather on a specific technical issue, hence it is a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses technical issues related to restoring TFS backups and SQL Server editions, which does not directly address the principles of software craftsmanship or best practices in coding standards. While it touches on aspects of technical debt and the implications of using enterprise features, it lacks a broader discussion on engineering excellence or continuous improvement in software development practices.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -784,11 +691,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical problem-solving strategies for restoring TFS backups in SQL Server, focusing on real-world applications and navigating complex issues with database features in a specific context. This reflects pragmatic thinking in dealing with practical software management challenges.",
+    "final_score": 72.0,
+    "reasoning": "The content provides practical solutions for restoring TFS backups from SQL Enterprise to SQL Express, addressing real-world issues encountered during the process. It discusses specific commands and SQL statements to resolve errors, demonstrating a pragmatic approach to problem-solving. However, while it touches on practical strategies, it lacks a broader discussion on Agile, Scrum, or DevOps frameworks, which limits its alignment with the core themes of the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +712,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:37:27",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical issues related to restoring backups in SQL Server and does not discuss innovation practices or frameworks.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about technical issues related to restoring TFS backups in SQL Server and does not discuss Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on SQL Server and TFS backup restoration issues, with no discussion of Agile practices or scaling Agile methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -955,10 +847,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T19:37:27",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses issues related to restoring TFS backups in SQL Server, with no focus on software release processes or practices. It discusses technical details specific to SQL Server and TFS, lacking relevance to the core principles of Release Management.",
     "level": "Ignored"
   },
@@ -1000,10 +892,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T19:37:27",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of SQL Server backups and restoration, with no focus on change management strategies or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +926,7 @@
     "reasoning": "Content is focused on SQL Server backup restoration issues and configurations, with no discussion of strategic adoption or integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:37:27",
     "ai_confidence": 0,
@@ -1043,23 +935,17 @@
     "reasoning": "Content focuses on database management and restoration processes in SQL Server, not discussing Minimum Viable Products or related concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses SQL Server TFS backups and database restoration issues, focusing on technicalities rather than AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the configuration aspects and troubleshooting of restoring TFS backups from SQL Server Enterprise to SQL Express, detailing the steps for modifying system configurations to ensure compatibility and successful restoration.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the technical aspects of restoring TFS backups from SQL Server Enterprise to SQL Express, focusing on configuration issues related to database features and compression. It provides detailed instructions on how to identify and remove enterprise features that are incompatible with SQL Express, which aligns well with the key topics of system configuration. The depth of discussion is significant, as it includes SQL commands and troubleshooting steps, demonstrating a thorough understanding of the configuration process. Overall, the content is highly relevant to the category of System Configuration.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,11 +985,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:37:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to restoring TFS backups in SQL Server environments, focusing on features of SQL Server editions, rather than test-driven development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses restoring TFS backups from SQL Enterprise to SQL Express, focusing on SQL Server features and troubleshooting errors. It does not mention Test First Development principles, success criteria, or testing practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1126,10 +1015,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T19:37:28",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of database management and restoration processes, with no focus on scaling Agile methodologies or related principles.",
     "level": "Ignored"
   },
@@ -1162,11 +1051,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:37:28",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily focuses on diagnosing and resolving specific issues related to restoring TFS backups from SQL Enterprise to SQL Express, including error messages and step-by-step solutions for correcting the problem.",
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses troubleshooting issues related to restoring TFS backups from SQL Enterprise to SQL Express, detailing the specific errors encountered and providing a systematic approach to resolving them. It includes direct mentions of the problem, the underlying causes, and step-by-step solutions, demonstrating a strong alignment with the core themes of troubleshooting. The depth of discussion is significant, as it covers SQL commands and the rationale behind the troubleshooting steps, making it a comprehensive guide for users facing similar issues.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1180,11 +1072,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:37:28",
+    "calculated_at": "2025-04-08T18:53:11",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses entirely on SQL Server backup and restoration processes, without any mention of Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on technical aspects of restoring TFS backups from SQL Server Enterprise to SQL Express, with no mention of Scrum, the role of a Scrum Master, or any related agile principles. It does not discuss responsibilities, skills, or the impact of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1098,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of restoring TFS backups and SQL Server features and does not address teamwork or collaboration norms.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:37:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to SQL Server and TFS backup restoration, which does not focus on the role of software developers within Agile or DevOps contexts. It does not address software development methodologies, practices, or collaboration among developers.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1252,10 +1138,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T19:37:28",
+    "calculated_at": "2025-04-10T15:55:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to SQL Server backups and restoration, which does not pertain to product management principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1217,6 @@
     "reasoning": "Content heavily discusses SQL Server management and technical errors, with no reference to accountability, ownership, or team dynamics in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:37:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about SQL Server database management and TFS backups, with no discussion on Kanban principles or scaling Kanban in organizations.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T19:37:28",
@@ -1369,11 +1246,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:17:27",
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of restoring TFS backups from SQL Enterprise to SQL Express, with no discussion of collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their principles, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to restoring TFS backups and SQL Server editions, without a clear focus on Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:19:13",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to SQL Server and TFS backups, with no mention of Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses SQL Server backup and restore processes, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to restoring TFS backups in SQL Server, with no direct mentions or discussions of Scrum principles, roles, events, or practices. It does not align with the core themes of Scrum, such as team dynamics or iterative progress, and lacks depth in any related discussions.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to restoring TFS backups from SQL Server Enterprise to SQL Express, focusing on database features and errors. It does not address the Shift-Left Strategy, which involves integrating testing, security, and compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles, techniques, or benefits, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for restoring TFS backups from SQL Enterprise to SQL Express, with no explicit discussion of Continuous Improvement principles. While it touches on troubleshooting and optimising setups, it lacks a commitment to incremental advancements or a culture of experimentation, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for restoring TFS backups from SQL Enterprise to SQL Express, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical instructions for restoring TFS backups and troubleshooting SQL Server issues. While it touches on the need for understanding SQL Server editions and their features, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The discussion lacks depth regarding continuous learning or skill development, which are key aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for restoring TFS backups from SQL Enterprise to SQL Express, with no explicit discussion of Agentic Agility or its principles. While it touches on problem-solving and adaptability in a technical context, it does not engage with the core themes of intentionality, agency, or the interplay between human and AI capabilities. Therefore, it aligns very minimally with the category.",
     "level": "Ignored"
   }
 }

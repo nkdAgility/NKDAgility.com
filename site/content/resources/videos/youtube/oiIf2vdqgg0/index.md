@@ -2,28 +2,29 @@
 title: What is a product vision?
 description: Discover the essence of a product vision in Scrum! Join Martin Hinshelwood as he explains its importance and how to create one for your team.
 date: 2023-05-29T14:00:36Z
+weight: 1000
 ResourceId: oiIf2vdqgg0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: oiIf2vdqgg0
 source: internal
 url: /resources/videos/:slug
-slug: what-is-a-product-vision
+slug: what-is-a-product-vision-oiIf2vdqgg0
 layout: video
 preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg
 duration: 41
 isShort: true
 aliases:
-- /resources/what-is-a-product-vision
-- /resources/videos/what-is-a-product-vision-
-- /resources/videos/oiIf2vdqgg0
-- /resources/what-is-a-product-vision-
 - /resources/oiIf2vdqgg0
-aliasesFor404:
+- /resources/videos/what-is-a-product-vision-oiIf2vdqgg0
+aliasesArchive:
+- /resources/videos/what-is-a-product-vision
 - /resources/what-is-a-product-vision
 - /resources/videos/what-is-a-product-vision-
 - /resources/what-is-a-product-vision-
+- what-is-a-product-vision-oiIf2vdqgg0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,7 +33,7 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
+- Product Development
 
 ---
 ## It's All About Direction
@@ -69,7 +70,7 @@ It paints a picture of the desired end state that will inspire your team, stakeh
 
 To put it in simpler terms, a product vision is your beacon, guiding you through the development process.  It's not about the nitty-gritty details of every sprint or even the specifics of the product goal.  It's about the big picture, the direction you steer your product.
 
-Want to delve deeper into Agile and Scrum?
+Want to delve deeper into Agile and [Scrum]({{< ref "/categories/scrum" >}})?
 
 I invite you to join my Agile and Scrum courses, where we explore these concepts and much more.
 

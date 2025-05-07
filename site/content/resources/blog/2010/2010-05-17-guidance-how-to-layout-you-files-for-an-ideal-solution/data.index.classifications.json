@@ -1,21 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses branching strategies and version control in the context of Scrum, which is a significant aspect of Agile methodologies, but it primarily focuses on technical implementation rather than broader Agile product management principles.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:37:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for structuring projects and version control in Team Foundation Server, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and discusses branching strategies, which are relevant to Agile practices. However, it primarily focuses on technical aspects of version control and project structure rather than the broader themes of Agile Product Management, such as stakeholder engagement or product vision alignment.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:37:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses file layout and version control practices, with no clear focus on Evidence-Based Management principles or empirical data application.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses file layout and version control practices, which are related to code organisation and maintainability, but it primarily focuses on project management aspects rather than a deep exploration of code quality and complexity.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:37:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on project structure and version control practices without discussing learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:37:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses version control structures and branching strategies in software development, with no clear focus on AI or automation within Agile frameworks.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with references to Scrum but lacks any discussion on evidence-based management principles or metrics. It does not provide empirical evidence or data-informed decision-making insights, which are central to the Evidence-Based Management category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses folder structure and version control setup, which are related to configuration practices, but it primarily focuses on project management and branching strategies rather than direct installation or configuration instructions.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:37:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses file layout and version control practices without addressing transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the setup of a version control structure and best practices for organising projects within Team Foundation Server (TFS). It provides specific instructions on naming conventions and folder structures, which aligns with installation and configuration processes. However, it lacks detailed step-by-step installation procedures or troubleshooting guidance, which limits its depth in the category.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +71,17 @@
     "reasoning": "Content primarily focuses on technical aspects of file layout and version control in software development, with minimal consideration of organisational structures or team dynamics.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:37:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses file layout and version control strategies without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses version control structures and automated builds, which are relevant to DevOps practices, but the primary focus is on project management and branching strategies rather than a comprehensive discussion of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices within Team Foundation Server (TFS), which are more aligned with software development and project management than with the core principles of DevOps. While there are mentions of automated builds and branching strategies, these are presented in a context that lacks a broader discussion on collaboration, shared accountability, or cultural shifts that are central to DevOps. The depth of discussion is limited to technical practices without addressing the philosophical aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses file layout and version control strategies in software development, with no clear focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:37:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses file layout and version control strategies, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:37:31",
@@ -160,15 +109,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses file layout and version control structure rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses branching strategies and project structure in the context of Scrum teams, indicating a secondary theme related to team processes and collaboration.",
-    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:37:41",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses file layout and version control practices without focusing on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,11 +148,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T00:37:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses best practices for structuring projects and version control in a software development context, which aligns with technical excellence principles such as maintainability, automated builds, and branching strategies.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the organisation of files and branching strategies within a version control system, which relates to technical practices that can enhance maintainability and efficiency in software development. However, it lacks a direct focus on broader engineering methodologies like TDD or CI/CD, and while it touches on best practices, it does not delve deeply into the principles of technical excellence. The primary focus is on file structure rather than the overarching engineering practices that define technical excellence.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,11 +178,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T00:37:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the structure and management of software projects, including version control, branching strategies, and deployment processes, which are central to effective product delivery.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the structure and management of software projects, particularly in relation to version control and branching strategies, which are essential for effective product delivery. It mentions the importance of maintaining a clear folder structure and the role of branches in development and release processes. However, while it touches on aspects of product delivery, such as deployment and release management, it lacks a comprehensive exploration of methodologies like Agile or CI/CD practices, which are central to the category.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -260,15 +206,6 @@
     "reasoning": "Content primarily discusses project structure and version control practices, with a focus on Scrum and branching strategies, rather than Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:37:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses file layout and version control practices rather than specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T00:37:53",
@@ -280,12 +217,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and version control structures, which are related to Azure DevOps, but the primary focus is on general project management and branching strategies rather than Azure DevOps functionalities specifically.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses practices related to version control and project structure in Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it primarily focuses on general project management and branching strategies without delving deeply into Azure DevOps-specific functionalities or methodologies. The mention of TFS indicates a connection to Azure DevOps, but the overall discussion lacks depth and does not cover key Azure DevOps services or best practices extensively.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -305,22 +245,25 @@
     "reasoning": "Content primarily focuses on file organisation and version control strategies within software development, with no clear discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:37:58",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses file layout and version control practices, with a focus on Team Foundation Server and Scrum, rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:37:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:55:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses file structure and version control practices in Team Foundation Server, with a focus on branching strategies for Scrum teams, rather than the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices within Team Foundation Server (TFS), with only brief mentions of Scrum and branching strategies. It lacks a comprehensive discussion on the Agile Product Operating Model principles, such as transitioning to a product ethos or continuous delivery. The content does not delve into the core themes of APOM, making it only tangentially related.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,77 +275,68 @@
     "reasoning": "Content primarily focuses on file structure and version control practices rather than organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:38:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical guidance for structuring files and version control in software development, lacking a clear emphasis on news or reviews related to Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:38:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the structure and management of projects within a version control system, which aligns with the principles of Application Lifecycle Management, particularly in the context of development, deployment, and maintenance stages.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses aspects of application lifecycle management, particularly in the context of version control and branching strategies. It mentions stages of development and deployment, which align with ALM principles. However, the focus is more on practical implementation details rather than a comprehensive discussion of ALM methodologies or tools, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses branching strategies for Scrum teams and mentions Scrum in the context of version control and project management, but it is primarily focused on file layout and version control practices.",
-    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on file organization and version control in software development, with only brief mentions of Scrum, which do not centralize the discussion on Daily Scrum.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses project structure and version control rather than the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses best practices for organizing project files and maintaining a clean version control structure, which aligns with principles of software craftsmanship.",
+    "reasoning": "The content provides a detailed discussion on structuring solutions and version control in software development, which aligns well with best practices in software design and architecture. It discusses the importance of maintainability, naming conventions, and the organisation of project files, which are all relevant to software craftsmanship. However, while it touches on these topics, it does not delve deeply into broader principles of clean code or testing methodologies, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details and project management practices unrelated to product discovery.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching strategies and version control, which are relevant to Continuous Delivery practices, but the focus is more on general project organization and Team Foundation Server usage rather than Continuous Delivery specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices within Team Foundation Server (TFS), which are related to software development but do not explicitly address Continuous Delivery principles. While there are mentions of automated builds and branching strategies that could support Continuous Delivery, the overall discussion lacks a direct focus on the core themes of Continuous Delivery, such as rapid feedback, incremental improvements, or cultural aspects. The depth of discussion on relevant topics is limited, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -415,10 +349,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on file structure and version control practices, with no clear discussion of Lead Time as defined in the category.",
     "level": "Ignored"
   },
@@ -433,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses file organization and branching strategies in version control, with no relevant details about the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -451,21 +385,24 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on version control structure, branching strategies, and project organization rather than discussing Product Backlog concepts or practices in Agile frameworks.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching strategies and solution layout related to Scrum teams, indicating that Agile concepts are present. However, it primarily focuses on technical implementation rather than Agile Planning principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses aspects of project structure and version control, which are tangentially related to Agile Planning, particularly in the context of Scrum. However, it lacks a direct focus on Agile Planning principles, methodologies, or practices. The mention of Scrum is brief and does not delve into Agile Planning techniques or strategies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -487,20 +424,26 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily focuses on setting up version control structures and best practices for managing source code, which aligns with operational efficiency strategies within Agile frameworks. However, it briefly touches on Scrum without a deep focus, making it a secondary theme.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses various aspects of structuring projects and version control in a way that aligns with operational practices, particularly in the context of Agile and Scrum methodologies. It provides practical guidance on maintaining a clean and efficient project structure, which is essential for operational efficiency. However, while it touches on relevant topics, the depth of discussion on broader operational strategies and metrics is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses a branching strategy for Scrum Teams, mentioning the specifics of setting up project structures and version control, which is relevant to Scrum Team dynamics.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Scrum in the context of branching strategies for Scrum Teams, but it primarily focuses on file structure and version control practices rather than the dynamics, roles, or collaboration within a Scrum Team. While there are references to Scrum, they are not the primary focus of the content, which limits the depth of discussion on Scrum Team dynamics.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
@@ -514,30 +457,36 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses guidelines and best practices for organizing projects and solutions in a way that may align with strategic approach in Agile environments, but does not primarily focus on strategic planning or execution.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses aspects of project structure and branching strategies within a Scrum context, but it lacks a comprehensive focus on strategic alignment or the development of strategic approaches. While it mentions Scrum and provides some guidance on project management, it does not delve deeply into strategic planning or execution, which are core themes of the Strategy category.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project file organization and version control practices, with no focus on validating product ideas through user feedback or engagement.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses best practices related to structuring files and branching strategies in the context of Scrum, which is relevant but not the primary focus on Agile Transformation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and discusses branching strategies, which are related to Agile practices. However, it primarily focuses on version control and project structure rather than the broader themes of Agile transformation, such as mindset shifts, leadership roles, or change management strategies. The discussion lacks depth in Agile principles and does not provide a comprehensive view of Agile transformation.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -550,19 +499,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content briefly discusses automated builds and mentions requirements for test projects using MSTest, indicating that automated testing is a significant aspect, but the primary focus is on project structure and version control.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses branching strategies and organization of projects relevant to Scrum teams, suggesting a focus on improving team collaboration and workflow, but it primarily targets technical implementation rather than team dynamics or performance explicitly.",
     "level": "Tertiary"
   },
@@ -577,73 +526,76 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses file structuring and version control in the context of team projects, with no clear mention or discussion of Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 78.0,
-    "reasoning": "The content provides detailed guidance on organizing files and version control for software development projects in Team Foundation Server, which aligns closely with best practices in software development methodologies and version control systems.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 79,
-    "non_ai_confidence": 10,
-    "final_score": 72.0,
-    "reasoning": "The content includes discussions about Scrum roles, branching strategies in Scrum, and mentions how multiple Scrum teams work on a single product, making agile principles a significant theme.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed discussion on structuring files and version control in a software development context, specifically within Team Foundation Server (TFS). It covers best practices for maintaining a solution, including naming conventions, branching strategies, and the importance of a well-organised folder structure. The references to Scrum and automated builds further align the content with key software development methodologies and practices, demonstrating a strong focus on the software development lifecycle.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on structuring version control and branching strategies in Team Foundation Server, with a heavy emphasis on Scrum frameworks, rather than on Agile values and principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a branching strategy for Scrum teams and has relevance to Scrum practices, but the primary focus is on file organization and version control rather than a comprehensive exploration of Scrum principles or roles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of branching strategies for Scrum teams, but it primarily focuses on file structure and version control practices rather than in-depth discussions of Scrum principles, roles, or events. The alignment with core Scrum themes is minimal, and the depth of discussion does not provide substantial insights into Scrum practices.",
+    "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses best practices and strategies for organizing version control in Team Foundation Server, including branching strategies and folder structures which are relevant to modern source control practices.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses version control practices, particularly in the context of Team Foundation Server (TFS) and branching strategies. It provides detailed guidance on structuring projects, implementing version control, and managing branches, which aligns well with the core themes of modern source control. The depth of discussion is significant, covering various aspects of version control, including folder structures, naming conventions, and the importance of maintaining a clean history. However, while it is focused on version control, some parts touch on broader project management concepts, which slightly detracts from its alignment with the category.",
+    "level": "Primary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:57:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices relevant to Scrum teams, particularly related to branching strategies and version control. While these aspects are associated with Agile methodology, the focus is more on file organization and structure rather than the principles of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on file structure and version control practices within a software development context, with only brief mentions of Scrum and branching strategies. It lacks a thorough discussion on empirical process control principles such as transparency, inspection, and adaptation, which are central to the category. The content does not provide case studies or detailed insights into the Agile philosophy, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on file structure and version control best practices, with only a brief mention of Scrum in relation to branching strategies, but lacks a central discussion on Scrum Values.",
     "level": "Ignored"
   },
@@ -685,11 +637,14 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses version control structure and branching strategies that can facilitate frequent releases, but the primary focus is on setting up a solution and organization rather than on frequent release practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses aspects of version control and branching strategies, which are relevant to the release process. However, it does not explicitly focus on frequent releases or continuous delivery principles. While there are mentions of stabilising release branches and managing code for production, the overall emphasis is more on project structure and version control rather than the continuous and incremental delivery of software updates.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -701,21 +656,12 @@
     "reasoning": "Content primarily focuses on version control structures and development practices without addressing customer satisfaction principles or measurement.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how to manage version control and project structure in relation to Scrum teams, suggesting it is a relevant but not primary theme.",
-    "level": "Tertiary"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses project structure and version control without any reference to evidence-based leadership principles or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -728,22 +674,16 @@
     "reasoning": "Content heavily discusses technical aspects of software project organization and version control, with no mention of psychological safety or related concepts.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses file organization and version control processes with respect to Scrum teams, but does not address strategies or frameworks for scaling agility across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses best practices in setting up version control and project structure, which relates to software craftsmanship and development practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses best practices for structuring solutions and version control in software development, which aligns with the principles of software craftsmanship and quality assurance. However, it lacks a broader discussion on continuous improvement or metrics for assessing engineering performance, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -757,10 +697,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on file organization and version control strategies, with an emphasis on Scrum practices and branching strategies, rather than discussing asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -784,11 +724,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content provides practical guidance on organizing files and managing projects within a Scrum and DevOps context, emphasizing real-world applications and strategies for maintaining structure in development workflows.",
+    "reasoning": "The content discusses practical strategies for structuring projects and version control in a Scrum context, which aligns with pragmatic thinking. However, while it touches on Agile and Scrum principles, the focus is more on specific implementation details rather than broader problem-solving strategies or adaptability in complex environments. The depth of discussion is moderate, providing some insights but lacking comprehensive case studies or evidence-based practices.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,30 +745,12 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on project organization and source control practices, not on innovation capabilities or evidence-based management.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses branching strategies relevant to Scrum teams, indicating a focus on Scrum principles in the context of product development, but the primary topic is about version control structure rather than core Scrum practices.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions concepts related to Scrum and branching strategies in the context of managing multiple projects, which is relevant to scaling Agile practices, but it does not primarily focus on scaled Agile frameworks or methodologies.",
-    "level": "Tertiary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -847,12 +772,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses setting up a solution for automated builds using Team Foundation Build, which is related to test automation practices, but it primarily focuses on project organization rather than core test automation principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses project structure and version control practices, with a brief mention of automated builds using Team Foundation Build. However, it lacks a focused discussion on test automation principles, frameworks, or best practices, which are essential for the category. The primary focus is on project management and branching strategies rather than on automating testing processes.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -865,12 +793,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses file organization and version control strategies within a development context and touches on best practices relevant to Scrum, but the primary focus is not explicitly on delivering functional, operational software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the structure and management of software projects, particularly in relation to version control and branching strategies, which are relevant to working software. However, it lacks a direct focus on the delivery of functional software or customer feedback mechanisms, which are key aspects of the 'Working Software' category. The discussion is more about project organisation than about ensuring software quality or meeting user needs.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -883,11 +814,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses project structure, version control, and automated builds, which are relevant to continuous integration practices, but it primarily focuses on project management and branching strategies in TFS rather than CI itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses aspects of project structure and version control that are relevant to Continuous Integration, such as automated builds and branching strategies. However, it lacks a direct focus on CI principles, best practices, or tools specifically designed for CI. The discussion is more about project management and version control rather than a thorough exploration of Continuous Integration as a practice.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -928,10 +862,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses file structuring and version control in software projects, with a focus on Scrum practices, without any clear reference to hypothesis formulation or experimentation processes.",
     "level": "Ignored"
   },
@@ -955,46 +889,52 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses version control and the structure of project folders relevant to software releases, emphasizing branching strategies, release branches, and maintaining production code, which aligns closely with release management practices.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses various aspects of structuring projects and version control, which are relevant to release management. It mentions the creation of release branches, the importance of stabilisation prior to deployment, and the management of bug fixes in relation to releases. However, the primary focus is on project structure and branching strategies rather than a comprehensive discussion on release management practices. Therefore, while it aligns with the category, it does not do so with sufficient depth or direct mention to warrant a higher confidence score.",
     "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details and version control structure, with only a brief mention of Scrum teams, which does not align with the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about structuring projects and version control, with no clear discussion or focus on Cycle Time.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses setting up automated builds using Team Foundation Build, but the main focus is on structuring projects and version control rather than Azure Pipelines specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses version control structures and branching strategies within Team Foundation Server (TFS), which is related to Azure DevOps but does not explicitly focus on Azure Pipelines. While it mentions automated builds, it lacks detailed discussion on CI/CD practices, pipeline configurations, or deployment strategies specific to Azure Pipelines. The primary focus is on project organisation and version control rather than the automation of software development processes.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses file organization and version control strategies, without a clear focus on deployment frequency optimization.",
     "level": "Ignored"
   },
@@ -1009,19 +949,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the organization and management of team projects in the context of Scrum and TFS, which touches on team processes and structure, but it primarily focuses on technical implementation details rather than enhancing team collaboration dynamics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on technical guidance for structuring projects and version control in a development environment, with some references to Scrum and team projects. However, it lacks a strong emphasis on team dynamics, communication, or collaboration strategies, which are central to the 'Team Collaboration' category. The discussion is more about individual project setup rather than enhancing teamwork or shared ownership.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses version control structures and branching strategies, with emphasis on software project management rather than Behaviour Driven Development principles.",
     "level": "Ignored"
   },
@@ -1034,7 +977,7 @@
     "reasoning": "Content discusses file organization and version control practices without a clear focus on the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:54:29",
     "ai_confidence": 0,
@@ -1043,41 +986,35 @@
     "reasoning": "Content primarily discusses project structure and version control in Team Foundation Server, with no focus on Minimum Viable Product concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on project structure, version control, and software development practices without any mention of AI integration or applications.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:17",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses structuring files and projects under Team Foundation Server (TFS) which relates to configuration practices in a development environment, but it primarily focuses on project management and organization rather than broader system configuration principles.",
     "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of file organization and version control in software development, without discussing product vision, market analysis, or customer needs.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of project organization and version control in the context of multiple Scrum teams, indicating a managerial role in technical environments, but it is primarily focused on technical implementation rather than leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on file structure and version control practices within a development environment, with some references to Scrum and branching strategies. However, it lacks a strong emphasis on the principles of technical leadership, such as mentoring, team dynamics, or agile methodologies. While it touches on relevant topics, they are not the primary focus, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1099,28 +1036,34 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on structuring and organizing files and projects in Team Foundation Server without discussing Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with no explicit discussion of Test First Development principles or practices. While it mentions automated builds, it does not connect this to Test First methodologies like TDD or ATDD, nor does it discuss success criteria or testing practices in detail.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:56:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses best practices for structuring solutions in Team Foundation Server (TFS) and mentions Visual Studio, which operates in the Windows environment. However, the primary focus of the content is more on project management and version control principles than on Windows OS itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses project management and version control strategies within Team Foundation Server (TFS) and Visual Studio, which are tools that can be used in a Windows environment. However, it does not focus on the Windows operating system itself, such as installation, configuration, or troubleshooting. The references to Windows are indirect and primarily contextual, lacking a direct discussion of Windows features or functionalities.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses file structure and version control practices rather than deployment strategies specific to software release methodologies.",
     "level": "Ignored"
   },
@@ -1135,19 +1078,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details related to setting up project structures and version control strategies, without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on version control structure and branching strategies in software development within SCRUM, with no discussion of remote work practices or challenges.",
     "level": "Ignored"
   },
@@ -1180,12 +1123,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum in the context of branching strategies, but it primarily focuses on technical implementation details rather than the role and responsibilities of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of branching strategies for Scrum Teams, but it primarily focuses on file layout and version control practices in TFS. The discussion lacks depth regarding the role and responsibilities of a Scrum Master, and does not explore the core themes of the category, such as coaching, mentoring, or facilitating within a Scrum context.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1198,21 +1144,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses file organization and version control strategies in a Scrum context, without directly addressing working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses folder layout for version control and branching strategies, which are relevant topics for software developers working within Agile and Scrum frameworks.",
-    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,11 +1162,14 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses version control structures, folder layouts, and automated builds, which relate to software engineering practices, but it primarily focuses on project setup and structuring rather than core Agile principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses best practices for structuring projects and version control, which aligns with engineering practices. It mentions aspects of automation in builds and the importance of maintaining a clean project structure, which are relevant to Agile methodologies. However, the focus is more on project management and version control rather than core engineering practices like TDD or CI/CD, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Technical Debt": {
@@ -1243,19 +1183,19 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on solution layout and version control practices rather than on Sprint Reviews or their processes.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical implementation details and practices related to version control and branching strategies in Scrum, rather than strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1270,30 +1210,36 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on Agile frameworks, specifically Scrum, and discusses practices related to team project structures and branching strategies within an Agile context, but the primary focus is on technical implementation details rather than a comprehensive exploration of Agile principles or frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Scrum in the context of branching strategies but primarily focuses on file structure and version control practices. While it touches on Agile concepts, it lacks a comprehensive exploration of Agile frameworks or their principles, making it a secondary discussion rather than a primary focus.",
     "level": "Tertiary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical details related to version control and project structure in software development, rather than discussing Agile strategy or methodologies.",
     "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of version control structure and branching strategies that relate to Team Foundation Server (TFS), which is connected to Azure Repos but primarily focuses on broader concepts without a direct emphasis on Azure Repos functionality.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses version control structures and branching strategies, which are relevant to Azure Repos. However, it primarily focuses on Team Foundation Server (TFS) without explicitly linking to Azure Repos functionalities. While it touches on best practices for source control, the depth of discussion is more about TFS than Azure Repos specifically, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1306,10 +1252,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on file layout and version control in software development, with an emphasis on Scrum and Team Foundation Server, rather than Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -1331,15 +1277,6 @@
     "reasoning": "Content primarily discusses file structure and version control in software development, with little to no emphasis on accountability or team ownership principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:54:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses version control and branching strategies in the context of Scrum and Team Foundation Server, with no clear focus on Scaling Kanban principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:54:29",
@@ -1351,21 +1288,24 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T00:54:29",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses solution layout and version control practices rather than TDD principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:59:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses branching strategies and version control in the context of Scrum teams, making Scrum a significant theme, but it is primarily focused on file layout and project structure.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of file layout and version control in TFS, with minimal reference to collaboration or decision-making frameworks. While it mentions Scrum in passing, it does not delve into the social technologies that enhance team dynamics or collective intelligence, which are central to the category. The discussion lacks depth in addressing the principles of self-organisation, adaptability, or continuous improvement, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1374,6 +1314,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to file structure and version control in software development, with no clear focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:31:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses file layout and version control practices in Team Foundation Server, with a focus on Scrum methodologies, rather than the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:31:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses file organisation and version control in software development, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 67.0,
+    "reasoning": "The content briefly mentions Scrum in the context of branching strategies for Scrum teams, indicating some relevance to Scrum practices. However, the primary focus is on file structure and version control rather than a detailed discussion of Scrum principles, roles, or events. The depth of discussion on Scrum is moderate, as it touches on the implications of having multiple Scrum teams but lacks comprehensive coverage of Scrum's core themes.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:33:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on file organisation and version control practices within a software development context, without explicitly discussing the Shift-Left Strategy. While it touches on aspects of development processes, such as branching and release management, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with only brief mentions of maintaining solutions and improving workflows. While there are elements of process improvement, the discussion lacks a strong emphasis on Continuous Improvement principles, such as empirical evidence, culture of experimentation, or strategic business agility.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with only brief mentions of Scrum and branching strategies. It lacks a clear discussion on aligning team efforts with overarching strategic objectives, which is essential for the Common Goals category. The depth of discussion is more technical and procedural rather than strategic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, which are technical aspects of software development. While it touches on maintaining a structured approach that could imply a level of competence, it does not explicitly discuss continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The depth of discussion is limited to practical guidance without exploring the underlying principles of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on file layout and version control practices in TFS, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of project management and development workflows, it does not engage with the intentional shaping of outcomes or the distinction between human and AI capabilities in agility. The content lacks depth in discussing the transformative capacity of individuals or systems, which is central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

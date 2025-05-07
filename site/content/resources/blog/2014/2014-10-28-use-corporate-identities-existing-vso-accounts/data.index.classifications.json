@@ -8,58 +8,28 @@
     "reasoning": "The content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T00:04:07",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of configuring Active Directory Federated Services (ADFS) for seamless integration with Visual Studio Online (VSO) and Azure, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Visual Studio Online (VSO) with Azure Active Directory and the configuration of Active Directory Federated Services (ADFS), which relates to internal developer platforms and enhancing developer productivity. However, the primary focus is on account management and authentication issues rather than broader platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the integration of Active Directory with Visual Studio Online (VSO) and Azure, focusing on authentication and account management. While it touches on aspects of developer productivity and internal systems, it lacks a direct focus on the principles of Platform Engineering, such as the design and construction of Internal Developer Platforms (IDPs). The discussion is more about user account management rather than enhancing developer efficiency or optimising the application lifecycle, which are core themes of Platform Engineering.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T00:04:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T00:04:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses account configuration and integration with Azure and Visual Studio Online, with no focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T00:04:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to configuring Active Directory and Visual Studio Online, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T00:04:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management, with no clear focus on AI or automation within Agile frameworks.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring ADFS for SSO with VSO accounts, which does not directly relate to Evidence-Based Management principles. While it discusses technical aspects of account management and integration, it lacks explicit references to data-informed decision-making, metrics, or the core themes of EBM. The discussion is more operational and technical rather than strategic or evidence-based.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T00:04:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration of Active Directory Federated Services (ADFS) and linking Visual Studio Online (VSO) accounts to Azure, providing detailed steps and warnings related to installation and configuration processes.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T00:04:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical configuration of Active Directory and Visual Studio Online accounts, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed guide on configuring Active Directory Federated Services (ADFS) to enable seamless Single-Sign-On (SSO) for Visual Studio Online (VSO) accounts. It includes step-by-step instructions, warnings, and notes about potential issues, which align closely with the key topics of installation and configuration. The primary focus is on the technical aspects of linking accounts and ensuring continuity during the migration process, demonstrating a strong alignment with the category's purpose.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +71,17 @@
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T00:04:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical configurations for Active Directory and Visual Studio Online, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Active Directory with Visual Studio Online and Azure, which relates to DevOps practices, particularly in terms of user management and authentication in a cloud environment. However, the primary focus is on account management rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on configuring Active Directory Federated Services (ADFS) for Single Sign-On (SSO) with Visual Studio Online (VSO) and Azure, which is more about identity management and authentication rather than the broader principles of DevOps. While it touches on aspects of integration and collaboration, it lacks a comprehensive discussion on the core themes of DevOps such as automation, shared accountability, or continuous improvement. The mention of linking accounts and ensuring continuity is relevant but does not delve into the cultural or philosophical aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses technical configurations and account management for Active Directory and Visual Studio Online, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T00:04:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical configuration and account management for Azure and Visual Studio Online, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T00:04:35",
@@ -159,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Active Directory and managing user identities, with no focus on optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T00:04:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with minimal focus on human behaviour or team processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T00:04:41",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -226,10 +166,10 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-15T00:04:46",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
@@ -260,15 +200,6 @@
     "reasoning": "Content primarily discusses Active Directory integration and account management, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T00:04:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical configuration and integration of Active Directory with Visual Studio Online, with no focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T00:04:53",
@@ -280,19 +211,22 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T00:04:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the integration of Visual Studio Online (VSO) with Azure Active Directory, detailing the steps for linking accounts and managing user identities, which aligns closely with Azure DevOps functionalities.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the integration of Visual Studio Online (VSO) with Azure Active Directory, which is a key aspect of Azure DevOps. It provides detailed instructions on configuring accounts, linking VSO to Azure, and managing user identities, all of which are relevant to Azure DevOps functionalities. The discussion is focused on practical implementation and best practices, aligning well with the core themes of Azure DevOps. However, while it is detailed, it does not cover broader Azure DevOps services or methodologies extensively, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-15T00:04:55",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configurations and processes related to Active Directory and Visual Studio Online, lacking personal reflections or experiences.",
     "level": "Ignored"
   },
@@ -305,40 +239,25 @@
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T00:04:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, which does not align with the core principles of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T00:05:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring Active Directory and Single Sign-On (SSO) for Visual Studio Online (VSO) and Azure, with no direct mention or discussion of the Agile Product Operating Model or its principles. It does not align with the core themes of APOM, such as product management practices or agile methodologies, and lacks depth in discussing any relevant agile concepts.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-15T00:05:01",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on organisational agility principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T00:05:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical configuration and troubleshooting related to Active Directory and Visual Studio Online, lacking a focus on industry news or reviews.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -348,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, which is not directly related to the management of the application lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T00:05:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Active Directory, Visual Studio Online, and authentication issues, with no clear focus on Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +280,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T00:05:17",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of Active Directory and linking accounts, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -397,11 +307,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T00:05:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management for Visual Studio Online, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses configuring Active Directory and Single Sign-On (SSO) for Visual Studio Online (VSO) and Azure, which does not directly relate to Continuous Delivery principles or practices. While there are mentions of continuity and integration, these are more about user authentication and account management rather than the core themes of Continuous Delivery such as automation, rapid feedback, or software quality. The discussion lacks depth in Continuous Delivery concepts and does not provide relevant strategies or case studies related to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,28 +328,28 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T00:05:24",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Active Directory integration and account management, with no focus on Lead Time or its related metrics.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-15T00:05:26",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no focus on organisational culture or its impact on agility or team dynamics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T00:05:27",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, with no focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -478,21 +391,21 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T00:05:34",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configuration of Active Directory and Visual Studio Online accounts, with no focus on customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:46",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses the configuration of Active Directory and linking accounts, which is more focused on technical setup rather than operational efficiency or practices within Agile, DevOps, or Lean frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -586,28 +499,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses linking Visual Studio Online (VSO) accounts with Azure and Active Directory, which relates to software development practices, particularly in the context of user management and integration within development environments. However, the primary focus is on account management rather than broader software development methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T00:05:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management, with no focus on Agile methodologies or project management principles.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the integration of Visual Studio Online (VSO) with Azure Active Directory, which is relevant to software development practices, particularly in the context of managing user identities and access in software projects. It provides practical steps for linking accounts and ensuring continuity, which aligns with best practices in collaborative development and version control. However, the focus is more on account management and less on broader software development methodologies or coding practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T00:05:54",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +529,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T00:05:56",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Active Directory integration and Single-Sign-On issues, with no clear focus on version control practices or methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T00:05:58",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no focus on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -649,10 +556,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T00:06:02",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Active Directory integration and account management for Visual Studio Online (VSO), with no focus on Azure Boards or Agile project management functionalities.",
     "level": "Ignored"
   },
@@ -667,10 +574,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T00:06:05",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -694,20 +601,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T00:06:09",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to Active Directory and Visual Studio Online, without any focus on customer satisfaction or experience.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T00:06:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management, with no clear relevance to Scaling Scrum principles or practices.",
+    "reasoning": "Content primarily discusses technical implementation details related to Active Directory and Visual Studio Online, without any focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -726,15 +624,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no mention of psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T00:06:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no focus on scaling agile practices or principles.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -766,30 +655,33 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-15T00:06:21",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on systems thinking or organisational dynamics.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T00:06:23",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical steps for configuring Active Directory and linking accounts, which aligns with pragmatic problem-solving in a technical context. However, it primarily focuses on specific technical configurations rather than broader Agile or Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses practical steps for configuring Active Directory and linking accounts, which aligns with pragmatic problem-solving in a technical context. However, it lacks a broader discussion on Agile, Scrum, or DevOps principles, and does not delve deeply into the complexities of project management or decision-making processes. The focus is primarily on technical configuration rather than strategic application of pragmatic thinking.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +694,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T00:06:27",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configurations and issues related to Active Directory and Visual Studio Online, with no clear focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T00:06:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory and Visual Studio Online account management, with no clear connection to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T00:06:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management for Visual Studio Online, with no reference to Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -883,10 +757,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T00:06:40",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Active Directory integration and account management rather than Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -973,19 +847,19 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T00:06:57",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses configuring Active Directory and linking accounts, with no mention of Cycle Time or its implications.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-15T00:06:58",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Active Directory integration and account management in Visual Studio Online (VSO), with no direct reference to Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
@@ -1000,10 +874,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T00:07:01",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configurations related to Active Directory and Visual Studio Online, with no clear focus on change management principles or practices.",
     "level": "Ignored"
   },
@@ -1027,14 +901,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Active Directory with cloud services, which relates to digital transformation through the lens of improving operational efficiency and user experience. However, it primarily focuses on technical setup rather than broader strategic implications.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of Active Directory with Visual Studio Online and Azure, which touches on aspects of digital transformation, particularly in terms of enhancing operational efficiency through seamless Single-Sign-On (SSO). However, the focus is primarily on technical configuration rather than strategic adoption or broader organisational change. While it mentions the benefits of SSO, it lacks a comprehensive exploration of digital transformation strategies, case studies, or the impact of emerging technologies on business operations.",
+    "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T00:07:08",
     "ai_confidence": 0,
@@ -1043,23 +920,17 @@
     "reasoning": "Content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, with no clear focus on Minimum Viable Product concepts or related strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T00:07:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management, with no focus on AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T00:07:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, detailing the processes involved in setting up single sign-on and managing user identities, which aligns closely with system configuration practices.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on configuring Active Directory Federated Services (ADFS) to enable seamless Single-Sign-On (SSO) for Visual Studio Online (VSO) and Azure accounts. It discusses specific steps for linking accounts, managing user access, and ensuring continuity during the migration process. The detailed instructions and warnings provided indicate a strong alignment with system configuration practices, particularly in the context of software and identity management. The depth of discussion is substantial, covering various aspects of configuration management and user account integration, which are central to the category of System Configuration.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,21 +970,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T00:07:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses configuring Active Directory and Single Sign-On (SSO) for Visual Studio Online (VSO) accounts, with no direct mention or alignment to Test First Development principles. It lacks any discussion on success criteria, testing practices, or the impact of testing on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T00:07:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the integration of Active Directory with Visual Studio Online and Azure, which is relevant to Windows environments, particularly in the context of user account management and authentication. It also touches on Windows 10 in the conclusion, indicating a focus on Windows-related functionalities.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the integration of Active Directory with Visual Studio Online (VSO) and Azure, which are closely related to the Windows environment. It mentions Windows 10 and the desire for better integration with Azure Active Directory, indicating a focus on Windows functionalities. The discussion includes specific configurations and troubleshooting steps relevant to Windows users, demonstrating a strong alignment with the category's core themes. The depth of the discussion is substantial, providing detailed instructions and considerations for users managing their Windows accounts and services. Overall, the content is highly relevant to the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1126,10 +1003,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T00:07:22",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no clear focus on scaling Agile methodologies or related principles.",
     "level": "Ignored"
   },
@@ -1162,11 +1039,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T00:07:28",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to authentication and account linking in Azure and Visual Studio Online, which involves troubleshooting steps and considerations for resolving conflicts between Microsoft IDs and OrgIDs. However, the primary focus is on configuration rather than systematic problem-solving techniques.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses issues related to authentication and account management within Azure and Visual Studio Online, which aligns with troubleshooting technical problems. It provides specific examples of issues faced, such as clashes between Microsoft IDs and OrgIDs, and offers solutions for linking accounts and maintaining continuity. However, while it touches on troubleshooting, the focus is more on configuration and setup rather than systematic problem-solving techniques or methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1060,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T00:07:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical aspects of configuring ADFS and VSO accounts, with no direct mention of Scrum Master responsibilities or related topics. It lacks alignment with the core themes of the Scrum Master role, such as team dynamics, coaching, or agile principles. The depth of discussion is focused on technical configuration rather than any Scrum-related content.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1086,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no focus on teamwork or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T00:07:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management, which is not directly related to the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1288,10 +1162,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-15T00:07:50",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Active Directory integration and authentication issues related to Visual Studio Online (VSO), without a clear focus on Azure Repos functionalities or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1205,6 @@
     "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T00:07:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Active Directory integration and account management, with no relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T00:07:58",
@@ -1369,11 +1234,116 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:11:15",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of configuring ADFS and linking VSO accounts, with minimal discussion on collaboration, decision-making, or value delivery. While it touches on user management and access control, it lacks a clear connection to the principles of social technologies, such as self-organisation or collective intelligence.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 50.0,
+    "reasoning": "The content discusses linking Visual Studio Online (VSO) with Azure and Active Directory, which relates to the management and integration aspects of an Internal Developer Platform, but it primarily focuses on account management and authentication issues rather than the broader concepts of IDPs.",
+    "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:12:40",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses Active Directory integration and account management, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical aspects of configuring Active Directory and Visual Studio Online accounts, with no direct mention of Scrum principles, roles, events, or practices. While it touches on project management concepts indirectly, it does not align with the core themes of Scrum, such as iterative progress or team dynamics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the configuration of Active Directory and Visual Studio Online accounts, focusing on authentication and identity management rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of Shift-Left principles or practices, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring ADFS for SSO with VSO accounts, which is a technical guide rather than a discussion on Continuous Improvement. While it touches on aspects of continuity and user management, it lacks a clear connection to the principles of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for enhancing processes. The discussion is more about technical implementation than about ongoing reflection and adaptation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring ADFS and linking VSO accounts, with minimal reference to shared objectives or alignment within teams. While it touches on the importance of continuity and seamless integration, it lacks a clear connection to the principles of Common Goals in Agile or DevOps frameworks.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical instructions for configuring ADFS and linking VSO accounts, with minimal discussion on competence or continuous skill development. While it touches on the importance of maintaining continuity and identity management, it lacks a deeper exploration of competence as a foundational principle in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-22T07:04:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on configuring ADFS for SSO with VSO accounts, which does not directly discuss the One Engineering System framework or its principles. While it touches on integration of tools (like ADFS and VSO), it lacks a comprehensive exploration of 1ES concepts, best practices, or challenges related to a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring ADFS for SSO with VSO accounts, which does not align with the principles of Agentic Agility. While there are mentions of user identity management and account linking, these discussions do not intentionally shape outcomes through autonomy or adaptability, nor do they explore the transformative capacity of individuals or systems in a socio-technical environment.",
     "level": "Ignored"
   }
 }

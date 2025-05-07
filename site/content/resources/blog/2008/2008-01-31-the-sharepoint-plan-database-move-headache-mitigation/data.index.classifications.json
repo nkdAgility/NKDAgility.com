@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T18:52:38",
     "ai_confidence": 0,
@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:52:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of moving SQL Server databases for SharePoint, which involves installation and configuration considerations, including backup and restore procedures.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the process of moving SQL Server databases for SharePoint, which relates to installation and configuration. However, it lacks detailed step-by-step instructions and best practices, focusing more on a personal plan rather than providing clear, actionable guidance. The mention of SQL Server and SharePoint indicates some relevance, but the overall depth and clarity of the installation and configuration process are limited.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, which does not align with the Miscellaneous category.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:52:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:52:46",
@@ -97,15 +91,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, without reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a practical approach to moving SQL Server databases in relation to SharePoint, which involves specific techniques and considerations, but it is primarily focused on a specific scenario rather than a broader exploration of tools or methodologies.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:52:50",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of moving SQL Server databases for SharePoint, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:52:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on the challenges of database management, it lacks any reference to data-informed decision-making or the core themes of EBM, such as current value or empirical decision-making.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:52:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, with no focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:52:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical challenges and personal plans regarding SharePoint and SQL Server, lacking a focus on industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with no direct mention of agile methodologies, product management principles, or the Agile Product Operating Model. It lacks alignment with the core themes of APOM and does not provide any depth related to agile practices or product delivery.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of moving SQL Server databases in relation to SharePoint, without a clear focus on platform engineering principles or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:53:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:53:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of moving SQL Server databases related to SharePoint, with no mention of AI, automation, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:53:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the logistical challenges of moving SQL Server databases in relation to SharePoint, without addressing code quality or complexity principles.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:53:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details about moving SQL Server databases for SharePoint, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:53:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:53:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of moving SQL Server databases in relation to SharePoint, without a clear focus on DevOps principles or practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on strategies for migrating SQL Server databases in the context of SharePoint, which does not align with the core principles of DevOps. While there is a mention of using a local SQL server and considerations for database management, the discussion lacks explicit references to DevOps practices such as collaboration, automation, or shared accountability. The content does not delve into the cultural or philosophical aspects of DevOps, nor does it provide depth on any related topics, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges and plans related to moving SQL Server databases for SharePoint, without a focus on engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:53:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, without addressing human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:53:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to moving SQL Server databases for SharePoint, without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:53:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases in relation to SharePoint, without focusing on products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,19 +292,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of configuring and moving SQL Server databases in relation to SharePoint, including backup and restore strategies, which are relevant to system configuration best practices.",
+    "reasoning": "The content discusses the process of moving SQL Server databases in relation to SharePoint, which is a specific aspect of system configuration. It mentions the need for a local SQL server setup and the use of DNS for server identification, indicating a focus on configuration practices. However, the discussion lacks depth in terms of best practices or troubleshooting strategies, and it primarily revolves around a personal plan rather than a comprehensive exploration of system configuration principles.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:36:00",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue and solution related to moving SQL Server databases for SharePoint, but does not focus on measuring or enhancing an organisation's capacity to innovate.",
     "level": "Ignored"
   },
@@ -420,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of moving SQL Server databases related to SharePoint, which does not relate to portfolio management or project prioritization.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses database management and server migration related to SharePoint, which is unrelated to Scrum practices or product development methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:36:00",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of moving SharePoint databases and does not relate to Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:36:00",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses database management and SharePoint server setup, with no mention of the Definition of Done or related Agile concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on SharePoint and SQL Server database management, with no references to Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content primarily discusses database management and SharePoint server setup, with no mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,23 +473,17 @@
     "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, without focusing on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving SQL Server databases in relation to SharePoint, which does not focus on the role of software developers within Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of moving SQL Server databases in relation to SharePoint, which involves methodologies and practices relevant to software development, but it also includes personal opinions and does not focus centrally on software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the technical aspects of moving SQL Server databases in relation to SharePoint, which is a software development context. However, it lacks a comprehensive exploration of software development methodologies or practices, focusing instead on a specific technical challenge without delving into broader software engineering principles.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +512,7 @@
     "reasoning": "Content primarily discusses the technical challenges and plans for moving SQL Server databases associated with SharePoint, with no focus on estimation techniques or processes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:36:00",
     "ai_confidence": 0,
@@ -694,19 +586,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of moving SQL Server databases for SharePoint and does not focus on Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on strategies for migrating SQL Server databases in SharePoint, which does not directly address Continuous Delivery principles or practices. While there is a mention of simplifying processes, it lacks explicit discussions on automation, incremental improvements, or rapid feedback, which are core to Continuous Delivery. The content is more about database management than software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T19:36:00",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the technical process of moving SQL Server databases and does not address Lead Time as a metric or its implications.",
     "level": "Ignored"
   },
@@ -744,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to moving SQL Server databases for SharePoint, without any focus on hypothesis formulation, experimentation, or validated learning in product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on SharePoint and SQL Server database management, without any discussion of AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +814,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:36:00",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical details about moving SQL Server databases related to SharePoint and does not mention the Definition of Ready or related concepts.",
     "level": "Ignored"
   },
@@ -955,12 +841,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical challenge related to moving SQL Server databases in the context of SharePoint, touching on some relevant aspects of database management and technical solutions. However, it mainly focuses on the plan for moving databases rather than broader software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the technical challenge of moving SQL Server databases for SharePoint, which touches on aspects of software architecture and database management. However, it lacks a comprehensive exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The focus is primarily on a specific technical issue rather than broader engineering excellence.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -971,15 +860,6 @@
     "reasoning": "Content discusses technical challenges related to SQL Server and SharePoint database management, which is unrelated to remote working practices, challenges, or solutions.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on moving SQL Server databases related to SharePoint and does not discuss any Kanban principles, scaling Kanban practices, or related topics.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:36:00",
@@ -987,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical aspects related to migrating SQL Server databases used by SharePoint, with no discussion on customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of moving a SharePoint database and does not focus on agile project management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1018,10 +889,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T19:36:00",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues with moving SharePoint databases and uses SQL Server, but does not mention Cycle Time or its implications in workflow efficiency.",
     "level": "Ignored"
   },
@@ -1108,11 +979,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses a specific issue with moving SQL Server databases for SharePoint, detailing a plan for the move, which implies troubleshooting considerations. However, the primary focus is on the plan rather than a systematic troubleshooting process.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges of moving SQL Server databases in a SharePoint context, which aligns with troubleshooting issues related to software and system functionality. It mentions the need for a backup and restore process, indicating an understanding of problem resolution. However, the discussion lacks depth in systematic problem-solving techniques and does not provide detailed methodologies or tools for troubleshooting, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1225,12 +1099,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides a practical plan for moving SQL Server databases related to SharePoint, which involves problem-solving and real-world application of techniques to mitigate challenges. However, it is primarily focused on specific technical steps rather than broader discussions of Agile, Scrum, or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses a practical problem related to moving SQL Server databases in a SharePoint context, which aligns with pragmatic thinking. It mentions a specific plan and considerations for mitigating potential issues, demonstrating real-world application. However, the discussion lacks depth in terms of broader Agile or DevOps principles and does not explicitly mention these frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1266,15 +1143,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint and SQL Server database management, with no mention of asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses database management related to SharePoint and SQL Server, with no reference to Scrum or its scaling practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,22 +1181,16 @@
     "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, with no focus on Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on technical aspects of moving SQL Server databases for SharePoint and does not discuss scaling agility concepts or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SQL Server database migration related to SharePoint, with no mention of Scrum or Scrum Master roles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical strategies for managing SQL Server migrations in SharePoint, with no direct mention of Scrum or the role of a Scrum Master. It lacks alignment with the core themes of the Scrum Master category, such as team dynamics, coaching, or agile principles. The depth of discussion is also minimal, as it does not explore any relevant aspects of Scrum or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1213,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:36:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges and plans related to moving SQL Server databases for SharePoint, with no mention of Test First Development principles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses strategies for migrating SQL Server databases in SharePoint, with no explicit mention of Test First Development principles, success criteria, or testing practices. The focus is on technical implementation rather than testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:16:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of migrating SQL Server databases in SharePoint, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions a plan for database migration, it lacks depth in exploring how these processes relate to organisational culture or collective intelligence, which are key themes of the Social Technologies category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1242,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to moving SQL Server databases for SharePoint, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:44:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the challenges of moving SQL Server databases in relation to SharePoint, without addressing the concept of Internal Developer Platforms or their benefits and practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:44:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the challenges of moving SQL Server databases in relation to SharePoint, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses technical aspects of moving SQL Server databases related to SharePoint, with no direct mentions of Scrum principles, roles, or events. While there is a focus on planning and execution, which could loosely relate to project management, it does not align with the core themes of Scrum or provide any depth on Scrum practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical challenges of moving SQL Server databases in relation to SharePoint, with no explicit mention of the Shift-Left Strategy or its principles. The focus is on operational tasks rather than integrating testing, security, or compliance early in the development process, which is central to the Shift-Left concept.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it touches on project execution, it lacks alignment with the core themes of shared objectives and strategic alignment, and does not provide depth on the topic of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with minimal reference to competence or continuous skill development. While it discusses a plan and potential challenges, it lacks a clear emphasis on the principles of competence, such as professionalism, trust, or quality outcomes in a team context.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on strategies for mitigating database migration issues in SharePoint, which does not directly address Continuous Improvement principles. While there is a mention of planning and potential testing, it lacks a broader discussion on empirical evidence, team effectiveness, or a culture of experimentation. The content is more about a specific technical challenge rather than an ongoing practice of reflection and adaptation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical strategies for migrating SQL Server databases in SharePoint, with no explicit discussion of Agentic Agility or its principles. While there is a mention of planning and intent in the migration process, it lacks depth and does not address the broader themes of agency, adaptability, or the interplay between human and AI capabilities. Overall, the content does not align with the category's focus on intentional shaping of outcomes.",
     "level": "Ignored"
   }
 }

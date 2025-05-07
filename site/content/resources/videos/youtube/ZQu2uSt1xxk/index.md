@@ -2,8 +2,10 @@
 title: Overview of Applying Professional Kanban course.
 description: Unlock your team's potential with our "Applying Professional Kanban" course! Learn key principles, tools, and techniques for continuous improvement.
 date: 2024-02-21T07:00:11Z
+weight: 1000
 ResourceId: ZQu2uSt1xxk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZQu2uSt1xxk
@@ -15,33 +17,36 @@ preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
 duration: 104
 isShort: false
 aliases:
-- /resources/overview-of-applying-professional-kanban-course
-- /resources/videos/overview-of-applying-professional-kanban-course-1
-- /resources/videos/ZQu2uSt1xxk
-- /resources/overview-of-applying-professional-kanban-course-1
 - /resources/ZQu2uSt1xxk
-aliasesFor404:
+- /resources/videos/overview-of-applying-professional-kanban-course
+- /resources/videos/overview-of-applying-professional-kanban-course-1
+- /resources/videos/overview-of-applying-professional-kanban-course.
+aliasesArchive:
+- /resources/videos/overview-of-applying-professional-kanban-course-
 - /resources/overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course-1
 - /resources/overview-of-applying-professional-kanban-course-1
+- overview-of-applying-professional-kanban-course-
+- /resources/videos/overview-of-applying-professional-kanban-course
+- overview-of-applying-professional-kanban-course
+- /resources/videos/overview-of-applying-professional-kanban-course.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
-- Practical Techniques and Tooling
-- Operational Practices
+- Agile Frameworks
+- Software Development
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-### Understanding and Applying Kanban: The Professional Kanban Course
+### Understanding and Applying [Kanban]({{< ref "/categories/kanban" >}}): The Professional Kanban Course
 
 **Introduction**
 
-The "Applying Professional Kanban" course from Pro Kanban is the foundational class for understanding how to implement a Kanban strategy in your existing workflow. Whether your current system is Scrum, Waterfall, or any other process, this course provides the essential knowledge and tools to integrate Kanban and enhance your workflow efficiency.
+The "Applying Professional Kanban" course from Pro Kanban is the foundational class for understanding how to implement a Kanban strategy in your existing workflow. Whether your current system is [Scrum]({{< ref "/categories/scrum" >}}), Waterfall, or any other process, this course provides the essential knowledge and tools to integrate Kanban and enhance your workflow efficiency.
 
 
 
@@ -53,7 +58,7 @@ Kanban is a flexible and powerful strategy that helps visualize and optimize the
 
 - **Versatility**: Kanban can be applied to any existing workflow, whether it’s Scrum, Waterfall, or a custom process.
 
-- **Continuous Improvement**: It promotes continuous improvement by identifying bottlenecks and inefficiencies.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: It promotes continuous improvement by identifying bottlenecks and inefficiencies.
 
 - **Data-Driven Decisions**: Provides metrics and visualizations to make informed decisions.
 
@@ -107,13 +112,13 @@ By applying the techniques taught in this course, your team can expect the follo
 
 - **Data-Driven Improvements**: Use metrics and data analysis to drive continuous improvement.
 
-- **Greater Value Delivery**: Increase the flow of value to your stakeholders and customers.
+- **Greater [Value Delivery]({{< ref "/tags/value-delivery" >}})**: Increase the flow of value to your stakeholders and customers.
 
 * * *
 
 **Conclusion**
 
-The "Applying Professional Kanban" course offers invaluable insights and tools to integrate Kanban into your existing workflow, regardless of the current process. By understanding and leveraging Kanban metrics and visualizations, you can transform your project management approach, ensuring continuous improvement and enhanced value delivery. If your team is looking to optimize its workflow and deliver more value, this course is essential.
+The "Applying Professional Kanban" course offers invaluable insights and tools to integrate Kanban into your existing workflow, regardless of the current process. By understanding and leveraging Kanban metrics and visualizations, you can transform your [project management]({{< ref "/tags/project-management" >}}) approach, ensuring continuous improvement and enhanced value delivery. If your team is looking to optimize its workflow and deliver more value, this course is essential.
 
 **Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, Scrum, or any other Agile practices, feel free to book a coffee with me through Naked Agility.
 

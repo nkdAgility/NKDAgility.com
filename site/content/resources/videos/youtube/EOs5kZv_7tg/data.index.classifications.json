@@ -37,37 +37,43 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-12T07:51:34",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching style and experience of an instructor in an Agile Leadership course, with limited focus on Scrum principles or practices.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and leadership engagement within organisations, which relates to organisational dynamics, but it primarily focuses on the teaching style and personal experiences of the instructor rather than a comprehensive exploration of systems thinking principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the teaching style and effectiveness of an instructor in an Agile leadership course, with an emphasis on passion and audience engagement. While it touches on themes relevant to organisational dynamics, such as leadership and transformation, it lacks a direct discussion of systems thinking principles or a detailed exploration of organisational structures and processes. The content does not provide substantial depth on the core themes of Organisational Physics, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the teaching and engagement style of a teacher in an Agile Leadership class, which touches on aspects of coaching and facilitating growth. However, it primarily focuses on the teacher's enthusiasm and experience rather than on coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the qualities of an effective instructor in an Agile leadership course, highlighting engagement and experience. However, it lacks a direct focus on coaching techniques or the supportive nature of coaching as defined in the category. While it touches on the importance of conversations and transformation, it does not delve deeply into coaching practices or methodologies.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-12T07:51:40",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching style and enthusiasm of a specific instructor in an Agile Leadership class, without a focus on evidence-based practices or decision-making.",
     "level": "Ignored"
   },
@@ -91,11 +97,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-12T07:51:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the qualities of a teacher in an Agile Leadership course and highlights the importance of engaging with leadership to promote Agile practices, making it a major theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Joanna's effectiveness as a teacher in the context of Agile Leadership, highlighting her enthusiasm and experience in engaging with leadership to promote Agile practices. While it does mention leadership and the importance of conversations with leaders, it lacks a deeper exploration of Agile leadership principles and strategies. The focus is more on Joanna's teaching style and personal attributes rather than a comprehensive discussion of Agile leadership concepts.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -109,21 +118,27 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T07:51:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:58:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualities of a teacher in an Agile Leadership course, with no focus on system configuration topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile Leadership course, discussing passion, audience engagement, and the instructor's experience. There are no direct mentions of system configuration, and the themes discussed do not align with the core topics of system configuration, such as configuration management or system optimisation. The depth of discussion is also minimal regarding any relevant system configuration practices.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and leadership, which are related to digital transformation, but the primary focus is on the teaching style and enthusiasm of the instructor rather than on strategic digital transformation initiatives.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile leadership and the transformative conversations that occur within organisations, which aligns with the broader themes of digital transformation. However, it lacks explicit mentions of digital technologies or strategies for implementing digital transformation initiatives. The focus is more on personal experiences and the dynamics of teaching rather than a strategic discussion on digital transformation itself.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
@@ -163,21 +178,27 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Lean in the context of Agile practices and leadership discussions, indicating a secondary theme related to Lean principles, but it primarily focuses on the teaching style and experience of an instructor rather than Lean Product Development itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'lean' in the context of agile practices but does not focus on Lean Product Development principles or techniques. The discussion primarily revolves around agile leadership and the instructor's passion, lacking depth in Lean concepts or waste reduction strategies.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the influence of leadership on Agile practices and the importance of engaging with organisational levels, which relates to organisational culture, but it primarily focuses on the teaching style and experience of an individual rather than a broader cultural analysis.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the passion and engagement of an instructor in an Agile leadership course, which touches on aspects of organisational culture, particularly in relation to leadership and audience dynamics. However, it lacks a direct focus on how these elements influence organisational culture or agility in a broader context. The discussion is more about the instructor's qualities and the audience's engagement rather than a thorough examination of cultural dimensions or strategies for fostering a culture of continuous improvement.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -208,10 +229,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T07:52:06",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a teacher's qualities and experiences in Agile Leadership, with no mention of the Definition of Done.",
     "level": "Ignored"
   },
@@ -235,56 +256,56 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-12T07:52:10",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a teacher's effectiveness in an Agile Leadership course, with no focus on Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and the importance of engaging with leadership to promote Agile practices, which aligns with strategic discussions in Agile environments. However, it primarily focuses on the teacher's qualities rather than a clear strategic approach.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of leadership and engagement in Agile environments, which aligns with strategic themes. However, it lacks explicit discussions on strategic alignment or detailed techniques for optimising delivery processes, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T07:52:12",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching style and experience of an instructor in an Agile Leadership class, without a focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the Professional Agile Leadership class, indicating a major but secondary theme related to Agile frameworks.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of leadership in fostering agile practices and engaging with organisations, which aligns with the theme of scaling agility, but it primarily focuses on a specific teacher and her teaching style rather than broader strategies or frameworks for scaling agility.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Professional Agile Leadership course and mentions Agile and Scrum, indicating a connection to Agile frameworks. However, it primarily focuses on the instructor's passion and the audience's engagement rather than a detailed exploration of Agile frameworks themselves. While there is some alignment with Agile principles and practices, the depth of discussion on specific frameworks is limited.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile leadership and the importance of engaging with various organisational levels, which relates to team dynamics and collaboration, but it primarily focuses on the teacher's qualities rather than direct team collaboration techniques.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Joanna's teaching style and her enthusiasm for the Agile Leadership class, which is somewhat related to team collaboration but does not explicitly discuss techniques or strategies for improving team dynamics. While it touches on engaging with leadership and promoting Agile practices, it lacks depth in exploring the core themes of team collaboration, such as shared ownership or fostering trust within teams.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
@@ -298,19 +319,22 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Lean in the context of Agile practices and leadership discussions, but it primarily focuses on the teaching style and enthusiasm of the instructor rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'lean' in the context of agile practices but does not focus on Lean Thinking principles or provide substantial discussion on waste minimisation, continuous improvement, or Lean tools. The primary focus is on agile leadership and the instructor's qualities, which detracts from a strong alignment with Lean Thinking.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T07:52:21",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the teaching style and experience of an Agile instructor, with no mention of Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -334,12 +358,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile practices and leadership in the context of a course, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses Agile leadership and the importance of engaging with decision-makers in organisations, which aligns with software development practices. However, it primarily focuses on the instructor's qualities and the audience's engagement rather than specific methodologies or practices in software development. The mention of Agile and Scrum is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +379,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T07:52:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:58:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna and her engagement with Agile practices, without focusing on throughput measurement or optimisation.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the engagement of participants in an Agile leadership course. There are no direct mentions of throughput as a delivery metric, nor does it discuss any related concepts such as measuring work items completed over time or visualising throughput. The discussion is more about personal experiences and the instructor's passion rather than analysing or interpreting throughput metrics.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,12 +400,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile practices and leadership in an Agile context, but it primarily focuses on the teacher's qualities and experiences rather than the core values and principles of Agile.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the enthusiasm and engagement of an instructor in an Agile leadership course, which indirectly touches on Agile principles like collaboration and customer-centricity. However, it lacks direct references to Agile values or principles, focusing more on the instructor's qualities and the audience's engagement rather than the foundational beliefs of Agile methodologies.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -406,21 +439,27 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile leadership and engaging with organisations, which are relevant to change management, but it primarily focuses on the teaching style and enthusiasm of a specific instructor rather than on change management strategies or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of engaging leadership and the ripple effect of conversations in fostering agility, which aligns with change management principles. However, it lacks direct mentions of change management strategies and does not provide in-depth analysis or best practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the qualities of a teacher in an Agile Leadership course, highlighting aspects of engagement and experience that relate to mentoring, but it primarily focuses on the teacher's enthusiasm and experience rather than direct mentoring techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the qualities of an effective teacher in an Agile leadership course, highlighting the importance of passion, engagement, and experience. While it touches on mentoring aspects, such as the transformative conversations and the ripple effect of leadership influence, it lacks a direct focus on mentoring techniques or strategies. The discussion is more about the instructor's qualities and the audience's engagement rather than providing explicit guidance or coaching on mentoring practices.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -458,22 +497,16 @@
     "reasoning": "Content heavily discusses teaching and engagement in Agile practices, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T07:52:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching style and experience of an instructor in an Agile Leadership course, rather than focusing on the role of software developers within Agile or DevOps frameworks.",
-    "level": "Ignored"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T07:52:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching style and experience of an instructor in an Agile Leadership course, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile Leadership course, discussing engagement and experience rather than any principles or practices related to Test First Development. There are no direct mentions of Test First Development, and the alignment with its core themes is minimal, as the content does not address success criteria, testing practices, or the impact of Test First on collaboration.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,30 +565,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T07:52:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:58:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the teaching qualities of an instructor in an Agile Leadership course, with no discussion on Lead Time or related metrics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the dynamics of an Agile leadership course, with no direct mention of Lead Time or its related concepts. While it discusses Agile practices, it does not address Lead Time as a metric, its measurement, or its impact on processes, which are essential for alignment with the category. The discussion lacks depth regarding Lead Time, making it clear that this content does not fit the classification criteria.",
     "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and the importance of engaging with leadership in organisations, which aligns with the themes of scaling Agile practices, but it primarily focuses on an individual teacher's qualities and experiences rather than on scaled Agile methodologies or frameworks.",
-    "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the importance of experience in engaging with organisations, which aligns with pragmatic thinking, but it primarily focuses on the teacher's qualities rather than practical problem-solving strategies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Joanna's experience and enthusiasm in teaching Agile practices, which aligns with the category's focus on practical problem-solving and real-world applications. However, it lacks direct mentions of specific strategies or techniques, and the depth of discussion is more about her teaching style than pragmatic approaches in Agile contexts.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -565,15 +595,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching qualities of an instructor in an Agile Leadership class, without focusing on deployment frequency or related practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Agile practices and leadership in an educational context, but is primarily focused on the teacher's qualities rather than specific Agile methodologies or project management techniques.",
-    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -586,20 +607,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of engaging with leadership to promote Agile practices, which aligns with the theme of Agile Strategy, but it primarily focuses on the teaching style and enthusiasm of a specific instructor rather than a comprehensive discussion on Agile strategy itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the effectiveness of a teacher in an Agile Leadership course, highlighting her experience in engaging with leadership and promoting Agile practices. While it touches on Agile principles and leadership roles, it lacks a comprehensive exploration of Agile strategy as a primary focus. The discussion is more about the teacher's enthusiasm and experience rather than a strategic alignment or implementation of Agile methodologies at an organisational level.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T07:53:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of Agile Leadership, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and the instructor's qualities, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile concepts, it does not delve into Continuous Delivery's specific themes such as automation, incremental improvements, or software quality. Therefore, the confidence score reflects a very low alignment with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,10 +640,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T07:53:08",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership course, without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -631,11 +658,14 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the enthusiasm and experience of a teacher in an Agile Leadership class, which relates to team engagement and motivation, but it primarily focuses on the teacher's qualities rather than broader team dynamics or strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the passion and engagement of an instructor in an Agile leadership course, which touches on team dynamics and motivation. However, it primarily focuses on the instructor's qualities and the audience's characteristics rather than providing in-depth strategies or practices for enhancing team motivation. While there are elements of engagement and the ripple effect of conversations, the discussion lacks a comprehensive exploration of team dynamics or specific motivational techniques.",
     "level": "Tertiary"
   },
   "Team Performance": {
@@ -645,24 +675,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching qualities of an instructor and their engagement with leadership rather than focusing on team performance or collaboration strategies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T07:53:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and teaching methods, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T07:53:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile Leadership and Scrum, with no focus on Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -685,21 +697,27 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Lean in the context of Agile practices and leadership discussions, but it primarily focuses on the teaching style and enthusiasm of the instructor rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'lean' in the context of agile practices but does not delve into Lean Principles or their core concepts. The focus is primarily on the instructor's passion and the audience's engagement rather than on waste reduction, value maximisation, or continuous improvement, which are central to Lean thinking.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and leadership in the context of a specific course, making Agile a major theme, but it is not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agile leadership and the transformative conversations that can occur within organisations, which aligns well with the principles of Agile transformation. It highlights the role of an instructor in facilitating understanding of agile practices and the impact of engaging with decision-makers. However, while it touches on key themes, it lacks detailed exploration of specific frameworks or methodologies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -721,12 +739,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and leadership engagement in organisations, which are relevant to organisational change, but the primary focus is on the teacher's qualities and experiences rather than a structured discussion on organisational change itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Joanna's experience in engaging with organisations and leadership regarding Agile practices, which aligns with the theme of organisational change. However, it primarily focuses on her teaching style and enthusiasm rather than providing a detailed exploration of change management strategies or frameworks. The mention of leadership and agility is relevant but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -735,15 +756,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile leadership and teaching effectiveness, with no focus on test automation principles, practices, or tools.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T07:53:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a teacher's qualities and experiences in Agile leadership, without a clear focus on Scrum product development principles or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -757,11 +769,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T07:53:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership class, without a focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the engagement of participants in an Agile leadership course. While it mentions Agile practices, it does not discuss Evidence-Based Management principles or metrics, nor does it provide empirical evidence or data-informed decision-making insights. The discussion is more about personal experiences and enthusiasm rather than evidence-based practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,32 +788,29 @@
     "reasoning": "Content primarily discusses the teaching qualities of an instructor in an Agile Leadership course, with no focus on backlog refinement or related practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T07:53:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the teaching style and experience of an instructor in an Agile Leadership course, without a clear focus on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T07:53:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a teacher's effectiveness in an Agile Leadership course, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile leadership and the role of an instructor in teaching agile principles, but it does not specifically focus on the Scrum Master role or its responsibilities. While there are mentions of agile practices and leadership, the primary focus is on the instructor's passion and engagement rather than the Scrum Master's impact on a Scrum Team or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and the importance of engaging with leadership roles in organisations, which aligns with large-scale Agile principles, but it primarily focuses on an individual teacher's qualities and experiences rather than broader scaling practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on an individual instructor's passion and engagement in teaching Agile leadership, with only brief mentions of leadership roles and the ripple effect of conversations in organisations. While it touches on themes relevant to Agile practices, it lacks a direct discussion on large-scale Agile frameworks or strategies, making it more aligned with individual-level Agile practices rather than the principles of scaling Agile across an organisation.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -811,11 +823,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 47.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile leadership and the importance of engaging with leadership to promote Agile practices, making it a major but secondary theme.",
+    "final_score": 47.0,
+    "reasoning": "The content discusses the qualities of an effective agile leadership instructor and the dynamics of engaging with decision-makers in agile contexts. However, it primarily focuses on personal experiences and enthusiasm rather than providing in-depth strategies or principles of technical leadership. While there are mentions of agile practices and leadership, the discussion lacks specific techniques or frameworks that would enhance understanding of technical leadership.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -838,10 +853,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T07:53:45",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership class, rather than focusing on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -854,7 +869,7 @@
     "reasoning": "Content primarily discusses the teaching qualities of Joanna and her engagement with Agile leadership, rather than focusing on accountability within Agile teams.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T07:53:47",
     "ai_confidence": 0,
@@ -937,12 +952,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the importance of leadership in adopting Agile principles, but it primarily focuses on the teaching style and experience of a specific instructor rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of passion and engagement in Agile leadership, highlighting the transformative conversations that can lead to agility within organisations. While it mentions Agile practices and leadership, it does not delve deeply into the foundational principles of Agile Philosophy or the Agile Manifesto. The focus is more on the instructor's qualities and the audience's engagement rather than the broader implications of Agile as a mindset.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -955,10 +973,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T07:54:02",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership course, without focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1018,47 +1036,35 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of leadership in adopting Agile practices and the engagement with organisations, which aligns with the theme of enterprise agility, but it primarily focuses on the teaching aspect rather than broader organisational implications.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile leadership and the importance of engaging with decision-makers, which aligns with the broader themes of enterprise agility. However, it primarily focuses on the instructor's passion and the dynamics of the classroom rather than providing a comprehensive exploration of enterprise agility principles or frameworks. The discussion lacks depth in organisational structures or strategies for fostering a culture of agility, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Lean in the context of Agile practices and leadership discussions, indicating it is a significant theme, but the primary focus is on Agile leadership rather than Lean methodologies.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and the importance of engaging with leadership to facilitate change, which aligns with the theme of organisational resilience and adaptability, but it primarily focuses on the teaching style and enthusiasm of the instructor.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'lean' in the context of agile practices but does not delve into Lean principles or methodologies. The primary focus is on Agile leadership and the instructor's passion, with minimal discussion on Lean concepts or their application.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T07:50:47",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the teaching style and experience of an instructor in an Agile Leadership course, with no discussion on installation or configuration of tools or software.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T07:50:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching effectiveness of an Agile Leadership course and does not address software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1068,15 +1074,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching qualities of Joanna and her experience in Agile practices, without a clear focus on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T07:50:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of Agile Leadership, without any mention of AI or automation.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -1090,21 +1087,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and leadership engagement, which are relevant to Agile Product Management, but it primarily focuses on the teaching style and experience of an instructor rather than specific product management methodologies.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T07:50:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching qualities of an instructor in an Agile Leadership class, focusing on enthusiasm and experience rather than on discovery and learning processes.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile leadership and the importance of engaging with decision-makers in an Agile context, which aligns with Agile principles. However, it lacks a direct focus on product management specifics, such as backlog prioritisation or stakeholder engagement in product development, which are crucial for a higher confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1124,41 +1115,17 @@
     "reasoning": "Content primarily discusses the teaching style and experience of a specific instructor in an Agile Leadership course, without a clear focus on complexity science or its principles.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T07:50:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching style and experience of Joanna in the context of Agile Leadership, without a focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T07:50:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching qualities of an instructor and their engagement with Agile concepts, but lacks a focus on specific tools, methodologies, or practical techniques related to Agile and DevOps practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific course related to Agile Leadership, which implies a presentation or teaching event. However, it primarily focuses on the teacher's qualities and experiences rather than the event itself.",
-    "level": "Tertiary"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and their importance in engaging with leadership to promote adaptability, but it primarily focuses on the teacher's qualities and experiences rather than specific strategies or methodologies for market adaptability.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile leadership and the importance of engaging with decision-makers, which aligns with the principles of market adaptability. However, it lacks a direct focus on specific strategies or methodologies that enhance an organisation's ability to respond to market shifts. The discussion is more about the instructor's passion and the audience's engagement rather than concrete practices or case studies related to market adaptability.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1171,11 +1138,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T07:51:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile leadership and teaching effectiveness, with only a brief mention of DevOps at the end, which does not constitute a central theme.",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on agile leadership and the instructor's qualities, with only a brief mention of DevOps at the end. It lacks substantial discussion on DevOps principles, practices, or cultural shifts, which are essential for a higher confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,23 +1157,17 @@
     "reasoning": "Content heavily discusses Agile leadership and teaching methods, with no specific mention of Azure DevOps services or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T07:51:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching style and effectiveness of a specific instructor in an Agile course, rather than focusing on products or literature related to Agile methodologies.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and the importance of engaging with leadership to promote agility, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of agile leadership and the transformative conversations that can lead to organisational agility. However, it primarily focuses on the instructor's passion and the audience's engagement rather than providing in-depth insights into business agility principles or practices. While there are mentions of agile practices and leadership, the overall depth and focus on business agility as a primary topic are limited.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1216,12 +1180,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the importance of leadership in adopting these practices, which relates to value delivery, but it primarily focuses on the teacher's qualities and experiences rather than specific value delivery strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the instructor's passion and engagement in teaching Agile leadership, which is somewhat related to value delivery through effective teaching methods. However, it lacks direct discussions on value delivery strategies, methodologies, or practices. While it touches on the importance of engaging decision-makers and the ripple effect of conversations, it does not delve into specific techniques or frameworks that enhance customer satisfaction or business agility, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,55 +1201,46 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the role of leadership in fostering agility, but it primarily focuses on the teaching style and experience of a specific instructor rather than a broader exploration of organisational agility.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of leadership in fostering agility and highlights the transformative conversations that can lead to organisational change. It mentions the audience's role in engaging with agile practices, which aligns with the core themes of organisational agility. However, it lacks specific strategies or frameworks and does not delve deeply into metrics or case studies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections on Joanna's teaching style and experiences in Agile leadership, but it primarily focuses on her qualifications and the class rather than the author's personal experiences.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T07:51:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of a teacher in an Agile Leadership class, highlighting human factors, engagement, and the importance of leadership in adopting Agile practices.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on personal reflections and experiences related to Johanna's teaching style and the impact of her passion on the audience. It discusses the dynamics of the Agile leadership class and the personal engagement of the author with the attendees, which aligns well with the Personal category. However, while it touches on personal insights, it lacks deeper individual anecdotes or challenges faced in Agile transformations, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of engaging with organisations and leadership in the context of Agile practices, which relates to the interplay between social and technical aspects. However, the primary focus is on the teacher's qualities and experiences rather than a detailed exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T07:51:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the teaching style and experience of a specific instructor in an Agile course, rather than providing news or reviews related to Agile methodologies or industry updates.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses aspects of agile leadership and the dynamics of teaching and learning within organisational contexts, which touches on sociotechnical systems. However, it primarily focuses on the instructor's passion and audience engagement rather than a thorough exploration of the interplay between technology and organisational structures. The mention of decision-makers and the ripple effect of conversations hints at sociotechnical interactions but lacks depth and explicit discussion of the category's core themes.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T07:51:23",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching qualities of Joanna and her engagement with Agile practices, but does not focus on metrics, data utilisation, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -1297,10 +1255,10 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-12T07:51:26",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership class, without a clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
@@ -1315,39 +1273,51 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T20:08:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
     "final_score": 68.0,
-    "reasoning": "The content discusses the qualities of a teacher in an Agile Leadership class and highlights the importance of engaging with leadership roles in organisations, making leadership a significant theme.",
+    "reasoning": "The content discusses Joanna's effectiveness as a teacher in the context of Agile Leadership, highlighting her enthusiasm and experience in engaging with leadership roles. It mentions the importance of conversations with leaders about Agile practices, which aligns with the core themes of leadership in fostering organisational agility. However, the focus is more on Joanna's teaching style and personal attributes rather than a deep exploration of leadership strategies or frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T20:08:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and their application in leadership contexts, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor in an Agile leadership course, with some mention of engagement and decision-making among attendees. However, it lacks a direct discussion on social technologies or their frameworks. While it touches on themes of collaboration and transformation, it does not delve deeply into the methodologies or principles that define social technologies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:08:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership class, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership course and the instructor's qualities, with only brief mentions of agile practices. While it touches on leadership and transformation, it lacks a direct discussion of the Agile Product Operating Model and its core principles, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T20:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the importance of pushing responsibility down within organisations, which aligns with the principles of decentralisation and human-centric approaches in BetaCodex, but it primarily focuses on a specific teacher and her teaching style.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the enthusiasm and teaching style of Johanna in the context of an Agile Leadership course. While it touches on themes of engagement and transformation in leadership, it does not explicitly mention BetaCodex principles or decentralised organisational design. The focus is more on individual experiences and teaching rather than the broader concepts of BetaCodex, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1358,22 +1328,431 @@
     "reasoning": "Content heavily discusses Agile practices and leadership training, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:08:42",
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:53:59",
     "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the teaching qualities of Joanna in the context of an Agile Leadership course, with no clear focus on the One Engineering System framework or its principles.",
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile practices and leadership training, with no mention of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:54:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile leadership and teaching methods, with no mention of AI or its applications.",
     "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T20:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T22:51:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions Agile and Scrum in the context of a course, but it primarily focuses on the teacher's enthusiasm and experience rather than specific Scrum principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile and Scrum in the context of a teacher's experience and enthusiasm for the Professional Agile Leadership class. However, it lacks a detailed discussion of Scrum principles, roles, or practices, which are essential for a higher confidence score. The focus is more on the teacher's qualities and the general concept of Agile rather than a deep dive into Scrum itself.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the teaching style and experiences of an instructor in an Agile leadership course, with no direct mention or discussion of the Shift-Left Strategy. While it touches on Agile principles, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the engagement of participants in an Agile leadership course. While it touches on themes of transformation and agility, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation. The content does not provide substantial detail on Continuous Improvement practices or their integration into organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the engagement of the audience in an Agile leadership course. While it touches on Agile principles and the importance of leadership in transformation, it lacks a direct discussion on Common Goals as defined in the category. The mentions of Agile and leadership are secondary to the personal attributes of the instructor and the dynamics of the class, which do not align closely with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Johanna's passion and experience in teaching Agile leadership, which indirectly relates to competence through her ability to engage and transform leaders. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The discussion is more about her teaching style and audience engagement rather than a deep exploration of competence itself.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:14:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile Leadership course, discussing personal attributes and audience engagement rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software development practices, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the dynamics of an agile leadership course, with only brief mentions of transformation and engagement. It lacks a direct discussion on Agentic Agility principles, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The overall emphasis is on teaching style and audience interaction rather than the core themes of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:57:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile leadership and the importance of engaging with decision-makers in organisations, which aligns with the principles of Agile product development. However, it primarily focuses on the instructor's qualities and the audience's engagement rather than specific methodologies or practices that facilitate product development. While there are mentions of Agile and its transformative potential, the depth of discussion on product development practices is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:57:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile leadership course, with no direct mention of Open Space Agile principles or practices. While it discusses aspects of Agile transformation and leadership, it does not delve into the collaborative and emergent nature of Open Space Agile. The discussion lacks depth regarding the core themes of Open Space Technology, psychological safety, or shared ownership, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:57:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the teaching style and enthusiasm of Johanna Plaskonka in the context of the Professional Agile Leadership course. While it mentions agile practices and leadership, it does not explicitly discuss Agnostic Agile principles or their application. The content lacks depth in exploring the core themes of Agnostic Agile, such as ethical considerations, value delivery, or comparisons with traditional frameworks. Overall, the discussion is more about the instructor and the course rather than the principles of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:57:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile leadership course, discussing passion, audience engagement, and personal experiences. While it touches on Agile practices, it does not specifically address scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The discussion lacks depth in relation to scaling strategies, metrics, or case studies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:57:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the Professional Agile Leadership course and the instructor's qualities, with no direct mention of Cell Structure Design or its principles. While it discusses agile transformation, it does not align with the core themes of decentralised structures or autonomous cells. The depth of discussion is limited to the instructor's experience and engagement, lacking any exploration of organisational design models.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:57:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile leadership course, discussing passion, audience engagement, and the instructor's experience. While it touches on Agile and leadership, it does not mention Liberating Structures or their principles, techniques, or applications. The discussion lacks depth regarding facilitation techniques or group dynamics, which are central to the category of Liberating Structures. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:57:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the engagement of participants in an Agile leadership course. There are no direct mentions of Time to Market or its associated metrics, nor does it discuss strategies for improving Time to Market. While it touches on Agile practices, it does not align with the core themes of measuring or optimising the speed of delivering value to customers.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:57:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the dynamics of an agile leadership course rather than discussing the company as a product. While it touches on themes of agile transformation and leadership, it does not explicitly mention or align with the core principles of CaaP, such as organisational design or customer-centric strategies. The discussion lacks depth regarding the CaaP framework, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:57:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and the teaching style of an instructor, with no direct mention of GitHub or its functionalities. While it discusses Agile principles, it does not align with GitHub's specific tools or practices, nor does it provide any depth regarding GitHub services or methodologies. Therefore, the confidence score is low.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:57:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the dynamics of an agile leadership course, with no direct mention of Unrealised Value or its related concepts. While there are references to transformation and engagement, these do not align with the core themes of identifying untapped opportunities or measuring potential value. The discussion lacks depth regarding strategies or indicators of Unrealised Value, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:57:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor and the engagement of participants in an Agile leadership course. While it touches on themes of transformation and leadership, it does not explicitly discuss Current Value or its metrics, nor does it provide practical applications or measurements related to Current Value in Evidence-Based Management. The discussion lacks depth and direct relevance to the category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:58:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting an agile leadership course and the instructor's qualities, with no direct mention of Hybrid Agile or its challenges. While it discusses agile practices and leadership, it lacks critical examination of the integration of traditional and agile methodologies, which is essential for the Hybrid Agile category. The discussion is more about enthusiasm and engagement rather than the complexities and pitfalls of Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:58:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the qualities of an instructor for an Agile leadership course, with a strong emphasis on engagement and passion rather than core project management principles or methodologies. While it mentions Agile and leadership, it lacks detailed discussions on project management concepts, tools, or techniques. The content does not explicitly address project lifecycle phases or governance structures, which are key topics in project management. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Project Management category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content highlights the passion and engagement of the instructor, which indirectly relates to values in the context of teaching and leadership. However, it does not explicitly discuss values or provide in-depth analysis related to foundational beliefs that guide behavior in organizations. The discussion is more focused on the instructor's qualities and the experiences of the attendees rather than articulating core values themselves.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:18",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content predominantly focuses on the personal qualities of a teacher and the engagement with participants in an Agile leadership class, without discussing the philosophical foundations or guiding frameworks of Agile, Lean, or DevOps. While it briefly touches upon the concept of transformation in Agile, it fails to explore the deeper 'why' behind Agile methodologies or their influence on decision-making and team dynamics, which are central to the Philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:18",
+    "ai_confidence": 37.0,
+    "ai_mentions": 2,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content briefly discusses Agile principles and practices, particularly in the context of Johanna's teaching style and experiences. However, it focuses more on her passion and the engagement within the classroom rather than the structured principles, methodologies, or systemic application of Agile as a discipline. While there are mentions of Agile and its transformation, there is insufficient depth in discussing the characteristics and governance structures that define Agile as a discipline, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:19",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on a teacher's passion and engagement style rather than on any artifacts used in Agile or Scrum practices. There are no direct mentions of artifacts or discussions on their structure or purpose, leading to a low alignment with the category. The depth of discussion about Agile concepts does not directly address artifacts, resulting in a low score overall.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:19",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses an instructor's qualities and the nature of an Agile Leadership course, without focusing on observability or its principles. There are no direct mentions of metrics, logs, traces, or any relevant observability tools and practices. While it touches on Agile and leadership, it lacks a deep exploration of how these relate to observability in software systems.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:19",
+    "ai_confidence": 22.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the attributes and effectiveness of an instructor, focusing on her passion and engagement rather than on specific practices or techniques. While it briefly touches on agile practices, the actual content lacks actionable techniques or detailed discussions relevant to team performance improvement, thus falling short of aligning with the 'Practice' category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:19",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses on the effectiveness and engagement of an instructor for an Agile leadership course, discussing her passion and interaction with participants, rather than providing any structured, step-by-step procedures or methods related to Agile, Lean, or related fields. There are brief references to Agile practices and methodologies, but these are not elaborated upon in terms of their specific methods or steps.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:19",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the effectiveness and engagement of a specific instructor in teaching an Agile leadership course. There are no direct mentions of conceptual models or frameworks pertinent to Agile, DevOps, or Lean philosophies. While it touches on themes of agile transformation and leadership, it does not provide any depth or meaningful discussion on models that are central to the 'Model' category, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:19",
+    "ai_confidence": 37.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content primarily focuses on the instructor, Johanna, and her teaching style within the context of the Professional Agile Leadership course. While there are brief mentions of Agile and Scrum, they are not the primary focus, and the content does not delve into specific frameworks, methodologies, or structured discussions relevant to the Framework category. Hence, the content has low direct mentions and lacks detailed discussion of any framework principles, resulting in a mid-range confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:19",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses a specific instructor's approach and passion in teaching Agile Leadership, rather than focusing on actionable tenets or guiding principles relevant to methodologies such as Agile, Lean, or DevOps. There are no explicit mentions of tenets or their application, and while there is a general alignment with Agile concepts, the depth and specificity regarding tenets are insufficient to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:19",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mainly focuses on the instructor's passion and experience in delivering an Agile course, with brief mentions of Agile principles. However, it lacks a substantive discussion on the concept of capabilities as defined in the category. The content does not explore how capabilities enhance business agility or organizational performance, nor does it discuss strategies for developing capabilities. Overall, while there are slight references to capability concepts, they are primarily secondary to the broader themes of teaching enthusiasm and engagement, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the instructor's teaching style and the audience dynamics rather than focusing on tools used in Agile, Scrum, or DevOps practices. While there are some peripheral mentions of Agile, Scrum, and leadership topics, there is no specific discussion of tools that facilitate workflows or transformations. Therefore, it falls short in terms of direct mentions, alignment with core themes related to tools, and depth of discussion about tool functionalities or implementations.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily highlights Johanna's teaching qualities and the dynamics of her classes, lacking a strong focus on actionable principles that guide decision-making in Agile or Lean. There are some implicit references to agile practices, but the content does not directly discuss any specific principles nor does it provide in-depth analysis of how those principles shape decision-making or team behavior.",
+    "level": "Ignored"
   }
 }

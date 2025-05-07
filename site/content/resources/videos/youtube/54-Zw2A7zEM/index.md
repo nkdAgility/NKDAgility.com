@@ -2,42 +2,42 @@
 title: Scrum Master versus seasoned Agile Coach?
 description: 'Discover the key differences between a Scrum Master and a seasoned Agile Coach with Martin Hinshelwood in this insightful short! #Agile #Scrum #Shorts'
 date: 2023-06-27T11:00:03Z
+weight: 690
 ResourceId: 54-Zw2A7zEM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 54-Zw2A7zEM
 source: internal
 url: /resources/videos/:slug
-slug: scrum-master-versus-seasoned-agile-coach
+slug: scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
 preview: https://i.ytimg.com/vi/54-Zw2A7zEM/maxresdefault.jpg
 duration: 55
 isShort: true
 aliases:
-- /resources/scrum-master-versus-seasoned-agile-coach
-- /resources/videos/scrum-master-versus-seasoned-agile-coach-
-- /resources/videos/54-Zw2A7zEM
-- /resources/scrum-master-versus-seasoned-agile-coach-
 - /resources/54-Zw2A7zEM
-aliasesFor404:
+- /resources/videos/scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
+aliasesArchive:
+- /resources/videos/scrum-master-versus-seasoned-agile-coach
 - /resources/scrum-master-versus-seasoned-agile-coach
 - /resources/videos/scrum-master-versus-seasoned-agile-coach-
 - /resources/scrum-master-versus-seasoned-agile-coach-
+- scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
+tags: []
 resourceTypes:
 - video
 layout: video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
-## Scrum Master vs. Seasoned Agile Coach: What Sets Them Apart?
+## [Scrum]({{< ref "/categories/scrum" >}}) Master vs. Seasoned Agile Coach: What Sets Them Apart?
 
-The Scrum Master and the Agile Coach are two roles integral to the Agile universe.
+The [Scrum Master]({{< ref "/tags/scrum-master" >}}) and the Agile Coach are two roles integral to the Agile universe.
 
 But what distinguishes one from the other? 🤔
 
@@ -51,7 +51,7 @@ Every seasoned Agile Coach encompasses all the knowledge that a Scrum Master pos
 
 Typically, an Agile Coach has been in the game for a long time, enriched with many years of experience, having worked diligently within organisations.  💡
 
-They've dedicated years to navigating organisational landscapes, moulding and embedding Agile practices, and mastering techniques spanning from lean Agile to Scrum and Kanban.  🚀
+They've dedicated years to navigating organisational landscapes, moulding and embedding Agile practices, and mastering techniques spanning from [lean]({{< ref "/categories/lean" >}}) Agile to Scrum and [Kanban]({{< ref "/categories/kanban" >}}).  🚀
 
 They don't just "know" - they've _lived_ it. 📈
 

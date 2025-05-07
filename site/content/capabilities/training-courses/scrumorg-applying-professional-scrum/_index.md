@@ -4,8 +4,10 @@ description: Transform your Scrum skills with our immersive Minecraft course! Le
 ResourceId: _w2xgO2i3C9
 ResourceImport: true
 ResourceType: course
+ResourceContentOrigin: human
 shorttitle: Applying Professional Scrum
 date: 2017-01-01
+weight: 750
 creator: Martin Hinshelwood
 type: course
 kind: page
@@ -23,7 +25,7 @@ aliases:
 - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
 - /capabilities/training-courses/Scrum.org/applying-professional-scrum-aps-with-certification/
 - /resources/_w2xgO2i3C9
-aliasesFor404:
+aliasesArchive:
 - /training-courses/professional-scrum-foundations
 - /training-courses/professional-scrum-foundations-psf-training
 - /training-courses/applying-professional-scrum-aps-training
@@ -44,9 +46,21 @@ delivery-audiences:
 - Teams
 tags:
 - Agile Frameworks
+- Agile Planning
+- Agile Product Management
+- Agile Transformation
+- Continuous Learning
+- Market Adaptability
+- Organisational Agility
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Team
+- Software Development
+- Team Collaboration
+- Team Performance
+- Scrum Master
 categories:
 - Scrum
-- Social Technologies
 preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
 previewIcon: Scrumorg-Course-APS 400x.png
 brandColour: '#c75129'

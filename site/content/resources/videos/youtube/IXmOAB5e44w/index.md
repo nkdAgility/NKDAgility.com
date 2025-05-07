@@ -2,36 +2,31 @@
 title: 'Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!'
 description: Unlock a £20 discount for friends and earn rewards with our new Referral Program! Join us in fostering a collaborative learning community today!
 date: 2023-06-15T07:00:06Z
+weight: 1000
 ResourceId: IXmOAB5e44w
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IXmOAB5e44w
 url: /resources/videos/:slug
-slug: referral-program-20-of-the-course-fee-credited-to-your-account-
+slug: unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 layout: video
 aliases:
-- /resources/videos/IXmOAB5e44w
-- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
-- /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
 - /resources/IXmOAB5e44w
-aliasesFor404:
+- /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account
+aliasesArchive:
+- /resources/videos/unlock-rewards-join-our-exciting-referral-program-for-collaborative-learning
+- /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
 - /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
+- unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+- /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
 isShort: false
-tags:
-- People and Process
-- Discovery and Learning
-- Customer Retention
-- Software Development
-- Continuous Learning
-- Team Collaboration
-- Agile Project Management
-- Team Motivation
-- Miscellaneous
-- Employee Engagement
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 I’m excited to share with you a new initiative that I believe will not only enhance your learning experience but also foster a sense of community within our classes. Introducing the **£20 Referral Program**—a simple yet effective way to reward you for bringing your friends and colleagues along on this journey of growth and development.
@@ -72,6 +67,6 @@ In my experience, the most impactful learning occurs in a collaborative environm
 
 I genuinely believe that this referral program will enhance your learning experience and help you build a stronger network within your organisation. If you’re interested in participating, simply visit my website to get your referral code and start sharing it with your colleagues and friends.
 
-Thank you for being a part of this journey with me. If you have any questions or want to discuss this further, feel free to reach out. I’m always here to chat about Agile, Scrum, DevOps, or anything else on your mind. And don’t forget to like, follow, and subscribe for more updates!
+Thank you for being a part of this journey with me. If you have any questions or want to discuss this further, feel free to reach out. I’m always here to chat about Agile, [Scrum]({{< ref "/categories/scrum" >}}), [DevOps]({{< ref "/categories/devops" >}}), or anything else on your mind. And don’t forget to like, follow, and subscribe for more updates!
 
 Let’s learn and grow together!

@@ -2,29 +2,36 @@
 title: 'Unlocking Business Value: The Power of Evidence-Based Management for Effective Leadership'
 description: Unlock your organisation's potential with evidence-based management. Discover how data-driven decisions can drive real business value and innovation.
 date: 2024-01-25T07:00:13Z
+weight: 1000
 ResourceId: MCkSBdzRK_c
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MCkSBdzRK_c
 url: /resources/videos/:slug
-slug: making-business-decisions-with-evidence!-what-is-evidence-based-management-
+slug: unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 layout: video
 aliases:
-- /resources/videos/MCkSBdzRK_c
-- /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
-- /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/MCkSBdzRK_c
-aliasesFor404:
+- /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
+- /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
+aliasesArchive:
+- /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 - /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
+- /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
+- unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
 preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Evidence Based Management
 - Evidence Based Leadership
+- Evidence Based Management
+- Value Delivery
 - Decision Making
+- Metrics and Learning
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,17 +39,17 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Product Management
+- Leadership
 
 ---
-When I think about evidence-based management, I can't help but reflect on how crucial it is to bring a scientific approach to leadership. In my experience, many organisations still rely heavily on gut feelings or vanity metrics—those numbers that make us look good but don’t actually drive meaningful change. This is where evidence-based management steps in, helping us focus on delivering real business value.
+When I think about evidence-based management, I can't help but reflect on how crucial it is to bring a scientific approach to [leadership]({{< ref "/categories/leadership" >}}). In my experience, many organisations still rely heavily on gut feelings or vanity metrics—those numbers that make us look good but don’t actually drive meaningful change. This is where evidence-based management steps in, helping us focus on delivering real business value.
 
 ### Understanding Evidence-Based Management
 
 At its core, evidence-based management is about making informed decisions based on data. It’s not just about collecting metrics; it’s about understanding their relevance to our stakeholders and customers. Here are the key components I believe are essential:
 
-- **Market Value**: This is the lifeblood of any sustainable business. We need to assess both our current value—what we’re doing well right now—and our unrealised value—those opportunities we haven’t yet explored. 
+- **Market Value**: This is the lifeblood of any sustainable business. We need to assess both our [current value]({{< ref "/tags/current-value" >}})—what we’re doing well right now—and our [unrealised value]({{< ref "/tags/unrealised-value" >}})—those opportunities we haven’t yet explored. 
 
 - **Organisational Capability**: This encompasses our ability to execute effectively. It’s about ensuring we’re not just doing things right but also doing the right things. 
 
@@ -52,8 +59,8 @@ To get a holistic view of our ability to deliver business value, I recommend foc
 
 1. **Current Value**: What value are we currently providing through our products and services?
 2. **Unrealised Value**: What potential value is still on the table? Are there markets or customer segments we haven’t tapped into?
-3. **Time to Market**: How quickly can we move from idea to market? This is crucial for testing our assumptions and getting feedback from customers.
-4. **Ability to Innovate**: How much time are we dedicating to delivering new products or features? What barriers are hindering our innovation efforts?
+3. **[Time to Market]({{< ref "/tags/time-to-market" >}})**: How quickly can we move from idea to market? This is crucial for testing our assumptions and getting feedback from customers.
+4. **[Ability to Innovate]({{< ref "/tags/ability-to-innovate" >}})**: How much time are we dedicating to delivering new products or features? What barriers are hindering our innovation efforts?
 
 ### The Importance of Metrics
 

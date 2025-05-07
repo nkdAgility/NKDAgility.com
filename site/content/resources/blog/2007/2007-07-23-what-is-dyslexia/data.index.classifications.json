@@ -35,12 +35,12 @@
     "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no focus on sociotechnical systems or the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T21:33:23",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on dyslexia and personal experiences related to it, with no relevance to the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:33:25",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses dyslexia and personal experiences related to reading and spelling, which is unrelated to installation and configuration topics.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:33:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:33:31",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:33:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no focus on Agile or DevOps techniques or tooling.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:33:35",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no focus on metrics, data, or learning methodologies.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:33:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no relevance to Evidence-Based Management.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on dyslexia, discussing its challenges and strengths, with no mention or relevance to Evidence-Based Management principles or practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:33:40",
+    "calculated_at": "2025-04-08T20:54:50",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about dyslexia and its implications, with no relevance to Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:33:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no relevance to Agile, DevOps, or technology updates.",
+    "reasoning": "The content focuses entirely on dyslexia, discussing its challenges and strengths, with no relation to the Agile Product Operating Model or its principles.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on dyslexia and its implications, with no relevance to platform engineering or related topics.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:33:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about dyslexia and does not discuss Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:33:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily about dyslexia and its implications, with no relevance to AI or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:33:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses dyslexia and its effects on reading and comprehension, which is unrelated to software code or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:33:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no mention of events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:33:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -289,12 +223,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T21:34:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content shares personal experiences and insights related to dyslexia, including reflections on how it affects reading and communication, which aligns with the Personal category's focus on individual experiences. However, it does not directly relate to Agile, Scrum, or DevOps methodologies.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses personal experiences and insights related to dyslexia, which can be seen as a personal reflection. However, it does not directly relate to Agile, Scrum, DevOps, or Lean principles, which are the core themes of the 'Personal' category. The discussion is more focused on the individual's experience with dyslexia rather than its application in a professional context or its impact on Agile methodologies.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -316,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:34:04",
+    "calculated_at": "2025-04-08T20:54:37",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on dyslexia and its implications, with no relevance to DevOps principles or practices.",
+    "reasoning": "The content focuses entirely on dyslexia, discussing its challenges and strengths, with no relation to DevOps principles, practices, or cultural shifts.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no relevance to engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:34:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses dyslexia and its effects on reading and communication, without addressing team dynamics, processes, or methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:34:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, without a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:34:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no focus on products or literature relevant to Agile methodologies or DevOps practices.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:19",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses entirely on the experience and challenges of living with dyslexia, with no mention of innovation, evidence-based management, or any frameworks related to the ability to innovate.",
     "level": "Ignored"
   },
@@ -420,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses dyslexia, which is unrelated to portfolio management or investment strategies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses dyslexia, which is unrelated to Scrum or product development topics.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:19",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about dyslexia and personal experiences related to it, with no relevance to Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:19",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses dyslexia and its implications rather than any Agile or Scrum concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses exclusively on dyslexia and its characteristics, with no relation to Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content discusses dyslexia and its implications rather than any Agile or Scrum concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +470,6 @@
     "reasoning": "Content is primarily about dyslexia and its effects, with no relevance to collaboration tools or Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on dyslexia and personal experiences related to reading and spelling, with no relevance to software development, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-17T08:18:20",
@@ -620,7 +506,7 @@
     "reasoning": "Content discusses dyslexia and its effects on reading and comprehension, which is unrelated to Agile or Scrum estimation practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:20",
     "ai_confidence": 0,
@@ -694,19 +580,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:20",
+    "calculated_at": "2025-04-08T20:54:58",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily focused on dyslexia and its implications, with no relation to Continuous Delivery principles or practices.",
+    "reasoning": "The content focuses entirely on dyslexia, discussing its challenges and strengths, with no relation to Continuous Delivery or software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T08:18:20",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses dyslexia and its implications unrelated to the concept of Lead Time.",
     "level": "Ignored"
   },
@@ -744,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses dyslexia and personal experiences related to reading and visualization, without any connection to hypothesis-driven development principles or practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses dyslexia and does not relate to AI, Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +808,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:20",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on dyslexia and personal experiences related to reading difficulties, with no mention of Definition of Ready or relevant Agile practices.",
     "level": "Ignored"
   },
@@ -964,20 +844,11 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T08:18:20",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses solely on dyslexia, its characteristics, and personal experiences related to reading and writing, without any mention of remote working or Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on dyslexia and its implications, with no relation to Kanban or its scaling principles.",
+    "reasoning": "Content focuses solely on dyslexia, its characteristics, and personal experiences related to reading and writing, without any mention of remote working or Agile practices.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -987,15 +858,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses dyslexia and its intricacies, without any relation to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on dyslexia and its effects, with no relation to Agile Project Management or relevant methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1018,10 +880,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T08:18:20",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on dyslexia and its implications, which is irrelevant to the concept of Cycle Time in Agile and DevOps.",
     "level": "Ignored"
   },
@@ -1180,19 +1042,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T08:18:20",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses dyslexia and personal experiences related to reading, which is not relevant to working agreements or team collaboration.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T08:18:20",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is entirely focused on dyslexia, with no relevance to working software or software development principles.",
     "level": "Ignored"
   },
@@ -1268,15 +1130,6 @@
     "reasoning": "Content is primarily about dyslexia and its effects, with no relevance to asynchronous development or related topics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on dyslexia and does not discuss Scrum or its scaling.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:18:20",
@@ -1313,22 +1166,16 @@
     "reasoning": "The content is about dyslexia and does not discuss any aspects of Scrum principles, roles, practices, or frameworks.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses dyslexia, which is unrelated to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:20",
+    "calculated_at": "2025-04-08T20:54:52",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is entirely focused on dyslexia, with no relevance to Scrum Master roles or practices.",
+    "reasoning": "The content focuses entirely on dyslexia, discussing its challenges and strengths, with no mention or relevance to the role of a Scrum Master or any related concepts within the Scrum framework.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1198,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:54:56",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses dyslexia, its impacts, and related personal experiences, which are unrelated to Test First Development or software practices.",
+    "reasoning": "The content focuses entirely on dyslexia, its challenges, and strengths, with no mention or relevance to Test First Development principles or practices. It does not discuss success criteria, testing methodologies, or any related topics that would align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:28:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dyslexia and personal experiences related to it, with no mention of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on dyslexia, its challenges, and strengths, with no direct mention or discussion of social technologies, collaboration, or decision-making frameworks. It does not align with the core themes of the category, and the depth of discussion is minimal regarding any relevant social frameworks.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1227,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses dyslexia and its implications, with no relevance to leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:50:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is focused on dyslexia and its implications, with no relevance to Internal Developer Platforms or software development processes.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:50:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses dyslexia and its implications, with no relevance to Artificial Intelligence, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:19:41",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content discusses dyslexia and its implications, with no mention or relevance to Scrum principles, practices, or frameworks. It does not align with any key topics related to Scrum, such as roles, events, or agile principles.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:48:13",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses dyslexia and personal experiences related to it, with no relevance to software development or the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on dyslexia, discussing its challenges and strengths, with no mention of Common Goals, Agile, or DevOps principles. It does not align with the category's themes or provide any depth related to shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses dyslexia, its challenges, and strengths, with no direct mention of competence in the context of Agile, Scrum, DevOps, or Lean methodologies. While it touches on personal development and skills related to dyslexia, it does not align with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-08T20:54:46",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses on dyslexia, its challenges, and strengths, with no discussion of Continuous Improvement principles or practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T20:54:48",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content focuses entirely on dyslexia, its challenges, and strengths, with no discussion of Agentic Agility or related concepts. It does not address intentional shaping of outcomes, autonomy, or adaptability in socio-technical environments.",
     "level": "Ignored"
   }
 }

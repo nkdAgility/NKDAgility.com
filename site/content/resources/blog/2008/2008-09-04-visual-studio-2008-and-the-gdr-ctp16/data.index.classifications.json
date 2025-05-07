@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to Visual Studio and database management, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:55:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio 2008 and the GDR, without focusing on reviews, analyses, or discussions of products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T11:55:16",
@@ -53,49 +44,16 @@
     "reasoning": "Content primarily discusses technical issues related to Visual Studio and database management, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:55:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio 2008 and GDR, with no mention of events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:55:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio and database management, with no clear focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:55:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio and database dependencies, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:55:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio and database dependencies, with no clear focus on DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:55:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and database dependencies, with no mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical issues related to Visual Studio 2008 and GDR CTP16, focusing on database import challenges and dependency problems. There are no explicit mentions of DevOps principles, practices, or cultural shifts. The discussion lacks alignment with core DevOps themes such as collaboration, automation, or shared accountability, and does not provide any depth on these topics. Overall, the content is more aligned with software development challenges rather than DevOps.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +76,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:55:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio and database management, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:55:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues with Visual Studio 2008 and GDR without focusing on practical techniques or tooling related to Agile or DevOps.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Visual Studio 2008 and GDR CTP16, with no mention of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with the core themes of the category, nor does it provide any depth or relevant discussion on the subject.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,11 +106,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to the installation and reinstallation of the GDR, which is relevant to the installation process, but the primary focus is on problems encountered rather than a structured guide or best practices.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses issues related to the installation and reinstallation of the GDR (General Distribution Release) for Visual Studio 2008, which aligns with the installation aspect of the category. However, it lacks detailed step-by-step instructions or best practices for installation and configuration, focusing instead on personal experiences and problems encountered. The mention of uninstalling and reinstalling indicates some engagement with the topic, but the overall depth and clarity of actionable insights are limited.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
@@ -172,29 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:55:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio 2008 and database management, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T11:55:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to database imports and stored procedure dependencies, which do not align with the themes of code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:55:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio 2008 and the GDR, without providing industry news, updates, or reviews relevant to Agile or DevOps.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Visual Studio 2008 and GDR CTP16, with no mention of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on the topic.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,14 +175,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:55:43",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Visual Studio and database dependencies, with no focus on metrics or learning.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:55:44",
     "ai_confidence": 0,
@@ -278,15 +218,6 @@
     "reasoning": "Content primarily discusses technical issues related to Visual Studio and database dependencies, with no personal reflections or insights on Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:55:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio and database dependencies, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T11:55:50",
@@ -294,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and GDR, with no clear focus on Azure DevOps functionalities or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio and database dependencies, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to database dependencies and the GDR, without a focus on Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:55:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Visual Studio and database management, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -467,7 +380,7 @@
     "reasoning": "Content discusses issues related to Visual Studio and GDR, not related to scaling Agile methodologies across organizations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:26:07",
     "ai_confidence": 0,
@@ -483,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and database imports, with no focus on Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues with Visual Studio and database management, with no focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -665,24 +569,6 @@
     "reasoning": "Content focuses on issues with Visual Studio 2008 and database management, with no discussion of estimation techniques or Agile practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to a specific software update (GDR CTP16) and database management, lacking a focus on Agile, DevOps, or software development methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses issues related to database import and dependencies in SQL, which does not pertain to AI in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T12:26:07",
@@ -737,15 +623,6 @@
     "reasoning": "Content mainly discusses issues related to Visual Studio 2008 and database management, with no reference to Agile frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on issues with a software product and does not discuss Agile practices or scaling Agile in any context.",
-    "level": "Ignored"
-  },
   "Product Owner": {
     "category": "Product Owner",
     "calculated_at": "2025-02-16T12:26:07",
@@ -784,10 +661,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:26:07",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with database dependencies and a specific software version, without focusing on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -883,11 +760,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on issues with the GDR and database procedures, lacking relevance to Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses issues related to Visual Studio 2008 and GDR CTP16, focusing on dependency problems during database imports. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. Overall, the content does not provide any substantial depth on Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -998,15 +878,6 @@
     "reasoning": "Content is primarily about technical issues with Visual Studio and database procedures, not related to empirical process control or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about issues related to database management and Visual Studio, with no relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
     "calculated_at": "2025-02-16T12:26:07",
@@ -1045,11 +916,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and database import problems without mentioning Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical challenges related to using Visual Studio 2008 with GDR CTP16, focusing on database import issues and dependency problems. There is no mention of Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion lacks any alignment with the core themes of Test First Development, and the depth of discussion is minimal, as it does not explore any relevant concepts or practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1214,31 +1088,28 @@
     "reasoning": "Content primarily discusses issues related to database import and stored procedures, which do not relate to deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum or product development; it focuses on technical issues related to Visual Studio and database dependencies.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses issues encountered with the GDR in Visual Studio 2008, specifically related to importing databases and dependency problems. It focuses on diagnosing the problem and attempting solutions, making troubleshooting the primary topic.",
+    "reasoning": "The content explicitly discusses issues encountered with the GDR CTP16 during database import, which aligns with troubleshooting software problems. It mentions specific problems related to stored procedures and the actions taken to resolve them, indicating a focus on diagnosing and addressing technical issues. However, the depth of discussion is somewhat limited, as it does not provide detailed methodologies or tools for troubleshooting, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a technical issue related to Visual Studio and database management, with no reference to Scrum or the role of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical issues related to Visual Studio 2008 and GDR CTP16, with no mention of Scrum, Scrum Masters, or any related concepts. It does not discuss roles, responsibilities, or practices associated with Scrum, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1141,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T12:26:07",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical issues related to Visual Studio and database imports, not on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1155,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with importing databases and does not address the principles or practices of Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to database management and software installation, with no relevance to Scrum principles or scaling practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1193,6 @@
     "reasoning": "Content mostly discusses issues related to importing databases and dependencies, which do not focus on system configuration.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on problems related to database management and installation issues with Visual Studio, which is not relevant to the topic of Scaling Agility.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T12:26:07",
@@ -1360,11 +1213,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:06:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and database management, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical challenges related to Visual Studio 2008 and GDR CTP16, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and provides minimal detail relevant to social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1230,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Visual Studio and database management, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:40:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and the GDR, with no clear focus on Internal Developer Platforms or their associated concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:40:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and database management, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on issues with Visual Studio and database dependencies, which are unrelated to Scrum principles, roles, or practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to database imports and stored procedures in Visual Studio 2008, with no mention of testing, security, or compliance processes. It does not align with the core themes of the Shift-Left Strategy, which focuses on integrating these critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical challenges related to Visual Studio 2008 and GDR CTP16, with no explicit mention of Continuous Improvement principles. It lacks alignment with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness. The depth of discussion is minimal and focused on troubleshooting rather than on any systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical challenges related to Visual Studio 2008 and GDR CTP16, with no explicit mention of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of shared objectives and strategic alignment, focusing instead on personal experiences and technical issues.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses technical challenges related to Visual Studio 2008 and GDR CTP16, with a focus on dependency issues and database imports. There is no explicit mention of competence, continuous learning, or skill development. The discussion lacks alignment with the core themes of competence, such as professionalism or quality delivery, and does not provide depth on these topics. Overall, the content is more technical in nature and does not engage with the principles of competence as defined.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Visual Studio 2008 and GDR CTP16, focusing on dependency problems and database imports. There are no direct mentions of Agentic Agility, nor does it align with the core themes of intentionality, autonomy, or adaptability. The discussion lacks depth regarding the principles of Agentic Agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

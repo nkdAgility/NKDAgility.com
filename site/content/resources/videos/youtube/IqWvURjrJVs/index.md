@@ -2,37 +2,31 @@
 title: Znaczenie znajomości terenu
 description: "Discover how understanding terrain enhances agility through Poland's unique mushroom foraging sport. Join us in exploring agile principles! \U0001F344✨"
 date: 2023-08-10T14:45:00Z
+weight: 1000
 ResourceId: IqWvURjrJVs
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IqWvURjrJVs
 url: /resources/videos/:slug
-slug: znaczenie-znajomości-terenu
+slug: znaczenie-znajomoci-terenu
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
-- /resources/videos/IqWvURjrJVs
-- /resources/videos/znaczenie-znajomości-terenu
-- /resources/znaczenie-znajomości-terenu
 - /resources/IqWvURjrJVs
-aliasesFor404:
+- /resources/videos/znaczenie-znajomoci-terenu
+- /resources/videos/znaczenie-znajomo-ci-terenu
+aliasesArchive:
+- /resources/videos/znaczenie-znajomoci-terenu
 - /resources/videos/znaczenie-znajomości-terenu
 - /resources/znaczenie-znajomości-terenu
+- znaczenie-znajomoci-terenu
+- /resources/videos/znaczenie-znajomo-ci-terenu
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
 isShort: false
-tags:
-- Coaching
-- People and Process
-- Organisational Agility
-- Business Agility
-- Agile Frameworks
-- Scrum Product Development
-- Software Development
-- Agile Strategy
-- Team Performance
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
@@ -40,7 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?
@@ -49,11 +43,11 @@ About NKD Agility
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments. 
 
 If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-[coaching]({{< ref "/tags/coaching" >}})/ 
 
 We would love to work with you. 
 

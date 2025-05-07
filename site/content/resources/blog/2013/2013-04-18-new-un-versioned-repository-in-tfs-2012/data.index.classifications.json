@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T19:01:57",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of TFS 2012 and un-versioned repositories, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:01:58",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation and benefits of using an un-versioned repository in TFS 2012, detailing practical techniques for managing build outputs and version control, which aligns with the category focus.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,66 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:02:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, specifically regarding un-versioned repositories, without any focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:02:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and usage of an un-versioned repository in TFS 2012, without a clear focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:02:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical implementation of an un-versioned repository in TFS 2012, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:02:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, focusing on version control and build processes, without any mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on its benefits for build drop management. There are no direct mentions of Evidence-Based Management principles or metrics, and the discussion lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T19:02:06",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, focusing on version control and build processes, without any clear reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:02:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of an un-versioned repository in TFS 2012, including step-by-step instructions for setting up build definitions and managing files within version control.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the introduction and usage of an un-versioned repository in TFS 2012, which directly relates to installation and configuration processes. It provides a step-by-step guide on how to set up the new repository, including editing build definitions and using specific commands. The discussion aligns well with the category's focus on actionable instructions for configuring tools. However, while it does provide some depth, it lacks extensive troubleshooting or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:02:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of using an un-versioned repository in TFS 2012, without addressing transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses technical features of TFS 2012 and the management of build drops, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:02:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of TFS 2012 and un-versioned repositories, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of an un-versioned repository in TFS 2012, which relates to version control and build processes, key aspects of DevOps practices. However, it primarily focuses on TFS features rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the features and benefits of an un-versioned repository in TFS 2012, focusing on build drop management. While it touches on aspects of workflow improvement, it lacks a direct discussion of DevOps principles such as collaboration, automation, or shared accountability. The mention of build processes and version control is relevant but does not align closely with the broader DevOps philosophy, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementations and features of TFS 2012, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:02:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical features and functionalities of TFS 2012, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:02:19",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the introduction of an un-versioned repository in TFS 2012 and its implications for build drops, rather than focusing on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:02:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical features and functionalities of TFS 2012, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:02:24",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation and management of an un-versioned repository in TFS 2012, without focusing on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,11 +145,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of an un-versioned repository in TFS 2012, which relates to engineering practices and methodologies for managing build outputs. However, the primary focus is on the specific feature rather than broader principles of technical excellence.",
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to engineering practices in version control and build management. However, it primarily focuses on the specific feature rather than broader principles of technical excellence such as TDD, CI/CD, or modular architecture. While it touches on the implications of this feature for build processes and repository management, it lacks depth in discussing how these practices enhance agility or quality in software development.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -235,12 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, focusing on build drops and version control management. While it touches on aspects of product delivery, such as storage and management of build outputs, it primarily revolves around technical implementation details rather than broader methodologies or practices in product delivery.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to the deployment and management of build outputs. However, it lacks a direct focus on broader product delivery methodologies, such as Agile practices or iterative development. While it touches on aspects of deployment and version control, it does not provide in-depth insights into the overall product delivery process or best practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -260,15 +203,6 @@
     "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, focusing on version control and build processes, without addressing Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:02:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and usage of TFS 2012, without focusing on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T19:02:37",
@@ -280,11 +214,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features related to Team Foundation Service (TFS), which is part of Azure DevOps, but primarily focuses on the specifics of un-versioned repositories rather than broader Azure DevOps functionalities.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses features related to Team Foundation Service (TFS), which is part of Azure DevOps. However, it primarily focuses on a specific feature (un-versioned repository) without providing a broader context or detailed exploration of Azure DevOps as a whole. While it mentions TFS and its functionalities, it lacks comprehensive coverage of Azure DevOps services, methodologies, or best practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
@@ -305,22 +242,25 @@
     "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, focusing on version control and build processes, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T19:02:43",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and usage of an un-versioned repository in TFS 2012, which is not directly related to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:02:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of TFS 2012 and un-versioned repositories, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on build drop management rather than any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or the core themes outlined in the APOM framework. The discussion is heavily centred on version control and technical implementation, which does not align with the category's focus.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +272,16 @@
     "reasoning": "Content primarily discusses the technical aspects of using an un-versioned repository in TFS 2012, without addressing organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a new feature in TFS 2012, which is relevant to updates in technology, but primarily focuses on technical implementation rather than broader industry news or reviews.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the management of build outputs and version control in TFS 2012, which relates to the deployment and maintenance stages of the application lifecycle, but it primarily focuses on specific features rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:02:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features and functionalities of TFS 2012, with no clear focus on Scrum principles, roles, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to the management of build outputs and version control. However, it primarily focuses on specific features and functionalities of TFS rather than the broader methodologies, practices, and tools involved in Application Lifecycle Management. While there are mentions of version control and build processes, the discussion lacks depth in covering the entire application lifecycle stages or best practices in governance and compliance, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,38 +295,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and usage of TFS 2012 and un-versioned repositories, with no clear relation to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation and benefits of an un-versioned repository in TFS 2012, touching on aspects of software engineering practices, version control management, and technical considerations in build processes. However, it primarily focuses on a specific feature rather than broader principles of software craftsmanship.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, focusing on its practical implications for build drops and version control. While it touches on aspects of software engineering, such as managing build outputs and the impact on version control, it lacks a deeper exploration of best practices, principles of clean code, or methodologies that contribute to software craftsmanship. The discussion is primarily practical and does not delve into broader technical mastery concepts.",
     "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details about un-versioned repositories in TFS 2012 and does not focus on product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of un-versioned repositories in TFS 2012 and related version control management, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to build management and version control. However, it does not explicitly address Continuous Delivery principles or practices. While it touches on aspects of streamlining workflows and managing build outputs, it lacks a focus on automation, rapid feedback, or cultural aspects of Continuous Delivery. The discussion is primarily technical and does not explore the broader implications or benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses updates and features of Team Foundation Service, specifically regarding version control and build processes, with no mention of Definition of Ready or its related criteria.",
     "level": "Ignored"
   },
@@ -451,10 +382,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a new feature in TFS 2012 regarding an un-versioned repository and does not discuss the Product Backlog or related Agile practices.",
     "level": "Ignored"
   },
@@ -487,19 +418,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the implementation of an un-versioned repository for build drops in TFS 2012, addressing operational challenges with version control efficiency and cleanup processes. While it relates to improving operational practices and workflow management, the primary focus is on TFS 2012 features rather than broader Agile or DevOps methodologies.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to operational practices by addressing the management of build drops and the efficiency of version control. However, while it touches on the implications of this change for operational efficiency, it lacks a comprehensive exploration of broader operational strategies or methodologies. The focus is more on a specific feature rather than a detailed discussion of operational practices in Agile, DevOps, or Lean frameworks.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the use of an un-versioned repository in TFS 2012 and does not relate to Scrum roles, team dynamics, or collaboration techniques.",
     "level": "Ignored"
   },
@@ -523,10 +457,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical aspects of an update to TFS 2012 and the use of an un-versioned repository, but does not focus on validating product ideas or user engagement.",
     "level": "Ignored"
   },
@@ -559,10 +493,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical implementation details related to an un-versioned repository in TFS 2012, which does not pertain to team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -586,28 +520,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation and implications of an un-versioned repository in TFS 2012, which is directly related to version control systems and practices in the software development lifecycle.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to version control systems, a key topic in software development. It provides a detailed explanation of the benefits and implications of using this feature, aligning with best practices in coding and software design. However, while it touches on relevant themes, the focus is primarily on a specific tool rather than broader software development methodologies or practices.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical updates in TFS 2012 and repository management, lacking discussion on agile principles or methodologies.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of an un-versioned repository in TFS 2012, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +550,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content focuses primarily on updates and features related to version control in TFS 2012, including discussion of un-versioned repositories, managing build drops, and using version control commands like 'destroy'.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to version control practices. It mentions the implications of storing build drops in a versioned repository and the need for cleanup using the 'destroy' command, which aligns with conflict resolution and history management. However, while it touches on relevant topics, the focus is primarily on TFS 2012's specific features rather than broader best practices or methodologies in modern source control.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on features and usage of an un-versioned repository in TFS 2012, with no discussion on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -701,15 +632,6 @@
     "reasoning": "Content heavily discusses technical features and functionalities of TFS 2012 without addressing customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses TFS 2012 and repository management rather than Scrum principles, practices, or scaling methodologies.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T20:02:32",
@@ -728,23 +650,17 @@
     "reasoning": "Content discusses technical features and management of repositories in TFS 2012, with no relevance to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS 2012 and its version control features, not on scaling agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of an un-versioned repository in TFS 2012, touching on aspects of version control management, build processes, and the implications of choosing different storage strategies. While it focuses on a specific technical implementation, it does relate to software engineering practices, but is not primarily about broader engineering excellence concepts.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to software development practices, particularly in managing build outputs and version control. However, it primarily focuses on a specific feature rather than broader principles of engineering excellence, such as coding standards or continuous improvement. While it touches on aspects of technical debt management and the impact of version control on efficiency, the discussion lacks depth and does not comprehensively cover the key topics outlined in the category definition.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -784,11 +700,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical implementation of an un-versioned repository in TFS 2012, addressing real-world problems related to version control and build drop management. While it primarily focuses on a specific feature, it incorporates practical solutions and adaptations relevant to Agile and DevOps practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the practical implementation of an un-versioned repository in TFS 2012, highlighting the benefits and challenges of this approach. While it touches on real-world applications and problem-solving strategies related to version control, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The focus is primarily on a specific technical feature rather than a comprehensive exploration of pragmatic thinking in project management contexts.",
     "level": "Tertiary"
   },
   "Backlog Refinement": {
@@ -802,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical features of an un-versioned repository in TFS 2012, without focusing on the broader themes of innovation capability measurement or improvement.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Team Foundation Server (TFS) features and file management rather than Scrum principles, roles, or methodologies relevant to product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses technical aspects of TFS 2012 and version control, with no reference to Agile practices or scaling.",
+    "reasoning": "Content primarily discusses the technical features of an un-versioned repository in TFS 2012, without focusing on the broader themes of innovation capability measurement or improvement.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,12 +766,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012 which affects the build process and storage management of deployment artifacts, providing insights into improving the functionality and operational efficiency of software delivery, but it is not primarily focused on the delivery of functional software or best practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to software functionality and operational aspects. However, it primarily focuses on technical implementation details rather than broader themes of working software, such as customer value or iterative development. While it touches on the importance of managing build outputs, it lacks a comprehensive exploration of quality assurance or user feedback mechanisms.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -883,19 +787,22 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the management of build outputs and repositories within the context of TFS, which relates to CI practices, but primarily focuses on the un-versioned repository feature rather than CI itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the use of an un-versioned repository in TFS 2012, which relates to build processes and version control. However, it does not explicitly address Continuous Integration principles or practices. While it touches on aspects of build management and version control, it lacks a comprehensive exploration of CI concepts, best practices, or tools that are central to the CI category. The focus is more on the specifics of TFS and repository management rather than the broader implications of CI.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of Team Foundation Service (TFS) and its features, specifically focusing on un-versioned repositories, and does not relate to market share strategies or competitive analysis.",
     "level": "Ignored"
   },
@@ -955,19 +862,22 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of an un-versioned repository in TFS 2012 for managing build outputs, which relates to aspects of release management and version control, but it primarily focuses on the specifics of TFS rather than broader release management practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to version control and the management of build outputs. However, it lacks a comprehensive focus on broader release management strategies, such as planning, scheduling, or risk management. While it touches on aspects of version control and the implications for build processes, it does not delve deeply into the overall release management practices or metrics for success, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of TFS 2012 and version control, with no relevant focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -982,12 +892,12 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:58",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "While the content discusses build processes in relation to TFS 2012 and includes aspects of version control, it does not specifically focus on Azure Pipelines or CI/CD practices related to Azure DevOps. The discussion primarily revolves around TFS rather than Azure Pipelines.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1009,10 +919,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical updates to TFS 2012 and storage management rather than team collaboration dynamics or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +944,7 @@
     "reasoning": "Content primarily discusses the functionality and features of TFS 2012 related to version control and build processes, without a clear focus on broader digital transformation strategies or impacts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:02:32",
     "ai_confidence": 0,
@@ -1043,30 +953,24 @@
     "reasoning": "Content primarily discusses the features and benefits of an un-versioned repository in TFS 2012, which is unrelated to Minimum Viable Products or their development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and management of Team Foundation Service and un-versioned repositories, with no focus on AI applications or relevant integrations.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a new un-versioned repository in TFS 2012 and the processes involved in managing build drops, which directly relates to system configuration practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012, which relates to system configuration by addressing how to configure build outputs and manage version control effectively. It provides specific details on the setup process, including changing build definitions and using commands to clean up old files. However, while it touches on configuration aspects, the primary focus is on the features of TFS rather than a broader exploration of system configuration principles, which limits its alignment with the category.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a new feature in TFS 2012, focusing on an un-versioned repository rather than product strategy or related methodologies.",
     "level": "Ignored"
   },
@@ -1099,11 +1003,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and management of un-versioned repositories in TFS 2012, with no clear focus on Test First Development or its principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the introduction of an un-versioned repository in TFS 2012 and its implications for build drop management. It does not mention Test First Development, success criteria, or any related testing practices. The focus is on version control and build processes rather than the principles of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1135,10 +1042,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details and implementation aspects of TFS 2012, without any focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1162,11 +1069,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
     "final_score": 68.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to managing versioned and un-versioned repositories in TFS 2012, touching on troubleshooting issues with version control. However, it is also focused on the implementation of a specific feature rather than a systematic troubleshooting methodology.",
+    "reasoning": "The content discusses the introduction of an un-versioned repository in TFS 2012 and the implications of using it, particularly in relation to cleaning up old files in version control. While it touches on the challenges of managing versioned repositories and provides a solution, it lacks a focused discussion on troubleshooting techniques or methodologies. The content is more about the features and usage of TFS rather than diagnosing and resolving specific technical issues, which is essential for a strong alignment with the Troubleshooting category.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1090,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical details related to TFS 2012 and version control, with no clear reference to Scrum Master responsibilities or Scrum practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on build management and version control. There are no direct mentions of the Scrum Master role, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The discussion is entirely centred on a specific tool and its functionalities, which is unrelated to the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,15 +1118,6 @@
     "reasoning": "Content is primarily about the technical aspects of TFS 2012 and un-versioned repositories, with no mention of working agreements or teamwork principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical aspects of using TFS 2012, specifically the management of build drops and version control, which are relevant to software development practices. However, it does not directly address Agile or DevOps methodologies, making it a secondary theme rather than a primary focus.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T20:02:32",
@@ -1225,12 +1129,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the management of build drops and version control within TFS, which touches on automation and the importance of maintaining a clean repository. However, the focus is primarily on TFS features rather than broader Agile engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the introduction of an un-versioned repository in TFS 2012 and its implications for build drops. While it touches on aspects of version control and the management of build outputs, it does not explicitly address core engineering practices such as clean code, TDD, CI/CD, or automation in a meaningful way. The discussion is more focused on the operational aspects of TFS rather than the principles of Agile engineering practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1252,10 +1159,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical details related to TFS 2012, build processes, and version control, with little to no focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1306,10 +1213,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T20:02:32",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and updates related to Team Foundation Service and un-versioned repositories, without focusing on Lean principles or product development practices.",
     "level": "Ignored"
   },
@@ -1329,15 +1236,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features and usage of un-versioned repositories in TFS 2012, lacking focus on accountability in Agile contexts.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:02:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Team Foundation Service and its features regarding build drops, which is unrelated to Scaling Kanban principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1360,11 +1258,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:48:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, specifically regarding un-versioned repositories, without any focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of TFS 2012 and the implementation of an un-versioned repository for build drops. It does not discuss collaboration, decision-making, or value delivery within organisations, which are key themes of Social Technologies. While it mentions some benefits of the new repository, it lacks depth in exploring social frameworks or methodologies that promote teamwork or collective intelligence.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1275,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details about TFS 2012 and un-versioned repositories, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:19:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the features and usage of an un-versioned repository in TFS 2012, which does not align with the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:19:56",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the features and functionalities of TFS 2012, focusing on version control and build processes, without any mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the features and functionalities of TFS 2012, specifically regarding un-versioned repositories and build drops. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum or Agile methodologies. The content lacks depth in any Scrum-related topics, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the introduction of an un-versioned repository in TFS 2012 and its implications for build drops. While it touches on version control and storage solutions, it does not address the Shift-Left Strategy or its principles, benefits, or techniques. The focus is on repository management rather than integrating testing, security, or compliance earlier in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on its benefits for build drop management. While it touches on improvements in workflow, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or a culture of experimentation. The content does not provide depth in terms of strategies or frameworks related to Continuous Improvement, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on its benefits and usage rather than addressing the concept of Common Goals within Agile or DevOps frameworks. There are no explicit mentions of shared objectives or alignment strategies, and the discussion lacks depth in relation to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the technical features of TFS 2012 and the benefits of an un-versioned repository. While it touches on aspects of workflow improvement, it does not explicitly address competence, continuous learning, or skill development. The focus is on tool functionality rather than the principles of professionalism and quality delivery associated with competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical aspects of an un-versioned repository in TFS 2012, focusing on build drop management and workflow enhancements. It does not address the intentional shaping of outcomes, agency, or the principles of Agentic Agility. There are no explicit mentions of human or AI capabilities in the context of agility, nor does it explore the transformative capacity of individuals or systems. Overall, the content lacks relevance to the category.",
     "level": "Ignored"
   }
 }

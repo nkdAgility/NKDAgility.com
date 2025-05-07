@@ -2,8 +2,10 @@
 title: What is Taylorism and how did it influence project management?
 description: "Discover how Taylorism revolutionised project management, shaping work dynamics from the Industrial Revolution to today's people-centric approaches. \U0001F4C8\U0001F570️"
 date: 2023-02-22T07:00:28Z
+weight: 1000
 ResourceId: wHYYfvAGFow
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wHYYfvAGFow
@@ -15,31 +17,25 @@ preview: https://i.ytimg.com/vi/wHYYfvAGFow/maxresdefault.jpg
 duration: 483
 isShort: false
 aliases:
-- /resources/what-is-taylorism-and-how-did-it-influence-project-management
-- /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management-
-- /resources/videos/wHYYfvAGFow
-- /resources/what-is-taylorism-and-how-did-it-influence-project-management-
 - /resources/wHYYfvAGFow
-aliasesFor404:
+- /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management
+aliasesArchive:
+- /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management
 - /resources/what-is-taylorism-and-how-did-it-influence-project-management
 - /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management-
 - /resources/what-is-taylorism-and-how-did-it-influence-project-management-
+- what-is-taylorism-and-how-did-it-influence-project-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Sociotechnical Systems
-- Complexity Thinking
+tags: []
 resourceTypes:
 - video
 categories:
-- Scrum
-- Product Management
-- Social Technologies
+- Uncategorized
 
 ---
-What is Taylorism and how did it influence project management?
+What is Taylorism and how did it influence [project management]({{< ref "/tags/project-management" >}})?
 
 ## Taylorism
 
@@ -55,7 +51,7 @@ In essence, managers are the brains of the operation, supervisors ensure work is
 
 In a simple or complicated environment, we are repeating the same tasks over and over so you can identify a best practice and create a process of system of delivery that ensures a specific outcome.
 
-So, his work and thought leadership in the space became incredibly popular and informed pretty much everything that evolved from there. It is only when we entered the complex space that this framework or approach to product development proved unreliable and created more problems than it solved.
+So, his work and thought [leadership]({{< ref "/categories/leadership" >}}) in the space became incredibly popular and informed pretty much everything that evolved from there. It is only when we entered the complex space that this framework or approach to [product development]({{< ref "/categories/product-development" >}}) proved unreliable and created more problems than it solved.
 
 ## Context for Taylorism
 
@@ -169,7 +165,7 @@ So, agile doesn’t knock project management, it simply acknowledges that it isn
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

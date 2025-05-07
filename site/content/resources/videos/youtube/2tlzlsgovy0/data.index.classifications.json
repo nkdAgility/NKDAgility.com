@@ -1,19 +1,19 @@
 {
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T12:41:59",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of product vision and team understanding in relation to Agile practices, rather than focusing on Value Stream Management principles or techniques.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:42:00",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of product vision and team understanding rather than metrics or learning processes.",
     "level": "Ignored"
   },
@@ -28,30 +28,27 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:42:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of product vision and strategic goals in relation to Agile principles, emphasising team understanding and responsibility in decision-making.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of product vision and strategic goals, which are crucial in Agile Product Management. It highlights the need for team members to understand how their work aligns with these goals, reflecting the Agile principle of maximising product value. However, while it touches on key themes, it lacks detailed exploration of specific Agile practices or methodologies, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T12:42:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and pushing responsibility down the organisation, which aligns with decentralisation and human-centric approaches, but it primarily focuses on agile practices rather than BetaCodex principles.",
-    "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:42:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding in an Agile context, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of a product vision and the need for team members to understand their contributions, which aligns with the human-centric and decentralised principles of BetaCodex. However, it does not explicitly mention BetaCodex or its foundational theories, leading to a moderate confidence score. The emphasis on pushing responsibility down the organisation reflects a decentralised approach, but the overall discussion lacks depth in exploring the broader implications of BetaCodex principles.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -62,94 +59,73 @@
     "reasoning": "Content primarily discusses the importance of product vision and team understanding in Agile, without a focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:42:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding in an Agile context, without a focus on code quality or complexity.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:42:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and the importance of product vision, without a clear focus on DevOps practices or principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile principles and the importance of product vision and team alignment, which are not central to DevOps discussions. While it touches on concepts like team empowerment and feedback loops, these are framed within an Agile context rather than a DevOps philosophy. The lack of explicit references to DevOps practices or principles results in a low confidence score.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:42:12",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of product vision and team understanding, which is not related to installation or configuration processes.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:42:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which relates to Agile principles and enhancing team responsiveness. However, it primarily focuses on team dynamics and decision-making rather than broader market adaptability strategies.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:42:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of product vision in Agile teams rather than providing news or reviews related to Agile methodologies or tools.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of a clear product vision and team understanding, which indirectly relates to market adaptability by emphasising the need for agility and informed decision-making. However, it lacks explicit references to Agile methodologies, DevOps practices, or Lean principles, and does not provide substantial detail on strategies for responding to market shifts.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:42:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the importance of product vision and strategic goals in relation to Agile teams, emphasising the need for understanding and alignment with organisational objectives, which aligns closely with the principles of the Agile Product Operating Model.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding the product vision and strategic goals, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on team dynamics and empowerment rather than the broader framework of APOM. While it touches on key themes such as team alignment and decision-making context, it lacks detailed exploration of the operational stability, governance, and integration aspects central to APOM.",
     "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T12:42:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses decision-making in the context of Agile teams and the importance of understanding product vision, which relates to decision theory as it involves making informed choices based on strategic goals. However, the primary focus is on Agile practices rather than decision theory itself.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T12:42:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of team understanding and responsibility in relation to product vision, which directly relates to team dynamics and collaboration in Agile environments.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:42:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding in an Agile context, without a clear focus on organisational resilience or change management.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which indirectly relates to decision-making processes. However, it primarily focuses on Agile practices and team dynamics rather than explicitly addressing decision theory concepts such as heuristics, biases, or frameworks. The mention of making informed decisions is relevant but lacks depth in exploring decision theory principles.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:42:23",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which are essential for delivering value in Agile teams. However, it primarily focuses on team dynamics and decision-making rather than specific value delivery methodologies.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of a clear product vision and strategic goals, which are essential for aligning team efforts with customer value. It highlights the need for team members to understand how their work contributes to these goals, indicating a focus on value delivery. However, while it touches on key aspects of value delivery, such as responsibility and decision-making, it lacks detailed methodologies or practices related to iterative development or customer feedback mechanisms, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -163,10 +139,10 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:42:26",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of product vision and team understanding in relation to agility, without a clear focus on technical practices or methodologies.",
     "level": "Ignored"
   },
@@ -206,23 +182,17 @@
     "reasoning": "Content heavily discusses Agile principles and the importance of product vision, without a clear focus on Lean methodologies or principles.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:42:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding in Agile, without reference to specific events or presentations.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:42:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals for agile teams, which aligns with the principles of business agility. However, it primarily focuses on team dynamics and decision-making rather than broader business agility practices.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of a clear product vision and strategic goals, which are essential for fostering business agility. It highlights the need for team members to understand how their work contributes to these goals, indicating a focus on adaptability and value delivery. However, while it touches on key aspects of business agility, such as responsibility and decision-making, it lacks a comprehensive exploration of the principles, strategies, and frameworks that define the category. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -242,23 +212,17 @@
     "reasoning": "Content heavily discusses Agile principles and team dynamics without a direct connection to platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:42:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding, without focusing on specific tools, methodologies, or practical techniques related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:42:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of product vision and team understanding in relation to agile practices, making it a major but secondary theme in the context of product delivery.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of product vision and team understanding, which are relevant to product delivery. However, it lacks explicit mentions of methodologies or practices directly related to the end-to-end process of delivering software products. The discussion aligns conceptually with the need for clear goals and team empowerment, but it does not delve deeply into specific practices or metrics associated with product delivery.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -271,75 +235,39 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:42:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding in fostering agility, emphasising the need for responsibility and context in decision-making.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:42:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which relates to transparency in communication and accountability in decision-making. However, it primarily focuses on product vision rather than transparency and accountability as central themes.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:42:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which relates to learning and adapting within Agile teams, but it primarily focuses on team dynamics and responsibilities rather than explicit methodologies for discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of understanding product vision and strategic goals, which are crucial for fostering an agile mindset. It aligns well with the core themes of organisational agility, such as team alignment, empowerment, and adaptability. The depth of discussion is significant, providing practical steps to enhance understanding and ownership within teams, which directly contributes to organisational agility.",
+    "level": "Primary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:42:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding in relation to agility, without a clear focus on evidence-based management principles or empirical data.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns with the concept of empirical decision-making in EBM. However, it primarily focuses on Agile practices and team dynamics rather than providing a robust analysis of evidence-based metrics or decision-making processes. The discussion lacks direct references to EBM principles and does not delve deeply into the specific metrics or outcomes associated with EBM.",
     "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:42:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding in Agile practices, without any mention of AI or automation.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:42:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding in Agile practices, without referencing specific products or literature.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:42:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of product vision and team understanding, which are relevant to Scrum principles, but it does not primarily focus on Scrum roles, events, or artifacts.",
-    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:43:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within a team, which relates to organisational culture and team dynamics. However, it primarily focuses on agile practices rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, which touches on the interplay between social (team dynamics, empowerment) and technical (decision-making, agility) aspects. However, it lacks explicit references to sociotechnical systems as a primary focus and does not delve deeply into the organisational structures or broader sociotechnical frameworks. The discussion is more centred on Agile practices and team empowerment rather than a comprehensive exploration of sociotechnical interactions.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -352,75 +280,75 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:43:04",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which relates to fostering a culture of agility and collaboration. However, it primarily focuses on team-level practices rather than broader organisational implications.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which are essential for fostering an agile mindset within teams. While it primarily focuses on team-level practices, it does touch on broader implications for organisational agility, such as empowering individuals and enhancing responsiveness to change. However, the discussion remains largely centred on team dynamics rather than explicitly addressing enterprise-level agility frameworks or structures.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T13:56:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which relates to leadership in fostering an environment where team members are empowered to make decisions. However, the primary focus is on product vision rather than leadership practices.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of a product vision and how it relates to team understanding and agility, which touches on leadership's role in fostering an environment of accountability and value delivery. However, it lacks explicit discussions on leadership strategies or frameworks, and the depth of exploration into leadership practices is limited.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:56:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, which aligns with Agile principles and the emphasis on collaboration and value delivery.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on team understanding of product vision and strategic goals rather than on scaling Kanban principles or practices.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns with the principles of self-organisation and decision-making in Agile environments. It emphasises team alignment, empowerment, and ownership, which are key aspects of social technologies. However, while it touches on collaboration and value delivery, it does not delve deeply into specific frameworks or methodologies that promote these aspects, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:02:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile practices and team dynamics rather than system configuration.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the importance of product vision and team understanding but does not address scaling Agile practices across multiple teams or at an enterprise level.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, team dynamics, and the importance of understanding product vision and strategic goals. It does not discuss system configuration, configuration management tools, or any related topics. While there are mentions of decision-making and team alignment, these are not directly related to system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 65,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 60.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, emphasizing the need for team members to align their work with these goals. However, it leans more towards practical application than discussing the underlying principles of Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns closely with Agile principles of value delivery, team alignment, and adaptability. It emphasises fostering an agile mindset and the cultural shifts necessary for Agile adoption, providing practical steps to enhance team understanding and ownership. The depth of discussion is significant, focusing on how these elements contribute to a thriving Agile environment, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of a shared product vision and how understanding strategic goals contributes to agility, indicating a focus on culture and mindset which aligns with change management principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which indirectly relates to change management by emphasising the need for alignment and adaptability within teams. However, it primarily focuses on team dynamics and empowerment rather than explicit change management strategies or practices. While it touches on fostering a culture of ownership and responsibility, it lacks direct discussions on managing change processes or stakeholder engagement, which are core to the Change Management category.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -433,30 +361,36 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the importance of product vision and strategic goals for agile teams, without addressing Lead Time or its related metrics and themes.",
+    "calculated_at": "2025-04-11T09:13:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of understanding product vision and strategic goals within Agile teams. While it touches on themes of team alignment and decision-making, it does not explicitly mention Lead Time or its measurement, nor does it discuss its relationship with Cycle Time or strategies for optimisation. The discussion is more about fostering an agile mindset rather than addressing Lead Time as a metric, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals in relation to team engagement and contribution, which aligns with team motivation principles. However, it primarily focuses on the strategic context rather than direct motivational strategies or practices, making it a secondary theme.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of a shared product vision and strategic goals, which directly relates to team motivation by fostering engagement and ownership. It aligns well with the core themes of the category, particularly in terms of empowering team members and enhancing collaboration. The depth of discussion is significant, providing practical steps to improve understanding and alignment within the team, which are crucial for motivation in an agile context.",
+    "level": "Primary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the importance of product vision in agile teams, which is tangentially related to Scrum but does not primarily focus on Scrum principles, roles, and practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -469,10 +403,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of product vision and strategic goals rather than the criteria for establishing a Definition of Ready.",
     "level": "Ignored"
   },
@@ -487,10 +421,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of product vision and team understanding rather than technical practices or software craftsmanship.",
     "level": "Ignored"
   },
@@ -532,12 +466,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of product vision and team understanding in Agile practices, which are related to delivering successful working software, but it does not focus primarily on the characteristics or best practices of working software itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which indirectly relates to delivering working software by emphasising team alignment and decision-making. However, it lacks direct references to working software characteristics or practices, focusing more on team dynamics and empowerment rather than the software itself.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -550,12 +487,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses principles of agility and how understanding product vision impacts team performance, suggesting a focus on aspects of organisational change, but it primarily revolves around team dynamics rather than a broader organisational change framework.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, which aligns with the principles of fostering a culture of agility. However, it primarily focuses on team dynamics and individual responsibilities rather than broader organisational change strategies or frameworks. While it touches on aspects of empowerment and alignment, it lacks detailed exploration of methodologies or leadership roles in driving organisational change.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -566,23 +506,14 @@
     "reasoning": "Content focuses primarily on the importance of product vision and team understanding rather than continuous learning principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on product vision and team understanding rather than the scaling of Scrum practices in large organizations.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the importance of product vision and strategic objectives in agile teams, but it does not clearly connect to evidence-based decision-making or empirical evidence. The focus is more on team understanding and empowerment rather than data-driven leadership practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -631,12 +562,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, highlighting the need for team members to understand their contributions and the importance of pushing responsibility down in the organization, which aligns with Agile leadership principles.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of understanding product vision and strategic goals, which are crucial for Agile leadership. It highlights the role of leaders in empowering teams and fostering a culture of ownership and accountability. The depth of discussion on practical steps to enhance team alignment and understanding further supports its relevance to Agile leadership. Overall, the content aligns well with the core themes of the category, focusing on leadership's role in facilitating change and promoting an agile mindset.",
+    "level": "Primary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -658,12 +592,15 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of product vision and its linkage to team understanding and contribution, which aligns with some responsibilities of the Product Owner in terms of maximizing product value and stakeholder engagement.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of a clear product vision and strategic goals, which are relevant to the Product Owner's responsibilities. However, it primarily focuses on team dynamics and empowerment rather than the specific duties and practices of a Product Owner. While it touches on aspects like maximising value and team alignment, it lacks direct references to backlog management, prioritisation strategies, or stakeholder engagement, which are crucial for a full alignment with the Product Owner category.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -676,11 +613,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the importance of product vision and strategic goals in the context of Agile teams, aligning well with the core principles of product management.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of product vision and strategic goals in relation to Agile practices, which aligns with the core themes of product management. It highlights the need for team members to understand how their work contributes to these goals, reflecting on stakeholder alignment and the role of product management in Agile. However, it lacks detailed exploration of methodologies or frameworks, resulting in a moderate depth of discussion.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -694,21 +634,24 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of product vision and team responsibility in an Agile context, without a clear focus on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding strategic goals to empower teams and encourages pushing responsibility down the organization, which aligns with themes of self-organisation, although it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns with self-organisation principles by promoting team autonomy and ownership. It highlights the need for team members to be empowered to make decisions, fostering a culture of responsibility and accountability. While it does not explicitly mention 'self-organisation', the themes of empowerment and alignment with strategic objectives are central to the concept. The depth of discussion on practical steps to enhance understanding and ownership further supports its relevance to the category.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -730,20 +673,26 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "Content discusses the importance of product vision and its connection to team understanding and strategic goals, indicating a focus on product strategy.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of product vision and strategic goals, which are central to product strategy. It highlights how understanding these elements can enhance team alignment and decision-making, aligning well with the core themes of product strategy. However, while it touches on these topics, the focus on Agile practices and team dynamics slightly detracts from a purely strategic discussion, preventing a higher confidence score.",
+    "level": "Primary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses team members' understanding of product vision and their contributions to strategic goals, but does not focus primarily on Scrum roles or dynamics.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of a clear product vision and team alignment, which are relevant to Scrum teams. However, it primarily focuses on general Agile principles and does not explicitly mention Scrum roles or practices. The discussion on empowering teams and fostering understanding aligns with Scrum values but lacks depth in specific Scrum dynamics.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -757,12 +706,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts central to Agile practices, such as empowering teams, understanding product vision and strategic goals, and the importance of team members being aware of how their work contributes to those goals. However, it does not delve deeply into Agile frameworks or methodologies, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the importance of understanding product vision and strategic goals, which are crucial for fostering an agile mindset. It aligns well with Agile principles by emphasising team empowerment, ownership, and adaptability. The depth of discussion is significant, providing practical steps to enhance team alignment with Agile practices. Overall, it strongly focuses on Agile transformation themes.",
+    "level": "Primary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -793,21 +745,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the alignment of product vision and strategic goals with the work of Agile teams, emphasizing the importance of understanding these elements to ensure agility and value delivery.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, which is relevant to the role of software developers. However, the primary focus is more on team dynamics and strategic alignment rather than specific practices related to software development within Agile or DevOps contexts.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of understanding product vision and strategic goals, which aligns closely with Agile principles. It emphasises team alignment, decision-making context, and the need for a shared understanding to foster agility. The depth of discussion is significant, providing practical steps for implementation and highlighting the role of empowerment in Agile environments.",
+    "level": "Primary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -820,12 +766,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the importance of understanding strategic goals and product vision within Agile teams, indicating a strong alignment with the category of Strategic Goals.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of understanding strategic goals and their role in fostering an agile mindset. It provides a clear connection between strategic goals and team alignment, decision-making, and overall agility. The depth of discussion includes practical steps for fostering understanding of these goals, indicating a thorough exploration of the topic. Overall, the content aligns well with the core themes of the category, demonstrating a strong focus on long-term objectives and business agility.",
+    "level": "Primary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -874,65 +823,86 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of team understanding and empowerment in relation to organizational goals, which aligns with technical leadership principles, but it is primarily focused on product vision rather than specific technical leadership practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which is relevant to technical leadership in guiding teams. However, it primarily focuses on the concept of team alignment and empowerment rather than specific technical leadership practices or agile methodologies. While it touches on aspects of fostering a culture of ownership and responsibility, it lacks depth in discussing servant leadership, mentoring, or agile ceremonies, which are core themes of technical leadership.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of team understanding of product vision and strategic goals, which relates to transparency in how work contributes to objectives. However, it mainly focuses on product vision and decision-making context.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of a clear product vision and team alignment, which indirectly relates to transparency by emphasising the need for shared understanding and context in decision-making. However, it does not explicitly address transparency as a primary focus, nor does it delve deeply into techniques or tools that promote transparency in Agile processes.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on understanding product vision and team responsibilities but does not center around innovation capabilities or Evidence-Based Management.",
+    "calculated_at": "2025-04-10T22:02:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the importance of understanding product vision and strategic goals within Agile teams, which is more focused on team alignment and responsibility rather than directly addressing innovation. While it touches on aspects that could indirectly support innovation, such as empowering teams and fostering ownership, it lacks explicit discussions on innovation metrics, learning cycles, or specific innovative practices. Therefore, it does not meet the primary focus required for the 'Ability to Innovate' category.",
     "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of responsibility and understanding in Agile teams, touching on ownership and how it contributes to team dynamics, but it mainly focuses on the product vision rather than accountability as a primary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 30,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of ownership and responsibility within Agile teams, particularly in relation to understanding the product vision and strategic goals. It highlights how empowering team members fosters accountability and enhances agility, which aligns well with the core themes of the Accountability category. However, while accountability is a significant aspect of the discussion, the primary focus is on product vision rather than accountability itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding product vision within the context of Agile teams and decision-making, indicating a direct relevance to Agile principles, though it does not exclusively focus on Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, which aligns with Agile principles. However, it does not explicitly mention specific Agile frameworks or provide a comparative analysis of them. The focus is more on team dynamics and empowerment rather than a detailed exploration of Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within an Agile team, which relates to team effectiveness and dynamics. However, it primarily focuses on the concept of product vision rather than team performance strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of understanding the product vision and strategic goals, which directly relates to team alignment and performance. It highlights practices for fostering team understanding and ownership, aligning well with the core themes of enhancing team dynamics and collaboration. The depth of discussion is substantial, providing practical steps and insights into how these elements contribute to team effectiveness within an agile framework.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:02:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of product vision and team understanding in Agile, which does not align with the central themes of throughput measurement and optimization.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the importance of understanding product vision and strategic goals within Agile teams. While it touches on themes of team alignment and decision-making, it does not explicitly discuss throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The discussion is more about fostering an agile mindset and culture rather than measuring or improving throughput, which is the core focus of the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -962,15 +932,6 @@
     "reasoning": "Content primarily discusses understanding product vision and its alignment with team responsibilities, without direct focus on employee engagement strategies or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of product vision and team understanding, which relates to agile principles, but it is a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T13:56:03",
@@ -982,48 +943,57 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of product vision and team understanding rather than Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses product vision and agile team dynamics, with no relation to Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the importance of understanding product vision and strategic goals within Agile teams, which is not directly related to Continuous Delivery. While it touches on themes of team alignment and decision-making, it lacks explicit references to Continuous Delivery practices, automation, or delivery cycles. The focus is more on Agile principles rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which relates to aligning product development with customer needs, but it is primarily focused on agile team dynamics and responsibility rather than specific product discovery methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding the product vision and strategic goals, which is relevant to product discovery. However, it primarily focuses on team alignment and empowerment rather than specific methodologies for identifying customer needs or defining product features. While it touches on aspects of product discovery, such as the need for a clear vision and team involvement, it lacks detailed exploration of user research techniques or frameworks for validating product ideas.",
+    "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses product vision and team understanding rather than the Definition of Done.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of product vision and team understanding, which implies a connection to organisational culture and its impact on agility. However, the primary focus is on products and decision-making processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which are crucial for fostering an agile mindset within an organisation. It highlights how a clear product vision can enhance team alignment, ownership, and decision-making, all of which are key elements of organisational culture. The emphasis on empowering teams and fostering a culture of responsibility aligns well with the category's focus on cultural dimensions that support Agile practices. However, while the content is rich in discussing these cultural aspects, it primarily revolves around product vision rather than a broader exploration of organisational culture itself, which slightly limits its depth in that specific area.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -1036,21 +1006,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of understanding product vision and strategic goals, which relates to decision-making in an Agile context, but it is primarily focused on team dynamics and responsibility rather than structured decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which directly relates to decision-making processes within Agile teams. It highlights how a clear product vision provides context for decision-making, thereby aligning with the category's focus on structured, evidence-based methodologies. The depth of discussion is significant, covering practical steps to enhance understanding and empower teams, which further supports informed decision-making. However, while the content is relevant, it does not delve deeply into empirical evidence or specific frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the importance of understanding product vision within teams, which is relevant to software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the importance of understanding product vision within Agile teams, which aligns with Agile methodologies—a key topic in software development. It provides practical steps for fostering team alignment and ownership, which are relevant to Agile practices. However, while it touches on Agile principles, it lacks in-depth technical discussions or methodologies specific to software development processes, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1063,21 +1039,12 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product vision and team understanding, rather than discussing the Product Backlog or its management.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of product vision and team alignment towards strategic goals, which are relevant to Scrum practices, but does not focus specifically on Scrum frameworks or roles.",
-    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1099,21 +1066,27 @@
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of understanding the product vision and strategic goals in order to make informed decisions, which relates to sensemaking, but is primarily focused on Agile team dynamics rather than a comprehensive exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns with sensemaking as it involves interpreting complex situations to make informed decisions. It highlights the need for team alignment and context for decision-making, which are core themes of sensemaking. However, while it touches on these aspects, the discussion is primarily focused on Agile practices and team dynamics rather than a deep exploration of sensemaking principles or frameworks, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of product vision and team alignment with strategic goals, which are relevant to Agile Planning principles, but it primarily centers around understanding and communication within teams rather than specific Agile planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns with Agile Planning principles. It emphasises team alignment and the need for regular check-ins and feedback loops, reflecting iterative planning. However, it lacks direct mentions of Agile methodologies like Scrum or Kanban, and while it touches on key themes, it does not delve deeply into specific Agile planning techniques or frameworks.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -1153,21 +1126,24 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of understanding product vision and strategic goals for Agile teams, rather than focusing on product validation through user engagement and testing methodologies.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the importance of team understanding and responsibility in relation to strategic goals, which aligns with Agile principles of collaboration, self-organization, and customer-centricity.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns with Agile principles of team alignment, customer-centricity, and adaptability. It emphasises empowering teams and fostering ownership, which are core Agile values. The depth of discussion is substantial, providing practical steps to enhance understanding and alignment, thus reinforcing Agile's foundational beliefs.",
+    "level": "Primary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1180,12 +1156,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to team dynamics, understanding strategic goals, and decision-making within an organisation, which are relevant to systems thinking in an organisational context. However, it primarily focuses on agile methodology rather than a holistic view of organisational behaviour.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, which touches on organisational dynamics and the need for alignment. However, it primarily focuses on individual and team behaviours rather than a comprehensive systems thinking approach. While it mentions concepts like empowerment and feedback loops, it lacks a deeper exploration of organisational structure, culture, or complex systems, which are central to the category of Organisational Physics.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1198,21 +1177,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of a product vision and strategic goals in relation to Agile teams, emphasizing how understanding these concepts is crucial for effective Agile practices. It aligns well with the focus on strategic alignment and fostering a strategic mindset within teams.",
-    "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile team dynamics and understanding product vision, with no clear mention of AI applications or influences.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of understanding product vision and strategic goals, which are central to Agile strategy. It aligns well with the key topics of strategic alignment, team performance optimisation, and the role of leadership in fostering a strategic mindset. The depth of discussion is substantial, providing practical steps for fostering understanding and alignment within teams, which enhances its relevance to the Strategy category.",
+    "level": "Primary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1243,11 +1216,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on understanding product vision and strategic goals rather than Test First Development or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of understanding product vision and strategic goals within Agile teams, which does not directly relate to Test First Development principles. While it discusses team alignment and decision-making, it lacks explicit references to testing practices, success criteria, or the Test First approach. Therefore, the confidence score reflects minimal relevance to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1261,21 +1237,24 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content largely focuses on product vision and Agile team dynamics, without addressing technical debt or its management.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding product vision and its contribution to team effectiveness in an Agile context, but it does not dive deeply into specific practical problem-solving strategies or real-world applications, which makes it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, which aligns well with pragmatic thinking. It provides practical steps for fostering this understanding, emphasising real-world applications and the need for adaptability in decision-making. The depth of discussion is significant, covering various strategies to enhance team alignment and ownership, which are crucial in Agile environments.",
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1295,23 +1274,17 @@
     "reasoning": "Content focuses on product vision and team understanding rather than coaching practices or techniques.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on understanding product vision and team responsibilities, which are more centered on team-level practices rather than on scaling agility across the organization.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses product vision and strategic goals, but does not focus on the role or responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which is relevant to the Scrum Master's role in fostering team alignment and agility. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role. The focus is more on general agile principles rather than the distinct functions of a Scrum Master.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1324,10 +1297,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T13:56:03",
+    "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on product vision and team responsibilities in an Agile context, with no mention of Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
@@ -1340,7 +1313,7 @@
     "reasoning": "Content primarily discusses the importance of understanding product vision and strategic goals in Agile teams without a clear focus on the concept of Increment or its delivery.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:56:03",
     "ai_confidence": 0,
@@ -1360,12 +1333,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:56:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of ensuring that team members understand the product vision and strategic goals, which aligns with improving team collaboration and shared understanding, but it primarily focuses on understanding product vision rather than collaboration techniques or team dynamics.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of team alignment and shared understanding of the product vision, which are crucial for effective collaboration. It highlights techniques for fostering ownership and responsibility within teams, aligning with the core themes of team dynamics in Agile. However, while it touches on collaboration, the primary focus is on the product vision rather than direct team collaboration techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1375,5 +1351,432 @@
     "final_score": 0.0,
     "reasoning": "Content discusses the importance of product vision and team understanding rather than focusing on Behaviour Driven Development principles or practices.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:40:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and team dynamics without reference to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:40:03",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the importance of product vision and team understanding in Agile practices, without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of product vision and team understanding, which aligns with Scrum principles of collaboration and delivering value. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of understanding product vision and strategic goals within Agile teams, which does not directly address the Shift-Left Strategy. While there are elements of team empowerment and alignment that could tangentially relate to early integration of processes, the discussion lacks explicit references to testing, security, or compliance in the software development lifecycle. Therefore, the confidence score reflects a minimal connection to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which indirectly relates to Continuous Improvement by emphasising team alignment and adaptability. However, it lacks direct references to Continuous Improvement practices or frameworks, and while it touches on fostering a culture of ownership and feedback, it does not delve deeply into empirical evidence or specific Continuous Improvement strategies.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 0,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of understanding product vision and strategic goals, which are central to the concept of Common Goals in Agile and DevOps. It highlights how team alignment with these goals fosters effective decision-making and accountability, directly addressing the relationship between strategic objectives and team contributions. The depth of discussion is significant, providing practical steps for fostering alignment and ownership, which further reinforces its relevance to the category.",
+    "level": "Primary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of understanding the product vision and strategic goals, which relates to competence in terms of ensuring team members have the necessary context to make informed decisions. It highlights the need for continuous learning and skill development through training and regular check-ins, aligning well with the core themes of competence. However, while it touches on these aspects, the primary focus is more on team alignment and empowerment rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:32:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices and the importance of product vision, which are not directly related to the One Engineering System framework. While it touches on team alignment and decision-making, it lacks explicit discussions on the principles, components, or implementation of 1ES. The content does not provide depth on integration of tools or processes across teams, nor does it address challenges specific to adopting a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:13",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns with the principles of Agentic Agility, particularly in fostering team alignment and ownership. However, it lacks explicit references to the concept of Agentic Agility itself and does not differentiate between human and AI capabilities. The focus is more on general Agile practices rather than a deep exploration of intentional shaping of outcomes.",
+    "level": "Secondary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:01:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 4,
+    "ai_alignment": 8,
+    "ai_depth": 7,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of understanding the product vision and strategic goals, which are central to product development. It aligns well with key topics such as customer feedback loops, team alignment, and the role of cross-functional teams. The depth of discussion is significant, providing practical steps to foster understanding and alignment within teams, which is crucial for iterative learning and continuous improvement in product development. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:01:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, which touches on themes of team alignment and empowerment. However, it does not explicitly mention Liberating Structures or any specific techniques associated with them. The focus is primarily on Agile principles rather than the facilitation techniques that characterise Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:01:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the importance of understanding product vision and strategic goals within agile teams, which is a specific aspect of project management. While it does not explicitly mention broader project management principles or methodologies, it aligns with the core themes of team alignment, decision-making context, and fostering ownership, which are relevant to project management. However, the depth of discussion is limited to agile practices and does not cover other project management methodologies or lifecycle phases, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:01:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within Agile teams, which aligns with some principles of Open Space Agile, such as empowerment and shared ownership. However, it does not explicitly mention Open Space Agile or its specific practices, nor does it delve deeply into the core themes of Open Space Technology or the role of psychological safety. The focus is more on team alignment and responsibility rather than the collaborative change processes central to Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:01:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which indirectly relates to the concept of Unrealised Value by emphasising the need for alignment and ownership to maximise value. However, it does not explicitly mention Unrealised Value or provide detailed insights into identifying or measuring untapped opportunities. The focus is more on team dynamics and agile practices rather than on the potential value that can be captured through improvements and innovations.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:01:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which indirectly relates to Time to Market by emphasising team alignment and decision-making. However, it lacks direct mentions of Time to Market metrics or strategies specifically aimed at reducing delivery time. The focus is more on team empowerment and alignment rather than on optimising processes for quicker delivery of value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:01:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which indirectly relates to the concept of Current Value by emphasising how team alignment and decision-making can maximise value delivery. However, it lacks explicit metrics or indicators of Current Value, and the focus is more on team dynamics and empowerment rather than a real-time assessment of value delivered. The discussion is relevant but does not delve deeply into the specific metrics or techniques for measuring Current Value, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:01:49",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 30,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within agile teams, which aligns with the principles of CaaP by emphasising team alignment and customer value. However, it primarily focuses on team dynamics and agile practices rather than explicitly addressing the broader organisational strategy of treating the company as a product. The discussion lacks depth in exploring how these concepts integrate into organisational design or the impact on company culture, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:01:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the importance of understanding product vision and strategic goals within Agile teams, which is more aligned with general Agile practices rather than the specific complexities of scaling. While it touches on themes of alignment and team empowerment, it lacks direct discussions on scaling frameworks, cross-team collaboration, or managing dependencies, which are critical for the Scaling category. The depth of discussion is limited to team-level insights without addressing broader organisational scaling strategies.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:01:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of understanding product vision and strategic goals within agile teams, without any direct mention or critical examination of Hybrid Agile methodologies. While it discusses aspects of team empowerment and alignment, it does not address the challenges or implications of merging traditional project management with agile practices, which are central to the Hybrid Agile category. Therefore, the content does not align well with the specified category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:01:59",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which aligns with the principles of Agnostic Agile regarding context-driven agility and value delivery. However, it primarily focuses on team dynamics and practical steps rather than explicitly addressing Agnostic Agile principles or comparing it to traditional frameworks. The mention of agility is present, but the content lacks direct references to Agnostic Agile or its distinct philosophy, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:02:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and the importance of understanding product vision within teams, without any direct mention of GitHub or its functionalities. While it touches on themes of team alignment and decision-making, which are relevant to Agile methodologies, it does not address GitHub-specific tools, practices, or integrations. Therefore, the confidence score reflects a very low alignment with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:02:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals within agile teams, which touches on themes of empowerment and responsibility. However, it does not explicitly mention or focus on Cell Structure Design or its principles. The discussion is more aligned with general agile practices rather than the specific organisational design model outlined in the category description.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:27:48",
+    "ai_confidence": 76.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which directly links to principles of alignment, responsibility, and value delivery in agile practices. It emphasizes actionable steps to empower teams and ensure they can make informed decisions, aligning with the principles of self-management and adaptability. The depth of discussion provides several practical steps and illustrates the impact of understanding vision on team's performance. However, it focuses more on values and goals than on concrete principles, thus causing the score to reflect a high level of relevance without being perfect.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:27:48",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the importance of a shared product vision and team alignment in Agile teams, but it does not discuss any specific tools, techniques, or software that facilitate these concepts. While it touches on practices that could be relevant for agile methodologies, it does not mention any specific tools used in Agile, Lean, or DevOps frameworks, nor does it provide detailed insights into tool selection or implementation. Therefore, it does not align well with the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:27:48",
+    "ai_confidence": 68.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content emphasizes the importance of a shared understanding of the product vision and strategic goals, which align with the core values of collaboration and empowerment in Agile environments. It discusses how these elements can influence decision-making and team dynamics, indirectly touching on values like ownership and accountability. Although values are woven into the discussion, they are presented more as outcomes linked to practices, rather than being the primary focus itself. This prevents the score from being higher.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:27:48",
+    "ai_confidence": 45.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content emphasizes the importance of understanding the product vision and strategic goals, which aligns with the philosophies behind Agile. However, it focuses primarily on practical steps and procedures for improving team alignment and does not delve deeply into the theoretical foundations or the 'why' behind Agile principles and values. While it touches on agile philosophy, it conveys a more practical approach rather than a philosophical exploration.",
+    "level": "Tertiary"
+  },
+  "Discipline": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:27:48",
+    "ai_confidence": 65.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of understanding the product vision and strategic goals within an agile framework, contributing to team alignment and accountability. While it directly mentions concepts relevant to Agile discipline, such as empowering team members and fostering a culture of ownership, it primarily focuses on practical techniques rather than the underlying principles of discipline itself. The discussion touches on themes like strategic goals and decision-making context, but lacks a deeper exploration of governance, ethical considerations, or the evolution of Agile as a discipline. Thus, while there is good alignment and mention of the concept, the depth of discussion is still somewhat oriented towards practical application rather than a full examination of the discipline.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:27:48",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content focuses primarily on the concept of product vision and team alignment rather than specific artifacts associated with Agile methodologies. While it mentions the importance of understanding strategic goals—which could relate to artifacts in a broader sense—it does not directly address any specific Agile artifacts or their roles, structures, or best practices. Therefore, it only loosely aligns with the category of 'Artifact' and lacks detailed discussion on the types and management of artifacts.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:27:48",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the importance of understanding product vision and strategic goals within Agile teams, without directly addressing the principles or practices of observability. It discusses team alignment and decision-making but does not explore metrics, logs, or traces, nor does it mention tools that enhance observability. The ideas presented could be tangentially related to team performance, but they do not align with the core themes of observability as defined in the category. Overall, the content is too focused on Agile practices to be classified under Observability.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:27:48",
+    "ai_confidence": 65.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals, which are essential for agile practices. It presents actionable techniques such as regular check-ins, visual aids, involving the team, feedback loops, and training to foster this understanding. However, the main focus is on the concept of vision and alignment rather than a specific practice or technique from the provided list, which limits the alignment and depth scores.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:27:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 6,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses practical steps to empower teams through understanding the product vision, which aligns with methods for improving team alignment in an Agile context. However, it primarily focuses on the importance of vision and alignment without detailing a specific structured method or step-by-step procedure. The content includes mentions of practices like regular check-ins and feedback loops, but since it does not provide a comprehensive method discussion akin to Scrum or Kanban, the confidence score reflects that it touches upon the category without being fully aligned with the structured procedural focus expected from methods.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:27:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of understanding product vision and strategic goals in fostering an agile environment. While it touches on concepts that relate to alignment and decision-making, it does not delve into specific models or frameworks as per the category definition. The focus is primarily on team dynamics and practices rather than the exploration of a conceptual model, thus limiting its relevance to the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:27:49",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of product vision and team alignment within an Agile context. However, it does not explicitly mention any frameworks or methodologies such as Scrum or Kanban, and while it touches on agile principles, it lacks a structured discussion of how specific frameworks can be adapted or implemented. The focus remains on general Agile concepts and practices rather than providing a deeper framework-oriented analysis, which leads to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:27:49",
+    "ai_confidence": 55.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the importance of product vision and strategic goals in fostering an agile mindset, which aligns with key tenets of Agile such as decentralised decision-making and adaptability. However, it primarily emphasizes the concept of understanding rather than providing specific, actionable guiding rules or doctrines. The details provided on practices to strengthen team alignment touch on tenets but lack direct mention of specific tenets. Overall, the emphasis is more on philosophy and culture than on actionable tenets, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:27:49",
+    "ai_confidence": 65.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of a shared understanding of product vision and strategic goals as essential for fostering agility, which aligns with the category of capability. It emphasizes the development of team alignment, ownership, and adaptability, which are key aspects of capabilities. However, the focus is more on responsibility and practical steps rather than deeper insights into systemic capabilities or their measurement, hence the score reflects a moderate alignment but does not fully delve into the nuances of capabilities.",
+    "level": "Secondary"
   }
 }

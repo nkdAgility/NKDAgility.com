@@ -4,6 +4,7 @@
 
 {{- define "headline" }}
   <section class="container my-5">
+    {{- partial "components/taking-on-new-client-poc-cycle.html" . }}
     <div class="row p-2 p-lg-6">
       <div class="col-xl-6 p-lg-3">
         <h1 class="mb-4 nkda-heading-primary">The home of technical leadership and engineering excellence for software development teams.</h1>
@@ -16,9 +17,38 @@
           <div class="col-12">
             <div class="card text-center card-left-border">
               <div class="card-body">
-                <h3 class="card-title">How Usable Working Products Are Your Ultimate Weapon Against Risks</h3>
-                <p class="card-text">The only way to mitigate risk when employing Agile practices is by continuously delivering a usable working product. Agile is not about spinning the hamster wheels but delivering shippable increments that users can interact with.</p>
-                <a href="/resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks/" class="btn btn-primary">Read more...</a>
+                {{ range first 1 (where .Site.RegularPages.ByWeight "Params.ResourceType" "blog") }}
+                  <h3 class="card-title">
+                    {{ if .Draft }}
+                      <i class="fa-brands fa-firstdraft pe-1"></i>
+                    {{ end }}
+                    {{ if gt .Date (now) }}
+                      <i class="fa-regular fa-flux-capacitor pe-1"></i>
+                    {{ end }}{{ .Title }}
+                  </h3>
+                  <p class="card-text">{{ .Description }}</p>
+                  <a href="{{ .RelPermalink }}" class="btn btn-primary">Read more...</a>
+                {{ end }}
+                <div class="row p-2">
+                  <hr />
+                  <div class="col-12">
+                    <h6>Other Engineering Excellence & Technical Leadership posts</h6>
+                  </div>
+                  {{ range first 4 (after 1 (where .Site.RegularPages.ByWeight "Params.ResourceType" "blog")) }}
+                    <div class="col-md-12 d-flex align-items-center">
+                      <span class="mr-1"><i class="fa-solid fa-newspaper pe-1"></i></span>
+                      {{ if .Draft }}
+                        <i class="fa-brands fa-firstdraft px-1"></i>
+                      {{ end }}
+                      {{ if gt .Date (now) }}
+                        <i class="fa-regular fa-flux-capacitor px-1"></i>
+                      {{ end }}
+                      <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Title }} - {{ .Description }}">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                      </span>
+                    </div>
+                  {{ end }}
+                </div>
               </div>
             </div>
           </div>

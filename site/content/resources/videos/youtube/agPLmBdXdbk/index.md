@@ -2,52 +2,42 @@
 title: Must have trait in an Agile Consultant
 description: 'Discover the essential trait every agile consultant needs to excel in solving complex problems quickly. Join Martin Hinshelwood in this insightful short! #Agile #Consulting'
 date: 2023-05-01T09:30:00Z
+weight: 1000
 ResourceId: agPLmBdXdbk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: agPLmBdXdbk
 source: internal
 url: /resources/videos/:slug
-slug: must-have-trait-in-an-agile-consultant
+slug: must-have-trait-in-an-agile-consultant-agPLmBdXdbk
 layout: video
 preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
 duration: 39
 isShort: true
 aliases:
-- /resources/must-have-trait-in-an-agile-consultant
-- /resources/videos/must-have-trait-in-an-agile-consultant
-- /resources/videos/agPLmBdXdbk
 - /resources/agPLmBdXdbk
-aliasesFor404:
-- /resources/must-have-trait-in-an-agile-consultant
+- /resources/videos/must-have-trait-in-an-agile-consultant-agPLmBdXdbk
+aliasesArchive:
 - /resources/videos/must-have-trait-in-an-agile-consultant
+- /resources/must-have-trait-in-an-agile-consultant
+- must-have-trait-in-an-agile-consultant-agPLmBdXdbk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Coaching
-- Agile Values and Principles
-- Resilience and Change
-- Organisational Change
-- Agile Frameworks
-- People and Process
-- Agile Project Management
-- Agile Strategy
-- Agile Philosophy
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
 categories:
-- Leadership
-- Social Technologies
+- Uncategorized
 
 ---
 **Must have trait in an Agile Consultant**
 
 What's the one must have trait that an Agile Consultant absolutely needs? Whilst there are many important traits that are important, I’d say it has to be tenacity! 💪
 
-The ability to zero in on what truly matters to the organization you're serving and to persistently pursue it is crucial to the success of your coaching.
+The ability to zero in on what truly matters to the organization you're serving and to persistently pursue it is crucial to the success of your [coaching]({{< ref "/tags/coaching" >}}).
 
 A major part of that tenacity kicks in once you've pinpointed the areas that require change and cross-verified your assumptions, it's then time to strap in and sprint forward with laser focus. 🎯
 
@@ -63,4 +53,4 @@ Hashtags:        #AgileConsultant #Tenacity #ChangeAgents #LaserFocus #Ign
 
 General
 
-#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+#Agile, #AgileCoach, #[Scrum]({{< ref "/categories/scrum" >}}), #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.

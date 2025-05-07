@@ -1,1 +1,0 @@
-Going to ask you to show us your spot on your team murals. See, in 12 minutes, my children have never done any farming either. Martin-right, I'm just recording a little video for Microsoft support, so I'm showing the issue. I can't click, but you're Gandhi nada.

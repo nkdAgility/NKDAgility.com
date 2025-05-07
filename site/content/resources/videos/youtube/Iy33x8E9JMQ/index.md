@@ -2,39 +2,36 @@
 title: Dogma versus Empiricism in a consulting engagement
 description: 'Explore the clash between dogma and empiricism in Agile consulting. Learn how to navigate challenges for a more effective team dynamic! #Agile #Scrum #Consulting'
 date: 2023-08-11T07:00:08Z
+weight: 1000
 ResourceId: Iy33x8E9JMQ
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Iy33x8E9JMQ
 source: internal
 url: /resources/videos/:slug
-slug: dogma-versus-empiricism-in-a-consulting-engagement
+slug: dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 layout: video
 preview: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
-- /resources/dogma-versus-empiricism-in-a-consulting-engagement
-- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
-- /resources/videos/Iy33x8E9JMQ
 - /resources/Iy33x8E9JMQ
-aliasesFor404:
+- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
+aliasesArchive:
+- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement
-- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
+- dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Pragmatic Thinking
-- People and Process
-- Miscellaneous
+tags: []
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements
@@ -75,8 +72,8 @@ It's all about pragmatically and empirically adapting our processes to the chang
 
 Embracing Empiricism means we're flexible, responsive, and adaptive, ready to mould our strategies per the evolving business landscape.
 
-## Join Us on a Journey of Continuous Learning
+## Join Us on a Journey of [Continuous Learning]({{< ref "/tags/continuous-learning" >}})
 
-As we embrace the path of pragmatism and empirical adaptation, I invite you to enhance your Agile and Scrum knowledge with our comprehensive courses.
+As we embrace the path of pragmatism and empirical adaptation, I invite you to enhance your Agile and [Scrum]({{< ref "/categories/scrum" >}}) knowledge with our comprehensive courses.
 
 Let's pave a path that fosters innovation, responsiveness, and success in the ever-evolving business landscape.

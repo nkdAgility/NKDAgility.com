@@ -10,10 +10,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T12:05:33",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -28,25 +28,19 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T12:05:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and the role of the Scrum Master, which are relevant to Agile practices, but it primarily focuses on promoting a learning experience rather than in-depth discussions on Agile Product Management principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and the role of a Scrum Master, which relates to Agile practices. However, it lacks a detailed discussion on Agile Product Management principles, such as product backlog prioritisation or stakeholder engagement, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T12:05:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:05:38",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
@@ -62,22 +56,16 @@
     "reasoning": "Content heavily discusses Scrum and does not focus on Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T12:05:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not related to software code quality or complexity.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T12:05:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, which are not aligned with the core principles of DevOps. There are no direct mentions of DevOps concepts, and the discussion lacks depth regarding collaboration, automation, or shared accountability, which are essential to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -98,22 +86,16 @@
     "reasoning": "Content primarily focuses on promoting a Scrum Master training programme without discussing market adaptability strategies or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:05:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and Agile methodologies, suggesting a focus on professional development in these areas, but it primarily promotes a specific learning experience rather than providing news or reviews.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:05:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Scrum Master training and does not explicitly discuss the Agile Product Operating Model. While it mentions agile and scrum, it lacks depth and detail on the principles and practices of the APOM, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -125,32 +107,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T12:05:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and the role of the Scrum Master, indicating a focus on team dynamics and collaboration, but it primarily promotes a learning experience rather than deeply exploring the interplay between people and processes.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:05:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:05:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions improving outcomes from Scrum Masters, which relates to value delivery in an Agile context, but it primarily promotes a learning experience rather than focusing on value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the need for better outcomes from Scrum Masters, which hints at value delivery but lacks explicit discussion on strategies or methodologies related to iterative and continuous delivery of value. The focus is more on promoting a learning experience rather than delving into the principles or practices of value delivery within Agile frameworks.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -206,15 +173,6 @@
     "reasoning": "Content heavily discusses Scrum and Agile methodologies without reference to Lean principles.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T12:06:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions an immersive learning experience related to Scrum, which suggests a connection to a structured learning event. However, it primarily focuses on promoting a service rather than detailing a specific event or presentation.",
-    "level": "Tertiary"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-17T12:06:12",
@@ -242,23 +200,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:06:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily promotes a learning experience for Scrum Masters without a detailed exploration of practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:06:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and Agile methodologies, which are relevant to product delivery, but it primarily focuses on promoting a learning experience rather than discussing product delivery practices in depth.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and Agile methodologies, which are relevant to product delivery, but lacks a detailed discussion on the end-to-end process or specific practices involved in delivering software products. The focus is more on promoting a learning experience rather than providing insights into product delivery methodologies.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -271,66 +223,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:06:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and the role of the Scrum Master, which are related to Agile methodologies, but it primarily focuses on promoting a specific learning experience rather than discussing broader organisational agility strategies or practices.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T12:06:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'agile' and 'scrum', which are related to organisational agility, but it lacks a detailed discussion on the principles, practices, or cultural shifts necessary for enhancing agility. The focus is primarily on promoting a specific learning experience rather than exploring the broader themes of organisational agility.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:06:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions immersive learning experiences related to Scrum, which implies a focus on learning and improvement. However, it primarily promotes a service rather than deeply exploring the processes or methodologies of discovery and learning.",
-    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:06:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Scrum Master training and does not explicitly discuss Evidence-Based Management principles or metrics. While it mentions improving outcomes, it lacks empirical evidence or data-informed decision-making discussions, which are central to EBM.",
     "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:06:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or automation technologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T12:06:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an immersive learning experience related to Scrum, which is a product offering, but it is primarily promotional and lacks in-depth analysis or review of specific literature or tools.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:06:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum and discusses the role of a Scrum Master, indicating that Scrum is a significant theme, but it is primarily focused on promoting a learning experience rather than an in-depth discussion of Scrum principles or practices.",
-    "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -370,38 +283,26 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:50:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on Scrum and Agile methodologies, promoting learning experiences related to these frameworks.",
-    "level": "Secondary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and the role of a Scrum Master, which are related to team dynamics and decision-making. However, it lacks a detailed discussion on social technologies, collaboration, or value delivery principles. The focus is primarily on promoting a learning experience rather than exploring the underlying frameworks or methodologies that enhance collaboration and decision-making within organisations.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:16:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not primarily about scaling Agile.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Scrum Master training and agile methodologies, with no direct mention or discussion of system configuration. It lacks any relevant details or themes related to system setup, integration, or maintenance, which are essential for this category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -433,11 +334,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:58:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without mentioning Lead Time as a primary focus.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting Advanced PSM II classes and does not mention Lead Time or its related concepts. There is no discussion of metrics, processes, or strategies relevant to Lead Time, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -451,11 +355,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Professional Scrum Master immersive learning, which relates to Scrum principles and practices, but primarily promotes a service without an in-depth exploration of Scrum concepts.",
+    "final_score": 45.0,
+    "reasoning": "The content briefly mentions the role of a Scrum Master and suggests an immersive learning experience related to Professional Scrum. However, it lacks detailed discussion on Scrum principles, roles, or practices, which limits its depth and alignment with the core themes of the category.",
     "level": "Tertiary"
   },
   "Azure Pipelines": {
@@ -559,20 +466,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions immersive learning experiences for Scrum Masters, which aligns with the concept of continuous learning in Agile environments, but lacks a deeper exploration of growth mindset or knowledge sharing principles.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily promotes a private learning experience for Scrum Masters and does not address scaling Scrum or related frameworks.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the need for better outcomes from Scrum Masters, which hints at the importance of continuous improvement. However, it lacks a detailed discussion on growth mindset, knowledge sharing, or specific practices that promote continuous learning. The focus is primarily on promoting a learning experience rather than exploring the principles and practices of continuous learning in depth.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -739,29 +640,32 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T13:50:19",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content promotes an immersive learning experience for Scrum Masters but does not discuss Scrum Team dynamics, collaboration, roles, or related topics in a substantial way. It is primarily focused on training for Scrum Masters, which is a specific role rather than a discussion on Scrum Team as a whole.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T13:50:19",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on promoting an advanced Scrum Master course and does not specifically discuss the Daily Scrum event or its key topics.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions Scrum and suggests improvement in outcomes related to Scrum Master roles, indicating a focus on Agile principles, but it is primarily promoting a learning experience rather than discussing Agile transformation strategies in depth.",
+    "final_score": 55.0,
+    "reasoning": "The content mentions Scrum and implies a focus on improving outcomes through Agile practices, which aligns with Agile transformation principles. However, it lacks detailed discussion on methodologies, change management, or leadership roles, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Operational Practices": {
@@ -800,15 +704,6 @@
     "reasoning": "Content primarily focuses on Scrum Master training and learning experiences, rather than discussing Agile strategy alignment or broader strategic context.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum Master training and does not focus on the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-17T13:50:19",
@@ -829,10 +724,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T13:50:19",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on promoting a Scrum Master learning experience without discussing Scrum Values or their significance.",
     "level": "Ignored"
   },
@@ -892,11 +787,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:16:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting an Advanced Professional Scrum Master course, with no explicit discussion of innovation or its mechanisms. While it mentions improving outcomes, it does not provide insights into innovation practices, metrics, or strategies, which are essential for the category. The content lacks depth and does not align with the core themes of the Ability to Innovate category.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -910,29 +808,38 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions Scrum and Scrum Master roles, indicating a focus on Agile frameworks, but is primarily promotional in nature.",
+    "final_score": 55.0,
+    "reasoning": "The content mentions Scrum explicitly, which is a key Agile framework, indicating a direct mention. However, it primarily promotes a learning experience rather than exploring Agile frameworks in depth. The alignment with core themes is moderate, as it touches on improving outcomes through Scrum but lacks a comprehensive discussion on Agile principles or comparative analysis. The depth of discussion is limited, focusing more on the promotional aspect rather than detailed insights into Agile frameworks.",
     "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions improving outcomes from the Scrum Master and suggests investing in a learning experience related to Scrum, indicating a focus on team performance enhancement, but does not provide substantial discussion on team dynamics or specific practices related to team performance.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the need for better outcomes from Scrum Masters, which relates to team performance, but lacks detailed discussion on strategies, practices, or methodologies that enhance team dynamics or collaboration. The focus is more on promoting a learning experience rather than an in-depth exploration of team performance within Agile frameworks.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:16:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a focus on throughput measurement or optimization.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting Advanced PSM II classes and does not explicitly mention throughput or its related metrics. While it is related to Scrum, it lacks any discussion on measuring or analysing throughput as a delivery metric. The mention of 'better outcomes' is vague and does not provide any concrete data or analysis related to throughput, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -962,15 +869,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions Scrum and Scrum Master, which are related to Agile Project Management, but the primary focus is on promoting a learning experience rather than discussing Agile methodologies in detail.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T13:50:19",
@@ -991,11 +889,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum Master training and Agile methodologies, with no direct mention of Continuous Delivery principles or practices. It lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion is minimal, as it does not provide any substantial information related to Continuous Delivery.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1045,12 +946,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily promotes Advanced Scrum Master training, discussing a key aspect of Agile methodology, which is related to software development practices, but is mostly focused on a promotional aspect rather than in-depth software development discussion.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content briefly mentions Scrum and Agile methodologies, which are relevant to software development practices. However, it lacks detailed discussion on these topics and does not delve into specific techniques or methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1068,15 +972,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on promoting a Scrum Master training program, not on the Product Backlog or its management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily promotes training for Scrum Masters without directly addressing Scrum product development principles or practices.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1205,15 +1100,6 @@
     "reasoning": "Content primarily discusses Scrum Master training and immersive learning experiences rather than strategic planning or approaches within Agile frameworks.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-17T13:50:19",
@@ -1243,11 +1129,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without mentioning Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Advanced Professional Scrum Master classes and does not discuss Test First Development principles, success criteria, or testing practices. It briefly mentions Scrum, but lacks any direct connection to the Test First Development category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1270,12 +1159,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and the role of Scrum Masters in improving outcomes, suggesting a focus on practical applications in Agile environments, but it is primarily a promotional message rather than a deep discussion on pragmatic thinking.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and the need for better outcomes, indicating a focus on practical improvement. However, it lacks detailed discussion on pragmatic problem-solving strategies or real-world applications of Agile principles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1288,37 +1180,34 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions investing in a Scrum Master and implies a focus on improving outcomes, which relates to coaching practices, but it primarily promotes a specific learning experience rather than discussing coaching in depth.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on Scrum Master training, which is primarily a team-level agile practice, and does not address scaling agility or organizational-level practices.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the role of a Scrum Master and suggests an immersive learning experience, which implies a coaching aspect. However, it lacks detailed discussion on coaching techniques, team dynamics, or the supportive nature of coaching. The focus is more on promoting a learning experience rather than engaging in a comprehensive dialogue about coaching practices.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content references the Scrum Master and hints at improving outcomes related to that role, but it does not provide a detailed discussion or focus on the responsibilities, practices, or coaching techniques relevant to Scrum Masters.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content mentions the Scrum Master role and promotes learning opportunities related to it, indicating a focus on improving outcomes through Scrum Master training. However, it lacks detailed discussion on the responsibilities, techniques, or impact of the Scrum Master, which limits its depth and conceptual alignment with the category.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T13:50:19",
+    "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of Scrum Masters and promotes immersive learning experiences, with no clear focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1340,7 +1229,7 @@
     "reasoning": "Content heavily discusses the need for better outcomes from Scrum Masters without addressing the concept of Increment in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:50:19",
     "ai_confidence": 0,
@@ -1360,12 +1249,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:50:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and the opportunity to improve outcomes through Scrum Master training, which relates to team collaboration, but primarily focuses on training rather than direct discussions of teamwork dynamics or collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and the role of a Scrum Master, which relates to team collaboration. However, it lacks a detailed discussion on techniques, strategies, or tools that enhance team dynamics or communication. The focus is more on promoting a learning experience rather than exploring the core themes of team collaboration in Agile contexts.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1374,6 +1266,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no mention of Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:34:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:34:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 62.0,
+    "reasoning": "The content mentions Scrum explicitly in the context of improving outcomes through a Scrum Master, indicating a direct reference to the category. However, it lacks detailed discussion on Scrum principles, roles, or events, which affects the depth of the content. The alignment with Scrum concepts is moderate, as it hints at the importance of effective Scrum practices but does not delve into specifics.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies without any explicit discussion of the Shift-Left Strategy. While it mentions improving outcomes through Scrum practices, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions improving outcomes through Scrum Master training, but it lacks a detailed discussion on Continuous Improvement principles. It does not provide empirical evidence, strategies for fostering a culture of experimentation, or any specific techniques related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and the need for better outcomes, but it lacks a direct discussion on Common Goals or their significance in Agile and DevOps. The focus is primarily on promoting a learning experience rather than aligning strategy with execution or discussing shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the need for better outcomes from Scrum Masters, which hints at the importance of competence. However, it lacks explicit discussions on continuous learning, skill development, or strategies for fostering a culture of competence. The focus is more on promoting a specific learning experience rather than delving into the principles of competence in Agile or Scrum.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum Master training and Agile methodologies, which are not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion lacks depth regarding integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Advanced PSM II classes and does not explicitly discuss Agentic Agility or its principles. While it mentions improving outcomes, it lacks a clear connection to the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility. The discussion is more aligned with general Agile and Scrum practices rather than the specific themes of agency and intentionality.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T17:15:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum and Agile, which are related to product development methodologies. However, it lacks a detailed discussion on product development principles, customer feedback integration, or iterative processes. The focus is primarily on promoting a learning experience rather than exploring product development practices in depth.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:15:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on promoting Advanced PSM II classes and does not explicitly mention Time to Market or related metrics. While it is related to Agile and Scrum practices, it lacks a direct discussion on the efficiency of delivering value or strategies for improving Time to Market. The alignment with the core themes is minimal, and the depth of discussion is superficial, primarily serving as a promotional message rather than an analytical exploration of Time to Market.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T17:15:54",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile methodologies, with no direct mention of GitHub or its services. While it touches on themes related to project management, it does not align with GitHub's functionalities or best practices, nor does it provide any depth regarding GitHub tools or features.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:15:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Advanced Professional Scrum Master classes, which indicates a strong emphasis on a specific framework (Scrum) rather than discussing the principles of Agnostic Agile. There are no direct mentions of Agnostic Agile or its core themes, and the discussion lacks depth regarding the application of agile principles in various contexts. Overall, the content does not align with the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:16:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Advanced PSM II classes and improving outcomes for Scrum Masters, which does not directly discuss the concept of Company as a Product. While it mentions organisational improvement, it lacks explicit references to customer-centric strategies, organisational design, or the principles of CaaP. The discussion is superficial and does not delve into the core themes or provide substantial detail on the category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:16:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum Master training and does not directly mention or discuss the principles of Cell Structure Design. While it touches on agile methodologies, it lacks any reference to the Beta Codex, autonomous cells, or decentralised structures. The discussion is superficial and does not provide any depth regarding the core themes of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:16:08",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on promoting Advanced Professional Scrum Master classes and does not mention Liberating Structures or discuss any facilitation techniques. While it is related to Agile and Scrum, it lacks any direct references or alignment with the principles and practices of Liberating Structures, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T17:16:10",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on promoting Advanced PSM II classes and does not explicitly mention Hybrid Agile or engage with its core themes. There is no critical examination of the integration of traditional and agile methodologies, nor any discussion of the challenges associated with Hybrid Agile. The content lacks depth and detail relevant to the category, making it largely irrelevant to the topic.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:16:13",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting Advanced PSM II immersive classes for Scrum Masters, with no explicit discussion of Unrealised Value or its related concepts. While it hints at improving outcomes, it lacks a detailed exploration of potential value, indicators, or strategies associated with Unrealised Value. The mention of investing in a Scrum Master suggests a vague connection to potential improvements, but it does not delve into the core themes or provide substantial insights into untapped opportunities.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T17:16:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Advanced Professional Scrum Master classes, which are centred around Scrum practices rather than the complexities of scaling Agile methodologies across multiple teams. While it mentions 'better outcomes' and 'Scrum Master', it does not delve into frameworks for scaling, cross-team collaboration, or any of the key topics outlined for the Scaling category. The discussion lacks depth and does not provide substantial insights into scaling strategies or methodologies.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:16:18",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions the potential for better outcomes from Scrum Master training, which could imply a focus on value delivery. However, it lacks explicit discussions on Current Value metrics, techniques for data analysis, or practical applications in Evidence-Based Management. The primary focus is on promoting a training programme rather than evaluating or measuring Current Value.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T17:16:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Scrum Master training and does not discuss broader project management principles or methodologies. While it mentions 'Scrum' and 'agile', these are specific practices rather than comprehensive project management strategies. The lack of depth in discussing project lifecycle phases, tools, or roles beyond the Scrum Master limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:16:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Advanced Professional Scrum Master classes, which are centred around traditional Scrum practices rather than Open Space Agile principles. There are no direct mentions of Open Space Agile or its core themes such as psychological safety, co-creation, or iterative dialogue. The discussion lacks depth regarding Open Space Technology and its application in Agile contexts, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content makes a brief reference to Scrum and Scrum Masters but lacks specific discussions about principles of Agile or Lean. It does not provide actionable insights or detailed exploration of principles, focusing instead on the promotional aspect of a course. This weak alignment with the core themes of the category results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Master training course without discussing any specific tools or their functionalities. There is no direct mention of tools, and the content is centered on Scrum practices rather than how tools facilitate those practices.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting Advanced PSM II immersive learning classes without explicitly discussing values. It lacks direct mentions of Scrum or Agile values and does not provide depth in understanding how these values guide behavior or decision-making. The content is more about promoting a service rather than focusing on the philosophical underpinnings that reflect core values.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on promoting a specific Scrum Master training program and includes hashtags related to Agile and Scrum. It does not discuss any philosophical aspects or foundational beliefs related to Agile, Lean, or DevOps. There are no direct mentions or aligned concepts found in the description that pertain to the philosophical exploration of these methodologies, instead centering on practical training and outcomes. Thus, it falls significantly short of the criteria established for the 'Philosophy' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on promoting a paid class for advanced Scrum Master training, which is more about the practical application of Scrum rather than discussing the discipline itself. While Scrum as a methodology is related to the discipline of Agile, the content lacks a detailed exploration of principles, methodologies, standards, or the systemic application of the discipline. It briefly mentions Scrum, but the core themes and depth of discussion required for a strong classification under 'Discipline' are largely absent.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting an advanced Scrum Master training program, which does not explicitly discuss artifacts or their role in Agile or Scrum. There are no direct mentions of specific artifacts or their purposes, and the content lacks detailed exploration of the structure or management of artifacts. While it references Scrum, it does not provide substantial alignment with the category 'Artifact', as it centers on educational services rather than on formal representations of work.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on Scrum Master training and improving outcomes through Agile practices. It does not directly mention observability, nor does it delve into the concepts surrounding metrics, logs, or traces within software systems. The mention of Agile and Scrum does not align with the specific themes of observability. Overall, the relevance to the observability category is minimal.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily promotes a Scrum Master training program, which indirectly relates to the category of Practice through its focus on improving Scrum effectiveness. However, it lacks direct discussions or actionable details on specific practices like pair programming or retrospectives. The mention of Scrum does not elaborate on its practices, and the depth of discussion is minimal, focusing more on promotion than on practical application.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mentions Scrum and positions itself as a learning experience aimed at improving outcomes related to a Scrum Master, but it lacks a structured discussion of methods or procedures within Scrum. The terms related to Scrum suggest a partial alignment, but there are no explicit details regarding the specific steps or techniques involved in the Scrum method. Therefore, while there is some relevance, it does not go deep enough into the procedural aspect that defines the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily promotes Advanced Professional Scrum Master classes and does not explicitly discuss any conceptual models or frameworks that would fit under the 'Model' category. While it touches on Scrum—an Agile methodology—the focus is on training rather than a detailed exploration of frameworks, models, or decision-making processes related to Agile, DevOps, or Lean. Therefore, its relevance to the 'Model' category is very minimal.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mentions Scrum, which is an Agile framework, but it does so in a promotional context focused on learning experiences rather than providing an in-depth discussion about frameworks. The direct mention is minimal, and while it relates to the core themes of Agile, it lacks depth and does not explore implementation strategies, comparisons, or best practices associated with frameworks.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily promotes an advanced training program for Scrum Masters without discussing specific tenets or guiding principles that underpin Agile or Scrum methodologies. It mentions 'Scrum' and 'Agile', but lacks concrete, actionable rules or frameworks that align with the category definition of 'Tenet'. Thus, while there is some relevance to Agile concepts, it does not meet the criteria for a focused discussion on tenets.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:06:34",
+    "ai_confidence": 20.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Master training course rather than discussing capabilities in-depth. There is a brief mention of improving outcomes, which can loosely relate to capability, but it lacks direct discussion of what capabilities are, how they develop, or their impact on organizational performance. Overall, the content does not substantively address the key themes associated with the category.",
     "level": "Ignored"
   }
 }

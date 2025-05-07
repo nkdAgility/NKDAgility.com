@@ -2,30 +2,37 @@
 title: 'Breaking the Silence: How to Combat Communication Gaps in Agile Teams'
 description: Discover the hidden dangers of silence in Agile teams and learn effective strategies to foster open communication for better collaboration and value delivery.
 date: 2023-11-02T11:30:10Z
+weight: 640
 ResourceId: KHcSWD2tV6M
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KHcSWD2tV6M
 url: /resources/videos/:slug
-slug: silence-7-signs-of-the-agile-apocalypse-but-shorter!
+slug: breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 layout: video
 aliases:
-- /resources/videos/KHcSWD2tV6M
-- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
-- /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 - /resources/KHcSWD2tV6M
-aliasesFor404:
+- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
+aliasesArchive:
+- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 - /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 - /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
+- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
+- breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
 preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 isShort: false
 tags:
-- People and Process
-- Transparency and Accountability
-- Team Performance
+- Social Technologies
 - Team Collaboration
+- Team Performance
+- Agile Philosophy
+- Software Development
+- Organisational Agility
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,7 +40,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I believe is one of the seven signs of the Agile apocalypse: silence. This silence isn't just a lack of noise; it’s a deafening absence of communication that can have dire consequences for teams and organisations striving for agility.
@@ -46,7 +53,7 @@ Silence can manifest in various ways, and it’s crucial to recognise these sign
 
 - **Ignoring Misalignment**: When teams stray from Agile practices or principles, silence can prevent necessary corrections. If no one speaks up, the team may continue down a path that undermines their goals.
 
-- **Withholding Feedback**: Silence can also occur when decisions are made that negatively impact value delivery to the customer. Without open dialogue, teams may fail to course-correct, leading to diminished customer satisfaction.
+- **Withholding Feedback**: Silence can also occur when decisions are made that negatively impact [value delivery]({{< ref "/tags/value-delivery" >}}) to the customer. Without open dialogue, teams may fail to course-correct, leading to diminished [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}).
 
 - **False Promises**: Perhaps the most damaging form of silence is when teams mislead customers by promising deliverables that they haven’t yet achieved. This not only erodes trust but also sets the stage for future failures.
 

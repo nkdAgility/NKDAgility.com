@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is unrelated to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practical steps for managing MSDN benefits and subscriptions, which relates to tooling in a specific context, but it is not primarily focused on Agile or DevOps methodologies.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T00:16:05",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T00:16:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T00:16:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of reusing MSDN benefits with an Org ID, which is unrelated to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T00:16:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no focus on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T00:16:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the process of reusing MSDN benefits with an Org ID, which is unrelated to AI and automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational account and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of data-informed decision-making or metrics related to value delivery, innovation, or outcome management.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T00:16:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of reusing MSDN benefits with an organisational ID, including step-by-step instructions for cancelling subscriptions and activating services, which aligns with installation and configuration topics.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed step-by-step guide on how to cancel and reactivate MSDN benefits with an organisational account, which aligns well with installation and configuration processes. It explicitly discusses the actions required to manage subscriptions, which is a key aspect of configuration. The depth of discussion is significant, as it includes specific instructions and warnings about the implications of cancelling subscriptions. However, while it is focused on a specific process, it does not cover broader configuration best practices or troubleshooting, which slightly lowers the overall confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T00:16:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T00:16:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T00:16:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is not central to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational account and does not discuss any DevOps principles, practices, or cultural shifts. It lacks direct mentions of DevOps concepts, and the discussion is superficial, providing minimal detail relevant to the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T00:16:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no reference to events, presentations, or related discussions.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T00:16:26",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is unrelated to flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T00:16:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for managing MSDN benefits and subscriptions, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T00:16:31",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of reusing MSDN benefits with an Org ID, which is unrelated to metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -226,10 +163,10 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-15T00:16:38",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical processes related to MSDN benefits and account management, with no relevance to psychological principles or organisational behaviour.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is unrelated to Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T00:16:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is not related to Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T00:16:44",
@@ -280,12 +208,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 40.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of managing MSDN benefits in relation to Azure subscriptions, which is relevant to Azure DevOps, but it primarily focuses on account management rather than Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the process of reusing MSDN benefits with an organisational ID, which is related to Azure services. However, it does not explicitly mention Azure DevOps or its functionalities. The focus is more on account management rather than the core themes of Azure DevOps, such as CI/CD, project management, or collaboration practices. The depth of discussion is limited to account activation and subscription management, lacking detailed insights into Azure DevOps tools or methodologies.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -305,7 +236,7 @@
     "reasoning": "Content primarily discusses the process of reusing MSDN benefits with an Org ID, focusing on account management and subscription cancellation, which does not relate to Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T00:16:51",
     "ai_confidence": 0,
@@ -316,29 +247,23 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T00:16:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational ID and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics. The content lacks alignment with the core themes of APOM and provides no depth in discussing the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-15T00:16:54",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no clear focus on organisational agility or related themes.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T00:16:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and instructions for managing MSDN benefits rather than discussing industry news or reviews.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -348,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is not directly related to the management of software applications throughout their lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T00:16:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no mention of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +286,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T00:17:08",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the process of managing MSDN benefits and subscriptions, which is unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T00:17:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN subscriptions and transitioning from a Microsoft ID to an Organisational ID, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational account and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks alignment with its core themes, such as automation, incremental improvements, or software quality. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -424,19 +343,19 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-15T00:17:18",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no focus on organisational culture or its impact on agility or team dynamics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T00:17:20",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on managing MSDN subscriptions and does not discuss the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -593,21 +512,12 @@
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is not central to software development practices or methodologies.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T00:17:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no relevance to Agile Project Management principles or practices.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T00:17:44",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -667,10 +577,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T00:17:56",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions related to Microsoft accounts, which does not align with the principles of organisational change.",
     "level": "Ignored"
   },
@@ -701,15 +611,6 @@
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no focus on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T00:18:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on managing MSDN benefits and subscriptions, with no relevance to Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T00:18:02",
@@ -728,15 +629,6 @@
     "reasoning": "Content heavily discusses the process of managing MSDN benefits and subscriptions, with no relevance to psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T00:18:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no relevance to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "calculated_at": "2025-02-15T00:18:06",
@@ -748,10 +640,10 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-15T00:18:07",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no relevance to revenue per employee metrics or financial efficiency.",
     "level": "Ignored"
   },
@@ -766,10 +658,10 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-15T00:18:09",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions related to Microsoft accounts, with no focus on organisational dynamics or systems thinking.",
     "level": "Ignored"
   },
@@ -802,29 +694,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T00:18:15",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T00:18:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about managing MSDN benefits and subscriptions, with no relevance to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T00:18:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses managing MSDN benefits and subscriptions, which is unrelated to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1034,22 +908,13 @@
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which does not directly relate to the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T00:18:48",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the process of managing MSDN benefits and subscriptions, which is unrelated to the development or utilisation of a Minimum Viable Product.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T00:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the process of reusing MSDN benefits with an Org ID, with no mention of AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1099,21 +964,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T00:19:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses managing MSDN benefits and subscriptions, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on transferring MSDN benefits to an organisational account and does not discuss any principles or practices related to Test First Development. There are no mentions of testing methodologies, success criteria, or any related concepts, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the process of managing MSDN benefits and subscriptions related to Microsoft accounts, which is relevant to the Windows environment, but the primary focus is on account management rather than Windows OS specifics.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the process of reusing MSDN benefits with an Org ID, which is related to Microsoft services and accounts. While it mentions Windows Azure and involves Microsoft accounts, it does not delve deeply into the Windows operating system itself, such as installation, configuration, or troubleshooting. The primary focus is on account management rather than Windows-specific functionalities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1162,12 +1033,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of resolving issues related to reusing MSDN benefits with an Org ID, which involves troubleshooting subscription management. However, it primarily focuses on the steps to take rather than a broader discussion on troubleshooting methodologies.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses a specific issue related to reusing MSDN benefits with an Org ID, providing a step-by-step guide to resolve the problem. While it does mention troubleshooting steps, such as cancelling subscriptions and activating benefits, the focus is more on the process rather than a broader discussion of troubleshooting methodologies or techniques. The content lacks depth in exploring various troubleshooting strategies or tools, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1054,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T00:19:15",
+    "calculated_at": "2025-04-08T17:42:29",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on managing MSDN benefits and subscriptions, with no relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on transferring MSDN benefits to an organisational ID and does not mention the Scrum Master role, responsibilities, or any related concepts. It is unrelated to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1080,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no relevance to working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T00:19:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is not directly related to the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1199,6 @@
     "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T00:19:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on managing MSDN benefits and subscriptions, with no relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T00:19:43",
@@ -1369,11 +1228,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:11:25",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of transferring MSDN benefits to an organisational account, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of social technologies and does not provide depth in these areas.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:12:46",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, which is not directly related to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:12:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the process of managing MSDN benefits and subscriptions, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss Scrum principles, roles, events, or any related topics. It focuses entirely on managing MSDN benefits and subscriptions, which is unrelated to Scrum or its frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the process of reusing MSDN benefits with an organisational ID and does not mention or align with the principles of the Shift-Left Strategy in software development. It lacks any discussion on testing, security, or compliance integration early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on transferring MSDN benefits to an organisational account and does not discuss Continuous Improvement principles or practices. There are no direct mentions of continuous improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to practical steps for account management, which is unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of transferring MSDN benefits to an organisational account, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. It lacks alignment with the core themes of shared objectives and strategic alignment, and provides minimal detail relevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the technical process of transferring MSDN benefits to an organisational account, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of technical capability, it does not engage with the core themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of transferring MSDN benefits to an organisational ID, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

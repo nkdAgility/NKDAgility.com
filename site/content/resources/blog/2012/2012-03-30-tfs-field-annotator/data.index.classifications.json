@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses a tool for managing TFS Work Items and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:44:56",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific tool (TFS Field Annotator) and its practical application for managing TFS Work Items, including installation instructions and troubleshooting, which aligns with the category focus.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T20:44:57",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:44:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for tracking changes in TFS Work Items, with no clear focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:44:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a tool for TFS Work Items without addressing code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:45:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the TFS Field Annotator tool and its functionalities, with no significant discussion on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:45:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a tool for managing TFS Work Items without any mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a tool for tracking changes in TFS Work Items, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions tracking changes, it does not align with the core themes of EBM such as data-informed decision-making or outcome management. The depth of discussion is limited to tool usage and troubleshooting, lacking any substantial connection to EBM concepts.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:45:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides clear installation instructions and prerequisites for the TFS Field Annotator, along with troubleshooting steps, making it primarily focused on installation and configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a clear installation guide for the TFS Field Annotator, detailing prerequisites and steps to launch the application. It explicitly mentions required software and includes troubleshooting tips, aligning well with the core themes of installation and configuration. However, while it covers installation and some configuration aspects, it lacks extensive depth in discussing best practices or broader integration within workflows, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:45:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a tool for tracking changes in TFS Work Items, lacking a focus on transparency and accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses a technical tool (TFS Field Annotator) without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:45:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software tool for tracking changes in TFS Work Items, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:45:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for managing TFS Work Items, with no clear focus on DevOps principles, practices, or cultural shifts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) for tracking changes in TFS Work Items, which does not align with the core principles of DevOps. While it mentions workflow enhancement, it lacks discussions on collaboration, automation, or shared accountability, which are central to the DevOps philosophy. The content does not provide substantial detail on DevOps practices or cultural shifts, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses a software tool for tracking changes in TFS Work Items, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T20:45:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software tool for TFS Work Items and does not reference any events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:45:17",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a tool for tracking changes in TFS Work Items, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:45:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a software tool for TFS Work Items without addressing human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:45:22",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a tool for tracking changes in TFS Work Items, without a focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses a tool for managing TFS Work Items and does not address Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific software tool (TFS Field Annotator) that aids in managing TFS Work Items, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T20:45:33",
@@ -280,12 +208,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses TFS (Team Foundation Server), which is part of the Azure DevOps suite, but primarily focuses on a specific tool rather than broader Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a tool related to TFS (Team Foundation Server), which is part of the Azure DevOps suite. However, it lacks a direct focus on Azure DevOps functionalities, methodologies, or best practices. The mention of TFS is relevant but does not delve into broader Azure DevOps topics such as CI/CD, Agile practices, or integration with other tools. The depth of discussion is limited to the specific tool without exploring its implications within the Azure DevOps ecosystem.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -305,7 +236,7 @@
     "reasoning": "Content primarily discusses a software tool for tracking changes in TFS Work Items, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:45:38",
     "ai_confidence": 0,
@@ -316,11 +247,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:45:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for managing TFS Work Items and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a tool for tracking changes in TFS Work Items, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any discussion on the core themes of APOM, such as continuous delivery, product-oriented mindset, or operational stability. The content is more aligned with traditional project management tools rather than the principles of Agile product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +266,13 @@
     "reasoning": "Content primarily discusses a tool for tracking changes in TFS Work Items, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T20:45:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a specific tool (TFS Field Annotator) and its features, installation, and troubleshooting, rather than discussing industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T20:45:46",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a tool for annotating TFS Work Items, with no clear focus on the application lifecycle stages or management practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:45:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for TFS Work Items and does not focus on Scrum principles, roles, or practices.",
+    "reasoning": "Content primarily discusses a tool for annotating TFS Work Items, with no clear focus on the application lifecycle stages or management practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +286,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:54:02",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a tool related to TFS Work Items and does not discuss the Definition of Done in Agile or Scrum contexts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on a technical tool for tracking changes in TFS work items but does not delve deeply into broader topics of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) and its functionality, which does not directly address broader principles of software craftsmanship or engineering practices. While it mentions technical aspects like prerequisites and troubleshooting, it lacks a discussion on best practices, code quality, or methodologies that contribute to technical mastery.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +316,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily describes a tool for annotating TFS Work Items without any discussion of Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a tool for tracking changes in TFS Work Items, which does not directly address Continuous Delivery principles or practices. While it mentions aspects of workflow enhancement, it lacks explicit discussions on automation, incremental improvements, or rapid feedback, which are core to Continuous Delivery. The content is more about a specific application rather than the broader concepts of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T00:54:02",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a tool for tracking changes in TFS work items and provides instructions for use, with no mention of Lead Time or related concepts.",
     "level": "Ignored"
   },
@@ -433,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:54:02",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a tool for managing TFS Work Items and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -586,28 +508,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a tool related to TFS (Team Foundation Server) and mentions its installation prerequisites and features, which are relevant to software development practices, but it does not deeply explore methodologies or frameworks.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a tool for managing TFS Work Items, with no mention of agile methodologies or principles.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific tool related to TFS (Team Foundation Server) and its functionality, which aligns with software development practices, particularly in the context of version control and work item tracking. However, while it provides some technical details about the tool and its prerequisites, it lacks a broader discussion on methodologies or best practices in software development, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:54:02",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a software tool related to TFS (Team Foundation Server) and its functionality, with no clear focus on Agile values and principles.",
     "level": "Ignored"
   },
@@ -622,12 +538,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the TFS Field Annotator, which relates to tracking changes in TFS work items, a form of source control, but the primary focus is on using a specific tool rather than broader source control practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a tool related to TFS (Team Foundation Server) that allows users to track changes to work items, which is a form of version control. However, the focus is primarily on the tool's functionality rather than broader best practices or methodologies in modern source control. While it mentions aspects of tracking changes, it lacks depth in discussing version control strategies, branching, or collaboration workflows, which are key themes in the category.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -701,15 +620,6 @@
     "reasoning": "Content primarily discusses a tool for annotating changes in TFS Work Items without reference to customer satisfaction principles, practices, or measurements.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a tool for TFS Work Items and does not address Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T00:54:02",
@@ -726,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on a software tool for managing TFS Work Items and does not discuss psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific tool for TFS Work Item management and does not address scaling agility or related topics.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +703,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:54:02",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a tool for visualizing changes in TFS Work Items rather than focusing on innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a tool for TFS and its features, not on Scrum practices or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a specific tool for TFS (Team Foundation Server) work items, discussing its functionality and troubleshooting, with no reference to scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,12 +748,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific software tool (TFS Field Annotator) intended for managing and updating TFS Work Items, which aligns with software functionality and user utility. However, the primary focus is on the tool itself rather than broader concepts of working software.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily describes a tool (TFS Field Annotator) that aids in tracking changes to TFS Work Items, which is a functional aspect of software. However, it lacks a direct discussion on the broader themes of working software, such as customer feedback, iterative development, or quality assurance practices. While it does mention operational functionality, it does not delve into how this tool aligns with user requirements or business objectives, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -973,10 +859,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T00:54:02",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a tool for annotating changes in TFS Work Items, with no significant focus on Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1034,7 +920,7 @@
     "reasoning": "Content primarily discusses a software tool for managing TFS Work Items, without a focus on strategic digital transformation initiatives or methodologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:54:02",
     "ai_confidence": 0,
@@ -1043,23 +929,17 @@
     "reasoning": "Content primarily discusses a specific software tool for TFS and troubleshooting instructions, with no mention of MVP concepts or relevant discussions around product validation or Lean Startup methodology.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the TFS Field Annotator application without any focus on AI, Agile, or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 7,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prerequisites for running a specific application (TFS Field Annotator) and includes troubleshooting steps for configuration issues, making system configuration a significant theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the TFS Field Annotator tool, focusing on its features and installation prerequisites. While it mentions troubleshooting steps, which could relate to system configuration, the overall emphasis is on the tool's functionality rather than the broader principles of system configuration. The discussion lacks depth in terms of configuration management or optimisation strategies, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,20 +979,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a specific tool for TFS work item editing and does not discuss Test First Development principles, practices, or related tools.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a tool for tracking changes in TFS Work Items and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or the impact of testing on collaboration, which are core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
     "final_score": 72.0,
-    "reasoning": "Content discusses the TFS Field Annotator application, its functionality, prerequisites like Visual Studio, and provides Windows-specific troubleshooting steps; although the primary focus is on the application itself, Windows usage is a significant theme.",
+    "reasoning": "The content primarily discusses the TFS Field Annotator, which is a tool that operates within the Windows environment, specifically mentioning compatibility with Windows 8 and installation prerequisites like Visual Studio and .NET. It provides detailed instructions on troubleshooting issues related to launching the application on Windows, which aligns well with the category's focus on troubleshooting and configuration. However, while it does touch on Windows-related aspects, the main focus is on the TFS tool itself rather than a broader discussion of Windows as an operating system, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1162,11 +1048,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content provides clear troubleshooting steps for launching the TFS Field Annotator application, addressing a specific issue regarding security settings in Windows 8.",
+    "final_score": 78.0,
+    "reasoning": "The content includes a dedicated section on troubleshooting the TFS Field Annotator application, providing specific steps to resolve a known issue related to Windows 8 security settings. This aligns well with the category's focus on identifying and resolving technical issues. The direct mention of troubleshooting, along with detailed instructions, demonstrates a strong alignment with the core themes of the category. However, the overall focus of the content is more on the application features rather than an extensive exploration of troubleshooting methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1069,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a software tool for TFS work item management and does not relate to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a tool for tracking changes in TFS Work Items and does not mention the Scrum Master role or any related responsibilities, techniques, or impacts. There is no discussion of Scrum principles or the Scrum framework, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1095,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a software tool for managing TFS Work Items, but does not address working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a specific tool for TFS Work Items without focusing on the role of software developers within Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1214,6 @@
     "reasoning": "Content primarily discusses a tool related to TFS and does not focus on accountability or team dynamics in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:54:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a tool for managing TFS Work Items and does not discuss Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:54:02",
@@ -1360,11 +1234,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:53:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for TFS Work Item management, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical tool (TFS Field Annotator) for tracking changes in TFS Work Items, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions enhancing workflow, it does not delve into the underlying social frameworks or methodologies that promote collaboration or collective intelligence, which are central to the category of Social Technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1251,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical tool for TFS Work Item management, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:25:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a specific tool for TFS Work Items and does not address the broader concepts or benefits of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:25:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a tool for managing TFS Work Items, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a tool related to TFS (Team Foundation Server) and its functionalities, with no direct mentions or discussions of Scrum principles, roles, events, or practices. While it may relate to project management in a broad sense, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical aspects of the tool rather than any Scrum-related content.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a tool for annotating TFS Work Items and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is more about a specific application rather than software development strategies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) for tracking changes in TFS Work Items, with no explicit discussion of Continuous Improvement principles. While it mentions enhancing workflow, it lacks depth in discussing empirical evidence, experimentation, or strategies for integrating Continuous Improvement into processes. Overall, it does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) for tracking changes in TFS Work Items, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks any mention of shared objectives or alignment strategies, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a specific tool (TFS Field Annotator) and its functionalities, with no direct discussion on competence, continuous learning, or skill development. While it may indirectly relate to improving workflow efficiency, it does not address the core themes of competence as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a tool for tracking changes in TFS Work Items, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of workflow enhancement, it does not engage with the intentional shaping of outcomes or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

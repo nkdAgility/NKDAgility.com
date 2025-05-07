@@ -1,21 +1,15 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T08:28:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses event handlers for Team Foundation Server and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses deploying event handlers for Team Foundation Server, which involves aspects of installation and configuration, but it is primarily focused on coding and implementation rather than providing clear, actionable installation instructions.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the deployment of event handlers for Team Foundation Server, which relates to configuration aspects. However, it lacks explicit step-by-step installation procedures or detailed configuration best practices. The focus is more on coding and implementation rather than clear, actionable instructions for installation and configuration, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -24,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementations related to Team Foundation Server and event handlers, with no focus on decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T08:28:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of event handlers in Team Foundation Server, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T08:28:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementations of event handlers in Team Foundation Server without addressing organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -60,15 +36,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of event handlers in Team Foundation Server, with no clear focus on organisational agility or related practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T08:28:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses event handlers for Team Foundation Server and does not focus on Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -91,21 +58,27 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of event handlers in Team Foundation Server, which relates to engineering practices, but it primarily focuses on a specific coding solution rather than broader technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the implementation of event handlers in Team Foundation Server, which touches on technical aspects of software development. However, it lacks a direct focus on broader engineering practices or methodologies that enhance agility, such as TDD, CI/CD, or modular architecture. While it provides some technical detail, it does not delve deeply into the principles of technical excellence or how they contribute to project success, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but primarily focuses on event handlers rather than broader Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses event handlers for Team Foundation Server (TFS), which is part of the Azure DevOps suite. However, it primarily focuses on technical implementation details rather than broader Azure DevOps functionalities or best practices. While TFS is mentioned, the discussion lacks depth in terms of CI/CD, agile project management, or integration with other Azure DevOps tools, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -118,10 +91,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T08:28:57",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of event handlers in Team Foundation Server, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -134,22 +107,16 @@
     "reasoning": "Content primarily discusses the implementation of event handlers for Team Foundation Server, which does not align with the core principles of platform engineering focused on enhancing developer productivity and application management.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implementation of event handlers in Team Foundation Server, which relates to coding practices. However, it primarily focuses on a specific technical implementation rather than a broader discussion on code quality or complexity theory.",
-    "level": "Tertiary"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T08:29:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of event handlers in Team Foundation Server, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to deploying event handlers in Team Foundation Server, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -206,24 +173,6 @@
     "reasoning": "Content primarily discusses event handlers for Team Foundation Server and does not address Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T08:29:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of event handlers in Team Foundation Server, lacking a focus on news or reviews related to Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T08:29:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of event handlers for Team Foundation Server, detailing practical coding techniques and tooling for deployment, which aligns with the category focus.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T08:29:13",
@@ -253,20 +202,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T08:29:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical implementation of event handlers in Team Foundation Server, with no focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T08:29:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation of event handlers in Team Foundation Server, with no focus on events or presentations.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on deploying event handlers for Team Foundation Server, which is a technical implementation topic rather than a discussion on the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM framework. The content lacks any substantial alignment with the core themes of the category, and the depth of discussion is minimal, focusing instead on coding specifics and technical processes.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,33 +248,6 @@
     "reasoning": "Content primarily discusses technical implementation details of event handlers in Team Foundation Server, lacking personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T08:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details related to event handlers in Team Foundation Server without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T08:29:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation of event handlers in Team Foundation Server without addressing transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T08:29:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of event handlers in Team Foundation Server, with no focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T08:29:33",
@@ -343,19 +259,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T08:29:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the implementation of event handlers in Team Foundation Server, which is more focused on coding and technical details rather than DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on deploying event handlers for Team Foundation Server, which is more aligned with software development practices rather than the core principles of DevOps. While it touches on aspects of automation and productivity, it lacks a direct discussion of DevOps philosophy, collaboration, or shared accountability. The mention of an administration system and event handling does not sufficiently align with the broader DevOps themes of continuous value delivery and cultural shifts necessary for effective implementation.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T08:29:36",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of event handlers in Team Foundation Server, which is not related to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -397,20 +316,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T10:22:13",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about deploying event handlers for Team Foundation Server and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T10:22:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses event handlers and their deployment within Team Foundation Server, which does not relate to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on deploying event handlers for Team Foundation Server, which is more about specific implementation details rather than Continuous Delivery principles. There are no direct mentions of Continuous Delivery practices, and the discussion lacks depth in terms of automation, incremental improvements, or rapid feedback, which are key themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -429,15 +351,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses deploying event handlers for Team Foundation Server and provides technical details about code and event management, with no focus on empirical process control principles or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses event handlers for Team Foundation Server, which is unrelated to Scaling Scrum principles and practices.",
     "level": "Ignored"
   },
   "Increment": {
@@ -460,12 +373,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses deploying event handlers and the related configuration aspects within Team Foundation Server, making system configuration a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses deploying event handlers for Team Foundation Server, which touches on aspects of system configuration, particularly in terms of setting up and managing event handlers. However, the primary focus is on coding and implementation rather than the broader principles of system configuration. The discussion lacks depth in configuration management practices and does not provide substantial detail on optimisation or troubleshooting, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -505,11 +421,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on creating event handlers for Team Foundation Server, which relates to operational software components, but it is primarily about implementation rather than a comprehensive discussion on working software as a central theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the implementation of event handlers for Team Foundation Server, which relates to the delivery of functional software. However, it lacks explicit discussions on software quality, customer feedback, or iterative development, which are key themes in the 'Working Software' category. The focus is more on technical implementation rather than the broader implications of delivering working software.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
@@ -523,29 +442,35 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T10:22:14",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Event Handlers for Team Foundation Server, which is more related to software development and tools rather than Site Reliability Engineering principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses techniques for implementing event handlers in Team Foundation Server, which relates closely to software development practices and coding methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on creating and deploying event handlers for Team Foundation Server, which directly relates to software development practices. It includes specific code examples and describes the process of handling events, aligning well with the Software Development category. The depth of technical detail, including class structures and methods, indicates a strong focus on software engineering practices.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses event handlers in Team Foundation Server without any mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on deploying event handlers for Team Foundation Server and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of TDD, ATDD, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -559,10 +484,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T10:22:14",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to event handlers in Team Foundation Server, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -611,15 +536,6 @@
     "reasoning": "Content primarily discusses technical implementation details of event handlers for Team Foundation Server rather than any strategic goals or long-term objectives related to business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on code implementation and event handling in Team Foundation Server; there is no discussion on Scaled Agile methodologies or frameworks.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T10:22:14",
@@ -640,10 +556,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T10:22:14",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical implementation details of event handlers in Team Foundation Server, without focusing on team dynamics, collaboration strategies, or Agile principles.",
     "level": "Ignored"
   },
@@ -685,10 +601,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T10:22:14",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server event handlers and related coding, which is unrelated to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -712,11 +628,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on technical details related to deploying event handlers in Team Foundation Server, discussing code structure and practices relevant to software development and engineering.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the implementation of event handlers in Team Foundation Server, which touches on technical aspects of software development. However, it lacks a broader discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. While it provides some technical details, the focus is more on a specific implementation rather than a comprehensive exploration of technical mastery principles.",
     "level": "Secondary"
   },
   "Asynchronous Development": {
@@ -784,10 +703,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T10:22:14",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the implementation of event handlers in Team Foundation Server and does not mention Agile values or principles.",
     "level": "Ignored"
   },
@@ -865,10 +784,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T10:22:14",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server event handlers and coding, with no mention of Definition of Ready concepts.",
     "level": "Ignored"
   },
@@ -881,7 +800,7 @@
     "reasoning": "Content primarily discusses event handlers for Team Foundation Server (TFS), not Azure Boards or Agile project management functionalities.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T10:22:14",
     "ai_confidence": 0,
@@ -934,15 +853,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on event handlers for Team Foundation Server and coding practices, lacking any discussion on Agile methodologies or strategies.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses implementations related to event handlers in Team Foundation Server, which is relevant to software developers but is primarily focused on a specific technical implementation rather than broader practices like Agile or DevOps.",
-    "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -998,15 +908,6 @@
     "reasoning": "Content heavily discusses technical implementations related to Team Foundation Server and event handlers, without any reference to Scrum Values.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and event handlers, without any relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Product Validation": {
     "category": "Product Validation",
     "calculated_at": "2025-02-17T10:22:14",
@@ -1054,12 +955,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses event handlers in the context of Team Foundation Server, which relates to software development and coding practices; however, it primarily focuses on deployment processes rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the implementation of event handlers in Team Foundation Server, which is more focused on a specific technical solution rather than broader engineering excellence principles. While it touches on aspects of software craftsmanship, such as coding practices and system design, it lacks a comprehensive discussion on best practices, quality assurance, or continuous improvement in engineering processes. The mention of creating a Visual Studio project template hints at a desire for better development practices, but it does not delve into the principles or metrics of engineering excellence.",
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1090,11 +994,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical implementations of event handlers in Team Foundation Server, which relates to problem-solving in a real-world Agile context, though it primarily focuses on technical coding aspects.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a practical implementation of event handlers in Team Foundation Server, which aligns with pragmatic problem-solving in a real-world context. However, it lacks explicit references to Agile, Scrum, or DevOps frameworks, and the discussion is more focused on technical implementation rather than broader strategic thinking or adaptability in complex environments.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -1180,10 +1087,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T10:22:14",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of event handlers for Team Foundation Server, lacking focus on scaling Agile practices across an organization.",
     "level": "Ignored"
   },
@@ -1203,15 +1110,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses event handlers for Team Foundation Server and does not focus on test automation or related practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on event handling within Team Foundation Server and does not discuss Scrum principles or practices relevant to product development.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1234,11 +1132,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses event handling in Team Foundation Server and coding practices, with no relevance to Scrum Master responsibilities or topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on deploying event handlers for Team Foundation Server and does not discuss any aspects related to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum principles, team dynamics, or the Scrum Master's influence on organisational change, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1261,29 +1162,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T10:22:14",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of event handlers for Team Foundation Server, lacking focus on innovation capabilities or evidence-based management principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on deploying event handlers for Team Foundation Server, which is more about technical implementation rather than scaling agile principles across an organization.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on deploying event handlers for Team Foundation Server, with no clear alignment to Agile Project Management principles or practices.",
+    "reasoning": "Content primarily discusses technical implementation details of event handlers for Team Foundation Server, lacking focus on innovation capabilities or evidence-based management principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1306,10 +1189,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T10:22:14",
+    "calculated_at": "2025-04-10T15:57:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses how to handle event handlers in Team Foundation Server, with a focus on coding rather than team collaboration or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1329,15 +1212,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Team Foundation Server event handlers and coding practices, without any relevance to Value Stream Mapping or Lean principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T10:22:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and event handlers, with no clear focus on AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1360,11 +1234,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:31:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of event handlers in Team Foundation Server, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of deploying event handlers for Team Foundation Server, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions productivity, it does not delve into the principles of self-organisation or collective intelligence that are central to the category of Social Technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1251,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to event handlers in Team Foundation Server, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:53:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses event handlers for Team Foundation Server and does not focus on the concept of Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:53:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses event handlers and Team Foundation Server, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses event handlers for Team Foundation Server and does not mention Scrum principles, roles, events, or artifacts. While it touches on aspects of project management through the use of event handlers, it lacks any direct references to Scrum or its core themes, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the implementation of event handlers in Team Foundation Server, focusing on technical details and code examples. There is no explicit mention of the Shift-Left Strategy or its principles, benefits, or techniques. The discussion does not align with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide depth on these topics. Overall, the content is more about event handling than any proactive software development strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to deploying event handlers in Team Foundation Server. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives, strategic alignment, or team collaboration. The mention of productivity is vague and does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the technical implementation of event handlers for Team Foundation Server, with minimal discussion on competence or skill development. While it touches on coding practices, it lacks a clear emphasis on continuous learning, professionalism, or the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on deploying event handlers for Team Foundation Server, with no explicit discussion of Continuous Improvement principles. While there is a mention of enhancing productivity, it lacks depth and alignment with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on deploying event handlers for Team Foundation Server, which does not relate to the intentional shaping of outcomes or the principles of Agentic Agility. There are no explicit mentions of agency, adaptability, or alignment with values, and the discussion lacks depth regarding the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

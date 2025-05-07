@@ -8,58 +8,40 @@
     "reasoning": "Content primarily discusses issues related to build processes in Team Foundation Build, which does not align with Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:16:16",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for troubleshooting and resolving issues with Team Foundation Build, including specific steps to debug and manage stuck builds, which aligns well with the category focus.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build processes and management within a development platform, which aligns with platform engineering principles, but it primarily focuses on troubleshooting rather than broader platform engineering concepts.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses issues related to build processes within Team Foundation Build, which is relevant to platform engineering. However, it primarily focuses on troubleshooting specific build problems rather than providing a comprehensive overview of platform engineering principles or practices. While it touches on aspects of developer productivity and build management, it lacks depth in discussing Internal Developer Platforms (IDPs) or broader automation strategies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T00:18:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and optimising build processes in Team Foundation Build, which relates to Continuous Integration practices and ensuring code quality through effective build management.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which touches on Continuous Integration practices. However, it primarily focuses on troubleshooting specific problems rather than broader engineering methodologies or principles that enhance technical excellence. While it provides some depth in addressing stuck builds and offers practical solutions, it lacks a comprehensive exploration of the underlying technical practices that would align more closely with the category's core themes.",
     "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to build processes and troubleshooting in software development, which touches on aspects of code quality and complexity management, but it primarily focuses on specific build problems rather than a broader exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:19:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting and managing build processes in Team Foundation Build, with no focus on evidence-based management principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:19:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to build processes in Team Foundation Build, without any mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server, with no explicit discussion of Evidence-Based Management principles or metrics. While it touches on the importance of timely build completions, it lacks a connection to data-informed decision-making or the core themes of EBM.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:19:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and resolving issues related to builds in Team Foundation Build, including steps to debug and restart the build service, which aligns with installation and configuration processes.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue related to build processes in Team Foundation Build, which falls under the installation and configuration category. It discusses how to identify and resolve a 'stuck build' problem, providing actionable steps such as restarting the build service and checking build queues. The content aligns well with the key topics of troubleshooting common installation and configuration issues and offers practical insights for developers. However, while it provides a good level of detail, it could benefit from more comprehensive installation procedures or configuration best practices to achieve a higher confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:19:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting and managing build processes in Team Foundation Build, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +83,16 @@
     "reasoning": "Content heavily discusses technical issues related to build processes without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:19:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and troubleshooting in Team Foundation Build, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:19:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which is a key aspect of DevOps practices, particularly in Continuous Integration and Continuous Delivery.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues within Team Foundation Server, which is a tool used in DevOps practices. While it does touch on aspects of build processes and efficiency, it lacks a broader discussion on the principles and cultural shifts of DevOps. The mention of build monitoring and service management aligns with DevOps practices, but the depth of discussion is more technical and tool-specific rather than philosophical or strategic, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -143,41 +113,17 @@
     "reasoning": "Content primarily discusses technical issues related to build processes in Team Foundation Build, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:19:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting issues with Team Foundation Build and does not reference any events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to stuck builds and queuing in Team Foundation Build, which can impact flow efficiency. However, it primarily focuses on troubleshooting rather than optimising throughput or addressing flow efficiency principles directly.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:19:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting and technical details related to build processes, without a focus on learning or discovery methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and troubleshooting in Team Foundation Build, with minimal focus on human factors or team dynamics.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to 'stuck builds' and the impact on build queues, which are relevant to flow efficiency. It mentions the importance of timely build completions and suggests monitoring tools to manage build processes, aligning with flow efficiency principles. However, the discussion lacks depth in exploring broader flow efficiency concepts and metrics, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -199,20 +145,23 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:19:25",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting and managing build processes in Team Foundation Build, without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build processes and troubleshooting in a software delivery context, which is a significant aspect of product delivery, but it does not primarily focus on broader methodologies or practices involved in delivering software products.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which is a part of the deployment phase in product delivery. However, it primarily focuses on troubleshooting specific build problems rather than broader methodologies or practices in product delivery. While it touches on aspects of deployment and build management, it lacks a comprehensive discussion on the overall product delivery process, making it a secondary focus rather than a primary one.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -251,15 +200,6 @@
     "reasoning": "Content primarily discusses issues related to build processes and troubleshooting in Team Foundation Build, which does not align with the principles of Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:19:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting issues with Team Foundation Build, which is not focused on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-16T00:19:34",
@@ -280,12 +220,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:19:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Build, which is a component of Azure DevOps, and provides specific troubleshooting steps for managing builds within this context.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Build, which is a component of Azure DevOps. It provides detailed insights into troubleshooting stuck builds, including specific steps to diagnose and resolve the issue. The discussion is focused on Azure DevOps functionalities, particularly CI/CD processes, which aligns well with the category. However, while it is rich in detail, it does not cover broader Azure DevOps services or best practices extensively, which slightly lowers the alignment score.",
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -305,22 +248,25 @@
     "reasoning": "Content primarily discusses troubleshooting and managing build processes in Team Foundation Build, without addressing Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T00:19:41",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and troubleshooting stuck builds, without a clear focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:19:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build processes in Team Foundation Build, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM framework. The discussion is technical and specific to build processes rather than product delivery or agile methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +278,17 @@
     "reasoning": "Content primarily discusses troubleshooting and managing build processes in Team Foundation Build, with no clear focus on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:19:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on troubleshooting a technical issue with Team Foundation Build, lacking discussions on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which is a part of the application lifecycle management process, particularly in the deployment and maintenance stages. However, it primarily focuses on troubleshooting specific build issues rather than a comprehensive discussion on ALM methodologies or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses issues related to build processes within Team Foundation Build, which is a part of the application lifecycle. However, it primarily focuses on troubleshooting specific build problems rather than providing a comprehensive overview of the application lifecycle stages or best practices in application lifecycle management. While it touches on aspects of deployment and maintenance, it lacks depth in discussing governance, compliance, or broader ALM methodologies.",
     "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:19:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build and does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,20 +301,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to stuck builds in Team Foundation Build without addressing the Definition of Done or its criteria, making it irrelevant to the topic.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and managing build processes in Team Foundation Server, which is relevant to methodologies and practices in software development and engineering excellence.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses troubleshooting and managing build processes in Team Foundation Build, which aligns with technical mastery in software engineering practices. It provides specific techniques for diagnosing and resolving issues related to build queues and stuck builds, demonstrating a focus on improving code quality and maintainability. However, while it touches on important technical aspects, it lacks a broader discussion on best practices or principles of software craftsmanship, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,12 +331,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build processes, specifically how to deal with stuck builds, which is relevant to Continuous Delivery practices. However, it doesn't comprehensively address key Continuous Delivery principles or automation, making it a significant but not central theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses troubleshooting stuck builds in Team Foundation Server, which is related to the build process but does not explicitly address Continuous Delivery principles or practices. While it mentions build completion and optimisation, it lacks a broader discussion on automation, incremental improvements, or user feedback, which are key aspects of Continuous Delivery.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -415,10 +352,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to queued and stuck builds without addressing the concept of Lead Time or its measurement.",
     "level": "Ignored"
   },
@@ -433,10 +370,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes and how to handle stuck builds, which does not align with the Definition of Ready concept.",
     "level": "Ignored"
   },
@@ -487,19 +424,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses techniques for managing and resolving stuck builds in Team Foundation Build, which directly relates to process optimization and troubleshooting in operational practices. It provides practical steps for improving workflow management and efficiency in build processes.",
+    "reasoning": "The content primarily discusses troubleshooting and optimising build processes within Team Foundation Build, which aligns with operational practices aimed at improving efficiency in software delivery. It provides practical steps for diagnosing and resolving issues with stuck builds, which directly relates to enhancing operational efficiency. However, while it touches on relevant topics, the depth of discussion on broader operational strategies and metrics is somewhat limited.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to build processes rather than Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
@@ -550,19 +490,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:16",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which indirectly relates to automated testing, but does not primarily focus on automated testing methodologies, tools, or practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to build processes in Team Foundation Server and does not focus on team dynamics, collaboration, or performance enhancement strategies within agile teams.",
     "level": "Ignored"
   },
@@ -586,28 +526,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses issues related to building software using Team Foundation Build, including how to troubleshoot stuck builds, which involves methodologies and practices relevant to the software development life cycle.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build processes in Team Foundation Build, which is not focused on agile project management principles or practices.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting issues related to Team Foundation Build, which is a critical aspect of the software development lifecycle. It explicitly mentions the challenges of managing builds, the importance of timely completion, and practical steps for debugging stuck builds. This aligns closely with best practices in CI/CD and version control systems, demonstrating a strong conceptual alignment with the Software Development category. The depth of discussion is significant, offering specific examples and actionable advice, which further supports a high confidence score.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical issues related to build processes and troubleshooting, without discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +556,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which is part of source control and continuous integration, indicating it is a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which is a modern source control system. It provides specific examples of stuck builds, troubleshooting steps, and the importance of timely build completions. While it does not delve deeply into broader version control strategies or methodologies, it aligns well with the practical aspects of managing builds within a source control context. The discussion is detailed enough to warrant a moderate confidence score, as it focuses on a specific aspect of source control but lacks broader coverage of the category's key topics.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses resolving issues with stuck builds in Team Foundation Build, with no clear focus on empirical process control or Agile principles.",
     "level": "Ignored"
   },
@@ -701,15 +638,6 @@
     "reasoning": "Content heavily discusses technical details and processes related to troubleshooting build issues, without addressing customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on issues relating to build management in Team Foundation Build, which is not directly concerned with Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T00:48:26",
@@ -728,22 +656,16 @@
     "reasoning": "Content discusses technical issues related to build processes and does not address psychological safety, team dynamics, or supportive team culture.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and troubleshooting related to builds in Team Foundation Build, lacking focus on scaling agile practices or organisational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and debugging issues with builds in Team Foundation Build, which relates to best practices in software engineering processes and improving build reliability. It emphasizes the importance of timely builds and addresses engineering practices in maintaining quality deliverables.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses issues related to build processes in software development, specifically focusing on troubleshooting stuck builds in Team Foundation Build. It mentions the importance of timely build completions and provides practical steps for debugging and resolving build issues. While it touches on aspects of engineering excellence, such as the need for efficient build processes and the role of automation in development, it lacks a broader discussion on best practices, coding standards, or quality assurance principles. Therefore, while it aligns with the category, it does not delve deeply into the core themes of engineering excellence.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -784,11 +706,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content provides practical strategies for dealing with a specific issue in a build process within a DevOps context, emphasizing real-world problem-solving and adaptability in project management.",
+    "reasoning": "The content discusses practical problem-solving strategies related to managing stuck builds in Team Foundation Build, which aligns with the pragmatic thinking category. It provides real-world examples and solutions, demonstrating adaptability and critical thinking in a complex environment. However, while it touches on relevant themes, the depth of discussion is somewhat limited, focusing primarily on specific troubleshooting steps rather than broader Agile or DevOps principles.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +727,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses technical issues related to build processes in Team Foundation Build, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on troubleshooting issues with Team Foundation Build and does not discuss Scrum principles, roles, practices, or product development. There is no relevance to Scrum Product Development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content predominantly focuses on troubleshooting issues with a 'stuck' build in Team Foundation Build and does not discuss Scaling Agile practices, frameworks, or applications.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,12 +772,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to software builds and resolving problems in the build process, which is important for ensuring the delivery of working software. However, it primarily addresses specific technical problems rather than broader themes of working software delivery or customer value.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which is relevant to the operational aspect of software delivery. However, it lacks a broader discussion on working software principles, such as user requirements or iterative development. The focus is primarily on troubleshooting specific build issues rather than on delivering functional software that meets customer needs.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -883,11 +793,14 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses issues related to managing builds within a CI environment, specifically dealing with stuck builds in Team Foundation Build.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to builds in a Continuous Integration environment, specifically using Team Foundation Build. It discusses the concept of 'stuck builds' and provides practical advice on how to manage and resolve these issues, which aligns well with CI principles. The mention of build queues, build services, and the need for timely completion of builds directly relates to CI practices. However, while it provides useful insights, it lacks a broader discussion on CI principles, best practices, or tools beyond the specific context of Team Foundation Build, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -919,12 +832,15 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build processes, specifically how to address stuck builds, which can relate to system reliability. It partially fits the SRE category, as it touches on maintaining service quality through effective build management, but it primarily focuses on the specifics of a build system rather than broader SRE principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses issues related to build processes and troubleshooting in a CI/CD environment, which touches on aspects of reliability but does not explicitly mention Site Reliability Engineering principles or practices. While it aligns with some core themes, such as incident response and monitoring, it lacks depth in discussing SRE concepts like SLOs, SLIs, or the integration of development and operations.",
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -955,12 +871,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which can be considered part of release management, but it focuses more on troubleshooting and debugging rather than broader release strategies or processes.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to build processes and troubleshooting within Team Foundation Build, which is relevant to release management. However, it primarily focuses on specific problems and solutions rather than broader strategies or practices of release management. While it touches on aspects like build queuing and service management, it lacks a comprehensive discussion on planning, scheduling, or coordination with stakeholders, which are key themes of release management.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -973,21 +892,27 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content addresses issues related to build completion times and queuing, which are indirectly related to Cycle Time, but it primarily focuses on specific problems and troubleshooting rather than discussing Cycle Time as a primary metric or theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses issues related to build processes and the concept of 'stuck builds', which indirectly relates to Cycle Time as it touches on the completion of work units. However, it lacks a direct focus on Cycle Time as a metric, its measurement, or its implications in Agile and DevOps practices. The discussion is more about troubleshooting build issues rather than analysing or improving Cycle Time.",
+    "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on troubleshooting issues related to queued and stuck builds in Team Foundation Build, which is a key aspect of Azure Pipelines. It discusses processes and actions involving build management and execution, aligning well with the central themes of Azure Pipelines while featuring specific examples.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content primarily discusses issues related to builds in Team Foundation Build, which is a component of Azure DevOps. It provides specific examples of stuck builds, troubleshooting steps, and management of build queues, aligning well with the principles of Azure Pipelines. The discussion is detailed, covering practical solutions and insights into build management, which is a core aspect of CI/CD practices. However, it does not explicitly mention Azure Pipelines or CI/CD practices in a broader context, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1009,10 +934,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes and troubleshooting in Team Foundation Build, without focusing on team dynamics or collaboration.",
     "level": "Ignored"
   },
@@ -1034,7 +959,7 @@
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and resolving stuck builds, without focusing on digital transformation strategies or the integration of digital technologies in business operations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:48:26",
     "ai_confidence": 0,
@@ -1043,22 +968,16 @@
     "reasoning": "Content discusses issues related to Team Foundation Build and troubleshooting stuck builds, which is unrelated to the development or utilization of a Minimum Viable Product.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses techniques for troubleshooting build issues in Team Foundation Build, which is unrelated to AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses troubleshooting a stuck build in Team Foundation Build, detailing processes involved in managing build configurations and restarting build services, which aligns with system configuration practices.",
+    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, including troubleshooting stuck builds and restarting services, which are relevant to system configuration. It provides practical steps for resolving specific configuration issues, aligning well with the category's focus. However, while it touches on configuration management, it lacks broader discussions on best practices or optimisation strategies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,20 +1018,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and troubleshooting related to builds in Team Foundation Build, without any mention of test-driven development or embedding tests in the development process.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server, with no direct mention of Test First Development principles or practices. While it discusses build processes, it does not address success criteria, testing methodologies, or the importance of testing in the development cycle, which are core to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses troubleshooting a build process related to Team Foundation Server (TFS) and mentions a Windows environment (launcher and services), but it is more focused on build management rather than detailed aspects of the Windows operating system itself.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses troubleshooting and managing builds within the context of Team Foundation Server (TFS) and Visual Studio, which are both closely associated with the Windows operating system environment. It provides specific guidance on dealing with stuck builds, which is relevant to Windows users who utilise these tools. The discussion includes installation references (e.g., VS2010 RTM), operational procedures, and system management techniques, aligning well with the key topics of the Windows category. However, while the content is focused on Windows-related tools, it does not delve deeply into broader Windows OS functionalities or configurations, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1126,19 +1051,19 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on troubleshooting and managing build processes specific to Team Foundation Build, lacking discussions on Agile scaling practices, frameworks, or organizational transformation.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:48:26",
+    "calculated_at": "2025-04-10T15:55:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details of build processes and does not relate to team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1162,11 +1087,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses diagnosing and resolving issues related to a 'stuck build' in Team Foundation Build, providing detailed steps to debug and fix the problem, which aligns closely with troubleshooting practices.",
+    "final_score": 87.0,
+    "reasoning": "The content focuses primarily on diagnosing and resolving issues related to stuck builds in Team Foundation Build. It provides specific examples of problems encountered, such as builds that do not complete and the steps to troubleshoot these issues, including restarting the build service and monitoring build queues. The discussion is detailed and practical, aligning well with the core themes of troubleshooting, such as techniques for diagnosing software bugs and strategies for resolving integration issues.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1180,11 +1108,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to build processes and not on Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server, with no direct mention of the Scrum Master role or its responsibilities. While it touches on aspects of team dynamics indirectly through the context of build processes, it lacks any substantial discussion on Scrum principles, coaching, or facilitation, which are central to the Scrum Master role.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,15 +1136,6 @@
     "reasoning": "Content primarily focuses on troubleshooting build issues within Team Foundation Build, not on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses how developers can troubleshoot and debug stuck builds in a continuous integration environment, specifically mentioning Team Foundation Build and related processes.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T00:48:26",
@@ -1225,12 +1147,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses troubleshooting a 'stuck build' in a continuous integration context, which aligns with CI/CD practices. It elaborates on build management, debugging, and ensuring timely completion of builds, making it a significant but secondary theme related to engineering practices.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses issues related to build processes in Team Foundation Build, which touches on aspects of Continuous Integration (CI) and automation. However, it primarily focuses on troubleshooting specific build problems rather than broader engineering practices like clean code, TDD, or refactoring. While there are mentions of build management and the importance of timely builds, the depth of discussion does not fully align with the core themes of Agile engineering practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1288,12 +1213,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Build and the process of dealing with stuck builds, which is related to the CI/CD aspect of Azure Repos. However, the content does not focus primarily on Azure Repos itself, but rather on build issues, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Build (TFB) and its interaction with Team Foundation Server (TFS), which are closely related to Azure Repos functionalities. It addresses specific problems like stuck builds and provides troubleshooting steps, indicating a focus on source control management and CI/CD processes. However, while it mentions TFS and build processes, it does not delve deeply into Azure Repos' broader functionalities or best practices, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1331,23 +1259,17 @@
     "reasoning": "Content discusses issues related to build processes and troubleshooting in software development, without a focus on team dynamics, ownership, or accountability principles in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:48:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build systems and management in Team Foundation Server, without any reference to Kanban principles, scaling techniques, or related discussions.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:09:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to stuck builds and queue times in a build process, which touches upon throughput concepts indirectly, but the primary focus is on troubleshooting specific build problems rather than a comprehensive exploration of throughput as a central theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to builds being stuck or queued, which directly relates to throughput in terms of work completion rates. It mentions the importance of timely build completions and the impact of build queues on overall workflow efficiency. However, while it touches on the concept of throughput, it lacks a comprehensive exploration of measurement techniques or strategies for optimisation, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1360,11 +1282,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:58:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build processes in Team Foundation Build, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting technical issues related to build processes in Team Foundation Server. While it mentions the importance of timely completions, it lacks a discussion on collaboration, decision-making, or value delivery within organisations. There are no explicit references to social technologies or their principles, and the depth of discussion is limited to technical troubleshooting rather than the social frameworks that underpin effective teamwork and organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1299,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to build processes and troubleshooting, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 50.0,
+    "reasoning": "The content discusses issues related to build processes and management within a development environment, which aligns with the operational aspects of an Internal Developer Platform, but it primarily focuses on troubleshooting specific build problems rather than the broader concepts of IDPs.",
+    "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:31:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to build processes in Team Foundation Build, with no mention of AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses issues related to build processes in Team Foundation Build, which is not directly related to Scrum principles, roles, or events. While it touches on aspects of team collaboration in the context of build management, it lacks explicit references to Scrum practices or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses issues related to build processes and troubleshooting in Team Foundation Build, with no explicit mention of integrating testing, security, or compliance earlier in the development lifecycle. While it touches on the importance of timely builds, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion lacks depth regarding the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on troubleshooting and optimising build processes in Team Foundation Server. While it touches on aspects of improving efficiency, it lacks a direct discussion on Continuous Improvement principles, such as fostering a culture of experimentation or integrating Continuous Improvement into organisational processes. The mention of optimising builds is relevant but does not delve into the broader themes of Continuous Improvement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting technical issues related to build processes in Team Foundation Server. It does not discuss or align with the principles of Common Goals in Agile or DevOps, such as shared objectives or strategic alignment. The mention of developers ensuring timely builds is too vague and does not connect to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server, which does not directly address the concept of competence. While it implies the need for developers to have skills in managing builds, it lacks explicit discussions on continuous learning, skill development, or fostering a culture of competence. The depth of discussion is limited to practical troubleshooting steps rather than exploring the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting build issues in Team Foundation Server, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of problem-solving and process optimisation, it lacks a clear connection to the intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

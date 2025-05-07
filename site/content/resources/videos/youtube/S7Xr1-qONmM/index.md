@@ -2,8 +2,10 @@
 title: Why do you think the PSU course has become so popular for product development?
 description: Discover why the PSU course is transforming product development by integrating UX into Scrum teams, empowering them to create valuable customer solutions.
 date: 2023-02-21T07:00:07Z
+weight: 540
 ResourceId: S7Xr1-qONmM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: S7Xr1-qONmM
@@ -15,48 +17,39 @@ preview: https://i.ytimg.com/vi/S7Xr1-qONmM/maxresdefault.jpg
 duration: 294
 isShort: false
 aliases:
-- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
-- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
-- /resources/videos/S7Xr1-qONmM
-- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 - /resources/S7Xr1-qONmM
-aliasesFor404:
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+aliasesArchive:
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 - /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 - /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
+- why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- People and Process
-- Product Owner
-- Professional Scrum
-- Value Delivery
-- Agile Project Management
-- Agile Product Management
-- Product Delivery
+- Software Development
 - Pragmatic Thinking
-- Team Collaboration
 resourceTypes:
 - video
 categories:
-- Scrum
+- Product Development
 - Product Management
-- Social Technologies
+- Scrum
 
 ---
-Why do you think the PSU course has become so popular for product development?
+Why do you think the PSU course has become so popular for [product development]({{< ref "/categories/product-development" >}})?
 
 Because there is a gap. A massive gap.
 
-In the **product development** world, we talk a lot about scrum. **Scrum** is not the only **agile framework** out there, but it is by far the most popular and widely adopted product development framework in the world, so it gets a lot of attention.
+In the **product development** world, we talk a lot about [scrum]({{< ref "/categories/scrum" >}}). **Scrum** is not the only **agile framework** out there, but it is by far the most popular and widely adopted product development framework in the world, so it gets a lot of attention.
 
-It’s the way most people articulate **agile product development** or dare I say it, **agile project management**, so scrum terminology is widely used and understood.
+It’s the way most people articulate **agile product development** or dare I say it, **agile [project management]({{< ref "/tags/project-management" >}})**, so scrum terminology is widely used and understood.
 
 That said, scrum is simply a framework.
 
-Whilst it will highlight the importance of a solid product backlog, it won’t tell you how to populate it or how to create the most valuable product backlog. Same for a sprint backlog. It tells you that you need one, but it doesn’t tell you how to do it or what you should do.
+Whilst it will highlight the importance of a solid [product backlog]({{< ref "/tags/product-backlog" >}}), it won’t tell you how to populate it or how to create the most valuable product backlog. Same for a sprint backlog. It tells you that you need one, but it doesn’t tell you how to do it or what you should do.
 
 - How do you know what you should include in a product backlog?
 
@@ -70,13 +63,13 @@ And so forth.
 
 So, there is a gap between what gets fed into the **agile framework** and how the agile framework ensures that the work flows effectively throughout the system.
 
-If you have a great **product owner** and the team have a great working relationship with the customer, it gets easier to do the selection of work items well, but there is still a gap between deciding what is the most valuable work to do and doing that work effectively.
+If you have a great **[product owner]({{< ref "/tags/product-owner" >}})** and the team have a great working relationship with the customer, it gets easier to do the selection of work items well, but there is still a gap between deciding what is the most valuable work to do and doing that work effectively.
 
 Most teams will get the execution right. In fact, most teams do that so well that you often find what is known as ‘feature factories’ in the scrum world. A team so efficient and effective that they churn out features every week, with little to no thought as to whether those features are valuable.
 
 The difference between effective and productive.
 
-This gap is what the PSU (professional scrum with User Exprerience) addresses.
+This gap is what the PSU ([professional scrum]({{< ref "/tags/professional-scrum" >}}) with User Exprerience) addresses.
 
 ## Professional Scrum with UX (User Experience)
 
@@ -84,7 +77,7 @@ The **PSU course** or [Professional Scrum with UX course](https://nkdagility.com
 
 1. How do we integrate all the ideas generated by the **UX** experts into the product ownership world. How do we create an integrated approach to product development rather than a design first and engineer later approach.
 
-3. Helping leadership teams identify whether they are building the right products, for the right customer segment, at the right time.
+3. Helping [leadership]({{< ref "/categories/leadership" >}}) teams identify whether they are building the right products, for the right customer segment, at the right time.
 
 ### Integrating design and user experience into Scrum product development.
 
@@ -92,7 +85,7 @@ A great product owner is often a user experience expert. They act as the CEO of 
 
 If they don’t have this knowledge and skill themselves, they often have access to user experience experts and will rely on them a great deal to ensure that the user experience is valuable all throughout the customer journey.
 
-A great UX (user experience) expert will work closely with the product owner and developers to ensure that the environment is hypothesis driven product development, which ties in incredibly well with Scrum’s focus on empiricism or empirical process control.
+A great UX (user experience) expert will work closely with the product owner and developers to ensure that the environment is hypothesis driven product development, which ties in incredibly well with Scrum’s focus on empiricism or [empirical process control]({{< ref "/tags/empirical-process-control" >}}).
 
 Learning through doing and adapting based on data, reviews, and evidence.
 

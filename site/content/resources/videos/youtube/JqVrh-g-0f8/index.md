@@ -2,46 +2,44 @@
 title: What Does a Poor Product Backlog Look Like?
 description: 'Discover the pitfalls of a poor product backlog in this quick video with Martin Hinshelwood. Learn what to avoid for effective agile project management! #shorts'
 date: 2023-06-19T13:01:31Z
+weight: 1000
 ResourceId: JqVrh-g-0f8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JqVrh-g-0f8
 source: internal
 url: /resources/videos/:slug
-slug: what-does-a-poor-product-backlog-look-like
+slug: what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
 layout: video
 preview: https://i.ytimg.com/vi/JqVrh-g-0f8/maxresdefault.jpg
 duration: 42
 isShort: true
 aliases:
-- /resources/what-does-a-poor-product-backlog-look-like
-- /resources/videos/what-does-a-poor-product-backlog-look-like-
-- /resources/videos/JqVrh-g-0f8
-- /resources/what-does-a-poor-product-backlog-look-like-
 - /resources/JqVrh-g-0f8
-aliasesFor404:
+- /resources/videos/what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
+aliasesArchive:
+- /resources/videos/what-does-a-poor-product-backlog-look-like
 - /resources/what-does-a-poor-product-backlog-look-like
 - /resources/videos/what-does-a-poor-product-backlog-look-like-
 - /resources/what-does-a-poor-product-backlog-look-like-
+- what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Software Development
 - Product Backlog
-- Product Owner
-- Scrum Product Development
-- Agile Product Management
-- Agile Project Management
 resourceTypes:
 - video
 categories:
-- Product Management
+- Product Development
 
 ---
 ## The Order of Product Backlogs
 
-In the world of Agile and Scrum, a question I often encounter is, "What does a poor product backlog look like?"
+In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), a question I often encounter is, "What does a poor [product backlog]({{< ref "/tags/product-backlog" >}}) look like?"
 
 ## Identifying a Poor Product Backlog
 
@@ -65,6 +63,6 @@ A list where everyone — from developers to stakeholders — knows its contents
 
 Everyone is in sync.  They comprehend their roles, understand how to aid in their completion, and recognise their contribution to overarching organisational goals.
 
-Let's elevate your product backlog lists together if you're keen to transition from a 'poor' to a 'good' backlog and unravel the intricacies of effective product management.
+Let's elevate your product backlog lists together if you're keen to transition from a 'poor' to a 'good' backlog and unravel the intricacies of effective [product management]({{< ref "/categories/product-management" >}}).
 
 Remember, whether you're a seasoned Agile pro or a newcomer, ensuring a well-maintained product backlog is pivotal.

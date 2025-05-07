@@ -2,36 +2,35 @@
 title: 'Cutting Through the Red Tape: How Eliminating Committees Can Boost Your Time to Market'
 description: Discover how committees can hinder agility and slow decision-making in your organisation. Learn to empower teams and seize opportunities faster!
 date: 2023-10-02T07:00:33Z
+weight: 1000
 ResourceId: ye1wQic8et0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ye1wQic8et0
 url: /resources/videos/:slug
-slug: it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+slug: cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 layout: video
 aliases:
-- /resources/videos/ye1wQic8et0
-- /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
-- /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/ye1wQic8et0
-aliasesFor404:
+- /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
+- /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
+aliasesArchive:
+- /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 - /resources/videos/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
+- /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
+- cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
 preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
 duration: 408
 isShort: false
 tags:
-- People and Process
+- Pragmatic Thinking
+- Time to Market
 - Agile Strategy
-- Business Agility
-- Lead Time
-- Market Adaptability
-- Agile Philosophy
-- Decision Making
-- Value Delivery
-- Enterprise Agility
 - Organisational Agility
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,11 +38,10 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Management
-- Social Technologies
+- Product Development
 
 ---
-In the world of agile methodologies, one question that often arises is whether removing committees can significantly reduce time to market. Some claim that this can lead to a reduction of up to 50%. But is that really true? My experience suggests that while the figure may be exaggerated, the impact of committees on decision-making and agility is profound.
+In the world of agile methodologies, one question that often arises is whether removing committees can significantly reduce [time to market]({{< ref "/tags/time-to-market" >}}). Some claim that this can lead to a reduction of up to 50%. But is that really true? My experience suggests that while the figure may be exaggerated, the impact of committees on decision-making and agility is profound.
 
 ### The Myth of the 50% Reduction
 
@@ -65,9 +63,9 @@ However, the committee insisted on a more traditional approach: sending a final 
 
 ### The Cost of Traditional Practices
 
-The difference between these two approaches is stark. With modern collaboration tools, we could have produced a near-final document in a matter of days. Instead, we faced a drawn-out process that could take six to twelve weeks. This is where the real cost lies—not just in time to market, but in lost opportunities.
+The difference between these two approaches is stark. With modern [collaboration tools]({{< ref "/tags/collaboration-tools" >}}), we could have produced a near-final document in a matter of days. Instead, we faced a drawn-out process that could take six to twelve weeks. This is where the real cost lies—not just in time to market, but in lost opportunities.
 
-- **Missed Opportunities**: Every moment spent in committee is a moment where potential business opportunities slip away. If decisions are delayed, competitors can swoop in and capture the market share that could have been yours.
+- **Missed Opportunities**: Every moment spent in committee is a moment where potential business opportunities slip away. If decisions are delayed, competitors can swoop in and capture the [market share]({{< ref "/tags/market-share" >}}) that could have been yours.
 
 - **Agility vs. Staging**: Committees represent a traditional, staged approach to management that is at odds with the agile mindset. Agile is about collaboration, speed, and adaptability. Committees, on the other hand, create barriers that hinder these principles.
 
@@ -85,4 +83,4 @@ While the claim that removing committees can reduce time to market by 50% may be
 
 If you’re in a traditional organisation, consider how you can streamline your processes and empower your teams. The future of your business may depend on it.
 
-Thank you for reading! If you found this post insightful, please like, follow, and subscribe. I’m always open to discussions about agile, scrum, or DevOps, so feel free to book a coffee chat with me through Naked Agility.
+Thank you for reading! If you found this post insightful, please like, follow, and subscribe. I’m always open to discussions about agile, [scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), so feel free to book a coffee chat with me through Naked Agility.

@@ -2,45 +2,51 @@
 title: 'The Pitfalls of Agile Burndowns: Stop Being Agile Bandits'
 description: 'Discover the 4th kind of Agile bandit with Martin Hinshelwood! Uncover insights on burndown charts and enhance your Agile journey. #Agile #Scrum #Shorts'
 date: 2024-01-09T11:00:51Z
+weight: 1000
 ResourceId: P2UnYGAqJMI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: P2UnYGAqJMI
 source: internal
 url: /resources/videos/:slug
-slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
+slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
 layout: video
 preview: https://i.ytimg.com/vi/P2UnYGAqJMI/maxresdefault.jpg
 duration: 46
 isShort: true
 aliases:
-- /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
-- /resources/videos/P2UnYGAqJMI
-- /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
 - /resources/P2UnYGAqJMI
-aliasesFor404:
+- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
+- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
+aliasesArchive:
+- /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 - /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-4th-kind
+- the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
+- Agile Philosophy
+- Agile Transformation
+- Agile Planning
 - Software Development
+- Agile Frameworks
+- Agile Values and Principles
+- Continuous Improvement
 resourceTypes:
 - video
 categories:
-- Scrum
-- Product Management
-- Social Technologies
+- Product Development
 
 ---
 Agile teams often use burndown charts to track progress throughout a sprint. It seems like a solid approach—after all, it’s a visual indicator of how much work remains. But let me be clear: **burndowns are Agile banditry**! In fact, relying too heavily on burndowns could lead your team down a treacherous path of excessive upfront planning and false security. Let’s explore why burndowns aren’t the hero of Agile, and how embracing a continuous flow mindset can lead to real value.
 
-## **The Reality of Agile Planning**
+## **The Reality of [Agile Planning]({{< ref "/tags/agile-planning" >}})**
 
 Imagine this: for your burndown chart to move from the top left to the bottom right in a smooth, linear fashion, you’d need to have planned the entire sprint upfront. Think about that for a moment. You’d need to know exactly what you’ll encounter over the next two weeks to deliver a perfect outcome. And, if you're doing a project burndown, this planning covers the entire product lifecycle!
 
@@ -68,7 +74,7 @@ That’s right. Your plan should be small enough to tackle the immediate work ah
 
 - **Plan the first 24 hours**: Start with a small, actionable goal.
 
-- **Get together daily**: Plan the next 24 hours in your daily Scrum.
+- **Get together daily**: Plan the next 24 hours in your daily [Scrum]({{< ref "/categories/scrum" >}}).
 
 - **Minimize the backlog**: Only add items to the sprint backlog when they are ready to be worked on.
 

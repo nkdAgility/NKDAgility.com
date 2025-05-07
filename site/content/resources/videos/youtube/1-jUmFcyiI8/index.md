@@ -2,40 +2,57 @@
 title: 'Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success'
 description: Unlock the secrets to efficient software delivery! Discover how deployment frequency, stability, and learning time can transform your team's success.
 date: 2025-01-22T14:16:54Z
+weight: 230
 ResourceId: 1-jUmFcyiI8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1-jUmFcyiI8
 source: youtube
 url: /resources/videos/:slug
-slug: accelerating-time-to-market-with-a-tight-feedback-loop
+slug: maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
 layout: video
 aliases:
-- /resources/videos/1-jUmFcyiI8
-- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
-- /resources/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/1-jUmFcyiI8
-aliasesFor404:
+- /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
+- /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
+aliasesArchive:
+- /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
 - /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/accelerating-time-to-market-with-a-tight-feedback-loop
+- maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
 preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
 duration: 551
 isShort: false
 tags:
+- Frequent Releases
+- Organisational Agility
+- Operational Practices
+- Deployment Frequency
 - Product Delivery
+- Market Adaptability
+- Value Delivery
+- Metrics and Learning
+- Software Development
+- Time to Market
+- Technical Excellence
+- Flow Efficiency
+- Continuous Delivery
+- Pragmatic Thinking
+- Working Software
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
-- DevOps
-- Product Management
 - Engineering Excellence
+- Product Development
+- DevOps
 
 ---
-In my journey through the world of software development, I've come to realise that deployment frequency is a crucial leading indicator of a company's ability to reduce time to market. It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've come to realise that [deployment frequency]({{< ref "/tags/deployment-frequency" >}}) is a crucial leading indicator of a company's ability to reduce [time to market]({{< ref "/tags/time-to-market" >}}). It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.
 
 ### Understanding Deployment Metrics
 
@@ -61,7 +78,7 @@ As a delivery manager, I often grapple with the question of speed. There’s a p
 
 - **Business Demands**: If the business doesn’t require rapid changes, pushing for speed can lead to unnecessary risks. However, if we can shorten feedback loops, we can iterate more effectively and respond to real-time data.
 
-- **Handling Opportunities**: When a business opportunity arises, the pressure to deliver can be immense. If your team is accustomed to continuous delivery, adding new features becomes less daunting. You can ship quickly, iterate, and refine based on user feedback.
+- **Handling Opportunities**: When a business opportunity arises, the pressure to deliver can be immense. If your team is accustomed to [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), adding new features becomes less daunting. You can ship quickly, iterate, and refine based on user feedback.
 
 ### Building Trust and Collaboration
 

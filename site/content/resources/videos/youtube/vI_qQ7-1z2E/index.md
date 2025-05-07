@@ -2,8 +2,10 @@
 title: Is a PSM II certification validation of your skills, or does it develop your skill and capability as a Scrum Master?
 description: Discover if the PSM II certification validates your skills or enhances your capabilities as a Scrum Master. Join Martin Hinshelwood for insights!
 date: 2023-04-17T07:00:17Z
+weight: 665
 ResourceId: vI_qQ7-1z2E
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vI_qQ7-1z2E
@@ -15,41 +17,36 @@ preview: https://i.ytimg.com/vi/vI_qQ7-1z2E/maxresdefault.jpg
 duration: 330
 isShort: false
 aliases:
-- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
-- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
-- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
-- /resources/videos/vI_qQ7-1z2E
-- /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 - /resources/vI_qQ7-1z2E
-aliasesFor404:
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
+aliasesArchive:
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
 - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
+- /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
+- is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
 - Scrum Master
-- Discovery and Learning
+- Competence
 - Agile Frameworks
 - Continuous Learning
-- People and Process
-- Agile Project Management
-- Coaching
+- Professional Scrum
 - Pragmatic Thinking
-- Accountability
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Beyond Certification: A Deeper Dive Into the PSM II Course
 
-Again, I'm answering a commonly asked question: ' Is the PSM II course (Professional Scrum Master II) simply a validation of your skills, or does it help to develop your abilities and competencies as a Scrum Master?'
+Again, I'm answering a commonly asked question: ' Is the PSM II course (Professional [Scrum]({{< ref "/categories/scrum" >}}) Master II) simply a validation of your skills, or does it help to develop your abilities and competencies as a [Scrum Master]({{< ref "/tags/scrum-master" >}})?'
 
 Although this is a commonly asked question, I think it requires an explanation and the answer may surprise you.
 
@@ -77,7 +74,7 @@ A crucial differentiator is that the Advanced Scrum Master class emphasises faci
 
 The class differentiates between having the title of Scrum Master and fulfilling the Scrum Master's accountability as outlined in the Scrum Guide.
 
-The real objective of the class is to delve into the Scrum Master's accountability to the team, the Product Owner, and the organisation. 💼
+The real objective of the class is to delve into the Scrum Master's accountability to the team, the [Product Owner]({{< ref "/tags/product-owner" >}}), and the organisation. 💼
 
 This is the real heart of the class. 💖
 
@@ -87,7 +84,7 @@ There's real power in facilitation techniques.
 
 ## Enriching the Learning Experience
 
-In my version of the class, I use many liberating structures, connecting them to form a string that leads towards an overall story, shedding light on the 'why' and the 'what' of each exercise.
+In my version of the class, I use many [liberating structures]({{< ref "/tags/liberating-structures" >}}), connecting them to form a string that leads towards an overall story, shedding light on the 'why' and the 'what' of each exercise.
 
 The idea is to enable you to harness these techniques with your teams and in your organisation. I try to explain the meta-process in the class as we go through each exercise, explaining the objective behind each one and the expected outcome.  💫
 

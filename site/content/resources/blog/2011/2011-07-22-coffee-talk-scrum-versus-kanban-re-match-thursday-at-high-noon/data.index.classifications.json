@@ -1,20 +1,14 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Kanban methodologies, which are relevant to Agile practices, but it primarily focuses on a comparison event rather than in-depth Agile product management topics.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Kanban methodologies, which are relevant to Agile practices, but it primarily focuses on a comparison event rather than practical application or tooling.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which are Agile methodologies, but does not delve deeply into Agile Product Management principles such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. While it mentions Scrum, it lacks a focused discussion on product management strategies or practices that maximise product value.",
     "level": "Tertiary"
   },
   "Platform Engineering": {
@@ -28,65 +22,35 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T22:16:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a comparison between Scrum and Kanban methodologies, without a focus on evidence-based management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T22:16:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum and Kanban methodologies, which are not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the comparison of Scrum and Kanban methodologies, highlighting the importance of adapting processes to suit needs, which aligns with the theme of learning and discovery in product development.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T22:16:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Scrum and Kanban methodologies without any mention of AI or automation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban methodologies, lacking any direct discussion on Evidence-Based Management principles or metrics. While it touches on agile processes, it does not provide empirical evidence or data-informed decision-making insights, which are central to EBM.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:29:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Kanban, which is a Lean-inspired approach, but primarily focuses on the comparison between Scrum and Kanban rather than Lean principles themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a comparison between Scrum and Kanban, which are Agile methodologies. While Kanban is described as a Lean-inspired approach, the discussion does not delve into Lean principles or methodologies in depth. The mention of Kanban as Lean-inspired is brief and does not explore key Lean concepts such as waste reduction or continuous improvement, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T22:16:46",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a comparison between Scrum and Kanban methodologies, with no focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T22:16:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a comparison between Scrum and Kanban methodologies, with no clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,22 +71,16 @@
     "reasoning": "Content primarily discusses Scrum and Kanban methodologies without a clear focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T22:16:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum and Kanban methodologies without a focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T22:16:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum and Kanban methodologies, which are not central to DevOps principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban, which are methodologies within Agile project management, rather than discussing DevOps principles or practices. While there are some mentions of processes that could relate to DevOps, the core themes of collaboration, automation, and shared accountability central to DevOps are not addressed. The discussion lacks depth in relation to DevOps, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,32 +101,17 @@
     "reasoning": "Content primarily discusses Scrum and Kanban methodologies without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T22:16:55",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a series of events focused on Scrum and Kanban, including details about past and upcoming sessions, making it a clear topic of events and presentations.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Kanban methodologies, which are related to flow efficiency principles, but the primary focus is on a comparison of the two processes rather than directly optimising work throughput.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum and Kanban methodologies, highlighting the importance of adapting processes to suit team needs, which aligns with the interplay between human behaviour and structured methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which are methodologies related to Agile practices. While it touches on concepts relevant to flow efficiency, such as limiting work in progress (WIP) and visual management, these topics are not the main focus of the discussion. The depth of analysis on flow efficiency principles is minimal, and the content does not provide substantial insights into optimising throughput or eliminating bottlenecks.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,21 +133,24 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T22:17:02",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a comparison between Scrum and Kanban methodologies without a focus on metrics, data utilisation, or learning mechanisms.",
     "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses a comparison between Scrum and Kanban, making Kanban a major but secondary theme in the context of the overall discussion.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, with Kanban being mentioned but not deeply explored. While there are references to Kanban sessions and its principles, the focus remains on contrasting it with Scrum rather than providing a thorough discussion on Kanban itself. This results in a low confidence score as the content does not meet the criteria for a primary focus on Kanban.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -235,11 +181,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Kanban methodologies, which are relevant to product delivery, but the primary focus is on a comparison event rather than the end-to-end process of delivering software products.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses Scrum and Kanban methodologies, which are relevant to product delivery. However, it lacks a detailed exploration of the end-to-end process of delivering software products, focusing instead on a comparison of two specific methodologies. While it touches on aspects of Agile practices, it does not delve deeply into the broader themes of product delivery such as deployment strategies or cross-functional team roles.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -253,30 +202,24 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T22:17:11",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Kanban methodologies without a focus on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T22:17:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a series of events comparing Scrum and Kanban, rather than focusing on specific products or literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Kanban methodologies, which are related to Agile practices and can impact value delivery, but the primary focus is on the comparison of the two processes rather than on specific value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses an event comparing Scrum and Kanban, which are Agile methodologies. However, it lacks a focused discussion on value delivery principles, techniques, or strategies. While it mentions iterative development and the importance of adapting processes, it does not delve into how these methodologies enhance customer value or business agility, which are core themes of the Value Delivery category.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -305,41 +248,38 @@
     "reasoning": "Content primarily discusses Scrum and Kanban methodologies without a focus on Systems Thinking principles or their applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T22:17:18",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Kanban methodologies, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T22:17:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a comparison between Scrum and Kanban methodologies, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban, which are agile methodologies, but does not delve into the Agile Product Operating Model or its principles. While it mentions agile processes, it lacks a direct discussion on product management or the transition to a product-oriented mindset, which are key aspects of the APOM. The depth of discussion is limited to comparing two methodologies without addressing the broader framework of APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Kanban methodologies, which are related to agile practices, but the primary focus is on a comparison event rather than a deep exploration of organisational agility principles.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an upcoming event related to Scrum and Kanban, providing updates and insights into the sessions, which aligns with industry news. However, it primarily focuses on the event rather than broader trends or reviews.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which are Agile methodologies. While it touches on the importance of adapting processes to suit needs, it lacks a comprehensive exploration of organisational agility principles, such as leadership roles, cross-functional teams, or continuous improvement strategies. The focus is more on the methodologies themselves rather than on broader organisational agility concepts.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -350,30 +290,21 @@
     "reasoning": "Content primarily discusses Scrum and Kanban methodologies, which are not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum in the context of a comparison with Kanban, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a comparison between Scrum and Kanban and does not discuss the Daily Scrum specifically or its procedures.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a Scrum versus Kanban event and does not mention the Definition of Done.",
     "level": "Ignored"
   },
@@ -397,11 +328,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Kanban methodologies, which are not related to Continuous Delivery principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban methodologies, which are agile frameworks, rather than discussing Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in relation to the category's key topics, such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +349,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a rematch event on Scrum versus Kanban and includes promotional information, with little to no focus on Lead Time or its related concepts.",
     "level": "Ignored"
   },
@@ -433,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a comparison of Scrum and Kanban, with no mention of Definition of Ready or related concepts.",
     "level": "Ignored"
   },
@@ -460,19 +394,22 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Kanban, which are Agile methodologies, but primarily focuses on a matchup event rather than deep exploration of Agile Planning principles.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which are Agile methodologies, but it does not delve deeply into Agile Planning principles or practices. While it mentions the importance of adapting processes, it lacks a focused discussion on planning techniques, iterative feedback, or specific Agile planning tools. The content is more about the event and the comparison rather than a thorough exploration of Agile Planning.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on comparing Scrum and Kanban, which are Agile methodologies, and does not discuss Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -487,30 +424,36 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a comparison between Scrum and Kanban, which are frameworks associated with Agile methodologies. While it mentions insights into the processes, it lacks a clear focus on operational efficiency techniques or strategies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which are methodologies relevant to operational practices. However, it lacks a detailed exploration of techniques or strategies aimed at enhancing operational efficiency. The focus is more on the event and the discussion format rather than on practical applications or improvements in operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a comparison between Scrum and Kanban, which includes mentions of Scrum but mainly focuses on the differences and improvements in methodologies rather than in-depth discussions on Scrum team dynamics or roles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which is not strictly focused on the dynamics and roles within a Scrum Team. While Scrum is mentioned, the discussion lacks depth on team collaboration, roles, or practices specific to Scrum Teams. The content is more about the methodologies rather than the team dynamics that contribute to a high-performing Scrum Team.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:12",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily focuses on the comparison between Scrum and Kanban, which are specific Agile frameworks, rather than discussing the Agile Philosophy as a broader mindset and set of principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -532,11 +475,14 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses Scrum versus Kanban, which are Agile methodologies, indicating a significant focus on Agile practices, but does not delve deeply into transformation strategies or principles.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which are Agile methodologies, but does not delve into broader Agile transformation strategies or principles. While it mentions Scrum as an Agile methodology, it lacks a comprehensive exploration of Agile transformation concepts such as change management, leadership roles, or organisational agility. The focus is more on the methodologies themselves rather than the transformation process.",
     "level": "Tertiary"
   },
   "Mentoring": {
@@ -559,12 +505,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Scrum and Kanban methodologies, which are relevant to team performance in Agile contexts, but it does not delve deeply into specific team dynamics or performance-enhancing strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which are methodologies related to Agile practices. However, it lacks a focused discussion on team performance, collaboration, or specific strategies for enhancing team dynamics. While it mentions Scrum and Kanban, it does not delve into metrics, tools, or practices that directly relate to team performance, making it a secondary mention rather than a primary focus.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -577,47 +526,44 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on comparing Scrum and Kanban methodologies without any mention or discussion of Acceptance Test Driven Development topics.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Scrum and Kanban, which are key methodologies in Agile software development. It centers around their comparison, highlighting their processes, methodologies, and implications for software development practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily focuses on comparing Scrum and Kanban, both of which are key frameworks within Agile Project Management.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Scrum and Kanban, which are both methodologies within the Software Development category. It highlights their processes, comparisons, and implications for software development practices. The mention of specific sessions and the interactive nature of the discussions indicates a focus on methodologies and practices relevant to software engineering. However, the depth of technical detail is somewhat limited, focusing more on event promotion than on in-depth analysis of the methodologies themselves.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Kanban as specific Agile frameworks without a primary focus on the underlying values and principles of Agile.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum in the context of comparing it with Kanban, positioning it as a method for iterative, value-driven development. While it references Scrum, the primary focus is on the comparative analysis with Kanban, making Scrum a secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Scrum in the context of a comparison with Kanban, which indicates some relevance to Scrum principles. However, the primary focus is on the debate between Scrum and Kanban rather than an in-depth exploration of Scrum itself. While Scrum is mentioned and there are references to its methodology, the discussion lacks the depth and detailed examination of Scrum roles, events, and artifacts that would be expected in a professional Scrum context.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
@@ -631,19 +577,19 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a rematch session comparing Scrum and Kanban, without a clear focus on empirical process control principles or practices.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the comparison between Scrum and Kanban, without a clear focus on Scrum values.",
     "level": "Ignored"
   },
@@ -701,15 +647,6 @@
     "reasoning": "Content heavily discusses Scrum versus Kanban methodology comparison, with no clear focus on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the comparison between Scrum and Kanban, rather than focusing on the scaling of Scrum practices in large organizations.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T02:06:42",
@@ -726,15 +663,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and Kanban methodologies in a competitive format, with no focus on psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum and Kanban methodologies, without focusing on scaling these practices across organizations.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -757,10 +685,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Kanban methodologies rather than asynchronous development practices.",
     "level": "Ignored"
   },
@@ -784,12 +712,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical insights about Scrum and Kanban, emphasizing adaptability and the application of these methodologies in real-world contexts, but the primary focus is on events rather than in-depth pragmatic thinking.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses an event comparing Scrum and Kanban, which is relevant to Agile methodologies. However, it lacks a deep exploration of pragmatic problem-solving techniques or real-world applications of these frameworks. While it mentions the importance of adapting processes to suit needs, it does not provide substantial detail or case studies that would strengthen its alignment with the category of Pragmatic Thinking.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +733,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on comparing Scrum and Kanban methodologies without discussing innovation capabilities, measurement, or improvement.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Scrum as a methodology and discusses its comparison with Kanban, indicating a focus on Scrum principles, but it primarily centers on a debate rather than in-depth product development processes.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a comparison between Scrum and Kanban, which are individual Agile practices, rather than on scaling Agile across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -838,12 +751,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Kanban, which is a Lean-inspired approach to workflow management, but the primary focus is on the comparison between Scrum and Kanban rather than a direct exploration of Lean Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and Kanban, which are Agile methodologies, rather than Lean Thinking principles. While Kanban is mentioned as a Lean-inspired approach, the focus is on comparing Scrum and Kanban rather than on Lean principles such as waste minimisation or continuous improvement. The discussion lacks depth in Lean concepts and does not provide substantial insights into Lean Thinking itself.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -865,19 +781,19 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the comparison between Scrum and Kanban methodologies without focusing on working software delivery, quality, or customer value.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on comparing Scrum and Kanban methodologies rather than discussing Agile planning tools.",
     "level": "Ignored"
   },
@@ -901,10 +817,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a comparison of Scrum and Kanban, focusing on methodologies rather than leadership roles or practices within an Agile context.",
     "level": "Ignored"
   },
@@ -928,30 +844,33 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a comparison between Scrum and Kanban methodologies without addressing hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a series of discussions and events comparing Scrum and Kanban methodologies, without a focus on structured decision-making principles or evidence-based practices.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Kanban, which is a Lean-inspired approach, and there are discussions around methodologies that relate to iterative processes and value-driven development, indicating a connection to Lean principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and Kanban, which are Agile methodologies, rather than focusing on Lean Principles directly. While Kanban is mentioned as a Lean-inspired approach, the overall discussion does not delve into core Lean concepts such as waste reduction or continuous improvement. The content lacks depth in Lean-specific practices and tools, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Release Management": {
     "category": "Release Management",
@@ -973,10 +892,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the comparison between Scrum and Kanban, with no specific discussion on Cycle Time as a metric or its implications.",
     "level": "Ignored"
   },
@@ -1009,19 +928,22 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Kanban, which are relevant to Agile methodologies and their application in teamwork, but the primary focus appears to be on comparing the two methodologies rather than directly on team collaboration techniques or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which are methodologies rather than direct discussions on team collaboration. While it touches on the importance of adapting processes to suit team needs, it lacks a focused exploration of team dynamics, communication, or shared ownership. The mention of interactive sessions suggests some level of collaboration, but it does not delve deeply into techniques or strategies for enhancing teamwork.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and Kanban methodologies rather than Behaviour Driven Development.",
     "level": "Ignored"
   },
@@ -1034,22 +956,13 @@
     "reasoning": "Content heavily discusses the Scrum and Kanban methodologies rather than focusing on the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T02:06:42",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the comparison of Scrum and Kanban methodologies, which are not directly related to the concept of Minimum Viable Product.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum and Kanban methodologies without any mention of AI integration.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1090,20 +1003,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a comparison between Scrum and Kanban, with no explicit focus on cross-functional teams.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the comparison between Scrum and Kanban methodologies, with no focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a debate between Scrum and Kanban methodologies, with no direct mention of Test First Development principles or practices. While it touches on agile processes, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of feedback loops. The discussion lacks depth regarding any testing methodologies, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1144,21 +1060,24 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a comparison between Scrum and Kanban methodologies, without addressing remote working practices, challenges, or solutions.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Kanban methodologies and includes references to sessions promoting insights and adaptations, suggesting a focus on learning and team improvement, albeit not primarily.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a series of events comparing Scrum and Kanban, which does not directly focus on Continuous Learning principles. While there are mentions of adapting processes and sharing insights, the discussion lacks depth in exploring growth mindsets, knowledge sharing techniques, or feedback loops. The emphasis is more on event promotion rather than fostering a culture of continuous improvement.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1180,11 +1099,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses a comparison between Scrum and Kanban with a focus on the methodologies rather than the specific role of the Scrum Master.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a debate between Scrum and Kanban, which is relevant to agile methodologies but does not focus specifically on the role of the Scrum Master. While Scrum is mentioned, the discussion lacks depth regarding the responsibilities, skills, and impact of the Scrum Master. The content does not provide insights into coaching, mentoring, or facilitating within a Scrum context, nor does it explore the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1120,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum versus Kanban without focusing on working agreements or teamwork principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies, specifically Scrum and Kanban, which directly relate to software development practices. However, it focuses primarily on a comparison of these methodologies rather than detailing their application by software developers.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,10 +1138,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on comparing Scrum and Kanban methodologies rather than specific engineering practices like clean code, TDD, or CI/CD.",
     "level": "Ignored"
   },
@@ -1270,21 +1183,27 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses and compares two Agile frameworks, Scrum and Kanban, highlighting their features, pros, and cons which aligns with the exploration of Agile frameworks.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on a comparison between Scrum and Kanban, which are both Agile frameworks. It discusses their methodologies, highlights the importance of adapting these frameworks to suit specific needs, and mentions various related sessions that delve into Agile principles. However, while it provides a good overview and some insights, it lacks in-depth analysis and case studies that would further enhance its alignment with the category.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum versus Kanban, which are Agile methodologies, but primarily focuses on comparisons and session announcements rather than strategic aspects of Agile implementation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, which are Agile methodologies, but it lacks a strategic focus on how these methodologies align with organisational vision or long-term success. While there are mentions of adapting processes to suit needs, the discussion does not delve into broader Agile strategy concepts such as continuous value delivery or leadership roles in fostering an Agile culture.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1306,10 +1225,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on comparing Scrum and Kanban methodologies without a significant focus on Lean principles or practices in product development.",
     "level": "Ignored"
   },
@@ -1331,15 +1250,6 @@
     "reasoning": "The content primarily discusses a comparison of Scrum and Kanban methodologies without a focus on accountability or team ownership.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T02:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban rather than focusing on scaling Kanban principles in large organizations.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T02:06:42",
@@ -1351,21 +1261,24 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T02:06:42",
+    "calculated_at": "2025-04-10T15:55:46",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses comparisons between Scrum and Kanban methodologies, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:56:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the comparison between Scrum and Kanban, highlighting their methodologies, principles, and the importance of adapting these frameworks to suit team needs.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban, which are methodologies within Agile practices. While it touches on aspects of collaboration and decision-making, it lacks a deeper exploration of social technologies as defined in the category. The discussion is more about the methodologies themselves rather than the underlying social frameworks that promote collaboration and value delivery. Therefore, while there are relevant mentions, the overall depth and alignment with the core themes of social technologies are limited.",
+    "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1374,6 +1287,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and Kanban methodologies rather than leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:28:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum and Kanban methodologies, which are unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:28:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum and Kanban methodologies without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban, with multiple mentions of Scrum throughout. While it does touch on Scrum principles and its iterative nature, the focus is significantly on contrasting it with Kanban, which detracts from a deeper exploration of Scrum itself. The depth of discussion on Scrum is moderate, as it includes references to its adoption and benefits, but lacks detailed exploration of Scrum roles, events, or artifacts.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a comparison between Scrum and Kanban methodologies, with no direct mention of the Shift-Left Strategy or its principles. While it touches on software development processes, it does not align with the core themes of integrating testing, security, or compliance early in the development lifecycle. The depth of discussion is minimal and does not provide any techniques, case studies, or tools related to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban, which are Agile methodologies, but does not explicitly discuss Continuous Improvement principles. While it touches on enhancing agile processes, it lacks depth in exploring Continuous Improvement as a dedicated practice. The discussion is more about comparing methodologies rather than reflecting on empirical evidence or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban, which does not directly address the concept of Common Goals. While it mentions agile processes, it lacks a clear discussion on shared objectives or alignment within teams. The depth of discussion is limited to comparing methodologies rather than exploring how these methodologies contribute to common goals in an Agile or DevOps context.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban methodologies, with some mention of insights and strategies for enhancing agile processes. However, it lacks a direct discussion on competence, continuous learning, or skill development, which are central to the category. While there is a conceptual alignment in discussing methodologies that could imply competence, the depth of discussion is limited, focusing more on the event and less on the principles of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a debate between Scrum and Kanban methodologies, which does not directly address the concept of Agentic Agility. While there are mentions of adapting processes to suit needs, this is more about Agile practices than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth in exploring the principles of Agentic Agility, such as intent, accountability, and the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

@@ -1,20 +1,14 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:54:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation guide for Visual Studio 2005 Team Foundation and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:54:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 75.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation guide for Visual Studio 2005 Team Foundation, including updates and installation procedures, which aligns well with the category of Install and Configuration.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the installation guide for Visual Studio 2005 Team Foundation, explicitly mentioning updates and installation procedures, which aligns well with the category. It discusses specific changes in the installation process, including the incorporation of SP1 and additional instructions for Reporting Services and Analytical Services. However, while it provides useful insights, the depth of discussion on configuration best practices and troubleshooting is somewhat limited, preventing a higher score.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -24,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses updates to a software installation guide and does not focus on decision-making processes or related themes.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:54:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses updates to a technical installation guide without focusing on human behaviour, team dynamics, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:54:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses updates to a software installation guide and does not address organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +40,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:54:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation guide for Visual Studio Team Foundation and does not focus on Scrum principles, practices, or frameworks.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the installation guide for Visual Studio 2005 Team Foundation Server (TFS) and does not explicitly mention Scrum principles, roles, events, or artifacts. While TFS can be related to Agile methodologies, including Scrum, the discussion lacks direct references to Scrum concepts and does not delve into the framework or its practices. Therefore, the confidence score reflects minimal relevance to the Scrum category.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -118,10 +97,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:54:59",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation guide for Visual Studio 2005 Team Foundation and does not focus on metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -132,15 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation guide for Visual Studio 2005 Team Foundation and does not focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:55:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses updates to an installation guide for Visual Studio 2005 Team Foundation, with no focus on code quality or complexity in software development.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -206,32 +176,17 @@
     "reasoning": "Content primarily discusses updates to the Visual Studio 2005 Team Foundation Installation Guide and does not address Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:55:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an installation guide for Visual Studio 2005 Team Foundation, detailing updates and installation procedures rather than discussing industry news or reviews.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:55:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation guide for Visual Studio 2005 Team Foundation, which relates to tooling in Agile and DevOps practices, but it is primarily focused on the updates and installation procedures rather than broader practical techniques or methodologies.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:55:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Team Foundation Server (TFS), which is a tool related to Application Lifecycle Management, but the primary focus is on installation updates rather than the broader aspects of managing the application lifecycle.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions TFS (Team Foundation Server), which is a tool related to Application Lifecycle Management, but it does not delve into the stages of the application lifecycle or best practices. The discussion is more focused on installation updates rather than comprehensive ALM practices, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -258,15 +213,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation guide for Visual Studio 2005 Team Foundation and does not address Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:55:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an installation guide for Visual Studio 2005 Team Foundation and does not relate to events or presentations.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,33 +251,6 @@
     "reasoning": "Content primarily discusses updates to a technical guide and installation procedures for Visual Studio Team Foundation, with only a brief mention of personal usage in documentation.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:55:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation guide for Visual Studio 2005 Team Foundation and does not discuss discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:55:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses updates to the Visual Studio 2005 Team Foundation Installation Guide and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:55:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation guide for Visual Studio 2005 Team Foundation, focusing on updates and installation procedures rather than reviews or analyses of products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T09:55:33",
@@ -350,7 +269,7 @@
     "reasoning": "Content primarily discusses the installation guide for Visual Studio Team Foundation Server, with no significant focus on DevOps principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:55:36",
     "ai_confidence": 0,
@@ -379,11 +298,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation procedures relevant to Visual Studio 2005 and Team Foundation Server (TFS), which are associated with the Windows environment, but it does not primarily focus on Windows operating system aspects.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the installation guide for Visual Studio 2005 Team Foundation, which is related to software development rather than the Windows operating system itself. While it mentions installation procedures, it does not delve into Windows-specific topics such as configuration, troubleshooting, or updates for the Windows OS. The focus is more on the software and its features rather than the Windows environment, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -397,10 +319,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is mostly about installation and updates related to Visual Studio Team Foundation, with no discussion of the Definition of Done or Agile methodologies.",
     "level": "Ignored"
   },
@@ -431,15 +353,6 @@
     "reasoning": "Content primarily discusses updates to the Visual Studio 2005 Team Foundation Installation Guide and related installation details, with no focus on empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on Visual Studio Team Foundation installation and updates, with no mention of Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Increment": {
     "category": "Increment",
     "calculated_at": "2025-02-17T11:46:43",
@@ -460,12 +373,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation procedures of the Visual Studio 2005 Team Foundation, which is related to system setup and configuration, but does not delve deeply into broader configuration practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the installation guide for Visual Studio 2005 Team Foundation, which is relevant to system configuration. However, it primarily focuses on updates and personal experiences rather than detailed methodologies or best practices for system configuration. The mention of installation procedures and the inclusion of Reporting Services and Analytical Services indicates some alignment with the category, but the depth of discussion is limited and lacks comprehensive exploration of configuration management or optimisation strategies.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -532,11 +448,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the installation guide for Team Foundation Server (TFS), which relates to software development processes but does so in a limited manner focused on installation rather than development methodologies or practices.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses the installation guide for Team Foundation Server (TFS), which is a tool relevant to software development practices, particularly in version control and project management. However, the discussion is primarily focused on the updates to the installation guide rather than on broader software development methodologies or practices. While it mentions TFS, which is a part of the software development lifecycle, the depth of discussion is limited to installation procedures and lacks a comprehensive exploration of software development concepts.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -550,19 +469,19 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses updates and installation procedures for Visual Studio 2005 Team Foundation, which are technical in nature, not related to organisational change or transformation strategies.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installation procedures and updates for software, with no relevance to team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -611,15 +530,6 @@
     "reasoning": "Content primarily focuses on the installation guide for Visual Studio 2005 Team Foundation and does not discuss strategic goals or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses updates and installation procedures for Visual Studio Team Foundation Server, without a focus on scaling Agile methodologies or enterprise-level practices.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T11:46:43",
@@ -640,10 +550,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the installation guide for Visual Studio 2005 Team Foundation and does not discuss team performance, collaboration, or agile methodologies.",
     "level": "Ignored"
   },
@@ -685,10 +595,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Visual Studio Team Foundation Server installation and updates, not on Scrum Team dynamics or related discussions.",
     "level": "Ignored"
   },
@@ -784,10 +694,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the Visual Studio 2005 Team Foundation Installation Guide, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -865,10 +775,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an installation guide for Visual Studio 2005 Team Foundation and does not address the Definition of Ready or its related topics.",
     "level": "Ignored"
   },
@@ -881,7 +791,7 @@
     "reasoning": "Content primarily discusses the installation of Visual Studio 2005 Team Foundation and is not focused on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:46:43",
     "ai_confidence": 0,
@@ -933,15 +843,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and updates of Visual Studio Team Foundation and does not focus on Agile strategy or methodologies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an installation guide for Team Foundation Server (TFS) and user experiences with it, without focusing on software developers' roles within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +897,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses installation instructions and updates for Visual Studio Team Foundation, with no connection to Scrum Values.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Team Foundation installation, not related to Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1205,15 +1097,6 @@
     "reasoning": "Content is primarily focused on the Visual Studio 2005 Team Foundation Installation Guide and TFS implementations, with no discussion of test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on installation guide for Team Foundation Server, with no direct reference to Scrum practices, roles, or product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:46:43",
@@ -1225,10 +1108,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on installation updates for Visual Studio 2005 Team Foundation and is not related to change management discussions.",
     "level": "Ignored"
   },
@@ -1261,29 +1144,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an installation guide for Team Foundation Server and does not focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the installation guide for Visual Studio Team Foundation and does not discuss scaling agile principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on installation instructions for Visual Studio 2005 and Team Foundation Server, with no mention of Agile principles or methodologies.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1306,10 +1171,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T11:46:43",
+    "calculated_at": "2025-04-10T15:57:19",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on installation guide updates for Visual Studio Team Foundation, not on team collaboration or Agile principles.",
     "level": "Ignored"
   },
@@ -1329,15 +1194,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about Visual Studio 2005 Team Foundation and its installation guide, with no relevance to Value Stream Mapping.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses updates to the Team Foundation Installation Guide and TFS implementations, not AI or its applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1374,6 +1230,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation procedures and updates for Visual Studio Team Foundation, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:55:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation guide for Visual Studio Team Foundation Server, which is not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:55:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation guide for Visual Studio 2005 Team Foundation and does not relate to AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation guide for Visual Studio 2005 Team Foundation and does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The discussion is centred around installation updates and personal experiences with TFS implementations, which are unrelated to the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

@@ -46,21 +46,27 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique needs of different organizations and the application of DevOps principles within those contexts, indicating a major theme of organisational dynamics and systems thinking, but it is primarily focused on DevOps rather than organisational physics specifically.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the unique challenges organizations face in implementing DevOps practices, highlighting the importance of context and tailored solutions. While it touches on systems thinking principles, such as the need for adaptability and the influence of external expertise, it primarily focuses on practical experiences and solutions rather than a deep exploration of organisational dynamics or systems thinking. Therefore, while there is some alignment with the category, it is not the primary focus.",
     "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses coaching in the context of helping organizations navigate unique challenges, but it primarily focuses on DevOps solutions rather than coaching techniques or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of engaging with external experts and the role of coaching in navigating complex DevOps challenges. While coaching is mentioned, it is not the primary focus of the content, which centres more on the unique challenges of implementing DevOps practices. The discussion on coaching is somewhat superficial, lacking detailed techniques or frameworks, but it does highlight the value of sustained engagement with coaches for continuous improvement.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -109,11 +115,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T04:54:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:07:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions rather than specific system configuration practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps practices and the importance of tailoring solutions to unique organisational needs, rather than discussing system configuration directly. While it touches on themes of continuous improvement and external expertise, it lacks explicit mentions of system configuration tools, methodologies, or best practices. The discussion is more about the philosophy and approach to DevOps rather than the technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -127,10 +136,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T04:54:40",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions rather than the delivery of functional software.",
     "level": "Ignored"
   },
@@ -172,12 +181,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique context of organizations in relation to DevOps, hinting at the influence of organisational culture on problem-solving and adaptability. However, it primarily focuses on DevOps practices rather than a deep exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses DevOps practices and the unique challenges organizations face, with only brief mentions of culture in the context of growth and adaptation. While it touches on the importance of external expertise and tailored strategies, it lacks a focused exploration of how organisational culture specifically influences agility and team dynamics, which is central to the category of Organisational Culture.",
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -208,10 +220,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T04:54:51",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no mention of the Definition of Done or related criteria.",
     "level": "Ignored"
   },
@@ -235,30 +247,36 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-12T04:54:54",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no focus on Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique approaches to DevOps within different organizations and touches on the importance of strategic direction and adaptation to market needs, making strategy a significant theme, though not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of tailoring DevOps strategies to unique organizational contexts, which aligns with the strategic alignment of Agile teams and organisational goals. It also emphasises continuous improvement and the role of external expertise in refining strategies, which are key themes in the Strategy category. However, while it touches on strategic concepts, the focus is more on practical experiences and solutions rather than a deep exploration of strategic frameworks, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T21:07:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses unique solutions and adaptability within organizations, which relates to innovation, but it primarily focuses on DevOps practices rather than directly measuring or enhancing the ability to innovate.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of tailoring DevOps practices to unique organizational needs, which aligns with the concept of innovation. It highlights the value of external expertise in sparking innovation and provides insights into developing a flexible philosophy for growth. However, while it touches on innovation, the primary focus remains on DevOps practices rather than a deep exploration of innovation metrics or frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -267,15 +285,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its unique implementations across various organisations, without a clear focus on Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T04:54:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps solutions tailored to unique organisational contexts, without a clear focus on scaling agile practices or frameworks.",
     "level": "Ignored"
   },
   "Team Collaboration": {
@@ -334,29 +343,38 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses DevOps philosophies and their application within unique organizational contexts, making it a major but secondary theme in the broader context of software development.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses DevOps practices, which are integral to software development methodologies. It covers the unique challenges organizations face in implementing these practices, emphasising the importance of context and tailored solutions. The depth of discussion includes personal experiences and key takeaways that align well with the core themes of software development, particularly in relation to continuous improvement and collaboration. The focus on adapting methodologies to fit specific organizational needs further solidifies its relevance to the Software Development category.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses DevOps principles and the unique challenges organizations face in implementing them, which relates to engineering practices. However, it primarily focuses on the uniqueness of solutions rather than specific engineering excellence standards or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses DevOps and the unique challenges faced by different organizations, which touches on aspects of engineering excellence, such as continuous improvement and adapting practices to enhance software delivery. However, it lacks direct mentions of specific engineering practices, coding standards, or quality assurance principles, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T04:55:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:07:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the unique challenges and solutions in DevOps across different organizations, without a clear focus on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the unique challenges and solutions in implementing DevOps practices across different organizations. While it touches on themes of continuous improvement and adaptation, it does not explicitly mention throughput as a delivery metric or provide any analysis or visualisation related to throughput. The focus is more on philosophical approaches and personal experiences rather than on measurable delivery capacity or performance metrics, which are central to the concept of throughput.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,10 +388,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T04:55:19",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -406,12 +424,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique challenges and solutions organizations face in implementing DevOps, which relates to change management principles, but it primarily focuses on the specifics of DevOps rather than change management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the unique challenges organizations face in implementing DevOps practices, which indirectly relates to change management. However, it primarily focuses on the specifics of DevOps rather than the broader principles of change management in Agile contexts. While there are mentions of adapting strategies and engaging external expertise, the depth of discussion on change management principles is limited, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -458,22 +479,16 @@
     "reasoning": "Content heavily discusses DevOps philosophies and unique organizational solutions without reference to revenue per employee metrics or related financial efficiency discussions.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses DevOps principles and their application within unique organizational contexts, which is relevant to software developers, but it primarily focuses on the broader implications of DevOps rather than specific practices or roles of developers.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T04:55:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps practices and the importance of tailoring solutions to unique organizational needs. It does not explicitly mention Test First Development or its principles, nor does it delve into topics such as success criteria, TDD, or ATDD, which are central to the category. The focus is on general problem-solving and growth strategies in DevOps rather than on testing methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,30 +547,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T04:55:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the unique challenges and solutions in DevOps across different organizations, without a focus on Lead Time as a metric or its implications.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T04:55:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its unique implementations across various organizations, without a focus on scaling Agile practices or coordination among multiple teams.",
+    "calculated_at": "2025-04-11T09:01:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the unique challenges and solutions in implementing DevOps practices across different organizations. While it touches on themes of continuous improvement and adaptation, it does not explicitly mention Lead Time or its significance as an observability metric. The focus is more on the customization of DevOps strategies rather than on measuring or optimising Lead Time, which is a key aspect of the category. Therefore, the confidence score reflects a very low alignment with the Lead Time category.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T04:55:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies within the context of DevOps, emphasising the unique challenges faced by different organisations and the need for adaptability and real-world application of solutions.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the unique challenges faced by different organizations in implementing DevOps, highlighting the importance of practical problem-solving and adaptability. It emphasises the need for tailored solutions and the value of experience in navigating complex issues, aligning well with the core themes of Pragmatic Thinking. The depth of discussion is substantial, as it explores the nuances of applying DevOps principles in various contexts, although it could benefit from more specific examples or case studies.",
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -564,15 +576,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the unique challenges and solutions in implementing DevOps across different organizations, without a clear focus on deployment frequency or related optimisation strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T04:55:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organisational solutions, with no clear focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -595,11 +598,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T04:55:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses DevOps practices and the importance of tailoring solutions to unique organizational needs, which indirectly relates to Continuous Delivery. However, it lacks explicit mentions of Continuous Delivery principles, automation in testing and deployment, or specific strategies for delivering incremental improvements. The focus is more on the broader DevOps philosophy rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,21 +619,24 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T04:55:58",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no clear focus on Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique challenges organizations face in implementing DevOps and the importance of adapting solutions to specific contexts, which aligns with sensemaking principles. However, the primary focus is on DevOps practices rather than a deep exploration of sensemaking itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the complexities of implementing DevOps practices in various organizational contexts, highlighting the importance of context and adaptability in decision-making. While it does not explicitly mention sensemaking, it aligns with the core themes of understanding complexity and adapting strategies. The depth of discussion on leveraging external expertise and the need for a tailored approach contributes to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -645,24 +654,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps solutions and unique organizational needs, with no clear focus on team performance or collaboration.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T04:56:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses DevOps practices and the uniqueness of solutions for different organizations, without any mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T04:56:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps principles and unique organisational solutions, with no clear focus on Kanban or its scaling.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -721,12 +712,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique needs of different organizations and the importance of adapting solutions within the context of each organisation, which aligns with themes of organisational change. However, the primary focus is on DevOps and its implementation rather than a direct discussion on organisational change methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the unique needs of different organisations and the importance of adapting solutions within the context of each organisation. However, it primarily focuses on DevOps practices rather than the principles of organisational change. While there are mentions of adapting to market needs and maintaining progress, the discussion lacks depth in change management frameworks or methodologies specific to organisational change, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -737,31 +731,28 @@
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no focus on test automation or related practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T04:56:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps principles and their application in various organizational contexts, with no clear focus on Scrum practices or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique application of DevOps principles in various organizational contexts, which relates to operational practices, but it primarily focuses on the uniqueness of solutions rather than specific operational efficiency techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the implementation of DevOps practices and the importance of tailoring strategies to unique organizational contexts, which aligns with operational efficiency. However, it lacks specific techniques or metrics for measuring operational efficiency, and the discussion is more focused on personal experiences and philosophies rather than concrete operational practices.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T04:56:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps practices and the importance of tailoring solutions to unique organizational contexts. While it touches on themes of continuous improvement and learning from external expertise, it lacks a direct focus on Evidence-Based Management principles, such as empirical decision-making or specific metrics related to current value, time to market, or unrealised value.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,22 +764,16 @@
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no clear focus on backlog refinement or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T04:56:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its unique implementations across various organisations, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T04:56:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no clear focus on Scrum Master roles or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps practices and the importance of tailoring solutions to unique organisational needs. While it touches on themes of continuous improvement and external expertise, it does not explicitly discuss the role or responsibilities of a Scrum Master, nor does it align closely with the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -811,11 +796,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique challenges and solutions in implementing DevOps, which relates to technical leadership in guiding teams through these processes. However, it primarily focuses on the uniqueness of each organization's context rather than specific technical leadership principles or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses DevOps and the unique challenges organizations face, which aligns with technical leadership principles. However, it lacks direct mentions of agile methodologies and specific leadership strategies, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -854,7 +842,7 @@
     "reasoning": "Content primarily discusses DevOps solutions and the uniqueness of organizational contexts, with no clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T04:56:33",
     "ai_confidence": 0,
@@ -865,10 +853,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-12T04:56:35",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
@@ -901,11 +889,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses DevOps principles and their application in unique organizational contexts, which aligns with the category's focus on technical practices. However, it primarily centres on the uniqueness of solutions rather than specific technical mastery principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses DevOps principles and their application in unique organizational contexts, which aligns with the category of Technical Mastery. However, it primarily focuses on the uniqueness of solutions rather than best practices or methodologies in software craftsmanship. While it touches on the importance of adapting to market needs and improving software delivery capabilities, it lacks detailed exploration of specific technical practices or tools that would enhance the confidence score.",
     "level": "Tertiary"
   },
   "Release Management": {
@@ -937,10 +928,10 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T04:56:48",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and its unique implementations across different organizations, without a clear focus on Agile principles or philosophy.",
     "level": "Ignored"
   },
@@ -955,10 +946,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T04:56:50",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -991,21 +982,27 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of understanding the unique context of organizations and maintaining progress towards goals, which aligns with the theme of strategic objectives. However, it primarily focuses on DevOps practices rather than explicitly defining long-term strategic goals.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of developing a tailored philosophy for growth and the need for long-term engagement in the context of DevOps. While it touches on themes of adaptability and continuous improvement, it primarily focuses on operational tactics and personal experiences rather than explicitly defining or articulating long-term strategic goals. The connection to strategic goals is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of adapting solutions to unique organizational contexts and the need for ongoing engagement and coaching, which aligns with the principles of Continuous Learning. However, it primarily focuses on the uniqueness of DevOps implementations rather than explicitly promoting a growth mindset or knowledge sharing.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the unique challenges and solutions in DevOps, hinting at the importance of adapting and learning from experiences. However, it lacks explicit discussions on continuous learning principles, such as feedback loops or knowledge sharing, which are central to the category. The focus is more on the uniqueness of solutions rather than fostering a growth mindset or a culture of experimentation.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1018,12 +1015,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique needs of organizations in the context of DevOps and highlights the importance of adaptability and continuous improvement, which are relevant to enterprise agility. However, the primary focus is on DevOps rather than a comprehensive exploration of enterprise agility principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the unique challenges and solutions organisations face in implementing DevOps, which touches on adaptability and continuous improvement. However, it lacks explicit references to enterprise agility frameworks, organisational structures, or leadership roles, making it more focused on team-level practices rather than a broader organisational context.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1034,31 +1034,13 @@
     "reasoning": "Content primarily discusses DevOps and its unique implementations across various organizations, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the unique challenges organizations face in implementing DevOps and the need for adaptability and continuous improvement, which aligns with the themes of resilience and change. However, the primary focus is on DevOps practices rather than a comprehensive exploration of resilience strategies.",
-    "level": "Tertiary"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T04:53:35",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the unique challenges and philosophies of DevOps across different organizations, without focusing on specific installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T04:53:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no clear focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,23 +1052,17 @@
     "reasoning": "Content primarily discusses the unique challenges and solutions in implementing DevOps across different organizations, without a clear focus on flow efficiency or optimisation of work throughput.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T04:53:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions without a focus on AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 40,
-    "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses DevOps philosophies and unique solutions for organizations, but it does not focus primarily on product delivery methodologies or practices.",
-    "level": "Quaternary"
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses DevOps practices and their implementation in various organizational contexts, which relates to product delivery. However, it primarily focuses on the uniqueness of each organization's journey rather than specific methodologies or practices directly tied to product delivery. While it touches on themes like continuous improvement and the importance of external expertise, it lacks a detailed exploration of the core principles of product delivery, such as Agile methodologies or testing strategies.",
+    "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1097,68 +1073,41 @@
     "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the unique challenges and solutions in DevOps, emphasising the importance of adapting to organisational needs and learning from past experiences, which aligns with the theme of continuous learning and innovation.",
-    "level": "Tertiary"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique context of organizations and the need for tailored solutions, which aligns with Systems Thinking principles. However, the primary focus is on DevOps rather than Systems Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the unique challenges organizations face in implementing DevOps practices, emphasising the importance of context and tailored solutions. However, it lacks a direct focus on Systems Thinking principles, such as interconnectedness and holistic analysis. While it touches on the need for adaptability and learning from others, it does not delve into the foundational concepts of Systems Thinking or provide detailed frameworks or techniques associated with it.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique challenges and solutions in DevOps across different organizations, hinting at the complexity of adaptive systems and the need for tailored approaches. However, it primarily focuses on practical implementation rather than a deep exploration of complexity science principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the uniqueness of organisational contexts in relation to DevOps, hinting at complexity through the notion of tailored solutions. However, it lacks direct references to complexity science principles, frameworks like Cynefin, or detailed exploration of non-linear dynamics. The discussion is more focused on practical implementation rather than theoretical underpinnings of complexity thinking.",
     "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T04:53:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the unique challenges and solutions in DevOps across different organizations, without a focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the unique application of DevOps principles and the importance of tools in solving organizational problems, but it lacks a clear focus on specific practical techniques or methodologies.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T04:53:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses unique solutions in DevOps for various organizations without reference to specific events, presentations, or structured learning experiences.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for organizations to adapt their DevOps practices to unique contexts and market needs, indicating a secondary theme of market adaptability.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of adapting DevOps practices to unique organizational contexts, which aligns well with the principles of market adaptability. It highlights the need for tailored strategies, continuous improvement, and leveraging external expertise to navigate market changes. The depth of discussion on how organizations can refine their approaches to meet evolving demands further supports its relevance to the category.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1171,39 +1120,36 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T04:53:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the principles and philosophies of DevOps, focusing on unique solutions for different organizations and the importance of adapting DevOps practices to specific contexts.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the unique challenges and solutions in implementing DevOps practices across various organizations. It discusses the importance of tailoring DevOps strategies to specific contexts, emphasising continuous improvement, external expertise, and the development of a growth philosophy. The direct mentions of DevOps and its principles are frequent, and the depth of discussion provides substantial insights into the cultural and practical aspects of DevOps, aligning well with the core themes of the category.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T04:53:58",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses general DevOps philosophies and unique organizational solutions without specific reference to Azure DevOps tools or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T04:53:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the unique challenges and solutions in implementing DevOps across various organizations, without focusing on specific products or literature.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for unique solutions in various organizational contexts and the importance of adapting to market needs, which aligns with the principles of business agility. However, the primary focus is on DevOps rather than business agility itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses DevOps practices and the unique challenges organizations face in implementing them. While it touches on themes of adaptability and continuous improvement, which are relevant to business agility, the focus remains on DevOps rather than explicitly exploring business agility principles or practices. The discussion lacks depth in terms of business agility metrics, leadership roles, or case studies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1216,12 +1162,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the unique needs of organizations in the context of DevOps and the importance of adapting solutions to deliver value, but it primarily focuses on the uniqueness of each organization's challenges rather than specific value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of tailoring DevOps practices to unique organizational contexts, which aligns with the principles of iterative development and continuous delivery of value. It mentions the value of external expertise and long-term engagement, which are relevant to enhancing customer satisfaction and business agility. However, the focus is more on personal experiences and general insights rather than specific strategies or methodologies directly tied to value delivery, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,12 +1183,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique needs of different organizations and the importance of adapting solutions to meet those needs, which aligns with the theme of organisational agility. However, it primarily focuses on DevOps rather than agility as a central topic.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the need for organisations to adapt their DevOps practices to their unique contexts, which aligns with the principles of organisational agility. It mentions the importance of flexibility, continuous improvement, and leveraging external expertise, all of which are key themes in organisational agility. However, while it touches on these concepts, the primary focus remains on DevOps rather than explicitly on organisational agility, leading to a slightly lower depth score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1250,39 +1202,24 @@
     "reasoning": "Content primarily discusses DevOps practices and solutions for various organizations without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T04:54:12",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the unique needs of different organizations in the context of DevOps, highlighting the importance of human involvement and collaboration in problem-solving and adapting processes. While it primarily focuses on the uniqueness of solutions, the emphasis on engaging with people and coaching them indicates a significant theme related to the interplay between human behaviour and structured methodologies.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:18:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the unique needs of different organizations in the context of DevOps, highlighting the interplay between organisational context and technical solutions. However, it primarily focuses on the uniqueness of solutions rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T04:54:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses unique solutions and philosophies in DevOps without providing specific news updates or reviews.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the unique challenges organizations face in implementing DevOps practices, highlighting the importance of context and the interplay between social and technical aspects. While it does not explicitly mention sociotechnical systems, it aligns with the category's themes by addressing how organizational culture and external expertise influence software delivery. However, the discussion lacks depth in exploring theoretical frameworks or detailed case studies, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T04:54:17",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the uniqueness of DevOps solutions across different organizations without a focus on metrics, data analysis, or continuous improvement methodologies.",
     "level": "Ignored"
   },
@@ -1297,10 +1234,10 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-12T04:54:20",
+    "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps philosophies and unique organisational solutions, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
@@ -1311,15 +1248,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses DevOps practices and methodologies without a focus on psychological principles or theories related to organisational behaviour.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:18:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps principles and practices, with no clear focus on Scrum roles, events, or artifacts.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1340,22 +1268,16 @@
     "reasoning": "Content primarily discusses DevOps and its unique implementations across various organizations, without a clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:18:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, without a clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:18:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, with no clear focus on Agile Product Operating Model principles or practices.",
+    "calculated_at": "2025-03-21T11:15:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps practices and the importance of tailoring solutions to unique organisational contexts, without explicitly addressing the Agile Product Operating Model or its core principles. While there are elements of continuous improvement and adaptation, which are relevant to agile methodologies, the focus remains on DevOps rather than the specific integration of agile principles with product management as outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1369,11 +1291,441 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:53:02",
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of tailoring DevOps practices to unique organisational contexts, which aligns with the principles of adaptability and continuous improvement. However, it primarily focuses on the technical aspects of DevOps and personal experiences rather than explicitly addressing social technologies or frameworks that promote collaboration and decision-making. The mention of external expertise hints at collaboration but lacks depth in discussing collective intelligence or emergent problem-solving.",
+    "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:38:02",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps and its unique implementations across various organizations, without a clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses DevOps philosophies and unique organizational solutions, without a clear focus on Internal Developer Platforms.",
     "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:38:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps practices and the unique challenges faced by different organizations, without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses DevOps and its implementation across various organisations, with no direct mention of Scrum principles, roles, or events. While there is a vague reference to adapting processes and improving capabilities, these concepts are not aligned with the core themes of Scrum, which focuses on specific roles and events within its framework. The discussion lacks depth regarding Scrum, making it clear that the content does not fit within the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T15:43:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the unique challenges and solutions in implementing DevOps practices across various organizations. While it touches on themes of adaptation and continuous improvement, it does not explicitly mention or focus on the Shift-Left Strategy, which is about integrating testing, security, and compliance earlier in the software development lifecycle. The discussion lacks depth in addressing the core principles and techniques of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses continuous improvement in the context of DevOps, highlighting the importance of adapting strategies to unique organizational needs and fostering a culture of ongoing learning and growth. It provides detailed insights into how organizations can refine their processes and engage with external expertise to drive innovation and improvement, aligning well with the principles of Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the unique challenges organizations face in implementing DevOps and the importance of tailoring solutions to specific contexts. While it touches on the idea of shared objectives and continuous improvement, it primarily focuses on individual organisational experiences and personal anecdotes rather than a clear alignment with the principles of Common Goals in Agile and DevOps. The discussion lacks depth in exploring how these unique approaches connect to overarching strategic objectives or frameworks like OKRs.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of continuous improvement and adaptation in DevOps, which aligns with the core themes of competence. It mentions the need for tailored strategies and the value of external expertise, indicating a focus on skill development and professional growth. However, while competence is a significant theme, the discussion is somewhat broad and lacks detailed exploration of specific strategies for fostering a culture of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:19:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps practices and the unique challenges faced by different organizations, without explicitly addressing the principles or components of the One Engineering System. While it touches on themes of customisation and continuous improvement, it lacks a direct focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of tailoring DevOps practices to unique organizational contexts, which aligns with the concept of adaptability in Agentic Agility. However, it lacks explicit discussions on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The focus remains primarily on DevOps practices rather than a deep exploration of Agentic Agility principles.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T18:01:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses DevOps practices and the importance of tailoring solutions to unique organizational needs, which aligns with the principles of continuous improvement and iterative development in product development. However, while it touches on aspects of product delivery and growth, the primary focus is on DevOps rather than product development methodologies. The depth of discussion on adapting strategies and leveraging external expertise contributes positively, but the lack of explicit references to product development frameworks limits the overall alignment.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T18:02:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses DevOps practices and the importance of tailoring solutions to unique organisational needs, but it does not explicitly mention Time to Market or related metrics. While there are themes of continuous improvement and adaptation that could indirectly relate to Time to Market, the primary focus is on the uniqueness of each organisation's journey rather than on optimising the speed of delivering value. Therefore, the confidence score reflects a low direct mention, moderate conceptual alignment, and limited depth regarding Time to Market.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T21:06:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps practices and the importance of tailoring solutions to unique organizational contexts. While it discusses collaboration and learning from external experts, it does not explicitly mention Liberating Structures or their specific techniques. The themes of adaptability and continuous improvement are present, but they do not align closely with the core principles of Liberating Structures, which emphasise facilitation techniques and group dynamics. Therefore, the content does not meet the criteria for a strong alignment with the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T21:06:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on DevOps practices and the unique challenges organizations face in implementing them. While it touches on themes of continuous improvement and adapting strategies to specific contexts, it lacks direct discussions on core project management principles, methodologies, or lifecycle phases. The mention of engaging external expertise and building a tailored philosophy hints at project management concepts but does not delve deeply into project management as a primary focus.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T21:06:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps practices and the importance of tailoring solutions to unique organisational contexts. While it touches on themes of collaboration and continuous improvement, it does not explicitly mention Open Space Agile or its principles. The discussion lacks depth regarding psychological safety, shared ownership, or iterative dialogue, which are core to Open Space Agile. Overall, the content does not align closely with the category's focus.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T21:07:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of tailoring DevOps strategies to unique organisational needs and highlights the value of external expertise in fostering innovation. However, it does not explicitly mention 'Unrealised Value' or provide a focused discussion on potential improvements or innovation opportunities in the context of Evidence-Based Management. The content is more about practical approaches to DevOps rather than exploring untapped opportunities or indicators of unrealised value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T21:07:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of tailoring DevOps practices to unique organisational needs and the value of external expertise, which indirectly relates to the concept of Current Value. However, it lacks explicit mentions of Current Value metrics or indicators, and the discussion is more focused on general DevOps practices rather than a real-time assessment of value delivered. The depth of discussion on Current Value is minimal, primarily touching on the need for continuous improvement without providing specific metrics or case studies.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T21:07:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of tailoring DevOps practices to unique organisational needs, which aligns with the concept of continuous improvement and customer-centric strategies. However, it primarily focuses on DevOps implementation rather than explicitly addressing the broader organisational strategy of viewing the company as a product. The discussion lacks direct references to CaaP principles and does not delve deeply into organisational design or cross-functional collaboration, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T21:07:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses DevOps practices and the importance of tailoring solutions to unique organizational contexts. While it touches on themes of continuous improvement and adaptation, which are relevant to scaling, it does not explicitly address methodologies or frameworks for scaling Agile practices, nor does it delve into cross-team collaboration or managing dependencies. The focus remains on individual organizational experiences rather than broader scaling strategies, leading to a low confidence score in alignment with the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T21:07:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps practices and the importance of tailoring solutions to unique organizational needs. It does not explicitly mention Hybrid Agile or engage with its core themes, such as the integration of traditional project management with agile practices, nor does it critically examine the challenges associated with Hybrid Agile. The discussion lacks depth regarding the implications of Hybrid Agile, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T21:07:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of tailoring DevOps practices to the unique needs of organizations, which aligns with the core principles of Agnostic Agile. It emphasises context-driven approaches and the necessity of adapting methodologies rather than adhering strictly to a single framework. However, while it touches on the philosophy of growth and continuous improvement, it primarily focuses on DevOps rather than explicitly discussing Agnostic Agile principles or comparing them to traditional frameworks like Scrum or Kanban. The depth of discussion on Agnostic Agile concepts is moderate, leading to a strong but not overwhelming confidence score.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T21:07:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps practices and methodologies without any direct mention of GitHub or its specific functionalities. While it touches on themes relevant to software delivery and continuous improvement, it does not align with GitHub's core services or tools. The discussion lacks depth regarding GitHub's features, such as repositories, actions, or collaboration tools, which are essential for a higher confidence score in the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T21:07:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps practices and the unique challenges organizations face in implementing them. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised structures or autonomous cells. The content lacks depth regarding the characteristics or functions of cells within a networked structure, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content discusses various principles related to DevOps, such as continuous improvement, adaptability, and the importance of context in problem-solving. It emphasizes actionable strategies for organizations to foster growth and refine their approaches, aligning closely with the definition of principles that guide decision-making and team behavior. However, it leans slightly towards providing personal experiences and examples, which somewhat dilutes a purely principle-focused discussion.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 45.0,
+    "ai_mentions": 0,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "While the content discusses DevOps and mentions the adaptation of tools and methodologies in a general context, it does not specifically focus on any tools or provide a detailed exploration of their functionality or comparison. The primary focus is on the philosophical approach to implementing DevOps tailored to unique organizational needs, which does not strictly align with the 'Tool' category. However, there are mentions of tools in a broader context, which contribute somewhat to alignment, hence a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Values": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 45.0,
+    "ai_mentions": 8,
+    "ai_alignment": 35,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the idea of crafting a unique DevOps philosophy and emphasizes the importance of long-term commitment and continuous improvement, which are core values in organizational behavior. However, the primary focus is more on practical solutions and adaptations rather than explicitly articulating values as the foundational elements guiding behavior, affecting the overall alignment with the Values category.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 60.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 60.0,
+    "reasoning": "The content discusses the philosophy of DevOps and emphasizes the importance of tailoring approaches to organizational needs, which aligns with philosophical discussions about decision-making and culture. However, the piece also includes personal anecdotes and practical details about implementing DevOps practices, rather than strictly focusing on philosophical underpinnings, which limits its alignment with the category.",
+    "level": "Tertiary"
+  },
+  "Discipline": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 45.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 22,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses DevOps and emphasizes the need for a tailored philosophy and continuous improvement, which aligns with the themes of discipline. However, it primarily focuses on the adaptation of specific practices and solutions rather than the underlying principles and methodologies that define DevOps as a discipline. While there are mentions of principles of growth and adaptation, the treatment lacks depth in exploring the structure of the discipline itself, thus lowering the alignment and depth scores.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content discusses general DevOps practices and approaches but does not mention or focus on specific artifacts in Agile, Scrum, or Lean contexts. While it touches on themes of adaptation and improving processes, it lacks detailed discussion of tangible artifacts such as Product Backlogs or Definitions of Done, which are vital to align with the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content discusses DevOps practices and emphasizes the importance of tailored solutions and continuous improvement, it does not explicitly mention observability or its key components like metrics, logs, and traces. The content lacks a direct focus on observability as defined in the classification, and while it hints at some related concepts of measurement and understanding organizational performance, it does not delve deeply into them. Overall, the alignment with the Observability category is minimal, as it centers more on the customization of DevOps rather than how to measure and understand internal states through observability.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 52.0,
+    "ai_mentions": 12,
+    "ai_alignment": 32.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "While the content discusses the implementation of DevOps practices and emphasizes the importance of customization, context, and continuous improvement, it lacks a direct focus on specific actionable techniques that are core to the 'Practice' category. The mention of expert insights and adaptation aligns conceptually but does not delve deeply into specific practices like pair programming or TDD. Therefore, it receives a modest confidence score as it touches on practice but does not engage with actionable practices in depth.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses DevOps practices and the importance of tailoring solutions to individual organizations, but it lacks a structured step-by-step breakdown typical of specific methods. It mentions adapting practices and engaging with external experts, which hints at a procedural approach, yet does not delve deeply into concrete methods like Scrum or Kanban, nor does it provide specific procedural guidance, limiting its alignment with the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 38.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 38.0,
+    "reasoning": "The content discusses customizing DevOps practices, which touches on the need for conceptual models in decision-making and adaptation. However, it lacks direct discussion of specific frameworks or models like the Cynefin Framework or the Three Ways of DevOps, thus making it a secondary focus rather than a primary one. The mention of personalized strategies indicates a level of depth, but overall it does not adequately explore the role of models as defined in the category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 56.0,
+    "ai_mentions": 8,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 56.0,
+    "reasoning": "The content discusses aspects of DevOps and emphasizes the need to adapt methodologies to unique organizational contexts, which aligns with the flexibility component of different frameworks. However, it primarily focuses on personal experiences and advice rather than offering structured methodologies or a deep exploration of specific frameworks like Scrum or Kanban. Therefore, while there are direct mentions of frameworks, the core focus is on individual interpretation and application, which lowers the confidence in it being categorized strictly under 'Framework'.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 55.0,
+    "ai_mentions": 35,
+    "ai_alignment": 45,
+    "ai_depth": 50,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the importance of adapting DevOps practices to fit unique organizational contexts, which indirectly references key tenets such as continuous improvement and the need for customized approaches. However, while it emphasizes the importance of tailored strategies and external expertise, it lacks a direct discussion of specific actionable tenets that guide decision-making and behaviors in a formal manner. The takeaways provided highlight broader principles rather than precise, prescriptive rules, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "L2u9Qojrvb8",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:27:31",
+    "ai_confidence": 65.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses how organizations need to craft their own unique approaches to DevOps, emphasizing the importance of context and tailored strategies, which aligns with the concept of developing enduring capabilities. It touches on themes like continuous improvement and innovation through external perspectives, which are important for capability development. However, while it mentions aspects of capability, it also focuses heavily on the uniqueness of solutions rather than deeply discussing the systematic development of capabilities within the organizational context, which slightly lowers its alignment and depth scores.",
+    "level": "Secondary"
   }
 }

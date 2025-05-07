@@ -1,37 +1,43 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:03:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Azure Test Plans and quality assurance in software development, with no clear emphasis on Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions collaboration within the context of an Azure Test Plans training course, which aligns with the category's focus on teamwork and quality assurance. However, the primary focus is on the technical aspects of using Azure Test Plans rather than a deep exploration of social technologies or frameworks that promote collaboration and decision-making. The discussion lacks depth in addressing the core themes of self-organisation, transparency, and collective intelligence, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T00:03:16",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on quality assurance practices within software development, specifically through the use of Azure Test Plans, which aligns with the principles of software craftsmanship and quality assurance.",
     "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:03:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Azure Test Plans, which is a tool within the Azure DevOps ecosystem, and focuses on quality assurance in software development. However, it primarily centres on testing practices rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content mentions Azure DevOps Services and discusses tools for planning, developing, testing, and delivering software, which aligns with the DevOps philosophy. However, the focus is primarily on Azure Test Plans and quality assurance rather than broader DevOps principles such as collaboration, automation, or cultural shifts. The discussion lacks depth in exploring the core themes of DevOps, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:03:22",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans and quality assurance training, which does not align with the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -64,64 +70,49 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on Azure Test Plans and quality assurance practices, with only a peripheral mention of Agile principles, which does not align directly with Professional Scrum.",
     "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "While the content discusses aspects of testing, including Azure Test Plans and their management, it does not focus specifically on automated testing principles, practices, or methodologies as a primary topic.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on using Azure Test Plans for quality assurance in software development, with no clear discussion of Evidence-Based Management principles or empirical evidence application.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Azure Test Plans training and quality assurance processes without discussing code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on training for using Azure Test Plans and quality assurance in software development, with no relevance to Scaling Kanban principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and quality assurance in software development, with only a brief mention of delivering value. It lacks explicit discussions on Evidence-Based Management principles, such as empirical decision-making or metrics related to current value, time to market, or unrealised value. While it touches on teamwork and collaboration, it does not delve into the core themes of EBM, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on quality assurance using Azure Test Plans and does not discuss hypothesis formulation, experimentation, or validated learning related to product development decisions.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans and quality assurance practices without a central discussion of Agile frameworks.",
     "level": "Ignored"
   },
@@ -136,10 +127,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Azure Test Plans and quality assurance training, not on Definition of Ready criteria or discussions.",
     "level": "Ignored"
   },
@@ -152,66 +143,57 @@
     "reasoning": "Content primarily focuses on a training course for Azure Test Plans, which does not explore trend analysis related to Agile, DevOps, or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a training course for Azure Test Plans without discussing Agile scaling methodologies or enterprise-level practices.",
-    "level": "Ignored"
-  },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 70,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
+    "final_score": 70.0,
     "reasoning": "The content discusses Azure Test Plans and managing software product testing, which involves elements of test automation. However, it also focuses on planning, tracking, and managing tests rather than exclusively on automation principles and practices.",
     "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on using Azure Test Plans to improve software quality and includes technical practices around test case management and testing methodologies, making it a major but secondary theme in the context of technical mastery.",
     "level": "Tertiary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on Azure Test Plans training and quality assurance, without discussing Sprint Reviews or related Scrum events.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure Test Plans, which is related to testing but not specifically about Azure Pipelines.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses training that empowers agile teams in assuring quality, which is relevant to team performance and practices but is primarily focused on Azure Test Plans and quality assurance rather than specific team performance strategies or dynamics.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on training for Azure Test Plans, related to software quality assurance, rather than on collaboration tools themselves.",
     "level": "Ignored"
   },
@@ -226,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Azure Test Plans and their role in ensuring quality within the context of software development, which is a major aspect of product delivery, particularly regarding testing and quality assurance. However, it does not comprehensively cover the entire product delivery process.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses training on Azure Test Plans for quality assurance in Agile methodologies, but does not mention AI or its application within Agile, DevOps, or software development.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,32 +224,14 @@
     "reasoning": "Content primarily focuses on a training course for Azure Test Plans, which is about software testing and quality assurance, rather than discussing digital transformation strategies or concepts.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the importance of team collaboration and involvement of various roles in the testing process, which aligns with the category, but the primary focus seems to be on the technical aspects of using Azure Test Plans rather than the human element or structured methodologies.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Azure Test Plans for quality assurance and testing processes, not specifically on Test Driven Development principles.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Azure Test Plans, which can be used in agile environments, and mentions benefits for roles such as Scrum Masters, but it primarily focuses on testing procedures rather than Agile Project Management principles.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,31 +251,13 @@
     "reasoning": "The content focuses primarily on a training course for Azure Test Plans, with no significant discussion on accountability, team dynamics, or ownership within Agile practices.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a training course for Azure Test Plans, which primarily discusses quality assurance in software development and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Azure Test Plans and quality assurance training for software development, without discussing release management practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on a training course about Azure Test Plans, which is not directly related to the One Engineering System (1ES) framework or its principles.",
+    "reasoning": "Content focuses on Azure Test Plans and quality assurance training for software development, without discussing release management practices.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -352,37 +289,40 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses mainly on using Azure Test Plans for software testing, without discussing Agile Planning Tools or their methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum Masters as part of the target audience and touches on quality assurance processes relevant to Agile teams, suggesting a minor but secondary theme related to Scrum Master responsibilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and quality assurance in software development, with minimal reference to the Scrum Master role or its responsibilities. While it mentions an agile team, it does not delve into the specific functions or impact of a Scrum Master, nor does it discuss the core themes associated with the role. Therefore, the confidence score reflects a very low alignment with the Scrum Master category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on Azure Test Plans and quality assurance in the context of development, with limited mention of Agile Planning concepts.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans and testing methodologies rather than discussing Agile values and principles.",
     "level": "Ignored"
   },
@@ -397,12 +337,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses planning and managing software testing using Azure Test Plans, which aligns with quality assurance practices in software development, but does not explicitly focus on Test First Development or its core principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions quality assurance and testing tools, but it does not explicitly discuss Test First Development principles or practices. While it touches on collaboration and quality assurance, it lacks a focus on defining success criteria or the specific methodologies associated with Test First Development, such as TDD or ATDD.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -460,28 +403,28 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses mainly on training for Azure Test Plans and quality assurance, with little to no emphasis on measuring or enhancing the Ability to Innovate.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans and quality assurance without a clear emphasis on Agile transformation principles or methodologies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on quality assurance and testing practices within Agile development, which aligns with the theme of testing methodologies and practices in engineering, though it primarily emphasizes Azure Test Plans rather than broader engineering practices.",
     "level": "Tertiary"
   },
@@ -496,46 +439,28 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Azure Test Plans and a training course for quality assurance in software development, with no clear focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Azure Test Plans training for quality assurance in software development, which is primarily about technical implementations rather than organizational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on practical techniques and tools for using Azure Test Plans, including detailed descriptions of test case management, test planning, and running tests, which align closely with the category's emphasis on the application of tools and methodologies in Agile and DevOps practices.",
-    "level": "Secondary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Azure Test Plans and quality assurance in software development, not on Value Stream Mapping.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans training and quality assurance, with no significant discussion on Product Backlog or its management.",
     "level": "Ignored"
   },
@@ -548,21 +473,12 @@
     "reasoning": "Content primarily focuses on a training course about Azure Test Plans, with no personal experiences or reflections shared.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a training course and does not focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a training course for Azure Test Plans, primarily addressing testing and quality assurance processes, without discussing working agreements or team collaboration norms.",
     "level": "Ignored"
   },
@@ -577,20 +493,11 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Azure Test Plans and quality assurance, not specific to Scrum Team dynamics or roles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses primarily on training for Azure Test Plans and quality assurance practices, with no clear emphasis on scaling agile principles across organizations.",
+    "reasoning": "Content primarily focuses on Azure Test Plans and quality assurance, not specific to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -613,11 +520,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 3,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on using Azure Test Plans for quality assurance in software testing, with no clear alignment to Continuous Delivery practices.",
+    "final_score": 32.0,
+    "reasoning": "The content mentions quality assurance and tools for testing, which are relevant to Continuous Delivery, but it primarily focuses on Azure Test Plans and agile team collaboration rather than the broader principles and practices of Continuous Delivery. While there is some alignment with the category's themes, such as ensuring quality and the role of automation, the depth of discussion is limited to a specific tool rather than a comprehensive exploration of Continuous Delivery as a whole.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -631,46 +541,46 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans and software quality assurance, not on remote working or Agile practices.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a training course for Azure Test Plans, with no clear discussion of change management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses how Azure Test Plans can be used to empower Agile teams in ensuring quality, indicating a secondary focus on team collaboration, although it primarily centers on the technical aspects of testing.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure Test Plans and training, with no focus on Daily Scrum or related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on training for Azure Test Plans rather than discussions on Minimum Viable Product development or related methodologies.",
     "level": "Ignored"
   },
@@ -681,15 +591,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans and agile quality assurance training, with no direct relevance to Windows operating system discussions.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Azure Test Plans training aimed at ensuring quality, with no clear emphasis on discovery or learning methodologies.",
     "level": "Ignored"
   },
   "Self Organisation": {
@@ -703,11 +604,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on quality assurance training using Azure Test Plans and does not discuss the Agile Product Operating Model or its key principles.",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions agile methodologies and teamwork but primarily focuses on Azure Test Plans and quality assurance rather than the core principles of the Agile Product Operating Model. It lacks a detailed discussion on transitioning to a product ethos or integrating product management practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -721,10 +625,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Azure Test Plans and general software testing rather than Behaviour Driven Development principles.",
     "level": "Ignored"
   },
@@ -757,10 +661,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Azure Test Plans training and testing methodologies, with no mention of customer feedback processes.",
     "level": "Ignored"
   },
@@ -775,10 +679,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a training course for Azure Test Plans and emphasizes quality assurance in software development, rather than on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -793,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans and quality assurance in software development, not on Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -807,15 +711,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on a training course for Azure Test Plans, which is not directly related to mentoring or coaching in Agile contexts.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily focuses on a training course for Azure Test Plans, emphasizing quality assurance in software development without a clear or significant discussion on AI or automation within Agile frameworks.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -838,28 +733,28 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the use of Azure Test Plans for software quality assurance, which is relevant to operational practices in software development, but it primarily focuses on training rather than directly addressing process optimization or delivery strategies.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Azure Test Plans and does not address Agile Philosophy or its foundational principles.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses acceptance criteria and acceptance testing within the context of Azure Test Plans, which is a relevant topic, but the primary focus is on using Azure Test Plans rather than ATDD as a collaborative development approach.",
     "level": "Tertiary"
   },
@@ -892,19 +787,19 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "Although the content's primary focus is on Azure Test Plans, it briefly mentions Azure Boards in the context of configuring a team project for testing, which indicates some relevance to the topic.",
     "level": "Tertiary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on Azure Test Plans training, which is not related to the management of a portfolio of projects.",
     "level": "Ignored"
   },
@@ -919,10 +814,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Azure Test Plans and their usage in software testing, without a strong focus on Agile principles or product management practices.",
     "level": "Ignored"
   },
@@ -937,20 +832,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on training for using Azure Test Plans in software testing, which is not related to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Azure Test Plans and testing methodologies, with no clear discussion on scaling Scrum practices.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -961,15 +847,6 @@
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on Azure Test Plans and technical training for quality assurance without discussing sociotechnical interactions or organizational context.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:21:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a training course focused on using Azure Test Plans, which is related to Agile and DevOps practices, but it does so in the context of training rather than product or literature reviews.",
-    "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -991,10 +868,10 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses practical applications of Azure Test Plans in an Agile environment, making it relevant to the theme of Pragmatic Thinking, but the primary focus is on training and course details rather than a deeper exploration of problem-solving strategies or experiences.",
     "level": "Tertiary"
   },
@@ -1018,10 +895,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 60,
     "non_ai_confidence": 20,
-    "final_score": 56.0,
+    "final_score": 60.0,
     "reasoning": "The content is primarily about using Azure Test Plans to ensure quality in software development, which aligns with aspects of working software. However, it focuses more on testing methodologies and tools rather than directly on the delivery of functional, high-quality software itself.",
     "level": "Tertiary"
   },
@@ -1054,19 +931,19 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans and does not discuss product strategy methodologies, frameworks, or market alignment.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:21:07",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content is primarily focused on using Azure Test Plans for quality assurance in software development, which aligns closely with software development practices and testing methodologies.",
     "level": "Secondary"
   },
@@ -1081,10 +958,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on Azure Test Plans, which is a key component of Azure DevOps. It discusses the functionalities and training related to testing within the Azure DevOps ecosystem, making it a central topic.",
     "level": "Secondary"
   },
@@ -1108,21 +985,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on a training course for Azure Test Plans and does not discuss cross-functional teams, their structure, or their role in Agile methodologies.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:21:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content is primarily focused on a training course for Azure Test Plans which is relevant to software development, specifically in the context of quality assurance and Agile methodologies. However, the course also targets broader roles in software teams beyond just developers.",
-    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1144,82 +1012,73 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on training and the use of Azure Test Plans for quality assurance, not on installation or configuration.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Azure Test Plans and quality assurance training, without discussing the responsibilities or practices specific to the Product Owner role.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:21:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily focused on a training course for Azure Test Plans and does not discuss news, updates, or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure Test Plans training, which is not related to Azure Repos.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses primarily on using Azure Test Plans as part of software testing practices, emphasizing quality assurance in the development process, which aligns closely with technical excellence in agile methodologies.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Azure Test Plans, which are part of the testing phase in the application lifecycle, but the primary focus is on training and quality assurance practices rather than a comprehensive discussion of the entire application lifecycle management.",
     "level": "Tertiary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Azure Test Plans and quality assurance training, with no discussion of asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on training related to Azure Test Plans, which does not explicitly address Agile leadership or leadership practices within an Agile context.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Azure Test Plans training and QA processes rather than team motivation strategies.",
     "level": "Ignored"
   },
@@ -1234,10 +1093,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on training for Azure Test Plans and quality assurance in software development, rather than on validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -1252,19 +1111,22 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:21:08",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Azure Test Plans in the context of agile teams, mentioning roles such as Scrum Masters and the testing aspect during sprints, indicating that Scrum principles are involved, though it is not primarily about Scrum itself.",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content briefly mentions agile teams and collaboration, which are relevant to Scrum, but it primarily focuses on Azure Test Plans and quality assurance rather than the Scrum framework itself. While there is some alignment with agile principles, the depth of discussion on Scrum-specific roles, events, or artifacts is minimal.",
     "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses how Azure Test Plans can be used to increase quality in the context of agile teams, which relates to value delivery, but the primary focus is more on the training and use of Azure Test Plans than on value delivery strategies.",
     "level": "Tertiary"
   },
@@ -1288,20 +1150,11 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure Test Plans and quality assurance training, which does not align with product discovery methodologies or discussions on understanding customer needs.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:21:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on Azure Test Plans and quality assurance training, which is not primarily about Scrum practices or product development.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -1315,19 +1168,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on a course about using Azure Test Plans for quality assurance in software testing, not on the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:21:08",
+    "calculated_at": "2025-04-10T15:54:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on using Azure Test Plans for quality assurance in software development, without a strategic discussion on Agile methodologies.",
     "level": "Ignored"
   },
@@ -1374,6 +1227,102 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on Azure Test Plans and quality assurance training for software development teams, not on Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and quality assurance in Agile methodologies, with no explicit mention of Artificial Intelligence or its applications. While it discusses Agile practices, it does not explore how AI can enhance these processes, thus lacking alignment with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and quality assurance within Agile teams, which does not directly address the concept of Internal Developer Platforms. While it mentions tools that could be part of an IDP, it lacks a clear discussion on the IDP's purpose, benefits, or architecture. The content is more aligned with testing practices rather than the broader framework of an IDP.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Azure Test Plans and their role in ensuring quality throughout the development process, which aligns with the Shift-Left Strategy's emphasis on integrating testing early. However, it lacks explicit mention of the Shift-Left concept and does not delve deeply into the principles or benefits of this strategy, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the use of Azure Test Plans to assure quality, which aligns with the principles of Continuous Improvement in terms of enhancing processes and team effectiveness. However, it lacks a detailed discussion on Continuous Improvement methodologies, empirical evidence, or strategies for fostering a culture of experimentation. The focus is primarily on the training aspect rather than a comprehensive exploration of Continuous Improvement principles.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions collaboration and teamwork, which are relevant to Common Goals, but it primarily focuses on the technical aspects of using Azure Test Plans. While there is some alignment with the idea of shared objectives through team projects, the discussion lacks depth on how these goals connect to broader strategic objectives within Agile or DevOps frameworks.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of Azure Test Plans in the context of ensuring quality, which aligns with the principles of competence in Agile environments. It highlights the importance of collaboration and hands-on learning, which are essential for skill development. However, while it touches on competence, it primarily focuses on the tool rather than a broader discussion of continuous learning or strategies for fostering a culture of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and their application in agile teams, which is somewhat related to quality assurance in software development. However, it does not explicitly discuss the One Engineering System framework or its principles. While there is a mention of collaboration and quality assurance, the content lacks a direct connection to the integration and standardisation of engineering processes that define 1ES. The depth of discussion on Azure Test Plans is significant, but it does not delve into the broader implications or practices of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure Test Plans and their application in ensuring quality within agile teams. While it mentions collaboration and teamwork, it does not explicitly discuss the intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The discussion lacks depth regarding the principles of Agentic Agility, making it only tangentially related to the category.",
     "level": "Ignored"
   }
 }

@@ -2,49 +2,54 @@
 title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership'
 description: "Discover 5 key considerations for hiring an #AgileCoach with Martin Hinshelwood in this insightful #shorts video. Elevate your team's performance today!"
 date: 2023-11-20T11:00:30Z
+weight: 640
 ResourceId: S1hBTkbZVFM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: S1hBTkbZVFM
 source: internal
 url: /resources/videos/:slug
-slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
 layout: video
 preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
-- /resources/videos/S1hBTkbZVFM
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
 - /resources/S1hBTkbZVFM
-aliasesFor404:
+- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
+- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
+aliasesArchive:
+- /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 - /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
+- the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Agile Transformation
+- Coaching
+- Agile Leadership
+- Organisational Agility
 resourceTypes:
 - video
 categories:
-- Leadership
-- Social Technologies
+- Uncategorized
 
 ---
-Hiring an Agile coach can be a game changer for organizations striving to embrace agility. However, finding the right fit for your organization isn't just about credentials and buzzwords. One of the most critical factors when selecting an Agile coach is their ability to **engage and gain credibility with teams and leadership**. Let's dive into why this is so essential and how you can make the best hiring decision.
+Hiring an Agile coach can be a game changer for organizations striving to embrace agility. However, finding the right fit for your organization isn't just about credentials and buzzwords. One of the most critical factors when selecting an Agile coach is their ability to **engage and gain credibility with teams and [leadership]({{< ref "/categories/leadership" >}})**. Let's dive into why this is so essential and how you can make the best hiring decision.
 
 ## Why Credibility Matters for Agile Coaches
 
-When an Agile coach steps into an organization, they are expected to guide teams through change, improve processes, and foster a culture of continuous improvement. But to do that effectively, the coach must gain the **trust and respect** of the people they work with.
+When an Agile coach steps into an organization, they are expected to guide teams through change, improve processes, and foster a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). But to do that effectively, the coach must gain the **trust and respect** of the people they work with.
 
 ### Gaining Trust Through Understanding
 
-A great Agile coach doesn't just swoop in with theoretical knowledge. They take the time to understand the day-to-day realities of the teams they work with. This is especially true when coaching technical teams who work with specific processes, tools, and practices. For an Agile coach to help teams improve, they need **deep technical knowledge** and practical experience.
+A great Agile coach doesn't just swoop in with theoretical knowledge. They take the time to understand the day-to-day realities of the teams they work with. This is especially true when [coaching]({{< ref "/tags/coaching" >}}) technical teams who work with specific processes, tools, and practices. For an Agile coach to help teams improve, they need **deep technical knowledge** and practical experience.
 
 #### Personal Example: Earning Credibility Through Technical Expertise
 
@@ -60,9 +65,9 @@ Agile coaches wear many hats. While working with teams is often a primary focus,
 
 ### Coaching Leadership: Driving Organizational Change
 
-Leadership buy-in is crucial for any Agile transformation to succeed. An Agile coach must communicate the value of Agile principles in a way that resonates with leaders, often translating team-level issues into strategic concerns that matter to the C-suite.
+Leadership buy-in is crucial for any [Agile transformation]({{< ref "/tags/agile-transformation" >}}) to succeed. An Agile coach must communicate the value of Agile principles in a way that resonates with leaders, often translating team-level issues into strategic concerns that matter to the C-suite.
 
-🚀 **Key Insight:** Look for Agile coaches who are equally comfortable in a boardroom as they are in a daily Scrum. They should be able to translate Agile practices into strategic benefits that align with your company's long-term goals.
+🚀 **Key Insight:** Look for Agile coaches who are equally comfortable in a boardroom as they are in a daily [Scrum]({{< ref "/categories/scrum" >}}). They should be able to translate Agile practices into strategic benefits that align with your company's long-term goals.
 
 ### Balancing Both Worlds
 
@@ -88,7 +93,7 @@ So, how do you evaluate an Agile coach's effectiveness before they even step int
 
 - Agile coaches need to be comfortable **navigating different levels of the organization**. They should have a proven track record of working with both leadership and teams to create a cohesive approach to Agile transformation.
 
-### 3\. **Adaptability and Continuous Learning**
+### 3\. **Adaptability and [Continuous Learning]({{< ref "/tags/continuous-learning" >}})**
 
 - Agile is not a one-size-fits-all solution. The coach you hire should be able to **adapt their approach** based on your organization's unique culture and challenges. They should also be committed to **continuous learning**, as Agile itself evolves over time.
 

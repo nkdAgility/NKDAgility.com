@@ -2,8 +2,10 @@
 title: What was your best day as an Agile consultant?
 description: Join Martin Hinshelwood as he shares his most impactful day as an agile consultant, highlighting the power of inspired teams in agile environments.
 date: 2023-03-27T07:00:30Z
+weight: 1000
 ResourceId: iT7ZtgNJbT0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: iT7ZtgNJbT0
@@ -15,31 +17,24 @@ preview: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg
 duration: 174
 isShort: false
 aliases:
-- /resources/what-was-your-best-day-as-an-agile-consultant-2
-- /resources/what-was-your-best-day-as-an-agile-consultant
-- /resources/videos/what-was-your-best-day-as-an-agile-consultant-
-- /resources/videos/iT7ZtgNJbT0
-- /resources/what-was-your-best-day-as-an-agile-consultant-
 - /resources/iT7ZtgNJbT0
-aliasesFor404:
+- /resources/videos/what-was-your-best-day-as-an-agile-consultant
+aliasesArchive:
+- /resources/videos/what-was-your-best-day-as-an-agile-consultant
 - /resources/what-was-your-best-day-as-an-agile-consultant-2
 - /resources/what-was-your-best-day-as-an-agile-consultant
 - /resources/videos/what-was-your-best-day-as-an-agile-consultant-
 - /resources/what-was-your-best-day-as-an-agile-consultant-
+- what-was-your-best-day-as-an-agile-consultant
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Project Management
 - Personal
-- Software Development
-- Agile Transformation
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Uncategorized
 
 ---
 **What was your best day as an Agile consultant?**
@@ -56,11 +51,11 @@ So, let me go ahead and share one of my most memorable moments as an Agile Consu
 
 ## A Step Back in Time
 
-So, picture this: I'm in Utah, a pretty picturesque landscape as the backdrop for our intense Scrum sessions.
+So, picture this: I'm in Utah, a pretty picturesque landscape as the backdrop for our intense [Scrum]({{< ref "/categories/scrum" >}}) sessions.
 
 There I was, deep in training and workshops with a spirited team of Java developers.  Despite my lack of Java expertise, I didn't know anything about Java, but I was ready for the challenge, ready to make a difference. 💥
 
-We pushed the boundaries of what we knew, diving headfirst into Scrum, Agile, user story workshops, and even engineering practices workshops.  In a spirited exchange of ideas, we even tackled a TDD explanation and lesson.
+We pushed the boundaries of what we knew, diving headfirst into Scrum, Agile, user story workshops, and even [engineering practices]({{< ref "/tags/engineering-practices" >}}) workshops.  In a spirited exchange of ideas, we even tackled a TDD explanation and lesson.
 
 You can imagine the room was alive with the sound of keyboards and minds at work.  I think that this alone is a testament to the power of agile methodologies.
 

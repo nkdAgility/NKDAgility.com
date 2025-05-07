@@ -1,11 +1,14 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses process templates in Team Foundation Server, which relates to application lifecycle management, but it primarily focuses on the challenges of configuring these templates rather than the broader aspects of ALM.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses the use of process templates in Team Foundation Server (TFS), which is relevant to Application Lifecycle Management (ALM) as it pertains to the configuration and management of software development processes. However, while it mentions ALM in the tags, the primary focus is on TFS features rather than a comprehensive discussion of the application lifecycle stages or best practices. The alignment with core themes is moderate, and the depth of discussion on ALM practices is somewhat limited, focusing more on the challenges of configuring templates rather than broader lifecycle management strategies.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -35,7 +38,7 @@
     "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server process templates without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T22:03:40",
     "ai_confidence": 0,
@@ -55,12 +58,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the configuration of process templates in Team Foundation Server, which is relevant to installation and configuration, but it is more focused on the challenges and experiences rather than providing clear, actionable instructions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the configuration of process templates in Team Foundation Server, which aligns with the category of Install and Configuration. However, it lacks detailed step-by-step instructions or troubleshooting advice, focusing more on personal experiences and challenges faced during configuration. The mention of extensibility and the need for careful configuration indicates some relevance, but the overall depth and actionable insights are limited.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -80,15 +86,6 @@
     "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server process templates, which does not align with Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:03:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the technical aspects of configuring process templates in Team Foundation Server without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T22:03:48",
@@ -97,15 +94,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server process templates, without reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the configuration of process templates in Team Foundation Server, which relates to practical tooling in Agile and DevOps contexts, but it is not the primary focus.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:03:52",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the extensibility and configuration of Team Foundation Server process templates, without a focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +142,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:03:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server process templates, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the extensibility and configuration of TFS process templates, which does not directly address Evidence-Based Management principles. While there is a mention of configuring processes, it lacks explicit discussion on data-informed decision-making or the key topics outlined in the EBM category. The content is more about practical implementation rather than empirical evidence or metrics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:03:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and its process templates, with no clear focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:04:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges with configuring process templates in Team Foundation Server, lacking a focus on industry news or reviews.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the extensibility and configuration of TFS process templates, which is more aligned with traditional project management tools rather than the Agile Product Operating Model. There are no direct mentions of agile principles, product management practices, or the core themes of APOM. The focus is on technical aspects of TFS rather than on agile methodologies or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and process templates, which are not central to platform engineering principles or enhancing developer productivity.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:04:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and process templates, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:04:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and process templates without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:04:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the extensibility and configuration of Team Foundation Server process templates, which is not directly related to code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:04:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server process templates, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:04:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the features and configuration of Team Foundation Server process templates, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -298,12 +238,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server, which is part of the Azure DevOps suite, but primarily focuses on process templates rather than broader Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of the Azure DevOps suite, but it primarily focuses on process templates without delving into broader Azure DevOps functionalities or best practices. While TFS is relevant, the discussion lacks depth in terms of CI/CD, integration, or agile project management practices specific to Azure DevOps, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -316,11 +259,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:04:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the extensibility and configuration of Team Foundation Server process templates, which is not central to DevOps principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on TFS process templates and their configuration, which is more aligned with project management and development processes rather than the core principles of DevOps. While there is a mention of enhancing the development process, it lacks explicit discussions on collaboration, automation, or shared accountability, which are central to DevOps. The depth of discussion is moderate, but it does not delve into the cultural or philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +276,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the extensibility and configuration of Team Foundation Server process templates, which does not directly relate to engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the challenges faced by developers in designing process templates, indicating a human factor in the process. However, the primary focus is on the technical aspects of TFS process templates rather than a comprehensive exploration of team dynamics or methodologies.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:04:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server process templates, with no clear focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T22:04:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server, rather than focusing on specific products or literature related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,19 +298,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses configuring process templates in Team Foundation Server, which relates to system configuration, but the focus is more on the process of developing and designing templates rather than broader system configuration principles and practices.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses the configuration of process templates in Team Foundation Server, which relates to system configuration. However, the focus is more on the challenges of designing these templates rather than on broader system configuration practices. The mention of configuration is present but not the primary focus, and the depth of discussion is limited to personal experiences without detailed methodologies or best practices.",
     "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:49",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses process templates in Team Foundation Server without a focus on innovation capabilities or measurement.",
     "level": "Ignored"
   },
@@ -420,15 +342,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server (TFS) and process templates, which are not directly related to portfolio management or the alignment of strategy with execution.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server and process templates, with no clear focus on Scrum principles, practices, or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +373,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:49",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and its process templates, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +409,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:49",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Team Foundation Server and process templates, which are unrelated to the Definition of Done in Agile and Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server process templates, without reference to scaling Agile methodologies or frameworks.",
+    "reasoning": "Content heavily discusses Team Foundation Server and process templates, which are unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -541,10 +445,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T08:18:49",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration and usability of process templates in Team Foundation Server, which is unrelated to empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -575,22 +479,16 @@
     "reasoning": "Content primarily discusses Team Foundation Server process templates and configuration efforts, with no clear focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the extensibility of Team Foundation Server and the challenges of configuring process templates, without a clear focus on Agile or DevOps practices relevant to software development.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses the use of process templates in Team Foundation Server (TFS), which relates directly to software development practices and methodologies.",
+    "reasoning": "The content discusses the use of Team Foundation Server (TFS) and its process templates, which are relevant to software development practices. It mentions the extensibility of TFS and the challenges of designing process templates, indicating a focus on methodologies within the software development lifecycle. However, the discussion lacks depth in terms of specific methodologies or best practices, and it primarily reflects personal experiences rather than a structured exploration of software development concepts.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -620,7 +518,7 @@
     "reasoning": "Content focuses on Team Foundation Server process templates and their configuration, with no relevance to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:49",
     "ai_confidence": 0,
@@ -694,11 +592,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring process templates in Team Foundation Server, which is not directly related to Continuous Delivery principles or practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses TFS process templates and their configuration, which does not directly address Continuous Delivery principles or practices. While there is a mention of enhancing the development process, it lacks explicit references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The focus is more on process configuration rather than delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features and configurability of Team Foundation Server, with no focus on hypothesis formulation, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Team Foundation Server and process templates, with no direct reference to AI, Agile, or DevOps integration.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -874,10 +766,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:18:50",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration of process templates within Team Foundation Server, with no clear focus on team performance or collaboration strategies related to Agile teams.",
     "level": "Ignored"
   },
@@ -919,19 +811,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T08:18:50",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS process templates and configurations rather than team collaboration dynamics or Agile methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:50",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Team Foundation Server process templates, not the criteria for backlog item readiness in Agile.",
     "level": "Ignored"
   },
@@ -964,20 +856,11 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T08:18:50",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and process templates, with no clear connection to remote working or Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on Team Foundation Server process templates and their extensibility, not on Scaling Kanban principles or practices.",
+    "reasoning": "Content primarily discusses Team Foundation Server and process templates, with no clear connection to remote working or Agile practices.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -987,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on process templates in Team Foundation Server and does not discuss customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the extensibility and configuration of Team Foundation Server and its process templates, without a clear focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1180,19 +1054,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T08:18:50",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and configuration of Team Foundation Server process templates, with no focus on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T08:18:50",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses process templates and configuration in Team Foundation Server, not directly related to delivering functional software.",
     "level": "Ignored"
   },
@@ -1207,29 +1081,32 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:18:50",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and process templates without a clear focus on Scrum roles, dynamics, or team collaboration practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:18:50",
+    "calculated_at": "2025-04-10T15:57:05",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical aspects of Team Foundation Server and process templates, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical challenges of configuring process templates in TFS, which relates to real-world problem-solving in a project management context. However, it primarily focuses on personal experiences with TFS rather than explicitly addressing Agile, Scrum, or DevOps frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the practical aspects of configuring process templates in Team Foundation Server, which aligns with pragmatic problem-solving in Agile contexts. However, it lacks direct mentions of Agile, Scrum, or DevOps principles and does not provide in-depth strategies or case studies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Release Management": {
@@ -1243,12 +1120,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses process templates in Team Foundation Server, which relates to software development practices, but it primarily focuses on the challenges of designing these templates rather than promoting high standards in software craftsmanship or continuous improvement.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the use of Team Foundation Server and its process templates, which touches on aspects of software development practices. However, it lacks a direct focus on engineering excellence principles, such as coding standards or quality assurance. The discussion is more about the challenges of configuring process templates rather than promoting high standards in software craftsmanship or continuous improvement. Therefore, while there are some relevant elements, they are not sufficiently developed or central to the content.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1268,15 +1148,6 @@
     "reasoning": "Content primarily discusses the features and configuration of Team Foundation Server process templates, with no clear focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Team Foundation Server process templates, which is unrelated to Scaling Scrum principles and practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:18:50",
@@ -1288,12 +1159,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the configuration of process templates in Team Foundation Server, which relates to operational practices, but it is more focused on personal experience and advice rather than on established techniques or broad strategies for enhancing operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the configuration of process templates in Team Foundation Server, which relates to operational practices. However, it lacks explicit strategies for enhancing operational efficiency and does not delve deeply into methodologies like Agile or DevOps. The focus is more on personal experience and challenges rather than on systematic techniques or best practices for operational improvement.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1313,22 +1187,16 @@
     "reasoning": "The content primarily discusses Team Foundation Server and its process templates, with no clear focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:18:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the features and configuration of Team Foundation Server and process templates, with no clear discussion on scaling agile principles or methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on Team Foundation Server and process templates rather than Scrum or the responsibilities of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses TFS process templates and their configuration, with no direct mention of Scrum Master responsibilities or related concepts. It lacks alignment with the core themes of the Scrum Master role, such as facilitation, coaching, or team dynamics. The depth of discussion is focused on technical aspects of TFS rather than any Scrum-related topics.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1219,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:18:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server and its extensibility through process templates, without any mention of Test First Development, TDD, or related testing practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the extensibility and configuration of TFS process templates, with no direct mention of Test First Development principles or practices. While it touches on development processes, it lacks focus on success criteria, testing methodologies, or the collaborative aspects central to Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the extensibility and configuration of Team Foundation Server process templates, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring TFS process templates, with minimal discussion on collaboration, decision-making, or value delivery. While it touches on the challenges faced by developers in designing templates, it lacks a clear connection to the core themes of social technologies, such as self-organisation or collective intelligence.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1248,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of Team Foundation Server and process templates, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Team Foundation Server and its process templates, which are not directly related to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:52:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Team Foundation Server and process templates, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Team Foundation Server and its process templates, with no direct mention of Scrum principles, roles, or events. While it touches on project management concepts, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum practices, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the extensibility and configuration of Team Foundation Server process templates, with no explicit mention of the Shift-Left Strategy or its principles. While there is a focus on process templates, it does not align with the core themes of integrating testing, security, or compliance early in the development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of configuring TFS process templates and does not discuss Common Goals or their significance in Agile or DevOps. There are no explicit mentions of shared objectives or alignment with strategic goals, and the depth of discussion is limited to personal experiences and technical advice, which does not connect to the principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the configuration of TFS process templates, which implies a level of competence in using the tool. However, it primarily focuses on the technical aspects of TFS rather than the broader themes of continuous learning, skill development, or the importance of competence in Agile or DevOps environments. The mention of developers struggling with design indicates a lack of competence but does not explore strategies for fostering competence or the impact of competence on team dynamics. Overall, while there are elements related to competence, they are not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the extensibility and configuration of TFS process templates, which could relate to improving development processes. However, it lacks explicit references to Continuous Improvement principles, empirical evidence, or a culture of experimentation. The focus is more on technical configuration rather than on ongoing improvement practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:05",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the extensibility and configuration of TFS process templates, which does not align with the principles of Agentic Agility. There are no explicit discussions on intentional shaping of outcomes, autonomy, or adaptability, and it lacks depth in exploring the interplay between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

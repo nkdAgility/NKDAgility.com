@@ -2,8 +2,10 @@
 title: How do you think Agile is evolving since its inception in 2001?
 description: "Discover the evolution of Agile since 2001, its challenges, and the future of work in dynamic environments. Join Martin on this insightful journey! \U0001F310\U0001F680"
 date: 2023-02-15T07:00:07Z
+weight: 665
 ResourceId: QgPlMxGNIzs
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QgPlMxGNIzs
@@ -15,34 +17,28 @@ preview: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg
 duration: 229
 isShort: false
 aliases:
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
-- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
-- /resources/videos/QgPlMxGNIzs
-- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - /resources/QgPlMxGNIzs
-aliasesFor404:
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
+aliasesArchive:
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
+- how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
-- Agile Frameworks
-- Agile Project Management
-- Agile Leadership
-- People and Process
-- Business Agility
-- Enterprise Agility
-- Market Adaptability
-- Agile Transformation
 - Software Development
+- Agile Transformation
+- Organisational Agility
+- Agile Philosophy
+- Agile Values and Principles
 resourceTypes:
 - video
 categories:
-- Leadership
-- Social Technologies
+- Product Development
 
 ---
 How do you think Agile is evolving since its inception in 2001?
@@ -51,9 +47,9 @@ I think **agile** has been evolving steadily, although not always in the way we 
 
 ## Hierarchy
 
-One of the central ideas expressed in the agile manifesto, and reinforced through the **agile values and principles**, is a shift from the traditional top-down management structures to a decentralized environment where decision-making is pushed down to the experts doing the work.
+One of the central ideas expressed in the agile manifesto, and reinforced through the **[agile values and principles]({{< ref "/tags/agile-values-and-principles" >}})**, is a shift from the traditional top-down management structures to a decentralized environment where decision-making is pushed down to the experts doing the work.
 
-Sure, **leadership** and **executive teams** are best positioned to make decisions around strategy, the future of the organization, and the vision for the product, but we want the people who have the most skill, experience, and expertise about how things should be done to make the decisions about how something should be done.
+Sure, **[leadership]({{< ref "/categories/leadership" >}})** and **executive teams** are best positioned to make decisions around strategy, the future of the organization, and the vision for the product, but we want the people who have the most skill, experience, and expertise about how things should be done to make the decisions about how something should be done.
 
 The thinking is that those who are closest to the market and customers, can make decisions that empower us, as an organization, to adapt and respond most effectively.
 
@@ -67,9 +63,9 @@ Many teams, although they have adopted agile, played no role in that decision, n
 
 ## Agile 2.0
 
-We are seeing movement in the transition from traditional management to agile leadership.
+We are seeing movement in the transition from traditional management to [agile leadership]({{< ref "/tags/agile-leadership" >}}).
 
-I think this is the next area that we will see massive leaps of progress. Organizations are beginning to understand that a team doing scrum is not the same as developing agile capability throughout the organization.
+I think this is the next area that we will see massive leaps of progress. Organizations are beginning to understand that a team doing [scrum]({{< ref "/categories/scrum" >}}) is not the same as developing agile capability throughout the organization.
 
 It needs more than a single team. It requires leadership, suppliers, partners, and execution teams to develop agile capabilities and demonstrate agile behaviours.
 

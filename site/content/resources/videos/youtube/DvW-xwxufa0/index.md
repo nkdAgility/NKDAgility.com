@@ -2,8 +2,10 @@
 title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
 description: Discover the pitfalls of self-taught learning and the power of diverse insights in consulting. Embrace continuous learning for better solutions!
 date: 2024-08-22T07:00:08Z
+weight: 630
 ResourceId: DvW-xwxufa0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DvW-xwxufa0
@@ -15,32 +17,27 @@ preview: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg
 duration: 339
 isShort: false
 aliases:
-- /resources/the-limits-of-self-taught-learning-why-external-perspectives-matter
-- /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
-- /resources/videos/DvW-xwxufa0
-- /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 - /resources/DvW-xwxufa0
-aliasesFor404:
+- /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
+- /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
+aliasesArchive:
+- /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
 - /resources/the-limits-of-self-taught-learning-why-external-perspectives-matter
 - /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 - /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
+- /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
+- the-limits-of-self-taught-learning-why-external-perspectives-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Discovery and Learning
-- Pragmatic Thinking
-- Continuous Learning
+tags: []
 resourceTypes:
 - video
 categories:
-- DevOps
-- Leadership
-- Engineering Excellence
+- Uncategorized
 
 ---
-In today’s fast-paced digital landscape, the concept of self-taught learning is more prevalent than ever. However, as we dive deeper into the realms of software development, DevOps, and organizational transformation, it's crucial to recognize the limitations that come with learning in isolation. While self-taught knowledge has its merits, there are significant benefits to bringing in external expertise. This post explores the importance of diverse knowledge and how it can help organizations break through the barriers that self-taught learning often creates.
+In today’s fast-paced digital landscape, the concept of self-taught learning is more prevalent than ever. However, as we dive deeper into the realms of [software development]({{< ref "/tags/software-development" >}}), [DevOps]({{< ref "/categories/devops" >}}), and organizational transformation, it's crucial to recognize the limitations that come with learning in isolation. While self-taught knowledge has its merits, there are significant benefits to bringing in external expertise. This post explores the importance of diverse knowledge and how it can help organizations break through the barriers that self-taught learning often creates.
 
 ## The Reality of Self-Taught Knowledge
 
@@ -54,7 +51,7 @@ When working with new customers, one of the first things we make abundantly clea
 
 One of the most interesting observations we've made over the years is the **lack of formal training** that many engineers and professionals receive.
 
-- **Limited opportunities for growth:** In many organizations, engineers aren’t sent to coding courses, product development workshops, or security training. They aren’t exposed to structured learning environments that could vastly improve their skills.
+- **Limited opportunities for growth:** In many organizations, engineers aren’t sent to coding courses, [product development]({{< ref "/categories/product-development" >}}) workshops, or security training. They aren’t exposed to structured learning environments that could vastly improve their skills.
 
 - **Self-taught limitations:** As a result, almost every engineer is self-taught, learning within the narrow bounds of what they’ve explored. The problem with this approach is that we tend to stop looking for answers once we find one that works.
 
@@ -64,9 +61,9 @@ Imagine you’ve lost your keys. You search your house, and as soon as you find 
 
 This is where external expertise becomes invaluable. Bringing in someone from the outside—someone with a wealth of experience and a different perspective—can help you see beyond the solutions you’ve settled on.
 
-- **Years of experience:** I’ve been involved in DevOps (before it was even called DevOps) for over 20 years. During this time, I’ve seen the evolution from application lifecycle management to the modern practices we see today.
+- **Years of experience:** I’ve been involved in DevOps (before it was even called DevOps) for over 20 years. During this time, I’ve seen the evolution from [application lifecycle management]({{< ref "/tags/application-lifecycle-management" >}}) to the modern practices we see today.
 
-- **Diverse exposure:** As a software engineer and Scrum coach, I’ve worked with numerous organizations, observing what works and what doesn’t. This diverse exposure allows us to bring a variety of ideas and tools to the table—solutions that you might not have considered.
+- **Diverse exposure:** As a software engineer and [Scrum]({{< ref "/categories/scrum" >}}) coach, I’ve worked with numerous organizations, observing what works and what doesn’t. This diverse exposure allows us to bring a variety of ideas and tools to the table—solutions that you might not have considered.
 
 #### Encouraging Broader Exploration
 
@@ -78,7 +75,7 @@ Our goal isn’t to hand you a one-size-fits-all solution. Instead, we aim to pr
 
 But remember, the process of discovery and improvement is something that **you and your team must undertake**. We can guide you, but the work has to be done by your people.
 
-## The Evolution of DevOps: Continuous Learning and Institutional Knowledge
+## The Evolution of DevOps: [Continuous Learning]({{< ref "/tags/continuous-learning" >}}) and Institutional Knowledge
 
 When it comes to DevOps, our role is to help you understand where you are, determine where you want to go, and keep you moving in that direction. However, the actual work—the learning and application of new methods—must be done by your team.
 

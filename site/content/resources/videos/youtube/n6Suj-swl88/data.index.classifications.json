@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T18:33:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in the Scrum framework, focusing on the Sprint review process and value delivery.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a specific Agile practice. While it touches on collaboration and value maximisation, it does not deeply engage with broader social technologies principles such as self-organisation or collective intelligence. The focus is more on the mechanics of the Sprint Review rather than the underlying social frameworks that promote collaboration and decision-making within teams.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -19,39 +22,51 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:33:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Scrum roles and events, focusing on the Product Owner's responsibilities in Agile, without a clear emphasis on DevOps principles or practices.",
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the context of Agile and Scrum methodologies, specifically discussing the Sprint Review process. While it briefly touches on concepts like accountability and maximising value, which are relevant to DevOps, the overall emphasis is on Agile practices rather than the broader DevOps philosophy. The discussion lacks depth in DevOps principles such as automation, collaboration across teams, and continuous improvement, leading to a low confidence score in alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T18:33:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in the context of Agile and Scrum, focusing on their accountability for value delivery and the strategic aspects of leading the Sprint review, which aligns well with product management principles.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review within the Agile framework, which is a key aspect of product management. It explicitly mentions the importance of maximising value delivery and stakeholder engagement, aligning closely with the strategic objectives of product management. The depth of discussion is significant, covering various aspects of the Sprint Review process, including the need for feedback and updating the product backlog. Overall, the content is well-aligned with the core themes of product management, particularly in the context of Agile methodologies.",
+    "level": "Primary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T18:33:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on leadership accountability and facilitation within an Agile context. However, it primarily focuses on the mechanics of the Sprint Review rather than broader leadership strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on leadership responsibilities within an Agile framework. However, the focus is primarily on the mechanics of the Sprint Review process rather than a broader discussion on leadership strategies or principles. While it mentions accountability and facilitation, it lacks depth in exploring leadership styles, team dynamics, or cultural change, which are key themes in the Leadership category.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T18:33:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on aspects of value delivery and stakeholder engagement, relevant to business agility. However, the primary focus is on Scrum roles and events rather than broader principles of business agility.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within the Scrum framework. While it touches on aspects of value delivery and stakeholder engagement, which are relevant to business agility, it does not explicitly discuss the broader principles or practices of business agility. The discussion is more centred on Scrum-specific roles and events rather than the overarching themes of adaptability, innovation, or organisational responsiveness that define business agility. Therefore, while there are relevant elements, they are not the primary focus of the content.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -64,12 +79,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T18:33:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a key event in the Scrum framework, and explores the responsibilities and practices associated with this role.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed exploration of the role of the Product Owner in leading the Sprint Review, which is a core event in the Scrum framework. It discusses the purpose of the Sprint Review, the responsibilities of the Product Owner, and the importance of stakeholder engagement, aligning well with the key topics of Scrum roles and events. The depth of discussion is significant, as it covers various aspects of facilitating the Sprint Review and the accountability of the Product Owner, demonstrating a strong understanding of Scrum principles.",
+    "level": "Primary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -82,29 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:33:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on Scrum practices rather than evidence-based management principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T18:33:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in Agile and Scrum processes, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T18:33:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, specifically the Sprint review and the role of the Product Owner, which are not related to Scaling Kanban principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review within the context of Agile and Scrum methodologies. While it touches on the importance of gathering information and updating the product backlog, it does not explicitly focus on Evidence-Based Management principles or metrics. The discussion lacks depth in empirical decision-making and does not provide a clear connection to the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,12 +121,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T18:33:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in the context of the Sprint Review, which is a key event in the Scrum framework. It explores the responsibilities and accountability of the Product Owner, aligning closely with Agile principles and practices.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner within the context of the Sprint Review, a key event in the Scrum framework. It explicitly mentions Scrum multiple times and delves into the responsibilities and accountabilities of the Product Owner, which aligns well with the principles of Agile frameworks. The discussion is detailed, providing insights into how the Sprint Review can be effectively conducted to maximise value delivery, which is a core theme of Agile. However, while it focuses on Scrum, it does not explore other Agile frameworks or provide a comparative analysis, which slightly limits its overall alignment with the broader category of Agile Frameworks.",
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +142,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T18:33:25",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, rather than focusing on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +156,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on Scrum practices rather than analysing trends in Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T18:33:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of the Product Owner in Scrum, focusing on individual Agile practices rather than scaling Agile across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -181,12 +178,15 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-17T18:33:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, detailing its purpose, the importance of stakeholder feedback, and how to effectively conduct the review.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the purpose of the Sprint Review, the role of the Product Owner in leading it, and the importance of stakeholder feedback. It aligns well with the key topics of the Sprint Review, such as the process of presenting the increment and gathering feedback, as well as the importance of updating the product backlog. The depth of discussion is substantial, covering various aspects of how to conduct a Sprint Review effectively, although it could benefit from more structured best practices and common challenges.",
+    "level": "Primary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -199,11 +199,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T18:33:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a key Agile ceremony that impacts team dynamics and performance. It addresses strategies for maximising the value of the Sprint Review and enhancing collaboration with stakeholders, aligning well with the category's focus on team performance and Agile practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a key Agile ceremony that directly impacts team dynamics and performance. It provides detailed insights into how the Product Owner can facilitate the review to maximise value and gather stakeholder feedback, aligning well with the core themes of team collaboration and effectiveness. The discussion includes practical strategies for running the Sprint Review, which enhances the depth of the content. However, while it focuses on the Product Owner's role, it does not extensively cover broader team dynamics or conflict resolution, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -226,21 +229,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T18:33:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a key aspect of Agile methodologies and product delivery. It focuses on maximising value delivery and effective stakeholder engagement, aligning well with the principles of product delivery.",
-    "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T18:33:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Product Owner in Agile practices, specifically focusing on the Sprint review process, without any mention of AI or its applications.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, which is a critical aspect of Agile methodologies and product delivery. It discusses the importance of stakeholder feedback, updating the product backlog, and maximising value delivery, all of which align closely with the core themes of product delivery. The depth of discussion is substantial, providing insights into how to effectively conduct a Sprint Review and the responsibilities of the Product Owner, thus demonstrating a strong understanding of the product delivery process.",
+    "level": "Primary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +248,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events without a clear focus on digital technologies or business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T18:33:43",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on team dynamics, accountability, and the importance of stakeholder engagement, which aligns well with the category's emphasis on human behaviour and structured methodologies in Agile environments.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T18:33:45",
@@ -268,15 +256,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Product Owner in Agile and Scrum practices, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T18:33:47",
-    "ai_confidence": 90,
-    "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a key aspect of Scrum, an agile framework. It emphasises the importance of stakeholder engagement, value delivery, and updating the product backlog, all of which align closely with agile principles.",
-    "level": "Primary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -289,21 +268,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T18:33:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, emphasising their accountability for maximising value delivery and facilitating the event effectively. It highlights the distinction between accountability and blame, focusing on ownership within the Scrum team.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner in leading the Sprint Review, highlighting their accountability for maximising value. It aligns well with the core themes of accountability in Agile, particularly in terms of ownership and team dynamics. The depth of discussion is significant, providing detailed insights into the responsibilities and strategies for effective Sprint Reviews, which reinforces the importance of accountability within the team context.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T18:33:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, highlighting accountability for value delivery and the importance of gathering stakeholder feedback, which aligns with themes of transparency and accountability. However, the primary focus is on Scrum roles and processes rather than a broader discussion on transparency and accountability principles.",
-    "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -312,15 +285,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:33:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, specifically the role of the Product Owner in leading Sprint reviews, which is not aligned with the principles of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -343,65 +307,83 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T18:34:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on aspects of technical leadership within an agile context. However, it primarily focuses on the responsibilities of the Product Owner rather than broader technical leadership principles or strategies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a specific aspect of technical leadership within an Agile context. It mentions accountability and facilitation, aligning with the principles of servant leadership and team dynamics. However, while it touches on important elements of the Sprint Review process, it lacks a broader discussion on mentoring, coaching, or continuous improvement, which are key themes in technical leadership. Therefore, while relevant, the content does not fully encompass the depth required for a higher confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T18:34:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in the context of Sprint reviews, which relates to backlog management and planning within Agile methodologies, but it primarily focuses on roles and responsibilities rather than specific Agile planning tools.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Sprint Review and the role of the Product Owner, which are relevant to Agile methodologies. However, it primarily focuses on the leadership aspect rather than the tools or techniques for Agile planning. While it mentions updating the product backlog, it lacks a comprehensive exploration of Agile Planning Tools or methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:34:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, with minimal focus on the Scrum Master role.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, which is a specific Scrum event. While it touches on aspects of Scrum and Agile principles, the discussion does not adequately address the responsibilities or influence of the Scrum Master. The content lacks direct mentions of the Scrum Master role and does not explore the broader implications of Scrum Master responsibilities, coaching, or facilitation techniques, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T18:34:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a key aspect of Agile Planning. It focuses on maximising value through stakeholder engagement and updating the product backlog, aligning closely with Agile principles.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the Sprint Review, a key event in Agile Planning, particularly within the Scrum framework. It discusses the role of the Product Owner in leading the review, which is crucial for maximising value and updating the product backlog. The content aligns well with Agile principles, emphasising stakeholder engagement, feedback loops, and iterative planning. The depth of discussion is substantial, providing practical recommendations for structuring the Sprint Review and ensuring effective collaboration. Overall, the content is highly relevant to Agile Planning, with a strong emphasis on its methodologies and practices.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T18:34:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of the Product Owner in the context of a Sprint Review, which touches on Agile principles such as value delivery and stakeholder collaboration. However, it primarily focuses on Scrum practices rather than the underlying Agile values and principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the Scrum framework, discussing the Sprint Review process in detail. While it touches on Agile principles such as maximising value and stakeholder engagement, it does so in the context of Scrum practices rather than explicitly addressing Agile values and principles as a primary focus. The discussion lacks depth in exploring the broader Agile values and principles, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T18:34:14",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on value delivery and stakeholder engagement rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:34:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Product Owner in Sprint reviews and Agile practices, with no mention of Test First Development or related testing methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within an Agile framework. It discusses the importance of stakeholder engagement and backlog management but does not address Test First Development principles, success criteria, or testing practices. The discussion is centred around Scrum roles and processes rather than the Test First approach, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -415,10 +397,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T18:34:18",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on stakeholder engagement and backlog management, without addressing Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -451,29 +433,35 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T18:34:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review and touches on updating the product backlog, which is relevant to backlog refinement, but the primary focus is on the Sprint Review process rather than backlog refinement itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Sprint Review and the role of the Product Owner, with a focus on updating the product backlog. While it touches on backlog refinement, it primarily centres on the Sprint Review process and leadership roles, which are not the main focus of backlog refinement discussions. The mention of updating the backlog indicates some relevance, but the overall emphasis is on the review rather than refinement techniques or practices.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T18:34:28",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Product Owner in leading Sprint reviews and maximising value delivery, without a clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T18:34:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a key aspect of Agile practices and Scrum methodology. It addresses accountability, value delivery, and stakeholder engagement, all of which are central to Agile transformation discussions.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, which is a key event in the Scrum framework, a methodology for Agile transformation. It discusses the importance of the Sprint Review in the Agile process, aligning with Agile principles and practices. However, while it provides a good level of detail about the Sprint Review and its execution, it does not delve deeply into broader Agile transformation strategies or change management, which slightly limits its depth of discussion. Overall, it aligns well with the category but does not cover the full scope of Agile transformation.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -496,47 +484,32 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T18:34:35",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on accountability and event facilitation rather than the Scrum Values themselves.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T18:34:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of the Product Owner in leading Sprint reviews and does not focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T18:34:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which is a practical aspect of Agile methodology. However, it primarily focuses on the responsibilities and facilitation of the Sprint Review rather than exploring specific tools or techniques that enhance Agile practices.",
-    "level": "Tertiary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-17T18:34:39",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Product Owner in Scrum and the Sprint review process, with no mention of Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T18:34:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the role of the Product Owner in relation to the Sprint Review and mentions the importance of updating the Product Backlog, making it a significant theme, though not the primary focus.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review and highlights the importance of updating the Product Backlog during this process. It directly mentions the Product Backlog multiple times and aligns well with the category's core themes, particularly in relation to backlog management and stakeholder engagement. However, the primary focus is on the Sprint Review rather than the Product Backlog itself, which slightly reduces the overall confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -547,15 +520,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading Sprint reviews, focusing on technical aspects and responsibilities rather than personal experiences or reflections.",
     "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T18:34:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading a Sprint review, which is a specific Agile event. However, the primary focus is on the responsibilities and processes rather than on a formal event or presentation context.",
-    "level": "Tertiary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -568,30 +532,24 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T18:34:46",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, with no direct reference to market share strategies or methodologies.",
     "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T18:34:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner within the Scrum Team, focusing on their responsibilities during the Sprint Review and the importance of their role in maximising value delivery.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T18:34:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Product Owner in the Sprint review, focusing on team-level agile practices rather than organisational scaling.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner within the context of the Sprint Review, which is a key event in Scrum. It provides a detailed exploration of the responsibilities and accountability of the Product Owner, aligning well with the themes of roles and responsibilities within a Scrum Team. The depth of discussion includes practical advice on structuring the Sprint Review, which enhances the understanding of team collaboration and communication strategies. Overall, the content is highly relevant to the Scrum Team category.",
+    "level": "Primary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -613,21 +571,27 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:34:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Sprint review and the role of the Product Owner, which are not central to Continuous Delivery principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within the Agile framework, which is not directly related to Continuous Delivery. While it touches on aspects of feedback and backlog management, it lacks a clear discussion on Continuous Delivery principles, practices, or tools. The emphasis is on Scrum roles rather than the continuous delivery process itself.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T18:34:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which includes obtaining feedback from stakeholders. While customer satisfaction is a secondary theme, the primary focus is on Scrum roles and processes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, discussing the importance of stakeholder engagement and feedback. While it touches on aspects that could relate to customer satisfaction, such as gathering feedback and aligning the product backlog with stakeholder insights, it does not explicitly address customer satisfaction as a primary focus. The discussion lacks depth in exploring customer satisfaction principles or methodologies, making it more about Agile processes than enhancing customer experience.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -649,23 +613,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T18:34:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on team dynamics and collaboration within the Scrum framework. However, the primary focus is on the responsibilities of the Product Owner rather than broader team collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a specific aspect of Scrum rather than a broader discussion on team collaboration. While it touches on elements of teamwork and communication, such as gathering feedback and aligning on goals, these are secondary to the main focus on the Product Owner's responsibilities. The depth of discussion on team dynamics and collaboration techniques is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T18:35:01",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Sprint Review and the role of the Product Owner, with no focus on the Daily Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T18:35:02",
     "ai_confidence": 0,
@@ -683,31 +650,28 @@
     "reasoning": "Content heavily discusses Scrum roles and events, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T18:35:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, emphasising the importance of gathering feedback and adapting the product backlog based on stakeholder input, which aligns with the theme of learning from feedback. However, the primary focus is on Scrum roles and processes rather than broader discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T18:35:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on aspects of self-organisation within Agile teams, but primarily focuses on the responsibilities and facilitation of the Product Owner rather than broader self-organisation principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, which is a specific aspect of Scrum rather than a broader discussion on self-organisation. While it touches on accountability and the importance of stakeholder feedback, it does not delve deeply into the principles of self-organisation or how teams can operate autonomously. The discussion is more about leadership roles within a structured framework rather than fostering a culture of autonomy and trust, which is central to self-organisation.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:35:09",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in the context of a Sprint Review, which is a key aspect of Agile product development. While it focuses on Scrum practices, it also touches on value delivery and stakeholder engagement, aligning with the principles of the Agile Product Operating Model.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, which is a specific aspect of Scrum rather than a broader discussion on the Agile Product Operating Model. While it touches on themes of maximising value and updating the product backlog, it lacks a comprehensive exploration of the APOM principles, such as transitioning to a product ethos or integrating product management practices. The discussion is more aligned with Scrum practices than with the overarching framework of the Agile Product Operating Model.",
     "level": "Secondary"
   },
   "Employee Engagement": {
@@ -730,12 +694,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T18:35:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in the Sprint Review, emphasising the importance of gathering stakeholder feedback and adapting the product backlog based on market changes. While it touches on aspects of Agile practices, the primary focus is on Scrum roles rather than broader market adaptability strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Sprint Review process within Agile, highlighting the importance of stakeholder feedback and adapting the product backlog based on market insights. However, while it touches on elements that could enhance market adaptability, such as gathering feedback and updating the backlog, it primarily focuses on the role of the Product Owner and the structure of the Sprint Review rather than providing a comprehensive discussion on strategies for market adaptability. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -748,37 +715,46 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T18:35:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which involves gathering information from stakeholders and ensuring accountability. While transparency is a theme in the context of stakeholder engagement and feedback, the primary focus is on the Product Owner's responsibilities rather than transparency itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Sprint Review and the role of the Product Owner, touching on aspects of accountability and stakeholder engagement. However, it lacks a strong focus on transparency as a primary theme. While it mentions the importance of gathering information and updating the product backlog, it does not delve deeply into techniques or tools that promote transparency in Agile processes. The discussion is more centred on roles and responsibilities rather than fostering an environment of openness and visibility.",
     "level": "Tertiary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T18:35:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of gathering feedback during the Sprint review, which is a key aspect of customer feedback loops, but primarily focuses on the role of the Product Owner and the structure of the Sprint review process.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of gathering feedback during the Sprint Review, which aligns with the concept of customer feedback loops. It mentions techniques for collecting insights and updating the product backlog based on feedback, demonstrating a clear connection to the category. However, the primary focus is on the role of the Product Owner and the structure of the Sprint Review, which slightly detracts from a deeper exploration of feedback integration practices.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T18:35:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which involves decision-making processes related to maximizing value and gathering stakeholder feedback. However, the primary focus is on Scrum roles and events rather than structured decision-making methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which involves decision-making processes related to product backlog management and stakeholder engagement. However, it primarily focuses on the Scrum framework and does not delve deeply into structured, evidence-based methodologies or empirical decision-making practices. While there are elements of decision-making present, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T18:35:22",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on facilitation and stakeholder engagement rather than metrics or learning processes.",
     "level": "Ignored"
   },
@@ -793,10 +769,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T18:35:25",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in Scrum and the Sprint Review process, without a clear focus on Lean principles or practices.",
     "level": "Ignored"
   },
@@ -809,50 +785,53 @@
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on Scrum processes rather than mentoring or coaching techniques.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T18:35:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading Sprint reviews, with no mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T18:35:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which involves gathering and interpreting stakeholder feedback to inform future sprints. While it touches on aspects of sensemaking, such as understanding market changes and stakeholder needs, the primary focus is on Scrum roles and processes rather than a comprehensive exploration of sensemaking principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within an Agile framework. While it touches on aspects of gathering information and updating the product backlog, which are relevant to sensemaking, the discussion is largely centred on procedural elements of Scrum rather than a deep exploration of sensemaking principles or frameworks. The content does not explicitly address the complexities of decision-making in uncertain environments or the broader implications of sensemaking in organisational contexts.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T18:35:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on strategic goals and value delivery. However, it primarily focuses on the execution of Scrum events rather than a broader strategic approach.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a specific Scrum event. While it touches on strategic elements such as accountability and maximising value, it does not delve deeply into broader strategic frameworks or alignment with organisational goals. The focus is more on operational aspects of the Sprint Review rather than strategic planning or execution, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T18:35:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which relates to operational practices in Agile. However, it primarily focuses on the responsibilities and facilitation of the Sprint Review rather than broader operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review within the Scrum framework. While it touches on aspects of operational practices, such as updating the product backlog and gathering stakeholder feedback, it lacks a comprehensive focus on broader operational efficiency techniques or strategies. The discussion is more centred on roles and responsibilities rather than on optimising processes or improving operational performance, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T18:35:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in the context of a Sprint Review, which is a specific Agile framework practice. While it touches on value delivery and stakeholder collaboration, the primary focus is on Scrum roles and events rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a specific Scrum practice. While it touches on Agile principles such as value delivery and stakeholder engagement, it does not deeply explore the broader Agile Philosophy or its foundational principles. The focus is more on the mechanics of a Scrum event rather than the underlying Agile mindset.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -919,11 +898,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T18:35:59",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, emphasising their accountability for maximising value and facilitating stakeholder engagement, which aligns closely with Agile Product Management principles.",
+    "final_score": 92.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner in leading the Sprint Review, which is a key aspect of Agile Product Management. It aligns closely with the core themes of stakeholder engagement, backlog management, and maximising product value. The depth of discussion is substantial, providing detailed insights into structuring the Sprint Review and the importance of feedback, which are critical for Agile practices.",
     "level": "Primary"
   },
   "Systems Thinking": {
@@ -937,48 +919,36 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T18:36:02",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, specifically the Sprint review, without a clear focus on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T18:36:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on Scrum roles and events without addressing scaling practices or frameworks for multiple teams.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T18:36:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in the context of Scrum, touching on team dynamics and the importance of stakeholder communication, which are relevant to sociotechnical systems. However, the primary focus is on Scrum practices rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T18:36:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in the Sprint Review process, without reference to specific products, books, or literature related to Agile methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within the Scrum framework. While it touches on aspects of team dynamics and accountability, it lacks a broader discussion on the interplay between social and technical systems. The emphasis is more on procedural elements of Agile rather than exploring how organisational culture or structure influences these practices. Therefore, while there are relevant elements, they do not constitute a primary focus on sociotechnical systems.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T18:36:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, emphasising the importance of gathering feedback and adapting the product backlog based on stakeholder input, which aligns with empirical process control principles. However, the primary focus is on the role and responsibilities of the Product Owner rather than a comprehensive discussion on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Sprint Review in Scrum, highlighting the importance of gathering feedback and updating the product backlog, which aligns with empirical process control principles. However, it primarily focuses on the role of the Product Owner and the structure of the review rather than a comprehensive exploration of empirical process control itself. While it touches on transparency and adaptation, it lacks in-depth discussion of the broader principles and practices associated with empirical process control.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -991,20 +961,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T18:36:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the practical role of the Product Owner in leading the Sprint Review, emphasising real-world applications of Agile principles and strategies for maximising value delivery. It focuses on practical problem-solving techniques within the Scrum framework.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a practical aspect of Agile and Scrum. It provides specific strategies for conducting the review effectively, aligning well with pragmatic problem-solving in real-world scenarios. However, while it touches on key themes of accountability and stakeholder engagement, it lacks extensive depth in exploring broader pragmatic thinking techniques or case studies, which slightly lowers the overall confidence score.",
+    "level": "Primary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T18:36:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:25:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review and does not focus on Lead Time as a metric or its implications.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within the Scrum framework. While it discusses aspects of Agile processes, it does not mention Lead Time directly or explore its significance as an observability metric. The discussion is centred around Scrum roles and events, lacking any detailed examination of Lead Time, its measurement, or strategies for optimisation. Therefore, the content does not align well with the category of Lead Time.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,12 +994,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T18:36:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which is a key event in Agile and Scrum frameworks that directly relates to delivering value and ensuring the quality of working software. However, the primary focus is on the facilitation of the review process rather than the characteristics or metrics of working software itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a critical aspect of delivering working software in Agile. It emphasises the importance of gathering feedback, updating the product backlog, and ensuring that the software development process aligns with user needs and business objectives. While it does not explicitly define working software, the focus on maximising value and iterating based on stakeholder input aligns well with the core themes of the category. The depth of discussion on structuring the Sprint Review and the importance of feedback further supports its relevance to working software.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1054,21 +1033,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T18:36:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, touching on aspects of product vision and stakeholder feedback, which are relevant to product strategy. However, the primary focus is on Scrum practices and team dynamics rather than a comprehensive exploration of product strategy methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, which is more about Agile practices than product strategy. While it touches on aspects like updating the product backlog and gathering stakeholder feedback, it lacks a comprehensive discussion on product vision, roadmapping, or competitive analysis, which are core to product strategy. The depth of discussion is limited to Scrum roles and processes, making it a secondary focus rather than a primary exploration of product strategy.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T18:36:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in the context of Agile methodologies, specifically focusing on the Sprint Review process, which is a key aspect of the Scrum framework.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within the Agile framework, which is a core aspect of software development methodologies. It discusses the purpose of the Sprint Review, the responsibilities of the Product Owner, and provides detailed recommendations for structuring the review process. This aligns well with the key topics of Agile practices and the Software Development Life Cycle. The depth of discussion is substantial, offering practical insights and actionable advice, which further supports a high confidence score.",
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1108,21 +1093,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T18:36:33",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on Scrum roles and events rather than cross-functional team dynamics.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T18:36:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in the context of Agile practices, particularly focusing on the Sprint Review, which is relevant to software development teams. However, the primary focus is on the Product Owner's responsibilities rather than on software developers themselves.",
-    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1144,30 +1120,24 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T18:36:38",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Product Owner in Scrum and the Sprint Review process, which does not relate to installation or configuration topics.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T18:36:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, emphasising their accountability for maximising value and managing the product backlog, which aligns closely with the responsibilities and practices of a Product Owner.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T18:36:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading Sprint reviews, focusing on practical application rather than industry news or reviews.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner in leading the Sprint Review, highlighting their accountability and facilitation skills. It aligns well with key topics such as stakeholder engagement, backlog management, and the Product Owner's responsibilities in Agile ceremonies. The depth of discussion is substantial, providing practical insights into how the Product Owner can effectively lead the review and maximise product value.",
+    "level": "Primary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1207,19 +1177,22 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T18:36:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on leadership within an Agile context. However, it primarily focuses on the technical aspects of the Sprint Review process rather than broader Agile leadership themes.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on leadership within an Agile context. However, it primarily focuses on the mechanics of the Sprint Review rather than broader Agile leadership principles. While there are mentions of accountability and facilitation, the depth of discussion on empowering teams or fostering a culture of trust is limited.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T18:36:49",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review and the associated processes, without a clear focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1234,47 +1207,47 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T18:36:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which includes gathering feedback from stakeholders and updating the product backlog. While it touches on aspects of user feedback and value delivery, the primary focus is on Scrum roles and processes rather than direct methodologies for validating product ideas.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Sprint Review process in Agile, focusing on the role of the Product Owner and the importance of gathering feedback from stakeholders. While it touches on aspects of user engagement and feedback, it primarily centres on Scrum practices rather than explicitly validating product ideas through user testing or market fit. The discussion lacks depth in methodologies specifically aimed at product validation, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T18:36:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:25:49",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on stakeholder engagement and value delivery rather than on throughput measurement or optimisation.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within the Agile framework. While it discusses the importance of maximising value and updating the product backlog, it does not explicitly mention throughput as a delivery metric or provide any analysis or visualisation of throughput. The discussion is more centred on Scrum roles and processes rather than on throughput as a measure of delivery capacity or performance. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:36:57",
-    "ai_confidence": 90,
-    "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, detailing Scrum events and responsibilities, which aligns closely with Scrum principles.",
-    "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T18:36:59",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily discusses the role of the Product Owner in leading the Sprint Review, focusing on maximising value delivery through stakeholder engagement and effective backlog management.",
     "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T18:37:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:25:52",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are unrelated to system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically the role of the Product Owner in leading Sprint Reviews. It does not discuss system configuration, configuration management tools, or any related topics. The mention of updating the product backlog is tangential and does not align with the core themes of system configuration. Overall, the content lacks direct relevance to the category.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,21 +1261,12 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T18:37:03",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Sprint review process rather than methodologies for identifying customer needs or defining product features.",
     "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T18:37:04",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, which is a key aspect of Scrum practices and product development.",
-    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1315,46 +1279,46 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T18:37:06",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Product Owner in leading the Sprint Review, without addressing the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T18:37:08",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on accountability and value delivery, key aspects of Agile strategy. However, it primarily focuses on Scrum practices rather than broader strategic implications.",
     "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T18:37:10",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which is related to the Increment process in Agile. However, the primary focus is on the facilitation of the Sprint Review rather than the Increment itself.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T18:37:12",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of the product owner in leading the Sprint review and touches on strategic goals in the context of product vision and outcomes. However, the primary focus is on Scrum roles and event facilitation rather than a comprehensive discussion on strategic goals.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T18:37:14",
+    "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on Agile methodologies and the importance of stakeholder feedback. However, it primarily focuses on Scrum roles and events rather than broader organisational agility strategies.",
     "level": "Tertiary"
   },
@@ -1375,5 +1339,432 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on the Sprint review process rather than Lean Startup principles.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:51:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:51:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner within the context of the Sprint Review, a key event in the Scrum framework. It discusses the responsibilities of the Product Owner in maximising value delivery and facilitating the Sprint Review, which aligns closely with Scrum principles. The depth of discussion is substantial, covering various aspects of how to conduct the Sprint Review effectively, including stakeholder engagement and backlog updates. Overall, the content is highly relevant to Scrum, with a strong emphasis on its roles and events.",
+    "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within an Agile framework. While it discusses aspects of stakeholder engagement and backlog management, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion is centred around Scrum practices rather than integrating testing, security, or compliance earlier in the development process, which is the essence of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within an Agile framework. While it touches on aspects of feedback and adapting the product backlog, which are relevant to Continuous Improvement, the main emphasis is on Scrum roles and processes rather than a broader discussion of Continuous Improvement principles. The content lacks a comprehensive exploration of techniques or strategies for fostering a culture of experimentation and learning, which are key topics in Continuous Improvement.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, which is a specific Scrum event. While it touches on the importance of aligning on product goals and updating the backlog, it does not deeply explore the broader concept of Common Goals within Agile and DevOps frameworks. The discussion is more about the mechanics of the Sprint Review rather than the foundational principles of shared objectives and strategic alignment that define Common Goals.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which touches on accountability and maximising value, aligning with the principles of competence. However, it primarily focuses on the mechanics of the Sprint Review rather than a broader discussion on continuous learning or skill development, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:57:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in the context of Scrum and Agile methodologies, specifically discussing the Sprint Review process. While it touches on aspects of team collaboration and value maximisation, it does not directly address the principles or components of the One Engineering System (1ES) framework. The discussion is centred around Scrum practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within Agile practices. While it touches on accountability and maximising value, which are relevant to Agentic Agility, it does not explicitly discuss the intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more centred on Scrum roles and processes rather than the broader concept of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:25:05",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, which is a key aspect of Agile product development. It discusses the importance of gathering stakeholder feedback, updating the product backlog, and maximising value, all of which align closely with the principles of iterative learning and customer feedback loops in product development. The depth of discussion is substantial, providing detailed insights into structuring the Sprint Review and the responsibilities of the Product Owner. Overall, the content is highly relevant to the category, with a strong emphasis on Agile methodologies and practices.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:25:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within a Scrum framework, which is a traditional Agile methodology. It does not discuss Open Space Agile principles, such as collective participation, psychological safety, or co-creation. While it touches on Agile concepts, it lacks direct references to Open Space Technology or the collaborative change processes that characterise Open Space Agile. Therefore, the confidence score reflects a minimal alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:25:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the mechanics of the Sprint Review within the Scrum framework, discussing the role of the Product Owner and the structure of the review process. While it touches on the importance of flexibility in Agile practices, it does not explicitly mention Agnostic Agile principles or advocate for a context-driven approach. The discussion lacks depth in exploring the broader implications of Agnostic Agile, such as ethical considerations or comparisons with other methodologies, which limits its alignment with the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:25:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within the Scrum framework. While it discusses aspects of Agile practices, it does not address the complexities or strategies involved in scaling Agile across multiple teams or the enterprise. The mention of maximising value and updating the product backlog is relevant but does not delve into scaling methodologies or frameworks, nor does it explore cross-team collaboration or alignment with business goals, which are key topics for the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:25:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in the context of Agile and Scrum methodologies, specifically discussing the Sprint Review process. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or autonomous cells. The depth of discussion is also limited to Scrum practices, which are unrelated to the concepts of the Beta Codex or complexity theory.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:25:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within the Scrum framework. While it discusses facilitation and stakeholder engagement, it does not explicitly mention Liberating Structures or their techniques. The discussion is centred around traditional Agile practices rather than the principles of inclusive engagement and co-creation that define Liberating Structures. Therefore, the content has minimal direct mentions and low conceptual alignment with the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:25:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, which is a specific Agile practice. While it touches on maximising value and updating the product backlog, it does not explicitly discuss Time to Market as a primary focus. The discussion lacks depth in terms of metrics or strategies for improving Time to Market, and the overall alignment with the category is limited. Therefore, the confidence score reflects a low but present relevance to the topic.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:25:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within an Agile framework. While it discusses aspects of stakeholder engagement and feedback, which are relevant to customer-centric strategies, it does not explicitly address the concept of treating the organisation as a product or the broader implications of Company as a Product. The discussion is more centred on Scrum practices rather than organisational design or strategic objectives, leading to a low confidence score in alignment with the CaaP category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:25:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in the context of Agile and Scrum methodologies, specifically discussing the Sprint Review process. There are no direct mentions of GitHub or its functionalities, and the discussion does not align with GitHub's core themes such as version control, collaboration features, or CI/CD pipelines. While it touches on Agile principles, it does not provide insights into GitHub practices or tools, leading to a very low confidence score for the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:25:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within an Agile framework. While it discusses the importance of maximising value and updating the product backlog, it does not explicitly address the concept of Unrealised Value or its indicators. The discussion is more centred on operational aspects of Scrum rather than exploring untapped opportunities or potential improvements, which are key themes of Unrealised Value. Therefore, while there is some alignment with the idea of maximising value, the content lacks depth and direct mentions of Unrealised Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:25:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which is indirectly related to Current Value through the emphasis on maximising value and updating the product backlog based on stakeholder feedback. However, while it touches on aspects of value delivery and stakeholder engagement, it lacks a direct focus on metrics or indicators that measure Current Value, which diminishes its alignment with the category. The depth of discussion is moderate, providing insights into the Sprint Review process but not extensively covering the measurement or analysis of Current Value.",
+    "level": "Secondary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:25:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within a Scrum framework, which is a specific Agile practice. There are no direct mentions of Hybrid Agile or its challenges, and the discussion does not critically examine the integration of traditional project management methodologies with Agile practices. The content lacks depth in addressing the core themes of Hybrid Agile, such as conflicting expectations or command-and-control structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:25:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within an Agile framework, which is a specific aspect of Agile project management. While it discusses the importance of stakeholder engagement and updating the product backlog, it does not cover broader project management principles, methodologies, or lifecycle phases. The discussion is detailed regarding the Sprint Review process but lacks a comprehensive exploration of project management as a whole, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review within the Scrum framework. While it mentions aspects of Agile practices and discusses related functions, it does not explicitly engage with models or frameworks, nor does it deeply analyze them in the context of decision-making or organisational agility. The discussions on roles and practices, though relevant to Scrum, lack a focus on conceptual models. Overall, the content addresses points that are tangential to the Model category but does not satisfy the primary focus requirements, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 55.0,
+    "ai_mentions": 8,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the Sprint Review, a key event in Scrum that ties closely to the management of the Product Backlog, which is a specific artifact. It explicitly mentions the need to update the Product Backlog during the review, indicating a connection to artifacts. However, the primary focus is on the role of the Product Owner and leadership rather than a deep exploration of artifact management or structure. While artifacts are mentioned, the overall discussion is more centered on the roles and processes surrounding them rather than the artifacts themselves. Thus, the confidence score reflects a moderate alignment with the 'Artifact' category.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the roles and processes involved in the Sprint Review within the Scrum framework, with a focus on the Product Owner's responsibilities. While it touches on aspects of Agile success and optimizing the product backlog, there is no specific mention of tools or software that facilitate these processes. The discussion does not address any particular tools, their functionalities, or practical applications, which are key to the 'Tool' category. Therefore, it falls short of aligning with the criteria for this classification.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review and emphasizes maximizing value. However, it primarily focuses on procedural elements and leadership roles rather than the underlying values that guide those decisions. While accountability and collaboration are touched upon, the discussion lacks a deeper exploration of core Agile or Scrum values such as commitment, openness, and respect that fundamentally inform the approach to teamwork and decision-making. Thus, while there is some alignment with the category through discussions about accountability and leadership within the Agile framework, the overall focus on processes limits the confidence in its alignment with 'Values' as a primary focus.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 58.0,
+    "ai_mentions": 12,
+    "ai_alignment": 32,
+    "ai_depth": 24,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses the role of the Product Owner in the context of the Sprint Review within the Scrum framework. While it does specifically mention Scrum and Agile principles, it does not delve into broader discussions of frameworks, implementation strategies, or comparisons of frameworks. The discussion is somewhat limited to a specific role rather than the framework as a whole. Therefore, while it aligns with key concepts of Agile frameworks, it lacks the depth required for a strong classification as a 'Framework' category resource.",
+    "level": "Tertiary"
+  },
+  "Practice": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 65.0,
+    "ai_mentions": 13,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content primarily focuses on the Sprint Review, which is a discussion on a specific Agile practice. It mentions the techniques for leading the review effectively and the accountability of the Product Owner in this context. There is a clear alignment with the category of 'Practice' as it discusses actionable techniques to enhance team performance during the Sprint Review, such as setting goals and encouraging feedback. However, it does contain elements of broader Agile philosophy and discussions about roles that might detract from a narrower focus on practices, leading to a moderately high but not maximal confidence score.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses specific practices and roles within Scrum, such as who should lead the Sprint Review, rather than exploring the foundational philosophical aspects of Agile or Lean methodologies. It lacks discussion on the theoretical underpinnings that inform these practices and does not engage with the 'why' behind Agile principles, focusing instead on procedural details.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on the role of the Product Owner in leading the Sprint Review, discussing accountability and facilitation rather than the enduring capabilities that empower teams. While it touches on the importance of maximizing value, it lacks a deep exploration of developing or embedding capabilities within the organization. The themes discussed are more aligned with roles and processes than with the sustained competencies defined under the Capability category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 55.0,
+    "ai_mentions": 3,
+    "ai_alignment": 26,
+    "ai_depth": 24,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the role of the Product Owner in leading the Sprint Review, which is an actionable guiding principle within Agile. It emphasizes accountability, facilitation, and the importance of gathering feedback, all of which relate to core tenets of Agile methodology. However, while it touches on core concepts, it lacks a deeper exploration of prescriptive tenets and focuses more on role clarifications and abstract practices rather than clear, actionable rules.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 85.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content primarily focuses on the specific processes and structured approach involved in conducting a Sprint Review, particularly emphasizing the role of the Product Owner in leading this event. This aligns well with the 'Method' category as it thoroughly discusses a systematic procedure for conducting a Sprint Review, highlighting various steps required to maximize value and ensure effective collaboration. The content lacks some explicit terminology associated with methods but adheres closely to structured procedural actions applicable within Agile contexts, thus justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Observability": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on the Sprint Review process in Agile and the role of the Product Owner, with no explicit discussion of observability or its related principles. Although there might be some indirect references to gathering insights and feedback—which could relate to observability in a broad sense—these themes are not explored in relation to metrics, logs, or traces, which are core to the observability category. Overall, the content is more aligned with Agile practices than with observability.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content primarily revolves around the role of the Product Owner in the context of the Sprint Review, emphasizing the importance of leadership in maximizing value delivery. While there is a focus on processes and responsibilities, it lacks a direct engagement with the principles of Agile, Lean, or DevOps. The discussion does touch on aspects like accountability and feedback loops, which relate to principles like Value Delivery and Continuous Improvement, but it doesn't deeply explore actionable principles themselves. The depth of discussion is good in terms of practical advice but doesn't explicitly lay out principles or their implications.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "n6Suj-swl88",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Sprint Review process in Agile, focusing on the role of the Product Owner, which taps into Agile practices. However, it primarily centers on the mechanics of leading a Sprint Review rather than the broader principles, methodologies, or evolution of the Agile discipline itself. The reference to roles and processes provides some mention of discipline but lacks in-depth exploration of the underlying principles or systemic applications that define a discipline. Therefore, while it relates to Agile, it doesn't thoroughly embody the characteristics of the Discipline category.",
+    "level": "Tertiary"
   }
 }

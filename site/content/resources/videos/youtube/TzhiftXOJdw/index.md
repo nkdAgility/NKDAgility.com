@@ -2,8 +2,10 @@
 title: What more needs to happen before traditional organisations consider Agile?
 description: Discover why traditional organisations hesitate to adopt Agile in a complex world. Join Martin Hinshelwood for insights on evolving project management.
 date: 2023-07-06T07:08:30Z
+weight: 790
 ResourceId: TzhiftXOJdw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TzhiftXOJdw
@@ -15,33 +17,36 @@ preview: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg
 duration: 240
 isShort: false
 aliases:
-- /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile
-- /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile
-- /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
-- /resources/videos/TzhiftXOJdw
 - /resources/TzhiftXOJdw
-aliasesFor404:
+- /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
+- /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
+aliasesArchive:
+- /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
 - /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile
 - /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile
 - /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
+- what-more-needs-to-happen-before-traditional-organisations-consider-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Market Adaptability
-- Agile Strategy
-- Change Management
-- Agile Transformation
-- Organisational Agility
-- Organisational Change
-- Business Agility
 - Agile Philosophy
-- Enterprise Agility
+- Agile Strategy
+- Organisational Change
+- Agile Transformation
+- Organisational Culture
+- Organisational Agility
+- Pragmatic Thinking
+- Software Development
+- Market Adaptability
+- Change Management
+- Sociotechnical Systems
+- Business Agility
+- Beta Codex
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 
@@ -62,7 +67,7 @@ In the quest for organisational evolution, two distinct paths to adopting Agile 
 
 ## Making the Agile Leap: A Guide for Traditional Organisations 
 
-For traditional organisations looking to soar rather than stumble in today's market, 'Making the Agile Leap' is a vital expedition. It's about arming yourself with the knowledge and tools necessary to navigate the terrain of change. 🧭🛠️ This leap isn't a mere step – it's a vault over the chasm of obsolete practices into a realm of continuous improvement and adaptation. It demands an honest assessment of readiness, a brave embrace of risk, and a staunch commitment to move beyond the familiar comfort of established tools and methodologies. 🚀🎯 
+For traditional organisations looking to soar rather than stumble in today's market, 'Making the Agile Leap' is a vital expedition. It's about arming yourself with the knowledge and tools necessary to navigate the terrain of change. 🧭🛠️ This leap isn't a mere step – it's a vault over the chasm of obsolete practices into a realm of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and adaptation. It demands an honest assessment of readiness, a brave embrace of risk, and a staunch commitment to move beyond the familiar comfort of established tools and methodologies. 🚀🎯 
 
 -  **Assess Your Readiness:** Are you truly prepared to dismantle existing structures for the sake of agility? 🤔 
 
@@ -86,7 +91,7 @@ Here's a few points to always keep in mind: 
 
 ## The Outcome of Agile Adoption 
 
-The fruits of Agile adoption are plentiful, but they require nurturing through diligent practice and an unwavering commitment to change. 🌳🍎 The outcome of this adoption is not just an incremental improvement but a comprehensive reinvention of organisational capabilities. In this final section, we'll explore the vibrant tapestry of benefits that Agile organisations weave – from increased responsiveness to the allure of top talent to the solidification of a sustainable competitive advantage. This is the new paradigm, where agility equals vitality and market leadership. 🌱🏆 
+The fruits of Agile adoption are plentiful, but they require nurturing through diligent practice and an unwavering commitment to change. 🌳🍎 The outcome of this adoption is not just an incremental improvement but a comprehensive reinvention of organisational capabilities. In this final section, we'll explore the vibrant tapestry of benefits that Agile organisations weave – from increased responsiveness to the allure of top talent to the solidification of a sustainable competitive advantage. This is the new paradigm, where agility equals vitality and market [leadership]({{< ref "/categories/leadership" >}}). 🌱🏆 
 
 Organisations that adopt Agile wholeheartedly can expect: 
 

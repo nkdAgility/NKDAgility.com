@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses migration tools and technical aspects of data transfer between TFS and VSTS, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T20:56:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the VSTS Sync Migration tools, detailing their functionalities and practical applications for migrating data between TFS and VSTS, which aligns with the exploration and application of tools in Agile and DevOps practices.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-14T20:56:23",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T20:56:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T20:56:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no significant focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T20:56:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of VSTS Sync Migration Tools and data migration processes without a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T20:56:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on AI or automation within Agile frameworks.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses tools for data migration between TFS and VSTS, focusing on technical aspects and user experiences rather than evidence-based management principles. There are no explicit mentions of evidence-based practices or metrics related to current value, time to market, or empirical decision-making. The discussion lacks depth in relation to the core themes of Evidence-Based Management, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which relates to installation and configuration processes, but it primarily focuses on the migration aspects rather than detailed installation or configuration instructions.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T20:56:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration tools and technical details related to VSTS and TFS, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the VSTS Sync Migration Tools, which are relevant to the installation and configuration of tools for migrating data between TFS and VSTS. It provides some insights into the types of data that can be migrated and mentions the tools' capabilities, which aligns with the category's focus. However, the discussion lacks detailed step-by-step installation procedures or configuration best practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses migration tools and technical aspects of data transfer between systems, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T20:56:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration tools and technical implementations without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools related to migration between TFS and VSTS, which aligns with DevOps practices, but the primary focus is on the migration process rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses VSTS Sync Migration Tools, which are related to data migration in the context of DevOps processes. However, the primary focus is on the technical aspects of migration rather than the broader principles of DevOps. While it mentions enhancing DevOps processes, it lacks a deep exploration of DevOps philosophy, practices, or cultural shifts, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses migration tools and technical implementations related to VSTS and TFS, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T20:56:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration tools and processes, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T20:56:46",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes, with no clear focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T20:56:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of VSTS Sync Migration Tools and data migration processes, with minimal focus on human factors or team dynamics.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T20:56:52",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development and capabilities of VSTS Sync Migration Tools, which relates to engineering practices in data migration and tool development. However, the primary focus is on the tool's features and user experiences rather than broader engineering methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the development and functionality of VSTS Sync Migration Tools, which relates to technical practices in software development. However, it primarily focuses on the migration process and specific tool features rather than broader engineering methodologies or principles that enhance agility, such as TDD or CI/CD. While there are mentions of technical aspects, the depth of discussion on technical excellence principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -235,11 +175,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools for migrating work items and data between TFS and VSTS, which relates to the product delivery process, but it primarily focuses on the migration tools rather than the broader methodologies and practices of product delivery.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which relates to the deployment aspect of product delivery. However, it lacks a comprehensive focus on methodologies, practices, or the end-to-end process of delivering software products. While it touches on some relevant topics, such as work item tracking and test plans, it does not delve deeply into the broader themes of product delivery, such as Agile methodologies or CI/CD practices.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -253,38 +196,32 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T20:57:02",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific tool (VSTS Sync Migration Tools) and its functionalities, which aligns with the category's focus on tools that facilitate Agile practices. However, the primary focus is on the tool's features rather than a broader discussion or review of products or literature.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T20:57:05",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and technical implementation details without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T20:57:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the VSTS Sync Migration Tools, which are directly related to Azure DevOps (formerly VSTS). It covers migration processes and functionalities within the Azure DevOps ecosystem, making it a central topic.",
+    "reasoning": "The content discusses the VSTS Sync Migration Tools, which are directly related to Azure DevOps (formerly known as VSTS). It provides specific details about migrating work items, test plans, and team structures, which aligns well with Azure DevOps functionalities. The depth of discussion is significant, as it covers various aspects of the migration process and the tools involved. However, while it focuses on Azure DevOps, it does not delve into broader Agile or DevOps principles, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,22 +242,16 @@
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, without a focus on Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T20:57:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses VSTS Sync Migration Tools and their functionalities, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T20:57:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on Agile principles or product-centric development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on VSTS Sync Migration Tools and their functionalities, with no direct mention of the Agile Product Operating Model or its principles. While it touches on aspects of DevOps and migration processes, it does not align with the core themes of APOM, such as product management or continuous delivery. The discussion lacks depth regarding agile methodologies or product-oriented mindsets, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +263,16 @@
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools related to VSTS and TFS migration, which is relevant to DevOps practices, but it primarily focuses on personal experiences and technical details rather than broader industry news or reviews.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools for migrating work items and data between TFS and VSTS, which relates to the management of software applications, but it primarily focuses on migration tools rather than the broader application lifecycle management practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T20:57:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses VSTS Sync Migration Tools and data migration processes, with no clear focus on Scrum principles, roles, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses tools for migrating data between TFS and VSTS, which is related to the application lifecycle but does not explicitly cover the full scope of Application Lifecycle Management. While it touches on aspects of deployment and maintenance through the migration process, it lacks a comprehensive discussion on governance, best practices, or integration with Agile and DevOps principles. The focus is more on specific migration tools rather than the broader lifecycle management methodologies.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +286,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T20:57:30",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses VSTS Sync Migration Tools and related migration processes, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development and functionality of VSTS Sync Migration tools, touching on aspects of software craftsmanship and engineering practices, but primarily focuses on migration processes rather than broader technical mastery principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the development of VSTS Sync Migration tools, which involves technical aspects of data migration and software engineering practices. However, it primarily focuses on the specific tool and its functionalities rather than broader principles of software craftsmanship or best practices in software design and architecture. While there are mentions of technical challenges and solutions, the depth of discussion on methodologies or principles of clean code and software craftsmanship is limited.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -397,11 +316,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T20:57:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on VSTS Sync Migration Tools and their functionality for data migration between TFS and VSTS. While it touches on aspects of DevOps processes, it does not explicitly discuss Continuous Delivery principles, practices, or benefits. The mention of tools and automation is relevant but lacks depth in relation to Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T20:57:38",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses VSTS Sync Migration Tools and their functionalities, with no mention of Definition of Ready or related concepts.",
     "level": "Ignored"
   },
@@ -469,37 +391,40 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-14T20:57:43",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no focus on Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-14T20:57:44",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes without a focus on customer feedback integration.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which relates to operational practices in terms of improving workflow efficiency and data management. However, the primary focus is on the tools themselves rather than broader operational strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which relates to operational practices in terms of improving workflow efficiency. However, it lacks a direct focus on broader operational strategies or methodologies like Agile or DevOps. The mention of specific tools and their functionalities provides some depth, but the overall discussion is more about the tools themselves rather than operational practices as a primary focus.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T20:57:50",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes, with no clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -550,19 +475,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-14T20:58:00",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no clear focus on automated testing principles or practices.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T20:58:05",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no clear focus on team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -577,37 +502,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-14T20:58:08",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no focus on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T20:58:09",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses tools and methodologies related to migrating work items and data between TFS and VSTS, which are relevant to software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which is relevant to software development practices, particularly in the context of version control and project management. It mentions specific aspects of work item tracking, test plans, and team structures, aligning with the Software Development Life Cycle. However, the discussion lacks depth in methodologies or best practices, focusing more on tool functionality than on broader software development principles.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T20:58:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on Agile Project Management principles or methodologies.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T20:58:12",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,12 +541,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools related to migrating work items and data between TFS and VSTS, which is relevant to version control practices, but the primary focus is on migration rather than core version control methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses tools for migrating work items and data between TFS and VSTS, which relates to version control practices. However, while it mentions aspects of source control, such as the transition from TFVC to Git and the use of GitHub, the primary focus is on migration tools rather than broader best practices or methodologies in modern source control. The depth of discussion on version control concepts is moderate, but it lacks comprehensive coverage of the key topics outlined in the category definition.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -658,10 +580,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-14T20:58:21",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no clear focus on collaboration tools or enhancing team communication within Agile teams.",
     "level": "Ignored"
   },
@@ -685,29 +607,23 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the development and release of migration tools for VSTS, indicating a focus on delivering software updates, but it primarily centres on the migration process rather than the principles of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, with some mention of automated builds and releases. However, it lacks a primary focus on the principles of frequent releases, continuous delivery, or deployment strategies. The discussion is more about migration tools and processes rather than the broader context of frequent software updates and user feedback integration.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-14T20:58:26",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of migration tools and does not focus on customer satisfaction or related strategies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T20:58:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on Scaling Scrum principles or practices.",
+    "reasoning": "Content primarily discusses technical aspects of migration tools and does not focus on customer satisfaction or related strategies.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,23 +644,17 @@
     "reasoning": "Content primarily discusses VSTS Sync Migration Tools and related technical aspects, with no mention of psychological safety or its relevance to team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T20:58:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on scaling agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and practices related to data migration in software development, which aligns with engineering processes, but it primarily focuses on specific migration tools rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the development and functionality of migration tools for VSTS, which is more focused on specific technical implementations rather than broader engineering excellence principles. While there are mentions of coding practices and tool usage, the discussion lacks depth in areas such as software craftsmanship, quality assurance, or continuous improvement processes. The content does not explicitly promote high standards in software development practices, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,21 +685,24 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-14T20:58:39",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes, with no clear focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical tools and strategies for migrating data between TFS and VSTS, which aligns with pragmatic problem-solving in a real-world context, but it is primarily focused on the tools rather than broader Agile or Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses practical tools for migrating data between TFS and VSTS, which aligns with pragmatic problem-solving in Agile contexts. It mentions specific challenges faced during migration and the development of tools to address these issues, demonstrating real-world application. However, the focus is more on the tools and their functionalities rather than a broader discussion on Agile principles or methodologies, which limits the depth of alignment with the category.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +715,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T20:58:43",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes without a focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T20:58:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T20:58:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +742,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-14T20:58:50",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with only a brief mention of test plans and suits, which does not align with the core principles of test automation.",
     "level": "Ignored"
   },
@@ -865,19 +760,22 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools for migrating work items and data between TFS and VSTS, which relates to the delivery of functional software, but the primary focus is on the migration process rather than the characteristics or principles of working software.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses tools for migrating work items and data between TFS and VSTS, which relates to the operational aspect of software. However, it lacks a strong focus on the delivery of functional software that meets customer needs, and does not delve deeply into best practices or iterative development principles. The primary focus is on the migration tools rather than the characteristics of working software itself.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-14T20:58:53",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on Agile planning methodologies or tools.",
     "level": "Ignored"
   },
@@ -955,11 +853,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses tools related to migration and release processes, but the primary focus is on the migration of work items and data rather than on broader release management strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which relates to release management in terms of managing software releases and data integrity. However, it lacks a direct focus on release management strategies, scheduling, or coordination between teams, which are core themes of the category. The discussion is more about the technical aspects of migration rather than the broader release management practices.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -982,12 +883,15 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools related to VSTS (now Azure DevOps) and mentions automated build and release systems, which are relevant to Azure Pipelines, but the primary focus is on migration tools rather than Azure Pipelines specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses VSTS (now Azure DevOps) migration tools and the migration of work items, test plans, and team structures. While it mentions the automated build and release system, it does not delve into Azure Pipelines specifically or provide detailed insights into CI/CD practices, pipeline configurations, or YAML usage. The focus is more on migration rather than the automation of software development processes, which is the core of Azure Pipelines.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1009,10 +913,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T20:59:15",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes, with minimal focus on team collaboration or dynamics.",
     "level": "Ignored"
   },
@@ -1027,29 +931,23 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which relates to the strategic adoption of digital technologies in business processes. However, the primary focus is on the technical aspects of migration rather than broader themes of digital transformation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses tools for migrating data between TFS and VSTS, which relates to digital transformation in terms of adopting new technologies for operational efficiency. However, it lacks a broader strategic discussion on how these tools enhance business agility or foster innovation. The focus is primarily on technical details and specific use cases rather than on the overarching themes of digital transformation.",
+    "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T20:59:19",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on Minimum Viable Product concepts or related methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T20:59:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no focus on AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1090,20 +988,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-14T20:59:26",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no focus on cross-functional teams or Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T20:59:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:35:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses VSTS Sync Migration Tools and their functionalities related to data migration from TFS to VSTS. There are no explicit mentions of Test First Development principles, success criteria, or testing practices. The focus is on migration tools rather than testing methodologies, resulting in a very low confidence score for alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1135,19 +1036,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T20:59:32",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of VSTS Sync Migration Tools and does not focus on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-14T20:59:33",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1180,11 +1081,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T20:59:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on VSTS Sync Migration Tools and data migration processes, with no direct mention of the Scrum Master role or its responsibilities. While it touches on team dynamics in the context of migration, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence or practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1102,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-14T20:59:41",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses VSTS Sync Migration Tools and related technical aspects, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools related to VSTS and migration processes, which are relevant to software developers, but the primary focus is on the migration tools rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1331,15 +1226,6 @@
     "reasoning": "Content primarily discusses migration tools and processes, with no clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T21:00:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no clear focus on Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T21:00:02",
@@ -1351,10 +1237,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-14T21:00:03",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses migration tools and processes related to VSTS and TFS, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1369,11 +1255,454 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:08:39",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of VSTS Sync Migration Tools and data migration processes, with minimal discussion on collaboration, decision-making, or value delivery. While it mentions working with customers, it lacks depth in exploring social technologies or frameworks that enhance team dynamics or organisational culture.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:10:04",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses VSTS Sync Migration Tools and data migration processes, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, which does not align with the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:10:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses migration tools for VSTS and TFS, with no focus on AI applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses tools for migrating data between TFS and VSTS, with no explicit mention of Scrum principles, roles, or events. While it touches on team dynamics and project management, it does not align with the core themes of Scrum, such as iterative progress or continuous improvement. The depth of discussion is focused on technical aspects of migration rather than Scrum practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses migration tools for VSTS and TFS, focusing on data migration rather than integrating testing, security, or compliance early in the development process. There are no direct mentions of the Shift-Left Strategy, and the discussion lacks depth in relation to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of VSTS Sync Migration Tools and data migration processes, with minimal reference to Continuous Improvement principles. While there are mentions of enhancing DevOps processes and some reflections on tool capabilities, the discussion lacks a clear commitment to ongoing improvement, empirical evidence, or a culture of experimentation. The content does not provide substantial detail on Continuous Improvement strategies or frameworks, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of VSTS Sync Migration Tools and their functionalities, with minimal reference to shared objectives or alignment within teams. While it discusses the migration process and tools, it lacks a clear connection to the principles of Common Goals in Agile or DevOps, such as strategic alignment or team ownership. The mention of customer needs is too vague to establish a strong link to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical aspects of VSTS Sync Migration Tools and the process of data migration from TFS to VSTS. While it touches on the challenges faced during migration, it does not explicitly discuss competence, continuous learning, or skill development in Agile or DevOps contexts. The mention of tools and processes is relevant, but the overall emphasis is on technical implementation rather than on fostering a culture of competence or professional development.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on VSTS Sync Migration Tools and their functionalities for data migration between TFS and VSTS. While it touches on aspects of DevOps processes, it does not explicitly discuss the One Engineering System framework, its principles, or its integration across teams. The discussion lacks depth regarding the standardisation and integration of engineering practices, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on VSTS Sync Migration Tools and their functionalities, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of data migration and tool development, it lacks a clear connection to the intentional shaping of outcomes, autonomy, or adaptability in a socio-technical context. The content does not differentiate between human and AI capabilities, nor does it explore the transformative capacity of individuals or systems, which are central to the concept of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses VSTS Sync Migration Tools for data migration rather than Hybrid Agile methodologies. There are no direct mentions of Hybrid Agile concepts or any analysis of integrating traditional and agile practices. The focus is on specific tools and technical aspects of migration, which does not align with the themes outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on specific tools for data migration between TFS and VSTS and does not discuss any aspects related to Cell Structure Design. There are no mentions of autonomous cell structures, decentralization, or organizational design principles outlined in the classification. The content is primarily technical and operational without relevance to the core themes of the Cell Structure Design model.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses VSTS Sync Migration Tools, focusing on the technical aspects of migrating work items and data between systems. It does not explicitly mention principles related to Agile, Lean, or DevOps, nor does it link the content to any actionable principles guiding decision-making or team behaviors. While there are tangential mentions of team projects and some collaborative elements, these do not constitute a primary focus on principles as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses primarily on tools for data migration and DevOps processes rather than discussing core project management principles or methodologies. While migration and consolidation of projects can relate to project management in a very broad sense, the specifics of project management practices, strategies, or roles are not addressed. Therefore, there are minimal mentions related to the core themes of project management, and the depth of discussion is primarily tool-centric with little connection to the overall project management lifecycle.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content discusses VSTS Sync Migration Tools and focuses on data migration processes from TFS to VSTS, with no mention of Open Space Agile principles or practices. The themes of collaborative participation, psychological safety, and co-creation in Agile transformations are absent, indicating a poor alignment with the Open Space Agile category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 84.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 84.0,
+    "reasoning": "The content focuses on VSTS Sync Migration Tools, explicitly discussing their purpose, functionality, and the various types of data they facilitate migrating. It explores detailed aspects of the tools, including work items, test plans, teams, and area/iteration paths, which align well with the category of 'Tool.' The discussion also addresses practical applications of the tools within a DevOps context, demonstrating how they can enhance workflows and processes. Overall, it meets the criteria for direct mentions, conceptual alignment, and depth of discussion effectively.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content is focused on discussing VSTS Sync Migration Tools, a technical solution for data migration in DevOps, and does not discuss or mention Liberating Structures or any facilitation techniques related to team interactions. Therefore, it does not meet any criteria for relevance to the category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Values",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content describes a tool for data migration from TFS to VSTS and focuses primarily on technical aspects and functionalities. While it touches on the needs and motivations of customers, it does not discuss the underlying values that guide decision-making or behavior in a team or organizational context. There are no mentions of Agile values, Scrum values, or any ethical foundations that relate to the concept of 'Values'. The focus is exclusively on practical applications and tools rather than value discussions.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical details related to VSTS Sync Migration Tools, including specific functionalities and procedures involved in data migration between TFS and VSTS. There are no explicit mentions of philosophical concepts or discussions that align with the foundational beliefs influencing Agile, DevOps, Lean, or similar methodologies. The focus is heavily on 'how' to use these migration tools rather than exploring the 'why' or the broader philosophical implications of such practices.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on tools and techniques for data migration between TFS and VSTS, which does not align with the structured discussion of principles or methodologies of disciplines like Agile, DevOps, or Lean. It briefly mentions DevOps processes but lacks a deep focus on the systemic application and maturation of professional fields. There is minimal reference to underlying principles of discipline, hence a low confidence score.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 10.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on tools for migrating data between TFS and VSTS, which aligns more with software and tools than with the concept of artifacts as defined within Agile and DevOps contexts. While there are brief mentions of work items and associated data types, these are not explored in the context of artifacts as formal representations of work. The content does not discuss the structure, purpose, or role of artifacts, nor best practices for managing them, which are key components of the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses VSTS Sync Migration Tools and data migration strategies between TFS and VSTS. While it touches on aspects of DevOps processes, it lacks explicit mentions of observability principles, concepts, or practices such as metrics, logs, traces, or tools enhancing observability. The alignment with the observability category is weak as it focuses more on migration tools rather than the measurement or understanding of system states.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content discusses migration tools for transitioning data between systems, focusing primarily on the technical aspects of data migration and DevOps practices. While there is a brief mention of simplifying transitions and enhancing processes, there is no direct discussion of Time to Market, its metrics, or strategies for improvement, which are central to the category. Therefore, the overall confidence score reflects a very low relevance to the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical aspects of VSTS Sync Migration Tools and their functionalities rather than discussing methodologies, practices, or frameworks related to product development. It mentions user needs and tool capabilities, but lacks a thorough exploration of product development principles like Agile, iterative processes, customer feedback integration, or continuous improvement. The discussion is more rooted in technical implementation rather than the broader product development context, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 2,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on VSTS Sync Migration Tools for data migration, with minimal reference to specific practices that improve team performance or collaboration. The discussion about tools and migration processes does not align with actionable techniques or a culture of continuous improvement. The limited mentions of practices only appear in the context of the migration process, which is secondary to the main topic of the software tools used.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on the technical aspects of VSTS Sync Migration Tools and data migration processes. It does not discuss the organization as a dynamic product, nor does it explore customer insights, cross-functional collaboration, or strategic objectives related to CaaP. There are also no references to customer feedback or organizational design, making it irrelevant to the core themes of the Company as a Product strategy.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Method",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses a tool for data migration between systems (TFS and VSTS) rather than presenting a structured, step-by-step procedure or methodical approach associated with Agile or DevOps methodologies. While there are some mentions of goals and practices related to the tool, it lacks the depth and detail on methods pertinent to Agile, Lean, or other frameworks. The focus is on tools rather than methods, thus aligning poorly with the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses tools for data migration between TFS and VSTS, lacking a focus on Unrealised Value or related concepts like latent market demand or potential innovations. While it briefly mentions some limitations and opportunities for improvement in data migration processes, it does not engage deeply with the idea of capturing untapped value, indicators of unrealised opportunities, or strategic implications. Therefore, the direct mentions, conceptual alignment, and depth of discussion related to Unrealised Value are minimal.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses primarily on tools for migrating data from TFS to VSTS, with very little relevance to scaling methodologies or frameworks. There are no direct mentions of scaling practices, cross-team collaboration, or maintaining alignment with business goals, which are core to the 'Scaling' category. The content discusses technical aspects of migration without touching on the complexities or strategies involved in scaling Agile practices.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Model",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses tools for data migration within DevOps processes but does not focus on conceptual models or frameworks. The mention of DevOps is too broad and does not link back to specific models or frameworks relevant to the 'Model' category. While it touches on aspects of Agile and DevOps, it lacks the necessary depth and specificity regarding models that would justify a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 20.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses tools for data migration and technical implementation details, which do not focus on Current Value in the context of Evidence-Based Management. While there is a brief mention of customer requirements and the migration process which could imply some aspects of customer satisfaction or value, the discussion lacks a direct exploration of metrics, indicators, or the current assessment of value delivered. It doesn't delve into detailed analysis or real-time feedback relevant to Current Value, thus falling short of a strong alignment.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses primarily on a specific tool for migrating data between TFS and VSTS, offering little direct discussion about frameworks related to Agile, DevOps, or Lean. While it mentions DevOps processes in a vague manner, there is no clear examination of frameworks or their principles. The depth of discussion is mainly around the functionalities of the migration tools, which does not align with key topics of the Framework category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 2,
+    "ai_alignment": 5,
+    "ai_depth": 3,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content briefly touches on aspects of DevOps processes and the need for tools to facilitate that migration, suggesting some alignment with tenets of performance and efficiency in DevOps. However, it lacks a thorough discussion on actionable tenets, principles, or guiding doctrines that would typically define the category 'Tenet'. The content is mostly focused on a specific tool for migration and does not delve into broader organizational tenets or the strategic application of decision-making rules.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 64.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 64.0,
+    "reasoning": "The content discusses tools for migrating data between VSTS and TFS, and while it does mention GitHub, this is primarily in the context of pushing and forking repositories, which is a secondary focus. The main discussion encompasses VSTS and migration tools without in-depth exploration of GitHub's capabilities or features. Although there are some relevant mentions of GitHub for collaboration, the overall discussion is not centered on GitHub-specific functionalities.",
+    "level": "Secondary"
+  },
+  "Agnostic Agile": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses primarily on technical aspects of migration tools between TFS and VSTS, lacking any discussion of Agnostic Agile principles or practices. There are no mentions of agile methodologies or the contextual application of agility, which are key to the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "VSTS_Sync_Migration_Tools",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T15:03:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on a migration tool—VSTS Sync Migration Tools—which is a means of transferring data rather than discussing enduring competencies or capabilities. There are no explicit mentions of capabilities, and the discussion leans towards tools and processes, which are excluded from this category. The content does mention improving DevOps processes, but it lacks substantial depth on capabilities themselves, making it a secondary focus at best.",
     "level": "Ignored"
   }
 }

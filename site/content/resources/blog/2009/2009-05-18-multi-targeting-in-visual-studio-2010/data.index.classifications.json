@@ -1,20 +1,11 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T02:46:54",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and does not relate to Agile Product Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:46:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 without a focus on Agile or DevOps practices, methodologies, or tooling.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:46:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no mention of Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its ability to target different .NET versions, without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:47:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:47:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no mention of AI, automation, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical features of Visual Studio 2010, specifically its multi-targeting capabilities. There are no direct mentions of Evidence-Based Management principles or metrics, nor does it align with the core themes of EBM such as data-informed decision-making or outcome management. The discussion lacks depth regarding any evidence-based practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:47:06",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its ability to target different .NET versions, without focusing on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:47:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no focus on transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,22 +65,16 @@
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its technical capabilities without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:47:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:47:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities for targeting different .NET versions, with no focus on DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2010, specifically its multi-targeting capabilities. There is no explicit discussion of DevOps principles, practices, or cultural shifts. The mention of development tools does not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. Overall, the content does not engage with the DevOps philosophy, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +95,6 @@
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:47:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:47:17",
@@ -159,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no focus on flow efficiency or related concepts.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:47:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical features of Visual Studio 2010 and does not focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:47:22",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -235,10 +169,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T02:47:30",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no clear focus on product delivery methodologies or practices.",
     "level": "Ignored"
   },
@@ -258,15 +192,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no relevance to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:47:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 without focusing on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -305,22 +230,25 @@
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:47:39",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:47:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical features of Visual Studio 2010, specifically its multi-targeting capabilities, without any reference to agile methodologies, product management principles, or the Agile Product Operating Model. There are no mentions of product-oriented mindsets, continuous delivery, or any of the key topics outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +260,13 @@
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:47:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 without focusing on Agile, DevOps, or industry news and reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T02:47:48",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities for targeting different .NET versions, with no clear focus on Application Lifecycle Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:47:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and does not mention Scrum principles, roles, or practices.",
+    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities for targeting different .NET versions, with no clear focus on Application Lifecycle Management principles or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,38 +280,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses features of Visual Studio 2010 and its capabilities for targeting different .NET versions, which are unrelated to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 that relate to software development, specifically the ability to target multiple .NET versions, which is relevant to software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses features of Visual Studio 2010, particularly its multi-targeting capabilities, which is relevant to software development. However, it lacks a focus on broader principles of software craftsmanship, best practices, or methodologies that contribute to technical mastery. The discussion is primarily descriptive and does not delve into the implications of these features on software quality or engineering practices.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical features of Visual Studio 2010 and does not address methodologies or practices related to product discovery.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses features of Visual Studio 2010 related to multi-targeting .NET platforms, which is not relevant to Continuous Delivery principles and practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the multi-targeting capabilities of Visual Studio 2010, which is related to software development but does not address Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in relevant topics such as automation, incremental improvements, or user feedback.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +349,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and functionalities of Visual Studio 2010 related to multi-targeting .NET versions, with no focus on Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -451,10 +367,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on features of Visual Studio 2010 and does not discuss Product Backlog or its management in Agile projects.",
     "level": "Ignored"
   },
@@ -523,10 +439,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and capabilities of Visual Studio 2010 without any link to product validation methodologies or practices.",
     "level": "Ignored"
   },
@@ -586,28 +502,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features of Visual Studio 2010 relevant to software development but primarily focuses on comparisons and specific functionalities rather than in-depth software development practices or methodologies.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and multi-targeting capabilities, with no relevant connections to Agile Project Management or its principles.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses features of Visual Studio 2010, particularly its multi-targeting capabilities, which is relevant to software development practices. However, it lacks a detailed exploration of methodologies or best practices, focusing instead on specific software features. While it mentions the impact on development workflows, it does not delve into broader software engineering principles or practices.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on features of Visual Studio 2010 and its ability to target different .NET versions, without discussing Agile concepts or principles.",
     "level": "Ignored"
   },
@@ -701,15 +611,6 @@
     "reasoning": "Content heavily discusses features of Visual Studio 2010 without any reference to customer satisfaction or related principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Visual Studio 2010 features and programming, with no mention of Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:28",
@@ -726,15 +627,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on features of Visual Studio 2010 and does not discuss psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and multi-targeting capabilities, with no connection to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +694,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 without focusing on the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses features of Visual Studio 2010 and does not relate to Scrum principles or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on features of Visual Studio 2010 and does not relate to Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content primarily discusses features of Visual Studio 2010 without focusing on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -964,10 +838,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and does not relate to the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -1034,22 +908,13 @@
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities to target .NET frameworks, with no focus on digital transformation or strategic adoption of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:28",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no mention of Minimum Viable Products or related concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the features of Visual Studio 2010 and its capabilities for targeting different .NET versions, with no mention of AI or its applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1063,10 +928,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on features of Visual Studio 2010 and technical aspects of multi-targeting rather than product strategy principles.",
     "level": "Ignored"
   },
@@ -1090,20 +955,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on features of Visual Studio 2010 and development environments, without any discussion on cross-functional teams.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its ability to target different .NET versions, with no mention of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the multi-targeting capabilities of Visual Studio 2010 and does not mention Test First Development or its principles. There is no alignment with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among team members. The depth of discussion is focused on features of a software tool rather than any testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1180,11 +1048,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Visual Studio 2010 features and does not discuss Scrum Master responsibilities or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the technical features of Visual Studio 2010 and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, team dynamics, or the responsibilities of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1074,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and does not relate to working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its multi-targeting capabilities without a focus on Agile, DevOps, or the role of software developers in these contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1252,10 +1114,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical features of Visual Studio 2010, focusing on software development rather than product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1306,10 +1168,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T10:29:28",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses features of Visual Studio 2010 without reference to Lean principles or practices related to product development.",
     "level": "Ignored"
   },
@@ -1329,15 +1191,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2010 and does not relate to accountability or Agile team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on features of Visual Studio 2010 and .NET version targeting, with no mention of Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1360,11 +1213,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:03:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical features of Visual Studio 2010, specifically its multi-targeting capabilities. There are no discussions related to collaboration, decision-making, or value delivery, which are central to the category of Social Technologies. The content does not align with the core themes of self-organisation, collective intelligence, or transparency within organisations, and lacks depth in discussing any relevant social frameworks.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1230,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical features of Visual Studio 2010 and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:36:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities for targeting different .NET versions, with no mention of Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:36:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses features of Visual Studio 2010 and its capabilities, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses features of Visual Studio 2010 and does not mention Scrum principles, roles, events, or any related concepts. There is no alignment with the core themes of Scrum, and the depth of discussion is minimal, focusing instead on software development tools.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses features of Visual Studio 2010, focusing on multi-targeting capabilities and does not mention or align with the principles of the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance earlier in the development process, nor any mention of related tools or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2010, specifically its multi-targeting capabilities. While it briefly mentions the stability of features and the disappointment regarding project file compatibility, it does not discuss Continuous Improvement principles, nor does it provide insights into processes, team effectiveness, or empirical evidence. The discussion lacks depth and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical features of Visual Studio 2010, specifically its multi-targeting capabilities. There is no discussion of Common Goals, Agile, or DevOps principles. The content does not align with the core themes of the category, nor does it provide any depth on the subject matter related to shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the technical features of Visual Studio 2010 and its multi-targeting capabilities. While it touches on the development process, it does not explicitly address competence in terms of continuous learning, skill development, or professionalism. The focus is on software functionality rather than the principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical features of Visual Studio 2010, specifically its multi-targeting capabilities. There are no direct mentions of Agentic Agility, nor does it align with the core themes of intentionality, autonomy, or adaptability. The discussion lacks depth regarding the transformative capacity of individuals or systems in socio-technical environments.",
     "level": "Ignored"
   }
 }

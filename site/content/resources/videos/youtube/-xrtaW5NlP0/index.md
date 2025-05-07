@@ -2,8 +2,10 @@
 title: Why is Kanban such a popular approach for people in creative industries?
 description: Discover why Kanban thrives in creative industries, tackling complexity and enhancing visibility. Join Martin Hinshelwood for insights on this agile approach!
 date: 2023-08-25T07:00:00Z
+weight: 1000
 ResourceId: -xrtaW5NlP0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: -xrtaW5NlP0
@@ -14,40 +16,30 @@ preview: https://i.ytimg.com/vi/-xrtaW5NlP0/maxresdefault.jpg
 duration: 245
 isShort: false
 aliases:
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- /resources/videos/-xrtaW5NlP0
 - /resources/-xrtaW5NlP0
-aliasesFor404:
+- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+aliasesArchive:
+- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 - /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
 - /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+- why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Throughput
-- People and Process
+- Operational Practices
 - Cycle Time
 - Flow Efficiency
-- Agile Frameworks
-- Operational Practices
-- Pragmatic Thinking
-- Metrics and Learning
-- Lean
-- Organisational Physics
 resourceTypes:
 - video
 layout: video
 categories:
 - Kanban
-- Social Technologies
 
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  
 
-But when the whirlwind of creative brilliance threatens to scatter ideas like leaves in a storm, Kanban steps forward as the beacon of method in the madness. 🎨 
+But when the whirlwind of creative brilliance threatens to scatter ideas like leaves in a storm, [Kanban]({{< ref "/categories/kanban" >}}) steps forward as the beacon of method in the madness. 🎨 
 
 ## Embracing Kanban in the Creative Process 
 
@@ -123,7 +115,7 @@ Here’s a brief 'how-to' concerto: 
 
 - Hold frequent retrospectives to refine your rhythm and keep the tempo upbeat. 
 
-📈 **Charting Continuous Improvement** 
+📈 **Charting [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})** 
 
 - Employ data from your Kanban board to direct your orchestral adjustments. 
 
@@ -133,7 +125,7 @@ Here’s a brief 'how-to' concerto: 
 
 - A design team employs Kanban to visualise their artistic endeavour, enabling quicker turnovers and accelerated client nods. 
 
-- A production squad aligns on editing priorities, making video releases sleeker and boosting customer satisfaction. 
+- A production squad aligns on editing priorities, making video releases sleeker and boosting [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}). 
 
 ## Kanban: The Maestro of the Creative Symphony 
 

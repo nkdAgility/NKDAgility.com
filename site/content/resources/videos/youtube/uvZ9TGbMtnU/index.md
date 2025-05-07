@@ -2,34 +2,37 @@
 title: 'Ditching the Myth of Special Sprints: Embrace True Agile Practices for Usable Products'
 description: Ditch the myth of special Sprints! Discover how to enhance your Agile practices by focusing on delivering quality products without safety nets.
 date: 2024-01-04T12:14:45Z
+weight: 1000
 ResourceId: uvZ9TGbMtnU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uvZ9TGbMtnU
 url: /resources/videos/:slug
-slug: -shorts-5-kinds-of-agile-bandits-1st-kind
+slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
 layout: video
 aliases:
-- /resources/videos/uvZ9TGbMtnU
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
 - /resources/uvZ9TGbMtnU
-aliasesFor404:
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
+aliasesArchive:
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
 - /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
+- ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
 preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41
 isShort: true
 tags:
-- Agile Product Management
-- Working Software
-- Agile Project Management
-- Product Delivery
 - Agile Transformation
+- Working Software
 - Software Development
+- Agile Philosophy
 - Pragmatic Thinking
 - Agile Planning
+- Agile Values and Principles
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,7 +40,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 - Scrum
 
 ---
@@ -57,7 +60,7 @@ Let’s be clear: there are no special Sprints. The introduction of these so-cal
 
 Instead of relying on special Sprints, we should cultivate an Agile mindset that prioritises delivering a usable working product at the end of each Sprint. Here’s how we can achieve this:
 
-- **Embrace Continuous Improvement**: Each Sprint should be an opportunity to learn and improve. Focus on delivering value and refining processes rather than creating safety nets.
+- **Embrace [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Each Sprint should be an opportunity to learn and improve. Focus on delivering value and refining processes rather than creating safety nets.
 - **Encourage Accountability**: Foster a culture where team members take ownership of their work. This accountability will drive quality and reduce the need for special Sprints.
 - **Prioritise Quality from the Start**: Integrate quality assurance practices into your regular Sprints. This proactive approach will help identify and resolve issues early, reducing the need for bug fix Sprints.
 

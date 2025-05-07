@@ -8,58 +8,28 @@
     "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T00:08:10",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical challenges and techniques involved in configuring a build server and resolving build errors, which aligns with the exploration and application of tooling in a DevOps context.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to configuring a build server and automating the build process, which are relevant to platform engineering. However, it primarily focuses on specific issues with build configurations rather than a broader discussion on platform engineering principles or Internal Developer Platforms.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses challenges related to configuring a build server and automating builds, which are relevant to platform engineering. However, it primarily focuses on specific issues encountered during the build process rather than providing a comprehensive discussion on platform engineering principles or Internal Developer Platforms (IDPs). The mention of improving the platform and the need for a CI build indicates some alignment with the category, but the depth of discussion is limited to troubleshooting rather than broader platform engineering concepts.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T00:08:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, with no clear focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to build processes and component management in software development, which touches on aspects of code quality and complexity. However, it primarily focuses on specific build errors and team dynamics rather than a comprehensive exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T00:08:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to build configurations and error resolution, without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T00:08:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to build processes and configuration in a software development environment, without any mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical issues related to build processes in TFS and does not focus on Evidence-Based Management principles. While it touches on the need for improved processes and automation, it lacks explicit references to empirical decision-making, metrics, or the core themes of EBM. The discussion is more about troubleshooting and practical solutions rather than data-informed management strategies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T00:08:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration of a build server and the installation of necessary components for a successful build process, which aligns with the key topics of installation and configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the challenges and solutions related to configuring a build server for a project, which aligns well with the Install and Configuration category. It provides specific details about the installation of components, troubleshooting build errors, and the importance of maintaining consistent versions of dependencies. The discussion is focused on practical steps and insights that are relevant to setting up and configuring a CI build environment, thus meeting the criteria for this category. However, while it is detailed, some parts of the content veer into anecdotal experiences rather than strictly actionable instructions, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T00:08:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to build configurations and errors, with no clear focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -100,29 +64,26 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges faced during a software build process and the interaction between team dynamics and technology adoption, particularly in the context of transitioning from one system to another. However, the primary focus is on technical issues rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T00:08:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, with no clear focus on organisational resilience or change management.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses technical issues related to build processes and software components, with limited focus on the sociotechnical aspects. While it mentions working with a team and the challenges of transitioning to a new build system, it lacks a thorough exploration of how organisational culture, team dynamics, or communication tools influence these processes. The discussion is more centred on technical troubleshooting rather than the interplay between social and technical systems, resulting in a low confidence score for alignment with the Sociotechnical Systems category.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T00:08:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and processes involved in configuring a build server, which is a key aspect of Continuous Integration (CI) in DevOps. It highlights the importance of automation in builds and the need for collaboration among team members to resolve build issues, aligning well with DevOps principles.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses issues related to CI builds and the challenges of setting up a build server, which are relevant to DevOps practices. However, it primarily focuses on specific technical problems and solutions rather than broader DevOps principles or cultural shifts. While there are mentions of automation and collaboration, the depth of discussion on these topics is limited, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -143,15 +104,6 @@
     "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, with no clear focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T00:08:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T00:08:36",
@@ -160,15 +112,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build configurations and errors in a software development context, without a clear focus on optimising throughput or addressing flow efficiency principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges faced by a team during the transition to a new build system, highlighting team dynamics and the need for effective communication and process improvement, but it primarily focuses on technical issues.",
-    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T00:08:42",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build configurations and errors in a software development context, without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,11 +151,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T00:08:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses challenges and solutions related to configuring a build server, which aligns with Continuous Integration practices. It highlights the importance of automated builds and the technical issues encountered, making it a significant focus of the discussion.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a CI build server, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). However, the focus is primarily on specific issues encountered rather than a broader discussion of engineering practices or methodologies that enhance agility. While it touches on the importance of automated builds and the need for proper component management, it lacks depth in exploring how these practices contribute to technical excellence. The mention of CI builds is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,12 +181,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to configuring a build server and resolving build errors, which are relevant to the deployment phase of product delivery. However, it primarily focuses on specific technical issues rather than broader methodologies or practices in product delivery.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a build server, which is a crucial aspect of product delivery. It mentions the need for a CI build, the importance of resolving build errors, and the implications of version mismatches on the build process. While it does not explicitly cover methodologies like Agile or DevOps, it aligns with the core themes of ensuring quality and efficiency in product delivery. The depth of discussion on resolving specific build issues and the emphasis on the importance of a successful build process contribute to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -260,15 +209,6 @@
     "reasoning": "Content primarily discusses issues related to build processes and software configuration, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T00:08:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no focus on products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T00:08:53",
@@ -280,21 +220,27 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to configuring a build server and CI builds, which are relevant to Azure DevOps, but it primarily focuses on specific errors and challenges faced during the build process rather than providing a comprehensive overview or best practices related to Azure DevOps.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to configuring a build server and resolving build errors, which are relevant to Azure DevOps. However, it primarily focuses on specific technical problems and personal experiences rather than providing a comprehensive overview of Azure DevOps services or best practices. The mention of TFS (Team Foundation Server) indicates a connection to Azure DevOps, but the discussion lacks depth in terms of CI/CD methodologies or broader Azure DevOps functionalities.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on challenges faced while configuring a build server and transitioning a team to TFS with Git, but it primarily focuses on technical issues rather than personal insights.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses technical issues related to build processes and software components, with limited personal reflection or insights. While there are mentions of working with a team and frustrations faced during the build process, the focus remains on technical challenges rather than personal experiences or anecdotes that align with the 'Personal' category. The reflections on the build server's unforgiving nature and the moral of the story provide some personal insight, but they are overshadowed by the technical details.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -305,22 +251,25 @@
     "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, without a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T00:09:00",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build configurations and specific software components, without a clear focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T00:09:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to CI builds and TFS, with no direct mention of Agile methodologies, product management principles, or the Agile Product Operating Model. It focuses on troubleshooting and operational challenges rather than the core themes of APOM, such as continuous delivery or customer-centric value.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +281,17 @@
     "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T00:09:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, lacking a focus on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to configuring a build server and managing dependencies, which are relevant to the application lifecycle, but the primary focus is on troubleshooting specific build errors rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T00:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to build processes and software configuration, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to configuring a build server and resolving errors during the build process, which are relevant to the application lifecycle. However, it primarily focuses on specific technical challenges rather than a comprehensive discussion of application lifecycle management methodologies or practices. While it touches on aspects of deployment and maintenance, it lacks depth in governance, best practices, and broader ALM principles.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,21 +304,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T00:09:17",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes and component management, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges and solutions related to configuring a build server, which touches on aspects of software craftsmanship and engineering practices. However, it primarily focuses on specific issues encountered during the build process rather than broader principles or methodologies of software development.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses issues related to configuring a build server and resolving errors in a software project, which touches on aspects of software craftsmanship and engineering practices. However, it primarily focuses on specific problems encountered during the build process rather than broader principles or best practices in software design or architecture. While there are mentions of continuous integration and the importance of maintaining a clean build environment, the depth of discussion is limited to troubleshooting rather than exploring methodologies or principles that contribute to technical mastery.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +334,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to configuring a build server and the importance of automated builds, which are relevant to Continuous Delivery practices. However, it primarily focuses on specific build issues rather than the broader principles and methodologies of Continuous Delivery.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses issues related to CI (Continuous Integration) builds, which is a component of Continuous Delivery, but it does not explicitly focus on Continuous Delivery principles or practices. While it touches on automation and the challenges of setting up a build server, it lacks a comprehensive exploration of Continuous Delivery concepts such as rapid feedback, incremental improvements, or cultural aspects. The discussion is more about troubleshooting specific build errors rather than a broader examination of Continuous Delivery as a practice.",
     "level": "Tertiary"
   },
   "Strategic Goals": {
@@ -415,10 +355,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T00:09:23",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build configuration and errors, with no clear focus on Lead Time or its measurement.",
     "level": "Ignored"
   },
@@ -433,10 +373,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T00:09:26",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build configuration and errors in a software development context, without addressing the criteria or importance of a Definition of Ready for backlog items.",
     "level": "Ignored"
   },
@@ -487,19 +427,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T00:09:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the challenges and solutions related to configuring a build server, which aligns with operational practices in improving build processes and efficiency in a development environment.",
+    "reasoning": "The content discusses challenges faced during the configuration of a build server and the importance of having a continuous integration (CI) build, which aligns with operational practices. However, while it touches on the need for process improvement and mentions automation, it lacks detailed strategies or techniques for optimising operations. The focus is more on specific issues encountered rather than broader operational practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T00:09:36",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
@@ -550,19 +493,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T00:09:43",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build configuration and dependency management rather than automated testing principles or practices.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T00:09:44",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to build processes and software configuration, with minimal focus on team dynamics or performance strategies.",
     "level": "Ignored"
   },
@@ -586,28 +529,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T00:09:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to configuring a build server, resolving build errors, and the challenges of maintaining a consistent development environment, which are all central themes in software development practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T00:09:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to build configuration and software components, with no clear focus on Agile methodologies or project management principles.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed discussion on the challenges of configuring a build server in a software development context, specifically addressing issues related to CI/CD practices. It mentions specific tools and components, highlights the importance of version control, and discusses the implications of build errors, which are all core themes of software development. The depth of the discussion is significant, as it includes practical experiences and solutions related to build processes, making it highly relevant to the category.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T00:09:52",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,12 +559,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to configuring a build server and the challenges faced during the build process, which are relevant to modern source control practices. However, the primary focus is on specific build errors and component management rather than broader version control methodologies or strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to setting up a build server and the challenges faced during the transition from StarTeam to TFS with Git, which are relevant to modern source control practices. It mentions the importance of continuous integration (CI) builds and highlights the need for proper configuration and management of dependencies, which aligns with best practices in version control. However, while it touches on these topics, the discussion is more focused on specific build issues rather than broader methodologies or strategies in source control, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -658,10 +598,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T00:10:01",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes and software configuration, with no clear focus on collaboration tools or enhancing team communication within Agile teams.",
     "level": "Ignored"
   },
@@ -701,15 +641,6 @@
     "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, with no focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T00:10:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build configuration and error resolution in a software development context, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T00:10:10",
@@ -728,23 +659,17 @@
     "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, with no focus on psychological safety or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T00:10:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, with no clear focus on scaling agile practices or organisational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges and solutions related to configuring a build server, which touches on best practices in CI/CD and the importance of maintaining consistent environments for successful builds. However, it primarily focuses on specific technical issues rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a build server and highlights the importance of continuous integration (CI) in improving software development processes. However, while it touches on aspects of engineering excellence, such as the need for proper tooling and the management of dependencies, it lacks a comprehensive exploration of best practices or principles of software craftsmanship. The focus is more on troubleshooting specific issues rather than promoting high standards in software development or continuous improvement.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -784,12 +709,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T00:10:22",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to configuring a build server and resolving build errors in a complex project environment, which aligns with the themes of adaptability and real-world application in Agile and DevOps contexts.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses practical problem-solving strategies in the context of configuring a build server and resolving specific build errors, which aligns well with the themes of Pragmatic Thinking. It provides real-world examples of challenges faced during the transition from StarTeam to TFS, highlighting the importance of adaptability and experience in navigating complex environments. The depth of discussion is significant, as it details specific issues encountered and solutions implemented, demonstrating a clear application of pragmatic approaches in a DevOps context.",
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +730,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T00:10:25",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, without a clear focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T00:10:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build processes and software configuration, with no clear focus on Scrum principles or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T00:10:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,37 +775,43 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to configuring a build server and resolving errors during the build process, which are relevant to the delivery of functional software. However, the primary focus is on specific technical issues rather than a broader discussion on working software principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses challenges faced during the build process in a software development context, which relates to the delivery of functional software. However, it primarily focuses on specific technical issues rather than broader principles of working software. While it mentions the need for a CI build and touches on the importance of resolving errors for successful builds, it lacks a comprehensive exploration of best practices or metrics for assessing software quality, which limits its alignment with the core themes of the category.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T00:10:35",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build configuration and error resolution in a software development context, without any focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T00:10:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses challenges and solutions related to setting up a Continuous Integration build server, including issues with dependencies and configuration, which are central to CI practices.",
+    "reasoning": "The content discusses issues related to setting up a build server and the challenges faced during the build process, which are relevant to Continuous Integration. However, while it mentions the need for a CI build and touches on the importance of resolving build errors, it lacks a comprehensive exploration of CI principles, best practices, or tools. The focus is more on specific technical problems rather than a broader discussion of CI concepts, which limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-15T00:10:38",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, with no focus on market share strategies or methodologies.",
     "level": "Ignored"
   },
@@ -955,11 +871,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T00:10:49",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to configuring a build server and resolving build errors, which are relevant to release management practices. However, it primarily focuses on specific technical challenges rather than broader release management strategies.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses issues related to configuring a build server and resolving errors during the build process, which are relevant to release management. However, it primarily focuses on specific technical challenges rather than broader strategies or practices of release management. While it touches on CI practices and the importance of a successful build, it lacks a comprehensive exploration of release planning, scheduling, or coordination among stakeholders, which are key aspects of the category.",
     "level": "Secondary"
   },
   "Product Owner": {
@@ -973,30 +892,36 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T00:10:52",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes and errors in a software development environment, without a clear focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to configuring a build server and resolving build errors, which are relevant to Azure Pipelines. However, it primarily focuses on specific build errors and the transition from StarTeam to TFS, making Azure Pipelines a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses issues related to configuring a build server and resolving errors during the build process, which aligns with the principles of CI/CD and automated builds. However, it primarily focuses on Team Foundation Server (TFS) rather than Azure Pipelines specifically. While there are mentions of build processes and challenges, the discussion lacks depth in Azure Pipelines features and practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to configuring a build server and the importance of automated builds, which are relevant to deployment frequency, but the primary focus is on resolving specific build errors rather than optimising deployment intervals.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges related to setting up a build server and resolving build errors, which are tangentially related to deployment frequency. However, it does not explicitly focus on optimising deployment intervals or strategies for increasing deployment frequency. The mention of needing a CI build suggests some alignment with the category, but the overall discussion is more about troubleshooting and setup rather than the core themes of deployment frequency.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1009,12 +934,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses collaboration with a team of coders and the challenges faced during the transition to a new build system, indicating a secondary theme of teamwork and shared problem-solving.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses technical issues related to build processes and software configuration, with only brief mentions of teamwork in the context of coders working together. While there are elements of collaboration, such as the need for shared knowledge about components and the challenges faced by the team, the focus is more on individual technical challenges rather than on enhancing team dynamics or communication. The depth of discussion on team collaboration is limited, as it does not explore strategies for improving communication or fostering a culture of trust, which are key themes in the category.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -1034,7 +962,7 @@
     "reasoning": "Content primarily discusses technical issues related to build processes and software configuration, without a clear focus on digital transformation strategies or the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T00:11:04",
     "ai_confidence": 0,
@@ -1043,22 +971,16 @@
     "reasoning": "Content primarily discusses issues related to build configuration and error resolution in a software development context, without any focus on Minimum Viable Product concepts or methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T00:11:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to build processes and software configuration, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T00:11:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a build server, installation of necessary components, and troubleshooting related to system setup, which aligns well with the category of System Configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the challenges and processes involved in configuring a build server for a software project, which aligns closely with the category of System Configuration. It explicitly mentions the configuration of a build server, installation of necessary components, and troubleshooting issues related to system setup. The depth of discussion includes specific errors encountered during the build process and the need for proper version management, which are critical aspects of system configuration. Overall, the content is focused on practicalities of configuring systems, thus justifying a high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,30 +1021,39 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T00:11:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T17:42:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to build configuration and component management, with no focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses issues related to configuring a build server and resolving specific errors in a CI environment. While it touches on the importance of having a CI build, it does not explicitly mention Test First Development principles, success criteria, or testing practices. The focus is more on troubleshooting and operational challenges rather than on the Test First Development methodology itself.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to configuring a build server and resolving errors in a Windows environment, specifically mentioning components and tools used in Windows development. However, the primary focus is on build processes and tools rather than Windows OS specifics.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses issues related to building software in a Windows environment, specifically mentioning components and tools that are typically used in Windows development, such as Infragistics and Visual Studio. However, while it touches on aspects of configuration and troubleshooting, it does not explicitly focus on the Windows operating system itself or provide in-depth guidance on Windows-specific topics. The primary focus is on build processes and error resolution, which are relevant but not exclusively tied to Windows as an operating system.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to configuring a build server and the importance of automated builds, which are relevant to deployment strategies, but the primary focus is on troubleshooting specific build errors rather than broader deployment methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges related to configuring a build server and resolving build errors, which are tangentially related to deployment strategies. However, it lacks a direct focus on specific deployment methodologies such as Blue-Green Deployments or Canary Releases. The discussion primarily revolves around build issues rather than deployment practices, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1135,19 +1066,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T00:11:20",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T00:11:21",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1162,12 +1093,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T00:11:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific build error related to a licencies.licx file and the steps taken to diagnose and resolve the issue, making troubleshooting the central theme.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses a specific issue related to build errors in a software development context, focusing on the resolution of a type loading error caused by version mismatches in a licenses.licx file. It provides detailed insights into the troubleshooting process, including the identification of missing components and the challenges faced during the transition to a new build server. The depth of discussion is significant, as it outlines the steps taken to diagnose and resolve the issue, making it highly relevant to the troubleshooting category.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1114,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T00:11:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS build reports and does not mention the role or responsibilities of a Scrum Master. While it touches on team dynamics and the challenges of software development, it lacks a direct focus on Scrum principles or the Scrum Master's influence on team effectiveness and organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1135,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T00:11:29",
+    "calculated_at": "2025-04-10T15:54:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no focus on working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges related to configuring a build server and resolving build errors, which are relevant to software development practices. However, it primarily focuses on specific technical issues rather than broader Agile or DevOps methodologies.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,20 +1153,26 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to configuring a build server and the importance of automation in the build process, which aligns with CI/CD practices. However, it primarily focuses on specific issues encountered rather than broader engineering principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a build server, which relates to Continuous Integration (CI) practices. It mentions the importance of having a successful build process and highlights issues with dependencies and versioning, which are critical aspects of CI/CD. However, while it touches on automation and the need for a robust build process, it lacks a deeper exploration of clean code principles, TDD, or other Agile methodologies. The focus is more on troubleshooting specific build issues rather than a comprehensive discussion of engineering practices.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T09:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build failures and the challenges of maintaining a consistent development environment, which can be seen as a form of technical debt. However, the primary focus is on specific build errors and configuration rather than a broader discussion on managing technical debt.",
+    "reasoning": "The content discusses issues related to build failures and the challenges of maintaining a consistent development environment, which can be seen as a form of technical debt. However, it primarily focuses on specific build errors and the immediate steps taken to resolve them rather than a broader discussion on managing technical debt. While there are mentions of the need for improvement and the importance of a CI build, the depth of discussion on strategies for identifying or measuring technical debt is limited.",
     "level": "Tertiary"
   },
   "Sprint Review": {
@@ -1331,15 +1265,6 @@
     "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T00:11:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to build configuration and error resolution in a software development context, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T00:11:53",
@@ -1369,11 +1294,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:11:18",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to CI builds and error resolution in TFS, with minimal discussion on collaboration, decision-making, or value delivery. While it mentions working with a team, it does not delve into the principles of self-organisation or collective intelligence, which are central to the Social Technologies category. The discussion lacks depth and does not provide insights into enhancing organisational culture or practices that support emergent problem-solving.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 50,
+    "non_ai_confidence": 20,
+    "final_score": 50.0,
+    "reasoning": "The content discusses challenges related to configuring a build server and automating builds, which are relevant to Internal Developer Platforms, but the primary focus is on specific build errors and troubleshooting rather than a comprehensive discussion of IDPs.",
+    "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:12:43",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to build processes and software components, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses issues related to build processes and software configuration, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses issues related to build processes and software configuration, with no direct mention of Scrum principles, roles, or events. While it touches on team collaboration, it does not align with the core themes of Scrum or provide any depth on Scrum practices. The focus is on technical challenges rather than Scrum methodologies.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses issues related to build processes and the challenges faced during integration, which are tangentially related to the Shift-Left Strategy. However, it does not explicitly mention integrating testing, security, or compliance earlier in the development lifecycle. The focus is primarily on resolving build errors and managing dependencies rather than on proactive measures to enhance software quality or speed up feedback loops. Therefore, while there are some relevant points, the primary focus is not on the Shift-Left Strategy itself.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges faced during the configuration of a CI build and mentions the need for improvements in the development process. However, it primarily focuses on specific technical issues and troubleshooting rather than a broader discussion on Continuous Improvement principles. While there are hints of the need for ongoing enhancements and a culture of learning, the content lacks a structured approach to Continuous Improvement and does not delve into strategies or frameworks that support it.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses technical issues related to build processes and error resolution in TFS, with no explicit mention of Common Goals or their significance in Agile or DevOps. While it touches on team collaboration and the need for a CI build, it lacks a focus on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses technical challenges faced during a build process and the need for proper configuration and component management. While it touches on the importance of having a competent build environment and the skills required to resolve issues, it primarily focuses on specific technical problems rather than a broader discussion on competence as a foundational principle in Agile or DevOps. The mentions of competence are indirect and not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS build processes and error resolution, with no explicit mention of Agentic Agility or its principles. While there are elements of problem-solving and team collaboration, these do not align with the core themes of intentionality, autonomy, or adaptability as defined in the category. The focus is on troubleshooting rather than on shaping outcomes through agency.",
     "level": "Ignored"
   }
 }

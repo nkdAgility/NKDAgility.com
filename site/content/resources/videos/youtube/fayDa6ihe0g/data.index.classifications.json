@@ -1,20 +1,26 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:53:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum training and workshops, which are not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training, which is a specific methodology rather than the broader DevOps philosophy. There are no direct mentions of DevOps principles, and the discussion lacks depth regarding collaboration, automation, or shared accountability, which are core to DevOps.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T10:53:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not primarily discuss Scrum roles, events, or any related methodologies; it focuses on training overview and promotional content.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum, which is related to team dynamics and decision-making, but it primarily focuses on training and workshops without delving into the underlying social frameworks or methodologies that promote collaboration and value delivery. The discussion lacks depth and does not explore the core themes of social technologies in a meaningful way.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -37,10 +43,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T10:53:53",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on training and promotional material rather than strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -55,10 +61,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content does not focus on the responsibilities, skills, or practices of a Product Owner, but rather promotes a training overview without delving into relevant topics for the Product Owner role.",
     "level": "Ignored"
   },
@@ -73,10 +79,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content does not provide any in-depth discussion or exploration of Scrum principles, roles, or practices, and is instead focused on promoting a training overview.",
     "level": "Ignored"
   },
@@ -89,30 +95,12 @@
     "reasoning": "Content focuses primarily on a promotional overview of training and workshops rather than a detailed discussion of Agile frameworks.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily promotes a training program and does not discuss Scrum product development principles, practices, or any relevant topic within the Scrum framework.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions live-streamed workshops and provides a link to a training overview, indicating a connection to events, but the focus is primarily on the training description rather than the events themselves.",
-    "level": "Tertiary"
-  },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on training and workshops related to Scrum, not product validation methodologies or user testing.",
     "level": "Ignored"
   },
@@ -181,10 +169,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily promotes training and workshops for Scrum roles rather than discussing the Definition of Done.",
     "level": "Ignored"
   },
@@ -235,11 +223,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no mention of Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training and workshops, which are not directly related to Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in terms of relevant topics such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -368,15 +359,6 @@
     "reasoning": "Content is primarily about Scrum training and workshops, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and workshops, which are unrelated to the principles and components of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
     "calculated_at": "2025-02-18T11:22:20",
@@ -449,31 +431,13 @@
     "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to software craftsmanship or technical engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not focus on software development practices or the role of software developers in Agile or DevOps; instead, it advertises a training overview.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a training overview for Scrum Product Owners, without discussing Lean principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses a training overview for Scrum roles and events, with no focus on code quality or complexity.",
+    "reasoning": "Content primarily focuses on a training overview for Scrum Product Owners, without discussing Lean principles or practices.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,11 +469,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on training for Scrum Product Owners and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Scrum Product Owner training rather than the role of the Scrum Master. While it mentions Scrum, it does not discuss the responsibilities, skills, or impact of a Scrum Master, nor does it align with the key topics outlined for this category. The discussion is brief and lacks depth regarding the Scrum Master's role.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -557,15 +524,6 @@
     "reasoning": "Content heavily discusses training and workshops related to Scrum without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily promotes a training session and does not deeply discuss Scrum topics such as roles, events, or principles. It lacks substantial content related to the Scrum framework itself.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:20",
@@ -593,15 +551,6 @@
     "reasoning": "Content focuses on a training overview for Scrum, which is primarily about specific roles and events in Scrum rather than organisational change processes or methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Scrum Product Owner training overview and does not discuss scaled Agile frameworks or practices.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:22:20",
@@ -609,15 +558,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on a Scrum training overview and workshops, which do not align with Lean Thinking principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily promotes a training session and does not engage in discussions about team dynamics, leadership, or human factors in process methodologies. It focuses on the training format rather than People and Process themes.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -667,10 +607,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the training for Scrum Product Owner and does not address the Definition of Ready or its related concepts.",
     "level": "Ignored"
   },
@@ -683,7 +623,7 @@
     "reasoning": "Content is primarily about a training overview and does not discuss Lead Time or its relevance.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T11:22:20",
     "ai_confidence": 0,
@@ -699,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on training and workshops related to Scrum roles rather than on Agile leadership practices or principles.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a training overview and does not discuss AI, automation, or their application within Agile methodologies.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +686,6 @@
     "reasoning": "Content focuses on a training overview and promotional material, lacking substantive discussion on market adaptability strategies or methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily focuses on Scrum training and workshops, with no clear discussion on AI's integration or impact on Agile methodologies.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T11:22:20",
@@ -775,10 +697,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about Professional Scrum Product Owner training and does not discuss the Daily Scrum or its key aspects.",
     "level": "Ignored"
   },
@@ -802,20 +724,11 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a training overview and promotional material, lacking any specific discussions about the Product Backlog itself or its relevance in Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily promotional and does not discuss Agile Project Management principles or methodologies in depth.",
+    "reasoning": "Content focuses on a training overview and promotional material, lacking any specific discussions about the Product Backlog itself or its relevance in Agile frameworks.",
     "level": "Ignored"
   },
   "Psychological Safety": {
@@ -836,24 +749,6 @@
     "reasoning": "Content heavily discusses training and workshops related to Scrum, but does not address troubleshooting or problem resolution in technical contexts.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training sessions and workshops without a clear focus on specific products or books related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a training overview and promotion of workshops, lacking substantial discussion on news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T11:22:20",
@@ -872,15 +767,6 @@
     "reasoning": "Content primarily focuses on a training overview and promotional links without personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a training program for Scrum Product Owners and does not focus on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T11:22:20",
@@ -892,19 +778,19 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes a training overview and does not discuss Scrum values or their significance.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a training overview and does not focus on Agile Product Management topics.",
     "level": "Ignored"
   },
@@ -919,11 +805,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a training overview and does not discuss Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Scrum training and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,10 +826,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a training overview and promotional material, lacking specific discussion on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -1000,20 +889,11 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mostly promotes a training program rather than discussing product delivery methodologies, practices, or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a training overview and promotional material, lacking any discussion on scaling agility practices or frameworks.",
+    "reasoning": "Content mostly promotes a training program rather than discussing product delivery methodologies, practices, or principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1043,24 +923,6 @@
     "reasoning": "Content primarily promotes Scrum training rather than discussing aspects of portfolio management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses training format and promotional material for Scrum, without a focus on resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on training offerings and promotional material without addressing transparency or accountability themes related to Agile practices.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
     "calculated_at": "2025-02-18T11:22:20",
@@ -1077,15 +939,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily focuses on a training overview and promotional material for Scrum workshops, without any discussion about software release frequency or related principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on an overview of training for Scrum rather than practical techniques and tooling, lacking specific discussions on the implementation or application of Agile or DevOps tools and methodologies.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1108,10 +961,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which do not align with the primary focus on Product Discovery methodologies and practices.",
     "level": "Ignored"
   },
@@ -1135,20 +988,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on training for Scrum Product Owner rather than a comprehensive discussion on the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mostly presents information about a training overview and free workshops without focusing on discovery, learning methods, or innovation processes.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Scrum training and workshops, which are related to agile practices but do not specifically address the Agile Product Operating Model. There are no direct mentions of product management principles or the transition from project to product ethos, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1176,15 +1023,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and workshops, which are not related to automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Professional Scrum training and does not address Scaling Kanban principles, practices, or implementation.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1252,10 +1090,10 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T11:22:20",
+    "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily promotes a training program and does not discuss product strategy concepts such as vision, roadmapping, or market analysis.",
     "level": "Ignored"
   },
@@ -1342,11 +1180,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:22:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses training and promotional material for Scrum without mentioning Evidence-Based Management principles or data-driven approaches.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training programme and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of empirical decision-making or the key topics outlined in the EBM category. The content lacks depth and does not align with the core themes of EBM, making it unsuitable for this classification.",
     "level": "Ignored"
   },
   "Install and Configuration": {
@@ -1374,6 +1215,446 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on promoting a training program and does not address operational practices related to Agile, DevOps, or Lean frameworks.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:05:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:05:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum training and workshops, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 50,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions Scrum in the context of a training overview but lacks detailed discussion on Scrum principles, roles, or practices. It does not provide substantial information or depth related to the Scrum framework, making it a secondary mention rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a training overview for Scrum roles and does not mention or align with the Shift-Left Strategy. There is no discussion of integrating testing, security, or compliance early in the development process, nor any related techniques or case studies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training programme and does not explicitly discuss Continuous Improvement principles. While Scrum can relate to Continuous Improvement, the content lacks direct mentions, conceptual alignment, and depth regarding the category's core themes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training programme and does not explicitly discuss Common Goals or their significance within Agile or DevOps frameworks. While it mentions Scrum, it lacks a detailed exploration of how shared objectives align with team efforts or organisational performance, which are key aspects of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions Scrum training, which relates to competence in a general sense, but it lacks explicit discussions on continuous learning, skill development, or the importance of competence in delivering quality outcomes. The focus is more on promoting a training session rather than exploring the principles of competence in depth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Scrum training, which is not directly related to the One Engineering System framework. While it mentions training and workshops, it does not discuss the principles, integration, or best practices of 1ES, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training and workshops, with no explicit discussion of Agentic Agility or its principles. While it may touch on aspects of agility, it does not address the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on promoting a Scrum training program and does not discuss Hybrid Agile concepts, issues, or analysis. There are no direct mentions or critical examination of the integration between traditional and agile methodologies, which are essential for this category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Scrum training and does not explicitly discuss Cell Structure Design or its principles. While there may be tangential relevance in the context of modern organizational practices, the core themes of autonomous cells, decentralization, and the specifics of the Beta Codex are not addressed. The depth of the discussion is minimal, offering only a brief overview of training without engaging with the required concepts or comparisons pertinent to Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily serves as a promotional overview of a training program, without explicitly discussing any principles related to Agile, Lean, or DevOps. While Scrum is mentioned, the focus is on the training format rather than actionable principles that guide decision-making. Therefore, it only marginally aligns with the category of Principles.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content focuses specifically on Scrum training and the role of the Product Owner. While it is related to project management, it does not provide a broad discussion of project management principles or methodologies beyond the context of Scrum. The details are limited, lacking core project management themes or discussions on execution, planning, or risk management. Thus, while there is some relevance, it fails to encompass the full scope of project management as required.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum training and product owner roles, with no mention or discussion of Open Space Agile principles, practices, or related concepts. It lacks direct engagement with the key themes of collective participation, psychological safety, or co-creation, which are central to Open Space Agile discussions. The depth of discussion is minimal, and the overall context does not align with the requirements for the category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions a training for Scrum Product Owners but does not focus on specific tools or their application within Agile frameworks. It lacks direct discussion of tools and does not provide in-depth analysis or practical examples related to tool implementation. Thus, it scores low on both mentions and alignment with the category 'Tool'.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting Scrum Product Owner training and does not mention or discuss any specific Liberating Structures or how they may be integrated into Scrum practices. While it may relate to Agile methodologies, it lacks depth and specific alignment with the principles, methods, or use-cases related to Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on promoting a training program and lacks any discussion of values related to Agile, Scrum, or any ethical frameworks. There are no explicit mentions of core values, and the content does not delve into the foundational elements that influence team dynamics or organizational behavior.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum training program and does not engage with philosophical discussions or the underlying principles and beliefs behind Agile methodologies. There are no mentions of the theoretical foundations, core philosophies, or conceptual exploration required to fit within the 'Philosophy' category. Instead, it is a promotional piece with surface-level content related to practices.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses on a Scrum training event, which is related to the Agile discipline. However, it does not delve into the principles or systemic application of Agile within organizational contexts. The mention of 'Scrum Product Owner training' reflects a brief reference to a discipline, but the discussion lacks depth in examining the underlying knowledge, methodology, or continuous improvement typically associated with the category of Discipline.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content mentions Scrum and training but lacks any specific focus on artifacts or their roles within Scrum. There are no direct discussions or conceptual explorations of artifacts themselves, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on Scrum Product Owner training, with no explicit mention of observability concepts, metrics, or practices. There is minimal alignment to observability as the topic discussed is primarily about Scrum roles rather than software system insights or performance measurement. The depth of discussion is also low, offering no detailed exploration into observability-related practices or principles.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training program without discussing Time to Market or its metrics, strategies, or improvements. The mention of 'training' does not directly relate to the concepts of delivering value quickly or measuring time-to-market efficiency, which are the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:14",
+    "ai_confidence": 30.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "While the content mentions Scrum, which is related to Agile product development, it does not delve into the core principles or detailed discussions on product development methodologies. The focus is primarily on the promotional aspect of the training, lacking substantial content related to iterative processes, customer feedback loops, or continuous improvement practices in product development.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions Scrum Product Owner training, which is related to practices within Scrum. However, it does not delve into specific practices such as Pair Programming, Retrospectives, or any actionable techniques. The mention of free workshops hints at practical skills but lacks depth in discussing how to implement these Scrum practices or their impact on team effectiveness, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training program and does not discuss the concept of 'Company as a Product' explicitly or in depth. There is an absence of direct mentions of CaaP principles or related themes, and the discussion is centered around training logistics rather than organizational strategy or customer-centric approaches. Thus, it falls well short of the criteria required for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content is primarily promotional and does not delve into specific structured procedures or steps related to the Scrum method or any other method. While it mentions 'Scrum Product Owner training', it lacks detailed discussions on methods, practices, or structured procedural approaches related to Scrum or other methodologies. The mention of workshops suggests some alignment but does not provide substantive content on the method itself.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training session with no explicit reference to the concept of Unrealised Value or any related discussions about potential improvements or innovations. It lacks depth and comprehensive exploration of indicators, strategies, or case studies related to Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on Scrum training and workshops without any explicit mention of scaling methodologies, frameworks, or discussions about coordination across teams. There is no exploration of concepts related to scaling Agile practices or frameworks, making it largely irrelevant to the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training session. It mentions the training format and encourages viewers to check out workshops, but it does not discuss any models, frameworks, or conceptual representations that are central to the 'Model' category. The focus is on practical training rather than theoretical discussion about models, resulting in very low alignment with the category's themes.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training program without directly addressing Current Value, its metrics, or practical applications. There are no discussions of real-time assessments or value indicators associated with the training. Thus, it lacks significant direct mentions and depth on the topic of Current Value.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 27.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 27.0,
+    "reasoning": "The content briefly mentions Scrum through its title and description about a Scrum Product Owner training, but does not provide substantial information on the framework itself. It lacks detailed discussions on concepts, principles, or comparisons associated with the Scrum framework or any adaptation strategies. The focus is primarily on promoting a training program rather than engaging deeply with Framework discussions.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on promoting a training program for Scrum Product Owners but does not explicitly discuss any tenets related to Agile, Lean, or DevOps. There is an absence of actionable guiding rules or doctrines, and while it may relate to the Scrum framework, it does not delve into the core tenets or their practical applications. Therefore, it receives a very low confidence score owing to the lack of mention of category-specific content.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on Scrum training and does not mention GitHub at all. It discusses Product Owner training and workshops, which are unrelated to GitHub functionalities, services, or practices. The discussion is centered around Scrum concepts, making it irrelevant to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a Scrum Product Owner training course and a timelapse of the training sessions, which indicates a strong emphasis on the mechanics of Scrum rather than the principles or philosophy of Agnostic Agile. There are no explicit mentions of Agnostic Agile principles, nor does the content discuss the contextual application of agile methodologies, critical thinking, or value delivery over frameworks. Thus, it does not align well with the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "fayDa6ihe0g",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:15",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on promoting a Scrum Product Owner training, lacking any direct references to the concept of capability, or how enduring competencies are developed or related to Agile practices. It briefly mentions training, which aligns with the concept of developing knowledge, but does not discuss capabilities in any meaningful depth or context.",
     "level": "Ignored"
   }
 }

@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T20:06:01",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which is not directly related to the management of software applications throughout their lifecycle.",
     "level": "Ignored"
   },
@@ -19,28 +19,28 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-16T20:06:05",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment without addressing broader implications of agility or organisational adaptability.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-16T20:06:06",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T20:06:07",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which is not related to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T20:06:10",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which does not align with Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T20:06:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T20:06:14",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T20:06:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions without a clear focus on Agile or DevOps tools, methodologies, or frameworks.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T20:06:18",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which does not align with the core principles of metrics and learning.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T20:06:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses server naming strategies in enterprise environments, which does not align with the principles of Evidence-Based Management. There are no direct mentions of data-informed decision-making or metrics related to current value, time to market, or innovation capacity. The discussion lacks depth in relation to EBM concepts, focusing instead on practical naming conventions without empirical evidence or strategic management insights.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T20:06:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T20:06:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, lacking relevance to Agile, DevOps, or technology news and reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on server naming strategies in enterprise environments, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -206,51 +185,6 @@
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment without a clear focus on platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T20:06:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses server naming conventions in an enterprise environment and does not relate to Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T20:06:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, with no relevance to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T20:06:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which does not directly address code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T20:06:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T20:06:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, lacking focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-16T20:06:38",
@@ -262,10 +196,10 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-16T20:06:39",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment without addressing Systems Thinking principles or their applications.",
     "level": "Ignored"
   },
@@ -289,12 +223,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on server naming conventions in an enterprise environment, but the primary focus is on technical aspects rather than personal insights.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses server naming conventions in an enterprise environment, which is a technical topic rather than a personal reflection or experience related to Agile, Scrum, or DevOps. While the author shares personal experiences from their time at Merrill Lynch, the focus remains on technical details and naming strategies rather than personal insights or challenges faced in Agile practices.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -316,12 +253,15 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses server naming conventions in an enterprise environment, which is tangentially related to operational practices but does not primarily focus on DevOps principles, practices, or tools.",
-    "level": "Quaternary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on server naming strategies in enterprise environments, which is a specific operational concern rather than a discussion on DevOps principles. While it touches on aspects of management and organisation that could relate to DevOps, such as the need for consistency and clarity in server identification, it lacks direct references to core DevOps themes like collaboration, automation, or shared accountability. The depth of discussion is limited to naming conventions without exploring broader DevOps practices or cultural shifts.",
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -330,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions rather than engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T20:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions and technical challenges in an enterprise environment, without a focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T20:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T20:06:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, with no focus on products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,19 +292,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the naming conventions for servers in an enterprise environment, which directly relates to system configuration practices and is essential for managing and identifying servers effectively.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which is a crucial aspect of system configuration. It directly addresses the need for consistent and informative server names to enhance identification and management within large systems. While it does not delve deeply into technical configuration practices or tools, it aligns well with the principles of optimising system performance and reliability through effective naming strategies. The depth of discussion is moderate, providing examples and reasoning but lacking in broader configuration management techniques or security considerations.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions and their practical implications in enterprise environments, not relating to innovation or the measurement or enhancement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -420,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on server naming conventions in an enterprise environment and does not discuss portfolio management or related concepts.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses server naming conventions and issues in an enterprise environment, with no clear relevance to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on naming conventions for servers in an enterprise environment, with no references to Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on server naming conventions in enterprise environments and does not discuss Definition of Done or related Agile/Scrum concepts.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on server naming conventions in an enterprise environment without any relation to Agile methodologies or scaled Agile practices.",
+    "reasoning": "Content focuses on server naming conventions in enterprise environments and does not discuss Definition of Done or related Agile/Scrum concepts.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,10 +448,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses server naming conventions in enterprise environments and does not relate to Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -575,32 +473,29 @@
     "reasoning": "Content discusses server naming conventions in an enterprise environment, which is unrelated to collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses server naming conventions in an enterprise environment without relation to software development methodologies or practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses server naming conventions in the context of managing servers for software applications, with some relevance to the development environment, but it is more about server management than software development methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which touches on aspects of software deployment and management. However, it lacks a direct focus on software development methodologies or practices. While it provides some insight into the challenges of managing server names in a large-scale environment, it does not delve into coding practices, SDLC methodologies, or other core themes of software development. The discussion is more about operational management rather than software engineering processes.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses server naming conventions, which are relevant to system organization, but lacks a focus on SRE principles, practices, or the integration of development and operations.",
-    "level": "Quaternary"
+    "final_score": 25.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which is tangentially related to SRE principles, particularly in terms of system organisation and identification. However, it lacks direct mentions of SRE concepts such as reliability, scalability, or performance optimisation. The discussion is more focused on naming strategies rather than the broader implications of reliability engineering, thus resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -620,7 +515,7 @@
     "reasoning": "Content heavily discusses server naming conventions in an enterprise environment and does not relate to estimation in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:08:33",
     "ai_confidence": 0,
@@ -694,19 +589,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which does not relate to Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses server naming strategies in enterprise environments, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes such as automation, incremental improvements, or rapid feedback. The depth of discussion is focused on naming conventions rather than any aspect of software delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is entirely focused on server naming conventions, with no relevant discussions about Lead Time.",
     "level": "Ignored"
   },
@@ -739,20 +637,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment without any relation to hypothesis formulation, experimentation, or validated learning.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses server naming conventions in an enterprise environment without any reference to AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -793,10 +682,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which is unrelated to Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -928,19 +817,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on server naming conventions in an enterprise environment and does not discuss the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses server naming conventions and organizational strategies, which are unrelated to Acceptance Test Driven Development principles.",
     "level": "Ignored"
   },
@@ -955,29 +844,23 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses server naming conventions in an enterprise environment, which relates to best practices in technical environments but primarily focuses on naming strategy rather than broader software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, which touches on best practices for software architecture and maintainability. However, it lacks a deeper exploration of broader software craftsmanship principles, such as clean code or testing methodologies. While it provides a practical example of naming conventions, it does not delve into the underlying technical principles that would elevate it to a higher level of technical mastery.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses server naming conventions in an enterprise environment, which is unrelated to remote working or Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on server naming conventions in enterprise environments and does not relate to Scaling Kanban principles or practices.",
+    "reasoning": "Content discusses server naming conventions in an enterprise environment, which is unrelated to remote working or Agile practices.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -987,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in enterprise environments without any relation to customer retention strategies or customer engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses server naming conventions in an enterprise environment and does not relate to Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1018,10 +892,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses server naming conventions and organizational strategies rather than Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1090,12 +964,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses server naming conventions with a specific example involving Microsoft operating systems, indicating that it is related to the Windows environment but is primarily focused on naming strategies rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses server naming conventions in an enterprise environment, with a brief mention of a Microsoft operating system. However, it primarily focuses on naming strategies rather than installation, configuration, or troubleshooting of Windows itself. The alignment with Windows is weak, as the content does not delve into specific Windows features or management practices.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1171,28 +1048,28 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on server naming conventions and management in an enterprise environment, which does not relate to Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses server naming conventions in an enterprise environment, with no connection to teamwork or collaboration principles.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions in an enterprise environment and does not focus on working software or software delivery.",
     "level": "Ignored"
   },
@@ -1225,12 +1102,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses practical naming conventions for servers in an enterprise environment, emphasizing the need for consistency and meaningful information to effectively manage a large number of servers. This aligns with pragmatic thinking in problem-solving within complex IT environments.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses practical naming conventions for servers in an enterprise environment, highlighting the challenges of managing numerous servers and the need for a systematic approach. It aligns well with pragmatic thinking by providing real-world examples and solutions that enhance clarity and efficiency in server management. The depth of discussion includes personal experiences and specific naming conventions, demonstrating a strong application of practical problem-solving strategies in a complex environment.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -1261,20 +1141,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T21:08:33",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on server naming conventions and organizational strategies in an enterprise environment, with no discussion on asynchronous development practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:08:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses server naming conventions and does not relate to Scrum, scaling practices, or Agile methodologies.",
+    "reasoning": "Content focuses on server naming conventions and organizational strategies in an enterprise environment, with no discussion on asynchronous development practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,58 +1184,58 @@
     "reasoning": "The content discusses server naming conventions in an enterprise environment, which is unrelated to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:08:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on server naming conventions in an enterprise environment, which is unrelated to scaling agile practices or methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on server naming conventions and management in enterprise environments with no relation to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on server naming strategies in enterprise environments, with no mention of Scrum, Scrum Masters, or related agile practices. It does not align with the core themes of the Scrum Master role, responsibilities, or impact on team dynamics and organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T21:08:34",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on server naming conventions in an enterprise environment, which is unrelated to automated testing principles or practices.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T21:08:34",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on server naming conventions in an enterprise environment, which is unrelated to Agile methodologies or large-scale Agile practices.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses server naming conventions in an enterprise environment without any focus on Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on server naming strategies in enterprise environments, which is unrelated to Test First Development principles. There are no mentions of testing practices, success criteria, or any related concepts that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:25:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which is unrelated to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on server naming strategies in enterprise environments, which is a technical topic rather than a discussion on social technologies. While it touches on the need for consistency and identification, it does not address collaboration, decision-making, or value delivery within organisations, which are core themes of the Social Technologies category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses server naming conventions and technical challenges in an enterprise environment, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:46:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, which is not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:46:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses server naming conventions in an enterprise environment, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses server naming conventions in an enterprise environment, which is unrelated to Scrum principles, roles, events, or practices. There are no direct mentions of Scrum or its core themes, and the depth of discussion does not touch on any relevant aspects of Scrum methodology.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses server naming conventions in an enterprise environment, which is unrelated to the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance processes, nor does it address integrating these aspects earlier in the software development lifecycle. The focus is on server management rather than software quality or development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on server naming strategies in enterprise environments, which does not align with the principles of Common Goals in Agile and DevOps. While it discusses the importance of consistency in naming for better identification, it lacks any direct mention of shared objectives, alignment, or strategic goals that guide decision-making within teams. The discussion is more about technical practices rather than the foundational principles of collaboration and accountability that are central to Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses server naming strategies in enterprise environments, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While it touches on the need for consistency and meaningful naming conventions, it lacks a focus on continuous learning, skill development, or the professional standards that underpin competence. The discussion is more operational than strategic, failing to explore how these naming conventions impact team trust, quality outcomes, or decision-making processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on server naming strategies in enterprise environments, which does not directly relate to Continuous Improvement principles. While it touches on the need for consistency and clarity in naming conventions, it lacks a discussion on processes, empirical evidence, or strategies for fostering a culture of experimentation and learning. The content does not provide insights into how these naming strategies contribute to team effectiveness or organisational processes, which are key aspects of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses server naming strategies in enterprise environments, which does not align with the principles of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability. The focus is on practical naming conventions rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

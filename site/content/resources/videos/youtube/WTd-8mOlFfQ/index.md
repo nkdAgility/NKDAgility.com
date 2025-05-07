@@ -2,48 +2,47 @@
 title: 'Part 2: Common Mistakes that Scrum Masters Make'
 description: "Discover common pitfalls for newbie Scrum Masters in part 2 of Martin Hinshelwood's 60-second insights. Elevate your agile journey with Naked Agility! #scrum #agile"
 date: 2023-07-07T14:00:33Z
+weight: 790
 ResourceId: WTd-8mOlFfQ
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WTd-8mOlFfQ
 source: internal
 url: /resources/videos/:slug
-slug: part-2-common-mistakes-that-scrum-masters-make
+slug: part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
 layout: video
 preview: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg
 duration: 37
 isShort: true
 aliases:
-- /resources/part-2-common-mistakes-that-scrum-masters-make-2
-- /resources/part-2-common-mistakes-that-scrum-masters-make
-- /resources/common-mistakes-that-scrum-masters-make-part-2
-- /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
-- /resources/videos/WTd-8mOlFfQ
-- /resources/common-mistakes-that-scrum-masters-make-part-2-
 - /resources/WTd-8mOlFfQ
-aliasesFor404:
+- /resources/videos/part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
+- /resources/videos/part-2-common-mistakes-that-scrum-masters-make
+- /resources/videos/common-mistakes-that-scrum-masters-make-part-2
+aliasesArchive:
+- /resources/videos/part-common-mistakes-that-scrum-masters-make
+- /resources/videos/part-2-common-mistakes-that-scrum-masters-make
 - /resources/part-2-common-mistakes-that-scrum-masters-make-2
 - /resources/part-2-common-mistakes-that-scrum-masters-make
 - /resources/common-mistakes-that-scrum-masters-make-part-2
 - /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
 - /resources/common-mistakes-that-scrum-masters-make-part-2-
+- part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
+- /resources/videos/common-mistakes-that-scrum-masters-make-part-2
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Master
-- Scrum Team
-- People and Process
-- Agile Project Management
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
-## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2
+## Escaping the Administrative Vortex: Insights for [Scrum]({{< ref "/categories/scrum" >}}) Masters - Part 2
 
 So I'm back to shed light on another prevalent issue in the world of Scrum Masters, and it's a rather eye-opening issue, which is inadvertently morphing into the team's secretary.
 
@@ -59,7 +58,7 @@ This is one blatant mistake I see cropping up frequently is Scrum Masters gettin
 
 It's not uncommon to find oneself being the one meticulously handling the Jira admin tasks for the team, filling out their Jira tickets, or even engrossed in reporting for them and generally getting bogged down with other team members' tasks.
 
-But let's pause for a moment, reassess and allow me to confirm again  - this is not part of being a Scrum Master.  ❗
+But let's pause for a moment, reassess and allow me to confirm again  - this is not part of being a [Scrum Master]({{< ref "/tags/scrum-master" >}}).  ❗
 
 Hence, I urge you not to do any of those tedious administrative duties. It's not your responsibility, so don't get roped into any of it.
 

@@ -2,8 +2,10 @@
 title: When is an APS course appropriate for a scrum team?
 description: "Discover when the APS course is ideal for Scrum teams and how it tailors Scrum practices to your organisation's unique needs. \U0001F4DA\U0001F680"
 date: 2023-10-12T08:32:45Z
+weight: 750
 ResourceId: HrJMsZZQl_g
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HrJMsZZQl_g
@@ -15,41 +17,31 @@ preview: https://i.ytimg.com/vi/HrJMsZZQl_g/maxresdefault.jpg
 duration: 234
 isShort: false
 aliases:
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
-- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
-- /resources/videos/HrJMsZZQl_g
-- /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
 - /resources/HrJMsZZQl_g
-aliasesFor404:
+- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
+aliasesArchive:
+- /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
+- when-is-an-aps-course-appropriate-for-a-scrum-team
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Discovery and Learning
-- Team Performance
-- Team Collaboration
-- Continuous Learning
 - Agile Frameworks
+- Software Development
 - Pragmatic Thinking
-- Empirical Process Control
-- Scrum Team
-- Customer Feedback Loops
 resourceTypes:
 - video
 categories:
-- Social Technologies
-- Scrum
+- Product Development
 
 ---
-## Empowering Teams with the APS Approach: Elevating Your Scrum Journey
+## Empowering Teams with the APS Approach: Elevating Your [Scrum]({{< ref "/categories/scrum" >}}) Journey
 
-In the dynamic and ever-evolving realm of Scrum, where teams and organisations strive to harness their full potential, the Applied Professional Scrum (APS) stands out as a guiding light for authentic Scrum Mastery.  💡
+In the dynamic and ever-evolving realm of Scrum, where teams and organisations strive to harness their full potential, the Applied [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) (APS) stands out as a guiding light for authentic Scrum Mastery.  💡
 
 Through years of hands-on involvement and traversing diverse Scrum landscapes, I've had the privilege of discovering the many benefits and intricacies of APS.
 
@@ -77,9 +69,9 @@ APS's Signature: The Barnacle Exercise 🔄
 
 Among the myriad of APS sessions I've facilitated, the "Barnacle Exercise" still holds a special place with me and remains extremely effective.
 
-Through this introspective task, teams—be they newbies or veterans—are empowered to recognise and shed their own 'barnacles'. When diving deep into Agile practices within their organisations, as this exercise evolves, leading to the creation of an organisational change backlog.
+Through this introspective task, teams—be they newbies or veterans—are empowered to recognise and shed their own 'barnacles'. When diving deep into Agile practices within their organisations, as this exercise evolves, leading to the creation of an [organisational change]({{< ref "/tags/organisational-change" >}}) backlog.
 
-This blueprint, an agile transformation roadmap, is a testament to the hands-on, collaborative essence of APS.  🎯
+This blueprint, an [agile transformation]({{< ref "/tags/agile-transformation" >}}) roadmap, is a testament to the hands-on, collaborative essence of APS.  🎯
 
 ## APS: Nurturing Authentic, Proficient Scrum Teams
 

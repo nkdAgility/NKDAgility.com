@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses the uninstallation of Visual Studio 2010 and related technical issues, with no relevance to Agile Product Management.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:38:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, without a focus on practical techniques or tooling relevant to Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:38:09",
@@ -28,66 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:38:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:38:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software, with no focus on code quality, complexity, or software development principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:38:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:38:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the uninstallation of Visual Studio 2010 and related software issues, with no mention of AI, automation, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on uninstalling Visual Studio 2010 Beta 1 and troubleshooting related issues, with no discussion of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T02:38:15",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:38:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of uninstalling Visual Studio 2010 and the associated challenges, which aligns with installation and configuration topics.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the uninstallation process of Visual Studio 2010, which falls under the category of installation and configuration. It provides a narrative of the author's experience, including specific steps taken during the uninstallation and issues encountered, which aligns with the key topics of troubleshooting and installation procedures. However, the depth of technical detail is somewhat limited, focusing more on personal experience rather than a structured guide or best practices. Therefore, while it is relevant, it lacks comprehensive depth and explicit instructions, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:38:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,31 +68,28 @@
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:38:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:38:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the uninstallation of Visual Studio 2010 and related software issues, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on uninstalling Visual Studio 2010 and troubleshooting related issues. While it briefly mentions infrastructure and TFS (Team Foundation Server), which are tangentially related to DevOps, the overall discussion does not align with the core principles of DevOps such as collaboration, automation, or continuous value delivery. The content lacks depth in discussing any DevOps practices or philosophies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T02:38:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of uninstalling Visual Studio 2010 and related software, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles.",
+    "reasoning": "The content primarily discusses the process of uninstalling Visual Studio 2010 Beta 1, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles. While it touches on personal experiences and technical challenges, it lacks actionable insights or connections to recognised Agile methodologies. The discussion is detailed but remains focused on a specific technical issue rather than broader Agile concepts.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses the process of uninstalling software and troubleshooting issues, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:38:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no mention of events, presentations, or discussions relevant to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:38:30",
@@ -159,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no focus on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:38:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of uninstalling software without addressing human behaviour, team dynamics, or structured methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:38:35",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -244,10 +184,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T02:38:44",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 Beta 1 and related software issues, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
@@ -258,15 +198,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no relevance to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:38:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -305,7 +236,7 @@
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:38:53",
     "ai_confidence": 0,
@@ -316,11 +247,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:38:55",
+    "calculated_at": "2025-03-22T09:19:02",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the uninstallation of Visual Studio 2010 and related software issues, with no relevance to Agile principles or product-centric development.",
+    "reasoning": "The content focuses entirely on uninstalling Visual Studio 2010 Beta 1 and troubleshooting related issues. It does not discuss any aspects of the Agile Product Operating Model or its principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +266,6 @@
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no focus on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:38:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 Beta 1, which does not align with industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T02:38:59",
@@ -348,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no clear focus on Application Lifecycle Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:39:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the uninstallation of Visual Studio 2010 and related software issues, with no mention of Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +286,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of uninstalling Visual Studio and does not relate to the Definition of Done in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and does not focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on uninstalling Visual Studio 2010 Beta 1 and troubleshooting related issues. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or user feedback. The depth of discussion is limited to personal experiences with software uninstallation, which is unrelated to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +334,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on uninstalling Visual Studio and troubleshooting related issues, with no discussion on Lead Time or its measurement.",
     "level": "Ignored"
   },
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about uninstalling Visual Studio and has no relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -496,10 +415,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses uninstallation of software and does not relate to Scrum Teams or their dynamics.",
     "level": "Ignored"
   },
@@ -559,10 +478,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses entirely on uninstallation of Visual Studio and does not address team performance, collaboration, or Agile practices.",
     "level": "Ignored"
   },
@@ -586,28 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content describes the process of uninstalling Visual Studio 2010 and dealing with related software issues, which relates to software development practices but is not primarily focused on broader software engineering methodologies or principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the uninstallation of Visual Studio 2010 and related .NET components, which is relevant to software development. However, it primarily focuses on personal experiences and troubleshooting rather than structured methodologies or best practices in software development. While it mentions tools used in the development process, the depth of discussion on software engineering practices is limited.",
     "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses solely on uninstalling Visual Studio 2010 Beta and technical experiences related to software installation, not on agile project management principles or practices.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of uninstalling software and troubleshooting technical issues with Visual Studio, which is not related to Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +614,6 @@
     "reasoning": "Content heavily discusses uninstalling Visual Studio and related technical issues without any mention of customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about uninstalling a software application and troubleshooting related issues, with no mention or relevance to Scrum principles, scaling practices, or related frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:17",
@@ -726,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to uninstalling software, with no mention of psychological safety concepts.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on uninstalling software and troubleshooting issues related to Visual Studio 2010, with no discussion of scaling agility or related practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio and related software issues, which does not pertain to innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses uninstalling Visual Studio and has no relevance to Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses uninstalling Visual Studio 2010 and related software issues, which is unrelated to Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,10 +742,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010, which does not focus on functional or high-quality software delivery in the context of Agile or Scrum.",
     "level": "Ignored"
   },
@@ -955,10 +832,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses uninstalling Visual Studio and managing beta versions, not focusing on release management strategies or practices.",
     "level": "Ignored"
   },
@@ -973,10 +850,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the uninstallation of Visual Studio 2010 and issues encountered during the process, which is unrelated to the measurement or implications of Cycle Time.",
     "level": "Ignored"
   },
@@ -1009,10 +886,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the process of uninstalling and reinstalling Visual Studio and managing development environments, with no relevant discussion about team dynamics, collaboration techniques, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1034,7 +911,7 @@
     "reasoning": "The content discusses the uninstallation of Visual Studio 2010 and related software issues, which is not related to strategic adoption or integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:17",
     "ai_confidence": 0,
@@ -1043,23 +920,17 @@
     "reasoning": "Content is about uninstalling Visual Studio 2010 and does not relate to Minimum Viable Products or product development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about uninstalling Visual Studio 2010 and does not discuss AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of uninstalling Visual Studio and dealing with related software configurations and errors, which are relevant to system configuration tasks. However, the primary focus is on the uninstallation experience rather than a broad discussion on system configuration best practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the uninstallation of Visual Studio 2010 and related software, which touches on aspects of system configuration. However, it primarily focuses on personal experiences and issues encountered during the process rather than providing structured guidance or best practices for system configuration. The discussion lacks depth in terms of methodologies or strategies for optimising system performance or managing configurations, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,20 +970,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on uninstalling Visual Studio 2010 and discusses issues related to .NET 4.0, with no mention or discussion of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on uninstalling Visual Studio 2010 and troubleshooting related issues, with no discussion of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses the uninstallation of Visual Studio 2010, which is used in the Windows environment. It touches on issues encountered during the uninstall process on a Windows operating system, including mentioning features specific to Windows Vista, suggesting a significant relationship with Windows management and configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the uninstallation of Visual Studio 2010 on a Windows operating system, which directly aligns with the Windows category. It includes specific references to Windows Vista features, such as filtering the program list, and mentions issues related to .NET 4.0, which is relevant to Windows users. The depth of discussion includes personal experiences with installation and uninstallation processes, troubleshooting runtime errors, and the implications of using beta software on a production machine. Overall, the content is focused on Windows-related topics, providing insights into managing software within the Windows environment.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1135,19 +1012,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details related to uninstalling a software application and does not address any aspects of team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the uninstallation of Visual Studio 2010 and related software issues, which does not pertain to remote working or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1162,11 +1039,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010, including challenges faced and strategies attempted for resolving issues that arise, such as runtime errors and handling dependencies.",
+    "reasoning": "The content discusses the process of uninstalling Visual Studio 2010 and the issues encountered during the process, such as runtime errors and the need for a repair. While it does touch on troubleshooting aspects, such as identifying leftover components and dealing with errors, the focus is more on the personal experience of the author rather than providing systematic methodologies or best practices for troubleshooting. Therefore, while it aligns with the category, it lacks depth and structured insights typical of comprehensive troubleshooting discussions.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1060,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on the uninstallation of Visual Studio software and does not discuss Scrum Master responsibilities, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on uninstalling Visual Studio 2010 Beta 1 and does not mention the role or responsibilities of a Scrum Master, nor does it discuss any related concepts or practices within the Scrum framework. There is no relevance to Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1081,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T10:29:17",
+    "calculated_at": "2025-04-10T15:56:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses uninstalling software and technical issues, with no mention of teamwork or collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the uninstallation of Visual Studio and experiences with .NET, which are relevant to software developers, but does not explicitly explore Agile, DevOps, or modern engineering practices.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1331,15 +1205,6 @@
     "reasoning": "The content is primarily about uninstalling software and does not discuss accountability, team dynamics, or ownership in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses uninstalling Visual Studio and related software issues, with no relevance to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:17",
@@ -1360,11 +1225,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:03:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of uninstalling Visual Studio 2010 Beta 1, with no discussion of social technologies, collaboration, or decision-making frameworks. It lacks any alignment with the core themes of the category, and the depth of discussion is minimal, as it does not explore any relevant methodologies or practices related to social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1242,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the uninstallation of Visual Studio 2010 and related technical issues, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:36:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the uninstallation of Visual Studio 2010 and related software issues, with no focus on Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:36:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the uninstallation process of Visual Studio 2010 and related software issues, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the uninstallation of Visual Studio 2010 and related software issues, with no direct mentions or relevant discussions about Scrum principles, roles, events, or practices. The focus is on technical troubleshooting rather than project management methodologies.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the uninstallation of Visual Studio 2010 and related software issues, with no direct mention of the Shift-Left Strategy or its principles. There is minimal conceptual alignment, as the content does not address integrating testing, security, or compliance early in the development process. The depth of discussion is focused on personal experiences with software management rather than any strategic approach to software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of uninstalling Visual Studio 2010 Beta 1, with no explicit discussion of Continuous Improvement principles. While there are mentions of troubleshooting and adapting to issues encountered during the uninstall process, these do not align with the core themes of Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content lacks depth in discussing any strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of uninstalling Visual Studio 2010 Beta 1 and troubleshooting related issues. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it mention shared objectives or strategic alignment. The content is more about personal experiences and technical details rather than any collaborative or strategic framework.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of uninstalling Visual Studio 2010 Beta 1, with minimal reference to competence or skill development. While it touches on troubleshooting and problem-solving, these aspects are not explicitly linked to the broader themes of competence in Agile or DevOps contexts. The discussion lacks depth and does not foster a culture of continuous learning or professional development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of uninstalling Visual Studio 2010 Beta 1, with no explicit discussion of Agentic Agility or its principles. While there are elements of problem-solving and adaptability in the author's approach, these do not align with the core themes of intentionality and agency in shaping outcomes as defined in the category.",
     "level": "Ignored"
   }
 }

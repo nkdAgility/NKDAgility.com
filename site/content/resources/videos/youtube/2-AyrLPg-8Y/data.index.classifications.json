@@ -1,21 +1,24 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T15:03:48",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on evidence-based management within Agile, which is not directly related to the management of the application lifecycle.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T15:03:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions evidence-based management, which is a relevant theme, but it primarily focuses on leadership skills rather than metrics and learning as a central topic.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions evidence-based management, which is relevant to the category, but lacks detailed discussion on metrics, data utilisation, or continuous improvement methodologies. The focus is more on leadership skills rather than the core themes of metrics and learning.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -28,11 +31,14 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T15:03:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on enhancing leadership skills within the context of Agile, which aligns well with the category of Leadership as it discusses the role of leaders in improving their effectiveness.",
+    "final_score": 62.0,
+    "reasoning": "The content mentions leadership and the context of Agile, indicating a focus on enhancing leadership skills. However, it lacks detailed discussion on specific leadership strategies or frameworks, resulting in a moderate confidence score. The mention of 'evidence-based management' suggests a connection to leadership practices but does not delve deeply into the core themes of leadership in Agile.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -46,12 +52,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T15:03:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions evidence-based management in the context of leadership and Agile, but it does not provide substantial discussion or insights into the principles, practices, or empirical evidence that define the category.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 30,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses evidence-based management (EBM) as a transformative approach for leaders in Agile, highlighting its importance in making data-driven decisions and fostering continuous improvement. It provides specific examples and personal experiences related to EBM, demonstrating a strong alignment with the core themes of the category. The depth of discussion is substantial, covering various aspects of EBM, including collaboration and practical recommendations for leaders. Overall, the content is well-focused on EBM, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Personal": {
     "category": "Personal",
@@ -71,24 +80,6 @@
     "reasoning": "Content primarily focuses on evidence-based management within Agile, without a clear emphasis on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T15:04:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership skills in Agile rather than software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T15:04:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on evidence-based management skills for leaders, without a clear emphasis on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-17T15:04:03",
@@ -97,15 +88,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on evidence-based management skills for leaders in Agile, without a clear emphasis on market adaptability strategies or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T15:04:05",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on leadership and evidence-based management within an Agile context, highlighting the interplay between human behaviour and structured methodologies.",
-    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -125,23 +107,17 @@
     "reasoning": "Content heavily discusses Evidence-Based Management within the context of Agile, which directly references established principles.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T15:04:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a specific class for leadership skills in Agile rather than discussing industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T15:04:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions evidence-based management, which is relevant to value delivery, but it primarily focuses on leadership skills rather than directly discussing value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions evidence-based management, which is relevant to value delivery, but lacks detailed discussion on how it specifically enhances value delivery in Agile contexts. The focus is more on leadership skills rather than on strategies or methodologies for delivering value to customers.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -163,20 +139,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T15:04:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions evidence-based management, which is relevant to Agile principles, but it does not primarily focus on Agile Product Management practices or methodologies.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T15:04:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on evidence-based management and leadership skills within Agile, without a clear emphasis on organisational resilience or change management strategies.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions evidence-based management, which is relevant to Agile principles, but lacks a direct focus on Agile Product Management practices. It does not discuss key topics such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement in detail.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -190,21 +160,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T15:04:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership skills in the context of Agile, which is a major theme related to organisational agility, but it does not delve deeply into broader agile practices or frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions leadership in the context of Agile, which aligns with the category's focus on cultivating a culture of agility. However, it lacks detailed discussion on specific strategies or practices that enhance organisational agility, resulting in a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T15:04:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on evidence-based management in Agile without discussing AI or automation technologies.",
-    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -217,12 +181,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:04:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 37,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agile and the context of leadership within Agile practices, indicating a secondary theme related to social technologies, but does not primarily focus on the frameworks or methodologies outlined in the category.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses evidence-based management (EBM) within the Agile framework, highlighting its role in enhancing collaboration, decision-making, and continuous improvement. It explicitly mentions the importance of collaboration and data-driven decisions, which align with the core themes of social technologies. The depth of discussion is significant, providing personal experiences and recommendations for leaders, thus demonstrating a strong understanding of how EBM can foster a culture of transparency and collective intelligence. However, while it touches on social technologies, the primary focus is on EBM rather than a broader discussion of social technologies as a category.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -253,30 +220,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T15:04:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership skills in the context of Agile, which is a major theme related to business agility, but it does not primarily focus on the broader principles or practices of business agility itself.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T15:04:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on leadership skills and evidence-based management without specific reference to practical techniques or tooling related to Agile or DevOps.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions leadership in the context of Agile but lacks a comprehensive discussion on business agility principles or practices. It does not explore the core themes of business agility in detail, focusing instead on evidence-based management without connecting it to broader organisational agility.",
     "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T15:04:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a class aimed at helping leaders improve their skills in Agile, which suggests a focus on learning and development, but it does not explicitly reference a specific event or presentation.",
-    "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -289,65 +241,47 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T15:04:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership skills in the context of Agile, which is a major theme related to enterprise agility, but it does not explicitly address broader organisational agility or frameworks for scaling agility.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T15:04:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a class on evidence-based management rather than specific products or literature related to Agile methodologies.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses evidence-based management (EBM) as a transformative approach for leaders in Agile, which aligns with the principles of enterprise agility. It highlights the importance of data-driven decisions, continuous improvement, and enhanced collaboration across the organisation, all of which are key themes in enterprise agility. The depth of discussion includes personal experiences and recommendations for leaders, providing a comprehensive view of how EBM can foster a culture of agility. However, the focus remains primarily on leadership and team-level practices rather than broader organisational structures or frameworks, which slightly limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T15:04:49",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses evidence-based management within Agile, which is not directly related to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T15:04:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on evidence-based management for leaders in Agile, without a clear emphasis on the Agile Product Operating Model or its principles.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:04:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on evidence-based management in an agile context, without a clear emphasis on Scrum principles, roles, or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on evidence-based management (EBM) within an Agile context, which is a component of the Agile Product Operating Model. However, it does not explicitly discuss the broader principles of the Agile Product Operating Model or its transition from project to product ethos. While EBM is mentioned and aligned with continuous improvement, the depth of discussion is limited to personal experiences and recommendations rather than a comprehensive exploration of APOM principles.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:04:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on evidence-based management within Agile, with no clear discussion of DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T15:04:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on leadership skills in Agile rather than on discovery and learning processes or methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on evidence-based management within the Agile framework, which, while it touches on continuous improvement and collaboration, does not explicitly address DevOps principles or practices. The discussion lacks direct mentions of DevOps as a philosophy or its core themes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -357,15 +291,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on evidence-based management for leaders in Agile, without a clear emphasis on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T15:04:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on evidence-based management in Agile, which is not directly related to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -379,12 +304,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:27:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions evidence-based management, which is relevant to product management, but it primarily focuses on leadership skills in an Agile context rather than the strategic aspects of product management itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions evidence-based management, which is relevant to product management, but lacks a detailed discussion on its application within product management frameworks. The focus is more on leadership skills in an Agile context rather than the strategic aspects of product management.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -395,48 +323,33 @@
     "reasoning": "Content primarily focuses on leadership skills and evidence-based management in Agile, which are not directly related to software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on evidence-based management in Agile and does not discuss Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:18:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership and evidence-based management within Agile, which is not related to system configuration topics.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on leadership skills in Agile but does not address scaling Agile practices or methodologies across multiple teams or at an enterprise level.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on evidence-based management within Agile methodologies, discussing leadership, data-driven decisions, and continuous improvement. It does not directly address system configuration, nor does it explore topics related to the setup, integration, or maintenance of systems. The mention of data and metrics is more aligned with project management rather than system configuration practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T15:27:26",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on evidence-based management skills for leaders rather than discussing the foundational principles and values of Agile Philosophy.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T15:27:26",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on leadership skills and evidence-based management in Agile but does not primarily address change management principles or practices.",
     "level": "Ignored"
   },
@@ -451,11 +364,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on leadership and evidence-based management in Agile, without discussing Lead Time or its related metrics.",
+    "calculated_at": "2025-04-11T08:18:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management in Agile, focusing on data-driven decisions and continuous improvement. While it mentions delivery timelines in a case study context, it does not explicitly define or measure Lead Time as a metric. The discussion is more about general Agile practices and leadership rather than a focused exploration of Lead Time as an observability metric. Therefore, the confidence score reflects a low primary focus on Lead Time, with some relevant concepts touched upon but lacking depth.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -487,10 +403,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T15:27:26",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on leadership skills in Agile and does not address the Definition of Ready.",
     "level": "Ignored"
   },
@@ -559,48 +475,48 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T15:27:26",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses leadership and evidence-based management within the context of Agile, without a clear focus on release management practices.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses leadership skills within the context of Agile, which is a relevant aspect of Organisational Change, but it does not thoroughly cover broader organisational change strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses evidence-based management (EBM) within the context of Agile leadership, highlighting its role in decision-making and continuous improvement. While it touches on themes relevant to organisational change, such as collaboration and data-driven culture, it primarily focuses on personal experiences and recommendations for leaders rather than a comprehensive exploration of organisational change strategies or frameworks. The discussion lacks depth in terms of specific methodologies or frameworks for implementing organisational change, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses enhancing leadership skills within an Agile context, which aligns with the theme of continuous improvement and skill development, but it is not the primary focus.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on evidence-based management in Agile rather than specifically discussing scaling Scrum frameworks, practices, or challenges.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses continuous learning and its importance in Agile, particularly through the lens of evidence-based management. It highlights the need for skill enhancement, data-driven decisions, and a culture of experimentation, all of which align closely with the principles of Continuous Learning. The depth of discussion is significant, providing personal experiences and actionable recommendations for leaders, which further supports the category focus.",
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management in the context of Agile, making it a secondary theme, but not the primary focus of the entire content.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses evidence-based management (EBM) as a transformative approach for leaders in Agile, highlighting its importance in making data-driven decisions and fostering a culture of continuous improvement. It provides specific examples and recommendations for leaders, demonstrating a strong alignment with the principles of Evidence-Based Leadership. The depth of discussion is substantial, covering key aspects such as metrics, collaboration, and real-world applications, which reinforces the primary focus on evidence-based practices.",
+    "level": "Primary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -622,12 +538,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions evidence-based management, which relates to empirical process control, but the primary focus appears to be on leadership skills rather than the core principles of empirical process control in Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses evidence-based management (EBM) extensively, which aligns closely with the principles of empirical process control. It highlights the importance of data-driven decisions, continuous improvement, and collaboration, all of which are core themes of the category. The depth of discussion is significant, with personal experiences and recommendations for leaders, showcasing practical applications of EBM in an Agile context. However, while it is focused on EBM, it does not explicitly mention empirical process control or its foundational figures, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -649,12 +568,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses leadership skills in the context of Agile, which is a significant theme, but it mainly focuses on evidence-based management rather than explicit Agile leadership practices.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the role of leaders in Agile environments, particularly through the lens of evidence-based management. It highlights the importance of continuous improvement, data-driven decision-making, and collaboration, which are core themes of Agile leadership. The depth of discussion is significant, providing personal experiences and actionable recommendations for leaders, thus aligning well with the category's focus.",
+    "level": "Primary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -757,21 +679,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses evidence-based management within the context of Agile, indicating a focus on leadership skills relevant to Agile transformation, but it is not primarily about the strategies or methodologies of Agile transformation itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses evidence-based management (EBM) within the Agile context, highlighting its role in continuous improvement, data-driven decision-making, and collaboration. While it aligns with Agile principles and offers practical recommendations for leaders, the primary focus is on EBM rather than a comprehensive exploration of Agile transformation strategies. The discussion of personal experiences and case studies adds depth, but the content does not extensively cover the broader themes of Agile transformation, such as frameworks or change management strategies.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses evidence-based management, which relates to decision-making in operational contexts, but it focuses more on leadership skills rather than directly applying operational practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses evidence-based management (EBM) in the context of Agile, focusing on data-driven decision-making, continuous improvement, and collaboration, which are all key aspects of operational practices. It provides specific examples and recommendations for leaders, demonstrating a strong alignment with the category's core themes. The depth of discussion is substantial, as it includes personal experiences and actionable insights, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -793,21 +721,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses leadership within the context of Agile, which is a major theme related to Agile Strategy, but it does not focus on the broader aspects of Agile strategy implementation or alignment with organizational vision.",
-    "level": "Tertiary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on leadership skills rather than the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses evidence-based management (EBM) within the Agile context, highlighting its importance for leaders in making data-driven decisions, fostering continuous improvement, and enhancing collaboration. It aligns well with Agile principles and emphasises the integration of these practices into leadership strategies. The depth of discussion is substantial, providing personal experiences and actionable recommendations, which further supports its relevance to Agile Strategy.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -874,12 +796,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses the improvement of leadership skills in an agile context, implying a connection to technical leadership, but does not primarily focus on specific technical leadership themes or practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses evidence-based management (EBM) in the context of Agile leadership, highlighting its importance for making data-driven decisions, fostering collaboration, and promoting continuous improvement. While it aligns with key themes of technical leadership, such as enhancing team dynamics and driving innovation, the personal anecdotes and emphasis on individual experiences detract from a purely technical leadership focus. The content provides a moderate level of detail on EBM but lacks a deeper exploration of specific technical leadership strategies or practices.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -892,12 +817,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Evidence-Based Management in the context of Agile leadership, which is relevant to enhancing innovation capabilities, but does not primarily focus on the measures and practices concerning the Ability to Innovate itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) extensively, highlighting its role in making data-driven decisions and fostering a culture of continuous improvement, which are key aspects of the Ability to Innovate category. It provides specific examples of how EBM can lead to innovation and improvement within teams, aligning well with the core themes of the category. However, while it touches on innovation, the primary focus is more on EBM and leadership rather than a comprehensive exploration of innovation capabilities, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -910,12 +838,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Evidence-Based Management within the context of Agile, indicating a focus on improving leadership skills relevant to Agile principles, but is not specifically about Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses evidence-based management (EBM) within the Agile context, highlighting its importance for leaders and its role in continuous improvement and collaboration. While it does touch on Agile principles, the primary focus is on EBM rather than a specific Agile framework. The discussion is relevant but lacks depth in exploring various Agile frameworks or their comparative analysis, which is essential for a higher confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -928,11 +859,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:18:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses leadership skills and evidence-based management without a clear focus on throughput or its measurement in Agile or DevOps contexts.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management and its role in Agile, focusing on data-driven decisions and continuous improvement. However, it does not explicitly mention throughput as a delivery metric or provide detailed analysis or visualisation of throughput. While there are references to metrics and team performance, they are not specifically tied to throughput, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -962,15 +896,6 @@
     "reasoning": "Content heavily discusses evidence-based management in an Agile context, rather than focusing on employee engagement strategies or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions evidence-based management in the context of Agile, implying a secondary theme related to improving leadership effectiveness within Agile practices, but it does not primarily focus on Agile project management methodologies.",
-    "level": "Tertiary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T15:27:26",
@@ -982,20 +907,23 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T15:27:26",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses leadership skills in Agile rather than Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses leadership skills in the context of Agile rather than any practices or principles related to Continuous Delivery.",
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses evidence-based management within an Agile context, focusing on data-driven decisions and continuous improvement. While it touches on themes of continuous improvement and collaboration, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth regarding Continuous Delivery, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1009,21 +937,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T15:27:26",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses evidence-based management without any mention or focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses leadership skills in the context of Agile, which is related to organisational culture but does not primarily focus on cultural dimensions themselves.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of continuous learning, collaboration, and a data-driven culture, which are all elements that influence organisational culture. It highlights how evidence-based management can foster a culture of experimentation and improvement, aligning well with the core themes of the category. However, while it touches on cultural aspects, the primary focus is on evidence-based management practices rather than a comprehensive exploration of organisational culture itself.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -1036,21 +967,27 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions evidence-based management, which is related to decision-making, but primarily focuses on leadership skills rather than structured decision-making processes.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses evidence-based management (EBM) as a structured approach to decision-making, highlighting its importance in guiding data-driven decisions and fostering collaboration. It aligns well with the core themes of the category, such as the role of data analytics and the impact of continuous improvement on decision-making processes. The depth of discussion is substantial, providing insights into practical applications and recommendations for leaders, which reinforces the focus on informed decision-making.",
+    "level": "Primary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Evidence-Based Management in the context of Agile, which is related to software development practices, but the focus is more on leadership skills rather than direct software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses evidence-based management (EBM) within the Agile framework, which is a key aspect of software development methodologies. It explicitly mentions Agile principles and practices, aligning well with the core themes of the Software Development category. The depth of discussion on how EBM can enhance decision-making and continuous improvement in Agile teams provides substantial detail, reinforcing its relevance to software engineering practices.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1068,15 +1005,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses evidence-based management in Agile, without a focus on the Product Backlog or related practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on evidence-based management in Agile, which does not primarily relate to Scrum Product Development or its specific practices.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -1108,10 +1036,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T15:27:26",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on evidence-based management rather than Agile Planning methodologies or practices. It does not discuss planning techniques, Agile principles, or relevant practices directly related to Agile Planning.",
     "level": "Ignored"
   },
@@ -1162,19 +1090,19 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T15:27:26",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses skills for leaders in an Agile context without a focus on Agile values or principles.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T15:27:26",
+    "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on evidence-based management for leadership in Agile, which is not directly related to portfolio management or the alignment of strategy with execution.",
     "level": "Ignored"
   },
@@ -1198,21 +1126,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses enhancing leadership skills in Agile, which ties into strategic approaches within Agile frameworks, but it does not primarily focus on strategy itself.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses evidence-based management in Agile without focusing on AI applications.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses evidence-based management (EBM) within the Agile framework, highlighting its role in making data-driven decisions, fostering continuous improvement, and enhancing collaboration. These aspects align well with the core themes of strategic alignment and optimisation of delivery processes. The depth of discussion is substantial, providing personal insights and practical recommendations for leaders, which further supports its relevance to the Strategy category.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1225,12 +1147,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses skills for leaders which aligns with mentoring in an Agile context, but it does not primarily focus on the mentoring relationships or techniques themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of continuous learning and skill enhancement, which aligns with mentoring principles. However, it primarily focuses on evidence-based management rather than direct mentoring techniques or the role of a mentor. While it touches on leadership and collaboration, it lacks detailed exploration of mentoring relationships or specific coaching strategies.",
+    "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1243,11 +1168,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management in Agile, which is unrelated to Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T16:18:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evidence-based management in Agile, discussing data-driven decisions and continuous improvement, which are not directly related to Test First Development principles. There are no explicit mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1270,12 +1198,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on evidence-based management, which is relevant to practical decision-making in an Agile context, but it does not delve deeply into specific pragmatic approaches or case studies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses evidence-based management (EBM) within the Agile framework, highlighting practical applications, data-driven decision-making, and continuous improvement. It provides specific examples and personal experiences that demonstrate the real-world relevance of EBM, aligning well with the core themes of pragmatic thinking. The depth of discussion is significant, offering actionable recommendations for leaders, which further supports its classification in this category.",
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1295,23 +1226,17 @@
     "reasoning": "Content focuses primarily on leadership skills rather than coaching and development practices, lacking emphasis on collaborative and supportive coaching techniques.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on leadership skills in the context of agile but does not discuss frameworks, scaling practices, or integration of agile principles at an organizational level.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:27:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses evidence-based management skills for leaders without specific focus on the Scrum Master role or Scrum practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses evidence-based management within an Agile context, which is relevant to Scrum but does not explicitly focus on the role of the Scrum Master. While it touches on themes like continuous improvement and collaboration, it lacks direct references to the responsibilities and influence of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1340,7 +1265,7 @@
     "reasoning": "Content primarily discusses leadership and evidence-based management in Agile, without focusing on the delivery of software increments or the Increment concept itself.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:27:26",
     "ai_confidence": 0,
@@ -1374,6 +1299,438 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on evidence-based management within Agile, not on Behaviour Driven Development principles or practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:46:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and leadership skills, with no mention of Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:46:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses evidence-based management in Agile without any mention of AI or its applications in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'AG' which could imply Agile methodologies, but it does not explicitly discuss Scrum principles, roles, or events. The focus on evidence-based management is relevant to Agile but lacks depth in Scrum-specific discussions, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses evidence-based management within an Agile context, focusing on data-driven decision-making and continuous improvement. While there are elements of improving processes, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding the integration of testing, security, or compliance early in the development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses continuous improvement as a core tenet of Agile and connects it to evidence-based management. It highlights the importance of data-driven decisions and fostering a culture of experimentation, which aligns well with the principles of Continuous Improvement. However, while it provides valuable insights and personal experiences, the depth of discussion on Continuous Improvement techniques and frameworks could be more extensive, leading to a slightly lower confidence score.",
+    "level": "Primary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management and its role in Agile, but it primarily focuses on personal experiences and recommendations rather than explicitly addressing Common Goals. While it touches on collaboration and shared objectives, these themes are secondary to the main narrative about personal growth and data-driven decision-making. The discussion lacks depth in connecting these concepts to the overarching strategic objectives of an organisation.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the importance of continuous learning and skill enhancement, which aligns closely with the core themes of competence. It provides detailed insights into evidence-based management and its role in fostering a culture of continuous improvement and data-driven decision-making. The depth of discussion is significant, as it includes personal experiences and practical recommendations for leaders, reinforcing the importance of competence in Agile environments.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:15:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evidence-based management within Agile, discussing its principles and personal experiences rather than the One Engineering System framework. While there are mentions of collaboration and continuous improvement, these concepts are not directly tied to 1ES, and the content lacks depth in discussing the integration of tools and processes across teams, which is central to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses evidence-based management, which aligns with some principles of Agentic Agility, such as data-driven decision-making and continuous improvement. However, it lacks a direct focus on the intentional shaping of outcomes and does not differentiate between human and AI capabilities in the context of agility. The discussion is more about general Agile practices rather than a deep exploration of Agentic Agility.",
+    "level": "Tertiary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T08:17:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content focuses heavily on evidence-based management within the Agile framework, which is a key aspect of product development methodologies. It discusses the importance of data-driven decisions, continuous improvement, and collaboration, all of which align closely with the principles of Agile product development. The depth of discussion is significant, providing practical recommendations for leaders and real-world applications of EBM, which enhances its relevance to product development. Overall, the content is primarily centred on product development practices, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T08:17:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on evidence-based management within Agile, which is not directly related to Open Space Agile principles. While it touches on themes of collaboration and continuous improvement, it lacks explicit mentions of Open Space Technology or the core tenets of Open Space Agile. The discussion is more centred on data-driven decision-making rather than the collective participation and psychological safety that characterise Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T08:17:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management within the Agile context, which aligns with the principles of Agnostic Agile, particularly the emphasis on data-driven decisions and continuous improvement. However, it does not explicitly mention Agnostic Agile or its core principles, nor does it provide a deep exploration of the philosophy behind Agnostic Agile. The focus is more on the mechanics of evidence-based management rather than a broader discussion of agility principles, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T08:17:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on evidence-based management within Agile, discussing data-driven decisions and continuous improvement. While it touches on collaboration and leadership, it does not explicitly address scaling methodologies or frameworks, nor does it delve into the complexities of coordinating multiple teams or managing dependencies, which are central to the Scaling category. Therefore, the confidence score reflects a low direct mention of scaling, moderate conceptual alignment with Agile principles, and limited depth in discussing scaling strategies.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T08:17:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evidence-based management within Agile frameworks, discussing data-driven decision-making and continuous improvement. While it touches on themes of collaboration and leadership, it does not directly mention or align with the principles of Cell Structure Design, such as decentralisation or autonomous cells. The discussion lacks depth regarding the specific characteristics and functions of cells in a networked structure, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T08:17:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evidence-based management within Agile, discussing its principles and applications. While it touches on collaboration and continuous improvement, which are relevant to group dynamics, it does not explicitly mention Liberating Structures or their specific techniques. The discussion lacks depth regarding the core themes of Liberating Structures, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T08:17:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management and its role in Agile, touching on themes of data-driven decisions and continuous improvement. However, it does not explicitly mention Time to Market or provide metrics related to it. While there is a brief mention of improved delivery times in a case study, the overall focus is more on leadership and collaboration rather than on optimising processes to reduce Time to Market.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T08:17:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management within an Agile context, focusing on data-driven decisions and continuous improvement. However, it does not explicitly mention the concept of 'Company as a Product' or its core principles. While there are elements of organisational agility and collaboration, the primary focus remains on leadership and personal experiences rather than a comprehensive exploration of CaaP. The discussion lacks depth in terms of organisational design or customer-centric strategies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T08:17:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evidence-based management within the Agile framework, discussing leadership and decision-making processes. It does not mention GitHub or its functionalities, nor does it align with the core themes of GitHub services or tools. The discussion is centred around Agile principles rather than GitHub-specific practices, resulting in a very low confidence score for the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T08:17:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses evidence-based management (EBM) and its importance in Agile, but it does not explicitly mention 'Unrealised Value' or focus on the potential value that can be captured through improvements and innovations. While it touches on continuous improvement and data-driven decisions, which are related concepts, the primary focus is on personal experiences and recommendations for leaders rather than exploring untapped opportunities or strategies for identifying unrealised value. The depth of discussion on the specific indicators or measures of unrealised value is minimal, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T08:17:54",
+    "ai_confidence": 65.0,
+    "ai_mentions": 3,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 65.0,
+    "reasoning": "The content discusses evidence-based management (EBM) and its importance in Agile, highlighting the use of data-driven decisions and continuous improvement, which are relevant to Current Value. However, while it mentions metrics like customer satisfaction and team performance, it does not delve deeply into specific Current Value indicators or techniques for measuring them. The discussion is more focused on the overall benefits of EBM rather than a detailed analysis of Current Value itself, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T08:17:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evidence-based management within Agile, without any explicit mention or critical examination of Hybrid Agile. It discusses data-driven decision-making and continuous improvement, which are Agile principles, but does not address the integration of traditional methodologies or the challenges associated with Hybrid Agile. Therefore, it lacks the necessary depth and alignment with the core themes of the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T08:17:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on evidence-based management within an Agile context, which is a specific aspect of project management. While it discusses themes like data-driven decisions and continuous improvement, it lacks a broader exploration of core project management principles, methodologies, and lifecycle phases. The depth of discussion is limited to personal experiences and recommendations rather than comprehensive project management strategies. Therefore, while there is some alignment with project management concepts, the focus is too narrow to warrant a high confidence score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 35.0,
+    "ai_mentions": 4,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses evidence-based management (EBM) in Agile, providing insights into its application and benefits. However, it focuses more on the concepts and principles of EBM rather than specific tools that implement these practices. While there is mention of data-driven decisions and continuous improvement, the content does not deeply explore specific tools or mechanisms that facilitate these processes, which is essential to the 'Tool' category. The connection to Agile practices is present, but it lacks the specificity and depth required for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 43.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 3,
+    "non_ai_confidence": null,
+    "final_score": 43.0,
+    "reasoning": "The content discusses concepts related to continuous improvement and collaboration, which touch on core Agile values indirectly. However, the primary focus is on evidence-based management as a method rather than on values that guide behaviour and decision-making. While there are mentions of values like collaboration and continuous learning, they are not deeply explored as guiding principles. Consequently, the direct mentions and their relevance are somewhat limited, impacting the overall alignment and depth of the discussion.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "TransformYourLeadership-EBM-Agile",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 65.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Evidence-Based Management (EBM) and connects it to leadership within an Agile context, highlighting its significance in decision-making and cultural aspects. However, while it addresses important philosophical themes such as continuous improvement and data-driven decisions, it does so more in a personal and practical context rather than deeply exploring the theoretical foundations of these concepts. Therefore, while the discussion aligns with philosophical ideas, it primarily focuses on implementation rather than exploring the 'why' of these practices.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 76.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content focuses on evidence-based management within an Agile context, which incorporates elements of discipline through its emphasis on continuous improvement, data-driven decision-making, and structured frameworks. There is a direct mention of the Agile methodology and its principles, which align with discipline. The discussion includes substantial depth on how EBM can transform leadership practices, showcasing its systemic qualities and governance attributes. However, while the core themes of discipline are present, the primary focus leans more towards practical applications and personal experiences rather than a comprehensive discussion on the concept of discipline in a broader sense.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 35.0,
+    "ai_mentions": 0,
+    "ai_alignment": 50.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content focuses on evidence-based management in Agile but does not explicitly mention or directly discuss artifacts. While it touches upon themes of data-driven decision-making and continuous improvement, it largely stays abstract without connecting these concepts to specific artifacts like Product Backlogs or Definitions of Done. The depth of explanation is more about leadership and management practices than the formal structures and roles of artifacts in Agile systems.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses evidence-based management (EBM) and emphasizes data-driven decision-making, which relates to observability in that it leverages metrics and evidence for informed decisions. However, while it touches on aspects such as metrics and the importance of continuous improvement, it does not specifically address observability as a standalone concept or its implementation in software systems and Agile practices. The mentions are relevant but do not dive deeply into observability-specific topics. Therefore, the overall confidence score is indicative of a moderate alignment without full adherence to the category's primary focus.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content focuses on evidence-based management (EBM) which aligns with the concept of continuous improvement, a key theme within the Practice category. It mentions actionable steps like fostering a data-driven culture and embracing experimentation, which are relevant practices. However, it primarily discusses EBM as a framework rather than specific, repeatable actions or techniques that enhance team performance. The depth of practical advice provided is significant but remains somewhat general, hence the confident score but not at the highest level.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses evidence-based management (EBM) as an approach within Agile, focusing on data-driven decision-making and continuous improvement. The discussions on using metrics, assessing progress, and fostering a culture of experimentation align with methodical practices within Agile. However, while EBM is presented as a structured approach, the content lacks detailed step-by-step guidance typical of method-focused discussions, preventing a higher confidence score.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 74.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 74.0,
+    "reasoning": "The content extensively discusses Evidence-Based Management (EBM) as a framework for decision-making within Agile, aligning closely with the 'Model' category's focus on structured approaches for informed choices. The discussion includes direct references to how EBM provides a conceptual model for data-driven decisions and continuous improvement, highlighting its application in Agile contexts. However, while it is a central theme, the content lacks a comprehensive exploration of comparative analysis with other models or frameworks, which slightly detracts from its depth. Overall, the focus on EBM's role in enhancing organizational agility aligns well with the category.",
+    "level": "Secondary"
+  },
+  "Framework": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 45.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses evidence-based management (EBM) within an Agile context, highlighting its importance for continuous improvement and data-driven decision making. While it discusses concepts relevant to Agile frameworks, it primarily focuses on the author's personal experience and recommendations rather than providing a structured analysis or implementation of specific Agile frameworks. Therefore, it aligns somewhat with the core themes but does not deeply engage with the framework aspect as required for a higher confidence score.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 82.0,
+    "reasoning": "The content discusses evidence-based management (EBM) in an Agile context, clearly emphasizing its role as a guiding principle for making data-driven decisions and fostering continuous improvement, which aligns well with the core tenets of Agile. It mentions 'continuous improvement' as a core tenet of Agile, directly linking it to EBM, and the depth of discussion on fostering a data-driven culture and collaboration also supports the tenet framework. However, since it is framed around personal reflection and recommendations rather than solely focused on actionable tenets, the confidence score reflects this nuance.",
+    "level": "Primary"
+  },
+  "Capability": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:51",
+    "ai_confidence": 68.0,
+    "ai_mentions": 2,
+    "ai_alignment": 80.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses evidence-based management (EBM) as a significant approach that supports continual learning and improvement in Agile contexts. It aligns with the 'Capability' category as it emphasizes developing enduring competencies through data-driven decision-making and fostering a culture of collaboration and experimentation. The mentions of metrics and continuous improvement connect well with the capabilities theme; however, the discussion is somewhat generalized and does not delve deeply into systemic capabilities or specific examples within Agile frameworks, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Principle": {
+    "resourceId": "2-AyrLPg-8Y",
+    "category": "Principle",
+    "calculated_at": "2025-05-05T07:47:25",
+    "ai_confidence": 8.0,
+    "ai_mentions": 18,
+    "ai_alignment": 34,
+    "ai_depth": 28,
+    "ai_intent": null,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 8.0,
+    "reasoning": "The content focuses on evidence-based management (EBM), which aligns well with the principle of empiricism in Agile, emphasizing data-driven decision-making and continuous improvement. It discusses actionable steps leaders can take to implement EBM, highlighting the importance of metrics and collaboration, which are also core principles of Agile. Overall, the content delves into how these principles can shape decision-making and enhance team dynamics, thus fitting well within the 'Principle' category with a strong degree of alignment and depth in discussion.",
     "level": "Ignored"
   }
 }

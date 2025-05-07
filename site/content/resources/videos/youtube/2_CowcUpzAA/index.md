@@ -2,8 +2,10 @@
 title: 'The Real Scope of a Product Owner: Beyond the Backlog'
 description: Discover why training is vital for product owners in Scrum. Martin Hinshelwood highlights the skills needed to excel and gain a competitive edge.
 date: 2023-11-27T06:46:47Z
+weight: 1000
 ResourceId: 2_CowcUpzAA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2_CowcUpzAA
@@ -14,41 +16,44 @@ preview: https://i.ytimg.com/vi/2_CowcUpzAA/maxresdefault.jpg
 duration: 317
 isShort: false
 aliases:
-- /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
-- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
-- /resources/videos/2_CowcUpzAA
-- /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
 - /resources/2_CowcUpzAA
-aliasesFor404:
+- /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
+- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+aliasesArchive:
+- /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
 - /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
 - /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
 - /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
+- the-real-scope-of-a-product-owner-beyond-the-backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Product Owner
+- Agile Product Management
+- Pragmatic Thinking
+- Software Development
 resourceTypes:
 - video
 layout: video
 categories:
 - Product Management
+- Product Development
 - Scrum
-- Social Technologies
 
 ---
-When most people hear the term "Product Owner," they typically think about managing a product backlog and making sure the team works through it. While this is part of the job, it’s a very small piece of the puzzle. In reality, the Product Owner role is far more significant, with broader responsibilities and accountability. Let’s dive deeper into what it means to be a true Product Owner in an Agile environment, and why many who take on the role often find themselves surprised by its complexity.
+When most people hear the term "[Product Owner]({{< ref "/tags/product-owner" >}})," they typically think about managing a [product backlog]({{< ref "/tags/product-backlog" >}}) and making sure the team works through it. While this is part of the job, it’s a very small piece of the puzzle. In reality, the Product Owner role is far more significant, with broader responsibilities and accountability. Let’s dive deeper into what it means to be a true Product Owner in an Agile environment, and why many who take on the role often find themselves surprised by its complexity.
 
 ## Understanding the Breadth of the Product Owner Role
 
 Many people come into a Product Owner role thinking it’s just about managing tasks for the team. However, this oversimplifies what’s actually a dynamic and challenging role.
 
 **A Product Owner is more than a backlog manager.**  
-In Scrum, the Product Owner is essentially an Agile Product Manager with additional skills and responsibilities. This means:
+In [Scrum]({{< ref "/categories/scrum" >}}), the Product Owner is essentially an Agile Product Manager with additional skills and responsibilities. This means:
 
 - **Strategic Thinking**: The Product Owner isn’t just ticking boxes; they are deciding how to spend the company’s budget through the prioritization of the product backlog.
 
-- **Decision-Making**: A Product Owner must decide when features will be released, making them the gatekeeper for value delivery.
+- **Decision-Making**: A Product Owner must decide when features will be released, making them the gatekeeper for [value delivery]({{< ref "/tags/value-delivery" >}}).
 
 - **Value Maximization**: The role revolves around ensuring that every piece of work done by the team adds maximum value to the product.
 
@@ -70,7 +75,7 @@ As a Product Owner, you’re accountable for:
 
 - **Making strategic decisions** about what to build next.
 
-- **Leading the product** toward market leadership by making informed bets on which features will deliver the most value.
+- **Leading the product** toward market [leadership]({{< ref "/categories/leadership" >}}) by making informed bets on which features will deliver the most value.
 
 ## What Does It Take to Maximize Value?
 
@@ -112,7 +117,7 @@ To succeed as a Product Owner, you need access to organizational levers that wil
 
 - **Build strong relationships**: The more you understand the market and your stakeholders, the better your decisions will be.
 
-- **Focus on continuous learning**: Attending a Product Owner class is a great start, but it’s just that—a start. The more you invest in learning about the market, customer needs, and Agile practices, the more effective you’ll be.
+- **Focus on [continuous learning]({{< ref "/tags/continuous-learning" >}})**: Attending a Product Owner class is a great start, but it’s just that—a start. The more you invest in learning about the market, customer needs, and Agile practices, the more effective you’ll be.
 
 ## Training: Why It’s Important but Not Enough
 
@@ -124,7 +129,7 @@ A Product Owner training class is an excellent way to get introduced to the tool
 
 - **Connections** with other professionals who can share their experiences and insights.
 
-However, remember that training is just the beginning. To be the best Product Owner you can be, you need to go beyond the classroom and immerse yourself in the day-to-day challenges of product management.
+However, remember that training is just the beginning. To be the best Product Owner you can be, you need to go beyond the classroom and immerse yourself in the day-to-day challenges of [product management]({{< ref "/categories/product-management" >}}).
 
 ### Key Takeaways from a Product Owner Class:
 

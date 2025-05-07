@@ -2,36 +2,32 @@
 title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your Workflow for Maximum Efficiency'
 description: Unlock your team's potential by mastering Kanban! Discover how defining and visualising your workflow can boost clarity, alignment, and efficiency.
 date: 2024-02-27T07:00:31Z
+weight: 1000
 ResourceId: sbr8NkJSLPU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sbr8NkJSLPU
 url: /resources/videos/:slug
-slug: 3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+slug: mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 layout: video
 aliases:
-- /resources/videos/sbr8NkJSLPU
-- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
-- /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/sbr8NkJSLPU
-aliasesFor404:
+- /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
+- /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+aliasesArchive:
+- /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+- mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
 isShort: false
 tags:
-- People and Process
-- Team Collaboration
-- Practical Techniques and Tooling
 - Operational Practices
-- Agile Frameworks
 - Software Development
-- Agile Project Management
-- Transparency
-- Pragmatic Thinking
-- Flow Efficiency
+- Agile Frameworks
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +38,7 @@ categories:
 - Kanban
 
 ---
-One of the core practices of Kanban that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 
+One of the core practices of [Kanban]({{< ref "/categories/kanban" >}}) that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 
 
 ### Why Define and Visualise Your Workflow?
 
@@ -84,7 +80,7 @@ You may have heard the term "stable system" thrown around in discussions about K
 
 - **Everyone agrees on the process**: There’s a collective understanding of how work should flow.
 - **Processes are documented**: We’ve written down our agreed-upon methods, making it easier to onboard new team members and maintain consistency.
-- **Visualisation is key**: By visualising our workflow, we can all see what’s happening at a glance, which fosters transparency and accountability.
+- **Visualisation is key**: By visualising our workflow, we can all see what’s happening at a glance, which fosters [transparency]({{< ref "/tags/transparency" >}}) and accountability.
 
 ### Conclusion
 

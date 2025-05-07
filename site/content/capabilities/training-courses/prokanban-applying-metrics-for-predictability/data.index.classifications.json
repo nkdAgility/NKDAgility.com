@@ -1,37 +1,43 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T00:01:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting, which are key components of Agile methodologies, particularly in the context of Kanban training.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are more technical aspects of project management rather than discussions on social technologies. While it mentions decision-making and project success, it lacks a strong emphasis on collaboration, self-organisation, or the social frameworks that underpin effective teamwork. The depth of discussion on metrics is significant, but it does not sufficiently address the core themes of social technologies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-18T00:01:50",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are relevant to engineering practices, but the primary focus is on project management rather than software craftsmanship or development processes.",
     "level": "Tertiary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T00:01:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting, which are not central to DevOps principles and practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and project management rather than DevOps principles. While it mentions flow metrics, which can relate to DevOps, the overall emphasis is on project success and decision-making rather than the collaborative and cultural aspects of DevOps. The discussion lacks depth in terms of DevOps practices and does not address key topics such as automation, shared accountability, or continuous improvement.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T00:01:53",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are relevant to product management, but the primary focus is on a training course rather than strategic product management discussions.",
     "level": "Tertiary"
   },
@@ -46,19 +52,19 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on agile metrics and forecasting, which are important for improving predictability and decision-making in agile project management. While it touches on relevant concepts, it does not deeply explore broader principles or practices of business agility.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are relevant to managing uncertainty in complex systems, but it does not primarily focus on complexity thinking principles.",
     "level": "Tertiary"
   },
@@ -82,30 +88,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses agile metrics and decision-making, which is closely aligned with Evidence Based Management principles. However, the primary focus is on a course offering rather than a thorough exploration of EBM concepts.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses metrics and data-driven decision-making, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on agile metrics and forecasting without explicitly addressing the broader themes of EBM, such as current value or unrealised value. The depth of discussion on EBM concepts is limited, as it does not explore empirical decision-making or outcome management in detail.",
     "level": "Secondary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on agile metrics and forecasting, unrelated to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses agile metrics and forecasting without a direct focus on Scaling Kanban principles or practices.",
-    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -118,10 +109,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on Agile metrics and forecasting, and while it is relevant to Agile frameworks, it is more about metrics than the frameworks themselves. The course is suitable for those involved in Agile or Lean project management, indicating a secondary theme of Agile frameworks.",
     "level": "Tertiary"
   },
@@ -136,30 +127,21 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an agile metrics course, which is not focused on the Definition of Ready.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are relevant to trend analysis in Agile. However, the primary focus is on a specific course rather than a broader analysis of trends.",
     "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on agile metrics and forecasting and does not discuss scaling Agile or frameworks for multiple teams.",
-    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -199,10 +181,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on agile metrics and forecasting, which are important for measuring team performance, but it does not primarily address team collaboration or dynamics.",
     "level": "Tertiary"
   },
@@ -226,21 +208,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content primarily focuses on agile metrics and forecasting, which are significant to project success and decision-making in product delivery. However, the main discussion revolves around training and learning rather than practical application of product delivery methodologies.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on agile metrics and forecasting, without a clear integration or discussion of AI's role in these processes.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +224,6 @@
     "reasoning": "Content primarily focuses on agile metrics and forecasting, which, while relevant to project management, does not explicitly align with the strategic adoption and integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on agile metrics and forecasting, which can influence team dynamics and decision-making processes. However, it is more centered on technical aspects of metrics rather than the interactions or behaviors of people specifically.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-18T07:20:56",
@@ -269,21 +233,12 @@
     "reasoning": "The content is focused on agile metrics and forecasting, which does not directly relate to Test Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on agile metrics and their application in project management, which aligns with Agile Project Management principles. It discusses key topics such as flow metrics, forecasting, and risk management relevant to agile methodologies.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics in the context of project management, which is relevant to Lean principles, but the primary focus is on agile methodologies and metrics rather than Lean Thinking specifically.",
     "level": "Tertiary"
   },
@@ -296,15 +251,6 @@
     "reasoning": "Content focuses primarily on agile metrics and forecasting rather than on accountability or team ownership principles.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content mainly focuses on agile metrics and forecasting without clear emphasis on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-18T07:20:56",
@@ -314,111 +260,108 @@
     "reasoning": "Content predominantly discusses agile metrics and forecasting related to project management, without a specific focus on release management processes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an agile metrics course, which does not discuss the principles, implementation, or any aspects of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on agile metrics and forecasting, which are important for improving decision-making and project predictability within an organization. However, it primarily addresses the individual/team level application of metrics rather than discussing enterprise-wide agility principles or organizational transformations.",
     "level": "Tertiary"
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on metrics for Agile project management, specifically mentioning flow metrics such as WIP and Cycle Time, which are relevant to Kanban. However, it appears to address a broader scope of Agile metrics, making Kanban a major but secondary theme.",
     "level": "Tertiary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and their role in decision-making, which relates to technical leadership, but it primarily focuses on a course about metrics rather than directly addressing leadership themes.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are important for Agile planning and decision-making, making it a major but secondary theme.",
     "level": "Tertiary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on metrics and forecasting in Agile and Lean project management, without specific discussion on Scrum Master roles or responsibilities.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than the specific role and responsibilities of a Scrum Master. While it touches on concepts relevant to project management and decision-making, it does not explicitly discuss the Scrum Master role or its impact on team dynamics and organisational change. The mention of agile metrics aligns somewhat with the Scrum framework, but the depth of discussion lacks a direct connection to the core themes of the Scrum Master category.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on agile metrics and forecasting, which are central to effective Agile Planning and decision-making, aligning with the principles of Agile Planning as it relates to measuring progress and adjusting plans.",
     "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on metrics and forecasting within Agile and Lean project management, lacking a direct discussion of Agile values and principles.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on agile metrics and their role in enhancing predictability, specifically mentioning flow metrics such as WIP, Cycle Time, and Throughput, which are directly relevant to the principles of flow efficiency.",
     "level": "Secondary"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting, with no clear relevance to Test First Development or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than discussing Test First Development principles. While it touches on project success and decision-making, it does not explicitly mention Test First practices, success criteria, or the role of testing in the development process. The alignment with core themes of Test First Development is minimal, and the depth of discussion regarding the category is very limited.",
     "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
+    "final_score": 80.0,
     "reasoning": "The content is primarily focused on forecasting techniques in Agile, including the use of metrics and Monte Carlo simulation to enhance predictability and data-driven decision-making.",
     "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Cycle Time as part of flow metrics in the context of a course on applying metrics for predictability. While Cycle Time is mentioned, the course focuses primarily on broader agile metrics and forecasting, making Cycle Time a secondary theme.",
     "level": "Tertiary"
   },
@@ -442,10 +385,10 @@
   },
   "Estimation": {
     "category": "Estimation",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 75,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
+    "final_score": 75.0,
     "reasoning": "The course discusses agile metrics and forecasting, which are related to estimation practices in Agile and Scrum, although it primarily focuses on metrics rather than explicit estimation techniques.",
     "level": "Secondary"
   },
@@ -460,19 +403,19 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile metrics and forecasting rather than the Ability to Innovate.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content is focused on agile metrics and forecasting, which are important aspects of Agile project management, indicating a major but secondary theme related to Agile transformation.",
     "level": "Tertiary"
   },
@@ -487,10 +430,10 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile and Lean project management, focusing on metrics and forecasting, which is a significant aspect of Lean Principles. However, the primary focus is on metrics application rather than the core Lean concepts of waste reduction and value maximization.",
     "level": "Tertiary"
   },
@@ -502,24 +445,6 @@
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on agile metrics and forecasting, which does not align with the discussion of Scrum values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting for project success, not directly related to resilience and change.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are practical techniques for enhancing project management and decision-making in Agile practices.",
-    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -548,15 +473,6 @@
     "reasoning": "The content is focused on a course about agile metrics and forecasting and does not discuss personal experiences or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily promotes an 8-week course on agile metrics, with no direct connection to specific events or presentations.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "calculated_at": "2025-02-18T07:20:56",
@@ -577,20 +493,11 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting rather than Scrum Team dynamics or roles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on agile metrics and decision-making within projects, without addressing scaling agile practices across organizations.",
+    "reasoning": "Content primarily focuses on agile metrics and forecasting rather than Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -613,11 +520,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on agile metrics and forecasting in a project management context, without clear relevance to Continuous Delivery principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are related to project management rather than Continuous Delivery specifically. While it mentions concepts like risk management and decision-making, it does not directly address Continuous Delivery principles, practices, or the role of automation in testing and deployment. The discussion lacks depth in Continuous Delivery topics and does not provide examples or case studies relevant to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -649,10 +559,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile metrics and forecasting without discussing team dynamics or collaboration.",
     "level": "Ignored"
   },
@@ -665,7 +575,7 @@
     "reasoning": "Content primarily focuses on agile metrics and forecasting training, with no discussion on the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T07:20:56",
     "ai_confidence": 0,
@@ -683,15 +593,6 @@
     "reasoning": "The content primarily discusses agile metrics and forecasting, which is unrelated to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the course on agile metrics discusses prediction and decision-making, it focuses primarily on metrics and project management techniques rather than emphasizing discovery and learning processes explicitly.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-18T07:20:56",
@@ -703,12 +604,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content focuses on agile metrics and forecasting, which is related to decision-making in an Agile context. However, it primarily addresses project management rather than specific product-centric approaches or the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting within a project management context, which does not directly address the Agile Product Operating Model. While it mentions agile practices and metrics, it lacks a clear connection to product management principles or the broader themes of the APOM. The discussion is more aligned with traditional project management methodologies rather than the product-oriented mindset central to the APOM.",
+    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -730,10 +634,10 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are relevant to improving decision-making and project adaptability in a market context, but it is primarily focused on a specific course rather than broader market adaptability concepts.",
     "level": "Tertiary"
   },
@@ -766,21 +670,21 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content focuses on mastering agile metrics and forecasting, which are essential for enhancing decision-making processes in project management.",
     "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 85,
     "non_ai_confidence": 30,
-    "final_score": 80.0,
+    "final_score": 85.0,
     "reasoning": "The content primarily focuses on mastering agile metrics, forecasting, and data-driven decision-making in Agile and Lean project management.",
-    "level": "Secondary"
+    "level": "Primary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -793,10 +697,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which can relate to Lean principles, but it primarily focuses on metrics and project management, making Lean a secondary theme.",
     "level": "Tertiary"
   },
@@ -809,48 +713,39 @@
     "reasoning": "Content predominantly focuses on agile metrics and forecasting for project success rather than mentoring, coaching, or professional development.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on agile metrics and forecasting without direct mention of AI or automation in Agile frameworks.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses enhancing decision-making and predicting project outcomes, which relates to sensemaking in a broad sense. However, it primarily focuses on agile metrics and forecasting techniques, which are more about project management than direct sensemaking processes.",
     "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content emphasizes the use of agile metrics and forecasting which aligns with strategic decision-making in Agile contexts, but does not deeply focus on broader strategic planning or alignment.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on enhancing project success and decision-making through agile metrics, which aligns well with operational practices aimed at improving efficiency and predictability in Agile and Lean frameworks.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The course addresses agile metrics and forecasting, which are relevant to Agile principles of data-driven decision-making and predictability in project outcomes, making Agile Philosophy a major theme, though it's still focused on specific metrics rather than broad philosophical discussions.",
     "level": "Tertiary"
   },
@@ -883,10 +778,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "While the content focuses on an educational course that discusses metrics within Agile frameworks, the primary topic revolves around agile metrics and forecasting rather than continuous learning principles or practices.",
     "level": "Tertiary"
   },
@@ -901,10 +796,10 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are relevant to measuring project performance within a portfolio management context, but the primary focus of the content is on a training course rather than portfolio management itself.",
     "level": "Tertiary"
   },
@@ -919,10 +814,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are important for decision-making in Agile product management, but it is primarily a course offering rather than a discussion focused on Agile product management practices.",
     "level": "Tertiary"
   },
@@ -944,15 +839,6 @@
     "reasoning": "Content primarily discusses agile metrics and forecasting without a clear focus on Value Stream Management principles or techniques.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile metrics and forecasting, with no focus on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-18T07:20:56",
@@ -962,21 +848,12 @@
     "reasoning": "The content primarily focuses on agile metrics and forecasting techniques, without a clear emphasis on the interplay between social and technical systems within an organization.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily focuses on a training course related to agile metrics and forecasting, which aligns with the theme of products but is also heavily educational.",
-    "level": "Tertiary"
-  },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are related to empirical process control principles, but it primarily focuses on a course offering rather than in-depth discussion of empirical process control methods.",
     "level": "Tertiary"
   },
@@ -991,21 +868,24 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
+    "final_score": 80.0,
     "reasoning": "The content primarily focuses on practical application and understanding of agile metrics and their role in predictability, which aligns with pragmatic thinking in Agile contexts. It emphasizes strategies for enhancing decision-making and reducing uncertainty in project management.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-11T09:17:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The course covers Agile metrics, including flow metrics like Cycle Time and Throughput, which are related to Lead Time, but does not primarily focus on Lead Time itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile metrics and forecasting, which are related to project management but does not explicitly mention Lead Time. While it touches on concepts like Cycle Time and flow metrics, it lacks a direct focus on Lead Time as a specific observability metric. The discussion is more general and does not provide in-depth analysis or techniques specifically for measuring or optimising Lead Time, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1018,10 +898,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and their role in project management, which is a significant aspect of delivering working software, but it primarily focuses on metrics and forecasting rather than hands-on aspects of working software delivery.",
     "level": "Tertiary"
   },
@@ -1063,19 +943,19 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 70,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
+    "final_score": 70.0,
     "reasoning": "The content focuses on agile metrics and forecasting, which are related to managing software projects and improving software development processes. However, it does not delve deeply into software engineering practices, thus it is a major but secondary theme.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content focuses on agile metrics and their application for decision-making, which is a significant aspect of evidence-based leadership. However, the primary focus is on a training course rather than explicitly on leadership decisions as central.",
     "level": "Tertiary"
   },
@@ -1090,10 +970,10 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses decision-making in the context of agile metrics and forecasting, which is related to decision theory. However, the primary focus is on training and applying metrics rather than a thorough exploration of decision-making processes in uncertain environments.",
     "level": "Tertiary"
   },
@@ -1115,15 +995,6 @@
     "reasoning": "Content primarily focuses on agile metrics and forecasting, not on cross-functional teams or their dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile metrics and forecasting, which is relevant to Software Developers but more focused on project management and metrics rather than the direct role of software developers in Agile and DevOps practices.",
-    "level": "Tertiary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-18T07:20:56",
@@ -1144,30 +1015,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a course about agile metrics and forecasting, which does not discuss installation or configuration aspects.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content primarily focuses on agile metrics and forecasting, it identifies 'Product Owners' as part of the delivery audience, suggesting that the course may include relevant information for Product Owners. However, the main emphasis is not specifically on the role or responsibilities of a Product Owner.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily describes a training course on agile metrics rather than providing news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1207,19 +1069,19 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile metrics and forecasting techniques without addressing leadership roles or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on agile metrics and forecasting, lacking any discussion on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1243,38 +1105,44 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 80,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
+    "final_score": 80.0,
     "reasoning": "The content includes key flow metrics such as Throughput, Cycle Time, and WIP, indicating a significant focus on measuring and optimizing the flow of work in Agile and Lean contexts.",
     "level": "Secondary"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on metrics and forecasting in Agile project management and is centered around Kanban training, with no clear emphasis on Scrum principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than Scrum specifically. While it touches on concepts relevant to project management, such as risk management and decision-making, it does not explicitly mention Scrum roles, events, or artifacts. The discussion on flow metrics and analytics is more aligned with general agile practices rather than the specific principles and frameworks of Scrum. Therefore, the confidence score reflects a low alignment with the Scrum category.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are related to value delivery in terms of improving decision-making and project outcomes, but the primary focus is more on metrics and project management rather than direct value delivery practices.",
     "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:00:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on agile metrics and forecasting in project management, not on system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile metrics and project management rather than system configuration. There are no direct mentions of system configuration topics such as configuration management tools, system optimisation, or integration of hardware and software. While there is a brief mention of optimising processes, it is not specifically related to system configuration. The depth of discussion is centred around metrics and forecasting in project management, which does not align with the core themes of system configuration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,15 +1163,6 @@
     "reasoning": "The content primarily focuses on agile metrics and forecasting for project management, which does not align with the discussions on product discovery methodologies, customer needs, or defining product features.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:20:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on agile metrics and forecasting without a specific connection to Scrum principles or practices related to product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-18T07:20:56",
@@ -1315,19 +1174,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on agile metrics and forecasting rather than the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are important for decision-making in an Agile context. However, it primarily focuses on a course format rather than comprehensive discussions about Agile strategy as defined in the category.",
     "level": "Tertiary"
   },
@@ -1351,10 +1210,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses agile metrics and forecasting, which are relevant to organisational agility. However, it mainly centers on a course that teaches these metrics rather than directly addressing broader organisational agility practices and strategies.",
     "level": "Tertiary"
   },
@@ -1369,11 +1228,263 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-18T07:20:56",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily focuses on agile metrics and forecasting in project management. While it mentions concepts like validated learning and risk management, these are more aligned with general agile practices rather than a specific focus on Lean Startup methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than the application of AI in Agile or DevOps. While it discusses decision-making and project management, it does not explicitly mention AI or its integration into these processes. The discussion lacks depth regarding AI's role, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile metrics and project management rather than discussing Internal Developer Platforms. While it touches on aspects of predictability and decision-making, it does not explicitly mention IDPs or their components, benefits, or implementation practices. The discussion is more aligned with general project management methodologies than with the specific framework of an Internal Developer Platform.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than explicitly discussing the Shift-Left Strategy. While it touches on aspects of project management and risk minimization, it does not delve into integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy. The discussion lacks depth in relation to the specific principles and techniques associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses metrics and forecasting, which are important for data-driven decision-making, a key aspect of Continuous Improvement. However, it primarily focuses on the application of metrics in project management rather than a broader discussion on Continuous Improvement principles. The depth of discussion is limited, as it does not explore techniques for fostering a culture of experimentation or provide case studies on Continuous Improvement initiatives.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than explicitly discussing Common Goals. While it touches on decision-making and project success, it lacks a direct connection to shared objectives or alignment within teams, which are central to the Common Goals category. The discussion is more about individual metrics and tools rather than the overarching strategic alignment that defines Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of mastering agile metrics and forecasting, which relates to competence in terms of skill development and decision-making. However, it primarily focuses on the course structure and specific metrics rather than a broader discussion on competence as a foundational principle. The mention of enhancing project success and decision-making aligns with the core themes, but the depth of discussion on competence itself is limited.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting rather than the One Engineering System framework. While it touches on project management and decision-making, it does not explicitly discuss the principles, components, or implementation of 1ES. The mention of metrics could relate to broader engineering practices but lacks direct relevance to the integration and standardisation of engineering processes as defined by 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are important for project management but do not explicitly discuss Agentic Agility or its core themes. While there are mentions of data-driven decision-making and risk management, the content lacks a clear distinction between human and AI capabilities, and does not delve into the intentional shaping of outcomes or the transformative capacity of individuals and systems. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:59:17",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content focuses on mastering agile metrics and forecasting, which are essential for effective product development. It discusses the importance of accurate project timelines and risk minimisation, aligning with the principles of Agile product development. However, while it touches on relevant topics, the primary focus is on the course structure and metrics rather than a comprehensive exploration of product development methodologies. The depth of discussion on product development practices is moderate, as it lacks detailed exploration of customer feedback integration or iterative processes.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:59:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are not directly related to Liberating Structures. There are no explicit mentions of Liberating Structures or their techniques. While there is a slight conceptual alignment in terms of enhancing decision-making and collaboration, the depth of discussion is centred around metrics rather than facilitation techniques or group dynamics, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:59:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content focuses on agile metrics and forecasting, which are relevant to project management, particularly in an agile context. However, it primarily emphasises specific metrics and tools rather than broader project management principles or methodologies. While it does mention project success and decision-making, the discussion lacks depth in covering the full scope of project management topics such as lifecycle phases, governance structures, or roles. Therefore, while there is a clear connection to project management, it is more narrowly focused on agile practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:59:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are not specific to Open Space Agile principles. There are no direct mentions of Open Space Agile or its core themes such as psychological safety, co-creation, or iterative dialogue. While it discusses agile concepts, it does not align with the collaborative and emergent nature of Open Space Agile, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:59:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are important for project management but do not directly address the concept of Unrealised Value. While there is a mention of enhancing decision-making and project success, the discussion lacks explicit references to untapped opportunities or potential improvements that align with the core themes of Unrealised Value. The depth of discussion on metrics and their application is significant, but it does not connect to the broader implications of unrealised value in the context of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:59:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses agile metrics and forecasting, which are closely related to Time to Market. It explicitly mentions Cycle Time and the importance of accurate project timelines, which are key metrics in assessing Time to Market. The course aims to enhance predictability and decision-making, aligning with the core themes of optimising processes to deliver value quickly. However, while it touches on relevant metrics and their application, it does not deeply explore strategies for improving Time to Market or provide case studies, which slightly limits the depth of discussion.",
+    "level": "Secondary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:59:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses agile metrics and forecasting, which are related to assessing project success and decision-making. However, it does not explicitly mention 'Current Value' or its specific indicators like customer satisfaction or revenue impact. The focus is more on metrics for predictability rather than a real-time assessment of value delivered, which is central to the Current Value category. While there is some conceptual alignment with the idea of using metrics to enhance decision-making, the depth of discussion on Current Value itself is limited.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:59:39",
+    "ai_confidence": 22.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on agile metrics and project management rather than discussing the company as a product concept. While it touches on data-driven decision-making and risk management, it lacks direct references to organisational design, customer-centric strategies, or the principles of treating the organisation as a product. The discussion is more aligned with traditional project management practices than with the CaaP framework, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:59:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting, which are important for project management but do not specifically address the complexities of scaling Agile practices across multiple teams. While it mentions flow metrics and decision-making, it lacks direct discussions on frameworks for scaling, cross-team collaboration, or managing dependencies, which are essential for the 'Scaling' category. The depth of discussion is limited to metrics without exploring how these metrics can be applied in a scaling context.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:59:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting without any explicit mention of Hybrid Agile or its challenges. While it discusses project management and agile practices, it does not critically examine the integration of traditional methodologies with agile delivery, nor does it address the pitfalls associated with Hybrid Agile. The discussion lacks depth in terms of the core themes outlined for the category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:59:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting without explicitly discussing Agnostic Agile principles or their application. While it touches on aspects of project management and decision-making, it lacks direct mentions of Agnostic Agile, its core themes, or any ethical considerations. The discussion is more about the mechanics of metrics rather than the philosophical underpinnings of Agnostic Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:59:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on agile metrics and project management without any direct mention of GitHub or its services. While it discusses concepts relevant to Agile methodologies, it does not align with GitHub's functionalities or tools, nor does it provide any depth regarding GitHub's role in project management or version control.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:59:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile metrics and forecasting in project management, with no direct mention of Cell Structure Design or its principles. While it discusses concepts related to project success and decision-making, it does not align with the core themes of decentralised structures or autonomous cells. The depth of discussion is limited to metrics and does not explore the characteristics or functions of cells within a networked structure.",
+    "level": "Ignored"
   }
 }

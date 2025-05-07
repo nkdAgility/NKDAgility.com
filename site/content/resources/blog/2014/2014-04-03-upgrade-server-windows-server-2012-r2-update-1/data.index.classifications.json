@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical updates and installation procedures for Windows Server, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the practical steps for updating Windows Server and related systems, which aligns with the application of tooling in a technical context, but it does not focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T11:03:50",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:03:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical updates and installation procedures for Windows Server, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T11:03:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of updating Windows Server and does not address software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T11:03:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to updating Windows Server, with no clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T11:03:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses updating Windows Server and does not relate to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading Windows Server and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to value delivery, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:03:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the step-by-step installation and updating process for Windows Server 2012 R2, including specific updates and their installation order, which aligns well with the category of Install and Configuration.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T11:03:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical updates and installation procedures for Windows Server, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 85.0,
+    "reasoning": "The content provides a detailed step-by-step guide on updating Windows Server 2012 R2, including specific updates, their order, and installation times. It directly addresses the installation and configuration of software, aligning well with the category's focus. The depth of discussion is high, as it includes practical insights and troubleshooting tips related to the update process, making it a strong fit for the 'Install and Configuration' category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -100,29 +61,23 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-15T11:04:02",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical updates and installation procedures for Windows Server, with no focus on the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T11:04:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical updates and installation procedures for Windows Server, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:04:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on updating Windows Server and does not discuss DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on upgrading Windows Server and does not explicitly discuss DevOps principles or practices. While it touches on aspects of system maintenance that could relate to DevOps, such as ensuring systems are up-to-date for performance and security, it lacks a direct connection to the core themes of DevOps, such as collaboration, automation, or shared accountability. The discussion is more technical and operational rather than philosophical or cultural, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical updates and installation processes for Windows Server, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:04:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses updating Windows Server and does not focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T11:04:10",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of updating Windows Server and does not address flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T11:04:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical updates and installation procedures for Windows Server, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:04:14",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of updating Windows Server and does not address metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses updating Windows Server and related processes, which does not align with Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T11:04:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of updating Windows Server and related systems, with no focus on Agile methodologies, DevOps practices, or literature relevant to the category.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T11:04:26",
@@ -280,12 +208,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS), which is part of Azure DevOps, but the primary focus is on updating Windows Server rather than Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Team Foundation Server (TFS), which is part of Azure DevOps, but the primary focus is on updating Windows Server and the installation process of updates. There is minimal discussion on Azure DevOps functionalities or best practices, and the content does not delve into CI/CD, project management, or integration topics relevant to Azure DevOps.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -298,29 +229,32 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-15T11:04:30",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of updating Windows Server and related systems, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T11:04:31",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of updating Windows Server and related systems, with no focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:04:33",
+    "calculated_at": "2025-03-22T07:23:07",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of updating Windows Server and does not relate to Agile principles or the Agile Product Operating Model.",
+    "reasoning": "The content focuses entirely on upgrading Windows Server and does not mention or align with any principles of the Agile Product Operating Model. It discusses technical updates and installation procedures, which are unrelated to agile methodologies or product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +266,6 @@
     "reasoning": "Content primarily discusses the process of updating Windows Server and related systems, with no focus on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses updates related to Windows Server 2012 R2, which is relevant to technology news, but primarily focuses on the update process rather than broader industry trends or reviews.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T11:04:37",
@@ -348,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on updating Windows Server and does not discuss the management of software applications throughout their lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:04:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses server updates and installation procedures, with no mention of Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +286,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical updates for Windows Server and does not address the Definition of Done in Agile or Scrum methodologies.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the technical process of upgrading and updating Windows Server, which touches on software maintenance and system management, making it a major theme, but it does not deeply engage with broader software craftsmanship principles or best practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the process of updating Windows Server systems, which is more operational than a discussion on software craftsmanship or engineering practices. While it does touch on technical aspects, such as the order of updates and installation times, it lacks a deeper exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development. The discussion is practical and procedural, rather than theoretical or strategic, which diminishes its alignment with the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +316,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating Windows Server and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on upgrading Windows Server and does not discuss Continuous Delivery principles, practices, or benefits. It lacks direct mentions of Continuous Delivery and does not align with its core themes, such as automation in deployment or rapid feedback. The discussion is more about system updates rather than software delivery practices.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of updating Windows Server, detailing the steps and times for updates, rather than focusing on Lead Time as a metric or concept.",
     "level": "Ignored"
   },
@@ -433,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses server updates and installation procedures, with no relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -496,10 +418,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on updating Windows Server and does not discuss Scrum teams or related dynamics.",
     "level": "Ignored"
   },
@@ -559,10 +481,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical details about upgrading server systems and does not address team performance or collaboration.",
     "level": "Ignored"
   },
@@ -586,28 +508,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses updating Windows Server and Team Foundation Server, which is related to the software development lifecycle and the environment used for software development projects, though it primarily focuses on update procedures rather than on software development methodologies or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the process of updating Windows Server and mentions Team Foundation Server (TFS), which is relevant to software development practices. However, the primary focus is on the update process rather than broader software development methodologies or practices. While it touches on aspects of version control and server management, it lacks depth in discussing software engineering principles or frameworks.",
     "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses server updates and installation processes, with no relation to Agile Project Management principles or practices.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on software updates for Windows Server and related systems, without any discussion on Agile values, principles, or methodologies.",
     "level": "Ignored"
   },
@@ -685,12 +601,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the recent release of updates for Windows Server 2012 R2 and the process of installing these updates, indicating an interest in frequent updates, but it primarily focuses on the specific updates and installation process rather than the broader principles of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the installation of updates for Windows Server 2012 R2, which implies a focus on software updates. However, it lacks a broader discussion on the principles of frequent releases, continuous delivery, or the impact of these updates on user satisfaction. The mention of updates is more procedural than strategic, and there is no exploration of metrics, best practices, or the role of DevOps in facilitating frequent releases.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -701,21 +620,12 @@
     "reasoning": "Content is primarily focused on technical details about updating Windows Server and does not discuss customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on updating server software and does not discuss Scrum principles, scaling frameworks, or related topics.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical updates and installation processes for Windows Server, with no relevance to evidence-based leadership principles or practices.",
     "level": "Ignored"
   },
@@ -726,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical updates for Windows Server, with no relation to psychological safety or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on system updates for Windows Server and does not discuss scalability of agile practices or related topics.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +703,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses system updates for Windows Server without any focus on innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about updating Windows Server and does not discuss Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses exclusively on updating Windows servers and does not discuss Agile methodologies, frameworks, or any scaling practices related to Agile.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -955,11 +838,14 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the update process of Windows Server and related updates, which aligns with software release practices, but it focuses more on the technical steps and manual processes rather than a comprehensive discussion on release management strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the installation of updates for Windows Server 2012 R2, which relates to the release of software updates. However, it lacks a comprehensive focus on release management strategies, such as planning, scheduling, or risk management. While it mentions the release of updates and the process of applying them, it does not delve into the broader context of release management practices or metrics, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Owner": {
@@ -973,10 +859,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on updating Windows Server and does not discuss Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1009,10 +895,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses server updates and technical details, with no clear focus on team collaboration, Agile, Scrum, or DevOps principles.",
     "level": "Ignored"
   },
@@ -1034,7 +920,7 @@
     "reasoning": "Content primarily discusses updating server software and does not focus on the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T11:19:37",
     "ai_confidence": 0,
@@ -1043,23 +929,17 @@
     "reasoning": "Content discusses Windows Server updates and installation procedures, which is unrelated to Minimum Viable Products or product development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about updating Windows Server, with no discussion of AI applications within Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the process of upgrading and configuring Windows Server 2012 R2, including specific update procedures, installation order, and considerations during the update process, which aligns closely with system configuration topics.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the process of updating and configuring Windows Server 2012 R2, which aligns closely with system configuration practices. It discusses specific updates, their installation order, and the implications of these updates on system performance and reliability. The depth of detail regarding the update process, including time taken for installations and the need for restarts, further supports its relevance to the category. Overall, the content is a practical guide to system configuration, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,20 +979,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on updating Windows Server 2012 R2 and related processes, with no discussion of Test First Development or its principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the process of upgrading Windows Server and does not mention Test First Development or its principles. There is no alignment with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among team members. The depth of discussion is focused on technical updates rather than any testing methodologies.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T11:19:37",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content is primarily focused on upgrading and updating Windows Server 2012 R2, including installation and update procedures, making it central to the Windows category.",
+    "final_score": 92.0,
+    "reasoning": "The content primarily focuses on the installation and updating procedures for Windows Server 2012 R2, detailing specific updates, their installation order, and the impact on various systems. It discusses troubleshooting aspects related to the update process and provides insights into managing Windows environments, which aligns closely with the key topics of the Windows category. The depth of discussion is substantial, covering both the technical steps and personal experiences, thus justifying a high confidence score.",
     "level": "Primary"
   },
   "Deployment Strategies": {
@@ -1135,10 +1021,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-10T15:55:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details of updating Windows Server and does not address team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1162,12 +1048,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of updating servers and may implicitly touch on troubleshooting aspects related to installation and potential issues, but the primary focus is on the update process rather than explicit troubleshooting methodologies or techniques.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the process of updating Windows Server 2012 R2, detailing the steps and considerations involved. While it does touch on potential issues related to the update process, such as the need for restarts and the order of updates, it lacks a strong emphasis on diagnosing or resolving specific technical problems. The discussion is more about performing updates rather than troubleshooting issues that arise from them, which limits its alignment with the troubleshooting category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1069,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:19:37",
+    "calculated_at": "2025-04-08T17:47:31",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses updates for Windows Server and does not relate to the role or responsibilities of a Scrum Master.",
+    "reasoning": "The content focuses entirely on technical updates related to Windows Server and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related concepts. There is no alignment with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1095,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about updating Windows Server and does not discuss working agreements or team collaboration norms.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T11:19:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Server updates and their installation process, not the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1214,6 @@
     "reasoning": "Content primarily discusses the process of updating Windows Server systems and provides technical details, with no focus on accountability or team dynamics in Agile contexts.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T11:19:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical updates for Windows Server and does not relate to Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T11:19:38",
@@ -1369,11 +1243,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:13:24",
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading Windows Server and does not discuss any aspects of social technologies, collaboration, or decision-making. It lacks any mention of self-organisation, collective intelligence, or value delivery, which are core themes of the category. The depth of discussion is entirely technical, with no relevance to the principles outlined in the Social Technologies category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:14:39",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of updating Windows Server and related systems, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses updating Windows Server and related systems, with no focus on Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:14:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses updating Windows Server and related processes, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on updating Windows Server and does not mention Scrum or its principles, roles, events, or practices. There is no discussion of Agile principles or team dynamics, which are central to the Scrum framework. The content is entirely unrelated to Scrum, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the process of updating Windows Server and does not address any aspects of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it provide any insights into the principles, benefits, or methodologies related to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of upgrading a server and does not discuss Continuous Improvement principles. While it mentions the importance of keeping systems up-to-date for optimal performance, it lacks a discussion on empirical evidence, data-driven decision-making, or fostering a culture of experimentation and learning. The content does not align with the core themes of Continuous Improvement, nor does it provide depth in this area.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a server and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to procedural details about software updates.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a server and does not discuss competence, continuous learning, or skill development. While it implies a level of technical capability, it does not explicitly address the principles of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:02",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for upgrading a server and does not discuss Agentic Agility or its principles. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content lacks any depth or alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

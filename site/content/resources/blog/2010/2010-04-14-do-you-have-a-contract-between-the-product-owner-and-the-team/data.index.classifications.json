@@ -1,21 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T01:02:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in Scrum and the importance of defining a Sprint Contract, which aligns closely with Agile Product Management principles.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner in Scrum, which is a key aspect of Agile Product Management. It details the concept of a Sprint Contract, highlighting the relationship between the Product Owner and the implementation team, thus aligning well with the category's focus on stakeholder engagement and collaboration. The depth of discussion is moderate, providing a clear example of how agreements can enhance understanding and delivery within Agile frameworks. However, it could benefit from more comprehensive exploration of other Agile principles and practices.",
     "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract in Scrum, which relates to practical techniques in Agile methodology, but it primarily focuses on the relationship between the Product Owner and the Team rather than specific tools or broader Agile practices.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T01:02:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:58:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint Contract in Scrum, focusing on the relationship between the Product Owner and the implementation team, rather than on evidence-based management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T01:02:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and the concept of a Sprint Contract, which are not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T01:02:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T01:03:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Scrum roles and the concept of a Sprint Contract, with no mention of AI or automation technologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within Scrum, focusing on the relationship between the Product Owner and the Team. While it touches on aspects of collaboration and project delivery, it does not explicitly address Evidence-Based Management principles or metrics. The discussion lacks depth in empirical decision-making or data-informed practices, which are central to EBM.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +43,12 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T01:03:03",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the concept of a Sprint Contract, which are not related to installation or configuration processes.",
     "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which relates to accountability and understanding in the Scrum framework. However, it primarily focuses on the mechanics of Scrum rather than a broader discussion on transparency and accountability.",
-    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -100,29 +61,26 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between the Product Owner and the implementation Team within the Scrum framework, highlighting aspects of collaboration and agreement that influence team dynamics and project outcomes.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the relationship between the Product Owner and the implementation team within a Scrum framework, which touches on the social dynamics of team collaboration. However, it primarily focuses on the mechanics of a Sprint Contract rather than a broader exploration of sociotechnical systems. While there are elements of organisational structure and team dynamics, the depth of discussion on the interplay between social and technical aspects is limited.",
     "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T01:03:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses Scrum roles and the concept of a Sprint Contract, which is primarily focused on project management rather than organisational resilience or change management.",
-    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T01:03:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically the concept of a Sprint Contract between the Product Owner and the Team. While it touches on collaboration, which is a component of DevOps, it does not delve into the broader principles or practices of DevOps as a philosophy. The discussion is centred around Scrum methodology rather than the integration of people, processes, and technology that characterises DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses Scrum roles and the concept of a Sprint Contract, which is not focused on decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T01:03:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint Contract in Scrum, without reference to any specific events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T01:03:20",
@@ -160,15 +109,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint Contract in Scrum, focusing on roles and agreements rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T01:03:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the relationship and agreement between the Product Owner and the implementation Team within a Scrum framework, highlighting team dynamics and collaboration.",
-    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T01:03:25",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint Contract in Scrum, focusing on roles and agreements rather than metrics or learning processes.",
     "level": "Ignored"
   },
@@ -235,11 +175,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-16T01:03:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of a Sprint Contract in Scrum, which is directly related to the methodologies and practices involved in product delivery, particularly in the context of Agile methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the concept of a Sprint Contract within the Scrum framework, which is a key aspect of Agile methodologies and product delivery. It highlights the roles of the Product Owner and the implementation team, aligning well with the core themes of planning, development, and iterative feedback. The depth of discussion includes practical implications of the contract, such as scope, quality standards, and the relationship dynamics between the PO and the team, which are essential for effective product delivery. However, while it is focused on Scrum, it does not cover broader aspects of product delivery such as deployment strategies or metrics, which slightly limits its overall depth.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -253,30 +196,24 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T01:03:33",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T01:03:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint Contract in Scrum, which is not directly related to specific products or literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which relates to ensuring a common understanding and agreement on deliverables, thus touching on aspects of value delivery in Scrum. However, it primarily focuses on the contractual relationship rather than broader value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on the relationship and expectations that can enhance value delivery in Scrum. However, it primarily focuses on the contractual aspect rather than broader strategies or methodologies for delivering value. The discussion lacks depth in exploring how this contract contributes to iterative development or customer value maximisation, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -305,76 +242,67 @@
     "reasoning": "Content primarily discusses Scrum roles and the concept of a Sprint Contract, which is focused on Agile project management rather than Systems Thinking principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T01:03:45",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship between the Product Owner and the Team within a Scrum framework, which is relevant to Agile principles, but it primarily focuses on the concept of a Sprint Contract rather than the broader Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within the Scrum framework, which is a specific agile practice rather than a broader discussion on the Agile Product Operating Model. While it touches on collaboration and roles, it lacks a comprehensive exploration of the APOM principles, such as transitioning to a product ethos or integrating product management practices. The focus remains on Scrum mechanics, which does not fully align with the core themes of the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum practices, specifically the concept of a Sprint Contract between the Product Owner and the Team, which relates to agile methodologies. However, it primarily focuses on the mechanics of Scrum rather than broader organisational agility strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract within the Scrum framework, which is a specific Agile practice. While it touches on aspects of collaboration and understanding between the Product Owner and the implementation team, it does not delve deeply into broader themes of organisational agility such as leadership roles, cultural shifts, or continuous improvement strategies. The focus is primarily on Scrum mechanics rather than the overarching principles of agility, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T01:03:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint Contract in Scrum, which is more of a practical guide than a news or review piece.",
-    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T01:03:50",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to the management of the entire application lifecycle.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T01:03:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint Contract between the Product Owner and the Team, which is a key aspect of Scrum practices.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint Contract between the Product Owner and the Team, which is not directly related to the Daily Scrum event.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses a Sprint Contract between the Product Owner and the implementation Team, it briefly mentions the Definition of Done as a quality standard, making it a secondary theme.",
+    "final_score": 47.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract, which indirectly relates to the Definition of Done by mentioning quality standards. However, it primarily focuses on the relationship between the Product Owner and the Team rather than explicitly defining or detailing the Definition of Done itself. The discussion lacks depth on the criteria that comprise the Definition of Done and does not provide best practices or examples, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Mastery": {
@@ -388,20 +316,23 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the concept of a Sprint Contract, which are related to project management rather than exploring methodologies for identifying customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within the Scrum framework, focusing on the relationship between the Product Owner and the implementation team. While it touches on aspects of project delivery, it does not explicitly address Continuous Delivery principles, such as automation, rapid feedback, or incremental improvements. The discussion is more aligned with Scrum practices rather than Continuous Delivery, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the concept of a Sprint Contract in Scrum, which focuses on scope and roles rather than measuring Lead Time or its importance.",
     "level": "Ignored"
   },
@@ -433,38 +364,44 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily discussing a Sprint Contract between the Product Owner and the Team, rather than focusing on the Definition of Ready for backlog items.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and practices, which are team-level Agile practices rather than portfolio management.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the relationship between the Product Owner and the implementation team in the context of Sprint planning, which indirectly relates to the Product Backlog and its management, but does not focus primarily on the Product Backlog itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the relationship between the Product Owner and the implementation team, which is relevant to the Product Backlog, but it primarily focuses on the concept of a Sprint Contract rather than the Product Backlog itself. While it touches on aspects of scope and agreements that relate to backlog management, it lacks a comprehensive exploration of backlog refinement, prioritisation, or the roles of the Product Owner in managing the backlog. Therefore, while there is some alignment, the depth and direct mentions are limited.",
     "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses on the concept of a Sprint Contract between the Product Owner and the Team, which is a core aspect of Agile Planning in Scrum, emphasizing the relationship and agreements that facilitate Agile project delivery.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the implementation team, which directly relates to Agile Planning principles. It highlights the importance of defining roles and agreements within the Scrum framework, aligning with Agile methodologies. The depth of discussion is significant, as it elaborates on the implications of the contract for scope, quality, and team dynamics, thus providing a comprehensive view of Agile Planning practices.",
     "level": "Secondary"
   },
   "Value Stream Mapping": {
@@ -487,57 +424,69 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract in Scrum, which relates to roles and commitments within an Agile framework. While it touches on operational practices, it primarily focuses on Scrum roles rather than broader operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract in Scrum, which relates to operational practices by defining roles and expectations between the Product Owner and the implementation team. However, it primarily focuses on the agreement aspect rather than broader operational efficiency techniques or strategies. The discussion lacks depth in exploring how this contract contributes to process optimisation or continuous improvement, which are key themes in the category.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the relationship and agreement between the Product Owner and the implementation Team, which is a core aspect of Scrum Team dynamics.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the relationship between the Product Owner and the implementation Team, which is a key aspect of Scrum roles. It highlights the importance of a Sprint Contract, which directly relates to team collaboration and communication strategies. The depth of discussion includes the implications of this contract on team dynamics and performance, although it could benefit from more detail on other Scrum roles and practices.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum-specific practices, such as the concept of a Sprint Contract between the Product Owner and the implementation Team, without delving into the broader Agile philosophy or principles.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team in Scrum, which can relate to the strategic alignment within Agile teams. However, the focus is more on the operational details of Scrum rather than a strategic approach.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on the strategic alignment of roles within Scrum. However, it primarily focuses on the practical implementation of this contract rather than a broader strategic framework. While it mentions the importance of understanding and enforcing relationships, it lacks depth in discussing strategic approaches or techniques for optimising delivery processes. Overall, it aligns with the category but does not delve deeply into strategic concepts.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is predominantly about Scrum roles and team agreements, not focused on validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum roles and the concept of a Sprint Contract, which pertains to Agile practices, but does not broadly address Agile transformation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within the Scrum framework, which is a specific Agile practice. While it mentions roles and responsibilities of the Product Owner and the implementation team, it does not delve deeply into broader Agile transformation strategies or methodologies. The focus is more on a tactical aspect of Scrum rather than the overarching principles of Agile transformation, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -559,20 +508,26 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the relationship and agreement between the Product Owner and the implementation team in the context of Scrum, which relates to team dynamics and collaboration, although it primarily focuses on the concept of a Sprint Contract.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the implementation team, which directly relates to team dynamics and collaboration within the Scrum framework. It highlights the importance of mutual understanding and commitment, aligning well with the core themes of enhancing team performance. The depth of discussion includes specific details about the agreement and its implications for team effectiveness, contributing to a strong alignment with the category. However, it does not extensively cover broader strategies or metrics for measuring team performance, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which is indirectly related to ensuring the delivery of increments in Scrum. However, the primary focus is on the agreement rather than the delivery of valuable software increments.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which indirectly relates to the Increment by emphasising the agreement on delivering a set of features by the end of the Sprint. However, it primarily focuses on the contractual relationship rather than the delivery of a potentially shippable product increment. While it touches on aspects of scope and quality, it lacks a detailed exploration of how these elements contribute to the Increment's value to stakeholders.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
@@ -586,38 +541,38 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a specific aspect of Scrum, which is a software development methodology, and the importance of contracts between the Product Owner and the Team within the Agile framework.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses the relationship between the Product Owner and the Team within the context of Scrum, focusing on the concept of a Sprint Contract which is a key aspect of Agile Project Management.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within the Scrum framework, which is a key aspect of Agile methodologies in software development. It explicitly mentions roles such as the Product Owner and the implementation Team, aligning closely with the Software Development category's focus on Agile practices. The depth of discussion includes the implications of the contract on the relationship between the PO and the Team, as well as the structure of Sprints as mini-projects, which adds significant detail to the topic.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content discusses the concept of a 'Sprint Contract' which relates to team agreements in Scrum, it primarily focuses on the Scrum framework and its practices rather than the core Agile values and principles. It touches on collaboration between the Product Owner and the Team but does not deeply engage with the foundational Agile values.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within the Scrum framework, which is a specific practice rather than a discussion of Agile values and principles. While it touches on the relationship between the Product Owner and the Team, it does not delve into the core Agile values or principles such as customer collaboration or responding to change. The focus is more on procedural aspects of Scrum rather than the underlying Agile philosophy.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the relationship between the Product Owner and the Team in Scrum, focusing on the concept of a Sprint Contract which relates to Scrum roles and events.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the relationship between the Product Owner and the implementation team, which aligns with Scrum roles and practices. It provides a detailed explanation of a Sprint Contract, which is a practical implementation of Scrum principles. The depth of discussion is significant, as it outlines the expectations and agreements that can enhance the Scrum process, thus demonstrating a strong alignment with the core themes of Professional Scrum.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -631,19 +586,22 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a Sprint Contract that implies a level of agreement and understanding in the context of Scrum, relating to the delivery of features and scope management, which are elements of inspection and adaptation in empirical process control.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract in Scrum, which touches on aspects of transparency and agreement between the Product Owner and the Team. However, it lacks a thorough exploration of empirical process control principles such as inspection and adaptation. While it mentions the importance of delivering agreed features and maintaining quality, it does not delve deeply into how these practices contribute to continuous improvement or provide evidence-based decision-making. Overall, the content is relevant but does not fully align with the core themes of empirical process control.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum contracts and agreements between the Product Owner and the Team, without a clear focus on Scrum values.",
     "level": "Ignored"
   },
@@ -667,10 +625,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which are related to Agile practices but do not directly focus on organisational change initiatives.",
     "level": "Ignored"
   },
@@ -701,15 +659,6 @@
     "reasoning": "Content primarily focuses on Scrum roles, contracts, and project management rather than customer satisfaction and experiences.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses the concept of a Sprint Contract between the Product Owner and the Team, which is not focused on scaling Scrum practices across multiple teams or organizations.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T01:51:30",
@@ -726,15 +675,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile contracts between the Product Owner and the Team, focusing on roles and responsibilities rather than psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and the concept of a Sprint Contract, which is focused on team-level agile practices rather than scaling agility across an organization.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,11 +724,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses practical agreements in a Scrum context, focusing on improving relationships and understanding between the Product Owner and the implementation team, which aligns with pragmatic applications of Scrum principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract in Scrum, which is a practical approach to enhancing collaboration between the Product Owner and the implementation team. It directly mentions the importance of agreements in Scrum, aligning with pragmatic problem-solving strategies. However, while it touches on practical applications, the depth of discussion is somewhat limited, focusing primarily on the contract without exploring broader implications or techniques for navigating complexity in Agile environments.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +745,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the concept of a Sprint Contract in Scrum, which is more about project management and Agile practices than specifically about the ability to innovate in an organization.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the relationship and agreement (Sprint Contract) between the Product Owner and the implementation team, which is central to Scrum practices and aligns with Scrum roles and processes.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and a Sprint Contract without reference to scaling Agile practices across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,19 +790,22 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract which relates to defining expectations for the delivery of features in a Scrum framework, indicating a connection to working software, but is more focused on the relationship and agreement between the Product Owner and the Team rather than on the delivery of functional software itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract in Scrum, which directly relates to the delivery of working software by establishing agreements on scope and quality between the Product Owner and the implementation team. It aligns well with the core themes of working software, such as ensuring quality and functionality through defined agreements. The depth of discussion is moderate, providing insights into the implications of the contract for software delivery, but it could benefit from more examples or metrics related to assessing software quality.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Sprint Contract in Scrum rather than Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -901,10 +829,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on defining a Sprint Contract between the Product Owner and the Team, which is a technical aspect of Scrum rather than a discussion on Agile Leadership.",
     "level": "Ignored"
   },
@@ -937,12 +865,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the implementation Team, which involves agreeing on the scope and expectations for a Sprint. This touches on decision-making aspects regarding scope management and roles within a Scrum environment, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on decision-making in the context of Scrum. However, it primarily focuses on the agreement and relationship dynamics rather than structured, evidence-based methodologies for decision-making. The mention of scope, quality, and cost in relation to Sprints provides some alignment with decision-making principles, but the depth of discussion is limited and lacks empirical support or broader decision-making frameworks.",
+    "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -955,28 +886,31 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the concept of a Sprint Contract, which is more related to Agile project management than specific release management practices.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the relationship and agreement between the Product Owner and the implementation team, highlighting responsibilities and expectations, which are central to the Product Owner's role.",
+    "final_score": 72.0,
+    "reasoning": "The content explicitly discusses the role of the Product Owner in the context of a Sprint Contract, highlighting the relationship between the Product Owner and the implementation team. It addresses responsibilities and agreements that are crucial for effective collaboration, which aligns well with the core themes of the Product Owner's role. However, while it provides a good level of detail regarding the contract, it does not delve deeply into broader aspects of backlog management or stakeholder engagement, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint Contract in Scrum, focusing on the roles and agreements within the Scrum framework, rather than on Cycle Time itself.",
     "level": "Ignored"
   },
@@ -1000,20 +934,23 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the roles and agreements within Scrum, which is more focused on project management rather than change management principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses the importance of a Sprint Contract between the Product Owner and the team, which enhances teamwork and communication within Scrum, aligning it with the themes of Team Collaboration.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of a Sprint Contract between the Product Owner and the implementation Team, which directly relates to team collaboration and shared ownership in Scrum. It highlights how this agreement can improve understanding and enforce relationships, aligning well with the core themes of team dynamics and communication. The depth of discussion is moderate, providing a clear example of how this contract functions within a Scrum framework, but it could benefit from more detailed strategies or tools for enhancing collaboration.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1034,22 +971,13 @@
     "reasoning": "Content primarily discusses Scrum methodologies and the agreement between the Product Owner and the Team, which is not focused on digital transformation or the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T01:51:30",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and the concept of a Sprint Contract, which is not directly related to Minimum Viable Product development or market validation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and the concept of a Sprint Contract, which is not related to AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1063,20 +991,23 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and the concept of a Sprint Contract rather than product strategy, vision, or roadmaps.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the relationship between the Product Owner and the implementation team in the context of Scrum, which relates to technical leadership, but primarily focuses on Scrum agreements rather than broader technical leadership themes.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the implementation team, which touches on team dynamics and the relationship between roles in a Scrum environment. However, it lacks a broader discussion on technical leadership principles, such as mentoring, coaching, or fostering a culture of continuous improvement. While it aligns with agile practices, it does not delve deeply into the nuances of technical leadership, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Estimation": {
@@ -1099,11 +1030,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of a Sprint Contract in Scrum, which is unrelated to Test First Development principles and practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract in Scrum, focusing on the relationship between the Product Owner and the implementation team. While it touches on aspects of project delivery and quality standards, it does not explicitly address Test First Development principles, such as defining success criteria or the role of testing in the development process. The discussion lacks depth in relation to Test First practices, making it a secondary topic rather than a primary focus.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1135,12 +1069,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the agreement between the Product Owner and the implementation team, which touches on understanding and relationship dynamics that can influence team motivation. However, it primarily focuses on the operational aspect of Scrum rather than broader team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on aspects of team dynamics and agreements that can enhance collaboration. However, it primarily focuses on the mechanics of Scrum and the contractual relationship rather than exploring deeper motivational strategies or team dynamics. The mention of improving common understanding is relevant but lacks depth in discussing broader motivational themes such as trust, empowerment, or recognition.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1180,38 +1117,38 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the relationship between the Product Owner and the Team, which is relevant for Scrum but does not focus specifically on the role and responsibilities of the Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which is relevant to Scrum practices. However, it primarily focuses on the relationship between the Product Owner and the Team rather than the Scrum Master's role. While it touches on collaboration and clarity, it lacks a detailed exploration of the Scrum Master's responsibilities, techniques, or influence on team dynamics, which are crucial for a higher confidence score in this category.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses creating a Sprint Contract to improve understanding and enforce a relationship between the Product Owner and the Team, which relates to transparency in expectations and commitments during the Agile process.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which indirectly relates to transparency by promoting a common understanding and clear expectations. However, it primarily focuses on the contractual relationship rather than broader themes of transparency in Agile processes. The mention of communication and agreement hints at transparency, but the depth of discussion is limited, focusing more on the mechanics of Scrum rather than the overarching importance of transparency.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of a Sprint Contract between the Product Owner and the implementation team, which directly relates to establishing working agreements to improve collaboration and understanding within a Scrum framework.",
-    "level": "Secondary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the implementation team and the Product Owner in the context of Scrum, which is an Agile framework relating to software development.",
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the implementation team, which aligns with the idea of working agreements. However, it primarily focuses on the specifics of Scrum roles and the nature of the contract rather than exploring broader principles of teamwork and collaboration. While it mentions the importance of understanding and enforcing relationships, it lacks depth in discussing techniques for creating and implementing working agreements or their impact on team dynamics.",
     "level": "Secondary"
   },
   "Coaching": {
@@ -1243,47 +1180,59 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a Sprint Contract between the Product Owner and implementation Team, not on the Sprint Review process or its key components.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the relationship and agreement between the Product Owner and the implementation team within the context of Scrum, which is a key aspect of product management methodology in Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Product Owner in the Scrum framework, which is a key aspect of product management. It highlights the importance of a Sprint Contract to clarify expectations between the Product Owner and the implementation team, aligning with the strategic aspects of product management. However, the discussion is somewhat limited in depth and does not extensively cover broader product management methodologies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on aspects of accountability and team agreements but primarily focuses on the contract itself rather than the broader principles of self-organisation.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on aspects of self-organisation by defining roles and expectations. However, it primarily focuses on the contractual relationship rather than the broader principles of self-organisation, such as autonomy and team empowerment. The discussion lacks depth in exploring how self-organisation is fostered or its impact on team performance, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of a Sprint Contract within the Scrum framework, detailing the roles of the Product Owner and the implementation team, which falls squarely under Agile Frameworks.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within the Scrum framework, which is a key aspect of Agile methodologies. It explicitly mentions Scrum and provides insights into the roles of the Product Owner and the implementation team, aligning well with the principles of Agile frameworks. The depth of discussion includes practical implications and agreements that enhance understanding and collaboration, which are core themes of Agile. However, while it is focused on Scrum, it does not explore other Agile frameworks or provide a comparative analysis, which slightly limits its overall alignment with the broader category.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a Sprint Contract within the Scrum framework, which relates to the execution and relationships necessary for Agile methodologies. However, the focus is primarily on specific Scrum practices rather than broader Agile strategy.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on aspects of Agile methodologies. However, it primarily focuses on a specific practice within Scrum rather than the broader strategic implications of Agile principles. While it mentions the importance of understanding roles and agreements, it lacks a comprehensive discussion on how these practices align with organisational vision or long-term Agile strategy.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -1306,10 +1255,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T01:51:30",
+    "calculated_at": "2025-04-10T15:56:02",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and the concept of a Sprint Contract, which are not central to Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -1324,21 +1273,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of a Sprint Contract between the Product Owner and the implementation Team, which implies accountability for commitments made within the Sprint. It emphasizes agreeing on deliverables and mutual expectations, indicating a focus on ownership and responsibility within the Agile framework.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on accountability in terms of commitments and responsibilities. However, it primarily focuses on the mechanics of Scrum rather than deeply exploring the broader themes of accountability, such as team dynamics or fostering a culture of ownership. The mention of the agreement implies accountability but lacks a comprehensive discussion on its implications or strategies for enhancing accountability within Agile frameworks.",
     "level": "Secondary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T01:51:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no mention of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1360,11 +1303,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:59:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint Contract within the Scrum framework, focusing on the roles and agreements between the Product Owner and the implementation Team.",
+    "reasoning": "The content discusses the concept of a Sprint Contract in Scrum, which enhances collaboration and clarity between the Product Owner and the Team. This aligns with the core themes of Social Technologies, particularly in fostering collaboration and improving decision-making. However, the focus is primarily on the mechanics of Scrum rather than a broader discussion of social technologies or frameworks. The depth of discussion is moderate, providing some detail on the contract's purpose but lacking extensive exploration of its implications for organisational culture or collective intelligence.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1374,6 +1320,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of a Sprint Contract in Scrum, focusing on the relationship between the Product Owner and the implementation team rather than on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:32:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:32:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 50,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the concept of a Sprint Contract between the Product Owner and the implementation Team, which directly relates to Scrum roles and events. It provides a clear explanation of the agreement's purpose and its implications for team dynamics and project management within the Scrum framework. The depth of discussion includes specific references to Scrum principles, such as scope, quality, and the iterative nature of Sprints, demonstrating strong alignment with the core themes of Scrum. Overall, the content is focused on Scrum, making it a primary topic rather than a secondary mention.",
+    "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract within Scrum, focusing on the relationship between the Product Owner and the implementation team. While it touches on aspects of Agile project management, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the concept of a Sprint Contract in Scrum, which is more about defining roles and responsibilities rather than discussing Continuous Improvement as a primary focus. While it touches on collaboration and clarity, it lacks a detailed exploration of Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract between the Product Owner and the Team, which touches on the importance of collaboration and clarity in achieving shared objectives. However, it primarily focuses on the mechanics of Scrum rather than explicitly addressing the broader concept of Common Goals within Agile and DevOps. While there are elements of alignment and ownership mentioned, the depth of discussion on strategic goals and their operationalisation is limited.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of a Sprint Contract, which indirectly relates to competence by emphasising the importance of clarity and commitment in roles within a Scrum team. However, it primarily focuses on the contractual relationship rather than on continuous learning, skill development, or the broader implications of competence in Agile methodologies. The discussion lacks depth in exploring how competence impacts quality outcomes or team trust, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of a Sprint Contract in Scrum, focusing on the relationship between the Product Owner and the implementation Team. While it touches on collaboration and clarity, it does not explicitly address Agentic Agility or its principles. The discussion lacks depth regarding intentional shaping of outcomes, accountability, or the interplay between human judgement and AI logic, which are central to the category.",
     "level": "Ignored"
   }
 }

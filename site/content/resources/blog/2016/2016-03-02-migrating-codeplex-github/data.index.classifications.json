@@ -8,15 +8,6 @@
     "reasoning": "The content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Agile principles or product management practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T21:04:40",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for migrating a repository from Codeplex to GitHub, including specific tools like Git-TF and Chocolatey, as well as detailed steps for implementation.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-14T21:04:41",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:04:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T21:04:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on tools and methods rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T21:04:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical process of migrating a repository from Codeplex to GitHub, with no significant emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T21:04:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no direct mention of Evidence-Based Management principles or metrics. While it discusses tools and methods, it lacks any reference to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T21:04:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration processes involved in migrating a repository from Codeplex to GitHub, including step-by-step instructions for using tools like Chocolatey and Git-TF.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on migrating a repository from Codeplex to GitHub, which includes specific installation steps for tools like Chocolatey and Git-TF. It discusses the configuration of these tools and the process of cloning a repository, which aligns well with the category's focus on installation and configuration. The content is rich in actionable instructions and troubleshooting advice, demonstrating a strong alignment with the key topics outlined in the category. However, while the primary focus is on installation and configuration, there are some tangential discussions that slightly detract from the overall focus, preventing a perfect score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T21:04:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T21:04:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the migration of a repository from Codeplex to GitHub, which involves version control and tools relevant to DevOps practices. However, the primary focus is on the migration process rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, discussing specific tools and methods without addressing the broader principles of DevOps such as collaboration, automation, or shared accountability. While it mentions tools that could be part of a DevOps workflow, it lacks a discussion on the cultural or philosophical aspects of DevOps, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T21:05:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T21:05:06",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools rather than optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T21:05:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical process of migrating repositories from Codeplex to GitHub, with no significant focus on team dynamics, collaboration, or human factors.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T21:05:12",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools rather than metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of migrating a repository from Codeplex to GitHub, including the use of tools like Git-TF and Chocolatey, which relates to engineering practices. However, the primary focus is on the migration experience rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the practical aspects of migrating a repository from Codeplex to GitHub, detailing specific tools and commands used in the process. While it touches on technical practices, such as using Git-TF and the importance of selecting the correct folder for cloning, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The mention of tools and processes is more operational than strategic, which diminishes its alignment with the core themes of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,28 +193,19 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T21:05:22",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools rather than Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T21:05:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools rather than reviews or discussions of products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T21:05:25",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, without a focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
@@ -289,12 +220,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and reflections on the challenges faced during the migration process from Codeplex to GitHub, which aligns with the Personal category. However, the primary focus is on technical details and procedures rather than personal insights.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating a repository from Codeplex to GitHub, detailing specific steps and tools used. While there are personal anecdotes about the author's experiences, the overall emphasis is on technical execution rather than personal reflections or insights related to Agile, Scrum, or DevOps methodologies. The personal context is minimal and does not deeply explore the broader themes of the category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -305,22 +239,16 @@
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, focusing on specific tools and methods rather than exploring Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:05:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on specific tools and methods rather than the principles or practices of the One Engineering System.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T21:05:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no direct mention or discussion of the Agile Product Operating Model or its principles. While it touches on aspects of workflow and tools, it does not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is limited to practical migration steps, lacking any strategic or conceptual insights related to agile product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +260,6 @@
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T21:05:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and technical steps for migrating a repository from Codeplex to GitHub, lacking industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-14T21:05:36",
@@ -348,15 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on specific tools and methods rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T21:05:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no clear focus on Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +280,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T21:05:47",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no mention of the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of migrating a repository from Codeplex to GitHub, including tools and commands used, which aligns with software craftsmanship. However, the primary focus is on the migration process rather than broader principles of software design or engineering practices.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating a repository from Codeplex to GitHub, detailing specific tools and commands used in the migration. While it does touch on some technical practices, such as using Git-TF and managing repository structure, it lacks a broader discussion on software craftsmanship principles, clean code, or architectural best practices. The depth of discussion is moderate, providing step-by-step instructions but not delving into the underlying principles of software engineering excellence.",
     "level": "Tertiary"
   },
   "Product Discovery": {
@@ -397,11 +310,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T21:05:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on tools and methods for the migration rather than Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the process of migrating projects from Codeplex to GitHub, which does not directly address Continuous Delivery principles or practices. While it mentions tools and workflows, it lacks discussions on automation, incremental improvements, or user feedback, which are core to Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +331,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-14T21:05:55",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on Lead Time or its related metrics.",
     "level": "Ignored"
   },
@@ -433,10 +349,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T21:05:58",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on the Definition of Ready or its related concepts.",
     "level": "Ignored"
   },
@@ -469,10 +385,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-14T21:06:03",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
@@ -496,10 +412,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T21:06:08",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Scrum roles, team dynamics, or collaboration practices.",
     "level": "Ignored"
   },
@@ -559,10 +475,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T21:06:18",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -577,37 +493,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-14T21:06:21",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T21:06:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of migrating a code repository from Codeplex to GitHub, detailing specific tools and commands used in the migration, which aligns with software development practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T21:06:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Agile methodologies or project management principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the process of migrating a repository from Codeplex to GitHub, which directly relates to version control systems and collaborative development practices. It provides specific details about using GitHub's import tool and Git-TF, demonstrating a clear understanding of the tools involved in software development. However, while it touches on relevant topics, the depth of discussion on broader software development methodologies or best practices is limited, leading to a high but not perfect confidence score.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T21:06:25",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +532,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T21:06:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the process of migrating a repository from Codeplex to GitHub, detailing specific tools and techniques related to version control, such as Git-TF and Git commands. It focuses on practical aspects of using modern source control systems, making it a major theme.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the process of migrating a repository from Codeplex to GitHub, which directly relates to modern source control practices. It discusses specific tools (GitHub Import tool, Git-TF) and techniques for managing version control during the migration, aligning well with the key topics of version control systems and collaboration workflows. The depth of discussion is substantial, providing detailed steps and considerations for the migration process, including handling branches and repository history. However, while it is focused on source control, it does not delve deeply into broader best practices or methodologies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T21:06:30",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -658,10 +571,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-14T21:06:35",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools rather than collaboration or team dynamics.",
     "level": "Ignored"
   },
@@ -685,10 +598,10 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-14T21:06:39",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration process from Codeplex to GitHub, with no focus on frequent releases or related practices.",
     "level": "Ignored"
   },
@@ -699,15 +612,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on customer satisfaction or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T21:06:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no mention of Scrum principles, frameworks, or scaling practices.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -726,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T21:06:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools rather than scaling agile practices or organisational agility.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -757,10 +652,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-14T21:06:55",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on tools and methods rather than asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -784,12 +679,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving strategies for migrating a repository from Codeplex to GitHub, highlighting real-world applications and experiences. However, it primarily focuses on the migration process rather than broader Agile or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses practical problem-solving strategies for migrating a repository from Codeplex to GitHub, which aligns with the core themes of Pragmatic Thinking. It provides real-world applications of tools like Git-TF and Chocolatey, demonstrating adaptability and critical thinking in navigating the complexities of repository migration. However, while it touches on relevant topics, the depth of discussion on Agile or Scrum principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +700,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T21:07:04",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T21:07:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T21:07:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no reference to Agile methodologies or scaling practices.",
+    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,10 +754,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-14T21:07:14",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -928,10 +808,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-14T21:07:23",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -973,10 +853,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T21:07:30",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1009,19 +889,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T21:07:35",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on team dynamics, communication, or collaboration.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-14T21:07:37",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools, without any mention of Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +914,7 @@
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, without a focus on strategic digital transformation or the impact of digital technologies on business operations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T21:07:40",
     "ai_confidence": 0,
@@ -1043,21 +923,12 @@
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on Minimum Viable Product concepts or related strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T21:07:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no mention of AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T21:07:43",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on tools and methods rather than system configuration principles or practices.",
     "level": "Ignored"
   },
@@ -1099,21 +970,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:07:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the process of migrating projects from Codeplex to GitHub, discussing tools and methods for this migration. There is no mention of Test First Development principles, success criteria, or testing practices, which are central to the category. The content does not align with the core themes of Test First Development, nor does it provide any depth on the subject. Therefore, the confidence score is very low.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Chocolatey, a package manager for Windows, and the use of PowerShell, which are relevant to the Windows operating system. However, the primary focus is on migrating repositories from Codeplex to GitHub, making Windows a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the migration of a repository from Codeplex to GitHub, with a focus on using Git-TF and Chocolatey, which are tools that can be used in a Windows environment. However, the main topic is not specifically about Windows itself, but rather about version control and repository management. While there are mentions of installing Chocolatey and using PowerShell, these are not explored in depth or in the context of Windows-specific features or issues. Therefore, the content does not align closely with the core themes of the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1126,28 +1003,28 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-14T21:07:55",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on scaling Agile methodologies or related enterprise-level practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T21:07:56",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-14T21:08:00",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1162,12 +1039,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues encountered during the migration process from Codeplex to GitHub, including bugs with the GitHub import tool and errors with Git-TF, making troubleshooting a significant theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses specific issues encountered during the migration from Codeplex to GitHub, including problems with the GitHub import tool and errors with Git-TF. It provides insights into the challenges faced and suggests alternative methods for resolving these issues, which aligns with troubleshooting. However, the primary focus is on the migration process rather than a systematic approach to troubleshooting, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1060,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T21:08:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Scrum Master responsibilities or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1204,15 +1087,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on teamwork, collaboration, or working agreements.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the process of migrating a code repository from Codeplex to GitHub, which is relevant to software developers. However, it primarily focuses on the migration process rather than Agile or DevOps methodologies.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1306,10 +1180,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-14T21:08:31",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools rather than Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1205,6 @@
     "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T21:08:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T21:08:43",
@@ -1351,10 +1216,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-14T21:08:45",
+    "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1369,11 +1234,454 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:08:49",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, detailing specific tools and commands without discussing collaboration, decision-making, or value delivery. While it mentions GitHub, it does not explore the social frameworks or methodologies that enhance teamwork or organisational culture, which are central to the category of Social Technologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:10:13",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on specific tools and methods rather than the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:10:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the process of migrating a repository from Codeplex to GitHub, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical process of migrating a repository from Codeplex to GitHub, with no direct mentions of Scrum principles, roles, events, or practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The depth of discussion is focused on technical steps rather than Scrum-related content.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the process of migrating a repository from Codeplex to GitHub, focusing on technical steps and tools used for the migration. There is no mention of integrating testing, security, or compliance earlier in the software development lifecycle, which are core aspects of the Shift-Left Strategy. The discussion lacks depth in relation to the principles or benefits of the Shift-Left approach, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no explicit discussion on Continuous Improvement principles. While there are mentions of tools and methods, they do not align with the core themes of Continuous Improvement, such as fostering a culture of experimentation or data-driven decision-making. The depth of discussion is limited to practical steps without reflecting on broader improvement strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on tools and methods, it lacks alignment with the core themes of shared objectives and strategic alignment, and does not provide depth on how these processes connect to organisational performance or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with little to no discussion on competence, continuous learning, or skill development. While it touches on the use of tools and methods, it does not delve into the importance of competence in Agile or DevOps contexts, nor does it explore strategies for fostering a culture of competence. The discussion is more about practical steps and experiences rather than the foundational principles of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the process of migrating projects from Codeplex to GitHub, discussing specific tools and methods for this migration. It does not mention or align with the principles of the One Engineering System, such as standardisation, integration of tools across teams, or best practices for software development environments. The discussion is centred around personal experiences and technical steps rather than the broader framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of migrating projects from Codeplex to GitHub, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability in the migration process, the content lacks depth in exploring intentional shaping of outcomes, accountability, or the interplay between human judgement and AI logic. Overall, it does not align with the core themes of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 7.0,
+    "ai_mentions": 0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": null,
+    "final_score": 7.0,
+    "reasoning": "The content primarily focuses on migrating projects from Codeplex to GitHub and discusses technical details and tools for this process. There is no mention or analysis of Hybrid Agile methodologies, nor does it address the challenges or implications of merging traditional and agile practices. The content does not align with the key topics outlined for the Hybrid Agile category and lacks depth in any relevant discussion about agile frameworks.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "migrateCodeplexToGithub",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily revolves around the technical process of migrating projects from Codeplex to GitHub and does not discuss or align with any principles of Cell Structure Design or related concepts such as decentralization, autonomous cells, or complexity theory. The focus is on practical migration techniques rather than organizational design models.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on the practical steps and tools for migrating a project from Codeplex to GitHub, with no direct discussion of principles related to Agile, Lean, or DevOps. There are no mentions of empirical decision-making, self-management, continuous improvement, or any other principles outlined in the category description. The content does not engage with the foundational beliefs or guiding rules that would qualify it for the 'Principle' category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 18,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content provides a technical guide on migrating projects from Codeplex to GitHub, which is focused on practical tools and methods for code management rather than on broader project management concepts. While there are elements of planning and execution involved, such as discussing workflows and tools, the core principles of project management and methodologies are not addressed. The primary focus is on the migration process itself, and it does not engage with key project management topics such as project lifecycle, risk management, or stakeholder communication. Therefore, the content aligns minimally with the Project Management category.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on migrating projects from Codeplex to GitHub, which is unrelated to Open Space Agile principles, practices, or discussions. There are no direct mentions of Open Space Agile concepts such as psychological safety, collective participation, or any Agile transformation methodologies.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content focuses on migrating from Codeplex to GitHub, with detailed discussions on the tools involved in this process, particularly the GitHub Import tool and Git-TF. The mentions of these tools and their functionality directly align with the category 'Tool.' The content provides practical usage examples, installation steps, and a comparative approach between different tools for migration, which enrich the depth of the discussion. However, while the main focus is on the tools, there are portions that could be interpreted as general migration guidance, which slightly dilutes the score.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses migrating code from Codeplex to GitHub, focusing on technical steps and tools for software migration. It does not mention Liberating Structures, nor does it discuss facilitation methods, engagement, or team collaboration that align with the category of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Values",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on practical steps for migrating projects from Codeplex to GitHub, discussing tools and methods rather than any underlying values or principles that guide behavior and decision-making. There is little to no discussion of values like collaboration, trust, or ethical considerations that would link this content to the 'Values' category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 0.0,
+    "reasoning": "Content focuses solely on practical steps for migrating code repositories from Codeplex to GitHub, detailing technical processes and specific tools without exploring philosophical concepts or underlying beliefs related to methodologies like Agile, DevOps, or Lean.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the practical aspects of migrating a project from Codeplex to GitHub, focusing on specific tools and techniques rather than the underlying principles, methodologies, or characteristics of a discipline. There are no direct mentions of structure, governance, continuous learning, or case studies that illustrate the systemic application, nor does it explore how these tools fit into a broader professional domain like Agile or DevOps. Therefore, it falls significantly short of aligning with the category of Discipline.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the process of migrating projects from Codeplex to GitHub, detailing tools and steps involved. It does not discuss artifacts as formal representations of work in Agile or related systems, nor does it explore their purpose, structure, or best practices in relevant contexts. Artifacts are not a central theme in the content, leading to a very low confidence score for the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses solely on migrating projects from Codeplex to GitHub, providing practical tips and tools for that specific process. It does not discuss observability, the principles or metrics relevant to it, nor does it touch on Agile or DevOps practices in the context of observability. The mentions of workflow and tools are ancillary and do not meet the core themes required for the Observability category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the process of migrating projects from Codeplex to GitHub, detailing specific methods and tools for effective migration. While this process could potentially impact Time to Market by streamlining workflows, the primary focus is not on measuring or improving Time to Market itself. Discussions of lead time, cycle time, and strategies for optimizing delivery are absent, leading to a very low alignment with the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the technical implementation of migrating projects from Codeplex to GitHub, which is outside the scope of product development methodologies. While there are brief mentions of tools and techniques used, the absence of discussions on Agile principles, customer feedback, or iterative improvement suggests a lack of alignment with the core themes of product development.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses the technical specifics of migrating from Codeplex to GitHub, focusing on tools and methods used in that process. While there are mentions of practical steps taken, the content primarily concentrates on the challenges faced with specific tools rather than on actionable practices that teams can adopt to enhance their performance or collaboration. It lacks a focus on techniques that improve team effectiveness or continuous improvement, thus aligning poorly with the defined category of 'Practice'.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content is primarily focused on the technical process of migrating projects from Codeplex to GitHub. It does not discuss any features or principles related to treating the organization as a product, integrating customer feedback into organizational design, or measuring outcomes related to strategic goals. The operational details provided are too specific and lack any organizational strategy or customer-centric approach that aligns with the CaaP framework.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Method",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 65.0,
+    "ai_mentions": 8,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content provides a detailed, step-by-step guide for migrating projects from Codeplex to GitHub, which aligns well with the 'Method' category. It discusses two specific methods for migration - using GitHub's import tool and Git-TF. For each method, it outlines detailed procedures, installations, command-line instructions, and relevant considerations, making the focus on procedural execution quite strong. Therefore, the content fits the criteria well, emphasizing structured procedures and practical techniques. However, it does contain some general discussion about tools and experiences which slightly detracts from a pure methodological focus, hence the confidence score is not higher.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical process of migrating projects from Codeplex to GitHub, with a focus on practical tips and tools. While there is a very minor mention of issues related to value (e.g., the GitHub import tool being 'not of value to anyone'), this is not a substantial discussion on 'Unrealised Value.' The overall content lacks a focus on the broader implications of unrealised value in terms of potential improvements or innovations, and does not provide insights that align with strategic decisions, prioritisation of efforts, or indicators of unrealised value as outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the process of migrating a project from Codeplex to GitHub, discussing specific tools and steps rather than any methodologies or frameworks for scaling Agile practices. There are no direct mentions of scaling concepts, and the discussion lacks depth on alignment, collaboration, or value delivery at scale. The content does not fit the core themes or explore challenges associated with scaling, earning it a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Model",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content is focused on practical steps for migrating projects from Codeplex to GitHub, with a specific emphasis on troubleshooting and tools. It does not discuss any conceptual models or frameworks related to decision-making or systems thinking in Agile, DevOps, or Lean contexts as outlined in the 'Model' category definition. While it does touch on migration processes, it lacks any discussion of theoretical or conceptual models, thus does not align with the key topics of the Model category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the practical process of migrating projects from Codeplex to GitHub, focusing on technical steps and tools. There is minimal relevance to Current Value or Evidence-Based Management, with no explicit discussions on metrics, customer satisfaction, or the real-time assessment of value delivered by a product or service. The content lacks depth in exploring any aspect of Current Value, making it almost entirely unrelated to the classification criteria.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the process of migrating projects from Codeplex to GitHub, discussing specific tools and steps for migration. It does not address any frameworks related to Agile, DevOps, or Lean principles, nor does it provide structured methodologies or implementation strategies. The topic is primarily technical without any alignment to the 'Framework' category as defined.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses entirely on the technicalities of migrating projects from Codeplex to GitHub. It does not discuss any actionable guiding rules or doctrines (tenets) related to Agile, Lean, or DevOps methodologies. There is no mention of principles such as flow efficiency, decentralised decision-making, or continuous improvement, which are central to the category of 'Tenet'. The discussion is practical in nature but lacks connection to any overarching tenets that guide decision-making or behaviors in an organizational context.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content is focused on migrating projects from Codeplex to GitHub, with multiple direct mentions of GitHub and a substantial discussion around utilizing GitHub's features (such as the import tool and Git-TF). It provides detailed steps on the migration process and addresses challenges and solutions, making GitHub a central theme throughout the text. The level of detail in the implementation of tools reflects a good depth of discussion, aligning closely with the functionalities associated with GitHub.",
+    "level": "Primary"
+  },
+  "Agnostic Agile": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses solely on the practicalities of migrating projects from Codeplex to GitHub, without discussing any agile principles or the context-driven nature of Agnostic Agile. It does not mention any agile frameworks, nor does it reflect on the ethical or critical thinking aspects associated with agility. There is no comparison to Agnostic Agile or traditional frameworks, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "migrating-codeplex-to-github",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T15:04:00",
+    "ai_confidence": 14.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on the practical steps to migrate projects from Codeplex to GitHub, discussing tools and methods rather than on enduring competencies or capabilities that support organizational value delivery. There are minimal mentions of systemic capabilities, and the discussion lacks depth on how these processes enhance business agility, team dynamics, or continuous improvement practices.",
     "level": "Ignored"
   }
 }

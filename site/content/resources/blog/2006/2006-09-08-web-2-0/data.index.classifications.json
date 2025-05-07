@@ -10,10 +10,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T11:09:33",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -44,7 +44,7 @@
     "reasoning": "Content primarily discusses Web 2.0 and its implications, with no clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T11:09:39",
     "ai_confidence": 0,
@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses Web 2.0 and does not relate to Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T11:09:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, without addressing software code quality or complexity.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T11:09:43",
@@ -82,10 +73,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T11:09:45",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, rather than installation or configuration of tools or software.",
     "level": "Ignored"
   },
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Web 2.0 without a focus on market adaptability strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T11:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 without a focus on Agile, DevOps, or relevant industry news and reviews.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -123,24 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, with no focus on decision-making processes or related themes.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T11:09:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 and its perception in management, without a focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T11:10:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, without addressing organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -206,15 +170,6 @@
     "reasoning": "Content primarily discusses Web 2.0 and its implications, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T11:10:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 without any reference to events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
     "calculated_at": "2025-02-17T11:10:29",
@@ -242,15 +197,6 @@
     "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, with no clear focus on platform engineering or related topics.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T11:10:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 without reference to practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T11:10:36",
@@ -262,11 +208,14 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T11:10:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of Web 2.0, which does not align with specific Agile, Scrum, DevOps, or Lean frameworks, making it a suitable fit for the Miscellaneous category.",
+    "reasoning": "The content discusses the concept of 'Web 2.0' in a general manner without delving into specific Agile, Scrum, DevOps, or Lean frameworks. It reflects on the buzzword nature of 'Web 2.0' in a business context, which aligns with the Miscellaneous category. However, it lacks depth in exploring broader implications or providing actionable insights, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -278,24 +227,6 @@
     "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, without a focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T11:10:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of Web 2.0 without any focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:10:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 without a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "calculated_at": "2025-02-17T11:10:44",
@@ -305,31 +236,16 @@
     "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, with no focus on Evidence-Based Management principles or practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T11:10:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Web 2.0 and its implications, with no relevance to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T11:10:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 without focusing on specific products, books, or Agile/DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:10:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Web 2.0 and does not relate to Scrum principles, practices, or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss Scrum principles, practices, or frameworks. It focuses on the concept of Web 2.0, which is unrelated to Scrum, and does not mention any Scrum roles, events, or artifacts.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -413,15 +329,6 @@
     "reasoning": "Content is primarily discussing the concept of Web 2.0 and does not relate to customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, without any focus on Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-17T16:38:27",
@@ -456,15 +363,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on the concept of Web 2.0 and does not discuss cross-functional teams at all.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T16:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0, which is unrelated to AI, Agile methodologies, DevOps practices, or software development processes.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -620,15 +518,6 @@
     "reasoning": "Content is primarily focused on Web 2.0 and does not discuss Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T16:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Web 2.0 and does not relate to Kanban practices or their scaling.",
-    "level": "Ignored"
-  },
   "Strategy": {
     "category": "Strategy",
     "calculated_at": "2025-02-17T16:38:27",
@@ -674,15 +563,6 @@
     "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, without any focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Web 2.0 and its significance, with no clear reference to Agile Project Management principles or methodologies.",
-    "level": "Ignored"
-  },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
     "calculated_at": "2025-02-17T16:38:27",
@@ -721,20 +601,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:38:27",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0 and its perception in management, with no focus on measuring or improving innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the concept of Web 2.0 and its implications, which does not directly discuss the role of software developers in Agile or DevOps contexts.",
+    "reasoning": "Content primarily discusses the concept of Web 2.0 and its perception in management, with no focus on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -757,10 +628,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T16:38:27",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Web 2.0 and does not relate to the Definition of Ready or its principles.",
     "level": "Ignored"
   },
@@ -802,19 +673,19 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T16:38:27",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the concept of Web 2.0 and does not discuss Test First Development or related practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:38:27",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Web 2.0 as a concept and does not relate to Agile values or principles.",
     "level": "Ignored"
   },
@@ -845,7 +716,7 @@
     "reasoning": "Content discusses Web 2.0 as a concept and its relevance to management, but does not focus on practical problem-solving strategies or real-world applications related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T16:38:27",
     "ai_confidence": 0,
@@ -1124,15 +995,6 @@
     "reasoning": "Content is primarily about Web 2.0 and unrelated to Lean Thinking principles.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T16:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Web 2.0 and does not discuss Scaled Agile methodologies or frameworks.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T16:38:27",
@@ -1176,15 +1038,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on the concept of Web 2.0 and not related to Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T16:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0, which is unrelated to Scaling Agility.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1268,15 +1121,6 @@
     "reasoning": "Content heavily discusses Web 2.0 concepts and does not address Continuous Delivery principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T16:38:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of Web 2.0, which is unrelated to Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-17T16:38:27",
@@ -1297,10 +1141,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T16:38:27",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Web 2.0 and does not address the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -1374,6 +1218,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Web 2.0 and its implications, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:56:31",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Web 2.0 concepts and does not relate to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:56:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Web 2.0 and its implications, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the concept of Web 2.0, which is unrelated to the Shift-Left Strategy in software development. There are no direct mentions or relevant themes that align with the principles of integrating testing, security, or compliance early in the development process.",
     "level": "Ignored"
   }
 }

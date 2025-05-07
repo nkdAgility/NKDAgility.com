@@ -2,43 +2,48 @@
 title: The Power of Immersive Learning in Agile Training
 description: 'Discover the top 5 reasons why immersive learning transforms Scrum training for students! Dive into the experience in this engaging short video. #Scrum #Agile'
 date: 2024-02-04T11:00:23Z
+weight: 1000
 ResourceId: HjumLIMTefA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HjumLIMTefA
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-immersive-learning-in-agile-training
+slug: the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
 layout: video
 preview: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/the-power-of-immersive-learning-in-agile-training
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
-- /resources/videos/HjumLIMTefA
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 - /resources/HjumLIMTefA
-aliasesFor404:
+- /resources/videos/the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
+- /resources/videos/the-power-of-immersive-learning-in-agile-training
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
+aliasesArchive:
+- /resources/videos/the-power-of-immersive-learning-in-agile-training
 - /resources/the-power-of-immersive-learning-in-agile-training
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
+- the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Continuous Learning
-- Discovery and Learning
-- Change Management
-- People and Process
-- Organisational Agility
-- Resilience and Change
+- Continuous Improvement
 - Organisational Change
+- Pragmatic Thinking
+- Continuous Learning
+- Agile Transformation
+- Agile Philosophy
+- Change Management
+- Competence
+- Operational Practices
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 In the world of Agile training, there's one approach that stands out above the rest: immersive learning. It's not just about absorbing knowledge in a classroom setting; it's about creating a lasting impact that resonates far beyond the training session itself. When participants take what they’ve learned and apply it to their real-world challenges, that's where the magic happens. But what makes immersive learning so effective? Let’s dive into how this approach creates _real_ organizational change and why it should be at the core of any Agile learning journey.
@@ -55,7 +60,7 @@ Immersive learning is a hands-on, interactive approach that goes beyond traditio
 
 In other words, immersive learning bridges the gap between theory and practice, giving learners the tools they need to drive meaningful change.
 
-## **The Continuous Learning Cycle** **🌀**
+## **The [Continuous Learning]({{< ref "/tags/continuous-learning" >}}) Cycle** **🌀**
 
 One of the most significant impacts of immersive learning is how it promotes a cycle of continuous learning and improvement. Participants don’t just leave the classroom with a checklist of tasks to complete. Instead, they:
 
@@ -65,11 +70,11 @@ One of the most significant impacts of immersive learning is how it promotes a c
 
 5. **Refine their approach**: Based on the feedback, they make adjustments and try again, refining their skills and approaches.
 
-This cycle of **try** **➡️** **feedback** **➡️** **adjust** fosters an environment of continuous improvement, a hallmark of Agile practices.
+This cycle of **try** **➡️** **feedback** **➡️** **adjust** fosters an environment of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), a hallmark of Agile practices.
 
 ### **Real-World Impact: A Personal Example**
 
-I recently ran a Scrum training session for a team in a large financial services organization. One of the participants, a Scrum Master, was particularly excited about trying out some new techniques for sprint planning that we covered during the session. She went back to her team and implemented these changes, but it didn’t go as smoothly as she had hoped.
+I recently ran a [Scrum]({{< ref "/categories/scrum" >}}) training session for a team in a large financial services organization. One of the participants, a [Scrum Master]({{< ref "/tags/scrum-master" >}}), was particularly excited about trying out some new techniques for sprint planning that we covered during the session. She went back to her team and implemented these changes, but it didn’t go as smoothly as she had hoped.
 
 Instead of getting discouraged, she gathered feedback from her team, asking what they thought about the new approach and how they felt it could be improved. Armed with this feedback, she made slight adjustments for the next sprint, and by the third sprint, the team was performing at a much higher level. What made the difference? It wasn’t just the techniques—it was her willingness to continuously learn, adapt, and grow.
 
@@ -99,7 +104,7 @@ This is the reason we go to training in the first place—not to simply acquire 
 
 ## **My Personal Experience with Immersive Learning**
 
-As a Professional Scrum Trainer, I’ve seen firsthand how powerful immersive learning can be. I’ve had the privilege of working with teams from a variety of industries, and the one thing that always stands out is the transformative effect this approach has. One of my favorite moments as a trainer is when a participant shares how they've gone back to their team, tried something new, and seen actual, measurable improvements.
+As a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer, I’ve seen firsthand how powerful immersive learning can be. I’ve had the privilege of working with teams from a variety of industries, and the one thing that always stands out is the transformative effect this approach has. One of my favorite moments as a trainer is when a participant shares how they've gone back to their team, tried something new, and seen actual, measurable improvements.
 
 There’s nothing more rewarding than hearing, "We tried this, and it worked!" But what’s even more powerful is when they follow up with, "It didn’t work as well as we hoped, but we adjusted and now it’s working even better."
 

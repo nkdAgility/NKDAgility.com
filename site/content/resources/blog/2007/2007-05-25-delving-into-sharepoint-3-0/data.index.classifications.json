@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses the features of SharePoint 3.0 and personal experiences with the software, lacking a focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T22:14:50",
     "ai_confidence": 0,
@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and setup of SharePoint 3.0, indicating some focus on configuration, but it primarily reflects personal experiences and opinions rather than providing clear, actionable instructions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions the installation and setup of SharePoint 3.0, indicating some level of engagement with the installation process. However, it lacks detailed step-by-step instructions or best practices, which are crucial for a higher confidence score in this category. The discussion is more focused on personal experiences and opinions rather than providing actionable insights or comprehensive guidance on installation and configuration.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -73,21 +76,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T22:14:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and opinions related to SharePoint 3.0, which does not directly reference Agile, Scrum, DevOps, or Lean principles.",
+    "reasoning": "The content primarily discusses personal experiences with SharePoint 3.0, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it touches on technology and tools, it lacks a clear connection to established Agile frameworks. The discussion is anecdotal and exploratory, fitting well within the Miscellaneous category, but it does not provide actionable insights or align with recognised practices.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:14:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses features of SharePoint 3.0 and personal experiences with the software, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -96,15 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features and personal experiences with SharePoint 3.0, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T22:15:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with SharePoint 3.0 and does not focus on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:15:02",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with SharePoint 3.0 and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +142,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:15:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with SharePoint 3.0 and does not address Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of SharePoint 3.0 and personal experiences with its setup, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:15:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of SharePoint 3.0 and personal experiences with it, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:15:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and opinions regarding SharePoint 3.0, lacking industry news or reviews relevant to Agile or DevOps.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on SharePoint 3.0 and its features, with no direct mention of the Agile Product Operating Model or its principles. While there is a brief mention of setting up an intranet, it does not align with the core themes of APOM, such as product management or agile methodologies. The discussion lacks depth regarding any agile practices or frameworks, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses SharePoint 3.0 features and personal experiences, with no clear focus on platform engineering principles or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:15:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint 3.0 and its features, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:15:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses SharePoint 3.0 features and personal experiences, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:15:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of SharePoint 3.0 and personal experiences with it, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:15:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with SharePoint 3.0 and does not reference any events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:15:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with SharePoint 3.0 and does not address transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +256,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:15:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint 3.0 features and personal experiences, with no clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on SharePoint 3.0 and its features, with no explicit discussion of DevOps principles or practices. While there is a mention of Team Foundation Server, which is related to software development, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability. The depth of discussion is limited to personal experiences with SharePoint, lacking any substantial connection to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -331,33 +274,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with SharePoint 3.0 and does not focus on engineering practices or methodologies that enhance agility in software development.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T22:15:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features of SharePoint 3.0 and personal experiences with the software, lacking a focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:15:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with SharePoint 3.0 and does not focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses SharePoint 3.0 and mentions the need for a book to understand its complexities, indicating a secondary theme related to products and literature.",
-    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -379,19 +295,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions installation and setup of SharePoint 3.0, indicating some discussion on system configuration, but it primarily focuses on features and personal reflections rather than in-depth technical configuration topics.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the installation and initial setup of SharePoint 3.0, which aligns with system configuration. However, it lacks detailed exploration of best practices, optimisation strategies, or troubleshooting, which are key aspects of the category. The mention of configuration is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:19:04",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and personal experiences with SharePoint 3.0, without focusing on innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
@@ -420,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses SharePoint features and personal experiences with its setup, without addressing any aspects of portfolio management or alignment with organizational strategy.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on SharePoint 3.0 and its features, with no clear connection to Scrum principles or product development in a Scrum context.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:19:04",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on SharePoint 3.0 features and personal experience with the software, unrelated to Agile values and principles.",
     "level": "Ignored"
   },
@@ -496,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:19:04",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on the features of SharePoint 3.0 and personal experiences, with no mention of Definition of Done or Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses SharePoint 3.0 features and personal experiences with the software, with no relevance to Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content is focused on the features of SharePoint 3.0 and personal experiences, with no mention of Definition of Done or Agile principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +476,6 @@
     "reasoning": "Content primarily discusses features and personal experiences with SharePoint 3.0, without a clear focus on Agile collaboration tools or principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint 3.0 features and personal experiences, with no focus on software development practices related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-17T08:19:04",
@@ -620,7 +512,7 @@
     "reasoning": "Content discusses features of SharePoint 3.0 and personal experiences with it, without any relevant focus on Agile or Scrum estimation practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:19:04",
     "ai_confidence": 0,
@@ -694,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses features of SharePoint 3.0 and personal experiences with it, with no mention or relevance to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on SharePoint 3.0 features and personal experiences with its setup, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses primarily on personal experiences with SharePoint 3.0 and does not discuss hypothesis formulation, experimentation, or any related practices of hypothesis-driven development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of SharePoint 3.0 and user experience, with no focus on AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +814,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:19:04",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on discussing features and experiences with SharePoint 3.0, which is unrelated to the Definition of Ready in Agile.",
     "level": "Ignored"
   },
@@ -971,15 +857,6 @@
     "reasoning": "Content primarily discusses SharePoint 3.0 features and personal experience with it, without focusing on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint 3.0 features and personal experiences with it, with no relevance to Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-17T08:19:04",
@@ -987,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features of SharePoint 3.0 and the author's experience with it, without focusing on customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on SharePoint 3.0 features and personal experiences with it, with no discussion of Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1268,15 +1136,6 @@
     "reasoning": "Content primarily discusses features of SharePoint 3.0 and personal experiences, with no focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, scaling practices, or any related frameworks; it focuses primarily on SharePoint 3.0 features.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-17T08:19:04",
@@ -1313,22 +1172,16 @@
     "reasoning": "Content primarily discusses SharePoint 3.0 features and personal experiences, with no relevant information about Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on features of SharePoint 3.0 and personal experiences, which are unrelated to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about SharePoint 3.0 features and does not focus on Scrum or the role of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on SharePoint 3.0 and its features, with no direct mention of Scrum or the role of a Scrum Master. There is minimal conceptual alignment as it does not discuss any Scrum principles or practices. The depth of discussion is also lacking, as it does not provide any insights into the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1204,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:19:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on SharePoint 3.0 features and personal experiences with the system, which is not related to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on exploring the features of SharePoint 3.0 and personal experiences with its setup, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features of SharePoint 3.0 and personal experiences with it, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features of SharePoint 3.0 and personal experiences with its setup, lacking explicit discussions on collaboration, decision-making, or value delivery. While it mentions setting up an intranet, it does not delve into the social frameworks or methodologies that characterise social technologies, nor does it provide depth on how these technologies impact team dynamics or organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1233,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses features and personal experiences with SharePoint 3.0, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:52:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses SharePoint 3.0 features and personal experiences, with no clear focus on Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:52:37",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses SharePoint 3.0 features and personal experiences with it, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses SharePoint 3.0 and its features, with no direct mentions of Scrum principles, roles, events, or any related concepts. The focus is on personal experiences with SharePoint rather than any aspects of Scrum, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses SharePoint 3.0 and personal experiences with its features, with no direct mention of the Shift-Left Strategy or its principles. There is minimal conceptual alignment as it does not address integrating testing, security, or compliance early in the development process. The depth of discussion is also very low, focusing instead on personal impressions of software rather than any strategic approach to software development.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences with SharePoint 3.0 and does not discuss Common Goals, Agile, or DevOps principles. There are no explicit mentions of shared objectives or alignment strategies, and the discussion lacks depth on the topic of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the features of SharePoint 3.0 and the author's personal experience with it, with minimal discussion on competence in terms of skill development or professionalism. While there is a brief mention of needing to learn more about the system, it does not delve into continuous learning or the importance of competence in a professional context.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal experiences with SharePoint 3.0 and does not discuss Continuous Improvement principles. While there is a mention of setting up an intranet, it lacks any reference to empirical evidence, data-driven decision-making, or a culture of experimentation, which are core to Continuous Improvement. The discussion is more about individual learning and adaptation rather than systematic improvement processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of SharePoint 3.0 and personal experiences with its setup, lacking any discussion on Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The content does not explore the interplay between human and AI capabilities or provide any case studies related to Agentic Agility.",
     "level": "Ignored"
   }
 }

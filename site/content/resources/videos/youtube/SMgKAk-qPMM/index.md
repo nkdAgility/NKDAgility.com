@@ -2,8 +2,10 @@
 title: 'Temperance in Agile: Why Less is More'
 description: "Master the art of balance in Agile with our video on Temperance! Discover how moderation maximises efficiency and elevates your Agile practices. \U0001F31F"
 date: 2023-12-05T07:00:10Z
+weight: 1000
 ResourceId: SMgKAk-qPMM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: SMgKAk-qPMM
@@ -15,40 +17,40 @@ preview: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
 duration: 154
 isShort: false
 aliases:
-- /resources/temperance-in-agile-why-less-is-more
-- /resources/videos/7-virtues-of-agile-temperance
-- /resources/videos/SMgKAk-qPMM
-- /resources/7-virtues-of-agile-temperance
 - /resources/SMgKAk-qPMM
-aliasesFor404:
+- /resources/videos/temperance-in-agile-why-less-is-more
+- /resources/videos/7-virtues-of-agile-temperance
+aliasesArchive:
+- /resources/videos/temperance-in-agile-why-less-is-more
 - /resources/temperance-in-agile-why-less-is-more
 - /resources/videos/7-virtues-of-agile-temperance
 - /resources/7-virtues-of-agile-temperance
+- temperance-in-agile-why-less-is-more
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Values and Principles
-- Agile Frameworks
-- Agile Project Management
-- Agile Product Management
-- Agile Philosophy
-- Agile Transformation
+- Operational Practices
 - Software Development
-- Pragmatic Thinking
+- Agile Philosophy
 - Agile Planning
-- Software Developers
+- Agile Frameworks
+- Agile Transformation
+- Product Backlog
+- Value Delivery
+- Product Delivery
+- Agile Values and Principles
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.
 
-The principle of temperance reminds us that we must balance our efforts, focus on what truly matters, and avoid overcomplicating processes. This is particularly relevant when it comes to managing our backlogs and planning our sprints. In this post, we’ll dive deeper into what it means to apply temperance in Agile and share practical insights on how to strike the perfect balance in your Scrum practices.
+The principle of temperance reminds us that we must balance our efforts, focus on what truly matters, and avoid overcomplicating processes. This is particularly relevant when it comes to managing our backlogs and planning our sprints. In this post, we’ll dive deeper into what it means to apply temperance in Agile and share practical insights on how to strike the perfect balance in your [Scrum]({{< ref "/categories/scrum" >}}) practices.
 
-## **What Does It Mean to Have a Lean Backlog?**
+## **What Does It Mean to Have a [Lean]({{< ref "/categories/lean" >}}) Backlog?**
 
 In Agile, the backlog is the heart of the project. It contains everything the team will eventually work on, but that doesn’t mean it should be overloaded. A lean backlog ensures that your team stays focused on delivering value without getting overwhelmed. The key phrase here is: **just enough and no more**.
 
@@ -86,7 +88,7 @@ One of the principles in the Agile Manifesto is to maximize the amount of work *
 
 In one of my previous projects, our team was overly ambitious about refining every backlog item. We wanted to have every possible feature mapped out in detail. However, we soon found ourselves stuck in endless refinement sessions, debating the merits of features that didn’t add immediate value. Our velocity slowed down, and it felt like we were refining for refinement's sake.
 
-It wasn’t until we adopted the principle of **just enough and no more** that we saw real improvement. By focusing on the most critical items and minimizing time spent on low-priority tasks, we were able to accelerate delivery and improve customer satisfaction.
+It wasn’t until we adopted the principle of **just enough and no more** that we saw real improvement. By focusing on the most critical items and minimizing time spent on low-priority tasks, we were able to accelerate delivery and improve [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}).
 
 ## **The Easy Path vs. The Hard Path**
 
@@ -110,7 +112,7 @@ For example, when refactoring code, the easier path might be to patch things up 
 
 ## **When to Seek Help**
 
-If you’re finding it difficult to strike this balance in your Agile journey, don’t hesitate to seek guidance. Whether it’s through training, coaching, or consulting, finding the right support can make a world of difference. My team at **Naked Agility** specializes in helping teams apply the Seven Virtues of Agility, including temperance, to maximize effectiveness.
+If you’re finding it difficult to strike this balance in your Agile journey, don’t hesitate to seek guidance. Whether it’s through training, [coaching]({{< ref "/tags/coaching" >}}), or consulting, finding the right support can make a world of difference. My team at **Naked Agility** specializes in helping teams apply the Seven Virtues of Agility, including temperance, to maximize effectiveness.
 
 If you're ready to elevate your Agile practices and apply temperance to your backlog, refinement, and planning, reach out. We’re here to help, or you can always find a coach or trainer who can guide you in this journey.
 

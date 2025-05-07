@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T17:30:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, which are central themes in the context of Agile methodologies and practices.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on an upcoming webcast about Agile Leadership and Transformation, which is related to social technologies but does not explicitly discuss the core themes of collaboration, decision-making, or value delivery in detail. While it mentions Agile methodologies and leadership, it lacks a thorough exploration of how these concepts foster self-organisation or collective intelligence within teams. The depth of discussion is limited to promotional content rather than an in-depth analysis of social technologies.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,38 +22,50 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:30:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear discussion of DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which, while related to software development practices, does not explicitly discuss DevOps principles or practices. There are no direct mentions of DevOps, and the discussion lacks depth in terms of DevOps concepts such as automation, shared accountability, or continuous improvement. The content is more aligned with Agile methodologies rather than the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T17:30:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are relevant to product management, but the primary focus is on Agile methodologies rather than strategic product management.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than directly addressing product management. While it touches on themes relevant to product management, such as leadership in Agile contexts, it lacks explicit discussions on product management methodologies, customer feedback prioritisation, or metrics for product success. The depth of discussion is limited to general insights and strategies without delving into the specific frameworks or practices that guide product managers.",
     "level": "Tertiary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T17:30:53",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily focuses on Agile leadership and transformation, discussing the role of leaders in driving successful Agile transformations and providing insights into leadership strategies.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, discussing the pivotal role of leadership in driving successful Agile transformations. It highlights expert insights, transformational strategies, and actionable takeaways, all of which align closely with the core themes of leadership in an Agile context. The depth of discussion is significant, as it promises to reshape understanding and provide practical strategies for leaders. Overall, the content is well-aligned with the leadership category, making it a strong fit.",
+    "level": "Primary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T17:30:56",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are significant aspects of business agility. However, it does not delve deeply into the broader principles and practices of business agility, making it a major but secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are closely related to the principles of business agility. It discusses the role of leadership in driving Agile transformations and offers insights into strategies for successful implementation. However, it lacks detailed exploration of broader business agility concepts and metrics, which limits its depth. The mention of Agile methodologies is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -82,29 +97,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:31:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:47:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T17:31:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile leadership and transformation, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T17:31:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear discussion on Scaling Kanban principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation, with no explicit discussion of Evidence-Based Management principles or metrics. While it mentions strategies and insights related to Agile, it does not align with the core themes of EBM, such as empirical decision-making or current value metrics. The depth of discussion on EBM is minimal, as the content does not provide any data-informed decision-making frameworks or outcomes related to EBM.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,12 +118,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T17:31:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are significant themes within the Agile frameworks context, but it does not delve deeply into specific frameworks or their comparative analysis.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile leadership and transformation, which are related to Agile frameworks but does not explicitly mention specific frameworks like Scrum or Kanban. It provides insights into the principles of Agile transformations and leadership roles, aligning with the core themes of the category. However, the depth of discussion on specific frameworks is limited, focusing more on leadership strategies rather than a comprehensive exploration of Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +139,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T17:31:13",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear discussion on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -151,15 +154,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on an upcoming webcast about Agile leadership and transformation, without a clear emphasis on trend analysis or the identification of patterns and shifts within Agile methodologies.",
     "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T17:31:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and transformation strategies, which are relevant to scaling Agile practices, but it does not focus specifically on frameworks or coordination among multiple teams.",
-    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -199,12 +193,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T17:31:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are related to team performance but are not the primary focus. The emphasis is more on leadership strategies rather than direct team dynamics or performance metrics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than directly addressing team performance. While it mentions leadership's role in Agile transformations, it lacks specific discussions on team dynamics, collaboration, or performance metrics. The depth of discussion on team performance-related topics is minimal, making it only tangentially relevant to the category.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -226,38 +223,26 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T17:31:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and leadership, which are relevant to product delivery, but the primary focus is on Agile transformation rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T17:31:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, with no mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than the end-to-end process of delivering software products. While it mentions Agile methodologies, it does not delve into specific practices related to product delivery, such as testing, deployment, or cross-functional team dynamics. The discussion is more about leadership strategies in Agile contexts, which is relevant but not central to the core principles of product delivery.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T17:31:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile transformation and leadership, which are relevant to digital transformation, but the primary focus is on Agile methodologies rather than a broader strategic adoption of digital technologies.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T17:31:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile leadership and transformation, focusing on the interplay between human behaviour and structured methodologies in technology and product development.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile leadership and transformation, which are closely related to digital transformation. It highlights strategies for successful Agile transformations and the role of leadership, aligning with the core themes of enhancing business agility and fostering innovation. However, the focus is primarily on Agile methodologies rather than a broader discussion of digital technologies or their strategic adoption, which limits the depth of the discussion. Therefore, while there is a strong connection to digital transformation, it is not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Test Driven Development": {
@@ -268,15 +253,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on Agile leadership and transformation, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T17:31:41",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are significant aspects of Agile Project Management, but it does not delve deeply into specific methodologies or practices.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +272,6 @@
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T17:31:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T17:31:45",
@@ -314,22 +281,16 @@
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on release management processes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:31:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, which is not directly related to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T17:31:48",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are significant aspects of enterprise agility, but it primarily focuses on a specific webcast rather than a comprehensive exploration of enterprise agility as a whole.",
+    "final_score": 78.0,
+    "reasoning": "The content focuses on Agile leadership and transformation, which are critical components of Enterprise Agility. It discusses the role of leadership in driving Agile transformations and provides insights into strategies for successful implementation. The webcast format suggests a broader organisational context rather than just team-level practices, aligning well with the core themes of adaptability and collaboration. However, while it touches on important aspects, it does not delve deeply into specific frameworks or metrics for measuring enterprise agility, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Kanban": {
@@ -343,47 +304,56 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T17:31:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are relevant to technical leadership, but it primarily promotes a webcast rather than providing in-depth insights or strategies on technical leadership principles.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile leadership and transformation, which aligns with the principles of technical leadership. It mentions the role of leadership in driving Agile transformations and offers actionable strategies, indicating a focus on mentoring and guiding teams. However, it lacks detailed exploration of specific technical leadership practices and does not delve deeply into the nuances of team dynamics or conflict resolution, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T17:31:54",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation rather than specific Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T17:31:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, without specific reference to the Scrum Master role or responsibilities.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than the specific role of a Scrum Master. While it mentions Agile principles and leadership, it does not delve into the responsibilities or impact of a Scrum Master within a Scrum Team. The discussion is more general and does not provide detailed insights into the Scrum Master's role, techniques, or influence on team dynamics.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T17:31:56",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation rather than Agile planning methodologies and practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T17:31:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are related to Agile values and principles, but it primarily focuses on a webcast event rather than a deep exploration of those values and principles.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily promotes a webcast focused on Agile leadership and transformation, which indirectly relates to Agile values and principles. However, it lacks direct discussions of the Agile Manifesto or its core values. While it mentions the importance of understanding principles that underpin successful Agile transformations, the depth of discussion on Agile values is limited, focusing more on the event and its speakers rather than a thorough exploration of Agile principles.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -397,11 +367,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T17:32:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Agile leadership and transformation, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation, with no direct mention of Test First Development principles or practices. While Agile methodologies may touch on testing, the discussion does not align with the core themes of Test First Development, such as defining success criteria or the specifics of TDD and ATDD. The depth of discussion regarding Test First practices is virtually non-existent, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -424,21 +397,27 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T17:32:04",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Agile leadership and transformation, highlighting the role of leadership in shaping organisational culture, which is a significant theme. However, it primarily focuses on the webcast event rather than an in-depth exploration of organisational culture itself.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile leadership and transformation, which are closely related to organisational culture. It highlights the role of leadership in shaping Agile practices and mentions transformational strategies, indicating a focus on cultural elements. However, the discussion lacks depth in exploring specific cultural dimensions or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T17:32:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation strategies, which are relevant to large-scale Agile initiatives, but it does not focus primarily on scaling Agile across an organisation.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile leadership and transformation, which are relevant to large-scale agility. However, it primarily focuses on individual leadership roles and strategies rather than frameworks or enterprise-level practices. While there are mentions of transformation strategies, the depth of discussion on scaling Agile across an organisation is limited.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -460,21 +439,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T17:32:09",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T17:32:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Agile leadership and transformation strategies, highlighting the importance of leadership roles in successful Agile transformations.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses Agile transformation and leadership, highlighting key elements and strategies for successful Agile transformations. It mentions the importance of leadership roles and provides actionable takeaways, indicating a strong alignment with the core themes of the category. The depth of discussion is significant, as it promises insights from experts and practical strategies, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -487,10 +469,10 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T17:32:13",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear discussion of Lean principles or practices.",
     "level": "Ignored"
   },
@@ -502,24 +484,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on Scrum Values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T17:32:16",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are closely related to organisational resilience and change management. However, the primary focus is on the webcast and the speakers rather than a deep exploration of resilience strategies.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T17:32:17",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile leadership and transformation strategies, which are relevant to practical techniques, but it primarily focuses on theoretical insights and does not delve deeply into specific tools or methodologies.",
-    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -548,15 +512,6 @@
     "reasoning": "Content primarily promotes a webcast and training classes, lacking personal reflections or experiences related to Agile methodologies.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T17:32:25",
-    "ai_confidence": 90,
-    "non_ai_confidence": 10,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses an upcoming webcast focused on Agile leadership and transformation, featuring expert insights and interactive Q&A, which aligns closely with the category's focus on events and presentations.",
-    "level": "Primary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "calculated_at": "2025-02-17T17:32:26",
@@ -584,15 +539,6 @@
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without specific discussions on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T17:32:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are relevant to scaling agility, but it primarily focuses on individual leadership roles rather than broader organisational strategies.",
-    "level": "Tertiary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T17:32:31",
@@ -613,11 +559,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T17:32:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear discussion on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, with no direct mention of Continuous Delivery principles or practices. While Agile methodologies can relate to Continuous Delivery, the discussion does not delve into the specific themes of Continuous Delivery such as automation, incremental improvements, or software quality. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -640,20 +589,26 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T17:32:36",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are closely related to change management principles. However, it primarily focuses on a webcast and training classes rather than in-depth change management strategies.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on an upcoming webcast about Agile leadership and transformation, which indirectly relates to change management. While it mentions transformational strategies and the role of leadership, it lacks in-depth discussion on the principles and practices of change management as defined in the category. The content does not provide substantial insights into managing change effectively or fostering a culture of adaptability, which are key aspects of the Change Management category.",
     "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T17:32:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are related to team dynamics and collaboration, but the primary focus is on leadership strategies rather than direct team collaboration techniques.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which indirectly relates to team collaboration by discussing the role of leadership in fostering effective teamwork. However, it lacks direct mentions of team collaboration techniques or specific strategies for enhancing team dynamics. The depth of discussion on collaboration is limited, focusing more on leadership insights rather than collaborative practices within teams.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
@@ -665,7 +620,7 @@
     "reasoning": "Content primarily focuses on Agile leadership and transformation, with no specific reference to the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T17:32:47",
     "ai_confidence": 0,
@@ -683,15 +638,6 @@
     "reasoning": "Content primarily discusses Agile leadership and transformation, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T17:32:50",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which includes elements of learning and adaptation in the context of Agile methodologies. However, the primary focus is on the webcast and its promotional aspects rather than a deep exploration of discovery and learning processes.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T17:32:51",
@@ -703,11 +649,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:32:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation rather than the Agile Product Operating Model specifically.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation rather than the Agile Product Operating Model specifically. While it discusses Agile methodologies and leadership roles, it does not delve into product management principles or the specific themes outlined in the APOM framework. The mention of Agile transformation is relevant but does not directly address the core aspects of the Agile Product Operating Model, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -730,21 +679,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T17:33:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are relevant to market adaptability, but it primarily focuses on a webcast and training opportunities rather than specific strategies or methodologies for enhancing market adaptability.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile leadership and transformation, which are closely related to market adaptability. It highlights the importance of Agile methodologies in responding to change and provides actionable strategies for leading Agile transformations. However, it lacks specific examples or case studies that would further enhance its depth in the context of market adaptability.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T17:33:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which relates to organisational dynamics and the role of leadership in influencing organisational behaviour, but it primarily focuses on Agile methodologies rather than systems thinking.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are related to organisational dynamics but do not explicitly discuss systems thinking principles or the holistic view of organisational behaviour as outlined in the category definition. While there are mentions of leadership's role in transformation and some elements of organisational change, the depth of discussion on systems thinking and its application is minimal. Therefore, the confidence score reflects a low alignment with the core themes of Organisational Physics.",
+    "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
@@ -775,10 +730,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T17:33:07",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation strategies, without a clear emphasis on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -802,20 +757,14 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T17:33:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are relevant to mentoring in Agile environments, but it primarily focuses on a webcast and training classes rather than direct mentoring techniques or relationships.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T17:33:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation without discussing AI or automation.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on an upcoming webcast about Agile leadership and transformation, which indirectly relates to mentoring by discussing leadership strategies. However, it lacks direct mentions of mentoring practices or detailed discussions on coaching and feedback techniques. The content does not delve into the mentoring process itself, making it a secondary theme rather than a primary focus.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -829,30 +778,39 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T17:33:18",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile leadership and transformation strategies, which are relevant to the Strategy category, but it primarily focuses on promoting a webcast rather than in-depth strategic discussions.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile leadership and transformation, which are relevant to strategic approaches within Agile frameworks. However, while it mentions transformational strategies and the role of leadership, it lacks in-depth exploration of specific strategic alignment techniques or metrics. The focus is more on the webcast and its promotional aspects rather than a detailed discussion of strategy itself.",
     "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T17:33:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation strategies, which are relevant to operational practices, but the primary focus is on the webcast and the speakers rather than specific operational techniques or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are relevant to operational practices. However, it lacks specific discussions on techniques or strategies that enhance operational efficiency. While it mentions actionable takeaways and transformational strategies, these are more about leadership and less about direct operational practices. The depth of discussion on operational efficiency is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T17:33:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are significant themes related to Agile philosophy, but it primarily focuses on a specific webcast event rather than a deep exploration of Agile principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile leadership and transformation, which are closely related to the Agile Philosophy. However, it primarily focuses on practical strategies and expert insights rather than delving deeply into the foundational principles of Agile. While there are mentions of Agile principles, the content does not explicitly discuss the Agile Manifesto or its core values, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -883,12 +841,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T17:33:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are related to continuous learning principles, but the primary focus is on the webcast and its promotional aspects rather than in-depth exploration of continuous learning practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a webcast focused on Agile leadership and transformation, which indirectly relates to Continuous Learning through the mention of actionable takeaways and expert insights. However, it lacks explicit discussions on growth mindset, knowledge sharing, or continuous improvement practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -919,11 +880,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T17:33:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are related to Agile principles but does not focus specifically on Agile Product Management practices or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than specific Agile product management practices. While it mentions Agile methodologies and provides insights into leadership roles in Agile contexts, it lacks direct discussions on product management topics such as backlog prioritisation, stakeholder engagement, or customer feedback integration. The depth of discussion is moderate, but it does not delve into the specifics of product management within Agile frameworks.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -944,31 +908,16 @@
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T17:33:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on Agile leadership and transformation, without specific discussions on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T17:33:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which relates to the interplay between organisational structures and technology adoption, but it primarily focuses on the webcast event rather than a deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T17:33:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a webcast on Agile leadership and transformation, rather than specific products or literature.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile leadership and transformation, which touches on the interplay between organisational structures and technology. However, it primarily focuses on the webcast's promotional aspects and does not delve deeply into the sociotechnical systems concept. While there are mentions of organisational transformation and leadership roles, the discussion lacks sufficient depth and explicit references to the core themes of sociotechnical systems.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,20 +940,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T17:33:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation strategies, which are relevant to pragmatic thinking in Agile contexts, but it primarily promotes a webcast rather than focusing deeply on practical problem-solving techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily promotes a webcast on Agile leadership and transformation, with some emphasis on practical strategies and expert insights. However, it lacks a detailed discussion on pragmatic problem-solving techniques or real-world applications of Agile principles, which are central to the category of Pragmatic Thinking. While it mentions actionable takeaways and transformational strategies, the overall focus remains on the event promotion rather than a deep exploration of pragmatic approaches.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T17:33:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:03:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear discussion on Lead Time or its measurement.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, with no direct mention of Lead Time or its related concepts. While it discusses Agile methodologies, it does not delve into metrics or observability aspects that are crucial for understanding Lead Time. The discussion lacks depth and relevance to the category, making it unsuitable for classification under Lead Time.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1045,10 +1000,10 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T17:33:52",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile methodologies and leadership strategies rather than psychological principles influencing organisational behaviour.",
     "level": "Ignored"
   },
@@ -1063,19 +1018,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T17:33:54",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses Agile leadership and transformation, which are significant aspects of software development methodologies. However, it focuses more on leadership and organisational transformation rather than specific software engineering practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are key aspects of software development methodologies. It discusses the importance of Agile practices and leadership in driving successful transformations, aligning well with the core themes of the Software Development category. However, the content is promotional in nature and lacks in-depth technical discussions or specific methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T17:33:56",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation without a clear emphasis on evidence-based practices or empirical data to inform leadership decisions.",
     "level": "Ignored"
   },
@@ -1090,10 +1048,10 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T17:33:59",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on decision-making processes or theories.",
     "level": "Ignored"
   },
@@ -1115,15 +1073,6 @@
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T17:34:05",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are relevant to software developers, but the primary focus is on leadership and organisational transformation rather than the role of developers specifically.",
-    "level": "Tertiary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T17:34:06",
@@ -1135,19 +1084,22 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T17:34:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are related to the principles of BetaCodex, but it primarily focuses on a webcast and training classes rather than a deep exploration of BetaCodex principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are related to the principles of Beta Codex but do not explicitly discuss decentralisation or human-centric organisational design. While it mentions strategies for Agile transformations, it lacks a detailed exploration of Beta Codex principles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T17:34:08",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile leadership and transformation, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1159,15 +1111,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, without specific reference to the Product Owner role or responsibilities.",
     "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T17:34:11",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses an upcoming webcast focused on Agile leadership and transformation, which aligns with industry news and updates relevant to Agile methodologies.",
-    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1207,21 +1150,27 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T17:34:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Agile leadership and transformation, highlighting the role of leaders in driving successful Agile transformations and providing insights into Agile methodologies.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses Agile Leadership and its role in transformation, highlighting the importance of leadership in driving Agile practices. It provides insights into strategies for successful Agile transformations and mentions the significance of leadership in this context. The depth of discussion is substantial, with actionable takeaways and expert insights, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T17:34:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are related to team dynamics and motivation, but it primarily focuses on the webcast and training opportunities rather than specific strategies for enhancing team motivation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a webcast on Agile leadership and transformation, which indirectly relates to team motivation through the lens of leadership strategies. However, it lacks direct discussions on team dynamics, engagement, or specific motivational techniques. The focus is more on the event and the speakers rather than on fostering team motivation or exploring the psychological aspects of team dynamics.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1243,46 +1192,46 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T17:34:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:02:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation, without a clear emphasis on throughput measurement or optimisation.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T17:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Agile leadership and transformation, without a clear focus on Scrum principles, roles, or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, with no direct mention of throughput as a delivery metric. While it discusses Agile methodologies, it does not analyse or visualise throughput, nor does it provide insights into delivery capacity or performance metrics. The discussion is more about leadership strategies rather than throughput metrics, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T17:34:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are related to value delivery, but it primarily focuses on a webcast event rather than specific strategies or methodologies for delivering value.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a webcast on Agile leadership and transformation, which indirectly relates to value delivery through the lens of Agile methodologies. However, it lacks explicit discussions on value delivery principles, techniques, or practices. While it mentions transformational strategies and actionable takeaways, these are not deeply explored in the context of delivering customer value. The focus is more on leadership and transformation rather than on the iterative and continuous delivery of value, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T17:34:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:02:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile leadership and transformation, which is unrelated to system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, with no direct mentions of system configuration or related topics. While it discusses methodologies and strategies, these are not aligned with the core themes of system configuration, such as configuration management tools or system optimisation. The depth of discussion is also minimal regarding system configuration, as the content is centred around Agile practices rather than technical system setup or maintenance.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T17:34:34",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, with no direct discussion of deployment strategies.",
     "level": "Ignored"
   },
@@ -1295,40 +1244,37 @@
     "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear discussion on product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T17:34:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile leadership and transformation rather than Scrum product development specifically.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T17:34:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile leadership and transformation, which are central themes in organisational change. It highlights strategies for successful Agile transformations and the role of leadership, aligning well with the category's focus.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on an upcoming webcast about Agile leadership and transformation, which aligns with the themes of organisational change. It discusses transformational strategies and the role of leadership in driving Agile transformations, which are key aspects of the category. However, the content lacks in-depth exploration of specific frameworks or methodologies for organisational change, and while it mentions Agile principles, it does not delve deeply into the processes or practices involved. Therefore, while it is relevant, it does not fully meet the depth required for a higher confidence score.",
     "level": "Secondary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T17:34:42",
+    "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, with no direct discussion of the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T17:34:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile leadership and transformation strategies, which are central to Agile strategy implementation and organisational alignment.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on an upcoming webcast about Agile leadership and transformation, which aligns with Agile Strategy themes such as leadership roles and transformational strategies. However, it lacks in-depth discussion on the integration of Agile principles into strategic planning or continuous value delivery, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Increment": {
@@ -1342,21 +1288,27 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T17:34:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile leadership and transformation, which are related to strategic goals, but it primarily focuses on a webcast and training classes rather than explicitly defining or articulating long-term objectives.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on promoting a webcast about Agile leadership and transformation, which indirectly relates to strategic goals through the lens of Agile methodologies. However, it lacks explicit discussions on long-term objectives or frameworks for setting strategic goals. While it mentions transformational strategies and actionable takeaways, these are more operational in nature rather than strategic. The depth of discussion on strategic goals is limited, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T17:34:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Agile leadership and transformation strategies, highlighting the role of leadership in fostering organisational agility.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content focuses on Agile leadership and transformation, which are central to the concept of organisational agility. It discusses the role of leadership in fostering agility and highlights strategies for successful Agile transformations. The depth of discussion includes expert insights and actionable takeaways, indicating a thorough exploration of the topic. However, while it aligns well with the category, it primarily promotes an event rather than providing an in-depth analysis, which slightly lowers the overall confidence score.",
+    "level": "Primary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1374,6 +1326,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile leadership and transformation, with no clear emphasis on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:50:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile leadership and transformation, with no mention of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:50:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile leadership and transformation without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than Scrum specifically. While it mentions Agile principles and methodologies, it does not delve into the Scrum framework, roles, events, or artifacts. The discussion is more about general Agile practices and leadership strategies, which are not strictly aligned with Scrum's specific principles and practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, with no explicit mention of the Shift-Left Strategy. While it discusses Agile principles, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy. The discussion lacks depth and detail on the topic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a webcast about Agile Leadership and Transformation, with no direct discussion of Continuous Improvement principles. While Agile methodologies are mentioned, the content lacks depth in exploring Continuous Improvement concepts, empirical evidence, or strategies for fostering a culture of experimentation. It does not provide actionable insights or case studies related to Continuous Improvement, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a webcast on Agile Leadership and Transformation, which indirectly relates to Common Goals by discussing leadership in Agile contexts. However, it lacks explicit discussions on shared objectives or alignment strategies, focusing instead on expert insights and transformational strategies without delving into the foundational principles of Common Goals in Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a webcast on Agile Leadership and Transformation, which indirectly relates to competence through the mention of 'transformational strategies' and 'actionable takeaways.' However, it lacks direct discussions on continuous learning, skill development, or the core themes of competence as defined. The depth of discussion is limited, focusing more on the event's promotional aspects rather than a thorough exploration of competence in Agile contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are not directly related to the One Engineering System framework. While Agile methodologies may share some principles with 1ES, the discussion does not explicitly mention 1ES or its components, nor does it delve into the integration of tools and processes across teams as required by the category. The content is more about promoting a webcast on Agile topics rather than discussing the standardisation and integration of engineering practices.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation without explicitly discussing Agentic Agility. While it touches on themes of leadership and organisational transformation, it lacks a clear connection to the intentional shaping of outcomes, autonomy, or the distinction between human and AI capabilities. The discussion is more general and does not delve into the specific principles or mechanisms of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:02:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are closely related to product development methodologies. It discusses key elements of Agile transformations and the role of leadership, aligning well with the principles of Agile product development. However, while it touches on important aspects of product development, such as actionable strategies and expert insights, it lacks in-depth exploration of iterative processes, customer feedback integration, and specific product delivery techniques, which are crucial for a higher confidence score in this category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:02:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation, without any direct mention of Open Space Agile or its principles. While it discusses Agile methodologies and leadership roles, it does not delve into the specific themes of Open Space Technology, psychological safety, or co-creation that are central to Open Space Agile. The discussion lacks depth regarding the collaborative change processes that characterise Open Space Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:02:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a webcast about Agile Leadership and Transformation, without explicitly discussing Agnostic Agile principles or their application. While it mentions Agile methodologies, it does not delve into the ethical, context-driven aspects of Agnostic Agile or compare it with traditional frameworks. The discussion lacks depth regarding the core themes of Agnostic Agile, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:02:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation rather than specifically addressing scaling methodologies or frameworks. While it mentions Agile principles, it does not delve into the complexities of scaling Agile practices, cross-team collaboration, or managing dependencies, which are central to the 'Scaling' category. The discussion is more about leadership roles in Agile rather than the coordination of multiple teams or the application of lean principles at scale.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:02:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation, discussing strategies and insights related to Agile methodologies. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or the Beta Codex. The depth of discussion is also minimal, as it is more promotional in nature rather than analytical or descriptive of the Cell Structure Design model.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:02:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, with no direct mention of Liberating Structures or their specific techniques. While it discusses themes relevant to Agile methodologies, it does not align with the core principles of Liberating Structures, such as facilitation techniques or enhancing group dynamics. The depth of discussion is also minimal regarding the category, as it lacks detailed exploration of any Liberating Structures concepts.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:02:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation without explicitly discussing Time to Market. While it mentions strategies for Agile transformations, it does not delve into metrics or processes that directly relate to the speed of delivering value to customers. The discussion lacks depth in terms of Time to Market, making it a secondary theme at best.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:02:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are related to organisational strategies but does not explicitly discuss the concept of 'Company as a Product'. While it touches on themes of organisational transformation and leadership, it lacks direct references to treating the organisation as a product or integrating customer feedback into organisational design. The discussion is more about Agile methodologies rather than the CaaP framework, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:02:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, with no direct mentions of GitHub or its functionalities. While Agile methodologies are discussed, they are not specifically tied to GitHub services or tools, which is a requirement for this category. The content lacks depth in relation to GitHub, as it does not provide insights into GitHub's features, best practices, or integration with Agile processes.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:02:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a webcast about Agile Leadership and Transformation, with no direct mention of Unrealised Value or its related concepts. While it discusses Agile methodologies and leadership strategies, it does not explore potential improvements, innovation opportunities, or indicators of Unrealised Value. The content lacks depth in discussing any relevant frameworks or case studies that would align with the category, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:02:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a webcast about Agile Leadership and Transformation, with no direct mention of Current Value or its metrics. While it discusses Agile methodologies, it lacks specific insights into customer satisfaction, revenue impact, or performance feedback, which are essential for evaluating Current Value. The discussion is more about leadership strategies rather than the real-time assessment of value delivered by a product or service, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:02:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation without any direct mention or critical examination of Hybrid Agile. It lacks discussion on the challenges of merging traditional methodologies with agile practices, which is central to the Hybrid Agile category. The content does not provide case studies, analysis of conflicting expectations, or any insights into the pitfalls of Hybrid Agile, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:02:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, which are specific aspects of project management but does not cover broader project management principles or methodologies comprehensively. While it mentions Agile methodologies and provides insights into leadership roles in Agile transformations, it lacks detailed discussions on core project management principles, lifecycle phases, or tools. Therefore, while there is some alignment with the category, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Principle": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 45.0,
+    "ai_mentions": 3,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile leadership and transformation, mentioning the principles that underpin successful Agile transformations. However, the discussion lacks depth and is primarily promotional in nature, focusing more on signing up for the webcast rather than deeply engaging with the actionable principles that guide Agile decision-making. While the principles are referenced, they are not the primary focus of the content, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation, discussing strategies and insights from experts. It does not mention specific tools or provide a detailed discussion on how tools facilitate these processes. The alignment with the 'Tool' category is minimal, as there is no direct reference to any tools or practical application of tools within Agile practices.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mentions Agile leadership and transformation but primarily promotes a webcast without delving deeply into the underlying values guiding Agile methodologies. While there are references to principles and strategies, the discussion lacks a robust exploration of values that shape behavior and decision-making within organizations, making it a secondary, not primary, focus.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily promotes an upcoming webcast on Agile leadership and transformation, focusing on practical strategies rather than the philosophical foundations or the underlying values of Agile as a framework. While there are mentions of theoretical insights and leadership, there is little to no exploration of the core philosophical concepts related to Agile, Lean, or DevOps. The overall emphasis is on actionable insights and strategies instead of deep discussions on the 'why' or 'what' behind these methodologies.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 52.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content centers around a webcast on Agile Leadership and Transformation, which indicates some direct mentions of the discipline of Agile. However, while it discusses the roles of leadership and strategies for Agile transformation, it does not delve deeply into the overarching principles, governance, or continuous learning aspects associated with the discipline of Agile as a systemic field. The focus is more on the practical aspects rather than theoretical foundations, thus limiting the depth of the discussion regarding discipline itself.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Agile leadership and transformation without explicitly discussing artifacts or their role and structure. While there is some mention of agile principles, there is no detailed exploration of specific artifacts, nor is there a strong connection to the key topics outlined in the artifact category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on Agile Leadership and Transformation but does not directly or indirectly discuss observability or its key topics. There are no relevant mentions of metrics, logs, traces, or tools related to observability, making its alignment and depth extremely low.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses a webcast focused on Agile Leadership and Transformation rather than specific practices. While it mentions actionable takeaways, these are too vague to align closely with defined practices. The depth of discussion on practical techniques related to team improvement is minimal, focusing instead on high-level insights and strategies.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Agile Leadership and Transformation without providing specific methods, structured procedures, or step-by-step approaches to implement Agile methodologies. While it mentions practical strategies and transformational strategies, it lacks detailed discussion on specific methods like Scrum, Kanban, or Lean. Thus, it does not align well with the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a webcast about Agile leadership and transformation without delving into any specific models or frameworks. While Agile transformation is relevant to the 'Model' category, the content does not directly discuss any models or frameworks as required. There is minimal alignment as it touches on concepts related to transformative strategies in Agile contexts, but it lacks depth in explicitly discussing any conceptual models.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile leadership and transformation in general terms but does not directly focus on specific frameworks or their structured methodologies. While it touches on the principles of Agile, it does not delve into any specific frameworks like Scrum or Kanban or provide any strategies for implementing these frameworks. The emphasis seems to be more on leadership and personal transformation rather than framework-specific discussions, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Agile leadership and transformation but does not explicitly mention or explore specific tenets of Agile, Lean, or DevOps methodologies. While it highlights the importance of transformational strategies and expert insights, it lacks the prescriptive, actionable rules that are characteristic of tenets. The focus is more on the overall practice of Agile rather than on specific tenets that guide decision-making or behaviors within an organization. Thus, while there is some connection to the broader Agile context, the content does not sufficiently meet the criteria for the 'Tenet' category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:38:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 100.0,
+    "ai_depth": 100.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on an exclusive webcast about Agile leadership and transformation, which is relevant to capability but does not explicitly discuss capabilities themselves. While it mentions transformational strategies and leadership's role in Agile transformations, these aspects are more about roles and outputs rather than enduring capabilities. The depth of discussion is minimal, primarily promoting the event rather than providing in-depth exploration of capabilities as specified in the criteria.",
     "level": "Ignored"
   }
 }

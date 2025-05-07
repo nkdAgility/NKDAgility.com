@@ -2,8 +2,10 @@
 title: Does Your Team Truly Understand Your Product Vision and Goals?
 description: "Unlock your team's potential! Discover how a shared product vision drives Agile success and empowers decision-making in this insightful video. \U0001F680"
 date: 2024-07-12T06:45:00Z
+weight: 450
 ResourceId: CPYTApf0Ibs
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: CPYTApf0Ibs
@@ -15,33 +17,48 @@ preview: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg
 duration: 411
 isShort: false
 aliases:
-- /resources/does-your-team-truly-understand-your-product-vision-and-goals
-- "/resources/videos/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
-- /resources/videos/CPYTApf0Ibs
-- "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 - /resources/CPYTApf0Ibs
-aliasesFor404:
+- /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
+- /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
+aliasesArchive:
+- /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
 - /resources/does-your-team-truly-understand-your-product-vision-and-goals
 - "/resources/videos/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 - "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
+- /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
+- does-your-team-truly-understand-your-product-vision-and-goals
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Agile Values and Principles
+- Organisational Change
+- Organisational Culture
+- Agile Planning
+- Software Development
+- Team Motivation
+- Transparency
+- Agile Strategy
+- Agile Transformation
+- Common Goals
+- Decision Making
+- Team Collaboration
+- Pragmatic Thinking
+- Social Technologies
+- Agile Philosophy
 resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 - Leadership
-- Social Technologies
 
 ---
-When it comes to Agile transformation, one of the most crucial aspects often overlooked is the shared understanding of the product vision and strategic goals within the team. It’s not enough to have a beautifully crafted vision statement or a set of strategic goals pinned to the office wall; every team member needs to internalize these concepts and understand how their daily work contributes to achieving them. This understanding forms the foundation of true agility within an organization.
+When it comes to [Agile transformation]({{< ref "/tags/agile-transformation" >}}), one of the most crucial aspects often overlooked is the shared understanding of the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}}) within the team. It’s not enough to have a beautifully crafted vision statement or a set of strategic goals pinned to the office wall; every team member needs to internalize these concepts and understand how their daily work contributes to achieving them. This understanding forms the foundation of true agility within an organization.
 
 ## **The Second Agile Litmus Test: Is Your Product Vision Truly Understood?**
 
-The second question that we should be asking leadership in any Agile organization is simple yet profound: **Is there a product vision that lays out the strategic goals, and do all members of the team understand both of those things?** More importantly, are they able to see how their everyday work contributes to these overarching objectives?
+The second question that we should be asking [leadership]({{< ref "/categories/leadership" >}}) in any Agile organization is simple yet profound: **Is there a product vision that lays out the strategic goals, and do all members of the team understand both of those things?** More importantly, are they able to see how their everyday work contributes to these overarching objectives?
 
 In my experience working with various organizations, this understanding is often lacking. Surprisingly, even in companies that have a clear product vision and strategic goals, these are not always effectively communicated to the people actually doing the work. This disconnect can be more detrimental than the absence of a usable working product.
 
@@ -121,7 +138,7 @@ To truly gauge your organization’s agility, consider the following six questio
 
 5. **Can they articulate how their work contributes to these goals?**
 
-7. **Is there a culture of continuous improvement?**
+7. **Is there a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}})?**
 
 9. **Do teams collaborate effectively towards common objectives?**
 

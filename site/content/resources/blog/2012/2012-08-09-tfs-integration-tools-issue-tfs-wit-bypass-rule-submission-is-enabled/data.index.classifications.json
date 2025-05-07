@@ -8,58 +8,25 @@
     "reasoning": "Content primarily discusses technical issues related to TFS Integration Platform and permissions, with no focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:48:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific issue related to the TFS Integration Platform and provides a practical solution using the tfssecurity.exe tool, which aligns with the exploration and application of tooling in Agile and DevOps practices.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T19:48:35",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific issue related to TFS Integration Platform and permissions, without a clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:48:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and does not address Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:48:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific error related to TFS Integration Platform and does not address code quality, complexity, or related best practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:48:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and does not focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:48:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses TFS Integration Platform issues and permissions, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS Integration and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of data-informed decision-making or the key topics outlined in the EBM category. The discussion is highly technical and operational, lacking any strategic insights or empirical evidence considerations.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:48:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuring the TFS Integration Platform, including specific steps to resolve a permission issue related to service accounts, which aligns with installation and configuration topics.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:48:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Platform and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed discussion on a specific installation and configuration issue related to the TFS Integration Platform. It explicitly mentions the error encountered during the initial setup and offers a solution involving command-line tools, which aligns well with the category's focus on actionable installation and configuration guidance. The depth of the discussion is significant, as it includes troubleshooting steps and specific commands to resolve the issue, demonstrating a strong alignment with the key topics outlined in the category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:48:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical issues related to TFS Integration Tools and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Integration Platform and its configuration, which relates to DevOps practices, but it primarily focuses on a specific technical issue rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to TFS (Team Foundation Server) and its integration tools. While it touches on aspects of service accounts and permissions, it does not engage with the broader principles or cultural shifts associated with DevOps, such as collaboration, automation, or continuous improvement. The discussion is technical and procedural, lacking a focus on the DevOps philosophy or its key topics.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to TFS Integration Tools and does not focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:48:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and does not reference any events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:48:54",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and permissions, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:48:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and does not focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:48:59",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to TFS Integration and permissions, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to the TFS Integration Platform and provides a solution involving command line tools, which aligns with technical practices. However, it primarily focuses on a specific problem rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS Integration and the permissions required for service accounts. While it touches on a technical problem and provides a solution, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is more on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -260,15 +200,6 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and does not address Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:49:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to the TFS Integration Platform and does not focus on products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T19:49:09",
@@ -280,11 +211,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:49:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 55.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to the TFS Integration Platform, which is part of Azure DevOps, and provides a solution involving Azure DevOps service accounts.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is part of the Azure DevOps suite. It provides a detailed explanation of a permission error encountered when using TFS WIT bypass-rule submission, including a solution involving command-line tools. While it does not explicitly mention Azure DevOps frequently, it is focused on a tool within the Azure DevOps ecosystem, thus aligning with the category. However, the discussion lacks broader context on Azure DevOps functionalities and best practices, which affects the overall depth and alignment scores.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,7 +239,7 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS Integration Tools and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:49:15",
     "ai_confidence": 0,
@@ -316,11 +250,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Platform and permissions, with no focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS Integration and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related concepts. The content is strictly technical and does not align with the core themes of the APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +269,16 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS Integration Platform and permissions, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:49:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue and solution related to TFS Integration Tools, lacking a focus on news or reviews in Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is a tool used in the application lifecycle management process, particularly in the context of managing service accounts and permissions. However, it primarily focuses on a technical error and solution rather than the broader aspects of application lifecycle management.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:49:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS Integration Platform and related technical issues, with no clear focus on Scrum principles, roles, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to the TFS Integration Platform and permissions management, which is a narrow aspect of application management. While it touches on aspects of application governance (permissions and service accounts), it lacks a broader discussion on the application lifecycle stages, best practices, or tools that are central to Application Lifecycle Management. The focus is more on troubleshooting rather than lifecycle management, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +292,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to TFS Integration Platform and service account permissions, which are unrelated to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS Integration and provides solutions involving specific tools and command-line techniques, which align with the principles of software craftsmanship and engineering practices.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS Integration and provides a solution involving command-line tools, which aligns with the principles of software craftsmanship and technical delivery. However, it lacks broader discussions on best practices or methodologies in software engineering, limiting its depth of discussion.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +322,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to TFS Integration, without any focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific issue related to TFS Integration and does not discuss Continuous Delivery principles, practices, or benefits. It lacks direct mentions of Continuous Delivery and does not align with the core themes of the category, such as automation, rapid feedback, or cultural aspects. The depth of discussion is limited to a technical solution without broader implications for Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +343,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses TFS Integration and permissions rather than Lead Time metrics or their implications.",
     "level": "Ignored"
   },
@@ -433,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on TFS Integration Platform issues and permissions, not on Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -487,19 +415,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) configuration and permissions, with a specific mention of using a command line tool to resolve a permissions issue. While it relates to operational practices in a technical context, it does not center around broader operational efficiency or methodologies like Agile, DevOps, or Lean.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS Integration and permissions, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it touches on the use of command-line tools for managing service accounts, it lacks broader discussions on process optimisation, continuous improvement, or metrics for operational efficiency. Therefore, it only partially aligns with the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on TFS Integration Platform issues and administration, with no relevant discussions on Scrum roles, team dynamics, or collaboration.",
     "level": "Ignored"
   },
@@ -559,10 +490,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical issue related to TFS Integration Platform and service account permissions, with no discussion of team performance, collaboration, or Agile principles.",
     "level": "Ignored"
   },
@@ -586,28 +517,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses a specific issue related to the TFS Integration Platform, its service account settings, and a solution involving TFS security management, which are relevant to software development practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on TFS integration issues and permissions, with no discussion of agile methodologies or related principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed discussion on a specific issue related to the TFS Integration Platform, which is a tool used in software development for managing team projects and version control. It explicitly mentions the TFS WIT bypass-rule submission and the necessary permissions for service accounts, aligning well with best practices in version control systems and collaborative development. The depth of the discussion is significant, as it includes error messages, troubleshooting steps, and command-line instructions, indicating a strong focus on software development practices.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is predominantly focused on technical issues and solutions regarding TFS Integration Tools, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,11 +547,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the TFS Integration Platform, which is related to source control systems, but primarily focuses on a specific issue regarding permissions and configuration rather than broader best practices or methodologies in version control.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a specific issue related to the TFS Integration Platform, which is a version control system. It mentions permissions and service accounts, which are relevant to source control management. However, the discussion is primarily focused on a technical error and its resolution rather than broader best practices or methodologies in modern source control. While it touches on aspects of version control, it lacks depth in discussing strategies, workflows, or collaboration practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -658,10 +586,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to the TFS Integration Platform and permissions, without a focus on collaboration tools or agile team dynamics.",
     "level": "Ignored"
   },
@@ -701,15 +629,6 @@
     "reasoning": "Content primarily discusses issues related to TFS Integration Platform and does not focus on customer satisfaction principles, practices, or strategies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific technical issue related to the TFS Integration Platform and does not mention Scrum principles, frameworks, or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:30:52",
@@ -728,23 +647,17 @@
     "reasoning": "Content focuses on technical issues and solutions related to TFS Integration Tools without any discussion of psychological safety, team dynamics, or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to the TFS Integration Platform and does not engage with topics related to scaling agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses some technical aspects of the TFS Integration Platform, including permissions and configurations, which relate to software development and operational efficiency, but it mainly focuses on a specific technical issue rather than broader engineering excellence practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS Integration and permissions, which does not directly address broader themes of engineering excellence such as software craftsmanship, coding standards, or continuous improvement practices. While it touches on a technical aspect of software development, it lacks a comprehensive discussion on best practices or quality assurance, leading to a low confidence score in the context of the specified category.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -784,12 +697,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides practical solutions and steps for resolving a specific issue within the TFS Integration Platform, which relates to real-world applications of problem-solving in a technical context.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS Integration and provides a specific solution using command line tools. While it does touch on practical problem-solving in a real-world context, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The focus is more on troubleshooting a specific error rather than on pragmatic thinking strategies or frameworks. Therefore, while there is some alignment with the category, it is not a primary focus.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +718,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses a technical issue related to TFS (Team Foundation Server) Integration and does not discuss the Ability to Innovate or related themes such as innovation metrics, Evidence-Based Management, or strategies for fostering a culture of innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses TFS Integration Platform issues related to permissions and does not mention Scrum practices, product development, or feedback mechanisms.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS integration and does not address Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,21 +772,24 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses an error related to TFS integration rather than Agile Planning Tools, methodologies, or techniques.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the TFS Integration Platform and error handling related to service accounts, which can be associated with continuous integration practices in the context of Team Foundation Server (TFS), but it does not focus primarily on Continuous Integration principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific issue related to the TFS Integration Platform and permissions for service accounts, which is tangentially related to Continuous Integration. However, it does not explicitly address CI principles, best practices, or tools in a comprehensive manner. The focus is more on troubleshooting a specific error rather than exploring CI as a primary topic.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -973,10 +874,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS integration and permissions-related issues, with no mention of cycle time or workflow efficiency metrics.",
     "level": "Ignored"
   },
@@ -1009,10 +910,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical issue related to TFS integration and security permissions, which does not align with team collaboration dynamics or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +935,7 @@
     "reasoning": "Content discusses a specific technical issue related to TFS Integration Platform and permissions rather than broader themes of digital transformation, strategy, or the impact of digital technologies on business.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:30:52",
     "ai_confidence": 0,
@@ -1043,23 +944,17 @@
     "reasoning": "Content primarily discusses a technical issue related to TFS Integration Platform and permissions, with no mention of Minimum Viable Product concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is focused on troubleshooting a specific error related to TFS Integration Tools and does not discuss AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses configuring TFS (Team Foundation Server) permissions and service accounts, which aligns with system configuration practices and methodologies.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses a specific issue related to the configuration of the TFS Integration Platform, particularly focusing on permissions and service account management. It provides detailed steps on how to resolve a configuration issue, which aligns well with the core themes of system configuration. The mention of using the command line tool 'tfssecurity.exe' to modify service accounts demonstrates practical application and depth in the discussion of configuration management. Overall, the content is highly relevant to the category, with a strong focus on technical aspects of system configuration.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,20 +994,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to TFS Integration and permissions, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses resolving a specific issue related to TFS WIT bypass-rule submission and does not mention Test First Development principles, success criteria, or testing practices. It lacks any relevant discussion on manual or automated testing, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses troubleshooting an issue related to the TFS Integration Platform, which operates within the Windows environment. It provides insights on resolving a specific error, thus aligning closely with the category's focus on Windows operating system functionalities.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses an issue related to the TFS Integration Platform, which operates within the Windows environment. It explicitly mentions Microsoft Team Foundation Server (TFS), a tool that is closely associated with Windows-based development environments. The discussion includes troubleshooting steps and solutions, which align well with the core themes of installation, configuration, and troubleshooting within the Windows category. However, while the content is relevant, it does not delve deeply into broader Windows operating system features or settings, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1135,10 +1036,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:30:52",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to TFS Integration and troubleshooting, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1162,11 +1063,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses a specific issue encountered with the TFS Integration Platform, providing a detailed error message, context, and a step-by-step solution using command-line tools to resolve the issue. This aligns well with troubleshooting themes.",
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses a specific issue related to TFS WIT bypass-rule submission and provides a detailed error message, which aligns directly with troubleshooting. It outlines the problem, explains the context, and offers a clear solution using a command-line tool, demonstrating a systematic approach to resolving the issue. The depth of discussion is high, as it includes technical details and steps necessary for resolution, making it a strong fit for the Troubleshooting category.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1180,11 +1084,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:30:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical details related to TFS Integration Tools and not the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS Integration and does not mention the role or responsibilities of a Scrum Master. There is no alignment with Scrum principles or practices, and the depth of discussion is focused on troubleshooting rather than any aspect of Scrum or agile methodologies.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1204,15 +1111,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses TFS integration and permissions issues rather than working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 25,
-    "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content discusses specific technical issues and solutions related to the TFS Integration Platform, but it does not focus on Agile, DevOps, or modern engineering practices central to software development roles. Therefore, the relevance to the Software Developers category is minimal.",
-    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1331,15 +1229,6 @@
     "reasoning": "Content primarily focuses on troubleshooting TFS Integration Platform issues and permissions, with no discussion of accountability, ownership, or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:30:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to TFS (Team Foundation Server) integration and permission settings, which is unrelated to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T21:30:53",
@@ -1360,11 +1249,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:51:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS Integration Platform and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS Integration and does not discuss any aspects of social technologies, collaboration, or decision-making. It lacks direct mentions of the category and does not align with the core themes of social technologies, such as self-organisation or collective intelligence. The depth of discussion is also minimal, as it is a straightforward technical guide without any exploration of social frameworks.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1266,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to TFS Integration Tools and does not address leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to TFS Integration Platform and permissions, without a clear focus on Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:23:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses TFS Integration Platform issues and permissions, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses a technical issue related to the TFS Integration Platform and does not mention Scrum principles, roles, events, or any related concepts. While it touches on project management tools, it does not align with the core themes of Scrum, nor does it provide any depth on Scrum practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to TFS Integration Platform and does not address the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the development process, nor does it explore the principles or benefits of the Shift-Left approach. The focus is on resolving a permission error, which is unrelated to the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to TFS Integration and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to a technical solution without any broader implications for process enhancement or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS Integration and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in these areas.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS Integration and does not explicitly discuss competence or continuous skill development. While it touches on the necessity of using specific tools and commands, it lacks a broader discussion on the importance of competence in Agile or DevOps contexts. The mention of using command line tools could imply a level of skill, but it does not delve into the principles of professionalism or quality delivery that define the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to TFS Integration and does not discuss Agentic Agility or its principles. There are no explicit mentions of autonomy, adaptability, or intentional shaping of outcomes, nor does it differentiate between human and AI capabilities in the context of agility. The discussion is strictly technical and procedural, lacking any alignment with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

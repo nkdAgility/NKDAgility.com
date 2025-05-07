@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T17:13:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the shift from people to systems during the Industrial Revolution, without a clear focus on Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the historical shift from individual craftsmanship to systems in the context of Agile methodologies, highlighting the importance of collaboration and the need for systems to empower people. While it touches on relevant themes such as collaboration and continuous evaluation, it does not delve deeply into specific social technologies or frameworks. The primary focus is on the balance between systems and people rather than a thorough exploration of social technologies themselves.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:13:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses historical perspectives on systems and people, without a clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from people to systems and touches on Agile methodologies, but it does not explicitly mention DevOps or its core principles. While there are themes of collaboration and continuous evaluation, the focus is more on Agile practices rather than the specific cultural and operational aspects of DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -55,11 +61,14 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the transition from a focus on individuals to systems, which aligns with aspects of complexity science. However, it is primarily centered around a historical perspective and does not deeply engage with key complexity thinking theories or frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly references systems thinking and the shift from individual to systemic focus, which aligns with complexity thinking. However, it lacks explicit discussion of complexity science principles, frameworks, or detailed exploration of non-linear dynamics and emergent behaviours. The mention of systems problems hints at complexity but does not delve deeply into the nuances of complexity theory.",
     "level": "Tertiary"
   },
   "Professional Scrum": {
@@ -82,29 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the historical perspective of work and systems, referencing Frederick Winslow Taylor's views, but does not focus on Evidence-Based Management principles, empirical evidence, or data-driven decision making.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the historical shift from individual labor to systems in the context of the Industrial Revolution, focusing on systemic issues rather than software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on systems thinking and historical perspectives on labor versus systems, with no clear mention of Kanban principles or scaling practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from people to systems in management, referencing Frederick Winslow Taylor's philosophy. However, it primarily focuses on the balance between systems and individuals in Agile environments rather than on evidence-based management practices. While there are elements of continuous evaluation and system improvement, the content lacks direct references to empirical decision-making or specific metrics related to EBM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -136,10 +130,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on the historical shift from individual effort to system efficiency, rather than discussing the Definition of Ready in Agile or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +144,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses historical perspectives on systems versus people in the context of the Industrial Revolution and does not relate to Agile, DevOps, or business agility trends.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses historical perspectives on systems versus people, lacking direct references to scaled Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -208,10 +193,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on historical shifts in work practices and systems rather than on specific collaboration tools or their impact on Agile teams.",
     "level": "Ignored"
   },
@@ -233,15 +218,6 @@
     "reasoning": "Content focuses on historical context and philosophical views regarding systems and people, with no direct relevance to product delivery practices or methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the historical perspective on systems and human collaboration without directly addressing AI or its applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
     "calculated_at": "2025-02-17T23:36:25",
@@ -250,15 +226,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses historical perspectives on systems versus people, without a focus on digital technologies or business transformation strategies.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the shift from people to systems in the context of work and emphasizes the importance of collaboration, indicating a recognition of human factors in processes. However, it primarily reflects on historical shifts rather than a structured discussion of team dynamics or methodologies.",
-    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -269,23 +236,17 @@
     "reasoning": "Content discusses historical perspectives on systems versus human roles, without any mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the shift from people to systems in work processes, with a focus on collaboration and system problems, but does not address agile methodologies or principles directly.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of systems over individual efforts, which aligns with Lean Thinking principles of optimizing workflows and focusing on systems to enhance efficiency, though it doesn't heavily delve into specific Lean concepts.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from people to systems and touches on the importance of evaluating systems in Agile environments. However, it primarily focuses on Agile methodologies rather than Lean principles. While there are elements of continuous evaluation and empowerment, the core themes of Lean Thinking, such as waste minimisation and specific Lean tools, are not explicitly addressed.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -296,15 +257,6 @@
     "reasoning": "Content primarily discusses the shift from individual focus to systems in the context of the Industrial Revolution and does not address accountability in Agile teams.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the shift from people to systems during the Industrial Revolution and critiques the system over the individual, with no clear focus on transparency or accountability in the context of Agile methodologies.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T23:36:25",
@@ -312,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the shift from individual labor to systems in the context of the Industrial Revolution, without any focus on software release processes or related topics.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the historical perspective of systems versus people, with a philosophical viewpoint rather than discussing the principles, components, or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -361,11 +304,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not address Scrum Master roles or responsibilities and focuses on general systems thinking without mentioning Scrum or Agile methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the balance between systems and people in Agile environments, which is relevant to the Scrum Master's role in fostering collaboration and continuous improvement. However, it does not explicitly mention the Scrum Master or delve into specific responsibilities or techniques associated with the role, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -379,29 +325,35 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses systems and historical perspectives on work rather than Agile values or principles.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content touches upon systems and their impact on work processes but does not explicitly focus on flow efficiency principles or practices related to optimizing throughput.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from people to systems and the importance of balancing these elements in Agile environments. While it touches on the need for systems to support work, it does not explicitly focus on flow efficiency principles, techniques for eliminating bottlenecks, or metrics for measuring flow. The discussion is more about the philosophical implications of systems in Agile rather than a direct exploration of flow efficiency, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on the evolution of work systems during the Industrial Revolution and does not discuss Test First Development or related practices.",
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the historical shift from individual craftsmanship to systems in the context of Agile methodologies, without any direct mention or exploration of Test First Development principles. It focuses on the balance between systems and people rather than on testing practices or success criteria, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,10 +412,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the shift from individual focus to systems in the context of the Industrial Revolution, which is not directly related to the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -503,24 +455,6 @@
     "reasoning": "Content primarily focuses on historical perspectives of system versus people dynamics and does not discuss Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the historical shift from people to systems in work processes, but it does not focus on organisational resilience, adaptive change, or related strategies. Instead, it emphasizes systems thinking rather than change management practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the historical evolution of work systems and emphasizes philosophical ideas about systems versus people rather than practical techniques, tools, or methodologies in Agile and DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T23:36:25",
@@ -546,15 +480,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses historical perspectives on systems versus individuals and does not share personal experiences or insights related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses historical concepts and philosophy of systems versus people without reference to any specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -584,23 +509,17 @@
     "reasoning": "Content primarily discusses historical perspective on systems and productivity, without direct relevance to Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses historical perspectives on systems versus people and does not address scaling agility concepts or practices.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content reflects on historical changes in work focus from people to systems, offering personal opinions and reflections rather than aligning with specific Agile frameworks or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses historical perspectives and the balance between systems and people in Agile environments. While it touches on Agile concepts, it primarily focuses on a broader discussion about systems and their impact on work, which aligns with the Miscellaneous category. However, the explicit mention of Agile methodologies and principles reduces the overall confidence score.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -613,11 +532,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the transition from individual contributions to system outputs, and focuses on system improvement rather than the principles or practices of Continuous Delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the historical perspective of systems versus individuals in the context of Agile methodologies, without directly addressing Continuous Delivery principles or practices. While it touches on the importance of systems and their evaluation, it lacks explicit references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, which are central to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -640,19 +562,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "While the content touches on systems and their impact on people, it does not primarily focus on change management principles, strategies, or practices as defined in the category. The discussion is more about historical context and systems thinking rather than specific change management topics.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on systems versus people in a historical context without directly addressing team collaboration, communication, or Agile principles.",
     "level": "Ignored"
   },
@@ -665,7 +587,7 @@
     "reasoning": "Content discusses historical perspectives on systems versus people and does not address Daily Scrum or its principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:36:25",
     "ai_confidence": 0,
@@ -683,15 +605,6 @@
     "reasoning": "Content discusses the Industrial Revolution and systems thinking, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses historical perspectives on systems versus people in the context of work, without focusing on discovery, learning processes, or methodologies that foster innovation.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T23:36:25",
@@ -703,11 +616,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses historical perspectives on systems versus people without a focus on agile product development principles or practices.",
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from people to systems and touches on Agile methodologies, but it does not explicitly focus on the Agile Product Operating Model or its core principles. While it mentions collaboration and the importance of people in Agile environments, it lacks depth in discussing product management practices or the specific elements of the APOM framework.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -739,11 +655,14 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the transition from individual-focused work to systems-oriented approaches, reflecting on the influence of systems in organisational contexts. While it doesn't delve deeply into specific organisational dynamics or systems thinking principles explicitly, the mention of systems and their impact on people suggests a secondary theme related to organisational physics.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the historical shift from people to systems, referencing Frederick Winslow Taylor's philosophy, which aligns with systems thinking. It touches on the balance between systems and people in Agile environments, indicating an understanding of organisational dynamics. However, while it mentions systems thinking principles, the depth of discussion on organisational behaviour and dynamics is moderate, leading to a confidence score that reflects a solid but not exhaustive engagement with the category.",
     "level": "Secondary"
   },
   "Transparency": {
@@ -775,10 +694,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses historical perspectives on systems and people, without focusing on metrics or learning principles in Agile or DevOps.",
     "level": "Ignored"
   },
@@ -809,15 +728,6 @@
     "reasoning": "Content focuses on historical perspectives of systems vs. people in work, without discussing mentoring or related coaching practices in Agile environments.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the historical context of systems in the Industrial Revolution and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T23:36:25",
@@ -838,12 +748,12 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the importance of systems in operational efficiency and implies a need for process improvement, but it primarily revolves around historical analysis and philosophy rather than practical methodologies or strategies for enhancing operational practices.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -928,12 +838,15 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the transition from focusing on individuals to focusing on systems, which aligns with Systems Thinking principles. However, it primarily centers on a quote and does not delve deeply into systemic analysis or practical applications, making Systems Thinking a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the historical shift from people to systems, referencing Frederick Winslow Taylor's quote, which aligns with the principles of Systems Thinking. It touches on the importance of evaluating systems in Agile environments and finding a balance between systems and people. However, while it mentions systems and their impact, it does not delve deeply into specific Systems Thinking methodologies or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -944,32 +857,17 @@
     "reasoning": "Content primarily discusses industrial systems and collaboration versus individuals, lacking a direct focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses systemic approaches and historical perspectives on work, without focusing on Scrum principles, frameworks, or scaling practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the interplay between systems and people, highlighting the importance of aligning systems to support collaboration, which is relevant to sociotechnical systems. However, the focus is more historical and philosophical than practical, making it a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses ideas related to systems and collaboration but does not address specific products, books, or resources related to Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the shift from individual workers to systems during the Industrial Revolution, which touches on the interplay between social and technical elements. However, while it references the importance of systems and their impact on collaboration, it lacks a detailed exploration of how these systems interact with organisational structures or team dynamics. The mention of Frederick Winslow Taylor highlights a historical perspective on sociotechnical systems, but the discussion remains somewhat superficial and does not delve deeply into the core themes of the category.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -991,20 +889,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the importance of systems in collaboration and work processes, which relates to pragmatic thinking in terms of problem-solving in complex environments. However, it is not primarily focused on Agile, Scrum, or DevOps frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly references the shift from people to systems, which aligns with the theme of pragmatic thinking in terms of system optimisation. However, it lacks direct discussions on Agile, Scrum, or DevOps principles, and does not provide practical problem-solving strategies or detailed examples, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:51:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses historical perspectives on systems versus people in work processes, without directly addressing Lead Time.",
+    "final_score": 12.0,
+    "reasoning": "The content discusses the historical shift from individual craftsmanship to systems in the context of Agile methodologies, but it does not explicitly mention Lead Time or its importance as an observability metric. While there are themes related to systems and their impact on productivity, the discussion lacks a direct focus on Lead Time, its measurement, or strategies for optimisation. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1036,21 +940,27 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of systems in work processes, linking to the notion of continuous improvement and system thinking, which aligns with Lean principles. However, it does not explicitly refer to Lean methodologies or terms.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the shift from people to systems, which aligns with Lean principles of improving processes. However, it lacks direct references to Lean methodologies or specific tools, and the discussion is more philosophical than practical, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the interaction between systems and people, and mentions the influence of systems on collaboration, which can relate to organisational psychology, but it primarily centers on systemic issues rather than the psychological principles directly.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the shift from people to systems, which touches on organisational dynamics, but it lacks a direct focus on psychological principles or theories. The discussion is more about systems than the psychological aspects of organisational behaviour, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1115,15 +1025,6 @@
     "reasoning": "Content is primarily focused on the historical shift from individual work to system-oriented output and does not discuss cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses industrial systems and management philosophy rather than software development practices or the role of developers.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T23:36:25",
@@ -1144,10 +1045,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses philosophical perspectives on system versus personnel in a historical context, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1158,15 +1059,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses systems versus people in a historical context, without any focus on the Product Owner role or its responsibilities.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses historical perspectives and philosophical insights regarding systems and work, without direct relevance to current news or reviews in Agile or DevOps.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1243,20 +1135,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:51:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the shift from individual work to system output but does not directly address throughput in the context of Agile, DevOps, or Lean methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the evolution of work systems and quotes Frederick Winslow Taylor, without any clear focus on Scrum principles, roles, or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the historical shift from individual craftsmanship to systems in the context of management and Agile methodologies. While it touches on the importance of systems and their impact on productivity, it does not explicitly mention throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The focus is more on philosophical perspectives rather than measurable delivery capacity, which does not align with the core themes of throughput. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1270,10 +1156,10 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses historical perspectives on the role of systems versus people in work, rather than practical system configuration topics.",
     "level": "Ignored"
   },
@@ -1295,30 +1181,24 @@
     "reasoning": "Content primarily discusses the impact of systems on work rather than focusing on product discovery methodologies, user needs, or defining product features.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses historical perspectives on systems and collaboration without specific relevance to Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T23:36:25",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses the shift from people to systems during the Industrial Revolution, but does not focus on organisational change methodologies or frameworks. The primary theme is more about systems and collaboration rather than specific organisational change practices.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the shift from individual contributions to systemic outputs, which aligns with the theme of organisational change. However, it lacks a detailed discussion on specific methodologies or frameworks for implementing change, and does not explicitly address the principles of Agile transformation or leadership roles in driving change. The focus is more on historical context rather than actionable strategies for organisational change.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:36:25",
+    "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses historical perspectives on systems versus people in work but does not relate to the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
@@ -1375,5 +1255,432 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on historical perspectives of systems versus people in the Industrial Revolution, and does not discuss Lean Startup principles or the iterative learning process central to that methodology.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:49:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses historical perspectives on systems and collaboration, with no clear focus on Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:49:41",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses historical perspectives on systems and collaboration, without a clear focus on AI applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content briefly mentions the importance of systems over individuals, which could relate to team dynamics in Scrum. However, it lacks direct references to Scrum roles, events, or principles, and does not provide any substantial discussion on Scrum practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses historical perspectives on systems and people in the context of Agile methodologies but does not explicitly mention or align with the Shift-Left Strategy. It focuses more on the balance between systems and individuals rather than integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating and improving systems within Agile environments, which aligns with the principles of Continuous Improvement. It mentions the need for regular assessment and empowering team members to suggest improvements, indicating a commitment to ongoing enhancement. However, the primary focus is more on the historical context and the balance between systems and people rather than a deep exploration of Continuous Improvement methodologies or frameworks.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, touching on Agile principles. However, it primarily focuses on the balance between systems and people rather than explicitly addressing Common Goals within Agile or DevOps frameworks. The mention of collaboration and the Agile mindset hints at alignment with Common Goals, but the depth and direct focus on shared objectives and strategic alignment are lacking.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the historical shift from individual craftsmanship to systems in the context of Agile methodologies. While it touches on the importance of people and collaboration, it does not explicitly focus on competence or continuous skill development. The discussion is more about the balance between systems and individuals rather than a deep exploration of competence as a principle in Agile or DevOps.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, referencing Frederick Winslow Taylor's philosophy. However, it primarily focuses on the balance between systems and people in Agile environments rather than the specific principles or components of the One Engineering System framework. While there are mentions of systems and their impact on collaboration, the discussion does not delve into the integration of tools or processes across teams, nor does it provide detailed insights into 1ES implementation or challenges. Therefore, the content aligns only tangentially with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, referencing Frederick Taylor's ideas. While it touches on the importance of balancing systems and people, it does not explicitly address Agentic Agility or its principles. The focus is more on the historical context and the Agile response rather than on intentional shaping of outcomes through autonomy and adaptability, which are core to Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T09:50:45",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the historical shift from individual craftsmanship to systems in the context of Agile methodologies, which aligns with the principles of product development. It mentions the importance of collaboration and the need for continuous evaluation of systems, reflecting key themes of iterative improvement and customer-centric approaches. However, the primary focus is more on historical context and philosophical insights rather than specific product development methodologies, which limits the depth of discussion in this category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T09:50:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, referencing Frederick Winslow Taylor's philosophy. While it touches on Agile principles, such as collaboration and the importance of people, it does not explicitly mention Open Space Agile or its core themes. The discussion lacks depth regarding Open Space Technology, psychological safety, or co-creation, which are central to the category. Overall, the content is more focused on traditional management philosophies rather than the specific principles of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T09:50:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, referencing Frederick Winslow Taylor's ideas. While it touches on Agile principles, such as the importance of collaboration and the need for systems to support people, it does not explicitly mention Agnostic Agile or its principles. The focus is more on the historical context and the balance between systems and people rather than a deep exploration of Agnostic Agile concepts. Therefore, while there is some alignment with the category, the lack of direct mention and depth results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T09:50:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, referencing Frederick Winslow Taylor's philosophy. While it touches on Agile principles and the importance of collaboration, it does not specifically address scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The focus is more on the balance between systems and people rather than on scaling practices or strategies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T09:50:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the historical shift from individual-focused work to system-focused management, referencing Frederick Winslow Taylor's ideas. While it touches on Agile methodologies and the importance of balancing systems and people, it does not explicitly mention or align with the principles of Cell Structure Design, such as decentralisation, autonomous cells, or the Beta Codex. The discussion is more about traditional management practices rather than the specific themes of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T09:51:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from individual focus to systems in management, referencing Frederick Winslow Taylor's ideas. While it touches on Agile methodologies and the importance of collaboration, it does not explicitly mention Liberating Structures or their specific techniques. The discussion is more about the balance between systems and people rather than the facilitation techniques that enhance participation and collaboration, which are central to Liberating Structures. Therefore, the content has a low confidence score due to minimal direct mentions and a lack of depth in discussing Liberating Structures specifically.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T09:51:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the historical shift from individual craftsmanship to systems in management, focusing on the balance between systems and people in Agile environments. While it touches on themes of productivity and collaboration, it does not explicitly address Time to Market or its associated metrics, strategies, or impacts. The discussion lacks depth in relation to the specific category of Time to Market, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T09:51:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, referencing Frederick Winslow Taylor's philosophy. However, it primarily focuses on the balance between systems and people rather than explicitly addressing the principles of Company as a Product (CaaP). While there are mentions of collaboration and continuous evaluation, these concepts are not deeply tied to CaaP's core themes of organisational design and customer-centric strategies. The discussion lacks specific strategies or examples related to CaaP, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T09:51:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses historical perspectives on management systems and their implications in Agile environments, without any direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not specifically relate to GitHub services, tools, or practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T09:51:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, primarily focusing on the implications of this shift in Agile environments. While it touches on the importance of evaluating systems and empowering people, it does not explicitly mention Unrealised Value or its indicators, nor does it delve into strategies for identifying untapped opportunities. The discussion is more about balancing systems and people rather than exploring potential value or innovation opportunities, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T09:51:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the historical shift from individuals to systems in management, referencing Frederick Winslow Taylor's philosophy. However, it primarily focuses on the balance between systems and people in Agile environments rather than providing a direct discussion on Current Value or its metrics. While there are mentions of evaluation and continuous improvement, these concepts are not explicitly tied to the measurement of Current Value as defined in Evidence-Based Management. The content lacks depth in discussing specific metrics or techniques for assessing Current Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T09:51:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the balance between systems and people in Agile environments, referencing historical perspectives and the importance of collaboration. However, it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. The focus is more on the general principles of Agile rather than the specific challenges and implications of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T09:51:19",
+    "ai_confidence": 52.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the historical shift from individual craftsmanship to systems in the context of Agile methodologies, which aligns with project management principles. However, it primarily focuses on the philosophical implications of this shift rather than practical project management strategies or methodologies. The mention of Agile is relevant but not deeply explored in terms of project management roles, tools, or techniques, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Principle": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:38:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10,
+    "ai_alignment": 16,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content examines the historical shift from individual-centric work to systems-focused management, particularly referencing Frederick Winslow Taylor's philosophy. It discusses Agile principles related to valuing people and the importance of balancing system efficiency with human collaboration. There are direct mentions of concepts like continuous evaluation and empowerment of team members, which are closely aligned with principles in Agile. However, while acknowledging the significance of systems, it does not specify actionable principles in Agile or Lean with the depth required for full alignment, leading to a moderately high, but not maximum score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:38:51",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the historical context of systems in work environments and their implications in Agile methodologies, but it focuses mainly on concepts rather than specific tools. There is a single mention of systems needing to 'support' individuals without delving into practical tool applications or providing detailed discussions on specific mechanisms or techniques that could be classified as tools. The overall discussion, while related to tools in a broader sense, lacks focus on any specific tool or detailed analysis, thus justifying a low confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:38:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 2,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the philosophical shift from prioritizing individuals to systems, aligning with the values of Agile methodologies that emphasize collaboration and empowerment of people. It highlights the importance of assessing systems and ensuring they support individuals, which ties back to core values in an Agile context. Although it does not directly reference Agile values or Scrum values, it emphasizes a philosophical foundation that influences team dynamics and decision-making. The content provides a reasonable depth of discussion around balancing system efficiency with human collaboration, contributing to a higher confidence score.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:38:51",
+    "ai_confidence": 73.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the historical shift in management philosophy from individuals to systems, which touches on core philosophical themes about the balance between systems and people in organizational contexts. The analysis of Frederick Taylor's ideas connects directly to broader philosophical implications in the Agile framework, particularly in terms of prioritization and collaborative culture. While it mentions Agile practices, the focus remains more on the reasoning behind these practices and their impact on team dynamics rather than on technical details or specific methodologies.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:38:51",
+    "ai_confidence": 72.0,
+    "ai_mentions": 4,
+    "ai_alignment": 35,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the evolution of work philosophy from individual-centered approaches to system-centered methods, tying in relevant Agile principles. It addresses the balance between systems and people, which resonates with the themes of continuous improvement and the systemic application of disciplines. However, it lacks a deeper exploration of metrics, governance, or ethical considerations typical of a formal discipline, leading to a solid but not comprehensive alignment with the category.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:38:51",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses historical perspectives on systems and their impact on work philosophy rather than artifacts as defined in Agile. While it briefly touches on Agile principles, it lacks a focus on specific artifacts, their definitions, purposes, or management practices relevant to the Artifact category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:38:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses systems within the context of work environments influenced by Agile philosophies, which aligns somewhat with the principle of observability in understanding systems. However, it lacks direct references to observability metrics, logs, or traces specifically. The exploration of how systems should support individuals is relevant but not deep enough to meet the key requirements of the observability category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:38:51",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the historical context of systems in work environments and their transition towards the Agile mindset. While it touches on the importance of collaboration and evaluating systems, it does not provide specific actionable practices or detailed techniques that teams can use to improve their performance. The discussion is more philosophical and contextual, lacking direct discussions of concrete practices like Agile methodologies, retrospectives, or pair programming. Thus, though it has some thematic relevance, the content does not align strongly with the 'Practice' category as the focus is primarily on theory rather than actionable practices.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:38:51",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content provides a historical perspective on the shift from man to systems, emphasizing the need for systems to support people in Agile environments. However, it primarily focuses on the philosophical implications and general insights rather than detailing structured methods or procedures aligned with the 'Method' category. There are mentions of continuous evaluation and empowering people, but these are not thorough, methodical discussions of specific Agile practices or methods, leading to a moderate score.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:38:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses systems in the context of management, particularly referencing Frederick Taylor's ideas, but it does not explicitly focus on any specific models or frameworks related to Agile, DevOps, or Lean. The mention of Agile as an approach implies some alignment with the category, but the content's primary focus is on the historical shift from people to systems rather than on models or frameworks that enhance decision-making or systems thinking. Overall, while there's some relevance, it does not sufficiently dive into frameworks, making it only somewhat aligned with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:38:52",
+    "ai_confidence": 50.0,
+    "ai_mentions": 3,
+    "ai_alignment": 18,
+    "ai_depth": 26,
+    "non_ai_confidence": null,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the principles of Agile in the context of systems versus people, which aligns with the broader themes of frameworks but lacks a direct detailed focus on any specific Agile framework itself. It does mention Agile methodologies and emphasizes collaboration and system evaluation within Agile environments, but it does not delve into specific frameworks like Scrum or Kanban or provide strategies for implementing these frameworks. Overall, while it touches on relevant themes, it does not explore the category deeply enough to warrant a higher confidence score.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:38:52",
+    "ai_confidence": 64.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": null,
+    "final_score": 64.0,
+    "reasoning": "The content discusses the shift in management philosophy from prioritizing people to systems, relating it to Agile practices. It reflects on the importance of systems supporting rather than hindering people in an Agile context, which aligns with core tenets of Agile like prioritizing individuals and interactions. However, while it touches on principles relevant to tenets, it primarily explores historical context and broad philosophies rather than specific actionable rules or doctrines within Agile. Therefore, it doesn’t fully meet the criteria for a strong alignment to the Tenet category, but it does exhibit a decent level of relevance.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:38:52",
+    "ai_confidence": 55.0,
+    "ai_mentions": 6,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the historical perspective on systems and their role in Agile methodologies, reflecting on the balance between systems and people. While it mentions the importance of systems and touches on continuous evaluation and empowering people, it does not explicitly focus on the enduring capabilities required for teams to deliver value sustainably. The discussion hints at capability-related themes but lacks a strong emphasis or detailed exploration that aligns with the fundamental characteristics of capability as defined in the guidelines.",
+    "level": "Tertiary"
   }
 }

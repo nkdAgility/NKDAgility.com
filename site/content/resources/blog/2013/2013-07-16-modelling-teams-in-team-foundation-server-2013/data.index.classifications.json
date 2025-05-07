@@ -1,66 +1,36 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T18:05:32",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Team Foundation Server and its functionalities, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:05:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for modelling teams and managing projects within Team Foundation Server 2013, including specific configurations, automation, and the use of various features that enhance team performance and collaboration.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Team Foundation Server (TFS) that relate to structuring teams and automating processes, which are relevant to platform engineering. However, the primary focus is on TFS and team management rather than on internal developer platforms or enhancing developer productivity directly.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its functionalities related to team management and source control, which are tangentially related to platform engineering. However, it lacks a direct focus on Internal Developer Platforms (IDPs) or enhancing developer productivity through platform solutions. While it touches on automation and structuring within TFS, it does not delve deeply into the principles of platform engineering or provide substantial insights into optimising the application lifecycle.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:05:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:41:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the modelling of teams and project management within Team Foundation Server, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server 2013 and its functionalities, such as team modelling and project management, without discussing Evidence-Based Management principles or metrics. While it touches on aspects of project management, it lacks explicit references to empirical decision-making or data-informed practices central to EBM.",
     "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:05:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and its configuration for project management, rather than focusing on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:05:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical aspects of modelling teams and managing projects in Team Foundation Server, without a clear emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses automation in the context of Team Foundation Server, which is relevant to Agile practices, but does not primarily focus on AI or its integration within Agile methodologies.",
-    "level": "Tertiary"
   },
   "Lean": {
     "category": "Lean",
@@ -73,21 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:05:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the configuration and setup of Team Foundation Server 2013, including detailed procedures for managing teams, source control, and areas, which aligns well with the category of Install and Configuration.",
+    "final_score": 72.0,
+    "reasoning": "The content provides a detailed discussion on configuring Team Foundation Server (TFS) for team management, source control, and areas, which aligns well with installation and configuration practices. It includes specific steps for setting permissions, creating teams, and automating configurations, demonstrating a strong focus on actionable instructions. However, while it touches on installation aspects, the primary focus is more on organisational modelling and team dynamics rather than purely on installation and configuration processes, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:05:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of modelling teams and managing projects in Team Foundation Server, without a clear focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -100,30 +64,27 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the organisational structure and team dynamics within Team Foundation Server, which aligns with sociotechnical systems. However, the primary focus is on technical implementation rather than a deep exploration of the interplay between social and technical aspects.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:05:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the technical aspects of modelling teams and source control in Team Foundation Server, without addressing organisational resilience or change management.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Team Foundation Server (TFS) and its configuration for project management and source control. While it touches on team structures and roles, it lacks a comprehensive exploration of the interplay between social and technical systems, which is central to the Sociotechnical Systems category. The discussion is more about technical implementation rather than the broader implications of organisational culture, team dynamics, or communication tools in enhancing performance and adaptability.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Team Foundation Server (TFS) that relate to team structure, source control, and automation, which are relevant to DevOps practices. However, the primary focus is on TFS and team modelling rather than a comprehensive discussion of DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and its functionalities related to project management and source control. While it touches on aspects of collaboration and automation, which are relevant to DevOps, it does not explicitly discuss the broader DevOps philosophy or its core principles. The discussion is more centred on TFS as a tool rather than on the cultural and process-oriented aspects of DevOps, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +104,6 @@
     "reasoning": "Content primarily discusses the modelling of teams and project management within Team Foundation Server, without a focus on decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:05:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the modelling of teams in Team Foundation Server 2013, focusing on technical aspects and solutions rather than events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:05:57",
@@ -160,15 +112,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the structure and configuration of teams within Team Foundation Server, without a clear focus on optimising work throughput or addressing flow efficiency principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team structures and roles within Team Foundation Server, which relates to team dynamics and collaboration, but it primarily focuses on technical aspects of TFS rather than the human factors or processes involved.",
-    "level": "Tertiary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:06:02",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the structure and configuration of teams within Team Foundation Server, without a focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,12 +151,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the modelling of teams and source control in Team Foundation Server, which relates to engineering practices and methodologies. However, it primarily focuses on organisational structure and management rather than core technical excellence principles like TDD or CI/CD.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the modelling of teams and source control in Team Foundation Server (TFS), which touches on aspects of technical practices. However, it primarily focuses on organisational structure and management rather than core engineering methodologies like TDD or CI/CD. While it mentions automation and configuration, the depth of technical excellence principles is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -226,20 +172,23 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-15T18:06:07",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of Team Foundation Server and project management, with no focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the modelling of teams and project management within Team Foundation Server, which relates to product delivery practices, but it primarily focuses on the specifics of TFS rather than broader product delivery methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the modelling of teams and projects within Team Foundation Server (TFS), which relates to product delivery in terms of team organisation and project management. However, it lacks a direct focus on methodologies like Agile or CI/CD practices, and while it touches on planning and reporting, it does not delve deeply into testing, deployment, or customer satisfaction metrics. The discussion is more about the configuration and structure of TFS rather than the broader principles of delivering software products effectively.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -253,21 +202,12 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T18:06:11",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and its features for project management, rather than focusing on Value Stream Management principles or practices.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server 2013, which is a software product relevant to Agile methodologies and DevOps practices, but it primarily focuses on its functionalities rather than providing a review or analysis of the product.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -280,11 +220,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:06:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, focusing on team modelling, project management, and source control within the context of TFS functionalities.",
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a predecessor to Azure DevOps, and focuses on its functionalities related to team modelling, project management, and source control. While it does not explicitly mention Azure DevOps, it aligns closely with the core themes of Azure DevOps, such as project management and team collaboration. The depth of discussion is significant, providing detailed insights into TFS features and their application, which are relevant to Azure DevOps users. However, the lack of direct references to Azure DevOps and the focus on TFS slightly reduce the overall confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,59 +248,47 @@
     "reasoning": "Content primarily discusses the configuration and management of Team Foundation Server 2013, focusing on project and team structures without a clear emphasis on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:06:20",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server (TFS) and its features for modelling teams, rather than focusing on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:06:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and its features for project management, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and its functionalities related to team management and project structuring. While it touches on concepts like teams and projects, it does not explicitly discuss the Agile Product Operating Model or its principles. The discussion is more aligned with traditional project management and TFS-specific practices rather than the core themes of APOM, such as continuous delivery, customer-centric value, or the integration of agile methodologies with product management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-15T18:06:23",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of modelling teams and managing projects in Team Foundation Server, without a clear focus on organisational agility principles or practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:06:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical details and solutions for using Team Foundation Server 2013, rather than discussing news or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:06:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the use of Team Foundation Server (TFS) for managing teams, projects, and source control, which are integral aspects of Application Lifecycle Management. It covers methodologies and practices related to structuring teams and managing workflows within the application lifecycle.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses various aspects of Team Foundation Server (TFS) in the context of managing software applications, including project management, team structuring, and source control, which are integral to Application Lifecycle Management. It explicitly mentions TFS as a tool for ALM and details processes that align with the stages of the application lifecycle, such as project creation and team management. However, while it provides substantial detail, it primarily focuses on TFS functionalities rather than broader ALM methodologies or best practices, which slightly limits its depth of discussion.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:06:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server and its features for managing teams and projects, without a clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,38 +301,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on modeling teams and project management within Team Foundation Server, with no clear discussion on Definition of Done or related criteria.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses methodologies and technical aspects related to modeling teams and managing source control in Team Foundation Server, which aligns with technical practices. However, it primarily focuses on the setup and configuration of TFS rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the technical aspects of modelling teams in Team Foundation Server (TFS), including project structures, team configurations, and source control management. While it touches on some principles of software craftsmanship, such as automation and configuration management, the primary focus is on TFS usage rather than broader software engineering practices. The depth of discussion is moderate, providing specific examples and solutions, but it lacks a comprehensive exploration of best practices or methodologies that would elevate it to a higher confidence score in the 'Technical Mastery' category.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Team Foundation Server, Scrum roles, and project management components, which are not aligned with product discovery methodologies or practices.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T22:06:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Team Foundation Server (TFS) and its project management features, with no clear connection to Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server (TFS) and its functionalities related to team management and source control. While it briefly touches on automation, which is a component of Continuous Delivery, the overall discussion does not align with the core principles or practices of Continuous Delivery. The content lacks explicit discussions on delivery cycles, user feedback, or software quality, which are central to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,57 +352,63 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on modelling teams and managing projects in Team Foundation Server, with no discussion on Lead Time as a concept or its measurement.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of modelling teams and source control in Team Foundation Server, without a focus on organisational culture.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses modeling teams and structuring projects in Team Foundation Server, with no clear focus on the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server structuring and does not focus on portfolio management principles, methods, or strategic alignment.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the concept of backlogs in relation to team structuring within Team Foundation Server, indicating that it is a significant theme. However, the primary focus is on team organization and source control rather than exclusively on Product Backlog management and practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses team structures and backlogs within Team Foundation Server (TFS), but it primarily focuses on project management and team organisation rather than the specific dynamics of a Product Backlog in Agile. While there are mentions of backlogs, they are not the primary focus, and the discussion lacks depth on backlog refinement, prioritisation techniques, or the role of the Product Owner, which are key aspects of the Product Backlog category.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the organization and planning aspects of teams within Team Foundation Server, including concepts like backlogs and sprint planning, but is more centered on TFS implementation than Agile Planning per se.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its features for managing teams and projects, which touches on aspects of Agile Planning such as team structures and backlog management. However, it lacks a direct focus on Agile principles and methodologies, making it more of a technical overview rather than a discussion on Agile Planning itself. The depth of discussion on Agile-related topics is limited, and while there are mentions of backlogs and team roles, the overall emphasis is on TFS functionalities rather than Agile practices.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -478,30 +421,33 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Team Foundation Server and its organizational structure, focusing on project management and team configurations without mentioning any processes related to customer feedback collection or integration.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T22:06:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical strategies for structuring teams and managing workflows in Team Foundation Server, which aligns with optimizing operational practices within Agile methodologies.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the modelling of teams and the use of Team Foundation Server (TFS) to manage projects and workflows, which aligns with operational practices. However, it lacks a strong focus on specific techniques for process optimisation or continuous improvement, and the discussion is more descriptive than analytical, limiting its depth.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses teams in a generic context related to Team Foundation Server without addressing specific Scrum roles, dynamics, or practices that are central to the Scrum framework.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -523,10 +469,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Team Foundation Server 2013 and its configuration for managing teams, projects, and source control. It does not address any methodologies or practices related to product validation or user engagement.",
     "level": "Ignored"
   },
@@ -550,21 +496,24 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on modeling teams and project management within Team Foundation Server rather than discussing automated testing principles or practices.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team modeling and structure within Team Foundation Server, which relates to team dynamics and organization. However, it primarily focuses on technical solutions and configurations rather than specifically addressing collaborative strategies or performance enhancement practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the structure and management of teams within Team Foundation Server (TFS), touching on aspects like team composition and project management. However, it lacks a direct focus on enhancing team dynamics, collaboration, or specific Agile methodologies. While it mentions teams and their roles, it does not delve into strategies for improving team performance or practices that align with Agile principles, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -586,28 +535,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T22:06:44",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the configuration and modeling of teams within Team Foundation Server (TFS), which is directly related to software development practices, project management, and collaboration in software engineering.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses concepts related to Agile frameworks such as backlogs and team structure, but it primarily focuses on Team Foundation Server and its project management aspects rather than directly on Agile project management principles.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed exploration of modelling teams within Team Foundation Server (TFS), which is a critical aspect of software development practices. It discusses the organisation of projects, teams, and source control, aligning closely with key topics such as project management, version control systems, and Agile methodologies. The depth of discussion on automation and configuration further enhances its relevance to software development, demonstrating a strong understanding of the software development lifecycle and best practices.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T22:06:44",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Team Foundation Server and its features, focusing on project management and team structures without addressing Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +565,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T22:06:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the modeling of teams within Team Foundation Server 2013 and includes specific references to source control setups, branch management, and permission configurations relevant to source control practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of Team Foundation Server (TFS), including source control models, permissions, and team structures, which are relevant to modern source control practices. It explicitly mentions source control and its integration with team management, reflecting a strong alignment with the category. However, while it provides detailed insights into TFS, the discussion is somewhat limited to TFS-specific practices rather than broader version control methodologies, which affects the overall depth score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Team Foundation Server setup and management without clear emphasis on empirical process control principles such as transparency, inspection, and adaptation.",
     "level": "Ignored"
   },
@@ -649,28 +595,34 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team structuring, backlogs, and planning in Team Foundation Server, which relates to Azure Boards functionalities, but it primarily focuses on Team Foundation Server overall instead of Azure Boards specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) rather than Azure Boards specifically. While it touches on concepts relevant to Agile project management, such as teams, work items, and reporting, it does not delve deeply into Azure Boards' specific functionalities or best practices. The mention of backlogs and boards is present but is secondary to the overall focus on TFS. Therefore, the confidence score reflects a low alignment with the Azure Boards category.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server (TFS) and its features, which are relevant to collaboration in Agile teams, but the primary focus is on structuring teams and project management rather than a broader discussion of collaboration tools and their principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its features related to team management and project structuring, which are relevant to collaboration tools. However, it primarily focuses on the technical aspects of TFS rather than on enhancing communication and coordination within Agile teams. While it mentions teams and their organisation, it lacks a broader discussion on collaboration tools' impact on team dynamics or Agile methodologies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Team Foundation Server configuration, focusing on technical aspects of project management and team organization, rather than on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -694,20 +646,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses technical details about Team Foundation Server and its structure without addressing customer satisfaction principles, strategies, or experiences.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server and its functionalities, rather than focusing on Scaling Scrum principles, frameworks, or practices.",
+    "reasoning": "The content discusses technical details about Team Foundation Server and its structure without addressing customer satisfaction principles, strategies, or experiences.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,23 +671,17 @@
     "reasoning": "Content primarily discusses modeling structures and roles in Team Foundation Server 2013 without a focus on psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Team Foundation Server and its configuration for team management, without focusing on scaling agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses Team Foundation Server in relation to team structures and source control, but lacks a strong focus on engineering best practices, software craftsmanship, or continuous improvement methodologies.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the modelling of teams and project management within Team Foundation Server (TFS), which is more aligned with project management practices rather than engineering excellence. While it touches on aspects of automation and team structure, it lacks a strong focus on software craftsmanship, coding standards, or continuous improvement practices that are central to the category of Engineering Excellence.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -766,65 +703,50 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:08:54",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses the technical configuration and usage of Team Foundation Server 2013 in organizing teams and projects, with a strong focus on operational management rather than the systemic dynamics or holistic understanding of organizational behavior. While some elements touch on organizational structure, they do not delve into systems thinking or the impacts of organizational culture, processes, or leadership dynamics.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the modeling of teams and projects within Team Foundation Server 2013, focusing on technical aspects of project management and source control rather than strategies for customer retention.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content provides practical insights on modeling teams within Team Foundation Server, discussing real-world applications and the integration of processes which aligns with pragmatic approaches in project management contexts.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses practical strategies for modelling teams and managing projects within Team Foundation Server (TFS), which aligns with pragmatic thinking in Agile contexts. It provides specific solutions and examples, demonstrating real-world applications of TFS features to enhance collaboration and efficiency. However, while it touches on relevant themes, the focus is more on TFS functionalities rather than broader Agile or Scrum principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Team Foundation Server and team management structures rather than specifically on backlog refinement practices and principles.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the technical setup and configuration of Team Foundation Server, without discussing innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) modeling and organizational structure without a clear focus on Scrum principles, roles, or practices related to product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the structuring and management of teams within Team Foundation Server without explicitly relating to scaling Agile frameworks or practices across multiple teams or at an enterprise level.",
+    "reasoning": "Content focuses on the technical setup and configuration of Team Foundation Server, without discussing innovation capabilities or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +769,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses modeling teams and project organization in Team Foundation Server, with some mention of automation using PowerShell, but it does not focus on test automation principles, tools, practices, or frameworks.",
     "level": "Ignored"
   },
@@ -865,21 +787,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses modeling teams and project organization within Team Foundation Server, which indirectly relates to how software development teams may function to deliver working software, but it does not directly focus on the delivery or quality of functional software itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the modelling of teams and project management within Team Foundation Server (TFS), which is more focused on organisational structure and configuration rather than the delivery of functional software. While it touches on aspects of project management and team roles, it lacks a direct emphasis on working software characteristics, quality assurance, or customer feedback mechanisms. The discussion is more about the setup and management of TFS rather than the delivery of high-quality, functional software that meets user needs.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Team Foundation Server and its features related to team management, backlog planning, and organizing work for Agile methodology, but it largely focuses on the structure and configuration process rather than solely on Agile planning tools.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS) and its functionalities related to team modelling, backlog management, and project structuring. However, it primarily focuses on TFS as a tool rather than specifically addressing Agile Planning Tools or methodologies. While there are mentions of backlogs and team structures, the discussion lacks depth in Agile-specific planning strategies and does not explore broader Agile principles or tools like Jira or Trello. Therefore, the content aligns with the category but does not fully meet the criteria for a strong focus on Agile Planning Tools.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -955,28 +883,28 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on modeling teams and managing projects within Team Foundation Server rather than discussing release management strategies, processes, or practices.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server and team structure, without focusing on the responsibilities or practices specific to the Product Owner role.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the organizational and structural aspects of using Team Foundation Server, focusing on teams, projects, and source control without addressing Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1000,20 +928,23 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on modelling teams and managing workflows within Team Foundation Server, without discussing the strategies or principles of Change Management.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses team structures and management within Team Foundation Server, which relates to team dynamics and collaboration, but it primarily focuses on technical configurations and setups rather than directly on collaboration techniques or cultural aspects.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the structure and management of teams within Team Foundation Server (TFS), touching on aspects of team organisation and project management. However, it lacks a strong focus on enhancing team dynamics, communication, or shared ownership, which are core themes of the 'Team Collaboration' category. While it mentions teams and their roles, the discussion is more about technical implementation rather than fostering collaboration or trust within teams.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -1034,7 +965,7 @@
     "reasoning": "Content primarily discusses modelling teams and configuring Team Foundation Server, which does not focus on the strategic adoption of digital technologies or digital transformation initiatives.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T22:06:45",
     "ai_confidence": 0,
@@ -1043,30 +974,24 @@
     "reasoning": "Content discusses the organization and structure of teams within Team Foundation Server, focusing on project management and source control rather than Minimum Viable Products.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Team Foundation Server 2013 and team management without addressing AI technologies or their integration into Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the configuration and setup of Teams, Areas, and Source Control in Team Foundation Server, which relates to system configuration. However, it also includes aspects of project management and team organization, making system configuration a secondary theme.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses various aspects of configuring Team Foundation Server (TFS), including project and team structures, source control permissions, and automation of configuration tasks. While it does touch on system configuration, the primary focus is on team modelling and project management within TFS, which may not fully align with the core themes of system configuration. The depth of discussion on configuration is moderate, but it lacks a comprehensive exploration of best practices or optimisation strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical implementation and management of teams using Team Foundation Server, rather than discussing product strategy, vision, or roadmapping.",
     "level": "Ignored"
   },
@@ -1090,30 +1015,36 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the configuration and usage of Team Foundation Server, focusing on project and team model setup, rather than the characteristics, benefits, and management of cross-functional teams.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses structuring teams and project management within Team Foundation Server, with no focus on Test First Development or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on modelling teams and managing projects within Team Foundation Server 2013, with no explicit discussion of Test First Development principles, success criteria, or testing practices. While it briefly touches on automation, it does not connect this to Test First methodologies or provide any relevant depth on the topic.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its functionalities, which are related to managing projects and teams in a software development context. It mentions Windows folder permissions, thus indicating some relevance to the Windows environment, but the main focus is not on Windows itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its functionalities, which are related to project management and source control rather than the Windows operating system itself. While there are mentions of Windows folder permissions and integration with Active Directory, these references are secondary to the main focus on TFS. The content does not provide detailed insights into Windows installation, configuration, or troubleshooting, which are key themes of the Windows category. Therefore, the confidence score reflects a low alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1135,10 +1066,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical aspects of modeling teams in Team Foundation Server, focusing on project management, source control, and team structure, without addressing team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1180,11 +1111,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses primarily on Team Foundation Server 2013 and its features for modeling teams, project management, and source control, without any specific discussion about the role or responsibilities of a Scrum Master.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Team Foundation Server and its functionalities, with no direct mention of the Scrum Master role or its responsibilities. While it discusses team structures and project management, it does not align with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,15 +1139,6 @@
     "reasoning": "Content primarily focuses on modeling teams and project management processes in Team Foundation Server, rather than discussing working agreements or team collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the use of Team Foundation Server (TFS) in the context of managing teams and projects, which relates to the role of software developers in Agile settings. However, the emphasis is more on TFS setup and management rather than a direct exploration of Agile and DevOps principles.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T22:06:45",
@@ -1225,12 +1150,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses various aspects of structuring teams and managing work in Team Foundation Server, which relates to Agile engineering practices, particularly in automation of processes. However, it primarily focuses on TFS and project management aspects rather than core engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the modelling of teams and project management within Team Foundation Server (TFS), which is more aligned with project management practices than core engineering practices. While it briefly touches on automation, it lacks a focus on clean code, TDD, CI/CD, or other key engineering principles. The discussion is more about organisational structure and permissions rather than the methodologies that underpin Agile development.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1243,28 +1171,28 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Team Foundation Server and team modeling rather than the Sprint Review process within the Scrum framework.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects and configuration specifics of Team Foundation Server 2013, rather than focusing on strategic alignment or methodologies in product management.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the technical aspects of modeling teams and managing projects within Team Foundation Server 2013, rather than on principles or practices of self-organisation.",
     "level": "Ignored"
   },
@@ -1288,12 +1216,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:08:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses source control in the context of Team Foundation Server (TFS), which is related to Azure Repos, but it primarily focuses on TFS organizational structures and not solely on Azure Repos functionalities.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Team Foundation Server (TFS), which is closely related to Azure Repos, particularly in terms of source control and team management. However, it primarily focuses on modelling teams and project management rather than the specific functionalities and best practices of Azure Repos. While it mentions source control and permissions, the depth of discussion on Azure Repos features is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1306,10 +1237,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T22:06:45",
+    "calculated_at": "2025-04-10T15:55:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Team Foundation Server structure and management, not on Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -1329,15 +1260,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on modeling teams and structure within Team Foundation Server, without discussing principles of accountability, team ownership, or the distinction between accountability and blame in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T22:06:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Team Foundation Server (TFS) and its configuration for modelling teams and projects, with no clear focus on Kanban principles or practices in a scaled context.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1369,11 +1291,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:16:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team structures and management within Team Foundation Server, which relates to collaboration and team dynamics, but it primarily focuses on technical implementation rather than the core principles of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Team Foundation Server (TFS) and its functionalities for managing teams and projects. While it mentions collaboration and team dynamics, these concepts are secondary to the technical details of TFS. The discussion lacks a deep exploration of social technologies' principles, such as self-organisation and collective intelligence, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of Social Technologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:17:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Team Foundation Server (TFS) and its features for managing teams and projects, without a clear focus on the concept of Internal Developer Platforms or their benefits in streamlining development processes.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:17:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Team Foundation Server and its configuration for project management, with no clear focus on Artificial Intelligence applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses team structures and project management within Team Foundation Server (TFS), which may relate to Scrum practices, but it does not explicitly mention Scrum roles, events, or artifacts. While there are references to team dynamics and project management, the focus is primarily on TFS functionalities rather than Scrum principles or frameworks. Therefore, the confidence score reflects a low alignment with the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the modelling of teams and project management within Team Foundation Server 2013, with no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on aspects of team organisation and project structure, it does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion lacks depth regarding the principles, benefits, or techniques associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of modelling teams and managing projects within Team Foundation Server 2013. While it touches on aspects of team structure and project management, it lacks a clear emphasis on Continuous Improvement principles such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The discussion is more about operational setup rather than ongoing reflection and adaptation aimed at enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical aspects of modelling teams and managing projects within Team Foundation Server 2013. While it touches on team structures and roles, it lacks a direct discussion on Common Goals as defined in Agile and DevOps frameworks. The mention of teams and projects is more about operational details rather than aligning strategy with execution or fostering collaboration towards shared objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of modelling teams and managing projects within Team Foundation Server 2013. While it touches on the importance of structuring teams and managing workflows, it lacks a direct discussion on continuous learning, skill development, or the broader implications of competence in Agile or DevOps contexts. The mention of team structures and roles is relevant but does not delve into fostering a culture of competence or the impact of competence on quality outcomes and trust within teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of modelling teams and managing projects within Team Foundation Server 2013. While it discusses team structures and project management, it does not explicitly address the concept of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical environment, which is central to the category of Agentic Agility.",
+    "level": "Ignored"
   }
 }

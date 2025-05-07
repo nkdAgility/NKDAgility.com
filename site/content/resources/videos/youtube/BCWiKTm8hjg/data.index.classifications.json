@@ -28,10 +28,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-12T09:11:02",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of charity in Agile and its impact on team dynamics, rather than focusing on the Product Backlog or its management.",
     "level": "Ignored"
   },
@@ -55,12 +55,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of helping others and fostering success within teams, which aligns with coaching principles. However, it primarily focuses on the concept of charity in Agile rather than coaching techniques or practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of charity in Agile, which indirectly relates to coaching by emphasising support and collaboration within teams. However, it lacks direct mentions of coaching techniques or frameworks, and while it touches on fostering a culture of giving and collaboration, it does not delve deeply into coaching practices or the role of a coach. The focus is more on the virtue of charity rather than the coaching process itself.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -73,30 +76,39 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of helping colleagues and fostering a successful team environment, which aligns with employee engagement principles. However, the primary focus is on agile practices and charity rather than direct employee engagement strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the concept of charity in Agile, which aligns with employee engagement by emphasising collaboration, trust, and collective success. It directly mentions intrinsic motivation through Dan Pink's framework and provides practical strategies for fostering a culture of giving, which are key aspects of employee engagement. The depth of discussion is substantial, covering various ways to cultivate charity and its impact on team dynamics and organisational success.",
+    "level": "Primary"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of teamwork and success in product development within an Agile context, but it primarily focuses on the virtue of charity rather than strategic product management practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of charity within Agile teams, which indirectly relates to product management by emphasising team success and customer focus. However, it lacks direct references to product management methodologies, frameworks, or strategic decision-making processes. The discussion is more about personal motivations and community support rather than the strategic alignment of product management principles.",
     "level": "Tertiary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of charity within Agile teams and how helping others contributes to team and organisational success, which aligns with the theme of empowering teams and fostering a collaborative culture. However, it primarily focuses on the virtue of charity rather than leadership practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, highlighting its importance in fostering collaboration, trust, and collective success. It aligns well with Agile Leadership principles by emphasising the role of leaders in cultivating a culture of support and empowerment. The depth of discussion includes practical strategies for leaders to encourage a charitable culture, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -109,11 +121,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T09:11:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:29:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile principles and the importance of charity in team dynamics, with no focus on system configuration or related technical aspects.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile methodologies, focusing on team dynamics and personal experiences rather than any aspects of system configuration. There are no direct mentions of system setup, configuration management, or related best practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -136,21 +151,24 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T09:11:21",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the virtue of charity in Agile and the importance of helping others, rather than structured decision-making methodologies.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of charity within Agile, which relates to team success and collaboration, but it primarily focuses on the virtue of helping others rather than self-organisation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of charity within Agile, which indirectly relates to self-organisation by promoting collaboration and collective success. However, it does not explicitly focus on self-organisation principles or practices, leading to a moderate confidence score. The mention of autonomy in Dan Pink's framework aligns with self-organisation, but the overall depth of discussion on self-organisation is limited.",
+    "level": "Secondary"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -163,21 +181,24 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T09:11:28",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of charity within Agile practices, focusing on team dynamics and personal motivations rather than Lean Product Development principles.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of charity within Agile, highlighting its impact on team success and collaboration, which relates to organisational culture. However, the primary focus is on the virtue of charity rather than a comprehensive exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the concept of charity within Agile environments, highlighting its role in fostering a culture of collaboration, trust, and collective success. It aligns well with the key topics of organisational culture, particularly in how cultural elements can enhance team dynamics and overall business agility. The depth of discussion is significant, providing strategies for cultivating this culture and illustrating its impact on team and organisational success. The focus on charity as a cultural element in Agile contexts demonstrates a strong alignment with the category's core themes.",
+    "level": "Primary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -208,19 +229,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T09:11:36",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of charity in Agile and the importance of helping others, but does not address the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-12T09:11:37",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile virtues and team dynamics, with no clear focus on product strategy or related methodologies.",
     "level": "Ignored"
   },
@@ -253,38 +274,35 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T09:11:46",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the virtue of charity in Agile practices and the importance of helping others, rather than focusing on the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of charity within the context of Agile principles, highlighting its importance for team success and organisational agility. However, it does not delve deeply into specific Agile frameworks or provide a comprehensive analysis, making Agile a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T09:11:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the virtue of charity within agile teams and individual contributions, without addressing scaling agility or organisational-level practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, linking it to team dynamics and motivation, particularly through Dan Pink's framework of Autonomy, Mastery, and Purpose. While it touches on Agile principles and their impact on team collaboration, it lacks a comprehensive exploration of specific Agile frameworks or methodologies. The focus is more on the virtue of charity rather than a detailed analysis of Agile frameworks themselves, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T09:11:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of charity within Agile, emphasising the importance of helping each other and fostering team success, which aligns closely with team collaboration principles.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of charity within Agile, emphasising the importance of helping colleagues and fostering a culture of shared success. This aligns well with the themes of teamwork and collaboration. The mention of wanting to help others for the collective benefit of the team and organisation directly relates to team dynamics and shared ownership. However, while the content is rich in conceptual alignment and depth regarding the importance of collaboration, it does not explicitly mention specific techniques or tools for improving team communication, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Customer Satisfaction": {
@@ -307,10 +325,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T09:11:55",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of charity in Agile and the importance of helping others, without any mention of Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -334,12 +352,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile principles and the importance of collaboration and support within teams, which are relevant to software development practices, but the focus is more on the concept of charity rather than specific software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of charity within Agile frameworks, which is a part of software development methodologies. However, while it touches on Agile principles and team dynamics, it primarily focuses on the virtue of charity rather than providing in-depth insights into software development practices or methodologies. The discussion lacks technical depth and specific software engineering practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +373,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T09:12:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:29:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the virtue of charity in Agile and the importance of helping others, rather than focusing on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of charity within Agile environments, discussing its importance for team success and collaboration. While it touches on themes of collective success and team dynamics, it does not explicitly mention throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The discussion lacks depth regarding throughput metrics, calculations, or trends, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,11 +394,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T09:12:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Agile virtue of charity, emphasising collaboration and support within teams, which aligns closely with Agile values and principles.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Agile virtue of charity, which aligns with the core values of collaboration and customer-centricity. It highlights the importance of helping others without expecting personal gain, reflecting the Agile principle of valuing individuals and interactions. However, while it touches on these themes, the discussion lacks depth regarding the broader Agile values and principles, focusing more on personal anecdotes and experiences rather than a comprehensive exploration of Agile methodologies.",
     "level": "Secondary"
   },
   "Automated Testing": {
@@ -397,10 +424,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T09:12:09",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses agile virtues and team dynamics without focusing on the specific responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -415,12 +442,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of helping others and fostering success within teams, which aligns with mentoring principles. However, it primarily focuses on the concept of charity in Agile rather than direct mentoring techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of charity in Agile, which indirectly relates to mentoring by emphasising support and collaboration among team members. However, it lacks direct references to mentoring techniques, coaching, or leadership development, which are core to the mentoring category. The discussion is more focused on the virtue of charity rather than the mentoring process itself.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -433,10 +463,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T09:12:15",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of charity in agile practices and team dynamics, without a focus on validating product ideas or user engagement.",
     "level": "Ignored"
   },
@@ -458,22 +488,16 @@
     "reasoning": "Content heavily discusses the concept of charity in Agile and the importance of helping others, without any focus on revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of collaboration and support among team members, which are relevant to software developers. However, the primary focus is on the concept of charity rather than specific practices or methodologies directly related to software development.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T09:12:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of charity in Agile and does not address Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile environments, focusing on team collaboration and support rather than the principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies, which are central to the category. While there is a slight alignment with the idea of fostering collaboration, it does not delve into the specifics of Test First Development, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,30 +556,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T09:12:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of charity in Agile and the importance of helping others, without any focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T09:12:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the virtue of charity in Agile without addressing scaling practices or frameworks relevant to multiple teams or enterprise-level initiatives.",
+    "calculated_at": "2025-04-11T09:19:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the concept of charity within Agile environments, discussing its importance for team success and collaboration. There are no direct mentions of Lead Time or its measurement, and the discussion does not align with the core themes of Lead Time as an observability metric. The content lacks depth regarding Lead Time, making it clear that this category is not a primary focus.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of charity in Agile and how helping others can lead to team and organisational success, which aligns with pragmatic approaches in Agile contexts. However, it primarily focuses on the virtue of charity rather than practical problem-solving strategies or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the practical application of charity within Agile environments, highlighting its role in fostering collaboration and enhancing team success. It provides actionable strategies for cultivating a culture of charity, which aligns well with pragmatic thinking. However, while it touches on Agile principles, the focus is more on the concept of charity rather than a broader discussion of pragmatic problem-solving techniques in Agile or DevOps contexts.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -565,15 +586,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of charity in Agile and the importance of helping others, without any focus on deployment frequency or related practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the agile virtue of charity and its impact on team success, which is a significant aspect of agile principles, but it does not delve deeply into specific agile methodologies or frameworks.",
-    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -586,37 +598,43 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of charity within Agile teams and its impact on organisational success, which aligns with Agile principles. However, it primarily focuses on personal motivations and community support rather than strategic planning or implementation of Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, linking it to team success and collaboration. While it touches on Agile principles and their impact on organisational culture, it lacks a direct focus on strategic planning or implementation at scale. The discussion is more about individual behaviours and cultural aspects rather than a comprehensive Agile strategy, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T09:12:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of charity in Agile and its impact on team dynamics, without any mention of Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile practices, focusing on team dynamics and collaboration rather than Continuous Delivery principles. While it touches on themes of teamwork and product quality, it does not explicitly address Continuous Delivery practices, automation, or deployment strategies, which are central to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T09:12:47",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the virtue of charity in Agile and personal experiences rather than focusing on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T09:12:48",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the virtue of charity in Agile and its impact on team dynamics, without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -631,39 +649,27 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T09:12:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of charity within agile teams, emphasising the importance of helping each other and fostering a supportive environment, which aligns closely with team motivation principles.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of charity within agile teams, highlighting the importance of helping each other for collective success rather than personal gain. This aligns with the themes of team engagement and collaboration. However, while it touches on autonomy and purpose, the depth of discussion on specific strategies for enhancing team motivation is limited, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of charity within agile teams and its impact on collaboration and team success, making it a significant theme, though not the primary focus.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T09:12:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile virtues and the importance of charity in team dynamics, with no mention of AI or its applications.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T09:12:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the virtue of charity in Agile, with no focus on Kanban principles or scaling practices.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses the concept of charity within Agile teams, highlighting its importance in fostering collaboration, trust, and overall team success. It aligns well with the core themes of team dynamics and collective goals, providing practical strategies for cultivating a culture of giving. The depth of discussion is significant, with detailed examples and actionable steps, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -694,38 +700,47 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of charity within Agile practices and its impact on team success, making Agile a secondary theme while primarily focusing on the virtue of helping others.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, linking it to team success and collaboration, which aligns with Agile principles. It also references Dan Pink's framework, which is relevant to motivation in Agile contexts. However, while it touches on important Agile themes, it does not delve deeply into specific methodologies or frameworks for Agile transformation, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-12T09:13:06",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of charity in Agile and the importance of helping others, without any mention of technical debt or its management.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of charity as an agile virtue, which aligns with the Scrum Value of respect and collaboration among team members. However, the primary focus is on the broader idea of helping others in the agile community rather than specifically addressing the Scrum Values themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of charity within Agile, which aligns with the Scrum Values of respect and openness. It highlights the importance of helping others and fostering collaboration, which are key aspects of Scrum. However, the primary focus is on charity rather than the specific Scrum Values, leading to a moderate confidence score. The depth of discussion is substantial, providing examples and actionable steps, but it does not explicitly mention all Scrum Values, which affects the overall alignment.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of charity within Agile teams and how it contributes to organisational success, making it a major but secondary theme. However, the primary focus is on Agile virtues and personal motivations rather than specific organisational change strategies or frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of charity within Agile practices, highlighting the importance of helping others and fostering a supportive team environment. While it touches on themes of collaboration and success in Agile, it lacks a direct focus on organisational change methodologies or frameworks. The mention of helping organisations to be successful in Agile hints at organisational change but does not delve into specific strategies or practices related to transforming an organisation. Therefore, while there is some alignment with the category, it is not the primary focus.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -735,15 +750,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile virtues and the importance of charity in team dynamics, with no mention of test automation or related practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T09:13:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the virtue of charity in Agile, without a clear focus on Scrum principles or product development.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -757,11 +763,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T09:13:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the virtue of charity in Agile and personal motivations for helping others, without a focus on empirical evidence or decision-making processes related to Evidence-Based Management.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile environments, focusing on team dynamics and personal anecdotes rather than empirical evidence or data-driven decision-making. While it touches on themes of collaboration and collective success, it does not engage with the core principles of Evidence-Based Management, such as current value metrics or empirical decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,30 +782,24 @@
     "reasoning": "Content primarily discusses the virtue of charity in Agile and the importance of helping others, without any focus on backlog refinement or related practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T09:13:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the virtue of charity in Agile and personal experiences rather than focusing on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T09:13:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile virtues and community support without a specific focus on the Scrum Master role or responsibilities.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, which is relevant to team dynamics and collaboration, but it does not explicitly focus on the role of the Scrum Master or their specific responsibilities. While it touches on themes of teamwork and collective success, it lacks depth in discussing the Scrum Master's influence on these aspects or their role in facilitating Agile practices.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T09:13:20",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses individual contributions and team dynamics rather than large-scale Agile practices or frameworks.",
     "level": "Ignored"
   },
@@ -811,19 +814,22 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of charity in agile environments and how helping others contributes to team and organisational success, which aligns with the principles of servant leadership. However, it primarily focuses on personal motivations and community support rather than specific technical leadership strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, which is tangentially related to team dynamics and collaboration. However, it lacks a direct focus on technical leadership principles, such as mentoring, coaching, or agile methodologies. While it touches on fostering a culture of collaboration, it does not delve deeply into the specific practices or strategies that define technical leadership.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-12T09:13:25",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of charity in agile practices and team dynamics, without focusing on product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
@@ -838,10 +844,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T09:13:29",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the virtue of charity in Agile and its impact on team dynamics, rather than focusing on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -854,12 +860,12 @@
     "reasoning": "Content primarily discusses the virtue of charity in Agile, focusing on helping others rather than accountability or team ownership.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-12T09:13:31",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of charity in Agile and personal experiences as a Microsoft MVP, without focusing on Minimum Viable Products or related topics.",
     "level": "Ignored"
   },
@@ -892,19 +898,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T09:13:37",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of charity in Agile and helping others, without a clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T09:13:38",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of charity in agile practices and team dynamics, rather than focusing on technical excellence or software craftsmanship.",
     "level": "Ignored"
   },
@@ -937,11 +943,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T09:13:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of charity as a key agile virtue, linking it to collaboration, team success, and the broader implications of Agile philosophy in fostering a supportive environment. It aligns well with the principles of Agile, particularly in terms of value delivery and the importance of teamwork.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Agile virtue of charity, which aligns with the Agile Philosophy's emphasis on collaboration and value delivery. It highlights the importance of helping others without expecting personal gain, reflecting the core themes of teamwork and customer focus. While it does not explicitly mention the Agile Manifesto or its principles, the discussion of charity as a virtue in Agile contexts shows a strong conceptual alignment. The depth of discussion is moderate, providing personal examples and insights into the impact of charity on team success, but it could benefit from a broader exploration of Agile principles.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -955,10 +964,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T09:13:47",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the virtue of charity in Agile and its impact on team success, without focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1000,12 +1009,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of helping others and fostering a successful team environment, which aligns with the principles of Continuous Learning. However, it primarily focuses on the virtue of charity in Agile rather than explicitly addressing Continuous Learning practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of charity in Agile, which indirectly supports continuous learning through collaboration and knowledge sharing. It mentions concepts like Dan Pink's framework that align with a growth mindset, but the primary focus is on charity rather than explicit continuous learning practices. The depth of discussion on fostering a culture of charity provides some insights into team dynamics, but it lacks detailed exploration of continuous learning techniques or frameworks.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1018,12 +1030,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of charity and collaboration within agile teams, which aligns with fostering a culture of agility. However, it primarily focuses on team-level practices and personal motivations rather than broader organisational agility.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, highlighting its importance for team and organisational success. While it touches on themes of collaboration and culture, which are relevant to enterprise agility, the primary focus remains on team-level practices rather than broader organisational strategies. The mention of collective goals and organisational success indicates some alignment with enterprise agility, but the depth of discussion is more centred on individual and team dynamics.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1034,31 +1049,13 @@
     "reasoning": "Content heavily discusses Agile principles and the concept of charity within teams, with no clear focus on Lean methodologies or principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T09:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of charity within Agile practices and the importance of helping others, rather than focusing on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T09:10:02",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of charity in Agile and the importance of helping others, rather than focusing on installation or configuration of tools or software.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T09:10:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses agile principles and the virtue of charity, with no focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,41 +1067,29 @@
     "reasoning": "Content primarily discusses the virtue of charity in Agile and the importance of helping others, without a focus on flow efficiency or optimisation of work throughput.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T09:10:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses the concept of charity within Agile practices, focusing on team dynamics and support rather than AI and automation.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of charity in agile practices and how it contributes to team and organisational success, which relates to product delivery. However, the primary focus is on the virtue of charity rather than the methodologies and practices of product delivery itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of charity within Agile teams, which is indirectly related to product delivery through themes of collaboration and team success. However, it lacks direct mentions of product delivery methodologies, practices, or metrics, and does not delve deeply into the end-to-end process of delivering software products. While it touches on aspects that could enhance product quality and team dynamics, it does not provide substantial detail on the core principles of product delivery.",
     "level": "Tertiary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses the importance of charity within Agile teams and its impact on product success, making Agile principles a major theme, but it does not focus specifically on product management practices.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of helping others and fostering a successful team environment, which aligns with the themes of continuous learning and collaboration. However, the primary focus is on the concept of charity within Agile rather than explicit methodologies or processes of discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, which is relevant to team dynamics and collaboration. However, it lacks direct mentions of Agile Product Management practices such as backlog prioritisation or stakeholder engagement. While it aligns with Agile principles and touches on team success and product quality, it does not delve deeply into product management specifics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1122,33 +1107,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the virtue of charity in Agile practices and personal motivations for helping others, without a clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T09:10:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the virtue of charity in Agile, focusing on helping others rather than transparency and accountability.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T09:10:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of charity within Agile philosophy and its impact on team dynamics, without focusing on specific tools, methodologies, or practical techniques.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T09:10:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of charity in Agile and personal experiences rather than specific events or presentations.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1171,11 +1129,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T09:10:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and the virtue of charity, with no clear focus on DevOps practices or principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of charity within Agile methodologies, discussing its importance for team dynamics and collaboration. While it touches on themes of collaboration and collective success, which are relevant to DevOps, it does not explicitly address DevOps principles, practices, or cultural shifts. The discussion lacks depth in relation to DevOps, making it a secondary mention rather than a primary focus.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,23 +1148,17 @@
     "reasoning": "Content heavily discusses Agile principles and personal experiences rather than Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T09:10:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of charity within Agile practices and personal experiences rather than specific products or literature.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of charity within agile teams and its impact on organisational success, which aligns with the theme of fostering a culture of innovation and adaptability. However, the primary focus is on the concept of charity rather than a comprehensive exploration of business agility principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, highlighting its importance for team success and collaboration. While it touches on themes relevant to business agility, such as fostering a culture of collaboration and enhancing product quality, it does not explicitly focus on broader business agility principles or strategies. The depth of discussion on charity and its implications for team dynamics is significant, but the primary focus remains on the virtue of charity rather than a comprehensive exploration of business agility.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1216,73 +1171,67 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of charity and helping others within Agile teams, which relates to enhancing team success and customer value, but it primarily focuses on personal motivations and community support rather than specific value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of charity within Agile, highlighting its importance in fostering collaboration and enhancing team success. While it does touch on aspects of value delivery, such as improving product quality and creating a culture of trust, the primary focus is on the virtue of charity rather than on specific methodologies or strategies for delivering value. The depth of discussion on how charity contributes to value delivery is moderate, but it lacks explicit references to established value delivery practices or frameworks.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T09:10:38",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of charity within Agile and its impact on team dynamics and organisational success, without a clear focus on technical practices or methodologies.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of charity within agile teams and how it contributes to overall organisational success, making it a major but secondary theme related to organisational agility.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, highlighting its importance in fostering collaboration, trust, and collective success. It aligns well with the principles of organisational agility by emphasising cultural shifts and the role of leadership in creating an agile environment. The depth of discussion is substantial, providing practical strategies for cultivating a culture of charity, which directly supports organisational agility. However, while it touches on key themes, it does not explicitly focus on broader organisational agility strategies or frameworks, which slightly limits its overall alignment.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-12T09:10:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and insights related to the concept of charity within Agile, highlighting the author's motivations and reflections on helping others in the context of Agile practices.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T09:10:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of charity in Agile, focusing on team dynamics, collaboration, and the human element in achieving success within organisations.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses personal motivations and experiences related to the Agile virtue of charity, providing insights into how helping others can elevate teams and organisations. It includes personal anecdotes about the author's role as a Microsoft MVP and their willingness to assist others without expecting remuneration, which aligns well with the Personal category's focus on individual reflections and insights. However, while it touches on personal experiences, it also includes some general discussions about Agile principles, which slightly detracts from the primary focus on personal anecdotes.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of charity and collaboration within teams, which relates to team dynamics and organisational success. However, it primarily focuses on personal motivations and experiences rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T09:10:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of charity within Agile practices and personal experiences rather than providing news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the concept of charity within Agile teams, highlighting its importance in fostering collaboration and enhancing team dynamics. While it does touch on the interplay between social aspects (charity, collaboration) and technical practices (Agile methodologies), the primary focus is on the virtue of charity rather than a comprehensive exploration of sociotechnical systems. The discussion aligns with some key themes, such as the impact of team dynamics and the role of culture, but lacks depth in addressing the broader organisational structures and their influence on software delivery.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T09:10:51",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of charity in Agile and the importance of helping others, rather than focusing on metrics, data, or learning processes.",
     "level": "Ignored"
   },
@@ -1306,12 +1255,15 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T14:54:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of charity within Agile frameworks and its impact on team dynamics and organisational success, which relates to psychological principles of motivation and engagement. However, the primary focus is on Agile practices rather than a deep exploration of organisational psychology.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, linking it to motivation and team dynamics, which are relevant to organisational psychology. However, the primary focus is on Agile practices rather than a deep exploration of psychological theories or principles. While it mentions concepts like Dan Pink's framework, the overall discussion is more about practical applications in Agile rather than a thorough examination of organisational psychology.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1324,21 +1276,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T14:54:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of charity and helping others within an Agile context, which relates to leadership principles, but it primarily focuses on personal motivations and community support rather than direct leadership practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of charity within Agile, highlighting the importance of helping others and fostering a supportive environment. While it touches on themes of collaboration and team success, it lacks a direct focus on leadership practices or frameworks. The mention of personal motivation and community support aligns somewhat with leadership principles, but the depth of discussion is limited and does not explore leadership strategies or decision-making processes in detail.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:54:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of charity within Agile teams and its impact on product success, making Agile principles a major theme, but it does not focus primarily on the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, focusing on team dynamics and collaboration. However, it does not explicitly address the Agile Product Operating Model or its core principles. While it touches on themes of collaboration and team success, it lacks depth in discussing product management practices, governance, or the transition from project to product ethos, which are central to the Agile Product Operating Model.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1349,31 +1307,443 @@
     "reasoning": "Content primarily discusses the virtue of charity in agile practices, focusing on individual contributions and team success rather than the principles of BetaCodex or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:55:02",
+  "Social Technologies": {
+    "category": "Social Technologies",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of charity within Agile frameworks, highlighting its role in fostering collaboration, trust, and collective success. It aligns well with the principles of self-organisation and continuous improvement, which are core to social technologies. The depth of discussion on how charity enhances team dynamics and organisational culture further supports its relevance to the category. However, while it touches on social technologies, the primary focus is on charity rather than a broader exploration of social technologies themselves.",
+    "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:45:53",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the virtue of charity in an agile context, without a clear focus on Scrum principles, roles, or practices.",
+    "reasoning": "Content heavily discusses Agile virtues and charity, with no mention of Internal Developer Platforms or related topics.",
     "level": "Ignored"
   },
-  "Social Technologies": {
-    "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:55:03",
-    "ai_confidence": 50,
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:45:54",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of charity within Agile practices, highlighting its importance in team dynamics and collaboration, but it is not primarily focused on the frameworks themselves.",
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile virtues and the importance of charity in team dynamics, with no mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of charity within the context of Agile, which is related to Scrum principles but does not explicitly mention Scrum roles, events, or artifacts. While it touches on team dynamics and the importance of collaboration, it lacks a direct focus on Scrum as a framework. The depth of discussion is moderate, providing examples of community support and personal motivation, but it does not delve into specific Scrum practices or implementation strategies.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile environments, focusing on team collaboration and support rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on themes of collaboration and enhancing product quality, it does not explicitly mention or align with the Shift-Left Strategy principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, focusing on team collaboration and support. While it touches on themes of collective success and enhancing team effectiveness, it does not explicitly address Continuous Improvement principles or methodologies. The discussion is more centred on the virtue of charity rather than a structured approach to continuous improvement, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of charity within Agile, which indirectly relates to Common Goals by emphasising collective success and collaboration. However, it primarily focuses on the virtue of charity rather than explicitly addressing the alignment of strategy and execution or the operationalisation of Common Goals. While there are mentions of team success and collaboration, the depth of discussion on Common Goals is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of charity in Agile, which indirectly relates to competence through the idea of helping others and fostering a culture of collaboration. However, it primarily focuses on charity rather than competence itself. While there are mentions of mastery and collective success, the depth of discussion on competence as a foundational principle is limited, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:12:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile methodologies, focusing on team dynamics and personal experiences rather than the One Engineering System framework. There are no direct mentions of 1ES principles, components, or its impact on software quality or delivery timelines. The discussion is more about individual and team behaviours in Agile rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of charity within Agile practices, which is somewhat related to the themes of collaboration and collective success. However, it does not explicitly address Agentic Agility or its principles, such as intentional shaping of outcomes or the distinction between human and AI capabilities. The focus is primarily on the virtue of charity rather than on the proactive and intentional aspects of agility, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:28:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 37,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, highlighting its importance in fostering collaboration and enhancing product quality. It directly mentions Agile principles and ties charity to team success and product outcomes, which aligns with the core themes of product development. The depth of discussion is significant, providing practical strategies for cultivating a culture of charity in Agile teams, thus contributing to continuous improvement and collective success. However, the primary focus is on the virtue of charity rather than a comprehensive exploration of product development methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:28:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile environments, focusing on team dynamics and collaboration. However, it does not explicitly mention Liberating Structures or any specific techniques associated with it. While there are themes of collaboration and collective success that align somewhat with the principles of Liberating Structures, the discussion lacks depth and specific references to the facilitation techniques that define the category. Overall, the content is more about Agile virtues than about Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:28:58",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the concept of charity within Agile teams, which is a specific aspect of Agile methodology rather than a broader discussion on project management principles. While it touches on themes like team collaboration and motivation, it lacks direct mentions of core project management topics such as project lifecycle phases, methodologies, or governance structures. The depth of discussion is limited to the virtue of charity and its impact on team dynamics, without exploring the wider context of project management practices.",
     "level": "Tertiary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:55:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of charity in Agile practices, focusing on team collaboration and personal motivations rather than the One Engineering System framework.",
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:29:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments but does not explicitly mention Open Space Agile or its principles. While it touches on themes of collaboration and collective success, which are relevant to Agile, it lacks a direct focus on Open Space Technology, psychological safety, or the co-creation aspects central to Open Space Agile. The depth of discussion is primarily about charity rather than the specific methodologies or challenges associated with Open Space Agile.",
     "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:29:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of charity within Agile environments, discussing its importance for team success and collaboration. While it touches on themes of collective success and long-term sustainability, it does not explicitly address Unrealised Value or its indicators, strategies, or frameworks. The discussion lacks depth regarding potential improvements or innovation opportunities, which are central to the concept of Unrealised Value. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:29:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the virtue of charity within Agile environments, discussing its importance for team success and collaboration. While it touches on themes of collective success and product quality, it does not explicitly mention Time to Market or related metrics. The discussion lacks depth in terms of strategies or metrics for improving Time to Market, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:29:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile environments, focusing on team dynamics and collaboration rather than on Current Value as defined in Evidence-Based Management. While it touches on themes of collective success and product quality, it lacks explicit discussions on metrics, real-time assessments, or the tangible benefits of products or services, which are central to the Current Value category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:29:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 40,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of charity within Agile teams, highlighting its importance for team and organisational success. However, it primarily focuses on interpersonal dynamics and team culture rather than explicitly addressing the broader organisational strategy of treating the company as a product. While there are mentions of organisational success and collaboration, the content lacks a direct exploration of CaaP principles, such as integrating customer feedback into organisational design or measuring outcomes aligned with strategic goals. The depth of discussion on how charity impacts organisational culture is present, but it does not sufficiently cover the key topics outlined for the CaaP category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:29:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile environments, focusing on team dynamics and individual contributions rather than the complexities of scaling Agile practices across multiple teams or organisations. While it touches on collaboration and collective success, it does not delve into specific frameworks, strategies, or metrics related to scaling, which are essential for this category. Therefore, the overall alignment with the 'Scaling' category is minimal, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:29:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of charity within Agile environments, discussing its benefits and how it fosters collaboration and success. However, it does not directly address Hybrid Agile, nor does it critically examine the integration of traditional project management methodologies with Agile practices. The themes of Hybrid Agile, such as the challenges of merging methodologies and the implications of command-and-control structures, are absent. Therefore, while there are some indirect references to Agile principles, the content does not align with the core themes of the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:29:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of charity within Agile environments, which is a virtue that can enhance team dynamics and collaboration. However, it does not explicitly mention Agnostic Agile or its principles. While it aligns with the idea of adapting practices for the benefit of the team and organisation, it lacks a direct focus on the core themes of Agnostic Agile, such as critical thinking, comparisons with traditional frameworks, or ethical considerations in agile practices. The depth of discussion is limited to the virtue of charity without exploring broader Agnostic Agile principles.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:29:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile methodologies, focusing on team dynamics and personal experiences. It does not mention GitHub or its functionalities, nor does it align with the core themes of GitHub services, tools, or best practices. The discussion is centred around Agile principles rather than GitHub-specific practices, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:29:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the concept of charity within Agile frameworks, focusing on team dynamics and collaboration. It does not directly mention or align with the principles of Cell Structure Design, which emphasises decentralised organisational structures and autonomous cells. While there are themes of collaboration and collective success, these are not specific to the Cell Structure Design model, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the principle of charity within Agile environments, exploring its significance in fostering collaboration and team success. It provides actionable ways to cultivate this principle in teams, linking it to broader frameworks like Dan Pink's concepts. However, the emphasis on charity as a value rather than as a direct principle of Agile diminishes the direct classification as 'Principle', resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the concept of charity in Agile methodologies and how it influences team dynamics, rather than discussing any specific tools or their functionalities. While it does touch on themes relevant to team success and collaboration, it does not make direct references to tools used within Agile practices and does not provide a depth of discussion on any software or tool features. Therefore, it does not align well with the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 34,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the value of charity within Agile frameworks, making strong connections between charity and team success, collaboration, and organizational health. It aligns directly with the 'Values' category by emphasizing underlying beliefs about team dynamics and collaboration in workplace culture. The depth of discussion is significant, offering practical ways to foster this value, which supports a high confidence score. The explicit mentions of charity in the context of Agile and its philosophical implications strongly support the classification.",
+    "level": "Primary"
+  },
+  "Philosophy": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 45.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "While the content discusses the virtue of charity in Agile practices and hints at the motivations behind it, it primarily focuses on the implementation of this virtue in specific team dynamics rather than deeply exploring the core philosophical underpinnings of Agile itself. The article references well-known frameworks like Dan Pink's Autonomy, Mastery, and Purpose, indicating some alignment with philosophical discussions but remains mostly practical and anecdotal in nature. Therefore, although it has relevant content connected to the philosophy of teamwork and values, it lacks a thorough exploration of the theoretical foundations or broader cultural implications that define true philosophical discourse.",
+    "level": "Tertiary"
+  },
+  "Discipline": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 3,
+    "ai_alignment": 5,
+    "ai_depth": 4,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the virtue of charity within the Agile framework, emphasizing the collective success of teams and organizations. While it touches on important values related to teamwork and collaboration, it does not engage deeply with the systematic principles or methodologies that define the discipline of Agile. The focus on charity is more about cultural aspects and personal anecdotes rather than a structured exploration of Agile as a discipline. Therefore, while there is some alignment with the category, it is not the primary focus.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses heavily on the virtue of charity within Agile contexts but does not discuss specific artifacts or their roles in Agile practices. The mention of Agile principles like collaboration and team success are present, but they are abstract and not tied to tangible artifacts that allow for inspection or adaptation like Product Backlog or Increment.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses solely on the concept of charity within Agile practices, discussing team dynamics and collaboration without any reference to observability or related topics. There are no mentions of metrics, logs, or any technical aspects regarding observability, nor does it elaborate on tools or practices relevant to understanding system internals. Therefore, it falls far short of the criteria necessary for the observability category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 58.0,
+    "ai_mentions": 5,
+    "ai_alignment": 65.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "The content discusses 'charity' as a virtue in Agile, focusing on team support and collective success, which aligns conceptually with the category of Practice. It emphasizes creating a culture of giving and collaboration, and provides actionable steps to cultivate charity within Agile teams. However, while the term 'practice' in a strict sense appears less frequently, the overall theme resonates with the principles of teamwork and improvements in effectiveness, meriting a moderately confident score.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses the concept of charity as a virtue within Agile contexts, but it does not present structured, step-by-step procedures or methods for achieving specific goals. Instead, it focuses on the philosophy behind charity and its impact on teams and organizations, which is not aligned with the defined category of 'Method'. While it touches on motivations and cultural aspects, it lacks detailed procedural discussions or practical methods that would fit the category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 25.0,
+    "ai_mentions": 3,
+    "ai_alignment": 10,
+    "ai_depth": 7,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the virtue of charity within Agile environments, but it primarily focuses on the cultural aspect rather than explicitly detailing or analyzing any specific models or frameworks related to organizational decision-making or complexity management. While it briefly mentions Dan Pink’s framework, it does not delve into how models inform Agile practice or decision-making effectively. The main emphasis is on charitable behavior rather than conceptual frameworks that characterize the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 35.0,
+    "ai_mentions": 8,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses charity in the context of Agile but primarily focuses on personal experiences and virtues rather than providing a structured methodology. While it mentions a framework (Dan Pink’s Autonomy, Mastery, and Purpose) and aligns with some core Agile principles, it lacks a detailed exploration of implementing frameworks, making it more of a personal opinion piece rather than an in-depth analysis or guide on frameworks. This leads to a moderate confidence score, indicating some relevance to the category but insufficient focus on the primary discussion of frameworks themselves.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 36.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 36.0,
+    "reasoning": "While the content discusses the virtue of charity within Agile contexts and touches upon its benefits, it primarily revolves around general principles and virtues rather than specific, actionable tenets that guide decision-making or behaviors in Agile. The discussion lacks clear, prescriptive rules or practices that directly align with tenets such as flow efficiency or decentralised decision-making, which limits its fit within the 'Tenet' category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "BCWiKTm8hjg",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:46",
+    "ai_confidence": 62.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35,
+    "ai_depth": 22,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the virtue of charity in Agile, which is related to team dynamics and collaboration—elements that can enhance capabilities. However, it primarily focuses on individual behaviors and cultural aspects rather than enduring competencies or systemic capabilities. Direct mentions of capability concepts are limited, and while there is alignment with themes like trust and collaboration, the depth is more about philosophy and personal anecdotes than concrete strategies for developing organizational capabilities.",
+    "level": "Secondary"
   }
 }

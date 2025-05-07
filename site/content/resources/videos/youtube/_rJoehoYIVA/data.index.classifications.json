@@ -28,10 +28,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-12T12:51:06",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on Product Backlog management or related Agile practices.",
     "level": "Ignored"
   },
@@ -46,10 +46,10 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-12T12:51:11",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration processes and challenges, with no clear focus on organisational dynamics or systems thinking.",
     "level": "Ignored"
   },
@@ -82,10 +82,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-12T12:51:18",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration processes and technical challenges, lacking a focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -109,30 +109,39 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migration, which involves aspects of system configuration, such as moving data and upgrading environments. However, the primary focus is on migration challenges and solutions rather than detailed configuration practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Azure DevOps migrations, which touches on aspects of system configuration, such as moving data and upgrading environments. However, the primary focus is on migration challenges and customer needs rather than detailed technical practices or methodologies for system configuration. While there are mentions of server upgrades and the importance of maintaining environments, the depth of discussion on configuration best practices and optimisation strategies is limited.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migration, which relates to the strategic adoption of digital technologies. However, the primary focus is on the technical aspects of migration rather than broader themes of digital transformation such as business agility or cultural change.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the migration to Azure DevOps, which is a digital tool that can enhance business processes and operational efficiency. However, while it touches on challenges and best practices related to migration, it lacks a broader discussion on strategic adoption and integration of digital technologies across the organisation. The focus is primarily on the technical aspects of migration rather than on the overarching themes of digital transformation, such as cultural change or organisational agility.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses Azure DevOps migrations and the challenges associated with them, rather than focusing on the delivery of functional software or best practices for ensuring software quality.",
-    "level": "Quaternary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the migration to Azure DevOps, which is related to software development but does not focus on the delivery of functional, high-quality software that meets customer needs. While it touches on best practices and challenges in migration, it lacks a direct emphasis on working software principles, such as iterative development or customer feedback integration.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -145,10 +154,10 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-12T12:51:31",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -163,38 +172,41 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T12:51:34",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-12T12:51:36",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of Azure DevOps migration without addressing organisational culture or its impact on agility and transformation.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-12T12:51:37",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on customer feedback integration.",
     "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps migrations, which includes aspects of Azure Repos, but the primary focus is on migration challenges and solutions rather than specific functionalities or best practices of Azure Repos.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses Azure DevOps migration, which is related but not exclusively focused on Azure Repos. While it mentions TFS and Git, it lacks a detailed exploration of Azure Repos functionalities, best practices, or specific features like pull requests or branching strategies. The discussion is more about migration challenges and benefits rather than the core themes of Azure Repos.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -208,28 +220,28 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T12:51:42",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no mention of the Definition of Done.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-12T12:51:44",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure DevOps migration processes and technical details, with no focus on product strategy or related methodologies.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-12T12:51:45",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
@@ -253,11 +265,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T12:51:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:27:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, without a focus on measuring or enhancing innovation capabilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the practical aspects of migrating to Azure DevOps, discussing challenges, best practices, and technical details without addressing the mechanisms or practices that foster innovation. While it touches on the need for adaptability and planning, it lacks a direct discussion on innovation metrics, learning cycles, or strategies for enhancing innovation capacity, which are central to the category of 'Ability to Innovate'.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -267,15 +282,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on Agile frameworks or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T12:51:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on scaling agile practices or frameworks.",
     "level": "Ignored"
   },
   "Team Collaboration": {
@@ -289,10 +295,10 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-12T12:51:56",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions without a focus on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
@@ -316,10 +322,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T12:52:01",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Agile engineering practices or methodologies.",
     "level": "Ignored"
   },
@@ -334,46 +340,55 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T12:52:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration, which is a key aspect of software development practices, including version control and project management methodologies.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses Azure DevOps migrations, which is a key aspect of software development practices, particularly in the context of version control and collaborative development. It provides detailed insights into the reasons for migrations, the challenges faced, and the solutions offered, aligning well with the core themes of software development methodologies and practices. The depth of discussion on migration processes and the implications for software quality and maintenance further supports a high confidence score.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses Azure DevOps migrations and the challenges involved, but it primarily focuses on the reasons for migration and the process rather than on engineering excellence principles, best practices, or continuous improvement in software craftsmanship.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Azure DevOps migrations, touching on aspects of software development practices and the importance of maintaining modern environments. However, it lacks a direct focus on engineering excellence principles, such as coding standards or CI/CD practices. While it mentions the need for better environments and the implications of outdated systems, it does not delve deeply into best practices or continuous improvement in engineering processes.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T12:52:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T21:27:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, without a focus on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and benefits without any explicit mention or analysis of throughput as a delivery metric. While it touches on aspects of project management and efficiency, it does not provide observable data or metrics related to throughput, nor does it engage with the core themes outlined in the category definition.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T12:52:08",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, without a clear focus on Azure Pipelines or CI/CD practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T12:52:09",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migrations and related technical challenges, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -397,10 +412,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T12:52:17",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration processes and challenges, with no focus on the Product Owner's responsibilities or practices.",
     "level": "Ignored"
   },
@@ -424,56 +439,50 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-12T12:52:21",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T12:52:22",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-12T12:52:25",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on Azure Boards or Agile project management functionalities.",
     "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-12T12:52:27",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure DevOps migration processes and challenges, with no focus on revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migrations, which relates to the role of software developers in managing and optimising development environments. However, the primary focus is on migration challenges rather than Agile or DevOps methodologies themselves.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:52:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and experiences related to the migration process. There are no direct mentions of Test First Development principles, nor does it align with the core themes of defining success criteria or testing practices. The discussion lacks depth regarding any testing methodologies, particularly those related to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,30 +541,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T12:52:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migrations and related challenges, without a focus on Lead Time as a metric or its implications.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T12:52:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration processes and challenges, without reference to scaling Agile practices or frameworks.",
+    "calculated_at": "2025-04-11T09:02:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and benefits without any explicit mention of Lead Time or its measurement. While it touches on aspects of process efficiency, it does not align with the core themes of Lead Time as an observability metric, nor does it provide depth on techniques for measuring or optimising Lead Time. Therefore, the confidence score reflects a very low relevance to the category.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T12:52:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies related to Azure DevOps migrations, highlighting real-world applications, challenges, and solutions in a complex environment. It emphasises adaptability and experience-based decision-making, aligning well with the principles of Pragmatic Thinking.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed account of practical experiences and challenges faced during Azure DevOps migrations, showcasing real-world applications of problem-solving strategies. It discusses the complexities of migration processes, the importance of adapting to different contexts, and the necessity of critical thinking in decision-making. The author shares insights from numerous migrations, highlighting both good and bad reasons for data movement, which aligns well with the core themes of pragmatic thinking. The depth of discussion is substantial, as it covers various scenarios and considerations, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -564,15 +570,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migrations and related challenges, without a focus on deployment frequency or optimisation of deployment intervals.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T12:52:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration processes and challenges, with no clear focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -595,28 +592,31 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T12:52:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges and best practices related to the migration process rather than Continuous Delivery principles. While it touches on aspects of automation and planning, it does not explicitly address Continuous Delivery concepts such as rapid feedback, incremental improvements, or cultural aspects. The discussion is more about migration strategies than the Continuous Delivery framework itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T12:52:55",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration processes and challenges, with no focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T12:52:56",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -645,24 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on team performance or collaboration strategies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T12:53:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no mention of AI or its integration in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T12:53:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -721,10 +703,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-12T12:53:15",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure DevOps migration processes and technical challenges, with no focus on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -737,31 +719,28 @@
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on test automation principles, practices, or tools.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T12:53:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration and related challenges, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps migration, which involves operational practices related to process optimisation and workflow management. However, it primarily focuses on the challenges and reasons for migration rather than specific operational strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the operational practices involved in migrating to Azure DevOps, discussing best practices, common challenges, and strategies for effective migration. It provides detailed insights into planning, communication, testing, and adaptability, which are all key aspects of operational efficiency. The mention of specific scenarios and the emphasis on practical application align well with the core themes of the category, justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T12:53:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, scenarios, and best practices without explicitly addressing Evidence-Based Management principles or metrics. While it touches on aspects of decision-making and planning, it lacks a strong connection to empirical evidence or data-informed management practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,22 +752,16 @@
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on backlog refinement or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T12:53:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:53:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration processes and challenges, with no clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and technical aspects of the migration process. There are no direct mentions of the Scrum Master role or its responsibilities, and the discussion does not align with the core themes of Scrum or agile principles. While there may be some indirect relevance to team dynamics and stakeholder engagement, it is not a primary focus.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -820,10 +793,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-12T12:53:32",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure DevOps migration challenges and solutions, with no focus on understanding customer needs or defining product features.",
     "level": "Ignored"
   },
@@ -854,7 +827,7 @@
     "reasoning": "Content primarily discusses Azure DevOps migrations and related technical challenges, with no clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T12:53:37",
     "ai_confidence": 0,
@@ -901,12 +874,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migrations and the technical challenges involved, which relates to software craftsmanship and engineering practices, but it primarily focuses on migration scenarios rather than broader principles of technical mastery.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Azure DevOps migrations, touching on technical challenges and solutions, which aligns with the principles of software craftsmanship. However, it lacks a deeper exploration of best practices, clean code principles, or methodologies that contribute to high-quality software development. The focus is more on practical experiences rather than a comprehensive discussion of technical mastery.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -946,12 +922,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses migrations between version control systems, specifically mentioning TFS and Git, which is a significant aspect of modern source control practices. However, the primary focus is on Azure DevOps migration challenges rather than broader version control methodologies or best practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Azure DevOps migrations, which is related to source control, particularly in the context of moving from TFS to Git and other systems. However, the primary focus is on migration challenges and solutions rather than best practices or methodologies of modern source control. While it touches on relevant topics, it lacks depth in discussing version control strategies, code management, or collaboration workflows, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1034,32 +1013,17 @@
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T12:50:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration processes and technical challenges, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps migration, which involves installation and configuration aspects, but it primarily focuses on the challenges and reasons for migration rather than providing clear, actionable installation or configuration instructions.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T12:50:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with little focus on code quality or complexity theory.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of migrating to Azure DevOps, which includes installation and configuration considerations. It mentions the complexities of moving data, upgrading environments, and the benefits of cloud solutions, aligning with the category's focus on actionable insights for installation and configuration. However, while it provides some depth on migration processes, it lacks detailed step-by-step instructions or specific configuration best practices, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1070,40 +1034,25 @@
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, without a focus on optimising work throughput or flow efficiency principles.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T12:50:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps migrations, which relates to the deployment and management of software products, but it primarily focuses on migration challenges rather than the broader methodologies and practices of product delivery.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Azure DevOps migration, which is related to product delivery but focuses more on the technical aspects of migration rather than the broader methodologies and practices of delivering software products. While it touches on the importance of moving to a supported environment, it lacks a comprehensive exploration of product delivery principles such as Agile methodologies, iterative development, or deployment strategies.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T12:50:27",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Agile Product Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T12:50:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Azure DevOps migration processes and challenges without a focus on discovery or learning methodologies.",
     "level": "Ignored"
   },
   "Systems Thinking": {
@@ -1122,33 +1071,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration processes and challenges without a focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T12:50:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T12:50:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical techniques and tooling involved in Azure DevOps migration, including specific challenges, solutions, and best practices related to the migration process.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T12:50:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions without reference to any specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1171,30 +1093,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T12:50:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Azure DevOps migrations, which is a key aspect of DevOps practices, including the integration of tools and processes for continuous delivery. It addresses challenges, solutions, and best practices related to DevOps, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, which is a key aspect of the DevOps philosophy. It discusses the integration of people, processes, and technology, emphasising collaboration and shared accountability. The challenges and best practices outlined align well with the core themes of DevOps, such as the importance of automation, continuous improvement, and effective communication. The depth of discussion regarding migration scenarios and strategies further supports its relevance to the DevOps category.",
+    "level": "Primary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T12:50:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration, detailing challenges, solutions, and best practices related to Azure DevOps services.",
-    "level": "Secondary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T12:50:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration processes and challenges, without focusing on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, detailing various scenarios and challenges associated with moving to Azure DevOps. It explicitly mentions Azure DevOps multiple times, demonstrating a strong direct mention score. The discussion aligns well with the core themes of Azure DevOps, particularly in the context of migration and the benefits of using Azure DevOps over older systems. The depth of the discussion is substantial, as it covers specific migration challenges, reasons for migration, and the advantages of using Azure DevOps, providing a comprehensive overview of the topic.",
+    "level": "Primary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1225,19 +1144,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migrations and the technical challenges involved, which relates to engineering practices. However, it primarily focuses on the reasons for migration rather than specific technical methodologies or practices that enhance agility in software development.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Azure DevOps migrations, which touches on technical practices but lacks a strong focus on engineering methodologies that enhance agility or quality. While it mentions the importance of moving to a supported environment, it does not delve into specific practices like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T12:50:51",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, without a focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
@@ -1250,15 +1172,6 @@
     "reasoning": "Content primarily discusses technical aspects of Azure DevOps migration without personal reflections or experiences.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T12:50:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses technical aspects of Azure DevOps migration, focusing on processes and challenges rather than the interplay between human behaviour and structured methodologies.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-12T12:50:54",
@@ -1268,32 +1181,26 @@
     "reasoning": "Content primarily discusses Azure DevOps migrations and technical processes without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T12:50:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the practical aspects of Azure DevOps migration rather than discussing industry news or reviews.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T12:50:57",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, without a focus on metrics, data utilisation, or learning principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T12:30:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migrations, which are related to the application lifecycle, but the primary focus is on migration challenges and solutions rather than the broader aspects of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the migration process to Azure DevOps, which is a specific aspect of application lifecycle management. While it touches on challenges, best practices, and the importance of planning and communication, it does not comprehensively cover the entire application lifecycle or the broader principles of ALM. The discussion is more centred on migration rather than the holistic management of applications throughout their lifecycle.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1306,56 +1213,44 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T12:51:00",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Azure DevOps migration processes and technical challenges, with no focus on psychological principles or organisational behaviour.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:30:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Scrum principles, roles, or practices.",
+    "reasoning": "Content heavily discusses Azure DevOps migration processes and technical challenges, with no focus on psychological principles or organisational behaviour.",
     "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T12:30:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps migration, which relates to internal development processes and tools, but it primarily focuses on migration challenges rather than platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, which is related to platform engineering but does not explicitly discuss the principles or components of Internal Developer Platforms (IDPs). While it touches on enhancing developer productivity and automation, it lacks a direct emphasis on platform engineering as a discipline. The depth of discussion on migration best practices provides some relevant insights, but the overall focus remains on migration challenges rather than platform engineering itself.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T12:30:34",
+    "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps migration processes and challenges, with no clear focus on BetaCodex principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:30:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, without a clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:30:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T17:26:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Agile Product Operating Model principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, scenarios, and best practices without addressing the Agile Product Operating Model or its principles. While it touches on aspects of agile methodologies, it does not delve into product management or the core themes of the APOM framework.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1369,11 +1264,441 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:55:01",
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Azure DevOps migration, discussing challenges, scenarios, and best practices without a significant emphasis on collaboration, decision-making, or value delivery frameworks. While it touches on communication and stakeholder involvement, these elements are secondary to the technical migration process, leading to a low confidence score in alignment with the Social Technologies category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:39:12",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, without a clear focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:39:13",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Azure DevOps migration challenges and solutions, with no clear focus on Artificial Intelligence applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration and does not explicitly discuss Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it lacks direct references to Scrum or its core themes, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration challenges and best practices, with no explicit discussion of integrating testing, security, or compliance earlier in the development lifecycle. While it touches on planning and testing, these aspects are not framed within the context of a Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges and best practices rather than Continuous Improvement principles. While it touches on aspects of planning and adapting during migration, it lacks a strong emphasis on empirical evidence, data-driven decision-making, or fostering a culture of experimentation, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of Azure DevOps migration, discussing challenges, scenarios, and best practices without explicitly addressing the concept of Common Goals. While it touches on the importance of planning and communication, it lacks a direct connection to shared objectives or alignment within Agile and DevOps frameworks, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of experience and expertise in Azure DevOps migration, which aligns with the concept of competence. It highlights the need for training and support during the migration process, indicating a focus on skill development. However, while competence is a significant theme, the primary focus is on migration challenges and solutions rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:26:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and personal experiences. While it touches on aspects of software development processes, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it discuss integration or standardisation across teams, which are core to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T14:45:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and experiences without addressing the intentional shaping of outcomes or the principles of Agentic Agility. While it touches on adaptability and planning, it lacks a clear connection to the core themes of agency and intentionality in both human and AI contexts.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T21:27:14",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the migration to Azure DevOps, discussing challenges, best practices, and the benefits of using this platform. While it touches on aspects of product development, such as planning and stakeholder communication, it lacks a strong emphasis on iterative learning, customer feedback, and continuous improvement, which are core themes of the Product Development category. The discussion is more centred on technical implementation and migration strategies rather than product development methodologies, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T21:27:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and technical aspects of the migration process. There are no direct mentions of Liberating Structures or facilitation techniques, and the discussion does not align with the core themes of enhancing participation or collaboration within groups. The content is more aligned with technical project management rather than group dynamics or facilitation methods.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T21:27:19",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the migration to Azure DevOps, which involves project management principles such as planning, execution, and stakeholder communication. However, it primarily focuses on technical aspects and specific migration scenarios rather than broader project management methodologies or principles. While it touches on planning and communication, it lacks depth in discussing project management frameworks or governance structures, which are key topics in the category. Therefore, while there is some alignment, it is not the primary focus of the content.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T21:27:21",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and benefits associated with the migration process. There are no direct mentions of Open Space Agile principles or practices, nor does it engage with the core themes of collective participation, psychological safety, or co-creation in Agile transformations. The discussion is centred around technical migration strategies rather than organisational agility or collaborative change processes.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T21:27:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the practical aspects of Azure DevOps migration, including challenges, best practices, and benefits. While it touches on the potential improvements that can be achieved through migration, it does not explicitly discuss the concept of Unrealised Value or its indicators, strategies, or frameworks. The discussion lacks depth in exploring untapped opportunities or the relationship between Unrealised Value and business agility, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T21:27:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Azure DevOps migration, focusing on challenges and best practices, but does not explicitly mention Time to Market or its associated metrics. While it touches on the importance of efficient processes, it lacks a direct focus on optimising delivery speed or enhancing customer satisfaction, which are core themes of Time to Market. The depth of discussion on migration strategies is present, but it does not connect these strategies to the broader implications for Time to Market.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T21:27:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the challenges and best practices of migrating to Azure DevOps, without explicitly discussing Current Value or its metrics. While it touches on the benefits of migration, it does not provide a real-time assessment of value delivered or customer satisfaction, which are key aspects of Current Value in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T21:27:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 40,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of migrating to Azure DevOps, discussing challenges, best practices, and benefits of the migration process. It does not explicitly mention the concept of 'Company as a Product' or align with its core themes, such as customer-centric strategies or organisational design. While there are elements of organisational change, they are not explored in the context of CaaP, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T21:27:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and scenarios related to migration rather than scaling methodologies or frameworks. While it touches on aspects of collaboration and communication, it does not delve into specific scaling frameworks or strategies for cross-team collaboration that are central to the Scaling category. The depth of discussion on migration challenges and best practices is significant, but it does not align closely with the core themes of scaling Agile practices or managing dependencies at scale.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T21:27:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and benefits without any explicit mention or critical examination of Hybrid Agile methodologies. While it touches on themes of change management and project complexities, it does not align with the core topics of Hybrid Agile, such as the integration of traditional and agile practices or the pitfalls of such integrations.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T21:27:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and benefits without any explicit mention of Agnostic Agile principles or concepts. It does not engage with the core themes of Agnostic Agile, such as ethical agility, critical thinking, or comparisons with traditional frameworks. The discussion is centred around specific migration scenarios and technical aspects, which do not align with the category's focus on context-driven agility.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T21:27:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, scenarios, and best practices related to Azure DevOps rather than GitHub. While GitHub is mentioned briefly in the context of migration from TFS to Git, it is not a central theme of the discussion. The content lacks depth in GitHub-specific functionalities or practices, and the overall focus is on Azure DevOps, which does not align with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T21:27:45",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing challenges, best practices, and benefits associated with this process. There are no direct mentions of Cell Structure Design or its principles, nor does it align with the core themes of decentralised organisational structures or autonomous cells. The discussion is centred around traditional migration practices rather than the innovative concepts of the Beta Codex or complexity theory.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:27:41",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on the practical aspects of Azure DevOps migration, detailing challenges and best practices without delving into the underlying principles that guide self-management, continuous improvement, and adaptability. While there are some mentions of communication and planning, these are presented more as procedural steps rather than as actionable principles that influence team behaviour. The alignment with core principles is only partial, and the depth of discussion regarding principles is minimal.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:27:41",
+    "ai_confidence": 85.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content primarily discusses the migration to Azure DevOps, which is a specific tool, and elaborates on the challenges, best practices, and benefits of using this tool for DevOps processes. There are multiple direct mentions of Azure DevOps and its features. The discussion is detailed, providing insights on handling migrations, addressing challenges faced during the process, and emphasizing best practices that are tailored to using Azure DevOps effectively. The content maintains a strong focus on this tool, showing both its functionality and its role in facilitating workflows in a DevOps context.",
+    "level": "Primary"
+  },
+  "Values": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:27:41",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 1.6,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses heavily on the technical aspects and practical challenges of Azure DevOps migration, with little to no mention of underlying values that guide behaviors or decision-making. Although there is a brief reference to the importance of communication and adaptability in the process, these points are overshadowed by the procedural and tools-focused discussions. The absence of explicit value discussions results in a low confidence score for the alignment with the Values category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:27:41",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the practical aspects of migrating to Azure DevOps, discussing challenges, best practices, and experiences without engaging with the philosophical underpinnings that guide Agile, DevOps, or Lean methodologies. There are no direct mentions of philosophical concepts or frameworks, and the discussion remains firmly rooted in technical implementation rather than exploring foundational beliefs.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:27:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the practical aspects of Azure DevOps migration, discussing challenges and best practices. It lacks a direct mention of the broader principles or methodologies of established disciplines like Agile or Lean, which are key to the discipline category. While there is some alignment with the idea of systematic approaches and improvement, it does not delve into those concepts in depth or frame them within a discipline context.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:27:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the challenges and best practices of migrating to Azure DevOps without discussing specific artifacts or their roles in Agile, Scrum, or Lean methodologies. While it touches upon the migration process and related best practices, it does not provide a clear examination of artifacts as formal representations of work or their importance in transparency and empirical control.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:27:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 22,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing common scenarios, challenges, and best practices for migrating to a new platform. While it mentions aspects like 'monitoring' and 'disaster recovery' briefly, these are not the main focus of the discussion. The content does not directly align with the principles of observability in software systems. It lacks an in-depth discussion on metrics, logs, traces, and the overall observability framework; hence it scores low on depth. The key themes of observability are superficially touched upon, reflecting minimal relevance to the Observability category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:27:41",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses best practices for Azure DevOps migration in detail, focusing on actionable techniques such as planning, communication, testing, and adaptability. While it mentions practices important for successful migration, like stakeholder engagement and testing strategies, it does not deeply align with the core themes of continuous improvement and team practices outlined in the category 'Practice.' Instead, it leans towards a broader discussion related to migration processes rather than specific, repeatable practices within teams.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:27:41",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses various best practices and structured approaches for migrating to Azure DevOps, including thorough planning, clear communication, extensive testing, and flexibility in approach. However, it tends to focus more on the challenges and experiences related to migration rather than detailing specific methods or procedures. This results in a moderate confidence score reflecting both the presence of methodical discussions and the lack of explicit method definition.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses Azure DevOps migration, detailing challenges, scenarios, and best practices without focusing on frameworks or conceptual models that guide decision-making. There are no explicit mentions of conceptual models or frameworks that would align with the 'Model' category. While some aspects of managing complexity are present, they do not delve into structured models relevant to Agile, DevOps, or Lean philosophies.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Azure DevOps migration, discussing practical scenarios, challenges, and best practices. While it does touch on elements of framework adaptation, it lacks in-depth discussion on Agile, DevOps, or Lean frameworks specifically, which are the core themes of the 'Framework' category. The primary content revolves around migration experiences rather than a structured methodology or framework's implementation strategies.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:27:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content focuses primarily on the process of migrating to Azure DevOps and discusses challenges and best practices. While it touches on relevant themes such as communication, planning, and the need for adaptability during migration, it lacks a direct and explicit discussion on tenets as prescriptive rules or doctrines that guide organizational behavior within Agile or DevOps methodologies. The mentions of planning and communication are somewhat aligned with tenets but do not develop these concepts into actionable guiding principles specifically. Therefore, it falls short of being a primary discussion of 'Tenet'.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "Mastering_Azure_DevOps_Migration",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:37:00",
+    "ai_confidence": 23.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content primarily focuses on the process of migrating to Azure DevOps, discussing challenges, tools, and best practices related to migration rather than enduring capabilities that facilitate organizational value. There are no direct mentions of capabilities as enduring competencies. While there is some conceptual alignment around planning and adaptability during the migration, it lacks depth in discussing how any capabilities are built or sustained over time within the organization.",
     "level": "Ignored"
   }
 }

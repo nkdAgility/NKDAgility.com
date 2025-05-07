@@ -4,8 +4,10 @@ description: Elevate your Product Backlog management skills with our 'Profession
 ResourceId: N4fzkLtirTS
 ResourceImport: true
 ResourceType: course
+ResourceContentOrigin: human
 shortTitle: Product Backlog Management Skills
 date: 2023-09-27
+weight: 750
 creator: Martin Hinshelwood
 type: course
 slug: professional-scrum-product-backlog-management-skills-with-certification
@@ -14,7 +16,7 @@ aliases:
 - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
 - /resources/N4fzkLtirTS
-aliasesFor404:
+aliasesArchive:
 - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
 - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
 course-topics:
@@ -29,11 +31,26 @@ delivery-audiences:
 - Scrum Masters
 - Lean Agile Practitioners
 tags:
-- Agile Project Management
+- Agile Frameworks
+- Agile Planning
+- Agile Planning Tools
+- Agile Product Management
+- Agile Transformation
+- Backlog Refinement
+- Pragmatic Thinking
+- Product Backlog
+- Product Delivery
+- Product Owner
+- Professional Scrum
+- Software Development
+- Transparency
+- Value Delivery
+- Decision Making
+- Product Strategy
 categories:
 - Scrum
+- Product Development
 - Product Management
-- Social Technologies
 preview: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
 previewIcon: Scrumorg-Course-PSPBMS-400x.png
 brandColour: 

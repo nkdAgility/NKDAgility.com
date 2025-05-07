@@ -2,36 +2,34 @@
 title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
 description: Unlock the potential of the Product Owner role! Discover how immersive learning bridges theory and practice, empowering you to drive real change in your organisation.
 date: 2023-06-09T07:00:27Z
+weight: 790
 ResourceId: vQBYdfLwJ3g
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vQBYdfLwJ3g
 url: /resources/videos/:slug
-slug: why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+slug: unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
 layout: video
 aliases:
-- /resources/videos/vQBYdfLwJ3g
-- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
-- /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 - /resources/vQBYdfLwJ3g
-aliasesFor404:
+- /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
+aliasesArchive:
+- /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
 - /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 - /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
+- unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
 preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
 duration: 268
 isShort: false
 tags:
-- Product Owner
-- Discovery and Learning
-- Agile Product Operating Model
-- People and Process
 - Agile Product Management
-- Continuous Learning
-- Agile Project Management
-- Agile Frameworks
-- Events and Presentations
 - Organisational Agility
+- Pragmatic Thinking
+- Product Owner
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,16 +37,15 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
-- Social Technologies
-- Scrum
 
 ---
-As I reflect on the immersive learning experience of the Product Owner (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 
+As I reflect on the immersive learning experience of the [Product Owner]({{< ref "/tags/product-owner" >}}) (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 
 
 ### Understanding the Product Owner Role
 
-When we talk about the product owner, we’re essentially discussing an agile product manager. This role encompasses all the tools and techniques of product management, but it also requires a shift in mindset. The journey of a product owner can be likened to moving from being a mere scribe—the lowest form of product ownership—to becoming a mini CEO or entrepreneur of the product. 
+When we talk about the product owner, we’re essentially discussing an agile product manager. This role encompasses all the tools and techniques of [product management]({{< ref "/categories/product-management" >}}), but it also requires a shift in mindset. The journey of a product owner can be likened to moving from being a mere scribe—the lowest form of product ownership—to becoming a mini CEO or entrepreneur of the product. 
 
 - **Ownership**: At the pinnacle of this totem pole, the product owner has full fiscal and commercial accountability for their product within the organisation. This level of ownership allows them to engage with various aspects of the business that they may not have had access to previously.
 
@@ -72,4 +69,4 @@ Imagine a group of product owners who have all attempted the same activity in th
 
 In conclusion, the immersive learning experience for product owners is not just about acquiring knowledge; it’s about fostering a community of practice where we can learn from one another. By engaging in these conversations and sharing our experiences, we can elevate our roles and become more effective in our organisations.
 
-If you found this discussion valuable, I encourage you to like, follow, and subscribe. I always welcome comments and would love to chat about agile, scrum, or DevOps. Feel free to book a coffee with me through Naked Agility. Let’s continue this journey together!
+If you found this discussion valuable, I encourage you to like, follow, and subscribe. I always welcome comments and would love to chat about agile, [scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}). Feel free to book a coffee with me through Naked Agility. Let’s continue this journey together!

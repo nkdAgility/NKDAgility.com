@@ -2,8 +2,10 @@
 title: Why is becoming a Scrum Master a great career option?
 description: "Unlock your leadership potential! Discover why becoming a Scrum Master is a transformative career move for aspiring leaders in this insightful video. \U0001F31F\U0001F680"
 date: 2023-03-30T07:00:10Z
+weight: 665
 ResourceId: XZip9ZcLyDs
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XZip9ZcLyDs
@@ -15,40 +17,31 @@ preview: https://i.ytimg.com/vi/XZip9ZcLyDs/maxresdefault.jpg
 duration: 193
 isShort: false
 aliases:
-- /resources/why-is-becoming-a-scrum-master-a-great-career-option
-- /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
-- /resources/videos/XZip9ZcLyDs
-- /resources/why-is-becoming-a-scrum-master-a-great-career-option-
 - /resources/XZip9ZcLyDs
-aliasesFor404:
+- /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option
+aliasesArchive:
+- /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option
 - /resources/why-is-becoming-a-scrum-master-a-great-career-option
 - /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
 - /resources/why-is-becoming-a-scrum-master-a-great-career-option-
+- why-is-becoming-a-scrum-master-a-great-career-option
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
-- Agile Frameworks
-- People and Process
-- Agile Project Management
-- Agile Leadership
-- Scrum Team
+tags: []
 resourceTypes:
 - video
 categories:
 - Leadership
-- Scrum
-- Social Technologies
 
 ---
-**Why is becoming a Scrum Master a great career option?**
+**Why is becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master a great career option?**
 
-As an Agile Consultant, I think this is a great question, and I'm often asked why becoming a Scrum Master is a great career choice. 🚀  So, in this article, I will address this popular question circling the Agile sphere.
+As an Agile Consultant, I think this is a great question, and I'm often asked why becoming a [Scrum Master]({{< ref "/tags/scrum-master" >}}) is a great career choice. 🚀  So, in this article, I will address this popular question circling the Agile sphere.
 
 So why is becoming a Scrum Master a great career option? 🤔
 
-## The Scrum Master - A Stellar Step on the Leadership Track
+## The Scrum Master - A Stellar Step on the [Leadership]({{< ref "/categories/leadership" >}}) Track
 
 Here's my perspective: Firstly, I feel like the Scrum Master is the first next step for a team member on the leadership track.  🌟
 

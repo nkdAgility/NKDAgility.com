@@ -1,93 +1,57 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T22:33:06",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of creating a build definition in a software development environment, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T22:33:07",
-    "ai_confidence": 90,
-    "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition in VSO, detailing specific tasks, options, and methodologies related to Agile and DevOps tooling.",
-    "level": "Primary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-14T22:33:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build system (Build vNext) within Team Foundation Server (TFS) and Visual Studio Online (VSO), which aligns with the principles of Platform Engineering by focusing on enhancing developer productivity through automated workflows and self-service capabilities.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on creating a build definition using the vNext build system in TFS and VSO, which aligns with the principles of Platform Engineering by discussing internal developer platforms and automation in the application lifecycle. It provides detailed instructions and insights into the build process, including task configuration and CI triggers, which enhance developer productivity. However, while it touches on relevant topics, it lacks a broader discussion on the overarching principles of Platform Engineering and does not explicitly mention Internal Developer Platforms (IDPs) or their components, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:33:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of creating a build definition in VSO, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T22:33:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a specific build system, without a clear focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T22:33:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical implementation of creating a build definition in VSO, with no significant emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T22:33:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a build system, without any mention of AI or automation technologies specifically related to Agile frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and does not discuss Evidence-Based Management principles or metrics. It lacks direct mentions of data-informed decision-making, current value, or empirical decision-making, which are central to EBM. The discussion is more about technical implementation rather than strategic management practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-14T22:33:21",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build system in Microsoft TFS and VSO, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T22:33:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily focuses on the step-by-step process of creating a Build vNext build definition, including installation and configuration details, which aligns well with the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T22:33:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of creating a build definition in VSO, with no clear focus on transparency or accountability principles within Agile teams.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed guide on creating a Build vNext build definition, which directly relates to the installation and configuration of a specific tool (TFS 2015). It includes step-by-step instructions, mentions system requirements, and discusses configuration options extensively. The focus is primarily on practical implementation, aligning well with the key topics of the category. The depth of discussion is significant, covering various tasks and options available in the build system, which enhances the overall confidence in its classification.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +71,16 @@
     "reasoning": "Content heavily discusses the technical aspects of creating a build definition in VSO without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T22:33:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the technical aspects of creating a build definition in VSO, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T22:33:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which is a key aspect of Continuous Integration (CI) and Continuous Delivery (CD) practices in DevOps. It covers automation, tools, and processes that enhance software delivery, aligning well with DevOps principles.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition within a CI/CD context, which is a key aspect of DevOps practices. It discusses automation in the build process, the importance of continuous integration, and the configuration of build tasks, all of which align with DevOps principles. However, it lacks a broader discussion on the cultural and collaborative aspects of DevOps, which limits its depth of discussion. Therefore, while it is relevant, it does not fully encapsulate the DevOps philosophy.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses the technical implementation of a build system in VSO, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a demo at NDC London, which relates to an event, but the primary focus is on creating a Build vNext definition rather than discussing the event itself.",
-    "level": "Tertiary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T22:33:38",
@@ -159,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a specific build system, without a focus on optimising throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T22:33:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical aspects of creating a build definition in VSO, with no significant discussion on team dynamics, collaboration, or human factors in processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T22:33:48",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating a build definition in VSO and does not discuss metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,11 +148,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T22:33:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which relates to Continuous Integration practices and the modular architecture of the build system. It provides insights into engineering practices that enhance software development processes, making it a major theme.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition, which is a technical process related to Continuous Integration and Continuous Delivery (CI/CD). It discusses various build tasks, configuration options, and the modular nature of the new build system, aligning with the principles of technical excellence. However, while it touches on CI/CD practices, it lacks a deeper exploration of broader engineering methodologies or principles, resulting in a moderately high confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -226,20 +169,23 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-14T22:33:58",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of creating a build definition in a software development environment, with no focus on psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-14T22:34:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in a new build system, which is a crucial aspect of the product delivery process, particularly in the context of continuous integration and deployment.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which is a crucial aspect of the product delivery process. It discusses various tasks, configurations, and options that are directly related to the deployment and continuous integration aspects of software delivery. While it does not explicitly mention agile methodologies or iterative development, it aligns well with the core themes of product delivery, particularly in the context of deployment and build management. The depth of discussion on build tasks and configurations indicates a strong focus on practical application in the product delivery process.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -253,38 +199,32 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T22:34:03",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, without any focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the features and configuration of the Build vNext system in TFS and VSO, which relates to software products but lacks a focus on reviews or analyses of literature or tools pertinent to Agile methodologies.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T22:34:06",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical implementation of a build system rather than strategies or methodologies for delivering value to customers.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T22:34:09",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition within Azure DevOps, detailing specific features, tasks, and options available in the system, which aligns closely with Azure DevOps functionalities.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed guide on creating a Build vNext definition within Azure DevOps (formerly VSO), discussing specific features, configurations, and tasks available in the build system. It directly mentions Azure DevOps and its functionalities, aligning well with the key topics of CI/CD implementation and best practices. The depth of discussion is substantial, covering various aspects of the build process, including task configurations and integration with Git repositories, which reinforces its relevance to the Azure DevOps category.",
     "level": "Primary"
   },
   "Personal": {
@@ -305,59 +245,38 @@
     "reasoning": "Content primarily focuses on creating a build definition in a software development context, discussing specific tools and processes without addressing Systems Thinking principles or their applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T22:34:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on creating a build definition in the vNext build system, which is specific to Team Foundation Server (TFS) and Visual Studio Online (VSO), rather than discussing the principles or integration aspects of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T22:34:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on creating a build definition in a specific software tool, with no clear discussion on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and enhancing CI/CD processes, which are more aligned with technical implementation rather than the Agile Product Operating Model. There are no direct mentions of APOM principles, and the discussion lacks depth in relation to product management or agile methodologies. It does not address the core themes of transitioning to a product ethos or continuous improvement in product value.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-14T22:34:23",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating a build definition in a specific software tool, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the new Build vNext system announced by Microsoft, providing updates and insights into its features and functionalities, which aligns with industry news. However, it primarily focuses on a technical tutorial rather than a review or broader industry analysis.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T22:34:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in the context of a new build system, which is a key aspect of the application lifecycle management process, particularly in the deployment and maintenance stages.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which is a part of the application lifecycle management process. It discusses aspects of the build process, configuration options, and integration with source control, which are relevant to deployment and maintenance stages of the application lifecycle. However, it lacks a broader discussion on governance, compliance, or metrics, which are also key components of Application Lifecycle Management. Therefore, while it is relevant, it does not fully encompass the category's scope.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T22:34:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext definition in Team Foundation Server (TFS) and Visual Studio Online (VSO), with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,38 +289,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T22:34:44",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a build system, with no clear focus on the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T22:34:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which involves best practices in software engineering, continuous integration, and the use of specific tools and frameworks that enhance technical delivery.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Build vNext definition, detailing various tasks, configurations, and the implications of using the new build system. It discusses best practices related to build definitions, continuous integration, and the importance of configuration management, which aligns well with the principles of software craftsmanship. However, while it provides substantial detail, it lacks a broader discussion on software architecture or clean code principles, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-14T22:34:47",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a build system and related tasks, with no focus on understanding customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T22:34:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which is a key aspect of Continuous Delivery. It covers automation in the build process, integration with version control systems, and the importance of maintaining a production-ready state, aligning well with Continuous Delivery principles.",
+    "reasoning": "The content primarily focuses on creating a Build vNext definition, which is a part of the CI/CD process. While it discusses automation and configuration related to builds, it lacks a comprehensive exploration of Continuous Delivery principles, such as rapid feedback, incremental improvements, or cultural aspects. The mention of CI indicates some alignment with Continuous Delivery, but the depth of discussion is more about the technical setup rather than the broader implications and practices of Continuous Delivery.",
     "level": "Secondary"
   },
   "Strategic Goals": {
@@ -415,46 +340,46 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-14T22:34:53",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a new build system, with no clear focus on Lead Time or its measurement.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-14T22:34:55",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of creating a build definition and does not address organisational culture or its impact on Agile methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T22:34:57",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a build system, with no focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-14T22:34:58",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no clear focus on portfolio management or related topics.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-14T22:35:00",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a build system, with no focus on the Product Backlog or its management in Agile projects.",
     "level": "Ignored"
   },
@@ -469,37 +394,40 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-14T22:35:05",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no mention of Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-14T22:35:06",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no focus on customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation and configuration of a Build vNext build definition, which relates to operational practices in DevOps. However, it primarily focuses on the specifics of the build system rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a build definition in the vNext build system, which is relevant to operational practices in a DevOps context. It discusses specific tasks, configurations, and options that can enhance the build process, aligning with the category's emphasis on improving operational efficiency. However, while it touches on practical applications, it lacks a broader discussion on strategies for continuous improvement or metrics for measuring operational efficiency, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T22:35:09",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no focus on Scrum roles, team dynamics, or collaboration practices.",
     "level": "Ignored"
   },
@@ -514,19 +442,19 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-14T22:35:12",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of creating a build definition in VSO, with no clear discussion on strategic approaches within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-14T22:35:13",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, without focusing on validating product ideas through user engagement or feedback.",
     "level": "Ignored"
   },
@@ -550,19 +478,22 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a build definition in a CI/CD context, including tasks related to running tests using the Visual Studio Test Runner, which is relevant to automated testing. However, the primary focus is on the build system and configuration rather than a comprehensive exploration of automated testing principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, with some mention of tasks related to testing (e.g., VSTest for running tests). However, the discussion lacks depth on automated testing principles, methodologies, or best practices, making it a secondary topic rather than a primary focus.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T22:35:20",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of creating a build definition in VSO, with no clear focus on team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -577,37 +508,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-14T22:35:26",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a new build system, with no focus on Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T22:35:27",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 20,
-    "final_score": 83.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition within the context of software development, specifically focusing on CI/CD practices and tools related to the software development lifecycle.",
+    "final_score": 92.0,
+    "reasoning": "The content provides a detailed guide on creating a Build vNext definition within the context of Microsoft's Team Foundation Server (TFS) and Visual Studio Online (VSO). It explicitly discusses the build system, CI/CD practices, and various tasks involved in the build process, which are core aspects of software development methodologies. The depth of discussion includes specific tasks, configurations, and options available in the build system, demonstrating a strong alignment with software engineering practices. The content is primarily focused on software development, particularly in the context of build automation and continuous integration, thus justifying a high confidence score.",
     "level": "Primary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T22:35:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on creating a build definition in a specific build system, with no clear discussion of agile methodologies, principles, or practices.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T22:35:33",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of creating a build definition in VSO, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +547,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-14T22:35:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in the context of a modern build system, which is closely related to version control practices, particularly with Git. It covers aspects of continuous integration and deployment, as well as the integration of source control with build processes.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext definition within the context of Team Foundation Server (TFS) and Visual Studio Online (VSO), which are modern source control and build systems. It explicitly mentions Git as the source repository and discusses continuous integration practices, which are key aspects of modern source control methodologies. The depth of discussion includes specific tasks, options, and configurations relevant to build definitions, indicating a strong focus on version control practices. Overall, the content aligns well with the category, providing detailed insights into modern source control systems and practices.",
+    "level": "Primary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T22:35:41",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, without focusing on empirical process control principles such as transparency, inspection, or adaptation.",
     "level": "Ignored"
   },
@@ -667,10 +595,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-14T22:35:50",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical aspects of creating a build definition in a software development environment, with no focus on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -685,29 +613,23 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a build definition and mentions Continuous Integration, which is related to frequent releases, but the primary focus is on the specifics of the build system rather than on the broader principles or practices of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the creation of a build definition in a new build system, which implies a focus on automation and potentially frequent releases. However, it lacks explicit discussions on continuous delivery principles, release frequency metrics, or strategies for user feedback integration. The mention of Continuous Integration (CI) is relevant but not deeply explored, leading to a low confidence score overall.",
+    "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-14T22:35:56",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of creating a build definition in VSO, with no focus on customer satisfaction or related strategies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T22:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build system in Microsoft TFS and VSO, with no clear focus on Scaling Scrum principles or practices.",
+    "reasoning": "Content primarily discusses the technical aspects of creating a build definition in VSO, with no focus on customer satisfaction or related strategies.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,68 +650,65 @@
     "reasoning": "Content heavily discusses the technical aspects of creating a build definition in VSO, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T22:36:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating a build definition in a specific software tool, with no discussion of scaling agile practices or organisational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T22:36:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which is closely related to best practices in continuous integration and delivery (CI/CD) processes. It highlights the importance of build automation, task management, and configuration options that enhance software development efficiency, aligning well with the principles of engineering excellence.",
+    "reasoning": "The content primarily focuses on creating a build definition using the vNext build system, which relates to CI/CD practices. It discusses various build tasks and configurations, indicating a level of detail about engineering processes. However, while it touches on aspects of software craftsmanship and automation, it lacks a broader discussion on best practices or principles of engineering excellence, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-14T22:36:08",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-14T22:36:10",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in Team Foundation Server, with no focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-14T22:36:12",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of creating a build definition in a software development context, with no clear focus on organisational dynamics or systems thinking.",
     "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-14T22:36:14",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of creating a build definition in a software development environment, with no focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical aspects of creating a build definition in a new system, touching on real-world applications and experiences in software development, but it primarily focuses on the technical setup rather than broader pragmatic thinking strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Build vNext definition in VSO, with some practical insights into the build process and configuration options. While it touches on real-world applications of DevOps principles, such as continuous integration and build management, it lacks a deeper exploration of pragmatic problem-solving strategies or adaptability in complex environments. The discussion is more technical than strategic, which limits its alignment with the core themes of Pragmatic Thinking.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T22:36:19",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the technical aspects of creating a build definition in VSO, with no clear emphasis on innovation capabilities or Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T22:36:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a build system, with no clear focus on Scrum principles, roles, or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T22:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, without reference to scaling Agile practices or methodologies.",
+    "reasoning": "Content primarily focuses on the technical aspects of creating a build definition in VSO, with no clear emphasis on innovation capabilities or Evidence-Based Management principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,12 +748,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a build definition in a CI/CD context, including tasks related to running tests, which aligns with test automation principles. However, the primary focus is on the build system rather than test automation itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which is related to CI/CD processes. While it briefly mentions running tests using the Visual Studio Test Runner, the overall discussion is more about build configurations and tasks rather than the principles or practices of test automation itself. Therefore, it does not fully align with the core themes of the Test Automation category.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -865,11 +769,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T22:36:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in a new build system, which is essential for delivering functional software. It touches on aspects of software quality, build processes, and continuous integration, aligning well with the principles of working software.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a build definition in the vNext build system, which is a part of the software development process. It discusses the features and configurations of the build system, which indirectly relates to working software by highlighting how to set up a functional build process. However, it lacks explicit discussions on user requirements, customer feedback, or the iterative development process, which are key themes of the 'Working Software' category.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -883,19 +790,22 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-14T22:36:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext definition in the context of Continuous Integration, detailing various tasks, options, and triggers related to CI processes.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition within the context of Continuous Integration, discussing various tasks, configurations, and the CI trigger. It aligns well with CI principles, detailing how to set up builds and manage them effectively. The depth of discussion is substantial, covering specific features and options available in the CI tool, which enhances the understanding of CI practices.",
+    "level": "Primary"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-14T22:36:34",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of creating a build definition in a software development environment, with no focus on market share strategies or methodologies.",
     "level": "Ignored"
   },
@@ -919,19 +829,19 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-14T22:36:39",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a build system, which is more related to software development and CI/CD practices rather than Site Reliability Engineering principles.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-14T22:36:41",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development environment, without any focus on hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -955,73 +865,82 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-14T22:36:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a build definition in a new build system, which is a key aspect of release management. It covers topics such as build tasks, continuous integration, and versioning, all of which are central to the release management process.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on creating a build definition using the vNext build system, which is a crucial aspect of release management. It discusses various build tasks, configuration options, and the importance of continuous integration, all of which are relevant to release management practices. However, while it touches on these topics, it lacks a comprehensive exploration of broader release management strategies, such as risk management or coordination with stakeholders, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-14T22:36:47",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details of creating a build definition in VSO, with no discussion on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T22:36:48",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a Build vNext definition, with no clear focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-14T22:36:50",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition in Azure DevOps, detailing various tasks, options, and features related to Azure Pipelines.",
+    "final_score": 92.0,
+    "reasoning": "The content provides a detailed guide on creating a Build vNext definition within Azure DevOps, which is a core aspect of Azure Pipelines. It discusses the configuration of build agents, the use of various build tasks, and the integration with version control systems like Git and GitHub. The depth of discussion includes specific tasks available, configuration options, and the continuous integration trigger, all of which are directly relevant to Azure Pipelines. The content is focused on practical implementation and best practices, aligning well with the key topics outlined for the category.",
     "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a build definition and mentions Continuous Integration (CI) as a trigger, which relates to deployment frequency. However, the primary focus is on the build system and its features rather than on optimising deployment intervals or strategies for increasing deployment frequency.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, with some mention of Continuous Integration (CI) as a trigger. While it touches on aspects of build automation, it lacks a direct discussion on deployment frequency optimisation, strategies for increasing deployment frequency, or the impact of deployment frequency on Agile and DevOps practices. The depth of discussion is more about the technical setup rather than the strategic implications of deployment frequency.",
+    "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-14T22:36:53",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating a build definition in a software development context, with no clear discussion on change management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T22:36:54",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating a build definition in VSO and does not discuss team collaboration, communication, or shared ownership within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-14T22:36:56",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a build system, with no focus on Behaviour Driven Development principles, practices, or collaboration among stakeholders.",
     "level": "Ignored"
   },
@@ -1034,7 +953,7 @@
     "reasoning": "Content primarily focuses on the technical aspects of creating a build definition in a specific software environment, without discussing broader themes of digital transformation, such as business agility, innovation, or organisational change.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T22:37:00",
     "ai_confidence": 0,
@@ -1043,39 +962,33 @@
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a new build system, with no clear focus on Minimum Viable Product concepts or related strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T22:37:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no mention of AI or its applications in Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T22:37:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, detailing the setup process, available tasks, and configuration options, which aligns closely with system configuration practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on creating and configuring a Build vNext definition within the context of Team Foundation Server (TFS) and Visual Studio Online (VSO). It discusses various configuration options, tasks, and settings that are essential for optimising the build process, which aligns well with the core themes of system configuration. The depth of discussion is substantial, covering specific tasks and options available in the build system, as well as considerations for performance and integration. However, while it is detailed, some sections may stray slightly into general software development practices, which could affect the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-14T22:37:08",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details of a build system rather than product strategy, vision, or market analysis.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-14T22:37:10",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of creating a build definition in VSO, without discussing leadership principles, team dynamics, or agile methodologies.",
     "level": "Ignored"
   },
@@ -1090,55 +1003,64 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-14T22:37:13",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating a build definition in a software development context, with no discussion of cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:37:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a new build system, with no clear focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and enhancing CI/CD processes, with minimal mention of testing practices. While it briefly references running tests using the Visual Studio Test Runner, it does not discuss Test First Development principles, success criteria, or the impact of testing on collaboration. Overall, the content lacks depth and direct alignment with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the creation of a Build vNext definition on VSO, which is related to Microsoft technologies and includes references to Windows Server and PowerShell. However, the primary focus is on build systems and configurations rather than directly on Windows operating system management or troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on creating a build definition using Team Foundation Server (TFS) and Visual Studio Online (VSO), which are closely tied to the Windows operating system environment. It discusses installation, configuration, and troubleshooting aspects of TFS 2015, which is a Windows-based application. The content includes specific references to Windows features, such as running Windows cmd scripts and PowerShell tasks, indicating a strong alignment with Windows-related topics. The depth of discussion is substantial, covering various build tasks and configurations, which further supports a high confidence score in the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the creation of a build definition in a new build system, which is related to deployment processes, but it primarily focuses on the setup and configuration of build tasks rather than specific deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which is more about the build process than deployment strategies. While it touches on aspects of continuous integration and mentions deployment tasks, it lacks a direct discussion of deployment methodologies such as Blue-Green Deployments or Canary Releases. The depth of discussion is limited to the configuration of build tasks rather than a comprehensive exploration of deployment strategies.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-14T22:37:20",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a specific software development environment, without addressing large scale Agile principles or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T22:37:21",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details of a build system without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1162,12 +1084,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a Build vNext definition and mentions a specific issue encountered (PowerShell version mismatch) which indicates a troubleshooting aspect, but the primary focus is on the setup process rather than systematic problem-solving.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, with limited discussion on troubleshooting specific issues. While it mentions a PowerShell version mismatch as a problem encountered, the overall emphasis is on setup and configuration rather than systematic problem-solving or methodologies for diagnosing issues. Therefore, it does not align closely with the core themes of the Troubleshooting category.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1105,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:37:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and does not discuss the role, responsibilities, or impact of a Scrum Master. There are no direct mentions of Scrum practices or the Scrum Master's influence on team dynamics or organisational change, which are key topics in the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,15 +1133,6 @@
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-14T22:37:37",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition, which is relevant to software developers working within Agile and DevOps frameworks. It covers tools and practices that enhance the software delivery process, aligning well with the category's focus.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-14T22:37:40",
@@ -1225,19 +1144,22 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the creation of a build definition in a new build system, which relates to Continuous Integration practices. However, it primarily focuses on the specifics of the build system rather than broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, which relates to Continuous Integration (CI) practices. It discusses various build tasks and configurations, indicating an understanding of automation in the development process. However, while it touches on CI, it lacks a broader discussion on clean code, TDD, or other Agile engineering practices, which limits its alignment with the category. The depth of discussion is also somewhat superficial, primarily providing a walkthrough rather than a comprehensive exploration of engineering principles.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-14T22:37:42",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a new build system, with no clear focus on technical debt management or its implications.",
     "level": "Ignored"
   },
@@ -1252,10 +1174,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-14T22:37:46",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details of creating a build definition in VSO, which does not align with the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1279,21 +1201,24 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-14T22:37:51",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical aspects of creating a build definition in VSO, with no clear focus on Agile methodologies or strategic planning.",
     "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-14T22:37:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the creation and configuration of a Build vNext build definition within the context of Azure DevOps (formerly VSO), which is closely related to Azure Repos functionalities, particularly in terms of source control and CI/CD integration.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition within the context of Azure DevOps (formerly VSO), which is closely related to Azure Repos. It discusses the integration of build definitions with source control, specifically mentioning Git as the source repository. The content aligns well with the core themes of Azure Repos, such as CI/CD processes and collaboration features. It provides detailed insights into the build system, including configuration options and available tasks, demonstrating a strong depth of discussion. However, it does not explicitly mention Azure Repos as a primary focus, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1306,10 +1231,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-14T22:37:59",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on creating a build definition in a specific software environment, with no clear discussion on Lean principles, waste reduction, or customer feedback.",
     "level": "Ignored"
   },
@@ -1331,15 +1256,6 @@
     "reasoning": "Content primarily focuses on creating a build definition in VSO and does not discuss accountability, ownership, or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T22:38:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T22:38:05",
@@ -1351,10 +1267,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-14T22:38:07",
+    "calculated_at": "2025-04-10T15:54:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation and configuration of a build definition in a build system, with no clear focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1369,11 +1285,116 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:09:56",
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating a build definition in VSO, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions CI/CD processes, it does not delve into the underlying social frameworks or methodologies that promote collaboration or collective intelligence within teams.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 80,
+    "non_ai_confidence": 20,
+    "final_score": 80.0,
+    "reasoning": "The content primarily discusses the creation and configuration of a build definition within the context of a new build system, which aligns with the principles of an Internal Developer Platform by streamlining development processes and automating tasks.",
+    "level": "Secondary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:11:11",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the creation and configuration of a Build vNext build definition in Microsoft TFS and VSO, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses the creation and configuration of a build definition in a software development context, with no mention of AI or its applications in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a build definition in a build system, which is related to software development but does not discuss Scrum principles, roles, events, or artifacts. There are no direct mentions of Scrum or its practices, and the discussion lacks depth in terms of Scrum-related topics. Overall, it does not align with the core themes of the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:15:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on creating a build definition in the vNext build system, detailing various tasks and configurations. While it touches on aspects of continuous integration, it does not explicitly discuss the Shift-Left Strategy or its principles, benefits, or techniques. The mention of CI could be seen as a peripheral reference to Shift-Left, but it lacks depth and direct relevance to the core themes of integrating testing, security, and compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and enhancing CI/CD processes, which are related to Continuous Improvement. However, it lacks explicit discussions on the principles of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integration into organisational processes. While it touches on aspects of improving workflows, it does not delve deeply into the philosophy or methodologies of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Build vNext definition and does not explicitly discuss Common Goals or their significance in Agile or DevOps. While it touches on aspects of CI/CD, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about implementation details rather than the overarching principles of collaboration and alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical aspects of creating a Build vNext definition and does not explicitly discuss competence or continuous learning. While it touches on the importance of using new tools and adapting to changes in technology, it lacks a deeper exploration of skill development, quality outcomes, or fostering a culture of competence. The discussion is more about the functionality of the build system rather than the professional growth or capabilities of individuals or teams.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition on VSO, which is a specific tool rather than a discussion on the One Engineering System (1ES) framework. While it touches on aspects of CI/CD processes and mentions integration with Git, it lacks a comprehensive discussion on the principles, components, or best practices of 1ES. The content does not provide depth in terms of how these practices align with the broader goals of standardisation and integration across teams, which are central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a Build vNext definition and enhancing CI/CD processes, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of adaptability in software development, it lacks depth in exploring intentional shaping of outcomes, human versus AI capabilities, or the transformative capacity of individuals and systems.",
     "level": "Ignored"
   }
 }

@@ -28,30 +28,33 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-12T11:12:20",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on backlog management or related topics.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-12T11:12:21",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the concept of envy in Agile and critiques the adoption of external models like the Spotify model, rather than focusing on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of envy in Agile practices and how organisations often mimic others without understanding their unique contexts. While it touches on organisational dynamics and decision-making, the primary focus is on Agile methodologies rather than a comprehensive exploration of systems thinking or organisational behaviour.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of tailoring them to specific organisational contexts, which aligns with the principles of systems thinking. However, it primarily focuses on individual behaviours and team dynamics rather than a holistic view of organisational behaviour or the interplay of organisational structure and culture. The mention of FOMO and the need for strategic decision-making hints at organisational dynamics but lacks depth in exploring these themes comprehensively.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -82,38 +85,47 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of envy in Agile practices and how it affects product management decisions, particularly in relation to adopting external models like the Spotify model. While it touches on product management themes, it primarily focuses on Agile practices and personal opinions rather than strategic product management frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the pitfalls of copying others' models, which touches on product management indirectly. However, it primarily focuses on the concept of envy in Agile rather than the strategic aspects of product management. While it mentions the importance of understanding customer needs and avoiding blind adoption of frameworks, it lacks depth in discussing methodologies or frameworks that guide product managers. Overall, the content is more about Agile philosophy than product management itself.",
+    "level": "Ignored"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of envy in Agile practices and how it can lead to ineffective adoption of frameworks like the Spotify model. While it touches on leadership indirectly by referencing how organisations should focus on their unique needs rather than copying others, the primary focus is on the pitfalls of following trends rather than on leadership strategies or practices within an Agile context.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns with the concept of empowering teams and fostering a culture of adaptability. However, it primarily focuses on the pitfalls of imitation and the influence of FOMO rather than on leadership roles or practices. While there are mentions of positive values and innovation, the depth of discussion on Agile leadership specifically is limited.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T11:12:31",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile and its implications, without specific reference to the Daily Scrum or its practices.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T11:12:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:56:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and the pitfalls of copying practices from other organisations, with no focus on system configuration or related technical aspects.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the pitfalls of imitation within Agile practices, with no direct mention of system configuration or related topics. While there are themes of adaptation and customization, they are not aligned with the core aspects of system configuration, such as configuration management tools or system optimisation. The depth of discussion is focused on Agile principles rather than any technical configuration practices.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -127,10 +139,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-12T11:12:35",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on delivering functional software that meets customer needs.",
     "level": "Ignored"
   },
@@ -145,39 +157,42 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-12T11:12:39",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on self-organisation principles. It does not explore self-organisation as a central theme.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-12T11:12:40",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of envy in Agile practices and the pitfalls of adopting external models without understanding, with no focus on remote working or Agile collaboration in a distributed environment.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T11:12:42",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on Lean principles or waste reduction in product development.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of envy in Agile practices and how it can lead organisations to adopt external models without considering their unique context. While it touches on cultural aspects, such as the influence of leadership and organisational structure, the primary focus is on the pitfalls of blindly following trends rather than a deep exploration of organisational culture itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of cultivating positive values and a culture of generosity within Agile practices, which aligns with the themes of organisational culture. It highlights how envy and imitation can hinder true Agile adoption and stresses the need for teams to adapt practices to their unique contexts. However, while it touches on cultural aspects, the primary focus remains on Agile practices and decision-making rather than a comprehensive exploration of organisational culture itself.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -208,19 +223,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T11:12:49",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others, without addressing the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-12T11:12:50",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and the pitfalls of copying others without a clear product strategy focus.",
     "level": "Ignored"
   },
@@ -235,48 +250,45 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-12T11:12:53",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of copying others' methodologies, without a focus on Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of envy in Agile practices and how it can lead to poor strategic decisions, particularly in adopting frameworks like the Spotify model without understanding their context. While it touches on strategic alignment and the importance of focusing on organisational needs, the primary focus is on the pitfalls of copying others rather than a comprehensive discussion on strategy itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns with strategic decision-making in Agile environments. It addresses the pitfalls of imitation and the influence of FOMO on strategic choices, emphasising the need for critical assessment and innovation. While it does not delve deeply into specific strategic frameworks or metrics, it provides a solid exploration of how to align Agile practices with organisational goals and values, thus demonstrating a strong conceptual alignment with the Strategy category.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T11:12:56",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of copying others' methods rather than focusing on innovation and empirical data.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile concepts and references Agile frameworks like the Spotify model and SAFe, but it primarily focuses on the pitfalls of copying practices rather than a deep exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T11:13:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices, focusing on team-level issues and the pitfalls of adopting external models without adaptation, rather than strategies for scaling agility across an organisation.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile principles and the importance of tailoring Agile practices to fit unique team contexts, which aligns with the core themes of the Agile Frameworks category. However, it primarily focuses on the pitfalls of imitation and the influence of FOMO rather than providing a comprehensive exploration of specific Agile frameworks or their comparative analysis. The depth of discussion is moderate, as it touches on various aspects of Agile but lacks detailed case studies or in-depth analysis of specific frameworks.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -307,10 +319,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T11:13:06",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of envy in Agile practices and the pitfalls of imitating others, without addressing Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -334,12 +346,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the pitfalls of blindly adopting practices from other organisations, which is a significant theme related to software development. However, it also includes broader reflections on organisational behaviour and personal opinions, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses Agile methodologies, focusing on the importance of tailoring practices to fit unique team contexts rather than blindly imitating others. It addresses key Agile concepts such as the pitfalls of imitation, the influence of FOMO in decision-making, and the value of innovation and positive culture within Agile practices. The depth of discussion is substantial, providing insights and strategies for effective Agile implementation, which aligns well with the Software Development category.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,11 +367,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T11:13:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on throughput or work completion rates.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the dangers of envy in Agile practices and the importance of tailoring approaches rather than imitating others. It does not mention throughput as a delivery metric, nor does it analyse or visualise throughput in any way. The focus is on cultural aspects and decision-making rather than on throughput metrics or their implications for delivery health.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,12 +388,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of envy in Agile and how it relates to adopting practices from others without understanding their context. While it touches on Agile principles, it primarily focuses on the pitfalls of following trends rather than a deep exploration of Agile values and principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns with Agile principles of flexibility and customer-centricity. It also highlights the dangers of imitation and the need for innovation, reflecting the core values of self-organisation and continuous improvement. However, while it touches on Agile values, it does not delve deeply into the Agile Manifesto or its principles, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -397,10 +418,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T11:13:23",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and does not focus on the specific responsibilities or skills of a Product Owner.",
     "level": "Ignored"
   },
@@ -424,19 +445,19 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-12T11:13:28",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile and the pitfalls of blindly following models like the Spotify model, rather than focusing on empirical process control principles such as transparency, inspection, and adaptation.",
     "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T11:13:29",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of envy in Agile practices and the pitfalls of copying others without understanding their context, rather than focusing on validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -458,22 +479,16 @@
     "reasoning": "Content heavily discusses Agile principles and the concept of envy in adopting practices from other organisations, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and their implications for software development, particularly focusing on the pitfalls of envy in adopting practices from other organisations. While it touches on relevant themes, it primarily critiques the adoption of external models rather than providing best practices or insights directly related to the role of software developers.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T11:13:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on Test First Development principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of envy in Agile practices and the importance of tailoring Agile methodologies to fit unique team needs. It does not mention Test First Development, its principles, or any related practices such as TDD or ATDD. The focus is on avoiding imitation and fostering a culture of innovation rather than on testing methodologies.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,30 +547,27 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T11:13:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:56:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T11:13:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses individual Agile practices and the concept of envy in adopting methodologies, without a focus on scaling Agile across multiple teams or enterprise-level initiatives.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of envy in Agile practices and the importance of tailoring Agile methodologies to fit unique team needs. It does not mention Lead Time or its significance as an observability metric, nor does it explore any related concepts such as Cycle Time or strategies for measuring or optimising Lead Time. The focus is on avoiding imitation and fostering a positive culture in Agile, which is unrelated to the core themes of Lead Time.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the pitfalls of blindly adopting practices from other organisations, which aligns with pragmatic thinking in Agile contexts. However, it primarily focuses on the concept of envy rather than practical problem-solving strategies or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the pitfalls of blindly copying successful practices from others in Agile environments, which aligns with pragmatic thinking by emphasising the importance of adapting strategies based on real-world experiences rather than following trends. It highlights the need for critical thinking and understanding one's unique context, which is a core theme of pragmatic thinking. The depth of discussion is substantial, providing examples and contrasting approaches, although it could benefit from more explicit strategies for practical problem-solving.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -565,15 +577,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of envy in Agile practices and the pitfalls of imitating others, without addressing deployment frequency or related optimisation strategies.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of envy in Agile, particularly in relation to adopting practices from other organisations, which is a relevant theme in Agile Project Management. However, it primarily focuses on the pitfalls of imitation rather than providing a comprehensive exploration of Agile principles or methodologies.",
-    "level": "Tertiary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -586,20 +589,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of envy in Agile practices and how organisations often mimic successful models without understanding their context. While it touches on Agile principles and the importance of aligning practices with organisational needs, the primary focus is on the pitfalls of imitation rather than a comprehensive Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of 'envy' in Agile, particularly in relation to adopting practices from other organisations without understanding their context. While it touches on the importance of aligning practices with organisational needs, it primarily focuses on the pitfalls of imitation rather than providing a comprehensive discussion on Agile strategy. The mention of the Spotify model and the critique of following competitors' practices aligns somewhat with Agile principles, but the depth of strategic discussion is limited.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T11:13:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and the pitfalls of copying methodologies without understanding, with no focus on Continuous Delivery practices.",
+    "calculated_at": "2025-03-21T18:44:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of imitation within Agile frameworks, with no direct mention of Continuous Delivery principles or practices. While it touches on themes of adaptation and innovation, which are relevant to Continuous Delivery, the focus remains on Agile methodologies rather than the specific practices of Continuous Delivery. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,10 +622,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T11:14:02",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -647,24 +656,6 @@
     "reasoning": "The content primarily discusses the concept of envy in Agile and how it affects organisations, rather than focusing on team performance, collaboration, or Agile methodologies. It does not address strategies or practices aimed at enhancing team dynamics or productivity.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T11:14:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile principles and the concept of envy in adopting practices, with no mention of AI or its integration in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T11:14:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile and critiques the adoption of external models like the Spotify model, without any focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
     "calculated_at": "2025-02-12T11:14:10",
@@ -676,10 +667,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-12T11:14:11",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of adopting external models without adaptation, rather than focusing on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
@@ -694,12 +685,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of envy in Agile practices and how organisations often mimic others without understanding their unique needs, which relates to Agile transformation principles. However, it primarily focuses on the pitfalls of adopting external models rather than providing a comprehensive discussion on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns with the principles of Agile transformation. It addresses the pitfalls of imitation and the need for strategic decision-making, reflecting on cultural shifts and values within Agile. However, while it touches on key themes, it lacks detailed exploration of specific frameworks or methodologies, which slightly limits its depth.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -712,21 +706,24 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T11:14:17",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile and its implications, without a clear focus on Scrum Values or their significance within the Scrum framework.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implications of adopting external models like the Spotify model and SAP without considering organisational needs, which relates to organisational change. However, the primary focus is on Agile practices and the concept of envy rather than a comprehensive discussion on organisational change strategies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of envy in Agile practices, particularly in relation to adopting models like the Spotify model and SAP. While it touches on organisational behaviour and the pitfalls of blindly following others, it does not explicitly focus on organisational change methodologies or frameworks. The discussion is more about individual and team behaviours rather than structured organisational change processes, which limits its alignment with the category.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -735,15 +732,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and the concept of envy in adopting practices, with no focus on test automation or related topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T11:14:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the concept of envy in Agile and its implications, rather than focusing on Scrum principles, practices, or product development processes.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -757,11 +745,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T11:14:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of blindly following models like the Spotify model, rather than focusing on evidence-based decision-making or empirical data.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the pitfalls of imitation in Agile practices and the importance of tailoring approaches to specific team needs. While it touches on decision-making and innovation, it does not explicitly address Evidence-Based Management principles or metrics. The focus is more on Agile philosophy rather than empirical evidence or data-informed decision-making.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,22 +764,16 @@
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on backlog refinement or related topics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T11:14:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the concept of envy in Agile and critiques the adoption of external models like the Spotify model and SAP, without a clear focus on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T11:14:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content discusses general Agile concepts and the pitfalls of adopting practices from other organisations without specific reference to the Scrum Master role or responsibilities.",
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile principles and the dangers of imitation, but it does not specifically address the role or responsibilities of a Scrum Master. While it touches on themes relevant to Agile practices, it lacks a direct focus on the Scrum Master role, techniques for coaching, or the Scrum Master's influence on team dynamics. The discussion is more about general Agile philosophy rather than the specific contributions of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -820,10 +805,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-12T11:14:34",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on customer needs and product feature definition.",
     "level": "Ignored"
   },
@@ -838,10 +823,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T11:14:37",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on one's own needs and processes. It does not directly address Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
@@ -854,7 +839,7 @@
     "reasoning": "Content primarily discusses the concept of envy in Agile and the pitfalls of copying others' practices, rather than focusing on accountability, ownership, or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T11:14:40",
     "ai_confidence": 0,
@@ -892,10 +877,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T11:14:46",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the concept of envy in Agile and how it relates to adopting practices from other organisations, rather than focusing on Scrum Team dynamics, roles, or collaboration.",
     "level": "Ignored"
   },
@@ -937,11 +922,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T11:14:53",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the concept of envy in Agile, highlighting the importance of focusing on one's own organisational needs rather than copying others. It touches on Agile principles such as adaptability and the significance of understanding one's unique context, making it a major theme, though it also references specific frameworks like the Spotify model.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of envy in Agile, particularly how it can lead to organisations blindly adopting practices from others without understanding their own needs. While it touches on the importance of focusing on customer needs and the pitfalls of following trends, it primarily critiques specific practices rather than delving deeply into the broader Agile philosophy. The mention of the Spotify model and comparisons to other frameworks like SAP indicate a secondary focus on specific methodologies rather than the underlying Agile principles.",
     "level": "Secondary"
   },
   "Modern Source Control": {
@@ -955,10 +943,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T11:14:57",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -1018,12 +1006,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of adopting external models like the Spotify model and SAFe, highlighting the importance of building an organisation's unique path rather than copying others. While it touches on organisational structures and practices, the primary focus remains on team-level agile practices and individual experiences.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses team-level Agile practices and the pitfalls of imitation, which does not align with the broader organisational context of Enterprise Agility. While it touches on themes of adaptation and innovation, it lacks a focus on organisational structures, leadership roles, or metrics that are essential for enterprise-level discussions. The emphasis is on individual team experiences rather than the collective agility of an organisation.",
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1034,31 +1025,13 @@
     "reasoning": "Content heavily discusses Agile concepts and the pitfalls of following others' models without focusing on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T11:11:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of blindly copying successful models without considering organisational context, rather than focusing on resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T11:11:21",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of adopting external models without understanding, rather than focusing on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T11:11:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and the concept of envy in adopting practices from other organisations, without addressing software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,41 +1043,26 @@
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on optimising flow efficiency in work processes.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T11:11:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others without understanding their context, with no mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T11:11:27",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on effective product delivery methodologies.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and the pitfalls of copying practices from other organisations, which relates to the importance of aligning product vision with customer needs. However, it primarily focuses on the concept of envy rather than specific Agile product management practices.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of envy in Agile and how it can hinder innovation and learning within organisations. While it touches on the importance of adapting practices to fit one's own context, the primary focus is on the pitfalls of following others rather than fostering a culture of discovery and learning.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile principles and the importance of tailoring practices to fit unique team contexts, which aligns with Agile Product Management. However, it primarily focuses on the pitfalls of imitation and the cultural aspects of Agile rather than specific product management techniques or roles. While it touches on customer-centric approaches, it lacks detailed discussions on product backlog prioritisation, stakeholder engagement, or metrics, which are crucial for a higher confidence score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1123,33 +1081,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of copying models like the Spotify model, without a clear focus on complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T11:11:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of blindly following models like the Spotify model, rather than focusing on transparency and accountability within teams.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T11:11:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the concept of envy in Agile practices and critiques the adoption of external models without practical application. While it touches on tools like SAP, the focus is more on philosophical discussions rather than practical techniques or tooling.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content references a presentation and discussions from conferences, but the primary focus is on the concept of envy in Agile rather than on the events themselves.",
-    "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1171,11 +1102,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T11:11:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile principles and the pitfalls of adopting external models without understanding, with minimal reference to DevOps practices.",
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices and the pitfalls of imitation within that framework, with no direct mention of DevOps principles or practices. While there are some themes of collaboration and adaptation that could loosely relate to DevOps, the overall discussion does not align with the core principles of DevOps, such as automation, shared accountability, or continuous improvement. Therefore, the confidence score reflects a very low alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,23 +1121,17 @@
     "reasoning": "Content heavily discusses Agile concepts and the pitfalls of envy in adopting practices from other organisations, without any specific mention of Azure DevOps or its functionalities.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T11:11:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and does not focus on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of envy in Agile practices and how organisations often mimic successful models without understanding their unique needs. While it touches on themes of adaptability and innovation, it primarily focuses on the pitfalls of blindly following others rather than fostering a culture of business agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile practices and the importance of tailoring them to fit unique team contexts, which aligns with the principles of business agility. However, it primarily focuses on the pitfalls of imitation and the need for innovation within Agile, rather than directly addressing broader business agility concepts such as leadership roles or organisational structures. The depth of discussion on adapting Agile practices provides a moderate level of insight into business agility, but it does not comprehensively cover the key topics outlined in the category definition.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1216,10 +1144,10 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-12T11:11:53",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others without understanding their context, rather than focusing on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1234,110 +1162,110 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the pitfalls of adopting external models like the Spotify model and emphasises the importance of focusing on internal needs and customer requirements, which aligns with the theme of organisational agility. However, it primarily revolves around the concept of envy rather than a comprehensive exploration of agility practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns with the principles of organisational agility. It highlights the dangers of imitation and the need for strategic decision-making, both of which are crucial for enhancing adaptability. The depth of discussion on fostering a positive culture and customer-centric approaches further supports its relevance to the category. However, while it touches on key themes, it does not delve deeply into specific frameworks or case studies, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-12T11:11:59",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content shares personal reflections and insights on the concept of envy in Agile practices, discussing personal interpretations and experiences related to adopting methodologies. However, it also includes technical discussions about frameworks and models, which slightly detracts from its personal focus.",
-    "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T11:12:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the human behaviours of envy and FOMO in Agile practices, focusing on how these emotions affect team dynamics and organisational processes. It highlights the importance of understanding one's own needs rather than blindly following others, which aligns well with the themes of collaboration and process improvement.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the author's personal reflections on the concept of envy within Agile practices, sharing anecdotes and insights from their experiences. It aligns well with the Personal category as it provides subjective interpretations and personal anecdotes about the challenges of adopting practices from others without understanding their context. The depth of discussion is significant, as the author elaborates on the implications of envy in Agile transformations and contrasts it with a more introspective approach to organisational practices. However, while the content is rich in personal insights, it does touch on broader Agile concepts, which slightly detracts from its focus on personal experiences.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of organisational behaviour and culture on the adoption of Agile practices, particularly through the lens of envy and the pitfalls of imitating others without understanding their context. While it touches on sociotechnical themes, it primarily focuses on Agile principles and personal reflections rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T11:12:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices rather than providing news or reviews related to Agile, DevOps, or technology updates.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile practices and the importance of tailoring them to fit unique team contexts, which touches on the interplay between social dynamics (team culture, values) and technical practices (Agile methodologies). However, it lacks explicit references to sociotechnical systems as a primary focus and does not delve deeply into the organisational structures or broader implications of these interactions. The discussion is more centred on individual team practices rather than the systemic integration of social and technical elements.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T11:12:06",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others without understanding their context, rather than focusing on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-12T11:12:08",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile principles and the concept of envy in adopting methodologies, with no clear focus on Application Lifecycle Management or its stages.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-12T11:12:09",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile concepts and the pitfalls of copying practices from other organisations, without a clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T11:12:11",
+    "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and the concept of envy in relation to organisational practices, without a clear focus on psychological principles or theories relevant to organisational psychology.",
     "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T17:15:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of envy in Agile and how it affects organisational behaviour, touching on leadership indirectly through examples of decision-making and cultural influences. However, it primarily focuses on the pitfalls of adopting external models rather than on leadership practices themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of envy in Agile and how it can lead to organisations blindly following others without understanding their unique needs. While it touches on leadership indirectly by referencing the Spotify model and the importance of focusing on one's own path rather than copying others, it lacks a direct focus on leadership practices or frameworks. The discussion is more about the pitfalls of imitation rather than strategies for effective leadership or team dynamics, which diminishes its alignment with the leadership category.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T17:15:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the implications of envy in adopting methodologies like Scrum and the Spotify model, making it a major but secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile practices and the importance of tailoring them to individual team needs, which aligns with the principles of self-organisation and adaptability. However, it primarily focuses on the pitfalls of imitation and the concept of envy rather than directly addressing collaboration, decision-making, or value delivery in a broader organisational context. While there are mentions of fostering a positive culture and strategic decision-making, these are secondary to the main theme of avoiding envy in Agile practices, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:15:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile practices and the pitfalls of imitating others rather than focusing on product-centric development.",
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of tailoring them to unique team needs, which aligns with some principles of the Agile Product Operating Model. However, it primarily focuses on the dangers of imitation and the cultural aspects of Agile rather than the core themes of the APOM, such as product management integration and operational governance. The discussion lacks depth in terms of specific APOM principles and does not directly address the transition from project to product ethos.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -1358,22 +1286,431 @@
     "reasoning": "Content heavily discusses Agile principles and the pitfalls of adopting external models without relevance to platform engineering.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:15:43",
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:49:58",
     "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of envy in Agile methodologies and critiques the adoption of external models like the Spotify model, without focusing on the principles or implementation of the One Engineering System.",
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and the concept of envy in adopting practices, with no mention of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:49:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and the concept of envy in adopting practices, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T17:15:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile principles and mentions Scrum roles, but the primary focus is on the concept of envy in Agile practices rather than a detailed exploration of Scrum itself.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum roles (Scrum Master, Product Owner) and discusses Agile principles, but it primarily focuses on the concept of envy in Agile practices rather than providing a detailed exploration of Scrum itself. While there are references to Scrum, they are not the primary focus, and the discussion lacks depth regarding Scrum's framework, events, or artifacts.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of imitation within Agile frameworks, without any direct reference to the Shift-Left Strategy. While it touches on themes of adaptation and innovation, it does not address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the dangers of imitation and the need for originality rather than explicitly addressing Continuous Improvement methodologies or frameworks. While there are mentions of adaptation and innovation, the depth of discussion on Continuous Improvement concepts is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the dangers of envy and the importance of tailoring Agile practices to fit unique team needs, which indirectly relates to the concept of Common Goals. However, it primarily focuses on the pitfalls of imitation and the need for innovation rather than explicitly addressing shared objectives or alignment within teams. The discussion lacks depth on how these ideas connect to overarching strategic goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which indirectly relates to competence by emphasising the need for understanding and adapting skills. However, the primary focus is on avoiding imitation and fostering originality rather than on continuous skill development or professionalism. The depth of discussion on competence is limited, as it does not explore strategies for fostering a culture of competence or the impact of competence on decision-making in detail.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of imitation, particularly focusing on the Spotify model. It does not mention the One Engineering System or its principles, components, or implementation strategies. The discussion is centred around personalisation in Agile rather than the integration and standardisation of engineering processes, which is the core focus of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns with the concept of autonomy in Agentic Agility. However, it primarily focuses on the dangers of imitation and the need for innovation rather than explicitly addressing the intentional shaping of outcomes or the interplay between human and AI capabilities. The discussion lacks depth in exploring the principles of Agentic Agility and does not differentiate between human and AI roles, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T09:56:05",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile practices extensively, focusing on the importance of tailoring methodologies to fit unique team contexts rather than blindly imitating others. It highlights the significance of strategic decision-making and customer-centric approaches, which align well with the principles of product development. However, while it touches on key themes, it does not delve deeply into specific product development methodologies or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T09:56:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of envy in Agile and the pitfalls of imitation, particularly regarding the Spotify model. While it touches on the importance of tailoring Agile practices to fit unique team contexts, it does not explicitly mention Open Space Agile or its principles. The focus is more on individual team dynamics and avoiding copying others rather than on collective participation or shared ownership, which are central to Open Space Agile. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T09:56:10",
+    "ai_confidence": 78.0,
+    "ai_mentions": 3,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to fit unique team contexts, which aligns well with the principles of Agnostic Agile. It explicitly mentions the pitfalls of imitation and the need for critical thinking in Agile decision-making, reflecting the core themes of the category. The depth of discussion is substantial, as it covers various aspects of adapting Agile methodologies and the dangers of rigid adherence to specific frameworks. However, it does not directly reference Agnostic Agile or its thought leaders, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T09:56:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of imitation in Agile practices and the importance of tailoring approaches to fit unique team contexts. While it touches on Agile principles, it does not address the complexities of scaling Agile across multiple teams or the methodologies and frameworks that facilitate such scaling. The focus is more on individual team dynamics rather than enterprise-level coordination and value delivery, which are central to the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T09:56:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile practices and the pitfalls of imitation, particularly in relation to the Spotify model. It does not mention Cell Structure Design or its principles, nor does it align with the core themes of decentralised organisational structures or autonomous cells. The focus is on individual team adaptation within Agile, which is tangentially related but does not delve into the specifics of Cell Structure Design. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T09:56:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the pitfalls of imitation in Agile practices and the importance of tailoring approaches to fit unique team contexts. While it touches on themes of collaboration and decision-making, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The focus remains on general Agile principles rather than the facilitation techniques that characterise Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T09:56:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of envy in Agile practices and the importance of tailoring approaches rather than imitating others. While it touches on themes of innovation and adaptation, it does not explicitly mention Time to Market or related metrics. The focus is on cultural values and decision-making rather than the efficiency of delivering value quickly, which is central to the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T09:56:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of tailoring them to fit unique organisational contexts, which aligns with the idea of customer-centric strategies. However, it primarily focuses on the pitfalls of imitation and the need for innovation rather than explicitly addressing the concept of 'Company as a Product'. The mention of customer focus is relevant, but the overall discussion lacks depth in exploring how the organisation itself can be treated as a product, which is a core aspect of CaaP. Therefore, while there are some relevant themes, the primary focus remains on Agile methodologies rather than a comprehensive exploration of CaaP.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T09:56:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and the dangers of imitation within Agile practices, without any direct mention of GitHub or its functionalities. While it touches on themes relevant to Agile project management, it does not align with GitHub's specific tools or services, nor does it provide any depth regarding GitHub's role in version control or collaboration. Therefore, the confidence score reflects a very low relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T09:56:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the dangers of envy in Agile practices and the pitfalls of imitation, focusing on the importance of tailoring Agile methodologies to fit unique team needs. While it touches on themes of innovation and adaptation, it does not explicitly address the concept of Unrealised Value or provide insights into potential improvements or untapped opportunities within an organisation. The discussion is more about avoiding pitfalls rather than identifying or measuring unrealised value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T09:56:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the dangers of envy in Agile practices and the importance of tailoring Agile methodologies to fit unique team needs. While it touches on themes of customer focus and the need for strategic decision-making, it does not explicitly address Current Value or its metrics, nor does it provide a detailed analysis of how to measure or assess value in real-time. The discussion is more about avoiding imitation and fostering a positive culture rather than evaluating the tangible benefits of Agile practices, which is central to Current Value in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T09:56:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the dangers of imitation in Agile practices and the importance of tailoring approaches to fit unique team needs. While it touches on themes relevant to Agile, it does not explicitly mention Hybrid Agile or engage with its core challenges, such as the integration of traditional methodologies with Agile practices. The focus is on avoiding envy and promoting originality rather than critically examining the Hybrid Agile framework or its implications. Therefore, the confidence score reflects a low alignment with the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T09:56:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile practices and the pitfalls of imitation within that framework, which is a narrow aspect of project management. While it discusses the importance of tailoring Agile methodologies to fit unique team contexts, it lacks broader discussions on core project management principles, methodologies, and lifecycle phases. The depth of discussion is limited to Agile-specific concepts without addressing the wider project management landscape, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:38:54",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the avoidance of envy in Agile and emphasizes the importance of tailoring Agile practices to fit specific team needs. While it touches on principles such as autonomy and the dangers of imitation, it is more centered around values and attitudes rather than actionable guiding principles. Most sections advocate for individualization and innovation, which indirectly align with several Agile principles but do not deeply dive into them. Therefore, it doesn't conform fully to the 'Principle' category as its primary focus, leading to a moderate score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:38:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of adopting Agile practices and the implications of imitation versus customization. While it briefly mentions tools like SAP, it does not provide a detailed exploration of any specific tools or their integration into Agile practices. The focus is mainly on the philosophy of Agile rather than how specific tools enable Agile workflows or improve collaboration. This diminishes its relevance to the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:38:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile values indirectly by emphasizing the importance of tailoring practices to fit unique team contexts and the dangers of envy and imitation. It encourages positive values such as generosity, kindness, and a customer-centric approach, which align with the philosophical foundation of Agile. However, the primary focus is more on behaviors (like avoiding imitation) than explicitly discussing core values as guiding principles. The depth of the discussion on creating a positive culture within Agile practices adds to the overall confidence.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:38:54",
+    "ai_confidence": 23.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content discusses the pitfalls of imitation in Agile practices, particularly in the context of the Spotify model, which touches on some philosophical concerns about decision-making within Agile. However, the focus remains heavily on specific practices and tools rather than delving into the foundational beliefs that underpin Agile methodology or its philosophical implications. The discussion does not explore deeper theoretical foundations or cultural aspects related to philosophy in Agile contexts, leading to a low confidence score aligning with the philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:38:54",
+    "ai_confidence": 55.0,
+    "ai_mentions": 10,
+    "ai_alignment": 26,
+    "ai_depth": 21,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses Agile methodologies in-depth and addresses the principles of authenticity, innovation, and adaptation rather than mere imitation. Although it makes pertinent observations about the errors of adopting models like the Spotify approach blindly, which connects with the concept of discipline, the focus remains largely on specific Agile practices and cultural aspects rather than a broader exploration of the discipline itself. Thus, while the topic touches upon aspects of discipline within Agile, it does not fully engage with the systemic maturation and governance of Agile practices, which lowers the confidence score.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:38:54",
+    "ai_confidence": 23.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content discusses themes related to Agile practices but does not mention or focus on artifacts such as Product Backlogs or Definition of Done. Instead, it emphasizes the dangers of imitation and the importance of customizing Agile practices. While there are elements of Agile discussed, they are more abstract principles rather than formal representations of work or artifacts that could be inspected or adapted.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:38:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses entirely on the dangers of envy in Agile practices, emphasizing imitation versus authenticity. There are no direct discussions on observability or its associated key topics such as metrics, logs, traces, or tools that enhance observability. Instead, it delves into decision-making and individual adaptation within Agile frameworks, which does not specifically address the principles or practices of observability. Thus, while there may be a tangential connection to Agile principles, there is insufficient alignment with the core themes of observability to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:38:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 7,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the dangers of imitation in Agile practices and emphasizes the need for teams to adapt practices to their specific context rather than copying others. While it does mention the importance of tailoring practices, the primary focus is more on the pitfalls of adopting external models (like the Spotify model) and fostering values rather than providing actionable, repeatable practices. The practical techniques or habits that enhance team performance are not the central theme, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:38:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the pitfalls of blindly copying Agile models, emphasizing the importance of tailoring practices to suit individual team needs. While it touches on Agile principles and encourages adaptation, it primarily focuses on the dangers of imitation rather than detailing specific structured procedures or methods like Scrum, Kanban, or Lean. The references to Agile practices are general, lacking depth in methodical approaches. Hence, while related, it does not strongly align with the 'Method' category requirements.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:38:55",
+    "ai_confidence": 57.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 57.0,
+    "reasoning": "The content focuses on the dangers of copying established Agile models, particularly the Spotify model, and emphasizes the importance of tailoring Agile practices to fit unique team contexts. It mentions the Spotify model directly and discusses the pitfalls of imitation, which indicates a recognition of conceptual models. However, while it offers some insights into personalization and adaptation, it does not dive deeply into any specific models or frameworks outlined in the 'Model' category definition. Thus, while there are relevant mentions and a moderate level of conceptual alignment and depth, the discussion remains more on the consequences of envy in Agile practices rather than providing a thorough exploration of decision-making frameworks or methodologies themselves.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "7deadlysinsAgileEnvy",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:38:55",
+    "ai_confidence": 57.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile practices and emphasizes the importance of adapting methodologies to fit specific team contexts, aligning with core themes of flexibility within frameworks. However, the primary focus is on the concept of envy and imitation rather than discussing specific Agile frameworks or how to implement them effectively, which lowers its overall alignment with the 'Framework' category.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:38:55",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the pitfalls of imitation and the importance of tailoring Agile practices to a team's unique context, which aligns with the tenet of decentralized decision-making in Agile. However, while it touches on actionable principles, it tends to focus more on general advice and values rather than providing direct, concrete tenets that guide decision-making and practices in Agile. The overall engagement with specific tenets is somewhat indirect and lacks the depth required to solidly classify as a primary focus on the category 'Tenet' while also emphasizing positive cultural values rather than solely actionable practices.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "4mkwTMMtKls",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:38:55",
+    "ai_confidence": 65.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the importance of tailoring Agile practices to suit unique team needs, which aligns with the capability theme of developing enduring competencies. It emphasizes the value of innovation, adaptation, and a culture of positivity in Agile, which supports the notion of cultivating capabilities over time. However, the content primarily focuses on cautioning against imitation and promoting individual journeys in Agile rather than deeply exploring the characteristics or measurement of capabilities. Thus, while there is relevant discussion, it does not fully meet the criteria for a robust capability-focused piece.",
+    "level": "Secondary"
   }
 }

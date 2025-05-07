@@ -2,41 +2,40 @@
 title: Why does project management not work in complex environments?
 description: 'Discover why traditional project management fails in complex environments. Martin Hinshelwood explains the need for agile solutions. #agile #projectmanagement'
 date: 2023-05-23T07:00:30Z
+weight: 840
 ResourceId: lvg9gSLntqY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: lvg9gSLntqY
 source: internal
 url: /resources/videos/:slug
-slug: why-does-project-management-not-work-in-complex-environments
+slug: why-does-project-management-not-work-in-complex-environments-lvg9gSLntqY
 layout: video
 preview: https://i.ytimg.com/vi/lvg9gSLntqY/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/why-does-project-management-not-work-in-complex-environments
-- /resources/videos/why-does-project-management-not-work-in-complex-environments-
-- /resources/videos/lvg9gSLntqY
-- /resources/why-does-project-management-not-work-in-complex-environments-
 - /resources/lvg9gSLntqY
-aliasesFor404:
+- /resources/videos/why-does-project-management-not-work-in-complex-environments-lvg9gSLntqY
+aliasesArchive:
+- /resources/videos/why-does-project-management-not-work-in-complex-environments
 - /resources/why-does-project-management-not-work-in-complex-environments
 - /resources/videos/why-does-project-management-not-work-in-complex-environments-
 - /resources/why-does-project-management-not-work-in-complex-environments-
+- why-does-project-management-not-work-in-complex-environments-lvg9gSLntqY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Complexity Thinking
+tags: []
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Uncategorized
 
 ---
-## Project Management in Intricate Environments
+## [Project Management]({{< ref "/tags/project-management" >}}) in Intricate Environments
 
 As Agile Consultants, we know that Project Management can falter in complex environments, so I wanted to spend a little time discussing _why_ traditional Project Management might not be the best fit for complex environments.
 
@@ -68,4 +67,4 @@ The following types of Project Management show the different approaches that sho
 
 Struggling to manage projects in complex environments?  🔔
 
-Explore my Agile and Scrum courses for a fresh perspective and effective tools!
+Explore my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses for a fresh perspective and effective tools!

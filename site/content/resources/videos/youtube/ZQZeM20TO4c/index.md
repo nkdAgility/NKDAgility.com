@@ -2,8 +2,10 @@
 title: Agile leader versus traditional manager
 description: 'Discover the key differences between an agile leader and a traditional manager in this insightful short video by Martin Hinshelwood. #Agile #Leadership'
 date: 2023-05-02T09:30:14Z
+weight: 690
 ResourceId: ZQZeM20TO4c
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZQZeM20TO4c
@@ -15,28 +17,20 @@ preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
 duration: 69
 isShort: false
 aliases:
-- /resources/agile-leader-versus-traditional-manager
-- /resources/agile-leader-vs-traditional-manager
-- /resources/videos/agile-leader-vs-traditional-manager
-- /resources/videos/ZQZeM20TO4c
 - /resources/ZQZeM20TO4c
-aliasesFor404:
+- /resources/videos/agile-leader-versus-traditional-manager
+- /resources/videos/agile-leader-vs-traditional-manager
+aliasesArchive:
+- /resources/videos/agile-leader-versus-traditional-manager
 - /resources/agile-leader-versus-traditional-manager
 - /resources/agile-leader-vs-traditional-manager
 - /resources/videos/agile-leader-vs-traditional-manager
+- agile-leader-versus-traditional-manager
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Agile Leadership
-- Organisational Agility
-- People and Process
-- Organisational Change
-- Resilience and Change
-- Business Agility
-- Market Adaptability
-- Agile Philosophy
-- Agile Transformation
 resourceTypes:
 - video
 categories:
@@ -49,16 +43,16 @@ A traditional manager, born out of customary organisational conventions, focuses
 
 An Instigator of Change
 
-In stark contrast, an Agile Leader embraces the responsibility of challenging conventional thinking, driving organisations towards a mindset shift. They focus less on controlling and more on empowering—enabling individuals and teams to make the necessary decisions and navigate their way. Agile Leaders do not adhere to the restrictive practices of traditional management. Instead, they facilitate open communication and foster an environment conducive to quick responses and market adaptability. 🎯
+In stark contrast, an Agile Leader embraces the responsibility of challenging conventional thinking, driving organisations towards a mindset shift. They focus less on controlling and more on empowering—enabling individuals and teams to make the necessary decisions and navigate their way. Agile Leaders do not adhere to the restrictive practices of traditional management. Instead, they facilitate open communication and foster an environment conducive to quick responses and [market adaptability]({{< ref "/tags/market-adaptability" >}}). 🎯
 
 In essence, the Agile Leader is not just a manager but a change agent who catalyses growth, fosters self-reliance, and leads organisations to thrive in an ever-evolving market landscape.
 
-If you're ready to transition from a traditional management approach to embrace Agile leadership, let's connect!🚀
+If you're ready to transition from a traditional management approach to embrace Agile [leadership]({{< ref "/categories/leadership" >}}), let's connect!🚀
 
-Keywords:        Agile Leadership, Traditional Management, Decision-Making, Change
+Keywords:        [Agile Leadership]({{< ref "/tags/agile-leadership" >}}), Traditional Management, Decision-Making, Change
 
 Hashtags:         #AgileLeadership #DecisionMaking #TraditionalManagement
 
 General
 
-#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+#Agile, #AgileCoach, #[Scrum]({{< ref "/categories/scrum" >}}), #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.

@@ -2,47 +2,66 @@
 title: 'Unlocking Continuous Delivery: How Feature Flags Transform Software Development'
 description: Unlock the power of feature flags for seamless software delivery! Discover how incremental releases and user feedback can transform your development process.
 date: 2025-01-16T06:45:00Z
+weight: 405
 ResourceId: YVrGU0oZmc0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YVrGU0oZmc0
 source: youtube
 url: /resources/videos/:slug
-slug: unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+slug: unlocking-continuous-delivery-how-feature-flags-transform-software-development
 layout: video
 aliases:
-- /resources/videos/YVrGU0oZmc0
-- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
-- /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/YVrGU0oZmc0
-aliasesFor404:
+- /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
+- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster-safer-deployments
+aliasesArchive:
+- /resources/videos/unlocking-continuous-delivery-how-feature-flags-transform-software-development
 - /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
 - /resources/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster,-safer-deployments
+- /resources/videos/unlocking-continuous-delivery-with-feature-flags-the-key-to-faster-safer-deployments
+- unlocking-continuous-delivery-how-feature-flags-transform-software-development
 preview: https://i9.ytimg.com/vi/YVrGU0oZmc0/maxresdefault.jpg?sqp=CKDMmrwG&rs=AOn4CLDPVXqxCxtvxC7uS6ZrcSzj_2vc6g
 duration: 557
 isShort: false
 tags:
-- Continuous Delivery
 - Software Development
+- Frequent Releases
+- Technical Excellence
+- Working Software
+- Release Management
+- Continuous Delivery
+- Product Delivery
+- Value Delivery
+- Deployment Frequency
+- Deployment Strategies
+- Pragmatic Thinking
+- Continuous Improvement
+- Azure DevOps
+- Operational Practices
+- Engineering Practices
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 categories:
+- Engineering Excellence
+- Product Development
 - DevOps
 
 ---
-In my journey through the world of software development, one practice has consistently stood out as a game changer for organisations striving for more frequent delivery: the use of feature flags. This approach not only facilitates continuous delivery but also allows teams to deploy new features to production incrementally, ensuring that they can gather valuable feedback before fully rolling out changes to all users.
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), one practice has consistently stood out as a game changer for organisations striving for more frequent delivery: the use of feature flags. This approach not only facilitates [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) but also allows teams to deploy new features to production incrementally, ensuring that they can gather valuable feedback before fully rolling out changes to all users.
 
 ### Embracing Incremental Delivery
 
 When we talk about continuous delivery, it’s essential to accept that we might deploy features that aren’t quite ready for the end user. This doesn’t mean we’re throwing caution to the wind; rather, it’s about delivering small increments of functionality. For instance, you might have a feature that requires multiple deployments to reach its final form. Imagine you want to deliver 10% of a feature now, with the remaining 90% to follow later. This is where feature flags come into play.
 
-#### A Real-World Example: Azure DevOps
+#### A Real-World Example: Azure [DevOps]({{< ref "/categories/devops" >}})
 
-The Azure DevOps team exemplifies this practice beautifully. When you log into their platform, you’ll notice a button in the top right corner that allows you to access preview features. This is a clear indication of how they manage feature flags. Here’s how it works:
+The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team exemplifies this practice beautifully. When you log into their platform, you’ll notice a button in the top right corner that allows you to access preview features. This is a clear indication of how they manage feature flags. Here’s how it works:
 
 - **Development Phase**: When developers are working on an update, they often ship smaller changes directly. However, for significant new functionalities, they hide these behind feature flags.
 - **Internal Testing**: Initially, the feature is enabled only for the developers’ accounts. They monitor telemetry to assess performance and identify any issues.

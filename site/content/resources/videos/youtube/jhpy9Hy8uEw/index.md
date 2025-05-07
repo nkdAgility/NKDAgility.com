@@ -2,8 +2,10 @@
 title: Why did you choose the Scrum.Org track rather than the Scrum Alliance track?
 description: Explore why Scrum.org is the preferred choice for Scrum training over Scrum Alliance. Uncover insights from an insider's journey to effective certification!
 date: 2023-02-24T07:00:14Z
+weight: 1000
 ResourceId: jhpy9Hy8uEw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: jhpy9Hy8uEw
@@ -15,37 +17,33 @@ preview: https://i.ytimg.com/vi/jhpy9Hy8uEw/maxresdefault.jpg
 duration: 303
 isShort: false
 aliases:
-- /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
-- /resources/videos/choosing-scrum-org-over-scrum-alliance!
-- /resources/videos/jhpy9Hy8uEw
-- /resources/choosing-scrum-org-over-scrum-alliance!
 - /resources/jhpy9Hy8uEw
-aliasesFor404:
+- /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
+- /resources/videos/choosing-scrum-org-over-scrum-alliance
+- /resources/videos/why-did-you-choose-the-scrum.org-track-rather-than-the-scrum-alliance-track
+aliasesArchive:
+- /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/videos/choosing-scrum-org-over-scrum-alliance!
 - /resources/choosing-scrum-org-over-scrum-alliance!
+- /resources/videos/choosing-scrum-org-over-scrum-alliance
+- why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
+- /resources/videos/why-did-you-choose-the-scrum.org-track-rather-than-the-scrum-alliance-track
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Personal
-- People and Process
-- Agile Frameworks
-- Continuous Learning
-- Agile Project Management
-- Agile Values and Principles
+tags: []
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
-Why did you choose the Scrum.Org track rather than the Scrum Alliance track?
+Why did you choose the [Scrum]({{< ref "/categories/scrum" >}}).Org track rather than the Scrum Alliance track?
 
 The initial decision to go with [www.scrum.org](http://www.scrum.org) or with [www.scrumalliance.org](http://www.scrumalliance.org) wasn’t really a decision at all, I kind of fell into the scrum.org track and pursued my skills development from there.
 
-A few months after Ken Schwaber left Scrum Alliance to launch Scrum.Org, I participated in scrum training with [Richard Hundhausen](https://www.scrum.org/richard-hundhausen), who created the Professional Scrum Developer course, which led to me being inspired to become a Professional Scrum Trainer with Scrum.Org.
+A few months after Ken Schwaber left Scrum Alliance to launch Scrum.Org, I participated in scrum training with [Richard Hundhausen](https://www.scrum.org/richard-hundhausen), who created the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Developer course, which led to me being inspired to become a Professional Scrum Trainer with Scrum.Org.
 
 I loved the experience, I loved the curriculum, and I loved being a part of such a powerful team who were creating valuable experiences in scrum training and scrum capability development.
 
@@ -63,19 +61,19 @@ A big criticism I have of the Scrum Alliance is that they insist that every pers
 
 If you have 4 certifications through Scrum Alliance, you are paying $200 every two years simply to keep a certification that you have already earned. Already paid for. If you have 4 certifications through Scrum.Org, it doesn’t cost you a penny to keep them.
 
-That focus on money to keep something that you have already earned and paid for doesn’t sit well with me. The idea that you would take away recognition and validation of someone’s achievement simply because they aren’t paying you every two years feels out of alignment with agile values and principles, as well as scrum values.
+That focus on money to keep something that you have already earned and paid for doesn’t sit well with me. The idea that you would take away recognition and validation of someone’s achievement simply because they aren’t paying you every two years feels out of alignment with [agile values and principles]({{< ref "/tags/agile-values-and-principles" >}}), as well as [scrum values]({{< ref "/tags/scrum-values" >}}).
 
 ### Locking people into an ecosystem
 
 Another sticky point is progression.
 
-If you have completed a Professional Scrum Master course and achieved the certification from Scrum.Org, you cannot achieve an Advanced Certified Scrum Master certification from Scrum Alliance.
+If you have completed a Professional [Scrum Master]({{< ref "/tags/scrum-master" >}}) course and achieved the certification from Scrum.Org, you cannot achieve an Advanced Certified Scrum Master certification from Scrum Alliance.
 
 You would need to repeat your original course with Scrum Alliance, in the form of the Certified Scrum Master course before you could progress.
 
 With Scrum.Org, you don’t even need to attend the course to validate your skills and knowledge, you can simply write the examination. If you have a Certified Scrum Master credential from the Scrum Alliance and want to progress to the Advanced Professional Scrum Master level, you can simply sign up for the course, write the exam, and increase your value to potential employers and clients with a more advanced qualification.
 
-Again, something that doesn’t sit well with me. I don’t think we should be locking people into a specific ecosystem if we are focused on growing the capabilities and competence of people who use, deploy, and implement scrum around the world.
+Again, something that doesn’t sit well with me. I don’t think we should be locking people into a specific ecosystem if we are focused on growing the capabilities and [competence]({{< ref "/tags/competence" >}}) of people who use, deploy, and implement scrum around the world.
 
 ### Community Development
 
@@ -85,7 +83,7 @@ If someone has developed a great exercise, great, that gets shared with the comm
 
 If a PST wants to learn from another Professional Scrum Trainer, they can reach out and request a co-training session to grow their experience and capability. They will often receive feedback and tips from the more experienced PST and improve the quality of the experience they can deliver to their training clients.
 
-It is great that Scrum.Org embody the scrum values. It really is about continuous improvement and creating a repository of knowledge and capability that lifts the whole community, improves the whole experience for everyone involved.
+It is great that Scrum.Org embody the scrum values. It really is about [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and creating a repository of knowledge and capability that lifts the whole community, improves the whole experience for everyone involved.
 
 These are the primary reasons why I have chosen to partner with Scrum.Org rather than explore opportunities with Scrum Alliance.
 

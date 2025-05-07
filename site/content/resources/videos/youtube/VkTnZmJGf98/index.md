@@ -2,8 +2,10 @@
 title: 'Evidence-Based Management: The Key to Agile Success'
 description: Unlock the power of evidence-based management to enhance agility! Discover how data-driven strategies drive market success and organisational growth.
 date: 2024-01-26T07:00:25Z
+weight: 790
 ResourceId: VkTnZmJGf98
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: VkTnZmJGf98
@@ -15,33 +17,45 @@ preview: https://i.ytimg.com/vi/VkTnZmJGf98/maxresdefault.jpg
 duration: 323
 isShort: false
 aliases:
-- /resources/evidence-based-management-the-key-to-agile-success
-- /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
-- /resources/videos/VkTnZmJGf98
-- /resources/why-evidence-based-management-how-has-it-improved-agile-
 - /resources/VkTnZmJGf98
-aliasesFor404:
+- /resources/videos/evidence-based-management-the-key-to-agile-success
+- /resources/videos/why-evidence-based-management-how-has-it-improved-agile
+aliasesArchive:
+- /resources/videos/evidence-based-management-the-key-to-agile-success
 - /resources/evidence-based-management-the-key-to-agile-success
 - /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
 - /resources/why-evidence-based-management-how-has-it-improved-agile-
+- /resources/videos/why-evidence-based-management-how-has-it-improved-agile
+- evidence-based-management-the-key-to-agile-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Evidence Based Management
 - Evidence Based Leadership
+- Evidence Based Management
+- Decision Making
+- Business Agility
+- Organisational Change
+- Pragmatic Thinking
+- Metrics and Learning
+- Market Adaptability
+- Agile Strategy
+- Organisational Agility
+- Value Delivery
+- Agile Transformation
+- Enterprise Agility
 resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
+- Product Development
 
 ---
-In the world of agile transformation, it’s easy to get caught up in the methods, frameworks, and terminology. But the real question is: Are these changes actually making your organization more successful? That’s where evidence-based management (EBM) comes in. Instead of focusing on delivering agile for the sake of agile, we need to turn our attention to **achieving business success**—with agile as a tool to help us get there.
+In the world of [agile transformation]({{< ref "/tags/agile-transformation" >}}), it’s easy to get caught up in the methods, frameworks, and terminology. But the real question is: Are these changes actually making your organization more successful? That’s where evidence-based management (EBM) comes in. Instead of focusing on delivering agile for the sake of agile, we need to turn our attention to **achieving business success**—with agile as a tool to help us get there.
 
 ## **Focusing Beyond Agile Delivery**
 
-One of the core problems that organizations face is a lack of real metrics to monitor progress. Research shows that despite the implementation of popular agile frameworks—whether it’s SAFe, LeSS, Nexus, or Scrum—most organizations aren't seeing the success they hoped for. Why? Because they’re **focusing on delivering agile**, not on what really matters: **business outcomes**.
+One of the core problems that organizations face is a lack of real metrics to monitor progress. Research shows that despite the implementation of popular [agile frameworks]({{< ref "/tags/agile-frameworks" >}})—whether it’s SAFe, LeSS, Nexus, or [Scrum]({{< ref "/categories/scrum" >}})—most organizations aren't seeing the success they hoped for. Why? Because they’re **focusing on delivering agile**, not on what really matters: **business outcomes**.
 
 Instead of asking, “Are we doing agile right?” we should be asking, “Are we making the necessary changes in our organization to succeed in the market?”
 
@@ -67,7 +81,7 @@ Agile helps us to:
 
 - Deliver value more efficiently 💡
 
-- Improve customer satisfaction 😊
+- Improve [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}) 😊
 
 However, none of this will matter if your organization doesn’t **adapt** to these new ways of working.
 
@@ -107,9 +121,9 @@ One of the core principles of evidence-based management is the understanding tha
 
 - **Unrealized value**: Markets you haven’t yet tapped into
 
-- **Ability to innovate**: Your organization’s capacity to introduce new ideas and products
+- **[Ability to innovate]({{< ref "/tags/ability-to-innovate" >}})**: Your organization’s capacity to introduce new ideas and products
 
-- **Time to market**: The speed at which you can deliver valuable products and services
+- **[Time to market]({{< ref "/tags/time-to-market" >}})**: The speed at which you can deliver valuable products and services
 
 By monitoring these key metrics, you can **make better decisions** and ensure your business is heading in the right direction.
 
@@ -117,7 +131,7 @@ By monitoring these key metrics, you can **make better decisions** and ensure yo
 
 EBM provides a structured framework that allows you to **balance these different business values**:
 
-- **Current value**: What is the organization delivering today?
+- **[Current value]({{< ref "/tags/current-value" >}})**: What is the organization delivering today?
 
 - **Unrealized value**: What future value can we capture?
 

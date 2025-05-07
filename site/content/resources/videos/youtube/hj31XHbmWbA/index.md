@@ -2,38 +2,42 @@
 title: "Quotes: You can't connect the dots looking forward; you can only connect them looking backwards. Steve Jobs"
 description: "Explore Steve Jobs' insight on connecting the dots in product development with Martin Hinshelwood. Discover the power of agile with Naked Agility! #shorts"
 date: 2023-10-13T11:00:40Z
+weight: 1000
 ResourceId: hj31XHbmWbA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hj31XHbmWbA
 source: internal
 url: /resources/videos/:slug
-slug: quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
+slug: quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
 layout: video
 preview: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg
 duration: 46
 isShort: true
 aliases:
-- /resources/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
-- /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
-- /resources/videos/hj31XHbmWbA
-- /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 - /resources/hj31XHbmWbA
-aliasesFor404:
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
+- /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
+aliasesArchive:
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 - /resources/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 - /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 - /resources/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
+- /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
+- quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
+- /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Decision Theory
-- Sensemaking
+tags: []
 resourceTypes:
 - video
 categories:
-- Product Management
+- Product Development
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

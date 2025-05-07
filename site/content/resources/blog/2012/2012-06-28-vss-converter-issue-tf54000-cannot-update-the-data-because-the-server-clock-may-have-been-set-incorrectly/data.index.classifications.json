@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses a technical issue related to VSS and TFS, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:24:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific error related to VSS import and its workaround, without focusing on broader Agile or DevOps tools, methodologies, or frameworks.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T20:24:33",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:24:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS import and server clock synchronisation, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:24:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific error related to VSS import and migration issues, without addressing code quality or complexity principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:24:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS import and TFS, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:24:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a specific error related to VSS import and TFS migration, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to a specific error during a VSS import process, with no direct mention of Evidence-Based Management principles or metrics. While it touches on a problem-solving approach, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management. The depth of discussion is limited to troubleshooting a technical error, which does not contribute to the understanding of EBM.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 55.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses an issue related to the installation and configuration process of VSS Converter and Team Foundation Server, but it primarily focuses on a specific error rather than providing a comprehensive guide or instructions.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses a specific error encountered during the installation or migration process of VSS Converter and provides a workaround. While it does not offer a comprehensive guide on installation or configuration, it addresses a technical issue related to the configuration of server time settings during a migration, which aligns with the category's focus. However, the depth of discussion is limited to a specific error and workaround, lacking broader installation or configuration insights.",
     "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:24:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS import and server clock synchronisation, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses a technical issue related to VSS and TFS without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:24:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to a specific error during a VSS import, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:24:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific error related to VSS import and TFS migration, which does not align with the core principles or practices of DevOps.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific error related to VSS import and TFS, which does not align with the core principles of DevOps. While it touches on a technical issue that may occur during a migration process, it lacks a focus on DevOps philosophy, practices, or cultural shifts. The mention of TFS and migration processes is more aligned with project management and technical troubleshooting rather than the collaborative and automated nature of DevOps.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses a technical issue related to VSS import and server clock synchronisation, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T20:24:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS import and TFS, with no reference to events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:24:51",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific error related to VSS import and migration issues, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:24:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS and TFS without addressing human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:24:56",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to VSS import and TFS, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses a technical issue related to VSS import and TFS, with no focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T20:25:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS Converter and TFS, with no focus on products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T20:25:06",
@@ -305,7 +233,7 @@
     "reasoning": "Content primarily discusses a specific technical issue related to VSS import and time synchronisation, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T20:25:11",
     "ai_confidence": 0,
@@ -316,11 +244,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:25:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS import and TFS, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a technical issue related to VSS import and a specific error message, with no mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with the core themes of the category, nor does it provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily discusses a technical issue related to VSS import and TFS, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T20:25:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS Converter and TFS, without any focus on news, reviews, or industry updates.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T20:25:16",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific error encountered during a VSS import process, which is not central to the broader topic of Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:25:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS and TFS, with no mention of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +283,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to VSS migration and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
@@ -397,11 +310,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to a specific data migration issue and does not address Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses a specific error encountered during a VSS import process, which is not directly related to Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth on relevant topics such as automation, incremental improvements, or user feedback. The focus is on troubleshooting a technical issue rather than exploring Continuous Delivery as a discipline.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +331,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical error related to server clock misconfiguration during a VSS import, not Lead Time.",
     "level": "Ignored"
   },
@@ -433,10 +349,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a technical issue related to a specific error in VSS import and does not discuss the Definition of Ready or its principles.",
     "level": "Ignored"
   },
@@ -496,10 +412,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a technical issue related to VSS import and TFS, which is not relevant to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -559,10 +475,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily addresses a technical issue related to VSS import and migration in Team Foundation Server, with no focus on team performance, collaboration, or Agile principles.",
     "level": "Ignored"
   },
@@ -586,28 +502,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific error related to VSS (Visual SourceSafe) and Team Foundation Server during a software data migration process, which is related to software development practices, but is more focused on troubleshooting rather than broader software development methodologies or principles.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical error related to VSS and TFS without any reference to agile methodologies or principles.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses a specific error encountered during a software migration process involving Visual Studio Team Foundation Server (TFS). While it does not explicitly mention broader software development methodologies or practices, it aligns with the category by addressing a technical issue related to software development tools and processes. The depth of discussion is moderate, providing a workaround for the error, but lacks extensive detail on software development practices or methodologies.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on a technical issue related to VSS and TFS migration, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +611,6 @@
     "reasoning": "Content primarily discusses a technical issue related to VSS and TFS, with no focus on customer satisfaction or related principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to Visual Studio Team Foundation Server and does not discuss Scrum principles, scaling frameworks, or related topics.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:31:23",
@@ -726,15 +627,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to VSS import and server clock synchronization, with no mention of psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific technical issue related to a software migration error and does not address scaling agile practices or principles.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +694,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to a specific error in VSS Converter and does not address the Ability to Innovate or related concepts.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a specific error related to data migration in Visual Studio Team Foundation Server, which is unrelated to Scrum product development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a specific error encountered during a VSS import and provides a workaround, with no reference to scaling Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -937,10 +811,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a technical issue related to a specific error during a VSS migration process, with no focus on decision-making methodologies or evidence-based practices.",
     "level": "Ignored"
   },
@@ -973,10 +847,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a specific error related to VSS import and server clock synchronization, without any reference to Cycle Time or its implications in Agile or DevOps.",
     "level": "Ignored"
   },
@@ -1009,10 +883,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to a specific error in Visual Studio Team Foundation Server, without any focus on team collaboration or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1034,7 +908,7 @@
     "reasoning": "Content primarily discusses a specific technical issue related to data migration in Visual Studio Team Foundation Server, with no focus on digital transformation themes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:31:23",
     "ai_confidence": 0,
@@ -1043,22 +917,16 @@
     "reasoning": "Content focuses on a technical issue related to a Visual Studio migration error and does not discuss Minimum Viable Product concepts or product development relevant to MVP.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on a technical issue related to VSS and TFS migration, with no discussion of AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content discusses a specific issue related to a system operation (TF54000 error) that can be related to system configuration and time synchronization, indicating a significant but secondary theme of configuration management during a migration process.",
+    "reasoning": "The content discusses a specific error related to system configuration during a migration process, particularly focusing on time synchronisation issues that can affect data updates. While it does touch on a configuration-related problem, the discussion is more about troubleshooting a specific error rather than a comprehensive exploration of system configuration practices or methodologies. Therefore, it has some relevance but lacks depth and broader alignment with the category's key topics.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1099,21 +967,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a technical issue related to VSS migration and time synchronization, with no focus on Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific error encountered during a VSS import process, focusing on a workaround for a server clock issue. It does not mention Test First Development principles, success criteria, or any related testing practices. The discussion is entirely centred on a technical problem and its resolution, with no relevance to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses an issue related to Visual Studio and Team Foundation Server, which are part of the Windows ecosystem, but the primary focus is on a specific error during data migration rather than general Windows operating system topics.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific error (TF54000) related to Visual Studio Team Foundation Server (TFS) and its interaction with time synchronisation, which is relevant to Windows environments. However, it does not explicitly focus on Windows as an operating system, nor does it cover broader topics such as installation, configuration, or troubleshooting of Windows itself. The mention of Active Directory suggests a Windows context, but the primary focus is on TFS and VSS Converter, which limits the depth of discussion regarding Windows. Therefore, while there is some relevance, it does not fully align with the core themes of the Windows category.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1135,10 +1009,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:31:23",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to Visual Studio Team Foundation Server and does not address team dynamics, motivation, or engagement.",
     "level": "Ignored"
   },
@@ -1162,12 +1036,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content clearly addresses a specific technical issue (TF54000 error during VSS import) and provides a diagnosis of its cause as well as a workaround, making troubleshooting the central topic.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses a specific error (TF54000) encountered during a VSS import, detailing the issue and its root cause related to server clock synchronisation. It provides a clear workaround, which aligns well with troubleshooting methodologies. The depth of discussion includes the identification of the problem, its implications, and a practical solution, demonstrating a strong focus on diagnosing and resolving a technical issue.",
+    "level": "Primary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1180,11 +1057,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses entirely on a technical issue related to VSS and TFS, with no references to Scrum Master responsibilities or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a technical issue related to VSS import and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related concepts. It is unrelated to Scrum methodology or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1083,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to VSS and TFS migrations, with no focus on working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a specific error encountered during a VSS import process, which is not related to the role of software developers within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1202,6 @@
     "reasoning": "Content primarily addresses a technical issue related to VSS import errors and time synchronization, without any relevant discussion on accountability in Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:31:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to data migration and server clock synchronization, with no relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T21:31:23",
@@ -1360,11 +1222,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:52:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to VSS Converter and TFS, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical issue related to VSS import and server clock synchronisation, with no discussion of collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their principles, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1239,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses a technical issue related to VSS and TFS, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:24:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a specific error related to VSS import and TFS, with no focus on Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:24:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a technical issue related to VSS and TFS migration, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not mention Scrum or its principles, roles, events, or artifacts. It focuses on a technical issue related to VSS and TFS, which is unrelated to Scrum practices or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses a specific error related to VSS import and migration issues in Team Foundation Server, with no direct mention or alignment to the Shift-Left Strategy. It does not address testing, security, or compliance processes early in the development lifecycle, nor does it provide insights into the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily addresses a specific technical issue related to a VSS import error and provides a workaround. It does not discuss Continuous Improvement principles, nor does it reflect on processes, team effectiveness, or empirical evidence. The focus is on troubleshooting rather than fostering a culture of experimentation or learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to a specific error during a VSS import process. It does not mention or align with the principles of Common Goals in Agile or DevOps, nor does it provide any discussion on shared objectives or strategic alignment. The focus is entirely on troubleshooting a technical problem, which is outside the scope of the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on a technical issue related to a specific error during a VSS import process. While it discusses a workaround for the error, it does not address the principles of competence, continuous learning, or skill development in Agile or DevOps environments. The mention of a workaround does not delve into the importance of competence or professional development, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to a specific error during a VSS import process, focusing on troubleshooting and workarounds. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in either human or AI contexts. The discussion is strictly technical and lacks any mention of the principles or implications of Agentic Agility.",
     "level": "Ignored"
   }
 }

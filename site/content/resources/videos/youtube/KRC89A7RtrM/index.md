@@ -1,39 +1,80 @@
 ---
-title: Some of the features of Team Web Access are not available to you in TFS 2013
-description: Discover why some Team Web Access features are missing in TFS 2013 and learn how to unlock them in this informative video!
+title: 'Unlocking TFS: Mastering Permissions for Seamless Team Collaboration'
+description: Unlock TFS's full potential! Learn how to navigate permissions and access levels to enhance your project management experience effortlessly.
 date: 2014-01-15T14:55:37Z
+weight: 1000
 ResourceId: KRC89A7RtrM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KRC89A7RtrM
 url: /resources/videos/:slug
-slug: some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
+slug: unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=KRC89A7RtrM
 aliases:
-- /resources/videos/KRC89A7RtrM
-- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
-- /resources/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 - /resources/KRC89A7RtrM
-aliasesFor404:
+aliasesArchive:
+- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 - /resources/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
+- /resources/videos/unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
+- unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
 duration: 164
 isShort: false
-tags:
-- Troubleshooting
+tags: []
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
- Have you ever seen the massage "Some of the features of Team Web Access are not available to you" when you access TFS 2013? Have you wondered how to get access to those features? Find out here.
+When I first opened Team Foundation Server (TFS), I encountered a common hurdle that many users face: a message indicating that some features of Team Web Access were not visible to me. Initially, I was directed to an MSDN article that promised a solution, but I quickly realised that the fix was much simpler than it seemed. The key? Having the right administrative access on the TFS server—not just on the collection, but on the entire server itself.
 
-More videos and blogs on http://nakedalm.com/blog 
- [Watch on Youtube](https://www.youtube.com/watch?v=KRC89A7RtrM)
+### Navigating TFS Permissions
+
+To resolve this issue, I found that the first step was to access the administration settings. Here’s how you can do it:
+
+1. **Access the Admin Settings**: Click on the little cog icon in the top right corner of your TFS interface. This will take you to the administration section.
+   
+2. **Control Panel Navigation**: From there, navigate all the way up to the Control Panel view. Here, you’ll find an **Access Levels** tab.
+
+3. **Configure User Permissions**: In the Access Levels section, you can configure which users have permission to access various features based on their licensing level.
+
+### Understanding Access Levels
+
+TFS offers several access levels, each with its own set of permissions:
+
+- **Limited Access**: This level allows users to view their work items without needing a Client Access License (CAL). It’s a basic level of access that’s great for users who only need to see their tasks.
+
+- **Standard Access**: This is the default access level, which requires a CAL. Users in this group can view all standard features, including:
+  - Work item views
+  - Agile boards
+  - Backlog and sprint planning tools
+  - Chart viewing capabilities
+
+- **Full Access**: For those who need comprehensive features, the Full Access level is essential. This includes:
+  - Agile portfolio tools
+  - Team rooms
+  - Test case management
+
+However, to access these features, you must have one of the higher-level CALs, such as Test Professional with MSDN, Premium with MSDN, or Ultimate with MSDN.
+
+### Setting Default Access Levels
+
+In my case, since everyone accessing my local server had the Ultimate level, I was able to set this as the default access level. After making this change, I simply refreshed my TFS server, and voilà! The extra features appeared, including:
+
+- Request feedback options
+- Enhanced backlog views with agile portfolio management features
+- A dedicated test tab for additional functionalities
+
+### Conclusion
+
+Configuring permissions in TFS can seem daunting at first, but with the right administrative access and understanding of the access levels, it becomes a straightforward process. By ensuring that your team has the appropriate access, you can unlock the full potential of TFS and streamline your project management efforts.
+
+If you find yourself struggling with TFS permissions, remember that the solution often lies in the details of your access levels. Don’t hesitate to reach out to your TFS administrator for assistance, and soon enough, you’ll be navigating the platform with ease.

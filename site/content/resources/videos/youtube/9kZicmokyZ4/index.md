@@ -2,45 +2,54 @@
 title: The Importance of Evidence-Based Management in Agile Environments
 description: 'Discover 5 compelling reasons to adopt Evidence-Based Management in your Agile environment. Transform your approach and drive measurable success! #EBM #Agile #Shorts'
 date: 2024-01-22T11:00:07Z
+weight: 690
 ResourceId: 9kZicmokyZ4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9kZicmokyZ4
 source: internal
 url: /resources/videos/:slug
-slug: the-importance-of-evidence-based-management-in-agile-environments
+slug: the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
 layout: video
 preview: https://i.ytimg.com/vi/9kZicmokyZ4/maxresdefault.jpg
 duration: 29
 isShort: true
 aliases:
-- /resources/the-importance-of-evidence-based-management-in-agile-environments
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
-- /resources/videos/9kZicmokyZ4
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
 - /resources/9kZicmokyZ4
-aliasesFor404:
+- /resources/videos/the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
+- /resources/videos/the-importance-of-evidence-based-management-in-agile-environments
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
+aliasesArchive:
+- /resources/videos/the-importance-of-evidence-based-management-in-agile-environments
 - /resources/the-importance-of-evidence-based-management-in-agile-environments
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
+- the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
-- Metrics and Learning
-- Value Delivery
 - Evidence Based Management
-- Evidence Based Leadership
-- Empirical Process Control
-- Pragmatic Thinking
 - Decision Making
+- Evidence Based Leadership
+- Continuous Improvement
+- Agile Product Management
+- Software Development
 - Operational Practices
+- Pragmatic Thinking
+- Empirical Process Control
 - Ability to Innovate
+- Metrics and Learning
+- Agile Transformation
+- Agile Strategy
+- Current Value
+- Organisational Agility
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---
@@ -58,11 +67,11 @@ At its core, it’s about **measuring** the impact of changes you make to your s
 
 There are several critical areas that evidence-based management focuses on:
 
-- **Current Value**: Are you delivering value to the customer right now?
+- **[Current Value]({{< ref "/tags/current-value" >}})**: Are you delivering value to the customer right now?
 
-- **Time to Market**: How quickly can you respond to customer needs and market changes?
+- **[Time to Market]({{< ref "/tags/time-to-market" >}})**: How quickly can you respond to customer needs and market changes?
 
-- **Ability to Innovate**: Can your team come up with new ideas and implement them effectively?
+- **[Ability to Innovate]({{< ref "/tags/ability-to-innovate" >}})**: Can your team come up with new ideas and implement them effectively?
 
 - **Unrealized Value**: What opportunities are you missing out on?
 
@@ -96,11 +105,11 @@ So, how can you start measuring success in your own Agile environment? The proce
 
 First, figure out what metrics matter most to your team and organization. These might include:
 
-- **Customer Satisfaction**: Are you meeting customer expectations?
+- **[Customer Satisfaction]({{< ref "/tags/customer-satisfaction" >}})**: Are you meeting customer expectations?
 
-- **Cycle Time**: How long does it take to get work done from start to finish?
+- **[Cycle Time]({{< ref "/tags/cycle-time" >}})**: How long does it take to get work done from start to finish?
 
-- **Employee Engagement**: Is the team motivated and satisfied with their work?
+- **[Employee Engagement]({{< ref "/tags/employee-engagement" >}})**: Is the team motivated and satisfied with their work?
 
 These metrics give you tangible evidence to gauge your performance.
 
@@ -128,15 +137,15 @@ This process creates a **feedback loop**:
 
 Implementing EBM in your Agile environment empowers teams in several ways:
 
-### **1\. Informed Decision Making**
+### **1\. Informed [Decision Making]({{< ref "/tags/decision-making" >}})**
 
 Rather than relying on gut feelings or assumptions, teams make decisions based on **hard data**. This reduces the risk of making changes that don’t add value and ensures every action is intentional.
 
-### **2\. Transparency**
+### **2\. [Transparency]({{< ref "/tags/transparency" >}})**
 
 Data provides transparency. When teams and stakeholders can see real evidence of performance, it eliminates confusion and misalignment. Everyone is on the same page about what’s working and what isn’t.
 
-### **3\. Continuous Improvement**
+### **3\. [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
 
 Agile is all about adapting and improving. EBM helps create a culture of continuous improvement by providing a clear picture of progress. When teams can measure their improvements, they are more motivated to keep pushing for better results.
 

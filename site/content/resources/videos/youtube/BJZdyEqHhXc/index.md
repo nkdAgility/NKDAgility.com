@@ -2,36 +2,40 @@
 title: 'Empowering Your Team: Why Quick Fixes in Agile and DevOps Are a Myth'
 description: Discover why quick fixes in Agile and DevOps fail. Learn how to empower your team for sustainable change and embrace the journey of continuous improvement.
 date: 2024-05-09T06:45:00Z
+weight: 610
 ResourceId: BJZdyEqHhXc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BJZdyEqHhXc
 url: /resources/videos/:slug
-slug: nkd-agility-consulting-approach
+slug: empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 layout: video
 aliases:
-- /resources/videos/BJZdyEqHhXc
-- /resources/videos/nkd-agility-consulting-approach
-- /resources/nkd-agility-consulting-approach
 - /resources/BJZdyEqHhXc
-aliasesFor404:
+- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
+- /resources/videos/nkd-agility-consulting-approach
+aliasesArchive:
+- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 - /resources/videos/nkd-agility-consulting-approach
 - /resources/nkd-agility-consulting-approach
+- empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 isShort: false
 tags:
-- People and Process
-- Resilience and Change
-- Change Management
-- Organisational Change
-- Organisational Agility
-- Sensemaking
+- Agile Philosophy
+- Competence
 - Pragmatic Thinking
-- Decision Making
-- Sociotechnical Systems
-- Business Agility
+- Continuous Improvement
+- Software Development
+- Personal
+- Agile Leadership
+- Change Management
+- Continuous Learning
+- Organisational Culture
+- Social Technologies
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,10 +43,12 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
+- Product Development
+- DevOps
+- Technical Leadership
 
 ---
-In my journey through the world of Agile and DevOps, I've often encountered a common misconception: the belief that an external party can swoop in and provide a one-size-fits-all solution to an organisation's challenges. This notion is not only misguided but also detrimental to the very essence of what it means to be agile. 
+In my journey through the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I've often encountered a common misconception: the belief that an external party can swoop in and provide a one-size-fits-all solution to an organisation's challenges. This notion is not only misguided but also detrimental to the very essence of what it means to be agile. 
 
 ### The Fallacy of the Quick Fix
 
@@ -50,7 +56,7 @@ When organisations seek out big consulting firms or adopt popular frameworks, th
 
 - **Consultants vs. Contractors**: It's crucial to differentiate between the two. Many firms market themselves as consultants, but in reality, they are merely providing contractors to fill roles. This approach does little to empower the organisation. When you hire a contractor, you're essentially outsourcing a critical part of your business. This can lead to a knowledge gap, as the contractor may not be incentivised to share their expertise with your team.
 
-- **The Gymnast Analogy**: Imagine wanting to become a gymnast. You can't simply hire someone to perform the routines for you and expect to become a gymnast yourself. The same principle applies to organisational change. You must engage your team in the process, allowing them to learn and grow rather than relying on external parties to do the work for them.
+- **The Gymnast Analogy**: Imagine wanting to become a gymnast. You can't simply hire someone to perform the routines for you and expect to become a gymnast yourself. The same principle applies to [organisational change]({{< ref "/tags/organisational-change" >}}). You must engage your team in the process, allowing them to learn and grow rather than relying on external parties to do the work for them.
 
 ### The Role of a Consultant
 
@@ -68,6 +74,6 @@ In my experience, the journey towards agility is not a straight path. It require
 
 - **Encourage Collaboration**: Foster a culture of collaboration where knowledge sharing is encouraged. This not only enhances team dynamics but also builds a more resilient organisation.
 
-- **Focus on Continuous Improvement**: Embrace the idea that change is an ongoing process. Regularly reflect on your practices and be open to adapting as needed.
+- **Focus on [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Embrace the idea that change is an ongoing process. Regularly reflect on your practices and be open to adapting as needed.
 
 In conclusion, the path to agility is not about finding a quick fix or relying on external parties to solve your problems. It's about empowering your team, fostering a culture of learning, and embracing the journey of change together. By doing so, you will not only enhance your organisation's capabilities but also create a sustainable environment where agility can flourish.

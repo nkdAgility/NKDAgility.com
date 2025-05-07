@@ -2,43 +2,49 @@
 title: The Power of Peer Feedback in Immersive Learning
 description: Discover how immersive learning enhances your skills as a Scrum practitioner in this engaging video. Unlock your potential with NKD Agility!
 date: 2024-02-07T07:00:27Z
+weight: 1000
 ResourceId: yQlrN2OviCU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: yQlrN2OviCU
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-peer-feedback-in-immersive-learning
+slug: the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
 layout: video
 preview: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg
 duration: 47
 isShort: true
 aliases:
-- /resources/the-power-of-peer-feedback-in-immersive-learning
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
-- /resources/videos/yQlrN2OviCU
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 - /resources/yQlrN2OviCU
-aliasesFor404:
+- /resources/videos/the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
+- /resources/videos/the-power-of-peer-feedback-in-immersive-learning
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+aliasesArchive:
+- /resources/videos/the-power-of-peer-feedback-in-immersive-learning
 - /resources/the-power-of-peer-feedback-in-immersive-learning
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
+- the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Discovery and Learning
 - Continuous Learning
+- Pragmatic Thinking
+- Team Collaboration
+- Coaching
+- Team Performance
 resourceTypes:
 - video
-categories: []
+categories:
+- Product Development
 
 ---
-In the world of Scrum and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.
+In the world of [Scrum]({{< ref "/categories/scrum" >}}) and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.
 
-As a Scrum Trainer, I’ve seen firsthand the benefits of peer feedback in training sessions. It fosters a deeper connection to the material and drives tangible improvements in how participants implement Scrum techniques in their organizations. Let’s explore how peer feedback within immersive learning can supercharge your journey to becoming an effective Scrum Master.
+As a Scrum Trainer, I’ve seen firsthand the benefits of peer feedback in training sessions. It fosters a deeper connection to the material and drives tangible improvements in how participants implement Scrum techniques in their organizations. Let’s explore how peer feedback within immersive learning can supercharge your journey to becoming an effective [Scrum Master]({{< ref "/tags/scrum-master" >}}).
 
 ## **What Is Immersive Learning?**
 
@@ -88,7 +94,7 @@ One of the frustrations many people face in traditional training is not knowing 
 
 By sharing experiences and discussing challenges, participants are contributing to a **bigger pool of experiential knowledge**. This shared knowledge isn’t theoretical—it’s based on what has worked (or hasn’t worked) in the real world. It becomes a resource you can tap into long after the training session ends.
 
-### **3\. Continuous Improvement**
+### **3\. [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
 
 Scrum is all about **continuous improvement**, and peer feedback supports this mindset. You’re not just learning in isolation—you’re learning from others, refining your approach, and improving based on real feedback. This continuous feedback loop accelerates growth and development as a Scrum Master.
 

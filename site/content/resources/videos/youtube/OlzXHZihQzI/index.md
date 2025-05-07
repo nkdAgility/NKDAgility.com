@@ -2,47 +2,51 @@
 title: Unlocking the Power of Immersive Learning in Agile
 description: 'Discover 5 reasons why immersive learning transforms Scrum training for students! Join us for insights that inspire and elevate your Agile journey. #Scrum #Agile'
 date: 2024-02-03T07:00:12Z
+weight: 690
 ResourceId: OlzXHZihQzI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OlzXHZihQzI
 source: internal
 url: /resources/videos/:slug
-slug: unlocking-the-power-of-immersive-learning-in-agile
+slug: unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
 layout: video
 preview: https://i.ytimg.com/vi/OlzXHZihQzI/maxresdefault.jpg
 duration: 45
 isShort: true
 aliases:
-- /resources/unlocking-the-power-of-immersive-learning-in-agile
-- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
-- /resources/videos/OlzXHZihQzI
-- /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 - /resources/OlzXHZihQzI
-aliasesFor404:
+- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
+- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
+- /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile
 - /resources/unlocking-the-power-of-immersive-learning-in-agile
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+- unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
 - Continuous Learning
-- People and Process
 - Organisational Agility
+- Software Development
+- Agile Transformation
+- Agile Philosophy
+- Pragmatic Thinking
+- Agile Values and Principles
 resourceTypes:
 - video
 categories:
-- Leadership
-- Social Technologies
-- Scrum
+- Product Development
 
 ---
 In today’s fast-paced, ever-evolving workplace, Agile practices are becoming a cornerstone for teams looking to deliver value, adapt, and innovate quickly. But how do we ensure that teams and individuals truly _internalize_ Agile principles? How do we create an environment where Agile becomes second nature, rather than just a series of rituals to follow? This is where **immersive learning** shines.
 
-As a professional Scrum Trainer, I’ve seen firsthand the transformational impact that immersive learning has on Agile students. It’s not about spoon-feeding information or forcing change—it’s about creating a space where students can organically adapt their mental models, one experience at a time.
+As a professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve seen firsthand the transformational impact that immersive learning has on Agile students. It’s not about spoon-feeding information or forcing change—it’s about creating a space where students can organically adapt their mental models, one experience at a time.
 
 Let’s dive into the power of immersive learning, how it helps Agile students transform, and why it’s such a game-changer for both organizations and individuals.
 
@@ -56,9 +60,9 @@ Immersive learning takes a hands-on, experiential approach to education. It move
 
 - 💡 **Mental model shifts:** The most significant outcome is that students naturally shift their mental models to think and act in a more Agile way, without being forced to do so.
 
-## **Why Mental Models Matter in Agile Transformation**
+## **Why Mental Models Matter in [Agile Transformation]({{< ref "/tags/agile-transformation" >}})**
 
-**Mental models** are the frameworks through which we interpret the world. In an Agile environment, these models need to evolve. Traditional models—where hierarchy, long-term planning, and strict processes rule—don’t work in today’s fast-moving and unpredictable world. Instead, teams need to adopt models that allow for adaptability, collaboration, and continuous learning.
+**Mental models** are the frameworks through which we interpret the world. In an Agile environment, these models need to evolve. Traditional models—where hierarchy, long-term planning, and strict processes rule—don’t work in today’s fast-moving and unpredictable world. Instead, teams need to adopt models that allow for adaptability, collaboration, and [continuous learning]({{< ref "/tags/continuous-learning" >}}).
 
 One of the key benefits of immersive learning is that it doesn’t impose these new mental models on students. You can lead a horse to water, but you can’t make it drink, right? 🌊 It’s the same with mental models—you can’t force someone to change how they think. But when they experience Agile in action—when they _see_ how Agile works and how it doesn’t—these models begin to shift organically.
 
@@ -110,9 +114,9 @@ As students go through this journey, they begin to see the _why_ behind Agile pr
 
 ## **Practical Tips for Embracing Immersive Learning**
 
-If you’re a Scrum Master, Agile Coach, or team leader looking to implement immersive learning, here are some practical tips to get started:
+If you’re a [Scrum Master]({{< ref "/tags/scrum-master" >}}), Agile Coach, or team leader looking to implement immersive learning, here are some practical tips to get started:
 
-- **Create a safe environment for experimentation:** Encourage your team to make mistakes and learn from them.
+- **Create a safe environment for [experimentation]({{< ref "/tags/experimentation" >}}):** Encourage your team to make mistakes and learn from them.
 
 - **Use real-world scenarios:** Base your learning exercises on actual challenges your team is facing.
 

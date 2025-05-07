@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-14T22:12:49",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T22:12:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps and techniques involved in upgrading to TFS 2015, including backup procedures, installation processes, and configuration settings, which align with the category's focus on practical application of tools and methodologies.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,66 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T22:12:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T22:12:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2015, focusing on installation steps and configurations, without addressing code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T22:12:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical details of upgrading TFS 2015, with no significant emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T22:12:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not address AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to TFS 2015, including installation steps and configurations. It does not discuss Evidence-Based Management principles or metrics, nor does it provide any empirical evidence or data-informed decision-making insights. The mention of best practices is too vague and does not align with the core themes of EBM.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-14T22:12:59",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T22:13:00",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, including detailed steps for installation, configuration, and troubleshooting, which aligns closely with the category of Install and Configuration.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed account of upgrading a production system to TFS 2015, including specific installation steps, configuration requirements, and troubleshooting advice. It explicitly discusses the installation process, necessary preparations, and potential issues that may arise during the upgrade, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is substantial, covering various aspects of the upgrade process, including database settings, permissions, and configuration checks, which further supports a high confidence score.",
     "level": "Primary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T22:13:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015 without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T22:13:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015, which is relevant to DevOps practices, particularly in terms of deployment and system management. However, it primarily focuses on the technical aspects of the upgrade rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, which is a specific tool rather than discussing the broader DevOps philosophy. While it touches on some relevant practices such as backup strategies and configuration management, it lacks a comprehensive exploration of DevOps principles like collaboration, automation, and shared accountability. The discussion is more about the upgrade process than about the cultural and philosophical shifts associated with DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, including installation procedures and configurations, without focusing on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T22:13:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical upgrade process for TFS 2015 and does not reference any events, presentations, or discussions related to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T22:13:14",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015, focusing on technical details and procedures rather than optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T22:13:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no significant focus on team dynamics, collaboration, or human factors in processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T22:13:20",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, including installation procedures and configurations, without focusing on metrics, data utilisation, or learning principles.",
     "level": "Ignored"
   },
@@ -208,11 +145,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015, including technical considerations, backup strategies, and configuration details, which are relevant to engineering practices. However, the primary focus is on the upgrade itself rather than broader engineering methodologies or principles.",
+    "reasoning": "The content primarily focuses on the practical aspects of upgrading TFS 2015, including backup strategies and installation procedures. While it touches on some technical practices, such as ensuring backups and verifying configurations, it lacks a deeper discussion on broader engineering methodologies or principles that enhance agility and technical excellence in software development. The mention of best practices is limited and does not explore the implications of these practices on team collaboration or project success.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -235,12 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015 in a production environment, which relates to deployment and configuration aspects of product delivery. However, it primarily focuses on the technical steps of the upgrade rather than broader methodologies or practices in product delivery.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2015 in a production environment, which is a specific aspect of product delivery. It discusses practical steps taken during the upgrade, including backup strategies, configuration checks, and considerations for deployment. While it does not explicitly mention broader product delivery methodologies like Agile or CI/CD, it aligns with the category by detailing the deployment phase and the importance of ensuring a smooth transition to a new software version. The depth of discussion is moderate, providing practical insights but lacking in broader strategic context.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -253,38 +196,32 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-14T22:13:30",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015, focusing on technical details and procedures rather than Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015, which is a software product relevant to Agile and DevOps practices, but the primary focus is on the technical aspects of the upgrade rather than a review or analysis of the product itself.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-14T22:13:33",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, including installation procedures and configurations, without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T22:13:36",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, which is a part of the Azure DevOps suite, detailing technical steps and considerations relevant to Azure DevOps functionalities.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, which is part of the Azure DevOps suite. It provides detailed technical insights into the upgrade procedure, including backup strategies, configuration settings, and potential issues. However, while it mentions TFS (Team Foundation Server), it does not delve into broader Azure DevOps functionalities or best practices, which slightly limits its alignment with the category. The depth of discussion is substantial regarding the upgrade process but lacks a comprehensive exploration of Azure DevOps as a whole.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,22 +242,16 @@
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, including installation procedures, database management, and configuration, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T22:13:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2015, focusing on technical details and personal experiences rather than the principles or implementation of the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T22:13:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to TFS 2015, with no direct discussion of Agile Product Operating Model principles or practices. While it may touch on agile tools, it does not align with the core themes of APOM, such as product management or continuous delivery.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +263,17 @@
     "reasoning": "Content primarily discusses the technical aspects of upgrading to TFS 2015, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the upgrade process for TFS 2015, which includes some insights into the new features and the importance of upgrading from older versions. However, it primarily focuses on the technical aspects of the upgrade rather than providing a broader review or news context.",
-    "level": "Tertiary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-14T22:13:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, which is a tool used in application lifecycle management. While it touches on aspects of deployment and maintenance, it does not comprehensively cover the broader methodologies or practices of ALM.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, which is a specific tool within the application lifecycle. While it touches on aspects of application management, such as backups and configuration, it lacks a comprehensive discussion on the broader methodologies, practices, and governance associated with Application Lifecycle Management. The mention of upgrade processes and configurations is relevant but does not delve into the lifecycle stages or best practices in a detailed manner.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T22:13:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process for TFS 2015 and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,38 +286,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T22:14:03",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015, including technical details and personal experiences, without addressing the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015, including best practices for backups, configuration, and considerations for database management, which are relevant to technical mastery. However, the primary focus is on the upgrade procedure rather than broader principles of software craftsmanship or engineering practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to TFS 2015, discussing best practices for backups, installation, and configuration. It provides detailed insights into the upgrade process, including considerations for database management and server configurations, which align with the principles of software craftsmanship. However, while it touches on technical practices, it lacks a broader discussion on software design principles or methodologies that would enhance its alignment with the 'Technical Mastery' category.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-14T22:14:11",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical details and processes involved in upgrading TFS 2015, with no focus on understanding customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T22:14:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2015 in a production environment, focusing on installation and configuration details rather than Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2015, detailing steps and considerations for a successful transition. While it touches on aspects of software deployment, it lacks a direct discussion on Continuous Delivery principles, automation, or the cultural aspects of delivery practices. The mention of best practices and smooth transitions is too general and does not align closely with the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +337,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-14T22:14:17",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015, including technical details and configurations, without a focus on Lead Time as a metric or its implications.",
     "level": "Ignored"
   },
@@ -433,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T22:14:19",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -451,10 +373,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-14T22:14:22",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not address the Product Backlog or its management in Agile projects.",
     "level": "Ignored"
   },
@@ -469,37 +391,40 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-14T22:14:25",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process for TFS 2015, with no mention of Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-14T22:14:27",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015 and does not address customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015, including backup strategies and configuration best practices, which are relevant to operational efficiency. However, the primary focus is on the upgrade itself rather than broader operational practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the upgrade process of TFS 2015, which includes practical steps and considerations for operational efficiency, such as backup strategies and configuration checks. However, it lacks a broader discussion on operational practices within Agile, DevOps, or Lean frameworks, focusing instead on a specific technical upgrade without delving into process optimisation or continuous improvement strategies.",
     "level": "Tertiary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T22:14:29",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on Scrum roles, team dynamics, or collaboration practices.",
     "level": "Ignored"
   },
@@ -523,10 +448,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-14T22:14:33",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, including installation procedures and configurations, without focusing on validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -559,10 +484,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T22:14:39",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -577,37 +502,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-14T22:14:41",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not address Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T22:14:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18.0,
+    "ai_alignment": 36.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, which is a software development tool, and includes best practices, configuration details, and considerations relevant to software development methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T22:14:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on Agile Project Management principles or methodologies.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, which is a specific software development tool. It includes practical details about the upgrade procedure, backup strategies, and configuration settings, aligning with software development practices. However, while it touches on relevant topics, it lacks a broader discussion of methodologies or best practices in software development, which limits its depth of discussion.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T22:14:45",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,11 +541,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses upgrading TFS 2015, which is a version control system, and touches on aspects of configuration and best practices related to source control. However, the primary focus is on the upgrade process rather than broader version control methodologies or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the upgrade process for TFS 2015, which is a version control system, but it lacks a focus on broader modern source control practices such as branching strategies, code review processes, or collaboration workflows. While it mentions TFS and some related technical details, the discussion is more about the upgrade procedure rather than best practices or methodologies in modern source control.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -667,10 +589,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-14T22:14:55",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -694,20 +616,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-14T22:14:59",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on customer satisfaction or related strategies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T22:15:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015 and does not address any aspects of Scaling Scrum or related frameworks, roles, or challenges.",
+    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on customer satisfaction or related strategies.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,23 +641,17 @@
     "reasoning": "Content heavily discusses the technical aspects of upgrading TFS 2015, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T22:15:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015 in a production environment, with no clear focus on scaling agile practices or methodologies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015, touching on best practices for backups, configuration, and installation, which are relevant to engineering practices. However, the primary focus is on the upgrade itself rather than a broader discussion on engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade process of TFS 2015, which includes some technical details and best practices related to software installation and configuration. However, it primarily focuses on the upgrade procedure rather than broader engineering excellence principles such as software craftsmanship, quality assurance, or continuous improvement. While there are mentions of best practices, they are not the primary focus of the content, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -775,20 +682,23 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-14T22:15:13",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015 in a production environment, with no clear focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T22:15:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving strategies and real-world applications related to upgrading TFS 2015 in a production environment, including backup strategies, configuration considerations, and the importance of following best practices.",
+    "reasoning": "The content provides a detailed account of upgrading TFS 2015 in a production environment, showcasing practical problem-solving strategies and real-world applications of DevOps principles. It discusses the importance of backups, system configurations, and the need for adaptability during the upgrade process, which aligns well with the core themes of pragmatic thinking. The depth of discussion is significant, as it covers various technical aspects and considerations that are crucial for a successful upgrade, demonstrating experience-based decision-making. However, while it is focused on practical application, it lacks broader discussions on Agile or Scrum methodologies, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +712,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T22:15:18",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T22:15:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T22:15:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not address any scaled Agile methodologies or frameworks.",
+    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +739,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-14T22:15:28",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015, focusing on installation and configuration rather than test automation principles or practices.",
     "level": "Ignored"
   },
@@ -865,12 +757,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015, which relates to the delivery of functional software, but it primarily focuses on the technical aspects of the upgrade rather than the broader implications of working software in terms of customer value and iterative development.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, which is a specific software product. While it touches on aspects of working software, such as ensuring backups and configurations for a successful upgrade, it lacks a broader discussion on the characteristics of working software or its role in delivering value to customers. The focus is more on the technical steps involved in the upgrade rather than on the principles of Agile or Scrum, which are central to the concept of working software.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -919,10 +814,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-14T22:15:45",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015 in a production environment, focusing on installation steps and configurations rather than principles or practices of Site Reliability Engineering.",
     "level": "Ignored"
   },
@@ -937,10 +832,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-14T22:15:48",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of upgrading TFS 2015, including installation steps and configurations, without a focus on structured decision-making methodologies or evidence-based practices.",
     "level": "Ignored"
   },
@@ -955,28 +850,31 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-14T22:15:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015 in a production environment, which involves planning, scheduling, and controlling the software release. It includes details about backup strategies, configuration checks, and the importance of verifying prerequisites, all of which are central to effective release management.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the upgrade process of TFS 2015 in a production environment, which aligns with release management practices. It includes details about backup strategies, configuration checks, and the importance of verifying prerequisites before proceeding with the upgrade. However, while it touches on aspects of release management, such as planning and risk management, it lacks a broader discussion on release strategies or metrics for success, which limits its depth in the category.",
     "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-14T22:15:52",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T22:15:55",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015, including technical details and configurations, without a focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -1000,19 +898,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-14T22:15:58",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of upgrading TFS 2015, with no clear discussion on change management strategies or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T22:16:00",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on team dynamics, communication, or collaboration.",
     "level": "Ignored"
   },
@@ -1034,7 +932,7 @@
     "reasoning": "Content primarily discusses the technical aspects of upgrading to TFS 2015, without a clear focus on digital transformation strategies or the impact of digital technologies on business operations.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T22:16:04",
     "ai_confidence": 0,
@@ -1043,30 +941,24 @@
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not focus on Minimum Viable Product concepts or related methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T22:16:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2015, with no mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T22:16:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, including installation, configuration, and best practices for system setup, which aligns closely with system configuration topics.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2015, detailing specific steps, considerations, and configurations necessary for a successful installation. It discusses best practices for backups, database settings, and system requirements, which align closely with the core themes of system configuration. The depth of discussion is substantial, covering various technical aspects such as permissions, IIS configuration, and the importance of verifying settings before proceeding with the upgrade. Overall, the content is highly relevant to the category of System Configuration.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-14T22:16:07",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to upgrading TFS 2015, rather than product strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1099,29 +991,38 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T22:16:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not focus on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the upgrade process of TFS 2015, detailing steps, configurations, and best practices for installation. It does not discuss Test First Development principles, success criteria, or testing methodologies, which are central to the category. The mention of testing is limited to backup procedures and does not align with the core themes of Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015, which is a software that runs on Windows servers, but the primary focus is on TFS rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the upgrade process of Team Foundation Server (TFS) 2015, which is a software application that runs on Windows servers. It includes detailed steps on installation, configuration, and troubleshooting specific to TFS, which operates within the Windows environment. The mention of Windows-related practices, such as IIS configuration and SQL Server management, further aligns the content with the Windows category. However, the focus is more on TFS rather than Windows itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade process of TFS 2015 in a production environment, which involves deployment considerations such as backups, configuration, and potential risks. However, the primary focus is on the upgrade process rather than broader deployment strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses an upgrade process for TFS 2015 in a production environment, which touches on aspects of deployment. However, it primarily focuses on the specific upgrade steps and considerations rather than broader deployment strategies. While it mentions the importance of backups and configurations, it lacks detailed discussions on methodologies like Blue-Green Deployments or Canary Releases, which are central to the category of Deployment Strategies.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
@@ -1135,10 +1036,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T22:16:19",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details and procedures related to upgrading TFS 2015, with no focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1162,11 +1063,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T22:16:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the upgrade process of TFS 2015, including potential issues and resolutions related to permissions, database settings, and configuration checks, which are central to troubleshooting during the upgrade.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the upgrade process for TFS 2015, including preparations, potential issues, and necessary configurations. While it does touch on troubleshooting aspects, such as ensuring backups and permissions, the primary focus is on the upgrade procedure rather than a systematic approach to diagnosing and resolving technical issues. The content provides some insights into troubleshooting but lacks depth in methodologies and tools specifically aimed at problem-solving.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1084,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T22:16:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, with no direct mention of the Scrum Master role or its responsibilities. While it discusses team dynamics in a very indirect manner, it lacks any substantial alignment with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1204,15 +1111,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:43",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily discusses the technical aspects of upgrading TFS 2015, which is more focused on system administration and deployment rather than the role of software developers in Agile or DevOps contexts.",
-    "level": "Quaternary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1243,28 +1141,28 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-14T22:16:36",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not relate to Sprint Reviews or the Scrum framework.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-14T22:16:38",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, including installation procedures and configurations, rather than strategic product management topics.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-14T22:16:39",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -1306,19 +1204,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-14T22:16:52",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on Lean principles or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-14T22:16:53",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading to TFS 2015, with no focus on trend analysis or its implications for Agile, DevOps, or business agility.",
     "level": "Ignored"
   },
@@ -1329,15 +1227,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on accountability, team dynamics, or ownership principles in Agile.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T22:16:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade process for TFS 2015, with no mention of Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1351,10 +1240,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-14T22:17:00",
+    "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade process of TFS 2015, including installation, configuration, and backup procedures, without any mention of Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1369,11 +1258,116 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:09:39",
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to TFS 2015, detailing installation steps, configurations, and backup procedures. While it mentions a customer and their setup, it lacks a discussion on collaboration, decision-making, or value delivery, which are core themes of social technologies. The content does not explore self-organisation, collective intelligence, or transparency within teams, nor does it provide insights into organisational culture or practices that support emergent problem-solving.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade process of TFS 2015, which is not focused on the concept of Internal Developer Platforms or their benefits, components, or best practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:10:52",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical aspects of upgrading TFS 2015, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses the upgrade process of TFS 2015 and does not mention or relate to Artificial Intelligence in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the upgrade process for TFS 2015, focusing on technical details and procedures rather than Scrum principles, roles, or practices. There are no direct mentions of Scrum roles, events, or artifacts, and the discussion lacks depth in terms of Scrum-related content. Overall, it does not align with the core themes of the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, including installation procedures and configurations. There are no direct mentions of the Shift-Left Strategy, nor does it discuss integrating testing, security, or compliance earlier in the development process. The content lacks depth in relation to the principles or benefits of the Shift-Left approach, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to TFS 2015, detailing steps and considerations for the upgrade process. While it touches on best practices, it lacks a clear discussion on Continuous Improvement principles, such as empirical evidence, culture of experimentation, or strategies for integrating improvement into processes. The content does not engage with the core themes of Continuous Improvement, making it a low-confidence classification.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to TFS 2015, including installation steps, configurations, and troubleshooting. It lacks explicit discussions on Common Goals, alignment of strategy with execution, or shared objectives within Agile and DevOps frameworks. While it may touch on aspects of project management, it does not delve into the foundational principles of Common Goals as defined in the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, with minimal direct discussion on competence or skill development. While it touches on best practices and the importance of preparation, it lacks a deeper exploration of continuous learning or the role of competence in delivering quality outcomes. The mention of 'best practices' is too vague to significantly contribute to the competence theme.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading to TFS 2015, detailing specific steps and configurations. While it touches on best practices for the upgrade process, it does not discuss the One Engineering System framework, its principles, or its impact on software development practices. The discussion lacks depth in relation to 1ES and does not provide insights into integration or standardisation across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:53",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS 2015, with no explicit discussion of Agentic Agility or its principles. While it touches on aspects of organisational processes, it lacks depth in exploring intentional shaping of outcomes, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

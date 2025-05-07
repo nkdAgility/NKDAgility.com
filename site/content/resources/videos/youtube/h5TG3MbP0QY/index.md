@@ -2,46 +2,39 @@
 title: Most Common Thing You Hear in a PSM 1 Course?
 description: 'Discover the most common insights from delegates in a PSM 1 course with Martin Hinshelwood. Join us for a quick dive into Scrum training! #shorts #agile'
 date: 2023-06-28T11:00:24Z
+weight: 1000
 ResourceId: h5TG3MbP0QY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: h5TG3MbP0QY
 source: internal
 url: /resources/videos/:slug
-slug: most-common-thing-you-hear-in-a-psm-1-course
+slug: most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
 layout: video
 preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/most-common-thing-you-hear-in-a-psm-1-course-2
-- /resources/most-common-thing-you-hear-in-a-psm-1-course
-- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
-- /resources/videos/h5TG3MbP0QY
-- /resources/most-common-thing-you-hear-in-a-psm-1-course-
 - /resources/h5TG3MbP0QY
-aliasesFor404:
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
+aliasesArchive:
+- /resources/videos/most-common-thing-you-hear-in-a-psm-course
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-2
 - /resources/most-common-thing-you-hear-in-a-psm-1-course
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-
+- most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Customer Satisfaction
-- Transparency and Accountability
-- Agile Values and Principles
-- Accountability
-- Personal
-- Miscellaneous
-- Agile Philosophy
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## "But in the Real World..."
@@ -72,8 +65,8 @@ Such reflective moments in the class always underline the paramount importance o
 
 Let's not tweak our integrity to navigate tricky waters or to frame comfortable narratives.
 
-Let's challenge these 'real world' assertions and hold ourselves to the highest standards of truth and transparency.
+Let's challenge these 'real world' assertions and hold ourselves to the highest standards of truth and [transparency]({{< ref "/tags/transparency" >}}).
 
-If you're ready to delve into understanding Agile and Scrum's true essence, join my courses and let's debunk these myths together! 🚀
+If you're ready to delve into understanding Agile and [Scrum]({{< ref "/categories/scrum" >}})'s true essence, join my courses and let's debunk these myths together! 🚀
 
 Let's champion honesty in our Agile journey!

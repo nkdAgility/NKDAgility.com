@@ -2,8 +2,10 @@
 title: What are immersive training courses?
 description: Discover how immersive Scrum training courses can transform your Agile journey and empower your team for success in this insightful video with Martin Hinshelwood.
 date: 2023-03-15T07:00:19Z
+weight: 1000
 ResourceId: wa4A_KQ-YGg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: wa4A_KQ-YGg
@@ -15,30 +17,25 @@ preview: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg
 duration: 367
 isShort: false
 aliases:
-- /resources/what-are-immersive-training-courses
-- /resources/what-are-immersive-training-scrum-courses
-- /resources/videos/what-are-immersive-training-scrum-courses-
-- /resources/videos/wa4A_KQ-YGg
-- /resources/what-are-immersive-training-scrum-courses-
 - /resources/wa4A_KQ-YGg
-aliasesFor404:
+- /resources/videos/what-are-immersive-training-courses
+- /resources/videos/what-are-immersive-training-scrum-courses
+aliasesArchive:
+- /resources/videos/what-are-immersive-training-courses
 - /resources/what-are-immersive-training-courses
 - /resources/what-are-immersive-training-scrum-courses
 - /resources/videos/what-are-immersive-training-scrum-courses-
 - /resources/what-are-immersive-training-scrum-courses-
+- /resources/videos/what-are-immersive-training-scrum-courses
+- what-are-immersive-training-courses
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Discovery and Learning
-- Continuous Learning
-- People and Process
+tags: []
 resourceTypes:
 - video
 categories:
-- Scrum
-- Product Management
-- Social Technologies
+- Uncategorized
 
 ---
 **What are immersive training courses?**
@@ -73,7 +70,7 @@ They then bring these experiences back to the class, share their insights, learn
 
 We've now stretched the original four half-days to eight half-days spread over eight weeks. In each session, participants are assigned to execute within their organization.
 
-For example, in the Product Owner class, one might be tasked to define 'value' as it applies to their organization. 📅
+For example, in the [Product Owner]({{< ref "/tags/product-owner" >}}) class, one might be tasked to define 'value' as it applies to their organization. 📅
 
 ### Sharing and Learning from Real-World Experiences
 
@@ -83,7 +80,7 @@ Participants from the same organization can discuss their shared experiences, wh
 
 So there you have it - immersive learning is about taking flipped learning to a new level, incorporating assignments directly relevant to one's work and fostering a community of learners who share their experiences and learn from one another. It's about creating an authentic, transformative learning journey that is as engaging as it is educational.
 
-If you'd like to discuss this topic or any other matter related to Agile, Scrum, or DevOps, don't hesitate to reach out and schedule a chat with me through Naked Agility. 🚀
+If you'd like to discuss this topic or any other matter related to Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), don't hesitate to reach out and schedule a chat with me through Naked Agility. 🚀
 
 Keywords:       Immersive Learning, Agile Training, Flipped Learning,
 

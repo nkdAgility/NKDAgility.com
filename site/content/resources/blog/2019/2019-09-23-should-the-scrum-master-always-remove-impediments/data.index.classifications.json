@@ -1,21 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master, which is relevant to Agile frameworks, but it primarily focuses on the responsibilities of the Scrum Master rather than broader Agile product management practices.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to Agile practices, but it primarily focuses on the responsibilities and thought processes of the Scrum Master rather than practical techniques or tooling.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is a specific aspect of Agile frameworks. While it touches on Agile principles, it does not delve deeply into broader Agile Product Management topics such as product backlog prioritisation or stakeholder engagement. The focus is more on Scrum roles rather than product management strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T18:06:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is more focused on Scrum practices rather than Evidence-Based Management principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T18:06:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, which are not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in facilitating team learning and self-sufficiency, which aligns with the theme of continuous learning and adaptation within teams.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T18:06:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in removing impediments, with no mention of AI or automation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is more focused on Scrum practices rather than Evidence-Based Management. While there are hints of self-sufficiency and team empowerment, the discussion lacks direct references to empirical evidence, metrics, or the core themes of EBM such as current value or outcome management.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +43,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T18:06:58",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Scrum Master and impediments in Scrum, which is not related to installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T18:07:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is not directly related to transparency and accountability.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -100,29 +61,26 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in relation to team dynamics and organisational context, which aligns with sociotechnical principles, but it primarily focuses on Scrum practices rather than a broader sociotechnical system analysis.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T18:07:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in removing impediments, which is primarily focused on Scrum practices rather than organisational resilience or change management.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which touches on team dynamics and the relationship between team members and their organisational context. However, it primarily focuses on the responsibilities of the Scrum Master and does not deeply explore the broader sociotechnical interactions or organisational structures that influence software delivery. The mention of enabling the team to be self-sufficient hints at sociotechnical principles, but the overall discussion lacks depth and does not explicitly address the interplay between social and technical systems.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T18:07:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, which are not central to DevOps principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices and the role of the Scrum Master, which are not aligned with the core principles of DevOps. While there is a brief mention of team dynamics and self-sufficiency, these concepts are framed within the context of Scrum rather than DevOps. The discussion lacks depth in terms of DevOps principles such as automation, shared accountability, or continuous improvement, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,32 +101,17 @@
     "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, focusing on Scrum practices rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T18:07:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a webinar event featuring a professional Scrum trainer, focusing on questions related to Scrum practices, which aligns with the category of Events and Presentations.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to optimising team flow and efficiency, but primarily focuses on Scrum roles and responsibilities.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T18:07:13",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in facilitating team dynamics and problem-solving, which aligns with the interplay between human behaviour and structured methodologies in Agile environments.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which can relate to flow efficiency by addressing obstacles that slow down team progress. However, the primary focus is on the Scrum Master's responsibilities rather than a comprehensive exploration of flow efficiency principles, techniques, or metrics. The discussion lacks depth in terms of specific strategies for optimising throughput or eliminating bottlenecks, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -190,10 +133,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T18:07:17",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is not directly related to metrics or learning.",
     "level": "Ignored"
   },
@@ -217,30 +160,33 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-14T18:07:21",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, focusing on Scrum practices rather than complexity science or its principles.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-14T18:07:23",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is a significant aspect of Agile methodologies and product delivery, but it primarily focuses on the responsibilities of the Scrum Master rather than the broader product delivery process.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is a key aspect of Agile methodologies and product delivery. It explicitly mentions the responsibilities of the Scrum Master and the importance of enabling the team to become self-sufficient, aligning with the core themes of iterative development and cross-functional team dynamics. However, the discussion is primarily focused on the Scrum Master's role rather than a broader exploration of product delivery methodologies, which limits the depth of the discussion.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -260,23 +206,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T18:07:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master and their responsibilities, without reference to specific products or literature.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to enhancing team effectiveness and ultimately delivering value. However, the primary focus is on Scrum roles rather than direct value delivery strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which indirectly relates to value delivery by emphasising the importance of enabling the Scrum Team to become self-sufficient. However, the primary focus is on the responsibilities of the Scrum Master rather than on broader strategies or methodologies for delivering value to customers. The discussion lacks depth in terms of value delivery principles and does not provide substantial insights into customer value measurement or alignment with customer needs.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -298,48 +238,36 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-14T18:07:33",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Scrum Master in removing impediments within a Scrum Team, focusing on Scrum practices rather than Systems Thinking principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T18:07:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T18:07:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master and impediments within the Scrum framework, which is more focused on Scrum practices rather than the broader Agile Product Operating Model.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master within the Scrum framework, discussing impediments and team self-sufficiency. While it touches on agile principles, it does not directly address the Agile Product Operating Model or its core themes, such as product management integration or continuous delivery. The discussion is more aligned with Scrum practices than with the broader APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to agile practices and team self-sufficiency, but primarily focuses on Scrum roles rather than broader organisational agility strategies.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T18:07:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master and does not focus on news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master in removing impediments, which is a specific aspect of Agile methodologies. While it touches on the importance of team self-sufficiency and learning, it does not delve deeply into broader organisational agility concepts such as leadership roles, cross-functional teams, or continuous improvement strategies. The discussion is more about Scrum practices than organisational agility as a whole.",
+    "level": "Secondary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -350,30 +278,21 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T18:07:41",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is a key aspect of the Scrum framework.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-14T18:07:50",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is not directly related to the Daily Scrum event.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T18:07:51",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is not directly related to the Definition of Done.",
     "level": "Ignored"
   },
@@ -397,11 +316,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T18:07:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments within a Scrum framework, which is not directly related to Continuous Delivery. While it touches on team dynamics and self-sufficiency, it lacks explicit references to Continuous Delivery principles, practices, or tools. The focus is on Scrum methodology rather than the delivery of software in short, reliable cycles.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,28 +337,28 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-14T18:07:57",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Scrum Master and impediments, without addressing Lead Time or its measurement.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-14T18:07:58",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Scrum Master and impediments in Scrum, without a focus on organisational culture.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T18:07:59",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is not directly related to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -460,12 +382,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is a significant aspect of Agile Planning, particularly within the Scrum framework. However, it primarily focuses on the responsibilities of the Scrum Master rather than broader Agile Planning principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is a specific aspect of Scrum rather than a broader discussion on Agile Planning principles. While it touches on team dynamics and self-sufficiency, it lacks a comprehensive exploration of Agile Planning methodologies, techniques, or strategies. The focus is more on Scrum roles than on planning practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -487,38 +412,50 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to operational efficiency within Agile practices, but it primarily focuses on the responsibilities and decision-making of the Scrum Master rather than broader operational strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to operational efficiency within Agile practices. However, it primarily focuses on the responsibilities of the Scrum Master rather than providing broader operational strategies or techniques. The discussion lacks depth in terms of process optimisation or metrics, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T18:08:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is a key responsibility within a Scrum Team.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master in removing impediments, which is a key responsibility within a Scrum Team. It explores the nuances of this role, including when the Scrum Master should intervene and when they should empower the team to solve issues independently. This aligns well with the core themes of team dynamics and self-organisation. The depth of discussion is substantial, providing insights into the responsibilities and strategies of the Scrum Master, thus contributing to a high confidence score.",
+    "level": "Primary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to Agile principles of team autonomy and continuous improvement, but primarily focuses on specific Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on the practical aspects of removing impediments. While it touches on the importance of team self-sufficiency and learning, which aligns with Agile principles, it does not delve deeply into the broader Agile philosophy or its foundational values. The discussion is more about specific practices rather than the underlying mindset of Agile.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to team performance and self-sufficiency, aligning with strategic themes in Agile. However, it primarily focuses on Scrum roles rather than broader strategic approaches.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is a tactical aspect of Scrum rather than a strategic discussion. While it touches on the importance of enabling team self-sufficiency, it lacks a broader focus on strategic alignment or the development of strategic approaches within Agile frameworks. The discussion is more operational and does not delve into strategic planning or execution, which are key themes of the Strategy category.",
     "level": "Tertiary"
   },
   "Product Validation": {
@@ -532,21 +469,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is a significant aspect of Agile practices, particularly within the Scrum framework. However, it primarily focuses on a specific question rather than a broader discussion on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is a specific aspect of Agile practices. While it touches on Agile principles, such as team self-sufficiency and problem-solving, it lacks a broader discussion on Agile transformation strategies or methodologies. The focus is more on Scrum roles rather than the overall transformation process, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the team learn to solve their own impediments, which aligns with mentoring principles, but it primarily focuses on Scrum roles and responsibilities.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which indirectly relates to mentoring by emphasising the importance of helping teams develop their own problem-solving skills. However, it primarily focuses on the responsibilities of the Scrum Master rather than providing direct mentoring techniques or strategies. The discussion lacks depth in exploring mentoring relationships or emotional intelligence, which are key aspects of the mentoring category.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -559,11 +502,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T18:08:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which directly relates to team dynamics and performance within an Agile framework.",
+    "final_score": 78.0,
+    "reasoning": "The content directly addresses the role of the Scrum Master in removing impediments, which is a key aspect of team performance and dynamics within Agile teams. It discusses the importance of self-sufficiency for the team and how the Scrum Master can facilitate this, aligning well with the core themes of enhancing collaboration and productivity. The depth of discussion is substantial, providing insights into the responsibilities of the Scrum Master and the implications for team effectiveness. However, while it is focused on a specific aspect of team performance, it does not cover a broader range of topics within the category, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Increment": {
@@ -586,39 +532,39 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T18:08:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master within the Scrum framework, which is a key aspect of Agile methodologies in software development.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T18:08:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is a key aspect of Scrum within Agile Project Management.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, which is a key aspect of Agile methodologies in software development. It explicitly addresses the responsibilities of the Scrum Master in removing impediments, aligning closely with the core themes of software development practices. The depth of discussion is substantial, providing insights into the decision-making process regarding impediments and fostering team self-sufficiency, which are critical for effective software development. Overall, the content is highly relevant to the Software Development category.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in relation to team self-sufficiency and problem-solving, which aligns with Agile principles of self-organising teams and continuous improvement, but primarily focuses on Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on their responsibility to remove impediments. While it touches on the importance of self-sufficiency and team autonomy, which align with Agile principles, the discussion is heavily centred on Scrum-specific practices rather than the broader Agile values and principles. Therefore, while there is some alignment, it does not meet the criteria for a strong focus on Agile Values and Principles.",
+    "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-14T18:08:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is a key aspect of Scrum principles and practices.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content directly addresses the role of the Scrum Master in removing impediments, which is a core aspect of the Scrum framework. It discusses the responsibilities of the Scrum Master in detail, including the distinction between what the team can solve independently and what requires the Scrum Master's intervention. This aligns well with the key topics of Scrum roles and the importance of fostering team self-sufficiency. The depth of discussion is significant, providing insights into the Scrum Master's approach to impediments, which enhances understanding of Scrum principles.",
+    "level": "Primary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -631,20 +577,26 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to the principles of inspection and adaptation in Agile. However, it primarily focuses on Scrum roles rather than empirical process control as a central theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which touches on the principles of inspection and adaptation. However, it primarily focuses on the responsibilities of the Scrum Master rather than a broader discussion of empirical process control. While there are elements of transparency and team dynamics, the depth of discussion on empirical process control principles is limited.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to the values of commitment and respect within the Scrum framework, but it primarily focuses on the responsibilities of the Scrum Master rather than the Scrum Values themselves.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is related to the Scrum framework but does not explicitly address the Scrum Values. While it touches on aspects of team self-sufficiency and support, it lacks a direct focus on the core values of commitment, courage, focus, openness, and respect. The discussion is more about the responsibilities of the Scrum Master rather than the values that guide team interactions.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -667,10 +619,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-14T18:08:34",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -701,15 +653,6 @@
     "reasoning": "Content heavily discusses the role of the Scrum Master in removing impediments, which is primarily focused on Scrum practices rather than customer satisfaction.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T18:08:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is not focused on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-14T18:08:39",
@@ -726,15 +669,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Scrum Master in removing impediments, which is primarily focused on Scrum processes rather than psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T18:08:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master and team-level practices, without addressing scaling agility or organisational-level strategies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -766,10 +700,10 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-14T18:08:52",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -784,11 +718,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T18:08:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, emphasising practical problem-solving strategies and the importance of enabling the Scrum Team to become self-sufficient, which aligns well with the principles of Pragmatic Thinking.",
+    "final_score": 78.0,
+    "reasoning": "The content directly addresses the role of the Scrum Master in removing impediments, which is a practical problem-solving strategy within the Agile framework. It discusses the importance of enabling the Scrum Team to solve issues independently, aligning well with the core themes of adaptability and real-world application. The depth of discussion is substantial, providing insights into decision-making processes and the development of team autonomy, which are critical aspects of pragmatic thinking.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +739,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T18:08:57",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the responsibilities of the Scrum Master rather than innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T18:08:58",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is a key aspect of Scrum practices and product development.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T18:08:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master and individual Scrum practices without reference to scaling Agile across multiple teams or an enterprise level.",
+    "reasoning": "Content heavily discusses Scrum roles and events, focusing on the responsibilities of the Scrum Master rather than innovation capabilities.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -838,10 +757,10 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-14T18:09:02",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments within a Scrum Team, which is not directly related to Lean Thinking principles.",
     "level": "Ignored"
   },
@@ -865,12 +784,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is related to the functioning of a Scrum Team and indirectly ties to the delivery of working software. However, the primary focus is on Scrum roles rather than the delivery of functional software itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is relevant to the delivery of working software. However, it primarily focuses on Scrum roles and responsibilities rather than directly addressing the characteristics or best practices of working software itself. While it touches on the importance of enabling teams to solve their own issues, it lacks a comprehensive exploration of how this relates to delivering functional software that meets customer needs.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -901,12 +823,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which relates to leadership within an Agile context, but primarily focuses on Scrum practices rather than broader Agile leadership themes.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is a leadership function within an Agile framework. It highlights the importance of empowering teams to solve their own issues, aligning with Agile leadership principles. However, the focus is primarily on Scrum practices rather than broader Agile leadership concepts, which slightly limits the depth of discussion on leadership itself.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -937,11 +862,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the decision-making process of a Scrum Master regarding whether to remove impediments, which involves evaluating the team's ability to solve issues independently. However, the primary focus is on Scrum roles rather than structured decision-making methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which touches on decision-making processes within a Scrum Team. However, it primarily focuses on the responsibilities of the Scrum Master rather than structured, evidence-based methodologies for decision-making. While it does mention evaluating whether a team can solve an impediment themselves, it lacks a broader discussion on evidence-based practices or frameworks for decision-making, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lean Principles": {
@@ -973,10 +901,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T18:09:21",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Scrum Master and impediments, with no focus on Cycle Time or its measurement.",
     "level": "Ignored"
   },
@@ -1009,11 +937,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T18:09:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master in facilitating team dynamics and self-sufficiency, which aligns with the principles of team collaboration within Agile frameworks.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is a key aspect of team collaboration within Scrum. It highlights the importance of self-sufficiency in teams and encourages the Scrum Master to foster team problem-solving skills, aligning well with the themes of shared ownership and team dynamics. However, while it touches on collaboration, it primarily focuses on the Scrum Master's responsibilities rather than broader team collaboration strategies, which slightly limits its depth in the category.",
     "level": "Secondary"
   },
   "Behaviour Driven Development": {
@@ -1034,22 +965,13 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T18:09:30",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of the Scrum Master and impediments in Scrum, with no focus on Minimum Viable Product concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T18:09:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1072,12 +994,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments and fostering team self-sufficiency, which aligns with principles of technical leadership in agile environments.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is a key aspect of technical leadership in agile environments. It touches on servant leadership principles by emphasising the importance of enabling the team to solve problems independently. However, the discussion is primarily focused on a specific question rather than a broader exploration of technical leadership concepts, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1090,20 +1015,23 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-14T18:09:36",
+    "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of the Scrum Master and their responsibilities within a Scrum Team, rather than focusing on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T18:09:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of the Scrum Master in removing impediments, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments within a Scrum team, which is unrelated to Test First Development principles. There are no direct mentions of Test First practices, success criteria, or testing methodologies, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1135,12 +1063,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments and fostering team self-sufficiency, which relates to team dynamics and empowerment, but primarily focuses on Scrum roles and responsibilities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which indirectly relates to team motivation by emphasising the importance of team autonomy and self-sufficiency. However, the primary focus is on the responsibilities of the Scrum Master rather than on strategies for enhancing team engagement or motivation. The discussion lacks depth in exploring psychological safety, trust, or recognition, which are key aspects of team motivation.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1153,12 +1084,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in helping the team learn to solve impediments independently, which aligns with the theme of fostering a growth mindset and knowledge sharing. However, the primary focus is on Scrum roles rather than continuous learning principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in facilitating team self-sufficiency and learning, which aligns with the principles of Continuous Learning. It highlights the importance of enabling teams to solve their own impediments, reflecting a growth mindset. However, the primary focus is on Scrum roles rather than a broader exploration of Continuous Learning practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1180,12 +1114,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T18:09:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the responsibilities of the Scrum Master in removing impediments and coaching the team towards self-sufficiency.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content directly addresses the role of the Scrum Master in removing impediments, which is a core responsibility of the position. It discusses the nuances of this responsibility, emphasising the importance of fostering team self-sufficiency and the Scrum Master's role in enabling the team to solve problems independently. This aligns well with the key topics of the category, particularly regarding the Scrum Master's influence on team dynamics and their role as a facilitator. The depth of discussion is substantial, providing insights into the decision-making process of the Scrum Master and the implications for team development. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -1205,22 +1142,16 @@
     "reasoning": "Content primarily discusses the role of the Scrum Master and the concept of impediments, rather than focusing on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master within a Scrum Team, which is relevant to Agile practices. However, it primarily focuses on the responsibilities of the Scrum Master rather than the broader role of software developers in Agile and DevOps contexts.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-14T18:09:55",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the role of the Scrum Master in facilitating team self-sufficiency and learning, which aligns with coaching principles, but it primarily focuses on the responsibilities of the Scrum Master rather than coaching techniques or strategies.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which touches on coaching principles, particularly in helping teams become self-sufficient. However, the primary focus is on the responsibilities of the Scrum Master rather than on coaching techniques or fostering team growth. While there are elements of coaching, such as encouraging teams to solve their own problems, the overall emphasis is more on directive leadership than on collaborative coaching practices.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -1261,30 +1192,39 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-14T18:10:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the role of the Scrum Master in relation to team autonomy and self-sufficiency, which aligns with self-organisation principles. However, the primary focus is on the Scrum Master's responsibilities rather than a broader exploration of self-organisation.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Scrum Master in relation to impediments, emphasising the importance of enabling the Scrum Team to solve issues independently. This aligns well with the principles of self-organisation, as it promotes team autonomy and accountability. The discussion is detailed, exploring the nuances of when the Scrum Master should intervene and when they should empower the team, which adds depth to the topic. However, the primary focus is on the Scrum Master's responsibilities rather than a broader exploration of self-organisation principles, which slightly limits the confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-14T18:10:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, addressing responsibilities and the concept of impediments, which are central to Scrum practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, which is a specific Agile framework. It directly addresses the responsibilities of the Scrum Master, providing insights into the principles of Scrum and how they relate to team dynamics and impediment resolution. The discussion aligns well with the core themes of Agile frameworks, particularly in terms of promoting team self-sufficiency and continuous improvement. However, while it provides a good level of detail, it does not explore other Agile frameworks or a comparative analysis, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which is a significant aspect of Agile methodologies. However, it primarily focuses on Scrum practices rather than broader Agile strategy concepts.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is a tactical aspect of Agile methodologies rather than a strategic discussion. While it touches on the importance of enabling teams to become self-sufficient, it lacks a broader focus on organisational vision, strategic planning, or the integration of Agile principles into decision-making processes. The discussion is more about Scrum practices than Agile strategy, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1324,21 +1264,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:08:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Scrum Master's role in removing impediments and fostering team self-sufficiency, which relates to accountability in terms of ownership and responsibility within the team dynamics.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T18:10:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Scrum Master's role in removing impediments, which touches on accountability in terms of ownership and responsibility within the team. However, it primarily focuses on the Scrum Master's responsibilities rather than a broader discussion of accountability as a team principle. The mention of the Scrum Team's ability to solve problems aligns with the concept of ownership, but the depth of discussion on accountability is limited.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
@@ -1360,20 +1294,466 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T16:07:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Scrum Master in facilitating team self-sufficiency and problem-solving, which relates to leadership practices within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which touches on leadership responsibilities within a Scrum Team. However, it primarily focuses on the technical aspects of Scrum roles rather than broader leadership principles. While there are mentions of enabling team self-sufficiency and fostering skills, the depth of discussion is more about the Scrum Master's duties than on leadership strategies or frameworks. Thus, while there is some alignment with leadership concepts, it is not the primary focus.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:07:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master in removing impediments, which is a key aspect of the Scrum framework.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which touches on self-organisation and team dynamics. However, it primarily focuses on the responsibilities of the Scrum Master rather than broader social technologies or frameworks that promote collaboration and decision-making. While there are elements of fostering self-sufficiency and enabling teams, the depth of discussion on social technologies is limited, making it a secondary focus rather than a primary one.",
     "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:08:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:08:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 50,
+    "final_score": 92.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master in removing impediments, which is a key aspect of the Scrum framework. It explicitly discusses the responsibilities of the Scrum Master, the nature of impediments, and the importance of fostering team self-sufficiency. The depth of discussion is significant, providing insights into the Scrum Master's approach to problem-solving and team dynamics, aligning well with the core themes of Scrum. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments within a Scrum team, which is not directly related to the Shift-Left Strategy. While there is a mention of enabling the team to solve problems independently, this does not align with the core themes of integrating testing, security, and compliance earlier in the software development lifecycle. The focus is on Scrum practices rather than the proactive measures associated with Shift-Left methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which touches on aspects of team effectiveness and self-sufficiency. However, it primarily focuses on Scrum roles rather than a broader discussion of Continuous Improvement principles. While there are elements of fostering team learning and adaptation, the content lacks a comprehensive exploration of Continuous Improvement strategies or empirical evidence, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is more focused on Scrum practices than on the concept of Common Goals. While it touches on team self-sufficiency and the importance of enabling teams, it does not explicitly connect these ideas to shared objectives or strategic alignment within Agile or DevOps frameworks. The discussion lacks depth in exploring how these practices relate to overarching organisational goals, resulting in a low confidence score for alignment with the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, which indirectly relates to competence by emphasising the importance of enabling the team to develop skills and self-sufficiency. However, the primary focus is on the Scrum Master's responsibilities rather than a direct exploration of competence as a foundational principle. The discussion includes some elements of skill development and team empowerment, but lacks depth in addressing continuous learning and the broader implications of competence in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:07:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master within the Scrum framework, focusing on impediment removal and team self-sufficiency. It does not address the One Engineering System (1ES) framework, its principles, or its integration with other processes, which are essential for alignment with the category. The discussion is narrowly focused on Scrum, making it largely irrelevant to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is more focused on Scrum practices rather than the intentional shaping of outcomes through agency and adaptability. While there are elements of self-sufficiency and team empowerment, the discussion does not explicitly address the principles of Agentic Agility or differentiate between human and AI capabilities in this context.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses exclusively on the role of a Scrum Master in removing impediments and enhancing team self-sufficiency. It does not delve into Hybrid Agile as a concept or its challenges, nor does it address the integration of traditional and agile methodologies. The discussion on the Scrum Master's responsibilities is not framed within the context of Hybrid Agile, leading to a very low alignment with the category's themes.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 20.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses primarily on Scrum methodology and the role of the Scrum Master, discussing aspects of impediment removal and team self-sufficiency, which are related to agile practices rather than the core principles of Cell Structure Design. While there are elements of self-organization mentioned, the primary focus is on a specific role within Scrum rather than the broader organizational design model of Cell Structure Design. Therefore, the alignment is very low, and the depth of discussion is limited to Scrum roles rather than an exploration of decentralization or the autonomous cell structure as defined in the Cell Structure Design paradigm.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 65.0,
+    "ai_mentions": 7,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the role of the Scrum Master in removing impediments, emphasizing the principle of Self-Management by encouraging teams to solve their own issues and become self-sufficient. It aligns with principles of Agile by promoting continuous improvement and respect for people, but it primarily focuses on a specific role rather than discussing broader principles. The mention of helping teams learn new skills and relationships reinforces the emphasis on empowerment and adaptability, which are also core themes of Agile principles. Overall, there is a clear connection to the category, but it lacks a deeper exploration of multiple principles.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content focuses heavily on the role of the Scrum Master within the Scrum framework, discussing how they should handle impediments. While this is related to project management and touches on a core principle of managing team dynamics, it is primarily about specific agile roles rather than broader project management practices, methodologies, or tools. There is a lack of depth in discussing overall project management principles or lifecycle phases outside of the immediate Agile context, which reduces the alignment score. Therefore, the content receives a moderate confidence score due to its limited scope within the larger context of project management.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of the Scrum Master within Scrum methodology, specifically focusing on impediment resolution. It does not mention Open Space Agile, nor does it align with the principles of collective participation or co-creation outlined in the category description. The content lacks detail on open dialogues or the dynamics of organisational change, ultimately making it misaligned with the key themes of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master and their responsibilities regarding impediment removal, which is more focused on Scrum practices rather than tools. Although it mentions the need for enabling the team to handle impediments themselves, it lacks any specific references to tools that facilitate this process or any discussion on how tools can enhance the Scrum Master's effectiveness. Therefore, while there is some conceptual alignment, the lack of direct mentions and depth concerning tools results in a low confidence score overall.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content discusses the role of the Scrum Master and their responsibility in removing impediments, which relates to team facilitation. However, it does not explicitly mention Liberating Structures or specific methods. The focus is primarily on Scrum practices rather than the structured facilitation techniques that Liberating Structures embodies. There is minimal discussion of engagement or the use of facilitation techniques that align with the Liberating Structures framework, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Values",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the Scrum Master’s role and approach to removing impediments but lacks a direct focus on underlying values such as commitment, courage, and respect. While it touches on concepts of enabling team self-sufficiency, which aligns somewhat with values in Agile practices, it does not provide a philosophical foundation or in-depth discussion surrounding values or their influence on decision-making, team dynamics, or organisational behaviour.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments, which is a specific Scrum practice rather than a philosophical exploration of broader concepts such as the foundational beliefs of Agile. Although it touches on the idea of fostering team self-sufficiency, which could relate to philosophical aspects, it does not delve deeply into why these practices are meaningful or how they shape decision-making. Thus, the focus remains on practical implementation rather than philosophical discussion.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T15:03:28",
+    "ai_confidence": 52.0,
+    "ai_mentions": 9,
+    "ai_alignment": 15,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master in removing impediments, which relates to the principles of Agile as a discipline. It provides some depth regarding the responsibilities of the Scrum Master and the importance of fostering self-sufficiency within the team. However, it largely focuses on the specific role and a particular aspect of Scrum rather than providing a comprehensive view on the discipline as a whole, particularly regarding the evolution and broader impact on organizational performance. Therefore, while there is relevance to the category, it lacks broader systemic discussions and does not fully align with key topics defined for the Discipline category.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the responsibilities of the Scrum Master and the concept of impediments rather than discussing artifacts as defined within Agile methodologies. It briefly mentions how impeding factors can affect team progress, but it does not provide an explicit exploration of artifacts or their role within the Scrum framework. The discussion lacks depth on artifacts, their structure, and their impact within the Agile process, hence, aligns only tangentially with the category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in removing impediments within a Scrum Team, focusing on team empowerment and self-sufficiency rather than observability. There are no direct mentions of observability, metrics, logs, or traces. While there is a minor mention of helping teams resolve issues, this does not align with the core themes of observability, which involves understanding system states through generated data. The depth of discussion is limited to Scrum practices without any connection to observability principles, tools, or best practices.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly discusses the role of the Scrum Master in removing impediments, which indirectly relates to enhancing team efficiency and potentially impacts Time to Market. However, the focus is predominantly on the Scrum role rather than a detailed exploration of Time to Market strategies, metrics, or direct improvements. Thus, while there is some alignment, the discussion lacks depth and is not primarily centered on Time to Market.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 73.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content primarily focuses on the role of the Scrum Master in the Scrum framework, which is a specific aspect of Agile product development. It discusses the responsibilities of the Scrum Master regarding impediments and emphasizes the importance of empowering teams, aligning with Agile principles and continuous improvement practices in product development. However, while it aligns well with the conceptual themes of iterative processes and team collaboration, the discussion is limited to a narrow focus on Scrum roles rather than broader methodologies or practices in product development. Therefore, direct mentions are present but not extensive, alignment is strong but specific, and depth of discussion is moderate.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the specific responsibility of the Scrum Master in relation to impediments, reflecting an understanding of Scrum practices. While the primary focus is on the role of the Scrum Master, it emphasizes action-oriented insights, encouraging self-sufficiency and skill development within the team. However, it leans slightly towards a philosophical discussion about the role rather than providing detailed actionable techniques. The mentions of impediments and the exploration of the Scrum Master’s responsibilities partially align with the type of practical discussions expected in the Practice category.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master within a Scrum Team and discusses the management of impediments. It does not explicitly align with the principles of Company as a Product (CaaP) nor does it integrate the broader organizational strategies that CaaP entails. While it mentions the importance of enabling teams, the discussion lacks depth on organizational design or customer-centric strategies, which are key in the CaaP framework. Therefore, it only tangentially touches upon themes relevant to CaaP without being a primary focus.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Method",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 76.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content focuses specifically on the role of the Scrum Master and their responsibility to remove impediments, which aligns with the structured procedures defined in the Scrum method. The detailed discussion of how a Scrum Master should assess whether an impediment can be resolved by the team themselves demonstrates a procedural approach inherent to Scrum. While the core of the content is about the nuances of this role, it focuses explicitly on a methodical understanding of impediment management in a Scrum context, which enhances the confidence score. However, the content does not dive deeply into specific procedural steps or techniques for implementing the Scrum framework, leaving some depth to be desired.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "While the content discusses the responsibilities of a Scrum Master, it does not directly address the concept of 'Unrealised Value' or relate it to Evidence-Based Management. The focus is primarily on impediments to team progress rather than exploring untapped opportunities for innovation or value generation within the organization. There are minimal implicit connections to unrealized potential through team self-sufficiency, but this is too tangential to provide significant alignment or depth on the topic.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in handling impediments within the Scrum framework, which is more focused on the Scrum process rather than scaling principles or frameworks. While it mentions the importance of self-sufficiency and some aspects of team dynamics, it does not delve into strategies for scaling Agile practices or cross-team collaboration at an enterprise level, which are central to the 'Scaling' category. Therefore, while scaling is referenced as a potential future goal for self-sufficient teams, the content does not explore specific methodologies or frameworks related to scaling Agile effectively.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Model",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the role of a Scrum Master in removing impediments, which is inherently related to Scrum practices. However, it does not delve into specific models or frameworks like the Cynefin Framework or Lean Startup principles. While it mentions aspects of empowering the Scrum Team and decision-making, these discussions are secondary to the primary focus on the Scrum Master's responsibilities and do not sufficiently align with the category's expectations regarding conceptual models and frameworks used for system understanding and decision-making.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 20.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content discusses the Scrum Master’s role in removing impediments, focusing on team self-sufficiency. While the role of the Scrum Master might affect team performance indirectly, the content does not discuss Current Value or its core themes like real-time assessment, metrics, or customer satisfaction. It mainly addresses a procedural aspect of Scrum without connecting it to value metrics or evidence-based management principles.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 73.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the role of the Scrum Master within the Scrum framework, specifically focusing on the responsibility of removing impediments. While it falls under the broader category of Agile frameworks, the emphasis is primarily on a particular aspect of Scrum rather than a comprehensive discussion of the framework as a whole. It explains the concept of impediments in the Scrum context and encourages team self-sufficiency, which aligns with key themes of Agile methodologies. However, it lacks a broader exploration of how this fits into overall framework adaptability or implementation strategies, thus placing it as a solid but not exemplary fit for the category.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 73.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content addresses the role of the Scrum Master in regard to removing impediments, which relates to actionable principles in Agile. The discussion is clearly focused on the Scrum Master's responsibilities, which implies a guiding rule for decision-making in Scrum contexts. However, while the response discusses the importance of enabling team self-sufficiency and building skills, it lacks explicit reference to broader Agile tenets or any other methodologies, thus not fully aligning. The depth of the discussion is moderate, providing insight into the decision-making process for Scrum Masters but not extensively covering the implications or foundational principles of Agile methodologies beyond the specific responsibility.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on Scrum practices and the role of the Scrum Master, with no mention of GitHub or its functionalities. It discusses impediments and team dynamics within Scrum, which falls outside the scope of GitHub-related discussions. There is a slight conceptual alignment as Agile principles may indirectly relate to software development practices, but the content lacks relevance to GitHub specifically.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on a specific Scrum framework role and its responsibilities, particularly regarding impediments. While it considers some elements of teams learning to solve problems independently, it does not actively engage with the broader principles of Agnostic Agile or compare different frameworks. The discussion is rooted in Scrum mechanics without of exploring context-driven agility or critical thinking in-depth, leading to a low confidence score for alignment with Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T15:03:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of the Scrum Master in addressing impediments, focusing on specific responsibilities rather than the broader topic of capability development within teams. While it touches upon empowering the team and promoting self-sufficiency, which aligns with the notion of capabilities, the emphasis is on a role and accountabilities rather than cultivating an enduring capability. The discussion on skills and learning is relevant but remains secondary to the focus on impediments and the Scrum Master's responsibilities.",
+    "level": "Ignored"
   }
 }

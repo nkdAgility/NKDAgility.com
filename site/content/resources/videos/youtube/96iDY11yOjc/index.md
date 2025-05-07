@@ -2,8 +2,10 @@
 title: How big is the gap between an average developer and a great Agile Developer?
 description: "Unlock the secrets to becoming a great agile developer! Discover the power of self-investment, practice, and continuous learning. \U0001F4DA\U0001F4A1✨"
 date: 2023-06-06T07:00:04Z
+weight: 355
 ResourceId: 96iDY11yOjc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 96iDY11yOjc
@@ -15,35 +17,25 @@ preview: https://i.ytimg.com/vi/96iDY11yOjc/maxresdefault.jpg
 duration: 349
 isShort: false
 aliases:
-- /resources/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
-- /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
-- /resources/videos/96iDY11yOjc
-- /resources/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 - /resources/96iDY11yOjc
-aliasesFor404:
+- /resources/videos/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
+- /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
+aliasesArchive:
+- /resources/videos/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
 - /resources/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
 - /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 - /resources/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
+- how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Discovery and Learning
 - Continuous Learning
-- Software Developers
-- Personal
-- Pragmatic Thinking
-- Employee Engagement
-- Software Development
-- Coaching
-- Mentoring
+- Competence
 resourceTypes:
 - video
 categories:
-- Scrum
-- Leadership
-- Engineering Excellence
+- Uncategorized
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development
@@ -78,7 +70,7 @@ Drawing a fascinating parallel, I'd like to highlight what martial artists and m
 
 I believe that training classes can serve as an avenue for this much-needed practice, provided they are structured correctly.
 
-However, this element of practice is where the true prowess of training classes shines.  Not those that have you glued to a PowerPoint presentation but ones that foster a dynamic, engaging, and interactive learning environment, akin to what I strive to cultivate in my Agile and Scrum courses.
+However, this element of practice is where the true prowess of training classes shines.  Not those that have you glued to a PowerPoint presentation but ones that foster a dynamic, engaging, and interactive learning environment, akin to what I strive to cultivate in my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses.
 
 I prefer to incorporate elements of flipped learning in my training classes.
 

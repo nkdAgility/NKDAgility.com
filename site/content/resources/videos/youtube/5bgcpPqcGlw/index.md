@@ -2,29 +2,44 @@
 title: 'Mastering Site Reliability: Insights from Azure DevOps on Building a Resilient Live Site Culture'
 description: Discover how the Azure DevOps team at Microsoft balances reliability and agility in software development. Learn key SRE practices to enhance your team's performance!
 date: 2020-06-04T02:05:28Z
+weight: 165
 ResourceId: 5bgcpPqcGlw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5bgcpPqcGlw
 url: /resources/videos/:slug
-slug: agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
+slug: mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 aliases:
-- /resources/videos/5bgcpPqcGlw
-- /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
-- /resources/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 - /resources/5bgcpPqcGlw
-aliasesFor404:
+- /resources/videos/mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
+- /resources/videos/agile-evolution-live-site-culture-site-reliability-at-azure-devops
+aliasesArchive:
+- /resources/videos/mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 - /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
 - /resources/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
+- /resources/videos/agile-evolution-live-site-culture-site-reliability-at-azure-devops
+- mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 preview: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg
 duration: 3386
 isShort: false
 tags:
-- Events and Presentations
-- Software Development
 - Operational Practices
 - Pragmatic Thinking
+- Azure DevOps
+- Site Reliability Engineering
+- Software Development
+- Organisational Agility
+- Technical Mastery
+- Cross Functional Teams
+- Deployment Frequency
+- Frequent Releases
+- Market Adaptability
+- Product Delivery
+- Sociotechnical Systems
+- Technical Debt
+- Technical Excellence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,26 +49,28 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Engineering Excellence
+- Technical Leadership
 
 ---
-In my journey through the world of software development and site reliability engineering, I've come to appreciate the delicate balance between engineering and operations. Today, I want to share insights from my experiences with the Azure DevOps team at Microsoft, particularly how they foster a live site culture that prioritises reliability while delivering value to customers.
+In my journey through the world of [software development]({{< ref "/tags/software-development" >}}) and [site reliability engineering]({{< ref "/tags/site-reliability-engineering" >}}), I've come to appreciate the delicate balance between engineering and operations. Today, I want to share insights from my experiences with the Azure [DevOps]({{< ref "/categories/devops" >}}) team at Microsoft, particularly how they foster a live site culture that prioritises reliability while delivering value to customers.
 
 ### The Importance of Site Reliability Engineering
 
-Site reliability engineering (SRE) is not just a buzzword; it’s a critical discipline that ensures systems are robust and resilient. My work with various clients has shown me that operational needs are just as vital as engineering requirements. The Azure DevOps team exemplifies how to create a culture that supports both.
+Site reliability engineering (SRE) is not just a buzzword; it’s a critical discipline that ensures systems are robust and resilient. My work with various clients has shown me that operational needs are just as vital as engineering requirements. The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team exemplifies how to create a culture that supports both.
 
 #### Key Elements of a Successful Live Site Culture
 
-1. **Transparency Builds Trust**: 
+1. **[Transparency]({{< ref "/tags/transparency" >}}) Builds Trust**: 
    - The Azure DevOps team prioritises transparency with their customers. They publish detailed post-mortems after outages, outlining what went wrong, the steps taken to resolve the issue, and how they plan to prevent it in the future. This level of openness fosters trust and reassures customers that their concerns are taken seriously.
 
 2. **Telemetry is Essential**: 
    - Collecting and organising telemetry data is crucial. The Azure DevOps team has developed a comprehensive telemetry pipeline that allows them to monitor system performance and user interactions. This data is invaluable for identifying trends and potential issues before they escalate.
 
 3. **Automation is Key**: 
-   - In an agile environment, automation is not just a luxury; it’s a necessity. The Azure DevOps team has embraced automation to ensure that their applications are always in a deployable state. This means that when the business decides to ship to production, the engineering team is not burdened with additional work. The product owner can simply push a button.
+   - In an agile environment, automation is not just a luxury; it’s a necessity. The Azure DevOps team has embraced automation to ensure that their applications are always in a deployable state. This means that when the business decides to ship to production, the engineering team is not burdened with additional work. The [product owner]({{< ref "/tags/product-owner" >}}) can simply push a button.
 
-4. **Incident Response and Continuous Improvement**: 
+4. **Incident Response and [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: 
    - When incidents occur, the Azure DevOps team is quick to respond. They have a structured approach to incident management, which includes creating incident bridges with all necessary stakeholders. This ensures that everyone is aligned and working towards a resolution. Post-incident reviews are conducted to identify root causes and implement improvements.
 
 ### Learning from Past Mistakes
@@ -62,7 +79,7 @@ One of the most striking lessons I've learned comes from the story of Knight Cap
 
 ### Embracing Change at Microsoft
 
-Microsoft has undergone a significant transformation over the past decade. Once a waterfall organisation, they now embrace continuous delivery, deploying updates to Windows and other products at an unprecedented scale. With over 160,000 deployments per day, the Azure DevOps team has demonstrated that agility and reliability can coexist.
+Microsoft has undergone a significant transformation over the past decade. Once a waterfall organisation, they now embrace [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), deploying updates to [Windows]({{< ref "/tags/windows" >}}) and other products at an unprecedented scale. With over 160,000 deployments per day, the Azure DevOps team has demonstrated that agility and reliability can coexist.
 
 ### Building Cross-Functional Teams
 

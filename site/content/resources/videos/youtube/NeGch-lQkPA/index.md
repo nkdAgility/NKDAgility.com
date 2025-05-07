@@ -2,8 +2,10 @@
 title: Overview of 'applying flow metrics for Scrum' course.
 description: Unlock Scrum's potential with Kanban! Discover how flow metrics can enhance planning, execution, and retrospectives for better team performance.
 date: 2024-02-19T07:00:09Z
+weight: 665
 ResourceId: NeGch-lQkPA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: NeGch-lQkPA
@@ -15,36 +17,40 @@ preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg
 duration: 125
 isShort: false
 aliases:
-- /resources/overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
-- /resources/videos/NeGch-lQkPA
-- /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 - /resources/NeGch-lQkPA
-aliasesFor404:
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
+aliasesArchive:
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
 - /resources/overview-of-applying-flow-metrics-for-scrum-course
 - /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 - /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course-
+- overview-of-applying-flow-metrics-for-scrum-course-
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+- overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
-- Product Delivery
-- Value Delivery
-- Practical Techniques and Tooling
-- Team Performance
 - Operational Practices
 - Pragmatic Thinking
-- Agile Frameworks
-- Agile Project Management
+- Throughput
 - Software Development
+- Team Performance
+- Agile Planning
+- Value Delivery
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-### Applying Flow Metrics for Scrum: Enhancing Value Delivery with Kanban
+### Applying Flow Metrics for [Scrum]({{< ref "/categories/scrum" >}}): Enhancing [Value Delivery]({{< ref "/tags/value-delivery" >}}) with [Kanban]({{< ref "/categories/kanban" >}})
 
 **Introduction**
 
@@ -62,7 +68,7 @@ Kanban and Scrum are not mutually exclusive. In fact, they complement each other
 
 - **Improved Flow**: By focusing on flow, teams can ensure a steady stream of value delivery, avoiding the common pitfalls of task-oriented work.
 
-- **Data-Driven Decisions**: Kanban’s data-centric approach allows teams to make informed decisions, leading to continuous improvement and better outcomes.
+- **Data-Driven Decisions**: Kanban’s data-centric approach allows teams to make informed decisions, leading to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and better outcomes.
 
 * * *
 
@@ -70,11 +76,11 @@ Kanban and Scrum are not mutually exclusive. In fact, they complement each other
 
 The "Applying Flow Metrics for Scrum" course is designed to help Scrum teams leverage Kanban metrics to enhance their performance. Here’s what you can expect from this course:
 
-- **Understanding Kanban Metrics**: Learn about key Kanban metrics such as cycle time, lead time, throughput, and work in progress (WIP) limits.
+- **Understanding Kanban Metrics**: Learn about key Kanban metrics such as [cycle time]({{< ref "/tags/cycle-time" >}}), [lead time]({{< ref "/tags/lead-time" >}}), [throughput]({{< ref "/tags/throughput" >}}), and work in progress (WIP) limits.
 
 - **Integration with Scrum Events**: Discover how to apply these metrics during Scrum events like sprint planning, daily stand-ups, sprint reviews, and retrospectives.
 
-- **Tools and Techniques**: Gain insights into tools and techniques for tracking progress, managing the product backlog, and identifying improvement opportunities.
+- **Tools and Techniques**: Gain insights into tools and techniques for tracking progress, managing the [product backlog]({{< ref "/tags/product-backlog" >}}), and identifying improvement opportunities.
 
 * * *
 
@@ -86,13 +92,13 @@ The "Applying Flow Metrics for Scrum" course is designed to help Scrum teams lev
 
 - Set realistic sprint goals based on past throughput.
 
-1. **Daily Scrum**:
+1. **[Daily Scrum]({{< ref "/tags/daily-scrum" >}})**:
 
 - Monitor WIP limits to ensure a balanced workload.
 
 - Identify blockers early by tracking cycle time.
 
-1. **Sprint Review**:
+1. **[Sprint Review]({{< ref "/tags/sprint-review" >}})**:
 
 - Present data-driven insights to stakeholders.
 
@@ -104,7 +110,7 @@ The "Applying Flow Metrics for Scrum" course is designed to help Scrum teams lev
 
 - Focus discussions on optimizing value delivery.
 
-1. **Product Backlog Refinement**:
+1. **Product [Backlog Refinement]({{< ref "/tags/backlog-refinement" >}})**:
 
 - Use metrics to prioritize backlog items effectively.
 
@@ -118,7 +124,7 @@ By integrating Kanban metrics into your Scrum practice, you can expect the follo
 
 - **Increased Value Delivery**: Focus on delivering tangible value to customers rather than just completing tasks.
 
-- **Happier Stakeholders**: Improved transparency and predictability lead to more satisfied stakeholders.
+- **Happier Stakeholders**: Improved [transparency]({{< ref "/tags/transparency" >}}) and predictability lead to more satisfied stakeholders.
 
 - **Continuous Improvement**: Use data to drive continuous improvement, making your team more efficient and effective over time.
 
@@ -126,7 +132,7 @@ By integrating Kanban metrics into your Scrum practice, you can expect the follo
 
 **Conclusion**
 
-The "Applying Flow Metrics for Scrum" course offers a powerful way to enhance your Scrum practice by integrating Kanban strategies. By focusing on flow metrics, you can improve value delivery, increase stakeholder satisfaction, and drive continuous improvement. If your Scrum team is struggling to deliver consistent value, this course could be the game-changer you need.
+The "Applying Flow Metrics for Scrum" course offers a powerful way to enhance your Scrum practice by integrating Kanban strategies. By focusing on flow metrics, you can improve value delivery, increase stakeholder satisfaction, and drive continuous improvement. If your [Scrum team]({{< ref "/tags/scrum-team" >}}) is struggling to deliver consistent value, this course could be the game-changer you need.
 
 **Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, Scrum, or any other Agile practices, feel free to book a coffee with me through Naked Agility.
 

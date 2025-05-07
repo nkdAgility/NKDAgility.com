@@ -2,8 +2,10 @@
 title: Code Reviews for Quality Assurance
 description: Reimagine code reviews with Martin Hinshelwood! Discover how automation and a shift-left approach enhance quality and speed in software development.
 date: 2024-11-27T06:00:25Z
+weight: 255
 ResourceId: r2G-NrSIj2k
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: r2G-NrSIj2k
@@ -12,26 +14,18 @@ url: /resources/videos/:slug
 slug: code-reviews-for-quality-assurance
 layout: video
 aliases:
-- /resources/videos/r2G-NrSIj2k
-- /resources/videos/code-reviews-for-quality-assurance
-- /resources/code-reviews-for-quality-assurance
 - /resources/r2G-NrSIj2k
-aliasesFor404:
+- /resources/videos/code-reviews-for-quality-assurance
+aliasesArchive:
 - /resources/videos/code-reviews-for-quality-assurance
 - /resources/code-reviews-for-quality-assurance
+- code-reviews-for-quality-assurance
 preview: https://i.ytimg.com/vi/r2G-NrSIj2k/maxresdefault.jpg
 duration: 116
 isShort: false
 tags:
-- Code and Complexity
-- Practical Techniques and Tooling
-- Engineering Practices
 - Software Development
-- Technical Mastery
-- Modern Source Control
-- Technical Excellence
-- Operational Practices
-- Pragmatic Thinking
+- Shift-Left Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -59,7 +53,7 @@ These benefits are real, but traditional code reviews can also introduce bottlen
 
 ## Shifting Left: Pre-Reviewed Code
 
-As we move toward modern engineering practices, there’s a growing emphasis on **pre-reviewing code**. Here’s what that means:
+As we move toward modern [engineering practices]({{< ref "/tags/engineering-practices" >}}), there’s a growing emphasis on **pre-reviewing code**. Here’s what that means:
 
 - **Automated validation**: By the time a developer submits a pull request, the code should already pass a suite of automated checks.
 - **Streamlined pull requests**: With automated checks in place, pull requests become less about catching defects and more about strategic discussions, like architectural decisions or ensuring alignment with business goals.
@@ -90,7 +84,7 @@ Shifting toward pre-reviewed code delivers several benefits:
 - Use tools to catch defects, enforce coding standards, and validate functionality before the pull request is even submitted.
 - Examples of useful tools:
   - **SonarQube/SonarCloud**: For code quality and vulnerability analysis.
-  - **GitHub Actions or Azure DevOps Pipelines**: For automated build and test processes.
+  - **[GitHub]({{< ref "/tags/github" >}}) Actions or Azure [DevOps]({{< ref "/categories/devops" >}}) Pipelines**: For automated build and test processes.
 
 ### 2. Make Pull Requests Mandatory
 

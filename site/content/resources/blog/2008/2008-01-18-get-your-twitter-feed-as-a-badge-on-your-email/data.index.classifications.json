@@ -35,12 +35,12 @@
     "reasoning": "Content primarily discusses embedding a Twitter feed in email using HTML, with no focus on sociotechnical interactions or organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T19:02:47",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on integrating a Twitter feed into email using HTML, which is unrelated to the principles or discussions surrounding the One Engineering System (1ES).",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:02:50",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses embedding a Twitter feed in HTML, which is not related to the installation or configuration of Agile or DevOps tools.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses embedding a Twitter feed in emails, which does not relate to Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:02:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in emails, which is unrelated to organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:02:56",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses embedding a Twitter feed into an email, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:02:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in HTML, which does not relate to Agile or DevOps practices or tools.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:03:00",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses embedding a Twitter feed into an email, which is unrelated to metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:03:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed into an email, which is unrelated to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email signature and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:03:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on embedding a Twitter feed in an email and does not discuss Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:03:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a method for embedding a Twitter feed in emails, which does not relate to Agile, DevOps, or technology news and reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email signature using FeedBurner, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant topics outlined in the APOM framework. The content lacks any depth or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses embedding a Twitter feed in HTML, which is unrelated to platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:03:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about integrating Twitter feeds into emails and does not discuss Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:03:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in email using HTML, which is unrelated to AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:03:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in HTML, which is unrelated to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:03:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in emails, with no relevance to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:03:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in emails, which is unrelated to transparency and accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -289,10 +223,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T19:03:28",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation of displaying a Twitter feed, with no personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
@@ -316,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:03:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in HTML, which is unrelated to DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email signature using FeedBurner, which is unrelated to DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the discussion does not align with any core themes of the category. The content lacks depth in relation to DevOps topics.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses embedding a Twitter feed in HTML, which does not relate to engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical solution for integrating Twitter feeds into emails, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:03:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on embedding a Twitter feed into an email, with no discussion on discovery, learning, or related methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:03:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a method for embedding a Twitter feed in emails, which is unrelated to Agile methodologies, DevOps practices, or relevant literature.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:43:16",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly describes a technical solution for embedding a Twitter feed in emails and does not discuss innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -420,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about embedding a Twitter feed in emails and does not relate to portfolio management topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum principles, practices, or product development; it is focused on integrating Twitter feeds into email and does not relate to Scrum at all.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:43:16",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation of Twitter feeds and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:43:16",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is unrelated to the Definition of Done and focuses on integrating a Twitter feed into emails.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on integrating Twitter feeds into emails, with no relevance to Agile practices or scaling methodologies.",
+    "reasoning": "Content is unrelated to the Definition of Done and focuses on integrating a Twitter feed into emails.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -568,20 +460,11 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-16T19:43:16",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in emails and does not relate to collaboration tools or Agile team dynamics.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses integrating Twitter feeds into emails and does not relate to software development roles or Agile/DevOps methodologies.",
+    "reasoning": "Content primarily discusses embedding a Twitter feed in emails and does not relate to collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
   "Software Development": {
@@ -620,7 +503,7 @@
     "reasoning": "Content focuses on integrating Twitter feeds into emails, which is unrelated to Agile or Scrum estimation practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:43:16",
     "ai_confidence": 0,
@@ -694,11 +577,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on embedding a Twitter feed in an email and does not discuss Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with any of the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about embedding a Twitter feed in emails and does not discuss hypothesis formulation or experimentation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is focused on embedding Twitter feeds into emails and does not discuss AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -838,10 +715,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T19:43:16",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss Agile Planning Tools or related methodologies; it focuses on embedding Twitter feeds in emails.",
     "level": "Ignored"
   },
@@ -928,10 +805,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:43:16",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on integrating a Twitter feed into email and does not discuss the Definition of Ready or its relevant concepts.",
     "level": "Ignored"
   },
@@ -971,15 +848,6 @@
     "reasoning": "Content is focused on adding a Twitter feed to emails and does not discuss remote working, Agile practices, or related topics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on using Twitter feed as a badge in emails, unrelated to Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:43:16",
@@ -987,15 +855,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses integrating a Twitter feed into email, which does not relate to customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on embedding Twitter feeds in emails and does not relate to Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1268,15 +1127,6 @@
     "reasoning": "Content is focused on embedding a Twitter feed into an email and does not discuss asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about embedding a Twitter feed in emails, with no relevance to Scaling Scrum or its practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T19:43:16",
@@ -1313,22 +1163,16 @@
     "reasoning": "Content is unrelated to Scrum principles, roles, and practices; it focuses on using Twitter feeds and HTML, with no discussion of Scrum frameworks or concepts.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical instructions for embedding a Twitter feed, not related to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on embedding a Twitter feed in emails and does not relate to Scrum Master responsibilities or Scrum framework.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on displaying a Twitter feed in an email and does not mention Scrum, the role of a Scrum Master, or any related concepts. It lacks any discussion of Scrum principles, responsibilities, or techniques relevant to the Scrum Master role.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1195,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:43:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on embedding Twitter feeds in email, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email and does not mention or relate to Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:16:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses embedding a Twitter feed in emails, which is unrelated to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical implementation of displaying a Twitter feed in an email signature, which does not align with the core themes of Social Technologies. While it mentions social media, it lacks discussions on collaboration, decision-making, or value delivery within organisations. The content is more about enhancing personal engagement rather than fostering organisational frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1224,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses embedding a Twitter feed in emails, which is unrelated to leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:44:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is focused on embedding a Twitter feed in HTML and does not discuss Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:44:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses embedding a Twitter feed in email, with no relevance to AI, Agile, or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on embedding a Twitter feed in an email, which is unrelated to Scrum principles, practices, or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content is focused on embedding a Twitter feed into an email and does not discuss any aspects of software development, testing, security, or compliance. It lacks any mention of the Shift-Left Strategy or its principles, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on a technical guide for displaying a Twitter feed in an email signature, which does not relate to the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on any relevant topics.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical guide for displaying a Twitter feed in an email, with no direct mention of competence or its related themes. It lacks depth in discussing continuous learning, skill development, or professionalism, which are essential to the category of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical guide for displaying a Twitter feed in an email signature, with no direct mentions or discussions related to Continuous Improvement principles. It lacks alignment with the core themes of Continuous Improvement, such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is minimal, as it only provides a brief overview of a technical process without any connection to the Continuous Improvement framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on displaying a Twitter feed in an email signature and does not discuss any aspects of Agentic Agility, such as intentional shaping of outcomes, autonomy, or adaptability. It lacks any mention of human or AI capabilities in the context of agility, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

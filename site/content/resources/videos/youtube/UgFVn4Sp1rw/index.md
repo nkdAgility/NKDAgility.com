@@ -2,37 +2,33 @@
 title: 'Mastering Product Development Costs: Empower Your Team for Financial Success'
 description: Unlock the secrets of product development costs! Discover how to empower your team with financial awareness and drive innovation for greater profitability.
 date: 2024-12-20T07:00:00Z
+weight: 590
 ResourceId: UgFVn4Sp1rw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: UgFVn4Sp1rw
 source: youtube
 url: /resources/videos/:slug
-slug: measuring-and-monitoring-costs-for-continuous-improvement
+slug: mastering-product-development-costs-empower-your-team-for-financial-success
 layout: video
 aliases:
-- /resources/videos/UgFVn4Sp1rw
-- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
-- /resources/measuring-and-monitoring-costs-for-continuous-improvement
 - /resources/UgFVn4Sp1rw
-aliasesFor404:
+- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
+- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
+aliasesArchive:
+- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
 - /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
 - /resources/measuring-and-monitoring-costs-for-continuous-improvement
+- mastering-product-development-costs-empower-your-team-for-financial-success
 preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w
 duration: 675
 isShort: false
 tags:
-- Pragmatic Thinking
-- Ability to Innovate
 - Metrics and Learning
-- Scrum Product Development
-- Decision Making
-- Agile Product Management
-- People and Process
+- Pragmatic Thinking
 - Value Delivery
-- Evidence Based Leadership
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,11 +36,11 @@ resourceTypes:
 - video
 categories:
 - Product Management
-- Social Technologies
+- Product Development
 - Scrum
 
 ---
-When it comes to building products, understanding the cost associated with those products is absolutely crucial. Over the years, I've learned that the financial landscape of product development is complex, but it boils down to a few key components. The two primary costs in software development are typically hardware and, more significantly, the people involved. If you have a team of 50 people working on a product, their salaries will likely represent your largest expense. Following that, if you're deploying to the cloud, your infrastructure costs will come into play as your second biggest expense.
+When it comes to building products, understanding the cost associated with those products is absolutely crucial. Over the years, I've learned that the financial landscape of [product development]({{< ref "/categories/product-development" >}}) is complex, but it boils down to a few key components. The two primary costs in [software development]({{< ref "/tags/software-development" >}}) are typically hardware and, more significantly, the people involved. If you have a team of 50 people working on a product, their salaries will likely represent your largest expense. Following that, if you're deploying to the cloud, your infrastructure costs will come into play as your second biggest expense.
 
 ### Understanding Your Cost Profile
 
@@ -68,12 +64,12 @@ I advocate for every team to operate as if they are running their own Profit and
 
 If a team finds they are not generating profit, it raises an important question: should they pivot to focus on something more lucrative?
 
-### The Importance of Context in Product Management
+### The Importance of Context in [Product Management]({{< ref "/categories/product-management" >}})
 
 Understanding the financial dynamics of product development requires a broader perspective. Teams need to be aware of the market landscape, including:
 
-- **Current market value**: This encompasses customer satisfaction, employee engagement, and usage metrics.
-- **Hypothetical future value**: This is represented in the product backlog and involves assessing potential market opportunities.
+- **Current market value**: This encompasses [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}), [employee engagement]({{< ref "/tags/employee-engagement" >}}), and usage metrics.
+- **Hypothetical future value**: This is represented in the [product backlog]({{< ref "/tags/product-backlog" >}}) and involves assessing potential market opportunities.
 
 For instance, consider Netflix's strategy in creating new shows. They often opt for new content over sequels because the first season of a new show attracts new viewers, while sequels tend to draw less interest. This strategic choice illustrates the importance of understanding market dynamics and aligning product development efforts accordingly.
 
@@ -82,13 +78,13 @@ For instance, consider Netflix's strategy in creating new shows. They often opt 
 To effectively gauge our cost-to-value profile, we need to monitor several key areas:
 
 1. **Market Value**: Understand both current and potential future value.
-2. **Organisational Capability**: Measure time to market and the ability to innovate. 
+2. **Organisational Capability**: Measure [time to market]({{< ref "/tags/time-to-market" >}}) and the [ability to innovate]({{< ref "/tags/ability-to-innovate" >}}). 
    - **Time to Market**: How quickly can we turn an idea into a product?
    - **Ability to Innovate**: How much time is spent on new market opportunities versus maintaining existing products?
 
-These metrics are not one-size-fits-all; they must be tailored to your specific context and industry. For example, if your organisation struggles with high technical debt, you may find yourself spending more time on maintenance than innovation. 
+These metrics are not one-size-fits-all; they must be tailored to your specific context and industry. For example, if your organisation struggles with high [technical debt]({{< ref "/tags/technical-debt" >}}), you may find yourself spending more time on maintenance than innovation. 
 
-### Continuous Improvement Through Measurement
+### [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}}) Through Measurement
 
 Once you have a handle on these metrics, the next step is to identify what to measure next to achieve the greatest impact. This is a continuous cycle of assessment and adjustment. 
 

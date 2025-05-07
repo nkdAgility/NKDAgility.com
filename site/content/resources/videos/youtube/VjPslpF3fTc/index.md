@@ -2,8 +2,10 @@
 title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
 description: "Unlock your potential! Discover how immersive learning transforms skill enhancement for experienced professionals in our latest video. \U0001F393✨"
 date: 2023-08-01T07:00:19Z
+weight: 1000
 ResourceId: VjPslpF3fTc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: VjPslpF3fTc
@@ -15,24 +17,24 @@ preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
 duration: 122
 isShort: false
 aliases:
-- /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
-- /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
-- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
-- /resources/videos/VjPslpF3fTc
 - /resources/VjPslpF3fTc
-aliasesFor404:
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
+aliasesArchive:
+- /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
 - /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
 - /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
+- how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Discovery and Learning
-- Continuous Learning
+- Competence
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 
@@ -89,7 +91,7 @@ And it's this deep, layered exploration that can genuinely elevate their agile p
 
 ## Your Immersive Learning Journey  
 
-If you're intrigued by the prospects of immersive learning or wish to dive deeper into the Agile, Scrum, or DevOps world, let's connect.  🌐 
+If you're intrigued by the prospects of immersive learning or wish to dive deeper into the Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}) world, let's connect.  🌐 
 
 Whether you're a newbie or someone with years under their belt, there's always more to discover.  
 

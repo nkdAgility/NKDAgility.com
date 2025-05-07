@@ -2,8 +2,10 @@
 title: Best Scrum advice you ever received?
 description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
 date: 2023-06-05T07:00:20Z
+weight: 690
 ResourceId: YUlpnyN2IeI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: YUlpnyN2IeI
@@ -15,39 +17,36 @@ preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 isShort: false
 aliases:
-- /resources/best-scrum-advice-you-ever-received-2
-- /resources/best-scrum-advice-you-ever-received
-- /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
-- /resources/videos/YUlpnyN2IeI
-- /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/YUlpnyN2IeI
-aliasesFor404:
+- /resources/videos/best-scrum-advice-you-ever-received
+- /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
+aliasesArchive:
+- /resources/videos/best-scrum-advice-you-ever-received
 - /resources/best-scrum-advice-you-ever-received-2
 - /resources/best-scrum-advice-you-ever-received
 - /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
+- /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
+- best-scrum-advice-you-ever-received
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Frameworks
-- Scrum Master
-- Empirical Process Control
-- Agile Values and Principles
 - Software Development
-- Software Developers
-- Agile Project Management
-- Personal
+- Pragmatic Thinking
+- Agile Planning
 - Agile Philosophy
+- Organisational Agility
+- Agile Frameworks
+- Agile Transformation
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-## The Golden Nugget of Scrum Advice I've Ever Received
+## The Golden Nugget of [Scrum]({{< ref "/categories/scrum" >}}) Advice I've Ever Received
 
 Today, I am bringing to the table a reflective question that hovers persistently in the Scrum sphere, which is,  "What's the best Scrum advice you've ever received?" ✨
 
@@ -89,7 +88,7 @@ The power of flexibility and iterative processes in Scrum are powerful tools.  
 
 Similarly, Agile is about adopting a method, understanding its core, and then adapting it to suit your organisational ecosystem better.
 
-It's a journey of continuous improvement, where you embrace what works and discard what doesn't, constantly iterating and adapting to foster an environment that nurtures agility and innovation.
+It's a journey of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), where you embrace what works and discard what doesn't, constantly iterating and adapting to foster an environment that nurtures agility and innovation.
 
 This flexibility, adaptability, and reliance on empirical processes encapsulate the true power of Agile.
 

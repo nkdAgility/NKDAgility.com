@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T19:07:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 4,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Joanna's expertise in Scrum and agile leadership, making it a major but secondary theme, as it primarily focuses on her personal attributes and communication skills rather than the frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, which indirectly touches on themes of collaboration and decision-making. However, it lacks a direct discussion of social technologies as defined in the category. While there are mentions of transparency and feedback loops, the overall emphasis is on Joanna's personal attributes and training style rather than on frameworks or methodologies that promote collaboration within organisations. Therefore, while there is some alignment, it does not meet the primary focus required for a higher confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:07:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile training, discussing Joanna's expertise and teaching methods. While it briefly touches on concepts like feedback loops and continuous improvement, these are framed within the context of Agile rather than DevOps. The overall emphasis is on Agile methodologies, which do not align with the core principles of DevOps as defined in the classification criteria.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -37,21 +43,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T19:07:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions agile leadership and discusses Joanna's communication skills and expertise in a way that suggests a focus on leadership qualities, but it primarily centres on her technical expertise and training abilities.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions Joanna's expertise in agile leadership, but it primarily focuses on her technical skills and communication style rather than providing a detailed discussion on leadership practices. While there is some alignment with the themes of leadership in Agile, the depth of discussion is limited, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T19:07:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile leadership and tools, which are relevant to business agility, but the primary focus is on Joanna's competence as a trainer rather than on business agility principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions agile leadership and tools, but it primarily focuses on Joanna's competence as a trainer rather than discussing the principles or practices of business agility. The discussion lacks depth and does not explore the core themes of business agility, such as organisational adaptability or strategies for fostering innovation.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -82,29 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:08:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Joanna's personal qualities and expertise as a trainer, rather than discussing Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T19:08:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T19:08:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, with a strong emphasis on her teaching methods and personal qualities. While there are brief mentions of empirical practices, such as 'Inspect & Adapt' and 'Transparent Decision-Making', these are not the main focus of the content. The discussion lacks a robust exploration of Evidence-Based Management principles, metrics, or data-informed decision-making, which are central to the category. Therefore, the confidence score reflects a low alignment with the core themes of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,12 +115,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T19:08:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile leadership and mentions Scrum, indicating a significant but secondary theme related to Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile leadership and tools, but it primarily focuses on Joanna's competence as a trainer rather than discussing Agile frameworks in detail. While there is some alignment with Agile principles, the lack of specific discussion on frameworks like Scrum or their implementation limits the overall confidence score.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +136,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T19:08:10",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Joanna's qualifications and communication skills as a trainer, with no focus on the Definition of Ready or related criteria.",
     "level": "Ignored"
   },
@@ -150,15 +150,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Joanna's qualifications and teaching abilities, with no focus on trend analysis in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T19:08:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses individual Agile practices and Scrum roles without reference to scaling or enterprise-level initiatives.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -172,10 +163,10 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T19:08:15",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -199,19 +190,22 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T19:08:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Joanna's competence and communication skills in the context of delivering Scrum classes, which relates to team dynamics and agile leadership, but it is primarily focused on her individual qualities rather than broader team performance strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Joanna's competence and communication skills, which could relate to team dynamics and leadership. However, it lacks explicit discussions on team performance strategies, metrics, or Agile practices, resulting in a low confidence score.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T19:08:21",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Joanna's qualifications and communication skills as a trainer, without focusing on collaboration tools or their impact on Agile teams.",
     "level": "Ignored"
   },
@@ -226,20 +220,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T19:08:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Joanna's expertise in agile leadership and training, which relates to product delivery methodologies, but it primarily focuses on her personal attributes and communication skills rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T19:08:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, with no clear focus on AI applications in Agile or DevOps.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Joanna's competence as a trainer and her communication skills rather than discussing methodologies or practices related to product delivery. While there are mentions of agile leadership and tools, these are not explored in depth or connected to the broader themes of product delivery, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -251,15 +239,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T19:08:27",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Joanna's competence as a trainer in the context of Scrum, highlighting her communication skills and understanding of agile leadership, which aligns with the interplay between human behaviour and structured methodologies.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T19:08:28",
@@ -268,15 +247,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T19:08:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions agile leadership and tools, indicating a secondary theme related to Agile Project Management, but it primarily focuses on Joanna's competence as a trainer rather than discussing agile methodologies in depth.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,30 +266,12 @@
     "reasoning": "Content primarily focuses on Joanna's competence and communication skills rather than on accountability within Agile teams.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T19:08:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Joanna's competence and communication skills rather than on transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T19:08:34",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:08:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -343,48 +295,57 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T19:08:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions agile leadership and the expertise of a trainer, but it primarily focuses on personal attributes and experiences rather than providing a clear discussion on technical leadership principles or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Joanna's expertise in Agile and Scrum, highlighting her role as a leader and educator. While it mentions Agile leadership and provides insights into training and practical application, it lacks a deeper exploration of technical leadership principles, such as mentoring, team dynamics, or conflict resolution. The focus is more on Joanna's personal attributes and training style rather than on broader technical leadership strategies.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T19:08:42",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Joanna's qualifications and communication skills as a trainer, with no focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:08:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, without a clear emphasis on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on Joanna as a Scrum trainer, discussing her expertise and the value of her training sessions in the context of Scrum and Agile principles. It explicitly mentions the role of a Scrum Master and includes relevant topics such as Agile leadership, team dynamics, and continuous improvement practices. The depth of discussion is significant, covering various aspects of Scrum training and the impact of effective Scrum practices, which aligns well with the category's core themes.",
+    "level": "Primary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T19:08:45",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Joanna's competence as a trainer and her communication skills, rather than discussing Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T19:08:46",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions agile leadership and tools, indicating a connection to Agile principles, but primarily focuses on Joanna's competence as a trainer rather than a deep discussion of Agile values.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in teaching Agile and Scrum, with some references to Agile principles and practices. While it mentions the Agile manifesto and touches on concepts like continuous improvement and feedback loops, the discussion is more about Joanna's training style and less about the foundational values and principles of Agile itself. Therefore, while there is some alignment, it does not deeply engage with the core themes of Agile Values and Principles.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -397,11 +358,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:08:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Joanna's qualifications and communication skills in relation to Scrum training, with no mention of Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, with no direct mention of Test First Development principles or practices. While it touches on Agile methodologies and feedback loops, it does not delve into the specifics of defining success criteria or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,21 +424,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T19:08:59",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Joanna's competence as a trainer and her communication skills, with no clear discussion on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T19:09:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile leadership and training in the context of Scrum, indicating a major but secondary theme related to Agile transformation.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Agile principles, particularly through the lens of Joanna's training sessions, which focus on Scrum and Agile methodologies. It highlights key aspects such as Agile leadership, feedback loops, and practical applications of Agile principles, aligning well with the core themes of Agile transformation. The depth of discussion is significant, providing insights into how Joanna's classes facilitate understanding and implementation of Agile practices, thus enhancing organisational agility.",
+    "level": "Primary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -503,24 +470,6 @@
     "reasoning": "Content primarily discusses Joanna's qualifications and communication skills, with no clear focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T19:09:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Joanna's qualifications and communication skills as a trainer, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T19:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on Joanna's personal qualities and communication skills as a trainer, rather than discussing specific tools, methodologies, or practical techniques related to Agile and DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T19:09:08",
@@ -541,21 +490,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T19:09:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides personal insights and reflections on Joanna's capabilities as a trainer in the Scrum context, but it primarily focuses on her qualifications and skills rather than personal experiences or anecdotes.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T19:09:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Joanna's competence as a trainer, which implies a connection to training events or presentations, but it does not focus primarily on specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise and teaching style rather than personal experiences or reflections related to Agile methodologies. While it mentions Agile principles and training, it lacks personal anecdotes or insights that would align it more closely with the 'Personal' category. The discussion is more about Joanna's qualifications and the benefits of her classes than individual experiences or challenges faced in Agile practices.",
+    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -584,15 +527,6 @@
     "reasoning": "The content primarily focuses on Joanna's competence and communication skills as a trainer, without discussing specific Scrum roles, team dynamics, or collaboration techniques.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T19:09:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an individual's qualifications and communication skills rather than discussing scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T19:09:18",
@@ -613,11 +547,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:09:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-03-21T19:03:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum training, discussing Joanna's expertise and teaching methods. While it briefly touches on concepts like feedback loops and continuous improvement, it does not explicitly address Continuous Delivery principles or practices. The discussion lacks depth and does not explore the core themes of Continuous Delivery, such as automation in deployment or case studies of Continuous Delivery implementations.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -649,12 +586,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T19:09:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Joanna's communication skills and expertise in Agile leadership, which are relevant to team collaboration, but the primary focus is on her individual capabilities rather than team dynamics or collaboration techniques.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise and training in Agile and Scrum, which indirectly relates to team collaboration through the mention of Scrum ceremonies and practices. However, it lacks a direct discussion on team dynamics, shared ownership, or specific collaboration techniques, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -665,7 +605,7 @@
     "reasoning": "Content focuses on an individual's qualifications and communication skills rather than the Daily Scrum event or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T19:09:29",
     "ai_confidence": 0,
@@ -683,15 +623,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T19:09:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, without discussing discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T19:09:32",
@@ -703,11 +634,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:09:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, with no clear discussion on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Scrum training rather than the Agile Product Operating Model. While it touches on Agile principles and practices, it lacks a direct discussion of the APOM framework and its core themes. The depth of discussion on Agile practices is present, but it does not specifically address the transition to a product-oriented mindset or the integration of product management principles, which are central to the APOM.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -775,10 +709,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T19:09:44",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Joanna's competence as a trainer and her communication skills, with no discussion on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -802,21 +736,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T19:09:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Joanna's communication skills and knowledge in agile leadership, which are relevant to mentoring, but it primarily focuses on her qualifications as a trainer rather than on mentoring techniques or strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise and training in Agile and Scrum, highlighting her role as a teacher and guide. While it mentions aspects of leadership and continuous improvement, it lacks a direct focus on mentoring techniques or the mentoring process itself. The discussion is more about Joanna's qualifications and the benefits of her classes rather than providing guidance on mentoring practices.",
     "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T19:09:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Joanna's qualifications and communication skills as a trainer, with no clear focus on AI or automation in Agile practices.",
-    "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -847,12 +775,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T19:09:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile leadership and tools, indicating a major but secondary theme related to Agile Philosophy, but primarily focuses on Joanna's competence as a trainer.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in teaching Scrum and Agile practices, with some references to Agile principles and the Agile manifesto. However, it lacks a deep exploration of the Agile Philosophy itself, such as the foundational values and principles that guide Agile practices. While it touches on concepts like continuous improvement and feedback loops, these are framed within the context of training rather than a broader philosophical discussion. Therefore, while there is some alignment with the Agile Philosophy, it is not the primary focus.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -865,12 +796,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T19:09:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Joanna's communication skills and expertise in agile leadership, which are relevant to coaching, but it primarily focuses on her qualifications as a trainer rather than on coaching practices or techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, highlighting her ability to inspire and guide learners. While it does not explicitly mention coaching, it aligns with coaching principles by emphasising facilitation, clarity in communication, and the importance of feedback loops. The depth of discussion regarding Joanna's methods and the transformative nature of her classes suggests a strong connection to coaching practices, even if the term itself is not used.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -919,10 +853,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T19:10:07",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Joanna's competence as a trainer and her communication skills, rather than discussing Agile Product Management principles or practices.",
     "level": "Ignored"
   },
@@ -944,15 +878,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T19:10:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, with no clear discussion on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T19:10:12",
@@ -960,15 +885,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Joanna's personal attributes and expertise in training, without addressing the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T19:10:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Joanna's competence as a trainer and her communication skills, without focusing on specific products, books, or methodologies related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,28 +907,34 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:10:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Joanna's expertise in Agile leadership and her practical communication skills in delivering Scrum classes, indicating a secondary theme related to pragmatic thinking in an Agile context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses practical applications of Agile and Scrum principles through Joanna's training sessions. It highlights real-world problem-solving strategies, emphasises the importance of clear communication, and provides actionable insights that align well with pragmatic thinking. The depth of discussion is significant, covering various aspects of Agile practices and their implementation, which supports a high confidence score.",
+    "level": "Primary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T19:10:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Joanna's competence as a trainer and her communication skills, with no discussion on Lead Time or related metrics.",
+    "calculated_at": "2025-04-11T10:36:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, with no direct mention of Lead Time or its significance as an observability metric. While it discusses Agile principles and practices, it does not align with the core themes of Lead Time, such as measuring efficiency or optimising workflows. The depth of discussion on Lead Time is non-existent, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T19:10:22",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1063,12 +985,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T19:10:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile leadership and tools related to Scrum, making it a major but secondary theme in the context of software development.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically Scrum, and discusses Joanna's expertise in delivering Agile training. It includes direct mentions of Scrum roles, Agile principles, and practical applications, aligning well with the core themes of software development. The depth of discussion is substantial, covering various aspects of Agile training and its impact on software development practices.",
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1115,15 +1040,6 @@
     "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, without discussing cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T19:10:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, rather than discussing the role of software developers within Agile or DevOps frameworks.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T19:10:42",
@@ -1144,10 +1060,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T19:10:44",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Joanna's qualifications and communication skills as a trainer, with no focus on installation or configuration topics.",
     "level": "Ignored"
   },
@@ -1158,15 +1074,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on Joanna's training abilities and expertise, without discussing the specific responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T19:10:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal opinions about Joanna's capabilities as a trainer, lacking industry news or reviews relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1180,10 +1087,10 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T19:10:48",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Joanna's communication skills and her background in agile leadership rather than on specific engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
@@ -1207,21 +1114,27 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T19:10:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions agile leadership as part of Joanna's expertise, but the primary focus is on her technical skills and communication style rather than on leadership practices or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile leadership explicitly, particularly in the context of Joanna's training sessions. It highlights her strategies for leading with agility and driving innovation, which aligns well with the core themes of Agile leadership. However, while it touches on leadership aspects, the primary focus remains on Joanna's technical expertise and training methods, which slightly detracts from a deeper exploration of leadership roles and practices within Agile contexts.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T19:10:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content highlights Joanna's communication skills and expertise, which can contribute to team dynamics and motivation, but it primarily focuses on her individual capabilities rather than team motivation as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise and teaching style rather than directly addressing team motivation or dynamics. While it touches on aspects of Agile training and leadership, it lacks a strong emphasis on fostering team engagement, collaboration, or psychological safety, which are core themes of the category. The discussion is more about individual training and technical mastery than about motivating teams as a collective unit.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1243,21 +1156,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T19:10:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:36:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Joanna's qualifications and communication skills as a trainer, with no focus on throughput or related metrics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and does not explicitly discuss throughput as a delivery metric. While it touches on Agile principles and training, it lacks any direct mention or analysis of throughput, its calculation, or its role in measuring delivery capacity. The discussion is more about personal expertise and training rather than the performance of flow-based systems or throughput trends, leading to a very low confidence score.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:11:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Joanna's competence as a trainer in the Scrum space, indicating a major but secondary theme related to Scrum principles and practices.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1270,11 +1177,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T19:11:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:36:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and Scrum training, with no direct mention of system configuration or related topics. While it discusses tools and techniques relevant to Agile practices, it does not delve into system setup, integration, or configuration management, which are essential for the 'System Configuration' category. The discussion is more about training and leadership in Agile rather than the technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,15 +1205,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T19:11:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, rather than discussing Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T19:11:07",
@@ -1315,21 +1216,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T19:11:08",
+    "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal opinions about a trainer's competence and communication skills, with no discussion of the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T19:11:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile leadership and tools, which are relevant to Agile Strategy, but the primary focus is on Joanna's competence as a trainer rather than on strategic implementation or alignment with Agile principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile methodologies, particularly Scrum, and how her training sessions embody Agile principles. It discusses aspects of Agile leadership, continuous improvement, and practical application of Agile concepts, which align well with the core themes of Agile Strategy. However, while it touches on strategic elements, the content is more centred on Joanna's personal attributes and training style rather than a comprehensive discussion on organisational strategy or implementation at scale, which slightly limits its depth in strategic context.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1351,12 +1255,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:11:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile leadership and tools, which are relevant to organisational agility, but the primary focus is on Joanna's competence as a trainer rather than on organisational agility itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile methodologies, particularly Scrum, and her ability to teach these concepts effectively. While it discusses Agile principles and leadership, it does not delve deeply into broader organisational agility strategies or cultural shifts. The content is rich in detail about Joanna's training sessions and their practical applications, but it lacks a comprehensive exploration of how these practices enhance organisational adaptability as a whole.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1375,5 +1282,432 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:52:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:52:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-14T22:30:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content mentions Scrum in the context of Joanna's training capabilities but lacks detailed discussion on Scrum principles, roles, or events. While it highlights her expertise in agile leadership, it does not delve into specific Scrum practices or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile training and Scrum practices, with no explicit discussion of the Shift-Left Strategy. While it touches on concepts like feedback loops and continuous improvement, these are general Agile principles rather than specific to integrating testing, security, or compliance earlier in the development process. Therefore, the content does not align with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile training and the importance of feedback loops and iterative processes, which are relevant to Continuous Improvement. However, it primarily focuses on Joanna's expertise and training style rather than a comprehensive exploration of Continuous Improvement principles. While there are mentions of improvement and practical application, the depth of discussion on Continuous Improvement as a standalone topic is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and her teaching methods, rather than discussing Common Goals within Agile and DevOps frameworks. While it touches on Agile principles and training, it lacks a clear emphasis on shared objectives or alignment strategies that are central to the concept of Common Goals. The discussion is more about individual expertise and training experiences than about collective goals or team alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Joanna's expertise and the importance of her training in Agile and Scrum, highlighting her technical mastery and ability to inspire others. It aligns well with the themes of competence, particularly in continuous learning and skill development. However, while it touches on competence, it primarily focuses on Joanna's personal attributes and training style rather than a broader discussion on competence as a principle in Agile methodologies.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and discussing her teaching methods and expertise in Agile practices. While it mentions Agile and Scrum, it does not address the One Engineering System framework, its principles, or its integration across teams. The discussion is centred around individual training rather than the standardisation and integration of engineering processes, which is the core of the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and her teaching methods, without explicitly discussing Agentic Agility or its principles. While it touches on Agile practices and leadership, it lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:35:57",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, which aligns well with the principles of Agile product development. It discusses methodologies such as feedback loops, iterative learning, and continuous improvement, which are core themes of product development. However, while it touches on these topics, the content is more promotional and lacks a deeper exploration of product development strategies or practices. The discussion is rich in Agile concepts but does not delve into the broader context of product strategy or risk management, which slightly limits its depth in the product development lifecycle. Overall, it effectively communicates Agile principles but does not fully embody the comprehensive nature of product development discussions.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:36:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Scrum and Agile training, without any direct mention of Open Space Agile principles or practices. While it discusses Agile concepts, it does not align with the core themes of Open Space Agile, such as collective participation, psychological safety, or co-creation. The depth of discussion is centred around Joanna's training methods rather than the Open Space Agile framework, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:36:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and discusses various aspects of Scrum and Agile training. While it mentions Agile principles and practices, it does not explicitly reference Agnostic Agile or its core themes. The discussion is heavily centred on the Scrum framework and does not explore the principles of Agnostic Agile, such as ethical considerations or the importance of context-driven agility. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:36:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on an individual trainer's expertise in Scrum and Agile practices, without addressing the complexities of scaling Agile methodologies across multiple teams or organisations. While it mentions Agile principles and training, it does not discuss frameworks for scaling, cross-team collaboration, or strategies for managing dependencies, which are essential for the 'Scaling' category. The content lacks depth in relation to scaling discussions, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:36:09",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on Scrum and Agile training, discussing Joanna's expertise and teaching methods without any reference to Cell Structure Design or its principles. There are no mentions of decentralised structures, autonomous cells, or the Beta Codex, which are central to the category. The discussion is entirely centred on Agile practices, making it irrelevant to the specified category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:36:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and her expertise in Agile methodologies. While it discusses Agile principles and training techniques, it does not mention or align with the specific facilitation techniques of Liberating Structures. The discussion is centred around traditional Agile training and Scrum practices without reference to the core themes of Liberating Structures, such as inclusive engagement or specific techniques like 1-2-4-All or Troika Consulting. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:36:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Scrum training and Agile principles, without any explicit discussion of Time to Market or related metrics. While it touches on Agile practices, it does not explore the efficiency of delivering value or strategies for optimising processes to reduce delivery time, which are central to the Time to Market category. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:36:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise as a Scrum trainer and does not discuss the concept of 'Company as a Product' or its principles. While it touches on Agile methodologies and training, it lacks any direct mention or alignment with the core themes of CaaP, such as organisational design or customer-centric strategies. The depth of discussion is also minimal regarding the CaaP framework, making it clear that this content does not fit within the specified category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:36:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on Agile and Scrum training, discussing Joanna's expertise and teaching methods without any mention of GitHub or its functionalities. It does not align with the core themes of GitHub, such as version control, collaboration features, or CI/CD pipelines. The discussion is entirely centred on Agile principles and training, which falls outside the scope of GitHub-related content.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:36:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and does not discuss Unrealised Value or its related concepts. While it touches on Agile principles and training, it lacks any explicit mention of potential improvements, innovation opportunities, or the indicators of Unrealised Value. The discussion is centred around Joanna's expertise and the benefits of her training sessions, which does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:36:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and her teaching methods, without any explicit discussion of Current Value or its metrics. While it touches on Agile principles and practical applications, it lacks a direct connection to the assessment of value delivered by a product or service, which is central to the Current Value category. The content does not provide insights into customer satisfaction, revenue impact, or performance feedback, nor does it discuss techniques for gathering or analysing Current Value data. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:36:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and does not explicitly discuss Hybrid Agile or its challenges. While it touches on Agile principles and training, it lacks critical examination of the integration of traditional and agile methodologies, which is essential for the Hybrid Agile category. The content does not provide case studies, analysis of conflicting expectations, or any depth regarding the implications of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:36:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, which is a specific aspect of project management. While it mentions Agile principles and practices, it lacks a broader discussion on core project management principles, methodologies, and lifecycle phases. The depth of discussion is limited to training and personal attributes rather than comprehensive project management strategies or tools. Therefore, while there are relevant mentions, the overall focus is more on Agile training than on project management as a whole.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 100.0,
+    "ai_depth": 100.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions Agile principles and the Scrum framework, but does not focus on specific models or frameworks relevant to the category of 'Model.' The discussion centers around Joanna as a trainer and her teaching style rather than on conceptual representations that inform decision-making or systems thinking.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise as a Scrum trainer and her teaching methods, which relates to Agile principles rather than formal artifacts themselves. There is a brief mention of 'backlog refinement' and general Agile practices, but there is no substantial discussion of specific artifacts like Product Backlog or Sprint Backlog. Thus, while there are minor mentions related to artifacts in the context of Agile training, the main thrust eludes a focused exploration of artifacts as defined in the classification.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 47.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 47.0,
+    "reasoning": "The content discusses a Scrum trainer and her classes, highlighting her expertise and teaching style. While it briefly mentions 'tools and techniques for the modern Agilist,' this is not the primary focus. The content predominantly emphasizes the trainer's qualities and the learning experience rather than discussing specific tools or their integration within Agile or Scrum methodologies. The mention of tools is vague and does not delve into their specific functionalities or comparative analysis, impacting the depth and alignment with the 'Tool' category.",
+    "level": "Tertiary"
+  },
+  "Values": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 35.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on Joanna's qualifications and the benefits of her training sessions. While it mentions Agile principles and continuous improvement, it lacks direct discussions on core values such as commitment, courage, or respect associated with Agile and Scrum frameworks. The discussion remains operational and promotional rather than philosophical or value-driven, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 28,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of Scrum training, specifically highlighting the skills and qualities of Joanna as a trainer. It directly mentions Scrum and Agile principles multiple times, indicating that Scrum is a primary focus. However, while the content does explore frameworks and principles related to Agile, it primarily serves as a promotional piece for Joanna's training sessions rather than a detailed exploration of frameworks themselves. The depth of discussion around the implementation and adaptation of frameworks is surface-level, lacking extensive detail on various frameworks or their contexts. However, it does mention Scrum ceremonies, practices, and how they can be effectively utilized.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 63.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 38,
+    "non_ai_confidence": null,
+    "final_score": 63.0,
+    "reasoning": "The content predominantly focuses on Joanna as a Scrum trainer and her effective teaching methods, which align with the category 'Practice' as it discusses actionable techniques and approaches to Agile and Scrum. There are mentions of specific practices like Daily Stand-ups and Sprint Reviews & Retrospectives, which relate to improving team effectiveness. However, the content is heavily centered on Joanna's personal branding and training experience, rather than a thorough exploration of the practices themselves. This results in a moderate confidence score, reflecting a balance between relevant practice discussions and the overarching focus on her credentials.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content predominantly focuses on a Scrum trainer, Joanna, and her classes, detailing her expertise and teaching methods. It emphasizes practical applications and techniques of Agile rather than exploring the underlying philosophical reasons behind Agile or Scrum practices. There are no direct discussions of theoretical foundations or philosophical beliefs influencing methodologies, and the depth of philosophical exploration is minimal. Therefore, while there are minor allusions to Agile principles, the content does not align well with the specified category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Joanna's qualities as a Scrum trainer and her approach to Agile training, rather than discussing enduring organizational capabilities. While it mentions terms like continuous improvement and Agile principles, these are framed within the context of training sessions and personal skills, lacking a deeper exploration of how these aspects contribute to broad organizational capabilities. Therefore, there are brief mentions of related concepts, but the overall focus is on individuals and practices rather than systemic capabilities.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 32,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses various aspects of Agile and Scrum training provided by Joanna, which implies a focus on the application of Agile principles. It mentions clear communication, problem-solving paradigms, feedback loops, and continuous improvement, all of which align with core tenets of Agile and Lean methodologies. However, the main focus is on promoting the trainer's classes rather than explicitly discussing specific actionable tenets. Therefore, while there is some alignment with the category, the primary focus is more promotional than strictly about tenets.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:44",
+    "ai_confidence": 55.0,
+    "ai_mentions": 12,
+    "ai_alignment": 27,
+    "ai_depth": 16,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content mentions several Scrum techniques and events, such as daily stand-ups, sprint reviews, and retrospectives, indicating a focus on structured practices in Agile. However, it primarily emphasizes Joanna's qualities and the inspirational aspect of her teaching rather than providing a step-by-step methodology or detailed procedures. The alignment with the Method category is moderate as it incorporates some elements of Agile training methodologies, but lacks in-depth discussion on how these methods are precisely implemented.",
+    "level": "Tertiary"
+  },
+  "Observability": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Scrum and Agile training led by Joanna, emphasizing her expertise and the benefits of her classes. While it contains elements of continuous improvement and transparency in decision-making, which are associated with observability, these concepts are not central to the content. Therefore, the direct mentions, conceptual alignment, and depth of discussion related to observability are minimal.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses principles of Agile, particularly emphasizing continuous improvement and empiricism, which directly aligns with key principles of Agile. It highlights Joanna's training in these areas and how they transform theory into action. However, the primary focus is on Joanna's expertise and the benefits of her classes, rather than a thorough exploration of the principles themselves. Hence, while it relates to the category, it's slightly peripheral, leading to a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:45",
+    "ai_confidence": 47.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 47.0,
+    "reasoning": "The content focuses on Joanna's skills and teaching methods in the context of Agile and Scrum, which relates to the Discipline category. However, it primarily emphasizes individual practice and guidance rather than discussing the underlying principles, methodologies, and systemic applications related to professional fields like Agile, DevOps, and Lean. The mentions of Agile leadership, continuous improvement, and feedback loops indicate relevance to disciplines, yet the depth centers more on Joanna's effectiveness as a trainer rather than a structured discussion on the discipline of Agile itself. Therefore, while there is alignment with key aspects of the Discipline category, the overall focus remains on personal attributes and training rather than an exploration of the broader systemic applications of those disciplines.",
+    "level": "Tertiary"
   }
 }

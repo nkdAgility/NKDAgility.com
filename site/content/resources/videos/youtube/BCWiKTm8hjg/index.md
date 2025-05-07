@@ -2,8 +2,10 @@
 title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
 description: "Discover how the virtue of charity can transform your Agile approach, fostering team success and community support. Watch now for powerful insights! \U0001F31F"
 date: 2023-12-06T07:00:08Z
+weight: 840
 ResourceId: BCWiKTm8hjg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BCWiKTm8hjg
@@ -15,31 +17,27 @@ preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
 duration: 162
 isShort: false
 aliases:
-- /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
-- /resources/videos/7-virtues-of-agile-charity
-- /resources/videos/BCWiKTm8hjg
-- /resources/7-virtues-of-agile-charity
 - /resources/BCWiKTm8hjg
-aliasesFor404:
+- /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+- /resources/videos/7-virtues-of-agile-charity
+aliasesArchive:
+- /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 - /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 - /resources/videos/7-virtues-of-agile-charity
 - /resources/7-virtues-of-agile-charity
+- the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Values and Principles
-- Team Collaboration
-- Team Motivation
-- Agile Philosophy
-- Personal
+- Organisational Culture
+- Agile Leadership
+- Employee Engagement
+- Team Performance
 resourceTypes:
 - video
 categories:
-- Product Management
-- Leadership
-- Social Technologies
+- Uncategorized
 
 ---
 One of the key virtues in Agile is **charity**—the act of helping others without expecting anything in return. This often goes unnoticed, yet it plays a crucial role in the success of teams, products, and organizations. As someone who has witnessed the transformative power of this virtue firsthand, I believe it’s time we shine a spotlight on how charity manifests in Agile environments and why it’s essential to embrace it fully.
@@ -116,7 +114,7 @@ Fostering a sense of charity within your Agile team requires intentional effort.
 
 - Ensure that team objectives are framed around **collective success** rather than individual achievements.
 
-- Align bonuses or rewards to team performance, not just individual metrics.
+- Align bonuses or rewards to [team performance]({{< ref "/tags/team-performance" >}}), not just individual metrics.
 
 ### **4\. Make Helping Fun!**
 

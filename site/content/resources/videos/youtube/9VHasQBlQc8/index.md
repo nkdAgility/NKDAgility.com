@@ -2,8 +2,10 @@
 title: The Importance of Patience and Trust in Building Agile Organizations
 description: "Unlock Agile success with patience! Discover how this vital virtue builds trust, navigates setbacks, and fosters a non-blame culture. Watch now! \U0001F31F"
 date: 2023-12-08T07:00:06Z
+weight: 665
 ResourceId: 9VHasQBlQc8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9VHasQBlQc8
@@ -15,31 +17,32 @@ preview: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg
 duration: 156
 isShort: false
 aliases:
-- /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
-- /resources/videos/7-virtues-of-agile-patience
-- /resources/videos/9VHasQBlQc8
-- /resources/7-virtues-of-agile-patience
 - /resources/9VHasQBlQc8
-aliasesFor404:
+- /resources/videos/the-importance-of-patience-and-trust-in-building-agile-organizations
+- /resources/videos/7-virtues-of-agile-patience
+aliasesArchive:
+- /resources/videos/the-importance-of-patience-and-trust-in-building-agile-organizations
 - /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
 - /resources/videos/7-virtues-of-agile-patience
 - /resources/7-virtues-of-agile-patience
+- the-importance-of-patience-and-trust-in-building-agile-organizations
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Organisational Culture
+- Agile Transformation
+- Empirical Process Control
 - Agile Philosophy
-- Agile Leadership
-- Agile Values and Principles
-- Team Performance
-- Team Collaboration
-- Team Motivation
-- Personal
+- Organisational Agility
+- Pragmatic Thinking
+- Social Technologies
+- Agile Strategy
+- Business Agility
+- Psychological Safety
 resourceTypes:
 - video
 categories:
+- Product Development
 - Leadership
 
 ---
@@ -49,7 +52,7 @@ Agility is not just about speed or flexibility; it's about creating an environme
 
 ## **Why Patience is the Key to Trust**
 
-Let's face it, not everything will go as planned. Mistakes happen, failures occur, and sometimes the product we create doesn't meet the desired outcome. That’s part of life in product development. Every feature, every decision we make is a bet—an educated guess that something will work. But we won't know if it works until we’ve gone through the process and validated it with users, customers, and stakeholders.
+Let's face it, not everything will go as planned. Mistakes happen, failures occur, and sometimes the product we create doesn't meet the desired outcome. That’s part of life in [product development]({{< ref "/categories/product-development" >}}). Every feature, every decision we make is a bet—an educated guess that something will work. But we won't know if it works until we’ve gone through the process and validated it with users, customers, and stakeholders.
 
 📝 **Key Takeaway:** Not all outcomes will be successful, but patience allows us to learn from them and move forward.
 
@@ -63,7 +66,7 @@ For an Agile team to truly thrive, they need the space and trust to experiment, 
 
 - **Teams:** Must be patient with each other and themselves as they learn, adapt, and improve through iterations.
 
-Without patience, frustration creeps in, leading to a culture of blame. And in a blame-oriented culture, trust erodes, and with it, the foundation for any effective Agile or Scrum framework.
+Without patience, frustration creeps in, leading to a culture of blame. And in a blame-oriented culture, trust erodes, and with it, the foundation for any effective Agile or [Scrum]({{< ref "/categories/scrum" >}}) framework.
 
 🔑 **Pro Tip:** Trust is the foundation of empiricism, and empiricism cannot thrive in an environment where blame and frustration dominate.
 
@@ -89,7 +92,7 @@ Failures are inevitable in product development, but they should be seen as oppor
 
 ### **The Role of Empiricism in Agile**
 
-Empiricism is one of the core pillars of Agile and Scrum. It relies on transparency, inspection, and adaptation. To make this work, teams need to trust each other and the process, using data and real-world results to guide their decisions. But without patience, empiricism falters.
+Empiricism is one of the core pillars of Agile and Scrum. It relies on [transparency]({{< ref "/tags/transparency" >}}), inspection, and adaptation. To make this work, teams need to trust each other and the process, using data and real-world results to guide their decisions. But without patience, empiricism falters.
 
 - **Transparency:** Teams need to be open about what’s working and what’s not. This requires a safe space where honesty is valued over saving face.
 

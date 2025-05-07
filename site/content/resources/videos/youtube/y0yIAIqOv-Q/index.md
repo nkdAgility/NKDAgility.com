@@ -2,8 +2,10 @@
 title: When should an organisation consider a professional agile consultant?
 description: Discover when to engage an agile consultant for your organisation. Martin Hinshelwood shares insights on navigating the shift to agile product development.
 date: 2023-03-28T07:00:21Z
+weight: 790
 ResourceId: y0yIAIqOv-Q
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: y0yIAIqOv-Q
@@ -15,30 +17,25 @@ preview: https://i.ytimg.com/vi/y0yIAIqOv-Q/maxresdefault.jpg
 duration: 258
 isShort: false
 aliases:
-- /resources/when-should-an-organisation-consider-a-professional-agile-consultant
-- /resources/when-should-an-organization-consider-a-professional-agile-consultant
-- /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant-
-- /resources/videos/y0yIAIqOv-Q
-- /resources/when-should-an-organization-consider-a-professional-agile-consultant-
 - /resources/y0yIAIqOv-Q
-aliasesFor404:
+- /resources/videos/when-should-an-organisation-consider-a-professional-agile-consultant
+- /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant
+aliasesArchive:
+- /resources/videos/when-should-an-organisation-consider-a-professional-agile-consultant
 - /resources/when-should-an-organisation-consider-a-professional-agile-consultant
 - /resources/when-should-an-organization-consider-a-professional-agile-consultant
 - /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant-
 - /resources/when-should-an-organization-consider-a-professional-agile-consultant-
+- /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant
+- when-should-an-organisation-consider-a-professional-agile-consultant
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Agile Project Management
-- Software Development
-- Pragmatic Thinking
-- Agile Transformation
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 **When should an organisation consider a professional agile consultant?**
@@ -57,7 +54,7 @@ From my experience as an Agile Coach, it is at this very moment, when an organis
 
 Suddenly, with failure staring them in the face, there is undoubtedly a collective realisation, which is the same: "We need something different.  We need to try something different and something new." 🔄
 
-You might find what I'm about to say interesting.  But I actually know of a company that switches to Scrum and Agile when a project is in jeopardy and then reverts to Waterfall when it's over.
+You might find what I'm about to say interesting.  But I actually know of a company that switches to [Scrum]({{< ref "/categories/scrum" >}}) and Agile when a project is in jeopardy and then reverts to Waterfall when it's over.
 
 Now, don't you find that unproductive and plain bizarre?
 
@@ -85,13 +82,13 @@ An organisation needs to find the right Agile, which is why a professional Agile
 
 As you probably know by now, my answer is a solid 'yes'.
 
-As an Agile Consultant, I always encourage a high point and continuous improvement, so I have another answer to this article's question, another side to this coin, of 'when should an organisation consider a professional Agile Consultant,' which is "any time is the right time!"
+As an Agile Consultant, I always encourage a high point and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), so I have another answer to this article's question, another side to this coin, of 'when should an organisation consider a professional Agile Consultant,' which is "any time is the right time!"
 
 Perhaps your organisation is achieving its goals and you wonder, "Could we be better?"
 
-Sometimes, having an outsider review your operations and produce a "state of Agile" or "state of DevOps" report can provide a fresh perspective.  
+Sometimes, having an outsider review your operations and produce a "state of Agile" or "state of [DevOps]({{< ref "/categories/devops" >}})" report can provide a fresh perspective.  
 
-I've done this a lot, interviewing people in the organisation, right up through the leadership and even the customers, to create a roadmap for the organisation's next big thing. 💼
+I've done this a lot, interviewing people in the organisation, right up through the [leadership]({{< ref "/categories/leadership" >}}) and even the customers, to create a roadmap for the organisation's next big thing. 💼
 
 ### The Outside-in Perspective: An Agile Gamechanger
 

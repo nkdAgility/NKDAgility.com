@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses the combination of development tools and does not focus on Agile principles or product management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the combination of two specific software products, which aligns with the category's focus on tools and software relevant to Agile practices and DevOps integration.",
-    "level": "Tertiary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T11:41:53",
@@ -53,49 +44,16 @@
     "reasoning": "Content primarily discusses the combination of software products and does not address decision-making processes or related themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:41:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the announcement of product integration rather than any events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:42:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the combination of Microsoft products and does not focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:42:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the combination of software products without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:42:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the combination of development tools without addressing DevOps principles, practices, or related topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:42:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the combination of Visual Studio products and does not relate to AI or automation in Agile practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which does not directly address DevOps principles or practices. While it mentions development tools, it lacks explicit references to DevOps concepts such as collaboration, automation, or shared accountability. The focus is on product features rather than the cultural and philosophical aspects of DevOps.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +76,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:42:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the combination of two Microsoft products without any reference to Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:42:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the announcement of a product combination without delving into practical techniques or tooling related to Agile or DevOps.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM framework. The focus is on product features rather than the operational model itself.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,10 +106,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T11:42:14",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the announcement of product combination rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -172,30 +124,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:42:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the combination of software products and does not address Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions and does not mention Evidence-Based Management or its key topics. There is no alignment with the core themes of EBM, and the depth of discussion is minimal, focusing instead on product features rather than data-informed decision-making.",
     "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T11:42:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the combination of two Microsoft products without addressing code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:42:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a recent announcement from Microsoft regarding the combination of two Visual Studio products, which aligns with industry news relevant to technology and development tools.",
-    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -235,14 +172,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:42:31",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the combination of two Visual Studio products without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:42:32",
     "ai_confidence": 0,
@@ -278,15 +215,6 @@
     "reasoning": "Content primarily discusses the announcement of a product combination and does not provide personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:42:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the announcement of product integration without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T11:42:39",
@@ -296,23 +224,17 @@
     "reasoning": "Content primarily discusses the combination of Visual Studio Team Editions, which is not specifically focused on Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:42:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the announcement of product combination and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions ALM and discusses the combination of development tools, which relates to application lifecycle management, but it does not delve deeply into the methodologies or practices of ALM.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions ALM in the context of a product announcement but lacks a detailed discussion on the methodologies, practices, or tools involved in managing the application lifecycle. The focus is primarily on the combination of two products rather than on the lifecycle management aspects, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -321,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the combination of software products and does not address Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:42:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the combination of software products without addressing human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -406,10 +319,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the announcement of a product combination and does not address asynchronous development principles, practices, tools, or relevant themes.",
     "level": "Ignored"
   },
@@ -467,7 +380,7 @@
     "reasoning": "Content discusses the combination of development tools without any clear emphasis on large-scale agility or related frameworks, strategies, or practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:01:22",
     "ai_confidence": 0,
@@ -483,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the combination of development tools and does not relate to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Agile Project Management or its principles; it focuses on the combination of two Visual Studio products.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -514,10 +418,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the combination of Microsoft product editions for developers, and does not focus on Scrum Team roles, collaboration, or dynamics.",
     "level": "Ignored"
   },
@@ -649,10 +553,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the announcement of combined software products and does not address any aspects of hypothesis-driven development, experimentation, or validated learning.",
     "level": "Ignored"
   },
@@ -663,24 +567,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to estimation, focusing instead on the announcement of a product combination.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a product announcement regarding the combination of database and development tools without focusing on Agile, DevOps, or software development methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the announcement of Microsoft product integration, lacking any focus on AI in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -712,21 +598,24 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the combination of development tools rather than Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Visual Studio products aimed at developers, suggesting relevance to software development, but it lacks depth in discussing methodologies or practices central to the category.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the combination of two Visual Studio products aimed at developers, which relates to software development tools. However, it lacks detailed discussion on methodologies, practices, or frameworks that guide the software development lifecycle. The focus is more on product announcement rather than in-depth software engineering practices.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -735,15 +624,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the combination of Microsoft development tools and does not mention Agile frameworks or principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a product announcement related to Visual Studio and database development, which is not relevant to scaled Agile practices or implementations.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +664,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the combination of software products without a focus on innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
@@ -883,11 +763,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a product announcement regarding Visual Studio editions and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which does not directly address Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth on relevant topics such as automation, incremental improvements, or user feedback. Overall, the content is more focused on product features rather than the Continuous Delivery methodology.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -998,15 +881,6 @@
     "reasoning": "Content primarily discusses the combination of Microsoft development products without any mention of empirical process control or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the announcement of combined software products and does not address Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
     "calculated_at": "2025-02-16T18:01:22",
@@ -1036,20 +910,23 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the announcement of product integration by Microsoft, with no discussion of Lean Product Development principles or practices.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the combination of Microsoft products without reference to Test First Development principles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, with no explicit mention of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1063,10 +940,10 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss Acceptance Test Driven Development or related principles; it focuses on software product announcements.",
     "level": "Ignored"
   },
@@ -1162,10 +1039,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the announcement of a product combination and does not discuss team performance, collaboration, or agile methodologies.",
     "level": "Ignored"
   },
@@ -1189,10 +1066,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on product announcements and technical details rather than team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1214,15 +1091,6 @@
     "reasoning": "Content primarily discusses a product announcement regarding the combination of Visual Studio editions, without any focus on deployment strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses product combinations from Microsoft without any focus on Scrum principles or product development processes.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "calculated_at": "2025-02-16T18:01:22",
@@ -1234,11 +1102,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the combination of development tools and does not mention Scrum or the role of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum, agile principles, or the impact of a Scrum Master on team dynamics or organisational change. The focus is on software development tools rather than Scrum practices.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1252,10 +1123,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the combination of software products and does not focus on any specific aspects of team collaboration, Agile, Scrum, or DevOps principles.",
     "level": "Ignored"
   },
@@ -1270,29 +1141,20 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the announcement of product integration rather than Agile values or principles.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T18:01:22",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the combination of Microsoft development tools but does not address the principles or practices of Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about the announcement of software product integration, with no relevant discussion on Scaling Scrum principles or practices.",
+    "reasoning": "Content discusses the combination of Microsoft development tools but does not address the principles or practices of Test Driven Development.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1193,6 @@
     "reasoning": "Content primarily discusses the combination of software products and their availability, with no direct focus on system configuration practices or methodologies.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:01:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the merging of Microsoft development products and does not address scaling agility or related practices.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T18:01:22",
@@ -1360,11 +1213,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:06:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the combination of Microsoft products and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the merger of Visual Studio Team Editions for Developers and Database Developers, which is more about technical tools rather than discussions on social technologies, collaboration, or decision-making frameworks. There are no explicit mentions of self-organisation, collective intelligence, or value delivery, and the depth of discussion does not provide any insights into the social frameworks that underpin these technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1230,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the combination of software products and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:40:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the combination of Visual Studio products and does not focus on Internal Developer Platforms or their related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:40:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the combination of development tools and does not address AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the combination of Microsoft products related to development and databases, with no explicit mention of Scrum principles, roles, events, or practices. It lacks alignment with the core themes of Scrum and does not provide any depth on the subject, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the combination of Visual Studio products without any explicit mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the topic. Overall, it is tangentially related to software development but does not address the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the announcement of a product merger rather than discussing Continuous Improvement principles. There are no explicit mentions of Continuous Improvement, and the themes of empirical evidence, experimentation, or team effectiveness are absent. The content lacks depth and does not provide any strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the merger of two software products without addressing the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth on how this merger impacts team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions without any explicit mention of competence, continuous learning, or skill development. While it may imply some enhancement in development experience, it lacks a direct focus on the principles of competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the merger of Visual Studio Team Editions for Developers and Database Developers, which does not relate to the concept of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, adaptability, or any of the key topics associated with Agentic Agility. The focus is on product features rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

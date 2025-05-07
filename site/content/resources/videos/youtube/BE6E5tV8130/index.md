@@ -2,8 +2,10 @@
 title: How is agile product development different to waterfall project management?
 description: Discover how agile product development contrasts with traditional waterfall project management in complex environments. Learn to adapt and thrive!
 date: 2023-01-11T07:00:02Z
+weight: 840
 ResourceId: BE6E5tV8130
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BE6E5tV8130
@@ -15,37 +17,30 @@ preview: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg
 duration: 385
 isShort: false
 aliases:
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
-- /resources/videos/BE6E5tV8130
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management-
 - /resources/BE6E5tV8130
-aliasesFor404:
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
+aliasesArchive:
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
 - /resources/how-is-agile-product-development-different-to-waterfall-project-management
 - /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
 - /resources/how-is-agile-product-development-different-to-waterfall-project-management-
+- how-is-agile-product-development-different-to-waterfall-project-management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
-- Increment
-- Agile Product Management
+- Agile Philosophy
+- Software Development
 - Agile Values and Principles
-- Decision Making
-- Agile Product Operating Model
-- Value Delivery
-- People and Process
-- Business Agility
-- Empirical Process Control
+- Agile Transformation
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Product Management
-- Social Technologies
+- Product Development
 
 ---
-How is agile product development different to waterfall project management?
+How is agile [product development]({{< ref "/categories/product-development" >}}) different to waterfall [project management]({{< ref "/tags/project-management" >}})?
 
 Defining the difference between agile product development and waterfall project management is actually a very difficult task because most agile teams that I encounter are agile but under a waterfall project management environment.
 
@@ -69,7 +64,7 @@ Agile works from the premise that the team of experts are best positioned to mak
 
 So, in theory, agile is the antithesis of traditional management and project management.
 
-## Iteration and Continuous Improvement
+## Iteration and [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})
 
 In traditional waterfall project management, a management team attempts to define the entire scope of the project upfront, and then set time and cost constraints for the delivery of that project. They will also decide, upfront, who is best positioned to do the work, and along what schedule of deadlines that work needs to conform to.
 
@@ -107,9 +102,9 @@ A way of ensuring that we are always producing the most valuable items or solvin
 
 ## Decentralization
 
-True business agility comes from the decentralization of decision-making and prioritization.
+True [business agility]({{< ref "/tags/business-agility" >}}) comes from the decentralization of decision-making and prioritization.
 
-It means that the organization no longer relies on the most senior manager to make every decision about a product or service, regardless of whether they are best qualified to do so or not, and instead shifts decision making down to the team of experts who are actively doing the work.
+It means that the organization no longer relies on the most senior manager to make every decision about a product or service, regardless of whether they are best qualified to do so or not, and instead shifts [decision making]({{< ref "/tags/decision-making" >}}) down to the team of experts who are actively doing the work.
 
 Rather than an autocratic approach, we form teams of experts who work closely with our customers to make sure that we agree on what is most valuable, most important, and has the highest impact on solving a customer’s need or problem.
 
@@ -137,7 +132,7 @@ In complex environments where we don’t know the answers upfront because we hav
 
 So, we often find that we have a need for agile and project management within the same organization. One approach (project management) excels at execution of known products, whilst the other approach (agile) is great for innovation and invention.
 
-Sometimes we need both in the same organization, but there is an increasing need for leadership and management teams to shift from command and control to business agility driven practices and processes.
+Sometimes we need both in the same organization, but there is an increasing need for [leadership]({{< ref "/categories/leadership" >}}) and management teams to shift from command and control to business agility driven practices and processes.
 
 We are also seeing an increasing number of customers choosing to work with agile organizations because it allows for greater flexibility and adaptability in the process of creating new products and services.
 
@@ -147,7 +142,7 @@ It allows them to focus on cocreation rather than scoping upfront. It allows the
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

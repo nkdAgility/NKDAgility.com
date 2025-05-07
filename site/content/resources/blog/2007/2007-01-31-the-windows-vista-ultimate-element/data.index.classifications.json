@@ -1,13 +1,4 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:45:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Windows Vista and does not discuss AI or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
     "calculated_at": "2025-02-17T09:45:32",
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on Windows Vista and does not discuss decision-making processes or related themes.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:45:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss human behaviour, team dynamics, or process methodologies; it focuses on a product without addressing the interplay between people and processes.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:45:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Windows Vista and does not discuss organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +37,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:45:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Windows Vista and does not discuss Scrum principles, practices, or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts, roles, events, or principles. It appears to be unrelated to the Scrum framework and focuses on a different topic entirely.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -134,15 +110,6 @@
     "reasoning": "Content is primarily about Windows Vista and does not discuss platform engineering or related topics.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:45:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss software code or complexity; it appears to be unrelated to the specified category.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "calculated_at": "2025-02-17T09:45:52",
@@ -206,24 +173,6 @@
     "reasoning": "Content does not discuss Lean principles or methodologies; it is unrelated to the Lean category.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:46:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Windows Vista without any relevant discussion on Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:46:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Agile or DevOps practices, tools, or methodologies; it appears to be unrelated to the category.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:46:03",
@@ -258,15 +207,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about Windows Vista and does not discuss Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:46:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any events or presentations related to Agile, DevOps, or software engineering.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,33 +245,6 @@
     "reasoning": "Content does not discuss personal experiences or reflections related to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:46:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss discovery or learning processes; it focuses on a specific product without any mention of methodologies or innovation.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:46:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss transparency or accountability; it focuses on a visual element related to Windows Vista.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:46:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss any specific products, books, or relevant Agile/DevOps themes; it appears to be unrelated to the category.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T09:46:20",
@@ -350,7 +263,7 @@
     "reasoning": "Content does not discuss DevOps principles, practices, or related topics; it focuses on Windows Vista, which is unrelated.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:46:22",
     "ai_confidence": 0,
@@ -379,12 +292,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:17",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions 'Windows Vista Ultimate,' which indicates a relationship with the Windows operating system, but lacks detailed discussion or focus on installation, configuration, troubleshooting, or similar key topics related to Windows.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content title mentions 'Windows Vista', which indicates a connection to the Windows operating system. However, the actual content does not provide any substantial discussion or insights related to Windows installation, configuration, troubleshooting, or any other key topics outlined in the category. The lack of detailed information and the presence of a generic image suggest that the content does not meet the criteria for a strong alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -429,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to empirical process control, Agile methodologies, or any relevant topics.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scaling Scrum, focusing instead on Windows Vista, which does not pertain to Scrum principles or practices.",
     "level": "Ignored"
   },
   "Increment": {
@@ -609,15 +516,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to strategic goals and discusses a Windows Vista element, with no mention of long-term objectives or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about Windows Vista and unrelated to Scaled Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -881,7 +779,7 @@
     "reasoning": "Content is unrelated to Azure Boards and focuses on a different topic.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:09:06",
     "ai_confidence": 0,
@@ -933,15 +831,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Agile methodologies or strategies; it focuses on Windows Vista, which is unrelated.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not relate to software development or any Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +885,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is unrelated to Scrum Values and discusses a different topic concerning Windows Vista.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Kanban and discusses Windows Vista, not relevant to the topic.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1205,15 +1085,6 @@
     "reasoning": "Content is unrelated to Test Automation and discusses Windows Vista, which is not relevant to testing or automation.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is about Windows Vista and does not discuss Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:09:06",
@@ -1268,24 +1139,6 @@
     "reasoning": "Content does not address innovation practices or the Ability to Innovate; it appears irrelevant and primarily focused on a specific element unrelated to the category.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to scaling agility and focuses on a Windows Vista image and tags, with no discussions on agile methodologies or frameworks.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Agile Project Management or related principles; it is unrelated to the category.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-17T11:09:06",
@@ -1331,15 +1184,6 @@
     "reasoning": "Content is unrelated to Value Stream Mapping or Lean principles; it appears to be about Windows Vista.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:09:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Vista and does not relate to AI, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T11:09:06",
@@ -1374,6 +1218,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss leadership practices and is primarily focused on a technical subject related to Windows Vista.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:54:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is unrelated to Internal Developer Platforms and focuses on Windows Vista, which does not pertain to the topic.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:55:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily about Windows Vista and does not discuss AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:51:56",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content does not discuss any aspects of the Shift-Left Strategy, focusing instead on a visual element related to Windows Vista without any mention of software development processes, testing, security, or compliance.",
     "level": "Ignored"
   }
 }

@@ -1,20 +1,26 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:24:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on Agile project management rather than DevOps principles.",
+    "calculated_at": "2025-03-21T20:13:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a specific Agile methodology, rather than the broader principles of DevOps. While it briefly mentions the importance of aligning with business goals and data-driven decision-making, these concepts are not explored in the context of DevOps practices or culture. The discussion lacks depth in terms of DevOps principles such as automation, shared accountability, and continuous improvement, leading to a low confidence score for alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:24:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum roles, the importance of collaboration between Scrum teams and stakeholders, and effective planning and prioritization within Agile frameworks.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, which are important aspects of Agile methodologies. While it touches on collaboration and decision-making, it does not delve deeply into the broader themes of social technologies such as self-organisation, collective intelligence, or transparency. The discussion is more centred on practical strategies for managing backlogs and aligning work with business goals rather than exploring the underlying social frameworks that drive these processes.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -37,12 +43,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T08:24:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the product owner in prioritising the product backlog and the importance of collaboration between scrum teams and stakeholders, which are relevant to product management, but the primary focus is on Scrum and Agile methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the strategic aspects of product management within the context of Scrum, discussing how to align work with business goals, prioritise effectively, and assess value and risk. It provides detailed insights into planning and prioritisation techniques, which are core themes of product management. The depth of discussion is significant, as it explores the implications of backlog management and the importance of data analysis in decision-making, aligning well with the category's focus on methodologies and frameworks that guide product managers.",
+    "level": "Primary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -55,57 +64,48 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of the Product Owner in backlog prioritization, but it is primarily focused on how a Scrum team plans and prioritizes work, making the Product Owner a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on planning and prioritisation within a Scrum context, which are key responsibilities of a Product Owner. It discusses aligning work with business goals, stakeholder communication, and maintaining a manageable backlog, all of which are central to the Product Owner's role. However, while it touches on these aspects, it does not explicitly define the Product Owner's responsibilities or provide in-depth insights into their unique challenges, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and the process of planning and prioritizing work in Agile, without focusing on metrics, performance data, or evidence-based decision making.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Product Owner and the scrum team in prioritizing work, which is a fundamental aspect of the Scrum framework, but it also includes broader agile concepts, which makes Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses planning and prioritisation within a Scrum context, touching on key aspects such as aligning work with business goals and managing the product backlog. However, it lacks direct references to specific Scrum roles, events, or artifacts, which diminishes its alignment with the core themes of Professional Scrum. The depth of discussion is moderate, focusing on practical strategies rather than theoretical foundations, which further affects the overall confidence score.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Scrum in the context of Agile project management, focusing on how Scrum teams plan and prioritize work, highlighting the roles within Scrum such as the Product Owner and the collaborative nature of the process.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content discusses Scrum roles, particularly the Product Owner's responsibility in managing the Product Backlog, and emphasizes the importance of collaboration within a Scrum team for effective planning and prioritization of work.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses Scrum roles and planning without focusing on specific events, presentations, or discussions that fit the category's criteria.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile framework, discussing effective planning and prioritisation within Scrum teams. It explicitly mentions Scrum and its practices, aligning well with the core themes of Agile frameworks. The depth of discussion is significant, covering various aspects of planning, prioritisation, and the importance of aligning work with business goals, which are crucial in Agile methodologies. Overall, the content provides a comprehensive exploration of Scrum, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -145,12 +145,15 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of bringing teams together to understand customer needs and improve customer experience, making customer satisfaction a major theme, though not the central focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, with only brief mentions of customer interaction and data collection. While it touches on aligning work with business goals, it lacks a direct emphasis on customer satisfaction principles and practices. The discussion does not delve deeply into customer feedback mechanisms or strategies for enhancing customer engagement, which are crucial for the category.",
+    "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -181,10 +184,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on planning and prioritizing work within a scrum team and does not directly address the Definition of Done.",
     "level": "Ignored"
   },
@@ -217,11 +220,14 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content focuses mainly on Scrum roles and the planning process, it touches on the importance of collaboration within Scrum teams, hinting at elements of self-organisation.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on planning and prioritisation within a Scrum team, which is related to Agile practices but does not explicitly discuss self-organisation. While it touches on aligning work with business goals and the importance of communication, it lacks a direct exploration of self-organisation principles, techniques, or the role of leadership in supporting self-organising teams. The depth of discussion on self-organisation is minimal, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Market Share": {
@@ -235,19 +241,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and project management rather than Continuous Delivery principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, which are Agile practices rather than Continuous Delivery. While it touches on aspects of iterative processes and stakeholder communication, it does not explicitly discuss Continuous Delivery principles, automation, or the specific practices that enhance software delivery cycles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum roles and effective planning and prioritization in Agile environments, rather than explicitly discussing customer feedback mechanisms.",
     "level": "Ignored"
   },
@@ -271,10 +280,10 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and effective planning in an Agile context, without a focus on customer retention strategies.",
     "level": "Ignored"
   },
@@ -289,47 +298,62 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum team roles and planning within the Agile framework, which is central to software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Scrum, an Agile framework, discussing effective planning and prioritisation within a Scrum team. It aligns well with key topics in software development, particularly Agile methodologies and practices. The depth of discussion includes specific strategies for backlog management and prioritisation, which are essential aspects of the software development lifecycle. However, there is a notable emphasis on business goals and stakeholder communication, which slightly detracts from the technical focus of software engineering practices.",
     "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions agile coaching as part of the services offered by Naked Agility and discusses the roles within a Scrum team, making coaching a secondary theme but not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on planning and prioritisation within Scrum teams, which is more aligned with project management than coaching. While it touches on aspects of team dynamics and stakeholder communication, it lacks explicit discussions on coaching techniques, building trust, or fostering a growth mindset. The depth of discussion on coaching-related topics is minimal, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses how a Scrum team can effectively plan and prioritize work, which aligns well with Agile Planning principles. It emphasizes collaboration among teams and stakeholders, the role of the product owner in managing the backlog, and the importance of alignment in Agile practices.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses effective planning and prioritisation within a Scrum framework, aligning work with business goals, and maintaining a lean backlog, which are all core aspects of Agile Planning. It also emphasises iterative processes and data-driven decision-making, further reinforcing its alignment with Agile principles. The depth of discussion is significant, providing practical strategies and insights, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the role of scrum teams in planning and prioritizing work, indicating a focus on Agile methodologies as a strategy for effective project management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses effective planning and prioritisation within a Scrum team, which is relevant to Agile methodologies. It touches on aligning work with business goals and the importance of stakeholder communication, indicating a connection to Agile principles. However, the focus is primarily on technical practices and Scrum-specific processes rather than a broader Agile strategy. While it does mention aspects of value delivery and iterative processes, it lacks a comprehensive exploration of strategic alignment and leadership roles in fostering an Agile culture.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses how scrum teams can effectively plan and prioritize work, which directly relates to team dynamics, collaboration, and Agile practices. It emphasizes the importance of involving stakeholders, the role of the product owner, and the continuous improvement of team performance within an Agile context.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses effective planning and prioritisation within a Scrum team, which relates to team performance. It mentions aligning work with business goals and the importance of communication with stakeholders, indicating a focus on team dynamics. However, it lacks detailed exploration of specific team performance metrics, agile ceremonies, or conflict resolution strategies, which are crucial for a higher confidence score in this category.",
     "level": "Secondary"
   },
   "Lean": {
@@ -366,15 +390,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on project management and Agile methods without addressing Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Agile practices, which are not aligned with the specific principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -449,15 +464,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events without focusing on software craftsmanship principles or practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum teams and Agile principles, which are relevant to software developers, but the focus is more on project management aspects rather than developers' specific roles and practices.",
-    "level": "Tertiary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T10:22:19",
@@ -465,15 +471,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events and focuses on Agile project management rather than Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events in the context of project management and does not address code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -487,12 +484,15 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses prioritization within Scrum and the role of the Product Owner, touching on concepts relevant to backlog refinement, but it is mostly about how Scrum teams can plan and prioritize work effectively rather than being solely focused on backlog refinement.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses planning and prioritisation within a Scrum context, touching on backlog management and the importance of aligning work with business goals. However, it lacks explicit references to backlog refinement techniques or practices, which diminishes its alignment with the category. The depth of discussion on backlog refinement is limited, focusing more on general planning strategies rather than specific refinement processes.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -505,39 +505,48 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content refers to Scrum teams and the role of the Product Owner, it does not primarily focus on the Scrum Master and their responsibilities. The content is more about team planning and prioritization in Agile rather than specifically discussing the role and practices of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on effective planning and prioritisation within a Scrum context, which is a crucial aspect of the Scrum Master's role. It discusses aligning work with business goals, stakeholder communication, and maintaining a lean backlog, all of which are relevant to the responsibilities of a Scrum Master. However, while it touches on these themes, it lacks a direct discussion of the Scrum Master's specific influence and techniques for coaching or facilitating, which slightly lowers the depth of discussion. Overall, the content aligns well with the category, but it does not delve deeply into the Scrum Master's unique contributions.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on team-level practices without addressing large-scale Agile principles or frameworks.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of collaboration between scrum teams, customers, and stakeholders, as well as prioritization of the product backlog, which aligns with delivering value to customers. However, the primary focus is on Scrum practices rather than direct strategies and methodologies for value delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses effective planning and prioritisation within a Scrum team, focusing on aligning work with business goals and assessing value, which are core aspects of value delivery. It provides a detailed approach to understanding business objectives, communicating with stakeholders, and prioritising tasks based on value and risk. The iterative nature of planning and the emphasis on data-driven decisions further align with value delivery principles. However, while it touches on these themes, it does not delve deeply into methodologies like CI/CD or value stream mapping, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile principles and the role of the product owner in prioritizing work within a Scrum team, which aligns with technical leadership themes but is mostly focused on project management and Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses effective planning and prioritisation within a Scrum team, which touches on aligning work with business goals and stakeholder communication. However, while it mentions agile practices, it lacks a direct focus on technical leadership principles such as mentoring, coaching, or fostering team dynamics. The depth of discussion on agile methodologies is present, but it does not delve deeply into the nuances of technical leadership roles or strategies.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -556,15 +565,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles, processes, and Agile methodologies without a central focus on decision-making processes or theories.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses how Scrum teams can effectively plan and prioritize work, focusing on the roles of the Scrum team and the Product Owner, which aligns with Scrum principles and practices.",
-    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -586,20 +586,14 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 25,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 22.0,
-    "reasoning": "The content primarily discusses Scrum roles and events related to project management and Agile practices, without a central focus on organisational change strategies or methodologies.",
-    "level": "Quaternary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and practices without reference to scaling or coordination among multiple teams at an enterprise level.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically planning and prioritisation within Agile frameworks. While it touches on aligning work with business goals, it lacks a direct discussion on organisational change strategies or methodologies. The mention of business goals hints at a broader context, but the depth of discussion remains centred on Scrum rather than organisational transformation, which diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -610,15 +604,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum roles and Agile methodologies, with no significant emphasis on Lean principles or concepts.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content focuses primarily on the dynamics and collaboration within Scrum teams, the role of individuals like the product owner, and the importance of communication and co-creation in agile methodologies.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,10 +616,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which are specific to Agile methodologies rather than directly addressing broader concepts of business agility.",
     "level": "Ignored"
   },
@@ -667,23 +652,26 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on general project management and agile principles without specifically addressing the Definition of Ready criteria.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum team dynamics, planning, and prioritization rather than Lead Time as a metric from work initiation to delivery.",
+    "calculated_at": "2025-04-11T12:59:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation strategies, with no direct mention of Lead Time. While it discusses aspects of workflow and efficiency, it does not align with the core themes of Lead Time as an observability metric. The depth of discussion is also minimal regarding Lead Time, as it does not provide techniques for measuring or optimising it, nor does it address its impact on business agility or customer satisfaction.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:22:19",
     "ai_confidence": 0,
@@ -701,15 +689,6 @@
     "reasoning": "Content heavily discusses Scrum roles and processes without a clear focus on Agile leadership principles or the leadership aspect of Agile practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on Scrum roles, planning, and prioritization in Agile without mentioning AI or automation.",
-    "level": "Ignored"
-  },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
     "calculated_at": "2025-02-18T10:22:19",
@@ -721,12 +700,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum teams and their roles in planning and prioritizing work, which aligns with the principles of empirical process control in Agile. However, the primary focus is on planning and collaboration rather than on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses planning and prioritisation within a Scrum team, touching on the importance of aligning work with business goals and the iterative nature of decision-making. However, it lacks direct mentions of empirical process control principles and does not delve deeply into transparency, inspection, or adaptation as core themes. While it does highlight the need for data-driven decisions, the overall focus is more on practical strategies rather than the foundational concepts of empirical process control.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -739,46 +721,46 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses how Scrum teams can effectively collaborate in planning and prioritizing work, highlighting the importance of bringing teams, customers, and stakeholders together in the Agile context.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation techniques, which are relevant to team collaboration. However, it lacks explicit discussions on team dynamics, shared ownership, or fostering a culture of trust, which are key themes in the category. While it touches on the importance of aligning work with business goals and the need for effective communication within the Scrum team, these points are not explored in depth. Overall, the content aligns with the category but does not fully engage with its core themes.",
     "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum teams and Agile methodologies, which are related to market adaptability, but the main focus is on planning and prioritizing work rather than on strategies for responding to market shifts.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without mentioning AI.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, which are important aspects of Agile methodologies. However, it lacks direct discussions on market adaptability strategies, such as responding to market shifts or leveraging data for decision-making. While it touches on the importance of aligning work with business goals and iterating based on data, these points are not deeply connected to the core themes of market adaptability. The overall depth of discussion on adaptability is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum teams and their processes, highlighting the importance of collaboration and prioritization in delivering value to customers, which is a key aspect of working software.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses planning and prioritisation within a Scrum framework, which indirectly relates to working software by emphasising alignment with business goals and customer needs. However, it lacks direct references to the characteristics of working software or specific practices for ensuring software quality and functionality. The discussion is more focused on the processes and strategies rather than the delivery of functional software itself.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses planning and prioritization in Scrum without specifically addressing the Daily Scrum event.",
     "level": "Ignored"
   },
@@ -793,29 +775,23 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, without addressing broader themes of enterprise agility or organizational context.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the Product Backlog and the responsibilities of the Product Owner in prioritizing it, but the primary focus is on general project management and Scrum team dynamics.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses how scrum teams plan and prioritize work, emphasizing agile principles, the role of the Product Owner, and collaborative practices within an agile environment.",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses various aspects of planning and prioritisation within a Scrum context, with a strong focus on maintaining a lean product backlog and aligning work with business goals. It explicitly mentions backlog management techniques and the importance of keeping the backlog manageable, which aligns well with the core themes of the Product Backlog category. However, while it provides substantial detail, it does not delve deeply into specific techniques for backlog refinement or the roles of the Product Owner, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Psychological Safety": {
@@ -836,30 +812,12 @@
     "reasoning": "Content heavily discusses Scrum roles and project management without any focus on troubleshooting or resolving technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and processes rather than specific products or books.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum team planning and prioritization without covering news or reviews related to Agile or DevOps developments, tools, or events.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and processes, focusing on planning and prioritizing work rather than strategies to enhance team motivation.",
     "level": "Ignored"
   },
@@ -872,41 +830,38 @@
     "reasoning": "Content primarily discusses Scrum roles and processes without personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the responsibilities of a scrum team and the role of the product owner, without a focus on scaling Scrum practices across multiple teams or larger organizations.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly touches on the concept of scrum teams and the collaboration between team members, customers, and stakeholders, but primarily focuses on scrum roles and work prioritization, making cross-functional teams a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on planning and prioritisation within a Scrum team, discussing business goals and backlog management. While it touches on aspects relevant to Agile methodologies, it does not explicitly mention cross-functional teams or their characteristics. The discussion lacks depth regarding the structure, benefits, and role of cross-functional teams, leading to a low confidence score in this category.",
+    "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and project management processes without focusing on the core Scrum Values.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Product Owner in prioritizing the product backlog within Agile and Scrum frameworks, aligning closely with Agile Product Management principles.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the role of planning and prioritisation within a Scrum framework, which is a core aspect of Agile Product Management. It highlights the importance of aligning work with business goals, stakeholder communication, and the iterative nature of product development. The depth of discussion on backlog management and the formula for prioritising tasks based on value, risk, and size further solidifies its relevance to the category. Overall, the content is highly aligned with Agile principles and practices, making it a strong fit for the Agile Product Management category.",
+    "level": "Primary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -919,11 +874,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on project management and Agile principles rather than Test First Development.",
+    "calculated_at": "2025-04-08T17:06:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, with no direct mention of Test First Development principles or practices. While it discusses aspects of effective planning and stakeholder communication, it does not address success criteria, testing methodologies, or the importance of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,11 +895,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses how a Scrum Team plans and prioritizes work effectively, highlighting the Product Owner's role and team dynamics.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses effective planning and prioritisation within a Scrum team, which directly relates to Scrum practices. It mentions the importance of aligning work with business goals and the need for communication with stakeholders, which are relevant to team collaboration. However, while it touches on Scrum concepts, it lacks in-depth exploration of specific roles, team dynamics, or continuous improvement practices, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Trend Analysis": {
@@ -973,12 +934,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on the processes of planning and prioritizing work within a Scrum team, which relates to strategic alignment and execution. However, it primarily discusses Scrum roles and teamwork rather than a comprehensive strategy, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 30,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on effective planning and prioritisation within a Scrum team, which directly relates to strategic alignment with business goals. It discusses aligning work with organisational objectives, assessing value, and maintaining a lean backlog, all of which are key aspects of strategy in Agile environments. The depth of discussion is substantial, providing specific techniques and considerations for prioritisation and continuous improvement, thus demonstrating a strong alignment with the Strategy category.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -991,48 +955,51 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses Scrum roles and events, it does touch on the principles of collaboration and customer involvement inherent to Agile philosophy, making it a significant but secondary theme.",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Scrum practices, such as planning and prioritisation, rather than discussing the broader Agile Philosophy. While it touches on concepts like value delivery and stakeholder communication, it lacks a comprehensive exploration of Agile principles or the mindset behind Agile methodologies. The discussion is more about specific Scrum techniques than the underlying philosophy that guides Agile practices.",
     "level": "Tertiary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the planning and prioritization of work within a Scrum team, which is central to product delivery methodologies.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles, team-level practices, and project management but does not address broader organizational scaling of agility.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on effective planning and prioritisation within a Scrum framework, which is a key aspect of Agile methodologies relevant to product delivery. It discusses aligning work with business goals, stakeholder communication, and the importance of maintaining a lean backlog, all of which are crucial for delivering usable software products. The depth of discussion on prioritisation strategies and iterative processes further supports its alignment with the category, making it a strong fit for 'Product Delivery'.",
+    "level": "Primary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum roles and planning which are related to Agile methodologies, but the primary focus is on the operational aspects of Scrum rather than broad organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on Scrum practices, particularly around planning and prioritisation, which are important aspects of Agile methodologies. However, while it touches on aligning work with business goals and the importance of stakeholder communication, it lacks a broader discussion on organisational agility as a whole. The depth of discussion on Agile principles is present, but it does not fully explore the cultural and structural shifts necessary for true organisational agility. Therefore, while there is a significant connection to the category, it does not serve as a primary focus.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum teams and their role in planning and prioritizing work, which is a major theme in Agile transformation. However, it focuses primarily on Scrum practices rather than a broader discussion on Agile transformation strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on Scrum practices, particularly around planning and prioritisation, which are essential components of Agile methodologies. However, while it discusses Scrum in detail, it lacks a broader exploration of Agile transformation strategies, such as cultural shifts or leadership roles. The discussion is somewhat aligned with Agile principles but does not delve deeply into the transformation aspect, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1043,31 +1010,16 @@
     "reasoning": "Content primarily discusses Scrum, Agile practices, and team-level project management, which does not align with the central theme of Portfolio Management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and project management practices, without a clear focus on resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and planning processes, without a central focus on transparency and accountability principles.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 75,
-    "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses how a scrum team can effectively plan and prioritize work, which relates to Agile planning concepts, but it also includes a lot of context about Scrum roles and the general agile environment.",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on effective planning and prioritisation within a Scrum team, which aligns closely with Agile Planning Tools. It discusses techniques for backlog management, prioritisation strategies, and the importance of aligning work with business goals. However, while it touches on relevant topics, it lacks specific mentions of Agile Planning Tools like Jira or Trello, which slightly lowers the confidence score. The depth of discussion is substantial, but it could benefit from more explicit references to specific tools and methodologies.",
     "level": "Secondary"
   },
   "Frequent Releases": {
@@ -1078,15 +1030,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, and does not primarily focus on frequent releases or software delivery practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the roles and interactions within a scrum team, focusing on planning and prioritization of work, which are key aspects of Agile methodologies. However, it lacks a detailed exploration of specific tools or practices related to Agile implementation.",
-    "level": "Tertiary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1099,11 +1042,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:59:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events within project management, with no focus on system configuration topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, which is related to Agile methodologies rather than system configuration. There are no direct mentions of system configuration topics such as configuration management tools, system optimisation, or integration of hardware and software. The discussion is centred around business goals and backlog management, which do not align with the core themes of system configuration. The depth of discussion is also minimal regarding system configuration, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1135,21 +1081,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum teams and their planning and prioritization methods, which relate to Agile practices, but it primarily focuses on Scrum elements rather than a broader discussion on the Agile Product Operating Model.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events without focusing on processes of learning or discovery.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, which are important aspects of agile methodologies. However, it lacks a direct discussion on the Agile Product Operating Model itself, such as transitioning from project to product ethos or integrating product management practices. While it touches on aligning work with business goals and iterative processes, it does not delve deeply into the broader principles of APOM, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1178,23 +1118,17 @@
     "reasoning": "Content heavily discusses Scrum roles and events, and does not mention automated testing principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses aspects of Agile and Scrum, emphasizing planning and prioritization within a team context, it primarily focuses on explaining roles and processes without delving deeply into pragmatic problem-solving strategies or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed discussion on effective planning and prioritisation within Scrum, emphasising practical problem-solving strategies. It aligns well with the core themes of Pragmatic Thinking by addressing real-world applications of Agile principles, such as understanding business goals, managing product backlogs, and the importance of data analysis in decision-making. The depth of the discussion is significant, as it explores various aspects of prioritisation and the challenges faced by Scrum teams, demonstrating a strong alignment with the category's focus on adaptability and practical solutions.",
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1207,12 +1141,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses planning and prioritizing work within a Scrum team, which relates to decision-making processes in Agile environments. However, it primarily focuses on the roles and collaborative aspects rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses planning and prioritisation within a Scrum team, touching on aspects of decision-making such as aligning work with business goals and assessing value and risk. However, while it mentions the importance of data-driven decisions and iterative processes, it lacks a structured, evidence-based approach to decision-making as outlined in the category definition. The focus is more on practical Scrum practices rather than a deep exploration of decision-making methodologies.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1261,11 +1198,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of collaboration and customer involvement in an Agile context, but primarily focuses on Scrum roles and practices.",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Scrum practices, specifically planning and prioritisation, which are aspects of Agile but does not explicitly discuss Agile values or principles. While it touches on the importance of aligning work with business goals and the iterative nature of planning, it lacks a direct exploration of the Agile Manifesto or its core values. The discussion is more about practical implementation within Scrum rather than a deep dive into Agile principles.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
@@ -1279,12 +1219,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the roles and interactions within a Scrum team and how they collaborate with stakeholders, highlighting the social aspects influencing the technical processes of project management.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of aligning work with business goals and the role of communication with stakeholders, which touches on sociotechnical aspects. However, it primarily focuses on Scrum practices and does not deeply explore the interplay between social and technical systems or provide substantial insights into organisational structures or team dynamics.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1297,12 +1240,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of bringing together scrum teams, customers, and stakeholders, implying a focus on clarity and open communication, but does not primarily address transparency as a main theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses planning and prioritisation within a Scrum team, touching on the importance of aligning work with business goals and communicating with stakeholders. However, it lacks a direct focus on transparency as a primary theme. While it mentions communication and stakeholder engagement, it does not delve deeply into the mechanisms or tools that promote transparency in Agile processes. The discussion is more centred on planning strategies rather than fostering an environment of openness and visibility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1324,11 +1270,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:59:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and project management, with little focus on the measurement or optimisation of throughput.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, discussing business goals, value assessment, and backlog management. While it touches on aspects of work item sizing and the importance of a lean backlog, it does not explicitly mention throughput as a delivery metric or provide a detailed analysis of throughput trends or visualisation. The discussion lacks depth in terms of throughput metrics, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1342,38 +1291,471 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum team dynamics, roles, and Agile methodologies without a focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses planning and prioritisation within a Scrum context, touching on the importance of aligning work with business goals and assessing value. However, it lacks a strong focus on empirical evidence and data-driven decision-making, which are central to Evidence-Based Management. While there are mentions of data collection and validation of hypotheses, these concepts are not explored in depth, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles, planning, and prioritization within Agile methodologies, with no focus on installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T10:22:19",
+    "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles and project management in Agile without a focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T10:22:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses effective planning and prioritization within scrum teams, which relates to operational practices in Agile, but it primarily focuses on the roles within Scrum and general Agile concepts rather than specific operational efficiency techniques.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses planning and prioritisation within a Scrum framework, which is relevant to operational practices. However, it focuses more on aligning work with business goals and stakeholder communication rather than specific operational efficiency techniques or metrics. While it touches on maintaining a lean backlog and iterative processes, the depth of discussion on operational practices is moderate, leading to a confidence score that reflects a solid but not overwhelming alignment with the category.",
+    "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:01:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:01:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on Scrum principles, particularly around planning and prioritisation within a Scrum framework. It discusses the roles of the Scrum team, the importance of aligning work with business goals, and the need for effective product backlog management, which are all core aspects of Scrum. The depth of discussion is significant, as it delves into practical strategies for managing the product backlog and emphasises the iterative nature of Scrum. While it briefly touches on related concepts like data analysis and customer feedback, these are framed within the context of Scrum practices, maintaining strong alignment with the category.",
+    "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, with no direct mention of the Shift-Left Strategy. While it discusses aspects of Agile and iterative processes, it does not address integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses planning and prioritisation within a Scrum framework, touching on the importance of aligning work with business goals and the need for ongoing evaluation and adjustment. While it does mention iterative processes and data-driven decisions, which are relevant to Continuous Improvement, the primary focus is on Scrum practices rather than a dedicated exploration of Continuous Improvement principles. Therefore, while there is some alignment, it is not the main focus of the content.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses aligning work with business goals, which is a key aspect of Common Goals. However, while it touches on the importance of alignment and prioritisation, it lacks a deeper exploration of how these concepts specifically relate to Agile and DevOps frameworks. The discussion is more focused on practical strategies for planning rather than a thorough examination of Common Goals as a foundational principle.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses effective planning and prioritisation within Scrum, touching on the importance of aligning work with business goals and assessing value. However, it lacks a direct focus on continuous learning or skill development, which are key aspects of competence. While it does mention the need for ongoing evaluation and adjustment, it does not delve deeply into strategies for fostering a culture of competence or the impact of competence on decision-making. Therefore, while there are relevant elements, they are not the primary focus.",
     "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:13:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, including planning and prioritisation, without discussing the One Engineering System framework or its principles. While it touches on aspects of team collaboration and efficiency, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum practices, planning, and prioritisation without explicitly discussing Agentic Agility. While it touches on aligning work with business goals and making data-driven decisions, it lacks a clear exploration of the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:58:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content focuses extensively on Scrum planning and prioritisation, which are integral aspects of Agile product development. It discusses aligning work with business goals, assessing value, and maintaining a lean backlog, all of which are key principles in product development methodologies. The depth of discussion is significant, providing strategies for prioritisation and the importance of iterative processes and data-driven decisions. Overall, the content aligns well with the core themes of product development, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:58:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies, specifically planning and prioritisation, without any direct mention of Open Space Agile principles or practices. While it touches on themes of collaboration and iterative processes, it does not align with the core concepts of Open Space Agile, such as psychological safety, co-creation, or emergence. The depth of discussion is also limited to Scrum-specific strategies, further distancing it from the Open Space Agile category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:58:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation strategies without any direct mention of Liberating Structures or their facilitation techniques. While it discusses collaboration and decision-making within a Scrum context, it does not align with the core themes of Liberating Structures, which emphasise inclusive engagement and shared control. The depth of discussion is centred on traditional Agile practices rather than the specific facilitation methods that Liberating Structures advocate.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:58:24",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of assessing value in the context of Scrum planning and prioritisation, which aligns with the concept of Current Value. It mentions the need to understand business goals and assess value, indicating a direct connection to Current Value metrics. However, while it touches on these themes, the discussion lacks depth in terms of specific metrics or techniques for measuring Current Value, which prevents a higher score. Overall, the content is relevant but not exclusively focused on Current Value, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:58:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, which are important aspects of Agile methodologies. However, it does not explicitly discuss Time to Market or its associated metrics. While there are mentions of aligning work with business goals and assessing value, these concepts are more about effective planning rather than directly addressing the speed of delivering value to customers. The depth of discussion on Time to Market is minimal, as the content lacks specific strategies or metrics related to reducing time from conception to delivery.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:58:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum practices, discussing planning and prioritisation within that framework. While it touches on the importance of aligning work with business goals and assessing value, it does not explicitly mention Agnostic Agile principles or advocate for a context-driven approach. The discussion lacks depth in exploring the broader implications of Agnostic Agile, such as ethical considerations or comparisons with other methodologies. Overall, the content is more aligned with Scrum mechanics than with the Agnostic Agile philosophy.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:58:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies, including planning and prioritisation strategies, which are not aligned with the principles of Cell Structure Design. There are no direct mentions of cells, decentralisation, or the Beta Codex. While there is a brief discussion on team dynamics and stakeholder communication, it does not delve into the core themes of Cell Structure Design, such as autonomous cells or complexity theory. The depth of discussion is also limited to Scrum practices, further distancing it from the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:58:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, which is more about project management than the broader organisational strategy of Company as a Product (CaaP). While it touches on aligning work with business goals and assessing value, it lacks a direct discussion of treating the organisation as a product or integrating customer feedback into organisational design. The depth of discussion on planning and prioritisation is significant, but it does not sufficiently explore the core themes of CaaP, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:58:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses planning and prioritisation within a Scrum framework, touching on the importance of aligning work with business goals and assessing value. However, it does not explicitly mention 'Unrealised Value' or focus on the potential value that can be captured through improvements and innovations. While there are elements related to assessing value and prioritising tasks, the discussion is more operational and tactical rather than strategic in identifying untapped opportunities or unrealised potential. Therefore, the confidence score reflects a low direct mention, moderate conceptual alignment, and limited depth in discussing the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:58:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum methodologies and effective planning within Agile frameworks, without any direct mention of GitHub or its functionalities. While it discusses concepts relevant to Agile project management, it does not align with GitHub-specific practices or tools, such as version control, CI/CD pipelines, or collaboration features. The depth of discussion is centred around Scrum rather than GitHub, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:58:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Scrum, which is a specific agile methodology, and discusses planning and prioritisation within that context. While it touches on important project management concepts such as aligning work with business goals and stakeholder communication, it lacks a broader discussion of project management principles, methodologies, and lifecycle phases. The depth of discussion is moderate, providing insights into prioritisation strategies and backlog management, but it does not comprehensively cover the wider scope of project management as defined in the category. Therefore, while there is some alignment, the focus on Scrum limits its overall relevance to the broader project management category.",
+    "level": "Secondary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:58:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum practices, such as planning and prioritisation, without any explicit mention of Hybrid Agile or its challenges. While it touches on agile principles, it does not critically examine the integration of traditional methodologies with agile practices, nor does it address the pitfalls associated with Hybrid Agile. The discussion lacks depth in exploring the core themes of the Hybrid Agile category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:58:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Scrum planning and prioritisation, which are Agile practices but does not delve into the complexities of scaling these practices across multiple teams or the enterprise. While it mentions aligning work with business goals and maintaining a lean backlog, it lacks a direct discussion on frameworks for scaling Agile, cross-team collaboration, or managing dependencies, which are crucial for the 'Scaling' category. The depth of discussion is limited to Scrum-specific strategies rather than broader scaling methodologies.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:40:09",
+    "ai_confidence": 68.0,
+    "ai_mentions": 14,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses effective planning and prioritization in Scrum, which ties into principles like Value Delivery and Continuous Improvement. It addresses how to align work with business goals and emphasizes the importance of assessing value in decision-making, thus showing a conceptual alignment with the principles. However, while these principles are indirectly mentioned, the main focus is more on the processes of planning rather than on the foundations of the principles themselves, hence a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:40:09",
+    "ai_confidence": 22.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on Scrum principles and methodologies rather than specific tools or their functionalities. While there is a mention of maintaining a lean backlog and elements of planning strategies, it does not directly discuss any tools used in the Agile or Scrum frameworks. Therefore, the content does not significantly align with the 'Tool' category criteria.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:40:09",
+    "ai_confidence": 37.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "While the content discusses assessing value and aligning work with business goals, it primarily focuses on planning, prioritisation, and backlog management within Scrum, which are operational topics. The values themselves are not explored in depth, and while 'value' is mentioned, it does not connect to the core values that guide behaviour or ethical decisions. Most of the content is pragmatic rather than philosophical, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:40:09",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on Scrum practices, such as planning and prioritisation, without discussing the underlying philosophical beliefs or principles that inform these practices. While it touches on the importance of aligning tasks with business goals, it lacks a deeper exploration of philosophical concepts, such as why these practices matter or how they influence team dynamics and decision-making. The emphasis is largely on specific methodologies rather than on the philosophical frameworks that support them.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:40:09",
+    "ai_confidence": 58.0,
+    "ai_mentions": 3,
+    "ai_alignment": 24,
+    "ai_depth": 22,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "The content primarily discusses Scrum practices, specifically focusing on planning and prioritization within a Scrum framework. While it mentions Agile principles and structures in passing, it does not delve deeply into the overarching discipline of Agile, nor does it explore the systemic application of Agile or the governance and ethical considerations inherent in professional disciplines. Instead, it emphasizes practical steps and techniques relevant to Scrum without a strong connection to the broader conceptual framework of discipline as defined in the category. Thus, while there is relevance to the discipline of Agile, it is not the primary focus, and the depth of discussion lacks comprehensive exploration of discipline as a structured field.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:40:09",
+    "ai_confidence": 45.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses planning and prioritization in Scrum, highlighting the importance of maintaining a lean backlog, which is an artifact; however, it does not delve deeply into the formal definitions or roles of specific artifacts such as the Product Backlog or Sprint Backlog. While it touches on related concepts, the primary focus is on strategic aspects rather than a thorough exploration of artifacts.",
+    "level": "Tertiary"
+  },
+  "Observability": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on Scrum planning and prioritization strategies without any explicit mention or discussion of observability. While it touches on the importance of data-driven decisions, it does not align with the core themes of observability, such as the use of metrics, logs, and traces. Overall, the depth of discussion regarding observability is minimal and largely abstract.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 37,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses planning and prioritisation strategies within a Scrum context, which is relevant to agile practices like backlog management. It mentions key aspects like aligning work with business goals and sizing work items, thus showing good alignment with actionable practices. However, the focus is more on overarching strategies and less on specific, repeatable techniques or habits. There are some actionable insights shared, but they do not fully dive into repeatable practices typically highlighted in the 'Practice' category. Thus, the confidence score reflects a strong connection but not full alignment.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 34,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses key methods within Scrum, such as effective planning and prioritization, while outlining structured procedures for maximizing value and maintaining a lean backlog. The details provided on aligning work with business goals, stakeholder communication, and specific strategies for backlog management demonstrate a strong alignment with the 'Method' category. The content not only mentions but significantly elaborates on methods, exhibiting a high depth of discussion about the iterative and incremental nature of Scrum planning.",
+    "level": "Primary"
+  },
+  "Model": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 48.0,
+    "ai_mentions": 5,
+    "ai_alignment": 3,
+    "ai_depth": 3,
+    "non_ai_confidence": null,
+    "final_score": 48.0,
+    "reasoning": "The content focuses significantly on Scrum practices related to planning and prioritisation, which, while relevant to Agile, mostly centers on implementation rather than discussing conceptual models or frameworks. Although it mentions elements like aligning with business goals and assessing value, which could connect to broader models, it doesn't provide in-depth analysis of specific models such as the Cynefin Framework or Lean Startup principles. The alignment with category themes is moderate and there is some depth in discussing prioritisation strategies. However, overall, it lacks a primary focus on models as defined by the category.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 72.0,
+    "ai_mentions": 14,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content focuses primarily on Scrum, which is a specific Agile framework. It discusses effective planning and prioritization within Scrum teams, emphasizing the alignment of work with business goals, stakeholder communication, and backlog management. The concepts are well-aligned with Agile principles, and while it does provide deep insights into Scrum practices, the discussion largely revolves around Scrum roles and processes rather than a broader spectrum of framework comparison or implementation strategies. Thus, while it satisfies the framework category in context, it lacks more extensive comparative or meta-framework analysis.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 54.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 54.0,
+    "reasoning": "The content provides a detailed exploration of effective planning and prioritisation within a Scrum context. It mentions aligning work with business goals, which relates to decision-making processes. The mention of keeping a lean backlog and the repetitive focus on delivering value indicates some connection to principles of Agile and Lean methodologies. However, while it outlines strategies and concepts, it does not firmly establish specific, actionable tenets that guide behaviour or decision-making but rather discusses practices and ideas in a somewhat abstract manner. Thus, while relevant, it lacks the precise focus and depth on actionable tenets typically sought for a higher confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "sPmUuSy7G3I",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:40:10",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses planning and prioritisation within the context of Scrum, which is more focused on specific practices and tools rather than the enduring capabilities of teams and organisations. While there are mentions of aligning work with business goals and assessing value, which indirectly relate to capabilities, the primary focus remains on operational tactics and managing the product backlog. This analysis lacks a broader view of capabilities as enduring competencies, adherence to Agile principles, or systemic improvement strategies, leading to a low confidence score for alignment with the 'Capability' category.",
+    "level": "Ignored"
   }
 }

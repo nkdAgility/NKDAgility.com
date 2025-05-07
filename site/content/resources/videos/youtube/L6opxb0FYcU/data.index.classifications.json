@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T23:46:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile and Scrum principles, particularly the importance of flexibility and inclusivity in team dynamics, which aligns with the core themes of Social Technologies.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility and inclusivity in team dynamics, which aligns with the core themes of Social Technologies. However, it primarily focuses on critiquing specific Agile advice rather than exploring broader frameworks or methodologies that promote collaboration and decision-making. The depth of discussion is moderate, as it touches on the human-centric nature of Agile but lacks extensive exploration of social technologies as a whole.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,38 +22,50 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:46:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum methodologies, with no clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the pitfalls of rigid adherence to Agile practices rather than the principles of DevOps. While it touches on themes of flexibility and team dynamics, it does not engage with core DevOps concepts such as automation, shared accountability, or continuous delivery. Therefore, it lacks sufficient alignment and depth to be classified under DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T23:46:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum methodologies, which are relevant to product management, but primarily focuses on negative advice and personal experiences rather than strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions Scrum and touches on agile principles, but it primarily focuses on a personal anecdote rather than providing a structured discussion on product management methodologies or frameworks. The mention of a Scrum master and the daily stand-up is relevant but lacks depth and does not align with the strategic aspects of product management.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T23:46:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of a Scrum Master and the importance of flexibility and respect in Agile practices, which relates to leadership in fostering an inclusive environment. However, the primary focus is on specific advice and experiences rather than broader leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on leadership by discussing the role of a scrum master and the consequences of their dogmatic approach. However, it primarily focuses on a specific incident rather than providing a broader discussion on leadership practices or strategies. The mention of the scrum master's actions does not delve into the core themes of leadership in Agile or DevOps, such as fostering collaboration or inspiring teams. Therefore, while there is some relevance, the overall focus is not on leadership as defined in the category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses a specific piece of advice related to Scrum practices, it touches upon key agile principles such as flexibility and adaptability, which align with business agility themes. However, the focus remains on Scrum rather than directly on business agility as a primary topic.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility, which aligns with the concept of business agility. However, it primarily focuses on Scrum practices and a specific negative example rather than a broader exploration of business agility principles or strategies. The mention of inclusivity and adapting processes hints at agility but does not delve deeply into the core themes of business agility, such as leadership roles or organisational structures.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
@@ -64,12 +79,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum principles and values, particularly focusing on a Scrum Master's advice and the importance of flexibility and respect within the Scrum framework. However, the primary focus is on scrutinizing bad advice rather than a detailed exploration of Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses a specific piece of advice related to Scrum practices, particularly the daily stand-up, and critiques a rigid interpretation of Scrum principles. While it touches on Scrum values like respect and flexibility, the overall focus is more on the negative aspects of advice rather than a comprehensive exploration of Scrum roles, events, or artifacts. The depth of discussion is limited, primarily addressing a single anecdote rather than providing a broader understanding of Scrum as a framework.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -82,29 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses negative Agile advice and the importance of flexibility in Scrum, but does not focus on Evidence-Based Management or empirical data.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile methodologies and Scrum roles, with no connection to code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and advice, with no mention of Kanban principles or scaling them in large organizations.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the pitfalls of rigid adherence to practices rather than evidence-based management principles. While it touches on flexibility and team dynamics, it lacks direct references to empirical decision-making or metrics that align with Evidence-Based Management.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,11 +121,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of Agile and Scrum, focusing on a common misconception and the importance of flexibility and inclusivity in implementing Agile practices.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile and Scrum, focusing on a specific piece of advice that misinterprets Agile principles. It highlights the importance of flexibility and respect within Agile practices, which aligns well with the core themes of Agile frameworks. The discussion is detailed, providing a real-world example that illustrates the negative impact of rigid adherence to rules. However, while it is primarily focused on Agile and Scrum, it does not explore a wide range of frameworks or provide a comparative analysis, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -136,10 +142,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses negative advice in Agile and Scrum, focusing on flexibility and inclusivity rather than criteria for backlog item readiness.",
     "level": "Ignored"
   },
@@ -150,15 +156,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses negative advice related to Agile and Scrum practices rather than analyzing trends or shifts in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on individual Agile practices, specifically Scrum, and does not address coordination among multiple teams or enterprise-level scaling.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -199,11 +196,14 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses misconceptions about Agile and Scrum that relate to team dynamics, inclusivity, and flexibility, which are key aspects of team performance in agile environments.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific incident related to a Scrum master and the implications of rigid adherence to Agile practices, which touches on team dynamics and the importance of adaptability in Agile methodologies. However, it lacks a broader discussion on strategies for enhancing team performance or collaboration, making it more of a critique than a comprehensive exploration of team performance principles.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -226,21 +226,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile and Scrum methodologies which are related to product delivery, but focuses more on the negative aspects of advice and inclusivity rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile and Scrum practices, but does not mention AI or its applications.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile and Scrum methodologies, which are integral to product delivery. However, it primarily focuses on a negative aspect of Agile advice rather than the broader practices and methodologies involved in delivering software products. While it touches on flexibility and team dynamics, it lacks detailed exploration of key product delivery topics such as planning, testing, and deployment strategies.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +245,6 @@
     "reasoning": "Content primarily discusses Agile and Scrum methodologies without a central focus on digital transformation or the strategic use of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a specific aspect of Scrum regarding team dynamics and the importance of flexibility and respect in Agile practices, highlighting human factors and collaboration within teams.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-18T07:25:35",
@@ -268,15 +253,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum practices without any reference to Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile and Scrum principles, particularly the flexibility of Agile methodologies and the importance of adapting practices to team needs, which are central themes in Agile Project Management.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +272,6 @@
     "reasoning": "Content focuses on bad advice within Scrum and promotes flexibility and inclusivity rather than discussing accountability or ownership among teams.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on negative Agile advice regarding Scrum practices, emphasizing flexibility and inclusivity but does not address transparency or accountability.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-18T07:25:35",
@@ -314,21 +281,12 @@
     "reasoning": "Content heavily discusses negative experiences with Scrum practices and advice rather than focusing on release management processes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile and Scrum practices, specifically criticizing rigid adherence to Scrum rules without addressing the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses specific Scrum practices and a specific Scrum Master's bad advice without addressing broader enterprise agility concepts or practices.",
     "level": "Ignored"
   },
@@ -343,47 +301,59 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of adapting processes to meet team needs, which relates to technical leadership in an Agile context, but it does not primarily focus on the role of guiding development teams or facilitate Agile best practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific instance of poor advice related to Scrum practices, highlighting the importance of flexibility and inclusivity in Agile methodologies. While it touches on aspects of technical leadership, such as the role of a Scrum Master and the need for adaptability, it primarily focuses on a negative example rather than providing a comprehensive discussion on technical leadership principles or strategies. The depth of discussion is limited, and while it aligns with some core themes, it does not delve deeply into the broader implications of technical leadership.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses negative experiences with Scrum roles and dogmatic practices rather than Agile planning tools.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the role of a Scrum Master and discusses a specific aspect of Scrum ceremonies, highlighting the importance of flexibility and inclusivity within the Scrum framework.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of a Scrum Master and critiques a specific piece of advice related to Scrum practices. It highlights the importance of flexibility and respect within the Scrum framework, aligning well with the core themes of the category. The depth of discussion is moderate, focusing on a specific example rather than a comprehensive overview of the Scrum Master's responsibilities.",
     "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of adaptability in Agile practices, specifically in relation to Scrum, but it is primarily focused on addressing a negative aspect of advice rather than detailing Agile Planning methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of flexibility in Agile practices, particularly in the context of Scrum. It critiques rigid adherence to rules, which aligns with Agile principles. However, it primarily focuses on negative advice rather than providing a comprehensive exploration of Agile Planning methodologies, which limits its depth and direct mentions of planning techniques.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses core Agile principles such as flexibility, adapting to team needs, and the human-centric nature of Agile, while criticizing dogmatic adherence to Scrum practices.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses a specific piece of advice related to Agile and Scrum, highlighting the importance of flexibility and respect, which are core Agile values. It critiques a rigid interpretation of Agile practices, aligning well with the principles of adaptability and human-centric approaches. However, the focus on Scrum practices slightly detracts from a broader discussion of Agile values and principles, leading to a high but not perfect confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -397,11 +367,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum practices and dogmatic advice rather than Test First Development principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum principles, focusing on the importance of flexibility and inclusivity rather than the specific practices of Test First Development. There are no direct mentions of success criteria, TDD, or ATDD, which are central to the Test First Development category. The discussion is more about Agile philosophy than the structured approach of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -424,19 +397,22 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a negative aspect of Agile related to the rigidity and inclusivity in team dynamics, reflecting on the values of respect and flexibility, which are cultural elements within Agile practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of flexibility and respect within Agile practices, which touches on cultural aspects. However, it primarily focuses on specific Scrum practices and advice rather than a broader examination of organisational culture. While it mentions inclusivity and the human-centric nature of Agile, these points are secondary to the critique of Scrum advice, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses team-level Agile practices and individual experiences with Scrum rather than focusing on scaling Agile methodologies at an enterprise level.",
     "level": "Ignored"
   },
@@ -460,20 +436,23 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses negative Agile advice and Scrum practices, focusing on flexibility and team dynamics rather than the measurement or enhancement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile principles in the context of Scrum and emphasizes the importance of flexibility and adaptation in Agile practices, which aligns closely with Agile transformation concepts.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile principles and practices, particularly focusing on the flexibility and human-centric nature of Agile methodologies. It critiques a rigid interpretation of Scrum, aligning well with the core themes of Agile transformation. The depth of discussion is moderate, providing a specific example and advocating for inclusivity, which is relevant to cultural shifts in Agile practices. However, it lacks extensive detail on broader transformation strategies or frameworks, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -496,37 +475,22 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses a specific piece of advice regarding Scrum practices and clearly relates it to the Scrum value of respect, making it a major theme. However, the focus is more about the critique of Agile advice and not exclusively on the values themselves.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses a specific instance of poor advice related to Scrum practices, highlighting the importance of respect and flexibility within the Scrum framework. While it does mention Scrum values, the primary focus is on critiquing a rigid interpretation of Scrum rather than a comprehensive exploration of all Scrum values. The discussion is relevant but not deeply detailed, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses Agile principles and the importance of adaptability, but it primarily focuses on a specific negative aspect of Scrum rather than providing a clear overarching discussion on resilience and change.",
-    "level": "Quaternary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the philosophical aspects and misconceptions of Agile and Scrum, without providing practical techniques or tooling discussions.",
-    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and Scrum roles, with no focus on Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -541,28 +505,22 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content shares a personal anecdote about a negative experience with a Scrum Master's advice, alongside reflections on Agile principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses a personal experience with a Scrum Master's poor advice, highlighting the importance of flexibility and inclusivity in Agile practices. It reflects on a specific incident, providing a personal anecdote that aligns with the themes of the Personal category. However, while it does share personal insights, it also includes technical discussions about Agile principles, which slightly detracts from its alignment with the Personal category.",
     "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses negative Agile advice and Scrum practices, with no clear focus on actual events or presentations.",
-    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses critique of a specific Scrum practice without focusing on working agreements or teamwork principles.",
     "level": "Ignored"
   },
@@ -577,21 +535,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses a specific aspect of Scrum related to the daily stand-up and the impact of a Scrum Master's behavior on team dynamics, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses a specific bad piece of advice within the context of Scrum and Agile principles, without addressing scaling agility at the organisational level.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses a specific instance of poor advice related to Scrum practices, highlighting the importance of flexibility and respect within a Scrum Team. While it does mention roles like Scrum Master and touches on team dynamics, the focus is more on a critique of rigid practices rather than an in-depth exploration of Scrum Team collaboration or dynamics. Therefore, it aligns with the category but lacks comprehensive depth.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -604,37 +556,40 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, along with misconceptions about Agile methodologies, with no focus on customer retention strategies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses negative advice related to Scrum and Agile, focusing on the importance of flexibility and inclusivity rather than Continuous Delivery principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the negative aspects of rigid adherence to Agile practices rather than Continuous Delivery principles. While it touches on flexibility and team dynamics, it does not address Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback, which are central to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses negative Agile advice and the importance of flexibility in Scrum, without focusing on customer satisfaction or related strategies.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses negative Agile advice and Scrum practices without focusing on remote working or Agile collaboration in a distributed context.",
     "level": "Ignored"
   },
@@ -649,23 +604,29 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of flexibility and inclusivity in Agile practices, pointing out how rigid adherence to rules can hinder team dynamics, which is a topic relevant to team collaboration.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific incident related to team dynamics and the role of a scrum master, which touches on team collaboration. However, it primarily focuses on a negative example rather than providing constructive insights or techniques for improving collaboration. The mention of the team's decision to sit down for inclusivity aligns with the concept of shared ownership, but the overall depth and focus on enhancing collaboration are limited.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content critiques a specific piece of advice related to the Daily Scrum, highlighting its flexibility and emphasizing the human-centric nature of Agile. However, it primarily focuses on general Agile principles and inclusivity, making the Daily Scrum a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific aspect of the Daily Scrum, particularly the misconception about standing during the meeting. However, it primarily focuses on the negative advice given by a Scrum Master and the broader principles of Agile rather than providing a detailed exploration of the Daily Scrum's structure, roles, or best practices. While it touches on the Daily Scrum, it does not delve deeply into its core themes or provide substantial detail, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T07:25:35",
     "ai_confidence": 0,
@@ -683,31 +644,28 @@
     "reasoning": "Content heavily discusses Agile and Scrum concepts, which are unrelated to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile and Scrum, which ties into learning from experiences; however, the primary focus is on critiquing advice rather than exploring discovery and learning methodologies in depth.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the flexibility and adaptability within Agile methodologies, highlighting the importance of accommodating team needs, which is related to self-organisation, but it primarily critiques dogmatic practices rather than focusing on self-organisation principles.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of flexibility and adapting Agile practices to meet team needs, which aligns with self-organisation principles. However, it primarily critiques a specific piece of advice rather than exploring self-organisation in depth. The mention of inclusivity and respect touches on self-organisation but lacks a comprehensive discussion on fostering autonomy or team ownership.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses misconceptions and advice related to Scrum practices and does not focus on the Agile Product Operating Model or its value delivery principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses negative advice related to Agile and Scrum practices, focusing on the importance of flexibility and inclusivity rather than the Agile Product Operating Model itself. While it touches on Agile principles, it does not delve into product management or the specific themes of the Agile Product Operating Model, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -730,12 +688,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Agile principles and flexibility, emphasizing adaptation over rigid rules, which relates to market adaptability.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility, which aligns with the concept of market adaptability. However, it primarily focuses on a critique of rigid Scrum practices rather than providing strategies or methodologies for enhancing market responsiveness. The discussion lacks depth in terms of specific techniques or case studies related to market adaptability, resulting in a lower confidence score.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -757,10 +718,10 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses incorrect advice in Scrum and emphasizes flexibility and team dynamics, without addressing customer feedback mechanisms.",
     "level": "Ignored"
   },
@@ -775,10 +736,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses misconceptions about Agile practices and emphasizes the flexibility of Agile methodologies, but does not focus on metrics, data, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -809,15 +770,6 @@
     "reasoning": "Content primarily discusses bad advice related to Scrum practices rather than mentoring strategies or the coaching process.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses a negative piece of advice related to Scrum without addressing AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T07:25:35",
@@ -838,20 +790,26 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and addresses a misunderstanding of Agile principles, with an emphasis on flexibility and adapting processes. However, it does not primarily focus on operational efficiency or specific techniques to enhance performance.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses negative advice related to Scrum practices, focusing on the importance of flexibility and inclusivity rather than operational efficiency or specific methodologies aimed at improving processes. While it touches on Agile principles, it lacks detailed discussion on techniques or strategies that enhance operational practices, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Agile Philosophy by emphasizing flexibility, inclusivity, and the human-centric nature of Agile practices, critique of dogmatic approaches, and the importance of adapting processes to meet team needs, aligning well with core Agile principles.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses a specific piece of advice related to Agile and Scrum, highlighting the importance of flexibility and inclusivity, which are core principles of the Agile Philosophy. It critiques a rigid interpretation of Agile practices, aligning well with the broader themes of adaptability and customer collaboration. However, while it touches on Agile principles, the focus is primarily on a specific instance within Scrum, which slightly limits the depth of discussion on the overall Agile Philosophy.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -865,12 +823,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content critiques a dogmatic approach within Agile and discusses the flexibility and human-centric nature of Agile methodologies, which are significant themes in coaching, though the primary focus is on Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the negative aspects of rigid Scrum practices and highlights the importance of flexibility and inclusivity, which aligns with coaching principles. However, it primarily critiques a specific Scrum Master's approach rather than focusing on coaching techniques or strategies. The mention of agile coaching and consulting services indicates some relevance, but the depth of discussion on coaching itself is limited.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -919,11 +880,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 79,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile principles, particularly in the context of Scrum, and emphasizes flexibility and team dynamics, which relate to Agile Product Management. However, the focus is more on Scrum practices than direct product management strategies.",
+    "reasoning": "The content discusses Agile principles and practices, particularly focusing on the role of Scrum and the importance of flexibility and inclusivity in Agile methodologies. It critiques rigid adherence to rules, which aligns with Agile's core themes of adaptability and customer-centricity. However, while it touches on Agile product management concepts, it does not delve deeply into specific product management strategies or the role of the Product Owner, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -937,48 +901,36 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum advice and Agile principles without addressing Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses negative advice about Scrum practices and emphasizes Agile principles without focusing on scaling Scrum in large organizations.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum methodologies with a focus on inclusivity and team dynamics, which are related to sociotechnical systems. However, it primarily centers on Agile advice and experiences rather than a thorough exploration of the interplay between social and technical elements.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile and Scrum practices, highlighting the importance of flexibility and inclusivity within teams. While it touches on team dynamics and the human-centric nature of Agile methodologies, it primarily focuses on specific practices rather than the broader sociotechnical systems context. The mention of team inclusivity aligns with sociotechnical principles, but the overall discussion lacks depth in exploring the interplay between social and technical systems.",
     "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses negative advice about Agile practices but does not focus on specific products or books.",
-    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of flexibility and adaptation within Agile and Scrum, touching on key principles that align with empirical process control, but it primarily focuses on criticizing dogmatic advice and advocating for inclusivity rather than providing a thorough discussion of empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptation in Agile practices, which aligns with the principles of empirical process control. However, it primarily focuses on a specific negative example of Scrum advice rather than providing a comprehensive discussion on empirical process control itself. The mention of Agile principles and the critique of dogmatic approaches contribute to the alignment, but the depth of discussion is limited, focusing more on a single anecdote than on broader empirical practices.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -991,20 +943,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the importance of flexibility and adaptation in Agile and Scrum, emphasizing practical problem-solving in real team contexts.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses a specific scenario in Agile where a rigid interpretation of Scrum principles led to a negative outcome. It highlights the importance of adaptability and real-world application of Agile principles, aligning with the core themes of pragmatic thinking. However, while it provides a relevant example, the discussion lacks broader practical strategies or techniques, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:13:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile principles and Scrum practices, with no focus on Lead Time or its related metrics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses negative advice related to Agile and Scrum practices, focusing on the importance of flexibility and inclusivity rather than addressing Lead Time as a metric. There are no direct mentions of Lead Time, and while it touches on Agile principles, it does not align with the core themes of Lead Time or provide any depth on measuring or optimising it.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,10 +976,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile and Scrum principles, specifically the misinterpretation of Scrum practices, rather than focusing on the delivery of functional software.",
     "level": "Ignored"
   },
@@ -1063,12 +1021,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content focuses primarily on Agile methodologies and the nuances of Scrum practices, particularly discussing the importance of flexibility in Agile and providing insights on the role of a Scrum Master.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the importance of flexibility and inclusivity within these frameworks. It critiques a specific piece of advice related to Scrum practices, which aligns well with the core themes of software development methodologies. The depth of discussion is moderate, providing a clear example and context, but it could benefit from more detailed exploration of Agile principles and practices.",
+    "level": "Primary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1108,21 +1069,12 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses negative aspects of Agile advice and the importance of flexibility and inclusivity in Agile practices, but it does not focus directly on cross-functional teams.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and provides advice related to Scrum practices, which impact software developers' methodologies, but it is more focused on misconceptions and dogmatic approaches rather than directly addressing software developers' roles.",
-    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1144,10 +1096,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses negative advice related to Agile and Scrum principles, not focusing on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1158,15 +1110,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on the negative aspects of Scrum and the role of the Scrum Master, without any substantial discussion of the Product Owner's responsibilities or contributions.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a negative aspect of Agile advice without focusing on industry news, updates, or reviews of tools or methodologies.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1207,21 +1150,27 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a misconception in Agile leadership practices, specifically criticizing a Scrum Master's authoritative approach, which relates to the theme of leadership in Agile contexts. However, the primary focus is on the negative advice rather than deeper discussions on leadership roles and strategies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the negative impact of rigid adherence to Agile practices, highlighting the importance of flexibility and inclusivity, which are key aspects of Agile leadership. It critiques a Scrum Master's dogmatic approach, aligning with the theme of empowering teams and fostering a culture of respect. However, while it touches on leadership principles, it primarily focuses on specific practices rather than a broader discussion of Agile leadership roles and strategies.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of flexibility and inclusivity within Agile practices, which relates to team dynamics and psychological safety, making it a secondary theme alongside a critical perspective on Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a negative example of Scrum advice that contradicts Agile principles, highlighting the importance of flexibility and respect for team members' needs. While it touches on team dynamics and inclusivity, it primarily critiques a specific instance rather than providing comprehensive strategies or practices for enhancing team motivation. The focus is more on a critique of poor advice rather than a deep exploration of motivational strategies.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1243,38 +1192,35 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:13:12",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses negative advice in Agile and Scrum practices rather than throughput, measurement, or optimization of work completion rates.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses negative advice related to Agile and Scrum practices, focusing on the importance of flexibility and inclusivity rather than on throughput as a delivery metric. There are no direct mentions of throughput, and while it touches on Agile principles, it does not provide any analysis or visualisation of throughput metrics, nor does it discuss delivery capacity or performance. The discussion is more about Agile philosophy than about throughput as a measurable metric.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses problematic advice regarding Scrum practices, specifically focusing on the daily Scrum and the importance of flexibility and respect in Scrum implementation.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses misconceptions and bad advice within Agile and Scrum practices rather than focusing on methods or strategies for delivering value.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:13:15",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum methodologies, not relevant to system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the negative aspects of rigid practices within these frameworks. There are no direct mentions of system configuration, nor does it align with the core themes of system setup, integration, or maintenance. The discussion is centred around Agile principles rather than any technical or operational aspects of system configuration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,41 +1241,38 @@
     "reasoning": "Content primarily discusses negative aspects of Agile and Scrum advice, focusing on Scrum practices and team dynamics rather than product discovery methodologies or user needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses a negative aspect of Scrum practices, specifically the daily stand-up, and emphasizes the importance of flexibility and inclusivity in the application of Scrum. It highlights Agile and Scrum principles but does not primarily focus on Scrum product development methodologies.",
-    "level": "Tertiary"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile principles and flexibility in team dynamics, which are relevant to organisational change, but the primary focus is on Scrum practices rather than broader change management strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on agile practices and a specific incident involving a scrum master, but it does not delve into organisational change strategies or frameworks. The focus is more on a personal anecdote rather than a discussion of change management principles or methodologies.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T07:25:35",
+    "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses negative advice related to Scrum practices and team dynamics, without addressing the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Agile principles and critiques rigid practices within Agile, making Agile concepts a significant theme, but it primarily focuses on specific advice rather than broader strategic implementation.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses a specific piece of advice related to Scrum practices, highlighting the importance of flexibility and inclusivity, which aligns with Agile principles. However, it primarily focuses on a negative example rather than a comprehensive discussion of Agile strategy. While it touches on key themes like adaptability and the human-centric nature of Agile, it lacks depth in strategic planning and broader organisational alignment, which are crucial for a higher confidence score.",
+    "level": "Secondary"
   },
   "Increment": {
     "category": "Increment",
@@ -1351,11 +1294,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Agile principles and emphasizes the importance of flexibility and adaptability in Scrum practices, which aligns with the themes of organisational agility. However, the primary focus is on advice and critique regarding Agile practice rather than a broader discussion on organisational agility as a central topic.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability within Agile methodologies, particularly highlighting the need to avoid rigid rules that can hinder team dynamics. It directly addresses the core principles of Agile, such as respect and inclusivity, which are essential for fostering an agile culture. However, while it touches on organisational agility, the focus is primarily on Scrum practices rather than broader organisational strategies, which slightly limits its depth in the context of organisational agility.",
     "level": "Secondary"
   },
   "Troubleshooting": {
@@ -1374,6 +1320,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum principles, focusing on adaptability and team dynamics rather than Lean Startup methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:59:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile and Scrum practices, with no mention of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:59:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile and Scrum methodologies without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content discusses a specific incident involving a Scrum Master and the daily stand-up, which directly mentions Scrum. However, the focus is more on a negative experience rather than a comprehensive discussion of Scrum principles or practices. While it touches on the importance of team dynamics and adaptability, it lacks depth in exploring the Scrum framework or its core themes.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum principles, focusing on the importance of flexibility and inclusivity in team dynamics. It does not mention the Shift-Left Strategy or its core themes, such as early integration of testing, security, or compliance in the software development lifecycle. The discussion is centred around Agile practices rather than the proactive approach of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility and adaptability in team processes, which aligns with the ethos of Continuous Improvement. However, it primarily focuses on critiquing poor Agile advice rather than providing a comprehensive exploration of Continuous Improvement practices. The mention of evolving and integrating teams hints at Continuous Improvement but lacks depth and specific strategies or frameworks related to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses negative advice related to Agile and Scrum practices, focusing on the importance of flexibility and inclusivity rather than explicitly addressing Common Goals. While it touches on Agile principles, it does not delve into the alignment of strategy with execution or shared objectives that guide decision-making, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of flexibility and adaptability in Agile practices, which aligns with the concept of competence. However, it primarily focuses on the pitfalls of rigid adherence to Agile rules rather than a comprehensive exploration of competence itself. The discussion lacks depth in terms of continuous learning or skill development, which are key aspects of the competence category.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:52:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the negative aspects of rigid practices within those frameworks. It does not mention the One Engineering System (1ES) or its principles, components, or implementation strategies. The discussion is centred around Agile's flexibility and inclusivity, which, while relevant to software development, does not align with the specific focus of 1ES on standardisation and integration across teams.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Agile principles and the importance of flexibility and inclusivity, which are tangentially related to Agentic Agility. However, it does not explicitly address the intentional shaping of outcomes or differentiate between human and AI capabilities. The focus is primarily on Agile practices rather than the deeper concepts of agency and intentionality.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:12:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Agile and Scrum methodologies, focusing on the importance of flexibility and inclusivity in team dynamics. While it touches on Agile principles, it primarily critiques poor advice rather than exploring product development methodologies in depth. The mention of Agile product development in hashtags indicates some relevance, but the overall focus is more on Agile practices than on the broader context of product development. Therefore, while there is some alignment, the depth and direct discussion of product development are limited.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:12:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses negative advice related to Scrum practices rather than Open Space Agile principles. While it touches on the importance of flexibility and inclusivity, which are relevant to Agile, it does not explicitly mention Open Space Agile or its core themes such as collective participation, psychological safety, or co-creation. The focus is on critiquing rigid Scrum practices rather than exploring Open Space Agile methodologies, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:12:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 2,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of flexibility and adapting Agile practices to meet the unique needs of teams, which aligns with the core principles of Agnostic Agile. It critiques dogmatic adherence to Scrum rules, highlighting the need for a human-centric approach, which resonates with Agnostic Agile's emphasis on context-driven agility. However, while it touches on these themes, the primary focus remains on Scrum mechanics rather than a broader discussion of Agnostic Agile principles, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:12:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses negative aspects of Agile and Scrum practices, focusing on the rigidity of certain Scrum rules rather than exploring methodologies for scaling Agile practices across teams. While it mentions Agile principles and the importance of flexibility, it does not delve into frameworks, strategies, or challenges related to scaling, which are essential for this category. The discussion is more about individual team dynamics and misconceptions rather than the complexities of scaling Agile across multiple teams.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:12:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the pitfalls of rigid adherence to rules rather than the core principles of Cell Structure Design. There are no direct mentions of decentralised structures, autonomous cells, or the Beta Codex principles. While it touches on flexibility and team dynamics, these concepts are not explored in the context of Cell Structure Design, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:12:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum practices, focusing on the negative aspects of rigid adherence to rules rather than exploring Liberating Structures or their facilitation techniques. While it touches on inclusivity, it does not explicitly mention or align with the core principles or specific techniques of Liberating Structures, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:12:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses negative advice related to Agile and Scrum practices, focusing on the importance of flexibility and inclusivity rather than addressing Time to Market. While it touches on Agile principles, it does not explicitly mention Time to Market or related metrics, nor does it explore strategies for improving delivery speed or customer satisfaction. The discussion is more about Agile philosophy than the efficiency of delivering market-ready products.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:12:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies, focusing on the pitfalls of rigid adherence to practices rather than the principles of flexibility and human-centric approaches. While it touches on themes of team dynamics and inclusivity, it does not explicitly address the concept of treating the organisation as a product or integrating customer feedback into organisational design. The discussion lacks depth regarding CaaP principles and does not provide any strategies or case studies related to the category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:13:00",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses Agile and Scrum methodologies without any direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not align with GitHub's core themes or provide any depth regarding GitHub services, tools, or best practices. The focus is on Agile advice rather than GitHub-related discussions.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:13:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on critiquing poor Agile advice and emphasises the importance of flexibility and inclusivity in Agile practices. While it touches on themes of adaptability, it does not explicitly discuss Unrealised Value or its indicators, strategies, or case studies. The discussion is more about Agile principles rather than exploring untapped opportunities or potential improvements within an organisation, which is central to the concept of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:13:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses negative advice related to Agile and Scrum practices, focusing on the importance of flexibility and inclusivity rather than on Current Value or its measurement. While it touches on Agile principles, it does not provide any direct discussion or metrics related to Current Value, nor does it explore its role in decision-making or prioritisation. The content lacks depth in relation to the key topics outlined for Current Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:13:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses negative advice related to Agile and Scrum practices, focusing on the importance of flexibility and inclusivity rather than rigid adherence to rules. While it touches on Agile principles, it does not engage with the specific challenges or implications of Hybrid Agile methodologies. There are no direct mentions of Hybrid Agile, nor does it analyse the integration of traditional and agile practices, which are central to the category. The discussion lacks depth regarding the core themes of Hybrid Agile, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:13:10",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum practices, specifically critiquing a rigid interpretation of Scrum rules. While it does touch on project management concepts, such as team dynamics and flexibility, it lacks a broader discussion of project management principles, methodologies, or tools. The emphasis is on Agile mechanics rather than comprehensive project management strategies, leading to a lower confidence score in alignment with the category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 20.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses negative advice regarding Agile and Scrum practices rather than focusing on specific models or frameworks. While it touches on the Agile principle of flexibility, it does not deeply explore any conceptual models or frameworks relevant to decision-making or systems thinking. The mention of Scrum roles and the characteristics of Agile teams are secondary to the main theme of avoiding bad advice, which does not fit within the specified category of 'Model.'",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content critiques a specific piece of scrum advice but does not directly discuss any artifacts or their roles within the Agile framework. It focuses more on Agile principles and practices rather than tangible artifacts like Product Backlogs or Increment. Artifacts are only indirectly related, leading to low scores in all dimensions.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on Agile and Scrum principles rather than discussing tools or mechanisms that facilitate Agile practices. It criticizes a specific piece of advice related to Scrum without addressing any tools that support Agile implementation or collaboration. The mention of 'Scrum Master' and 'Agile' does not entail a discussion on tools. Therefore, the alignment with the 'Tool' category is very low, and while the keywords relate to Agile, there are no direct references to any specific tools or their functionalities.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content strongly discusses the importance of Agile values, particularly highlighting the Scrum value of respect and the core principle of flexibility. It critiques the rigid adherence to practices that contradict foundational Agile beliefs, thus providing a reflective discussion on how values guide behavior and decision-making within Agile teams. The emphasis on adapting processes to meet team needs reinforces the alignment with the category of Values. Overall, while it touches on specific practices, the focus remains on the underlying values guiding those practices.",
+    "level": "Primary"
+  },
+  "Framework": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile and Scrum, particularly focusing on misconceptions and advice around their implementation. While it highlights the flexibility and adaptability inherent in Agile principles, it primarily critiques poor practices rather than offering a structured methodology or comparison of frameworks. The mentions of Agile principles are present, but the focus is less on frameworks themselves and more on individual advice and experiences. Thus, while it resonates mildly with the Framework category, it does not delve deeply into comparative analysis or structured implementation strategies. This results in a lower confidence score for strict alignment with the Framework category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content critiques a specific piece of Agile advice related to the daily stand-up and discusses the flexibility of Agile principles, which aligns with Practice as it touches on team practices. However, the focus on negative advice and the broader discussion on Agile principles detracts from a strong emphasis on actionable techniques or detailed practices, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on specific practices and events related to Scrum, citing an example of poor Scrum advice. While it touches on core Agile values such as flexibility and respect, these concepts are discussed in a practical context rather than as part of a philosophical exploration. The direct mentions of Agile and Scrum practices dilute its alignment with the more abstract philosophical discussions expected in the Philosophy category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on critiquing specific Agile advice and emphasizes flexibility in Agile practices rather than discussing capabilities in detail. While it mentions the importance of adaptation and core values, it does not delve into the enduring competencies that empower teams or organizations in a structured way consistent with the 'Capability' category. The discussion is more about practices and experiences rather than a systematic development of capabilities.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 15.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses negative aspects of Agile practices, particularly highlighting bad advice in the context of Scrum. While it touches on the importance of flexibility and adapting Agile practices, it does not provide specific, actionable guiding rules or tenets related to Agile, Lean, or DevOps methodologies. The core focus is on values rather than prescriptive tenets, which is not aligned with the category definition. The content contains some mentions of Agile principles and concepts, but these are secondary to the overall discussion.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content critiques the misuse of Agile and Scrum methods, specifically discussing rigid adherence to practices like the daily stand-up, which reveals a misunderstanding of Agile's flexible nature. However, the focus is more on discussing the negative aspects of advice rather than detailing structured methods or procedures themselves. While it acknowledges concepts related to Agile and Scrum methodologies, it does not delve into specific methods or techniques, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum principles, focusing on the misconceptions of Agile practices rather than on observability, metrics, logs, or related tools. There is no mention of observability as defined in the guidelines, and while there is a slight conceptual alignment in terms of team dynamics, it does not delve into observability in any meaningful way.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content does discuss the principles underlying Agile methodologies, particularly the flexibility and adaptability that are core to Agile. However, the primary focus of the content is on negative examples of advice and misconceptions about implementing Agile, rather than providing a structured discussion on actionable principles. While there are mentions of respect for individuals and the need to adapt practices, the details are more focused on debunking poor advice rather than articulating guiding principles themselves. Therefore, the score reflects a moderate alignment but less depth in actively discussing principles.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:41:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses specific Agile practices and the importance of flexibility over rigid adherence to rules. While Agile and Scrum are mentioned, the focus is more on anecdotal critiques of advice rather than a systematic exploration of discipline principles. The connection to discipline in terms of codified knowledge or governance structures is weak, leading to a low confidence score. However, it does reference aspects of Agile philosophy that relate to the overall discipline, justifying a score above the minimum.",
     "level": "Ignored"
   }
 }

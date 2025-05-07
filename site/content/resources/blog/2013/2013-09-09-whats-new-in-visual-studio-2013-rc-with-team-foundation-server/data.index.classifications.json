@@ -1,21 +1,15 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:47:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile Portfolio Management enhancements and mentions Agile Planning tools, indicating a significant but secondary theme related to Agile Product Management.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T11:43:10",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, focusing on practical applications of tooling that support Agile and DevOps practices.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including Agile Portfolio Management and the Task Board, which are relevant to Agile practices. However, the primary focus is on technical enhancements and usability improvements rather than on Agile Product Management principles or methodologies. The discussion lacks depth in terms of strategic alignment, customer needs, and continuous delivery, which are core themes of Agile Product Management.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +22,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:43:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no clear focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T11:43:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, without a clear focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses enhancements and features in Visual Studio 2013 and TFS 2013, touching on aspects of experimentation and iterative improvements, but primarily focuses on technical details rather than a central theme of discovery and learning.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T11:43:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no clear focus on AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2013 and TFS 2013, with no explicit discussion on Evidence-Based Management principles or metrics. While it touches on aspects of agile improvements, it lacks a direct connection to data-informed decision-making or empirical evidence, which are central to EBM.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +43,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses new features and enhancements in Visual Studio 2013 and TFS 2013, including configuration options and usability improvements, but it primarily focuses on features rather than detailed installation or configuration procedures.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T11:43:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, without a clear focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses new features and enhancements in Visual Studio 2013 and TFS 2013, including aspects of configuration and installation. However, it primarily focuses on the features rather than providing detailed installation or configuration instructions. While there are mentions of configuration options, the depth of discussion on installation processes is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +71,17 @@
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, focusing on technical tools without addressing their organisational context or the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T11:43:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including aspects of continuous delivery and team collaboration, which are relevant to DevOps practices. However, the primary focus is on the software tools rather than a comprehensive discussion of DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses features of Visual Studio 2013 and TFS 2013, focusing on enhancements and tools rather than the core principles of DevOps. While there are mentions of agile practices and continuous delivery, the discussion lacks depth in terms of DevOps philosophy, automation, and shared accountability, which are central to the category. The content is more aligned with software development tools than with the broader DevOps culture and practices.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,31 +101,13 @@
     "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:43:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-15T11:43:37",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, with no clear focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T11:43:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with little focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:43:42",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, without a focus on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,19 +148,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various enhancements and features of Visual Studio 2013 and TFS 2013, touching on aspects of Agile practices and development tools, but it primarily focuses on product features rather than deep engineering methodologies or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses new features in Visual Studio 2013 and TFS 2013, touching on aspects of Continuous Integration and Continuous Delivery (CI/CD) practices, as well as enhancements that improve development processes. However, the focus is more on feature descriptions rather than a deep exploration of engineering practices or methodologies that enhance agility. While there are mentions of usability improvements and tools that facilitate development, the discussion lacks a strong emphasis on the principles of Technical Excellence, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-15T11:43:47",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, without a focus on complexity science or its principles.",
     "level": "Ignored"
   },
@@ -235,12 +178,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses enhancements in Visual Studio 2013 and TFS 2013, including Agile Portfolio Management and testing features, which are relevant to product delivery but are not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses new features in Visual Studio 2013 and TFS 2013, touching on aspects of Agile methodologies and team collaboration tools. However, it primarily focuses on specific product enhancements rather than the broader methodologies and practices of product delivery. While there are mentions of Agile and team processes, the depth of discussion on product delivery principles is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -253,38 +199,32 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T11:43:53",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no clear focus on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T11:43:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, without focusing on reviews or analyses of products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T11:43:56",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T11:43:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses features and enhancements related to Team Foundation Server (TFS) 2013, which is part of the Azure DevOps suite, focusing on its functionalities and improvements in project management and collaboration tools.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses features and enhancements related to Team Foundation Server (TFS) 2013, which is part of the Azure DevOps suite. It provides a detailed overview of various functionalities, such as Team Explorer enhancements, Agile Portfolio Management, and Test Plans, aligning well with Azure DevOps themes. However, the focus is primarily on TFS rather than Azure DevOps as a whole, which slightly reduces the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -298,29 +238,32 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-15T11:44:00",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T11:44:01",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, without a clear focus on the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:44:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:34:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, with some references to agile improvements and tools. However, it primarily focuses on software development tools rather than the Agile Product Operating Model itself. While there are mentions of agile practices, they are not the primary focus, and the depth of discussion on APOM principles is minimal.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,77 +275,68 @@
     "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no clear focus on organisational agility or related strategies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:44:06",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the new features and enhancements in Visual Studio 2013 and TFS 2013, providing insights and evaluations that are relevant to practitioners in the Agile and DevOps fields.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T11:44:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, which are tools that support Application Lifecycle Management. It covers aspects such as Agile Portfolio Management, Test Plans, and Team Rooms, all of which are relevant to managing the application lifecycle.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, which are tools that support aspects of Application Lifecycle Management (ALM). However, the primary focus is on specific enhancements and user experiences rather than a comprehensive discussion of ALM methodologies, practices, or governance. While there are mentions of Agile and DevOps principles, the depth of discussion on the application lifecycle stages and best practices is limited.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including a Scrum-style Task Board, which indicates a major but secondary theme related to Scrum practices.",
-    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses updates and features of Visual Studio 2013 and TFS 2013, with no focus on the Daily Scrum event or its related practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses features and enhancements of Visual Studio and Team Foundation Server, with no mention of the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses enhancements in Visual Studio 2013 and TFS which relate to technical tools used in software engineering, but the focus is more on updates and features rather than on core principles of software craftsmanship and best practices.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, which touches on aspects of software development tools and practices. However, it lacks a focused discussion on best practices, principles of clean code, or methodologies that contribute to software craftsmanship. While there are mentions of usability improvements and agile features, the overall emphasis is more on tool updates rather than a deep exploration of technical mastery principles.",
     "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on features and enhancements of Visual Studio 2013 and TFS 2013, rather than discussing methodologies or practices aligned with discovering customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses features of Visual Studio and TFS related to deployment and build management, which aligns with Continuous Delivery but is primarily centered on software tool functionality, not CD principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, with a brief mention of continuous delivery in the context of build creation. However, the primary focus is on tool enhancements and user experience rather than the principles and practices of Continuous Delivery. While there are some relevant aspects, such as automation and incremental improvements, the overall discussion does not deeply engage with the core themes of Continuous Delivery.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -415,10 +349,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, without a clear focus on Lead Time or related metrics.",
     "level": "Ignored"
   },
@@ -433,84 +367,96 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on features of Visual Studio 2013 and TFS 2013, with no mention of Definition of Ready concepts.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content provides detailed discussions on Agile Portfolio Management features and enhancements within the context of Team Foundation Server 2013, making it a major theme, although it also covers other aspects of Visual Studio 2013.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions 'Agile Portfolio Management' and discusses some enhancements related to it, but the primary focus is on the features of Visual Studio 2013 and TFS 2013. While there are elements that touch on portfolio management, such as backlog management and reporting, the overall discussion is more about tool enhancements rather than a comprehensive exploration of portfolio management methodologies or practices.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions backlog management and associated features within TFS 2013, such as mapping backlog items to features and user interface improvements for backlog management, indicating that the Product Backlog is a significant aspect of the discussed updates.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on backlog management within the context of Visual Studio and TFS 2013, specifically mentioning Agile Portfolio Management and backlog items. However, the primary focus is on new features and enhancements in Visual Studio and TFS, rather than a detailed discussion of the Product Backlog itself. The alignment with the core themes of the category is limited, and while there are some relevant mentions, they are not explored in depth.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013 that include Agile Portfolio Management and mentions Agile Planning tools like Task Boards, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including enhancements related to Agile Planning tools like the Task Board and Agile Portfolio Management. However, the primary focus is on the software's features rather than a deep exploration of Agile Planning principles or methodologies. While there are mentions of Agile-related features, the overall discussion lacks depth and does not fully align with the core themes of Agile Planning.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on Visual Studio and TFS enhancements, without any discussion relevant to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the features of Visual Studio 2013 and TFS 2013, without discussing customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses enhancements in Visual Studio 2013 and TFS that facilitate agile development processes, improving operational efficiency by streamlining workflows and enhancing the user interface for better usability. However, the primary focus is more on product features rather than explicit operational practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses new features in Visual Studio 2013 and TFS 2013, with a focus on enhancements and usability improvements. While there are mentions of Agile practices and tools that could contribute to operational efficiency, the discussion lacks a direct focus on operational practices as defined in the category. The content does not provide in-depth strategies or techniques aimed at enhancing operational efficiency, making it more of a product review than a discussion on operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses updates and features of Visual Studio and Team Foundation Server, with no focus on Scrum Team roles, collaboration, or dynamics.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:52",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 25,
     "non_ai_confidence": 10,
-    "final_score": 24.0,
+    "final_score": 25.0,
     "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS rather than the underlying Agile philosophy. While there are mentions of Agile features like backlog management and continuous delivery, these are not central to the primary focus of the content.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
@@ -523,21 +469,21 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements of Visual Studio 2013 and TFS 2013 rather than methodologies and practices for validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:52",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including Agile Planning tools like the Task Board and Agile Portfolio Management. However, it is primarily focused on the technical improvements and does not delve into strategic discussions of Agile transformation or methodologies.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -550,127 +496,133 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses some features related to Test Plans and Test Cases which are relevant to automated testing, but it focuses more on the enhancements to Visual Studio and TFS rather than primarily on automated testing principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions testing in the context of Visual Studio and TFS, specifically highlighting features related to test plans and test cases. However, the primary focus is on the new features of Visual Studio and TFS rather than a comprehensive discussion on automated testing principles, practices, or methodologies. The discussion lacks depth and does not align closely with the core themes of automated testing, such as CI/CD practices or specific automated testing tools.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses updates and features of Visual Studio 2013 and TFS 2013. It focuses on technical enhancements and interface improvements rather than on strategies or methodologies to improve team performance in an Agile context.",
     "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, rather than focusing on the delivery of software increments or Agile-specific discussions.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no clear focus on Acceptance Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T17:51:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses new features and enhancements in Visual Studio and Team Foundation Server, focusing on how these tools support software development processes, including Agile practices and integration with source control.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 60,
-    "non_ai_confidence": 30,
-    "final_score": 57.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS that support Agile practices, such as Agile Portfolio Management, backlog management, and Scrum-style boards, but it is primarily focused on the software itself rather than on Agile project management as a standalone topic.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed overview of new features in Visual Studio 2013 and TFS 2013, which are directly related to software development practices. It discusses enhancements in team collaboration tools, agile project management features, and continuous integration capabilities, all of which are core aspects of software development methodologies. The depth of discussion on specific features and their implications for development processes further supports a high confidence score.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses features and enhancements in Visual Studio 2013 and TFS 2013, without focusing on Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses features and improvements in Visual Studio 2013 and TFS 2013, with only a brief mention of Scrum-related elements like the Task Board, which is not the central theme of the content.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T17:51:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses features and enhancements in Visual Studio 2013 and TFS 2013, with a strong focus on source control capabilities, code management, and collaborative workflows, making Modern Source Control a central theme.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses various features and enhancements of Visual Studio 2013 and Team Foundation Server (TFS) 2013, which are directly related to modern source control practices. It mentions source control features, integration with Git, and tools for collaboration and project management. However, the focus is more on the specific features of the software rather than broader best practices or methodologies in version control, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features in Visual Studio 2013 and TFS 2013, without clear focus on empirical process control principles.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and enhancements of Visual Studio and TFS, with no direct relation to Scrum Values.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Visual Studio 2013 and TFS 2013 features, but it does include some relevant sections on Agile Planning Tools, Work Item Tracking, Task Board, and Team Rooms that are associated with Azure Boards functionalities.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses features of Team Foundation Server (TFS) 2013, which includes some aspects of Azure Boards, such as work item tracking and Agile planning tools. However, the primary focus is on Visual Studio enhancements rather than a detailed exploration of Azure Boards functionalities or best practices. The mention of Agile Portfolio Management and Task Boards indicates some relevance, but the overall depth and focus on Azure Boards is limited.",
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T17:51:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses enhancements to Team Foundation Server (TFS) and Visual Studio that focus on tools for team communication, task management, and Agile workflow support, which aligns with the context of collaboration tools.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including enhancements to Team Explorer and Team Rooms, which are relevant to collaboration tools. However, the primary focus is on the technical aspects and features of the software rather than a comprehensive discussion on collaboration tools in the context of Agile teams. While there are mentions of team communication and coordination features, the depth of discussion does not fully align with the key topics outlined for the category.",
     "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical features of Visual Studio and Team Foundation Server, with no clear discussion on organisational change methodologies or practices.",
     "level": "Ignored"
   },
@@ -685,37 +637,31 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses several enhancements in Visual Studio 2013 and TFS 2013 with a focus on the pace of improvements and incremental changes, but it largely centers on specific features rather than the overarching practices of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the release of Visual Studio 2013 and TFS 2013, highlighting new features and enhancements. While it mentions the pace of feature improvements and the benefits of being on the same cadence as the product team, it lacks a comprehensive exploration of the principles of frequent releases, such as continuous delivery or deployment strategies. The focus is more on specific features rather than the broader context of frequent releases, which affects the overall alignment and depth of discussion.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical features and enhancements in Visual Studio 2013 and TFS, with no central focus on customer satisfaction or experiences.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T17:51:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on updates and features of Visual Studio 2013 and TFS 2013, with no discussion relevant to scaling Scrum practices, frameworks, or principles.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on features and enhancements in Visual Studio and TFS 2013, without referencing evidence-based leadership principles or empirical evidence in decision-making.",
     "level": "Ignored"
   },
@@ -728,23 +674,17 @@
     "reasoning": "Content focuses on the new features and enhancements in Visual Studio 2013 and TFS 2013, which does not relate to psychological safety as a primary topic.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T17:51:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses features and enhancements in Visual Studio 2013 and TFS 2013, with no clear focus on scaling agile practices across an organization.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and enhancements in Visual Studio 2013 and TFS 2013 that can influence development practices, particularly in areas like continuous integration and testing methodologies. However, the primary focus is on product features rather than direct engineering practices or excellence.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses new features in Visual Studio 2013 and TFS 2013, focusing on enhancements and usability improvements rather than explicitly addressing engineering excellence principles or practices. While there are mentions of development processes and tools that could contribute to engineering excellence, the discussion lacks depth in terms of best practices, continuous improvement, or metrics for assessing engineering performance. The content is more product-focused than process-oriented, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -757,10 +697,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and updates of Visual Studio 2013 and TFS 2013, without addressing principles, practices, or discussions related to asynchronous development.",
     "level": "Ignored"
   },
@@ -775,56 +715,44 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and enhancements of Visual Studio and TFS 2013, with no clear focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily focuses on features of Visual Studio 2013 and TFS 2013, it discusses practical enhancements that can improve workflows and collaboration in Agile contexts, making pragmatic thinking a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses new features in Visual Studio 2013 and TFS 2013, touching on practical enhancements and usability improvements. However, it lacks a strong focus on pragmatic problem-solving strategies or real-world applications of Agile, Scrum, or DevOps principles. While there are mentions of Agile tools and features, the overall discussion is more about tool updates than about navigating complexity or applying experience-based decision-making in project management.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses new features in Visual Studio 2013 and TFS 2013, with only brief mentions of Agile practices. It does not focus on backlog refinement or related techniques.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T04:47:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses new features and enhancements in Visual Studio 2013 and TFS, indicating innovative practices and improvements. However, the focus is more on product updates rather than a comprehensive exploration of the Ability to Innovate as a primary topic.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T17:51:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, lacking a clear focus on Scrum practices, roles, or methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T17:51:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses new features in Visual Studio 2013 and TFS 2013, with a focus on tool enhancements rather than methodologies or frameworks related to Scaled Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses new features and enhancements in Visual Studio 2013 and TFS 2013, which implies a focus on innovation. However, it lacks a structured discussion on the measurement and improvement of innovation capabilities, and does not explicitly mention Evidence-Based Management principles or frameworks for measuring Ability to Innovate. The content primarily focuses on product features rather than a broader organisational capacity for innovation.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -838,21 +766,24 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-15T17:51:32",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no clear or central topic related to Lean Thinking principles.",
     "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses features related to Test Management in Team Foundation Server 2013 and mentions creating Test Plans and Test Cases, indicating a secondary theme related to test automation. However, it does not primarily focus on test automation principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including some aspects of test management and the ability to create test plans and cases. However, the primary focus is on general enhancements and usability improvements rather than on the principles, practices, or tools specifically related to test automation. The mention of test plans and cases is too brief and lacks depth, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -865,30 +796,39 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses enhancements and features related to Visual Studio 2013 and TFS 2013, which supports the development and delivery of functional software, but it is primarily focused on the product itself rather than a discussion of working software in a broader context.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses new features and enhancements in Visual Studio 2013 and TFS 2013, which are tools for developing working software. However, while it touches on aspects of functionality and usability improvements, it lacks a focused discussion on the delivery of high-quality software that meets customer needs. The mention of Agile practices and continuous delivery is present but not deeply explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T17:51:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013 that relate to Agile Planning Tools, including enhancements for backlog management and the Task Board feature. However, it also includes significant portions on general Visual Studio functions and tools that are not solely focused on Agile planning.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including Agile Planning Tools like the Task Board and Agile Portfolio Management. However, the primary focus is on the overall enhancements of Visual Studio and TFS rather than a deep exploration of Agile Planning Tools specifically. While there are relevant mentions, they are not the central theme of the content.",
     "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS, including aspects related to build management and continuous delivery, which are pertinent to Continuous Integration practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including build management and continuous delivery, which are relevant to Continuous Integration. However, the primary focus is on the enhancements and usability improvements of the tools rather than a thorough exploration of CI principles or practices. The discussion lacks depth in CI-specific strategies and best practices, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -901,10 +841,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on features and enhancements of Visual Studio 2013 and TFS 2013, with no central discussion on Agile leadership or related concepts.",
     "level": "Ignored"
   },
@@ -928,19 +868,19 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses primarily on updates and features of Visual Studio 2013 and TFS 2013, with no clear discussions on hypothesis formulation, experimentation, or data-driven decision-making. It is centered around product features and usability improvements rather than hypothesis-driven development practices.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical features of Visual Studio 2013 and TFS 2013 without any discussions on structured decision-making methodologies or evidence-based management principles.",
     "level": "Ignored"
   },
@@ -955,73 +895,79 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the release of Visual Studio 2013 and TFS 2013, which relates to software release processes, but it primarily focuses on features and enhancements rather than the strategies and practices of Release Management.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the release of Visual Studio 2013 and TFS 2013, mentioning features and enhancements that are relevant to release management. However, it primarily focuses on the new features and user experience rather than the strategic aspects of release management such as planning, scheduling, or risk management. While there are mentions of continuous delivery and improvements in the development process, the depth of discussion on release management practices is limited.",
     "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on features and enhancements of Visual Studio and TFS, with no clear discussion on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on new features in Visual Studio 2013 and TFS 2013, with no clear discussion about Cycle Time.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:52",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content focuses on Visual Studio 2013 and TFS 2013, with some mentions of build processes, but it primarily discusses development tools and enhancements without specific reference to Azure Pipelines or CI/CD practices.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the features and enhancements of Visual Studio and Team Foundation Server without discussing deployment frequency or related practices such as continuous delivery or CI/CD strategies.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements in Visual Studio and TFS 2013, without a clear focus on change management strategies or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses enhancements to Team Explorer and Team Foundation Server, which relate to tools that facilitate team collaboration, especially in Agile and Scrum environments. However, the primary focus is on software features rather than explicit discussions on teamwork or collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including enhancements to Team Explorer and Team Rooms, which facilitate team collaboration. However, the primary focus is on tool features rather than on broader team dynamics, communication strategies, or cultural aspects of collaboration. While there are mentions of team-related functionalities, they are not explored in depth, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio 2013 and Team Foundation Server without any focus on Behaviour Driven Development practices, principles, or tools.",
     "level": "Ignored"
   },
@@ -1034,48 +980,42 @@
     "reasoning": "The content primarily focuses on the features and enhancements of Visual Studio 2013 and TFS 2013, without explicitly discussing digital transformation strategies or how these tools can be integrated into a broader business transformation context.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses new features and enhancements in Visual Studio and TFS, without focusing on MVP concepts or the development of a Minimum Viable Product.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T17:51:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is focused on the features of Visual Studio 2013 and Team Foundation Server, with no discussion about AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses features and configurations related to Visual Studio 2013 and TFS 2013, including workspace configuration and enhancements in Team Explorer. While it mostly focuses on new features and improvements in a development context, configuring TFS and Visual Studio is a significant aspect of system configuration.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, with a focus on user interface improvements and functionality rather than on system configuration processes or methodologies. While there are mentions of configuration aspects, such as 'Configure Workspace' and 'Settings', these are not the main focus of the content. The discussion lacks depth in terms of best practices, optimisation strategies, or troubleshooting common configuration issues, which are key themes of the System Configuration category.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical features and enhancements of Visual Studio and TFS 2013, without discussing product strategy, vision, or roadmapping.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and enhancements of Visual Studio and TFS 2013, with no direct focus on technical leadership principles, agile methodologies, or team guidance.",
     "level": "Ignored"
   },
@@ -1090,37 +1030,43 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features of Visual Studio and Team Foundation Server, with little to no focus on cross-functional teams or their importance in Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T17:51:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, without a clear focus on Test First Development or Test-Driven Development principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses new features in Visual Studio 2013 and TFS 2013, with a focus on enhancements to the development environment and tools. While there are brief mentions of testing features, such as creating test plans and cases, the overall emphasis is on tool improvements rather than the principles of Test First Development. The content lacks a detailed exploration of success criteria, TDD, or the impact of testing practices on collaboration, which are core to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Visual Studio 2013 and its integration with Windows operating systems, indicating relevance to the Windows category, but the primary focus is on Visual Studio and TFS features rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses Visual Studio 2013 and Team Foundation Server (TFS) 2013, with a specific mention of installation issues on Windows 8.1 Preview. While it does touch on aspects of the Windows operating system, such as installation and configuration, the main focus is on the features and enhancements of Visual Studio and TFS rather than on Windows itself. Therefore, while there is some relevance to the Windows category, it is not the primary focus of the content.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on new features of Visual Studio 2013 and Team Foundation Server, rather than methodologies or practices related to software deployment.",
     "level": "Ignored"
   },
@@ -1135,56 +1081,65 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Visual Studio 2013 and TFS features without addressing team motivation or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, without a focus on remote work or Agile methodologies.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses new features and enhancements of Visual Studio 2013 and TFS 2013, with no focus on continuous learning principles or practices.",
     "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses potential installation issues with Visual Studio 2013 RC, indicating that troubleshooting is a significant theme, but the primary focus is on new features rather than systematic problem-solving or diagnosing technical issues.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on new features and enhancements in Visual Studio 2013 and TFS 2013, with only brief mentions of installation issues. While it discusses improvements that could indirectly aid troubleshooting, it lacks a primary focus on diagnosing or resolving technical issues, which is essential for the 'Troubleshooting' category.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions experimentation in the context of enhancements and improvements in Visual Studio 2013 and TFS 2013, but it primarily focuses on tool features and user experience rather than on systematic hypothesis-driven approaches or structured discussions around experimentation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions experimentation in the context of enhancements and features in Visual Studio and TFS, but it lacks a focused discussion on hypothesis-driven approaches or systematic testing. While there are references to improvements and user feedback, the primary focus is on feature descriptions rather than on the experimentation process itself.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T17:51:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses features and enhancements of Visual Studio and Team Foundation Server, with no direct reference to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio 2013 and TFS 2013, with no direct mention of the Scrum Master role or its responsibilities. While there are references to agile improvements, they are not specifically tied to the Scrum Master’s influence or practices, resulting in minimal alignment with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1153,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no focus on working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses new features in Visual Studio 2013 and TFS 2013, which are relevant to software developers, particularly in the context of Agile practices like team collaboration and project management. However, the primary focus is on the tool rather than specific roles or methodologies used by software developers.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,37 +1171,40 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features of Visual Studio and Team Foundation Server that facilitate Agile development methodologies, including task boards and test management, but it primarily focuses on the tools themselves rather than core engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses new features in Visual Studio 2013 and TFS 2013, with a focus on user interface enhancements and usability improvements. While it touches on Agile concepts like Team Rooms and Agile Portfolio Management, these are not the main focus. The discussion lacks depth in core engineering practices such as clean code, TDD, or CI/CD, which are essential to the category of Engineering Practices. Therefore, the content does not align strongly with the category's core themes.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on new features of Visual Studio 2013 and TFS 2013, without discussing technical debt management or its implications.",
     "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses extensively on the features of Visual Studio 2013 and TFS 2013, without addressing Sprint Review topics such as inspecting increments or stakeholder feedback.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects and features of Visual Studio 2013 and Team Foundation Server, without a focus on strategic product management topics or methodologies.",
     "level": "Ignored"
   },
@@ -1270,19 +1219,19 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on features and enhancements of Visual Studio 2013 and TFS 2013, with reference to Agile concepts only in a limited context.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses features and enhancements of Visual Studio 2013 and TFS 2013 without clear focus on Agile strategic alignment or implementation.",
     "level": "Ignored"
   },
@@ -1306,19 +1255,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on new features and enhancements in Visual Studio 2013 and TFS 2013, with no clear discussion of Lean Product Development principles or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the new features and enhancements in Visual Studio 2013 and TFS 2013, with no clear discussion on trend analysis related to Agile, DevOps, or business agility frameworks.",
     "level": "Ignored"
   },
@@ -1329,15 +1278,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical features and enhancements of Visual Studio 2013 and TFS 2013, with no clear focus on accountability, team dynamics, or ownership within Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T17:51:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Visual Studio 2013 and TFS 2013 features and enhancements, with no focus on Kanban principles or their application in large organizations.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1351,10 +1291,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T17:51:33",
+    "calculated_at": "2025-04-10T15:55:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses new features and enhancements in Visual Studio 2013 and TFS 2013, without a clear focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1369,11 +1309,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:14:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features of Visual Studio 2013 and TFS 2013, including Agile tools and team collaboration enhancements, which are relevant to Agile practices and team dynamics.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of Visual Studio 2013 and TFS 2013, with little emphasis on social technologies or frameworks that promote collaboration and decision-making. While there are mentions of team dynamics and tools that could support collaboration (like Team Rooms), the overall discussion is more technical and tool-centric rather than exploring the underlying social frameworks or methodologies that align with the category of Social Technologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:16:30",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with a focus on Agile practices and tools, rather than the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:16:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses features and enhancements of Visual Studio 2013 and TFS 2013, with no mention of AI applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum in the context of TFS 2013's Task Board feature, which is described as a 'Scrum style board'. However, the primary focus of the content is on Visual Studio and TFS enhancements, with only a minor reference to Scrum principles. The discussion lacks depth on Scrum roles, events, or artifacts, and does not explore the core themes of the Scrum framework or Agile principles in detail.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses new features and enhancements in Visual Studio 2013 and TFS 2013, with a focus on user interface improvements and tool functionalities. There is no explicit mention of the Shift-Left Strategy or its principles, benefits, or techniques. While there are references to testing and agile practices, they do not align with the proactive integration of testing and security earlier in the development lifecycle as defined by the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on new features and enhancements in Visual Studio 2013 and TFS 2013, with some references to incremental improvements and user experience enhancements. However, it lacks a strong emphasis on the principles of Continuous Improvement, such as empirical evidence, data-driven decision-making, or a culture of experimentation. While there are mentions of enhancements and usability improvements, these are not deeply tied to the broader themes of Continuous Improvement or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of Visual Studio 2013 and TFS 2013, with little to no direct discussion on Common Goals within Agile or DevOps frameworks. While there are mentions of Agile tools and processes, they are not explored in the context of aligning strategy with execution or shared objectives. The discussion lacks depth in connecting these features to the overarching principles of Common Goals, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of Visual Studio 2013 and TFS 2013, with little emphasis on the concept of competence. While there are mentions of improving development processes and tools, these do not directly address continuous learning, skill development, or the professional principles associated with competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features and enhancements of Visual Studio 2013 and TFS 2013, with no explicit discussion of Agentic Agility or its principles. While it touches on Agile practices, it does not differentiate between human and AI capabilities or discuss intentional shaping of outcomes, which are key aspects of Agentic Agility.",
+    "level": "Ignored"
   }
 }

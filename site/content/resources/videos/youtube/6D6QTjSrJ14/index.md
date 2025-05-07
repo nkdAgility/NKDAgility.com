@@ -2,8 +2,10 @@
 title: What has the initial response been to the immersive learning experiences, how do you see that evolving?
 description: Discover the buzz around our new immersive learning experiences for Scrum! Join Martin Hinshelwood as he shares initial feedback and future insights.
 date: 2023-08-28T07:00:05Z
+weight: 1000
 ResourceId: 6D6QTjSrJ14
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 6D6QTjSrJ14
@@ -14,35 +16,27 @@ preview: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg
 duration: 222
 isShort: false
 aliases:
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
-- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
-- /resources/videos/6D6QTjSrJ14
-- /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/6D6QTjSrJ14
-aliasesFor404:
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences
+aliasesArchive:
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
+- /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences
+- what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Continuous Learning
-- People and Process
-- Discovery and Learning
-- Customer Feedback Loops
-- Coaching
-- Value Delivery
-- Customer Satisfaction
-- Personal
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
-- Social Technologies
+- Product Development
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 
@@ -81,7 +75,7 @@ Rather than cramming all learning into a two-day window, immersive learning stre
 
 As you learn, you're not isolated. You're part of a community, discussing, dissecting, and supporting one another's growth. 
 
-## 🔄 Experimentation and Application 
+## 🔄 [Experimentation]({{< ref "/tags/experimentation" >}}) and Application 
 
 In the real world, theory without practice is like a car without wheels – it's not going anywhere. Immersive learning encourages you to apply concepts immediately, bringing theory to life. 
 

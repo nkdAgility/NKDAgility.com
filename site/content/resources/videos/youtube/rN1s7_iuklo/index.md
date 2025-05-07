@@ -2,38 +2,56 @@
 title: Empowering Teams to Maximize Value and Return on Investment
 description: "Unlock your team's potential! Discover how empowering Agile teams boosts innovation, adaptability, and ROI in this insightful video. Click to learn more! \U0001F4BC\U0001F4C8"
 date: 2024-07-24T06:45:04Z
+weight: 340
 ResourceId: rN1s7_iuklo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rN1s7_iuklo
 source: internal
 url: /resources/videos/:slug
-slug: empowering-teams-to-maximize-value-and-return-on-investment
+slug: empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
 layout: video
 preview: https://i.ytimg.com/vi/rN1s7_iuklo/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/empowering-teams-to-maximize-value-and-return-on-investment
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
-- /resources/videos/rN1s7_iuklo
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 - /resources/rN1s7_iuklo
-aliasesFor404:
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
+aliasesArchive:
+- /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment
 - /resources/empowering-teams-to-maximize-value-and-return-on-investment
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-5
+- empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Pragmatic Thinking
+- Agile Philosophy
+- Business Agility
+- Continuous Improvement
+- Software Development
+- Team Motivation
+- Value Delivery
+- Self Organisation
+- Organisational Agility
+- Agile Leadership
+- Continuous Learning
+- Team Performance
+- Social Technologies
+- Organisational Culture
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
-- Leadership
-- Social Technologies
+- Product Development
+- Technical Leadership
 
 ---
 In the fast-paced world of Agile, the key to success lies in the ability of teams to adapt and evolve. But are your teams truly empowered to change their processes based on what they learn? If they aren't, then they might not be as agile as you think. 🚀
@@ -58,13 +76,13 @@ One of the most common mistakes in Agile implementation is the belief that one p
 
 ## **How to Empower Your Teams**
 
-### **Foster a Culture of Continuous Improvement**
+### **Foster a Culture of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
 
 Empowering teams starts with fostering a culture of continuous improvement. Encourage your teams to regularly reflect on their processes and identify areas for enhancement.
 
 - **Retrospectives**: Use retrospectives not just as a routine meeting, but as a genuine opportunity for teams to discuss what’s working, what isn’t, and what could be improved. Make it clear that changes are welcomed and supported.
 
-- **Experimentation**: Promote a mindset of experimentation. Allow teams to try new tools, techniques, and practices to see what works best for them. Failure should be seen as a learning opportunity rather than a setback.
+- **[Experimentation]({{< ref "/tags/experimentation" >}})**: Promote a mindset of experimentation. Allow teams to try new tools, techniques, and practices to see what works best for them. Failure should be seen as a learning opportunity rather than a setback.
 
 ### **Provide the Right Tools and Support**
 
@@ -72,9 +90,9 @@ Empowerment isn't about leaving teams to figure it out on their own—it's about
 
 - **Access to Tools**: Ensure that teams have access to a variety of tools and resources that can help them optimize their processes. This might include software, training, or even just the freedom to rearrange their workspace to better suit their needs.
 
-- **Supportive Leadership**: Leaders play a crucial role in empowering teams. Provide guidance, but avoid micromanaging. Trust your teams to make decisions about how they work best, and be available to support them when needed.
+- **Supportive [Leadership]({{< ref "/categories/leadership" >}})**: Leaders play a crucial role in empowering teams. Provide guidance, but avoid micromanaging. Trust your teams to make decisions about how they work best, and be available to support them when needed.
 
-### **Encourage Cross-Team Collaboration**
+### **Encourage Cross-[Team Collaboration]({{< ref "/tags/team-collaboration" >}})**
 
 While each team may have its own unique processes, there’s still value in collaboration and sharing best practices across teams.
 

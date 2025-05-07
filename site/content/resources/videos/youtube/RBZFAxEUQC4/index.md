@@ -2,8 +2,10 @@
 title: '7 deadly sins of Agile: Lust'
 description: "Discover why 'lust' for quick agile solutions can hinder transformation. Learn to tailor agile practices to your unique needs! \U0001F680\U0001F504 #Agile #Transformation"
 date: 2023-10-12T07:00:12Z
+weight: 1000
 ResourceId: RBZFAxEUQC4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: RBZFAxEUQC4
@@ -15,24 +17,27 @@ preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
 duration: 177
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-lust
-- /resources/videos/lust!-7-deadly-sins-of-agile
-- /resources/videos/RBZFAxEUQC4
-- /resources/lust!-7-deadly-sins-of-agile
 - /resources/RBZFAxEUQC4
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-lust
+- /resources/videos/lust-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-lust
+- /resources/videos/7-deadly-sins-of-agile-lust
 - /resources/7-deadly-sins-of-agile-lust
 - /resources/videos/lust!-7-deadly-sins-of-agile
 - /resources/lust!-7-deadly-sins-of-agile
+- /resources/videos/lust-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-lust
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Change
+- Agile Philosophy
+- Agile Transformation
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 
@@ -59,7 +64,7 @@ T**he Misdirected Lust for Agile:** 
 
 - 🌐 The error lies in seeking to 'purchase' Agile, rather than cultivating it organically. 
 
-**The Illusion of Easy Agile Transformation:** 
+**The Illusion of Easy [Agile Transformation]({{< ref "/tags/agile-transformation" >}}):** 
 
 - 🏢 Big firms often bring in top consultants to implement Agile. 
 
@@ -79,7 +84,7 @@ T**he Misdirected Lust for Agile:** 
 
 The allure of Agile transformation is strong, but it's not a one-size-fits-all solution. Organisations must resist the temptation to lust after off-the-shelf Agile models. Instead, the focus should be on a tailored approach, considering unique organisational cultures and goals.  
 
-The true essence of Agile lies in its ability to adapt – and that requires more than just surface-level desire. It demands commitment, experimentation, and a willingness to evolve. 
+The true essence of Agile lies in its ability to adapt – and that requires more than just surface-level desire. It demands commitment, [experimentation]({{< ref "/tags/experimentation" >}}), and a willingness to evolve. 
 
 **Key Takeaways:** 
 

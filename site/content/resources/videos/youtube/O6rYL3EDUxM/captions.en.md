@@ -1,0 +1,25 @@
+One of the really interesting articles that I've seen in the last few years has been from a little organization that you might have heard of called the US Department of Defense. They released an article called the DIB guide to detecting Agile BS. This was sent out to all of their procurement officers worldwide so that they could tell whether the vendors that they were hiring, because they're the procurement officers, were actually Agile or were just making it up. 
+
+Because one of the problems that they ran into was right at the start, they realized that when they switched over to Agile procurement terms back in 2013, the US Department of Defense updated their main procurement terms to require iterative and incremental delivery of any product or system. When they moved to that model, their vendors just all immediately declared themselves to be Agile. The next day, "Oh yeah, we're Agile, we do it in an Agile way." But most of them were lying. 
+
+Something that I found working with organizations, and I'm going to use the word that's quite dramatic, most organizations that say they're doing Agile are also lying. I've been dramatic, but they kind of are. The detecting Agile BS article came up with a whole bunch of questions. It's totally worth going reading it, but there are six main questions which I think are the most important pieces of the story. 
+
+This was the questions to leadership within the organization, so I'd like you to think about these questions from your perspective within your organization. If you asked your leadership if this is true across the board in your organization, is it true? 
+
+So there are six questions. The first one is: Are teams delivering working software to at least some subset of users every iteration, including the first, and gathering feedback? Think about that. Every single iteration, you should be delivering working product to real users, not UAT, not a test environment, real production users every iteration, including the first. 
+
+Now that's really hard. Lots of teams struggle with creating working product, with getting that working product out the door, and even more like gathering feedback. That's almost as rare as delivering working product. So what this is effectively saying is that if you as a team or you're part of the organization is unable to deliver working software to production on a regular cadence, you're probably not being very Agile. 
+
+Ideally, you want to be delivering on a very regular cadence. The Agile Manifesto would talk about from a couple of weeks to a couple of months, I think is the phrasing it uses, with a preference to the shorter time scale. So you probably shouldn't go two months without shipping to production. 
+
+For the Scrum Guide, it talks about no more than every 30 days, so it puts a hard one month figure on that 30 days. That can be difficult for organizations. There are lots of organizations out there that have made this change. No organization that has made this change towards continuous delivery to production has gone back and decided not to do it anymore. 
+
+Once you get there, the level of quality that you need in your product, the engagement you get with your customers, these are all things that are much, much, much higher once you get there, and nobody wants to go back. But getting there is difficult. It takes time, investment in skills for your engineering teams, in skills for leadership, in changes to your business practices to make that in any way viable. 
+
+But it is absolutely worth it, and even the US Department of Defense requires that their vendors are able to deliver working software to real users every iteration, including the first. If your answer to any one of these questions, or the answer of your business to any one of these questions is no, we're not doing that, then you would probably, I probably wouldn't consider that you're already in the Agile space. 
+
+You're not already Agile. You might be working towards it, and you might have put in loads of effort, but unless you can mark every single one of these six questions as yes, we do this, this is how things work here, then we're still lacking. We're still trying. We're still working towards being Agile. 
+
+Now this is just a litmus test dreamed up by the US Department of Defense, but they are probably the least likely place for you to expect something with this high a bar to have come from. I'm not going to go into a team and work with a team or a company, and if they're not doing these things, then I'm going to say, "Well, you guys suck, you're not Agile because you're not doing this." 
+
+That's not how we work towards success. But I think it's hugely valuable from the perspective of self-reflection for you all to think about the processes and practices in your organization. How many of these six questions are you able to achieve, and what could you do to make it a little bit easier for the teams, for the people doing the work, to work towards this idea of not being Agile BS?

@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:33:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for resolving user permission issues in SharePoint 2013 after migration from SharePoint 2010, including the use of PowerShell scripts and authentication mechanisms.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T18:33:54",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:33:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:33:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to SharePoint migration and user authentication, with a focus on practical solutions rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:34:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to SharePoint migration and user authentication issues, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:34:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses SharePoint migration issues and user authentication, with no relevance to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to SharePoint migration and user permissions, with no direct mention or alignment to Evidence-Based Management principles. It lacks any focus on data-informed decision-making or metrics relevant to EBM.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:34:04",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation and configuration of SharePoint 2013, specifically addressing issues related to user permissions after migration from SharePoint 2010, and provides a PowerShell script for configuring claims-based authentication.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:34:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses issues related to the installation and configuration of SharePoint 2013, particularly focusing on user authentication and migration from SharePoint 2010. It provides a detailed solution involving PowerShell scripts to configure claims-based authentication, which aligns well with the category's focus on actionable installation and configuration instructions. However, while it does mention specific steps and solutions, the depth of discussion on broader configuration best practices and troubleshooting is somewhat limited, preventing a higher confidence score.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:34:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:34:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to SharePoint migration and user authentication, which are not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving specific issues related to SharePoint migration and user permissions, with no direct discussion of DevOps principles or practices. While it touches on automation through PowerShell scripts, it lacks a broader context of collaboration, continuous delivery, or shared accountability that characterises DevOps. Therefore, it does not align well with the category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to SharePoint migration and user authentication, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:34:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to SharePoint migration, with no reference to events, presentations, or discussions relevant to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:34:17",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to SharePoint migration and user authentication, with no focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:34:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no significant focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:34:22",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,11 +145,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T18:34:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical issues related to SharePoint migration, authentication mechanisms, and the use of PowerShell scripts to resolve these issues, which aligns with engineering practices and methodologies.",
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint migration and user authentication, which is a practical problem rather than a broader discussion on engineering practices or methodologies that enhance agility in software development. While it does mention a technical solution involving PowerShell scripting, it lacks a comprehensive exploration of concepts like TDD, CI/CD, or modular architecture. The focus is more on troubleshooting and specific implementation rather than on principles of technical excellence, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -260,15 +200,6 @@
     "reasoning": "Content primarily discusses SharePoint migration issues and authentication mechanisms, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:34:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to SharePoint migration and authentication, with no focus on products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T18:34:33",
@@ -305,22 +236,25 @@
     "reasoning": "Content primarily discusses technical issues related to SharePoint migration and user authentication, without any focus on Systems Thinking principles or holistic analysis.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:34:37",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to SharePoint migration and authentication, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:34:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no focus on Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical issues related to SharePoint migration and user permissions, with no direct mention or discussion of the Agile Product Operating Model or its principles. While there is a brief mention of user authentication, it does not align with the core themes of APOM, such as product management or agile methodologies. The depth of discussion is entirely centred on a specific technical solution rather than any agile framework or product-oriented mindset.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +266,13 @@
     "reasoning": "Content primarily discusses technical issues related to SharePoint migration and user authentication, with no focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:34:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint migration and user authentication, without any focus on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T18:34:42",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to SharePoint migration and user authentication, which are not central to Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:34:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to SharePoint migration and authentication, with no clear focus on Scrum principles, roles, or practices.",
+    "reasoning": "Content primarily discusses issues related to SharePoint migration and user authentication, which are not central to Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +286,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on troubleshooting user authentication and migration issues in SharePoint, with no discussion of Definition of Done principles or criteria.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical issues related to SharePoint migration, focusing on authentication mechanisms and providing a PowerShell solution for upgrading applications. It emphasizes best practices in handling claims-based authentication and user profile synchronization, making it relevant to software craftsmanship and technical excellence.",
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint migration and user authentication, which aligns with technical mastery in terms of addressing software craftsmanship and engineering practices. However, while it provides a solution and some technical details, it lacks a broader discussion on best practices or principles of software design and architecture, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +316,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to SharePoint migration and user authentication, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving migration issues related to SharePoint 2013 and user permissions, with no direct mention or discussion of Continuous Delivery principles, practices, or benefits. It lacks alignment with the core themes of Continuous Delivery, such as automation, rapid feedback, or cultural aspects. The depth of discussion is also minimal, as it is centred around a specific technical issue rather than broader Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses SharePoint migration issues and authentication problems, which are not related to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -478,21 +400,24 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical issues related to SharePoint migration and permissions, with no discussion of customer feedback or feedback loops.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical solution involving PowerShell for managing user permissions and authentication in SharePoint 2013, which relates to operational efficiency within an organizational practice. However, the primary focus on the specific issue of migration and authentication means it is not the dominant theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint migration and user authentication, which does not directly address operational practices aimed at enhancing efficiency or delivery within Agile, DevOps, or Lean frameworks. While it mentions a PowerShell script that automates a process, the focus is on troubleshooting and specific technical solutions rather than broader operational strategies or methodologies. The discussion lacks depth in terms of operational efficiency and does not provide insights into process optimisation or continuous improvement, which are key aspects of the category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -586,28 +511,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses a technical issue related to SharePoint migration and includes a solution involving PowerShell scripting, which is relevant to software development practices, specifically in software maintenance and configuration management.",
+    "reasoning": "The content primarily discusses a specific issue related to SharePoint migration, focusing on authentication mechanisms and providing a PowerShell script as a solution. It directly addresses a technical problem within the software development context, particularly in the realm of system upgrades and user management. The mention of PowerShell scripting and the detailed steps for resolving the issue indicate a strong alignment with software development practices. However, while it is rich in technical detail, it lacks broader discussions on methodologies or frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on SharePoint migration and user authentication issues, with no relevant discussion on Agile Project Management.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to SharePoint migration and authentication, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,21 +620,12 @@
     "reasoning": "Content heavily discusses technical issues related to SharePoint migration and user permissions, with no focus on customer satisfaction principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to SharePoint migration and user authentication, which are not related to Scaling Scrum or its principles.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical issues related to SharePoint migration and authentication, with no clear discussion of evidence-based leadership or related topics.",
     "level": "Ignored"
   },
@@ -728,23 +638,17 @@
     "reasoning": "Content discusses technical issues related to SharePoint migration, authentication problems, and PowerShell scripting, without any reference to psychological safety or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses SharePoint migration issues and authentication setups, which is unrelated to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 40,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses technical aspects of SharePoint migration and configuration, but it primarily focuses on troubleshooting and specific issues rather than on broader engineering practices or principles of software craftsmanship.",
-    "level": "Quaternary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to SharePoint migration and user authentication, which does not directly address the principles of software craftsmanship or best practices in engineering processes. While it includes some technical details and a PowerShell script, it lacks a broader discussion on engineering excellence, such as coding standards, quality assurance, or continuous improvement practices. The focus is more on troubleshooting and solutions rather than promoting high standards in software development.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -784,12 +688,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content involves practical problem-solving around SharePoint 2013 migration issues, including real-world application of PowerShell for user account updates, but the main topic is technical troubleshooting rather than Agile or Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a practical problem related to SharePoint migration, detailing a real-world issue and providing a solution through a PowerShell script. It demonstrates pragmatic thinking by addressing a specific challenge and offering a straightforward, experience-based solution. However, while it aligns with the themes of practical problem-solving and real-world application, it does not explicitly mention Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +709,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues and solutions related to SharePoint migration and user authentication, with no clear relevance to measuring or improving innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses issues and solutions related to SharePoint migration and user permissions, which are unrelated to Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on SharePoint 2013 migration issues and solutions, with no relation to scaling Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,10 +754,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on SharePoint migration issues and authentication mechanisms rather than on the delivery or characteristics of working software.",
     "level": "Ignored"
   },
@@ -919,10 +808,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to SharePoint migration and user authentication, without focusing on principles or practices of Site Reliability Engineering.",
     "level": "Ignored"
   },
@@ -1034,7 +923,7 @@
     "reasoning": "Content primarily discusses technical issues related to SharePoint migration and user authentication without focusing on digital transformation strategies or the broader implications of digital technologies on business processes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:27:35",
     "ai_confidence": 0,
@@ -1043,23 +932,17 @@
     "reasoning": "Content primarily discusses SharePoint migration issues and user authentication mechanisms, which are unrelated to Minimum Viable Product concepts or development strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on SharePoint and user authentication issues, with no relation to AI, Agile methodologies, DevOps practices, or software development topics.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the configuration steps needed when migrating from SharePoint 2010 to SharePoint 2013, focusing on user authentication settings and PowerShell scripts for system configuration, which are central to system performance and reliability in a specific environment.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the configuration of SharePoint 2013, specifically addressing issues related to user permissions and authentication after a migration from SharePoint 2010. It discusses the new authentication mechanism, the need for configuration adjustments, and provides a PowerShell script for automating the configuration process. This aligns well with the key topics of system configuration, such as best practices for software installation and configuration, troubleshooting common configuration issues, and the role of automation in system configuration. The depth of discussion is substantial, providing both context and a practical solution, which supports a high confidence score.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,21 +982,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint migration issues and user authentication problems, without any focus on Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint migration and user permissions, with no direct mention of Test First Development principles or practices. While there is a brief mention of a PowerShell script, it does not relate to testing methodologies or the importance of defining success criteria before implementation. The focus is on resolving technical issues rather than on testing practices, making it largely irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses SharePoint 2013 and its migration issues, it mentions using PowerShell scripts, which are typically executed within a Windows environment. However, the main focus is on SharePoint, making Windows a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint 2013 and its migration from SharePoint 2010, focusing on authentication mechanisms and user permissions. While it touches on PowerShell scripting, which is often used in Windows environments, the main focus is on SharePoint rather than the Windows operating system itself. The content does not explicitly mention Windows installation, configuration, or troubleshooting, which are key aspects of the category. Therefore, the confidence score reflects a low alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1144,10 +1033,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical issues related to SharePoint migration and user authentication, with no relation to remote working or Agile practices.",
     "level": "Ignored"
   },
@@ -1162,11 +1051,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily focuses on diagnosing and resolving issues related to user permissions and authentication after migrating from SharePoint 2010 to 2013. It discusses specific problems encountered during the migration, the identification of these issues, and provides a solution through PowerShell scripts, fitting squarely within the troubleshooting category.",
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses a specific issue related to user permissions after migrating from SharePoint 2010 to SharePoint 2013, which directly aligns with troubleshooting. It provides a detailed account of the problem, the findings, and a clear solution involving PowerShell scripts, demonstrating a strong focus on diagnosing and resolving a technical issue. The depth of discussion is substantial, covering both the problem and the solution comprehensively, which enhances its relevance to the troubleshooting category.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1180,11 +1072,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on SharePoint migration issues and does not relate to the Scrum Master role or its responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical issues related to SharePoint migration and user permissions, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss any responsibilities, skills, or impacts of a Scrum Master, nor does it touch on agile principles or team dynamics. Therefore, it does not align with the category at all.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,20 +1093,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T19:27:35",
+    "calculated_at": "2025-04-10T15:55:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on SharePoint 2013 migration issues and technical solutions, with no discussion of working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint user permissions and authentication, which is not directly relevant to the role of software developers in Agile or DevOps contexts.",
+    "reasoning": "Content focuses on SharePoint 2013 migration issues and technical solutions, with no discussion of working agreements or teamwork principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1217,6 @@
     "reasoning": "Content focuses on SharePoint migration issues and technical solutions, with no mention of accountability in team dynamics or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:27:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on SharePoint migration and user authentication issues, with no relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T19:27:35",
@@ -1369,11 +1246,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:17:12",
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to SharePoint migration and user permissions, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it mentions user authentication and some technical solutions, it does not align with the core themes of social technologies, such as self-organisation or collective intelligence. The depth of discussion is also minimal, as it is mainly a technical guide rather than a discussion on social frameworks.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:18:58",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to SharePoint migration and authentication, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses issues related to SharePoint migration and authentication, which are not relevant to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:19:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses SharePoint migration issues and user authentication, with no relevance to Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint migration and user authentication, with no direct mentions or relevant discussions about Scrum principles, roles, events, or practices. The focus is entirely on technical aspects of SharePoint, which does not align with the Scrum framework or its core themes.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to SharePoint migration and user authentication, with no mention of integrating testing, security, or compliance earlier in the software development lifecycle. It does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion is technical but does not address the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint migration and user permissions, with no explicit discussion of Continuous Improvement principles. While there is a mention of problem-solving and finding solutions, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The content does not explore themes such as team effectiveness, experimentation, or integration of Continuous Improvement into processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical issues related to SharePoint migration and user permissions, with no explicit discussion of Common Goals or their significance in Agile or DevOps frameworks. While it mentions problem-solving and execution, it lacks any connection to shared objectives or strategic alignment, which are central to the concept of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint migration and user permissions, with no explicit discussion on competence, continuous learning, or skill development. While it demonstrates problem-solving skills, it does not align with the core themes of competence as defined in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving technical issues related to SharePoint migration and user permissions, with no explicit discussion of Agentic Agility or its principles. While there is a mention of problem-solving and execution, it lacks depth in exploring intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. Overall, it does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

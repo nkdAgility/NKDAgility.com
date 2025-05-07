@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical issues related to TFS permissions and upgrade processes, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:45:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a practical issue related to managing group membership in TFS after an upgrade, providing specific command-line solutions and troubleshooting steps, which aligns well with the category's focus on practical techniques and tooling.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T19:45:53",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:45:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS upgrade and permissions management, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:45:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to permissions and user management in TFS, which does not align with the themes of code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:45:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to TFS permissions and upgrade issues, without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:45:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to TFS upgrade and permissions management, with no mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical issue related to managing group memberships in TFS after an upgrade, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on these topics.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:46:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuration steps related to permissions after an upgrade from TFS 2008 to TFS 2012, which aligns with installation and configuration processes.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:46:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to permissions and group management in TFS, without addressing transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on troubleshooting and resolving a specific issue related to permissions after an upgrade from TFS 2008 to TFS 2012. It provides detailed steps for checking group memberships and executing command-line instructions to adjust permissions, which aligns well with the category of Install and Configuration. The discussion is technical and offers actionable solutions, demonstrating a strong alignment with the core themes of installation and configuration processes. The depth of the discussion is significant, as it includes specific commands and troubleshooting steps, although it could benefit from a broader context on installation procedures. Overall, the content is highly relevant to the category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses technical issues related to TFS permissions and upgrade processes without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:46:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS upgrade and permissions management, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T19:46:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to permissions and group management in TFS, which does not align with the core principles of DevOps.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a specific issue related to permissions in TFS (Team Foundation Server) after an upgrade, which is more of a technical troubleshooting guide rather than a discussion on DevOps principles. While it touches on aspects of team collaboration and permissions, it lacks a broader discussion on the cultural and philosophical aspects of DevOps, such as automation, shared accountability, or continuous improvement. Therefore, it only marginally aligns with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to TFS upgrade and permissions management, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:46:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS upgrade and permissions management, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:46:12",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to permissions and user management in TFS, with no focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:46:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS permissions and upgrade processes, with no significant focus on human behaviour or team dynamics.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:46:17",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to permissions and group management in TFS, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to permissions management in TFS, which touches on aspects of technical practices and methodologies, but it is primarily focused on a specific problem rather than broader engineering practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to permissions in TFS after an upgrade, which is a narrow aspect of technical excellence. While it touches on the need for proper permissions and provides a solution involving command-line tools, it lacks broader discussions on engineering practices or methodologies that enhance agility in software development. The focus is more on troubleshooting rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -260,15 +200,6 @@
     "reasoning": "Content primarily discusses issues related to TFS permissions and upgrade processes, which do not align with Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:46:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS upgrade and permissions management, with no focus on products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T19:46:30",
@@ -280,11 +211,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:46:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite, and provides a solution for managing group membership permissions after an upgrade.",
+    "reasoning": "The content discusses an issue related to Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides a detailed account of a specific problem encountered during an upgrade from TFS 2008 to TFS 2012, including commands to manage permissions. While it does not explicitly mention Azure DevOps, TFS is a core component of it, and the discussion aligns with the functionalities and best practices associated with Azure DevOps. The depth of the discussion is significant, as it includes specific commands and troubleshooting steps, but it lacks broader context on Azure DevOps services or methodologies.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,7 +239,7 @@
     "reasoning": "Content primarily discusses technical issues related to TFS upgrade and permissions management, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:46:36",
     "ai_confidence": 0,
@@ -316,11 +250,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:46:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to permissions and security in TFS, which is not relevant to the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS permissions and does not mention or align with the Agile Product Operating Model. It focuses on a specific problem and solution regarding user permissions in TFS, which is unrelated to agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +269,16 @@
     "reasoning": "Content primarily discusses technical issues related to TFS permissions and upgrade processes, with no focus on organisational agility or related methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:47:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS upgrade and permissions management, lacking a focus on news or reviews in Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to permissions and security management during an upgrade of Team Foundation Server, which is relevant to the application lifecycle, particularly in the deployment and maintenance stages. However, it primarily focuses on a specific technical issue rather than a broader discussion of application lifecycle management practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:47:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and permissions management, with no clear focus on Scrum principles, roles, events, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions in TFS after an upgrade, which is a narrow aspect of application management. While it touches on the upgrade process, it lacks a broader discussion on the application lifecycle stages, governance, or best practices. The focus is more on troubleshooting rather than comprehensive lifecycle management.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +292,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to permissions and administrative functions in TFS 2012, which is not related to the Definition of Done in Agile or Scrum contexts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects related to permissions management during a software upgrade, including command line instructions and security configurations in TFS, which aligns with software engineering practices.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses a technical issue related to permissions in TFS after an upgrade, which aligns with the category of Technical Mastery. It provides specific commands and solutions to address the problem, demonstrating a level of technical expertise. However, while it touches on aspects of software craftsmanship, such as managing permissions and understanding system architecture, it lacks a broader discussion on best practices or principles of clean code, which limits its depth and overall alignment with the category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +322,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to permissions and group membership in Team Foundation Server (TFS) rather than Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions in TFS after an upgrade, which does not directly address Continuous Delivery principles or practices. There are no explicit mentions of Continuous Delivery, and the discussion lacks depth in terms of relevant themes such as automation, rapid feedback, or cultural aspects of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +361,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and solutions related to permission management in TFS, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -487,19 +415,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses solving a specific technical issue related to permissions in TFS after an upgrade, which can relate to operational practices, but it is primarily focused on troubleshooting and technical commands rather than broader operational efficiency strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific issue related to permissions management in TFS after an upgrade, which is more of a technical troubleshooting guide than a discussion on operational practices. While it touches on aspects of permissions and user management, it lacks a broader focus on operational efficiency, process optimisation, or methodologies like Agile, DevOps, or Lean. The depth of discussion is limited to a specific problem and solution without exploring wider operational strategies or best practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues and solutions related to TFS (Team Foundation Server) management and permissions, without addressing any themes related to Scrum roles, teamwork dynamics, or communication within a Scrum Team.",
     "level": "Ignored"
   },
@@ -559,10 +490,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to upgrading TFS and managing user permissions, which does not directly address team performance or collaboration within agile teams.",
     "level": "Ignored"
   },
@@ -586,28 +517,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to managing permissions and group membership in Team Foundation Server, which is relevant to the software development lifecycle and practices around version control and team collaboration.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on managing permissions and issues related to TFS upgrade, with no mention of Agile methodologies or principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses a specific issue related to managing group memberships in Team Foundation Server (TFS) after an upgrade, which is a relevant topic within the realm of software development. It provides a detailed account of troubleshooting steps, commands, and permissions management, aligning well with best practices in version control and collaborative development. However, while it touches on important aspects of software development, such as permissions and security management, it lacks broader discussions on methodologies or frameworks, which slightly limits its depth of discussion.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS version upgrade and permission management, with no focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,12 +547,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues and solutions related to permissions and membership in Team Foundation Server (TFS), which is a version control system. While the primary focus is on a specific problem related to TFS, it is still relevant to source control practices, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to permissions and group management in TFS (Team Foundation Server), which is a version control system. It provides specific commands and solutions for managing user permissions, which aligns with the category's focus on version control practices. However, the discussion is primarily about troubleshooting and does not delve deeply into broader best practices or methodologies of modern source control, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -658,19 +586,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with permissions during an upgrade of Team Foundation Server, rather than focusing on collaboration tools or their impact on Agile teams.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily revolves around technical issues related to TFS permissions and upgrades, with no discussion on organisational change processes or frameworks.",
     "level": "Ignored"
   },
@@ -701,15 +629,6 @@
     "reasoning": "The content primarily discusses technical issues and solutions related to user permissions in TFS and does not address customer satisfaction, customer feedback, or related practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to managing permissions and settings in TFS (Team Foundation Server) during an upgrade, which does not pertain to Scaling Scrum practices or principles.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:23:25",
@@ -728,23 +647,17 @@
     "reasoning": "Content heavily discusses technical issues related to TFS upgrade and permissions management without any mention of psychological safety concepts.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to permissions in TFS without addressing scaling agility or relevant agile frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides detailed instructions on resolving permission issues in TFS after an upgrade, touching on practices related to user management and permissions which can relate to software engineering practices, but it primarily focuses on a specific technical issue rather than overarching engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to permissions in TFS after an upgrade, which is more focused on troubleshooting than on broader engineering excellence practices. While it touches on aspects of permissions management, it lacks a comprehensive discussion on software craftsmanship, best practices, or continuous improvement in engineering processes.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -784,11 +697,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical problem-solving strategies for managing permissions in TFS after an upgrade, showcasing real-world application and navigational techniques to address specific technical issues.",
+    "final_score": 72.0,
+    "reasoning": "The content provides a practical solution to a specific issue encountered during a TFS upgrade, demonstrating real-world application of problem-solving techniques. It discusses the need for permissions and the use of command-line tools to resolve access issues, which aligns with pragmatic thinking in a DevOps context. However, while it addresses practical strategies, it lacks broader discussions on Agile or Scrum methodologies, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +718,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to TFS upgrade and permissions management, without any focus on innovation practices or the measurement and improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to upgrading TFS and managing permissions, with no clear connection to Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses specific issues related to permissions and administration in TFS, which does not involve scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -874,10 +772,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to user permissions and administration in Team Foundation Server (TFS) rather than Agile planning tools or methodologies.",
     "level": "Ignored"
   },
@@ -1000,19 +898,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical issues related to upgrading TFS and managing permissions, not on change management strategies or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to permissions and administration in TFS, with no clear focus on team collaboration dynamics or Agile principles.",
     "level": "Ignored"
   },
@@ -1034,7 +932,7 @@
     "reasoning": "Content primarily focuses on issues related to permission management and troubleshooting in TFS during an upgrade, which does not align with the strategic adoption and integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:23:25",
     "ai_confidence": 0,
@@ -1043,22 +941,16 @@
     "reasoning": "Content is primarily focused on troubleshooting and managing permissions in TFS, and does not discuss Minimum Viable Products or related concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to TFS upgrade and user permissions, without any reference or focus on AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration issue related to permissions in TFS after an upgrade, along with solutions that involve specific commands and access control configurations, which aligns well with system configuration topics.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses issues related to permissions and group membership after an upgrade of TFS, which directly pertains to system configuration. It provides specific commands and steps to resolve configuration issues, aligning well with the core themes of the category. The depth of discussion is substantial, detailing the troubleshooting process and solutions, although it could benefit from more general best practices or optimisation strategies.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,20 +991,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to permissions management in Team Foundation Server rather than Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses an issue related to permissions in TFS after an upgrade, with no direct mention of Test First Development principles, success criteria, or testing practices. It focuses on troubleshooting and solutions rather than any testing methodologies or development practices.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses issues related to Team Foundation Server (TFS) and permissions which are relevant to Windows environments, particularly in relation to TFS being a Microsoft product. However, it primarily focuses on TFS functionality rather than broader Windows operating system topics.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses an issue related to managing group memberships in Team Foundation Server (TFS) after an upgrade, which is relevant to Windows environments, particularly in the context of Visual Studio and TFS. It provides specific commands and troubleshooting steps that align with the Windows category's focus on configuration and troubleshooting. However, while it is closely related to Windows, it does not explicitly mention the Windows operating system itself, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
@@ -1135,10 +1033,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:23:25",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to TFS permissions management and upgrade processes, rather than team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1162,11 +1060,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses identifying and resolving a specific issue related to permissions after upgrading TFS, providing detailed steps and commands needed to troubleshoot and fix the problem.",
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses a specific issue encountered during an upgrade from TFS 2008 to TFS 2012, detailing the problem of missing permissions and providing a step-by-step solution. It aligns well with the core themes of troubleshooting by identifying a technical issue, diagnosing the cause, and offering a practical solution using command-line instructions. The depth of discussion is significant, as it includes multiple steps and considerations for resolving the issue, making it a strong fit for the Troubleshooting category.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1180,11 +1081,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on TFS, permissions management, and specific technical issues unrelated to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to TFS (Team Foundation Server) and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, such as coaching, facilitating, or promoting agile principles. The depth of discussion is focused on troubleshooting and permissions management, which is unrelated to Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1107,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to upgrading TFS and managing user permissions, which does not align with the core principles of working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on troubleshooting permissions in TFS during an upgrade, without discussing the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1288,12 +1183,12 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:04",
+    "calculated_at": "2025-04-10T15:55:33",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "Content discusses issues related to Team Foundation Server (TFS), which is relevant to Azure Repos, but the primary focus is on permission management and upgrade problems rather than on Azure Repos functionalities or practices. It does not adequately address the key topics specified for this category.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1331,15 +1226,6 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to TFS permissions and upgrade problems, with no clear focus on accountability in Agile contexts.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:23:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on managing group permissions and troubleshooting issues related to an upgrade in TFS, with no clear alignment to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T21:23:25",
@@ -1360,11 +1246,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:51:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS permissions and upgrade processes, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical issue related to permissions in TFS (Team Foundation Server) after an upgrade, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on user permissions, it does not align with the core themes of social technologies, such as self-organisation or collective intelligence. The depth of discussion is also minimal, as it mainly provides a solution to a specific technical problem without exploring broader implications for team dynamics or organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1263,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS permissions and upgrade processes, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:23:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to permissions and management in TFS, which does not align with the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:23:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to TFS permissions and upgrade processes, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and permissions management during an upgrade, with no direct references to Scrum principles, roles, events, or artifacts. While it touches on aspects of team collaboration indirectly through permissions management, it does not align with the core themes of Scrum or provide any depth in discussing Scrum practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to permissions and user management in TFS after an upgrade, with no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. It does not align with the core themes of the Shift-Left Strategy, which focuses on proactive measures in software development. The discussion is more about troubleshooting and administrative tasks rather than strategic development practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-03-22T08:12:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific issue related to TFS upgrades, with minimal reference to Continuous Improvement principles. While it discusses a solution to a problem, it lacks a broader context of ongoing reflection, adaptation, or empirical evidence that characterises Continuous Improvement. The mention of 'solution improvement' is too vague and does not align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical issue related to permissions in TFS after an upgrade, with no discussion of shared objectives, alignment, or strategic goals. It lacks any reference to Agile or DevOps principles, making it irrelevant to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on a technical issue related to permissions in TFS after an upgrade, with no explicit discussion on competence or continuous skill development. While it touches on the need for proper permissions, it does not delve into the broader themes of competence, such as continuous learning or fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to permissions in TFS after an upgrade. It does not discuss Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability. The content lacks any mention of human or AI agency, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

@@ -2,8 +2,10 @@
 title: How can companies derive greater benefits from training by investing in a private training course?
 description: 'Discover how private training courses can enhance team effectiveness and drive success in your organisation. Unlock the power of tailored #Scrum training!'
 date: 2023-05-05T07:00:01Z
+weight: 680
 ResourceId: a2sXBMPHl2Y
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: a2sXBMPHl2Y
@@ -15,38 +17,30 @@ preview: https://i.ytimg.com/vi/a2sXBMPHl2Y/maxresdefault.jpg
 duration: 212
 isShort: false
 aliases:
-- /resources/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
-- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
-- /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
-- /resources/videos/a2sXBMPHl2Y
-- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 - /resources/a2sXBMPHl2Y
-aliasesFor404:
+- /resources/videos/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+- /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
+aliasesArchive:
+- /resources/videos/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 - /resources/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
 - /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
+- /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
+- how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Continuous Learning
-- Pragmatic Thinking
-- Coaching
-- Organisational Culture
-- Personal
+tags: []
 resourceTypes:
 - video
 categories:
-- Leadership
-- DevOps
-- Scrum
+- Uncategorized
 
 ---
 ## Private Training Courses: A Game Changer for Companies?
 
-Navigating the realm of Agile and DevOps can be daunting.
+Navigating the realm of Agile and [DevOps]({{< ref "/categories/devops" >}}) can be daunting.
 
 When it comes to training, a pressing question often emerges: Can companies reap more from a private training course? 🚀
 
@@ -60,7 +54,7 @@ You're suddenly in an environment where airing the so-called "dirty laundry" is 
 
 ## Eureka Moments in Private Classes
 
-During these focussed sessions, I've found myself discussing professional scrum, unit testing, continuous delivery to production, and all things Agile and DevOps.
+During these focussed sessions, I've found myself discussing professional [scrum]({{< ref "/categories/scrum" >}}), unit testing, [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) to production, and all things Agile and DevOps.
 
 And occasionally, I'm met with, "We can't do that here because of XYZ".
 

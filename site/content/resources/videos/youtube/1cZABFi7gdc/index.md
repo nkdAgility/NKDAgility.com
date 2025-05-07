@@ -2,47 +2,42 @@
 title: 'Hiring the Right Agile Coach: What You Need to Know'
 description: 'Discover key insights from Martin Hinshelwood on hiring an #agilecoach in part 4 of our series. Make informed decisions for your #agile journey!'
 date: 2023-11-23T11:00:01Z
+weight: 840
 ResourceId: 1cZABFi7gdc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1cZABFi7gdc
 source: internal
 url: /resources/videos/:slug
-slug: hiring-the-right-agile-coach-what-you-need-to-know
+slug: hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
 preview: https://i.ytimg.com/vi/1cZABFi7gdc/maxresdefault.jpg
 duration: 37
 isShort: true
 aliases:
-- /resources/hiring-the-right-agile-coach-what-you-need-to-know
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
-- /resources/videos/1cZABFi7gdc
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - /resources/1cZABFi7gdc
-aliasesFor404:
+- /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
+- /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
+aliasesArchive:
+- /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know
 - /resources/hiring-the-right-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
+- hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Frameworks
-- Agile Strategy
-- Agile Leadership
-- Agile Project Management
-- Agile Transformation
-- Software Development
 - Coaching
-- Technical Leadership
-- Organisational Change
-- People and Process
+- Agile Transformation
+- Organisational Agility
 resourceTypes:
 - video
 layout: video
 categories:
-- Leadership
-- Social Technologies
+- Uncategorized
 
 ---
 Finding the right Agile coach can make or break your organization's journey toward greater agility. While the Agile landscape is filled with talented coaches, not all will suit your organization’s unique needs. Whether you're a small startup looking to scale or a large enterprise seeking to enhance its agility, finding the right coach is essential.
@@ -53,7 +48,7 @@ In this blog post, I will walk you through some key factors to consider when hir
 
 ## Why Hiring the Right Agile Coach Matters
 
-An Agile coach does more than just teach Scrum practices or lead retrospectives. The right coach will guide your organization in its transformation, helping you embrace the principles of Agile beyond mere frameworks. But hiring the wrong coach could lead to wasted time, resources, and even derail your Agile journey.
+An Agile coach does more than just teach [Scrum]({{< ref "/categories/scrum" >}}) practices or lead retrospectives. The right coach will guide your organization in its transformation, helping you embrace the principles of Agile beyond mere frameworks. But hiring the wrong coach could lead to wasted time, resources, and even derail your Agile journey.
 
 ### Benefits of Hiring the Right Agile Coach:
 
@@ -89,7 +84,7 @@ By reviewing their track record, you can get a sense of how the coach approaches
 
 Not all Agile transformations are created equal. An Agile coach who has excelled in one type of environment might not have the same level of success in another.
 
-For example, coaching a small software startup is vastly different from coaching a large, complex enterprise with multiple product teams.
+For example, [coaching]({{< ref "/tags/coaching" >}}) a small software startup is vastly different from coaching a large, complex enterprise with multiple product teams.
 
 #### Consider:
 
@@ -113,7 +108,7 @@ Once you've identified a potential Agile coach, the next step is to **evaluate t
 
 - What kind of results did they achieve?
 
-- Did they foster a culture of continuous improvement?
+- Did they foster a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}})?
 
 🔍 **Pro tip:** Speaking to at least two different references will give you a more comprehensive understanding of the coach’s capabilities.
 

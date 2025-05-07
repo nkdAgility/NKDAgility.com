@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T17:59:36",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses asynchronous communication, which is related to collaboration but does not primarily focus on Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Quaternary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses asynchronous communication, which aligns with the principles of collaboration and decision-making in social technologies. It highlights the benefits of flexibility, reduced pressure, and enhanced collaboration, directly addressing key themes of the category. The depth of discussion is substantial, providing personal experiences and recommendations for effective implementation, which further supports its relevance to social technologies.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T17:59:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, which is not directly related to DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses asynchronous communication, which is relevant to collaboration in a team setting, a principle that can be associated with DevOps. However, it does not explicitly mention DevOps or its core principles, such as automation, shared accountability, or continuous improvement. The focus is primarily on communication strategies rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -82,29 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T17:59:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without reference to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T17:59:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:51:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration and productivity, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T17:59:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits, with no clear connection to Kanban principles or scaling practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any explicit reference to Evidence-Based Management principles or metrics. While it touches on themes of flexibility and improved outcomes, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -152,15 +143,6 @@
     "reasoning": "Content primarily discusses asynchronous communication and its benefits, without a focus on Agile, DevOps, or business agility trends.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T18:00:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication without reference to scaling Agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Test Automation": {
     "category": "Test Automation",
     "calculated_at": "2025-02-17T18:00:03",
@@ -199,21 +181,27 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T18:00:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses asynchronous communication, which is relevant to team collaboration and productivity, but it does not delve deeply into specific strategies or methodologies related to Agile or Scrum principles.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions asynchronous communication, which can enhance collaboration and productivity within teams. However, it lacks explicit discussions on team dynamics, Agile practices, or methodologies that directly relate to team performance. The focus is more on the concept of asynchronous communication rather than its application within an Agile framework, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T18:00:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses asynchronous communication, which is a relevant aspect of collaboration tools, but it does not focus on specific tools or their integration with Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses asynchronous communication, which is a relevant aspect of collaboration tools. However, it lacks specific mentions of actual collaboration tools or platforms, and does not delve into features, best practices, or case studies related to Agile environments. The focus is more on the concept of communication rather than the tools themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -233,15 +221,6 @@
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a clear focus on product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T18:00:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any direct reference to AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
     "calculated_at": "2025-02-17T18:00:16",
@@ -251,15 +230,6 @@
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a clear focus on digital transformation strategies or technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T18:00:18",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the impact of asynchronous communication on collaboration and productivity, which aligns with the interplay between human behaviour and structured methodologies in technology and product development.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T18:00:19",
@@ -267,15 +237,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, with no mention of Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T18:00:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication without a clear focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -296,15 +257,6 @@
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T18:00:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a clear focus on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T18:00:26",
@@ -312,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, with no focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:00:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits, which is not directly related to the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -361,11 +304,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:00:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any direct reference to the role of a Scrum Master or Scrum principles. While it touches on themes of team dynamics and communication, it does not align with the specific responsibilities or impact of a Scrum Master, nor does it provide depth on Scrum-related practices.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -379,10 +325,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T18:00:36",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -397,11 +343,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:00:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, with no direct mention or alignment to Test First Development principles. It does not address success criteria, testing practices, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -415,10 +364,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T18:00:41",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, with no clear focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -460,10 +409,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T18:00:47",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without a clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -503,24 +452,6 @@
     "reasoning": "Content primarily discusses asynchronous communication and its benefits, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T18:00:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T18:00:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses asynchronous communication without reference to specific tools, methodologies, or frameworks related to Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T18:00:57",
@@ -546,15 +477,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of asynchronous communication without personal anecdotes or reflections related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T18:01:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses asynchronous communication without reference to specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -584,23 +506,17 @@
     "reasoning": "Content primarily discusses asynchronous communication without a clear focus on Scrum roles, collaboration techniques, or team dynamics specific to a Scrum Team.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T18:01:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without addressing scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T18:01:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses asynchronous communication, which is a relevant topic in the context of collaboration and productivity but does not directly reference Agile, Scrum, DevOps, or Lean principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses asynchronous communication, which is a relevant topic in the context of collaboration and productivity. However, it does not reference specific Agile, Scrum, DevOps, or Lean frameworks, making it suitable for the Miscellaneous category. The discussion is somewhat detailed, providing insights into the benefits of asynchronous communication, but it lacks a direct connection to established methodologies, thus aligning moderately with the category's themes.",
+    "level": "Secondary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -613,11 +529,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:01:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses asynchronous communication and its benefits for collaboration, which is not related to Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, which does not directly relate to Continuous Delivery principles or practices. While there are mentions of improving workflows and team dynamics, these are not specific to Continuous Delivery, and the content lacks depth in discussing any relevant Continuous Delivery concepts.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -631,12 +550,15 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T18:01:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses asynchronous communication, which is relevant to remote collaboration, but it does not specifically address Agile practices or challenges in a remote working context.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses asynchronous communication, which is relevant to remote working, particularly in the context of collaboration. However, it lacks explicit references to Agile practices or methodologies, which diminishes its alignment with the category. The depth of discussion is moderate, focusing on the benefits of asynchronous communication but not delving into specific Agile strategies or tools.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -649,11 +571,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T18:01:15",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses asynchronous communication as a method to enhance collaboration and productivity, which aligns well with the themes of team dynamics and effective communication in Agile and DevOps contexts.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses asynchronous communication, which is a key aspect of team collaboration, particularly in remote work environments. It highlights the benefits of dynamic collaboration and continuous engagement, aligning with the themes of improving team communication. However, it lacks depth in exploring broader concepts of team dynamics, shared ownership, or specific Agile methodologies, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Daily Scrum": {
@@ -665,7 +590,7 @@
     "reasoning": "Content primarily discusses asynchronous communication and its benefits, with no clear focus on the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T18:01:19",
     "ai_confidence": 0,
@@ -683,15 +608,6 @@
     "reasoning": "Content primarily discusses asynchronous communication and collaboration, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T18:01:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T18:01:22",
@@ -703,11 +619,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:01:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity, without any direct mention or discussion of the Agile Product Operating Model or its principles. While it touches on themes of flexibility and team dynamics, these are not specifically aligned with the core topics of APOM, such as product management or continuous delivery.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -775,10 +694,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T18:01:35",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without a focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -807,15 +726,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a focus on mentoring or related themes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T18:01:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without any direct reference to AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -944,31 +854,16 @@
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, which does not align with the principles of Value Stream Management.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T18:02:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits, without a clear focus on Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T18:02:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses asynchronous communication, which is a significant aspect of collaboration and team dynamics, but it does not explicitly address the broader sociotechnical interactions or organisational structures.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T18:02:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses asynchronous communication without reference to specific products, books, or Agile methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions asynchronous communication, which is a tool that can facilitate collaboration, a key aspect of sociotechnical systems. However, it lacks a deeper exploration of how this communication method interacts with organisational structures or team dynamics. The discussion is primarily focused on the benefits of asynchronous communication without addressing its implications for software delivery or team effectiveness, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -1000,11 +895,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T18:02:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, with no clear focus on Lead Time or related metrics.",
+    "calculated_at": "2025-04-11T10:13:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity. It does not mention Lead Time directly, nor does it discuss its importance as an observability metric or its relationship with Cycle Time. While there are themes of efficiency and workflow improvement, they are not explicitly tied to Lead Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1115,15 +1013,6 @@
     "reasoning": "Content primarily discusses asynchronous communication rather than cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T18:02:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication without a clear focus on software development practices, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T18:02:44",
@@ -1144,10 +1033,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T18:02:47",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits, with no focus on installation or configuration of tools or software.",
     "level": "Ignored"
   },
@@ -1158,15 +1047,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without focusing on the responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T18:02:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of asynchronous communication without providing industry news, updates, or reviews related to Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1198,12 +1078,15 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T18:02:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the principles and benefits of asynchronous communication, which aligns closely with asynchronous development practices.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses asynchronous communication, highlighting its benefits, personal experiences, and recommendations for effective implementation. It aligns well with the core themes of asynchronous development, such as flexibility, reduced pressure, and enhanced collaboration. The depth of discussion is substantial, providing detailed insights and practical strategies, although it briefly mentions synchronous check-ins, which could detract slightly from the overall focus.",
+    "level": "Primary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -1216,12 +1099,15 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T18:03:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses asynchronous communication, which is a major theme related to enhancing collaboration and engagement within teams, but it does not explicitly focus on team motivation strategies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses asynchronous communication and its benefits for collaboration, which indirectly relates to team motivation by enhancing engagement and inclusivity. However, it lacks a direct focus on team dynamics or motivational strategies, making it a secondary theme rather than a primary one.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1243,20 +1129,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T18:03:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:13:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a focus on throughput or work completion rates.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:03:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication without a clear focus on Scrum principles, roles, or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity. It does not explicitly mention throughput as a delivery metric, nor does it discuss any related concepts such as measuring work items completed over time or visualising throughput. While there are references to productivity and workflow improvements, these are not tied to throughput metrics or analysis, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1270,11 +1150,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T18:03:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:13:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, which is not related to system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, which does not align with the core themes of system configuration. There are no direct mentions of system configuration, and while there is a brief mention of tools that could be used in a collaborative context, it lacks depth and focus on system setup, integration, or maintenance. Overall, the content is more about communication practices than system configuration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,15 +1178,6 @@
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, which is not directly related to product discovery methodologies or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T18:03:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication without a clear connection to Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T18:03:19",
@@ -1315,10 +1189,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T18:03:20",
+    "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -1351,12 +1225,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T18:03:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses asynchronous communication, which can enhance collaboration and responsiveness, aligning with themes of organisational agility, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses asynchronous communication, which aligns with the principles of organisational agility by promoting flexibility and responsiveness in collaboration. However, it does not explicitly mention organisational agility or its core themes, such as leadership roles or cross-functional teams. The depth of discussion on the benefits and strategies for asynchronous communication provides a moderate level of insight into how this practice can enhance organisational adaptability, but it lacks a direct focus on broader agile methodologies or frameworks.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1374,6 +1251,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration and productivity, which is not relevant to Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:50:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:50:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions communication, which is a component of team dynamics in Scrum, but it does not explicitly discuss Scrum principles, roles, events, or artifacts. The focus is primarily on asynchronous communication rather than Scrum practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any direct mention or alignment with the Shift-Left Strategy. It does not address integrating testing, security, or compliance early in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses asynchronous communication and its benefits for collaboration and productivity, which indirectly relates to Continuous Improvement by promoting flexibility and enhanced team interactions. However, it lacks direct mentions of Continuous Improvement principles, empirical evidence, or structured strategies for integrating these concepts into organisational processes. The focus is more on communication methods rather than a systematic approach to continuous improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 23.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 23.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits, with only a brief mention of collaboration and productivity. It does not explicitly discuss Common Goals or their significance in Agile or DevOps frameworks. While it touches on themes of teamwork and communication, it lacks depth in connecting these ideas to shared objectives or strategic alignment, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses asynchronous communication and its benefits for collaboration and productivity, but it does not explicitly address competence or continuous skill development. While it touches on aspects of effective communication that could relate to competence, such as setting clear expectations and encouraging thoughtful responses, these points are secondary to the main focus on communication methods. The depth of discussion on competence-related themes is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:51:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity, which does not directly relate to the One Engineering System framework. While it touches on themes of collaboration and communication, it lacks explicit discussion of 1ES principles, integration of tools and processes, or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses asynchronous communication, which relates to adaptability and flexibility, but it does not explicitly mention Agentic Agility or its principles. While it touches on themes of collaboration and productivity, it lacks a focus on intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:12:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses asynchronous communication, which is relevant to collaboration in product development but does not explicitly mention product development methodologies or practices. While it touches on themes of flexibility and enhanced collaboration, it lacks a direct focus on product development principles, customer feedback integration, or iterative processes. The depth of discussion is primarily about communication strategies rather than product development itself.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:12:30",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity, without any direct mention of Open Space Agile principles or practices. While it touches on themes of flexibility and inclusivity, which are relevant to Agile methodologies, it does not delve into the specific concepts of psychological safety, co-creation, or iterative dialogue that are central to Open Space Agile. Therefore, the overall alignment and depth of discussion regarding Open Space Agile are minimal.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:12:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity. It does not explicitly mention Agnostic Agile or its principles, nor does it discuss agile methodologies or frameworks. While there is a slight alignment with the idea of adapting communication styles to context, the depth of discussion regarding Agnostic Agile is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:12:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity. While it touches on themes of flexibility and team dynamics, it does not explicitly address scaling methodologies, frameworks, or the complexities involved in coordinating multiple teams. The discussion lacks depth in relation to scaling Agile practices or managing dependencies, which are key aspects of the 'Scaling' category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:12:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity. There are no direct mentions of Cell Structure Design or its principles, and while it touches on themes of flexibility and team dynamics, it does not align with the core concepts of decentralised structures or autonomous cells. The depth of discussion is focused on communication methods rather than organisational design, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:12:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses asynchronous communication and its benefits for collaboration and productivity, but it does not explicitly mention Liberating Structures or their specific techniques. While there are elements of inclusivity and enhanced collaboration that align with the principles of Liberating Structures, the focus is primarily on asynchronous communication rather than on facilitation techniques or group dynamics as defined by the category. The depth of discussion on Liberating Structures is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:12:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity. While it touches on themes of flexibility and reduced pressure, it does not explicitly discuss Time to Market or its associated metrics, strategies, or impacts. The discussion lacks depth in relation to the core themes of Time to Market, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:12:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity. While it touches on themes of flexibility and enhanced collaboration, which could relate to organisational strategies, it does not explicitly mention the concept of 'Company as a Product' or delve into organisational design, customer feedback integration, or cross-functional collaboration in a meaningful way. The focus remains on communication methods rather than the broader organisational strategy that CaaP entails.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:12:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any direct mention of GitHub or its services. While it touches on themes relevant to team collaboration, it does not align with GitHub's functionalities, best practices, or tools. The discussion lacks depth regarding GitHub-specific practices, making it unsuitable for the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:12:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity. While it touches on themes of flexibility and improved workflows, it does not explicitly address the concept of Unrealised Value or its indicators, strategies, or frameworks. The focus is on communication methods rather than potential improvements or innovations within an organisation, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:12:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration and productivity, without any direct reference to Current Value or its metrics. While it touches on themes of productivity and team dynamics, it does not provide insights into customer satisfaction, revenue impact, or performance feedback, which are essential for evaluating Current Value. The discussion lacks depth in terms of practical application or measurement related to Current Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:13:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits, without any direct mention or critical examination of Hybrid Agile methodologies. While it discusses collaboration and productivity, it does not address the challenges or implications of merging traditional project management with agile practices, which are central to the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:13:02",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses asynchronous communication, which is relevant to project management as it can enhance collaboration and productivity within teams. However, it primarily focuses on the communication method itself rather than core project management principles, methodologies, or lifecycle phases. While it mentions tools that can aid project management, the depth of discussion on project management strategies and techniques is limited, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content discusses asynchronous communication extensively but does not explicitly connect to a conceptual model or framework relevant to Agile, DevOps, or Lean philosophies. It focuses mainly on the benefits and strategies for asynchronous communication without exploring how this might inform decision-making or systems thinking in an organisational context.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 8.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on asynchronous communication and its benefits rather than discussing specific artifacts within Agile, Scrum, or Lean frameworks. While it mentions improved collaboration and documentation, these aspects do not directly relate to defined artifacts such as Product Backlog or Sprint Backlog, which is necessary for a higher confidence score in the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses asynchronous communication extensively but focuses on the practice rather than specific tools or their functionality within Agile, Lean, or DevOps frameworks. It mentions tools like Slack, Microsoft Teams, Trello, and Asana in a brief context but does not provide in-depth analysis of any specific tool's features or functionalities. The primary emphasis is on the methodology and benefits of asynchronous communication rather than practical application in relation to specific tools, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Values": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses asynchronous communication as a method to enhance collaboration and productivity. While it touches on flexibility and respect for time, which could be seen as aligning with values like inclusivity, it does not explicitly engage with core values or principles that govern decision-making or culture within teams. The focus is more on practical benefits rather than the philosophical underpinnings of those benefits, which limits its alignment with the 'Values' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits rather than discussing any structured methodology or framework related to Agile, DevOps, or Lean principles. While it may touch on collaboration and productivity, it does not align with the framework category's requirements. There are no direct mentions or significant alignment with framework principles or implementation strategies. Thus, it scores very low on all metrics.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses asynchronous communication as a method to improve collaboration and productivity. While it mentions practices like setting clear expectations and utilizing the right tools, it primarily focuses on the benefits and personal experiences rather than actionable techniques or structured practices relevant to the category of 'Practice'. The limited depth in discussing specific, consistent practices and the absence of examples related to the key topics further support a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 22.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content primarily focuses on the practical aspects of asynchronous communication, discussing its benefits and providing personal experiences and recommendations. Although it touches on themes related to collaboration and productivity, it lacks a clear philosophical exploration of the underlying principles or beliefs guiding these practices. Therefore, while there are some vague connections to team dynamics and inclusivity, the emphasis on methods and tools overshadows any philosophical discussion.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity, which are related to individual and team practices rather than discussing broader capabilities within an organization. While it touches on the importance of adapting communication styles to enhance productivity, it does not delve into the core themes of the 'Capability' category, such as cultivating enduring competencies or strategies for embedding capabilities, which are essential for conformance to the category. Therefore, the confidence score remains low, as the category is not the primary focus.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 23.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content discusses asynchronous communication, which is related to collaboration and communication practices, but it lacks specific actionable tenets or guidelines relevant to Agile, Lean, or DevOps methodologies. The mention of flexibility and reduced pressure aligns somewhat with general principles of adaptability but does not translate into concrete, prescriptive tenets that define decision-making in these frameworks. The depth of discussion primarily revolves around personal experience and benefits rather than systematic application or organizational doctrines.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses asynchronous communication as a method for improving collaboration and productivity. It directly mentions the method multiple times and outlines its benefits and strategies for implementation. However, it lacks a deeper exploration of specific procedures or structured steps that would typically align more closely with the 'Method' category. Additionally, while there is an emphasis on enhancing communication practices, the focus is not strictly framed as a step-by-step procedural approach.",
+    "level": "Secondary"
+  },
+  "Observability": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on asynchronous communication and its benefits for collaboration and productivity, with no direct mention or relevant discussion surrounding observability or related principles. While it touches on tools that facilitate communication, it does not delve into metrics, logs, or traces, nor does it address topics relevant to Agile, DevOps, or software systems. Therefore, it has a very low alignment and depth regarding observability.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses asynchronous communication, which touches on themes of self-management and adaptability but does not explicitly frame these as guiding principles. The discussion lacks concrete actionable guiding rules or foundational beliefs that align firmly with the principles of Agile, Lean, or DevOps. While it mentions benefits that indirectly support principles like 'value delivery' in terms of productivity, it fails to provide a primary focus on the principles themselves, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "Embracing_Asynchronous_Communication",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses asynchronous communication techniques without delving into the underlying principles, methodologies, or governance structures associated with disciplines like Agile or Lean. While it addresses some aspects of efficiency and productivity, it does not provide detailed insights into the systematic application or maturation of a discipline, leading to a low confidence score for the category of Discipline.",
     "level": "Ignored"
   }
 }

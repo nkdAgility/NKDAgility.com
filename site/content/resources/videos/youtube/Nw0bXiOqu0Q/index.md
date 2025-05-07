@@ -2,8 +2,10 @@
 title: Why are recessions a great time for organizations to evaluate the opportunity of agile?
 description: Discover why recessions spark a shift towards agile methodologies, enabling organisations to adapt and thrive in turbulent times. Join Martin Hinshelwood!
 date: 2023-02-09T07:15:02Z
+weight: 590
 ResourceId: Nw0bXiOqu0Q
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Nw0bXiOqu0Q
@@ -15,35 +17,32 @@ preview: https://i.ytimg.com/vi/Nw0bXiOqu0Q/maxresdefault.jpg
 duration: 246
 isShort: false
 aliases:
-- /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
-- /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
-- /resources/videos/Nw0bXiOqu0Q
-- /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 - /resources/Nw0bXiOqu0Q
-aliasesFor404:
+- /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
+aliasesArchive:
+- /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 - /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
+- why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- People and Process
-- Agile Product Management
-- Agile Project Management
-- Empirical Process Control
+- Agile Philosophy
 - Business Agility
-- Hypothesis Driven Development
-- Discovery and Learning
-- Resilience and Change
-- Continuous Learning
+- Pragmatic Thinking
+- Empirical Process Control
+- Organisational Agility
+- Value Delivery
+- Agile Strategy
+- Software Development
+- Market Adaptability
+- Agile Transformation
 resourceTypes:
 - video
 categories:
-- Social Technologies
-- Leadership
-- Product Management
+- Product Development
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?
@@ -54,21 +53,21 @@ The best time to invest in your marketing, sales efforts, people, and processes 
 
 **Agile** is simply a great framework and tool to help you do that effectively.
 
-So, it is in times of turmoil that we often discover our deepest opportunities for growth and continuous improvement.
+So, it is in times of turmoil that we often discover our deepest opportunities for growth and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ## The Agile Conversation
 
 **Agile** is simply about the ability to adapt and respond to market circumstances and conditions more effectively than your competitors.
 
-It’s about the ability to capture and create value for customers, continuously, in ways that truly delight those customers, which leads to increased customer satisfaction, retention, and acquisition.
+It’s about the ability to capture and create value for customers, continuously, in ways that truly delight those customers, which leads to increased [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}), retention, and acquisition.
 
 If you’re simply looking for a different way of working, agile isn’t the solution for you.
 
-It needs to solve a problem or create an opportunity for you in a way that traditional project management and conventional product development simply can’t match.
+It needs to solve a problem or create an opportunity for you in a way that traditional [project management]({{< ref "/tags/project-management" >}}) and conventional [product development]({{< ref "/categories/product-development" >}}) simply can’t match.
 
 Agile helps provide a framework that helps teams identify whether they have the necessary cross-functional skills to deliver a great product, and to be adaptive and responsive to markets, and if not, develop a plan to acquire those skills.
 
-It’s also about deep market learning and customer sensing to focus on producing the most valuable outcomes for customers and the organization. Empirical Process Control is all about learning through data, feedback, and evidence and using that to inform what you will attempt next.
+It’s also about deep market learning and customer sensing to focus on producing the most valuable outcomes for customers and the organization. [Empirical Process Control]({{< ref "/tags/empirical-process-control" >}}) is all about learning through data, feedback, and evidence and using that to inform what you will attempt next.
 
 In complex environments, we don’t know what we don’t know.
 
@@ -76,7 +75,7 @@ We don’t know if customers will buy this idea. We don’t know if this concept
 
 **Empirical Process Control theory** allows us to develop a hypothesis, design a quick and cheap experiment to validate whether the idea is feasible or not, and creates rapid feedback loops that we can use to inform what we should persist with and what we should abandon.
 
-Customers don’t see value in the idea, magic, scrap the project. Customers like the minimum viable product and are prepared to invest in it, great, let’s ship that and improve the product with valuable features in each short, sharp sprint.
+Customers don’t see value in the idea, magic, scrap the project. Customers like the [minimum viable product]({{< ref "/tags/minimum-viable-product" >}}) and are prepared to invest in it, great, let’s ship that and improve the product with valuable features in each short, sharp sprint.
 
 ## Traditional Management
 
@@ -92,7 +91,7 @@ Orders flow down the organizational chart and the workers are the ones left to e
 
 A 21st Century environment works completely differently.
 
-The leadership team may be experts at management and control, but they aren’t the wizards who build solutions or solve complex problems. The people on the ground are those things, and so you want to push decision-making about the problem or solution down to those experts.
+The [leadership]({{< ref "/categories/leadership" >}}) team may be experts at management and control, but they aren’t the wizards who build solutions or solve complex problems. The people on the ground are those things, and so you want to push decision-making about the problem or solution down to those experts.
 
 You want the most skilled, experienced, and talented minds addressing the problem rather than relying on a hierarchy that has less skills and capability the higher you climb that ladder.
 
@@ -132,7 +131,7 @@ Simple. Effective. Scientific.
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

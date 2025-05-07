@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T18:28:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices, specifically contrasting Agile training and consulting, which are related to the broader themes of collaboration and continuous improvement within organisations.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on knowledge dissemination and targeted problem-solving. While it touches on aspects of organisational improvement, it lacks a direct discussion on social technologies, collaboration, or decision-making frameworks. The mention of team performance and skill-building is relevant but does not delve into the core themes of social technologies, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T18:29:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile training and consulting, which are not central to DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile training and consulting, which are methodologies that do not align with the core principles of DevOps. While there is a mention of organisational improvement, it lacks direct references to DevOps concepts such as collaboration, automation, or shared accountability. The discussion is centred around Agile practices, which are distinct from the DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -46,12 +52,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T18:29:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of agile training and consulting, which are related to improving business practices, but does not primarily focus on the broader principles or strategies of business agility.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on agile training and consulting, which are related to business agility but do not explicitly discuss the principles or practices that enable organisations to adapt and innovate. While there is some mention of improving business practices, the focus is more on the distinction between training and consulting rather than a comprehensive exploration of business agility itself.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -82,29 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T18:29:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile training and consulting, without a focus on evidence-based management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T18:29:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile training and consulting, which are not directly related to software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T18:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no clear focus on Scaling Kanban principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and benefits without any explicit mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as empirical decision-making or current value metrics, and does not provide any depth on how data informs management decisions.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,10 +112,10 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T18:29:18",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on Agile frameworks themselves.",
     "level": "Ignored"
   },
@@ -136,10 +130,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T18:29:22",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +144,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a focus on trend analysis or its implications for Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T18:29:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting without addressing scaling Agile practices or coordination among multiple teams.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -226,21 +211,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T18:29:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies, which are relevant to product delivery, but primarily focuses on the distinction between Agile training and consulting rather than the end-to-end process of delivering software products.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile training and consulting, which are related to methodologies in product delivery. However, it lacks a direct focus on the end-to-end process of delivering software products, and does not delve into key topics such as iterative development, testing, or deployment strategies. The discussion is more about the differences between training and consulting rather than practical applications in product delivery.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T18:29:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile training and consulting without any mention of AI or its integration within Agile methodologies.",
-    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +230,6 @@
     "reasoning": "Content primarily discusses the differences between agile training and consulting, without a clear focus on digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T18:29:44",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile training and consulting, which relates to team dynamics and improving processes, but it primarily focuses on the distinction between training and consulting rather than a deeper exploration of human behaviour or structured methodologies.",
-    "level": "Tertiary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T18:29:45",
@@ -268,15 +238,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile training and consulting, with no clear focus on Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T18:29:47",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile training and consulting, which are related to Agile Project Management, but does not delve into core agile principles, frameworks, or methodologies.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +257,6 @@
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T18:29:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a focus on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T18:29:51",
@@ -312,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile training and consulting without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T18:29:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile training and consulting, which are not directly related to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -352,37 +295,40 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T18:29:57",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T18:29:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on the Scrum Master role or responsibilities.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile training and consulting but does not focus specifically on the role of the Scrum Master. While it touches on Agile practices, it lacks direct mentions of Scrum Master responsibilities or their impact on team dynamics and organisational change. The discussion is more about general Agile methodologies rather than the specific role of a Scrum Master.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T18:30:00",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on Agile Planning principles or practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T18:30:01",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -397,11 +343,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T18:30:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no clear focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and benefits. It does not mention Test First Development or its principles, nor does it align with the core themes of success criteria, testing practices, or collaboration in software development. The discussion lacks depth regarding any aspect of Test First Development, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -433,10 +382,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T18:30:09",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a focus on scaling Agile methodologies across an organisation.",
     "level": "Ignored"
   },
@@ -460,20 +409,26 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T18:30:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on innovation capabilities or Evidence-Based Management.",
+    "calculated_at": "2025-04-11T10:24:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, focusing on knowledge dissemination and targeted problem-solving. It does not explicitly mention innovation or its metrics, nor does it explore concepts related to fostering a culture of innovation or organisational capacity for innovation. The discussion is more about Agile practices rather than the ability to innovate, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T18:30:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 52.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile training and consulting, which are related to Agile practices, but does not delve deeply into the principles or methodologies of Agile transformation.",
+    "final_score": 52.0,
+    "reasoning": "The content discusses Agile training and consulting, which are related to Agile practices, but it does not delve into the broader strategies or methodologies of Agile transformation. While it touches on the importance of knowledge dissemination and improvement opportunities, it lacks a comprehensive exploration of Agile principles, frameworks, or change management strategies that are central to the category of Agile Transformation.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -503,24 +458,6 @@
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no clear focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T18:30:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between agile training and consulting, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T18:30:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting without focusing on specific tools, methodologies, or practical applications related to Agile and DevOps practices.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T18:30:28",
@@ -546,15 +483,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting without providing personal experiences or reflections.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T18:30:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a focus on specific events or presentations.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -584,23 +512,17 @@
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T18:30:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile training and consulting, without a focus on scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T18:30:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the differences between Agile training and consulting, which are related to Agile practices but does not reference specific frameworks or methodologies directly. It provides anecdotal insights without actionable guidance.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the differences between Agile training and consulting, which are relevant to Agile practices but does not reference specific frameworks or methodologies. While it touches on general concepts of Agile, it lacks depth and actionable insights, making it more aligned with the Miscellaneous category. The discussion is primarily anecdotal and does not delve into established Agile principles.",
+    "level": "Secondary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -613,11 +535,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T18:30:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile training and consulting, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and roles in organisational improvement. It does not mention Continuous Delivery or its principles, practices, or benefits. The discussion is centred around Agile methodologies without a specific focus on delivery practices, thus failing to align with the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -665,7 +590,7 @@
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no clear focus on the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T18:30:54",
     "ai_confidence": 0,
@@ -683,15 +608,6 @@
     "reasoning": "Content primarily discusses Agile training and consulting, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T18:30:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T18:31:04",
@@ -703,11 +619,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T18:31:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, which are related to Agile practices but do not specifically address the Agile Product Operating Model. While it mentions Agile concepts, it lacks a direct focus on product management principles or the core themes of the APOM, such as continuous delivery or product-oriented mindsets.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -775,10 +694,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T18:31:18",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a focus on metrics, data utilisation, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -807,15 +726,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a focus on mentoring or related themes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T18:31:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no mention of AI or automation.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -847,10 +757,10 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T18:31:34",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without addressing the foundational principles or values of Agile philosophy.",
     "level": "Ignored"
   },
@@ -919,10 +829,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T18:31:45",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
@@ -944,15 +854,6 @@
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, which are not directly related to Value Stream Management.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T18:31:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between agile training and consulting, with no clear focus on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T18:31:49",
@@ -960,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between agile training and consulting without a clear focus on the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T18:31:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without focusing on specific products, books, or resources related to Agile methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,20 +883,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T18:31:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical differences between Agile training and consulting, highlighting real-world applications and improvements in business practices, which aligns with pragmatic thinking. However, it does not delve deeply into specific problem-solving strategies or Agile principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile training and consulting, highlighting their distinct roles in organisational improvement. While it touches on practical applications of Agile principles, it lacks in-depth exploration of problem-solving strategies or real-world applications, which are central to pragmatic thinking. The focus is more on the differences between training and consulting rather than on practical problem-solving techniques or case studies.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T18:31:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:24:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no clear focus on Lead Time or its measurement.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between Agile training and consulting, with no direct mention of Lead Time or its related concepts. While it discusses organisational improvement, it does not address Lead Time as an observability metric, its relationship with Cycle Time, or any techniques for measuring or optimising Lead Time. The discussion lacks depth and relevance to the category, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1063,12 +961,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T18:32:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices, which are a significant aspect of software development methodologies, but it primarily focuses on the differences between training and consulting rather than on software engineering practices themselves.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile training and consulting, which are relevant to software development methodologies. However, it primarily focuses on the differences between training and consulting rather than delving into specific software development practices or methodologies in detail. While Agile is a key topic in software development, the content lacks depth in discussing its application within the software development lifecycle.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1115,15 +1016,6 @@
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a focus on cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T18:32:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on the role of software developers or Agile methodologies in a development context.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T18:32:19",
@@ -1144,10 +1036,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T18:32:21",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1158,15 +1050,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on the responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T18:32:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, lacking a focus on news, updates, or reviews related to Agile methodologies.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1207,10 +1090,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T18:32:29",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a focus on leadership roles or practices within Agile contexts.",
     "level": "Ignored"
   },
@@ -1243,20 +1126,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T18:32:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:24:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a focus on throughput or its measurement and optimisation.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T18:32:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the differences between agile training and consulting, without a clear focus on Scrum principles, roles, or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, focusing on knowledge dissemination and targeted problem-solving. There are no direct mentions of throughput as a delivery metric, nor does it analyse or visualise throughput in any way. The discussion lacks depth regarding throughput concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1270,11 +1147,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T18:32:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:24:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile training and consulting, which are not related to system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on Agile training and consulting, discussing their differences and benefits. There are no direct mentions of system configuration, and the themes of Agile methodologies do not align with the core topics of system configuration. The depth of discussion is also minimal regarding any relevant aspects of system setup or integration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,40 +1175,37 @@
     "reasoning": "Content primarily discusses the differences between agile training and consulting, without focusing on product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T18:32:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T18:32:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile training and consulting, which are related to organisational change practices, but the primary focus is on the differences between training and consulting rather than on broader organisational change strategies or methodologies.",
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile training and consulting, which are related to organisational improvement but does not explicitly focus on organisational change methodologies or frameworks. While it touches on the importance of knowledge dissemination and targeted consulting, it lacks depth in discussing the principles of Agile transformation or change management processes. Therefore, it aligns conceptually but does not provide a comprehensive exploration of the category.",
     "level": "Tertiary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T18:32:52",
+    "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T18:32:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile training and consulting, which are related to the implementation of Agile methodologies. However, it does not primarily focus on strategic alignment or long-term success through Agile principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile training and consulting, which are related to Agile methodologies but does not explicitly address Agile strategy or its core themes. While it touches on the importance of knowledge dissemination and targeted consulting, it lacks a focus on strategic alignment, continuous value delivery, or leadership roles in fostering an Agile culture. The discussion is more about the operational aspects of Agile rather than strategic implementation.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -1351,12 +1228,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T18:32:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile training and consulting, which are related to organisational agility, but does not delve deeply into the broader strategies or practices that enhance organisational adaptability.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile training and consulting, which are relevant to organisational agility as they contribute to knowledge dissemination and targeted improvements. However, it lacks a direct focus on broader organisational agility strategies, cultural shifts, or specific methodologies that enhance adaptability. The discussion is somewhat detailed but primarily centres on the differences between training and consulting rather than exploring how these practices foster organisational agility.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1374,6 +1254,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile training and consulting, which are not directly related to Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:51:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile training and consulting, which are unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:51:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Agile training and consulting, with no mention of Artificial Intelligence or its application in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'agile' but does not specifically discuss Scrum principles, roles, or events. It focuses more on the distinction between agile training and consulting without delving into Scrum's framework or practices, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and benefits. It does not mention the Shift-Left Strategy or its principles, techniques, or metrics. The discussion is centred around Agile practices without addressing the integration of testing, security, or compliance earlier in the software development lifecycle, which is essential for a Shift-Left classification.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile training and consulting, which are related to organisational improvement but does not explicitly focus on Continuous Improvement principles. While it touches on aspects of improvement and skill-building, it lacks a detailed exploration of Continuous Improvement methodologies, empirical evidence, or a culture of experimentation. The primary focus is on differentiating training from consulting rather than on the ongoing practice of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, focusing on their distinct roles in organisational improvement. While it touches on the importance of a common vocabulary and understanding, it does not explicitly address the concept of Common Goals or their significance in Agile and DevOps frameworks. The discussion lacks depth regarding how these roles contribute to shared objectives or strategic alignment, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile training and consulting, highlighting the importance of skill-building and knowledge dissemination, which aligns with the concept of competence. However, it primarily focuses on the differences between training and consulting rather than delving deeply into continuous learning or the broader implications of competence in Agile environments. The discussion lacks depth in exploring strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, which are not directly related to the One Engineering System framework. While it touches on organisational improvement, it does not address the principles, integration, or implementation of 1ES, nor does it provide any relevant case studies or comparisons. The focus is on Agile methodologies rather than the standardisation and integration of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, focusing on knowledge dissemination and targeted problem-solving. It does not explicitly mention Agentic Agility or its core themes, such as intentional shaping of outcomes, autonomy, or adaptability. The discussion lacks depth regarding the principles of Agentic Agility and does not differentiate between human and AI capabilities in this context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:23:35",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile training and consulting, which are relevant to product development methodologies. However, it primarily focuses on the differences between training and consulting rather than delving into specific product development practices or methodologies. While it mentions the importance of knowledge dissemination and targeted consulting, it lacks a deeper exploration of iterative processes, customer feedback integration, or continuous improvement practices that are central to product development. Therefore, while there is a connection to the category, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:23:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between Agile training and consulting, without any direct mention of Open Space Agile or its principles. While it discusses aspects of Agile, it does not align with the core themes of Open Space Agile, such as collective participation, psychological safety, or co-creation. The depth of discussion is limited to training and consulting, which are not relevant to the Open Space Agile category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:23:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between Agile training and consulting, without discussing the principles of Agnostic Agile or its application in various contexts. There are no direct mentions of Agnostic Agile, and the discussion lacks depth regarding the core themes of the category, such as ethical considerations or value delivery. The content is more aligned with the mechanics of Agile practices rather than the philosophical underpinnings of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:23:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between Agile training and consulting, which are not directly related to scaling methodologies or frameworks. While it mentions Agile practices, it does not discuss scaling strategies, cross-team collaboration, or any of the key topics outlined for the Scaling category. The discussion lacks depth and does not provide insights into the complexities of scaling Agile or DevOps practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:23:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, focusing on their differences and applications. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or the Beta Codex. The depth of discussion is limited to Agile methodologies, which are unrelated to the specified category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:23:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between Agile training and consulting, without any direct mention of Liberating Structures or their principles. While it touches on aspects of Agile methodologies, it does not align with the core themes of Liberating Structures, such as facilitation techniques or enhancing group dynamics. The depth of discussion is limited to the comparison of training and consulting, lacking any detailed exploration of Liberating Structures or their applications.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:23:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, focusing on knowledge dissemination and targeted problem-solving. There are no direct mentions of Time to Market or its associated metrics, nor does it explore strategies for improving delivery speed or customer satisfaction. The discussion is more about the roles and impacts of training and consulting rather than how these practices relate to the efficiency of delivering market-ready products.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:23:54",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the differences between Agile training and consulting, without explicitly discussing the concept of 'Company as a Product' or its core themes. While it touches on organisational improvement, it does not delve into customer-centric strategies or the principles of treating the organisation as a product. The discussion lacks depth regarding CaaP frameworks and does not provide any case studies or examples related to the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:23:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and consulting, with no direct mention of GitHub or its services. While it touches on Agile methodologies, it does not align with GitHub's functionalities or best practices. The discussion lacks depth regarding GitHub, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:23:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the differences between Agile training and consulting, discussing their roles in organisational improvement. However, it does not explicitly mention or explore the concept of Unrealised Value or its indicators, strategies, or case studies. While there are references to improvement opportunities, they are not framed within the context of unrealised value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:24:02",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting, focusing on knowledge dissemination and targeted problem-solving. It does not explicitly mention Current Value or its metrics, nor does it provide insights into customer satisfaction, revenue impact, or performance feedback. The discussion lacks depth regarding the practical application of Current Value in decision-making or prioritisation, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:24:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the differences between Agile training and consulting, without any direct mention or critical examination of Hybrid Agile methodologies. It does not address the challenges or implications of merging traditional project management with agile practices, nor does it discuss any of the key topics outlined for the Hybrid Agile category. The discussion lacks depth and does not align with the core themes of Hybrid Agile, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:24:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile training and consulting, which are specific aspects of Agile methodology rather than broader project management principles. While it mentions the importance of knowledge dissemination and targeted consulting, it lacks a comprehensive discussion on core project management themes such as project lifecycle phases, governance structures, or risk management. The content is more about the distinction between training and consulting within an Agile context, which does not fully align with the broader scope of project management.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the differences between Agile training and consulting rather than focusing on conceptual models themselves. While it touches on the application of Agile practices, it lacks detailed discussions or direct mentions of specific models or frameworks that are central to the 'Model' category. Therefore, the confidence score remains low as the content does not align closely with the core themes of models in Agile, DevOps, or Lean contexts.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on the distinctions between Agile training and consulting, with no direct mention of artifacts or their role in Agile practices. It neither explores the structure, purpose, nor types of artifacts, which are central to the 'Artifact' category. The mention of 'Agile practice' is too vague and general to establish a connection to artifacts specifically. Overall, the content lacks a detailed discussion on artifacts, leading to a minimal confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses Agile training and consulting but does not mention any specific tools or how they facilitate workflows or improve collaboration. Instead, it focuses on the general concepts of training and consulting without referencing the practical application or integration of tools within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the differences between Agile training and consulting without discussing any specific values or principles that guide behavior and decision-making. While it does touch on improvement and skill-building, it fails to connect these concepts with the underlying values or philosophical foundations associated with Agile practices.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on Agile concepts and differentiates between Agile training and consulting. However, it does not delve into specific frameworks or provide detailed guidelines for implementing any Agile framework. While Agile is mentioned, it lacks a structured discussion of any frameworks or their methodologies, leading to a low confidence score in the 'Framework' category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 38.0,
+    "ai_mentions": 14,
+    "ai_alignment": 28,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 38.0,
+    "reasoning": "The content primarily discusses the distinction between Agile training and Agile consulting, focusing on knowledge dissemination and targeted problem-solving rather than on specific practices or actionable techniques that directly improve team performance. While it mentions Agile practice in relation to training, it does not delve into the specific practices or methodologies that would enhance collaboration or continuous improvement within teams. Hence, it lacks the depth required for a strong alignment with the 'Practice' category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses practical aspects of Agile training and consulting, focusing on what they do rather than exploring the underlying philosophical principles of why Agile methodologies are designed that way or how they influence decision-making and team dynamics. The terms 'Agile' and 'consulting' are mentioned, but there's no theoretical discussion about the philosophy behind Agile practices or their impact on organizational culture.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 18,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile training and consulting, focusing on the differences and roles of each. While it touches on learning and skill-building, it does not directly address capabilities as defined by the category. The content lacks in-depth exploration of how these training and consulting methods contribute to enduring capabilities within organizations, and it primarily focuses on the distinction rather than on capability development or the embedding of competencies. Therefore, it receives a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Agile training and consulting but does not specifically address actionable guiding principles (tenets) that shape behaviors or decision-making within an organization. While it briefly touches on the differences in approaches, it does not align with the core themes of specific tenets such as decentralization or continuous improvement, nor does it provide depth in discussing these tenets. It lacks the necessary direct mentions and detailed discussion about tenets.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 28.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 28.0,
+    "reasoning": "The content discusses Agile training and consulting, highlighting their differences, but it does not focus on structured procedures or specific methods like Scrum or Kanban. While it mentions Agile practices indirectly, it lacks detailed discussion on methods themselves, which diminishes its alignment with the category. The mention of 'foundational skills' hints at knowledge that could relate to methods, but it does not delve into the procedural aspects required by the category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile training and consulting without mentioning observability or its principles. While it touches on aspects of organizational improvement and team performance, it does not directly address metrics, logs, traces, or any tools associated with observability. Therefore, it does not align well with the core themes of the category, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Agile training and consulting but does not directly engage with foundational principles. It provides insights into the roles of training and consulting in an Agile context but lacks a focus on actionable principles guiding decision-making in Agile frameworks. Key topics such as Continuous Improvement and Self-Management are alluded to, but they are not the primary focus of the content, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:38",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile training and consulting, providing a basic understanding of each but largely focuses on the distinctions rather than the broader principles and frameworks that define the discipline of Agile. While it mentions some characteristics of Agile practice, it lacks deeper insights into the systematic application of Agile as a discipline and does not address governance, ethical considerations, or the evolution of Agile methodologies. Thus, it shows some alignment to the category but not enough depth or direct focus on the core themes of Discipline.",
     "level": "Ignored"
   }
 }

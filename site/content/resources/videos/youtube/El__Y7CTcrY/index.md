@@ -2,44 +2,42 @@
 title: 'The Power of Immersive Learning in Scrum Training: Why Less Is More'
 description: 'Discover 5 reasons why Martin Hinshelwood loves immersive learning for students in Scrum. Join us for Part 1 of this insightful journey! #Agile #Scrum'
 date: 2024-01-31T14:44:15Z
+weight: 1000
 ResourceId: El__Y7CTcrY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: El__Y7CTcrY
 source: internal
 url: /resources/videos/:slug
-slug: the-power-of-immersive-learning-in-scrum-training-why-less-is-more
+slug: the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
 layout: video
 preview: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
-- /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
-- /resources/videos/El__Y7CTcrY
-- /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 - /resources/El__Y7CTcrY
-aliasesFor404:
+- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
+- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
+- /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
+aliasesArchive:
+- /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
 - /resources/the-power-of-immersive-learning-in-scrum-training-why-less-is-more
 - /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 - /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
+- the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Discovery and Learning
-- Continuous Learning
-- Coaching
-- Personal
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-One of the most rewarding aspects of teaching Scrum is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.
+One of the most rewarding aspects of teaching [Scrum]({{< ref "/categories/scrum" >}}) is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.
 
 But here’s the thing—I’ve found a better way. Let’s explore the magic of immersive learning and why **bite-sized** learning experiences make all the difference.
 
@@ -132,4 +130,4 @@ For anyone looking to improve their learning experience, here are a few of my to
 
 ## **Wrapping It Up: Why Immersive Learning Is Here to Stay** **🌟**
 
-In the world of Scrum and Agile, continuous improvement is key, and that extends to how we teach and learn. Immersive learning allows students to **slow down**, absorb, and reflect. This approach not only helps them to **retain information** but also ensures they can apply it when they return to their teams. For me, it’s incredibly rewarding to see the light bulb moments in class when students finally get it. And I’ve found that these moments come far more often when we embrace immersive learning. So next time you’re learning something new, remember: slow down, take small bites, and chew. You’ll enjoy the learning process a lot more—and you’ll get much more out of it.
+In the world of Scrum and Agile, [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) is key, and that extends to how we teach and learn. Immersive learning allows students to **slow down**, absorb, and reflect. This approach not only helps them to **retain information** but also ensures they can apply it when they return to their teams. For me, it’s incredibly rewarding to see the light bulb moments in class when students finally get it. And I’ve found that these moments come far more often when we embrace immersive learning. So next time you’re learning something new, remember: slow down, take small bites, and chew. You’ll enjoy the learning process a lot more—and you’ll get much more out of it.

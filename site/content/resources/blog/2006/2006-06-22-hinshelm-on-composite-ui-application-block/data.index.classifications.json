@@ -10,10 +10,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T11:16:30",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a UI adapter in a software framework, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -44,7 +44,7 @@
     "reasoning": "Content primarily discusses technical implementation details of a UI adapter in a software framework, with no relevance to BetaCodex principles or organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T11:16:36",
     "ai_confidence": 0,
@@ -62,15 +62,6 @@
     "reasoning": "Content primarily discusses the implementation of a UI adapter in the Composite UI Application Block, with no mention of Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T11:16:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily discusses the implementation of a UI adapter in a specific framework, which involves code quality and design decisions. However, it does not deeply explore the complexities or principles of software development processes, making it a secondary theme.",
-    "level": "Tertiary"
-  },
   "DevOps": {
     "category": "DevOps",
     "calculated_at": "2025-02-17T11:16:41",
@@ -82,10 +73,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T11:16:43",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a UI adapter for a specific framework, rather than focusing on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of a UI adapter in the Composite UI Application Block, with no focus on market adaptability strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T11:16:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details and code examples related to the Composite UI Application Block, rather than discussing news or reviews in Agile, DevOps, or technology.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
@@ -123,24 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to UI components and does not focus on decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T11:16:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a UI adapter in a software framework, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T11:16:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementations related to UI components without addressing organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -163,11 +127,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T11:16:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of a UI adapter within the Composite UI Application Block, focusing on engineering practices related to code quality and extensibility. It provides detailed code examples and discusses design choices that enhance the maintainability and adaptability of the application, aligning well with the principles of technical excellence.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on implementing a technical solution within the Composite UI Application Block (CAB), specifically regarding the ToolStripPanel UI Adapter. It discusses the technical details of code implementation, including inheritance and factory patterns, which align with the principles of modular architecture and emergent design. However, while it provides a good level of detail on the implementation, it lacks broader discussions on methodologies like TDD or CI/CD practices, which are central to the category of Technical Excellence. Therefore, while it is relevant, it does not fully encompass the category's scope.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -190,10 +157,10 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T11:17:04",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a UI adapter in the Composite UI Application Block, which is not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -204,15 +171,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of a UI adapter in a software framework, with no reference to Lean principles or methodologies.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T11:17:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a UI adapter in a software framework, with no reference to events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -242,15 +200,6 @@
     "reasoning": "Content primarily discusses the implementation of UI components in a specific application block, with no clear focus on platform engineering principles or enhancing developer productivity.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T11:17:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of a specific UI adapter within the Composite UI Application Block, detailing practical coding techniques and methodologies relevant to tooling in software development.",
-    "level": "Secondary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T11:17:23",
@@ -278,24 +227,6 @@
     "reasoning": "Content primarily discusses technical implementation details of a UI adapter in the Composite UI Application Block, with no focus on organisational agility or related themes.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T11:17:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details of a UI adapter without addressing transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T11:17:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details of a UI adapter in the Composite UI Application Block, with no clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "calculated_at": "2025-02-17T11:17:30",
@@ -305,31 +236,16 @@
     "reasoning": "Content primarily discusses technical implementation details of a UI adapter in a software framework, with no relevance to Evidence-Based Management principles or practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T11:17:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the implementation of a UI adapter in a software framework, with no mention of AI, automation, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T11:17:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of a UI component in a software framework, with no focus on products, books, or Agile/DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T11:17:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical implementation details related to the Composite UI Application Block and does not address Scrum principles, roles, events, or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to the Composite UI Application Block and does not mention Scrum principles, roles, events, or any related concepts. There is minimal conceptual alignment with Scrum, as it does not discuss team dynamics, iterative processes, or continuous improvement, which are core to the Scrum framework.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -413,15 +329,6 @@
     "reasoning": "Content discusses technical implementation details related to a UI framework, with no relevance to customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses entirely on implementing UI components within a software framework and does not discuss Scrum principles, roles, or practices related to product development.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-17T16:38:32",
@@ -456,15 +363,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation and code for UI components in the Composite UI Application Block, with no relevant discussion on cross-functional teams.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on technical implementation details of a UI component in a software framework, with no mention or discussion of AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -532,10 +430,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T16:38:32",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses implementation details of the Composite UI Application Block and ToolStripPanel, without focusing on the Windows operating system itself.",
     "level": "Ignored"
   },
@@ -620,15 +518,6 @@
     "reasoning": "Content primarily discusses technical implementation of UI components and does not focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical implementation of UI components in a specific framework and does not relate to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Strategy": {
     "category": "Strategy",
     "calculated_at": "2025-02-17T16:38:32",
@@ -674,15 +563,6 @@
     "reasoning": "Content mostly discusses technical implementation details regarding UI components, specifically for the Composite UI Application Block, and does not address asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on implementing a UI adapter for the Composite UI Application Block, with no reference to Agile methodologies, principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
     "calculated_at": "2025-02-17T16:38:32",
@@ -721,20 +601,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T16:38:32",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on technical implementation details of a Composite UI Application Block and does not address innovation practices or the measurement of innovation within an organization.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily focuses on specific programming implementations and code for adapting UI components within a framework, which does not address the role of software developers in Agile or DevOps contexts.",
+    "reasoning": "Content focuses primarily on technical implementation details of a Composite UI Application Block and does not address innovation practices or the measurement of innovation within an organization.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -757,10 +628,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T16:38:32",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical implementation details of a UI framework and does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -802,19 +673,19 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T16:38:32",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on implementing UI components in a Composite UI Application Block and does not discuss Test First Development, TDD, or related testing practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:38:32",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on implementing a technical solution in a specific framework (CAB) rather than discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -838,14 +709,17 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical problem-solving techniques related to the Composite UI Application Block and how to implement a ToolStripPanel UI Adapter. It provides specific code implementations and discusses real-world application of adapting existing components to enhance functionality.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a technical implementation of a UI adapter within the Composite UI Application Block (CAB). While it does touch on practical problem-solving by discussing two approaches to extend functionality, it lacks a broader discussion on Agile, Scrum, or DevOps principles. The depth of the technical details is significant, but the overall alignment with the core themes of pragmatic thinking is limited, as it does not address adaptability or real-world applications in a project management context.",
+    "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T16:38:32",
     "ai_confidence": 0,
@@ -856,11 +730,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses code implementation and adaptation techniques within a specific software framework (CAB) and includes best practices for creating UI adapters, which aligns closely with software craftsmanship and engineering practices.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed discussion on implementing a specific technical solution within the Composite UI Application Block (CAB), focusing on extending functionality through code. It explicitly mentions best practices in software design, such as inheritance and factory patterns, which align with the principles of clean code and software craftsmanship. The depth of the discussion is significant, as it includes code examples and explanations of the implementation process, demonstrating a strong grasp of technical concepts. However, it lacks broader discussions on topics like testing, continuous integration, or technical debt management, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Working Agreements": {
@@ -955,12 +832,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical implementation details about enhancing the ToolStripPanel UI Adapter within the Composite UI Application Block (CAB), which reflects principles of software craftsmanship and development practices. It focuses on the technical aspects of code adaptation, inheritance, and improved functionality, aligning well with engineering excellence principles.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on implementing a specific feature in a software framework, detailing code and technical solutions. While it touches on aspects of software craftsmanship, such as extending functionality and code reuse, it lacks a broader discussion on engineering excellence principles, best practices, or continuous improvement processes. The depth of discussion is limited to a specific implementation without addressing overarching themes of quality assurance or team collaboration.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1009,12 +889,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses the resolution of issues encountered when adding support for a ToolStripPanel in the Composite UI Application Block (CAB). While the primary focus is on implementation and code, it addresses encountering problems and implementing a solution, which falls under troubleshooting in a technical context. However, the content is largely about coding practices rather than dedicated troubleshooting methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the process of adding support for a UI component in a framework, which involves identifying issues with the existing implementation and providing solutions through code. While it does touch on troubleshooting aspects, such as encountering issues with the ToolStripContainer and the need for adaptations, the primary focus is on implementation rather than systematic problem-solving or methodologies for troubleshooting. Therefore, it aligns moderately with the troubleshooting category but lacks depth in discussing techniques or strategies for diagnosing and resolving issues.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -1063,12 +946,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:38:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses adding support for a specific UI component in the context of a software framework, including code snippets, implementation details, and software design practices, which aligns well with software development.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed discussion on implementing a UI adapter for the Composite UI Application Block (CAB), which is a software development framework. It explicitly mentions coding practices, inheritance, and factory patterns, aligning well with software design principles. The depth of the discussion is significant, as it includes code examples and explanations of the implementation process, demonstrating a strong focus on software development methodologies.",
+    "level": "Primary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -1124,15 +1010,6 @@
     "reasoning": "Content primarily discusses coding and implementation for a UI component within a software application, with no relevance to Lean Thinking principles or waste minimization.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T16:38:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on technical implementation details regarding the Composite UI Application Block and related UI components, with no mention of Agile methodologies, scaling Agile practices, or enterprise-level collaboration.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T16:38:33",
@@ -1176,15 +1053,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses implementing UI adaptations in the Composite UI Application Block and does not address TDD principles, practices, or methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T16:38:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical implementation details of a UI framework and does not discuss scaling agility or related concepts.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1268,15 +1136,6 @@
     "reasoning": "Content primarily discusses implementing UI components in a Composite UI Application Block and does not relate to Continuous Delivery principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T16:38:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on technical implementation details and code related to the Composite UI Application Block and does not discuss any concepts or practices related to Scaling Scrum.",
-    "level": "Ignored"
-  },
   "Trend Analysis": {
     "category": "Trend Analysis",
     "calculated_at": "2025-02-17T16:38:33",
@@ -1297,10 +1156,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T16:38:33",
+    "calculated_at": "2025-04-10T15:57:26",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of UI adaptation in the Composite UI Application Block, with no mention of Definition of Done or criteria related to it.",
     "level": "Ignored"
   },
@@ -1374,6 +1233,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to UI components and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:56:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the implementation of UI components in a specific application framework, which does not relate to Internal Developer Platforms or their associated concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:56:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the implementation of a UI adapter in a software framework, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on implementing a UI adapter for a specific framework (CAB) and does not discuss any aspects of the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance processes, nor does it align with the core themes of integrating these elements early in the software development lifecycle. The discussion is technical and specific to UI development, lacking any depth related to Shift-Left practices.",
     "level": "Ignored"
   }
 }

@@ -2,53 +2,55 @@
 title: 'Free Workshop 04: Introduction to Sprint Reviews [Review & Retrospective]'
 description: Join Martin Hinshelwood for a free 90-minute workshop on running effective Sprint Reviews. Learn to gather feedback and plan your next steps!
 date: 2021-09-18T13:32:34Z
+weight: 240
 ResourceId: 1-W64WdSbF4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1-W64WdSbF4
 source: internal
 url: /resources/videos/:slug
-slug: free-workshop-05-introduction-to-agile-leadership-review-retro
+slug: free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 preview: https://i.ytimg.com/vi/1-W64WdSbF4/maxresdefault.jpg
 duration: 5769
 isShort: false
 aliases:
-- /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
-- /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
-- /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
-- /resources/videos/1-W64WdSbF4
-- /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 - /resources/1-W64WdSbF4
-aliasesFor404:
+- /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
+- /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
+aliasesArchive:
+- /resources/videos/free-workshop-introduction-to-sprint-reviews-review-retrospective
+- /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 - /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
 - /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 - /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 - /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
+- /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
+- free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
-- Scrum Product Development
-- Sprint Review
-- Increment
-- People and Process
-- Product Owner
-- Events and Presentations
-- Scrum Master
-- Agile Project Management
+- Product Delivery
 - Agile Product Management
+- Agile Planning
+- Scrum Team
+- Value Delivery
+- Agile Philosophy
+- Agile Planning Tools
+- Collaboration Tools
+- Release Management
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
 - Product Management
-- Social Technologies
+- Technical Leadership
 
 ---
-This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the Sprint Review and its empirical nature. I used a combination of Liberating Structures, Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!
+This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the [Sprint Review]({{< ref "/tags/sprint-review" >}}) and its empirical nature. I used a combination of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}), Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!
 
 Participant feedback was awesome, and we have fixed the audio and re-released the video.
 

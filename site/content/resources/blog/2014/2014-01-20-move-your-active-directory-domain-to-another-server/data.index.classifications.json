@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical aspects of moving an Active Directory domain and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the practical steps involved in moving an Active Directory domain, which relates to tooling and techniques in IT infrastructure management, but it is primarily focused on a specific task rather than a broader exploration of Agile or DevOps practices.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T11:15:21",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T11:15:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical steps for moving an Active Directory domain and does not relate to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T11:15:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not address software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T11:15:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical process of moving an Active Directory domain, with no significant emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T11:15:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not relate to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the technical process of moving an Active Directory domain and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T11:15:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the process of moving an Active Directory domain to another server, which involves installation and configuration steps relevant to setting up TFS and managing domain controllers.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T11:15:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for moving an Active Directory domain and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the installation and configuration of an Active Directory domain, detailing the steps involved in moving it from one server to another. It explicitly mentions the components that need to be moved, which aligns well with the category's focus on actionable instructions. However, while it provides a personal narrative and some detail, it lacks a comprehensive step-by-step guide or troubleshooting tips, which slightly lowers the depth score.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T11:15:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T11:15:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of moving an Active Directory domain, which is more aligned with system administration than DevOps principles. While there is a mention of server management, it lacks discussions on collaboration, automation, or cultural shifts that are central to DevOps. The content does not engage with the core themes of DevOps, such as continuous value delivery or shared accountability.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementation of moving an Active Directory domain, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T11:15:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T11:15:40",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not relate to flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T11:15:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for moving an Active Directory domain, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T11:15:45",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain and does not address metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain, which is unrelated to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T11:15:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain and does not focus on products, books, or Agile/DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T11:15:55",
@@ -305,22 +233,25 @@
     "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T11:16:00",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not relate to the principles or practices of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T11:16:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the technical process of moving an Active Directory domain, with no mention or relevance to Agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any of the key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain, with no focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T11:16:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial about moving an Active Directory domain, which does not align with the themes of industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T11:16:05",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not focus on the application lifecycle management principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T11:16:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not relate to Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +283,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T11:31:48",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses moving an Active Directory domain and installation of TFS, which are unrelated to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of moving an Active Directory domain, which involves best practices and methodologies related to system administration and technical implementation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the technical process of moving an Active Directory domain, which involves some aspects of software engineering and system administration. However, it primarily focuses on a specific task rather than broader principles of software craftsmanship, clean code, or architectural best practices. While there are mentions of technical components like the Schema Master and PDC, the overall discussion lacks depth in terms of methodologies or principles that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T11:31:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving an Active Directory domain and installation issues with TFS, which are unrelated to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the technical process of moving an Active Directory domain to another server, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with any of the key topics outlined for this category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +334,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T11:31:48",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on moving an Active Directory domain and installation issues related to TFS, with no mention of Lead Time or its implications.",
     "level": "Ignored"
   },
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T11:31:48",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on moving an Active Directory domain and is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -586,28 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses moving an Active Directory domain which is relevant to software development practices related to server management and TFS installation, but it primarily focuses on a specific task rather than broader software development methodologies.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses the process of moving an Active Directory domain, which is related to software deployment and server management. However, it lacks a strong focus on software development methodologies or practices, making it more of a technical task rather than a discussion on software development as a whole.",
     "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T11:31:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on moving an Active Directory domain and configuring Windows Server, with no relevance to Agile Project Management principles or methodologies.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T11:31:48",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the technical process of moving an Active Directory domain, with no relevance to Agile Values and Principles.",
     "level": "Ignored"
   },
@@ -701,15 +614,6 @@
     "reasoning": "Content heavily discusses technical processes related to Active Directory and server management, with no reference to customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on technical aspects of moving an Active Directory domain and does not discuss Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T11:31:49",
@@ -726,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses technical aspects of moving an Active Directory domain and does not relate to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical aspects of moving an Active Directory domain and does not discuss scaling agility or related practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T11:31:49",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical steps for moving an Active Directory domain, with no focus on innovation or data-driven decision making.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on moving an Active Directory domain and does not relate to Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical aspects of moving an Active Directory domain, which is unrelated to scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,10 +742,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T11:31:49",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about moving an Active Directory domain, which is not directly related to the delivery of functional software or the principles of Agile and Scrum.",
     "level": "Ignored"
   },
@@ -973,10 +850,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T11:31:49",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not focus on Cycle Time.",
     "level": "Ignored"
   },
@@ -1034,7 +911,7 @@
     "reasoning": "Content focuses on the technical process of moving an Active Directory domain, which does not align with the strategic aspects of digital transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T11:31:49",
     "ai_confidence": 0,
@@ -1043,23 +920,17 @@
     "reasoning": "Content heavily discusses moving an Active Directory domain, which is unrelated to MVP or product development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content mainly discusses the process of moving an Active Directory domain and installation issues related to TFS, with no mention of AI integration in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 85.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the process of moving an Active Directory domain from one server to another, which involves configuration tasks and considerations related to system setup. It is primarily focused on the technical aspects of system configuration and the challenges faced during the process.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content primarily focuses on the process of moving an Active Directory domain, which is a key aspect of system configuration. It explicitly discusses the steps involved in changing the primary domain controller and mentions specific components that need to be moved, aligning well with the core themes of system configuration. The depth of discussion is substantial, providing a clear overview of the necessary actions and considerations involved in the process, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,21 +970,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses moving an Active Directory domain and does not mention Test First Development or related principles at all.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the process of moving an Active Directory domain and does not mention Test First Development principles, success criteria, or any related testing practices. There is no alignment with the core themes of the category, and the depth of discussion is minimal, as it does not delve into any relevant topics.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses the process of moving an Active Directory domain, which is specifically related to Windows Server. The primary focus is on Windows Server 2012 R2 and relevant roles and operations that pertain to the Windows environment.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the process of moving an Active Directory domain, which is a specific task related to the Windows Server operating system. It explicitly mentions Windows Server 2012 R2, indicating a direct connection to the Windows category. The discussion aligns well with key topics such as installation and configuration, as well as troubleshooting issues related to domain management. The depth of the discussion is significant, as it outlines specific roles and components involved in the process, demonstrating a thorough understanding of the topic. Overall, the content is highly relevant to the Windows category.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1144,10 +1021,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T11:31:49",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about moving an Active Directory domain and installing TFS, without any relevance to remote working or Agile practices.",
     "level": "Ignored"
   },
@@ -1162,11 +1039,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the process of resolving an issue related to Active Directory domain migration, including diagnostics and practical steps taken to troubleshoot and successfully move the domain to another server.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses a specific troubleshooting scenario related to moving an Active Directory domain, which aligns with the category's focus on identifying and resolving technical issues. It mentions the problem encountered (the expired Windows Server) and provides a list of components that need to be moved, indicating a practical approach to troubleshooting. However, while it does touch on troubleshooting, the depth of discussion is somewhat limited, focusing more on the process rather than detailed methodologies or tools for systematic problem-solving.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1060,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on the technical process of moving an Active Directory domain and does not relate to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the technical process of moving an Active Directory domain and does not mention the role or responsibilities of a Scrum Master. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,20 +1081,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T11:31:49",
+    "calculated_at": "2025-04-10T15:55:03",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the technical process of moving an Active Directory domain and does not discuss working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the technical issue of moving an Active Directory domain, which is not central to software development practices within Agile or DevOps.",
+    "reasoning": "Content focuses on the technical process of moving an Active Directory domain and does not discuss working agreements or team collaboration.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1205,6 @@
     "reasoning": "Content primarily discusses technical issues related to moving an Active Directory domain, with no focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T11:31:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on moving an Active Directory domain and does not discuss Kanban or its principles.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T11:31:49",
@@ -1369,11 +1234,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:14:02",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of moving an Active Directory domain, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and provides minimal depth on any related concepts.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:15:21",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical process of moving an Active Directory domain and does not relate to Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not relate to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:15:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the process of moving an Active Directory domain and does not relate to Artificial Intelligence, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical process of moving an Active Directory domain and does not mention Scrum principles, roles, events, or any related concepts. It lacks any substantial connection to the Scrum framework or its practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the technical process of moving an Active Directory domain and does not mention or align with the principles of the Shift-Left Strategy in software development. There is no discussion of integrating testing, security, or compliance earlier in the development lifecycle, nor does it provide any insights into the benefits or methodologies associated with the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of moving an Active Directory domain, with no explicit discussion of Continuous Improvement principles. While there is a mention of learning from the experience, it lacks depth and alignment with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the technical process of moving an Active Directory domain and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no mentions of shared objectives, strategic alignment, or team collaboration, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the technical process of moving an Active Directory domain, with minimal discussion on competence or skill development. While it mentions the challenges faced during the migration, it does not delve into continuous learning, professionalism, or the importance of competence in achieving quality outcomes. The discussion lacks depth and does not align with the core themes of competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the technical process of moving an Active Directory domain and does not discuss Agentic Agility, its principles, or its implications. There are no mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category.",
     "level": "Ignored"
   }
 }

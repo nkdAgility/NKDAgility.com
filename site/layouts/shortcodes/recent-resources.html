@@ -1,0 +1,30 @@
+{{ $ResourceTypes := .Get "ResourceTypes" }}
+{{ $Watermark := .Get "Watermark" | default .Page.Date }}
+{{ $ShowDescription := .Get "ShowDescription" }}
+{{ $MaxItems := .Get "MaxItems" | default 5 }}
+{{ $resources := where .Site.RegularPages "Type" "resources" }}
+{{ if $ResourceTypes }}
+  {{ $resources = where $resources "Params.ResourceType" $ResourceTypes }}
+{{ end }}
+{{ if $Watermark }}
+  {{ $parsedDate := time $Watermark }}
+  {{ $resources = where $resources "Date" "lt" $parsedDate }}
+{{ end }}
+{{ $recent := first $MaxItems (sort $resources "Date" "desc") }}
+<ul>
+  {{ range $recent }}
+    <li class=" text-truncate" title="{{ .Title }} - {{ .Description }}{{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}{{ end }}">
+      {{- partial "components/resources/resource-icon.html" . }}
+      {{ if .Draft }}
+        <i class="fa-brands fa-firstdraft"></i>
+      {{ end }}
+      {{ if gt .Date (now) }}
+        <i class="fa-regular fa-flux-capacitor"></i>
+      {{ end }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ if $ShowDescription }}
+        <p>{{ .Description }}</p>
+      {{ end }}
+    </li>
+  {{ end }}
+</ul>

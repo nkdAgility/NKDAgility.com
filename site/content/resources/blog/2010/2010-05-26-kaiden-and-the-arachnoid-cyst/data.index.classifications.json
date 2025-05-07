@@ -8,15 +8,6 @@
     "reasoning": "Content is primarily personal in nature, discussing the author's son and his development, with no relevance to Agile Product Management.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:36:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no focus on Agile or DevOps techniques or tooling.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T00:36:21",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:36:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to a child's health and development, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:36:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about personal experiences related to a child's health and development, with no discussion of software code or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:36:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:36:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is primarily about a personal story regarding a child's development and health, with no relevance to AI or Agile methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal narrative regarding Kaiden's health journey, with no explicit discussion of Evidence-Based Management principles or metrics. It lacks any mention of data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:36:28",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences and updates about a child, with no relevance to installation or configuration topics.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:36:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal updates about a child and does not address transparency or accountability in any context.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,32 +65,29 @@
     "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no focus on sociotechnical systems or their interactions.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:36:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:36:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:43",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal story regarding a child's development and health, with no relevance to DevOps principles or practices.",
+    "reasoning": "The content focuses entirely on a personal story about a child's health journey, with no references to DevOps principles, practices, or discussions. It does not mention any relevant topics such as collaboration, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T00:36:34",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 82.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences related to the author's son, which does not align with specific Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on a personal narrative about the author's son, Kaiden, and his developmental milestones, which does not reference any Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks. While it does not explicitly mention the category of 'Miscellaneous', it aligns well with the core themes of personal reflections and anecdotal experiences that do not provide actionable insights. The depth of discussion is moderate, as it includes updates and personal experiences, but lacks any technical or methodological content related to Agile practices.",
+    "level": "Primary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:36:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences related to a child's health and development, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:36:38",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no relevance to flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:36:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no focus on team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:36:42",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no focus on metrics, data, or learning principles.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content is primarily a personal blog post about the author's son and does not discuss Value Stream Management or related topics.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:36:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no reference to products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T00:36:55",
@@ -289,11 +217,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T00:36:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses personal experiences and reflections related to the author's son, Kaiden, and his development, which aligns with the Personal category.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the author's personal experiences and reflections regarding their son, Kaiden, and his development. It includes anecdotes about his progress and concerns, which align with the Personal category's emphasis on individual insights and experiences. However, while it touches on personal themes, it lacks a direct connection to Agile, Scrum, or DevOps methodologies, which diminishes its overall alignment with the category's core themes. The depth of discussion is moderate, providing personal context but not delving into broader implications or insights related to Agile practices.",
     "level": "Secondary"
   },
   "Systems Thinking": {
@@ -305,7 +236,7 @@
     "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:36:59",
     "ai_confidence": 0,
@@ -316,11 +247,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:37:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily a personal blog post about the author's son and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a personal story about a child's health journey, with no references to agile methodologies, product management, or the Agile Product Operating Model. It does not discuss any relevant principles or practices associated with the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +266,6 @@
     "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no relevance to organisational agility.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:37:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experiences and updates regarding the author's son, with no relevance to Agile, DevOps, or technology news and reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T00:37:05",
@@ -348,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily a personal blog post about the author's son and does not discuss any aspects of Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:37:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal experiences related to a child's development and health, with no mention of Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +286,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T01:18:07",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on personal experiences regarding a child and does not discuss the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:54:58",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences related to a child's health and development, with no relevance to Continuous Delivery principles or practices.",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on a personal story about a child's health journey, with no mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with the category's key themes or provide any depth on the subject.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T01:18:07",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a personal story regarding the author's son and includes various updates, with no relevance to the Definition of Ready in Agile.",
     "level": "Ignored"
   },
@@ -593,21 +512,12 @@
     "reasoning": "The content primarily discusses personal experiences regarding a child's health and development, with no relevance to software development practices or methodologies.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal updates about the author's son, with no relevance to Agile Project Management.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T01:18:07",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a personal story about a child's development and health issues, with no relevance to Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +611,6 @@
     "reasoning": "Content is primarily a personal story about a child named Kaiden and does not address customer satisfaction topics.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses personal experiences and family updates, with no mention of Scrum or its scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T01:18:07",
@@ -726,15 +627,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily a personal update about the author's son and does not discuss psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a personal story about a child and does not relate to scaling agility or agile practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +694,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T01:18:07",
+    "calculated_at": "2025-04-10T15:55:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a personal account related to the author's son, with no relevance to innovation capabilities or evidence-based management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily personal and unrelated to Scrum or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal life and experiences related to a child's health and growth, not on Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -1034,22 +908,13 @@
     "reasoning": "Content is primarily personal in nature, discussing the author's son and not related to digital transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T01:18:07",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily personal storytelling about a child and does not discuss Minimum Viable Products or relevant product development concepts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses personal updates about a child and is unrelated to AI, Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1099,11 +964,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:21:15",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about personal updates regarding the author's son and does not discuss Test First Development or related principles.",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on a personal narrative about a child's health journey, with no references to software development, testing practices, or the principles of Test First Development. It does not discuss success criteria, testing methodologies, or any related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1180,11 +1048,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal narrative regarding a child's development, with no relevance to Scrum Master responsibilities or discussions.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a personal story about a child's health journey, with no references to Scrum, the role of a Scrum Master, or any related concepts. It does not discuss any responsibilities, skills, or impacts associated with the Scrum Master role, nor does it touch on agile principles or team dynamics.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1074,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about personal experiences regarding the author's child and unrelated to working agreements or team collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a personal story concerning a child's health, with no relevance to software development or Agile/DevOps practices.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1193,6 @@
     "reasoning": "Content is primarily a personal update about a child's development and does not discuss accountability in Agile or in any relevant context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T01:18:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal experiences related to a family member and does not address any Kanban principles or concepts.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T01:18:07",
@@ -1360,11 +1213,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:59:17",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no mention of social technologies or relevant frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal narrative regarding Kaiden's health journey, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks any alignment with the core themes of the category, and the depth of discussion is minimal, as it does not address any relevant methodologies or practices related to social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1230,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences related to a child's development and health, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:31:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is primarily about a personal story regarding a child's health and development, with no relevance to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:31:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal experiences related to a child's health and development, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content is a personal blog post about a child's health and development, with no references to Scrum principles, roles, events, or practices. It does not discuss project management or Agile methodologies, which are central to the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content is a personal blog post about a child's development and health issues, with no mention or discussion of software development processes, testing, security, or compliance. It does not align with the Shift-Left Strategy in any way.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal narrative regarding Kaiden's health journey, with no explicit discussion of Continuous Improvement principles or practices. While there may be an implicit theme of progress in Kaiden's development, it does not align with the structured concepts of Continuous Improvement as defined, such as empirical evidence, data-driven decision-making, or organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal narrative about Kaiden's health journey, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the category's core themes and provides minimal detail relevant to the concept of shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal narrative about Kaiden's health journey, with no explicit discussion of competence, skill development, or related themes. While it touches on milestones, it does not align with the principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a personal narrative about Kaiden's health journey, with no explicit discussion of Agentic Agility or its principles. There are no mentions of autonomy, adaptability, or intentional shaping of outcomes, which are central to the category. The content lacks depth and alignment with the key topics outlined for Agentic Agility.",
     "level": "Ignored"
   }
 }

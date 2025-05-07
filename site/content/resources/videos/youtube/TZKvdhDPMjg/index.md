@@ -2,43 +2,41 @@
 title: One thing a client can do to ensure a successful Agile consulting engagement
 description: 'Discover the key action clients can take to empower their agile coaches for success in this insightful short video with Martin Hinshelwood. #Agile #Coaching'
 date: 2023-05-05T07:00:10Z
+weight: 790
 ResourceId: TZKvdhDPMjg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TZKvdhDPMjg
 source: internal
 url: /resources/videos/:slug
-slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
 layout: video
 preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
-- /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
-- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
-- /resources/videos/TZKvdhDPMjg
-- /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 - /resources/TZKvdhDPMjg
-aliasesFor404:
+- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
+- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
+aliasesArchive:
+- /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 - /resources/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
+- one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
+- /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Agile Project Management
-- Agile Transformation
-- Pragmatic Thinking
-- Coaching
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**
@@ -53,7 +51,7 @@ Never underestimate the power of provocation.  I know for sure that as an Agile
 
 Yes, you heard that right!
 
-I am here to push, nudge, and even elbow them towards a different way of thinking about their product development operations. 🔄👀
+I am here to push, nudge, and even elbow them towards a different way of thinking about their [product development]({{< ref "/categories/product-development" >}}) operations. 🔄👀
 
 It's key to get clients to just think about _what_ it is they're doing, _how_ they're doing it and _why_ they're doing it that way. 💡
 
@@ -71,7 +69,7 @@ It's all about asking the tough questions, such as:
 
 What are we doing?  How are we doing it?  Why are we doing it this way?  It's about paving the path towards more efficient, Agile ways of operating. 🎯
 
-Let's get you started on your Agile journey with our Agile and Scrum courses.
+Let's get you started on your Agile journey with our Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses.
 
 Get ready to provoke, question, and reinvent! 🚀
 
@@ -87,7 +85,7 @@ We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-Keywords:        Agile Consulting, Change Management, Agile Mindset,
+Keywords:        Agile Consulting, [Change Management]({{< ref "/tags/change-management" >}}), Agile Mindset,
 
 Hashtags:         #AgileConsulting #ChangeManagement #AgileMindset
 

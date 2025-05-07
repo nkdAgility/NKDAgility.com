@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T21:03:58",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of managing Live IDs for use with Visual Studio 2012 Team Foundation Service, including setup, configuration, and integration techniques.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T21:03:59",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:04:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T21:04:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, without addressing code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T21:04:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical setup and management of Live IDs with Visual Studio 2012 Team Foundation Service, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T21:04:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses managing Live IDs for Visual Studio 2012 Team Foundation Service, with no direct mention of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:04:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the process of setting up and configuring Live IDs for use with Visual Studio 2012 Team Foundation Service, providing actionable instructions and insights relevant to installation and configuration.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed guide on setting up and configuring Live IDs for use with Visual Studio 2012 Team Foundation Service. It includes step-by-step instructions on adding a custom domain, proving ownership, and integrating with the service, which aligns well with the key topics of installation and configuration. The discussion is primarily focused on practical implementation rather than theoretical aspects, thus meeting the criteria for the category.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T21:04:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, without addressing transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses the technical setup of Live IDs with Visual Studio 2012 Team Foundation Service without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T21:04:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical setup of Live IDs with Visual Studio 2012 Team Foundation Service, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:04:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, which does not align with core DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, which is more about user authentication and domain management rather than discussing DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks depth in relation to the core themes of DevOps such as collaboration, automation, or continuous improvement.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses the management and setup of Live IDs with Visual Studio 2012 Team Foundation Service, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T21:04:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T21:04:22",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T21:04:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of managing Live IDs with Visual Studio 2012 Team Foundation Service, without a focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T21:04:28",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, which does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T21:04:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, without focusing on any specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T21:04:42",
@@ -280,21 +208,27 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, which is part of Azure DevOps, but the primary focus is on managing Live IDs rather than Azure DevOps functionalities.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, which is part of Azure DevOps. However, the focus is primarily on managing Live IDs rather than on Azure DevOps functionalities or best practices. While it mentions Team Foundation Service, it lacks a comprehensive exploration of Azure DevOps services or methodologies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal experiences and insights related to managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, but the primary focus is on technical implementation rather than personal reflections on Agile or related methodologies.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing Live IDs with Visual Studio 2012 Team Foundation Service, lacking personal reflections or insights related to Agile, Scrum, or DevOps. While there are brief mentions of personal experiences, they do not provide substantial depth or alignment with the core themes of the Personal category.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -305,22 +239,25 @@
     "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, without any focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T21:04:49",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, which is not related to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T21:04:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses managing Live IDs for Visual Studio 2012 Team Foundation Service, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any of the key topics outlined in the APOM category. The focus is on user authentication and domain management, which does not align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +269,6 @@
     "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T21:04:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup and management of Live IDs with Visual Studio 2012 Team Foundation Service, lacking a focus on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T21:04:55",
@@ -348,15 +276,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, which does not align with the core principles of Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:04:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no mention of Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +289,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses managing Live IDs with Visual Studio and Team Foundation Service, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating corporate IDs with Visual Studio 2012 Team Foundation Service and mentions aspects of account management and API integration, which aligns with software development practices, though it primarily focuses on a specific implementation rather than broader principles of technical mastery.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, which is more focused on user management and domain setup rather than software craftsmanship or engineering practices. While it touches on some technical aspects, such as API integration and user authentication, it lacks a deep exploration of best practices, principles of clean code, or methodologies that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +319,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on using Corporate IDs with Visual Studio 2012 Team Foundation Service and does not address Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses managing Live IDs for Visual Studio 2012 Team Foundation Service, which is focused on user authentication rather than Continuous Delivery practices. There are no direct mentions of Continuous Delivery principles, automation, or related strategies. The discussion lacks depth in any relevant Continuous Delivery topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +358,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about managing Live IDs and their integration with Visual Studio, without any significant discussion related to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -496,10 +421,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses corporate control of Live IDs and their integration with Visual Studio Team Foundation Service, which is not related to Scrum Teams or their dynamics.",
     "level": "Ignored"
   },
@@ -559,10 +484,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service and does not address team performance, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -586,28 +511,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses integrating Live IDs with Visual Studio 2012 Team Foundation Service, which relates to a specific aspect of software development team management and user authentication within a development environment.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of Live IDs related to Visual Studio Team Foundation Service without any reference to agile principles, methodologies, or practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, which is related to software development practices, particularly in the context of user authentication and management within a development environment. However, the discussion lacks depth and does not cover broader software development methodologies or best practices, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on setting up Live IDs for Visual Studio and does not discuss Agile values, principles, or methodologies.",
     "level": "Ignored"
   },
@@ -622,19 +541,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, without a focus on version control practices or methodologies.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on managing Live IDs for access control in Visual Studio 2012 Team Foundation Service, with no mention of empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -658,19 +577,22 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of Live IDs with Visual Studio 2012 Team Foundation Service, which is a tool for collaboration in software development. However, the primary focus is on managing Live IDs rather than collaboration features or Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, which is a collaboration tool. However, the focus is primarily on managing Live IDs rather than on enhancing team communication or coordination. While it touches on aspects of user management within a collaborative environment, it lacks a comprehensive exploration of collaboration tools or their integration with Agile methodologies.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical setup and usage of Live IDs with Visual Studio, which is unrelated to organisational change processes or strategies.",
     "level": "Ignored"
   },
@@ -701,15 +623,6 @@
     "reasoning": "Content primarily discusses the technical implementation of using Live IDs with Visual Studio Team Foundation Service, without any clear discussion on customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses managing Live IDs with Visual Studio 2012 Team Foundation Service, which is unrelated to Scaling Scrum or its principles.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T00:54:05",
@@ -726,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical setup and management of Live IDs and Visual Studio Team Foundation Service without any reference to psychological safety or related themes.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on corporate management of Live IDs and authentication within Visual Studio Team Foundation Service, without any discussion of scaling agility or agile practices.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,12 +688,12 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:08",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses a workaround for managing Live IDs within Visual Studio 2012 Team Foundation Service, but it primarily focuses on a specific technical setup without broader implications for Agile, Scrum, or DevOps methodologies. It lacks discussion on practical problem-solving strategies or real-world applications pertinent to these frameworks.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +706,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses managing Live IDs with Visual Studio, which is not related to the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Live ID management and authentication with Visual Studio Team Foundation Service, with no references to Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing Live IDs and their use with Visual Studio 2012 Team Foundation Service, without reference to Agile practices or scaling Agile methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -883,10 +769,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses managing user accounts and authentication with Visual Studio 2012 Team Foundation Service, which is unrelated to Continuous Integration practices.",
     "level": "Ignored"
   },
@@ -964,10 +850,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical aspects and practices related to Visual Studio and Live IDs but does not mention the Product Owner role or responsibilities.",
     "level": "Ignored"
   },
@@ -1000,19 +886,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on managing Live IDs with Visual Studio 2012 and does not discuss change management strategies or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the management and configuration of Live IDs for use with Visual Studio 2012 Team Foundation Service, with no focus on teamwork, collaboration techniques, or Agile principles.",
     "level": "Ignored"
   },
@@ -1034,7 +920,7 @@
     "reasoning": "Content primarily discusses the technical setup of Live IDs with Visual Studio 2012 Team Foundation Service, without focusing on the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:54:05",
     "ai_confidence": 0,
@@ -1043,22 +929,16 @@
     "reasoning": "The content primarily discusses managing Live IDs and integrating them with Visual Studio Team Foundation Service, with no mention or focus on Minimum Viable Products, product development, or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses managing Live IDs and integrating them with Visual Studio Team Foundation Service without focusing on AI concepts or applications.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the configuration of custom Live IDs for use with Visual Studio 2012 Team Foundation Service, detailing processes and methodologies for setting up user authentication and domain management, which aligns closely with system configuration principles.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the configuration of Live IDs for use with Visual Studio 2012 Team Foundation Service, which aligns with system configuration practices. It details the steps for setting up a custom domain, managing user accounts, and integrating with services, which are all relevant to system configuration. However, while it provides practical insights, the depth of technical detail could be improved, and some sections veer into personal anecdotes rather than strictly technical discussions.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1099,21 +979,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on managing Live IDs with Visual Studio Team Foundation Service and does not discuss Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses managing Live IDs for Visual Studio 2012 Team Foundation Service, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on related topics.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, which is used within the Windows ecosystem. While not entirely focused on Windows OS itself, it does touch on aspects relevant to Windows users, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the use of Live IDs with Visual Studio 2012 Team Foundation Service, which is a specific application rather than the Windows operating system itself. While it mentions Windows Live IDs, the focus is on managing Live IDs and their integration with Visual Studio, rather than on Windows installation, configuration, or troubleshooting. The discussion lacks depth regarding Windows-specific features or issues, leading to a low confidence score in alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1135,10 +1021,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:54:05",
+    "calculated_at": "2025-04-10T15:55:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical details regarding the use of Live IDs with Visual Studio 2012 Team Foundation Service, without addressing themes related to team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1180,11 +1066,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Live IDs with Visual Studio and Team Foundation Service, with no mention of Scrum, Scrum Master roles, or related Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on managing Live IDs and user authentication within Visual Studio 2012 Team Foundation Service, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not discuss Scrum principles, team dynamics, or any responsibilities associated with a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1092,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on managing Live ID's and their integration with Visual Studio 2012 Team Foundation Service, without discussing working agreements or teamwork principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, without focusing on Agile, DevOps, or modern engineering practices related to software development.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1211,6 @@
     "reasoning": "Content discusses managing Live IDs and domains for Visual Studio, with no focus on team dynamics, ownership, or accountability principles in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses managing corporate IDs and authentication with Visual Studio Team Foundation Service, not related to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:54:05",
@@ -1360,11 +1231,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:53:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, which is unrelated to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, which is a technical topic related to user authentication rather than discussions on collaboration, decision-making, or value delivery. There are no direct mentions of social technologies or their principles, and the depth of discussion is limited to technical setup without addressing any underlying social frameworks.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1248,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to managing Live IDs with Visual Studio 2012 Team Foundation Service, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:26:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, without a clear focus on Internal Developer Platforms or their benefits and architecture.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:26:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the management of Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no direct references to Scrum principles, roles, events, or practices. It lacks any substantial discussion on Agile methodologies or team dynamics, which are core to the Scrum framework.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses managing Live IDs and their integration with Visual Studio 2012 Team Foundation Service, with no mention of testing, security, or compliance processes. It does not align with the core themes of the Shift-Left Strategy, which focuses on early integration of critical processes in software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, with no explicit discussion of Continuous Improvement principles. While it touches on user management and authentication, it lacks alignment with the core themes of Continuous Improvement, such as empirical evidence, experimentation, or team effectiveness. The depth of discussion is minimal and does not provide insights into strategies or frameworks related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on user management, it lacks alignment with the core themes of shared objectives and strategic alignment, and does not provide depth on how these concepts relate to team collaboration or organisational performance.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on managing Live IDs for Visual Studio 2012 Team Foundation Service, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of user management and authentication, these do not align with the core themes of continuous learning, skill development, or fostering a culture of competence. The discussion lacks depth and does not provide substantial insights into competence as defined in the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on managing Live IDs within Visual Studio 2012 Team Foundation Service, discussing technical aspects of user authentication and domain management. It does not address the concept of Agentic Agility, nor does it explore themes of intentionality, autonomy, or adaptability in the context of human or AI agency.",
     "level": "Ignored"
   }
 }

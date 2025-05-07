@@ -2,38 +2,41 @@
 title: 'Unlocking Potential: How Immersive Learning Transforms Careers and Organisations'
 description: Unlock your potential with immersive learning! Discover how hands-on training transforms careers and boosts organisational success. Start your journey today!
 date: 2023-07-13T12:16:15Z
+weight: 1000
 ResourceId: NKQr8oGO8lg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: NKQr8oGO8lg
 url: /resources/videos/:slug
-slug: how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
+slug: unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 layout: video
 aliases:
-- /resources/videos/NKQr8oGO8lg
-- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
-- /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
 - /resources/NKQr8oGO8lg
-aliasesFor404:
+- /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
+aliasesArchive:
+- /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
+- /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
+- unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 isShort: false
-tags:
-- Discovery and Learning
-- Value Delivery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-When it comes to professional development, the value of immersive learning cannot be overstated. As someone who has been deeply involved in training and coaching, I’ve seen firsthand how transformative these experiences can be—not just for individuals, but for entire organisations. 
+When it comes to professional development, the value of immersive learning cannot be overstated. As someone who has been deeply involved in training and [coaching]({{< ref "/tags/coaching" >}}), I’ve seen firsthand how transformative these experiences can be—not just for individuals, but for entire organisations. 
 
 ### The Company Perspective: Investing in People
 
@@ -42,8 +45,8 @@ From the standpoint of a company sending employees to a course, the benefits are
 Here’s why this is crucial:
 
 - **Real-World Application**: We focus on helping your team apply what they learn, ensuring that the knowledge gained translates into tangible improvements within your organisation.
-- **Value Delivery**: Each module in the course is designed to deliver value. Imagine seven distinct opportunities for your team to implement what they’ve learned, driving positive change from the outset.
-- **Long-Term Impact**: This isn’t just a one-off training session; it’s the beginning of a longer journey towards continuous improvement and agility within your organisation.
+- **[Value Delivery]({{< ref "/tags/value-delivery" >}})**: Each module in the course is designed to deliver value. Imagine seven distinct opportunities for your team to implement what they’ve learned, driving positive change from the outset.
+- **Long-Term Impact**: This isn’t just a one-off training session; it’s the beginning of a longer journey towards [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and agility within your organisation.
 
 ### The Individual Perspective: Becoming an Expert
 

@@ -2,47 +2,44 @@
 title: No go zone for Agile consultants
 description: 'Discover common pitfalls for new agile consultants and learn how to excel in your role with expert insights from Martin Hinshelwood. #Agile #Consulting #Shorts'
 date: 2023-05-10T09:30:14Z
+weight: 665
 ResourceId: ZnXrAarX1Wg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ZnXrAarX1Wg
 source: internal
 url: /resources/videos/:slug
-slug: no-go-zone-for-agile-consultants
+slug: no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 layout: video
 preview: https://i.ytimg.com/vi/ZnXrAarX1Wg/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/no-go-zone-for-agile-consultants
-- /resources/videos/no-go-zone-for-agile-consultants-
-- /resources/videos/ZnXrAarX1Wg
-- /resources/no-go-zone-for-agile-consultants-
 - /resources/ZnXrAarX1Wg
-aliasesFor404:
+- /resources/videos/no-go-zone-for-agile-consultants-ZnXrAarX1Wg
+aliasesArchive:
+- /resources/videos/no-go-zone-for-agile-consultants
 - /resources/no-go-zone-for-agile-consultants
 - /resources/videos/no-go-zone-for-agile-consultants-
 - /resources/no-go-zone-for-agile-consultants-
+- no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Agile Project Management
-- Agile Transformation
-- Software Development
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 **No go zone for Agile consultants**
 
 Being an Agile Consultant Goes Beyond Being a Coach
 
-A common mistake Agile Consultants make is to concentrate on the coaching aspect.  Sure, coaching is an important aspect, but only assuming that your client knows exactly what they need to change for success is a common pitfall. 🤔
+A common mistake Agile Consultants make is to concentrate on the [coaching]({{< ref "/tags/coaching" >}}) aspect.  Sure, coaching is an important aspect, but only assuming that your client knows exactly what they need to change for success is a common pitfall. 🤔
 
 The truth is, as an Agile Consultant, you need to teach and, occasionally, dictate, which some consultants may find hard to do.   
 
@@ -58,7 +55,7 @@ Let's be honest, if you don't make suggestions on different ways of doing things
 
 Whether you are new to Agile Consulting or want to level up your game, you'll definitely be giving options and suggesting different ways to do things.  As an Agile Consultant, you will be encouraging these different ways and organisations.
 
-Check out my Agile and Scrum courses to gain more insights into the essence of being an Agile Consultant. 📚
+Check out my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses to gain more insights into the essence of being an Agile Consultant. 📚
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
@@ -72,7 +69,7 @@ We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-Keywords:        Agile Consulting, Coaching, Teaching, Organisational Change.
+Keywords:        Agile Consulting, Coaching, Teaching, [Organisational Change]({{< ref "/tags/organisational-change" >}}).
 
 Hashtags:         #AgileConsulting #Coaching #Teaching #Change
 

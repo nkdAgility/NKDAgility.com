@@ -2,8 +2,10 @@
 title: How did you know you were ready to transition from DevOps practitioner to DevOps Consultant?
 description: Discover Martin Hinshelwood's journey from DevOps practitioner to consultant, exploring mastery through empowering others in this insightful video.
 date: 2023-05-04T07:00:19Z
+weight: 840
 ResourceId: sb9RsFslUfU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sb9RsFslUfU
@@ -15,32 +17,27 @@ preview: https://i.ytimg.com/vi/sb9RsFslUfU/maxresdefault.jpg
 duration: 186
 isShort: false
 aliases:
-- /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
-- /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
-- /resources/videos/sb9RsFslUfU
-- /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 - /resources/sb9RsFslUfU
-aliasesFor404:
+- /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
+aliasesArchive:
+- /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 - /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
+- how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Personal
+tags: []
 resourceTypes:
 - video
 categories:
-- DevOps
-- Scrum
-- Leadership
+- Uncategorized
 
 ---
 ## From Practitioner to Consultant
 
-When asked how I knew I was poised for the leap from DevOps practitioner to consultant, my initial instinct and honest answer was that I didn't have a definitive 'Aha!' moment.
+When asked how I knew I was poised for the leap from [DevOps]({{< ref "/categories/devops" >}}) practitioner to consultant, my initial instinct and honest answer was that I didn't have a definitive 'Aha!' moment.
 
 It's complicated, yet, in retrospect, there were signals and undercurrents.
 
@@ -96,8 +93,8 @@ Here's the blueprint:
 
 \- Share Your Insights: Voice Your Thought Process, be it through blog posts or discussions, and let the world glimpse your knowledge reservoir.
 
-\- Engage and Enlighten: When people start seeking your counsel and lean into your insights, that's a telling sign.  It signals you're not just proficient; you're influential.
+\- Engage and Enlighten: When people start seeking your counsel and [lean]({{< ref "/categories/lean" >}}) into your insights, that's a telling sign.  It signals you're not just proficient; you're influential.
 
 And as I always believe, it's not about _readiness_.  It's about being seen, being of value, and having a unique narrative to share.
 
-Together, let's dive into the intricacies of Agile and Scrum with my courses and set your trajectory towards excellence.
+Together, let's dive into the intricacies of Agile and [Scrum]({{< ref "/categories/scrum" >}}) with my courses and set your trajectory towards excellence.

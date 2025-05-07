@@ -2,8 +2,10 @@
 title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
 description: "Uncover the truth behind say-do metrics in Agile! Join Martin as he reveals pitfalls and shares insights for genuine outcomes. \U0001F680\U0001F4CA #Agile #Transparency"
 date: 2024-01-05T07:00:28Z
+weight: 480
 ResourceId: oKZ9bbESCok
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: oKZ9bbESCok
@@ -15,36 +17,39 @@ preview: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
 duration: 411
 isShort: false
 aliases:
-- /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
-- /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
-- /resources/videos/oKZ9bbESCok
-- /resources/5-kinds-of-agile-bandits-say-do-metrics
 - /resources/oKZ9bbESCok
-aliasesFor404:
+- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
+- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
+aliasesArchive:
+- /resources/videos/say-do-metrics-avoiding-agile-banditry-in-your-organization
 - /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
 - /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
 - /resources/5-kinds-of-agile-bandits-say-do-metrics
+- /resources/videos/5-kinds-of-agile-bandits-saydo-metrics
+- say-do-metrics-avoiding-agile-banditry-in-your-organization
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
-- People and Process
-- Agile Project Management
-- Psychological Safety
 - Agile Philosophy
-- Organisational Agility
+- Value Delivery
+- Transparency
+- Metrics and Learning
 - Software Development
+- Agile Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Psychological Safety
+- Evidence Based Management
+- Team Performance
 - Pragmatic Thinking
-- Agile Product Management
-- Transparency and Accountability
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-In Agile environments, there’s often a temptation to rely on metrics that seem to offer clarity and control over a project’s progress. One such metric is the "say-do" metric, which measures what a team says they will do versus what they actually accomplish. While this may appear useful on the surface, it's often a slippery slope that leads to vanity metrics, reduced psychological safety, and, ultimately, a focus on outputs rather than outcomes.
+In Agile environments, there’s often a temptation to rely on metrics that seem to offer clarity and control over a project’s progress. One such metric is the "say-do" metric, which measures what a team says they will do versus what they actually accomplish. While this may appear useful on the surface, it's often a slippery slope that leads to vanity metrics, reduced [psychological safety]({{< ref "/tags/psychological-safety" >}}), and, ultimately, a focus on outputs rather than outcomes.
 
 In this post, we’ll explore the dangers of say-do metrics, why focusing on outcomes is critical, and how to steer clear of what I call **Agile banditry**. Let’s dive in.
 
@@ -54,7 +59,7 @@ Say-do metrics compare a team’s estimated project outcomes with the actual res
 
 ### **A Real-Life Example of Misleading Metrics**
 
-Let me share an example from an organization I worked with many years ago. The head of the PMO (Project Management Office) proudly showed me a presentation of metrics sent to leadership. The data compared original estimates with actuals for five ongoing projects, each in the thousands of hours range.
+Let me share an example from an organization I worked with many years ago. The head of the PMO ([Project Management]({{< ref "/tags/project-management" >}}) Office) proudly showed me a presentation of metrics sent to [leadership]({{< ref "/categories/leadership" >}}). The data compared original estimates with actuals for five ongoing projects, each in the thousands of hours range.
 
 - All five projects were within a **20% margin** between estimated and actual time.
 
@@ -92,7 +97,7 @@ Here’s what happens:
 
 - The focus shifts from **outcomes** to merely ticking off boxes.
 
-This lack of transparency and manipulation of data fosters a culture of fear. If you’re not delivering exactly what you promised, you're seen as a failure, even if you delivered something far more valuable.
+This lack of [transparency]({{< ref "/tags/transparency" >}}) and manipulation of data fosters a culture of fear. If you’re not delivering exactly what you promised, you're seen as a failure, even if you delivered something far more valuable.
 
 ### **🚫** **Avoid Agile Banditry**
 
@@ -110,7 +115,7 @@ However, focusing too much on outputs can lead to situations where teams priorit
 
 Outcomes, on the other hand, are the **value** derived from the work. It’s not just about completing 10 features; it’s about delivering 9 that are incredibly valuable to the end-user or stakeholder. When we shift our focus from outputs to outcomes, we measure success based on the **impact** of our work, not just the completion of it.
 
-Let me share an example from my time at an MVP Summit at Microsoft. One year, our group of MVPs spent days determining the five most valuable features that we believed Microsoft should develop for Azure DevOps.
+Let me share an example from my time at an MVP Summit at Microsoft. One year, our group of MVPs spent days determining the five most valuable features that we believed Microsoft should develop for Azure [DevOps]({{< ref "/categories/devops" >}}).
 
 The following year, Brian Harry, a key figure at Microsoft, took the stage and said something that initially surprised us: "Of the five things you said were the best things we could build, we built none of them."
 
@@ -138,7 +143,7 @@ Instead of measuring tasks completed or hours worked, focus on the value deliver
 
 Allow teams the flexibility to adapt to changing circumstances. Agile is all about **responding to change**. Strictly adhering to say-do metrics leaves little room for the iteration and improvement that Agile thrives on.
 
-### **4\. Continuous Improvement**
+### **4\. [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
 
 Encourage teams to focus on **continuous improvement** rather than just hitting arbitrary targets. Celebrate the learning and adaptations that come from not getting things perfect the first time.
 

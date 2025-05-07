@@ -1,0 +1,3 @@
+I think the main critical skill for a scrum master is to be able to teach and teach things in a way that help people understand what it is not just the mechanics of how to do it. So actually teaching people and I think the why is that most people will resist things unless they understand why they should be doing a thing. What value do they get from it? 
+
+Um, so being able to teach the fundamentals and have people understand, they'll often come to the realisation that they need to do something different themselves.

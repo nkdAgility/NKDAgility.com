@@ -2,41 +2,39 @@
 title: 2-day PSPO Versus 8-week PSPO
 description: 'Discover the key differences between the 2-day and 8-week PSPO courses in this short video with Martin Hinshelwood. Elevate your Scrum journey! #PSPO #Scrum'
 date: 2023-06-07T07:00:14Z
+weight: 1000
 ResourceId: N3LSpL-N3kY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: N3LSpL-N3kY
 source: internal
 url: /resources/videos/:slug
-slug: 2-day-pspo-versus-8-week-pspo
+slug: 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
 layout: video
 preview: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg
 duration: 52
 isShort: true
 aliases:
-- /resources/2-day-pspo-versus-8-week-pspo
-- /resources/videos/2-day-pspo-versus-8-week-pspo
-- /resources/videos/N3LSpL-N3kY
 - /resources/N3LSpL-N3kY
-aliasesFor404:
-- /resources/2-day-pspo-versus-8-week-pspo
+- /resources/videos/2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
+aliasesArchive:
+- /resources/videos/-day-pspo-versus-week-pspo
 - /resources/videos/2-day-pspo-versus-8-week-pspo
+- /resources/2-day-pspo-versus-8-week-pspo
+- 2-day-pspo-versus-8-week-pspo-N3LSpL-N3kY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Product Owner
-- Discovery and Learning
+tags: []
 resourceTypes:
 - video
 categories:
-- Product Management
-- Social Technologies
-- Scrum
+- Uncategorized
 
 ---
-## The Product Owner Journey
+## The [Product Owner]({{< ref "/tags/product-owner" >}}) Journey
 
 Journeying through Product Owner training and navigating the vast landscape of Product Owner courses can be daunting.
 
@@ -114,4 +112,4 @@ It boils down to your learning style, pace, and how you wish to integrate this k
 
 Hungry for More Agile Insights?
 
-Join me on my Agile and Scrum courses, where we unpack these discussions further, ensuring you're equipped with the knowledge to make informed decisions for your Agile journey.
+Join me on my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses, where we unpack these discussions further, ensuring you're equipped with the knowledge to make informed decisions for your Agile journey.

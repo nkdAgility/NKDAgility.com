@@ -2,8 +2,10 @@
 title: What is your best advice for becoming a Scrum Master outside software engineering?
 description: "Unlock the secrets to becoming a Scrum Master beyond software! Join Martin as he shares essential tips for leading teams in any field. \U0001F30D\U0001F680 #Scrum #Agile"
 date: 2023-03-08T07:00:04Z
+weight: 790
 ResourceId: DWOh_hRJ1uo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DWOh_hRJ1uo
@@ -15,42 +17,33 @@ preview: https://i.ytimg.com/vi/DWOh_hRJ1uo/maxresdefault.jpg
 duration: 202
 isShort: false
 aliases:
-- /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
-- /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering
-- /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
-- /resources/videos/DWOh_hRJ1uo
-- /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
 - /resources/DWOh_hRJ1uo
-aliasesFor404:
+- /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
+- /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering
+aliasesArchive:
+- /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering
 - /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
+- /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering
+- what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Personal
 - Scrum Master
-- Agile Frameworks
-- People and Process
-- Agile Project Management
-- Discovery and Learning
-- Professional Scrum
-- Continuous Learning
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
-**What is your best advice for becoming a Scrum Master outside software engineering?**
+**What is your best advice for becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master outside software engineering?**
 
-I'm a Lean-Agile & DevOps Consultant at NKD Agility, and I've spent countless hours navigating the intricate pathways of the Agile world! 🌎 My journey has given me a treasure trove of insights and experiences, which I am always eager to share.
+I'm a [Lean]({{< ref "/categories/lean" >}})-Agile & [DevOps]({{< ref "/categories/devops" >}}) Consultant at NKD Agility, and I've spent countless hours navigating the intricate pathways of the Agile world! 🌎 My journey has given me a treasure trove of insights and experiences, which I am always eager to share.
 
-If you've ever wondered about the whys and hows of pursuing a certification path in your career, you're not alone. The question 💭pops up quite often, especially when it comes to becoming a Scrum Master outside of the realm of software engineering. 🤔
+If you've ever wondered about the whys and hows of pursuing a certification path in your career, you're not alone. The question 💭pops up quite often, especially when it comes to becoming a [Scrum Master]({{< ref "/tags/scrum-master" >}}) outside of the realm of software engineering. 🤔
 
 Perhaps you've been thinking about this, looking for guidance, or just curious about the potential routes you can explore in your Scrum journey.
 

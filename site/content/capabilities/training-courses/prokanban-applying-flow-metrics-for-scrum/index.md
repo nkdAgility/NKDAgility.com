@@ -4,7 +4,9 @@ description: Unlock the power of flow metrics in Scrum! This immersive course en
 ResourceId: Ej_UgfRAGhZ
 ResourceImport: true
 ResourceType: course
+ResourceContentOrigin: human
 date: 2024-01-12
+weight: 500
 creator: Martin Hinshelwood
 type: course
 slug: applying-flow-metrics-for-scrum
@@ -14,7 +16,7 @@ aliases:
 - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
 - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
 - /resources/Ej_UgfRAGhZ
-aliasesFor404:
+aliasesArchive:
 - /training-courses/applying-flow-metrics-for-scrum/
 - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
 - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
@@ -29,19 +31,28 @@ delivery-audiences:
 - Product Owners
 - Lean Agile Practitioners
 tags:
-- Metrics and Learning
 - Flow Efficiency
-- Scrum Product Development
-- Practical Techniques and Tooling
-- Throughput
-- Cycle Time
-- Team Performance
-- Scrum Team
+- Metrics and Learning
+- Agile Frameworks
+- Agile Planning
 - Agile Product Management
+- Agile Transformation
+- Cycle Time
+- Empirical Process Control
+- Forecasting
+- Operational Practices
+- Pragmatic Thinking
+- Professional Scrum
+- Scrum Team
+- Software Development
+- Team Performance
+- Throughput
 - Value Delivery
+- Product Backlog
+- Scrum Master
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg
 previewIcon: AFMS.png
 brandColour: 

@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T19:43:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses influential figures in Agile and their impact on Agile practices, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it touches on aspects of collaboration and influence within Agile, it lacks a direct discussion on social technologies as defined in the category. The content does not delve into methodologies or frameworks that promote collaboration or decision-making in a structured way, which diminishes its alignment with the core themes of social technologies.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T19:43:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and influential figures in the Agile community, with no clear focus on DevOps practices or principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile and its influential figures, with no direct mention of DevOps principles or practices. While there may be some conceptual overlap between Agile and DevOps, the discussion does not align with the core themes of DevOps, such as automation, shared accountability, or continuous improvement. The depth of discussion is also minimal, as it centres on personal insights rather than DevOps-related content.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -37,12 +43,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T19:43:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses influential figures in Agile, particularly focusing on Simon Randell's facilitation and communication skills, which are relevant to leadership in Agile contexts. However, the primary focus is on individual influence rather than broader leadership practices.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions an influential figure in Agile, but it lacks a direct discussion on leadership practices or strategies. While it touches on personal connections and admiration, it does not delve into the core themes of leadership, such as fostering organisational agility or inspiring teams. The focus is more on an individual's influence rather than on leadership as a practice.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -64,10 +73,10 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T19:43:41",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an influential figure in Agile rather than discussing Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
@@ -82,29 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T19:43:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an individual influencer in Agile rather than discussing Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T19:43:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile influencers and their impact on Agile practices, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T19:43:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile influencers and their impact, with no focus on Scaling Kanban principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses personal insights and communication styles rather than evidence-based management practices. There are no direct mentions of EBM concepts or metrics, and the discussion lacks depth in relation to data-informed decision-making or empirical evidence.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,12 +112,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T19:43:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses influential figures in Agile, particularly focusing on Simon Randell's impact and approach, which relates to Agile principles and practices, but does not primarily explore Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions an influential figure in Agile, specifically related to Scrum, but lacks a comprehensive discussion on Agile frameworks or their principles. It does not explore the frameworks themselves or their applications, focusing instead on personal anecdotes without delving into the core themes of Agile methodologies.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +133,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T19:43:53",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on influential figures in Agile rather than discussing the Definition of Ready.",
     "level": "Ignored"
   },
@@ -150,15 +147,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on an individual influencer in Agile rather than discussing trends or their implications in Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T19:43:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an individual influencer in Agile rather than discussing scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -233,15 +221,6 @@
     "reasoning": "Content primarily focuses on influential figures in Agile rather than the methodologies and practices of product delivery.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T19:44:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses influential figures in Agile without any mention of AI or its integration within Agile methodologies.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
     "calculated_at": "2025-02-17T19:44:11",
@@ -251,15 +230,6 @@
     "reasoning": "Content heavily discusses Agile influencers and their impact on Agile practices, without a clear focus on digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T19:44:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the influence of a key individual in Agile, focusing on communication, facilitation, and the human aspects of Agile methodologies.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T19:44:13",
@@ -268,15 +238,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile influencers and their impact, with no mention of Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T19:44:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses influential figures in Agile and their impact on Agile practices, but it does not delve deeply into specific Agile methodologies or principles.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +257,6 @@
     "reasoning": "Content primarily focuses on influential figures in Agile and their personal impact rather than discussing accountability within teams.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T19:44:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on influential figures in Agile rather than discussing transparency and accountability principles.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T19:44:20",
@@ -312,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile influencers and their impact, without a focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T19:44:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses influential figures in Agile, focusing on personal experiences and communication styles rather than the principles or implementation of the One Engineering System.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -352,39 +295,48 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T19:44:26",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses influential figures in Agile rather than Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T19:44:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on influential figures in Agile rather than the specific role and responsibilities of a Scrum Master.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses influential figures in Agile, particularly focusing on Simon Randell's facilitation and communication skills, which are relevant to the Scrum Master role. However, it lacks a direct focus on the specific responsibilities and impact of a Scrum Master within a Scrum Team. While there are mentions of facilitation and Agile principles, the overall discussion is more about personal influence and inspiration rather than a detailed exploration of the Scrum Master role itself.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T19:44:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses influential figures in Agile and their impact on Agile practices, but it does not primarily focus on Agile Planning methodologies or techniques.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions an influential figure in Agile, specifically related to Scrum, but does not delve into Agile Planning principles or practices. It lacks a focus on methodologies, techniques, or strategies relevant to Agile Planning, making it more of a personal anecdote rather than a discussion on the category.",
+    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T19:44:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses influential figures in Agile and their impact on Agile thinking, but it primarily focuses on an individual rather than the core values and principles of Agile itself.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions an influential figure in Agile, but it primarily focuses on personal anecdotes rather than discussing Agile values or principles. There is minimal direct mention of Agile concepts, and the alignment with core themes is weak, as it does not delve into the foundational beliefs or guiding principles of Agile methodologies.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -397,11 +349,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T19:44:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses influential figures in Agile and their impact, with no focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. There is no direct mention of Test First Development principles, success criteria, or testing practices. The discussion is more about Agile philosophy and personal insights rather than the specific practices of Test First Development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,21 +415,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T19:44:44",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on influential figures in Agile and their communication styles, rather than on measuring or improving innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T19:44:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses influential figures in Agile and their impact on Agile practices, making it a major but secondary theme rather than a primary focus on Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions an influential figure in Agile, specifically related to Scrum, but lacks a comprehensive discussion on Agile transformation principles, methodologies, or strategies. It does not delve into the core themes of Agile transformation, such as change management or leadership roles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -496,29 +454,11 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T19:44:51",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses influential figures in Agile rather than the specific Scrum Values.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T19:44:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses influential figures in Agile without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T19:44:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses influential figures in Agile rather than practical techniques or tooling.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -541,21 +481,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T19:44:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on personal reflections and experiences related to the influence of Simon Randell on the author's Agile journey, making it a significant personal narrative within the context of Agile.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on personal reflections and experiences related to an influential figure in Agile, Simon Randell. It discusses the author's admiration and the impact of Simon's facilitation and communication style on their own Agile journey, which aligns well with the Personal category. The author shares subjective insights and aspirations, providing a unique perspective on Agile methodologies. However, while the content is rich in personal anecdotes, it does not delve deeply into broader themes or challenges faced in Agile transformations, which slightly limits the depth of discussion.",
     "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T19:45:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an influential figure in Agile without reference to specific events or presentations.",
-    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -577,20 +511,11 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T19:45:05",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses influential figures in Agile rather than specific Scrum Team dynamics or roles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T19:45:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on an individual influencer in Agile rather than discussing strategies or practices for scaling agility across organisations.",
+    "reasoning": "Content primarily discusses influential figures in Agile rather than specific Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -613,11 +538,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T19:45:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile influencers and their impact, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, with no direct mention of Continuous Delivery principles or practices. While Agile methodologies may relate to software delivery, the discussion lacks specific references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The content is more about personal insights and experiences in Agile rather than exploring Continuous Delivery as a disciplined practice.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -658,14 +586,14 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T19:45:16",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on influential figures in Agile rather than discussing the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T19:45:17",
     "ai_confidence": 0,
@@ -683,15 +611,6 @@
     "reasoning": "Content heavily discusses Agile influencers and methodologies, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T19:45:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the influence of a key figure in Agile and touches on learning and emulation of Agile principles, but it primarily focuses on the individual rather than broader discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T19:45:21",
@@ -703,11 +622,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T19:45:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on influential figures in Agile rather than the Agile Product Operating Model itself.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it mentions Agile, it does not delve into the Agile Product Operating Model or its principles, making it more of a secondary mention rather than a primary focus. The discussion lacks depth regarding the core themes of the Agile Product Operating Model, such as product management practices or operational governance.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -766,19 +688,19 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T19:45:31",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses influential figures in Agile and personal reflections on their impact, rather than structured decision-making methodologies.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T19:45:35",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses influential figures in Agile and personal reflections on their impact, without focusing on metrics, data, or learning methodologies.",
     "level": "Ignored"
   },
@@ -802,21 +724,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T19:45:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the influence of a mentor figure in Agile, highlighting communication and facilitation skills, which are relevant to mentoring, but the primary focus is on the individual rather than mentoring techniques or strategies.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T19:45:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on influential figures in Agile and their communication styles, with no mention of AI or automation.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the influence of Simon Randell in the Agile space, highlighting his facilitation and communication skills, which are relevant to mentoring. However, it primarily focuses on admiration and personal inspiration rather than providing direct mentoring techniques or strategies. While there are mentions of learning and emulating, the depth of discussion on mentoring practices is limited.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -847,12 +763,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T19:45:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses influential figures in Agile and their impact on Agile thinking, making Agile philosophy a major theme, but it primarily focuses on an individual rather than the broader principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on an influential figure in the Agile community, Simon Randell, and discusses his impact on Agile practices. While it mentions Agile and touches on aspects of communication and facilitation, it lacks a direct exploration of the foundational principles and values of Agile philosophy. The discussion is more about personal influence and inspiration rather than a deep dive into Agile as a mindset or ethos. Therefore, while there is some alignment with the Agile Philosophy, it does not fully meet the criteria for a primary focus.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -865,11 +784,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T19:46:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the influence of a key figure in Agile and highlights aspects of facilitation and communication that are relevant to coaching, but it primarily focuses on the individual's impact rather than coaching practices themselves.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it touches on aspects of coaching, such as guiding and inspiring others, it lacks a direct focus on coaching practices or techniques. The discussion is more about admiration for an individual rather than a detailed exploration of coaching as a practice, which limits its alignment with the core themes of the Coaching category.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -883,11 +805,14 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T19:46:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the influence of a key figure in Agile and touches on themes of learning and emulation, but it primarily focuses on the individual rather than broader principles of Continuous Learning.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his impact on the author's Agile journey. While there are mentions of learning and emulating Agile practices, the discussion lacks a strong emphasis on continuous learning principles, such as feedback loops or knowledge sharing techniques. The content does not delve deeply into the core themes of Continuous Learning, making it more of a secondary mention rather than a primary focus.",
     "level": "Tertiary"
   },
   "Azure Boards": {
@@ -919,11 +844,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T19:46:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses influential figures in Agile and their impact on Agile practices, but it does not focus specifically on Agile Product Management principles or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it touches on Agile principles, it lacks a direct focus on Agile Product Management practices such as backlog prioritisation or stakeholder engagement. The discussion is more about personal influence and inspiration rather than specific methodologies or practices that maximise product value.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -944,15 +872,6 @@
     "reasoning": "Content heavily discusses influential figures in Agile and personal experiences rather than Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T19:46:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an influential figure in Agile rather than discussing Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T19:46:15",
@@ -960,15 +879,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on an individual influencer in Agile rather than the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T19:46:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an influential figure in Agile rather than specific products or literature.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,20 +901,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T19:46:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses influential figures in Agile and their practical impact on Agile practices, but it primarily focuses on personal admiration rather than specific pragmatic problem-solving strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it touches on Agile principles, it lacks a strong emphasis on practical problem-solving strategies or real-world applications of Agile, Scrum, or DevOps. The discussion is more about admiration and inspiration rather than pragmatic techniques or case studies, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T19:46:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:48:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses influential figures in Agile and their impact, with no focus on Lead Time or related metrics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on influential figures in Agile, specifically highlighting Simon Randell's impact and communication style. There are no direct mentions of Lead Time, nor does it discuss its importance, measurement, or strategies for optimisation. The discussion is primarily about personal insights and experiences in Agile, which does not align with the core themes of Lead Time as an observability metric.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1063,12 +979,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T19:46:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the influence of a key figure in the Agile community, making it a major but secondary theme rather than a primary focus on software development practices.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on an influential figure in the Agile community rather than discussing Agile methodologies or practices in detail. While it mentions Agile and Scrum, the discussion is more about personal admiration and influence rather than a thorough exploration of Agile principles or practices. Therefore, while there is some alignment with the Software Development category, the depth and direct mentions are limited.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1115,15 +1034,6 @@
     "reasoning": "Content primarily focuses on influential figures in Agile rather than discussing cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T19:46:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the influence of a key figure in the Agile community, making it a major but secondary theme rather than a primary focus on software developers' roles.",
-    "level": "Tertiary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T19:46:42",
@@ -1144,10 +1054,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T19:46:45",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses influential figures in Agile rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1158,15 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses influential figures in Agile and their communication and facilitation skills, without focusing on the specific responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T19:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an individual's influence in the Agile community rather than providing news or reviews related to Agile methodologies or tools.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1207,12 +1108,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T19:46:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses influential figures in Agile, particularly focusing on Simon Randell's facilitation and communication skills, which are relevant to Agile leadership. However, it primarily centres on personal admiration and influence rather than direct leadership practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses influential figures in Agile, particularly focusing on Simon Randell's facilitation and communication skills, which are relevant to Agile leadership. However, it primarily highlights personal admiration and does not delve deeply into leadership strategies or the broader implications of Agile leadership principles. While there are mentions of facilitation and communication, the content lacks a comprehensive exploration of how these elements contribute to effective Agile leadership.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1243,21 +1147,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T19:46:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:48:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses influential figures in Agile rather than focusing on throughput measurement or optimisation.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses personal insights and communication styles rather than throughput as a delivery metric. There are no direct mentions of throughput, and the discussion does not align with the core themes of defining, calculating, or visualising throughput. The depth of discussion is also minimal regarding throughput, as it does not address any relevant metrics or analysis related to team delivery capacity.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T19:47:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile principles and mentions Scrum courses, indicating a significant but secondary theme related to Scrum.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1270,11 +1168,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T19:47:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T10:48:04",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile influencers and their impact, with no focus on system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on Agile methodologies and influential figures within that domain, with no mention or discussion of system configuration, tools, or practices related to system setup or maintenance. The themes of Agile and Scrum are not aligned with the core topics of system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,15 +1196,6 @@
     "reasoning": "Content heavily discusses Agile influencers and their impact, without focusing on product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T19:47:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses influential figures in Agile rather than focusing on Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T19:47:07",
@@ -1315,20 +1207,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T19:47:08",
+    "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on influential figures in Agile rather than discussing the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T19:47:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses influential figures in Agile and their impact on Agile practices, which is a major theme, but it does not focus on strategic alignment or implementation of Agile methodologies at scale.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it touches on Agile principles, it lacks a direct discussion on Agile strategy, implementation at scale, or organisational alignment. The content is more about personal influence and inspiration rather than strategic planning or execution, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Increment": {
@@ -1351,11 +1246,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T19:47:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses influential figures in Agile and their impact on Agile practices, but it primarily focuses on personal admiration rather than organisational agility strategies or frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on an individual influencer in the Agile space rather than discussing organisational agility as a whole. While it touches on aspects of Agile practices and the importance of communication and facilitation, it lacks a direct discussion on organisational strategies, leadership roles, or structural alignment that are central to the category of Organisational Agility. The depth of discussion is limited to personal admiration and inspiration rather than a comprehensive exploration of agility within an organisation.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1374,6 +1272,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile influencers and their impact, without any focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:53:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile influencers and practices, with no mention of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:53:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses influential figures in Agile without any mention of AI or its applications in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 35.0,
+    "reasoning": "The content briefly mentions Scrum through the reference to Ralph Yakum and his book on the Professional Scrum Product Owner. However, it lacks a detailed discussion of Scrum principles, roles, or practices, making it more of a personal anecdote rather than a focused discussion on Scrum itself.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, specifically Simon Randell, and discusses his facilitation and communication skills. There is no direct mention of the Shift-Left Strategy or its principles, benefits, or techniques. The discussion does not align with the core themes of integrating testing, security, or compliance early in the development process, nor does it provide any depth on these topics. Overall, the content is unrelated to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and their impact on Agile practices. While it touches on themes of learning and emulation, it lacks a direct discussion on Continuous Improvement principles, empirical evidence, or specific strategies for fostering a culture of experimentation. The content does not provide substantial depth or detail on Continuous Improvement as a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal insights and anecdotes about influential figures in Agile, particularly Simon Randell. While it touches on Agile principles, it lacks a direct discussion of Common Goals, their significance, or how they align with team objectives. The emphasis is on individual influence rather than collective goals, resulting in a low confidence score for the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it touches on aspects of competence, such as learning and emulating effective practices, it does not delve deeply into the core themes of continuous development or the broader implications of competence in Agile methodologies. The discussion is more about admiration and personal insights rather than a structured exploration of competence as a foundational principle.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:09:09",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on personal insights about influential figures in Agile, particularly Simon Randell, rather than discussing the One Engineering System framework or its principles. While Agile is mentioned, it does not align with the core themes of 1ES, such as integration of tools and processes or best practices for implementation. The discussion lacks depth regarding 1ES, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. While it touches on themes of influence and transformation, it does not explicitly address the concept of Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth regarding the principles of Agentic Agility and does not differentiate between human and AI capabilities, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T10:47:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his impact on Agile practices. While it mentions Agile principles and the importance of communication and facilitation, it lacks a direct focus on product development methodologies or practices. The discussion is more about personal insights and admiration rather than exploring product development strategies, customer feedback integration, or iterative processes. Therefore, while there are mentions of Agile, the content does not deeply engage with the core themes of product development, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T10:47:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, specifically highlighting Simon Randell's facilitation and communication skills. While it discusses Agile principles, it does not explicitly mention Open Space Agile or its core themes such as psychological safety, co-creation, or iterative dialogue. The discussion lacks depth regarding Open Space Agile methodologies, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T10:47:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, specifically Simon Randell, without discussing the principles of Agnostic Agile or its application. While it mentions Agile practices, it does not engage with the core themes of Agnostic Agile, such as ethical considerations or the importance of context-driven agility. The discussion lacks depth regarding Agnostic Agile principles, making it more of a personal reflection rather than a substantive exploration of the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T10:47:31",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, specifically highlighting Simon Randell's contributions and communication style. It does not discuss scaling methodologies, frameworks, or strategies relevant to the category of Scaling. The mention of Agile is general and does not delve into the complexities or strategies involved in scaling Agile practices, thus failing to meet the criteria for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T10:47:34",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation and communication skills. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or the Beta Codex. The depth of discussion is also minimal regarding the category, as it does not explore any relevant concepts or applications related to Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T10:47:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation skills and communication style. While there are mentions of facilitation, the content does not explicitly reference Liberating Structures or their specific techniques. The discussion lacks depth regarding the principles or applications of Liberating Structures, and the overall focus remains on Agile as a broader topic rather than the specific facilitation techniques that characterise Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T10:47:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, specifically Simon Randell, and discusses his impact on Agile practices. There are no direct mentions of Time to Market or its associated metrics, nor does it explore strategies for improving Time to Market. The discussion is more about personal insights and communication styles rather than the efficiency of delivering value quickly, which is the core of the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T10:47:44",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his impact on Agile practices. There are no direct mentions of the Company as a Product concept, nor does it explore organisational strategies or customer-centric approaches. The discussion is centred around individual contributions to Agile rather than organisational design or the principles of CaaP, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T10:47:47",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile and personal insights related to Agile practices, without any mention or discussion of GitHub or its functionalities. It does not align with the core themes of GitHub, such as version control, collaboration features, or CI/CD pipelines. The depth of discussion is also minimal regarding GitHub, as it does not provide any relevant details or insights into GitHub services or tools.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T10:47:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, specifically Simon Randell, and discusses his impact and communication style. There are no direct mentions of Unrealised Value or its related concepts. The discussion does not align with the core themes of identifying untapped opportunities or potential improvements, and it lacks depth in exploring any indicators or strategies related to Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T10:47:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, specifically Simon Randell, and discusses his impact and communication style. There are no direct mentions of Current Value or its metrics, nor does it explore the practical application of Current Value in decision-making or performance feedback. The discussion lacks depth in relation to the key topics outlined for Current Value, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T10:47:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, specifically highlighting Simon Randell's contributions and communication style. There are no direct mentions of Hybrid Agile or its challenges, and the discussion lacks critical examination of the integration of traditional and agile methodologies. The content does not align with the core themes of Hybrid Agile, such as the pitfalls of merging methodologies or the implications of command-and-control structures. Overall, it is more of a celebration of Agile influencers rather than a critical analysis of Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T10:47:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, specifically highlighting Simon Randell's contributions and communication style. While it mentions Agile, which is a project management methodology, it does not delve into broader project management principles, methodologies, or tools. The discussion is more about individual influence rather than project management strategies or techniques, leading to a low confidence score in alignment and depth.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on influential figures in Agile rather than discussing specific models or frameworks related to decision-making in Agile, DevOps, or Lean contexts. While Agile is mentioned, there is no direct discussion or exploration of models, their applications, or comparative analyses, making it mostly irrelevant to the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on notable figures in the Agile community, specifically Simon Randell's influence and facilitation skills. There are no direct mentions or discussions about artifacts as defined in the category. The content does not align with the core themes surrounding artifacts in Agile, such as types, purpose, or best practices for managing them. Furthermore, the depth of discussion is related to personal insights on individuals rather than the tangible constructs that make up Agile artifacts.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses influential figures in Agile rather than tools. There are no direct mentions of any specific tools or their functionalities, and the discussion lacks detailed exploration of tools that could facilitate Agile practices. The focus on individual personalities does not align with the category's emphasis on tool functionality, integration, or analysis.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 32.0,
+    "ai_mentions": 8,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses influential figures in Agile and their impact on others, focusing on personal insights rather than the deeper core values that guide Agile methodologies. While there are mentions of respect and emulation, the core theme of organizational values and how they influence behavior and decision-making is not a primary focus. The content lacks in-depth discussion on Agile values themselves and leans towards anecdotes rather than providing a philosophical or ethical foundation.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on influential individuals in the Agile space rather than discussing specific frameworks or their implementation. While it mentions Scrum and aligns somewhat with Agile principles through personal insights and admiration for a figure in the Agile community, it lacks a structured discussion on frameworks or methodologies themselves. The content does not provide details on framework implementation or adaptability, which are crucial for a higher confidence score in the 'Framework' category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses on influential figures in Agile and their personal experiences, rather than discussing specific practices or techniques that enhance team performance. The mentions of Agile principles are too abstract, lacking actionable insights or detailed discussions on practices. Therefore, it does not meet the criteria for the 'Practice' category effectively.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on personal insights about influential figures in Agile, specifically highlighting one individual's impact on Agile practices. It lacks explicit discussions on philosophical principles or core themes related to why Agile methodologies exist. The mentions of 'Agile' center around individual experiences and facilitation styles, not the underlying philosophy that informs Agile practices. Therefore, while there are some references to the spirit of Agile thinking, the overall emphasis is more on personal anecdotes and facilitation rather than a philosophical exploration.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses influential figures in Agile, focusing on the personal attributes and communication styles of these individuals rather than the development of enduring competencies or organizational capabilities. Key topics related to the definition, strategies for enhancing capabilities, or their relationship with business agility are absent, leading to a very low alignment with the Capability category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on discussing influential figures in Agile rather than specific tenets or actionable guidelines. While there are references to Agile practices and facilitation, it does not provide actionable rules or doctrine that would classify it under the Tenet category. The content is more personal and anecdotal, lacking the prescriptive nature required for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses primarily on influential figures in Agile rather than discussing specific methods or structured procedures associated with Agile practices like Scrum or Kanban. While it briefly mentions Scrum, it does so in a vague context of personal inspiration rather than detailing any specific methodologies or procedural steps. Therefore, the content does not meet the criteria for the 'Method' category effectively.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on influential figures in Agile, particularly the individual's personal journey and appreciation for another Agile practitioner. There are no explicit mentions or discussions regarding observability, metrics, logs, traces, or any related concepts. The main themes revolve around Agile principles and personal anecdotes, which do not align with the definition or key topics of observability.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the influence of a specific individual in the Agile space rather than discussing actionable principles. While it mentions Agile indirectly and talks about skills like communication and facilitation, it lacks direct references to the core principles such as empiricism, self-management, continuous improvement, or customer collaboration. Thus, it does not align well with the classification of 'Principle'.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:52",
+    "ai_confidence": 30.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content discusses influential figures in Agile, focusing on an individual's impact rather than the overarching principles or methodologies of the discipline itself. While Agile is mentioned, and the content hints at elements of learning and emulation associated with discipline, it primarily centers around personal insights and storytelling rather than a structured discussion about Agile as a discipline. The exploration lacks enough depth regarding the systemic application and evolution of Agile principles in organizational contexts, leading to a low confidence score.",
     "level": "Ignored"
   }
 }

@@ -2,8 +2,10 @@
 title: 'Story Points: A Ghost of Agile Past'
 description: "Uncover the hidden challenges of story points in Agile! Join Martin as he explores their pitfalls and advocates for a value-driven approach. \U0001F47B\U0001F680 #AgileChallenges"
 date: 2023-12-29T07:00:14Z
+weight: 1000
 ResourceId: beR21RHTUvo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: beR21RHTUvo
@@ -15,41 +17,41 @@ preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
 duration: 433
 isShort: false
 aliases:
-- /resources/story-points-a-ghost-of-agile-past
-- /resources/videos/5-ghosts-of-agile-past-story-points
-- /resources/videos/beR21RHTUvo
-- /resources/5-ghosts-of-agile-past-story-points
 - /resources/beR21RHTUvo
-aliasesFor404:
+- /resources/videos/story-points-a-ghost-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-story-points
+aliasesArchive:
+- /resources/videos/story-points-a-ghost-of-agile-past
 - /resources/story-points-a-ghost-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-story-points
 - /resources/5-ghosts-of-agile-past-story-points
+- story-points-a-ghost-of-agile-past
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Estimation
-- People and Process
-- Agile Project Management
-- Software Development
-- Pragmatic Thinking
+- Flow Efficiency
+- Value Delivery
+- Throughput
+- Agile Philosophy
+- Metrics and Learning
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
 In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment—an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.
 
 ## **The Origins of Story Points**
 
-Once upon a time in Agile’s early days, absolute estimation was the norm. Teams would spend a lot of time figuring out how many hours a particular task would take. You'd hear things like:
+Once upon a time in Agile’s early days, absolute [estimation]({{< ref "/tags/estimation" >}}) was the norm. Teams would spend a lot of time figuring out how many hours a particular task would take. You'd hear things like:
 
 - "This task will take 5,000 hours."
 
 - "We need to measure ourselves against how many hours it took."
 
-As teams began to move away from absolute estimation, relative estimation became more popular. This shift aimed to get away from the rigid nature of hours-based forecasting and brought in methods like **t-shirt sizes** or, more commonly, **story points**.
+As teams began to move away from absolute estimation, relative estimation became more popular. This shift aimed to get away from the rigid nature of hours-based [forecasting]({{< ref "/tags/forecasting" >}}) and brought in methods like **t-shirt sizes** or, more commonly, **story points**.
 
 Story points have been around for about 20 years now, and during that time, they have caused their fair share of dysfunction.
 
@@ -85,7 +87,7 @@ I’ve seen this kind of thinking in action. Recently, I worked with a customer 
 
 ## **Moving Away from Story Points**
 
-I used to think story points were a good thing. I used to believe they helped teams estimate work more effectively. But over the years, I’ve come to align more with people like Daniel Vacanti, a pro-Kanban advocate who argues that story points have set our industry back 20 years.
+I used to think story points were a good thing. I used to believe they helped teams estimate work more effectively. But over the years, I’ve come to align more with people like Daniel Vacanti, a pro-[Kanban]({{< ref "/categories/kanban" >}}) advocate who argues that story points have set our industry back 20 years.
 
 Story points have locked teams into a cycle where the focus is on the numbers—on tracking work done—rather than the **value** being created. This fixation on points leads to:
 
@@ -99,11 +101,11 @@ It’s time to move towards something more meaningful: **flow metrics**. These m
 
 Flow metrics give us a clearer picture of what’s really happening in our work. Some key flow metrics to consider are:
 
-- **Cycle time**: How long it takes for a piece of work to move from start to finish.
+- **[Cycle time]({{< ref "/tags/cycle-time" >}})**: How long it takes for a piece of work to move from start to finish.
 
 - **Work item aging**: How long a work item has been in progress without being completed.
 
-- **Throughput**: How many items are being completed within a given time frame.
+- **[Throughput]({{< ref "/tags/throughput" >}})**: How many items are being completed within a given time frame.
 
 These metrics are based on historical facts, not estimates. They can’t be manipulated in the same way that story points can. For example, you can reduce cycle time by decreasing batch sizes, which typically leads to better outcomes. Flow metrics provide a much more accurate way of understanding what’s happening across teams and within entire departments.
 
@@ -127,7 +129,7 @@ Here are some signs your team might be haunted by the ghost of story points:
 
 - **Contractual obligations tied to story point delivery.**
 
-👻 **Don’t let these phantoms haunt your team’s progress.** Reach out for help, whether it’s through coaching, consulting, or training. The longer you let story points dictate your team’s behavior, the harder it will be to break free from their grip.
+👻 **Don’t let these phantoms haunt your team’s progress.** Reach out for help, whether it’s through [coaching]({{< ref "/tags/coaching" >}}), consulting, or training. The longer you let story points dictate your team’s behavior, the harder it will be to break free from their grip.
 
 ## **Moving Forward with Flow**
 

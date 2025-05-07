@@ -2,47 +2,43 @@
 title: What is Scrum?
 description: 'Discover Scrum, an agile framework that empowers product development teams to tackle complex challenges. Join Martin Hinshelwood for insights! #Scrum #Agile'
 date: 2023-05-19T07:00:31Z
+weight: 1000
 ResourceId: o-wVeh3CIVI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: o-wVeh3CIVI
 source: internal
 url: /resources/videos/:slug
-slug: what-is-scrum
+slug: what-is-scrum-o-wVeh3CIVI
 layout: video
 preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
 duration: 51
 isShort: true
 aliases:
-- /resources/what-is-scrum-3
-- /resources/what-is-scrum-2
-- /resources/videos/what-is-scrum-
-- /resources/videos/o-wVeh3CIVI
-- /resources/what-is-scrum-
 - /resources/o-wVeh3CIVI
-aliasesFor404:
+- /resources/videos/what-is-scrum-o-wVeh3CIVI
+aliasesArchive:
+- /resources/videos/what-is-scrum
 - /resources/what-is-scrum-3
 - /resources/what-is-scrum-2
 - /resources/videos/what-is-scrum-
 - /resources/what-is-scrum-
+- what-is-scrum-o-wVeh3CIVI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Project Management
 - Agile Frameworks
 - Software Development
-- Complexity Thinking
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Product Development
 
 ---
-**What is Scrum?**
+**What is [Scrum]({{< ref "/categories/scrum" >}})?**
 
 Interpreting Scrum
 

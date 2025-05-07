@@ -2,34 +2,38 @@
 title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
 description: Discover how AI is revolutionising the workplace! Learn to enhance creativity, boost productivity, and stay ahead in your career with these powerful tools.
 date: 2023-07-05T14:49:20Z
+weight: 1000
 ResourceId: fcOSewXez3I
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: fcOSewXez3I
 url: /resources/videos/:slug
-slug: how-is-technology-like-ai-changing-the-world-we-work-in-
+slug: how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 layout: video
 aliases:
-- /resources/videos/fcOSewXez3I
-- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
-- /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/fcOSewXez3I
-aliasesFor404:
+- /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
+- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
+aliasesArchive:
+- /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
+- /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
+- how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
 isShort: false
-tags:
-- Digital Transformation
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
 The question on everyone’s lips these days is: how is technology, particularly AI, changing the world we work in? I genuinely believe we are on the cusp of a significant revolutionary shift rather than just an evolutionary one. AI isn’t here to take your job; rather, it’s a powerful tool that acts as a sidekick or co-pilot, enhancing our capabilities as we navigate our daily tasks.
@@ -58,4 +62,4 @@ I encourage you to start incorporating AI into your work as soon as possible. Ev
 
 In conclusion, AI is not just a tool; it’s a catalyst for change. It’s going to transform every aspect of our work life, making us more effective and productive. So, get on board, or risk being left behind in this rapidly evolving landscape.
 
-Thank you for reading! If you found this post insightful, please like, follow, and subscribe. I always welcome comments, and if you’d like to discuss this topic further—be it Agile, Scrum, or DevOps—feel free to book a coffee chat with me through Naked Agility. Let’s navigate this exciting journey together!
+Thank you for reading! If you found this post insightful, please like, follow, and subscribe. I always welcome comments, and if you’d like to discuss this topic further—be it Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}})—feel free to book a coffee chat with me through Naked Agility. Let’s navigate this exciting journey together!

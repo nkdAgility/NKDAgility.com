@@ -2,27 +2,30 @@
 title: 'Mastering the Art of Understanding: Essential Skills for Product Owners to Foster Team Clarity'
 description: Unlock the secrets to effective product ownership! Discover how to read the room, tailor communication, and foster understanding within your team.
 date: 2023-12-18T11:00:15Z
+weight: 1000
 ResourceId: M5U-Pdn_ZrE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: M5U-Pdn_ZrE
 url: /resources/videos/:slug
-slug: -shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
+slug: mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE
 layout: video
 aliases:
-- /resources/videos/M5U-Pdn_ZrE
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
-- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/M5U-Pdn_ZrE
-aliasesFor404:
+- /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE
+- /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
+aliasesArchive:
+- /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
+- mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE
 preview: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg
 duration: 39
 isShort: true
 tags:
-- People and Process
 - Product Owner
 sitemap:
   filename: sitemap.xml
@@ -31,16 +34,14 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Product Management
-- Leadership
-- Scrum
+- Uncategorized
 
 ---
 Understanding is one of those elusive concepts that we often take for granted in our day-to-day interactions, especially in the realm of product ownership. As I’ve navigated through various teams and projects, one thing has become abundantly clear: you can't measure understanding. It’s not as straightforward as drawing a line in the sand and declaring, “At this point, everyone gets it.” Instead, understanding is nebulous, fuzzy, and deeply personal.
 
 ### The Art of Reading the Room
 
-As a product owner, one of the most critical skills you can develop is the ability to read the room. This means being attuned to the dynamics of your team and recognising when understanding is lacking. Here are some strategies that have worked for me:
+As a [product owner]({{< ref "/tags/product-owner" >}}), one of the most critical skills you can develop is the ability to read the room. This means being attuned to the dynamics of your team and recognising when understanding is lacking. Here are some strategies that have worked for me:
 
 - **Observe Body Language**: Are team members engaged, or do they seem distracted? Non-verbal cues can often reveal more than words.
 - **Ask Open-Ended Questions**: Instead of yes/no questions, encourage dialogue. This can help surface areas of confusion that might not be immediately apparent.

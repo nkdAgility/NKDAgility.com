@@ -2,35 +2,31 @@
 title: 'Mastering Your Kanban Board: A Practical Guide to Visualising and Optimising Your Workflow'
 description: Transform your workflow with a Kanban board! Discover how to visualise tasks, adapt processes, and boost team efficiency in our latest blog post.
 date: 2024-08-16T07:04:15Z
+weight: 1000
 ResourceId: r1wvCUxeWcE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: r1wvCUxeWcE
 url: /resources/videos/:slug
-slug: kanban-boards
+slug: mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
 layout: video
 aliases:
-- /resources/videos/r1wvCUxeWcE
-- /resources/videos/kanban-boards
-- /resources/kanban-boards
 - /resources/r1wvCUxeWcE
-aliasesFor404:
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
+- /resources/videos/kanban-boards
+aliasesArchive:
+- /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow
 - /resources/videos/kanban-boards
 - /resources/kanban-boards
+- mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
 preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true
 tags:
-- Practical Techniques and Tooling
 - Software Development
-- Operational Practices
-- Lean Principles
-- Agile Frameworks
-- Lean Thinking
-- Agile Project Management
-- Pragmatic Thinking
-- Flow Efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,10 +35,10 @@ resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
+- Product Development
 
 ---
-When it comes to visualising work in a Kanban system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.
+When it comes to visualising work in a [Kanban]({{< ref "/categories/kanban" >}}) system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.
 
 ### Understanding Your Workflow
 
@@ -69,6 +65,6 @@ One of the key lessons I’ve learned over the years is that flexibility is vita
 
 ### Conclusion
 
-Visualising your work through a Kanban board is not just a task; it’s a journey towards understanding and improving your workflow. By taking the time to assess and adapt your board, you’ll not only enhance your team’s efficiency but also foster a culture of continuous improvement.
+Visualising your work through a Kanban board is not just a task; it’s a journey towards understanding and improving your workflow. By taking the time to assess and adapt your board, you’ll not only enhance your team’s efficiency but also foster a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 Remember, the goal is to create a board that truly reflects how work moves through your system. Embrace the imperfections of reality, and use them to drive your process forward. After all, it’s not about achieving perfection; it’s about making progress.

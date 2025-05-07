@@ -2,49 +2,58 @@
 title: The Importance of Delivering Working Software Every Iteration
 description: 'Discover 6 surprising insights about Agile Product Management that can transform your approach! Watch now for essential tips. #agile #productmanagement'
 date: 2024-06-26T06:45:00Z
+weight: 355
 ResourceId: 3-LDBJppxvo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3-LDBJppxvo
 source: internal
 url: /resources/videos/:slug
-slug: the-importance-of-delivering-working-software-every-iteration
+slug: the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 preview: https://i.ytimg.com/vi/3-LDBJppxvo/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/the-importance-of-delivering-working-software-every-iteration
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-- /resources/videos/3-LDBJppxvo
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 - /resources/3-LDBJppxvo
-aliasesFor404:
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+aliasesArchive:
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration
 - /resources/the-importance-of-delivering-working-software-every-iteration
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+- the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Customer Feedback Loops
-- Agile Values and Principles
-- Agile Product Management
-- Working Software
-- Scrum Product Development
-- Product Validation
 - Software Development
-- Software Developers
-- Agile Philosophy
+- Working Software
+- Product Delivery
+- Agile Strategy
 - Value Delivery
+- Operational Practices
+- Customer Feedback Loops
+- Product Validation
+- Agile Planning
+- MVP
+- Empirical Process Control
+- Pragmatic Thinking
+- Agile Frameworks
+- Agile Product Management
+- Deployment Frequency
 resourceTypes:
 - video
 layout: video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-In the ever-evolving world of Agile, the ability to deliver working software to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.
+In the ever-evolving world of Agile, the ability to deliver [working software]({{< ref "/tags/working-software" >}}) to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.
 
 ## **Why Delivering Working Software Matters**
 
@@ -73,7 +82,7 @@ Until your product is in the hands of actual users, everything you've built is j
 
 Agile isn't just about delivering software quickly; it's about delivering value. By focusing on delivering working software every iteration, you're ensuring that:
 
-- **Stakeholders See Progress:** Frequent releases demonstrate tangible progress, which builds confidence and trust among stakeholders.
+- **Stakeholders See Progress:** [Frequent releases]({{< ref "/tags/frequent-releases" >}}) demonstrate tangible progress, which builds confidence and trust among stakeholders.
 
 - **Maximizing Work Not Done:** One of the key principles of Agile is to maximize the amount of work not done. This means focusing only on what's essential to deliver value. By delivering small, functional increments of software, you can prioritize the most valuable features and avoid wasting time on unnecessary work.
 
@@ -113,7 +122,7 @@ Automation is your best friend when it comes to delivering working software ever
 
 - **Speed Up Releases:** Automated deployment pipelines allow you to release new features quickly and with confidence.
 
-### **5\. Embrace a Culture of Continuous Improvement**
+### **5\. Embrace a Culture of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**
 
 Agile is all about continuous improvement. Encourage your team to reflect on each iteration and identify areas for improvement.
 

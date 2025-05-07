@@ -2,8 +2,10 @@
 title: 'Unlocking Agile’s Core: Questioning to Create Value'
 description: "Unlock the true potential of Agile! Discover how questioning and adaptability can transform your organisation and outpace competitors. Watch now! \U0001F31F"
 date: 2024-01-23T07:00:07Z
+weight: 750
 ResourceId: M4ap4uNzptg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: M4ap4uNzptg
@@ -15,41 +17,49 @@ preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
 duration: 241
 isShort: false
 aliases:
-- /resources/unlocking-agiles-core-questioning-to-create-value
-- /resources/videos/agile-is-failing-organizations!
-- /resources/videos/M4ap4uNzptg
-- /resources/agile-is-failing-organizations!
 - /resources/M4ap4uNzptg
-aliasesFor404:
+- /resources/videos/unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/agile-is-failing-organizations
+- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
+aliasesArchive:
+- /resources/videos/unlocking-agiles-core-questioning-to-create-value
 - /resources/unlocking-agiles-core-questioning-to-create-value
 - /resources/videos/agile-is-failing-organizations!
 - /resources/agile-is-failing-organizations!
+- /resources/videos/agile-is-failing-organizations
+- unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Leadership
-- People and Process
-- Agile Strategy
-- Discovery and Learning
-- Agile Transformation
 - Agile Philosophy
-- Agile Project Management
-- Business Agility
+- Continuous Learning
+- Organisational Agility
+- Pragmatic Thinking
+- Agile Values and Principles
+- Agile Transformation
+- Continuous Improvement
+- Agile Leadership
+- Organisational Culture
+- Agile Frameworks
+- Agile Product Management
+- Agile Strategy
+- Software Development
 - Market Adaptability
-- Change Management
+- Business Agility
 resourceTypes:
 - video
 categories:
+- Product Development
 - Leadership
-- Social Technologies
 
 ---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:
 
 _"Being agile is about questioning what you do and continuously improving what you're doing."_
 
-This philosophy underpins the core of Agile and Scrum, allowing organizations to not only survive but thrive by outpacing change.
+This philosophy underpins the core of Agile and [Scrum]({{< ref "/categories/scrum" >}}), allowing organizations to not only survive but thrive by outpacing change.
 
 ## **The Power of Questioning to Create Value**
 
@@ -91,7 +101,7 @@ Here’s why agility works:
 
 - **Profitability**: By being the first to act, you often secure the most significant gains.
 
-In a capitalistic world, the organizations that thrive are the ones that can adapt quickly to market demands, taking advantage of every opportunity. But to achieve this, leadership must empower their teams to be agile ninjas!
+In a capitalistic world, the organizations that thrive are the ones that can adapt quickly to market demands, taking advantage of every opportunity. But to achieve this, [leadership]({{< ref "/categories/leadership" >}}) must empower their teams to be agile ninjas!
 
 ## **Empowering Agile Ninjas for Dynamic Change**
 
@@ -115,7 +125,7 @@ In an Agile organization, questioning rules and procedures is not seen as disrup
 
 - **Reward initiative**: Don’t punish those who question; celebrate them.
 
-When you foster a culture of curiosity, your teams are empowered to drive continuous improvement.
+When you foster a culture of curiosity, your teams are empowered to drive [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
 ## **Avoiding Disgruntlement: Act on Feedback**
 
@@ -139,7 +149,7 @@ Agile is all about continuous improvement, and that requires regular reflection 
 
 - **Involve everyone**: Don’t limit these conversations to just the leadership team—every level of the organization should participate.
 
-- **Promote experimentation**: Give teams the freedom to experiment and try new approaches, even if it means occasional failure.
+- **Promote [experimentation]({{< ref "/tags/experimentation" >}})**: Give teams the freedom to experiment and try new approaches, even if it means occasional failure.
 
 By fostering a culture of continuous improvement, you ensure that your organization is always evolving, always adapting, and always growing.
 

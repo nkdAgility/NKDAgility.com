@@ -1,65 +1,35 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T21:42:42",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Scrum principles, the role of the Product Owner, and the importance of continuous delivery, which are central to Agile Product Management.",
-    "level": "Secondary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T21:42:44",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the application of Scrum and Continuous Delivery methodologies, providing practical insights and techniques for improving software delivery processes.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Scrum principles and Continuous Delivery, which are relevant to Agile Product Management. However, it primarily focuses on the interpretation of Scrum rules and technical aspects of deployment rather than directly addressing product management strategies, stakeholder engagement, or customer feedback integration.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T21:42:45",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum and Continuous Delivery methodologies without a direct connection to platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T21:42:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum practices and Continuous Delivery, lacking a focus on empirical evidence or data-driven decision-making central to Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of software delivery, technical debt, and quality, which are related to code quality and complexity, but the primary focus is on Scrum and project management methodologies rather than a deep exploration of code and complexity principles.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Continuous Delivery, touching on the importance of adapting processes and methodologies for better software delivery, which aligns with the theme of learning and discovery. However, the primary focus is on Scrum practices rather than a broader exploration of discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T21:42:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Scrum practices and Continuous Delivery without a clear focus on AI or automation technologies within Agile frameworks.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and Continuous Delivery practices without a direct focus on Evidence-Based Management principles. While it touches on the importance of delivering value and improving software development practices, it lacks explicit references to empirical decision-making or the specific metrics outlined in the EBM category. The discussion is more centred on Agile methodologies rather than data-informed management strategies.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,56 +43,47 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T21:42:54",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum principles and Continuous Delivery rather than specific installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T21:42:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum practices and Continuous Delivery, with no clear focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-15T21:42:57",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Continuous Delivery and its importance in delivering software rapidly, which aligns with market adaptability principles. However, the primary focus is on Scrum practices rather than a broader discussion on market adaptability strategies.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, highlighting their roles in enhancing responsiveness to market demands. It addresses the importance of deploying software regularly and the need for organisations to minimise technical debt, which aligns with the principles of Agile and DevOps. However, while it touches on these topics, the primary focus is more on Scrum practices rather than a broader discussion on market adaptability strategies, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum and Continuous Delivery, touching on the interplay between organisational practices and software delivery. However, it primarily focuses on technical processes and methodologies rather than a comprehensive exploration of sociotechnical interactions.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T21:43:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum practices and Continuous Delivery without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, touching on the interplay between technical practices and organisational commitment. However, it primarily focuses on technical processes and methodologies without deeply exploring the sociotechnical interactions or organisational culture aspects. While there are mentions of team dynamics and the need for collaboration, the overall emphasis is more on technical execution than on the sociotechnical system as a whole.",
+    "level": "Secondary"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T21:43:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses Continuous Delivery and its relationship with Scrum, highlighting the importance of automation and collaboration between development and operations teams, which are key principles of DevOps.",
+    "reasoning": "The content discusses Continuous Delivery, which is a key aspect of DevOps, and touches on collaboration between development and operations teams. However, the primary focus is on Scrum and its principles rather than a comprehensive exploration of DevOps as a philosophy. While it aligns with some core themes of DevOps, such as automation and minimising technical debt, the depth of discussion on DevOps principles is limited, making it a secondary focus.",
     "level": "Secondary"
   },
   "Miscellaneous": {
@@ -143,57 +104,42 @@
     "reasoning": "Content primarily discusses Scrum practices and Continuous Delivery, without a clear focus on decision-making processes or the principles of Decision Theory.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T21:43:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum practices and Continuous Delivery without reference to specific events, presentations, or discussions related to Agile or DevOps conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Continuous Delivery and the importance of deploying software regularly, which relates to optimising throughput and minimising bottlenecks. However, the primary focus is on Scrum practices rather than directly on flow efficiency principles.",
     "level": "Tertiary"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T21:43:08",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the interpretation of Scrum principles and the importance of team collaboration and processes in achieving Continuous Delivery, highlighting the human factors involved in Agile methodologies.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Continuous Delivery and its implications for organisations, touching on the need for collaboration and minimising technical debt, which are relevant to enterprise agility. However, the primary focus is on Scrum practices and team-level processes.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses Scrum practices and Continuous Delivery, which are more focused on team-level agile methodologies rather than the broader organisational context of Enterprise Agility. While it touches on aspects of collaboration and the need for organisations to adapt, it lacks a comprehensive exploration of enterprise-level frameworks, structures, or cultural implications that define Enterprise Agility.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Scrum and Continuous Delivery, which are related to business agility, but the primary focus is on Scrum practices rather than a comprehensive exploration of business agility principles.",
     "level": "Tertiary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Continuous Delivery and the importance of metrics such as code coverage and test case pass rates, which are relevant to metrics and learning. However, the primary focus is on Scrum practices and Continuous Delivery rather than a deep exploration of metrics and learning principles.",
     "level": "Tertiary"
   },
@@ -208,19 +154,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-15T21:43:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Continuous Delivery and its relationship with Scrum, focusing on engineering practices that enhance software delivery processes, which aligns well with the category of Technical Excellence.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses Continuous Delivery and its relationship with Scrum, highlighting practices that enhance software delivery processes. It mentions technical debt and the importance of automated testing and deployment, which align with the principles of Technical Excellence. However, the primary focus is on Scrum philosophy rather than deep technical practices, leading to a high but not perfect confidence score.",
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-15T21:43:21",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum practices and Continuous Delivery, without a clear focus on complexity science or its principles.",
     "level": "Ignored"
   },
@@ -235,12 +184,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T21:43:24",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Scrum methodologies, Continuous Delivery, and the importance of deployment practices, which are central to the product delivery process.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Scrum and its flexibility in relation to product delivery, emphasising the importance of Continuous Delivery and the practices necessary to achieve it. It aligns well with the core themes of product delivery, such as iterative development, deployment strategies, and quality assurance. The depth of discussion is significant, providing detailed insights into methodologies and practices that enhance product delivery, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -253,29 +205,23 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T21:43:26",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and Continuous Delivery, which are not directly related to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T21:43:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses interpretations of Scrum and Continuous Delivery practices rather than specific products or literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T21:43:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Continuous Delivery and its importance in delivering value to customers, aligning with Agile principles and practices that enhance customer satisfaction.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the principles of Scrum and Continuous Delivery, emphasising the importance of delivering value to customers through iterative processes and regular deployments. It aligns well with the core themes of value delivery, particularly in relation to continuous integration and delivery practices. The depth of discussion on achieving Continuous Delivery and minimising technical debt further supports its relevance to the category.",
     "level": "Secondary"
   },
   "Azure DevOps": {
@@ -289,138 +235,135 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses Scrum practices and Continuous Delivery methodologies, with only a few personal reflections on the challenges faced in these areas. The focus is more on technical aspects rather than personal experiences or insights.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-15T21:43:32",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum methodology and Continuous Delivery, focusing on software development practices rather than Systems Thinking principles or interconnectedness within organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T21:43:34",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum methodology and Continuous Delivery, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Scrum and Continuous Delivery, which are related to Agile methodologies, but the primary focus is on Scrum practices rather than the broader Agile Product Operating Model.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses Scrum and Continuous Delivery, which are related to agile practices but do not explicitly focus on the Agile Product Operating Model. While it touches on concepts like planning and delivery schedules, it lacks a direct connection to the core principles of APOM, such as product management integration and operational governance. The depth of discussion on agile methodologies is present, but it does not sufficiently address the product-oriented mindset or the transition from project to product ethos, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum and Continuous Delivery, which are related to agile methodologies and organisational adaptability. However, the primary focus is on Scrum practices rather than broader organisational agility strategies.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Continuous Delivery, which are relevant to Agile and DevOps practices, but it primarily focuses on personal insights and interpretations rather than providing news or reviews.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Continuous Delivery and deployment practices, which are relevant to the application lifecycle, but primarily focuses on Scrum methodology and its interpretation.",
     "level": "Tertiary"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T21:43:43",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Scrum principles, particularly the flexibility of the Scrum framework, the definition of done, and the relationship between planning and delivery, making it a central theme.",
-    "level": "Secondary"
-  },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum principles and concepts related to software delivery and continuous delivery, without focusing on the Daily Scrum event or its specific topics.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the Definition of Done (DoD) as it relates to Scrum, providing specific examples of criteria that might be included in a DoD and emphasizing its importance for quality and delivery within the Scrum framework.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in the context of Scrum, mentioning specific criteria that can be included in a DoD. However, the primary focus of the content is on the flexibility of Scrum and Continuous Delivery rather than a thorough exploration of the DoD itself. While it does provide some relevant details, the overall discussion is more about Scrum practices and deployment strategies, which detracts from a focused examination of the DoD.",
     "level": "Secondary"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles surrounding Continuous Delivery, technical debt management, and the practices necessary for software excellence, aligning with the category's focus on technical mastery in software craftsmanship.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, focusing on technical practices and principles that enhance software delivery. It addresses technical debt, automated testing, and the importance of quality in software development, aligning well with the core themes of Technical Mastery. The depth of discussion on Continuous Delivery and the steps to achieve it further supports a high confidence score.",
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum methodologies and Continuous Delivery rather than focusing on customer needs and identifying product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses Continuous Delivery principles and practices, emphasizing deployment practices within a Scrum framework.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses Continuous Delivery, highlighting its principles and the importance of regular deployment. It aligns well with the core themes of the category, such as the role of automation, the need for rapid feedback, and strategies for improving software quality. The depth of discussion is significant, providing detailed insights into practices and challenges associated with Continuous Delivery, making it a primary focus rather than a secondary mention.",
+    "level": "Primary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum practices, Continuous Delivery, and deployment processes without a clear focus on long-term strategic goals or business agility.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Scrum and Continuous Delivery that relate to delivery schedules and deployment frequency. However, it mostly focuses on the philosophy of Scrum practices rather than specifically measuring or analyzing Lead Time as defined.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, touching on the importance of deploying software regularly, which indirectly relates to Lead Time. However, it lacks explicit discussion on Lead Time as a metric, its measurement, or strategies for optimisation, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -433,10 +376,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Scrum practices and Continuous Delivery without focusing on the criteria or importance of the Definition of Ready.",
     "level": "Ignored"
   },
@@ -451,28 +394,28 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on Scrum practices, delivery schedules, and Continuous Delivery, with little direct reference to the Product Backlog or its management.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum practices and emphasizes the importance of planning in the context of Continuous Delivery, making Agile Planning a major but secondary theme.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and Continuous Delivery, with no clear focus on Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
@@ -487,56 +430,68 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses the practical implementation of Scrum in relation to planning and delivery, emphasizing techniques for Continuous Delivery and the importance of automation in deployment processes, which aligns well with improving operational efficiency.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the flexibility of Scrum in relation to delivery schedules and promotes Continuous Delivery as a means to enhance operational efficiency. It provides practical insights into improving deployment frequency and reducing technical debt, aligning well with operational practices. The depth of discussion on Continuous Delivery and the steps to achieve it further supports its relevance to the category.",
+    "level": "Primary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the interpretation of Scrum rules and the expectations of delivery schedules in relation to Scrum practices, indicating that it aligns with themes of Scrum team dynamics and roles indirectly, but it does not primarily focus on the Scrum Team itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Scrum principles and the importance of the Definition of Done, which relates to the roles of the Development Team and Product Owner. However, it primarily focuses on Continuous Delivery and general Agile practices rather than the specific dynamics and collaboration within a Scrum Team. The mention of Scrum roles is limited and lacks depth in exploring team interactions or communication strategies.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum in relation to its flexibility and interpretations, and touches on principles like Continuous Delivery which align with Agile Philosophy. However, it primarily revolves around Scrum framework details, hence it's a major but secondary theme.",
     "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses aspects of Scrum and Continuous Delivery, emphasizing the importance of delivery processes and overcoming technical debt, which are related to strategic planning and execution within Agile frameworks. However, it primarily focuses on Scrum practices and less on broader strategic themes.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, touching on strategic aspects of Agile methodologies. However, while it mentions the importance of regular deployment and minimising technical debt, it lacks a focused discussion on strategic alignment or the development of a value-driven approach. The depth of strategic analysis is limited, primarily advocating for practices rather than exploring broader strategic frameworks.",
     "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum methodology and continuous delivery in software development rather than the validation of product ideas through user engagement.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses primarily on Scrum practices, Continuous Delivery, and the principles behind Agile methodologies, emphasizing the nature of planning and delivery within Agile frameworks.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses Scrum in detail, addressing misconceptions and promoting a flexible interpretation of its principles. It aligns well with Agile transformation themes, particularly in relation to Continuous Delivery and the importance of reducing technical debt. However, while it provides substantial insights into Scrum practices, it lacks a broader discussion on organisational change management and leadership roles, which are also critical aspects of Agile transformation.",
     "level": "Secondary"
   },
   "Mentoring": {
@@ -550,100 +505,100 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses various aspects of automated testing, including automated acceptance tests, automated functional tests, and automated unit tests, within the context of Continuous Delivery. These topics directly align with the principles and methodologies of automated testing.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses various aspects of automated testing, particularly in the context of Continuous Delivery and Scrum. It explicitly mentions automated tests, including acceptance, functional, and unit tests, which aligns well with the category's focus. The depth of discussion is significant, as it outlines the importance of automated testing in achieving Continuous Delivery and the necessary steps to implement it. However, the primary focus is on Scrum and Continuous Delivery rather than solely on automated testing, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum methodology and emphasizes continuous delivery, which touches on team collaboration and practices. However, it primarily focuses on the interpretation of Scrum rules and continuous deployment rather than directly addressing team performance or collaboration.",
     "level": "Tertiary"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses delivery schedules and the importance of delivering working software regularly, which relates to Increment but also heavily focuses on Continuous Delivery rather than strictly Increment in Agile.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:16:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions acceptance tests within the context of Scrum and Continuous Delivery, indicating it is a secondary theme but does not primarily focus on Acceptance Test Driven Development.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and Continuous Delivery, with only brief mentions of acceptance tests in the context of definitions of done and automated testing. It lacks a focused discussion on Acceptance Test Driven Development principles, collaboration, or techniques for writing effective acceptance tests, which are central to the ATDD category.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses Scrum practices, Continuous Delivery, and methodologies that guide software development, making it a clear alignment with the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum principles, including roles, the flexibility of delivery versus planning, and Continuous Delivery, which aligns strongly with Agile methodologies.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Scrum, a key Agile framework, and its relationship with Continuous Delivery, which are both central to software development methodologies. It provides detailed insights into the practices and principles of Scrum, including the importance of definitions of done, deployment strategies, and the minimisation of technical debt. The depth of discussion on Continuous Delivery and its prerequisites further solidifies its alignment with software development practices, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum and Continuous Delivery, emphasizing flexibility and the misunderstanding of Scrum as prescriptive. While the focus is on specific practices, it highlights Agile principles like collaboration and continuous delivery, making Agile values a secondary theme.",
     "level": "Tertiary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum principles and roles in the context of planning and delivery schedules, but it focuses more on the controversial interpretation of Scrum and the practices of Continuous Delivery rather than the core Scrum framework itself.",
     "level": "Tertiary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Continuous Delivery and its relation to deployment practices within the Scrum framework, making Modern Source Control a major but secondary theme.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses principles of Scrum and Continuous Delivery, emphasizing iterative improvements and flexibility, but it also delves into prescriptive aspects of delivery processes, which makes it a secondary theme rather than a primary focus on empirical process control.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Continuous Delivery and technical practices rather than focusing on the specific Scrum Values.",
     "level": "Ignored"
   },
@@ -658,10 +613,10 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and Continuous Delivery, without a clear focus on collaboration tools or their integration within Agile teams.",
     "level": "Ignored"
   },
@@ -685,12 +640,15 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the principles of Continuous Delivery, the importance of deploying software more frequently, and the steps necessary to achieve continuous deployment. It aligns closely with the category of Frequent Releases.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses Continuous Delivery and the importance of deploying software regularly, aligning well with the principles of Frequent Releases. It provides insights into the practices and challenges of achieving Continuous Delivery, which is a key aspect of frequent releases. However, while it mentions these concepts, the primary focus is on Scrum and its interpretation, which slightly detracts from a direct focus on Frequent Releases.",
+    "level": "Primary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -699,15 +657,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum practices and Continuous Delivery, focusing on technical aspects and deployment strategies without addressing customer satisfaction or experiences.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Scrum principles and Continuous Delivery, but does not focus on scaling Scrum practices or methods applicable to multiple teams or organizations.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,23 +677,17 @@
     "reasoning": "Content heavily discusses Scrum practices, Continuous Delivery, and technical aspects of software deployment without addressing psychological safety or team dynamics related to it.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Continuous Delivery and its importance for organizations, which is related to scaling agile practices. However, the primary focus is on Scrum practices and delivery schedules, making scaling agility a secondary theme.",
-    "level": "Tertiary"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Continuous Delivery, technical debt management, and best practices related to software quality and delivery processes in the context of Scrum, making it relevant to engineering excellence.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses Continuous Delivery, technical debt management, and the importance of quality assurance in software development, which are all key topics under Engineering Excellence. It provides a detailed exploration of how Scrum can be adapted to enhance engineering practices, emphasising the need for automation and regular deployment. However, the primary focus is on Scrum methodology rather than broader engineering excellence principles, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -757,19 +700,19 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum, Continuous Delivery, and the importance of deployment schedules rather than asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum, Continuous Delivery, and the dynamics of software development processes within organizations, which involves elements of systems thinking; however, it primarily focuses on Scrum practices rather than a holistic discussion on organizational systems.",
     "level": "Tertiary"
   },
@@ -784,12 +727,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 34.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses practical aspects of Scrum and Continuous Delivery, emphasizing real-world applications, critical thinking in adopting these methodologies, and providing strategies for organizations to improve their deployment processes. It focuses on practical problem-solving related to Agile principles.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content discusses the practical application of Scrum principles and Continuous Delivery, emphasising real-world problem-solving strategies. It critiques rigid interpretations of Scrum and advocates for flexibility in delivery schedules, aligning well with pragmatic thinking. The depth of discussion on Continuous Delivery and the importance of minimising technical debt further supports its relevance to the category.",
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,30 +748,12 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Continuous Delivery and the importance of improving deployment processes, which indirectly relates to the ability to innovate by enhancing delivery capabilities and minimizing technical debt. However, the primary focus is on Scrum and its practices rather than specifically on measuring or improving innovation capabilities.",
     "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 70,
-    "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content primarily discusses interpretations of Scrum principles and encourages adoption of continuous delivery within a Scrum framework, making Scrum a major theme but not the only focus.",
-    "level": "Secondary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Scrum practices and Continuous Delivery rather than the scaling of Agile across multiple teams or an enterprise context.",
-    "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -838,20 +766,23 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on Scrum and Continuous Delivery rather than Lean principles. While it includes some concepts related to efficiency and improving software delivery, it does not discuss Lean Thinking or its key topics directly.",
     "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 70.0,
-    "reasoning": "While the content primarily focuses on Scrum and Continuous Delivery, it discusses the importance of test automation as part of the deployment process. The mention of automated tests and their role in maintaining quality aligns with a major theme of Test Automation.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the principles of Continuous Delivery and the importance of automated testing within that context. It mentions various types of automated tests, such as acceptance tests, functional tests, and unit tests, which are key topics in test automation. However, the primary focus is on Scrum and Continuous Delivery rather than on test automation itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -865,28 +796,31 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 29.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses aspects of Scrum and Continuous Delivery in relation to delivering working software, focusing on quality, deployment frequency, and the importance of meeting the definition of done, which are all key themes related to working software.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the principles of Scrum and Continuous Delivery, emphasising the importance of delivering functional software and maintaining quality through practices like automated testing and deployment. It aligns well with the core themes of working software, particularly in the context of Agile methodologies. However, while it touches on these topics, the primary focus is more on the interpretation of Scrum rather than a detailed exploration of working software itself.",
+    "level": "Primary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum methodology, Continuous Delivery, and related practices, but does not focus on Agile Planning Tools or their functionalities.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Continuous Delivery and touches upon automated processes relevant to Continuous Integration, but primarily focuses on Scrum principles and it's relationship with deployment practices.",
     "level": "Tertiary"
   },
@@ -901,10 +835,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Scrum and Continuous Delivery, touching on empowering teams and organizational maturity, but does not primarily focus on leadership roles or practices within Agile contexts.",
     "level": "Tertiary"
   },
@@ -928,55 +862,58 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum methodologies and the process of Continuous Delivery, without focusing on hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Scrum and Continuous Delivery, which involve decision-making processes related to software delivery and quality assurance. However, it largely focuses on the mechanics of Scrum and Continuous Delivery rather than structured decision-making methodologies or evidence-based practices.",
     "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Continuous Delivery, which aligns with Lean principles in terms of minimizing waste and maximizing value; however, the primary focus is on Scrum methodology, making Lean principles a secondary theme.",
     "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses aspects of Continuous Delivery, deployment frequency, and the implications for software releases, which are significant themes in release management, despite the primary focus being on Scrum practices.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses Continuous Delivery and the importance of regular deployments, which aligns with release management practices. However, the primary focus is on Scrum and Agile methodologies rather than the specific strategies and practices of release management. While it touches on relevant topics, it does not provide in-depth coverage of release management processes, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses general Scrum principles and Continuous Delivery rather than focusing specifically on the Product Owner's responsibilities or role.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum roles, events, and Continuous Delivery rather than focusing specifically on Cycle Time as a metric for measuring workflow efficiency.",
     "level": "Ignored"
   },
@@ -991,12 +928,15 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of deployment frequency within the context of Agile and Scrum practices, emphasizing the benefits of more frequent deployments and the transition toward Continuous Deployment.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of deployment frequency within the context of Scrum and Continuous Delivery. It explicitly mentions deploying to production every Sprint and encourages more frequent deployments, aligning well with the core themes of the category. The depth of discussion includes strategies for achieving Continuous Delivery and the necessary practices to support higher deployment frequency, such as automated testing and build processes. Overall, the content is focused on optimising deployment intervals, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -1009,47 +949,41 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum in relation to collaboration between developers, testers, and operations, which resonates with team dynamics and the principles of Agile. However, the primary focus is on Scrum methodologies and continuous delivery rather than explicit techniques for improving team collaboration.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum, Continuous Delivery, and related practices rather than Behavior Driven Development specifically.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Continuous Delivery and the need for organizations to adopt automated processes to enhance software delivery, which aligns with the strategic adoption of digital technologies to improve operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, which are methodologies that can contribute to digital transformation by enhancing business agility and operational efficiency. However, it primarily focuses on Scrum practices rather than a broader strategic adoption of digital technologies. While there are mentions of improving software delivery processes, the discussion lacks a comprehensive exploration of digital transformation strategies or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:28:38",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum, Continuous Delivery, and practices related to Agile development, rather than focusing on Minimum Viable Products or market validation.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Scrum methodology and Continuous Delivery, without any direct reference to AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1063,20 +997,23 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles, events, and practices related to Continuous Delivery, rather than focusing on product strategy, vision, or roadmapping.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses aspects of Scrum and its flexibility, techniques for continuous deployment, and the importance of managing technical debt, which aligns with principles of technical leadership in agile environments.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, which are relevant to technical leadership in agile environments. However, it primarily focuses on the interpretation of Scrum rules and the importance of continuous deployment rather than providing in-depth strategies for mentoring, coaching, or fostering team dynamics. While it touches on technical debt and the need for collaboration, it lacks a comprehensive exploration of the principles of technical leadership.",
     "level": "Secondary"
   },
   "Estimation": {
@@ -1090,21 +1027,24 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum methodology, Continuous Delivery, and delivery schedules rather than specifically focusing on cross-functional teams or their characteristics, structure, or benefits.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses acceptance testing and automated tests in the context of Scrum and Continuous Delivery but does not focus primarily on Test First Development principles like writing tests before code.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Continuous Delivery and Scrum practices, touching on testing aspects like acceptance tests and automated tests. However, it primarily focuses on Scrum and Continuous Delivery rather than explicitly addressing Test First Development principles. While there are mentions of testing, they are not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
@@ -1117,11 +1057,14 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practices related to deploying software, particularly focusing on Continuous Deployment and related methodologies. It emphasizes the importance of deployment frequency and quality, aligning well with deployment strategies.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses Continuous Deployment and Continuous Delivery, which are key aspects of deployment strategies. However, the primary focus is on Scrum practices and the philosophy behind them, rather than a detailed exploration of deployment methodologies. While there are relevant mentions of deployment practices, they are not the central theme of the content.",
     "level": "Secondary"
   },
   "Large Scale Agility": {
@@ -1135,10 +1078,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum processes and Continuous Delivery practices rather than team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1153,10 +1096,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the principles of Scrum and Continuous Delivery, emphasizing best practices and maturity in delivery processes, which aligns with the theme of Continuous Learning in Agile environments. However, the primary focus is on Scrum roles and methodologies rather than a direct discussion on Continuous Learning principles.",
     "level": "Tertiary"
   },
@@ -1180,11 +1123,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum principles and encourages a mindset conducive to Scrum without explicitly focusing on the Scrum Master role.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Scrum principles and Continuous Delivery, which are relevant to the Scrum framework. However, it does not explicitly focus on the role of the Scrum Master or their responsibilities. While it touches on the importance of Scrum practices, it lacks depth in discussing the Scrum Master's influence on team dynamics or organisational change, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Transparency": {
@@ -1205,84 +1151,87 @@
     "reasoning": "Content primarily discusses Scrum methodologies and Continuous Delivery, with no clear focus on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum methodology, continuous delivery, and practices related to software development, aligning well with Agile and DevOps contexts.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses encouraging teams to adopt better practices and emphasizes guiding rather than directing, aligning with coaching themes. However, the primary focus is on Scrum and Continuous Delivery rather than on coaching itself.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Continuous Delivery and its practices, along with associated principles like automated testing and reducing technical debt, which align closely with Agile engineering practices.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, which are closely related to Agile engineering practices. It mentions key concepts such as automated testing, deployment, and the importance of reducing technical debt. However, the primary focus is on Scrum methodology rather than the core engineering practices themselves, leading to a high but not perfect confidence score.",
+    "level": "Primary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the necessity of minimizing technical debt to achieve Continuous Delivery, indicating that technical debt is a central theme in relation to effective Agile practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of minimising technical debt in the context of achieving Continuous Delivery, which aligns with the core themes of the Technical Debt category. However, the primary focus is on Scrum practices and Continuous Delivery rather than a detailed exploration of technical debt itself. While it mentions technical debt and its impact on software maturity, the discussion lacks depth and specific strategies for managing or measuring technical debt, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the interpretation of Scrum principles and Continuous Delivery, with no focus on the Sprint Review process or its specific goals.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and Continuous Delivery, which are related to product management methodologies, but the primary focus is on technical implementation details rather than the strategic aspects of product management.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, which are methodologies relevant to product management. However, it primarily focuses on technical implementation details and personal opinions about Scrum rather than the strategic aspects of product management. While there are mentions of product delivery and quality, the discussion lacks depth in aligning with broader product management strategies and frameworks.",
     "level": "Tertiary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses principles related to Agile and Scrum, emphasizing autonomy and the encouragement of teams to deploy software as frequently as they can, which aligns with self-organisation. However, the focus is more on Continuous Delivery than on self-organisation directly.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum, its interpretation, and its application, emphasizing principles and practices related to Agile frameworks.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Scrum, a specific Agile framework, and addresses misconceptions about its flexibility and implementation. It explores the principles of Scrum, particularly in relation to planning and delivery, and encourages a deeper understanding of its application. The discussion includes practical advice on Continuous Delivery, which, while not strictly an Agile framework, is closely related to Agile principles. The depth of the discussion is substantial, providing insights into Scrum practices and the journey towards better software delivery, thus aligning well with the category of Agile Frameworks.",
     "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Scrum principles and Continuous Delivery, which align with Agile methodologies, but mainly focuses on technical practices and interpretations rather than broader strategic topics.",
     "level": "Tertiary"
   },
@@ -1306,21 +1255,24 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:09:10",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Continuous Delivery and software development practices that can relate to Lean principles, particularly in terms of minimizing waste and maximizing efficiency. However, the primary focus is on Scrum and Agile methodologies, with Lean principles being a secondary theme.",
     "level": "Tertiary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implications of Scrum and Continuous Delivery in an Agile context, highlighting trends in software delivery and operational practices. It touches on evolving methodologies and the importance of deploying software more frequently, which relates to trend analysis in Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, touching on practices that could relate to trends in Agile methodologies. However, it primarily focuses on personal interpretations and experiences rather than a structured analysis of trends. While there are mentions of Continuous Delivery and its implications, the discussion lacks a comprehensive examination of emerging trends or their strategic impacts on organisations, which is essential for a higher confidence score in the Trend Analysis category.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1331,40 +1283,37 @@
     "reasoning": "Content primarily discusses Scrum methodology, continuous delivery, and the technical aspects of deployment rather than focusing on accountability, team ownership, or related principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:28:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum methodology and Continuous Delivery, without clear focus on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T09:09:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Continuous Delivery, deployments, and practices that can improve software release rates, which are related to throughput but not strictly focused on measuring and optimizing work completion rates.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses Continuous Delivery and the importance of deploying software regularly, which relates to throughput in terms of delivering value efficiently. However, it primarily focuses on Scrum practices and the flexibility of the framework rather than directly measuring or optimising throughput. The mention of Continuous Delivery hints at throughput but lacks detailed exploration of metrics or strategies specifically aimed at improving throughput.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:28:38",
+    "calculated_at": "2025-04-10T15:55:43",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum and Continuous Delivery, with little to no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:54:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum principles, roles, and the importance of Continuous Delivery within the framework, aligning closely with the category's focus on Agile practices and value delivery.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, which are related to team dynamics and collaboration. However, the primary focus is on technical practices rather than the underlying social frameworks that promote collaboration and decision-making. While there are mentions of collaboration among team members, the depth of discussion on social technologies and their impact on organisational culture is limited.",
     "level": "Secondary"
   },
   "Leadership": {
@@ -1374,6 +1323,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum practices and Continuous Delivery, with no clear focus on leadership principles or practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum practices and Continuous Delivery, which are not directly related to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:27:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum methodology and Continuous Delivery without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 50,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Scrum principles and challenges common misconceptions about its rigidity. It mentions key Scrum concepts such as the Definition of Done and the role of the Development Team and Product Owner. However, it also diverges into Continuous Delivery, which, while related, is not strictly within the Scrum framework. The depth of discussion is substantial, but the focus on Continuous Delivery slightly detracts from a pure Scrum classification.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses aspects of Continuous Delivery and the importance of integrating testing and quality measures early in the development process, which aligns with the Shift-Left Strategy. However, the primary focus is on Scrum and Continuous Delivery rather than explicitly on the Shift-Left Strategy itself. The discussion lacks depth in terms of specific Shift-Left techniques and metrics, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Continuous Delivery and its relationship with Scrum, highlighting the importance of regular deployment and minimising technical debt. While it touches on Continuous Improvement principles, such as enhancing processes and fostering a culture of experimentation, the primary focus is on Scrum practices rather than a comprehensive exploration of Continuous Improvement as a standalone concept.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Scrum and Continuous Delivery, touching on the importance of aligning practices with organisational goals. However, it primarily focuses on the mechanics of Scrum and Continuous Delivery rather than explicitly addressing the concept of Common Goals. While there are mentions of improving practices and collaboration, the discussion lacks a strong emphasis on shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of Continuous Delivery and the necessary practices to achieve it, which aligns with the concept of competence in terms of skill development and quality delivery. However, while it touches on competence indirectly, it primarily focuses on Scrum practices and Continuous Delivery rather than a deep exploration of competence as a standalone principle.",
+    "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:43",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses Scrum practices and Continuous Delivery, which are not directly related to the concept of Agentic Agility. While there are mentions of autonomy in deploying software and the importance of adapting processes, the focus remains on Agile methodologies rather than the intentional shaping of outcomes through agency and adaptability. The discussion lacks depth in exploring the principles of Agentic Agility, such as intent, accountability, and the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

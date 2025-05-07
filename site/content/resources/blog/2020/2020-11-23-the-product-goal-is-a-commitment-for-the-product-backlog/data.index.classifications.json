@@ -1,10 +1,10 @@
 {
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-13T22:23:42",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on Scrum roles and objectives rather than Lean principles or waste reduction.",
     "level": "Ignored"
   },
@@ -19,11 +19,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-13T22:23:46",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of the Product Goal as a long-term objective for Scrum Teams, aligning with the definition of strategic goals in terms of providing focus and direction. It also touches on adaptability and the importance of refining goals, which are key aspects of strategic goal discussions.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Product Goal as a long-term objective for the Scrum Team, which aligns with the concept of strategic goals. It explicitly mentions the importance of having a clear target and how it serves as a commitment for the team. The discussion includes the adaptability of the Product Goal, reflecting the need for alignment with market changes, which is a key aspect of strategic goals. However, while it provides good examples and context, the depth of strategic frameworks and evidence-based approaches is somewhat limited, preventing a higher score.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -37,29 +40,32 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-13T22:23:49",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on objectives and planning rather than change management strategies or practices.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-13T22:23:50",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Product Goal in Scrum, which is not directly related to the Definition of Ready.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is a specific Agile framework. While it touches on the importance of value delivery and adaptability, the primary focus is on Scrum roles and events rather than the underlying Agile values and principles.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the Product Goal within the context of the Scrum framework, which is a specific Agile methodology. While it touches on the importance of having a clear objective and the flexibility to adapt goals, it does not explicitly address the core Agile values or principles, such as customer collaboration or responding to change. The focus is more on the mechanics of Scrum rather than the underlying Agile philosophy.",
     "level": "Tertiary"
   },
   "Lean Thinking": {
@@ -73,39 +79,48 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-13T22:23:57",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on objectives and planning rather than strategies for customer retention.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal within the Scrum framework, which is related to delivering value and aligning software development with user needs, but it primarily focuses on the concept of the Product Goal rather than directly on working software itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, which is related to delivering value through working software. However, it primarily focuses on the concept of the Product Goal rather than directly addressing the characteristics or practices of working software itself. While it touches on the importance of aligning goals with customer needs, it lacks detailed exploration of software quality, functionality, or iterative development practices.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which relates to defining objectives that guide product development. However, the primary focus is on Scrum roles and processes rather than directly exploring methodologies for identifying customer needs or validating product ideas.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the concept of a Product Goal within the Scrum framework, which relates to product objectives and value delivery. However, it primarily focuses on Scrum roles and processes rather than exploring methodologies for identifying customer needs or defining product features. While there are mentions of goals and objectives that could align with product discovery, the depth and focus on user research, feedback analysis, or feature prioritisation are lacking.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal in Scrum, which relates to transparency and adaptation, but primarily focuses on defining the Product Goal rather than empirical process control principles.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Product Goal within the context of Scrum, highlighting its role in providing focus and transparency for the Scrum Team. While it touches on the importance of adapting the Product Goal based on value, it does not delve deeply into empirical process control principles such as inspection and adaptation in a broader sense. The discussion is primarily centred on the Product Goal itself rather than the overarching themes of empirical process control, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -127,19 +142,19 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-13T22:24:06",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the Product Goal within the context of Scrum, focusing on Scrum roles and events rather than organisational change strategies or methodologies.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-13T22:24:07",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on objectives and planning rather than on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -163,19 +178,19 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-13T22:24:10",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Product Goal and its role within the Scrum framework, rather than focusing on backlog refinement practices or techniques.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T09:08:38",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the Product Goal within the Scrum framework, which relates to self-organisation by providing a focus for the Scrum Team. However, the primary focus is on the Product Goal itself rather than self-organisation principles or practices.",
     "level": "Tertiary"
   },
@@ -190,12 +205,15 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal, which relates to the Scrum Value of Commitment, but primarily focuses on the definition and importance of the Product Goal rather than the Scrum Values as a whole.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Product Goal, which is closely related to the Scrum Value of Commitment, as it emphasises the dedication of the Scrum Team towards achieving a shared objective. It also touches on the importance of focus, as the Product Goal provides a target for the team to concentrate on. However, the discussion lacks depth regarding the other Scrum Values such as Courage, Openness, and Respect, which limits the overall alignment with the category. The content is primarily focused on the Product Goal rather than a broader discussion of Scrum Values.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -208,28 +226,34 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-13T22:24:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which aligns with strategic planning and objectives for Agile teams.",
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, which is a strategic element that aligns with Agile principles. It explicitly mentions the importance of the Product Goal as a commitment and a long-term objective for the Scrum Team, indicating a clear focus on strategic alignment and planning. The examples provided also illustrate a value-driven approach to strategy. However, while the content is relevant, it does not delve deeply into broader strategic concepts or techniques for optimising delivery, which slightly limits its depth of discussion.",
     "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, highlighting its importance in delivering value and adaptability, which are key aspects of Agile philosophy. However, the primary focus is on Scrum-specific practices rather than the broader Agile principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the Product Goal within the context of the Scrum framework, which is a specific Agile methodology. While it touches on concepts like value delivery and adaptability, it does not delve deeply into the broader Agile philosophy or its foundational principles. The focus remains on Scrum practices rather than the underlying Agile mindset.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-13T22:24:20",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on its definition and importance rather than team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -241,15 +265,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, without a focus on evidence-based leadership principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-13T22:24:23",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, which is a key aspect of Agile Project Management.",
-    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -298,10 +313,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-13T22:24:30",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Product Goal and its significance within the Scrum framework, without any mention of the Daily Scrum event.",
     "level": "Ignored"
   },
@@ -325,20 +340,26 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal in Scrum, which relates to decision-making in terms of setting objectives and adapting them based on value. However, the primary focus is on Scrum roles and practices rather than structured decision-making methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, which relates to decision-making in terms of setting objectives and guiding the Scrum Team's focus. However, it primarily centres on the definition and examples of the Product Goal rather than a structured, evidence-based methodology for decision-making. While it touches on the importance of adapting goals based on value, it lacks a deeper exploration of evidence-based practices or collaborative decision-making techniques.",
     "level": "Tertiary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-13T22:24:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the Product Goal, which is a key responsibility of the Product Owner in managing the Product Backlog and aligning the Scrum Team towards a common objective.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Product Goal, which is a key aspect of the Product Owner's responsibilities in managing the Product Backlog and aligning the Scrum Team towards a common objective. However, while it touches on the importance of the Product Goal and its role in guiding the Scrum Team, it lacks a deeper exploration of the specific responsibilities and techniques of the Product Owner. The focus is more on the concept of the Product Goal rather than the broader role of the Product Owner, which limits the depth of discussion.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
@@ -352,48 +373,48 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which indirectly relates to team collaboration as it emphasises the importance of a shared objective for the Scrum Team. However, the primary focus is on the Product Goal itself rather than on collaboration techniques or team dynamics.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, which indirectly relates to team collaboration by emphasising shared objectives and transparency. However, it primarily focuses on the concept of the Product Goal itself rather than exploring team dynamics, communication, or collaboration techniques in depth. While it touches on the importance of understanding the goal within the Scrum Team, it lacks detailed discussion on fostering collaboration or trust among team members.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is related to Agile planning, but it primarily focuses on the concept of the Product Goal rather than specific Agile planning tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is relevant to Agile methodologies. However, it primarily focuses on the concept of the Product Goal rather than on Agile Planning Tools themselves. While it touches on planning aspects, it lacks detailed exploration of specific tools or methodologies that facilitate Agile planning, thus limiting its depth and overall alignment with the category.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-13T22:24:41",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on objectives and planning rather than team motivation or dynamics.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which relates to Agile methodologies. However, it primarily focuses on the technical aspects of Scrum roles and events rather than a broader Agile strategy.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-13T22:24:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Product Goal within the context of Scrum, focusing on team-level practices rather than organisational scaling of agility.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which is a tactical aspect of Agile methodologies. While it touches on the importance of having a clear objective that aligns with organisational goals, it lacks a broader discussion on Agile strategy as a whole. The focus is more on the implementation of Scrum practices rather than strategic alignment or long-term success through Agile principles.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -451,21 +472,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-13T22:24:54",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the Product Goal as a commitment for the Scrum Team, highlighting its importance in guiding the team's focus and objectives.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Product Goal, which is a key aspect of Scrum Teams, highlighting its importance for focus and alignment within the team. It directly mentions the Scrum Team and elaborates on how the Product Goal serves as a commitment for the team, indicating a clear understanding of roles and objectives. However, while it touches on team dynamics, it lacks a broader discussion on collaboration techniques, communication strategies, or conflict resolution, which are also crucial for a high-performing Scrum Team.",
     "level": "Secondary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-13T22:24:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, without addressing scaling practices or frameworks for multiple teams.",
-    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -476,39 +491,33 @@
     "reasoning": "Content heavily discusses the Product Goal in Scrum and its role in team focus and objectives, without addressing psychological safety or its related themes.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is relevant to Agile methodologies. However, it primarily focuses on the concept of the Product Goal rather than the role of software developers specifically.",
-    "level": "Tertiary"
-  },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-13T22:25:00",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Product Goal and its role within the Product Backlog, without focusing on the Sprint Review process or its related topics.",
     "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of a Product Goal within the Scrum framework, which relates to value creation and aligning objectives with customer needs. However, the primary focus is on Scrum roles and processes rather than entrepreneurship itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which is more focused on project management and agile methodologies rather than entrepreneurship. While it touches on value delivery and goal setting, these are not explicitly tied to entrepreneurial principles or practices. The discussion lacks depth in terms of entrepreneurial mindset, innovation, or risk-taking, which are core themes of the category. Therefore, the confidence score reflects a low alignment with the entrepreneurship category.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-13T22:25:03",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the Product Goal in Scrum, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
@@ -523,21 +532,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is a framework for Agile transformation. However, it primarily focuses on the specifics of the Product Goal rather than broader Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-13T22:25:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses the Product Goal in Scrum methodology without any mention of AI or its applications.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which is a key aspect of Agile methodologies. It explicitly mentions the Product Goal and its importance in guiding the Scrum Team's focus and objectives. The discussion aligns well with Agile principles, particularly in terms of delivering value and adapting goals based on feedback. However, while it provides a good level of detail about the Product Goal, it does not delve deeply into broader Agile transformation strategies or change management, which slightly limits its depth of discussion. Overall, the content is relevant and informative regarding Agile practices, justifying a relatively high confidence score.",
+    "level": "Secondary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -550,11 +553,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-13T22:25:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Product Goal in Scrum and does not address Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework, focusing on objectives and transparency rather than the principles of Test First Development. There are no direct mentions of testing practices, success criteria, or the importance of testing in the development process, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -640,12 +646,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-13T22:25:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Product Goal within the context of the Scrum framework, detailing its significance and application in guiding Scrum Teams.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which is a key aspect of Agile methodologies. It provides a detailed explanation of the Product Goal's purpose, its role in guiding the Scrum Team, and how it aligns with the overall objectives of Agile practices. The discussion is rich in detail, offering examples and insights into its application, thus demonstrating a strong alignment with the core themes of Agile frameworks. However, while it focuses on Scrum, it does not explore other Agile frameworks or provide a comparative analysis, which slightly limits its overall alignment with the broader category.",
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -665,7 +674,7 @@
     "reasoning": "Content primarily discusses the Product Goal in Scrum and its importance for guiding the Scrum Team, without a focus on Lead Time or its measurement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-13T22:25:32",
     "ai_confidence": 0,
@@ -676,11 +685,14 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-13T22:25:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, which is a strategic aspect of product management.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which is a key aspect of product management. It explicitly mentions the Product Goal multiple times and explains its significance in guiding the Scrum Team's focus and objectives. The discussion aligns well with the strategic aspects of product management, particularly in relation to setting measurable goals and ensuring stakeholder alignment. However, while it provides a good level of detail, it is somewhat limited to the Scrum context and does not delve deeply into broader product management methodologies or frameworks, which slightly reduces the depth score.",
     "level": "Secondary"
   },
   "Continuous Integration": {
@@ -721,11 +733,14 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal in the context of Scrum, which includes improving customer experience as a measurable objective. However, the primary focus is on Scrum roles and the framework rather than customer satisfaction as a central theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, which indirectly relates to customer satisfaction by mentioning the improvement of customer experience and NPS. However, the primary focus is on Scrum roles and objectives rather than a comprehensive exploration of customer satisfaction principles or practices.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -757,11 +772,14 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-13T22:25:43",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the Product Goal and its relationship to the Product Backlog, highlighting its importance in guiding the Scrum Team's focus and objectives.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Product Goal as a commitment within the Product Backlog, highlighting its role in guiding the Scrum Team's focus and planning. It directly mentions the Product Backlog multiple times and explains how the Product Goal relates to it. The discussion aligns well with the core themes of backlog management, particularly in the context of Agile and Scrum frameworks. However, while it provides a good overview, it lacks detailed techniques for backlog refinement or prioritisation, which slightly limits the depth of discussion.",
     "level": "Secondary"
   },
   "Engineering Practices": {
@@ -775,12 +793,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-13T22:25:45",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the Product Goal within the context of the Scrum framework, detailing its purpose, management, and relevance to the Scrum Team.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed exploration of the Product Goal as defined in the Scrum Guide, discussing its purpose, importance, and how it fits within the Scrum framework. It directly references the Scrum Guide and aligns well with key topics such as Scrum artifacts and the role of the Product Goal in guiding the Scrum Team's efforts. The depth of discussion is substantial, offering examples and insights into the practical application of the Product Goal, which enhances its relevance to the Professional Scrum category.",
+    "level": "Primary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -800,30 +821,12 @@
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, without addressing remote working practices or challenges.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-13T22:25:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Product Goal within the context of Scrum, without reference to scaling Agile practices across multiple teams or at an enterprise level.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-13T22:25:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, its importance in guiding the Scrum Team's focus, and its relationship to the Product Backlog.",
-    "level": "Secondary"
-  },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-13T22:25:52",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on objectives and planning rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
@@ -845,22 +848,16 @@
     "reasoning": "The content discusses the Product Goal in Scrum, which is related to transparency in terms of providing focus and clarity for the Scrum Team. However, the primary focus is on the Product Goal itself rather than a broader discussion on transparency as a central theme.",
     "level": "Tertiary"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-13T22:25:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Product Goal within the context of Scrum, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal in Scrum, which relates to team commitments and ownership, but it primarily focuses on the definition and examples of the Product Goal rather than accountability as a central theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, which relates to team commitments and objectives. However, it does not explicitly address accountability as a principle of ownership or the distinction between accountability and blame. While it touches on the importance of the Product Goal for team focus and collaboration, it lacks depth in exploring strategies for fostering a culture of accountability or the impact of accountability on team dynamics.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -883,38 +880,50 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T22:26:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the Product Goal within the Scrum framework, without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework, which is relevant to Scrum but does not focus on the role of the Scrum Master. While it touches on aspects of Scrum that a Scrum Master would facilitate, such as team focus and objectives, it lacks direct discussion of the Scrum Master's responsibilities, techniques, or influence on team dynamics. Therefore, it aligns with the category conceptually but does not delve deeply into the specific role of the Scrum Master.",
+    "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal within the Scrum framework, which relates to operational practices in Agile. However, it primarily focuses on the concept of the Product Goal rather than broader operational efficiency techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, which is related to operational practices in Agile. However, it primarily focuses on the definition and examples of the Product Goal rather than providing in-depth techniques or strategies for enhancing operational efficiency. The discussion lacks detailed exploration of process optimisation or continuous improvement strategies, which are key aspects of the Operational Practices category.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-13T22:26:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Product Goal within the Scrum framework, which is a key aspect of Agile methodologies in software development.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which is a key aspect of Agile methodologies in software development. It explicitly mentions the Scrum Guide and details how the Product Goal serves as a commitment for the Scrum Team, aligning closely with the themes of Agile practices and the Software Development Life Cycle. The depth of discussion is substantial, providing examples and explaining the importance of the Product Goal in guiding the team's focus and objectives. Overall, the content is highly relevant to software development practices.",
+    "level": "Primary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-13T22:26:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Product Goal in the context of Scrum, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework, focusing on its importance for team focus and transparency. While it touches on aspects of goal setting that could relate to delivery, it does not explicitly address Continuous Delivery principles, practices, or the role of automation, which are central to the category. The discussion is more aligned with Scrum methodology rather than Continuous Delivery.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -928,12 +937,15 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which relates to product vision and objectives. However, it primarily focuses on Scrum practices rather than broader product strategy methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is related to product strategy. However, it primarily focuses on Scrum practices rather than broader product strategy methodologies. While it mentions the importance of having a clear goal and aligns with customer needs, the depth of discussion is more about Scrum implementation than strategic planning or market analysis.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -946,21 +958,27 @@
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal, which is related to the Increment as it guides the Scrum Team towards delivering value. However, the primary focus is on the Product Goal itself rather than the Increment specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the Product Goal, which is related to the Increment in terms of guiding the Scrum Team's focus and objectives. However, it primarily centres on the concept of the Product Goal rather than the Increment itself. While it touches on the importance of delivering value, it lacks a detailed exploration of how Increments are produced or their significance in Agile frameworks. The discussion is more about setting goals rather than the delivery of working software increments.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-13T22:26:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the context of Scrum, which is a key aspect of Agile Planning. It explains how the Product Goal serves as a commitment for the Scrum Team to plan against, aligning with Agile principles of flexibility and value delivery.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is a key aspect of Agile Planning. It explicitly mentions the importance of the Product Goal in guiding the Scrum Team's planning efforts and aligns well with Agile principles of flexibility and adapting to changing requirements. The depth of discussion is substantial, providing examples and explaining the significance of the Product Goal in relation to the Product Backlog and overall project objectives.",
+    "level": "Primary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -973,12 +991,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal within the Scrum framework, highlighting its practical implications for guiding the Scrum Team's focus and adaptability. However, it primarily revolves around the definition and examples of the Product Goal rather than broader pragmatic problem-solving strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, highlighting its importance for focus and adaptability in project management. It provides practical examples and emphasises the need for the Scrum Team to adjust the goal based on value, aligning well with pragmatic thinking principles. However, while it touches on practical applications, it lacks extensive depth in problem-solving strategies or real-world case studies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -991,20 +1012,23 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-13T22:26:23",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, without a focus on customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-13T22:22:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework, which is directly related to delivering value to customers by aligning the Scrum Team's efforts towards measurable objectives that enhance customer satisfaction.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, highlighting its role in guiding the Scrum Team towards delivering value. It mentions the importance of aligning the Product Goal with customer needs and the iterative nature of achieving it. However, while it touches on value delivery concepts, the focus is more on the Product Goal itself rather than broader strategies or methodologies for value delivery, which slightly limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -1027,11 +1051,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T22:22:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, without a focus on evidence-based management principles or empirical data.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the Product Goal within the context of Scrum, focusing on its role in guiding the Scrum Team's efforts. While it touches on the importance of having a clear objective and the need for adaptability, it does not explicitly engage with the principles of Evidence-Based Management or provide empirical metrics related to value delivery, innovation, or decision-making. The discussion is more aligned with Scrum practices than with evidence-based management strategies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -1063,20 +1090,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal in Scrum, which relates to setting measurable objectives that can guide team efforts and improve focus, aligning with the principles of metrics and learning. However, the primary focus is on the concept of the Product Goal rather than a detailed exploration of metrics or learning methodologies.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-13T22:22:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on objectives and planning rather than resilience or change management strategies.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the Product Goal within the context of Scrum, focusing on objectives and planning. While it touches on measurable outcomes (e.g., reaching new users, improving NPS), it lacks a strong emphasis on metrics, data analysis, or feedback mechanisms that are central to the 'Metrics and Learning' category. The discussion is more about goal-setting and team focus rather than evidence-based decision-making or continuous improvement methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1108,20 +1129,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-13T22:22:50",
+    "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of the Product Goal within Scrum, which is not related to installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-13T22:22:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the Product Goal within the Scrum framework, which is unrelated to the principles of the One Engineering System.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
@@ -1142,32 +1154,17 @@
     "reasoning": "Content primarily discusses the Product Goal within the Scrum framework, focusing on objectives and planning rather than engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, highlighting its importance for team focus and collaboration, which aligns with the category's emphasis on team dynamics and process methodologies.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-13T22:22:58",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, detailing its importance and role in guiding the Scrum Team's efforts.",
-    "level": "Secondary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-13T22:23:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which is central to the planning and delivery of software products. It highlights the importance of setting objectives that guide the Scrum Team's efforts towards delivering value, aligning well with the principles of product delivery.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the concept of the Product Goal within the Scrum framework, which is a critical aspect of product delivery methodologies. It aligns well with the core themes of product delivery, such as planning and prioritising product features, and the iterative nature of development. The depth of discussion is substantial, providing examples and explaining the importance of the Product Goal in guiding the Scrum Team's efforts towards delivering value. Overall, the content is highly relevant to the category of Product Delivery.",
+    "level": "Primary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1180,21 +1177,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T22:23:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework, which is a project management methodology. While it touches on aspects of team focus and objectives, it does not engage with the core principles of DevOps such as collaboration, automation, or shared accountability. The discussion is centred around Scrum roles and events, making it largely irrelevant to the DevOps category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is a framework that supports agile methodologies. While it touches on aspects of organisational agility, such as adaptability and focus on customer value, the primary focus is on Scrum roles and events rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is a framework that embodies Agile principles. It mentions the importance of adaptability in achieving the Product Goal, aligning with the category's focus on organisational agility. However, the discussion is primarily centred on Scrum practices rather than broader organisational strategies or cultural shifts, which limits its depth in the context of organisational agility.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1214,15 +1217,6 @@
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on objectives and planning rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-13T22:23:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses the Product Goal in Scrum without any mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Value Stream Management": {
     "category": "Value Stream Management",
     "calculated_at": "2025-02-13T22:23:12",
@@ -1232,22 +1226,16 @@
     "reasoning": "Content heavily discusses the Product Goal within the context of Scrum, which is not directly related to Value Stream Management principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is a methodology related to Agile practices. While it touches on practical aspects of setting goals for Scrum teams, it does not delve deeply into specific tools or techniques that enhance Agile or DevOps practices.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which is a key aspect of Agile product development, but it primarily focuses on Scrum roles and events rather than a broader discussion of the Agile Product Operating Model.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the Product Goal within the context of Scrum, which is a specific agile framework. While it touches on the importance of having a clear objective that aligns with product management principles, it does not delve deeply into the broader Agile Product Operating Model or its key topics. The focus is more on Scrum practices rather than the integration of agile methodologies with product management as outlined in the APOM framework.",
     "level": "Tertiary"
   },
   "Market Adaptability": {
@@ -1259,41 +1247,29 @@
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on its role in guiding the Scrum Team rather than on market adaptability strategies or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-13T22:23:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on its role in guiding the Scrum Team's objectives rather than exploring methodologies for innovation or continuous learning.",
-    "level": "Ignored"
-  },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-13T22:23:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, which is central to Agile Product Management practices.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which is a key aspect of Agile Product Management. It explicitly mentions the role of the Product Goal in guiding the Scrum Team's efforts and aligns well with the principles of maximising product value and responding to customer needs. The depth of discussion includes examples and the importance of adaptability in achieving the Product Goal, further reinforcing its relevance to Agile practices.",
+    "level": "Primary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the Product Goal within the context of Scrum, which relates to business agility principles, but primarily focuses on Scrum roles and events.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the Product Goal in Scrum, which relates to transparency and focus on progress. However, it primarily focuses on the definition and examples of the Product Goal rather than a broader discussion on transparency and accountability within Agile teams.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which is a specific agile methodology. While it touches on aspects of goal-setting and adaptability, it does not explicitly address broader principles of business agility or the organisational context necessary for swift adaptation and innovation. The discussion is more focused on Scrum practices rather than the overarching themes of business agility, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1302,15 +1278,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, which is not central to the principles of Beta Codex.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-13T22:23:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, which is unrelated to software code quality or complexity.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -1324,38 +1291,14 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes a personal anecdote about creating a Visionary Goal with a Business Doctor, which relates to the broader theme of Agile but primarily discusses the Product Goal in a technical context.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-13T22:23:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, without reference to any specific events or presentations.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of the Product Goal within the context of the Scrum framework, which is relevant to Agile methodologies. However, it primarily focuses on the definition and implications of the Product Goal rather than reviewing or analysing specific products or literature.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-13T22:23:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of the Product Goal within the Scrum framework, lacking a focus on news, updates, or reviews related to Agile or DevOps.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on its definition and importance. While it briefly mentions a personal experience with a 'Visionary Goal' created with a Business Doctor, this personal anecdote is overshadowed by the technical explanation of the Product Goal. The direct mentions of personal context are limited, and the depth of discussion on personal insights is minimal, leading to a low confidence score in the 'Personal' category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1369,11 +1312,454 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:05:03",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Product Goal within the Scrum framework, detailing its importance and role in guiding the Scrum Team's efforts.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the Product Goal within the Scrum framework, which touches on aspects of collaboration and transparency. However, it primarily focuses on the technicalities of Scrum rather than the broader implications of social technologies in fostering collaboration and decision-making. While there are mentions of team dynamics and objectives, the depth of discussion on social frameworks and methodologies is limited.",
+    "level": "Tertiary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:06:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Product Goal in Scrum, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:06:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses the Product Goal in Scrum methodology without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 50,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the concept of the Product Goal, which is a key element of the Scrum framework. It references the 2020 Scrum Guide and explains the significance of the Product Goal in relation to the Product Backlog and the Scrum Team's objectives. The discussion aligns well with Scrum principles, particularly in terms of transparency, focus, and iterative progress. The depth of the content is substantial, providing examples and elaborating on the importance of the Product Goal, which further supports its classification under Scrum.",
+    "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on objectives and planning rather than integrating testing, security, or compliance earlier in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the discussion does not align with its core themes or provide depth on the topic.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework, focusing on its role in providing direction and transparency for teams. While it touches on aspects of adaptability and the importance of revising goals based on value, it lacks a comprehensive exploration of Continuous Improvement principles. The discussion is more centred on Scrum practices rather than a broader commitment to ongoing improvement across processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 0,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the Product Goal within the Scrum framework, which is a key aspect of aligning team efforts with common objectives. It highlights the significance of the Product Goal in guiding the Scrum Team's focus and decision-making, thus aligning well with the core themes of Common Goals. The depth of discussion is substantial, providing examples and explaining the importance of the Product Goal in relation to overall team objectives and organisational performance.",
+    "level": "Primary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the Product Goal in Scrum, which indirectly relates to competence by emphasising the importance of focus and transparency for team success. However, it primarily centres on the definition and examples of the Product Goal rather than delving into continuous learning, skill development, or the broader implications of competence in Agile methodologies. The mentions of competence are limited and not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:49:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework, which is not directly related to the One Engineering System. While it touches on aspects of goal setting and team focus, it lacks explicit references to the principles, integration, or standardisation of engineering practices that define 1ES. The discussion is more centred on Scrum methodology rather than the broader context of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework, focusing on its role in driving team focus and transparency. While it touches on the importance of adapting goals based on value, it does not explicitly address the concept of Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the intentional shaping of outcomes, which is central to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T17:26:23",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the concept of the Product Goal within Scrum, discussing its importance and characteristics, which aligns more with Agile methodologies than with the specific challenges and discussions surrounding Hybrid Agile. There is no mention or critical examination of the merging of traditional project management with Agile practices, nor does it explore any typical issues associated with Hybrid Agile implementations. The lack of direct relevance to the Hybrid Agile category leads to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the concept of the Product Goal within the Scrum framework, which is a traditional management practice and does not discuss the principles or concepts related to Cell Structure Design, such as decentralisation, autonomous cells, or the Beta Codex. The content is entirely centered around establishing objectives in a Scrum context, lacking any relevance to the category of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Product Goal in Scrum and its importance for providing focus and transparency to the Scrum Team. It emphasizes how the Product Goal serves as a guiding principle for decision-making and planning, aligning well with the category of Principles. However, while it mentions actionable aspects related to the Product Goal, it doesn't delve deeply into the broader principles guiding Agile and Scrum as a framework. The discussion is relevant but somewhat limited in scope regarding larger principles and team behaviors.",
     "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the concept of the Product Goal within Scrum, which is a specific agile framework. While it touches on project management principles such as objectives and alignment, it does not cover broader project management methodologies, lifecycle phases, tools, or common challenges. The depth of discussion remains limited to the Scrum context, which excludes a comprehensive look at project management as a whole.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the Product Goal in Scrum, detailing its importance and characteristics without any reference to Open Space Agile principles or practices. It discusses traditional Scrum concepts and does not address themes such as collective participation, psychological safety, or shared ownership, which are central to Open Space Agile. Therefore, it does not align with the category's core themes and offers minimal relevant depth.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, focusing on its importance, description, and examples. However, it does not explicitly mention any specific tools or software applications that facilitate workflows, nor does it delve into comparative analyses or best practices related to tool selection or implementation. Instead, it centers around a conceptual discussion of Scrum roles and objectives, which is outside the scope of the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content discusses the Product Goal in Scrum but does not mention Liberating Structures or specific facilitation techniques. It focuses on Scrum principles and roles rather than methods for enhancing team interactions, which is essential for this category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Values",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Product Goal in Scrum, emphasizing its role as a commitment that drives focus and transparency. However, it primarily frames the Product Goal in terms of objectives and measurable outcomes rather than as a guiding belief or principle. While it touches upon important aspects of values like focus and commitment, it does not delve deeply into the philosophical underpinnings or ethical considerations of the Scrum values themselves. Therefore, while there is some alignment with the concept of values, the content is more focused on objectives and processes than on the foundational beliefs guiding behavior and decision-making within the organization.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on the concept of the Product Goal within Scrum, which is a specific practice rather than a philosophical discussion. While it touches on the importance of having a goal to provide focus and guide decision-making, it lacks a deep exploration of the underlying philosophy of Agile, Lean, or DevOps. It mentions aspects of strategic alignment but does not delve into broader cultural or philosophical implications. As such, it only minimally qualifies for the Philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the specific concept of the Product Goal within the Scrum framework, focusing on its definition and role in guiding team efforts. While it mentions Scrum, which is part of a discipline, it does not delve deeply into the overarching principles, methodologies, and systemic application of that discipline. The exploration of discipline as a concept is minimal, hence the relatively low confidence score. Additionally, while it provides some examples of Product Goals, it lacks a broader discussion on the continuous learning and maturity aspects of Agile practices as a discipline.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 33,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the Product Goal within the context of the Product Backlog in Scrum, making explicit connections to the purpose and role of this artifact within Agile methodologies. The direct mentions of the Product Goal and its relationship to the Product Backlog indicate a strong focus on artifacts. There is substantial alignment with the core themes surrounding transparency and purpose in Agile, as well as mentions of how it guides the Scrum Team's work and decision-making. The depth of discussion is significant, providing specific examples of Product Goals and elaborating on the implications of having such a goal. However, it lacks broader coverage of other artifact types or comprehensive best practices, which slightly lowers the depth score.",
+    "level": "Secondary"
+  },
+  "Observability": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of the Product Goal within Scrum practices, emphasizing the importance of transparency and focus in achieving objectives. However, it does not discuss observability in terms of measuring and understanding the internal states of a system based on generated data. There is no direct mention of observability, and while the idea of tracking progress towards a goal has tangential relevance to observability, it is not the core topic. Therefore, the confidence score reflects the minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the concept of the Product Goal in Scrum, which, while related to project focus and objectives, does not directly discuss Time to Market as defined. Although the importance of setting goals can indirectly impact the speed of delivery of value, the content does not explicitly explore metrics, strategies, or assessments around Time to Market. Thus, while there are brief mentions that touch on value delivery, they do not constitute a primary focus or provide detailed insight aligned with Time to Market.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content focuses on the concept of the Product Goal within the Scrum framework, which aligns closely with product development methodologies. It discusses how the Product Goal drives the Scrum team's focus and transparency, thus aligning with key themes such as customer feedback and iterative development. The explanation of how the Product Goal informs the Product Backlog shows an understanding of aligning strategy with product delivery. However, while the content is detailed and directly relevant, it primarily addresses the Product Goal without delving deeply into broader product development practices or iterative processes outside of Scrum, hence the high but not perfect confidence score.",
+    "level": "Primary"
+  },
+  "Practice": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 16,
+    "ai_depth": 18,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which, while related to team practices, focuses more on the overarching goal and philosophy rather than specific actionable techniques or habits typical of the 'Practice' category. There are mentions of how the Product Goal can guide Scrum Team efforts, but it lacks specific methodologies or repeatable actions that would enhance team performance and collaboration directly.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "While the content discusses elements of the Product Goal in Scrum and emphasizes the importance of a clear objective that teams can rally around, it does not explicitly frame the discussion in the context of the company as a product. Instead, the focus is on Scrum practices and the Product Goal itself, with only peripheral relevance to the broader themes of the CaaP category. There is limited exploration of how these Scrum principles apply to organizational design or customer-centric strategies, which are central to CaaP.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Method",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the Product Goal within the context of Scrum, explaining its importance in guiding the Scrum Team's planning and transparency. While it emphasizes the concept of a Product Goal, which is a methodical component of the Scrum framework, it lacks a comprehensive discussion of specific step-by-step procedures within Scrum. The depth of discussion on how the Product Goal fits into Scrum practices is present, but a more detailed exploration of methods would enhance the alignment with the category. It mentions how the Product Goal serves as guidance and sets objectives, which is relevant to the 'Method' category, but it's not purely instructional in a procedural sense.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within Scrum, focusing on its role in providing direction and transparency for Scrum teams. While it briefly touches upon adaptability and the idea that the team should shift goals if they become less valuable, it does not center around the concept of Unrealised Value as defined. The discussion lacks substantial detail about identifying and measuring untapped opportunities, as well as indicators or strategies pertinent to Unrealised Value in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 3,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework without addressing scaling or the complexities involved in coordinating multiple teams. While the concept of delivering value and having a clear goal is briefly related to the broader themes of scaling Agile, the overall focus remains on Scrum practices rather than frameworks or methodologies related to scaling across teams or enterprises.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Model",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 35.0,
+    "ai_mentions": 15,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the Product Goal within the context of Scrum, focusing on its definition and importance for the Scrum Team. While it touches on how the Product Goal acts as a target for planning and aligns team efforts, it does not delve into broader models or frameworks that analyze or improve systems comprehensively. Therefore, while it mentions model-like characteristics, it lacks the depth of discussion needed to fully align with the Model category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of the Product Goal, which indirectly relates to value by generally referencing goals that focus on improving customer satisfaction and success. However, it does not provide specific metrics or detailed techniques for measuring Current Value, which is essential for a higher confidence score in this category. There are mentions of goals that imply value ('Reach 10,000 new users', 'Improve customer experience') but lack depth in practical application or evidence-based metrics, thus limiting the thoroughness of the discussion towards Current Value concepts.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Product Goal as a core aspect of the Scrum framework, aligning well with Agile principles and providing specific examples. It emphasizes the importance of the Product Goal for transparency and focus, which are key elements of Scrum. However, the discussion primarily focuses on the Product Goal itself rather than a broader exploration of Scrum as a framework, which slightly limits its alignment and depth.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 62.0,
+    "ai_mentions": 14,
+    "ai_alignment": 30,
+    "ai_depth": 18,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the concept of the Product Goal within the Scrum framework, which can be viewed as an actionable tenet guiding decision-making and behavior in Agile methodologies. It addresses how the Product Goal provides focus and transparency and outlines its importance in crafting sprint goals. However, while it touches on actionable items, it doesn't provide strict guidelines or discuss broader tenets like decentralized decision-making or evidence-based practices directly. This leads to a moderate alignment score, but it still emphasizes actionable outcomes, justifying a moderate confidence level.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses primarily on the Product Goal within Scrum, with no mention of GitHub or its functionalities. The discussion is centered around Scrum principles and practices, which is outside the scope of GitHub-specific topics. Therefore, the confidence score remains very low.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 20.0,
+    "ai_mentions": 2,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses primarily on the concept of the 'Product Goal' within the Scrum framework. While it discusses the importance of ensuring transparency and focus, it does not engage with Agnostic Agile principles, such as adapting practices based on context or ethical considerations. The discussion is strictly framed within Scrum's mechanics without addressing any broader context-driven agility principles, which significantly limits its relevance to the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "sVDzuTFDLSJ",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T17:26:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the Product Goal within the Scrum framework, focusing on roles and objectives rather than enduring competencies that contribute to capabilities. While it mentions aspects like transparency and alignment within a team's focus, it does not delve into the characteristics, development, or impact of capabilities in a broader organizational context. The emphasis on the Product Goal itself tends to center around tools and outputs rather than the systemic, long-term capability mentioned in the category definition.",
+    "level": "Ignored"
   }
 }

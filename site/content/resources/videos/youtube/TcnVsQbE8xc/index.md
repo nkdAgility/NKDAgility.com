@@ -2,50 +2,43 @@
 title: Reasons to do a PSM II Course in 60 seconds
 description: 'Discover why elevating your skills with a PSM II course is essential for scrum masters in just 60 seconds! Join Martin Hinshelwood for insights. #PSMII #Agile'
 date: 2023-07-12T14:00:30Z
+weight: 665
 ResourceId: TcnVsQbE8xc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TcnVsQbE8xc
 source: internal
 url: /resources/videos/:slug
-slug: reasons-to-do-a-psm-ii-course-in-60-seconds
+slug: reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
 layout: video
 preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
-- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/videos/TcnVsQbE8xc
 - /resources/TcnVsQbE8xc
-aliasesFor404:
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
+aliasesArchive:
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-seconds
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
 - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
 - /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
-- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
+- reasons-to-do-a-psm-ii-course-in-60-seconds-TcnVsQbE8xc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Master
-- People and Process
-- Agile Frameworks
-- Software Development
-- Agile Project Management
-- Scrum Team
-- Professional Scrum
-- Team Performance
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## 🕒 Think a Minute Isn’t Much?  
 
-It’s enough to learn why the PSM II (Professional Scrum Master II) course can significantly boost your Scrum Master skills and career. 🚀 
+It’s enough to learn why the PSM II (Professional [Scrum]({{< ref "/categories/scrum" >}}) Master II) course can significantly boost your [Scrum Master]({{< ref "/tags/scrum-master" >}}) skills and career. 🚀 
 
 Unlocking Advanced Scrum Mastery 🗝️ 
 
@@ -55,15 +48,15 @@ Advance your Scrum journey with the PSM II course, designed for those who want t
 
 - **Empower the Team**: Learn how to strip away the noise and focus on what makes your team truly effective. 
 
-- **Boost Product Ownership**: Elevate your game in guiding product owners to stellar product management. 
+- **Boost Product Ownership**: Elevate your game in guiding product owners to stellar [product management]({{< ref "/categories/product-management" >}}). 
 
 ## A Closer Look at the PSM II Benefits 
 
 The PSM II course isn't just about learning; it's about applying knowledge for tangible team and organizational benefits. 
 
-- **For the Team**: 🤝 Foster a high-performing team environment, clear hurdles, and inspire continuous improvement. 
+- **For the Team**: 🤝 Foster a high-performing team environment, clear hurdles, and inspire [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). 
 
-- **For the Product Owner**: 🎯 Sharpen your ability to support and challenge product owners in their strategic journey. 
+- **For the [Product Owner]({{< ref "/tags/product-owner" >}})**: 🎯 Sharpen your ability to support and challenge product owners in their strategic journey. 
 
 - **For the Organization**: 🏢 Understand your pivotal role in steering the wider organization towards agile maturity. 
 
@@ -87,4 +80,4 @@ Joining the PSM II course is the beginning of a transformational professional jo
 
 - **Career Growth**: Leverage your advanced skills for new roles and responsibilities. 
 
-🎓 Take that one-minute leap and discover how PSM II can be the game-changer for your agile coaching career. Your future self will thank you! 🌟
+🎓 Take that one-minute leap and discover how PSM II can be the game-changer for your agile [coaching]({{< ref "/tags/coaching" >}}) career. Your future self will thank you! 🌟

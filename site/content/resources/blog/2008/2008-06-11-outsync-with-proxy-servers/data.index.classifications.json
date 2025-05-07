@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses a technical solution for syncing Outlook contacts with proxy servers, which is unrelated to Agile Product Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T12:43:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a sync tool for Outlook and technical instructions for configuring it behind a proxy server, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T12:43:36",
@@ -53,49 +44,16 @@
     "reasoning": "Content primarily discusses technical implementation details related to syncing contacts with Outlook and configuring proxy settings, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T12:43:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical solution for syncing contacts with Outlook and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:43:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a sync tool for Outlook and technical configuration for .NET applications, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T12:43:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical implementation related to syncing contacts with Outlook and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:43:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a sync tool for Outlook and configuration for .NET applications, with no clear focus on DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T12:43:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a sync tool for Outlook and configuration for .NET applications, with no relevance to AI or Agile methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring a sync tool for Outlook behind a proxy server, which is unrelated to DevOps principles or practices. There are no direct mentions of DevOps concepts, and the discussion lacks any depth or alignment with the core themes of DevOps, such as collaboration, automation, or continuous improvement.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,21 +76,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:43:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a sync tool for Outlook and technical configuration for .NET applications, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on configuring a sync tool for Outlook behind a proxy server, which is unrelated to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any relevant topics outlined in the APOM framework. The discussion is purely technical and does not align with the core themes of the category.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content provides a practical technique for configuring a .NET application to work with proxy servers, which aligns with the category's focus on practical application of tooling.",
-    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -152,7 +104,7 @@
     "reasoning": "Content discusses a sync tool for Outlook and proxy server configuration, with no relevance to Kanban principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T12:45:18",
     "ai_confidence": 0,
@@ -215,21 +167,12 @@
     "reasoning": "Content primarily discusses a technical solution for syncing contacts with Outlook and does not address market adaptability or related methodologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T12:45:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for configuring a .NET application to work with proxy servers, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T12:45:31",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical solution for syncing Outlook contacts with proxy servers, which does not relate to metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -244,38 +187,32 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T12:45:34",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details about syncing Outlook contacts and configuring .NET applications, with no personal reflections or experiences related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T12:45:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical solution for syncing Outlook contacts behind a proxy server, lacking relevance to Agile, DevOps, or industry news.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T12:45:37",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a sync tool for Outlook and configuration for proxy servers, which is not related to the management of software applications or their lifecycle.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:45:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides specific instructions on modifying a configuration file to enable a .NET application to work with a proxy server, which aligns with installation and configuration processes.",
+    "final_score": 78.0,
+    "reasoning": "The content provides specific instructions on modifying a configuration file to enable a .NET application to work with a proxy server, which aligns with the installation and configuration theme. However, while it does mention installation indirectly, the primary focus is on a specific use case rather than a comprehensive guide. The depth of discussion is moderate, as it includes a code snippet but lacks broader context or troubleshooting advice.",
     "level": "Secondary"
   },
   "Business Agility": {
@@ -285,24 +222,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical solution for syncing contacts with Outlook and does not address business agility principles or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T12:45:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical instructions for configuring a .NET application to work with proxy servers, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T12:45:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to syncing Outlook contacts and configuring proxy settings, with no focus on discovery or learning processes.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -332,15 +251,6 @@
     "reasoning": "Content primarily discusses a technical solution for syncing contacts with Outlook and does not address organisational agility or related themes.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T12:45:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a sync tool for Outlook and configuration for proxy servers, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T12:45:51",
@@ -352,11 +262,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:45:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical solution for syncing Outlook contacts with proxy servers, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on configuring a sync tool for Outlook behind a proxy server, which is unrelated to Evidence-Based Management. There are no direct mentions of EBM concepts, and the discussion lacks any alignment with the core themes of data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Organisational Physics": {
@@ -442,12 +355,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses modifying a configuration file for .NET applications to work with proxy servers, which aligns with technical practices but primarily focuses on a specific application scenario rather than broader principles of software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content provides a specific technical solution for configuring a .NET application to work with proxy servers, which aligns with the principles of software craftsmanship. However, it lacks broader discussions on best practices, code quality, or architectural principles, making it a secondary focus rather than a primary exploration of technical mastery.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -467,7 +383,7 @@
     "reasoning": "Content is focused on syncing contacts with Outlook behind a proxy server and does not discuss Agile methodologies or large-scale agility.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:01:41",
     "ai_confidence": 0,
@@ -483,15 +399,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a sync tool for Outlook and how to configure .NET applications with proxy servers, with no relevance to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a synchronization tool for Outlook and does not relate to Agile Project Management principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -665,24 +572,6 @@
     "reasoning": "Content is focused on configuring an application to work with proxy servers and does not discuss estimation in Agile or Scrum contexts.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses configuring a .NET application to work behind a proxy server, which is not central to the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a sync tool for Outlook and proxy server configuration, with no relevance to AI, Agile, or DevOps.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T18:01:41",
@@ -694,11 +583,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mainly discusses configuring a .NET application to work behind a proxy server, which is a technical topic related to Windows environments, but does not focus primarily on the Windows operating system itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a specific configuration related to a .NET application that may run on Windows, but it does not explicitly focus on Windows as an operating system. While it mentions a configuration file and proxy settings, the primary focus is on syncing contacts with Outlook and does not delve into broader Windows topics such as installation, troubleshooting, or system updates. Therefore, the confidence score reflects a moderate alignment with the Windows category.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -721,11 +613,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 55.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a specific configuration workaround for .NET applications involving proxy servers, which relates to software development practices, but the primary focus appears to be on usage rather than a broader software development methodology.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses a specific technical solution related to .NET applications and proxy server configuration, which aligns with software development practices. However, the focus is more on a particular tool and its usage rather than broader software development methodologies or principles. The mention of .NET indicates a connection to software development, but the overall depth and breadth of the discussion are limited to a specific scenario.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
@@ -735,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on syncing Outlook with a proxy server and related technical configuration, with no mention of Agile frameworks or principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical solution involving proxy servers and .NET applications, without any connection to Agile practices or scaling.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +670,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:01:41",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical setup for syncing applications with Outlook and integrating with proxy servers, without any focus on innovation capabilities or related strategies.",
     "level": "Ignored"
   },
@@ -883,11 +769,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a tool for synchronizing Outlook contacts with a mobile phone while behind a proxy server, which does not relate to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring a sync tool for Outlook behind a proxy server, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with any of the key topics outlined for this category. The content lacks depth in relation to Continuous Delivery, making it irrelevant to the classification.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -998,15 +887,6 @@
     "reasoning": "Content is focused on syncing contacts with Outlook and configuring proxy settings, with no relation to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a sync tool for Outlook and configuring .NET applications behind proxy servers, which is unrelated to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
     "calculated_at": "2025-02-16T18:01:41",
@@ -1045,11 +925,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses configuring a .NET application to work with proxy servers, which is unrelated to Test First Development principles and practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on configuring a sync tool for Outlook behind a proxy server, which is unrelated to Test First Development principles. There are no direct mentions of testing practices, success criteria, or any related concepts. The discussion is entirely centred on application configuration, lacking any depth or alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1214,31 +1097,28 @@
     "reasoning": "Content focuses on configuring a .NET application to work behind a proxy server, which does not directly relate to deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about syncing contacts and configuring .NET applications behind a proxy server, with no relation to Scrum or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content provides a specific solution for configuring a .NET application to work with proxy servers, which aligns with diagnosing and resolving a technical issue.",
+    "reasoning": "The content discusses a specific issue related to syncing applications behind a proxy server, which aligns with troubleshooting technical problems. It provides a direct solution by modifying a configuration file, indicating a practical approach to resolving the issue. However, the discussion lacks depth and broader context on troubleshooting methodologies, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about syncing Outlook with a proxy server and does not relate to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on configuring a sync tool for Outlook behind a proxy server, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics or responsibilities associated with the Scrum Master role.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1150,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:01:41",
+    "calculated_at": "2025-04-10T15:56:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical instructions for syncing contacts with Outlook and does not relate to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1164,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a syncing tool for Outlook and configuring proxy settings, with no relation to Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about syncing tools for Outlook and configuring applications, with no mention of Scrum or scaling practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1324,21 +1195,15 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the configuration of a .NET application's proxy settings, which aligns closely with system configuration practices.",
+    "reasoning": "The content discusses configuring a .NET application to work with a proxy server, which directly relates to system configuration. It provides specific instructions on modifying a configuration file, demonstrating a practical approach to system setup. However, the overall focus is somewhat limited to a specific use case rather than a broader exploration of system configuration principles, which affects the depth and alignment scores.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:01:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical setup for syncing applications with Outlook and does not relate to scaling agility or agile methodologies.",
-    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1360,11 +1225,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:14:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a sync tool for Outlook and technical configuration for proxy servers, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring a sync tool for Outlook behind a proxy server, which is a technical topic related to software configuration rather than discussions on social technologies, collaboration, or decision-making. There are no direct mentions of social technologies or their principles, and the depth of discussion is limited to technical instructions without any exploration of social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1242,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to syncing contacts with Outlook and configuring proxy settings, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a sync tool for Outlook and configuring .NET applications to work with proxy servers, which is unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:42:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a sync tool for Outlook and configuring .NET applications, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on a technical solution for syncing Outlook contacts with proxy servers, which is unrelated to Scrum principles, roles, events, or practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a sync tool for Outlook and how to configure a .NET application to work with a proxy server. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion lacks depth regarding any Shift-Left practices or principles.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring a specific tool (OutSync) for Outlook behind a proxy server, which is unrelated to the principles of Common Goals in Agile and DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring a specific tool (OutSync) for Outlook behind a proxy server. It does not discuss competence, continuous learning, or skill development in any meaningful way. The mention of a technical configuration does not align with the core themes of competence, and the depth of discussion is minimal, focusing solely on a practical guide rather than any broader professional principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on configuring a tool for Outlook behind a proxy server, which does not relate to Continuous Improvement principles. There are no direct mentions of Continuous Improvement, nor does it align with the core themes such as data-driven decision-making or fostering a culture of experimentation. The depth of discussion is limited to technical configuration, lacking any strategic insights or reflections on process enhancement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:36",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on configuring a sync tool for Outlook behind a proxy server, which is unrelated to the concept of Agentic Agility. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities. The discussion is purely technical and does not engage with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -8,86 +8,47 @@
     "reasoning": "The content primarily discusses technical aspects of connecting a Test Controller to Team Foundation Service, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:07:09",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical steps to connect a Test Controller to Team Foundation Service, including installation, configuration, and troubleshooting, which aligns with the exploration and application of tools in Agile and DevOps practices.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:08:58",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to deployment and testing environments, but it does not primarily focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:07:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of connecting a Test Controller to Team Foundation Service, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:07:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, focusing on setup and configuration rather than code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:07:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to connecting a Test Controller to Team Foundation Service, with no significant emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:07:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, with no clear focus on AI or automation within Agile frameworks.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting a Test Controller to Team Foundation Service, lacking any explicit discussion or alignment with Evidence-Based Management principles. It does not address metrics, empirical decision-making, or value delivery, which are central to EBM.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T19:07:17",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:07:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of a Test Controller to connect with Team Foundation Service, providing step-by-step instructions and troubleshooting insights.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:07:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical steps for connecting a Test Controller to Team Foundation Service, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 85.0,
+    "reasoning": "The content provides a detailed guide on connecting a Test Controller to Team Foundation Service, including installation steps and configuration details. It explicitly mentions the installation of the Agents ISO and the configuration process, aligning well with the key topics of the category. The depth of discussion includes troubleshooting common issues encountered during the setup, which enhances its relevance to the Install and Configuration category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses technical setup and configuration of a Test Controller with Team Foundation Service, without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:07:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of connecting a Test Controller to Team Foundation Service, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated deployment and testing, a key aspect of DevOps practices. However, the primary focus is on the technical steps and personal experiences rather than broader DevOps principles or practices.",
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated deployment and testing, key aspects of DevOps. However, it primarily focuses on the technical steps and configuration rather than the broader DevOps philosophy or principles. While there are mentions of automation and configuration, the depth of discussion does not fully explore the cultural or collaborative aspects of DevOps, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementation details related to connecting a Test Controller to Team Foundation Service, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:07:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical setup and configuration of a Test Controller with Team Foundation Service, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:07:31",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, with no clear focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:07:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of connecting a Test Controller to Team Foundation Service, with no significant focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:07:36",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of connecting a Test Controller to Team Foundation Service, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated deployment and testing practices. However, it primarily focuses on the setup process rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which touches on aspects of automated deployment and testing. However, it lacks a deep exploration of engineering practices or methodologies that enhance agility in software development. While it mentions configuration and troubleshooting, it does not delve into broader principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The focus is more on practical steps rather than a comprehensive discussion of technical excellence principles.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -235,12 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to deployment and testing practices, but it primarily focuses on technical setup rather than broader product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to deployment and testing aspects of product delivery. However, it lacks a comprehensive exploration of methodologies, practices, or strategies that are central to the product delivery category. The discussion is more focused on technical setup rather than broader product delivery principles, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -260,15 +203,6 @@
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, which is unrelated to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T19:07:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of connecting a Test Controller to Team Foundation Service, without focusing on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T19:07:49",
@@ -280,11 +214,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T19:07:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 75.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, which is a component of Azure DevOps, and includes details about configuration and troubleshooting related to Azure DevOps services.",
+    "final_score": 75.0,
+    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, which is a component of Azure DevOps. It provides specific instructions and details about the configuration process, indicating a strong focus on Azure DevOps functionalities. However, while it does mention Azure DevOps services, the discussion is somewhat limited to a specific use case without broader context on other Azure DevOps features or best practices.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,7 +242,7 @@
     "reasoning": "Content primarily discusses the technical process of connecting a Test Controller to Team Foundation Service, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:07:54",
     "ai_confidence": 0,
@@ -316,11 +253,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:07:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on connecting a Test Controller to Team Foundation Service, which is a technical setup rather than a discussion on the Agile Product Operating Model. There are no direct mentions of agile principles, product management, or the key topics outlined in the APOM definition. The content lacks depth in discussing any relevant agile methodologies or frameworks, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +272,16 @@
     "reasoning": "Content primarily discusses technical setup and configuration of a Test Controller with Team Foundation Service, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:07:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial about connecting a Test Controller to Team Foundation Service, lacking a clear discussion on news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to deployment and testing within the application lifecycle. However, it primarily focuses on technical setup rather than broader ALM methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:08:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service and does not focus on Scrum principles, roles, events, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which is related to application deployment and testing. However, it lacks a comprehensive discussion on the broader aspects of Application Lifecycle Management, such as governance, compliance, or lifecycle stages. The focus is primarily on technical setup rather than management practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +295,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, which is unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, which involves software configuration and technical setup. It includes specific technical details about installations, configurations, and troubleshooting, aligning well with the principles of software craftsmanship and engineering practices.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses the process of connecting a Test Controller to Team Foundation Service, which is a technical task. However, it lacks a deeper exploration of best practices, principles of clean code, or methodologies that contribute to software craftsmanship. While it touches on technical aspects, it does not provide substantial insights into improving code quality, maintainability, or broader engineering practices, which are essential for the 'Technical Mastery' category.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +325,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, focusing on setup and configuration rather than Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated deployment and testing. However, it lacks a comprehensive exploration of Continuous Delivery principles, such as rapid feedback, incremental improvements, or cultural aspects. The focus is more on configuration and troubleshooting rather than the broader practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses connecting a Test Controller to Team Foundation Service and related configurations, with no focus on Lead Time or its measurement.",
     "level": "Ignored"
   },
@@ -433,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service and does not address the Definition of Ready or related concepts.",
     "level": "Ignored"
   },
@@ -487,19 +418,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which involves practical application related to deployment and testing automation, a relevant theme in operational practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which is related to operational practices in terms of configuration and deployment. However, it lacks a detailed exploration of techniques or strategies aimed at enhancing operational efficiency. The focus is more on the process of connection rather than on broader operational practices or methodologies like Agile, DevOps, or Lean. Therefore, while there are relevant elements, they do not constitute a primary focus on operational practices.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses technical setup and configuration related to Team Foundation Service and Test Controllers, without any reference to Scrum roles, practices, or team dynamics.",
     "level": "Ignored"
   },
@@ -550,19 +484,22 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions connecting a Test Controller to Team Foundation Service and configuring environments for automated deployment and testing, indicating that automated testing is a significant aspect of the subject, but it is not the primary focus throughout the entire piece.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which implies a focus on automated testing environments. However, it lacks detailed exploration of automated testing principles, methodologies, or best practices. The mention of environments for automated deployment and testing is relevant but not sufficiently detailed to fully align with the category's core themes.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of connecting a Test Controller to Team Foundation Service and does not discuss team dynamics or performance.",
     "level": "Ignored"
   },
@@ -577,37 +514,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service and does not focus on Acceptance Test Driven Development or related principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, which involves aspects of automated deployment and testing, relevant to software development methodologies and practices.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to CI/CD practices and automated testing environments. It provides practical steps and insights into configuration, indicating a focus on software development processes. However, the discussion lacks depth in broader software development methodologies and best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on connecting a Test Controller to Team Foundation Service and does not discuss Agile Project Management principles or methodologies.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of connecting a Test Controller to Team Foundation Service, without any focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +632,6 @@
     "reasoning": "Content primarily discusses technical details about connecting a Test Controller to Team Foundation Service without addressing customer satisfaction or experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about connecting a Test Controller to Team Foundation Service and does not discuss Scaling Scrum or related frameworks, principles, or practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T20:10:16",
@@ -728,22 +650,16 @@
     "reasoning": "Content primarily discusses technical instructions for connecting a Test Controller to Team Foundation Service, with no mention or focus on psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on connecting a Test Controller to Team Foundation Service and configuring environments, with no discussion of scaling agility principles or frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which involves principles of quality assurance and automated testing environments, thus aligning with the category but is primarily focused on configuration rather than broader engineering practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which touches on aspects of automated deployment and testing. However, it lacks a comprehensive exploration of engineering excellence principles, such as coding standards or CI/CD practices. While it mentions configuration and troubleshooting, it does not delve deeply into best practices or continuous improvement in engineering processes, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -784,12 +700,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which involves practical problem-solving and configuration in a real-world environment, relating to Agile principles of collaboration and efficiency. However, the primary focus is more on technical setup rather than broader pragmatic thinking strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses practical steps for connecting a Test Controller to Team Foundation Service, which aligns with pragmatic problem-solving in a real-world context. However, it lacks a deeper exploration of Agile, Scrum, or DevOps principles, and does not provide substantial evidence-based management practices or case studies. The focus is primarily on technical setup rather than broader strategic thinking or adaptability in complex environments.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical configuration and troubleshooting related to Test Controller and Team Foundation Service, without discussing innovation metrics, frameworks, or evidence-based practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service and does not focus on Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical steps to connect a Test Controller to Team Foundation Service, with no mention of Agile scaling frameworks or principles.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,12 +748,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 55.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated testing environments and deployment, but does not focus primarily on test automation principles or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which is related to test automation. However, it primarily focuses on the setup process rather than exploring the principles, frameworks, or best practices of test automation. While it mentions automated deployment and testing, the depth of discussion on test automation concepts is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -865,11 +769,14 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to software delivery and testing within Agile frameworks, though it mainly focuses on setup rather than broader themes of working software.",
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to the operational aspect of software. However, it lacks a strong focus on delivering functional software that meets user needs or business objectives. While it touches on configuration and setup, it does not delve deeply into best practices for ensuring software quality or incorporating customer feedback, which are key themes of the 'Working Software' category.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -883,12 +790,15 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated deployment and testing—a critical aspect of Continuous Integration workflows.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which is related to CI practices. However, it lacks a direct focus on Continuous Integration principles, best practices, or tools. The mention of automated deployment and testing is relevant but not explored in depth, and the overall discussion is more about configuration rather than CI as a primary topic.",
+    "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
@@ -919,10 +829,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the configuration and connection of a Test Controller to Team Foundation Service, which is not central to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -973,28 +883,31 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service and does not focus on Cycle Time or related metrics.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
     "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automation in testing and environments that may involve Azure Pipelines, though it is not the primary focus.",
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which is related to Azure DevOps but does not explicitly focus on Azure Pipelines. While it touches on aspects of automated deployment and testing, it lacks a detailed exploration of pipeline configuration, CI/CD practices, or YAML definitions, which are core to Azure Pipelines. The discussion is more about the connection and configuration of services rather than the pipeline processes themselves.",
     "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service and details about configuration without focusing on deployment frequency or related practices.",
     "level": "Ignored"
   },
@@ -1009,10 +922,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical setup and troubleshooting related to connecting a Test Controller to Team Foundation Service, with no clear discussion on team dynamics or collaboration.",
     "level": "Ignored"
   },
@@ -1034,7 +947,7 @@
     "reasoning": "The content primarily discusses technical setup and configuration of a Test Controller with Team Foundation Service, with no clear focus on the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:10:16",
     "ai_confidence": 0,
@@ -1043,22 +956,16 @@
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service and does not focus on the development or utilization of a Minimum Viable Product.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, with no focus on AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses connecting and configuring a Test Controller to Team Foundation Service, which aligns with system configuration practices and methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the process of connecting a Test Controller to Team Foundation Service, which involves specific steps for configuration and setup. It discusses the installation of the Agents ISO, the configuration process, and troubleshooting connection issues, all of which are directly related to system configuration. The depth of discussion includes practical steps and technical details, aligning well with the core themes of the category. However, while the content is rich in practical configuration details, it does not extensively cover broader system optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -1072,10 +979,10 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup and configuration of a Test Controller with Team Foundation Service, without addressing themes of technical leadership, agile practices, or team dynamics.",
     "level": "Ignored"
   },
@@ -1099,28 +1006,34 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service and the steps involved in configuration, without focusing on Test First Development principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, focusing on configuration and deployment rather than the principles of Test First Development. While it touches on automated testing, it lacks a clear emphasis on defining success criteria or the broader concepts of Test First Development, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, with some procedural elements relevant to Windows installation and configuration. However, it does not focus exclusively on Windows, as it also covers specific features of Team Foundation Service and not all aspects are directly related to the Windows operating system.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which is related to Windows in the context of Microsoft products. However, it primarily focuses on the integration and configuration of services rather than the Windows operating system itself. While there are mentions of installation and configuration, the depth of discussion on Windows-specific topics is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service with a focus on configuration rather than deployment methodologies.",
     "level": "Ignored"
   },
@@ -1135,19 +1048,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on technical implementation details related to connecting a Test Controller to Team Foundation Service and does not address team dynamics, engagement, collaboration, or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of connecting a Test Controller to Team Foundation Service without focusing on remote work practices, challenges, or solutions associated with Agile methodologies.",
     "level": "Ignored"
   },
@@ -1162,11 +1075,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service and includes specific troubleshooting steps and error messages encountered during the process, which aligns with troubleshooting in technical contexts.",
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service and includes a personal experience with troubleshooting connection issues, specifically mentioning error messages and the challenges faced due to a flaky hotel WiFi connection. While it does touch on troubleshooting aspects, such as configuration and error handling, the primary focus is more on the process of connecting rather than a systematic approach to diagnosing and resolving technical issues. Therefore, while there is some relevant content, it does not fully align with the core themes of the Troubleshooting category.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1096,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses connecting a Test Controller to Team Foundation Service and does not relate to Scrum Master responsibilities or roles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of connecting a Test Controller to Team Foundation Service, with no direct mention of Scrum Master responsibilities or related concepts. It lacks discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,15 +1124,6 @@
     "reasoning": "Content focuses on technical instructions for connecting a Test Controller to Team Foundation Service, without discussing working agreements or team collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to DevOps practices and automated testing, making it a major but secondary theme in the context of software development.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T20:10:16",
@@ -1225,19 +1135,22 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automation in testing and deployment, albeit it focuses more on the configuration process rather than broader engineering practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automation and CI/CD practices. However, it lacks a direct focus on core engineering practices such as clean code, TDD, or refactoring. The mention of automated deployment hints at relevant practices but does not delve deeply into them, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service and does not address technical debt management or its implications.",
     "level": "Ignored"
   },
@@ -1288,12 +1201,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:08:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content describes connecting a Test Controller to Team Foundation Service (TFS), which is related to Azure DevOps. However, the focus is on configuration and testing rather than source control management or the specific functionalities of Azure Repos. Azure Repos is mentioned in relation to TFS, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service (TFS), which is related to Azure DevOps but does not focus on Azure Repos specifically. While TFS is part of the Azure DevOps suite, the discussion lacks direct references to Azure Repos functionalities, such as source control management, branching strategies, or pull requests. The mention of TFS and its connection to Azure services is secondary to the main topic of configuring a Test Controller, leading to a low confidence score in alignment with the Azure Repos category.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1331,15 +1247,6 @@
     "reasoning": "Content focuses primarily on technical instructions for connecting a Test Controller to Team Foundation Service, with no discussions related to accountability or team dynamics in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:10:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about connecting a Test Controller to Team Foundation Service and does not discuss Kanban principles, scaling Kanban, or related topics.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T20:10:16",
@@ -1351,20 +1258,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T20:10:16",
+    "calculated_at": "2025-04-10T15:55:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service and does not focus on Test Driven Development principles, practices, or cycles.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:48:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of connecting a Test Controller to Team Foundation Service, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting a Test Controller to Team Foundation Service, lacking explicit discussions on collaboration, decision-making, or value delivery. While it mentions configuration and deployment, it does not engage with the core themes of social technologies or provide depth in those areas.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1284,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to connecting a Test Controller to Team Foundation Service, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 50.0,
+    "reasoning": "The content discusses connecting a Test Controller to Team Foundation Service, which relates to automated deployment and testing environments, a component of Internal Developer Platforms. However, the primary focus is on the connection process rather than a comprehensive discussion of IDPs.",
+    "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:20:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses connecting a Test Controller to Team Foundation Service, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, which is unrelated to Scrum principles, roles, events, or practices. There are no direct mentions of Scrum or its core themes, and the discussion lacks depth in any Scrum-related context.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses connecting a Test Controller to Team Foundation Service, focusing on configuration and troubleshooting rather than integrating testing, security, or compliance early in the development process. While it touches on automated testing, it does not explicitly address the Shift-Left Strategy or its principles, benefits, or methodologies.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of connecting a Test Controller to Team Foundation Service, with no explicit discussion of Continuous Improvement principles. While it touches on configuration and deployment, it lacks depth in exploring themes such as empirical evidence, experimentation, or team effectiveness, which are central to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of connecting a Test Controller to Team Foundation Service, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on deployment and testing, it lacks depth in aligning these activities with shared objectives or strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical process of connecting a Test Controller to Team Foundation Service, with minimal discussion on competence or skill development. While it touches on configuration and troubleshooting, it lacks a deeper exploration of continuous learning or the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for connecting a Test Controller to Team Foundation Service, with no explicit discussion of Agentic Agility or its principles. While there is a mention of configuration and deployment, it lacks depth in exploring intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. Overall, it does not align with the core themes of Agentic Agility.",
     "level": "Ignored"
   }
 }

@@ -2,32 +2,36 @@
 title: 'Engaging Your Team: The Secret to Successful Organisational Change'
 description: Unlock the secrets to successful organisational change! Discover how to engage your team, align goals, and foster a culture of participation.
 date: 2023-12-04T11:00:23Z
+weight: 1000
 ResourceId: OMlLiLkCmMY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OMlLiLkCmMY
 url: /resources/videos/:slug
-slug: -shorts-7-virtues-of-agile-chastity
+slug: engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
 layout: video
 aliases:
-- /resources/videos/OMlLiLkCmMY
-- /resources/videos/-shorts-7-virtues-of-agile-chastity
-- /resources/-shorts-7-virtues-of-agile-chastity
 - /resources/OMlLiLkCmMY
-aliasesFor404:
+- /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
+- /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
+- /resources/videos/-shorts-7-virtues-of-agile-chastity
+aliasesArchive:
+- /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
 - /resources/-shorts-7-virtues-of-agile-chastity
+- engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: true
 tags:
+- Team Motivation
 - Organisational Change
 - Change Management
-- People and Process
-- Organisational Psychology
-- Team Motivation
 - Employee Engagement
+- Agile Leadership
+- Organisational Culture
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,16 +39,16 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
-In my journey through organisational change, I've come to realise that the key to success lies not just in the strategies we implement, but in how we engage the people within our organisations. Change can be daunting, and if we want to navigate it effectively, we must involve our teams in the narrative. 
+In my journey through [organisational change]({{< ref "/tags/organisational-change" >}}), I've come to realise that the key to success lies not just in the strategies we implement, but in how we engage the people within our organisations. Change can be daunting, and if we want to navigate it effectively, we must involve our teams in the narrative. 
 
 ### The Importance of Involvement
 
 When embarking on a transformation journey, it’s crucial to remember that people are at the heart of any organisation. Here are some insights I've gathered over the years:
 
-- **Shared Goals**: It’s easy to get caught up in the lofty ambitions of leadership, but the reality is that nobody truly cares about your goals unless they see how those goals align with their own. To foster a sense of ownership and commitment, we must make their goals our goals. This alignment creates a shared purpose that can drive engagement and motivation.
+- **Shared Goals**: It’s easy to get caught up in the lofty ambitions of [leadership]({{< ref "/categories/leadership" >}}), but the reality is that nobody truly cares about your goals unless they see how those goals align with their own. To foster a sense of ownership and commitment, we must make their goals our goals. This alignment creates a shared purpose that can drive engagement and motivation.
 
 - **Crafting the Story**: Every change initiative needs a compelling narrative. This story should not only outline the vision but also highlight the role each individual plays in achieving that vision. When people see themselves as integral to the journey, they are more likely to invest their time and energy into making it a success.
 
@@ -54,7 +58,7 @@ When embarking on a transformation journey, it’s crucial to remember that peop
 
 Creating a culture that embraces change requires ongoing effort. Here are some strategies that have worked for me:
 
-- **Regular Communication**: Keep the lines of communication open. Regular updates about the progress of the change initiative can help maintain momentum and keep everyone informed. Transparency builds trust, and trust is essential for a successful transformation.
+- **Regular Communication**: Keep the lines of communication open. Regular updates about the progress of the change initiative can help maintain momentum and keep everyone informed. [Transparency]({{< ref "/tags/transparency" >}}) builds trust, and trust is essential for a successful transformation.
 
 - **Celebrate Small Wins**: Acknowledge and celebrate the milestones along the way. Recognising achievements, no matter how small, can boost morale and reinforce the belief that the change is worthwhile.
 

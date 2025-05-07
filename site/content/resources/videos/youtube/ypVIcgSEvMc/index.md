@@ -2,42 +2,39 @@
 title: 30% Discount for Existing Alumni Overview
 description: 'Unlock a 30% discount on your learning journey! Join Martin Hinshelwood as he reveals how NKD Agility supports alumni with exclusive offers. #shorts'
 date: 2023-06-09T11:00:46Z
+weight: 1000
 ResourceId: ypVIcgSEvMc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ypVIcgSEvMc
 source: internal
 url: /resources/videos/:slug
-slug: 30-discount-for-existing-alumni-overview
+slug: 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 layout: video
 preview: https://i.ytimg.com/vi/ypVIcgSEvMc/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/30-discount-for-existing-alumni-overview
-- /resources/videos/30-discount-for-existing-alumni-overview
-- /resources/videos/ypVIcgSEvMc
 - /resources/ypVIcgSEvMc
-aliasesFor404:
-- /resources/30-discount-for-existing-alumni-overview
+- /resources/videos/30-discount-for-existing-alumni-overview-ypVIcgSEvMc
+aliasesArchive:
+- /resources/videos/-discount-for-existing-alumni-overview
 - /resources/videos/30-discount-for-existing-alumni-overview
+- /resources/30-discount-for-existing-alumni-overview
+- 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Discovery and Learning
-- Continuous Learning
-- Customer Retention
-- Coaching
-- Mentoring
-- Employee Engagement
+tags: []
 resourceTypes:
 - video
-categories: []
+categories:
+- Uncategorized
 
 ---
-## The DevOps Evolution: More Than a Simple Shift
+## The [DevOps]({{< ref "/categories/devops" >}}) Evolution: More Than a Simple Shift
 
 The path from a DevOps practitioner to a DevOps consultant is one wrapped in curiosity and complexity. It's a testament to growth, an emblem of one's desire to know more and do more.
 
@@ -75,6 +72,6 @@ It's a lifeline, a propellant, enabling them to fortify their skillset, ensuring
 
 ## Embarking on Your DevOps Voyage
 
-If you've contemplated elevating your stature, transitioning from a practitioner to a consultant, or simply deepening your Agile and Scrum expertise, this is your cue.
+If you've contemplated elevating your stature, transitioning from a practitioner to a consultant, or simply deepening your Agile and [Scrum]({{< ref "/categories/scrum" >}}) expertise, this is your cue.
 
 Engage, expand, and excel with our meticulously crafted courses. Remember, your odyssey with us is a treasured alliance. 🚀

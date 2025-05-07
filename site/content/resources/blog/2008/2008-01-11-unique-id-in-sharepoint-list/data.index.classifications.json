@@ -35,12 +35,12 @@
     "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T19:07:00",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,11 +55,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific issue related to configuring a SharePoint list to display a unique auto-generated ID, which is relevant to the configuration aspect of software. However, it is primarily focused on a user query rather than a comprehensive guide or installation procedure.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses a specific issue related to configuring a SharePoint list to display a unique auto-generated ID. While it does not provide a comprehensive installation guide, it does touch on configuration aspects by explaining how to modify the view settings to display existing fields. However, the discussion lacks depth and does not cover broader installation or configuration best practices, which limits its alignment with the category.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not align with Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:07:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:07:08",
@@ -96,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not engage with complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:07:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily addresses a specific issue related to SharePoint list configuration rather than exploring Agile or DevOps tools and methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:07:12",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:07:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and does not discuss Evidence-Based Management or its core themes. There are no direct mentions of empirical decision-making or metrics relevant to EBM, and the depth of discussion is limited to a specific technical solution.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:07:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:07:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint rather than industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a technical issue related to SharePoint and does not mention or align with any principles of the Agile Product Operating Model. It discusses a specific problem regarding unique IDs in SharePoint lists, which is unrelated to agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific issue related to SharePoint lists and does not address platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:07:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not mention Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:07:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:07:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific issue related to SharePoint lists and does not address code quality, complexity, or related best practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:07:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses a technical issue related to SharePoint and does not reference any events, presentations, or discussions relevant to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:07:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:07:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a SharePoint issue related to unique IDs, which is not relevant to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the discussion lacks depth in relation to the category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily addresses a user query regarding SharePoint functionality rather than engineering practices or methodologies that enhance software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:07:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint functionality without addressing human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:07:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily addresses a technical issue related to SharePoint list configuration without any focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:07:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint, not products or literature relevant to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:46:57",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to SharePoint without addressing innovation capabilities or evidence-based management.",
     "level": "Ignored"
   },
@@ -420,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to SharePoint and does not address portfolio management concepts or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an issue related to SharePoint lists and auto-generated IDs, with no clear focus on Scrum product development principles or practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:46:57",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to SharePoint lists and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:46:57",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on resolving a technical issue related to SharePoint, with no relevance to the Definition of Done in Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses SharePoint List functionality and does not mention Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content is focused on resolving a technical issue related to SharePoint, with no relevance to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,30 +470,24 @@
     "reasoning": "Content focuses on a technical query related to SharePoint and unique ID generation, not on collaboration aspects or tools used within Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a specific issue with SharePoint list management and doesn't directly address the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses a technical issue related to SharePoint lists, which involves aspects of software development, specifically in the context of managing data within a software application.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific issue related to SharePoint, which is a software tool, but it does not delve into broader software development methodologies or practices. While it touches on a technical problem and provides a solution, it lacks depth in discussing software development principles or frameworks, making it more of a user support query than a discussion on software development as a discipline.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T19:46:57",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a SharePoint issue related to creating unique IDs in lists, which does not pertain to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -620,7 +509,7 @@
     "reasoning": "Content discusses technical details about SharePoint and unique IDs, which are unrelated to estimation in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:46:57",
     "ai_confidence": 0,
@@ -694,11 +583,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a SharePoint issue regarding auto-generated IDs and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on displaying a unique auto-generated ID in a SharePoint list, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion does not align with the core themes of automation, incremental improvements, or software quality. The depth of discussion is minimal and does not provide any relevant insights into Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to SharePoint and does not focus on hypothesis formulation, experimentation, or any relevant topics associated with hypothesis driven development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a technical issue related to SharePoint and does not discuss AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:46:57",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical issue related to SharePoint, not Agile practices or Definition of Ready.",
     "level": "Ignored"
   },
@@ -971,15 +854,6 @@
     "reasoning": "Content discusses a specific technical issue related to SharePoint and does not address remote working, Agile practices, or related strategies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on SharePoint functionality and does not discuss Kanban principles or scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:46:57",
@@ -987,15 +861,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about addressing a technical issue with SharePoint and does not relate to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical issue related to SharePoint and unique IDs, with no relevance to Agile Project Management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,10 +955,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T19:46:57",
+    "calculated_at": "2025-04-10T15:56:46",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on SharePoint, which is not directly related to the Windows operating system.",
     "level": "Ignored"
   },
@@ -1108,11 +973,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily addresses a specific issue related to SharePoint about generating a unique ID in a list and provides a solution to that problem, which aligns well with troubleshooting.",
+    "final_score": 78.0,
+    "reasoning": "The content addresses a specific issue related to SharePoint, providing a solution for displaying an auto-generated ID in a list. It directly mentions a common problem users face, which aligns with troubleshooting. However, while it offers a practical solution, the depth of discussion is limited to a single issue without exploring broader troubleshooting techniques or methodologies.",
     "level": "Secondary"
   },
   "Entrepreneurship": {
@@ -1268,15 +1136,6 @@
     "reasoning": "Content discusses a technical issue related to SharePoint and does not address asynchronous development principles, practices, or collaboration.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to SharePoint and does not involve any discussions on Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T19:46:57",
@@ -1313,22 +1172,16 @@
     "reasoning": "Content discusses a technical issue related to SharePoint rather than Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to SharePoint and does not discuss scaling agility or related concepts.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on SharePoint list issues and does not discuss any aspects related to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a technical issue related to SharePoint and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related concepts. There is no alignment with the core themes of the category, and the depth of discussion is minimal, as it is solely about a specific technical solution.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1204,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:46:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses a technical issue related to SharePoint and does not relate to Test First Development or its principles.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on displaying a unique ID in a SharePoint list and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant concepts that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:16:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and does not discuss social technologies, collaboration, or decision-making. While it mentions user queries, it lacks depth in exploring frameworks or methodologies that promote collaboration or enhance decision-making within organisations.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1233,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:44:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a specific issue related to SharePoint lists and does not address Internal Developer Platforms or their associated concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:44:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a technical issue related to SharePoint and does not address AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint and does not mention Scrum or its principles, roles, events, or practices. There is no alignment with Scrum concepts, and the depth of discussion is minimal, focusing solely on a specific problem with SharePoint lists.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to SharePoint and does not address any aspects of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it provide any insights into the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and does not discuss competence, continuous learning, or skill development. While it addresses a specific problem, it lacks any reference to the principles of professionalism or quality delivery that are central to the concept of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and does not discuss Continuous Improvement principles. While it addresses a common problem and provides a solution, it lacks any mention of empirical evidence, data-driven decision-making, or a culture of experimentation, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:46",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical issue related to SharePoint and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is limited to a specific technical solution without any exploration of the broader themes of agency or agility.",
     "level": "Ignored"
   }
 }

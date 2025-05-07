@@ -1,21 +1,15 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:40:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an error related to SignTool and CAPICOM, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:41:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content provides a step-by-step guide for resolving an installation issue related to SignTool and CAPICOM, which aligns with the category's focus on installation procedures.",
-    "level": "Secondary"
+    "final_score": 85.0,
+    "reasoning": "The content provides a clear, step-by-step guide on resolving a specific installation issue related to SignTool and CAPICOM, which directly aligns with the category of Install and Configuration. It explicitly mentions the installation of CAPICOM.dll and includes detailed instructions, demonstrating a strong focus on practical implementation. The depth of discussion is high, as it outlines specific actions to take, which enhances its relevance to the category.",
+    "level": "Primary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -24,24 +18,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical error related to software installation and does not address decision-making processes or theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:41:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to SignTool and CAPICOM, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:41:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to SignTool and CAPICOM, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +40,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:41:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to SignTool and CAPICOM, with no mention of Scrum principles, roles, or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum at all and focuses solely on a technical issue related to CAPICOM and SignTool in a .NET context. There is no alignment with Scrum principles, roles, or practices, nor is there any depth of discussion regarding Scrum.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -118,10 +97,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:41:18",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to SignTool and CAPICOM, with no relevance to metrics, learning, or Agile/DevOps practices.",
     "level": "Ignored"
   },
@@ -132,15 +111,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to SignTool and CAPICOM, which is not relevant to platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:41:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily addresses an error related to the use of a specific library (CAPICOM) in a .NET project, without discussing code quality, complexity, or related best practices.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -206,24 +176,6 @@
     "reasoning": "Content discusses a technical error related to software publishing and does not address Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:41:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical issue related to SignTool and CAPICOM, lacking relevance to industry news or reviews.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:41:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content provides a practical solution for resolving a specific error related to the use of SignTool, detailing steps to install and configure CAPICOM, which aligns with the application of tooling in a development context.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:41:43",
@@ -258,15 +210,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses an error related to SignTool and CAPICOM, with no relevance to Agile principles or product operating models.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:41:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses an error related to SignTool and CAPICOM, with no reference to events, presentations, or discussions relevant to Agile, DevOps, or software engineering.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,33 +248,6 @@
     "reasoning": "Content primarily discusses a technical issue related to SignTool and CAPICOM, with no personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:42:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on resolving a technical error related to CAPICOM and SignTool, with no discussion on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:42:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to SignTool and CAPICOM, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:42:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical error related to SignTool and CAPICOM, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T09:42:04",
@@ -350,7 +266,7 @@
     "reasoning": "Content primarily discusses an error related to SignTool and CAPICOM, which is not relevant to DevOps principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:42:07",
     "ai_confidence": 0,
@@ -379,11 +295,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "Content primarily discusses an error related to SignTool, which is a Windows utility, and includes installation steps that involve the Windows operating system's directory and commands.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses an error related to the SignTool and CAPICOM, which are components associated with the Windows operating system. It provides a step-by-step guide for resolving a specific issue that involves Windows system directories and commands. However, while it mentions Windows-related actions, the focus is more on a specific error and its resolution rather than a broader discussion of Windows installation, configuration, or troubleshooting. Therefore, while it aligns with the Windows category, it does not delve deeply into the core themes of the category.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -397,10 +316,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:46:38",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses error resolution for a software tool, which is unrelated to the Definition of Done.",
     "level": "Ignored"
   },
@@ -431,15 +350,6 @@
     "reasoning": "Content is focused on troubleshooting an error related to SignTool and CAPICOM, which does not align with the principles of empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on resolving an error related to software installation and does not discuss Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Increment": {
     "category": "Increment",
     "calculated_at": "2025-02-17T11:46:38",
@@ -460,11 +370,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content provides detailed instructions on configuring the environment for SignTool by installing the proper version of CAPICOM, including steps for file management and registry registration, which are central to system configuration.",
+    "reasoning": "The content directly addresses a specific error related to the configuration of the SignTool and the required CAPICOM version, which falls under system configuration. It provides a step-by-step guide for resolving the issue, demonstrating practical application and depth in the configuration process. However, while it is focused on a specific configuration issue, it does not explore broader themes such as optimisation strategies or security considerations, which slightly limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
@@ -532,11 +445,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses a specific issue related to software publishing and the use of SignTool, which is relevant to the software development process, but it does not primarily focus on methodologies or practices of software development.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a specific error related to the use of SignTool and CAPICOM in a .NET context, which is relevant to software development. However, it primarily focuses on troubleshooting a specific issue rather than broader software development methodologies or practices. The mention of .NET indicates a connection to software development, but the depth of discussion is limited to a procedural guide rather than an exploration of software engineering principles.",
     "level": "Tertiary"
   },
   "Test First Development": {
@@ -611,15 +527,6 @@
     "reasoning": "Content is about technical error resolution related to software, not strategic goals or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on an error related to CAPICOM and SignTool in a software publishing context, with no references to Agile practices or scaling.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T11:46:38",
@@ -676,12 +583,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily addresses a specific error related to SignTool and provides step-by-step instructions to resolve the issue, which aligns well with troubleshooting practices.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly addresses a specific error related to the use of SignTool and provides a step-by-step guide for resolving the issue, which aligns well with the troubleshooting category. It discusses the identification of the problem (the error message) and offers a clear resolution process, demonstrating a strong conceptual alignment with troubleshooting methodologies. The depth of discussion is substantial, as it includes detailed instructions for resolving the issue, making it a primary focus of the content.",
+    "level": "Primary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -712,12 +622,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides specific instructions related to troubleshooting a software deployment issue, which touches on software technicalities; however, the primary focus is on a specific operational error rather than overarching technical principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily addresses a specific error related to the use of SignTool and CAPICOM, providing a step-by-step solution. While it touches on technical aspects, such as file management and permissions, it lacks a broader discussion on software craftsmanship, design principles, or engineering practices. The focus is more on troubleshooting rather than on the methodologies or principles that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -784,10 +697,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:46:38",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on troubleshooting a technical issue with SignTool and CAPICOM, with no mention of Agile values or principles.",
     "level": "Ignored"
   },
@@ -865,10 +778,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:46:38",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses an error related to a software installation, not topics related to backlog item readiness or the Definition of Ready.",
     "level": "Ignored"
   },
@@ -881,7 +794,7 @@
     "reasoning": "Content is focused on resolving an error related to SignTool and CAPICOM, which does not pertain to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:46:38",
     "ai_confidence": 0,
@@ -933,15 +846,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on troubleshooting a technical error related to Signtool and CAPICOM, with no discussion on Agile strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to the SignTool and CAPICOM, which is not directly focused on software development methodologies like Agile or DevOps.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +900,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss or relate to Scrum values; it focuses on an error regarding CAPICOM and SignTool issues in .NET.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Kanban principles; it discusses a technical issue regarding CAPICOM and SignTool in .NET development.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1205,15 +1100,6 @@
     "reasoning": "Content discusses issues with publishing a project using SignTool and does not relate to test automation principles or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to CAPICOM and SignTool, with no relation to Scrum or product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:46:38",
@@ -1261,29 +1147,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:46:38",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on troubleshooting a technical issue related to publishing a project and does not discuss innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on troubleshooting a specific software issue related to CAPICOM and SignTool, with no discussion of agile practices or scaling agility.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses an error related to Signtool and CAPICOM, which is unrelated to Agile Project Management methodologies or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1331,15 +1199,6 @@
     "reasoning": "Content is related to technical troubleshooting of a software issue and does not discuss Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:46:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily addresses an issue related to the SignTool and CAPICOM in the context of .NET development, without discussing AI in Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T11:46:38",
@@ -1374,6 +1233,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to SignTool and CAPICOM, with no relevance to leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:54:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses an error related to SignTool and CAPICOM, which is not relevant to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:54:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses an error related to SignTool and CAPICOM, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily addresses an error related to the SignTool and CAPICOM, which is focused on a specific technical issue rather than discussing the Shift-Left Strategy or its principles. There are no direct mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. The content is unrelated to the core themes of the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

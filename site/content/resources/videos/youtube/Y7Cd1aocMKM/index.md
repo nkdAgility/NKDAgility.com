@@ -2,8 +2,10 @@
 title: How effective is scrum training via digital delivery?
 description: Discover how digital scrum training transforms learning with engaging tools like LEGO and Minecraft, making agile practices accessible and effective!
 date: 2023-01-31T07:00:08Z
+weight: 790
 ResourceId: Y7Cd1aocMKM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Y7Cd1aocMKM
@@ -15,32 +17,23 @@ preview: https://i.ytimg.com/vi/Y7Cd1aocMKM/maxresdefault.jpg
 duration: 384
 isShort: false
 aliases:
-- /resources/how-effective-is-scrum-training-via-digital-delivery
-- /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
-- /resources/videos/Y7Cd1aocMKM
-- /resources/how-effective-is-scrum-training-via-digital-delivery-
 - /resources/Y7Cd1aocMKM
-aliasesFor404:
+- /resources/videos/how-effective-is-scrum-training-via-digital-delivery
+aliasesArchive:
+- /resources/videos/how-effective-is-scrum-training-via-digital-delivery
 - /resources/how-effective-is-scrum-training-via-digital-delivery
 - /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
 - /resources/how-effective-is-scrum-training-via-digital-delivery-
+- how-effective-is-scrum-training-via-digital-delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Frameworks
-- Team Collaboration
-- Agile Project Management
 - Remote Working
-- Practical Techniques and Tooling
-- Software Development
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Uncategorized
 
 ---
 They offer very different experiences, each with their own set of unique pros and cons, but to answer the question simply, no, a live-online class is not as effective as in-person delivery.
@@ -63,7 +56,7 @@ If you asked, which of the formats is better and which would you rather particip
 
 <figcaption>
 
-How effective is scrum training via digital delivery? Is it as good as the in-person courses?
+How effective is [scrum]({{< ref "/categories/scrum" >}}) training via digital delivery? Is it as good as the in-person courses?
 
 </figcaption>
 
@@ -75,7 +68,7 @@ How effective is scrum training via digital delivery? Is it as good as the in-pe
 
 When I train, I use many different training techniques to help the material land and transform the delegate who is attending the course into a competent, capable agile practitioner.
 
-I use ‘training from the back of the room’ techniques, I use ‘training from liberating structures’, and my own techniques developed over years of teaching, coaching, and mentoring others. Using those techniques, you can get 90% of the way you would if you were delivering in-person classes.
+I use ‘training from the back of the room’ techniques, I use ‘training from [liberating structures]({{< ref "/tags/liberating-structures" >}})’, and my own techniques developed over years of teaching, [coaching]({{< ref "/tags/coaching" >}}), and [mentoring]({{< ref "/tags/mentoring" >}}) others. Using those techniques, you can get 90% of the way you would if you were delivering in-person classes.
 
 ## Added benefits of the digital space.
 

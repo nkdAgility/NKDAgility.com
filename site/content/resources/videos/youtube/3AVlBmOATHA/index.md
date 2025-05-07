@@ -2,8 +2,10 @@
 title: How would you help organizations pitch the opportunity of agile internally?
 description: Discover how to effectively pitch agile within your organisation and inspire teams to embrace its transformative potential for continuous improvement.
 date: 2023-02-08T07:15:00Z
+weight: 665
 ResourceId: 3AVlBmOATHA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 3AVlBmOATHA
@@ -14,36 +16,29 @@ preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
 duration: 371
 isShort: false
 aliases:
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
-- /resources/videos/3AVlBmOATHA
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - /resources/3AVlBmOATHA
-aliasesFor404:
+- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+aliasesArchive:
+- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
+- how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Leadership
-- Agile Strategy
-- Change Management
-- Organisational Change
-- Business Agility
 - Agile Transformation
-- Organisational Agility
 - Pragmatic Thinking
-- Sociotechnical Systems
+- Software Development
+- Agile Strategy
+- Value Delivery
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
-- Social Technologies
-- Product Management
+- Product Development
 
 ---
 How would you help organizations pitch the opportunity of agile internally?
@@ -52,23 +47,23 @@ It depends on whether you are managing up or down.
 
 ## Managing up.
 
-If you are working on a team or with a team and you want to adopt agile, but your organization is not yet ready to make the transition from project management to product development, you are going to need to manage up and create a solid business case for agile.
+If you are working on a team or with a team and you want to adopt agile, but your organization is not yet ready to make the transition from [project management]({{< ref "/tags/project-management" >}}) to [product development]({{< ref "/categories/product-development" >}}), you are going to need to manage up and create a solid business case for agile.
 
 The organization simply don’t understand the difference between agile product development and traditional project management, and it can be hard for them to understand why a change is needed, and so you have your work cut out for you.
 
-### Meet the leadership team where they are.
+### Meet the [leadership]({{< ref "/categories/leadership" >}}) team where they are.
 
 If you are in this kind of a scenario, it’s important that you learn to speak their language incredibly well. You are going to need to speak to them in a context they can understand and allow them to explore the opportunity with you without getting sucked into a whole new world of jargon.
 
 Speak in clear, simple terms that allow them to recognise the importance of the agile opportunity.
 
-If their focus is financial management, there is no point in having a conversation about agile or scrum because you are going to have to continually explain what these terms mean and how they are relevant.
+If their focus is financial management, there is no point in having a conversation about agile or [scrum]({{< ref "/categories/scrum" >}}) because you are going to have to continually explain what these terms mean and how they are relevant.
 
 Talk to them about focused product development that:
 
 - Reduces operating costs.
 
-- Improves time to market.
+- Improves [time to market]({{< ref "/tags/time-to-market" >}}).
 
 - Reduces wastage.
 
@@ -78,9 +73,9 @@ If you’re talking to a sales director or CEO, you’re going to be talking abo
 
 - The ability to respond rapidly and effectively to competitor disruption.
 
-- Increased customer satisfaction because of improved quality and utility.
+- Increased [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}) because of improved quality and utility.
 
-- Increased customer retention because of increased customer satisfaction.
+- Increased [customer retention]({{< ref "/tags/customer-retention" >}}) because of increased customer satisfaction.
 
 And so forth.
 
@@ -104,7 +99,7 @@ You can also use metrics to demonstrate how agile allows the organization to shi
 
 ### A focus on the most valuable work at the most valuable time.
 
-The people in finance are going to be interested in reducing fiscal risk whilst the people in sales and marketing are going to be interested in improved customer satisfaction and customer retention. The operations people will be interested in continuous delivery of value and how work flows more effectively and efficiently throughout the organization.
+The people in finance are going to be interested in reducing fiscal risk whilst the people in sales and marketing are going to be interested in improved customer satisfaction and customer retention. The operations people will be interested in [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value and how work flows more effectively and efficiently throughout the organization.
 
 Agile is great at achieving all these results.
 
@@ -126,7 +121,7 @@ In most countries, it is only at this point that you can claim tax benefits or t
 
 In an **agile** environment, you are working on short production cycles of 2 to 4 weeks, which means that you can immediately start writing off $1 million per month, as something is produced, and the compound effect of the savings you achieve is significant.
 
-Traditional project management would only deliver a complete, working product at the end of the 12-month production phase, whilst agile would be delivering a **working product increment** at the end of each **sprint**.
+Traditional project management would only deliver a complete, working product at the end of the 12-month production phase, whilst agile would be delivering a **working product [increment]({{< ref "/tags/increment" >}})** at the end of each **sprint**.
 
 The finance team will be thrilled with the opportunity, the sales and marketing team will be thrilled with the frequent delivery of working product to customers, and the CEO will be thrilled with the focus on producing work that matters, effectively, and receiving validation from customers that what is being built is valuable to them.
 
@@ -140,7 +135,7 @@ You don’t want to impose agile on teams because it only leads to resentment, r
 
 ### A consultative approach.
 
-In any kind of **change management** scenario, you are going to need to get buy-in from people at various stages of the process. The best way to achieve that is for them to understand what problems we are trying to solve, why it is important to solve those problems, and then invite them to explore how those problems could be addressed and resolved.
+In any kind of **[change management]({{< ref "/tags/change-management" >}})** scenario, you are going to need to get buy-in from people at various stages of the process. The best way to achieve that is for them to understand what problems we are trying to solve, why it is important to solve those problems, and then invite them to explore how those problems could be addressed and resolved.
 
 As above, you want to make sure that you are speaking their language and focusing on the metrics or paint points that are relevant to them, and matter to them.
 

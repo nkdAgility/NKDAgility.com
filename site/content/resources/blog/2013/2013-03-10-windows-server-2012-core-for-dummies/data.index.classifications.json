@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T19:21:10",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of setting up and managing Windows Server 2012 Core, with no clear relation to Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T19:21:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for setting up and managing Windows Server 2012 Core, including command line operations and configurations, which aligns well with the category's focus on practical application of tools and methodologies.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T19:21:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussion of Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T19:21:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no significant discussion on code quality, complexity theory, or related best practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T19:21:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details and setup instructions for Windows Server 2012 Core, with no significant emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T19:21:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses setting up and configuring Windows Server 2012 Core, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up and managing Windows Server 2012 Core, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and does not provide any empirical evidence or metrics related to management practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T19:21:23",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of Windows Server 2012 Core, providing detailed step-by-step instructions and command-line examples for various setup tasks, which aligns well with the category's definition.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a comprehensive guide on setting up and configuring Windows Server 2012 Core, detailing specific command-line instructions for various tasks such as enabling remote desktop, registering Windows, managing the server remotely, and configuring network settings. Each section includes actionable steps and commands, demonstrating a strong focus on installation and configuration processes. The depth of discussion is significant, with detailed explanations and troubleshooting tips, aligning well with the key topics of the category.",
     "level": "Primary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T19:21:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical instructions for setting up Windows Server 2012 Core, with no clear discussion on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily focuses on technical instructions for setting up Windows Server 2012 Core, with no significant discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T19:21:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical implementations and setup instructions for Windows Server 2012 Core, with no clear discussion on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses server management and configuration, which are relevant to DevOps practices, particularly in the context of automation and deployment. However, it primarily focuses on Windows Server 2012 Core setup rather than broader DevOps principles or practices.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical setup and management of Windows Server 2012 Core, which is more aligned with system administration than DevOps principles. While there are mentions of remote management and configuration, these do not delve into the collaborative, automated, and continuous improvement aspects central to DevOps. The discussion lacks depth in terms of DevOps culture, shared accountability, or feedback loops, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily focuses on technical implementation and setup of Windows Server 2012 Core, with no discussion of decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T19:21:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no references to events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T19:21:40",
@@ -161,21 +107,12 @@
     "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussions on flow efficiency principles, bottlenecks, or work throughput optimisation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T19:21:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical instructions for setting up Windows Server 2012 Core, with no significant discussion on team dynamics, collaboration, or human factors in technology and product development.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-15T19:21:43",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical setup and configuration of Windows Server 2012 Core, with no discussion on enterprise agility principles or organisational adaptability.",
     "level": "Ignored"
   },
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T19:21:46",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussions on metrics, data utilisation, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on the technical setup and configuration of Windows Server 2012 Core, detailing command-line operations and server management practices. While it touches on technical practices, it does not delve deeply into methodologies or principles that enhance agility or engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on practical steps for setting up and managing Windows Server 2012 Core, which includes command-line operations and configurations. While it touches on technical aspects, such as remote management and firewall settings, it lacks a deeper exploration of engineering practices or methodologies that enhance agility in software development. The discussion does not explicitly mention concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. Therefore, while there are relevant technical details, they do not align closely enough with the core themes of the category.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -253,21 +193,12 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T19:21:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussion on Value Stream Management principles or practices.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses the setup and configuration of Windows Server 2012 Core, which is a software product. However, it lacks a focus on reviews, analyses, or discussions that align with Agile methodologies or DevOps practices, making the category a secondary theme.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -305,7 +236,7 @@
     "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussion of Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-15T19:22:03",
     "ai_confidence": 0,
@@ -316,11 +247,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T19:22:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:57:58",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussion of Agile principles or product-centric development.",
+    "reasoning": "The content focuses entirely on Windows Server 2012 Core setup and management, with no references to agile methodologies, product management principles, or the Agile Product Operating Model. It does not discuss any of the key topics outlined in the category description, such as transitioning to a product ethos or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +266,13 @@
     "reasoning": "Content primarily focuses on technical setup and configuration of Windows Server 2012 Core, with no clear discussion on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T19:22:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for setting up Windows Server 2012 Core, lacking discussions on industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T19:22:10",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no clear discussion on the methodologies, practices, or tools related to Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T19:22:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses Windows Server 2012 Core setup and management, with no clear focus on Scrum principles, roles, events, or practices.",
+    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no clear discussion on the methodologies, practices, or tools related to Application Lifecycle Management.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +286,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:26:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup and configuration of Windows Server 2012 Core, with no mention of the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-15T20:26:55",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical setup and configurations of Windows Server 2012 Core using command-line tools, which aligns with the principles of software craftsmanship and engineering practices in system administration.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on practical steps for setting up and managing Windows Server 2012 Core, which includes command-line operations and configurations. While it touches on technical aspects, such as remote management and firewall settings, it lacks a deeper exploration of software craftsmanship principles, best practices, or methodologies that define 'Technical Mastery'. The discussion is more about operational tasks rather than a comprehensive examination of software engineering excellence.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +316,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:26:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on setting up and managing Windows Server 2012 Core, with no substantial discussion of Continuous Delivery practices, principles, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on setting up and managing Windows Server 2012 Core, with detailed command-line instructions. While it briefly touches on aspects of server management that could relate to deployment, it does not explicitly discuss Continuous Delivery principles, practices, or automation. The content lacks depth in Continuous Delivery topics and does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,19 +355,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:26:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses setting up and configuring Windows Server 2012 Core, with no mention of the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T20:26:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical setup and management of Windows Server 2012 Core, which does not relate to portfolio management practices or methodologies.",
     "level": "Ignored"
   },
@@ -496,10 +418,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:26:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical setups and configurations related to Windows Server 2012 Core, with no relevant information regarding Scrum roles, team dynamics, or collaboration within a Scrum Team.",
     "level": "Ignored"
   },
@@ -550,19 +472,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-15T20:26:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the setup and configuration of Windows Server 2012 Core, with no focus on automated testing principles, practices, or methodologies.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:26:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of setting up and configuring Windows Server 2012 Core, which does not relate to team performance or Agile methodologies.",
     "level": "Ignored"
   },
@@ -586,28 +508,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses setting up and managing Windows Server 2012 Core, with references to Team Foundation Server (TFS), which relates to software development environments. However, the primary focus is on server management rather than software development practices themselves.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on setting up and configuring Windows Server 2012 Core, which is unrelated to Agile Project Management concepts, methodologies, or practices.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, which is relevant to software development in the context of server management and deployment. It discusses command-line operations, remote management, and server roles, which are important for developers working with server environments. However, the discussion lacks depth in software development methodologies or practices, and while it mentions Team Foundation Server (TFS), it does not delve into development processes or best practices. Therefore, while it aligns with the category, it does so in a limited capacity.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:26:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on setting up and configuring Windows Server 2012 Core, with no emphasis on Agile values or principles.",
     "level": "Ignored"
   },
@@ -658,19 +574,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T20:26:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on Windows Server 2012 Core setup and management, with little to no relevance to collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T20:26:55",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is a technical guide on setting up Windows Server 2012 Core, which focuses on command line configurations and system management, unrelated to organizational change or agility.",
     "level": "Ignored"
   },
@@ -701,15 +617,6 @@
     "reasoning": "Content heavily discusses technical implementation details for setting up Windows Server 2012 Core without any mention of customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on setting up and managing Windows Server 2012 Core, and does not discuss Scrum principles or scaling Scrum practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T20:26:55",
@@ -726,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects and configurations of Windows Server 2012 Core without any reference to psychological safety or related topics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:26:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses exclusively on setting up and managing Windows Server 2012 Core, which is unrelated to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,12 +682,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:59",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content outlines practical, experience-based instructions for setting up and managing Windows Server 2012 Core. It discusses real-world applications of command line techniques and troubleshooting steps, aligning with pragmatic problem-solving in complex environments. However, it primarily focuses on server configuration rather than Agile, Scrum, or DevOps contexts, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content provides practical guidance on setting up and managing Windows Server 2012 Core, which aligns with pragmatic thinking in terms of real-world applications and problem-solving strategies. However, it lacks a strong focus on Agile, Scrum, or DevOps frameworks, and the discussion is primarily technical rather than strategic, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +703,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on practical setup and configuration of Windows Server 2012 Core, rather than discussing innovation capabilities, frameworks, or strategies for fostering a culture of innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, which is unrelated to Scrum principles, product development, or iterative practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Windows Server 2012 Core setup and configurations, with no reference to Agile practices or scaling them across teams.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,19 +748,19 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the setup and management of Windows Server 2012 Core, which is not focused on working software within the Agile and Scrum frameworks but rather on system administration tasks and command line operations.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about configuring and managing Windows Server 2012 Core, with no relevance to Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -955,10 +838,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on configuring and managing Windows Server 2012 Core, with little to no discussion about release management practices, strategies, or processes.",
     "level": "Ignored"
   },
@@ -1000,19 +883,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical setup and configuration of Windows Server 2012 Core, which is unrelated to change management principles or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no substantial discussion of team dynamics, collaboration, or related Agile practices.",
     "level": "Ignored"
   },
@@ -1034,7 +917,7 @@
     "reasoning": "The content primarily discusses setting up and configuring Windows Server 2012 Core, with a focus on troubleshooting and command line instructions, without clear links to digital transformation strategies or implications.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:26:56",
     "ai_confidence": 0,
@@ -1043,23 +926,17 @@
     "reasoning": "Content primarily focuses on setting up and managing Windows Server 2012 Core, with no discussion of Minimum Viable Product concepts or related themes.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the setup and administration of Windows Server 2012 Core, with no mention or relation to AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content primarily discusses the detailed processes and methodologies involved in setting up and configuring Windows Server 2012 Core. It includes specific tasks such as enabling remote desktop, managing the server via command line, setting network configurations, and firewalls, all of which are central to the category of System Configuration.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the setup and configuration of Windows Server 2012 Core, detailing specific command-line instructions and best practices for various configuration tasks. It discusses essential topics such as enabling remote desktop, managing firewall settings, and joining a domain, which are all directly related to system configuration. The depth of discussion is substantial, providing detailed steps and commands, thus aligning well with the category's core themes.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1090,30 +967,36 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Windows Server 2012 Core setup and configuration, with no relevant focus on cross-functional teams.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on setting up and configuring Windows Server 2012 Core, with no discussion on Test First Development principles, practices, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on setting up and managing Windows Server 2012 Core, with no direct mention of Test First Development principles, success criteria, or testing practices. It lacks any discussion on automated or manual testing methodologies, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 38,
+    "ai_depth": 36,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses the setup, configuration, and management of Windows Server 2012 Core, making it a clear focus on the Windows operating system environment.",
-    "level": "Secondary"
+    "final_score": 92.0,
+    "reasoning": "The content is primarily focused on Windows Server 2012 Core, discussing installation, configuration, and troubleshooting in detail. It includes specific commands and procedures relevant to managing Windows Server, aligning well with the key topics of the Windows category. The depth of discussion is substantial, covering various aspects such as enabling remote desktop, managing updates, and configuring network settings, which are all critical for effective Windows management.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1135,19 +1018,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical details and setup instructions for Windows Server 2012, with no relevance to team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses setup and configuration of Windows Server 2012 Core, focusing on command line operations and management, without any direct relation to remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1162,11 +1045,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses setting up and configuring Windows Server 2012 Core, addressing common issues and the steps needed to resolve them, such as enabling remote desktop, configuring network settings, and managing firewall rules. These actions align well with the troubleshooting theme as they involve diagnosing and resolving technical setup issues.",
+    "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, with some troubleshooting aspects mentioned, such as enabling remote desktop and managing firewall settings. However, it lacks a systematic approach to diagnosing and resolving issues, which is essential for a strong alignment with the troubleshooting category. The discussion is more about setup than problem-solving, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1066,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-08T18:56:46",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on Windows Server 2012 Core setup and management, with no relevant discussion about Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on technical aspects of setting up and managing Windows Server 2012 Core, with no mention of Scrum, the role of a Scrum Master, or any related agile principles. It does not discuss responsibilities, skills, or the impact of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1092,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses technical setup and management of Windows Server 2012 Core, with no focus on teamwork, collaboration, or working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on setting up Windows Server 2012 Core and managing it via the command line, not directly discussing the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1252,19 +1132,19 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses setting up and configuring Windows Server 2012 Core, focusing on technical implementation details, which is not relevant to product management discussions.",
     "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T20:26:56",
+    "calculated_at": "2025-04-10T15:55:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about technical setup and configuration of Windows Server 2012 Core, with no significant discussion of self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1211,6 @@
     "reasoning": "Content primarily discusses technical setup and configurations of Windows Server 2012 Core, with no focus on accountability, team dynamics, or ownership principles in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:26:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on setting up and configuring Windows Server 2012 Core, with no mention or discussion of Kanban principles or scaling Kanban methodologies.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T20:26:56",
@@ -1360,11 +1231,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:48:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the setup and configuration of Windows Server 2012 Core, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of setting up and managing Windows Server 2012 Core, with no significant discussion on collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their principles, and the depth of discussion is entirely technical without addressing the underlying social frameworks.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1248,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical implementation details and setup instructions for Windows Server 2012 Core, with no discussions on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 20,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on setting up and managing Windows Server 2012 Core, which does not align with the concept of Internal Developer Platforms. It lacks discussions on streamlining development processes or the broader context of IDPs.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:20:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Windows Server 2012 Core setup and configuration, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, with no direct mentions of Scrum principles, roles, events, or practices. While there is a brief mention of Team Foundation Server (TFS), which is related to project management, it does not discuss Scrum or its frameworks in any meaningful way. Therefore, the content does not align with the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on setting up and configuring Windows Server 2012 Core, with no direct mention of the Shift-Left Strategy or its principles. While there are references to configuration and management tasks, these do not align with the proactive integration of testing, security, or compliance early in the software development lifecycle, which is central to the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up and managing Windows Server 2012 Core. While there are brief mentions of improving efficiency through command-line usage, it lacks a comprehensive discussion on Continuous Improvement principles, such as empirical evidence, culture of experimentation, or strategies for integrating Continuous Improvement into processes. The content does not align with the core themes of Continuous Improvement, making it unsuitable for this category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up and managing Windows Server 2012 Core. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of Team Foundation Server is peripheral and does not connect to the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up Windows Server 2012 Core, with minimal discussion on competence or continuous learning. While it touches on the necessity of understanding command-line operations, it lacks a deeper exploration of skill development, professionalism, or the impact of competence on team dynamics and quality outcomes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:20",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for setting up and managing Windows Server 2012 Core, with no explicit discussion of Agentic Agility or its principles. While there are elements of autonomy in server management, the content lacks depth in exploring intentional shaping of outcomes, accountability, or the interplay between human judgement and AI logic.",
     "level": "Ignored"
   }
 }

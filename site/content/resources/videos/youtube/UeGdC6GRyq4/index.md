@@ -2,8 +2,10 @@
 title: Under employed - 30% upfront, balance when you are employed
 description: Struggling to find your dream job? Discover NKD Agility's unique pricing for the under employed—30% upfront, balance upon employment. Watch now!
 date: 2023-06-14T07:00:18Z
+weight: 1000
 ResourceId: UeGdC6GRyq4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: UeGdC6GRyq4
@@ -15,27 +17,26 @@ preview: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
 duration: 257
 isShort: false
 aliases:
-- /resources/under-employed-30-upfront-balance-when-you-are-employed
-- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
-- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
-- /resources/videos/UeGdC6GRyq4
-- /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 - /resources/UeGdC6GRyq4
-aliasesFor404:
+- /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
+- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
+aliasesArchive:
+- /resources/videos/under-employed-upfront-balance-when-you-are-employed
+- /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
 - /resources/under-employed-30-upfront-balance-when-you-are-employed
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
 - /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
+- under-employed-30-upfront-balance-when-you-are-employed
+- /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Miscellaneous
-- Personal
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 

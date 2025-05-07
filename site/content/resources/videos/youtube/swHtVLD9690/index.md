@@ -2,8 +2,10 @@
 title: The Common Challenges of Adopting DevOps Practices
 description: Discover the challenges organisations face in adopting DevOps practices and why real-world production testing is crucial for user experience success.
 date: 2024-08-20T08:04:38Z
+weight: 305
 ResourceId: swHtVLD9690
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: swHtVLD9690
@@ -15,42 +17,38 @@ preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg
 duration: 438
 isShort: false
 aliases:
-- /resources/the-common-challenges-of-adopting-devops-practices
-- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
-- /resources/videos/swHtVLD9690
-- /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 - /resources/swHtVLD9690
-aliasesFor404:
+- /resources/videos/the-common-challenges-of-adopting-devops-practices
+- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
+aliasesArchive:
+- /resources/videos/the-common-challenges-of-adopting-devops-practices
 - /resources/the-common-challenges-of-adopting-devops-practices
 - /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 - /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
+- /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
+- the-common-challenges-of-adopting-devops-practices
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Software Development
-- Software Developers
-- Market Adaptability
-- Operational Practices
 - Pragmatic Thinking
-- Resilience and Change
-- Product Delivery
-- Value Delivery
-- Complexity Thinking
+- Customer Feedback Loops
+- Market Adaptability
 resourceTypes:
 - video
 categories:
 - DevOps
+- Product Development
 
 ---
-When organizations embark on the journey of adopting DevOps practices, they often encounter significant challenges. One of the most common is what I like to call "regression" – the frustrating experience of making two steps forward only to fall five steps back. Let's dive into these challenges and explore how to effectively navigate them.
+When organizations embark on the journey of adopting [DevOps]({{< ref "/categories/devops" >}}) practices, they often encounter significant challenges. One of the most common is what I like to call "regression" – the frustrating experience of making two steps forward only to fall five steps back. Let's dive into these challenges and explore how to effectively navigate them.
 
 ## **The Evolution of Risk Management**
 
 ### **From Traditional to Modern Risk Profiles**
 
-In the traditional software development world – or as I sometimes refer to it, "the old days" – we had a very structured approach to managing risk. We would spend a substantial amount of time designing the product, defining the architecture, listing out features, and then marching toward a release date. This was followed by rigorous testing, usually performed by a separate test team, and finally, a handoff to an operations team for deployment. This approach was heavily reliant on a waterfall model, where each phase followed the previous one in a linear fashion.
+In the traditional [software development]({{< ref "/tags/software-development" >}}) world – or as I sometimes refer to it, "the old days" – we had a very structured approach to managing risk. We would spend a substantial amount of time designing the product, defining the architecture, listing out features, and then marching toward a release date. This was followed by rigorous testing, usually performed by a separate test team, and finally, a handoff to an operations team for deployment. This approach was heavily reliant on a waterfall model, where each phase followed the previous one in a linear fashion.
 
 However, the risk profile in this traditional model is vastly different from what we face today. In the old model:
 
@@ -72,7 +70,7 @@ DevOps changes the game entirely. It demands a new approach to risk management, 
 
 - **Adaptability**: Continuously improving based on real-world feedback.
 
-In the world of DevOps, we no longer have the luxury of long development cycles. Instead, we're working in a continuous delivery environment where speed is of the essence. This brings us to one of the biggest challenges in adopting DevOps: managing risk in a way that doesn't slow us down but rather enhances our ability to deliver value rapidly.
+In the world of DevOps, we no longer have the luxury of long development cycles. Instead, we're working in a [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) environment where speed is of the essence. This brings us to one of the biggest challenges in adopting DevOps: managing risk in a way that doesn't slow us down but rather enhances our ability to deliver value rapidly.
 
 ## **The Importance of Feedback Loops**
 
@@ -88,11 +86,11 @@ In DevOps, the goal is to:
 
 - **Close the loop**: Act on feedback in a timely manner to continuously improve the product.
 
-A great example of the importance of closing feedback loops can be seen in the development of Windows 8. Microsoft invested hundreds of millions of dollars in user experience studies, labs, and testing, yet the product still failed to resonate with consumers. The lesson here is that no matter how much testing and validation you do in controlled environments, the only place to truly validate a product is in production.
+A great example of the importance of closing feedback loops can be seen in the development of [Windows]({{< ref "/tags/windows" >}}) 8. Microsoft invested hundreds of millions of dollars in user experience studies, labs, and testing, yet the product still failed to resonate with consumers. The lesson here is that no matter how much testing and validation you do in controlled environments, the only place to truly validate a product is in production.
 
 ### **"There's No Place Like Production"**
 
-As one of my favorite people, Brian Harry, who used to run the Azure DevOps team, famously said, "There's no place like production." No matter how much testing or validation you do, especially in a service-oriented world with thousands of users, you can't simulate production. The real test of your product comes when it's in the hands of your users, operating in the real world.
+As one of my favorite people, Brian Harry, who used to run the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team, famously said, "There's no place like production." No matter how much testing or validation you do, especially in a service-oriented world with thousands of users, you can't simulate production. The real test of your product comes when it's in the hands of your users, operating in the real world.
 
 This is why closing feedback loops is so crucial. It's not just about collecting data; it's about acting on that data to improve the product continuously. In a DevOps environment, feedback needs to be immediate, actionable, and directly tied to the product's success in the market.
 
@@ -120,7 +118,7 @@ In software, we don't have to suffer from the same challenges as industries like
 
 - **Test in the real world**: Validate the software in production to see how it performs in the market.
 
-- **Adapt based on feedback**: Use market feedback to determine whether the product is increasing or decreasing market share, and adjust accordingly.
+- **Adapt based on feedback**: Use market feedback to determine whether the product is increasing or decreasing [market share]({{< ref "/tags/market-share" >}}), and adjust accordingly.
 
 This rapid iteration and adaptation are at the heart of DevOps. It's about closing feedback loops and using that feedback to continuously improve the product. It's a mindset shift from the traditional model, where testing was a separate phase, to a modern approach where testing and validation are ongoing processes.
 
@@ -154,6 +152,6 @@ Adopting DevOps practices is not without its challenges, but the benefits far ou
 
 - **Flexibility and adaptability**: Respond to changes in the market quickly and efficiently.
 
-- **Continuous improvement**: Use real-world feedback to improve the product and increase market share.
+- **[Continuous improvement]({{< ref "/tags/continuous-improvement" >}})**: Use real-world feedback to improve the product and increase market share.
 
 The journey may be challenging, but with the right mindset and approach, your organization can successfully adopt DevOps practices and reap the rewards. Remember, there's no place like production – so embrace the feedback, manage the risks, and keep moving forward. 🚀

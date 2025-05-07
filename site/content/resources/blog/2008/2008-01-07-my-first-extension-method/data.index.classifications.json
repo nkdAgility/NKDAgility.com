@@ -35,12 +35,12 @@
     "reasoning": "Content heavily discusses technical implementation of extension methods in VB.NET without addressing sociotechnical interactions or organisational context.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T19:12:30",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET extension methods and personal coding experiences, with no relevance to the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T19:12:32",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of extension methods in VB.NET, which is not related to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses the implementation of extension methods in VB.NET, which is a technical topic not related to Agile, Scrum, DevOps, Lean, or Evidence-Based Management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:12:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation of extension methods in .NET without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T19:12:38",
@@ -98,30 +89,21 @@
     "reasoning": "Content primarily discusses the implementation of extension methods in .NET, with no reference to complexity science or its principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of extension methods in VB.NET, which relates to practical techniques in programming, but it is primarily focused on a specific coding example rather than a broader exploration of Agile or DevOps tooling.",
-    "level": "Tertiary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-16T19:12:40",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details of extension methods in VB.NET without any focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:12:41",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of extension methods in VB.NET, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:12:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET programming and extension methods, with no relevance to Evidence-Based Management.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating extension methods in VB.NET and does not discuss Evidence-Based Management or its key topics. There are no direct mentions or relevant metrics related to EBM, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:12:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET extension methods and programming concepts, with no relevance to Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:12:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical implementation of extension methods in VB.NET, lacking relevance to industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on enhancing .NET skills through the creation of extension methods in VB.NET, with no direct mention or discussion of the Agile Product Operating Model or its principles. While there is a brief mention of adding functionality, it does not align with the core themes of product management or agile methodologies. The depth of discussion is limited to technical implementation details, which are unrelated to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET extension methods and specific application development, with no clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:12:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET programming and extension methods, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:12:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses .NET extension methods and does not relate to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:26",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of extension methods in VB.NET, which relates to code quality and maintainability, but it primarily focuses on a specific coding example rather than a broader discussion on complexity in software development.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:12:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses .NET programming and extension methods, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:13:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses .NET extension methods and coding practices without addressing transparency or accountability.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -307,56 +241,35 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T19:13:10",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET extension methods and programming concepts, with no relevance to Value Stream Management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:13:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET extension methods and does not relate to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating extension methods in VB.NET and enhancing .NET skills, with no direct mention of DevOps principles or practices. While there is a brief mention of coding practices, it does not align with the core themes of DevOps such as collaboration, automation, or shared accountability.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of extension methods in VB.NET, which relates to coding practices and modular design, but it primarily focuses on a specific application rather than broader engineering methodologies.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:13:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of extension methods in .NET, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:13:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical implementation details of extension methods in VB.NET without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T19:13:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of extension methods in VB.NET, with no focus on Agile, DevOps, or related literature.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the implementation of an extension method in VB.NET, which is a technical topic. However, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. While it touches on a specific coding technique, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The discussion is more about a coding example rather than a comprehensive exploration of technical excellence principles.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T19:42:28",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses coding in .NET and the creation of extension methods, which are technical topics but do not relate to the measurement or improvement of innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -420,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses .NET extension methods and programming concepts, which do not relate to portfolio management or project alignment.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses VB.NET extension methods and programming practices, with no relevance to Scrum or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T19:42:28",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET programming and extension methods, with no mention of Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T19:42:28",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on .NET programming and extension methods, which are unrelated to Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily focused on .NET programming and extension methods, with no relevance to Agile practices or scaling methodologies.",
+    "reasoning": "Content focuses on .NET programming and extension methods, which are unrelated to Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -541,10 +436,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T19:42:28",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses .NET extension methods and programming, which is unrelated to empirical process control, Agile methodologies, or Scrum principles.",
     "level": "Ignored"
   },
@@ -575,22 +470,16 @@
     "reasoning": "Content primarily discusses .NET extension methods and coding practices, not collaboration tools.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:26",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses extension methods in .NET, which relates to software development, but does not focus on Agile or DevOps methodologies, making it not relevant enough.",
-    "level": "Quaternary"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses extension methods in VB.NET, which is a software development technique. It provides practical information about coding and software design practices related to .NET programming.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the implementation of extension methods in VB.NET, which is a specific coding practice relevant to software development. It provides a clear example of how to create and use extension methods, aligning with best practices in coding and software design. However, while it touches on a relevant topic, the discussion lacks depth in broader software development methodologies or frameworks, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -620,7 +509,7 @@
     "reasoning": "Content primarily focuses on .NET programming and extension methods, with no discussion of estimation practices related to Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T19:42:28",
     "ai_confidence": 0,
@@ -694,11 +583,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on extending functionality in .NET through extension methods, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating extension methods in VB.NET and enhancing .NET skills, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any relevant depth or alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -712,10 +604,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-16T19:42:28",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical implementation details of .NET extension methods without discussing growth mindset, knowledge sharing, or team improvement.",
     "level": "Ignored"
   },
@@ -744,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to .NET programming and extension methods, without any mention of hypotheses, experimentation, or data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on .NET extension methods and does not discuss AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -847,10 +730,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T19:42:28",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET extension methods and not source control practices.",
     "level": "Ignored"
   },
@@ -928,10 +811,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T19:42:28",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on .NET coding and extension methods, with no relevance to Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -955,11 +838,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of extension methods in VB.NET, which is a software engineering practice related to software craftsmanship and design principles. It focuses on best practices and techniques for code improvement and maintainability.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the implementation of extension methods in VB.NET, which relates to software craftsmanship and coding practices. However, it lacks a broader discussion on best practices, principles, or methodologies that contribute to high-quality software development. The focus is primarily on a specific coding example rather than a comprehensive exploration of technical mastery.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -971,15 +857,6 @@
     "reasoning": "Content is focused on technical programming concepts and does not relate to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses extension methods in VB.NET and .NET programming without any relevance to Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T19:42:28",
@@ -987,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses technical implementation details of extension methods in .NET, which is not related to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET extension methods and programming, with no mention of agile methodologies, principles, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1009,10 +877,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-16T19:42:28",
+    "calculated_at": "2025-04-10T15:56:47",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses .NET programming and extension methods, unrelated to Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -1243,12 +1111,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical aspects and best practices of using extension methods in .NET programming, which relates to software craftsmanship, but the primary focus is more on implementation than on overall engineering excellence.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a specific implementation of extension methods in VB.NET, which is a technical detail rather than a broader discussion on engineering excellence. While it touches on coding practices, it lacks explicit mentions of engineering principles, best practices, or continuous improvement processes. The depth of discussion is moderate, providing a code example, but it does not delve into the implications of these practices on software craftsmanship or quality assurance.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1266,15 +1137,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of extension methods in .NET programming, without any reference to asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on .NET programming and extension methods, which is unrelated to Scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,22 +1175,16 @@
     "reasoning": "Content focuses on .NET programming and extension methods, which are unrelated to Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses .NET programming and extension methods, with no relation to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses a technical implementation related to .NET and extension methods, with no focus on Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on .NET programming and creating extension methods in VB.NET, with no direct mention or discussion of the Scrum Master role or related responsibilities. The themes of Scrum, agile principles, or team dynamics are not present, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1207,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T19:42:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses extension methods in VB.NET and does not mention Test First Development or related principles like TDD.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating extension methods in VB.NET and enhancing .NET skills, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any alignment with the core themes of the category, and the depth of discussion is minimal, as it does not address any relevant aspects of Test First Development.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:16:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET extension methods and programming concepts, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating extension methods in VB.NET, with no direct discussion of social technologies, collaboration, or decision-making frameworks. While it mentions enhancing skills, it does not align with the core themes of social technologies, nor does it provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1236,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to .NET and extension methods, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:45:10",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses .NET extension methods and specific programming techniques, with no mention of Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:45:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses .NET extension methods and does not relate to Artificial Intelligence, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on .NET programming and extension methods, with no direct mention of Scrum principles, roles, or practices. While there is a brief mention of project-related concepts, it does not align with the core themes of Scrum, such as team dynamics or iterative processes. The depth of discussion is also minimal, as it does not explore any Scrum-related topics in detail.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating an extension method in VB.NET and does not discuss any aspects of the Shift-Left Strategy. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any insights into the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating extension methods in VB.NET, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there is a brief mention of categorising methods for future use, it does not connect to shared objectives or strategic alignment within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on enhancing .NET skills through practical coding examples, which aligns with the concept of continuous learning. However, it lacks explicit discussions on competence as a foundational principle in Agile or DevOps methodologies. The depth of discussion is moderate, providing some insights into extension methods but not enough to fully engage with the broader themes of competence, such as fostering a culture of skill development or the impact of competence on team dynamics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on enhancing .NET skills through the creation of extension methods in VB.NET, which does not align with the principles of Continuous Improvement. While there is a mention of improving functionality, it lacks a discussion on empirical evidence, data-driven decision-making, or a culture of experimentation, which are core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:47",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating extension methods in VB.NET and enhancing .NET skills, with no explicit discussion of Agentic Agility or its principles. While there is a mention of adding functionality, it does not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The depth of discussion is limited to technical implementation without addressing the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

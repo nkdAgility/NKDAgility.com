@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:14:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses challenges in DevOps environments but primarily focuses on Agile consulting and coaching, making DevOps a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses DevOps challenges and practices, focusing on automation and feedback loops, which are core themes of DevOps. It provides detailed insights into overcoming obstacles in the delivery process and emphasises the importance of mindset shifts and collaboration, aligning well with the principles of DevOps. The depth of discussion is substantial, covering various aspects of the DevOps philosophy, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:14:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and Scrum in the context of DevOps consulting, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses challenges in DevOps and Agile practices, focusing on improving delivery speed and fostering a mindset shift. While it touches on collaboration and decision-making, it does not explicitly mention social technologies or frameworks that promote collective intelligence. The depth of discussion on enhancing processes and communication is present, but it lacks a strong emphasis on the underlying social frameworks that define the category of Social Technologies.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -64,10 +70,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T10:22:00",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on challenges in DevOps consulting and Agile coaching without discussing metrics, data, or learning processes.",
     "level": "Ignored"
   },
@@ -82,30 +88,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to Agile consulting and mentions Agile frameworks like Scrum, but the primary focus is on DevOps in consultation contexts rather than a direct exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses DevOps consulting in Agile environments, with some mention of Scrum and Agile practices, indicating that Scrum is a significant but secondary theme.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content features a discussion by an expert in the context of challenges in DevOps and Agile, which hints at a presentation format, but lacks details about a specific event or structured learning experience.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses challenges in DevOps and mentions agile principles, but it primarily focuses on DevOps practices rather than a detailed exploration of Agile frameworks. While there are references to agile concepts, they are not the main focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -145,10 +136,10 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T10:22:00",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses challenges in DevOps and Agile consulting without a direct focus on customer satisfaction principles, measurements, or strategies.",
     "level": "Ignored"
   },
@@ -181,10 +172,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:22:00",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the challenges in DevOps consulting and does not discuss the Definition of Done.",
     "level": "Ignored"
   },
@@ -235,19 +226,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps consulting and Agile methodologies, without a central focus on Continuous Delivery principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses challenges in delivering products quickly, which aligns with the principles of Continuous Delivery. It mentions automation and feedback loops, both of which are crucial for Continuous Delivery practices. However, the focus is more on general DevOps challenges rather than a deep exploration of Continuous Delivery itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T10:22:00",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses challenges in DevOps consulting and Agile practices, without a focus on collecting or utilizing customer feedback.",
     "level": "Ignored"
   },
@@ -271,10 +265,10 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T10:22:00",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses challenges in DevOps and Agile consulting, without a focus on customer retention strategies or user engagement.",
     "level": "Ignored"
   },
@@ -289,21 +283,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses challenges in DevOps and Agile environments, indicating a focus on software development practices but is primarily centered on consulting and coaching aspects.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses DevOps and its relationship with Agile methodologies, focusing on overcoming challenges in software delivery and improving feedback loops. It aligns well with key topics in software development, such as CI/CD practices and Agile frameworks. The depth of discussion is significant, providing insights into common challenges and the mindset required for effective software delivery, thus demonstrating a strong focus on software engineering practices.",
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions coaching in the context of Agile and DevOps but primarily focuses on challenges faced by a DevOps consultant, which makes coaching a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses challenges in DevOps and Agile delivery rather than focusing on coaching practices. While it touches on the mindset and understanding necessary for effective delivery, it lacks explicit discussions on coaching techniques, building trust, or fostering a growth mindset. The mention of Agile and DevOps does not directly relate to the coaching category, which requires a more supportive and developmental focus.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -316,21 +316,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in Agile consulting, specifically in a DevOps environment, which implies a focus on Agile methodologies, though the primary focus is on DevOps rather than Agile strategy itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses challenges in delivering products quickly and the importance of feedback loops, which aligns with Agile principles. However, it primarily focuses on DevOps practices rather than a comprehensive Agile strategy. While Agile concepts are mentioned, the depth of discussion on strategic alignment and implementation of Agile methodologies is limited.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges faced in Agile and DevOps environments, which can relate to team performance, but it is primarily focused on consulting and broader Agile practices without delving into specific team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses challenges in delivering products quickly and the importance of feedback loops, which are relevant to team performance in an Agile context. However, it primarily focuses on DevOps practices rather than directly addressing team dynamics or collaboration strategies. While it mentions fostering a mindset and engaging with compliance teams, it lacks detailed exploration of Agile ceremonies or specific team performance metrics.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -366,15 +372,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on DevOps and Agile consulting, with no clear primary discussion on Value Stream Management principles or techniques.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses DevOps and Agile methodologies, with a focus on Scrum training and consulting, rather than the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -433,10 +430,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T10:22:00",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile and Scrum consulting without specific mention of Azure DevOps.",
     "level": "Ignored"
   },
@@ -449,15 +446,6 @@
     "reasoning": "Content primarily focuses on Agile coaching and consulting, discussing challenges in DevOps from an Agile perspective without a clear focus on technical practices or engineering excellence.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges faced in DevOps environments from an Agile consultancy perspective, making it a significant theme related to software developers, but not the primary focus.",
-    "level": "Tertiary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T10:22:00",
@@ -465,15 +453,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and Agile consulting, focusing on Agile methodologies rather than Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses agile roles and challenges in DevOps consulting without addressing software code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,39 +484,48 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps challenges and Agile consulting, not specifically focusing on Scrum Master roles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on DevOps challenges and practices, with only a brief mention of agile principles. While it touches on themes like feedback loops and mindset shifts, which are relevant to Scrum, it does not explicitly discuss the role or responsibilities of a Scrum Master. The discussion lacks depth in relation to Scrum-specific practices and the influence of a Scrum Master on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T10:22:00",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses individual Agile practices, DevOps challenges, and consultancy without a focus on scaling Agile across an organization.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in DevOps and Agile environments, highlighting the importance of improving customer experience and leveraging high-performing teams, which are related to value delivery principles. However, the primary focus is more on the challenges of consulting rather than a direct emphasis on value delivery strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the challenges of delivering value quickly in a DevOps context, emphasising the importance of feedback loops and automation, which are key aspects of value delivery. It aligns well with the principles of iterative development and the need for continuous improvement. However, while it touches on relevant topics, it does not delve deeply into specific methodologies or frameworks, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to DevOps and agile consulting, which touches upon technical leadership but primarily focuses on the role of agile coaches in those environments.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses challenges in DevOps and agile delivery, touching on the importance of feedback loops and mindset shifts, which align with technical leadership principles. However, it primarily focuses on personal experiences and general advice rather than providing in-depth strategies or frameworks for leading teams. The discussion lacks explicit references to servant leadership, mentoring, or agile ceremonies, which are crucial for a higher confidence score.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -556,15 +544,6 @@
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on Agile, Scrum, and consulting challenges, without discussing decision-making processes, heuristics, or other elements of Decision Theory.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content primarily focuses on DevOps consulting challenges, it mentions Scrum and Agile methodologies, indicating a connection to Scrum practices. However, Scrum is not the central topic.",
-    "level": "Tertiary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -593,15 +572,6 @@
     "reasoning": "Content primarily discusses DevOps and Agile consulting challenges, lacking a focus on organisational change principles or methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:22:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps challenges and Agile coaching without focusing on scaling Agile practices across multiple teams or at an enterprise level.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T10:22:01",
@@ -610,15 +580,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and Agile, with no clear focus on Lean Thinking principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses challenges in DevOps consulting and the role of Agile and Scrum methodologies, highlighting the need for collaboration and teamwork in these environments, making it a major theme.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,12 +592,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses DevOps consulting and agile coaching, it does mention the positive impact of agile environments and the importance of adapting teams to achieve product development goals, making business agility a significant secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses challenges in delivering products quickly and the importance of feedback loops, which are relevant to business agility. However, it primarily focuses on DevOps practices rather than directly addressing the principles and strategies of business agility. While there are mentions of agile principles and the need for a mindset shift, the depth of discussion on business agility itself is limited, making it a secondary focus.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -667,23 +631,26 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:22:01",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on DevOps consulting challenges and does not discuss the Definition of Ready or its principles.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on challenges faced in DevOps and Agile consulting but does not discuss Lead Time as a primary topic.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-11T12:40:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges of delivering products quickly and the importance of shortening feedback loops, which are directly related to Lead Time. It mentions the lengthy process from concept to delivery and highlights the need for automation and mindset shifts to improve delivery speed. However, while Lead Time is a significant theme, the discussion is somewhat broad and does not delve deeply into specific techniques for measuring or optimising Lead Time, which affects the depth score.",
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:22:01",
     "ai_confidence": 0,
@@ -699,15 +666,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps challenges and consulting roles without a clear focus on Agile leadership practices or principles.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses DevOps consulting challenges and Agile coaching, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -739,30 +697,27 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in DevOps and Agile consulting, with some emphasis on collaboration and team dynamics, but it is primarily focused on the challenges faced by consultants rather than team collaboration itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses challenges in DevOps and Agile environments, focusing on improving delivery speed and fostering communication with compliance teams. While it touches on collaboration and mindset shifts, it does not delve deeply into specific techniques or strategies for enhancing team dynamics or shared ownership, which are central to the Team Collaboration category. The primary focus is on overcoming delivery challenges rather than on team collaboration itself.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses challenges faced in Agile and DevOps environments, indicating a focus on how these methodologies can enhance responsiveness, but does not primarily center on market adaptability strategies.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on challenges in DevOps and Agile consulting without any mention of AI applications.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the challenges of rapid delivery in a DevOps context, highlighting the importance of feedback loops and automation, which are key aspects of Agile methodologies. It also addresses mindset shifts necessary for overcoming barriers to adaptability, aligning well with the principles of market responsiveness. However, while it touches on relevant themes, it does not delve deeply into specific strategies or case studies that would further enhance its alignment with the category.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -793,10 +748,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T10:22:01",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps consulting and agile coaching at the team level without a clear focus on enterprise-wide agility principles.",
     "level": "Ignored"
   },
@@ -808,15 +763,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on challenges in DevOps and Agile consulting, with no specific discussion about the Product Backlog.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses challenges faced by an agile consultant in DevOps environments, indicating a secondary theme of agile practices and consulting.",
-    "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -836,24 +782,6 @@
     "reasoning": "Content primarily discusses DevOps challenges related to Agile consulting, without focusing on technical troubleshooting methods or problem resolution.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in DevOps consulting and the role of coaches, without focusing on specific products or literature.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges faced in DevOps environments and mentions a consulting expert's insights, making it a significant secondary theme related to industry practices.",
-    "level": "Tertiary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T10:22:01",
@@ -872,21 +800,12 @@
     "reasoning": "Content primarily focuses on DevOps challenges and consulting experiences without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses DevOps challenges in consulting settings, with no focus on scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T10:22:01",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses challenges in DevOps consulting and the role of agile coaches and consultants, with no direct focus on cross-functional teams.",
     "level": "Ignored"
   },
@@ -901,12 +820,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses DevOps in relation to Agile coaching and consulting, it mentions challenges in the context of Agile product development, making Agile a significant theme, though not the central focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses challenges in delivering products quickly and the importance of feedback loops, which aligns with Agile principles. However, it primarily focuses on DevOps rather than directly addressing Agile Product Management practices. The mention of Agile principles is present but not the main focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -919,11 +841,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps challenges and Agile consulting, with no focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses DevOps challenges and the importance of feedback loops and automation, but it does not explicitly mention Test First Development or its principles. While there are references to improving testing infrastructure and closing feedback loops, these concepts are not directly tied to the Test First approach. The focus is more on general DevOps practices rather than the specific methodologies of Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -991,48 +916,51 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile concepts in relation to DevOps and emphasizes coaching and consultancy in Agile environments, indicating that Agile philosophy is a major theme, but it's not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses challenges in DevOps that relate to Agile principles, such as the importance of feedback loops and the need for a mindset shift towards agility. However, it primarily focuses on practical DevOps challenges rather than deeply exploring the Agile Philosophy itself. While Agile concepts are mentioned, they are not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses challenges in DevOps environments related to product development and the role of Agile methodologies, indicating a major but secondary theme related to product delivery.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps challenges and Agile/Scrum consulting without a clear focus on scaling agility beyond teams or organizational-wide practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses various challenges and strategies related to product delivery, particularly in the context of DevOps and Agile methodologies. It explicitly mentions the importance of feedback loops, automation, and mindset shifts, which are all critical aspects of effective product delivery. The depth of discussion is substantial, providing insights into overcoming common obstacles and enhancing the delivery process. However, while it aligns well with the category, it does not delve deeply into specific methodologies or metrics, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses challenges in a DevOps consulting context and mentions Agile methodologies, particularly in terms of achieving organizational goals and continuous improvement. While it does mention agility and incorporates topics relevant to organizational agility, it is primarily focused on DevOps consulting rather than a clear primary focus on organizational agility itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses challenges in delivering products quickly and the importance of feedback loops, which aligns well with the principles of organisational agility. It highlights the need for a mindset shift and embracing change, both of which are crucial for fostering agility. However, while it touches on agile principles, it primarily focuses on DevOps challenges rather than a broader organisational agility framework, which slightly limits its depth in the category.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges faced by an agile consultant and includes Agile coaching and methodologies, but it primarily focuses on DevOps and its relationship to Agile rather than solely Agile transformation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the challenges of rapid delivery in a DevOps context, which aligns with Agile principles, particularly around feedback loops and mindset shifts. However, while it touches on Agile concepts, it primarily focuses on DevOps practices rather than a comprehensive exploration of Agile transformation methodologies or frameworks. The discussion on mindset shifts and embracing change is relevant but lacks depth in Agile-specific frameworks or detailed strategies for transformation.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1041,24 +969,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on DevOps consulting and Agile coaching, without discussing Portfolio Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses DevOps and Agile processes, focusing on challenges in those environments without a clear focus on resilience or change management principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses common challenges in DevOps consulting and does not focus on transparency and accountability.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
@@ -1079,15 +989,6 @@
     "reasoning": "Content primarily discusses challenges in DevOps and Agile consulting, without a focus on frequent releases or related practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on challenges faced by an Agile consultant in DevOps environments without detailing specific practical techniques or tools. It emphasizes experience and coaching rather than methodologies or tooling.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T10:22:01",
@@ -1099,11 +1000,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:40:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile and Scrum methodologies, as well as challenges in DevOps consulting, without any clear focus on system configuration.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses DevOps challenges and agile practices, with a focus on speeding up product delivery and improving feedback loops. While it briefly mentions automation, which is relevant to system configuration, the overall discussion is more centred on process improvement and mindset shifts rather than specific system configuration practices or methodologies. The direct mention of automation contributes to the score, but the lack of depth and focus on system configuration limits the overall confidence.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1135,21 +1039,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on DevOps challenges and Agile consulting, without a specific focus on the Agile Product Operating Model or a product-centric approach.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses challenges in DevOps and agile environments without a focus on discovery and learning processes.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 20,
+    "final_score": 42.0,
+    "reasoning": "The content discusses challenges in DevOps and the importance of agile principles, but it primarily focuses on DevOps practices rather than the Agile Product Operating Model itself. While there are mentions of agile methodologies and the need for a mindset shift, the discussion lacks a direct focus on the core principles and frameworks of the Agile Product Operating Model. The content does not delve deeply into product management practices or the transition from project to product ethos, which are central to the category.",
+    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1178,23 +1076,17 @@
     "reasoning": "Content primarily discusses challenges in DevOps and Agile coaching, without a focus on automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses DevOps challenges and Agile methodologies, with no clear focus on Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges in DevOps environments, which relates to pragmatic problem-solving in Agile contexts, but the focus is more on the challenges rather than specific pragmatic solutions.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses practical strategies for overcoming DevOps challenges in an Agile context, focusing on real-world applications such as automation and feedback loops. It highlights the importance of mindset shifts and engaging with compliance teams, which aligns well with pragmatic thinking. The depth of discussion is substantial, providing specific examples and actionable insights, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1261,10 +1153,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:22:01",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps challenges in an Agile consulting context, without a clear focus on Agile values and principles.",
     "level": "Ignored"
   },
@@ -1324,12 +1216,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:40:24",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges in DevOps consulting and agile coaching without mentioning throughput or its measurement and optimization.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses challenges related to speed and delivery in a DevOps context, which indirectly relates to throughput as a delivery metric. However, it does not explicitly define or calculate throughput, nor does it provide detailed analysis or visualisation of throughput metrics. The focus is more on general improvement and mindset shifts rather than a thorough examination of throughput as a specific metric. Therefore, while there are relevant themes, the primary focus is not on throughput itself, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1342,38 +1237,471 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses challenges in DevOps consulting and agile environments without a focus on Evidence-Based Management principles or empirical data application.",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges in DevOps and agile practices, focusing on improving delivery speed and feedback loops. However, it lacks explicit references to Evidence-Based Management principles or metrics. While it touches on concepts like feedback loops and the importance of data-informed decision-making, it does not delve deeply into empirical evidence or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:22:01",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses challenges in DevOps consulting and Agile coaching without focus on installation or configuration topics.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T10:22:01",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on DevOps challenges and Agile practices, with no emphasis on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T10:22:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses operational challenges in DevOps and Agile contexts, focusing on improving delivery speed and efficiency. It explicitly mentions automation, feedback loops, and mindset shifts, which are key operational practices. The depth of discussion is substantial, providing practical insights and strategies for overcoming common challenges, thus aligning well with the category's focus on enhancing operational efficiency.",
+    "level": "Primary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:00:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and consulting roles, with no focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:00:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses challenges in DevOps and Agile consulting without any mention of AI or its applications.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses DevOps challenges and its relationship with Agile, with only brief mentions of Agile principles. While it touches on themes relevant to Scrum, such as feedback loops and team dynamics, it lacks a focused discussion on Scrum roles, events, or artifacts, which are essential for a higher confidence score in the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses challenges in DevOps and the importance of feedback loops, which aligns with the Shift-Left Strategy's focus on early integration of processes. However, it does not explicitly mention the Shift-Left concept or provide in-depth techniques for integrating testing, security, or compliance early in the development process. The discussion is more general about improving delivery speed and overcoming compliance barriers rather than specifically addressing the principles and methodologies of the Shift-Left Strategy.",
+    "level": "Tertiary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses challenges in DevOps and the importance of feedback loops, automation, and mindset shifts, which align with Continuous Improvement principles. However, it primarily focuses on overcoming specific challenges rather than a comprehensive exploration of Continuous Improvement as a primary theme. The discussion is relevant but lacks depth in terms of structured methodologies or frameworks typically associated with Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses challenges in DevOps and Agile practices, focusing on improving delivery speed and feedback loops. However, it lacks explicit mention of Common Goals as a primary focus. While it touches on themes of alignment and collaboration, it does not delve deeply into the significance of shared objectives or frameworks like OKRs, which are central to the Common Goals category.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses challenges in DevOps and Agile practices, touching on the importance of mindset shifts and feedback loops, which are indirectly related to competence. However, it lacks a direct focus on continuous learning or skill development, which are core themes of the competence category. The discussion is more about overcoming challenges rather than explicitly fostering competence or professional development.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses DevOps challenges and agile practices, with a focus on improving delivery speed and feedback loops. While it touches on themes relevant to integration and efficiency, it does not explicitly mention the One Engineering System or its principles. The discussion lacks depth regarding the specific components or best practices of 1ES, leading to a low confidence score in alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges in DevOps and agile practices, focusing on improving delivery speed and feedback loops. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. While it touches on adaptability and mindset shifts, it does not delve deeply into the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:39:34",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the challenges of delivering products quickly and effectively, which aligns with the principles of Agile product development and the importance of feedback loops. It highlights the need for iterative processes and the integration of customer feedback into product design, which are core themes of product development. The depth of discussion on overcoming barriers to rapid delivery and fostering a culture of experimentation further supports its relevance to the category. However, the primary focus on DevOps practices, while related, may detract slightly from a pure product development perspective, leading to a high but not perfect confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:39:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps challenges and strategies for improving product delivery, with no direct mention of Open Space Agile principles or practices. While it touches on themes of collaboration and mindset shifts, these are not explicitly linked to Open Space Agile or its core tenets. The discussion lacks depth regarding the specific mechanisms of Open Space Agile, such as psychological safety or co-creation, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:39:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps challenges and strategies for improving product delivery, with no direct mention of Liberating Structures or their specific techniques. While it touches on themes of collaboration and mindset shifts, these are not explicitly linked to the principles or practices of Liberating Structures. The discussion lacks depth regarding facilitation techniques or their applications, resulting in a low confidence score for alignment with the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:39:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges in DevOps and Agile practices, focusing on improving delivery speed and feedback loops. However, it lacks explicit mentions of Current Value or its metrics, and while it touches on the importance of feedback and delivery processes, it does not provide a detailed analysis or practical application of Current Value in the context of Evidence-Based Management. The discussion is more about overcoming challenges rather than assessing the real-time value delivered by products or services.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:39:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the challenges of delivering products quickly, which directly relates to Time to Market. It highlights the importance of streamlining processes and closing feedback loops, both of which are crucial for improving Time to Market. The author provides insights into automation and mindset shifts that can enhance delivery speed, aligning well with the core themes of the category. However, while the content is focused on improving delivery, it lacks specific metrics or case studies that would further deepen the discussion on Time to Market.",
+    "level": "Secondary"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:39:51",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile principles in the context of DevOps, focusing on improving delivery speed and feedback loops. However, it does not explicitly mention Agnostic Agile or its principles. While it aligns with some core themes, such as the importance of adapting practices to context and fostering a mindset shift, it lacks depth in discussing Agnostic Agile specifically. The primary focus remains on DevOps challenges rather than a thorough exploration of Agnostic Agile principles.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:39:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps challenges and agile practices, with no direct mention of Cell Structure Design or its principles. While it touches on themes of responsiveness and feedback loops, which are somewhat aligned with the concepts of decentralisation and self-organisation, the discussion lacks depth and specificity regarding the core elements of Cell Structure Design. Overall, the content does not meet the criteria for a strong alignment with the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:40:01",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on DevOps challenges and strategies for improving product delivery speed, which is somewhat related to the concept of organisational agility. However, it lacks a direct discussion on treating the organisation as a product or integrating customer feedback into organisational design. While it mentions the importance of feedback loops and a mindset shift, these points are not deeply connected to the core themes of CaaP. The content does not provide substantial detail on organisational culture or cross-functional collaboration, which are key aspects of the CaaP framework.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:40:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges in DevOps and the importance of improving delivery processes, which indirectly relates to the concept of Unrealised Value. However, it lacks explicit mentions of Unrealised Value or its indicators, and the focus is more on operational challenges rather than exploring untapped opportunities or potential improvements in a strategic context. The discussion is primarily about overcoming obstacles rather than identifying unrealised value, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:40:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses DevOps challenges and Agile methodologies without any direct mention of GitHub or its specific functionalities. While it touches on themes relevant to DevOps and Agile, it does not align with GitHub's core services or practices, nor does it provide any depth regarding GitHub's tools or features.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:40:09",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses challenges related to rapid delivery and feedback loops, which are relevant to project management, particularly in agile contexts. However, it primarily focuses on DevOps practices and mindset shifts rather than core project management principles or methodologies. While it touches on aspects like automation and stakeholder engagement, it lacks a comprehensive exploration of project management roles, lifecycle phases, or governance structures, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:40:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on DevOps challenges and strategies for improving product delivery speed. It does not explicitly mention Hybrid Agile or engage with its core themes, such as the integration of traditional and agile methodologies or the pitfalls of such integrations. While there are references to agile principles, they are not critically examined in the context of Hybrid Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:40:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses DevOps challenges and strategies for improving delivery speed, which are relevant to Agile practices but do not specifically address the complexities of scaling methodologies or frameworks. While it touches on concepts like feedback loops and automation, it lacks a focused discussion on scaling frameworks, cross-team collaboration, or managing dependencies, which are essential for the 'Scaling' category. The content is more about enhancing DevOps practices rather than exploring scaling strategies in a structured manner.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 51.0,
+    "ai_mentions": 2,
+    "ai_alignment": 65.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 51.0,
+    "reasoning": "The content discusses challenges related to DevOps and Agile practices and how to overcome these challenges to improve delivery speed. It mentions the importance of automating processes and emphasizes the need for effective feedback loops, which align with principles related to Agile and Lean methodologies. However, the focus is more on the practical implementation and challenges rather than a theoretical exploration of specific models or frameworks. The mention of mindset shifts and compliance discussions hints at conceptual models but does not go deeply into specific frameworks like the Cynefin Framework or Lean Startup principles. Thus, while there is some relevance, the alignment with the 'Model' category is moderate, resulting in a confidence score just above 0.5.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 23.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content discusses DevOps challenges and the importance of feedback loops and speed but does not directly mention or explore formal artifacts related to Agile or DevOps. While it touches on related themes, such as delivery processes and mindset shifts in organizations, it lacks in-depth discussions about specific artifacts like Product Backlogs, Sprint Backlogs, or any tangible constructs used to enhance transparency and decision-making. Therefore, the content does not meet the primary focus required for the 'Artifact' category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses challenges in DevOps and highlights the importance of automation and feedback loops, which are relevant to tool usage in Agile and DevOps. However, it primarily focuses on mindset shifts and methodologies rather than specific tools or their applications. The content is more about improving processes than evaluating or describing specific tools, leading to a lower score in the 'Direct Mentions' and 'Depth of Discussion' dimensions.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content primarily addresses operational aspects of DevOps and Agile practices, focusing on improving delivery speed rather than explicitly discussing the underlying values central to the category. While there are mentions of mindset shifts and challenging assumptions, which touch on values indirectly, the core emphasis is more on processes and methods rather than a deep exploration of values like commitment, courage, or respect that guide behavior in organizations.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses DevOps challenges and principles related to Agile, but it primarily focuses on personal experiences and operational advice rather than a structured framework. While it mentions key concepts relevant to both DevOps and Agile, such as automation and feedback loops, it does not delve deeply into specific frameworks or provide a structured methodology for their implementation. Thus, the connection to the 'Framework' category is peripheral rather than central.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 55.0,
+    "ai_mentions": 10,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses several actionable techniques related to improving delivery processes within a DevOps framework, such as automation, fostering feedback loops, and embracing change. While these topics do resonate with the concept of practice in enhancing team performance, the discussion lacks a deep dive into specific practices listed in the Practice category, such as pair programming or retrospectives. Therefore, while there is a fair amount of relevant information, the primary focus is more on broad principles rather than specific, actionable practice techniques, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 23.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content primarily discusses practical challenges and solutions related to DevOps and Agile practices, focusing on automation and feedback loops. Although it briefly touches on concepts that could align with philosophical discussions, such as mindset shifts and challenging assumptions, the content heavily emphasizes **how** to improve processes rather than exploring the **why** and **what** behind the philosophies of Agile, DevOps, or Lean. This makes the alignment with the Philosophy category weak and results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 54.0,
+    "ai_mentions": 8,
+    "ai_alignment": 60.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 54.0,
+    "reasoning": "The content discusses challenges in delivering rapid results in DevOps and Agile contexts, touching upon feedback loops, mindset shifts, and automation. However, it leans more towards addressing specific challenges and strategies rather than focusing on cultivating enduring capabilities as per the definition of the category. While it aligns with some key themes of enhancing organizational performance and embracing change, the depth specifically around capability development and embedding within teams and organizations is limited, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 45.0,
+    "ai_mentions": 2,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
     "final_score": 45.0,
-    "reasoning": "While the content discusses challenges in DevOps and Agile environments, the primary focus appears to be on consultancy and coaching, rather than on specific operational practices directly aimed at enhancing efficiency.",
+    "reasoning": "The content discusses important aspects of DevOps, particularly focusing on challenges such as closing feedback loops and emphasizing automation, which are relevant to actionable practices in Agile and Lean methodologies. While it briefly mentions some tenets, it does not delve deeply enough into specific actionable guiding rules or doctrines inherent to Agile, DevOps, or Lean. The discussion is somewhat general and more about challenges rather than prescribing specific tenets that guide decision-making and behavior within organizations.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 73.0,
+    "ai_mentions": 10,
+    "ai_alignment": 32,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content discusses methods and approaches related to overcoming DevOps challenges with a focus on streamlining processes and enhancing product delivery. It mentions automation, feedback loops, and the importance of mindset shifts, which are all pertinent to methodical practices in DevOps. While it explains practical steps to improve delivery processes, it lacks direct references to specific formal methods like Scrum or Kanban. The primary focus remains on delivering value through methodological improvements, which aligns well with the 'Method' category even if not explicitly naming established methods.",
+    "level": "Secondary"
+  },
+  "Observability": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses DevOps challenges and the importance of feedback loops in delivering products quickly, which indirectly touches upon aspects of observability such as measuring feedback and validating work. However, it does not explicitly define or focus on observability principles, tools, or metrics. The references to automation and mindset shifts in improvement processes suggest some alignment with observability's goals, but the depth of discussion remains lacking because the primary focus is on speeding up development processes rather than understanding internal states through observability metrics, logs, or traces.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 56.0,
+    "ai_mentions": 12,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 56.0,
+    "reasoning": "The content discusses several key principles related to DevOps and Agile, such as the importance of automation, the necessity of closing feedback loops, and challenging assumptions to foster a mindset shift. It emphasizes actionable strategies for improving delivery processes, which aligns well with the core themes of the Principles category. However, while it touches on foundational beliefs and guiding rules, the focus on specific principles isn't deeply explored, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Discipline": {
+    "resourceId": "LI6G1awAUyU",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:41:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 38.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses DevOps and Agile principles, emphasizing the importance of mindset shifts and closing feedback loops for improving product delivery. However, it primarily focuses on overcoming challenges and practical strategies rather than a systematic exploration of discipline as defined in the category. The discussion lacks depth in exploring the foundational principles and governance structures that characterize a discipline. While related concepts are present, they are not the central focus.",
     "level": "Tertiary"
   }
 }

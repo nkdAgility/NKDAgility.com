@@ -35,12 +35,12 @@
     "reasoning": "Content primarily discusses the neurological aspects of dyslexia and its implications for learning, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T21:01:06",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses dyslexia and its neurological aspects, which is unrelated to the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:01:09",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses dyslexia and its neurological aspects, which is unrelated to installation and configuration topics.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses the neurological aspects and implications of dyslexia, which does not relate to Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:01:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the neurological aspects of dyslexia and its implications for learning, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:01:15",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the neurological aspects of dyslexia and its implications for learning, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:01:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the causes and characteristics of dyslexia, with no relevance to Agile or DevOps practices, tools, or methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:01:20",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the neurological aspects of dyslexia and its implications on learning, without any focus on metrics, data, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:01:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dyslexia and its neurological basis, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the genetic and neurological aspects of dyslexia, with no mention or relevance to Evidence-Based Management principles or practices. It does not discuss metrics, data-informed decision-making, or any of the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:01:28",
+    "calculated_at": "2025-04-08T20:43:58",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily about dyslexia and its neurological aspects, with no relevance to Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:01:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses dyslexia, its causes, and implications, which are not related to Agile, DevOps, or technology updates.",
+    "reasoning": "The content focuses entirely on the causes of dyslexia, discussing genetic and neurological aspects, with no relation to agile methodologies, product management, or the Agile Product Operating Model. There are no mentions or discussions relevant to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses dyslexia and its neurological aspects, which is unrelated to platform engineering or software development.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:01:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about dyslexia and its neurological aspects, with no mention of Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:01:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content is focused on dyslexia and its neurological aspects, with no relevance to AI or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:01:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses dyslexia and its neurological aspects, which is unrelated to software code or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:01:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses dyslexia and its neurological aspects, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:01:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the causes and characteristics of dyslexia, with no focus on transparency or accountability.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:01:51",
+    "calculated_at": "2025-04-08T20:43:47",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on dyslexia and its neurological aspects, with no relevance to DevOps principles or practices.",
+    "reasoning": "The content focuses entirely on the genetic and neurological aspects of dyslexia, with no mention or relevance to DevOps principles, practices, or cultural shifts. It does not discuss collaboration, automation, or any other key topics associated with DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses dyslexia and its neurological aspects, which are unrelated to engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:01:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the neurological aspects of dyslexia and its implications on learning, without addressing team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:01:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the neurological aspects of dyslexia and its implications on learning, rather than focusing on discovery and learning methodologies or processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:01:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the condition of dyslexia and its neurological aspects, with no focus on products, books, or Agile/DevOps methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:42:57",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses dyslexia, its genetic and neurological aspects, and does not relate to innovation or its measurement.",
     "level": "Ignored"
   },
@@ -422,15 +332,6 @@
     "reasoning": "Content discusses dyslexia, its causes, and related neurological factors, which are unrelated to portfolio management.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:42:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on dyslexia and neurological differences, with no relevance to Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-16T21:42:57",
@@ -451,19 +352,19 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-16T21:42:57",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the condition of dyslexia, its causes, and its effects on individuals, with no discussion of decision-making processes or frameworks.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:42:57",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses dyslexia and its neurological aspects, with no relation to Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:42:57",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on dyslexia and its neurological aspects, with no relation to the Definition of Done in Agile or Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:42:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses dyslexia and its neurological basis, which is unrelated to Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content is focused on dyslexia and its neurological aspects, with no relation to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +467,6 @@
     "reasoning": "Content is focused on dyslexia and its neurological aspects, with no relevance to collaboration tools or Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:42:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on the topic of dyslexia, its neurological aspects, and its implications for learning, with no relation to software development or Agile/DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T21:42:57",
@@ -620,7 +503,7 @@
     "reasoning": "Content discusses dyslexia, a neurological condition, without any reference to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:42:57",
     "ai_confidence": 0,
@@ -694,11 +577,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:42:57",
+    "calculated_at": "2025-04-08T20:44:10",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses dyslexia, focusing on its genetic and neurological aspects, which does not relate to Continuous Delivery principles or practices.",
+    "reasoning": "The content focuses entirely on dyslexia, discussing its genetic and neurological causes, and does not mention Continuous Delivery or any related concepts. There is no alignment with the principles or practices of Continuous Delivery, nor does it provide any depth on the topic. Therefore, it is completely unrelated to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the nature and characteristics of dyslexia, not on hypothesis formulation, experimentation, or product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:42:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses dyslexia and its neurological characteristics, with no mention or relevance to AI, Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -847,10 +724,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T21:42:57",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses dyslexia and its neurological aspects, with no relevance to source control topics.",
     "level": "Ignored"
   },
@@ -928,10 +805,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:42:57",
+    "calculated_at": "2025-04-10T15:56:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on dyslexia and its neurological aspects, with no relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -971,15 +848,6 @@
     "reasoning": "The content is primarily about dyslexia and its neurological aspects, with no relevance to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:42:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused entirely on dyslexia and its causes, with no relation to Kanban or its scaling principles.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:42:57",
@@ -987,15 +855,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the condition of dyslexia and its neurological basis, which is unrelated to customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:42:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is entirely focused on dyslexia and neurological differences, with no relevance to Agile Project Management or its principles.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1268,15 +1127,6 @@
     "reasoning": "Content is entirely focused on dyslexia and its neurological aspects, with no mention of asynchronous development or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:42:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about dyslexia and its neurological aspects, with no mention of Scrum, scaling practices, or related topics.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:42:57",
@@ -1313,22 +1163,16 @@
     "reasoning": "The content is entirely focused on the topic of dyslexia and does not relate to Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:42:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses dyslexia and its neurological basis, which is unrelated to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:42:57",
+    "calculated_at": "2025-04-08T20:44:01",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is entirely focused on dyslexia, without any reference to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on dyslexia, discussing its genetic and neurological causes, and does not mention the role of a Scrum Master or any related concepts. There is no alignment with the key topics of the Scrum Master category, nor is there any depth of discussion regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1195,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:42:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:44:08",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is solely focused on the topic of dyslexia and its neurological aspects, with no mention of software development, Test First Development, or related practices.",
+    "reasoning": "The content is entirely focused on the causes of dyslexia, discussing genetic and neurological aspects without any reference to software development, testing practices, or Test First Development principles. There are no mentions of success criteria, testing methodologies, or any related topics that would align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:27:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses dyslexia, its causes, and implications, with no relevance to social technologies or methodologies like Scrum, Kanban, Lean, or Agile.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on the genetic and neurological aspects of dyslexia, with no discussion of social technologies, collaboration, or decision-making processes. It does not align with the core themes of the category, nor does it provide any depth on related topics. The mention of dyslexia is entirely unrelated to the principles of social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1224,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the condition of dyslexia and its neurological aspects, with no relevance to leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:49:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content is focused on dyslexia and its neurological aspects, with no relevance to Internal Developer Platforms or software development.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:49:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses dyslexia and its neurological aspects, with no mention of Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T12:18:37",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content discusses dyslexia, a neurological condition, and does not mention Scrum or any related concepts, roles, events, or principles. There is no alignment with the Scrum framework or its practices, and the depth of discussion is entirely focused on a different subject matter.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:47:10",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content discusses dyslexia, a neurological condition, and does not relate to software development processes or the Shift-Left Strategy. There are no mentions of testing, security, compliance, or any related practices that would align with the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-08T20:43:50",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on the causes and characteristics of dyslexia, with no mention of Agile, DevOps, or the concept of Common Goals. It does not discuss shared objectives, alignment, or any related themes, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the genetic and neurological aspects of dyslexia, with no direct mention of competence or its relevance to Agile, Scrum, DevOps, or Lean methodologies. While it touches on the strengths of individuals with dyslexia, it does not explore continuous learning, skill development, or professionalism, which are core themes of the competence category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the genetic and neurological aspects of dyslexia, with no discussion of Continuous Improvement principles, methodologies, or practices. It does not address any themes related to business agility, empirical evidence, or strategies for improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the genetic and neurological causes of dyslexia, focusing on brain architecture and the strengths of individuals with dyslexia. There are no direct mentions of Agentic Agility, nor does it align with the core themes of intentionality, autonomy, or adaptability in socio-technical environments. The discussion lacks depth regarding the transformative capacity of individuals or systems, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

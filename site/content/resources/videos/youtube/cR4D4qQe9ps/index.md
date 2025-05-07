@@ -2,55 +2,54 @@
 title: '#1 tip for a new Scrum Master'
 description: 'Unlock your potential as a Scrum Master! Join Martin Hinshelwood for his top tip to thrive with your new Agile team. #Scrum #Agile #Shorts'
 date: 2023-05-17T07:00:14Z
+weight: 690
 ResourceId: cR4D4qQe9ps
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cR4D4qQe9ps
 source: internal
 url: /resources/videos/:slug
-slug: 1-tip-for-a-new-scrum-master
+slug: -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
 layout: video
 preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
 duration: 35
 isShort: true
 aliases:
-- /resources/1-tip-for-a-new-scrum-master
-- /resources/1-tip-for-a-scrum-master
-- /resources/videos/-1-tip-for-a-scrum-master
-- /resources/videos/cR4D4qQe9ps
-- /resources/-1-tip-for-a-scrum-master
 - /resources/cR4D4qQe9ps
-aliasesFor404:
+- /resources/videos/-1-tip-for-a-new-scrum-master-cR4D4qQe9ps
+- /resources/videos/-1-tip-for-a-new-scrum-master
+- /resources/videos/-1-tip-for-a-scrum-master
+aliasesArchive:
+- /resources/videos/-tip-for-a-new-scrum-master
+- /resources/videos/-1-tip-for-a-new-scrum-master
 - /resources/1-tip-for-a-new-scrum-master
 - /resources/1-tip-for-a-scrum-master
 - /resources/videos/-1-tip-for-a-scrum-master
 - /resources/-1-tip-for-a-scrum-master
+- -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Master
-- Scrum Team
 - Professional Scrum
-- Agile Frameworks
 - Software Development
-- People and Process
-- Agile Project Management
-- Agile Transformation
+- Scrum Master
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Scrum
 
 ---
-**#1 tip for a new Scrum Master**
+**#1 tip for a new [Scrum]({{< ref "/categories/scrum" >}}) Master**
 
 It’s Back to Basics
 
 Greetings, Scrum enthusiasts! 🙌
 
-Let's dive straight into my #1 tip for a new Scrum Master - start with the basics and READ the Scrum Guide.   📌
+Let's dive straight into my #1 tip for a new [Scrum Master]({{< ref "/tags/scrum-master" >}}) - start with the basics and READ the Scrum Guide.   📌
 
 If you’re a new Scrum Master there’s no ifs or buts, you need to get to grips with the basics of Scrum. 📚
 
@@ -78,7 +77,7 @@ Here’s a few benefits of reading and understanding the Scrum guide:
 
 🔹 Host more effective team meetings aligned with Scrum.
 
-🔹 Empower yourself to coach the Development Team and Product Owner.
+🔹 Empower yourself to coach the Development Team and [Product Owner]({{< ref "/tags/product-owner" >}}).
 
 🔹 Keep current with the changes in the Scrum framework.
 

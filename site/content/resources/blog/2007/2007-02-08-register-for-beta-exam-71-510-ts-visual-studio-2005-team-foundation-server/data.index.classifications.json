@@ -1,19 +1,10 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:39:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses registration details for a certification exam and does not relate to AI or Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:39:34",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses registration for an exam rather than installation or configuration of software or tools.",
     "level": "Ignored"
   },
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on exam registration details and does not discuss decision-making processes or related topics.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:39:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on exam registration details and does not discuss human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:39:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses registration details for a certification exam, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +37,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:39:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses registration details for a certification exam and does not mention Scrum principles, practices, or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on registration details for a certification exam related to Visual Studio 2005 Team Foundation Server, with no direct mentions or discussions of Scrum principles, roles, events, or practices. It does not align with the core themes of Scrum, and there is no depth of discussion regarding Scrum or its implementation.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -82,10 +58,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T09:39:46",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses registration details for a certification exam and does not address any principles or practices related to BetaCodex.",
     "level": "Ignored"
   },
@@ -118,10 +94,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:39:51",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses registration details for a certification exam, with no focus on metrics, learning, or related themes.",
     "level": "Ignored"
   },
@@ -132,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses registration details for a certification exam related to Visual Studio Team Foundation Server, with no clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:39:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses registration details for a certification exam, with no focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -206,24 +173,6 @@
     "reasoning": "Content is focused on registration details for a certification exam and does not discuss Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:40:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on registration details for a certification exam, lacking discussions on Agile, DevOps, or technology trends.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:40:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on exam registration details for a certification rather than practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:40:07",
@@ -258,15 +207,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses registration details for a certification exam and does not relate to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:40:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses registration details for a certification exam rather than events or presentations.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,33 +245,6 @@
     "reasoning": "Content primarily discusses registration details for a certification exam without any personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:40:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on exam registration details and certification information, with no emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:40:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses registration details for an exam and does not address transparency or accountability in Agile teams.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:40:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses registration details for a certification exam, not products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T09:40:26",
@@ -350,7 +263,7 @@
     "reasoning": "Content primarily focuses on registration details for a certification exam and does not discuss DevOps principles, practices, or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:40:29",
     "ai_confidence": 0,
@@ -361,10 +274,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the registration and logistics of a certification exam, with no relevant information on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -431,15 +344,6 @@
     "reasoning": "Content focuses on registering for a beta exam and certification details, which are unrelated to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T09:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about a certification exam for Visual Studio 2005 Team Foundation Server and does not relate to Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Increment": {
     "category": "Increment",
     "calculated_at": "2025-02-17T09:53:45",
@@ -469,10 +373,10 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about registering for a certification exam and does not discuss Acceptance Test Driven Development.",
     "level": "Ignored"
   },
@@ -541,10 +445,10 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about registration for a beta exam related to Visual Studio 2005 Team Foundation Server and does not discuss Test First Development or related topics.",
     "level": "Ignored"
   },
@@ -559,19 +463,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on exam registration details for a software certification and does not address team dynamics or motivation.",
     "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about registration for a certification exam and does not discuss automated testing principles, practices, or methodologies.",
     "level": "Ignored"
   },
@@ -611,15 +515,6 @@
     "reasoning": "Content pertains to exam registration and certification details, with no discussion of strategic goals or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about registering for a certification exam and does not discuss Agile methodologies or scaling Agile practices.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T09:53:45",
@@ -640,10 +535,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses registration and details for an exam related to Visual Studio 2005 Team Foundation Server, without addressing team performance, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -685,10 +580,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about exam registration and certification, not related to Scrum Teams.",
     "level": "Ignored"
   },
@@ -784,10 +679,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on exam registration information for a certification and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -881,7 +776,7 @@
     "reasoning": "Content primarily discusses a certification exam and registration details, with no clear relevance to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T09:53:45",
     "ai_confidence": 0,
@@ -933,15 +828,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on registration details for a certification exam and does not discuss Agile methodologies or strategies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses registration details for an exam related to Visual Studio 2005 Team Foundation Server, which does not focus on the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +882,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on registration details for a certification exam and does not discuss Scrum values or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T09:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on a beta exam registration for Visual Studio Team Foundation Server and does not discuss Scaling Kanban or related principles.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1198,20 +1075,11 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses solely on information regarding registration for a beta exam related to Visual Studio 2005 Team Foundation Server, and does not discuss test automation principles, practices, or tools.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content is unrelated to Scrum principles or practices and focuses on registration for a certification exam.",
+    "reasoning": "Content focuses solely on information regarding registration for a beta exam related to Visual Studio 2005 Team Foundation Server, and does not discuss test automation principles, practices, or tools.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1261,29 +1129,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about exam registration for a certification and does not discuss innovation capacities, Evidence-Based Management, or any related topics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses registration details for a certification exam and is not related to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on exam registration details for Visual Studio certifications, with no discussion of Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1306,10 +1156,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:53:45",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on registration information for a certification exam and is not about team collaboration or related Agile, Scrum, or DevOps themes.",
     "level": "Ignored"
   },
@@ -1329,15 +1179,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on an exam registration for Visual Studio 2005 Team Foundation Server and does not discuss Value Stream Mapping or related Lean principles.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T09:53:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses registration details for a certification exam and does not relate to AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1374,6 +1215,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses registration details for a certification exam, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:54:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses registration details for a certification exam related to Visual Studio Team Foundation Server, with no focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:54:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses registration details for a certification exam related to Visual Studio 2005 Team Foundation Server, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on registration details for a certification exam related to Visual Studio 2005 Team Foundation Server. It does not discuss the Shift-Left Strategy or its principles, benefits, or techniques. There are no mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the topic. Overall, the content is unrelated to the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

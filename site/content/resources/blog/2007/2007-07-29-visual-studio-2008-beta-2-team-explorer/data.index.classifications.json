@@ -1,11 +1,14 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2008 and mentions the need for Team Explorer, which relates to application management. However, it primarily focuses on installation issues rather than the broader aspects of Application Lifecycle Management.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions ALM in the context of needing to rationalise and package software, which aligns with application governance. However, it lacks a detailed discussion on the stages of the application lifecycle or best practices, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -35,7 +38,7 @@
     "reasoning": "Content primarily discusses the installation and availability of Visual Studio components, lacking a focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T21:26:26",
     "ai_confidence": 0,
@@ -55,12 +58,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2008 and the need for additional components, indicating a focus on installation processes, but it is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses the installation of Visual Studio 2008 and mentions the need to download additional components, which aligns with installation processes. However, it lacks detailed step-by-step instructions or configuration best practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -80,15 +86,6 @@
     "reasoning": "Content primarily discusses issues related to the installation of Visual Studio 2008 and Team Explorer, which does not align with Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:26:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and software requirements, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:26:39",
@@ -97,15 +94,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and personal experiences with Visual Studio 2008, with no reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2008 and the need for Team Explorer, which relates to tooling in a practical context, but it does not delve deeply into methodologies or frameworks.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:26:44",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and personal opinions regarding Visual Studio 2008 and Team Explorer, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +142,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:26:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and Team Explorer, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address any aspects of Evidence-Based Management. There are no direct mentions of empirical evidence, data-informed decision-making, or any of the key topics outlined in the EBM definition. The focus is on software installation rather than management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:26:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and Team Explorer, with no focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:26:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and frustrations with the installation of Visual Studio 2008 and Team Explorer, lacking a focus on industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address any principles or practices related to the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the core themes outlined in the APOM framework. The focus is on software installation rather than product delivery or agile processes.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -190,10 +175,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T21:26:56",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to the installation of Visual Studio 2008 and Team Explorer, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
@@ -204,51 +189,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Visual Studio installation and Team Explorer, with no clear focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:26:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Visual Studio 2008 and Team Explorer, with no clear focus on Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:27:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio installation and Team Explorer, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:27:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and personal experiences with Visual Studio 2008, without addressing code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:27:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues related to Visual Studio 2008 and does not reference any events, presentations, or discussions relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:27:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and personal experiences with Visual Studio 2008, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +256,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:27:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio installation and Team Explorer, with no clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not engage with any core DevOps principles or practices. While it touches on software development tools, it lacks explicit references to DevOps philosophy, collaboration, automation, or shared accountability, which are central to the category. The focus is on a specific tool rather than the broader DevOps culture or methodologies.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -331,33 +274,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and personal experiences with Visual Studio 2008, lacking a focus on engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:27:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2008 and the absence of Team Explorer, with no significant focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:27:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and personal experiences with Visual Studio 2008, lacking a focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Visual Studio 2008 and its components, which relates to software products relevant to Agile practices, but it is primarily focused on installation issues rather than a comprehensive review or analysis.",
-    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -379,19 +295,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation issues related to Visual Studio 2008 and mentions the need for configuration related to additional software (Team Explorer), indicating a secondary theme of system configuration processes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the installation of Visual Studio 2008 and the absence of Team Explorer as part of that installation. While it touches on the installation process, it lacks a comprehensive exploration of system configuration principles or best practices. The focus is more on personal experience and frustration rather than a structured discussion on configuration methodologies or optimisation strategies.",
+    "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T22:09:48",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Visual Studio 2008 and Team Explorer installation, with no focus on innovation capabilities or related strategies.",
     "level": "Ignored"
   },
@@ -420,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses installation issues with Visual Studio rather than portfolio management concepts.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Visual Studio installations and lacks any discussion of Scrum or product development principles.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T22:09:48",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical installation issues related to Visual Studio 2008 and Team Explorer, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T22:09:48",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on Visual Studio installation issues and personal opinions, with no mention of the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses Visual Studio and Team Explorer, which are not related to scaling Agile or enterprise-level Agile practices.",
+    "reasoning": "Content is primarily focused on Visual Studio installation issues and personal opinions, with no mention of the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,22 +476,16 @@
     "reasoning": "Content primarily discusses installation issues related to Visual Studio and Team Explorer, without a focus on collaborative features or Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on installation issues related to Visual Studio 2008 and Team Explorer, without discussing Agile, DevOps, or software development practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation issues related to Visual Studio 2008, which is a tool used in software development, but it primarily focuses on the author's frustrations rather than technical methodologies or practices central to software development.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the installation of Visual Studio 2008 and the absence of Team Explorer, which relates to software development tools. However, it primarily focuses on personal frustrations and opinions regarding the installation process rather than on methodologies or practices of software development. While it touches on a relevant tool, it lacks depth in discussing software development principles or practices.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -620,7 +515,7 @@
     "reasoning": "Content primarily discusses installation issues related to Visual Studio and Team Explorer, with no focus on estimation practices within Agile or Scrum frameworks.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T22:09:48",
     "ai_confidence": 0,
@@ -694,11 +589,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to the installation of Visual Studio and Team Explorer, without addressing Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address any principles, practices, or benefits of Continuous Delivery. It lacks direct mentions of Continuous Delivery concepts and does not align with the core themes of the category, such as automation, incremental improvements, or rapid feedback. The discussion is focused on installation issues rather than software delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses installation issues with Visual Studio 2008 and expresses a personal opinion about the inclusion of Team Explorer, lacking focus on hypothesis formulation, experimentation, or validated learning related to product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on Visual Studio 2008 installation issues and Team Explorer, with no mention or relevance to AI applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -874,10 +763,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T22:09:48",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical aspects of Visual Studio 2008 and Team Explorer installation issues, which are not related to team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -919,19 +808,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T22:09:48",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical installation issues related to Visual Studio and Team Explorer, with no clear focus on team collaboration or dynamics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T22:09:48",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about Visual Studio 2008 and related installation issues, with no mention of Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -971,15 +860,6 @@
     "reasoning": "Content is primarily about Visual Studio installation issues and does not discuss remote working practices or strategies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to Visual Studio installation and Team Explorer, with no discussion on Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T22:09:48",
@@ -987,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues with Visual Studio 2008 and Team Explorer, which is not related to customer retention strategies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio and Team Explorer, with no clear focus on Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,11 +961,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2008 on a Windows operating system (Vista) and implies installation procedures related to the Windows environment, marking it as a major but secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the installation of Visual Studio 2008 on a Windows Vista environment, which is a direct mention of the Windows operating system. However, the primary focus is on Visual Studio and its components rather than on Windows itself. While there is some alignment with the category through the mention of installation procedures, the depth of discussion is limited to a specific software application rather than broader Windows management or troubleshooting topics.",
     "level": "Tertiary"
   },
   "Lean Principles": {
@@ -1207,19 +1081,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T22:09:48",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Visual Studio installation and related software issues, which are not relevant to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T22:09:48",
+    "calculated_at": "2025-04-10T15:56:57",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical details regarding Visual Studio and Team Explorer installation issues, with no discussion on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1268,15 +1142,6 @@
     "reasoning": "Content primarily discusses the installation issues of Visual Studio 2008 and mentions Team Explorer, without addressing asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses software installation issues related to Visual Studio 2008 and Team Explorer, which are not relevant to Scaling Scrum or its principles.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T22:09:48",
@@ -1313,22 +1178,16 @@
     "reasoning": "Content discusses Visual Studio installation issues and not Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation issues related to Visual Studio and does not address scaling agility or related frameworks and practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Visual Studio Team Explorer and related installation issues, which are not relevant to the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not mention the role or responsibilities of a Scrum Master. There is no alignment with the core themes of the Scrum Master category, nor does it provide any depth on related topics. The focus is entirely on software installation rather than Scrum practices.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1210,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:09:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2008 and Team Explorer, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not mention Test First Development principles, success criteria, or any related testing practices. It lacks any relevant detail or focus on the Test First Development category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:28:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and Team Explorer, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing Visual Studio 2008 Team Explorer and does not discuss any social technologies, collaboration, or decision-making frameworks. While it mentions the need for smoother development experiences, it lacks any depth or alignment with the core themes of social technologies, such as self-organisation or collective intelligence.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1239,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues and software requirements, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:50:11",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and Team Explorer, without a focus on Internal Developer Platforms or their benefits, components, or implementation.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:50:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and Team Explorer, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Visual Studio 2008 and Team Explorer, with no direct mention of Scrum principles, roles, or practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum, making it unsuitable for classification under this category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the installation of Visual Studio 2008 and the absence of Team Explorer, which is not related to the Shift-Left Strategy. There are no explicit mentions of integrating testing, security, or compliance early in the development process, nor does it provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address the concept of Common Goals within Agile or DevOps frameworks. While it touches on the need for better software packaging, it lacks explicit discussion of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not focus on competence in terms of skill development or professional growth. While it touches on the need for smoother development experiences, it lacks explicit discussions on continuous learning, quality outcomes, or fostering a culture of competence. The mention of needing to rationalise software does not directly relate to the core themes of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content briefly mentions the need for improvement in the installation process of Visual Studio 2008 Team Explorer, suggesting it should be included for a smoother experience. However, it lacks a comprehensive discussion on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The focus is primarily on a specific software installation issue rather than a broader commitment to ongoing improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:57",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the installation challenges of Visual Studio 2008 Team Explorer and does not address any aspects of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are core to the category. The discussion is focused on software installation rather than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

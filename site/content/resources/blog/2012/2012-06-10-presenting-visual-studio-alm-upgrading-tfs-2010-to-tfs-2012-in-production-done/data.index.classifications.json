@@ -1,129 +1,90 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles and their advantages in software development, particularly in the context of using Visual Studio ALM and TFS. However, it primarily focuses on the technical aspects of TFS rather than a comprehensive exploration of Agile Product Management practices.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T20:27:00",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of upgrading TFS and the features of Visual Studio ALM, which aligns with the exploration and application of tools and methodologies in Agile and DevOps practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile principles and their advantages over traditional methodologies, particularly in the context of using Team Foundation Server (TFS) and Visual Studio ALM. It touches on the importance of Agile in software development and mentions continuous value delivery, which aligns with Agile Product Management. However, the primary focus is on TFS and technical aspects rather than on product management practices, which limits the depth of discussion on Agile product management specifically.",
     "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the upgrade and capabilities of Team Foundation Server (TFS), which relates to internal development processes and tools that can enhance developer productivity. However, the primary focus is on TFS features and Agile methodologies rather than a comprehensive discussion on platform engineering principles.",
     "level": "Tertiary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of Visual Studio Team Foundation Server (TFS) and Agile methodologies, touching on process improvement and continuous value delivery, which are relevant to Evidence-Based Management. However, it primarily focuses on the features of TFS and the author's experiences rather than a comprehensive discussion on EBM principles.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the upgrade of TFS and its features, touching on aspects of software development processes and Agile methodologies, which are related to code quality and complexity. However, the primary focus is on the deployment and presentation of TFS rather than a deep exploration of code quality or complexity theory.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the presentation of TFS features and the importance of Agile methodologies, which are related to learning and process improvement, but the primary focus is on technical implementation and project management.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:27:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the upgrade of TFS and Visual Studio ALM, with a focus on Agile practices but lacks any mention of AI or automation technologies.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, touching on Agile methodologies and process improvement. However, it lacks a strong focus on empirical evidence or metrics that are central to Evidence-Based Management. While there are mentions of value delivery and process improvement, these are not deeply rooted in data-informed decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses process improvement and continuous value delivery, which are relevant to Lean principles, but the primary focus is on TFS and Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on process improvement and continuous value delivery, which are relevant to Lean principles. However, the primary focus is on the deployment and features of TFS and Agile methodologies, with limited depth on Lean concepts. The discussion lacks a thorough exploration of Lean tools or waste reduction techniques, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses upgrading TFS 2010 to TFS 2012, which involves installation and configuration aspects, but it primarily focuses on the presentation and benefits of TFS rather than detailed installation procedures.",
     "level": "Tertiary"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:27:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and benefits of upgrading to TFS 2012, with a focus on technical aspects and presentations rather than transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile methodologies and the importance of adapting processes to improve software delivery, which aligns with market adaptability principles, but it is primarily focused on the specifics of TFS and Visual Studio rather than broader market adaptability strategies.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the integration of technology (TFS 2010/2012) within an organisational context, touching on aspects of process improvement and team dynamics, but it primarily focuses on the technical upgrade rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the upgrade of TFS and the importance of process improvement, which relates to organisational adaptability and change management, but it primarily focuses on technical aspects of software deployment.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, touching on aspects of Agile methodologies and process improvement. However, it primarily focuses on technical tools and their functionalities without a significant exploration of the interplay between social and technical systems within the organisation. While there are mentions of team dynamics and process improvement, these are not the primary focus, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade of TFS and its capabilities, touching on process improvement and continuous value delivery, which are relevant to DevOps principles. However, the primary focus is on TFS features and Agile methodologies rather than a comprehensive discussion of DevOps practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses upgrading TFS and Visual Studio ALM, which are tools often used in DevOps practices. However, it primarily focuses on the technical aspects of the upgrade process and the features of TFS rather than the broader DevOps philosophy. While there are mentions of Agile and process improvement, the discussion lacks depth in core DevOps principles such as automation, shared accountability, and continuous value delivery. Therefore, while there is some alignment with DevOps concepts, it is not the primary focus.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,58 +104,49 @@
     "reasoning": "Content primarily discusses the upgrade process of TFS and the presentation of its features, with a focus on technical implementations rather than decision-making processes in uncertain environments.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T20:27:22",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses a presentation made to senior management about Visual Studio ALM and TFS, detailing the topics covered and the approach taken during the presentation.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile methodologies and process improvement, which are related to flow efficiency, but the primary focus is on presenting and upgrading TFS rather than optimising work throughput.",
     "level": "Tertiary"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:27:25",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the interplay between technology (TFS and Visual Studio ALM) and the processes involved in upgrading and presenting these tools to management, highlighting the importance of improving processes and team dynamics in the context of Agile methodologies.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of process improvement in the context of deploying TFS, indicating a major but secondary theme related to enterprise agility.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the upgrade to TFS 2012 and its capabilities, including Agile practices and process improvement. While it touches on Agile principles and the importance of adapting processes, it primarily focuses on specific tools and their features rather than broader organisational agility. The mention of Agile is significant but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the importance of adapting processes to improve efficiency, which aligns with the principles of business agility, but it primarily focuses on the specifics of TFS and Visual Studio rather than a broader exploration of business agility.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and their advantages over traditional approaches, which aligns with the principles of business agility. However, the primary focus is on the technical aspects of upgrading TFS and presenting its features, rather than a comprehensive exploration of business agility principles or practices. The mention of Agile is brief and secondary to the overall narrative about TFS, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of process improvement and continuous value delivery, which are relevant to metrics and learning, but the primary focus is on the features of TFS and Visual Studio rather than on metrics or learning methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, touching on Agile methodologies and process improvement. However, it lacks a strong focus on metrics, data analysis, or evidence-based decision-making, which are core to the 'Metrics and Learning' category. While there are mentions of process improvement and continuous value delivery, these are not deeply explored in the context of metrics or learning cycles.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -208,10 +160,10 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the upgrade of TFS and its features, touching on aspects of process improvement and continuous value delivery, but it primarily focuses on management-level presentations and Agile philosophy rather than deep technical practices.",
     "level": "Tertiary"
   },
@@ -235,11 +187,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T20:27:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the deployment and upgrade of TFS (Team Foundation Server) and its capabilities, which are directly related to product delivery methodologies, including Agile practices and continuous value delivery.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the deployment of TFS 2010 to TFS 2012, which is directly related to product delivery. It covers aspects such as Agile methodologies, process improvement, and continuous value delivery, aligning well with the core themes of the category. The depth of discussion is substantial, providing insights into the planning and execution of the upgrade process, as well as the importance of Agile practices in enhancing product delivery. However, while it touches on key topics, it does not delve deeply into metrics or CI/CD practices, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Beta Codex": {
@@ -253,111 +208,99 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses process improvement and continuous value delivery, which are relevant to Value Stream Management, but the primary focus is on TFS and Agile methodologies rather than the core principles of Value Stream Management.",
     "level": "Tertiary"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T20:27:45",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the features and benefits of upgrading to Visual Studio Team Foundation Server (TFS), which aligns with the category's focus on tools and software that facilitate Agile practices and DevOps integration.",
-    "level": "Secondary"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T20:27:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the upgrade to TFS 2012 and its implications for value delivery, including continuous value delivery, process improvement, and the benefits of Agile methodologies in enhancing customer satisfaction.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the upgrade to TFS 2012 and its capabilities, particularly in relation to Agile methodologies and continuous value delivery. It explicitly mentions 'Continuous Value Delivery' and explores how TFS can enhance processes and deliver value to customers. The discussion aligns well with the core themes of value delivery, such as iterative development and the importance of aligning product development with customer needs. However, while it provides substantial detail, it also includes technical implementation aspects that slightly detract from its primary focus on value delivery.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T20:27:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the features and benefits of Team Foundation Server (TFS), which is part of the Azure DevOps suite, and focuses on its implementation and advantages in a production environment.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses Team Foundation Server (TFS), which is a component of Azure DevOps, and provides insights into its features and capabilities. It mentions the upgrade from TFS 2010 to TFS 2012 and discusses aspects of Agile methodologies in relation to TFS. However, while it touches on relevant topics, it lacks a comprehensive exploration of Azure DevOps as a whole, focusing more on TFS specifically. The depth of discussion is moderate, providing some detail on features and benefits but not extensively covering the broader Azure DevOps ecosystem.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content includes personal experiences and reflections on presenting and upgrading TFS, but the primary focus is on technical aspects and features of TFS rather than personal insights or anecdotes.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses interconnectedness within Visual Studio ALM and TFS, highlighting the importance of process improvement and the relationship between tools and organisational processes, which aligns with Systems Thinking principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the interconnectedness of features within Visual Studio ALM and TFS, which aligns with Systems Thinking principles. However, the primary focus is on the technical aspects of upgrading and presenting TFS rather than a holistic analysis of organisational dynamics or decision-making processes. While there are mentions of process improvement and Agile methodologies, these are not explored in depth within the context of Systems Thinking, leading to a lower confidence score.",
+    "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the integration and capabilities of Team Foundation Server (TFS) and its role in improving software development processes, which aligns with the principles of standardising and enhancing software delivery practices. However, the primary focus is on TFS rather than a comprehensive discussion of the One Engineering System framework.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and their advantages over traditional approaches, indicating a significant focus on Agile methodologies within the context of product development and value delivery.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and their advantages over traditional approaches, which aligns with the Agile Product Operating Model. However, it primarily focuses on the upgrade of TFS and Visual Studio ALM rather than the broader principles of the APOM. While Agile is mentioned, it is not the primary focus, and the depth of discussion on APOM-specific topics like product management principles and continuous delivery is limited.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile methodologies and the importance of process improvement, but it primarily focuses on the technical aspects of upgrading TFS and presenting its features rather than a comprehensive exploration of organisational agility.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the upgrade from TFS 2010 to TFS 2012 and presents insights on Visual Studio ALM, which aligns with industry updates. However, it primarily focuses on a specific implementation rather than broader news or reviews.",
     "level": "Tertiary"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-15T20:27:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and benefits of Visual Studio ALM and TFS, focusing on the application lifecycle stages, process improvement, and the integration of Agile principles, which are central to Application Lifecycle Management.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the upgrade and presentation of TFS (Team Foundation Server) and its capabilities, which are relevant to Application Lifecycle Management (ALM). It mentions aspects of ALM such as process improvement, continuous value delivery, and the interconnectedness of features within TFS that support the application lifecycle. However, while it touches on these themes, the focus is more on the specific tools and their features rather than a comprehensive discussion of the entire application lifecycle or best practices in ALM. Therefore, while there is a significant alignment with the category, the depth and breadth of the discussion are somewhat limited.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of process improvement, which are relevant to Scrum, but the primary focus is on TFS and Visual Studio rather than Scrum itself.",
-    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,21 +313,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:31:28",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and benefits of TFS and Visual Studio, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the upgrade and features of TFS 2010 to TFS 2012 and touches on process improvement and the importance of tools in software development, which aligns with technical mastery principles, but it mostly focuses on management presentation and organizational context rather than deeper technical practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, which touches on software tools and methodologies. However, while it mentions Agile and process improvement, the primary focus is on presenting TFS rather than delving deeply into software craftsmanship principles or best practices. The discussion lacks substantial depth on technical mastery topics such as clean code, testing, or architectural principles.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,55 +343,61 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the deployment and capabilities of TFS (Team Foundation Server) along with some agile methodologies, touching on aspects of continuous value delivery. However, the primary focus is more on TFS and Agile methodologies rather than a detailed discussion about Continuous Delivery principles and practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses upgrading TFS and Visual Studio ALM, touching on aspects of process improvement and continuous value delivery. However, it primarily focuses on the upgrade process and Agile methodologies rather than the core principles of Continuous Delivery. While there are mentions of improving processes and delivering value, the depth of discussion on Continuous Delivery practices is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of TFS and Visual Studio on organizational processes and Agile implementation, but is primarily focused on software tools and their features rather than strictly long-term strategic goals.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, touching on Agile methodologies and process improvement. However, it primarily focuses on operational aspects and specific tools rather than articulating long-term strategic goals or objectives. While there are mentions of Agile and process improvement, these are not deeply connected to overarching strategic goals, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content briefly touches on lead time with mentions of 'long lead time for upgrades' and how that affects the process, but this is not the primary focus of the overall discussion, which is more about upgrading TFS and Agile methodologies.",
     "level": "Tertiary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile methodologies and the influence of tool processes on improvement, indicating an awareness of cultural aspects affecting Agile adoption, but primarily focuses on technical aspects of software and TFS upgrade.",
     "level": "Tertiary"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:31:28",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the presentation and features of TFS 2012 and does not focus on the Definition of Ready or its specifics.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-15T21:31:28",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses upgrading TFS and presenting its features, which is more about operational management and software tools rather than portfolio management specifics like strategic alignment, prioritization, or performance metrics.",
     "level": "Ignored"
   },
@@ -460,65 +412,71 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile methodologies and positioning Agile as a better approach, but it primarily focuses on the functionalities of TFS and the specifics of upgrading to Visual Studio 2012 rather than on Agile Planning as a central topic.",
     "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T21:31:28",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade and presentation of Visual Studio Team Foundation Server (TFS), focusing on Agile methodologies, tractability, and process improvement, without mention of Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content lightly touches upon customer feedback in the context of presenting Visual Studio ALM capabilities and the role of feedback in continuous value delivery, but it does not focus primarily on the mechanisms or practices of customer feedback loops.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T21:31:28",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the upgrade and capabilities of TFS and Visual Studio in the context of Agile and process improvement, indicating a focus on enhancing operational efficiency through better tools and practices.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the upgrade of TFS and its capabilities, touching on Agile methodologies and process improvement. While it mentions operational practices, such as process improvement and continuous value delivery, the focus is more on the features of TFS rather than specific operational strategies or techniques. The depth of discussion on operational practices is limited, making it a secondary focus rather than a primary one.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:31:28",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the deployment and features of TFS (Team Foundation Server) and Visual Studio ALM, without a clear focus on Scrum Team roles or dynamics. It mentions Agile but does not delve into Scrum-specific practices or team interactions.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile as a better approach to building software compared to traditional methods, touches on continuous value delivery, and emphasizes the need for process improvement. However, it primarily focuses on the features of TFS and Visual Studio, making Agile a secondary theme.",
     "level": "Tertiary"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-15T21:31:28",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the strategic presentation of capabilities of TFS 2012 and its alignment with Agile methodologies, making 'Agile' and 'process improvement' significant themes in the overall discussion.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the strategic presentation of TFS 2012 and its capabilities, which aligns with the strategic alignment of Agile tools. It mentions Agile as a better approach and touches on process improvement, indicating a focus on optimising delivery. However, the discussion is more about the technical aspects of TFS rather than a comprehensive strategy formulation or execution, which limits its depth in the Strategy category.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -532,10 +490,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile concepts in relation to the use of Visual Studio ALM and Team Foundation Server, indicating a recognition of Agile as a better approach to software development. However, the primary focus is on the TFS upgrade and its features rather than a comprehensive exploration of Agile transformation strategies.",
     "level": "Tertiary"
   },
@@ -559,55 +517,52 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles, software development practices, and tools like TFS which can relate to team processes and performance, but it is largely centered on software upgrade and presentation rather than exclusively on team dynamics or performance.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile principles and the use of TFS (Team Foundation Server) in the context of improving software development processes. However, while it touches on aspects of team performance, such as process improvement and continuous value delivery, it primarily focuses on the technical aspects of TFS and its features rather than directly addressing team dynamics, collaboration, or specific methodologies for enhancing team performance. The discussion lacks depth in exploring how these tools impact team collaboration or effectiveness, which is essential for a stronger alignment with the 'Team Performance' category.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile, continuous value delivery, and the use of TFS for improving processes, which relates to the concept of delivering valuable increments in Agile frameworks, although it is primarily focused on TFS and its upgrades.",
     "level": "Tertiary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T21:31:29",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade and capabilities of TFS and Visual Studio, without focusing on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 78.0,
-    "reasoning": "The content largely discusses the capabilities and implementation of Team Foundation Server (TFS) within the context of software development practices such as Agile methodologies and process improvement. It provides insights into using TFS as a tool to enhance software development processes and includes references to software lifecycle concepts, which align well with the Software Development category.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles in the context of using TFS 2012 to improve software development processes, indicating that Agile is a major theme. However, it primarily addresses TFS features and does not deeply explore Agile methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the upgrade and presentation of Team Foundation Server (TFS) 2010 to TFS 2012, which is directly related to software development practices, particularly in the context of Agile methodologies and continuous value delivery. It provides detailed insights into the capabilities of TFS, the importance of Agile in software development, and how tools like TFS can improve processes. The depth of discussion on Agile, process improvement, and the interconnectedness of software development elements indicates a strong alignment with the Software Development category.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile as a better way to build software as compared to traditional approaches and mentions the importance of improving processes. However, the primary focus is on Visual Studio ALM and TFS rather than on Agile values and principles themselves.",
     "level": "Tertiary"
   },
@@ -622,19 +577,19 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the transition from TFS 2010 to TFS 2012, which relates to source control practices, particularly in upgrade processes and features. However, the primary focus appears to be on presenting the capabilities and management aspects of TFS rather than specific version control methodologies or practices.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile methodologies and process improvement which are related to empirical process control principles, but it primarily focuses on the features and capabilities of TFS rather than on empirical process control as a primary theme.",
     "level": "Tertiary"
   },
@@ -658,21 +613,27 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio Team Foundation Server (TFS), which is a collaboration tool used in Agile environments. While the main focus is on presenting TFS and its features, it addresses aspects of team collaboration and improvement processes, making it relevant to the category.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the upgrade of TFS (Team Foundation Server) and its features, which are relevant to collaboration tools. However, the primary focus is on the upgrade process and the capabilities of TFS rather than on enhancing collaboration within Agile teams. While Agile principles are mentioned, the discussion lacks depth in exploring how TFS specifically improves team communication and coordination. The content does not provide a comprehensive overview of collaboration tools or best practices for their use in Agile environments.",
     "level": "Tertiary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for improving processes and adopting Agile methodologies in the context of upgrading to Visual Studio TFS, which relates to organisational change. However, the focus is primarily on software tools and their capabilities rather than detailed discussions on change management strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, with some mention of Agile methodologies. However, the primary focus is on technical aspects of software deployment rather than on organisational change strategies or frameworks. While there are references to improving processes and Agile practices, they are not the main emphasis, leading to a low confidence score in the context of organisational change.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -685,39 +646,33 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses upgrades and improvements related to Team Foundation Server (TFS), touching on aspects of continuous value delivery and process improvement that might imply a focus on frequent releases, but it primarily revolves around presenting and convincing management rather than the specific practice of delivering frequent software updates.",
     "level": "Tertiary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content includes a discussion of 'Customer Feedback to PBIs' and emphasizes the importance of delivering value and improving processes, which can relate to customer satisfaction. However, it is primarily focused on technical aspects of using TFS and Visual Studio ALM, making customer satisfaction a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the upgrade of TFS and Visual Studio with a focus on features and implementation, without any specific mention or discussion of scaling Scrum principles, frameworks, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade of TFS and the presentation of its features to a customer, which implies a focus on customer needs and satisfaction. However, it primarily revolves around technical implementation details and the capabilities of TFS rather than explicitly addressing customer satisfaction principles or methodologies. While there are mentions of customer feedback and the importance of improving processes, these are not the primary focus of the content, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the upgrade of TFS and highlights aspects such as process improvement and the importance of tools in enhancing organizational capabilities. However, it does not focus on evidence-based practices or the application of empirical data to inform leadership decisions, making the relevance to Evidence Based Leadership minimal.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -728,22 +683,16 @@
     "reasoning": "Content primarily focuses on the deployment and capabilities of TFS 2012 and does not discuss psychological safety or its relevance in team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the use of Team Foundation Server (TFS) to improve processes within an organization, indicating a connection to scaling agility, but it's primarily focused on the tool rather than broader organizational strategies or frameworks for scaling agility.",
-    "level": "Tertiary"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content primarily discusses the upgrade and features of Visual Studio ALM and TFS, with some emphasis on process improvement and continuous value delivery. While it touches on best practices and capabilities that support engineering excellence, it is not solely focused on the principles of software craftsmanship or detailed practices in software development.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the upgrade of TFS and its implications for software development practices, touching on Agile methodologies, process improvement, and the importance of tools like TFS in enhancing engineering processes. It explicitly mentions aspects of software craftsmanship and continuous improvement, aligning well with the core themes of Engineering Excellence. However, while it provides substantial detail, the primary focus is on the upgrade process rather than a broader discussion of engineering excellence principles.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -766,29 +715,32 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the introduction of TFS 2012 to an organisation, touching on themes of process improvement and the interconnectivity of tools within the organisation. However, it primarily focuses on technical upgrades and specific features of TFS rather than deeply exploring systems thinking or organisational dynamics.",
     "level": "Tertiary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the upgrade to TFS 2012 and the general benefits of using Visual Studio ALM, which implies a focus on improving processes and delivery of value that could relate to customer retention strategies. However, it primarily revolves around technical implementation rather than direct strategies for retaining customers.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content discusses practical approaches to upgrading TFS and integrating it with Agile processes, emphasizing real-world applications and problem-solving in a corporate environment, though it also touches on some abstract ideas about Agile that are secondary.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses practical applications of TFS and Agile methodologies, highlighting real-world problem-solving strategies and the importance of process improvement. It provides insights into how to effectively present and implement TFS upgrades, which aligns with pragmatic thinking. However, while it touches on key themes, the depth of discussion on specific pragmatic techniques and case studies is somewhat limited.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +754,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the upgrade to TFS 2012 and relates it to process improvement and continuous value delivery. While it touches on innovation in terms of adopting new tools and practices, it primarily focuses on tool functionality and Agile practices without a strong emphasis on measuring or enhancing innovation capabilities.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 30,
-    "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses Agile methodologies and Team Foundation Server (TFS) in a broader context, but does not specifically focus on Scrum principles, practices, or product development within a Scrum framework.",
-    "level": "Quaternary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile practices and the use of Team Foundation Server (TFS) in the context of software development, specifically touching on Agile as a better approach to traditional methods. However, it is not primarily about scaling Agile across multiple teams or enterprise-level strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the upgrade to TFS 2012 and its capabilities, touching on aspects of process improvement and continuous value delivery. However, it lacks a strong focus on the measurement and enhancement of innovation capabilities, as it primarily revolves around technical upgrades and Agile practices without a clear emphasis on Evidence-Based Management or frameworks for measuring innovation.",
     "level": "Tertiary"
   },
   "Employee Engagement": {
@@ -838,19 +775,19 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content mentions process improvement and continuous value delivery, which are relevant to Lean Thinking principles, but the primary focus is on Visual Studio ALM and TFS rather than Lean Thinking itself.",
     "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T21:31:29",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the upgrade and features of TFS and Visual Studio ALM without a focus on test automation principles, tools, or practices.",
     "level": "Ignored"
   },
@@ -865,21 +802,27 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and benefits of upgrading to TFS 2012, the importance of Agile methodologies, and how these tools contribute to the delivery of functional software. It covers aspects such as process improvement and continuous value delivery, which are central themes in achieving working software.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, which relates to working software, but it primarily focuses on the presentation and sales aspect rather than the delivery of functional software. While it touches on Agile principles and continuous value delivery, the depth of discussion on working software characteristics and best practices is limited.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on Agile and its benefits, as well as the capabilities of TFS in relation to Agile workflows, making it a secondary theme in the discussion on upgrading TFS.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses TFS (Team Foundation Server) and its capabilities, which are related to Agile methodologies. However, the focus is more on the upgrade process and features rather than on Agile planning tools specifically. While Agile is mentioned, it is not the primary focus of the discussion, and the content lacks detailed exploration of Agile planning techniques or tools. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -901,10 +844,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile principles and the importance of transforming processes within an organizational context, indicating a secondary theme related to Agile Leadership.",
     "level": "Tertiary"
   },
@@ -937,30 +880,33 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects related to decision-making regarding the upgrade and presentation of TFS 2012, including the rationale behind convincing management for adoption and improvements in processes. However, the primary focus is more on specific software features and presentation rather than structured, evidence-based methodologies in decision-making.",
     "level": "Tertiary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses process improvement and continuous value delivery, which are aligned with Lean principles, though it primarily focuses on TFS and Agile rather than Lean specifically.",
     "level": "Tertiary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the upgrade of TFS (Team Foundation Server) and its capabilities, which relates to release management processes. However, it also includes a significant focus on Agile practices and improvements in processes, making release management a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the upgrade process of TFS and the presentation of its features, which relates to release management. However, it primarily focuses on the presentation and adoption of TFS rather than the broader strategies and practices of release management. While there are mentions of planning and process improvement, the depth of discussion on release management concepts is limited.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -973,10 +919,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T21:31:29",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on presenting TFS features and improving processes rather than discussing Cycle Time or its implications.",
     "level": "Ignored"
   },
@@ -991,28 +937,28 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-15T21:31:29",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the capabilities and features of Visual Studio Team Foundation Server (TFS) and its impact on Agile processes, but does not focus on deployment frequency or the optimization of software deployment intervals.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the upgrade to TFS 2012 and includes elements of process improvement and the need for change in organizational practices, which align with Change Management principles, but it primarily focuses on technical aspects rather than broad strategies for managing change.",
     "level": "Tertiary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:31:29",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the presentation and technical upgrade of TFS (Team Foundation Server), with a focus on its features and benefits rather than on teamwork dynamics, communication, or collaboration principles in Agile, Scrum, or DevOps contexts.",
     "level": "Ignored"
   },
@@ -1027,14 +973,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the upgrade and implementation of Team Foundation Server (TFS) and emphasizes the importance of using modern tools like TFS for improving business processes and fostering agile methodologies, aligning with themes of digital transformation. However, the focus is more on the product features and upgrade details than on broader digital transformation strategies.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the upgrade of TFS and its capabilities, which relates to digital tools but lacks a strong focus on broader digital transformation strategies or organisational change. While it mentions Agile methodologies and process improvement, it does not delve deeply into how these contribute to overall business agility or innovation, which are key aspects of digital transformation.",
     "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:31:29",
     "ai_confidence": 0,
@@ -1043,39 +992,30 @@
     "reasoning": "Content predominantly discusses an upgrade to TFS and its features without focusing on MVP concepts, testing, or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on upgrading TFS and Visual Studio, discussing Agile practices and project management tools, but does not mention AI or its integration with these methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the upgrade process from TFS 2010 to TFS 2012, which involves system configuration aspects such as deployment planning, database management, and application integration. However, a significant portion relates to management presentation strategies and Agile methodology, making system configuration a major but secondary theme.",
     "level": "Tertiary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of vision formulation and process improvement regarding the adoption of Visual Studio ALM and TFS, which aligns with product strategy; however, much of the content focuses on technical details and implementation.",
     "level": "Tertiary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the implementation of Visual Studio Team Foundation Server (TFS) and promotes agile methodologies. It includes elements of guiding teams and addressing management challenges, though it primarily focuses on technical aspects and personal experiences rather than on broader themes of technical leadership.",
     "level": "Tertiary"
   },
@@ -1099,11 +1039,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the deployment and features of TFS and Visual Studio, with no clear focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses upgrading TFS and Visual Studio ALM, with a focus on management presentations and Agile methodologies. It does not explicitly mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion lacks depth on any relevant topics related to Test First Development.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1117,55 +1060,58 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the deployment of TFS (Team Foundation Server) and upgrading to a new version, which relates to deployment strategies. However, the primary focus appears to be more on presenting features, managing organizational buy-in, and improving processes rather than on specific deployment methodologies.",
     "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and practices in the context of implementing Team Foundation Server (TFS) within an organization, which touches on themes relevant to large scale agility. However, it primarily focuses on the software development tool and its features rather than explicitly addressing large scale agility frameworks or enterprise-level Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, but it primarily focuses on the use of TFS (Team Foundation Server) and Visual Studio for software development rather than on scaling Agile practices across an organisation. While there are mentions of Agile and process improvement, the discussion lacks depth in terms of frameworks for scaling Agile, enterprise-level transformation strategies, or cross-team collaboration, which are key aspects of Large Scale Agility.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:31:29",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on upgrading TFS and presenting its capabilities, without a clear focus on team motivation strategies or dynamics.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T21:31:29",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the deployment and features of Visual Studio Team Foundation Server, without direct references to remote work practices or Agile collaboration in a distributed environment.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses aspects of Agile and process improvement as related to the use of Team Foundation Server (TFS), indicating a secondary theme of Continuous Learning, but it primarily focuses on the deployment and features of TFS rather than the principles of ongoing education and knowledge sharing.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses an upgrade process involving TFS and encountering issues, which indicates troubleshooting aspects; however, it primarily focuses on presentation and benefits rather than in-depth problem resolution methods.",
     "level": "Tertiary"
   },
@@ -1180,19 +1126,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses TFS and Visual Studio ALM features and deployment, with only a brief mention of agile methodology but no specific focus on the Scrum Master role.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on upgrading TFS and Visual Studio ALM, with only a brief mention of Agile principles. While it touches on process improvement and continuous value delivery, it lacks a direct discussion of the Scrum Master's role, responsibilities, or influence within a Scrum context. The content does not delve into the specific skills or techniques relevant to a Scrum Master, nor does it explore team dynamics or stakeholder engagement in a Scrum framework.",
     "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses the capabilities of TFS and Agile, touching on aspects of visibility and process improvement, but it is primarily focused on the presentation and upgrade of TFS rather than transparency as a central theme.",
     "level": "Tertiary"
   },
@@ -1205,15 +1154,6 @@
     "reasoning": "Content heavily discusses upgrading TFS and its features rather than working agreements in team collaboration.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the use of TFS 2010 and TFS 2012 in Agile practices and explores the benefits of Agile methodologies, suggesting that it is a significant theme, but it also primarily focuses on TFS and management discussions.",
-    "level": "Secondary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-15T21:31:29",
@@ -1225,10 +1165,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "While the content includes discussions about Agile and process improvement, it primarily focuses on the presentation of TFS upgrades rather than core engineering practices like clean code, TDD, or CI/CD.",
     "level": "Tertiary"
   },
@@ -1252,38 +1192,47 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Agile methodologies and the strategic presentation of TFS features to align with organizational needs, which ties into product management themes, but it primarily focuses on technical implementation details and specific product features.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the presentation of Visual Studio ALM and TFS, touching on Agile methodologies and process improvement, which are relevant to product management. However, the focus is primarily on technical implementation and specific product features rather than strategic product management principles. While Agile is mentioned, the depth of discussion on product management concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-15T21:31:29",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses upgrading Team Foundation Server (TFS) and its capabilities, with a focus on management presentations and technical details rather than principles of self-organisation or fostering team autonomy.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles in the context of promoting Visual Studio ALM and TFS, making it a significant secondary theme, but the primary focus is on tools rather than Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions Agile principles and discusses the advantages of Agile over traditional methodologies, indicating some alignment with Agile frameworks. However, the primary focus is on the technical aspects of upgrading TFS and Visual Studio, with only a superficial exploration of Agile concepts. The depth of discussion on Agile frameworks is limited, as it does not delve into specific frameworks or their implementation in detail.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Agile principles, continuous value delivery, and the integration of Agile practices with tools like TFS, but it primarily focuses on the technical aspects and features of Visual Studio and TFS, making Agile a secondary theme.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies in the context of presenting Visual Studio ALM and TFS upgrades, highlighting the importance of Agile as a better approach to software development. It mentions Agile principles and continuous value delivery, which aligns with the category. However, the primary focus is on technical aspects of TFS rather than a strategic discussion of Agile implementation or organisational alignment, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Azure Repos": {
@@ -1306,21 +1255,24 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T09:09:06",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content primarily discusses upgrading to Visual Studio ALM and TFS with a focus on its features, Agile practices, and process improvement, but does not specifically address Lean Product Development principles or waste reduction.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content primarily discusses the deployment and upgrade of TFS systems, it touches on broader themes like Agile methodologies and continuous value delivery which indicate an awareness of emerging trends. However, the focus is not strictly on trend analysis as a central theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade from TFS 2010 to TFS 2012 and touches on Agile methodologies, but it primarily focuses on a specific implementation case rather than a broader analysis of trends. While there are mentions of Agile and process improvement, the discussion lacks depth in exploring emerging trends or shifts in Agile and DevOps practices. The content is more about a practical upgrade experience than a strategic analysis of trends impacting organisational practices.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -1329,15 +1281,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on presenting the features and capabilities of Visual Studio ALM and Team Foundation Server, with little to no discussion on accountability in Agile practices or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:31:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the upgrade of TFS and Visual Studio ALM, focusing on Agile discussions and process improvement without addressing Kanban principles or scaling Kanban specifically.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1351,29 +1294,125 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T21:31:29",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and capabilities of TFS (Team Foundation Server) and its implementation, with a focus on management presentations and Agile practices, without addressing Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:52:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and their benefits in the context of using Visual Studio Team Foundation Server, making Agile a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of upgrading TFS and Visual Studio ALM, with only brief mentions of Agile methodologies and process improvement. While it touches on themes of continuous value delivery and the interconnectedness of tools, it lacks a strong emphasis on collaboration, decision-making, or the social frameworks that underpin social technologies. The discussion is more about technical implementation than fostering collaboration or enhancing organisational culture.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T11:52:33",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the presentation of TFS and its capabilities, touching on aspects of leadership such as convincing management and discussing Agile methodologies. However, the primary focus is on technical implementation and features of TFS rather than on leadership practices or strategies. While there are mentions of engaging with senior management and the importance of Agile, these are secondary to the technical details presented.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:36",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses presenting to senior management and the importance of leadership in advocating for Agile practices and tools, but it primarily focuses on technical aspects of TFS and Visual Studio rather than leadership strategies.",
+    "final_score": 50.0,
+    "reasoning": "The content discusses the capabilities and benefits of Team Foundation Server (TFS) in the context of software development processes, which aligns with the themes of Internal Developer Platforms. However, the primary focus is on TFS and Agile methodologies rather than a comprehensive discussion of IDPs.",
     "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:24:58",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the upgrade and features of TFS and Visual Studio ALM, with a focus on Agile methodologies, but does not address the integration or application of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile principles and discusses process improvement, which are relevant to Scrum, but it primarily focuses on TFS and Visual Studio rather than the Scrum framework itself. The discussion lacks depth in Scrum-specific roles, events, and artifacts, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, touching on Agile methodologies and process improvement, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are elements of early integration and continuous value delivery, the primary focus is on TFS capabilities rather than on integrating testing, security, or compliance earlier in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses upgrading TFS and the capabilities of Visual Studio ALM, with a focus on process improvement and continuous value delivery. While it touches on Continuous Improvement principles, such as the need for process enhancement and the interconnectedness of tools and processes, it does not delve deeply into the broader themes of Continuous Improvement or provide empirical evidence or case studies. The mention of Agile methodologies and the need for a concerted effort to improve processes aligns with the category, but the overall focus is more on the technical aspects of TFS rather than a comprehensive discussion on Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the upgrade of TFS and its features, touching on Agile methodologies and process improvement. However, it lacks a focused discussion on Common Goals as defined in the category. While Agile is mentioned, the content primarily revolves around technical aspects and personal experiences rather than aligning strategy with execution or shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 45.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the upgrade process of TFS and the importance of understanding its capabilities, which touches on competence in terms of skill development and knowledge sharing. However, while it mentions Agile and process improvement, the primary focus is on the technical aspects of TFS rather than a deep exploration of competence as a foundational principle in Agile or DevOps. The discussion lacks a thorough examination of continuous learning or strategies for fostering a culture of competence, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on upgrading TFS and presenting its features, with only brief mentions of Agile practices. While it discusses process improvement and value delivery, it lacks a clear focus on the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility. The discussion does not differentiate between human and AI capabilities in the context of agility, nor does it explore the transformative capacity of individuals or systems in a socio-technical environment.",
+    "level": "Ignored"
   }
 }

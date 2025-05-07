@@ -2,58 +2,51 @@
 title: What is the difference between a newbie scrum master and a professional Scrum Master?
 description: "Discover the key differences between newbie and seasoned Scrum Masters with Agile Coach Martin. Elevate your Scrum skills and insights today! \U0001F31F\U0001F680"
 date: 2023-04-06T07:00:08Z
+weight: 690
 ResourceId: PIoyu9N2QaM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: PIoyu9N2QaM
 source: internal
 url: /resources/videos/:slug
-slug: transform-your-software-team-with-expert-product-development-mentoring
+slug: what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 layout: video
 preview: https://i.ytimg.com/vi/PIoyu9N2QaM/maxresdefault.jpg
 duration: 363
 isShort: false
 aliases:
-- /resources/transform-your-software-team-with-expert-product-development-mentoring
-- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
-- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
-- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
-- /resources/videos/PIoyu9N2QaM
-- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 - /resources/PIoyu9N2QaM
-aliasesFor404:
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
+aliasesArchive:
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 - /resources/transform-your-software-team-with-expert-product-development-mentoring
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
+- what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
 - Scrum Master
-- Scrum Team
-- Agile Frameworks
-- People and Process
-- Agile Project Management
-- Software Development
-- Accountability
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
 
 ---
 ## Unpacking the Differences
 
-A newbie vs professional Scrum Master could be considered a misconception.
+A newbie vs professional [Scrum]({{< ref "/categories/scrum" >}}) Master could be considered a misconception.
 
 Allow me to explain why.
 
-In the Agile world, and particularly in Scrum, answering an intriguing question like the title of this article can be tricky. Still, as I'm often asked, - "What's the difference between a newbie Scrum Master and a professional Scrum Master?" I'll tackle it and let's look at the differences together.  🎯
+In the Agile world, and particularly in Scrum, answering an intriguing question like the title of this article can be tricky. Still, as I'm often asked, - "What's the difference between a newbie [Scrum Master]({{< ref "/tags/scrum-master" >}}) and a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master?" I'll tackle it and let's look at the differences together.  🎯
 
 Is There Such a Thing as a 'Newbie' or a 'Professional' Scrum Master?
 
@@ -63,7 +56,7 @@ In my opinion, the concept of a 'newbie' or 'professional' Scrum Master doesn't 
 
 Surprised? Let me explain.
 
-You don't become a Scrum Master as a newbie. Instead, you step into the role because you've showcased competence within your team. The moment you take accountability as a Scrum Master, you're an experienced, effective professional.
+You don't become a Scrum Master as a newbie. Instead, you step into the role because you've showcased [competence]({{< ref "/tags/competence" >}}) within your team. The moment you take accountability as a Scrum Master, you're an experienced, effective professional.
 
 When you take on the role of a Scrum Master, you're no longer a novice. 🏅
 

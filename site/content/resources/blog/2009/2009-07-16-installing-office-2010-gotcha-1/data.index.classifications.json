@@ -8,15 +8,6 @@
     "reasoning": "Content is primarily about installing Office 2010 and does not relate to Agile Product Management.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:21:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to installing Office 2010, which does not align with the exploration or application of Agile and DevOps tools or methodologies.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:21:40",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:21:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses installation issues related to Office 2010 and does not address Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:21:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues related to Office 2010 and does not address software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:21:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues and technical limitations of Office 2010, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:21:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to installing Office 2010 and does not address AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, with no direct mention of Evidence-Based Management principles or metrics. It does not align with the core themes of EBM, such as data-informed decision-making or value delivery, and lacks depth in discussing any relevant concepts.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:21:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation process of Office 2010, including specific challenges and considerations related to uninstalling previous versions and compatibility with 64-bit systems.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the installation process of Office 2010, specifically addressing issues encountered during the installation on a 64-bit system. It mentions the need to uninstall the previous version and highlights potential blockers for companies upgrading to 64-bit. However, while it touches on installation challenges, it lacks detailed step-by-step instructions or broader configuration best practices, which limits its depth in the category.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues related to Office 2010 and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses technical issues related to installing Office 2010, with no significant focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:21:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to installing Office 2010, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:21:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to installing Office 2010 and does not address any DevOps principles, practices, or tools.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the challenges of installing Office 2010 on a 64-bit system, which is unrelated to DevOps principles. While there is a brief mention of automation challenges, it does not delve into any core DevOps themes such as collaboration, continuous delivery, or shared accountability. The focus is on a specific software installation issue rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues related to installing Office 2010 and does not focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses technical issues related to installing Office 2010, with no reference to events, presentations, or discussions relevant to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:21:58",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Office 2010 and does not address flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:21:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to installing Office 2010, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:22:03",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Office 2010 and does not address metrics, learning, or any related themes.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content discusses installation issues related to Office 2010 and does not relate to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:22:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses installation issues related to Office 2010, which does not align with the category's focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:22:14",
@@ -305,7 +233,7 @@
     "reasoning": "Content primarily discusses installation issues related to Office 2010 and does not address Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T02:22:22",
     "ai_confidence": 0,
@@ -316,11 +244,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:22:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to installing Office 2010 and does not discuss Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the technical challenges of installing Office 2010 on a 64-bit system, with no mention of agile methodologies, product management principles, or any related concepts that align with the Agile Product Operating Model. It does not discuss transitioning from project to product ethos, operational stability, or any other key topics outlined in the category description.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily discusses technical issues related to installing Office 2010 and does not address organisational agility or related themes.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:22:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences and challenges with installing Office 2010, lacking relevance to Agile, DevOps, or technology news and reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-16T02:22:26",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Office 2010 and does not address any aspects of application lifecycle management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:22:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installing Office 2010 and does not discuss Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +283,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:08",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to installing Office 2010 and does not address the Definition of Done or any Agile concepts.",
     "level": "Ignored"
   },
@@ -397,11 +310,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on an installation issue related to Office 2010 and discusses challenges regarding software installation, not Continuous Delivery principles or practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses challenges related to installing Office 2010 on a 64-bit system, which is not relevant to Continuous Delivery. While there is a brief mention of automation challenges, it does not delve into Continuous Delivery principles, practices, or tools. The focus is on installation issues rather than software delivery cycles or quality enhancement.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +349,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:08",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily discussing installation issues related to Office 2010, with no relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -593,21 +509,12 @@
     "reasoning": "Content primarily discusses issues related to installing Office 2010, which is not directly related to software development practices or methodologies.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to installing Office 2010 and does not mention Agile Project Management or related methodologies.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:08",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses installation issues with Office 2010, which is unrelated to Agile values and principles.",
     "level": "Ignored"
   },
@@ -701,15 +608,6 @@
     "reasoning": "Content primarily discusses technical issues related to installing Office 2010 rather than customer satisfaction or experiences.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to software installation and upgrade, with no relation to Scaling Scrum or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:08",
@@ -726,15 +624,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to installing Office 2010, not related to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues related to installing Office 2010 and does not discuss agility or related frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +691,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:08",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installation issues related to Office 2010 and is focused on technical challenges, rather than on the measurement or enhancement of an organization's ability to innovate.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is about installing Office 2010 and does not discuss Scrum principles, frameworks, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on issues related to installing Office 2010 and does not address Agile practices, scaling, or related methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -883,10 +754,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T10:29:08",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses issues related to installing software, specifically Office 2010, rather than Continuous Integration practices or principles.",
     "level": "Ignored"
   },
@@ -955,10 +826,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T10:29:08",
+    "calculated_at": "2025-04-10T15:56:14",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses installation issues related to Office 2010 but does not focus on release management practices, planning, or processes.",
     "level": "Ignored"
   },
@@ -1034,7 +905,7 @@
     "reasoning": "Content primarily discusses technical issues encountered while installing Office 2010 and does not focus on digital transformation or strategic use of digital technologies for business purposes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:08",
     "ai_confidence": 0,
@@ -1043,22 +914,16 @@
     "reasoning": "Content discusses issues related to the installation of Office 2010 and technical concerns, which are unrelated to Minimum Viable Products or product development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on technical issues related to installing Office 2010 and does not discuss AI, Agile, or DevOps in any capacity.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 55.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation process of Office 2010, including issues related to uninstallation and version compatibility, which aligns with system configuration, but it mainly focuses on a specific software installation rather than a broader scope of system configuration principles or methodologies.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses the installation process of Office 2010, specifically addressing issues related to system configuration, such as the need to uninstall a previous version before installing a new one. This aligns with the category's focus on software installation and configuration. However, the discussion lacks depth in terms of best practices or troubleshooting strategies, and it primarily revolves around a personal experience rather than a comprehensive exploration of system configuration principles.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -1099,21 +964,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses issues related to installing Office 2010 and has no relevance to Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses challenges related to installing Office 2010 on a 64-bit system, with no direct mention of Test First Development principles or practices. It does not align with the core themes of Test First Development, such as defining success criteria or discussing testing methodologies. The depth of discussion is focused on installation issues rather than any testing or development practices.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses an issue related to installing Office 2010 on a 64-bit version of Windows and touches on Windows 7, but the primary focus is on Office rather than Windows itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the installation of Office 2010 on a 64-bit Windows system, which directly relates to the Windows operating system. It mentions the need to uninstall a previous version of Office, which is a common installation procedure relevant to Windows users. The discussion aligns with the category's focus on installation procedures and potential troubleshooting issues. However, while it touches on Windows, the main focus is on Office 2010, which slightly detracts from the depth of Windows-specific content. Overall, the content is relevant but not exclusively focused on Windows, leading to a high confidence score but not the maximum.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1162,11 +1033,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 75,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 68.0,
-    "reasoning": "The content describes a specific issue encountered during the installation of Office 2010 regarding 32-bit and 64-bit version requirements, which aligns with troubleshooting practices. It mentions potential complications and barriers, suggesting a direct relevance to technical issue resolution, although it is not the sole focus of the content.",
+    "final_score": 65.0,
+    "reasoning": "The content discusses a specific issue encountered during the installation of Office 2010, which aligns with troubleshooting. However, it lacks detailed methodologies or systematic approaches to resolving the problem, focusing more on personal experience and frustration rather than providing actionable insights or solutions.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1054,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:08",
+    "calculated_at": "2025-04-08T19:30:17",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on a technical issue related to installing Office software and does not mention Scrum or the role of a Scrum Master.",
+    "reasoning": "The content focuses entirely on the technical challenges of installing Office 2010 on a 64-bit system, with no mention or discussion of Scrum, the role of a Scrum Master, or any related agile principles. It does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1080,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about installing software and discusses issues related to software versions, not working agreements in teamwork.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses installation issues with Office 2010 rather than software development practices or methodologies.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1199,6 @@
     "reasoning": "Content heavily discusses technical issues related to installing Office 2010 and does not address topics of accountability, ownership, or team dynamics in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical issues related to installing Office 2010, not related to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T10:29:08",
@@ -1360,11 +1219,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:02:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to installing Office 2010 and does not address any frameworks or principles of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical challenges related to installing Office 2010 on a 64-bit system, with no discussion of collaboration, decision-making, or value delivery. It does not align with the core themes of Social Technologies, as it lacks any mention of self-organisation, collective intelligence, or organisational culture. The depth of discussion is limited to personal experiences and technical issues, further distancing it from the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1236,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to installing Office 2010 and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:35:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses issues related to installing Office 2010 and does not pertain to Internal Developer Platforms or their related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:35:28",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to installing Office 2010 and does not mention AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss Scrum principles, practices, or frameworks. It focuses on technical issues related to installing Office 2010, which is unrelated to Scrum or its core themes.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to installing Office 2010, specifically the challenges of upgrading from a 32-bit to a 64-bit version. It does not mention or align with the principles of the Shift-Left Strategy, which focuses on integrating testing, security, and compliance early in the software development lifecycle. The discussion is entirely unrelated to software development processes or the proactive identification of issues, thus resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, with no explicit focus on Continuous Improvement principles. While it touches on potential issues and considerations for future upgrades, it lacks a structured discussion on empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, which does not align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, which does not directly address the principles of competence in Agile, Scrum, DevOps, or Lean methodologies. While there are mentions of challenges and considerations for installation, these do not align with the core themes of continuous learning, skill development, or professionalism that define the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical challenges related to installing Office 2010 on a 64-bit system, with no explicit mention of Agentic Agility or its principles. While it touches on issues that could relate to organisational agility, such as upgrade limitations and automation challenges, it does not engage with the core themes of intentionality, autonomy, or adaptability in a socio-technical context. The discussion lacks depth and does not differentiate between human and AI capabilities, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

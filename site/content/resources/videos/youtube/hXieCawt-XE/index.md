@@ -2,8 +2,10 @@
 title: 'Mastering Kanban: Creating a Pull-Based System for Workflow Efficiency'
 description: Unlock your team's potential with Kanban! Discover how pull-based principles enhance workflow efficiency, reduce waste, and boost productivity in this insightful video.
 date: 2024-03-05T07:00:18Z
+weight: 1000
 ResourceId: hXieCawt-XE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: hXieCawt-XE
@@ -15,37 +17,37 @@ preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
 duration: 599
 isShort: false
 aliases:
-- /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-- /resources/videos/work-less,-do-more-with-pull-in-kanban
-- /resources/videos/hXieCawt-XE
-- /resources/work-less,-do-more-with-pull-in-kanban
 - /resources/hXieCawt-XE
-aliasesFor404:
+- /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
+- /resources/videos/work-less-do-more-with-pull-in-kanban
+aliasesArchive:
+- /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 - /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 - /resources/videos/work-less,-do-more-with-pull-in-kanban
 - /resources/work-less,-do-more-with-pull-in-kanban
+- /resources/videos/work-less-do-more-with-pull-in-kanban
+- mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Operational Practices
-- Flow Efficiency
-- Software Development
-- Lean Thinking
-- Practical Techniques and Tooling
-- Pragmatic Thinking
-- Agile Frameworks
+- Continuous Improvement
 - Lean Principles
-- Lean
-- Agile Project Management
+- Software Development
+- Flow Efficiency
+- Throughput
+- Lean Thinking
+- Agile Frameworks
+- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
+- Product Development
 
 ---
-When implementing a Kanban strategy, we're essentially creating a pull-based system of work. This methodology, which originated in lean manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.
+When implementing a [Kanban]({{< ref "/categories/kanban" >}}) strategy, we're essentially creating a pull-based system of work. This methodology, which originated in [lean]({{< ref "/categories/lean" >}}) manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.
 
 In this post, I'll dive into the three core practices of Kanban, how to define and visualize workflows effectively, and the importance of work-in-progress (WIP) limits. I’ll also share personal advice on how to overcome some common challenges teams face when implementing a Kanban strategy.
 
@@ -59,7 +61,7 @@ Kanban is a visual system for managing work as it moves through a process. Teams
 
 3. **Actively Managing Items in the Workflow** – Teams must monitor the flow of work and take action when bottlenecks arise.
 
-5. **Improving the Workflow** – Continuous improvement is at the heart of Kanban, and teams should always look for ways to enhance efficiency.
+5. **Improving the Workflow** – [Continuous improvement]({{< ref "/tags/continuous-improvement" >}}) is at the heart of Kanban, and teams should always look for ways to enhance efficiency.
 
 ### **Defining Your Kanban System**
 
@@ -133,11 +135,11 @@ Kanban isn’t just about managing work; it’s about **constantly improving the
 
 - 🛠 **Analyze constraints**: Look for stages where work gets stuck and figure out why.
 
-- 👥 **Collaborate with leadership**: If there’s a systemic issue, bring it to leadership’s attention and work together on a solution.
+- 👥 **Collaborate with [leadership]({{< ref "/categories/leadership" >}})**: If there’s a systemic issue, bring it to leadership’s attention and work together on a solution.
 
 - 📈 **Measure and adapt**: Use flow metrics to monitor the system and make data-driven improvements.
 
-## **Applying Kanban in Scrum Teams**
+## **Applying Kanban in [Scrum]({{< ref "/categories/scrum" >}}) Teams**
 
 Interestingly, Kanban strategies can be applied in Scrum teams as well. Scrum already has a built-in pull system, where developers select work during Sprint Planning. However, adding Kanban on top of Scrum can offer an extra layer of visibility and flow management.
 

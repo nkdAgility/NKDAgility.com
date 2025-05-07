@@ -2,32 +2,38 @@
 title: 'Unpacking the Scrum Master Myth: Why Servant Leadership is Key to Team Success'
 description: Discover the true essence of a Scrum Master as a servant leader. Uncover common misconceptions and learn how to empower your team for success!
 date: 2023-06-21T11:00:52Z
+weight: 640
 ResourceId: zs0q_zz8-JY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zs0q_zz8-JY
 url: /resources/videos/:slug
-slug: biggest-misconception-about-a-scrum-master
+slug: unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
 layout: video
 aliases:
-- /resources/videos/zs0q_zz8-JY
-- /resources/videos/biggest-misconception-about-a-scrum-master
-- /resources/biggest-misconception-about-a-scrum-master
 - /resources/zs0q_zz8-JY
-aliasesFor404:
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
+- /resources/videos/biggest-misconception-about-a-scrum-master
+aliasesArchive:
+- /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
 - /resources/videos/biggest-misconception-about-a-scrum-master
 - /resources/biggest-misconception-about-a-scrum-master
+- unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
 preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
 - Scrum Master
-- People and Process
-- Scrum Team
-- Technical Leadership
-- Agile Project Management
-- Agile Leadership
+- Professional Scrum
+- Self Organisation
+- Team Motivation
+- Team Performance
+- Agile Frameworks
+- Coaching
+- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,12 +41,11 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-When I reflect on my journey as a Scrum Master, one of the most persistent misconceptions I encounter is the belief that a Scrum Master is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 
+When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one of the most persistent misconceptions I encounter is the belief that a [Scrum Master]({{< ref "/tags/scrum-master" >}}) is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 
 
 ### The Role of a Scrum Master: A Servant Leader
 
@@ -56,7 +61,7 @@ At its core, the role of a Scrum Master is fundamentally about service. The Scru
 
 Let’s address some of the most common misconceptions I’ve encountered:
 
-- **Status Updates**: It’s a common belief that Scrum Masters should be the ones receiving status updates from team members. In reality, the Scrum Master should encourage transparency within the team, allowing members to share updates amongst themselves rather than funneling information through a single point.
+- **Status Updates**: It’s a common belief that Scrum Masters should be the ones receiving status updates from team members. In reality, the Scrum Master should encourage [transparency]({{< ref "/tags/transparency" >}}) within the team, allowing members to share updates amongst themselves rather than funneling information through a single point.
 
 - **Report Writing**: The idea that a Scrum Master should be responsible for writing reports is equally misguided. The focus should be on the team’s progress and outcomes, not on generating paperwork. The Scrum Master should facilitate discussions that lead to shared understanding and collective accountability.
 
@@ -64,7 +69,7 @@ Let’s address some of the most common misconceptions I’ve encountered:
 
 ### The Path to Mastery
 
-If you’re keen to delve deeper into the nuances of the Scrum Master role, I highly recommend attending an advanced Scrum Master class. These sessions provide invaluable insights into the subtleties of servant leadership and the true essence of being a Scrum Master. 
+If you’re keen to delve deeper into the nuances of the Scrum Master role, I highly recommend attending an advanced Scrum Master class. These sessions provide invaluable insights into the subtleties of servant [leadership]({{< ref "/categories/leadership" >}}) and the true essence of being a Scrum Master. 
 
 In my experience, the most effective Scrum Masters are those who embrace their role as facilitators and supporters, rather than controllers. They understand that their success is measured by the success of the team, and they work tirelessly to create an environment where everyone can thrive.
 

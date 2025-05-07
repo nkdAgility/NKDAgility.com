@@ -2,48 +2,45 @@
 title: 'Building a High-Performance Delivery Engine: Unlocking Success Through Competence and Collaboration'
 description: Unlock the secrets to building a high-performance delivery engine! Discover how competence, collaboration, and core philosophies drive software success.
 date: 2024-12-03T06:30:00Z
+weight: 305
 ResourceId: quFj6dy5M7E
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: quFj6dy5M7E
 source: youtube
 url: /resources/videos/:slug
-slug: building-a-high-performance-delivery-engine
+slug: building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 layout: video
 aliases:
-- /resources/videos/quFj6dy5M7E
-- /resources/videos/building-a-high-performance-delivery-engine
-- /resources/building-a-high-performance-delivery-engine
 - /resources/quFj6dy5M7E
-aliasesFor404:
+- /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
+- /resources/videos/building-a-high-performance-delivery-engine
+aliasesArchive:
+- /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 - /resources/videos/building-a-high-performance-delivery-engine
 - /resources/building-a-high-performance-delivery-engine
+- building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
 preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
 duration: 266
 isShort: false
 tags:
-- People and Process
-- Value Delivery
-- Product Delivery
-- Software Development
+- Competence
 - Pragmatic Thinking
-- Sociotechnical Systems
-- Team Performance
-- Software Developers
-- Agile Product Operating Model
-- Market Adaptability
+- Product Delivery
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
-- Social Technologies
 
 ---
-Building a high-performance delivery engine within an organisation is no small feat. From my experience, it requires a deep understanding of various contexts and a level of competence that is often underestimated. Many organisations focus primarily on technical skills, but to truly excel in software delivery, we need to broaden our perspective.
+Building a high-performance delivery engine within an organisation is no small feat. From my experience, it requires a deep understanding of various contexts and a level of [competence]({{< ref "/tags/competence" >}}) that is often underestimated. Many organisations focus primarily on technical skills, but to truly excel in software delivery, we need to broaden our perspective.
 
 ### The Importance of Competence
 
@@ -55,11 +52,11 @@ When I talk about competence, I’m not just referring to technical expertise. W
   - Valid hypotheses to test in the market
   - Achieving the right market fit
 
-By fostering a mindset where everyone is engaged in product development, we can ensure that our teams are not just executing tasks but are actively contributing to the product's success.
+By fostering a mindset where everyone is engaged in [product development]({{< ref "/categories/product-development" >}}), we can ensure that our teams are not just executing tasks but are actively contributing to the product's success.
 
 ### Embracing Core Philosophies
 
-To build a high-performing delivery engine, we must also embrace the philosophies and theories that underpin our practices. This includes Agile, DevOps, Lean, and Scrum. Understanding these frameworks allows us to apply them effectively, adding real value to our organisation. Here’s how we can leverage these philosophies:
+To build a high-performing delivery engine, we must also embrace the philosophies and theories that underpin our practices. This includes Agile, [DevOps]({{< ref "/categories/devops" >}}), [Lean]({{< ref "/categories/lean" >}}), and [Scrum]({{< ref "/categories/scrum" >}}). Understanding these frameworks allows us to apply them effectively, adding real value to our organisation. Here’s how we can leverage these philosophies:
 
 - **Emergent Practices**: As we progress through the product lifecycle, we need to evolve our practices. This means being open to change and willing to adopt the best methods that emerge over time.
 
@@ -71,7 +68,7 @@ I often use the analogy of renovating a house to illustrate this point. Imagine 
 
 - **Due Diligence**: Before making significant changes, we must understand the implications. Is it a good idea to remove that wall? If not, can we mitigate the risks? This careful consideration is essential for ensuring that our changes lead to positive outcomes.
 
-### Maximising Value Delivery
+### Maximising [Value Delivery]({{< ref "/tags/value-delivery" >}})
 
 Ultimately, the goal of building a high-performance delivery engine is to maximise value delivery to our stakeholders. This requires:
 
@@ -79,6 +76,6 @@ Ultimately, the goal of building a high-performance delivery engine is to maximi
 
 - **Collaboration and Communication**: Encouraging open dialogue among team members fosters a culture of collaboration, where everyone feels empowered to share their insights and ideas.
 
-- **Continuous Improvement**: We should always be looking for ways to improve our processes and practices, ensuring that we adapt to changing circumstances and market demands.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: We should always be looking for ways to improve our processes and practices, ensuring that we adapt to changing circumstances and market demands.
 
 In conclusion, building a high-performance delivery engine is a complex but rewarding endeavour. By focusing on competence, embracing core philosophies, and ensuring that every team member acts as a product developer, we can create an environment that not only delivers high-quality products but also drives business success. Let’s commit to this journey together, ensuring that we build a delivery engine that truly meets the needs of our stakeholders.

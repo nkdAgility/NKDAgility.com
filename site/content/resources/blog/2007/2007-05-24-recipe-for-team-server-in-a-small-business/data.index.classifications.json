@@ -1,11 +1,14 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses costs and benefits associated with Team Foundation Server, which is a tool relevant to Application Lifecycle Management, but it primarily focuses on pricing rather than the lifecycle stages or governance practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses costs associated with Team Foundation Server, which is a tool relevant to Application Lifecycle Management. However, it primarily focuses on pricing and basic features rather than the comprehensive management of the application lifecycle stages or best practices. While it mentions aspects like bug and task management, it lacks depth in discussing methodologies, governance, or integration with Agile and DevOps principles.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -35,12 +38,12 @@
     "reasoning": "Content primarily discusses the costs and pricing of Team Foundation Server without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T22:16:49",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses costs and licensing for Team Foundation Server, without a focus on the principles or integration aspects of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,11 +58,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses costs and options related to installing Team Foundation Server, which is relevant to installation and configuration, but it primarily focuses on pricing and value rather than providing clear installation instructions or configuration best practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the costs associated with setting up Team Foundation Server, which relates to installation and configuration. However, it lacks detailed step-by-step installation procedures or configuration best practices. The focus is more on financial implications rather than actionable installation guidance, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -73,21 +79,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses costs and considerations related to Team Foundation Server in a small business context, which does not directly reference Agile, Scrum, DevOps, or Lean principles, but is related to project management tools.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:16:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the costs and benefits of Team Foundation Server for small businesses, without addressing organisational resilience or change management.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the costs associated with implementing Team Foundation Server in a small business context, which does not directly reference Agile, Scrum, DevOps, or Lean methodologies. While it provides a detailed breakdown of costs and features, it lacks a direct connection to established Agile frameworks or practices, making it more aligned with the Miscellaneous category. However, the mention of project management tools and processes indicates some conceptual alignment with broader business agility themes, hence the moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -97,15 +97,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the costs and logistics of implementing Team Foundation Server in a small business, without reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T22:16:58",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the costs and benefits of implementing Team Foundation Server, which is a specific tool relevant to Agile and DevOps practices.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +109,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:17:00",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the costs and setup of Team Foundation Server for small businesses, with minimal focus on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -154,29 +145,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:17:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T21:12:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the costs and logistics of implementing Team Foundation Server in a small business context, without reference to evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the costs and logistics of implementing Team Server in small businesses, with no direct mention of Evidence-Based Management principles or metrics. While it discusses project management tools, it lacks alignment with the core themes of EBM, such as data-informed decision-making or empirical evidence. The depth of discussion is minimal, as it does not explore any evidence-based practices or outcomes.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:17:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses costs and management of Team Foundation Server, with no clear focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:17:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the costs and considerations of implementing Team Foundation Server in a small business, lacking a focus on industry news or reviews.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the costs and management of Team Server in small businesses, which does not align with the Agile Product Operating Model. While it mentions project management, it does not discuss agile principles, product-oriented mindsets, or any of the key topics outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -206,57 +194,12 @@
     "reasoning": "Content primarily discusses costs and management aspects of Team Foundation Server, which is not central to platform engineering principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:17:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses costs and management of Team Foundation Server, with no clear focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:17:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses costs and management of Team Foundation Server without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:17:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses costs and licensing for Team Foundation Server, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:17:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses costs and features of Team Foundation Server for small businesses, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:17:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the costs associated with Team Foundation Server and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T22:17:20",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the costs and setup of Team Foundation Server for small businesses, without addressing principles or practices of business agility.",
     "level": "Ignored"
   },
@@ -280,10 +223,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T22:17:26",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses costs and management of Team Foundation Server, which is not directly related to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
@@ -298,29 +241,35 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server, which is part of Azure DevOps, but primarily focuses on costs and licensing rather than Azure DevOps functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Team Foundation Server, which is a component of Azure DevOps, but it primarily focuses on costs and licensing rather than the functionalities or best practices associated with Azure DevOps. While there are mentions of project management and source control, the discussion lacks depth in terms of CI/CD practices or integration with other tools, which are key themes of Azure DevOps.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T22:17:30",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses costs and features of Team Foundation Server, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:17:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses costs and licensing for Team Foundation Server, with no clear focus on DevOps principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the costs and management of Team Foundation Server in small businesses, which is more aligned with project management and budgeting rather than the core principles of DevOps. While it mentions aspects of project management and integration, it lacks a direct discussion on DevOps philosophy, practices, or cultural shifts. The depth of discussion is limited to financial considerations and does not explore the collaborative or automated aspects of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -332,39 +281,12 @@
     "reasoning": "Content primarily discusses the costs and licensing of Team Foundation Server rather than engineering practices or methodologies that enhance agility in software development.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T22:17:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses costs and licensing for Team Foundation Server, with minimal focus on team dynamics or processes.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:17:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the costs and logistics of implementing Team Foundation Server in a small business, without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the costs and benefits of Team Foundation Server, which is a software product relevant to Agile and DevOps practices, making it a major theme.",
-    "level": "Tertiary"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses costs and technical details of implementing a team server without a clear focus on strategic product management aspects.",
     "level": "Ignored"
   },
@@ -379,28 +301,28 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses costs and licensing of Team Foundation Server, with minimal focus on system configuration aspects.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on pricing and set up of Team Foundation Server for small businesses, discussing costs and product features rather than innovation capabilities.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the costs and licensing of Team Foundation Server for small businesses, without discussing the structure or benefits of cross-functional teams.",
     "level": "Ignored"
   },
@@ -415,20 +337,11 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the costs and features associated with implementing Team Foundation Server in a small business context, with no focus on portfolio management practices or strategies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses costs and considerations for Team Foundation Server in small businesses, without any mention of Scrum principles or product development.",
+    "reasoning": "Content primarily discusses the costs and features associated with implementing Team Foundation Server in a small business context, with no focus on portfolio management practices or strategies.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +373,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Team Foundation Server costs and features rather than Agile values and principles.",
     "level": "Ignored"
   },
@@ -496,20 +409,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses costs and benefits of Team Foundation Server for a small business, not focused on Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses costs and management of Team Foundation Server for small businesses, without addressing scaled Agile practices or frameworks.",
+    "reasoning": "Content discusses costs and benefits of Team Foundation Server for a small business, not focused on Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -541,10 +445,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the costs and logistics of Team Foundation Server in a small business context, without discussing empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -568,30 +472,27 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server and its role in managing tasks and collaboration within a team context, but focuses primarily on cost and licensing rather than features or best practices for effective use.",
-    "level": "Tertiary"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses costs and licensing of Team Foundation Server, which is not focused on the role of software developers within Agile and DevOps contexts.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Team Foundation Server, which is a collaboration tool, but the focus is primarily on costs and licensing rather than on enhancing communication or coordination within Agile teams. While it mentions features like task management and document management, it lacks a detailed exploration of how these tools facilitate Agile principles or team dynamics.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses costs and aspects of Team Foundation Server, which is directly related to software development practices but is primarily focused on pricing and costs rather than methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Team Foundation Server and its costs, which relates to software development tools and practices. However, it primarily focuses on pricing and licensing rather than methodologies or best practices in software development. While it mentions source control and project management, it lacks depth in discussing software development processes or frameworks.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +521,7 @@
     "reasoning": "Content primarily discusses costs associated with Team Foundation Server for small businesses, rather than estimation techniques within Agile or Scrum contexts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:19:07",
     "ai_confidence": 0,
@@ -694,11 +595,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on costs and software management for small businesses, without discussing Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the costs and management of Team Foundation Server for small businesses, with no direct mention of Continuous Delivery principles or practices. While it touches on project management and integration, it lacks discussion on automation, incremental improvements, or rapid feedback, which are core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -746,15 +650,6 @@
     "reasoning": "Content primarily discusses costs and setup related to Team Foundation Server for small businesses, without mention of hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses costs and management of Team Foundation Server for small businesses, with no focus on AI applications or discussions relevant to Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-17T08:19:07",
@@ -766,19 +661,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses costs and components of Team Foundation Server without addressing any change management principles, strategies, or practices.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses costs and management aspects of Team Foundation Server and project management, without any focus on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -847,12 +742,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Source control is mentioned as part of a broader discussion on Team Foundation Server and team management, but it is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions source control as part of a broader discussion on Team Foundation Server and its costs for small businesses. While it touches on the topic of source control, it does not delve into best practices, methodologies, or strategies related to modern source control. The primary focus is on the financial aspects and features of Team Foundation Server rather than on version control practices themselves.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -874,10 +772,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the costs and components of Team Foundation Server, without focusing on team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -919,19 +817,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the costs and licensing of Team Foundation Server rather than discussions on improving team collaboration or dynamics.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses costs and features of Team Foundation Server, not related to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -971,15 +869,6 @@
     "reasoning": "Content discusses costs and management of Team Foundation Server in a small business context, with no mention of remote working practices or Agile frameworks.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the costs and benefits of Team Foundation Server in a small business context, without any mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-17T08:19:07",
@@ -987,15 +876,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the costs and setup of Team Foundation Server for small businesses, which does not relate to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses costs associated with Team Foundation Server and does not focus on Agile Project Management principles, methodologies, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1189,12 +1069,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses Team Foundation Server and its costs for a small business, but it does not primarily focus on the delivery of functional software or working software concepts.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the costs associated with Team Foundation Server and its features, which are relevant to working software. However, it primarily focuses on pricing and licensing rather than the delivery of functional software or customer value. While it mentions aspects like bug management and source control, it lacks a detailed exploration of how these contribute to working software in an Agile context.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1207,37 +1090,40 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses costs and pricing associated with Team Foundation Server, with no clear focus on Scrum Team roles, dynamics, or collaboration.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the costs and details associated with Team Foundation Server and technical implementations, rather than team motivation or dynamics.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical considerations and cost analysis for implementing Team Foundation Server in a small business context, which aligns with pragmatic thinking in project management. However, it lacks a strong focus on broader agile or scrum principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the costs associated with implementing Team Foundation Server in a small business context, which aligns with pragmatic thinking by addressing real-world financial considerations and practical solutions for project management. However, it lacks depth in exploring broader Agile or Scrum principles and does not provide detailed problem-solving strategies or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the costs and management of Team Foundation Server in a small business context, not directly discussing release management or its specific practices.",
     "level": "Ignored"
   },
@@ -1252,10 +1138,10 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses costs related to software rather than productivity and financial efficiency metrics like revenue per employee.",
     "level": "Ignored"
   },
@@ -1266,15 +1152,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses costs and setups related to Team Foundation Server in a small business context, with no focus on asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the costs and setup of Team Foundation Server in a small business context, without any focus on Scrum principles, frameworks, or scaling practices.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1288,12 +1165,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Team Foundation Server and its costs, along with aspects of process management, issue tracking, and integration within a small business context. While there is a focus on costs and tools, the connection to operational practices is secondary, as the primary discussion revolves around the pricing and availability of software rather than directly enhancing operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the costs associated with implementing Team Foundation Server in a small business context, which touches on operational practices. However, it primarily focuses on pricing and licensing rather than specific techniques or strategies for enhancing operational efficiency. While it mentions process management and integration, it lacks detailed discussion on methodologies like Agile or DevOps, which are central to the category.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1306,29 +1186,23 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T08:19:07",
+    "calculated_at": "2025-04-10T15:57:07",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mostly discusses costs and management of Team Foundation Server, not focusing on Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the costs and logistics of implementing a team server in a small business, without emphasizing scaling agile practices or frameworks.",
+    "reasoning": "Content mostly discusses costs and management of Team Foundation Server, not focusing on Scrum principles or practices.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the costs and features of Team Foundation Server without discussing Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the costs and management of Team Server in small businesses, with no direct mention of the Scrum Master role or its responsibilities. While it touches on project management, it does not align with the core themes of Scrum or the Scrum Master's influence on team dynamics or organisational change.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1225,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:19:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the costs and aspects of Team Foundation Server without any mention of Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the costs and management of Team Server in small businesses, with no direct mention or alignment to Test First Development principles, success criteria, or testing practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses costs associated with Team Foundation Server and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the costs and logistics of implementing Team Server in small businesses, with minimal discussion on collaboration, decision-making, or value delivery. While it mentions project management tools, it lacks a clear connection to the principles of social technologies, such as self-organisation or collective intelligence. The discussion is more about technical implementation rather than the underlying social frameworks that drive collaboration and innovation.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1254,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the costs and logistics of implementing Team Foundation Server in a small business, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:52:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses costs and licensing for Team Foundation Server, which is not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:52:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses costs and management aspects of Team Foundation Server without any mention of AI or its integration in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the costs associated with Team Foundation Server and does not mention Scrum principles, roles, events, or any related concepts. While it touches on project management tools, it lacks any direct reference to Scrum or its framework, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the costs and logistics of implementing Team Foundation Server in a small business context, with no explicit mention of the Shift-Left Strategy or its principles. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the topic. Overall, it is focused on financial considerations rather than software development practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the costs and logistics of implementing Team Server in small businesses, without discussing the alignment of strategy with execution or shared objectives that guide decision-making. It lacks direct mentions of Common Goals, and while it touches on project management, it does not connect to Agile or DevOps principles.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the costs and logistics of implementing Team Server in small businesses, with minimal discussion on competence or skill development. While it touches on project management tools, it does not delve into the importance of continuous learning or the role of competence in delivering quality outcomes, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the costs and logistics of implementing Team Server in small businesses, with no explicit discussion of Continuous Improvement principles. While it touches on project management and efficiency, it lacks a commitment to ongoing reflection, adaptation, or empirical evidence, which are core to Continuous Improvement. The mention of project metrics is too vague to establish a strong connection to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the costs and logistics of implementing Team Server in small businesses, with no explicit discussion of Agentic Agility or its principles. While it touches on project management, it does not address intentional shaping of outcomes, autonomy, or adaptability, which are central to the concept of Agentic Agility.",
     "level": "Ignored"
   }
 }

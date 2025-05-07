@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses government cloud policies and their implications, with no focus on Agile product management practices or principles.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the UK and US Government Cloud First policies and their implications for adopting cloud solutions, touching on practical applications like using SaaS and cloud for government services. However, it does not delve deeply into specific tools, methodologies, or frameworks related to Agile and DevOps practices.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-14T21:46:47",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses government policies related to cloud computing without a focus on evidence-based management principles or empirical data-driven decision-making.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses government cloud policies rather than software code quality or the complexities of software development processes.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content predominantly discusses government policies on cloud computing and does not center around processes of discovery or learning.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses primarily on cloud policies and their implications for public sector services, without discussing the integration of AI or automation within Agile frameworks.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption. While it touches on the importance of cloud solutions for business agility and digital transformation, it does not explicitly mention Evidence-Based Management or its key topics. The discussion is more focused on policy and cloud adoption rather than empirical decision-making or metrics related to value delivery, which are central to EBM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,57 +40,48 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T21:46:47",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses governmental policies regarding cloud adoption and the cultural resistance to cloud services, rather than specific installation and configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses government cloud policies and their implementation, lacking a clear focus on transparency and accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adoption of cloud services and the Cloud First policy in government sectors, which relates to the broader theme of adapting to modern technological solutions for enhanced agility. However, it mainly focuses on the policy rather than specific market adaptability strategies like Agile, DevOps, or Lean practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, which indirectly relates to market adaptability by promoting cloud solutions that can enhance agility and responsiveness. However, the primary focus is on the policy itself rather than specific strategies or methodologies that enhance market adaptability, such as Agile or DevOps practices. The discussion lacks depth in exploring how these cloud solutions can be leveraged for market adaptability, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly discusses the interaction between government policies, organizational resistance, and cloud technology, indicating a sociotechnical perspective, though it primarily focuses on cloud adoption rather than deep exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the government Cloud First policy and its implications for public sector organizations, highlighting the need for adaptability and overcoming resistance to cloud solutions, which can relate to resilience in the face of change. However, the primary focus is on the policy itself rather than strategies or frameworks for resilience or change management.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, touching on the adoption of cloud technology. However, it primarily focuses on the technical aspects of cloud adoption rather than the sociotechnical interplay between technology and organisational structures. While there are mentions of resistance to cloud adoption and the need for business agility, the discussion lacks depth in exploring how these factors influence team dynamics or organisational culture, which are central to the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of cloud services in the context of agile and digital transformation, touching on aspects relevant to DevOps, such as on-demand environments for testing and deployment, but it primarily focuses on government cloud policies and fear associated with cloud adoption.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption. While it touches on themes of cloud computing that are relevant to DevOps, such as business agility and digital transformation, it lacks a direct focus on the core principles of DevOps, such as collaboration, automation, and shared accountability. The discussion is more centred on policy and cloud adoption rather than the cultural and operational shifts necessary for effective DevOps implementation.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +101,6 @@
     "reasoning": "The content primarily discusses the Government Cloud First policy and arguments related to cloud adoption, without a clear focus on decision-making processes or frameworks typical of Decision Theory.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses government cloud policies and personal experiences without reference to specific events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T21:46:47",
@@ -161,39 +110,36 @@
     "reasoning": "Content primarily discusses government cloud policies and the rationale for adopting cloud solutions, rather than focusing on optimizing flow efficiency in work processes.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of cloud policy on public sector practices and addresses resistance encountered when transitioning to cloud solutions, indicating a secondary theme of human behavior towards process adoption.",
-    "level": "Tertiary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the necessity of adopting cloud solutions for achieving business agility and digital transformation, indicating a connection to enterprise agility principles, but primarily focuses on government cloud policies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, touching on the necessity of cloud adoption for achieving business agility. However, it primarily focuses on cloud computing rather than broader enterprise agility concepts. While there are mentions of agility and digital transformation, the discussion lacks depth in organisational structures, frameworks, or leadership roles that are central to enterprise agility.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of cloud solutions in achieving business agility and digital transformation, which is a significant theme. However, the primary focus is on government cloud policies rather than business agility principles themselves.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, touching on the importance of cloud adoption for achieving business agility. However, while it mentions business agility in the context of digital transformation, the primary focus is on cloud policies rather than a comprehensive exploration of business agility principles or practices. The discussion lacks depth in terms of strategies, leadership roles, or case studies related to business agility.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T21:46:47",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on government cloud policies rather than metrics, learning, or their application in Agile or DevOps practices.",
     "level": "Ignored"
   },
@@ -208,12 +154,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses government cloud policies and their implications for cloud adoption and digital transformation but does not focus primarily on engineering practices or methodologies that enhance software development and delivery.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for cloud adoption in the public sector. While it touches on the importance of cloud solutions and mentions aspects of agility and infrastructure management, it primarily focuses on policy rather than specific engineering practices or methodologies that enhance technical excellence. The discussion lacks depth in technical practices like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -260,15 +209,6 @@
     "reasoning": "Content primarily discusses the Government Cloud First policy and its implications for cloud adoption, rather than focusing on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses government cloud policies and their implications, not specifically related to products or literature on Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-14T21:46:47",
@@ -280,21 +220,27 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions moving to Visual Studio Team Services (now part of Azure DevOps) and discusses cloud adoption in relation to public sector services, but the primary focus is on government cloud policies and not specifically on Azure DevOps functionalities.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies and the general adoption of cloud services, with only a brief mention of Visual Studio Team Services, which is part of Azure DevOps. However, it lacks a focused discussion on Azure DevOps functionalities, CI/CD practices, or specific methodologies related to Azure DevOps, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content shares some personal experiences and insights regarding the challenges of adopting cloud solutions in the public sector, which aligns with the 'Personal' category, but it mainly focuses on government policies and implementations rather than personal anecdotes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and the author's experiences with cloud adoption in the public sector. While it includes personal insights and reflections on the challenges faced in moving to cloud solutions, the primary focus is on the policy itself rather than personal anecdotes or subjective interpretations related to Agile, Scrum, or DevOps. The content does not deeply explore personal experiences or insights that align with the core themes of the Personal category, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -305,40 +251,28 @@
     "reasoning": "Content primarily discusses government cloud policies and the adoption of cloud solutions in public sector, with no clear focus on Systems Thinking principles or interconnectedness of organizational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses government cloud policies rather than the principles or practices of One Engineering System (1ES).",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on the Cloud First policy of the UK and US governments, with no discussion of Agile principles or Product Operating Models.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption. While it touches on themes of business agility and digital transformation, it does not explicitly mention or align with the Agile Product Operating Model or its core principles. The focus is on cloud solutions rather than product management or agile methodologies, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the main focus is on Cloud First policies in government, there are discussions about business agility and the importance of cloud adoption in achieving it, which makes organisational agility a significant theme.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the UK and US Government Cloud First policies, which are relevant to technology trends impacting public sector cloud adoption, but it primarily focuses on the author's insights and experiences rather than reviews or news updates.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, touching on the need for cloud adoption to achieve business agility. However, while it mentions agility and digital transformation, the primary focus is on cloud policy rather than the broader strategies and practices of organisational agility. The discussion lacks depth in exploring agile methodologies, leadership roles, or continuous improvement strategies, which are key themes of the category.",
     "level": "Secondary"
   },
   "Application Lifecycle Management": {
@@ -348,15 +282,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses government cloud policies and the adoption of cloud computing in the public sector, rather than the management of the software application lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T21:46:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses government cloud policies and not Scrum principles, practices, or frameworks.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,10 +295,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on cloud policy in government and does not discuss the Definition of Done.",
     "level": "Ignored"
   },
@@ -397,21 +322,27 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses government cloud policies and their implications rather than Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content discusses the UK Government's Cloud First policy and its implications for cloud adoption in the public sector. While it touches on themes of cloud computing and business agility, it does not explicitly address Continuous Delivery principles or practices. The mention of creating on-demand environments for testing and deployment hints at aspects of Continuous Delivery, but the overall focus is more on cloud policy rather than the Continuous Delivery process itself. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the UK and US Government Cloud First policies, which relate to long-term objectives regarding cloud adoption in the public sector. While it touches on aspects of business agility and digital transformation, the primary focus is on the policies rather than a detailed exploration of strategic goals or their alignment with agile principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy, which is related to strategic objectives in the public sector. However, it primarily focuses on the implementation and practical implications of the policy rather than articulating long-term strategic goals or aligning them with agile principles. While there are mentions of business agility and digital transformation, the depth of discussion on strategic goals is limited, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
@@ -433,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses government cloud policies and the benefits of cloud computing, which are not relevant to the concept of Definition of Ready.",
     "level": "Ignored"
   },
@@ -487,19 +418,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the UK and US Government Cloud First policies and their implications for public sector agencies, which highlights the operational practice of evaluating cloud solutions for service procurement. However, it mainly focuses on the policies rather than directly outlining techniques and strategies for enhancing operational efficiency.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, which touches on operational practices related to cloud adoption. However, it primarily focuses on the policy itself rather than providing in-depth techniques or strategies for enhancing operational efficiency within Agile, DevOps, or Lean frameworks. The discussion lacks detailed exploration of process optimisation or continuous improvement strategies, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses government cloud policies and the adoption of cloud computing in public sector, with no clear focus on Scrum Teams or their dynamics.",
     "level": "Ignored"
   },
@@ -514,12 +448,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Government Cloud First policy and its implications for cloud adoption in the public sector, touching on themes of strategic alignment and digital transformation, but it primarily focuses on policy rather than a strategic framework in Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector cloud adoption. While it touches on strategic considerations regarding cloud implementation, it primarily focuses on the policy itself rather than a broader strategic framework within Agile, Scrum, or DevOps. The mention of business agility and digital transformation hints at strategic themes, but the overall depth and focus on specific Agile strategies are lacking.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -532,10 +469,10 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses the Government Cloud First policy and cloud computing strategies but does not focus on Agile transformation principles, frameworks, or practices.",
     "level": "Ignored"
   },
@@ -550,19 +487,19 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses government cloud policies and the adoption of cloud solutions, with no clear focus on automated testing principles or practices.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses government cloud policies and their implications rather than strategies or practices related to team performance or Agile principles.",
     "level": "Ignored"
   },
@@ -586,28 +523,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Government Cloud First policy and its implications for software deployment (SaaS) and cloud services, which relates to cloud-based software development practices, but the main focus is on government policy rather than software development methodologies.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses government cloud policies and does not focus on agile project management principles or methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK and US Government Cloud First policies, which relate to cloud computing in the public sector. While it touches on the importance of cloud solutions in software development, it primarily focuses on policy rather than software engineering practices. The mentions of cloud services and their implications for software development are present, but the depth of discussion is more about policy and public sector challenges than specific software development methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses government cloud policies and their implications rather than Agile values or principles.",
     "level": "Ignored"
   },
@@ -667,12 +598,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses government cloud policies and their implications for public sector organizations, touching on resistance to change and the importance of adopting cloud solutions for business agility, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, touching on the need for digital transformation and business agility. However, it primarily focuses on cloud adoption rather than the broader strategies and methodologies of organisational change. While there are mentions of resistance to change and the need for agility, the depth of discussion on frameworks or leadership roles in driving change is limited, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -701,15 +635,6 @@
     "reasoning": "Content primarily discusses government cloud policies and the adoption of cloud solutions, with no focus on customer satisfaction or customer experience principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses government cloud policies and does not address Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-14T21:46:49",
@@ -726,15 +651,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses government cloud policies and the resistance to cloud adoption, without any focus on psychological safety or its implications.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses government cloud policies and their implications, without a direct focus on scaling agile practices or frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -784,12 +700,15 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses government cloud policies and emphasizes practical applications of cloud solutions, which aligns with the theme of pragmatic problem-solving. However, the focus is more on policy and cloud adoption than specifically on Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, highlighting practical considerations for adopting cloud solutions. It addresses real-world challenges and resistance faced in implementing cloud services, which aligns with pragmatic thinking. The author shares personal experiences and insights on navigating these complexities, demonstrating a clear application of pragmatic problem-solving in the context of digital transformation and Agile practices. However, while the content is relevant, it does not delve deeply into specific Agile or Scrum methodologies, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses cloud policy in government, focusing on Cloud First initiatives rather than innovation capabilities or evidence-based management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud policies and their implications for public sector services, with no clear focus on Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses government cloud policies and their implications, without any focus on scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,10 +766,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses government policies on cloud computing rather than the characteristics, delivery, or quality of working software.",
     "level": "Ignored"
   },
@@ -937,11 +838,14 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Government Cloud First policy and implications of decision-making regarding cloud solutions in the public sector, making decision-making a major theme, but it focuses more on the policy and its adoption rather than structured decision-making frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for decision-making in the public sector regarding cloud adoption. While it mentions the necessity of evaluating cloud solutions, it primarily focuses on the policy itself and anecdotal experiences rather than structured decision-making methodologies. The discussion lacks depth in terms of evidence-based practices and frameworks for decision-making, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Lean Principles": {
@@ -991,28 +895,28 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses government cloud policies and the advantages of cloud adoption, but does not focus on deployment frequency or practices related to Agile and DevOps.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T09:08:42",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the Government Cloud First policy and its implications, including some resistance encountered in cloud adoption. However, it primarily focuses on cloud policy rather than change management strategies, making change management a minor theme.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses government cloud policies and the implications of cloud adoption, with no direct focus on team collaboration or Agile practices.",
     "level": "Ignored"
   },
@@ -1027,14 +931,17 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content discusses the Government Cloud First policy and how adopting cloud solutions can facilitate digital transformation and enhance business agility in the public sector.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, highlighting the importance of cloud adoption in achieving business agility and digital transformation. While it mentions the policy and its recommendations, the primary focus is on the challenges and perceptions surrounding cloud adoption rather than a comprehensive exploration of digital transformation strategies or case studies. The content aligns with the category's themes but lacks depth in discussing broader digital transformation initiatives.",
     "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T21:46:49",
     "ai_confidence": 0,
@@ -1043,21 +950,12 @@
     "reasoning": "Content focuses on government cloud policies rather than on Minimum Viable Product development or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses cloud policies and practices in government without a focus on AI integration within Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses government policies related to cloud computing, without focusing on technical aspects of system configuration.",
     "level": "Ignored"
   },
@@ -1099,11 +997,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on government cloud policies and skepticism towards cloud adoption, with no discussion of Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies and their implications for public sector cloud adoption. It does not mention Test First Development, its principles, or related practices. The focus is on cloud solutions rather than testing methodologies, resulting in a very low confidence score for alignment with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1117,37 +1018,37 @@
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses government policies regarding cloud adoption but does not specifically address deployment methodologies or practices.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses government cloud policies and implementation, not large scale Agile practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses government cloud policies and adoption, with no clear focus on team dynamics, motivation, or practices to enhance engagement and performance within teams.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses government cloud policies and their implications rather than remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1180,11 +1081,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on government cloud policies and does not discuss Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption. It does not mention the role of a Scrum Master, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The focus is on cloud solutions rather than Scrum methodologies or the responsibilities of a Scrum Master.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,20 +1102,11 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-14T21:46:49",
+    "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content predominantly discusses government cloud policies and cloud computing initiatives, with no clear emphasis on working agreements or principles of teamwork and collaboration.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses cloud policies and does not focus on the role of software developers within Agile or DevOps contexts.",
+    "reasoning": "Content predominantly discusses government cloud policies and cloud computing initiatives, with no clear emphasis on working agreements or principles of teamwork and collaboration.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1279,12 +1174,15 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:08:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses cloud adoption in the context of government strategy, which can relate to business agility and digital transformation, but it is primarily focused on cloud policy rather than Agile methodologies specifically.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for public sector organisations, but it primarily focuses on cloud adoption rather than Agile strategy. While there are mentions of business agility and digital transformation, the discussion lacks depth in Agile principles and strategic alignment. The content does not provide a comprehensive exploration of Agile methodologies or their integration into strategic planning.",
+    "level": "Ignored"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1331,15 +1229,6 @@
     "reasoning": "Content discusses government cloud policies and the public sector's fear of cloud adoption, which does not relate to accountability in Agile team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T21:46:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses cloud policies in government but does not mention or relate to Kanban principles or scaling Kanban methodologies.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T21:46:49",
@@ -1369,11 +1258,454 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:08:33",
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for cloud adoption in the public sector. While it touches on themes of business agility and digital transformation, it lacks a direct focus on social technologies, collaboration, or decision-making frameworks. The discussion is more centred on cloud computing as a technical solution rather than the social frameworks that underpin effective collaboration and value delivery within organisations.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:09:58",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses government cloud policies and the implications of cloud computing, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses government cloud policies and the adoption of cloud solutions, without a focus on Internal Developer Platforms or their specific benefits and practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:10:00",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses government cloud policies and the adoption of cloud computing, with no focus on AI applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies and their implications for public sector cloud adoption. It does not mention Scrum principles, roles, events, or any related concepts. The focus is on cloud computing rather than Scrum, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies, focusing on cloud adoption rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on the benefits of cloud for agility and deployment, it does not explicitly address the Shift-Left Strategy or its principles, techniques, or metrics.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption, which touches on themes of business agility and digital transformation. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence, data-driven decision-making, or specific strategies for fostering a culture of experimentation. While there are mentions of improving processes through cloud adoption, the discussion does not delve deeply into Continuous Improvement methodologies or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption. While it touches on the importance of cloud solutions for business agility and digital transformation, it does not explicitly address the concept of Common Goals within Agile or DevOps frameworks. The discussion is more focused on policy and practical implementation rather than aligning team efforts with overarching strategic objectives. Therefore, while there are relevant themes, the primary focus is not on Common Goals as defined in the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption, but it does not explicitly focus on competence as a primary theme. While it touches on the need for cloud solutions to drive business agility and digital transformation, it lacks a detailed exploration of continuous learning, skill development, or the professional standards associated with competence. The discussion is more about policy and practical implementation rather than the foundational principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:17:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for cloud adoption in the public sector. While it touches on themes of digital transformation and business agility, it does not explicitly mention or align with the principles of the One Engineering System framework, nor does it provide depth on integration or standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the UK Government's Cloud First policy and its implications for public sector cloud adoption. While it touches on themes of business agility and digital transformation, it does not explicitly address Agentic Agility or its principles. The focus is more on policy and practical implementation rather than the intentional shaping of outcomes through autonomy and adaptability, which are central to Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T15:03:54",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content discusses the UK and US Government Cloud First policies. It emphasizes public cloud adoption and business agility, but it does not engage with Hybrid Agile principles or explore the challenges of integrating traditional methodologies with agile practices. There is no critical examination of Hybrid Agile or its implications, thus failing to align with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies, focusing on their implications for public sector cloud adoption. There is no mention or discussion of Cell Structure Design, nor does it engage with any core themes related to decentralised organisational structures, autonomous cells, or complexity theory. Consequently, the relevance to the category is extremely low.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 33.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 33.0,
+    "reasoning": "The content discusses the UK and US Government Cloud First policies, detailing their significance and mandate regarding cloud solutions, but does not explicitly address Agile, Lean, or DevOps principles. While it mentions the importance of evaluating cloud options (a conceptual connection to empiricism), it lacks depth in articulating actionable principles. The primary focus is on policy rather than on guiding principles for decision-making within teams.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content provides some mention of project management principles through the discussion of the UK Government's 'Cloud First' policy as it relates to public sector cloud adoption. However, it primarily focuses on cloud solutions and their implementation rather than directly addressing project management methodologies or principles. The conceptual alignment is weak since it does not delve into project lifecycle phases, methodologies, tools, or project roles. The depth of discussion regarding project management is also quite limited, focusing mainly on the policy and its implications for cloud use rather than practical strategies or techniques related to managing projects effectively.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies and their implications for cloud adoption in the public sector. It focuses on cloud solutions driving business agility and digital transformation rather than on Open Space Agile principles, practices, or methodologies. There is minimal mention of Open Space Agile concepts or discussions about shared ownership, psychological safety, or collaborative change processes outlined in the category definition, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 40.0,
+    "ai_mentions": 2,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 40.0,
+    "reasoning": "While the content discusses the UK and US Government Cloud First policies and their mandates regarding cloud solutions, it does not focus on specific tools or applications that facilitate these cloud strategies. The mentions of 'Visual Studio Team Services' signify a tool reference, but the overall content is more about policy and general cloud adoption rather than detailed discussions of tools in the context of Agile or DevOps practices. Therefore, while there is a secondary mention of a tool that could be associated with cloud strategy, the primary focus remains on policy and challenges of adoption rather than on tools supporting implementation.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the UK and US Government's Cloud First policies and does not discuss Liberating Structures or relevant facilitation techniques, making it irrelevant to the specified category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Values",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 30.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content discusses the UK Government's Cloud First policy and its implications, primarily focusing on cloud adoption's operational benefits rather than any specific underlying values that guide these decisions. The discussion touches on fears regarding cloud services and positions cloud adoption as a necessity for agility and transformation, which slightly aligns with values like innovation and efficiency. However, it does not directly address the philosophical or ethical foundations of these choices, making 'Values' a secondary rather than primary focus.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 20.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content discusses the UK and US Government Cloud First policies, focusing on the practical implications of these policies in public sector cloud adoption. Although it touches on issues related to digital transformation and business agility, it primarily addresses specific government directives and the operational aspects of cloud adoption rather than exploring the underlying philosophical frameworks of decision-making, team dynamics, or the broader cultural implications. The reference to cloud technology might align with the philosophical discussions regarding innovation and agility, but the overall focus is too practical and procedural to firmly classify it within the 'Philosophy' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 24.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 24.0,
+    "reasoning": "The content primarily discusses the Cloud First policy of the UK and the US, along with the implications for public sector cloud adoption. While it touches on aspects of transformation and agility associated with the adoption of cloud technologies, it does not fundamentally address the concept of 'Discipline' as defined. There are some mentions of methodologies (like SaaS), but these are not explored in depth regarding their principles or how they form a cohesive discipline. The discussion lacks structured principles and comprehensive detail necessary for a stronger alignment with the discipline category.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses the UK and US Government Cloud First policies and their impact on cloud adoption in the public sector. However, it does not focus on artifacts as tangible constructions in Agile and does not discuss specific artifacts, practices, or roles within Agile, Scrum, or Lean methodologies. The content primarily addresses the broader topic of cloud policy rather than any structured artifacts related to Agile processes.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses the UK and US Government Cloud First policies and their implications on public sector cloud adoption. However, it does not address observability directly or explore topics like metrics, logs, traces, or tools related to observability. While it mentions cloud solutions and their benefits for agility and transformation, the primary focus is on policy and adoption, making it minimally aligned with observability principles.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content discusses cloud adoption and its relation to business agility and digital transformation, it does not directly address Time to Market as its primary focus. There are mentions of the Cloud First policy potentially helping to expedite processes in the public sector, but the specific metrics or strategies for improving Time to Market are not explored. The discussion remains at a high level without providing detailed insights into how cloud adoption specifically influences the speed of delivering value.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses government policies regarding cloud adoption rather than product development methodologies. While it briefly mentions the cloud's role in business agility and digital transformation, it lacks a thorough exploration of Agile practices, iterative processes, or customer feedback integration typical of product development discussions. The focus is mainly on the implementation and compliance aspects of these policies rather than on the product development lifecycle or continuous improvement strategies.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies, focusing on the mandated use of cloud solutions in the public sector. While it touches on the implications of these policies, it does not delve into specific actionable practices or techniques that teams can adopt to improve their effectiveness or collaboration in a way that aligns with the 'Practice' category. Key topics related to actionable practices, such as pair programming or retrospectives, are not present, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on the UK and US Government Cloud First policies, discussing the rationale for adopting cloud technologies in public services rather than on the concept of treating the organization itself as a product. There are no direct mentions of CaaP principles, and while there are themes of digital transformation and business agility, they do not indicate a deep exploration of organizational design relating to customer-centric strategies or internal collaboration. The content discusses cloud adoption but does not delve into how an organization might evolve or align itself in a CaaP framework.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Method",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses government cloud policies and their impact on cloud adoption in the public sector, but it primarily focuses on the policy itself rather than a structured method or procedure for implementation. There is a mention of using cloud solutions for business agility and digital transformation, but it lacks detailed discussions on specific methods, steps, or procedures associated with Agile or Lean practices. As such, it aligns minimally with the category and does not provide significant depth or explicit discussions of methods.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly touches on concepts like business agility and digital transformation, which can hint at aspects of unrealised value related to improved cloud adoption. However, it primarily focuses on the Government Cloud First policy and does not provide a deep discussion on unrealised value indicators, measures, or strategies for capturing additional value. The main focus is on the adoption of cloud solutions rather than exploring untapped opportunities or potential improvements from a management perspective.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the UK Government Cloud First policy and its implications for cloud adoption in the public sector. While it does mention cloud solutions and business agility, it does not explicitly focus on scaling methodologies or frameworks that facilitate the coordination of multiple teams in delivering complex products, which is the core theme of the 'Scaling' category. The article addresses general cloud adoption and government policies rather than techniques for scaling Agile practices or ensuring alignment across teams. Therefore, it falls short in direct relevance to the Scaling category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Model",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the UK and US Government Cloud First policies and their implications for cloud adoption in the public sector, rather than discussing conceptual models or frameworks. While there is a brief mention of how cloud solutions can drive business agility, this is not aligned with the core themes of the 'Model' category which require a focus on conceptual representations or frameworks for decision-making and systems improvement in Agile, DevOps, or Lean contexts. The content does not dive into any models or frameworks that would enhance understanding or management of complexity.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 27.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 27.0,
+    "reasoning": "The content discusses cloud adoption policies but does not focus specifically on the real-time assessment of value delivered by cloud solutions in terms of customer satisfaction or performance feedback. It mentions the importance of cloud for business agility and digital transformation, but lacks detailed metrics or techniques for measuring Current Value. Therefore, while there are some relevant points, the primary focus is more on policy and implementation rather than Current Value in an Evidence-Based Management context.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 30.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content primarily discusses the UK and US Government Cloud First policies, which are related to cloud computing rather than frameworks for Agile, DevOps, or Lean methodologies. While there are mentions of SaaS and cloud solutions, the discussion lacks focus on structured methodologies and does not provide detailed insights into the adaptation of frameworks. The content does not serve as a primary discussion on frameworks, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "While the content discusses a policy that emphasizes the use of cloud services, it does not delve into specific, actionable tenets that guide decision-making in methodologies like Agile, DevOps, or Lean. The focus on the Cloud First policy suggests a guiding rule, but it lacks direct connections to the core themes of tenets as defined in the category. The content mentions the policy, primarily describes its intent, and includes personal experiences but does not provide a detailed analysis of how this aligns with broader strategic principles or frameworks.",
+    "level": "Tertiary"
+  },
+  "GitHub": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses government cloud policies and cloud solutions without any reference to GitHub or its functionalities. While it touches on cloud adoption and challenges, it does not align with GitHub's themes of code collaboration, version control, or related tools and methodologies, leading to a very low confidence score for the GitHub category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the UK and US Government Cloud First policies and their implications for public sector cloud adoption. It discusses public cloud solutions but does not engage with the principles of Agnostic Agile, such as ethical agility, context-driven approaches, or comparisons with traditional frameworks. The discussion is more about cloud adoption rather than agile methodologies, which results in only very minimal relevance to the Agnostic Agile category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T15:03:55",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content mentions the UK Government's Cloud First policy and discusses its importance for public sector agencies, it does not primarily focus on the concept of 'capability' as defined in the classification criteria. The discussion is more about policy and the adoption of cloud solutions rather than on enduring competencies or the integration of capabilities into organizational processes. The mentions of business agility and digital transformation suggest some alignment with capability, but they are secondary to the discussion about cloud policies and their implications. Overall, the content does not have a deep exploration of capabilities in terms of their development or measurement, limiting its strict relevance to the category.",
     "level": "Ignored"
   }
 }

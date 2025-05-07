@@ -35,7 +35,7 @@
     "reasoning": "Content heavily discusses technical implementation details of creating a WCF service without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T22:12:04",
     "ai_confidence": 0,
@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T22:12:07",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides detailed instructions on creating a WCF Service Host programmatically, including setting up base addresses, service behaviors, and endpoints, which aligns with installation and configuration processes.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed guide on creating a WCF Service Host programmatically, which directly relates to the installation and configuration of a specific software component. It includes step-by-step instructions, code snippets, and configuration settings, demonstrating a clear focus on the technical aspects of setting up the service. The discussion aligns well with the key topics of the category, such as configuration best practices and troubleshooting common issues. The depth of the discussion is substantial, covering various aspects of the setup process, including security considerations and endpoint configuration.",
+    "level": "Primary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses technical implementation details of creating a WCF service, which does not align with the Miscellaneous category's focus on broader discussions or non-technical explorations of Agile or DevOps concepts.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T22:12:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation of WCF service hosting without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T22:12:14",
@@ -97,15 +91,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a WCF service, with no reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T22:12:15",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a detailed, practical guide on creating a WCF Service Host programmatically, including specific code examples and configurations, which aligns with the exploration and application of tooling in a development context.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T22:12:18",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a WCF service, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T22:12:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of a WCF service and does not relate to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on technical implementation details of creating a WCF Service Host and does not discuss Evidence-Based Management principles or metrics. There are no direct mentions of EBM concepts, and the content lacks any alignment with the key topics outlined for EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T22:12:24",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical implementation of a WCF service, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T22:12:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details of creating a WCF service, lacking relevance to industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on creating a WCF Service Host programmatically, which is a technical implementation detail related to .NET services. It does not mention or align with any principles of the Agile Product Operating Model, such as product management, agile methodologies, or customer-centric value delivery. The discussion is strictly technical and does not touch upon any of the key topics outlined in the APOM category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the creation of a WCF service host and related programming details, with no clear focus on platform engineering principles or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T22:12:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical implementation of a WCF service, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T22:12:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the creation of a WCF service and related programming details, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T22:12:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on creating a WCF service programmatically, detailing specific code implementations without addressing the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T22:12:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of a WCF service, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T22:12:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation of WCF service host without addressing transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,48 +253,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T22:12:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on creating a WCF service host programmatically, which is not related to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a WCF Service Host programmatically, which is a technical implementation detail related to .NET services. It does not discuss DevOps principles, practices, or cultural shifts, nor does it mention collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content lacks any significant alignment with the key topics outlined for the DevOps category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T22:12:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the technical implementation of creating a WCF Service Host, which involves engineering practices related to service architecture, security, and configuration. It aligns well with the principles of technical excellence in software development.",
+    "reasoning": "The content primarily focuses on the technical implementation of a WCF service, detailing specific code snippets and configurations. While it does not explicitly mention concepts like TDD, CI/CD, or modular architecture, it aligns with the principles of technical excellence through its emphasis on code quality and service behaviour configurations. However, the discussion lacks depth in exploring broader engineering practices or methodologies that enhance agility, which limits its overall alignment with the category.",
     "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T22:12:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of creating a WCF service host, with no focus on human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T22:12:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation details of creating a WCF service, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T22:12:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of creating a WCF service, with no focus on products, books, or Agile/DevOps methodologies.",
-    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -379,19 +295,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical aspects of configuring a Windows Communication Foundation (WCF) service, including setting up service hosts, configuring endpoints, and specifying bindings, which directly relate to system configuration practices.",
+    "reasoning": "The content primarily focuses on the technical aspects of configuring a WCF service, including setting up base addresses, service hosts, behaviors, endpoints, and bindings. It provides detailed code examples and discusses specific configuration settings, which aligns well with the core themes of system configuration. However, while it is rich in detail, it does not explicitly discuss broader system optimisation strategies or configuration management tools, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T08:18:59",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation of a WCF Service Host and related programming details without addressing innovation capabilities or Evidence-Based Management principles.",
     "level": "Ignored"
   },
@@ -422,23 +341,17 @@
     "reasoning": "Content discusses technical details of creating a WCF service and does not relate to portfolio management or project alignment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on the technical details of creating a WCF Service Host programmatically and does not discuss Scrum principles, practices, or product development at all.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical implementation details relevant to creating a WCF service programmatically, which could be seen as part of software engineering practices, but it focuses primarily on a specific implementation rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WCF service, which does not directly address the core principles of Agile engineering practices such as clean code, TDD, or CI/CD. While there are mentions of coding practices and service behaviours, these are more about specific technical details rather than overarching engineering methodologies. The discussion lacks depth in terms of Agile principles and does not promote high-quality software engineering practices that enhance collaboration or adaptability within Agile teams.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -460,10 +373,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T08:18:59",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation details of a WCF service and does not reference Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +409,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T08:18:59",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is focused on creating a WCF Service Host programmatically and discusses technical implementation details, which has no relevance to the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on creating a WCF Service Host and discusses technical implementation details without any reference to Agile practices or scaling Agile methodologies.",
+    "reasoning": "Content is focused on creating a WCF Service Host programmatically and discusses technical implementation details, which has no relevance to the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,23 +479,17 @@
     "reasoning": "Content focuses primarily on creating a WCF service host in .NET, with no relevance to collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on technical implementation details of creating a WCF Service Host programmatically, which does not align with the discussions on Agile practices, DevOps, or software development methodologies.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 76.0,
-    "reasoning": "The content primarily discusses the technical implementation of creating a WCF Service Host programmatically, which is a key aspect of software development practices and methodologies.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed guide on creating a WCF Service Host programmatically, which directly relates to software development practices. It discusses specific coding techniques, service configuration, and security considerations, aligning well with best practices in software design and development methodologies. The depth of the discussion is significant, as it includes code snippets and explanations of various components involved in the process, demonstrating a thorough understanding of the subject matter.",
+    "level": "Primary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +518,7 @@
     "reasoning": "Content is focused on creating a Windows Communication Foundation Service and does not discuss estimation or related techniques.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T08:18:59",
     "ai_confidence": 0,
@@ -694,11 +592,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on creating a WCF Service Host programmatically, discussing technical implementation details rather than Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a WCF Service Host programmatically, detailing technical aspects of service configuration and binding in .NET. It does not discuss Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a WCF service and does not relate to hypothesis formulation, experimentation, or validated learning in product development.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T08:18:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses technical implementation of WCF services without any mention of AI, Agile, or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -874,10 +766,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T08:18:59",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a WCF Service Host, which is unrelated to team performance or collaboration within agile teams.",
     "level": "Ignored"
   },
@@ -919,19 +811,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T08:18:59",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical implementation of a WCF service, without any mention of team collaboration, Agile, Scrum, or DevOps principles.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T08:18:59",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on creating a WCF Service Host programmatically and does not discuss the Definition of Ready or related concepts.",
     "level": "Ignored"
   },
@@ -955,29 +847,23 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical implementation details regarding WCF service host creation, including service behaviors, endpoint configuration, and security settings, which align closely with best practices in software craftsmanship and engineering.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed technical guide on creating a WCF Service Host programmatically, which aligns with the principles of software craftsmanship and engineering practices. It discusses specific coding techniques, best practices for service configuration, and security considerations, which are relevant to the category. However, while it touches on important technical aspects, it lacks broader discussions on methodologies or principles that would enhance its alignment with the category of Technical Mastery.",
+    "level": "Primary"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T08:19:00",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses technical aspects of creating a WCF Service Host programmatically without addressing remote working practices or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on creating a WCF Service and programming techniques, which are unrelated to Kanban practices or scaling them in organizations.",
+    "reasoning": "Content discusses technical aspects of creating a WCF Service Host programmatically without addressing remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -987,15 +873,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical implementation of a WCF service host, with no relation to customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical implementation of WCF Services and does not discuss Agile Project Management principles, methodologies, or relevant frameworks.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,12 +967,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content discusses creating a WCF service host, specifically mentioning Windows platform issues such as DNS host entries and security configurations related to Windows authentication, making it a primary focus alongside the technical implementation.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses creating a Windows Communication Foundation (WCF) service, which is directly related to the Windows operating system. It includes specific references to Windows-related issues, such as handling errors when IIS is installed and using Windows authentication. The depth of the discussion is significant, providing detailed code examples and explanations of various components involved in setting up the service. Overall, the content aligns well with the key topics of the Windows category, particularly in terms of configuration and troubleshooting within a Windows environment.",
+    "level": "Primary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1108,12 +988,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes reference to issues encountered with proxy settings on a corporate network, which suggests a troubleshooting aspect, but it primarily focuses on the technical implementation of creating a WCF Service Host rather than a systematic discussion on resolving technical issues.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses creating a WCF service host and mentions issues encountered with DNS host entries and proxy settings, which aligns with troubleshooting aspects. However, the primary focus is on implementation rather than systematic problem-solving or methodologies for diagnosing issues, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1180,19 +1063,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T08:19:00",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses programming and implementation details of creating a WCF service, which is unrelated to working agreements or team collaboration norms.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T08:19:00",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the technical implementation of a WCF service and does not discuss working software concepts or customer value.",
     "level": "Ignored"
   },
@@ -1207,19 +1090,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T08:19:00",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is about creating a WCF service and does not discuss any aspects related to Scrum teams, roles, collaboration, or any relevant practices. It primarily focuses on technical implementation details of a service host.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T08:19:00",
+    "calculated_at": "2025-04-10T15:57:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details of creating a WCF service without any reference to team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1243,12 +1126,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content provides technical details on creating a WCF Service Host programmatically, which involves principles of software development and coding practices, but does not delve deeply into engineering excellence topics like best practices or quality assurance.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical implementation of a WCF service, which does not explicitly discuss engineering excellence or best practices in software craftsmanship. While it touches on aspects of coding standards and technical implementation, it lacks a broader discussion on continuous improvement, quality assurance, or team collaboration, which are key themes of the Engineering Excellence category.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1266,15 +1152,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses creating a WCF service programmatically, which is focused on technical implementation rather than asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on creating WCF services and technical aspects of .NET programming, which do not relate to Scaling Scrum or its principles.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,22 +1190,16 @@
     "reasoning": "The content mainly discusses technical implementation details of Windows Communication Foundation (WCF) service hosts and does not pertain to Scrum principles, roles, practices, or other key topics related to Professional Scrum.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical implementation of WCF service hosting and does not discuss scaling agility or related concepts.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to creating a WCF Service Host and does not discuss the Scrum Master role, responsibilities, or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on creating a WCF Service Host programmatically, with no mention of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the key topics outlined for the Scrum Master category, and lacks any depth or relevant discussion on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1222,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T08:19:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation details of creating a WCF Service Host programmatically without any mention of Test First Development or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a WCF Service Host programmatically, discussing technical implementation details without any reference to Test First Development principles, success criteria, or testing practices. There is no mention of TDD, ATDD, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:30:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the technical implementation of a WCF service, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of creating a WCF Service Host programmatically, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and does not provide any depth on social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1251,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to creating a WCF service, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:52:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses creating a WCF service host programmatically, which is not related to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:52:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the creation of a WCF service host and related programming details, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a WCF service host programmatically, with no direct mentions of Scrum principles, roles, events, or practices. While it discusses technical implementation details relevant to software development, it does not align with the core themes of Scrum, such as team dynamics, iterative progress, or continuous improvement. The discussion lacks depth regarding Scrum, making it a very low confidence score for this category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on creating a WCF service programmatically, with no explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While there are mentions of security in the context of service binding, it does not align with the core themes of the Shift-Left Strategy, which requires a broader and more proactive approach to software quality and development processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details of creating a WCF Service Host programmatically, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of shared objectives or strategic alignment, and provides minimal depth on any related concepts.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical implementation details for creating a WCF Service Host programmatically. While it demonstrates a level of expertise in the subject matter, it does not explicitly discuss competence in the context of Agile, Scrum, or DevOps methodologies. The discussion lacks depth regarding continuous learning, skill development, or the importance of competence in delivering quality outcomes, which are key themes of the category. Therefore, the confidence score reflects a minimal connection to the concept of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details for creating a WCF Service Host programmatically. It does not discuss Continuous Improvement principles, nor does it align with the key topics outlined for this category. There are no mentions of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are essential for the Continuous Improvement classification.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:57:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details of creating a WCF Service Host, with no explicit discussion of Agentic Agility or its principles. While there is a minor mention of adaptability in the context of service creation, it does not align with the core themes of intentionality, agency, or the interplay between human and AI capabilities. Overall, the content lacks depth and relevance to the category.",
     "level": "Ignored"
   }
 }

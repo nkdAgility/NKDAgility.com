@@ -2,51 +2,44 @@
 title: Why I love heirarchies of competence
 description: 'Discover why Martin Hinshelwood champions hierarchies of competence over control, empowering teams to solve problems and drive success. #Agile #Scrum'
 date: 2023-05-03T09:30:08Z
+weight: 840
 ResourceId: WVNiLx3QHLg
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: WVNiLx3QHLg
 source: internal
 url: /resources/videos/:slug
-slug: why-i-love-heirarchies-of-competence
+slug: why-i-love-heirarchies-of-competence-WVNiLx3QHLg
 layout: video
 preview: https://i.ytimg.com/vi/WVNiLx3QHLg/maxresdefault.jpg
 duration: 57
 isShort: true
 aliases:
-- /resources/why-i-love-heirarchies-of-competence
-- /resources/why-i-love-hierarchies-of-competence-2
-- /resources/videos/why-i-love-hierarchies-of-competence
-- /resources/videos/WVNiLx3QHLg
-- /resources/why-i-love-hierarchies-of-competence
 - /resources/WVNiLx3QHLg
-aliasesFor404:
+- /resources/videos/why-i-love-heirarchies-of-competence-WVNiLx3QHLg
+- /resources/videos/why-i-love-heirarchies-of-competence
+- /resources/videos/why-i-love-hierarchies-of-competence
+aliasesArchive:
+- /resources/videos/why-i-love-heirarchies-of-competence
 - /resources/why-i-love-heirarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence-2
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence
+- why-i-love-heirarchies-of-competence-WVNiLx3QHLg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Decision Making
-- Decision Theory
-- People and Process
-- Agile Leadership
-- Agile Strategy
-- Team Performance
-- Organisational Physics
-- Organisational Culture
-- Organisational Change
-- Organisational Psychology
+- Competence
 resourceTypes:
 - video
 categories:
-- Leadership
+- Uncategorized
 
 ---
-**Why I love heirarchies of competence**
+**Why I love heirarchies of [competence]({{< ref "/tags/competence" >}})**
 
 ## Competence-Based Hierarchies
 
@@ -64,7 +57,7 @@ Importantly, these competency-based colleagues often possess a more holistic vie
 
 Embracing competence-based hierarchies is about recognising expertise, not authority. It's about deferring to knowledge, not power.
 
-It's a refreshing and empowering approach to leadership and decision-making that I genuinely love and respect! 🙌
+It's a refreshing and empowering approach to [leadership]({{< ref "/categories/leadership" >}}) and decision-making that I genuinely love and respect! 🙌
 
 Ready to redefine leadership in your organisation?
 
@@ -72,10 +65,10 @@ Let's shift the focus from control to competence and build a more engaged, effec
 
 Reach out to me for a chat, or join my training sessions to learn more. 🚀
 
-Keywords:        Competence-Based Hierarchies, Leadership, Decision Making,
+Keywords:        Competence-Based Hierarchies, Leadership, [Decision Making]({{< ref "/tags/decision-making" >}}),
 
 Hashtags:        #CompetenceOverPower, #LeadershipEvolution, #InformedDecisionMaking,
 
 General
 
-#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+#Agile, #AgileCoach, #[Scrum]({{< ref "/categories/scrum" >}}), #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.

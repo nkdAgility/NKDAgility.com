@@ -2,36 +2,29 @@
 title: 'Embracing Chastity in Agile: Why Taking Your Time is Key to True Transformation'
 description: Discover the overlooked virtue of chastity in agility. Learn how to implement changes thoughtfully for true organisational transformation.
 date: 2023-12-04T08:39:06Z
+weight: 800
 ResourceId: vftc6m70a0w
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: vftc6m70a0w
 url: /resources/videos/:slug
-slug: 7-virtues-of-agile-chastity
+slug: embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 layout: video
 aliases:
-- /resources/videos/vftc6m70a0w
-- /resources/videos/7-virtues-of-agile-chastity
-- /resources/7-virtues-of-agile-chastity
 - /resources/vftc6m70a0w
-aliasesFor404:
+- /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
+- /resources/videos/7-virtues-of-agile-chastity
+aliasesArchive:
+- /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 - /resources/videos/7-virtues-of-agile-chastity
 - /resources/7-virtues-of-agile-chastity
+- embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
-tags:
-- People and Process
-- Agile Transformation
-- Agile Values and Principles
-- Agile Strategy
-- Change Management
-- Business Agility
-- Agile Leadership
-- Agile Philosophy
-- Organisational Agility
-- Organisational Culture
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,7 +32,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 In the realm of agility, one of the seven virtues that often gets overlooked is chastity. Now, before you raise an eyebrow, let me clarify: in our agile context, chastity is all about taking your time. It’s about resisting the urge to rush into the implementation of agile practices without fully understanding the implications of those changes within your organisation.

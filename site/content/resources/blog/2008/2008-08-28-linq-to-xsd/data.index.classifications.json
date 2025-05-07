@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific tool, LINQ to XSD, and its functionality, which aligns with the category's focus on tools and software relevant to Agile and DevOps practices.",
-    "level": "Tertiary"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T12:06:23",
@@ -53,49 +44,16 @@
     "reasoning": "Content primarily discusses LINQ to XSD and technical implementations in C#, with no focus on decision-making processes or related themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T12:06:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LINQ to XSD functionality and usage in C#, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering events.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:06:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T12:06:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LINQ to XSD and technical implementation details without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:06:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no focus on DevOps principles, practices, or tools.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T12:06:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no relevance to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on LINQ to XSD and its application in C# projects, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks alignment with key DevOps topics such as collaboration, automation, or shared accountability, and does not provide any depth in discussing DevOps-related concepts.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,21 +76,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:06:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on LINQ to XSD and its application in C# projects, with no mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined in the category description.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation and configuration of LINQ to XSD, which relates to tooling in a specific context, but it is primarily focused on a single tool rather than a broader exploration of practical techniques or methodologies.",
-    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -154,11 +106,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:06:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of LINQ to XSD, including specific steps for adding features to a project and necessary adjustments in project definition files.",
+    "final_score": 75.0,
+    "reasoning": "The content provides a detailed discussion on the installation and configuration of LINQ to XSD, including specific steps for setting up the tool and modifying project files. It explicitly mentions installation procedures and configuration details, which aligns well with the category's focus. However, while it covers practical aspects, it lacks broader context on integration or troubleshooting, which slightly limits its depth.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -172,29 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:06:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T12:06:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LINQ to XSD functionality and project setup in C#, with no focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T12:06:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical details and usage of LINQ to XSD, lacking a focus on industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on LINQ to XSD for C# projects, discussing its features and implementation details. There are no direct mentions of Evidence-Based Management, nor does it align with the core themes such as data-informed decision-making or metrics related to value delivery. The discussion lacks depth in relation to EBM principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,19 +175,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T12:06:55",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no focus on metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T12:06:56",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no relevance to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -278,15 +218,6 @@
     "reasoning": "Content primarily discusses technical aspects of LINQ to XSD and its implementation in C#, with no personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T12:07:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of LINQ to XSD without any focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T12:07:02",
@@ -294,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no mention of Azure DevOps services or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T12:07:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LINQ to XSD functionality and project setup, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no focus on Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T12:07:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of LINQ to XSD and its implementation in C#, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -442,12 +355,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and usage of LINQ to XSD in the context of C# development, which relates to software craftsmanship. However, the primary focus seems more on a specific tool rather than a broad discussion on principles or practices of software development excellence.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses LINQ to XSD and provides some technical details about its usage in C#. However, it primarily focuses on personal opinions and basic usage instructions rather than delving into best practices, principles of clean code, or broader software craftsmanship concepts. While there are mentions of project definitions and build actions, the overall discussion lacks depth in technical mastery and does not align closely with the core themes of the category.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -467,7 +383,7 @@
     "reasoning": "Content discusses LINQ to XSD, which is unrelated to large scale agility principles or practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:01:26",
     "ai_confidence": 0,
@@ -483,15 +399,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses LINQ to XSD, which is unrelated to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on LINQ to XSD and programming with C#, without any mention or discussion of Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -514,10 +421,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on LINQ to XSD and C# programming, with no discussion of Scrum roles, team dynamics, or Agile practices.",
     "level": "Ignored"
   },
@@ -665,24 +572,6 @@
     "reasoning": "Content discusses LINQ to XSD and related C# functionalities, with no relevance to estimation, Agile, or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on LINQ to XSD and specific technical implementations in C#, not discussing software development practices such as Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses LINQ to XSD, project definitions in C#, and related features without any mention of AI, Agile, or DevOps topics.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T18:01:26",
@@ -694,10 +583,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses LINQ to XSD and related C# project definitions, which are not central to the Windows operating system or its management.",
     "level": "Ignored"
   },
@@ -721,11 +610,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the usage and setup of LINQ to XSD within a C# project, which is relevant to software development practices.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses LINQ to XSD, which is a specific technology related to software development, particularly in the context of C# and project setup. However, the discussion is primarily anecdotal and lacks depth in terms of methodologies or best practices. While it mentions project definitions and build actions, it does not delve into broader software development concepts or frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -735,15 +627,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on LINQ to XSD and C# programming without any discussion of Agile frameworks or related principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about LINQ to XSD, a technology related to XML schema handling in C#, and does not discuss Agile methodologies or scaling Agile practices.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +667,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical tool related to C# and LINQ to XSD, with no focus on innovation capabilities or Evidence-Based Management principles.",
     "level": "Ignored"
   },
@@ -865,10 +748,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on LINQ to XSD functionality and C# project specifics, with no mention or discussion of the Definition of Done.",
     "level": "Ignored"
   },
@@ -883,11 +766,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses LINQ to XSD and related project setup in C#, with no mention or relevance to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses LINQ to XSD and its features for C# projects, with no direct mention of Continuous Delivery principles, practices, or related topics. It lacks alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The depth of discussion is focused on technical implementation rather than delivery practices, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -998,21 +884,12 @@
     "reasoning": "Content discusses LINQ to XSD in a technical context, without any relation to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on LINQ to XSD and C# project details, with no discussion of Kanban or its scaling principles.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses LINQ to XSD, which is unrelated to the Definition of Ready or Agile practices.",
     "level": "Ignored"
   },
@@ -1045,11 +922,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LINQ to XSD, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses LINQ to XSD and its features for C# projects, with no mention of Test First Development principles, success criteria, or testing practices. It does not align with the core themes of the category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1162,10 +1042,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical aspects of LINQ to XSD in C# and does not relate to team performance or collaboration.",
     "level": "Ignored"
   },
@@ -1189,10 +1069,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details of LINQ to XSD, without any reference to team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1214,15 +1094,6 @@
     "reasoning": "Content heavily discusses the features and setup of LINQ to XSD without any focus on deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses LINQ to XSD, a technology related to C# and XML schema, with no mention of Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "calculated_at": "2025-02-16T18:01:26",
@@ -1234,11 +1105,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-08T19:42:33",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses technical implementation details unrelated to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on LINQ to XSD and its application in C# projects, with no mention or discussion of the Scrum Master role, responsibilities, or related concepts. It does not align with any of the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1252,10 +1126,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses LINQ to XSD features and C# project setup, with no emphasis on team collaboration or related Agile practices.",
     "level": "Ignored"
   },
@@ -1270,10 +1144,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:01:26",
+    "calculated_at": "2025-04-10T15:56:30",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about LINQ to XSD and technical details related to C# projects, not related to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1158,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses LINQ to XSD functionalities and project setup in C#, without any mention of Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about LINQ to XSD and its implementation details in C#, with no reference to Scrum or its scaling practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1324,20 +1189,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installation and configuration steps for 'LINQ to XSD', including editing project definition files and dependencies related to C# projects. While it is primarily about LINQ to XSD, the focus on project setup implies a secondary theme of system configuration.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:01:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on LINQ to XSD and C# project configuration, with no discussion relevant to scaling agile practices or frameworks.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the installation and configuration of LINQ to XSD, which relates to system configuration. However, it primarily focuses on specific project setup in C# rather than broader system configuration principles. The mention of project definitions and build actions indicates some alignment with configuration practices, but the depth of discussion is limited to a specific tool without exploring wider system optimisation or management strategies.",
     "level": "Ignored"
   },
   "Entrepreneurship": {
@@ -1360,11 +1219,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:07:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LINQ to XSD and its implementation in C#, with no mention of Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on LINQ to XSD, a technical tool for C# development, with no discussion of social technologies, collaboration, or decision-making frameworks. It lacks any alignment with the core themes of the category, and the depth of discussion is entirely technical without addressing social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1236,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to LINQ to XSD and does not address leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:41:06",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses LINQ to XSD and its usage in C#, with no mention of Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:41:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses LINQ to XSD and its functionality in C#, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on LINQ to XSD, which is unrelated to Scrum principles, practices, or frameworks. There is no discussion of roles, events, or artifacts associated with Scrum, nor does it touch on Agile principles or team dynamics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses LINQ to XSD and its functionality in C#, with no mention of the Shift-Left Strategy or its principles. It focuses on technical implementation details rather than integrating testing, security, or compliance early in the development process.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on LINQ to XSD and its features for C# projects, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of LINQ to XSD in C# projects, with no explicit discussion of Common Goals, Agile, or DevOps principles. It lacks alignment with the core themes of the category and does not provide any depth on shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the technical aspects of using LINQ to XSD in C# projects, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of competence in using the tool, it does not align with the core themes of the 'Competence' category, such as fostering a culture of competence or the importance of ongoing skill development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on LINQ to XSD for C# projects, discussing its features and usage without any reference to Agentic Agility, intentional shaping of outcomes, or the interplay between human and AI capabilities. It lacks any relevant discussion on the principles or mechanisms of Agentic Agility.",
     "level": "Ignored"
   }
 }

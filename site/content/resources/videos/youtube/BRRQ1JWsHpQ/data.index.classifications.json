@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T08:12:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and Agile methodologies, with no clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T20:03:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than DevOps principles. While it briefly mentions DevOps in the conclusion, it does not delve into the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is more centred on agile methodologies and training strategies, which are not strictly aligned with the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T08:12:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training and the impact of digital tools on collaboration and continuous improvement, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses various engagement tools and techniques for fostering collaboration in agile training, which aligns with the principles of social technologies. It highlights the importance of self-organisation and collective intelligence through methods like the 'One, Two, Four, All' technique. However, while it touches on these themes, the primary focus is on training methodologies rather than a deep exploration of social technologies as a framework. The depth of discussion on the impact of these tools on organisational culture and behaviour is somewhat limited, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -64,48 +70,36 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scrum training and the impact of remote tools rather than focusing on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training, digital tools for remote Scrum courses, and the impact of these tools on the training experience, making Scrum a major but secondary theme.",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses agile training and engagement techniques, which are relevant to Scrum but does not explicitly focus on Scrum principles, roles, or practices. While it mentions Scrum Masters and the importance of adapting training to the audience, it lacks a detailed exploration of Scrum's core elements such as the Scrum framework, artifacts, or values. The discussion is more about general agile methodologies and training techniques rather than a deep dive into Professional Scrum.",
     "level": "Tertiary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses Scrum training and the impact of remote training tools in Agile contexts, emphasizing Agile principles but not extensively covering multiple frameworks.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training and the use of digital tools in a Scrum context, making it a significant but secondary theme to the main topic of training rather than product development.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses remote Scrum training and tools used in training sessions, indicating a focus on training events, but the primary emphasis is on the tools and the impact of remote training rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses agile methodologies and training techniques, which are relevant to Agile frameworks. However, it primarily focuses on the training process and engagement strategies rather than a deep exploration of specific Agile frameworks like Scrum or Kanban. While there are mentions of Scrum Masters and the application of Agile principles, the discussion lacks a thorough comparative analysis or detailed case studies on Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -145,10 +139,10 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the impact of remote training on Scrum and Agile environments, without a clear focus on measuring or enhancing customer satisfaction.",
     "level": "Ignored"
   },
@@ -163,12 +157,15 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the shift to remote training for Scrum and Agile practices due to COVID-19, highlighting the tools and resources that facilitate collaboration in a remote setting. However, it primarily focuses on Scrum training rather than a comprehensive exploration of remote working practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses training techniques and tools that can be applied in remote and hybrid work environments, which aligns with the category of Remote Working. However, while it touches on the importance of adapting to virtual settings and mentions specific tools like Mural and Microsoft Teams, the primary focus is on training methodologies rather than remote working practices themselves. The discussion on engagement and collaboration is relevant but does not delve deeply into the unique challenges of remote Agile teams, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -181,10 +178,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and the use of digital tools rather than the Definition of Done.",
     "level": "Ignored"
   },
@@ -208,12 +205,15 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses digital tools and resources in the context of scrum training and collaboration, making collaboration a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses various tools and techniques for enhancing collaboration in Agile training, particularly focusing on the 'One, Two, Four, All' technique and the use of platforms like Mural and Microsoft Teams. While it does not provide an extensive overview of collaboration tools, it aligns with the core themes of enhancing communication and coordination within Agile teams. The depth of discussion is moderate, as it explains specific methods and their application in training, but lacks a broader comparison of tools or detailed case studies.",
+    "level": "Secondary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -235,19 +235,22 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and Agile methodologies, with no mention or clear connection to Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than Continuous Delivery principles. While it touches on collaboration and practical application of agile methodologies, it lacks direct discussion of Continuous Delivery practices, automation, or the specific benefits of delivering software in reliable cycles. The mention of agile concepts is secondary and does not delve into the core themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile and scrum training without a focus on customer feedback integration.",
     "level": "Ignored"
   },
@@ -271,10 +274,10 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile training and coaching, focusing on the tools and techniques for Scrum training rather than customer retention strategies.",
     "level": "Ignored"
   },
@@ -289,21 +292,27 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content focuses on Scrum training and Agile methodologies, which are important aspects of software development practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses agile methodologies and training techniques, which are relevant to software development practices. It mentions Scrum and tools for engagement, aligning with core themes of the Software Development category. However, the focus is more on training and facilitation rather than in-depth software engineering practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile coaching and training, highlighting the importance of collaborative tools and resources in facilitating learning and development, but the primary focus is on training methods rather than coaching itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses various techniques for engaging participants in agile training, which aligns with coaching principles. It emphasises creating a safe space for sharing and encourages collaboration, reflecting the supportive nature of coaching. However, while coaching is a significant theme, the focus is more on training methodologies and participant engagement rather than on the coaching process itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -316,21 +325,27 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile training and coaching, which suggests a focus on implementing agile methodologies, but it primarily centers around experiences and tools rather than a strategic discussion related to Agile Strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the application of Agile methodologies in training and workplace settings, focusing on experimentation and engagement. While it does not explicitly mention Agile strategy, it aligns with the core themes of adaptability and continuous value delivery. The depth of discussion on tools for engagement and creating a safe space for sharing indicates a practical approach to implementing Agile principles, contributing to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses tools and resources related to Scrum training and their positive impact on team collaboration and performance, which aligns with themes of team effectiveness and continuous improvement within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses various techniques for fostering collaboration and engagement within agile teams, such as the 'One, Two, Four, All' technique, which aligns well with the category's focus on enhancing team dynamics. It also addresses the importance of adapting training to group dynamics and creating a safe space for sharing, which are crucial for team performance. However, while it touches on relevant themes, it does not delve deeply into metrics or specific agile ceremonies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -368,15 +383,6 @@
     "reasoning": "Content heavily discusses Scrum training and Agile methodologies without addressing Value Stream Management principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and Agile practices, with no clear focus on the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
     "calculated_at": "2025-02-18T10:21:57",
@@ -388,11 +394,14 @@
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of digital tools in training, promoting innovation in remote training environments, which aligns with aspects of digital transformation but is primarily focused on agile training rather than a broader strategic overview.",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses agile training and engagement techniques, which are relevant to digital transformation in terms of enhancing business agility and fostering innovation. However, it lacks a direct focus on the strategic adoption of digital technologies or specific case studies related to digital transformation. The discussion is more centred on training methodologies rather than the broader implications of digital transformation on business processes and culture.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -406,12 +415,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses digital tools and resources for training in Scrum, suggesting a focus on learning and self-improvement, but it primarily emphasizes Scrum training rather than Continuous Learning as a central theme.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the importance of experimentation and engagement in Agile training, which aligns well with the principles of Continuous Learning. It highlights techniques for effective knowledge sharing, such as the 'One, Two, Four, All' method, and emphasises creating a safe space for sharing ideas, which fosters a growth mindset. The depth of discussion is significant, covering various aspects of training and adaptation in both physical and virtual environments, thus supporting ongoing education and skill development. Overall, the content is a strong fit for the Continuous Learning category.",
+    "level": "Primary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -449,15 +461,6 @@
     "reasoning": "Content heavily discusses Agile and Scrum training rather than technical practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training and Agile methodologies, which impact Software Developers, but it primarily focuses on training and consultancy rather than developer-specific roles or practices.",
-    "level": "Tertiary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T10:21:57",
@@ -465,15 +468,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and the impact of digital tools on Agile practices rather than Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scrum training and agility rather than software code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,30 +499,36 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily discusses Scrum training and tools related to Scrum, but does not focus specifically on the role of the Scrum Master.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses agile training and includes references to Scrum Masters, indicating a connection to the role. However, the primary focus is on training techniques and engagement strategies rather than the specific responsibilities and impact of a Scrum Master. While it touches on relevant themes, it lacks in-depth exploration of the Scrum Master's role and responsibilities.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Scrum training and remote learning tools, with no clear discussion about scaling Agile practices across an organization.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile training and the impact of collaboration tools on learning and customer experience, which aligns with value delivery principles, but is not primarily focused on strategies for continuous value delivery.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the application of agile training techniques and the importance of context in delivering value to participants. While it touches on engagement and collaboration, it lacks a direct focus on value delivery principles, such as iterative development or customer feedback mechanisms. The discussion is more about training methodologies than about strategies for continuous value delivery in Agile or DevOps frameworks.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses agile training and scrum methodologies without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Scrum training and the impact of digital tools on remote training, making Scrum a major but secondary theme within a broader context of Agile training.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:21:57",
@@ -586,21 +577,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of digital tools on training and collaboration in the context of agile environments, suggesting a connection to organisational change. However, the primary focus is on Scrum training and tools rather than a comprehensive discussion of organisational change strategies or frameworks.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and digital tools for individual training, without reference to scaling Agile practices across multiple teams or an enterprise level.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses tools and techniques for facilitating engagement and collaboration in a training context, which indirectly relates to organisational change. However, it lacks explicit focus on organisational change strategies or frameworks. While it touches on the importance of creating an inclusive environment and utilising liberating structures, it does not delve deeply into the principles of Agile transformation or leadership roles in driving change, which are core themes of the category.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -610,15 +595,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and Agile methodologies, with no clear focus on Lean Thinking principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses remote Scrum training and collaboration, indicating a focus on team dynamics and the impact of digital tools on learning and process improvement in Agile environments.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,10 +607,10 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and digital tools for training rather than the principles or practices of Business Agility.",
     "level": "Ignored"
   },
@@ -667,23 +643,26 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses digital tools and resources for Scrum training without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses remote scrum training and the use of digital tools in training, with no focus on lead time or its measurement.",
+    "calculated_at": "2025-04-11T12:38:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile training techniques and engagement strategies rather than discussing Lead Time as a metric. There are no direct mentions of Lead Time, and while there is a general emphasis on improving processes, it does not delve into the specifics of measuring or optimising Lead Time. The discussion lacks depth in relation to the key topics outlined for the category, such as the relationship between Lead Time and Cycle Time or strategies for optimising Lead Time. Overall, the content does not align with the core themes of the Lead Time category.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:21:57",
     "ai_confidence": 0,
@@ -699,15 +678,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content mainly discusses training tools and resources related to Scrum and Agile methodologies without a central focus on Agile leadership roles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content mainly discusses Scrum training and the shift to remote delivery during the pandemic, without a focus on AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -739,37 +709,34 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 70,
-    "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the impact of digital tools and resources on team collaboration in the context of remote scrum training, making collaboration a significant theme.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on enhancing team collaboration through the use of specific tools and techniques, such as liberating structures, to facilitate communication and engagement in both virtual and hybrid environments. It discusses the importance of creating an inclusive atmosphere where all voices are heard, which aligns well with the core themes of team dynamics and shared ownership in Agile contexts. The depth of discussion is significant, providing detailed examples and practical applications of the concepts, thus reinforcing its relevance to the category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adaptation of training methods in response to the Covid-19 pandemic, which aligns with market adaptability themes, particularly in the context of Agile practices and remote collaboration. However, the primary focus is more on training and Scrum rather than directly on market adaptability strategies.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum training and Agile methodologies without any mention or application of AI.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile methodologies and their application in training, which aligns with the principles of market adaptability. It highlights the importance of experimentation and adapting training to different contexts, which reflects responsiveness to change. However, while it touches on relevant themes, it lacks a direct focus on broader market adaptability strategies, such as data analytics or cross-functional teams, which limits its depth in this specific category.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses scrum training and digital tools rather than directly focusing on the delivery of functional software.",
     "level": "Ignored"
   },
@@ -793,10 +760,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and digital tools for teams, which are primarily focused on team-level practices rather than enterprise-wide agility.",
     "level": "Ignored"
   },
@@ -808,15 +775,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and the impact of remote learning on teams but does not focus on the Product Backlog or its management.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scrum training and agile practices, but primarily focuses on digital tools and training methods rather than core agile project management principles.",
-    "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -836,32 +794,17 @@
     "reasoning": "Content primarily discusses digital tools for Scrum training and Agile consulting, lacking focus on troubleshooting or the resolution of technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses digital tools and resources for Scrum training, which are relevant to Agile methodologies and may include reviews or discussions of such products but lacks a clear primary focus on specific products or books.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of remote training on Scrum and the introduction of digital tools, which is relevant to the Agile and DevOps sectors. However, it mainly focuses on training services and offers from a consultancy, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses training in agile and Scrum contexts, highlighting tools that promote collaboration and self-improvement, which relates to team motivation, although the primary focus is more on tools and training methods rather than direct team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses various techniques for fostering engagement and collaboration, such as the 'One, Two, Four, All' technique, which aligns with the core themes of team motivation. It also highlights the importance of creating a safe space for sharing ideas, which contributes to psychological safety within teams. However, while these elements are present, the primary focus is on training methodologies rather than directly addressing team motivation strategies in depth.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -872,21 +815,12 @@
     "reasoning": "Content primarily discusses digital tools and resources in Scrum training rather than personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scrum training and the impact of digital tools on delivering training rather than scaling Scrum in organizations.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Scrum training and digital tools for remote learning rather than cross-functional teams.",
     "level": "Ignored"
   },
@@ -901,12 +835,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses Scrum training and tools related to Agile methodologies, making Agile a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses agile training and engagement techniques, which are relevant to Agile Product Management. However, it primarily focuses on training methodologies rather than specific product management practices. While it mentions Scrum and the importance of collaboration, it lacks detailed discussions on product backlog prioritisation, stakeholder engagement, or metrics for product decisions, which are core themes of Agile Product Management.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -919,11 +856,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and the impact of remote learning during COVID-19, without mentioning Test First Development or related principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than discussing Test First Development principles. While it touches on collaboration and practical application of tools, it does not explicitly mention Test First practices, success criteria, or testing methodologies. The discussion lacks depth in relation to the core themes of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,11 +877,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of digital tools on Scrum training and how they promote collaboration and continuous improvement, making Scrum a major but secondary theme in the context of digital training.",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses training in agile methodologies and includes references to Scrum Masters and team dynamics, but it primarily focuses on general agile training techniques rather than specific Scrum team roles or dynamics. While there are mentions of collaboration and engagement, the depth of discussion on Scrum-specific practices is limited.",
     "level": "Tertiary"
   },
   "Trend Analysis": {
@@ -1007,32 +950,29 @@
     "reasoning": "Content primarily discusses Scrum training and the transition to remote learning, rather than the core principles of product delivery.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Scrum training and digital tools for team-level agile practices rather than strategies for scaling agility across organizations.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile training and the impact of digital tools on collaboration and learning, which are related to organisational agility practices. However, the primary focus is on training delivery rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses agile training and the importance of applying agile methodologies in the workplace, which aligns with the principles of organisational agility. It highlights the need for adaptability and responsiveness through experimentation and engagement techniques. However, while it touches on relevant themes, it lacks a comprehensive exploration of organisational structures or leadership roles that are crucial for a full understanding of agility. The focus is more on training methods than on broader organisational strategies.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum training and digital tools used in Agile environments, indicating a focus on Agile practices and transformation, but it is mainly centered around the training aspect rather than a broader Agile transformation strategy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses agile training and the application of agile methodologies in the workplace, which aligns with the principles of Agile transformation. It mentions tools and techniques that facilitate engagement and collaboration, which are relevant to Agile practices. However, the focus is more on training methods and participant engagement rather than a comprehensive exploration of Agile transformation strategies, frameworks, or leadership roles. Therefore, while it touches on Agile concepts, it does not delve deeply into the broader themes of Agile transformation.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1043,30 +983,12 @@
     "reasoning": "Content primarily discusses Scrum training, agile coaching, and the impact of remote training, which are not directly related to portfolio management.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of COVID-19 on remote Scrum training and the adaptation of digital tools, indicating a theme of change and adaptation in response to disruptions.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the transition of Scrum training to digital tools and resources due to COVID-19, focusing on training experiences rather than on transparency and accountability principles.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote training on Scrum training rather than focusing on Agile Planning Tools specifically.",
     "level": "Ignored"
   },
@@ -1079,15 +1001,6 @@
     "reasoning": "Content primarily discusses Scrum training and agile consultancy without a clear focus on Frequent Releases or software delivery practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of digital tools and resources in scrum training, indicating a secondary focus on practical techniques and tooling within the context of Agile training.",
-    "level": "Tertiary"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-18T10:21:57",
@@ -1099,11 +1012,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:38:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum training and agile methodologies, with no emphasis on system configuration or related technical content.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile training methodologies and engagement techniques rather than system configuration. There are no direct mentions of system configuration, and while there is some conceptual alignment with the idea of applying tools in a work environment, it lacks depth in discussing system setup, integration, or maintenance. The content is more about training and collaboration than about configuring systems for optimal performance.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1135,21 +1051,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and digital tools for training, without a focus on the Agile Product Operating Model or product-centric development.",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile training techniques and engagement strategies rather than the Agile Product Operating Model itself. While it touches on agile methodologies and the importance of collaboration, it lacks a direct discussion of the APOM principles, such as transitioning to a product ethos or operational governance. The depth of discussion is more about training methods than the integration of agile with product management, leading to a lower confidence score.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of digital tools on training and learning processes in agile environments, indicating a focus on how training experiences can foster ongoing collaboration and self-improvement.",
-    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1178,23 +1088,17 @@
     "reasoning": "Content primarily discusses scrum training and the impact of remote training during the COVID-19 pandemic, with no focus on automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and Agile methodologies rather than Scaling Kanban principles.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 38.0,
+    "ai_depth": 29.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical application of digital tools in Scrum training during remote work conditions, which aligns with pragmatic thinking in Agile contexts.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses practical tools and techniques for facilitating engagement in Agile training, particularly through the use of liberating structures. It emphasises real-world applications of these tools in virtual and hybrid environments, aligning well with the core themes of pragmatic thinking. However, while it mentions Agile and Scrum, the focus is more on the training methods rather than a deep exploration of problem-solving strategies or decision-making processes, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1225,10 +1129,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the transition to remote scrum training and digital tools rather than focusing on working agreements or team collaboration norms.",
     "level": "Ignored"
   },
@@ -1261,10 +1165,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum training and digital tools, without a clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1279,12 +1183,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the impact of digital tools and resources on training and collaboration within agile and Scrum environments, suggesting a connection between technology and team dynamics, but lacks a deeper exploration of sociotechnical systems.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of context, group dynamics, and tools for engagement in agile training, which aligns with sociotechnical systems by highlighting the interplay between social aspects (group dynamics, collaboration) and technical practices (agile methodologies, tools). However, it lacks explicit references to organisational structures or broader sociotechnical frameworks, which limits its depth in this category.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1324,11 +1231,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T12:38:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on Scrum training and the use of digital tools in that context, lacking a central discussion on throughput or related measurement and optimization of work completion rates.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile training methodologies and engagement techniques rather than discussing throughput as a delivery metric. While it touches on collaboration and actionable outcomes, it does not define or calculate throughput, nor does it analyse or visualise it in any meaningful way. The discussion lacks depth in terms of throughput metrics and does not provide insights into delivery capacity or performance of flow-based systems.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1342,28 +1252,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:21:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum training and the transition to remote teaching during COVID-19, not focusing on Evidence-Based Management principles or using empirical data for decision-making.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than on evidence-based management principles. While it discusses the importance of experimentation and adapting tools in practice, it lacks direct references to empirical decision-making or metrics that assess current value, time to market, or other key topics of EBM. The discussion is more about facilitating training and engagement rather than making data-informed management decisions.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the transition to remote Scrum training and the availability of digital tools, but does not focus on installation or configuration processes of those tools.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T10:21:57",
+    "calculated_at": "2025-04-10T15:54:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses scrum training and digital tools in the context of remote learning but does not focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
@@ -1375,5 +1288,432 @@
     "final_score": 0.0,
     "reasoning": "Content discusses the impact of remote training on Scrum practices and various digital tools in training, but it does not focus on techniques or strategies for enhancing operational efficiency within Agile or DevOps frameworks.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:00:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum training and Agile methodologies, with no focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:00:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum training and Agile methodologies without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 50,
+    "final_score": 62.0,
+    "reasoning": "The content discusses training for Scrum practitioners and facilitators, indicating a direct mention of Scrum. It aligns with Scrum principles by emphasising collaboration and engagement, which are core to the framework. However, the depth of discussion primarily focuses on training techniques and tools rather than the Scrum framework itself, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than discussing the Shift-Left Strategy. While it touches on collaboration and practical application of tools, it does not explicitly mention integrating testing, security, or compliance early in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of experimentation and engagement in agile training, which aligns with the principles of Continuous Improvement. However, while it touches on relevant themes such as adapting training to context and fostering collaboration, it lacks a direct focus on Continuous Improvement as a primary topic. The discussion is more about training methodologies and engagement techniques rather than a comprehensive exploration of Continuous Improvement practices.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile training and engagement techniques but does not explicitly address Common Goals or their significance in Agile and DevOps. While it touches on collaboration and the importance of adapting training to team dynamics, it lacks a direct focus on aligning strategy with execution or shared objectives that guide decision-making. The discussion is more about training methodologies and participant engagement rather than the foundational principles of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile training and the importance of applying learned techniques in practice, which aligns with the concept of competence. However, it primarily focuses on engagement tools and group dynamics rather than explicitly addressing continuous learning or skill development. The depth of discussion on competence is limited, as it does not delve into strategies for fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than the One Engineering System framework. While it briefly mentions tools and methodologies that could relate to engineering practices, it lacks a direct discussion of 1ES principles, integration of tools across teams, or best practices specific to 1ES. The depth of discussion on engagement tools is notable, but it does not sufficiently align with the core themes of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile training and the importance of experimentation and engagement, but it does not explicitly mention Agentic Agility or its principles. While there are elements of adaptability and collaboration, the focus is primarily on training methodologies rather than the intentional shaping of outcomes through agency. The discussion lacks depth in exploring the distinctions between human and AI capabilities in this context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T12:33:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses agile training and methodologies, which are relevant to product development, particularly in the context of iterative learning and customer feedback. However, while it touches on the importance of applying agile principles in practice, it lacks a direct focus on product development strategies or outcomes. The discussion is more centred on training techniques and engagement rather than the broader product development lifecycle, which limits its depth in this specific category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T12:33:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile training and engagement techniques, which are relevant to Agile principles but does not explicitly mention Open Space Agile or its core concepts. While it touches on themes of collaboration and creating a safe space for sharing, it lacks a direct focus on Open Space Technology or the specific practices associated with Open Space Agile. The depth of discussion is primarily about training methodologies rather than the broader organisational change processes that Open Space Agile encompasses.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T12:33:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile training and the importance of context, which aligns with the principles of Agnostic Agile. However, it primarily focuses on specific engagement techniques and does not explicitly mention Agnostic Agile or its core principles. The depth of discussion is limited to practical training methods without a thorough exploration of the philosophical underpinnings of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T12:33:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than scaling methodologies or frameworks. While it touches on collaboration and practical application of agile tools, it does not explicitly discuss scaling Agile practices or the complexities involved in coordinating multiple teams. The mention of group dynamics and engagement tools is relevant but does not align with the core themes of scaling as defined in the category. Overall, the content lacks depth in addressing the specific challenges and strategies related to scaling Agile and DevOps practices.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T12:38:10",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 85.0,
+    "reasoning": "The content explicitly mentions the 'One, Two, Four, All' technique from Liberating Structures, demonstrating a direct reference to a specific method. It aligns well with the core themes of enhancing participation and collaboration, as it discusses how this technique fosters engagement in group settings. The depth of discussion is substantial, as it provides a detailed breakdown of the technique and its application in training environments, while also addressing the importance of creating a safe space for sharing ideas. Overall, the content is primarily focused on Liberating Structures, making it a strong fit for the category.",
+    "level": "Primary"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T12:38:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on agile training techniques and engagement strategies rather than directly addressing Current Value or its metrics. While it touches on the importance of applying training in real-world contexts, it lacks explicit discussions on measuring customer satisfaction, revenue impact, or performance feedback, which are critical to Current Value. The depth of discussion is more about training methodologies than about evaluating the tangible benefits of a product or service.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T12:38:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than directly addressing Time to Market. While it discusses the importance of applying training in real-world contexts, it lacks explicit mentions of Time to Market metrics or strategies for improving it. The alignment with the category is limited, as the discussion does not delve into how these training methods impact the speed of delivering value to customers. Overall, the depth of discussion on Time to Market is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T12:38:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile training methodologies and engagement tools, with no direct mention of Cell Structure Design or its principles. While there are elements of collaboration and self-organisation discussed, they are framed within the context of agile practices rather than the specific concepts of decentralised structures or autonomous cells as outlined in the Cell Structure Design model. The discussion lacks depth regarding the core themes of the category, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T12:38:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than discussing the company as a product concept. While it touches on collaboration and experimentation, which are relevant to CaaP, it lacks direct mentions of organisational design or customer-centric strategies. The depth of discussion is more about training methodologies than the broader implications of treating a company as a product, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T12:38:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on agile training and engagement techniques rather than discussing Unrealised Value directly. While it touches on the importance of applying training insights to create actionable outcomes, it lacks explicit references to the concept of Unrealised Value or its indicators. The discussion is more about practical application and engagement rather than exploring untapped opportunities or potential improvements within an organisation. Therefore, while there are some elements that could relate to the broader theme of value creation, they are not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T12:38:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile training methodologies and engagement techniques, with no direct mention of GitHub or its services. While it discusses collaboration and tools for engagement, these concepts are not specifically tied to GitHub functionalities or practices. The discussion lacks depth regarding GitHub's role in project management or version control, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T12:38:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on agile training techniques and engagement strategies rather than broader project management principles. While it touches on aspects of team collaboration and the application of tools in a project context, it lacks direct discussions of core project management methodologies, lifecycle phases, or governance structures. The emphasis on specific agile practices and roles detracts from its alignment with the broader project management category, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T12:38:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on agile training techniques and engagement strategies without addressing the specific challenges or implications of Hybrid Agile. While it mentions adapting to hybrid and virtual environments, it does not critically examine the integration of traditional project management with agile practices, nor does it discuss the pitfalls or dysfunctions associated with Hybrid Agile. Therefore, the content does not align well with the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on training and engagement techniques within Agile methodologies rather than explicitly discussing models or frameworks like the Cynefin Framework or Lean Startup principles. While it touches upon concepts of collaboration and experimentation, it does not do so in a structured way that aligns with the key topics of the 'Model' category. Overall, the emphasis is on practical engagement rather than on theoretical models, resulting in a low confidence score for the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on engagement techniques and the training process in Agile methodologies, without discussing specific artifacts or their roles within Agile, Scrum, or Lean systems. While it touches on Agile principles, it does not delve into the structure, purpose, or management of artifacts as formal representations of work. Therefore, the content's connection to the 'Artifact' category is minimal.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 75.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content focuses on tools used for engaging participants in agile training, specifically discussing the 'One, Two, Four, All' technique as a practical application. While it does mention tools and techniques within the context of Agile, the overall emphasis is on training methodologies rather than a detailed exploration of various tools. However, it provides specific examples and some depth regarding the functionality of engagement tools in collaborative settings, which aligns well with the category.",
+    "level": "Secondary"
+  },
+  "Values": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses techniques for effective engagement and collaboration in the context of agile training, but it does not explicitly address core values or beliefs that guide behaviors. While it emphasizes participant involvement and creating a safe space, it lacks a deeper exploration of foundational values like those found in Scrum or Agile principles. The focus is more on practical tools and methods rather than articulating guiding beliefs, which diminishes its alignment with the category 'Values'.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 45.0,
+    "ai_mentions": 3,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content does mention Agile methodologies and tools such as Scrum and DevOps, reflecting connections to frameworks. However, it primarily focuses on the training and engagement strategies rather than providing a structured overview of specific frameworks or their implementation. While it discusses practical tools and techniques relevant to agility, the core principles and comparative analysis of frameworks are absent, which lowers the alignment and depth scores. Overall, the content relates tangentially to the category but does not explore it as a primary focus.",
+    "level": "Tertiary"
+  },
+  "Practice": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 67.0,
+    "ai_mentions": 4,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content explores actionable techniques for transferring agile training into practical application, focusing on engagement methods like the 'One, Two, Four, All' technique. There are direct mentions of practices that can improve team interactions and effectiveness. While it does touch upon agile concepts, it emphasizes practical engagement tools, aligning well with the category of Practice. However, it does not delve deeply into specific frameworks or methodologies related to Agile practices, hence the slightly reduced depth score.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on practical aspects of agile training and implementation rather than exploring the underlying philosophy of Agile or related methodologies. It mentions tools and techniques without delving into the foundational beliefs or cultural implications of Agile practices, which is central to the philosophy category. Therefore, although there are occasional references to broader concepts, they remain secondary to the practical aspects discussed.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses tools and techniques for engaging in agile training rather than focusing on the enduring competencies that constitute capabilities. While there are mentions of fostering collaboration and creating actionable outcomes, these are presented in a fragmented manner without deep exploration of the systemic integration of capabilities in teams or organizations. The discussion lacks a core focus on the characteristics or development of capabilities, focusing instead on the training process and participant engagement.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 45.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses various engagement tools and strategies related to Agile training, which aligns with the idea of actionable guidance but lacks a clear focus on specific tenets of Agile, Lean, or DevOps. While it mentions experimentation and adaptation, it does not explicitly outline tenets that guide decision-making or behaviors within teams. The approach to collaboration and participation aligns somewhat with tenet principles, but overall, the content is more descriptive of methods rather than providing actionable tenets.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 78.0,
+    "ai_mentions": 2,
+    "ai_alignment": 85.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content predominantly discusses specific methods, particularly the 'One, Two, Four, All' technique, which serves as a structured procedural approach for enhancing engagement in training. It explains the method step-by-step and emphasizes its effectiveness for collaboration in larger groups, directly aligning with the 'Method' category. While it touches upon broader themes of agile training and context adaptation, the primary focus on a particular engagement method and its detailed breakdown strongly reinforces its relevance to the category.",
+    "level": "Secondary"
+  },
+  "Observability": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on agile training and engagement strategies rather than observability. While it does mention general principles of improving team effectiveness and collaboration, it does not directly address observability concepts or practices. The mentions of tools and techniques may imply a correlation, but they are related to engagement and teamwork rather than observability metrics, logs, or traces. Overall, the content does not explicitly discuss observability or its core themes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 28,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses actionable strategies for applying agile training and emphasizes the need for experimentation and active engagement, which aligns with principles of continuous improvement and self-management. However, it mainly focuses on tools and techniques rather than directly addressing foundational principles that guide decision-making. While it touches on relevant topics, it lacks a direct, in-depth discussion specifically about Agile principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "BRRQ1JWsHpQ",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:41:21",
+    "ai_confidence": 45.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content provides some discussion around agile methodologies, which is a key discipline in modern workflows. However, it primarily focuses on tools and techniques for training rather than the deeper principles and systemic approaches that define the discipline of Agile itself. While there is mention of related concepts like Scrum and DevOps, the emphasis on practical application and engagement tools detracts from a broader discussion on the principles behind the discipline. The depth of discussion indicates some understanding of the discipline, but it does not fully delve into systematic applications or governance, resulting in a moderate confidence score.",
+    "level": "Tertiary"
   }
 }

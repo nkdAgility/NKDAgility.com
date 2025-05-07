@@ -2,8 +2,10 @@
 title: 'Evidence-Based Management: The Four Key Value Areas in Scrum'
 description: Discover the four key value areas of Evidence-Based Management to optimise your organisation's success and drive innovation. Unlock your potential today!
 date: 2024-09-13T07:00:34Z
+weight: 315
 ResourceId: sT44RQgin5A
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sT44RQgin5A
@@ -15,32 +17,43 @@ preview: https://i.ytimg.com/vi/sT44RQgin5A/maxresdefault.jpg
 duration: 1652
 isShort: false
 aliases:
-- /resources/evidence-based-management-the-four-key-value-areas-in-scrum
-- /resources/videos/the-four-key-value-areas-of-ebm
-- /resources/videos/sT44RQgin5A
-- /resources/the-four-key-value-areas-of-ebm
 - /resources/sT44RQgin5A
-aliasesFor404:
+- /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
+- /resources/videos/the-four-key-value-areas-of-ebm
+aliasesArchive:
+- /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
 - /resources/evidence-based-management-the-four-key-value-areas-in-scrum
 - /resources/videos/the-four-key-value-areas-of-ebm
 - /resources/the-four-key-value-areas-of-ebm
+- evidence-based-management-the-four-key-value-areas-in-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
-- Ability to Innovate
-- Decision Making
 - Evidence Based Leadership
 - Value Delivery
 - Evidence Based Management
+- Metrics and Learning
+- Organisational Agility
+- Operational Practices
+- Product Delivery
+- Agile Product Management
+- Software Development
+- Pragmatic Thinking
+- Decision Making
+- Current Value
+- Time to Market
+- Unrealised Value
+- Empirical Process Control
 resourceTypes:
 - video
 categories:
 - Product Management
+- Engineering Excellence
+- Scrum
 
 ---
-When we talk about _evidence-based management_ in Scrum, we're focusing on making decisions grounded in data rather than gut feeling. A core element of this approach involves evaluating our work through four **key value areas**. These areas ensure a holistic view, covering different aspects of the system instead of focusing narrowly on specific metrics. This allows for a more strategic understanding and avoids suboptimal optimizations.
+When we talk about _evidence-based management_ in [Scrum]({{< ref "/categories/scrum" >}}), we're focusing on making decisions grounded in data rather than gut feeling. A core element of this approach involves evaluating our work through four **key value areas**. These areas ensure a holistic view, covering different aspects of the system instead of focusing narrowly on specific metrics. This allows for a more strategic understanding and avoids suboptimal optimizations.
 
 ## **What Are the Four Key Value Areas?**
 
@@ -58,9 +71,9 @@ Each of these categories contains two key value areas, offering a comprehensive 
 
 Market value is about measuring how our product fares in the market. It includes two key value areas:
 
-### **1\. Current Value**
+### **1\. [Current Value]({{< ref "/tags/current-value" >}})**
 
-Current value is all about understanding the present performance of our product. It measures the value we are providing right now, focusing on customer satisfaction and usage patterns.
+Current value is all about understanding the present performance of our product. It measures the value we are providing right now, focusing on [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}) and usage patterns.
 
 **Key Metrics to Measure Current Value:**
 
@@ -78,7 +91,7 @@ Unrealized value represents the potential opportunities that haven't been captur
 
 **How to Identify Unrealized Value:**
 
-- **Product Backlog Analysis**: Review items that have not yet been developed and analyze their potential impact.
+- **[Product Backlog]({{< ref "/tags/product-backlog" >}}) Analysis**: Review items that have not yet been developed and analyze their potential impact.
 
 - **Market and Competitor Analysis**: Look for gaps in your competitors' offerings and industry trends.
 
@@ -90,11 +103,11 @@ Unrealized value represents the potential opportunities that haven't been captur
 
 ## **Organizational Capability: Building a Strong Foundation for Success**
 
-The second category is _organizational capability_, focusing on how efficiently and effectively we operate internally. This is particularly crucial for engineering teams and product development.
+The second category is _organizational capability_, focusing on how efficiently and effectively we operate internally. This is particularly crucial for engineering teams and [product development]({{< ref "/categories/product-development" >}}).
 
-### **3\. Ability to Innovate**
+### **3\. [Ability to Innovate]({{< ref "/tags/ability-to-innovate" >}})**
 
-This value area is about how well the organization can create new features and improve existing ones. It measures whether the team is bogged down by technical debt or able to spend time on innovation.
+This value area is about how well the organization can create new features and improve existing ones. It measures whether the team is bogged down by [technical debt]({{< ref "/tags/technical-debt" >}}) or able to spend time on innovation.
 
 **Metrics for Ability to Innovate:**
 
@@ -106,17 +119,17 @@ This value area is about how well the organization can create new features and i
 
 📌 _Real-World Insight_: A few years back, I worked with a company managing 90 teams across 13 locations. With such a large setup, merging branches and getting a unified product was a significant challenge. The process consumed substantial time and effort, which hindered innovation. Reducing these complexities can boost your ability to innovate.
 
-### **4\. Time to Market**
+### **4\. [Time to Market]({{< ref "/tags/time-to-market" >}})**
 
 Time to Market is about how quickly you can deliver changes or new features into production. A fast time to market means you can adapt swiftly to feedback, fix issues quickly, and capitalize on new opportunities.
 
 **Key Metrics for Time to Market:**
 
-- **Cycle Time**: The time it takes from code commit to deployment.
+- **[Cycle Time]({{< ref "/tags/cycle-time" >}})**: The time it takes from code commit to deployment.
 
 - **Release Frequency**: How often you release new versions or updates.
 
-- **Lead Time for Changes**: How quickly a requested change reaches users.
+- **[Lead Time]({{< ref "/tags/lead-time" >}}) for Changes**: How quickly a requested change reaches users.
 
 🚀 _Example_: Facebook is known for its impressive 12.5-minute cycle from developer code commit to production, which includes all testing. This speed allows them to adapt quickly to user needs.
 
@@ -134,7 +147,7 @@ Achieving the right balance between innovation and stability is crucial for long
 
 - **Adopt Hypothesis-Driven Development**: Test new ideas and features with real users to validate their potential impact.
 
-🛠 _Personal Experience_: In maintaining the Azure DevOps Migration Tools, I implemented a fully automated CI/CD pipeline. The build time was 12 minutes, which initially slowed down my process. Shortening this feedback loop allowed me to iterate faster and deliver features more efficiently.
+🛠 _Personal Experience_: In maintaining the Azure [DevOps]({{< ref "/categories/devops" >}}) Migration Tools, I implemented a fully automated CI/CD pipeline. The build time was 12 minutes, which initially slowed down my process. Shortening this feedback loop allowed me to iterate faster and deliver features more efficiently.
 
 * * *
 
@@ -148,7 +161,7 @@ Implementing evidence-based management helps organizations:
 
 - **Improve Team Efficiency**: Identify bottlenecks in processes and address them effectively.
 
-In an environment where both internal capability and market adaptability are vital, the four key value areas of evidence-based management provide a framework for sustainable success.
+In an environment where both internal capability and [market adaptability]({{< ref "/tags/market-adaptability" >}}) are vital, the four key value areas of evidence-based management provide a framework for sustainable success.
 
 * * *
 

@@ -2,8 +2,10 @@
 title: '7 deadly sins of Agile: Envy'
 description: "Explore the dangers of envy in Agile! Discover why copying others, like the Spotify model, can hinder your unique path to success. \U0001F6AB\U0001F4CB"
 date: 2023-10-09T11:17:10Z
+weight: 1000
 ResourceId: 4mkwTMMtKls
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4mkwTMMtKls
@@ -14,29 +16,27 @@ preview: https://i.ytimg.com/vi/4mkwTMMtKls/maxresdefault.jpg
 duration: 407
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-envy
-- /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile
-- /resources/videos/4mkwTMMtKls
-- /resources/envy!-one-of-the-7-deadly-sins-of-agile
 - /resources/4mkwTMMtKls
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-envy
+- /resources/videos/envy-one-of-the-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-envy
+- /resources/videos/7-deadly-sins-of-agile-envy
 - /resources/7-deadly-sins-of-agile-envy
 - /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile
 - /resources/envy!-one-of-the-7-deadly-sins-of-agile
+- /resources/videos/envy-one-of-the-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-envy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Philosophy
-- Personal
+- Software Development
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
-- Product Management
-- Leadership
+- Uncategorized
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

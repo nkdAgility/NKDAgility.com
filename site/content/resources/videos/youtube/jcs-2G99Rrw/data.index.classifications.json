@@ -28,19 +28,22 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses issues related to the product backlog in Azure DevOps, specifically around the hierarchy of work items and how it affects backlog management. However, the primary focus is on general usage issues of Azure DevOps rather than a comprehensive discussion on the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Azure DevOps and mentions the product backlog in the context of work item hierarchy and management. However, while it touches on the concept of the product backlog, the primary focus is on the issues users face with Azure DevOps rather than a comprehensive exploration of backlog management techniques or practices. The discussion lacks depth in terms of backlog refinement, prioritisation, and the role of the Product Owner, which are key aspects of the Product Backlog category.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-12T23:52:48",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Azure DevOps and its features, with only a brief mention of the author's background in Scrum, which does not make Scrum the central topic.",
     "level": "Ignored"
   },
@@ -82,37 +85,40 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps and its alignment with Agile practices, touching on product management aspects such as product delivery and user experience. However, the primary focus is on technical implementation details rather than strategic product management discussions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses Azure DevOps and its features, focusing on technical implementation details rather than the strategic aspects of product management. While it mentions the product team and their challenges, it lacks a thorough exploration of product management methodologies or frameworks. The discussion is more about the tool's functionality and user issues than about aligning customer needs with business objectives.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-12T23:52:59",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and features of Azure DevOps without addressing Agile leadership roles or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T23:53:00",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and its features, with no clear focus on Daily Scrum or related topics.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T23:53:01",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and practices related to Azure DevOps usage, focusing on agile methodologies and project management rather than system configuration.",
     "level": "Ignored"
   },
@@ -127,12 +133,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to the effective use of Azure DevOps, which is a tool for delivering working software. While it primarily focuses on common mistakes and user experiences, it does touch on the importance of functionality and quality in software delivery, making it a significant but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Azure DevOps and its alignment with agile practices, which relates to the delivery of functional software. However, while it touches on issues that affect software quality and functionality, it does not delve deeply into the characteristics of working software or provide extensive examples of successful delivery. The focus is more on common pitfalls rather than on the principles of working software itself.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -154,19 +163,19 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-12T23:53:08",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps, with no focus on remote working practices or Agile methodologies in a distributed context.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T23:53:09",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps, focusing on Agile practices rather than Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -190,10 +199,10 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T23:53:13",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and its features, but does not focus specifically on Azure Repos or its functionalities.",
     "level": "Ignored"
   },
@@ -208,19 +217,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T23:53:15",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and mistakes related to Azure DevOps, with no clear focus on the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-12T23:53:16",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details and user issues with Azure DevOps, rather than focusing on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
@@ -253,37 +262,34 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T23:53:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:16:36",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues and mistakes related to the use of Azure DevOps, focusing on practical problems rather than the measurement or improvement of innovation capabilities.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on common pitfalls in using Azure DevOps and improving agile practices, rather than discussing innovation directly. While it touches on aspects of agile methodologies, it lacks explicit discussions on innovation metrics, learning cycles, or strategies for enhancing innovation capacity. The mention of agile principles is too general and does not delve into the mechanisms that foster innovation, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps, which is built for agile teams, and touches on Agile practices and principles. However, the primary focus is on specific issues and functionalities of Azure DevOps rather than a comprehensive exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T23:53:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on issues and best practices related to Azure DevOps, without discussing scaling agility or related frameworks.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Azure DevOps in the context of Agile practices, highlighting its design for agile teams and the importance of adhering to agile principles. However, while it touches on agile concepts, the primary focus is on the tool itself rather than a comprehensive exploration of Agile frameworks. The discussion of common pitfalls and best practices is relevant but does not delve deeply into specific Agile frameworks or their comparative analysis.",
+    "level": "Secondary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T23:53:24",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps, with a focus on technical aspects rather than team collaboration or dynamics.",
     "level": "Ignored"
   },
@@ -307,19 +313,19 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T23:53:28",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps without a focus on Cycle Time or its measurement.",
     "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T23:53:30",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps, with a focus on user behaviour and tool functionality rather than core engineering practices like clean code, TDD, or CI/CD.",
     "level": "Ignored"
   },
@@ -334,46 +340,58 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T23:53:32",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Azure DevOps, its features, and best practices related to Agile methodologies, which are central to software development processes.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on Azure DevOps, a tool integral to software development, particularly in Agile environments. It discusses common pitfalls and best practices, aligning well with the Software Development category. The author’s background as a Scrum and Kanban trainer adds credibility and depth to the discussion, providing insights into Agile methodologies and their application in real-world scenarios. The content also touches on the evolution of Azure DevOps, reflecting on its design intent and how it supports the software development lifecycle, which further strengthens its relevance to the category.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to the effective use of Azure DevOps, which touches on best practices in software development and engineering processes. However, the primary focus is on specific mistakes and user behaviours rather than a broader discussion on engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Azure DevOps and its evolution, touching on aspects of software development practices and the importance of a connected engineering system. However, it primarily focuses on specific issues and user behaviours rather than broader principles of engineering excellence, such as coding standards or quality assurance. While there are mentions of agile practices and the intent behind Azure DevOps, the depth of discussion on engineering excellence principles is limited.",
+    "level": "Secondary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T23:53:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:16:34",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and mistakes in using Azure DevOps, focusing on tool usage rather than the measurement or optimisation of work completion rates.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Azure DevOps and common pitfalls in its usage, but it does not explicitly mention throughput as a delivery metric. While it touches on aspects of productivity and agile practices, it lacks a focused analysis or visualisation of throughput. The discussion is more about optimising processes and avoiding issues rather than measuring or interpreting throughput as a metric. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 45.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps and its features, including some aspects related to build and release processes, but it primarily focuses on user mistakes and issues rather than specifically on Azure Pipelines or CI/CD practices.",
+    "final_score": 45.0,
+    "reasoning": "The content discusses Azure DevOps extensively, touching on its features and common pitfalls, but it does not specifically focus on Azure Pipelines or CI/CD practices. While it mentions aspects of the Azure DevOps ecosystem, it lacks detailed discussions on pipeline configuration, management, or deployment strategies, which are central to the Azure Pipelines category.",
     "level": "Tertiary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T23:53:38",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and its features, with only a brief mention of Agile practices in the context of tool development.",
     "level": "Ignored"
   },
@@ -388,19 +406,19 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-12T23:53:40",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure DevOps and Agile practices, with no focus on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-12T23:53:41",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and its features, with no clear focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -433,20 +451,23 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-12T23:53:47",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and mistakes related to the use of Azure DevOps, focusing on its features and user experiences rather than validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-12T23:53:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to Azure DevOps, specifically focusing on work item hierarchy and customisation, which are key aspects of Azure Boards in Agile project management.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses Azure DevOps extensively, including its transition to Agile and the importance of work item hierarchy, which aligns with Azure Boards' functionalities. However, while Azure Boards is a significant aspect of Azure DevOps, the content does not focus exclusively on Azure Boards, leading to a lower confidence score. The discussion touches on issues and best practices related to work items, which is relevant, but it lacks a comprehensive exploration of Azure Boards as a standalone topic.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -458,32 +479,29 @@
     "reasoning": "Content heavily discusses Azure DevOps and its features, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T23:53:51",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Azure DevOps within Agile frameworks, highlighting best practices and common mistakes that affect software development processes. It focuses on the role of developers in leveraging Azure DevOps to enhance productivity and collaboration, aligning well with the category's themes.",
-    "level": "Secondary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T23:53:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps and its features, with no mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Azure DevOps and common pitfalls in its usage within agile practices, without any explicit mention or focus on Test First Development principles. While it touches on agile methodologies, it does not delve into the specifics of defining success criteria, testing practices, or the role of testing in the development process, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps and its transition to a more frequent release model, highlighting the importance of agile practices and the impact on delivery schedules. However, the primary focus is on common mistakes and user behaviours rather than on the principles or strategies of frequent releases.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Azure DevOps and its transition to a more agile release cycle, highlighting the importance of continuous delivery and the challenges faced. However, while it touches on the concept of frequent releases, it primarily focuses on common pitfalls and best practices rather than providing a detailed exploration of frequent release strategies or metrics. The discussion lacks depth in terms of specific techniques or tools for automating the release process, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -496,11 +514,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-12T23:53:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses common issues and mistakes in using Azure DevOps, specifically focusing on how certain user actions can lead to problems within the tool. It provides insights into diagnosing and resolving these issues, aligning well with the troubleshooting category.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses common pitfalls and issues encountered in Azure DevOps, particularly focusing on a specific problem related to work item hierarchy. While it does mention troubleshooting aspects, such as identifying issues that frustrate the Azure DevOps team, the primary focus is more on the features and historical context of Azure DevOps rather than a systematic approach to diagnosing and resolving technical issues. The depth of discussion on troubleshooting techniques is limited, which affects the overall confidence score.",
     "level": "Secondary"
   },
   "Increment": {
@@ -532,47 +553,38 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T23:54:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:14:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues and mistakes related to Azure DevOps usage, without a clear focus on Lead Time as a metric or its implications.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T23:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps and its features, with a focus on individual practices rather than scaling Agile methodologies across multiple teams.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on optimising Azure DevOps and discusses common pitfalls in its usage. While it touches on agile practices, it does not explicitly mention Lead Time or its significance as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, which are crucial for alignment with the category. Overall, the content does not meet the criteria for a primary focus on Lead Time.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T23:54:06",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses practical issues and mistakes in using Azure DevOps, highlighting real-world applications and problem-solving strategies relevant to Agile practices. It focuses on the practical implications of using the tool effectively, which aligns well with the category of Pragmatic Thinking.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses practical issues faced by users of Azure DevOps, highlighting real-world problems and solutions in an Agile context. It provides insights into the evolution of Azure DevOps and its intended use, which aligns with pragmatic thinking. However, while it mentions Agile practices and the intent behind the tool, the focus is more on specific issues rather than broader problem-solving strategies or case studies, leading to a slightly lower depth score.",
+    "level": "Primary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps and its transition to a more frequent delivery schedule, which relates to deployment frequency. However, the primary focus is on common mistakes and issues within Azure DevOps rather than a comprehensive exploration of deployment frequency itself.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps, which is built for agile teams, and touches on agile practices and issues related to project management tools. However, the primary focus is on specific mistakes in using Azure DevOps rather than a comprehensive discussion of Agile Project Management principles or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Azure DevOps and its alignment with agile practices, mentioning the shift to a three-week delivery cycle, which relates to deployment frequency. However, the primary focus is on common pitfalls and best practices rather than directly addressing strategies for optimising deployment intervals or the significance of deployment frequency itself. The discussion lacks depth in metrics or specific strategies for increasing deployment frequency, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Continuous Integration": {
@@ -586,37 +598,40 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-12T23:54:11",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues and usage of Azure DevOps rather than on Agile strategy or methodologies.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T23:54:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues and practices related to Azure DevOps, focusing on agile methodologies and specific user mistakes rather than Continuous Delivery principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Azure DevOps and its alignment with agile practices, but it does not explicitly focus on Continuous Delivery principles or practices. While it touches on aspects of software delivery and the importance of traceability, it lacks a detailed exploration of Continuous Delivery techniques, automation, or cultural aspects. The discussion is more centred on common pitfalls in using Azure DevOps rather than on Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-12T23:54:15",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps, with no clear focus on cross-functional teams or their characteristics within Agile methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T23:54:16",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and mistakes related to Azure DevOps, without a focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -631,38 +646,20 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T23:54:19",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details and issues related to Azure DevOps, without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-12T23:54:20",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps, with minimal focus on team performance or collaboration strategies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T23:54:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Azure DevOps and its features, with no clear focus on AI applications within Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T23:54:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps and its issues, with a focus on Scrum practices rather than Kanban principles or scaling Kanban in large organisations.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -676,10 +673,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-12T23:54:25",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
@@ -694,12 +691,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps, which is built for agile teams, and touches on the transition to Agile practices within Microsoft. However, the primary focus is on specific issues and mistakes in using Azure DevOps rather than a comprehensive discussion on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Azure DevOps in the context of Agile practices, highlighting common pitfalls that can hinder Agile success. It mentions the shift to Agile methodologies and the importance of adhering to Agile principles, which aligns with the core themes of Agile transformation. However, while it touches on Agile concepts, the primary focus is on the tool itself rather than a comprehensive discussion of Agile transformation strategies or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -712,10 +712,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T23:54:33",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and its features, with no clear focus on Scrum Values.",
     "level": "Ignored"
   },
@@ -737,30 +737,21 @@
     "reasoning": "Content primarily discusses issues and practices related to Azure DevOps, focusing on its features and user behaviours, without addressing test automation principles, frameworks, or practices.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Azure DevOps, which is relevant to Scrum practices, but primarily focuses on issues and features of the tool rather than Scrum principles or product development processes.",
-    "level": "Tertiary"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-13T17:44:11",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps, focusing on its history and user mistakes rather than collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-13T17:44:13",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and features related to Azure DevOps, with no clear focus on backlog refinement practices or discussions.",
     "level": "Ignored"
   },
@@ -775,30 +766,36 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-13T17:44:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Azure DevOps and its features, with no clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content discusses agile practices and the use of Azure DevOps, which is relevant to Scrum, but it does not focus specifically on the role of the Scrum Master. While there are mentions of agile principles and team productivity, the primary focus is on tool optimisation rather than the responsibilities or impact of a Scrum Master. Therefore, the confidence score reflects a moderate alignment with the category.",
+    "level": "Tertiary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-13T17:44:17",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure DevOps usage and common mistakes, focusing on technical implementation details rather than product discovery methodologies.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Azure DevOps, which is an Agile Planning Tool, but primarily focuses on user mistakes rather than the planning methodologies or strategies associated with Agile frameworks.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Azure DevOps, which is an Agile Planning Tool, and highlights its features, common pitfalls, and the importance of adhering to Agile principles. It provides a detailed examination of issues related to backlog management, work item types, and traceability, which are all relevant to Agile planning. However, while it focuses on Azure DevOps, it does not delve deeply into broader Agile planning methodologies or tools beyond this specific platform, which slightly limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -811,19 +808,22 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the use of Azure DevOps, which touches on software engineering practices and the importance of proper tool usage in software development. However, the primary focus is on specific mistakes rather than broader principles of software craftsmanship or architecture.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Azure DevOps and its alignment with agile practices, which touches on technical mastery. However, the primary focus is on common pitfalls and user experiences rather than deep technical principles or methodologies. While it mentions the importance of traceability and simplicity in processes, it lacks a thorough exploration of best practices or engineering excellence, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-13T17:44:23",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Azure DevOps and its features, focusing on common mistakes rather than MVP concepts or product validation.",
     "level": "Ignored"
   },
@@ -838,28 +838,31 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-13T17:44:27",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and its features, with no clear focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps, which is built for agile teams, and touches on issues related to work item hierarchy that can impact agile practices. However, the primary focus is on specific mistakes in using Azure DevOps rather than a comprehensive discussion on Agile Planning principles.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Azure DevOps in the context of agile practices, highlighting common pitfalls that can affect agile planning. It mentions agile principles and the importance of traceability, which aligns with Agile Planning concepts. However, the focus is more on tool usage and specific issues rather than a comprehensive exploration of Agile Planning methodologies, which limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-13T17:44:31",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical issues and usage of Azure DevOps, with only a brief mention of Agile practices in the context of tool development.",
     "level": "Ignored"
   },
@@ -879,15 +882,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and mistakes related to the use of Azure DevOps, without a clear focus on technical leadership principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-13T17:44:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses Azure DevOps and its features, with no clear focus on Scaling Scrum principles or practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -919,11 +913,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-13T17:44:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and features related to Azure DevOps without focusing on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on optimising Azure DevOps and addressing common pitfalls in its use, which is more aligned with practical Agile practices rather than Evidence-Based Management. While there are mentions of improving productivity and decision-making, these are not grounded in empirical evidence or metrics specific to EBM. The discussion lacks a direct focus on the key topics of EBM, such as current value metrics or empirical decision-making, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
@@ -946,10 +943,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-13T17:44:51",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and practices related to Azure DevOps usage, with a focus on Agile methodologies rather than specific release management strategies.",
     "level": "Ignored"
   },
@@ -964,12 +961,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the effective use of Azure DevOps, which can impact operational efficiency. However, it primarily focuses on specific mistakes rather than broader operational practices or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on practical issues and common pitfalls in using Azure DevOps within Agile frameworks, which directly relates to operational practices. It discusses specific operational challenges, such as misuse of work item types and the importance of traceability, which are crucial for enhancing operational efficiency. The depth of discussion is significant, providing detailed examples and insights that align well with the key topics of the category, such as process optimisation and continuous improvement. Overall, the content is highly relevant and offers actionable strategies for improving operational practices.",
+    "level": "Primary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1018,12 +1018,12 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T13:12:41",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses Azure DevOps and its evolution towards supporting agile practices, but it primarily focuses on specific issues and mistakes related to its use rather than broader organisational agility principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
@@ -1034,31 +1034,13 @@
     "reasoning": "Content primarily discusses Azure DevOps and Agile practices, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T23:51:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues and mistakes related to the use of Azure DevOps, focusing on technical implementations rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T23:51:58",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses common mistakes and issues in using Azure DevOps rather than providing installation or configuration guidance.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T23:52:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses Azure DevOps and its usage issues, with a focus on Scrum and Agile practices, rather than the interplay between code quality and complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,41 +1052,29 @@
     "reasoning": "Content primarily discusses issues and mistakes related to the use of Azure DevOps, focusing on specific functionalities and user behaviours rather than optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T23:52:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues and features related to Azure DevOps without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-12T23:52:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the challenges and best practices related to using Azure DevOps in the context of product delivery, including the importance of agile methodologies and the integration of tools for effective delivery.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses Azure DevOps in the context of Agile methodologies and product delivery, highlighting the transition from traditional delivery schedules to Agile sprints. It provides insights into the challenges faced by teams using Azure DevOps, which directly relates to the methodologies and practices of delivering software products. The depth of discussion includes specific issues that affect product delivery, such as work item hierarchy, which is crucial for effective planning and execution. Overall, the content aligns well with the core themes of product delivery, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Azure DevOps, which is built for agile teams, and touches on the importance of product delivery and backlog management, but it primarily focuses on specific issues within the tool rather than broader Agile Product Management principles.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T23:52:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses specific issues and mistakes related to Azure DevOps usage without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Azure DevOps in the context of Agile practices, highlighting the importance of adhering to agile principles and addressing common pitfalls that can hinder effective product management. While it does mention Agile methodologies and their application, the primary focus is on the tool itself rather than a comprehensive exploration of Agile Product Management concepts. The depth of discussion on Agile principles is moderate, but it lacks extensive detail on key topics such as the role of the Product Owner or stakeholder engagement.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1117,38 +1087,11 @@
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-12T23:52:11",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and its features, focusing on practical issues and user experiences rather than complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T23:52:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues and mistakes related to Azure DevOps usage, without a focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T23:52:13",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical issues and mistakes related to the use of Azure DevOps, which is a specific tool within the Agile and DevOps ecosystem. It provides insights into how to effectively implement and utilise Azure DevOps features, making it relevant to the category of Practical Techniques and Tooling.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T23:52:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues and features related to Azure DevOps without reference to any specific events, presentations, or discussions relevant to Agile or DevOps conferences.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1171,30 +1114,27 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T23:52:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "The content primarily discusses Azure DevOps, its features, and common mistakes in its usage, which aligns closely with DevOps principles and practices. It highlights the integration of tools and processes for effective software delivery, making it a central topic.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on Azure DevOps, which is a tool that supports DevOps practices, but it does not deeply engage with the broader DevOps philosophy or principles. While it discusses common pitfalls and best practices related to Azure DevOps, it lacks a comprehensive exploration of key DevOps concepts such as collaboration, automation, and shared accountability. The discussion is more centred on tool usage rather than the cultural and process-oriented aspects of DevOps.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T23:52:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses common mistakes and issues related to the use of Azure DevOps, providing insights into its functionalities and best practices, which aligns well with the category.",
-    "level": "Secondary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps, a software product relevant to Agile practices, and highlights common mistakes users make, which aligns with the category's focus on tools and software that facilitate Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on Azure DevOps, discussing its features, common pitfalls, and the evolution of the tool. It provides a detailed analysis of specific issues users face, which aligns well with the core themes of Azure DevOps functionalities and best practices. The author’s expertise and the mention of specific Azure DevOps features further enhance the relevance, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1207,39 +1147,45 @@
   },
   "Kanban": {
     "category": "Kanban",
-    "calculated_at": "2025-02-12T23:52:25",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and its features, with a focus on Scrum practices and issues, rather than Kanban principles or practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T13:12:41",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses Azure DevOps and its evolution towards Agile practices, but primarily focuses on technical implementation details and user mistakes rather than strategies for delivering value to customers.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to the effective use of Azure DevOps, which touches on engineering practices and methodologies. However, the primary focus is on user mistakes rather than a deep exploration of technical excellence principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Azure DevOps and its alignment with agile practices, touching on issues that affect technical execution. However, while it mentions agile principles and practices, the primary focus is on common pitfalls rather than in-depth exploration of technical excellence methodologies like TDD or CI/CD. The discussion lacks detailed technical depth and does not fully engage with the core themes of technical excellence, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps and its transition to Agile methodologies, highlighting the importance of agile practices and the impact of organisational changes on product delivery. However, the primary focus is on specific issues within Azure DevOps rather than a broader discussion on organisational agility.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Azure DevOps and its alignment with agile methodologies, highlighting common pitfalls that can hinder organisational agility. While it mentions agile principles and practices, the primary focus is on specific issues within Azure DevOps rather than a broader exploration of organisational agility strategies or cultural shifts. The depth of discussion on agility is moderate, but it lacks comprehensive insights into leadership roles, cross-functional teams, or continuous improvement strategies, which are key topics in the category.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1250,50 +1196,35 @@
     "reasoning": "Content primarily discusses technical issues and best practices related to Azure DevOps, without personal reflections or experiences.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content primarily discusses technical issues related to Azure DevOps and its features, with only brief mentions of Agile practices and team dynamics. The focus is on tool usage rather than the interplay between human behaviour and structured methodologies.",
-    "level": "Quaternary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T13:12:41",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses Azure DevOps and its evolution, touching on organisational challenges and user interactions with the tool. However, it primarily focuses on technical issues and user mistakes rather than a comprehensive exploration of the interplay between social and technical systems.",
-    "level": "Quaternary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Azure DevOps and highlights issues faced by users, which aligns with industry updates. However, it primarily focuses on specific mistakes rather than broader news or reviews.",
-    "level": "Tertiary"
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T23:52:37",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and mistakes related to the use of Azure DevOps, rather than focusing on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T13:12:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Azure DevOps and its evolution, touching on aspects of application delivery and management, but primarily focuses on user mistakes rather than the broader application lifecycle management principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Azure DevOps and its application within agile methodologies, discussing common pitfalls and best practices. While it touches on aspects of the application lifecycle, such as traceability and process management, it does not explicitly cover the full lifecycle stages or governance practices central to Application Lifecycle Management. The discussion is more about optimising tool usage rather than managing the entire lifecycle of applications.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1324,39 +1255,24 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T13:12:44",
+    "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Azure DevOps and Agile practices, with a focus on common pitfalls rather than platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T13:12:45",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Agile practices and mentions Scrum in the context of Azure DevOps, but it primarily focuses on the tool's features and common pitfalls rather than Scrum principles or frameworks.",
-    "level": "Tertiary"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T13:12:48",
-    "ai_confidence": 80,
-    "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the One Engineering System (1ES) in the context of Azure DevOps, detailing its purpose, historical context, and implications for software delivery. It addresses the integration of tools and processes, aligning well with the key topics of the 1ES framework.",
-    "level": "Secondary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T13:12:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Azure DevOps in the context of Agile practices and highlights issues related to product delivery, but it primarily focuses on specific technical pitfalls rather than a comprehensive discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile practices and the use of Azure DevOps, but it primarily focuses on common pitfalls and technical issues rather than the Agile Product Operating Model itself. While it touches on agile principles and the transition from traditional project management, it lacks a comprehensive exploration of the APOM framework and its core themes.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1369,11 +1285,441 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:57:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Azure DevOps and its technical aspects, discussing common pitfalls and best practices. While it touches on agile principles and team productivity, it lacks a direct emphasis on social technologies, self-organisation, or collective intelligence. The discussion is more about tool optimisation rather than the underlying social frameworks that drive collaboration and decision-making within teams.",
+    "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:40:52",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and the use of Azure DevOps in the context of Scrum and Kanban methodologies, making it a major but secondary theme.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Azure DevOps and Agile practices, with a focus on common pitfalls and user experiences, rather than the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:40:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Azure DevOps and Agile practices without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 50,
+    "final_score": 62.0,
+    "reasoning": "The content briefly mentions Agile practices and the role of Azure DevOps in supporting agile teams, which aligns with Scrum principles. However, it primarily focuses on Azure DevOps and its features rather than discussing Scrum roles, events, or artifacts in detail. The discussion lacks depth on Scrum-specific topics, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Azure DevOps and common pitfalls in its usage, with a focus on agile practices rather than explicitly addressing the Shift-Left Strategy. While there are mentions of traceability and collaboration, which are relevant to Shift-Left principles, the overall discussion does not delve deeply into integrating testing, security, or compliance earlier in the development process. Therefore, the content aligns with the category only in a limited capacity.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses optimising Azure DevOps and highlights common pitfalls that hinder agile practices, which aligns with the principles of Continuous Improvement. However, it primarily focuses on specific issues and solutions related to Azure DevOps rather than a broader discussion on Continuous Improvement methodologies or frameworks. The mention of agile principles and the importance of simplicity in processes contributes to the alignment, but the depth of discussion on Continuous Improvement concepts is limited.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Azure DevOps and common pitfalls in its usage, but it does not explicitly focus on the concept of Common Goals within Agile and DevOps. While it touches on the importance of alignment and traceability, it primarily centres on practical issues rather than the foundational principles of shared objectives and strategic alignment. The discussion lacks depth in exploring how these pitfalls relate to overarching goals or frameworks like OKRs, which diminishes its relevance to the category.",
     "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the effective use of Azure DevOps and highlights common pitfalls that can hinder productivity, which indirectly relates to competence in terms of skill development and maintaining quality outcomes. However, while it touches on the importance of understanding agile principles and avoiding missteps, it does not explicitly focus on continuous learning or the development of competence as a primary theme. The depth of discussion on competence-related issues is moderate, but the primary focus remains on tool usage rather than on fostering a culture of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T14:45:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the One Engineering System (1ES) in the context of Azure DevOps, highlighting its vision and the importance of clear visibility in project management. However, while it mentions 1ES, the primary focus is on common pitfalls in using Azure DevOps rather than a comprehensive exploration of 1ES principles or best practices. The discussion lacks depth in terms of detailed implementation strategies or case studies related to 1ES, which affects the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:00:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on optimising Azure DevOps and avoiding common pitfalls in agile practices, without explicitly discussing Agentic Agility or its principles. While it touches on aspects of agility, it does not delve into the intentional shaping of outcomes or the distinction between human and AI capabilities, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:15:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Azure DevOps in the context of Agile practices, highlighting common pitfalls and best practices for optimising its use. While it does mention Agile principles and the importance of traceability, the primary focus is on technical implementation and specific issues within Azure DevOps rather than broader product development methodologies. The discussion is relevant but lacks depth in exploring iterative learning and customer feedback integration, which are key aspects of product development.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:15:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps and common pitfalls in its usage within Agile practices. While it discusses Agile principles, it does not mention or align with the specific facilitation techniques of Liberating Structures. The discussion lacks depth regarding the core themes of Liberating Structures, such as enhancing participation or collaboration through specific methods. Therefore, the confidence score reflects a minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:16:00",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Azure DevOps and its application within agile practices, discussing common pitfalls and best practices. While it touches on project management principles such as traceability and process simplification, it does not delve deeply into broader project management methodologies or lifecycle phases. The emphasis on specific agile practices and tools limits its alignment with the wider project management category, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:16:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps and its common pitfalls in agile practices, without any direct mention or discussion of Open Space Agile principles or practices. While it touches on agile methodologies, it does not align with the core themes of Open Space Agile, such as collective participation, psychological safety, or co-creation. The depth of discussion is also limited to practical issues within Azure DevOps rather than exploring the broader concepts of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:16:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on common pitfalls in using Azure DevOps and does not explicitly discuss Unrealised Value or its indicators. While there are mentions of improving practices and enhancing productivity, these are not framed within the context of unrealised value or potential improvements. The discussion lacks depth regarding strategies for identifying untapped opportunities or measuring potential value, which are key aspects of the category. Overall, the content is more operational and practical rather than strategic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:16:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Azure DevOps and common pitfalls in its usage, which indirectly relates to improving processes that could affect Time to Market. However, it does not explicitly mention Time to Market or provide metrics or strategies directly aimed at reducing the time from conception to delivery. The focus is more on the effective use of Azure DevOps rather than on the broader implications of Time to Market.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:16:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on optimising Azure DevOps and addressing common pitfalls in its usage, which does not directly discuss Current Value or its metrics. While it touches on aspects of agile practices and decision-making, it lacks a clear emphasis on measuring or assessing Current Value as defined in Evidence-Based Management. The discussion is more about practical issues rather than evaluating the real-time value delivered by a product or service, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:16:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on optimising Azure DevOps and addressing common pitfalls in its use, which is more about tool-specific practices rather than discussing the organisation as a product. While there are mentions of agile practices, the content does not explicitly discuss the principles of treating the organisation as a product, nor does it explore customer feedback integration or cross-functional collaboration in a meaningful way. The depth of discussion remains centred on technical issues rather than strategic organisational design.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:16:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on optimising Azure DevOps and addressing common pitfalls in its use, which is more aligned with general Agile practices rather than specifically discussing scaling methodologies or frameworks. While it touches on the importance of traceability and simplicity in processes, it lacks a direct discussion on scaling Agile practices, cross-team collaboration, or managing dependencies, which are key aspects of the 'Scaling' category. The depth of discussion on the topic is moderate, but it does not delve into the complexities of scaling as defined in the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:16:21",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on optimising Azure DevOps and discusses common pitfalls in agile practices, but it does not explicitly address Hybrid Agile as a category. While it touches on issues that could relate to Hybrid Agile, such as misalignment and misuse of agile principles, it lacks a critical examination of the integration of traditional and agile methodologies. The depth of discussion on Hybrid Agile challenges is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:16:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the practical use of Azure DevOps and common pitfalls associated with its implementation in agile environments. While it touches on agile principles, it does not explicitly discuss Agnostic Agile or its core themes, such as the importance of context-driven agility or comparisons with other frameworks. The depth of discussion is limited to specific issues within Azure DevOps rather than a broader exploration of Agnostic Agile principles.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:16:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps, discussing its features, common pitfalls, and agile practices. While GitHub is briefly mentioned in the context of the author's expertise, it is not the main subject of the discussion. The content does not delve into GitHub's functionalities, best practices, or integration with other tools, which are essential for alignment with the GitHub category. Therefore, the confidence score reflects a minimal connection to GitHub.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:16:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Azure DevOps and agile practices, discussing common pitfalls and best practices for using the tool effectively. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or the Beta Codex. The depth of discussion is also limited to practical issues within Azure DevOps, which is unrelated to the concepts of autonomous cells or complexity theory.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:50:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses how to optimize the use of Azure DevOps by addressing common pitfalls, emphasizing principles related to agile methodologies such as traceability, collaboration, and simplicity in processes. It explains actionable insights based on principles guiding team behavior in an agile context, showing a strong alignment with the category of 'Principle'. However, while principles are referenced, the deeper exploration of these principles is somewhat limited, resulting in a slightly lower score for depth. Overall, it maintains a consistent and focused discussion on the practical application of Agile principles.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:50:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 17,
+    "ai_alignment": 34,
+    "ai_depth": 32,
+    "non_ai_confidence": null,
+    "final_score": 87.0,
+    "reasoning": "The content provides a thorough explanation of Azure DevOps as a specific tool within agile frameworks, discussing its design, common pitfalls, and best practices for usage. It deeply engages with how Azure DevOps facilitates agile practices, covering its functionality and integration within agile methodologies. The author's extensive experience enhances the depth of the discussion, presenting a comprehensive view of the tool's application and effectiveness. The content is focused primarily on Azure DevOps as a mechanism that supports agile workflows, making it highly relevant for the 'Tool' category.",
+    "level": "Primary"
+  },
+  "Values": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:50:55",
+    "ai_confidence": 31.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 31.0,
+    "reasoning": "The content primarily discusses practical issues related to the use of Azure DevOps, focusing on common pitfalls and technical challenges. While there are implicit connections to agile practices, it lacks explicit discussions of underlying values such as commitment, courage, or respect. The emphasis is on processes and tool usage rather than the philosophical or ethical foundations that guide behaviours and decision-making, which are central to the 'Values' category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:50:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content predominantly discusses practical issues and techniques related to Azure DevOps and its application within agile methodologies. It focuses on specific pitfalls and practices rather than exploring the underlying philosophical principles of Agile or related methodologies. While it mentions Agile principles, this is very limited and not the main focus, which is on tool usage and operational aspects. Therefore, the confidence score reflects minimal relevance to the 'Philosophy' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:50:55",
+    "ai_confidence": 47.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 47.0,
+    "reasoning": "The content discusses specific issues and practices related to Azure DevOps, focusing on improving Agile methodologies. While it provides insights relevant to Agile principles, it heavily centers on practical issues and tools rather than the systemic application of discipline. The principles of Agile are touched upon, which contributes to conceptual alignment, but without a strong emphasis on the broader framework of discipline itself or discussions on continuous improvement and governance structures.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:50:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Azure DevOps as a tool and discusses common issues users face without providing substantial insight into specific artifacts defined in Agile or their roles and purposes. While it touches on topics like work items and traceability, it does not analyze them as formal artifacts or delve into best practices for managing artifacts themselves. Therefore, the connection to the 'Artifact' category is weak and the overall focus is more on software usage than on the artifacts of Agile.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:50:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 100.0,
+    "ai_depth": 100.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Azure DevOps but primarily focuses on common pitfalls in its use rather than the principles of observability. While it touches on the importance of traceability, which is a component of observability, it does not delve deeply into metrics, logs, or traces themselves, nor does it explore tools or best practices related to observability explicitly. The discussion is more centered on agile practices and the optimization of Azure DevOps without a clear emphasis on observability as a primary topic.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:50:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 2,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Azure DevOps and common pitfalls that hinder effective agile practices, which touches on actionable techniques teams may need to improve their processes. However, it primarily focuses on issues related to the tool rather than directly actionable practices. While there are some mentions of practices that can enhance performance, the overall emphasis is more on the technology and its unintended use, thus resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:50:55",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 28,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content explicitly discusses common pitfalls in using Azure DevOps, providing a structured approach to avoiding these issues. While the content does not delve deeply into specific methods like Scrum or Kanban, it does emphasize adherence to agile principles and practices, which aligns with systematic procedural approaches in Agile contexts. The depth provided in addressing specific problems and suggested practices gives it a reasonable degree of alignment with the 'Method' category.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:50:56",
+    "ai_confidence": 22.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content largely focuses on practical challenges and insights related to using Azure DevOps, with no explicit discussion of conceptual models or frameworks. While it mentions agile principles, it does not delve into how specific models inform decision-making or improve systems. Overall, the primary focus is on avoiding pitfalls in tool usage rather than on conceptual representations that align with the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:50:56",
+    "ai_confidence": 65.0,
+    "ai_mentions": 4,
+    "ai_alignment": 20,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Azure DevOps and its alignment with Agile principles, sharing insights on common pitfalls faced by teams and how to better utilize the tool within an Agile framework. It relates to the category by addressing specific implementation challenges and strategies, but it doesn’t delve deeply into the framework concepts themselves; rather, it focuses on practical issues and user experiences without providing a structured methodology or comprehensive overview of Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "jcs-2G99Rrw",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:50:56",
+    "ai_confidence": 75.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content discusses common pitfalls in using Azure DevOps and emphasizes the importance of aligning work item types and processes with agile principles, which touches on actionable tenets like traceability and simplicity. However, it lacks a focused discussion on specific guiding rules or doctrines, thus it could better emphasize the prescriptive nature of tenets.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "jcs-AV98Kjl",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:50:56",
+    "ai_confidence": 30.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content focuses primarily on discussing common pitfalls and best practices related to Azure DevOps rather than directly addressing the enduring competencies and core themes of capability development as specified in the category definition. While it mentions agile practices and the importance of maintaining simplicity for effective team productivity, it lacks a deep exploration of capabilities in an organisational context. There are no explicit discussions or strategies surrounding the development and embedding of such capabilities within teams or organisations, which detracts from a stronger alignment with the category.",
+    "level": "Ignored"
   }
 }

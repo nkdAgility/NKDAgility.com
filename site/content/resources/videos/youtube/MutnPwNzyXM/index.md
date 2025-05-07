@@ -2,34 +2,31 @@
 title: 'Rethinking the Statement of Work: How to Truly Meet Client Needs Beyond the Contract'
 description: Unlock the secret to client satisfaction! Discover why focusing on real needs, not just the SoW, is key to delivering lasting value in consulting.
 date: 2023-06-22T07:00:15Z
+weight: 1000
 ResourceId: MutnPwNzyXM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MutnPwNzyXM
 url: /resources/videos/:slug
-slug: most-valuable-lesson-you-learned-as-an-agile-consultant
+slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 layout: video
 aliases:
-- /resources/videos/MutnPwNzyXM
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/MutnPwNzyXM
-aliasesFor404:
+- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+aliasesArchive:
+- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 - /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 - /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
+- rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
 tags:
-- People and Process
-- Agile Values and Principles
-- Value Delivery
-- Agile Philosophy
-- Personal
-- Miscellaneous
 - Pragmatic Thinking
-- Customer Satisfaction
+- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -37,9 +34,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- Leadership
-- Product Management
+- Uncategorized
 
 ---
 As an agile consultant, I've learned a multitude of lessons over the years, but one stands out above the rest: the statement of work (SoW) often bears little resemblance to the actual problems my clients face. This insight transcends the realm of agile consulting; it applies to any consulting role. 
@@ -75,4 +70,4 @@ The key takeaway here is that delivering value should be the primary goal, not m
 
 In conclusion, the most valuable lesson I’ve learned as a consultant is to focus on the real needs of my clients rather than the constraints of a contract. By fostering relationships and delivering genuine value, I can help organisations achieve lasting change. 
 
-If you found this insight helpful, I encourage you to engage with me. Whether you want to discuss agile, scrum, or DevOps, feel free to book a coffee chat through Naked Agility. I always welcome the opportunity to connect and share ideas.
+If you found this insight helpful, I encourage you to engage with me. Whether you want to discuss agile, [scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee chat through Naked Agility. I always welcome the opportunity to connect and share ideas.

@@ -2,8 +2,10 @@
 title: How important is DevOps in continuous delivery of value to customers?
 description: Discover why DevOps is crucial for agile coaches in delivering continuous value to customers. Join Martin Hinshelwood for key insights!
 date: 2023-02-20T07:00:10Z
+weight: 280
 ResourceId: XOaAKJpfHIo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XOaAKJpfHIo
@@ -15,37 +17,29 @@ preview: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg
 duration: 186
 isShort: false
 aliases:
-- /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers
-- /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
-- /resources/videos/XOaAKJpfHIo
-- /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
 - /resources/XOaAKJpfHIo
-aliasesFor404:
+- /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
+aliasesArchive:
+- /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
 - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers
 - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
 - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
+- how-important-is-devops-in-continuous-delivery-of-value-to-customers
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Software Development
 - Value Delivery
-- People and Process
 - Product Delivery
-- Software Developers
-- Market Adaptability
-- Pragmatic Thinking
-- Working Software
-- Agile Project Management
-- Customer Retention
 resourceTypes:
 - video
 categories:
+- Product Development
 - DevOps
-- Social Technologies
 
 ---
-How important is DevOps in continuous delivery of value to customers?
+How important is [DevOps]({{< ref "/categories/devops" >}}) in [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value to customers?
 
 **DevOps** is imperative. It is exactly the same thing as **agile**, but from a different perspective.
 
@@ -61,7 +55,7 @@ The **DevOps** focus lies in delivery.
 
 We recognize and identify that we have heaps of cool ideas, the challenge for us in **DevOps** is to figure out how to get those ideas from point A to point B.
 
-How do we get working software, products, and features to the customer.
+How do we get [working software]({{< ref "/tags/working-software" >}}), products, and features to the customer.
 
 ## Integrated solutions.
 
@@ -83,11 +77,11 @@ To me, as someone who has been a practitioner, trainer, and coach in both worlds
 
 DevOps has become more than just a small part of the agile story, if you had a Venn Diagram, you would see just how much DevOps and Agile overlaps to deliver a software solution to a customer.
 
-So, for me, it is imperative for agile teams to focus on DevOps practices. Focus on LEAN delivery of working, valuable, usable software to customers.
+So, for me, it is imperative for agile teams to focus on DevOps practices. Focus on [LEAN]({{< ref "/categories/lean" >}}) delivery of working, valuable, usable software to customers.
 
 Why?
 
-Because we want to get feedback and data as quickly as we can. We want that feedback and data to help inform the agile product development teams on what would be the next most valuable thing they could build. What could be the most next most compelling problem to be solved.
+Because we want to get feedback and data as quickly as we can. We want that feedback and data to help inform the agile [product development]({{< ref "/categories/product-development" >}}) teams on what would be the next most valuable thing they could build. What could be the most next most compelling problem to be solved.
 
 If we aren’t getting working software to customers, quickly and effectively, we aren’t:
 
@@ -107,7 +101,7 @@ DevOps is incredibly important in the continuous delivery of value to customers.
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

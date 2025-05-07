@@ -2,36 +2,38 @@
 title: 'Unlocking Agility: How Decentralisation Empowers Teams to Maximise Value in Any Organisation'
 description: Unlock your organisation's potential! Discover how decentralisation and team engagement can drive innovation and agility, maximising value in any business.
 date: 2023-09-28T11:09:12Z
+weight: 1000
 ResourceId: E2OBcBqZGoA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: E2OBcBqZGoA
 url: /resources/videos/:slug
-slug: 05-october-2023-agile-leadership-webinar
+slug: unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
 layout: video
 aliases:
-- /resources/videos/E2OBcBqZGoA
-- /resources/videos/05-october-2023-agile-leadership-webinar
-- /resources/05-october-2023-agile-leadership-webinar
 - /resources/E2OBcBqZGoA
-aliasesFor404:
+- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
+- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
+- /resources/videos/05-october-2023-agile-leadership-webinar
+aliasesArchive:
+- /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
 - /resources/videos/05-october-2023-agile-leadership-webinar
 - /resources/05-october-2023-agile-leadership-webinar
+- unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
 preview: https://i.ytimg.com/vi/E2OBcBqZGoA/maxresdefault.jpg
 duration: 46
 isShort: true
 tags:
-- People and Process
-- Value Delivery
-- Business Agility
-- Organisational Change
-- Organisational Agility
 - Beta Codex
-- Agile Strategy
-- Agile Leadership
-- Enterprise Agility
+- Social Technologies
 - Team Motivation
+- Organisational Culture
+- Pragmatic Thinking
+- Organisational Agility
+- Organisational Change
+- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,6 +42,7 @@ resourceTypes:
 - video
 categories:
 - Leadership
+- Product Development
 
 ---
 In my experience working with organisations of all sizes, one thing has become abundantly clear: the struggle to maximise value from our work is not exclusive to large enterprises. In fact, I would argue that smaller organisations often have a distinct advantage in this area. Why? Because they possess the agility to adapt their business practices more readily than their larger counterparts.

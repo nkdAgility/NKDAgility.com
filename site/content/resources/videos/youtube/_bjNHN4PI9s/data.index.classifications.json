@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:10:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily focuses on using Microsoft Teams and Mural for Scrum training, with no substantial discussion on DevOps principles, practices, or tools.",
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on tools and techniques for facilitating Scrum training in virtual classrooms, with no explicit discussion of DevOps principles or practices. While it mentions collaboration and technology, these are not framed within the context of DevOps, which emphasises a broader philosophy of integration and continuous value delivery.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:10:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Microsoft Teams and Mural in the context of Scrum training, highlighting collaboration and communication tools that facilitate Agile practices.",
-    "level": "Secondary"
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the use of specific tools (Microsoft Teams and Mural) for enhancing virtual learning experiences, which is more about technical implementation than the underlying social frameworks of collaboration and decision-making. While it does touch on aspects of collaboration and engagement, it lacks a deeper exploration of self-organisation, collective intelligence, or iterative processes that are central to the Social Technologies category. Therefore, the confidence score reflects a moderate alignment with the category, but it is not a primary focus.",
+    "level": "Tertiary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -37,21 +43,12 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T11:10:26",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of using Microsoft Teams and Mural for Scrum training, rather than discussing strategic product management topics.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the use of technology in Scrum training, indicating a major theme related to Scrum, but it primarily focuses on the tools and logistics rather than Scrum principles or practices.",
-    "level": "Tertiary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -64,64 +61,52 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T11:46:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technological tools for Scrum training rather than the role, responsibilities, or challenges of a Product Owner.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:46:39",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of using Microsoft Teams and Mural for Scrum training, without a focus on metrics, data usage, or learning methodologies specific to continuous improvement in Agile or DevOps environments.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:46:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses the use of technology in running Scrum training classes, specifically mentioning Microsoft Teams and Mural, which are tools commonly used in Scrum training sessions. However, the focus is primarily on the technology and logistics of delivering the training rather than in-depth exploration of Scrum principles, roles, or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of using Microsoft Teams and Mural for virtual Scrum training, rather than discussing Scrum principles, roles, or practices in depth. While it mentions Scrum training and the Professional Scrum Foundations class, it lacks a thorough exploration of Scrum's core themes, such as the Scrum framework, roles, events, or values. The discussion is more about the tools used in training rather than the Scrum methodology itself.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T11:46:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum training in a virtual classroom setting, but it primarily focuses on the use of specific tools (Microsoft Teams and Mural) rather than exploring Agile frameworks or principles in depth.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:46:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the use of technology (Microsoft Teams and Mural) for facilitating Scrum training in a virtual classroom setting, rather than focusing on Scrum principles or practices specifically related to product development.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the use of Microsoft Teams and Mural as tools for facilitating Scrum training, rather than discussing Agile frameworks themselves. While Scrum is mentioned, the discussion lacks depth on Agile principles, comparative analysis, or case studies related to Agile frameworks. The content is more about technology usage in training rather than exploring Agile methodologies.",
     "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 85,
-    "non_ai_confidence": 30,
-    "final_score": 80.0,
-    "reasoning": "The content primarily focuses on the logistics and technology used in a live virtual training event for Scrum, detailing tools and methods used for effective teaching, which aligns well with the category of Events and Presentations.",
-    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural for running virtual Scrum training sessions, with a focus on technology setup and usage rather than product validation methodologies.",
     "level": "Ignored"
   },
@@ -136,10 +121,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 10,
     "non_ai_confidence": 0,
-    "final_score": 9.0,
+    "final_score": 10.0,
     "reasoning": "While the content mentions Microsoft Teams, a Microsoft product, it primarily discusses the use of Teams in a Scrum training context rather than focusing specifically on Windows as an operating system. The content does not delve into Windows installation, configuration, troubleshooting, or updates, which are essential aspects of the Windows category.",
     "level": "Ignored"
   },
@@ -163,20 +148,23 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses virtual classroom technologies and procedures for Scrum training, with no focus on application lifecycle management methodologies, practices, or tools.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the use of Microsoft Teams and Mural as tools for facilitating virtual Scrum training, which aligns with the practices and challenges of remote working in an Agile context.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the use of Microsoft Teams and Mural for conducting remote Scrum training sessions, which aligns well with the category of Remote Working. It discusses specific tools that facilitate communication and collaboration in a remote setting, addressing challenges faced by participants unfamiliar with these technologies. The depth of discussion includes detailed instructions on using these tools effectively, which is relevant to maintaining team engagement and productivity in a distributed environment. However, while it is closely related to Agile practices, it does not delve deeply into broader Agile methodologies or strategies for remote team culture, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -190,10 +178,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on how to use Microsoft Teams and Mural for Scrum training, with no mention of Definition of Done principles or criteria.",
     "level": "Ignored"
   },
@@ -217,19 +205,22 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural as collaboration tools in the context of Scrum training, focusing on their functionalities and how they enhance communication and coordination within Agile teams.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the use of Microsoft Teams and Mural as collaboration tools in a virtual classroom setting, which aligns well with the category of Collaboration Tools. It discusses specific features and tips for using these tools effectively, demonstrating a strong emphasis on enhancing communication and coordination within an Agile training environment. The depth of discussion is substantial, providing practical advice and insights into how these tools facilitate collaboration, thus supporting the overall theme of the category.",
+    "level": "Primary"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the technical aspects of using Microsoft Teams and Mural for online training, without significant discussion on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -244,11 +235,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily focuses on using Microsoft Teams and Mural for virtual Scrum training, and does not address principles, practices, or methodologies of Continuous Delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on virtual classroom experiences and the use of specific tools like Microsoft Teams and Mural for Scrum training. While it mentions Scrum, it does not discuss Continuous Delivery principles, practices, or benefits. The discussion is centred around enhancing learning experiences rather than software delivery practices, leading to a very low confidence score in relation to the Continuous Delivery category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -298,46 +292,52 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and methods (Microsoft Teams, Mural) relevant to Scrum training, which is a part of Agile development practices. However, the primary focus is on how to use these tools for training rather than deep discussions on software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual Scrum training, which is a specific aspect of software development. While it mentions Scrum, a framework within software development, the discussion is more about the tools used for training rather than software engineering practices or methodologies. The depth of discussion on software development concepts is limited, focusing instead on practical tips for using specific tools in a training context.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of technology in a Scrum training context, which aligns with facilitating learning and development, but it primarily focuses on operational details rather than coaching techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual Scrum training rather than on coaching practices. While it mentions supporting students and facilitating their learning, it lacks a deep exploration of coaching techniques, team dynamics, or the role of a coach. The discussion is more about tools and logistics than about fostering growth and development through coaching.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of using Microsoft Teams and Mural in a virtual classroom setting for Scrum training, rather than on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the technical aspects of using Microsoft Teams and Mural for Scrum training, without discussing Agile Strategy in terms of alignment with organizational vision, continuous value delivery, or strategic planning.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on using technology (Microsoft Teams and Mural) for facilitating Scrum training rather than discussing team performance strategies, methodologies, or Agile principles directly related to enhancing team dynamics or productivity.",
     "level": "Ignored"
   },
@@ -370,37 +370,28 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses virtual classroom tools and techniques for Scrum training without any direct relation to Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the usage of Microsoft Teams and Mural for Scrum training without addressing the One Engineering System framework or its integration and standardization principles.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on using Microsoft Teams and Mural for virtual Scrum training; Change Management principles are not discussed.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the use of Microsoft Teams and Mural for conducting virtual Scrum training sessions, which is more about using specific technologies for training rather than discussing the broader strategic aspects of digital transformation.",
     "level": "Ignored"
   },
@@ -415,12 +406,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T11:46:40",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:54:38",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses the use of tools (Microsoft Teams and Mural) for facilitating Scrum training, but primarily focuses on the logistics and technology rather than on principles of continuous learning, growth mindset, or team improvement.",
-    "level": "Quaternary"
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms for Scrum training, which is somewhat related to continuous learning. However, it lacks explicit discussions on growth mindset, knowledge sharing, or feedback loops, which are core themes of the category. While it does touch on enhancing learning experiences and collaboration, it does not delve deeply into the principles of continuous learning or team improvement.",
+    "level": "Tertiary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -442,10 +436,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T11:46:40",
+    "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Microsoft Teams and Mural for Agile training, with no central focus on Azure DevOps services or functionalities.",
     "level": "Ignored"
   },
@@ -458,31 +452,13 @@
     "reasoning": "Content focuses on using Microsoft Teams and Mural for virtual classroom training, with discussions primarily around usage and features rather than software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on using Microsoft Teams and Mural for Scrum training in a virtual classroom setting, rather than discussing the role of software developers in Agile and DevOps contexts.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses the use of Microsoft Teams and Mural for Scrum training, focusing on technology usage in virtual classes rather than Lean Product Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the use of Microsoft Teams and Mural for virtual classroom training, which is not related to coding principles or the complexities of software development.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -514,28 +490,31 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:46:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of technology (Microsoft Teams and Mural) in the context of virtual Scrum training, rather than focusing on Scrum Master roles, responsibilities, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms for Scrum training, with only brief mentions of Scrum concepts. While it discusses the role of a facilitator, it does not delve deeply into the responsibilities or impact of a Scrum Master, nor does it explore the core themes of the category. The discussion is more about enhancing the learning experience rather than the Scrum Master's role in fostering agile principles or team dynamics.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural for managing virtual Scrum training sessions, focusing on tool-specific details rather than scaling Agile methodologies or large-scale Agile practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical usage of Microsoft Teams and Mural in a virtual classroom setting for Scrum training, without a clear emphasis on value delivery principles, customer feedback, or related methodologies.",
     "level": "Ignored"
   },
@@ -586,20 +565,11 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of using Microsoft Teams and Mural for Scrum training, with no clear focus on organisational change principles or frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on tools for virtual classroom management and Scrum training, rather than discussing scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -611,30 +581,21 @@
     "reasoning": "Content focuses mainly on using Microsoft Teams and Mural for conducting Scrum training and does not discuss Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:46:41",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily focuses on the technological tools (Microsoft Teams and Mural) used in a Scrum training context, with some reference to the collaborative aspects of the training process, which aligns it as a secondary theme related to the People and Process category.",
-    "level": "Tertiary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the use of Microsoft Teams and Mural for Scrum training, which focuses more on Agile methodologies and tools rather than Platform Engineering principles.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical setup and use of Microsoft Teams and Mural for virtual classroom training, without discussing principles or practices related to business agility.",
     "level": "Ignored"
   },
@@ -667,23 +628,23 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technologies used in virtual Scrum training and does not focus on the Definition of Ready criteria or its role in the Agile process.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the use of Microsoft Teams and Mural for virtual Scrum training, with no clear focus on the concept of Lead Time or its measurement, strategies, or impact.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T11:46:41",
     "ai_confidence": 0,
@@ -694,20 +655,11 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the logistics and technology of conducting Scrum training sessions rather than on leadership within Agile contexts.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on using Microsoft Teams and Mural for Scrum training, without discussing the integration of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -739,11 +691,14 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T11:46:41",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses the use of tools (Microsoft Teams and Mural) for facilitating communication and collaboration during Scrum training sessions. It provides insights into how these technologies can enhance team interactions and support Agile methodologies, which aligns closely with team collaboration themes.",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses tools that facilitate collaboration in a virtual classroom setting, specifically Microsoft Teams and Mural. While it does mention aspects of team dynamics and collaboration, the primary focus is on technology usage rather than deeper discussions on team collaboration principles within Agile or Scrum frameworks. The content provides practical tips but lacks extensive exploration of the cultural or psychological aspects of teamwork.",
     "level": "Secondary"
   },
   "Market Adaptability": {
@@ -755,30 +710,21 @@
     "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural in a virtual learning environment, focusing on technical tips for facilitating Scrum training rather than strategies for market adaptability.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:46:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about using Microsoft Teams and Mural in a Scrum training context, without any direct relevance to the application of AI in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on using Microsoft Teams and Mural for virtual training sessions rather than discussing the characteristics, delivery, or evaluation of working software.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T11:46:41",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the use of Microsoft Teams and Mural for virtual classroom training, and does not specifically address the Daily Scrum meeting, its structure, roles, or best practices.",
     "level": "Ignored"
   },
@@ -793,30 +739,21 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on using Microsoft Teams and Mural for Scrum training, without discussing broader enterprise agility principles or organizational context.",
     "level": "Ignored"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses predominantly on using Microsoft Teams and Mural for conducting Scrum training, with no relevant discussions about Product Backlog concepts or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of tools like Microsoft Teams and Mural in the context of Scrum training, indicating a focus on facilitating Agile methodologies. However, the primary focus is on the technical setup of these tools rather than on Agile principles or frameworks themselves, which makes Agile a secondary theme.",
-    "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -836,30 +773,12 @@
     "reasoning": "Content primarily focuses on using Microsoft Teams and Mural for virtual training rather than troubleshooting technical issues. While there are suggestions for connecting to Teams, it does not engage in systematic problem-solving or detailed diagnostics of issues within software or hardware.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses specific tools (Microsoft Teams and Mural) used for conducting Scrum training, focusing on their functionalities and how they facilitate Agile training. While the primary focus is on the use of these tools, they are contextually tied to the Agile training environment, making the category a major theme.",
-    "level": "Secondary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on using specific tools (Microsoft Teams and Mural) for Scrum training rather than providing news or reviews related to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical details related to using Microsoft Teams and Mural for virtual Scrum training, without discussing team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -872,39 +791,30 @@
     "reasoning": "Content primarily provides a technical overview of tools for hosting a Scrum training, lacking personal reflections or experiences.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the technical aspects and tools used for running Scrum training sessions, such as Microsoft Teams and Mural, without addressing the key topics related to scaling Scrum in organizations.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of running a virtual classroom using Microsoft Teams and Mural, not focusing on cross-functional teams or their structure, benefits, and role in Agile methodologies.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the use of technology tools in a virtual Scrum training context without addressing the core Scrum Values.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of using tools (Microsoft Teams and Mural) for virtual classroom training, without focusing on Agile Product Management principles, practices, or how they apply to product management.",
     "level": "Ignored"
   },
@@ -919,11 +829,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses primarily on using Microsoft Teams and Mural for virtual classroom management, with no discussions about Test First Development, TDD, or related testing practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on enhancing virtual classroom experiences using tools like Microsoft Teams and Mural, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks alignment with the core themes of Test First Development and does not provide any depth on the subject.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,10 +850,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the use of technology (Microsoft Teams and Mural) in a virtual training environment, rather than discussing Scrum Team dynamics, roles, or collaboration practices.",
     "level": "Ignored"
   },
@@ -991,48 +904,42 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical aspects of using Microsoft Teams and Mural for Scrum training, lacking discussions on the underlying Agile Philosophy principles.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of technology tools (Microsoft Teams and Mural) for conducting Scrum training sessions in a virtual classroom, rather than focusing on methodologies and practices specifically related to the delivery of software products.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on technology and tools for Scrum training rather than on scaling agile principles or frameworks.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on using Microsoft Teams and Mural for facilitating Scrum training, lacking a clear primary discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content is primarily focused on using technology tools like Microsoft Teams and Mural for Scrum training, which is a secondary theme related to Agile transformation. While it discusses Scrum training, it does not centralize on Agile transformation strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual Scrum training rather than discussing Agile transformation principles or methodologies. While it mentions Scrum, it does not delve into Agile transformation strategies, frameworks, or cultural shifts, which are essential for this category. The discussion is more about enhancing the learning experience with tools rather than leading an Agile transformation.",
+    "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1043,30 +950,12 @@
     "reasoning": "Content is primarily focused on running virtual Scrum training sessions and explaining the use of Microsoft Teams and Mural, which does not relate to portfolio management methodologies or practices.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the use of technology tools (Microsoft Teams and Mural) for conducting Scrum training, without any central focus on strategies for organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of using Microsoft Teams and Mural for Scrum training, without clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses mainly on virtual classroom technologies (Microsoft Teams and Mural) for Scrum training rather than discussing Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1078,15 +967,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses using Microsoft Teams and Mural for Scrum training, with a focus on technology setup rather than on the principles or practices of frequent software releases.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:46:42",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on the practical use of specific tools (Microsoft Teams and Mural) in the context of Scrum training, detailing how to set them up and integrate them into the training experience. It aligns closely with the category by exploring the application and implementation of these tools to enhance collaborative learning.",
-    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1108,10 +988,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T11:46:42",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of using Microsoft Teams and Mural for virtual Scrum training rather than focusing on methodologies for product discovery or understanding customer needs.",
     "level": "Ignored"
   },
@@ -1135,21 +1015,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on using software tools for virtual Scrum training rather than discussing the Agile Product Operating Model.",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms for Scrum training, with no direct discussion of the Agile Product Operating Model or its principles. While it mentions Scrum, it does not delve into product management practices or the transition to a product-oriented mindset, which are core to the APOM. The discussion is more about enhancing learning experiences rather than addressing the operational model itself.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:46:43",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses virtual classroom technologies like Microsoft Teams and Mural and their usage in Scrum training, focusing on the learning experience in that context. While the primary focus is on tool use and operational details, it indirectly touches on aspects of learning through technology in a training environment, making it a secondary theme.",
-    "level": "Tertiary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1178,30 +1052,24 @@
     "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural for virtual classroom training, with no mention of automated testing principles, practices, or related tools.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:46:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on virtual classroom technology and the facilitation of Scrum training, without any reference or discussion on Kanban principles, scaling strategies, or related topics.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T11:46:43",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content primarily focuses on practical technology tips for using Microsoft Teams and Mural in the context of Scrum training, emphasizing real-world applications and problem-solving strategies related to virtual classrooms, which aligns with some aspects of Pragmatic Thinking.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses practical tools and strategies for enhancing virtual Scrum training, which aligns with pragmatic thinking. It provides specific examples of technology use in a learning environment, demonstrating real-world applications of Scrum principles. However, while it touches on relevant topics, the primary focus is on technology rather than deeper problem-solving strategies or Agile methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-18T11:46:43",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on using Microsoft Teams and Mural for conducting Scrum training classes and does not discuss Cycle Time, its measurement, importance, or implications in Agile or DevOps.",
     "level": "Ignored"
   },
@@ -1225,10 +1093,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T11:46:43",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly focuses on using technology tools, Microsoft Teams and Mural, for conducting Scrum training. It does not discuss working agreements or the principles of teamwork and collaboration.",
     "level": "Ignored"
   },
@@ -1252,28 +1120,28 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T11:46:43",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural for facilitating Scrum training and does not focus on product strategy topics such as vision formulation, market analysis, or customer-centric approaches.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:46:43",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses tools and technologies for conducting Scrum training, without focusing on Agile values or principles.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T11:46:43",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural for facilitating Scrum training, with no central focus on Value Stream Mapping or its principles.",
     "level": "Ignored"
   },
@@ -1342,28 +1210,34 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:46:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the technical aspects of using Microsoft Teams and Mural for a Scrum training class, rather than discussing Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms for Scrum training, with no direct mention of Evidence-Based Management principles or metrics. While it discusses enhancing learning experiences, it does not align with the core themes of EBM, such as data-informed decision-making or outcome management. The depth of discussion is limited to practical tips for using specific tools, lacking any empirical evidence or strategic insights related to EBM.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T11:46:43",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily focuses on the installation and configuration details of Microsoft Teams and Mural for a training setting, explaining step-by-step how to set them up and use their features, which aligns closely with the category's purpose.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the use of Microsoft Teams and Mural in a virtual classroom setting, providing some installation and configuration tips. However, the primary focus is on enhancing the learning experience rather than detailed installation or configuration processes. While there are mentions of downloading apps and logging in, the overall discussion leans more towards usage and facilitation rather than a comprehensive guide on installation and configuration.",
+    "level": "Tertiary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:46:43",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural for conducting Scrum training, without focusing on innovation metrics, frameworks, or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -1374,6 +1248,446 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on using Microsoft Teams and Mural for conducting virtual Scrum training but does not discuss operational efficiency, process optimisation, or relevant methodologies such as Agile, DevOps, or Lean. It mainly covers technical aspects and tools rather than strategies for enhancing operational practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum training and the use of Microsoft Teams and Mural, which are tools for facilitating virtual classrooms, rather than focusing on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:07:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the use of Microsoft Teams and Mural for Scrum training, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 45.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 45.0,
+    "reasoning": "The content primarily focuses on the use of technology (Microsoft Teams and Mural) in the context of Scrum training. While it mentions Scrum and the role of a Scrum trainer, the discussion is more about the tools and logistics of conducting a virtual class rather than the Scrum framework itself. There is some alignment with Scrum principles, particularly in the context of facilitating collaboration and team dynamics, but the depth of discussion on Scrum roles, events, and artifacts is limited. Overall, the content is relevant but does not deeply engage with the core themes of Scrum.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on enhancing virtual classroom experiences using specific tools like Microsoft Teams and Mural, which are not related to the Shift-Left Strategy. There are no direct mentions of integrating testing, security, or compliance earlier in the software development lifecycle, nor does it discuss the principles or benefits of the Shift-Left approach. The discussion is centred around technology use in training rather than software development processes.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms and does not explicitly discuss Continuous Improvement principles. While there are elements of enhancing learning experiences, they do not align with the core themes of Continuous Improvement, such as empirical evidence or strategies for organisational processes. The discussion lacks depth in relation to Continuous Improvement, making it a secondary topic at best.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms and does not explicitly discuss Common Goals within Agile or DevOps frameworks. While it mentions Scrum in passing, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category. The discussion is more about practical tips for using tools rather than fostering collaboration towards a common mission.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms rather than discussing competence directly. While it touches on the importance of effective learning environments, it lacks explicit discussions on continuous learning, skill development, or the role of competence in delivering quality outcomes. The mention of tools like Microsoft Teams and Mural is more about their functionality than about fostering a culture of competence or professional growth.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:58:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of specific tools (Microsoft Teams and Mural) for enhancing virtual classroom experiences in Scrum training. While it discusses technology integration in a learning context, it does not address the principles, components, or implementation of the One Engineering System framework. The discussion is centred around personal experiences and tips for using these tools rather than on standardising or integrating software development practices across teams, which is the core of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T17:26:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual classrooms and does not explicitly discuss Agentic Agility or its principles. While there are elements of adaptability in using tools like Microsoft Teams and Mural, the discussion lacks depth on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. Overall, the content does not align with the core themes of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on technology tips for enhancing virtual Scrum training and lacks any direct discussion of Hybrid Agile principles. There are no analyses of merging traditional methodologies with agile practices, nor any mention of challenges or pitfalls associated with Hybrid Agile frameworks. The topics covered are mostly technical in nature rather than addressing the critical examination of Hybrid Agile as outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on virtual classroom experiences and the use of technology in Scrum training. It does not discuss the principles, characteristics, or implications of Cell Structure Design. There are no mentions of the Beta Codex, autonomous cells, or decentralised structures, indicating a minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on utilizing specific technologies for enhancing virtual classroom experiences rather than discussing actionable principles that underpin decision-making and team behaviors. While tools like Microsoft Teams and Mural are mentioned, the discussion lacks depth regarding Agile, Lean, or DevOps principles. There are no direct mentions of foundational principles such as self-management, customer collaboration, or continuous improvement, and the few related concepts presented are tangential to the principles category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the use of technology to facilitate Scrum training in virtual classrooms. While it briefly discusses Scrum, it does not delve into broader project management principles, methodologies, or comprehensive project management discussions that would warrant a higher classification score. The mention of Scrum and tools like Microsoft Teams and Mural is relevant but too narrow to fit the broader category of Project Management effectively.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses tools and techniques for conducting virtual Scrum training sessions, with no direct reference to Open Space Agile principles or practices. It lacks discussion on psychological safety, co-creation, or any other core themes pertinent to Open Space Agile. While it mentions facilitation and engagement, these elements are not explored in the context of Open Space Agile, thus failing to align deeply with the category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:41",
+    "ai_confidence": 85.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content primarily focuses on two specific tools, Microsoft Teams and Mural, detailing their functionalities and how they enhance Scrum training in virtual classrooms. It discusses how these tools facilitate collaboration and interaction among participants, which aligns strongly with the key topics under the 'Tool' category. The depth of discussion about navigating the tools, their applications in a learning context, and practical tips for using them effectively demonstrates a comprehensive engagement with the category. The mentions of these tools are frequent and relevant, making them a primary focus of the content.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:41",
+    "ai_confidence": 22.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content focuses on the use of Microsoft Teams and Mural in virtual classrooms for Scrum training. While it touches on facilitation techniques like using breakout rooms and interactive voting, it does not explicitly mention Liberating Structures nor does it align well with the core themes of the category, such as specific methods like 1-2-4-All or Troika Consulting. The emphasis is more on technology than on structured facilitation methods inherent to Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technology and tools used for virtual Scrum training rather than discussing the underlying values that guide behavior or decision-making within an organization. While it briefly mentions collaboration and engagement, it lacks direct references to Agile or Scrum values and does not delve into how these values influence the training or the learning environment.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the practical use of tools (Microsoft Teams and Mural) for facilitating Scrum training in virtual classrooms. While there is a brief mention of the learning environment, it lacks any philosophical exploration of the principles underpinning Scrum or how these practices influence decision-making and team dynamics. Therefore, the content doesn't meet the criteria for the Philosophy category, as it is centered around practical implementations rather than discussions on theoretical foundations or cultural implications.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content is primarily focused on the use of specific tools (Microsoft Teams and Mural) to enhance virtual classroom experiences for Scrum training. There are no direct discussions on the principles or methodologies of Scrum as a discipline. Although it mentions the context of Scrum, the emphasis is on technology rather than the underlying principles or systemic application of the Scrum discipline. Thus, while it relates to the broader theme of learning about Scrum, it does not sufficiently explore the characteristics or evolution of the discipline itself.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on the use of tools (Microsoft Teams and Mural) for facilitating virtual Scrum training, rather than discussing Scrum artifacts. Although there are implications of collaboration referenced, there is no direct mention of specific Scrum artifacts or their purposes. The emphasis on technology and user tips indicates a lack of focus on the formal representation of work or the concept of artifacts in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses tools for virtual learning and their practical applications in a Scrum training context. It does not mention observability or its principles, nor does it discuss metrics, logs, or traces, which are core to observability. There is no depth provided on observability concepts or relevant practices, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses heavily on the use of specific technologies (Microsoft Teams and Mural) for enhancing virtual classroom experiences, particularly in Scrum training. While it discusses tools that could arguably have an indirect impact on learning efficiency, it does not address the concept of Time to Market as defined—there is no mention of time metrics, process optimization, or the delivery of market-ready products. Instead, it centers on technology usage and classroom management without exploring any direct correlation to the speed of delivering customer value or case studies related to Time to Market improvements.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on the use of technology to facilitate Scrum training in virtual classrooms. While Scrum is relevant to product development, the discussion is more about training methodologies and tool usage rather than explicit product development practices. There is some alignment with the key topics like customer feedback loops and cross-functional teams due to the interaction aspects of virtual classes. However, the content lacks depth in discussing product development methodologies, leaving it as a secondary theme rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 21.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 21.0,
+    "reasoning": "The content focuses primarily on the tools (Microsoft Teams and Mural) used in virtual classrooms rather than discussing the practices of Scrum or techniques aimed at enhancing collaboration and team effectiveness. While there are some elements of learning and group activities mentioned, the overall emphasis is on technology and tool usage, which does not align with the actionable techniques described in the 'Practice' category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "resourceId": "N4PI9s",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily revolves around enhancing virtual classroom experiences using specific tools, namely Microsoft Teams and Mural. It does not discuss the concept of treating the company as a product, nor does it include customer-centric strategies or organisational design principles central to the CaaP framework. The focus is narrowly on training delivery rather than on broader organisational strategies or structures, resulting in a very low confidence score for alignment with the CaaP category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the use of specific tools (Microsoft Teams and Mural) to enhance the virtual classroom experience for Scrum training. While it touches on relevant practices such as facilitating collaboration and providing tech tips, it does not focus on the structured, step-by-step procedures or methods central to Scrum itself. Instead, it emphasizes the tools' functionality and user guidance, which detracts from a strict alignment with the 'Method' category. As a result, while there are mentions and some relevant alignment, the depth of discussion strictly about methodologies used in Scrum is minimal.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the use of technology in virtual training sessions. It discusses tools like Microsoft Teams and Mural to enhance learning but does not relate to the concept of Unrealised Value in Evidence-Based Management. There are no discussions about untapped opportunities, market demand, or innovation potential, which are critical to the category.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on enhancing the virtual learning experience using specific tools. It specifically discusses Microsoft Teams and Mural but does not engage with the scaling methodologies or frameworks relevant to the category of Scaling. The mention of Scrum is more about its training rather than the complexities of scaling Agile practices, and there is no depth in discussing any alignment or collaboration strategies. Overall, it lacks a direct focus on scaling discussions.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of technology tools (Microsoft Teams and Mural) in a Scrum training context, discussing their functionalities rather than exploring conceptual models or frameworks related to Agile, DevOps, or Lean principles. While it mentions Scrum as a training topic, it does not delve into models, decision-making frameworks, or the application of concepts like the Cynefin Framework or Lean Startup principles, which are essential for the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses on the use of technology in virtual Scrum training and does not address the concept of Current Value or relate it to Evidence-Based Management. While it discusses tools that may enhance learning experiences, there’s no mention of metrics, indicators, or the real-time assessment of value, which are core aspects of Current Value. Thus, it only briefly references the broader context of Scrum training without aligning with the specific themes and depth required for a higher confidence score in the 'Current Value' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on utilizing technology in virtual Scrum training sessions. While Scrum is mentioned, the content does not delve into core issues of Scrum frameworks, such as Agile principles or implementation strategies. It is largely practical advice about using tools like Microsoft Teams and Mural rather than a structured discussion on framework methodologies. There is minimal alignment with the key topics of the Framework category, as it lacks a deeper analysis of Agile or Scrum practices beyond tool usage.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on practical tips for using technology in virtual Scrum classrooms, without explicitly discussing any actionable tenets or principles from Agile, Lean, or DevOps methodologies. While it touches on collaborative tools relevant to Scrum training, it lacks specific, actionable guiding rules or doctrines that align with the category 'Tenet'. Therefore, the confidence score reflects minimal alignment with the defined criteria for discussions on tenets.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on virtual classroom management and the use of technologies like Microsoft Teams and Mural, which are unrelated to GitHub. There are no direct mentions of GitHub or its functionalities. While some concepts in project management may be tangentially relevant, they do not tie into GitHub specifically. Overall, the content lacks alignment with GitHub's tools, services, and best practices, justifying a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 14.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 14.0,
+    "reasoning": "The content primarily focuses on specific tools for virtual training in Scrum rather than discussing Agnostic Agile principles. While it touches on enhancing learning experiences, it does not engage with the core themes of Agnostic Agile such as adaptability, ethical considerations, or the importance of context-driven practices. The details provided are about the mechanics of using Microsoft Teams and Mural, which falls outside the scope of Agnostic Agile discussions. Therefore, the content offers little relevance to the category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the use of specific tools (Microsoft Teams and Mural) to facilitate virtual Scrum training, which does not align with the Capability category. While there are mentions of enhancing learning experiences, it lacks discussions on enduring competencies or strategies for developing capabilities within teams or organizations. The emphasis is much more on technology than any systemic capability development.",
     "level": "Ignored"
   }
 }

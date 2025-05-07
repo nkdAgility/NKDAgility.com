@@ -2,8 +2,10 @@
 title: Does 'starting with why' - Simon Sinek - really matter?
 description: Explore the essence of motivation beyond money! Discover how 'starting with why' fuels intrinsic drive and purpose in the workplace.
 date: 2023-10-19T08:22:23Z
+weight: 1000
 ResourceId: sAKCLQ38GzA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sAKCLQ38GzA
@@ -15,42 +17,32 @@ preview: https://i.ytimg.com/vi/sAKCLQ38GzA/maxresdefault.jpg
 duration: 602
 isShort: false
 aliases:
-- /resources/does-starting-with-why-simon-sinek-really-matter
-- /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
-- /resources/videos/sAKCLQ38GzA
-- /resources/does-'starting-with-why'-simon-sinek-really-matter-
 - /resources/sAKCLQ38GzA
-aliasesFor404:
+- /resources/videos/does-starting-with-why-simon-sinek-really-matter
+aliasesArchive:
+- /resources/videos/does-starting-with-why-simon-sinek-really-matter
 - /resources/does-starting-with-why-simon-sinek-really-matter
 - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
 - /resources/does-'starting-with-why'-simon-sinek-really-matter-
+- does-starting-with-why-simon-sinek-really-matter
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
 - Team Motivation
-- Agile Product Operating Model
-- Strategic Goals
-- Organisational Culture
-- Product Strategy
-- Employee Engagement
-- Agile Strategy
-- Organisational Physics
-- Organisational Psychology
+- Agile Philosophy
+- Organisational Agility
 resourceTypes:
 - video
 categories:
-- Leadership
-- Social Technologies
-- Product Management
+- Product Development
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 
 
-In the world of Agile and Scrum, the concept of starting with 'why' is pivotal. Simon Sinek's insightful exploration of this idea demonstrates its crucial role in motivating people and driving success.  
+In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), the concept of starting with 'why' is pivotal. Simon Sinek's insightful exploration of this idea demonstrates its crucial role in motivating people and driving success.  
 
-But, what does it mean for an Agile team or a Scrum Master? Let's dive into this compelling approach to understanding motivation and its impact on Agile practices. 
+But, what does it mean for an Agile team or a [Scrum Master]({{< ref "/tags/scrum-master" >}})? Let's dive into this compelling approach to understanding motivation and its impact on Agile practices. 
 
 **Understanding Motivation: Beyond the 'Why'** 
 
@@ -74,9 +66,9 @@ But, what does it mean for an Agile team or a Scrum Master? Let's dive into this
 
 - 🎯 **Vision and Goals in Agile**: Aligning the daily tasks of Agile teams with a broader vision ensures that everyone is moving in the same direction towards a shared purpose. 
 
-- 🌟 The Role of Vision, Value, and Validation: These three elements replace traditional project management metrics, focusing instead on the overarching goal and the steps needed to achieve it. 
+- 🌟 The Role of Vision, Value, and Validation: These three elements replace traditional [project management]({{< ref "/tags/project-management" >}}) metrics, focusing instead on the overarching goal and the steps needed to achieve it. 
 
-**The Role of Leadership in Cultivating Purpose** 
+**The Role of [Leadership]({{< ref "/categories/leadership" >}}) in Cultivating Purpose** 
 
 - 🌱 **Creating a Culture of Purpose**: Leaders in Agile environments must foster a culture where the ‘why’ is clear and every team member can connect their work to it. 
 

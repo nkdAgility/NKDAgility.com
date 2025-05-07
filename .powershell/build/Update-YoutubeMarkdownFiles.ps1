@@ -2,7 +2,7 @@
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
 
-$outputDir = "site\content\resources\videos\youtube"
+$outputDir = "site\content\resources\videos\youtube\"
 # $excludedTags = @("martin hinshelwood", "nkd agility")  # List of tags to exclude
 
 # Function to use OpenAI to update the description if needed
@@ -23,12 +23,32 @@ function Get-UpdatedDescription {
     }
 }
 
+function Get-UrlSafeString {
+    param (
+        [string]$string
+    )
+
+    $string = $string.trim()
+    $string = $string -replace '\. ', ' - ' -replace '[#".]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
+
+    $string = ($string -replace '[^0-9a-zA-Z -]', '' -replace '\s+', '-').ToLower()
+
+    # Remove consecutive dashes
+    $string = $string -replace '-+', '-'
+
+    # Remove trailing dashes
+    $string = $string -replace '-$', ''
+
+    return $string.ToLower()
+}
+
 # Function to generate or update Hugo markdown content for a video
 function Update-YoutubeMarkdownFiles {
     param ()
 
     # Iterate through each video folder
-    Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
+    $videoFolders = Get-ChildItem -Path $outputDir -Directory # -Filter "56hWAHhbrvs"
+    $videoFolders | ForEach-Object {
         $videoDir = $_.FullName
         $markdownFile = Join-Path $videoDir "index.md"
         $jsonFilePath = Join-Path $videoDir "data.json"
@@ -41,7 +61,7 @@ function Update-YoutubeMarkdownFiles {
             # Load existing markdown or create a new HugoMarkdown object
             if (Test-Path $markdownFile) {
                 $hugoMarkdown = Get-HugoMarkdown -Path $markdownFile
-                if ($hugoMarkdown.FrontMatter.Contains("canonicalUrl")) {
+                if ($hugoMarkdown.FrontMatter.Contains("canonicalUrl")) { 
                     $source = "youtube"
                 }
                 else {
@@ -50,7 +70,7 @@ function Update-YoutubeMarkdownFiles {
             }
             else {
                 $frontMatter = [ordered]@{}
-                $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "")
+                $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "", $markdownFile, $videoDir )
                 $source = "youtube"
             }  
 
@@ -79,25 +99,35 @@ function Update-YoutubeMarkdownFiles {
             }
 
             # Format the title to be URL-safe and remove invalid characters
-            $title = $videoSnippet.title -replace '[#"]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
+            if ($hugoMarkdown.FrontMatter.title) {
+                $title = $hugoMarkdown.FrontMatter.title.trim()
+            }
+            else {
+                $title = $videoSnippet.title.trim()
+            }
 
-            
 
-            $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '-' -replace '\s+', '-').ToLower()
+            $urlSafeTitle = Get-UrlSafeString -string $title
+            $urlSafeTitleVideo = Get-UrlSafeString -string $videoSnippet.title
+            $slug = $urlSafeTitle
+            if ($isShort -eq $true) {
+                $slug = "$urlSafeTitle-$videoId"
+            }
 
-            # Remove consecutive dashes
-            $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
 
-            $aliases = @("/resources/$videoId", "/resources/videos/$videoId", "/resources/videos/$urlSafeTitle", "/resources/$urlSafeTitle")
+            $aliases = @("/resources/$videoId")
+            $aliases += @("/resources/videos/$slug")
+            if ($urlSafeTitle -ne $urlSafeTitleVideo) {
+                $aliases += @("/resources/videos/$urlSafeTitle")
+                $aliases += @("/resources/videos/$urlSafeTitleVideo")
+            }
+
+
+            $aliasesArchive = @("/resources/videos/$urlSafeTitle", "/resources/videos/$urlSafeTitleVideo", $slug)
            
-            # # Get the tags from the snippet and filter out excluded tags
-            # $tags = @()
-            # if ($videoSnippet.tags) {
-            #     $tags = $videoSnippet.tags | Where-Object { -not ($excludedTags -contains $_.ToLower()) }
-            # }
 
             # Use Update-Field from HugoHelpers.ps1 to update or add each field
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'title' -fieldValue $title 
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'title' -fieldValue $title
             if (-not $hugoMarkdown.FrontMatter.Contains("description")) {
                 # Update description using OpenAI if needed
                 $fullDescription = Get-UpdatedDescription -videoData $videoData
@@ -129,30 +159,28 @@ function Update-YoutubeMarkdownFiles {
             }
 
 
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $videoId -addAfter "date"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'videoId' -fieldValue $videoId -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $videoId -addAfter "date" -Overwrite
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceType' -fieldValue "video" -addAfter "ResourceId"
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImport' -fieldValue $true -addAfter 'ResourceType'
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportSource' -fieldValue "Youtube" -addAfter 'ResourceImport'
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'source' -fieldValue $source -addAfter "videoId" 
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug"
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $urlSafeTitle
-            if ($videoData.status.privacyStatus -eq "unlisted") {
-                Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'draft' -fieldValue $true -addAfter "slug" -Overwrite
-            }
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'url' -fieldValue "/resources/videos/:slug" -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue  $slug -Overwrite
             Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'layout' -fieldValue "video" -addAfter "slug"
             if ($source -eq "youtube") {
                 $externalUrl = "https://www.youtube.com/watch?v=$videoId"
                 Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl' -fieldValue $externalUrl
             }           
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'preview' -fieldValue $thumbnailUrl 
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'duration' -fieldValue $durationInSeconds
-            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'isShort' -fieldValue $isShort
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -Overwrite
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliasesArchive' -values $aliasesArchive -addAfter "aliases"
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'preview' -fieldValue $thumbnailUrl -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'duration' -fieldValue $durationInSeconds -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'isShort' -fieldValue $isShort -Overwrite
             # if ($tags.Count -gt 0) {
             #     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values $tags -addAfter "isShort"
             # }
-            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'resourceTypes' -values "video" -addAfter "duration"
+            Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'resourceTypes' -values "video" -addAfter "duration" -Overwrite
             if ($source -eq "youtube") {
                 $priority = 0.4
             }

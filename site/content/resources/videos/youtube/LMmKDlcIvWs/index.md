@@ -2,8 +2,10 @@
 title: What is Kanban?
 description: Unlock the power of Kanban! Discover how to optimise workflows, visualise processes, and drive continuous improvement in this essential guide.
 date: 2024-02-12T07:00:11Z
+weight: 1000
 ResourceId: LMmKDlcIvWs
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: LMmKDlcIvWs
@@ -15,37 +17,28 @@ preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
 duration: 553
 isShort: false
 aliases:
-- /resources/what-is-kanban
-- /resources/videos/what-is-kanban-
-- /resources/videos/LMmKDlcIvWs
-- /resources/what-is-kanban-
 - /resources/LMmKDlcIvWs
-aliasesFor404:
+- /resources/videos/what-is-kanban
+aliasesArchive:
+- /resources/videos/what-is-kanban
 - /resources/what-is-kanban
 - /resources/videos/what-is-kanban-
 - /resources/what-is-kanban-
+- what-is-kanban
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
-- Metrics and Learning
-- Practical Techniques and Tooling
-- Flow Efficiency
-- Agile Frameworks
-- Lean
-- Lean Thinking
-- Pragmatic Thinking
+- Continuous Improvement
 - Operational Practices
 - Lean Principles
 resourceTypes:
 - video
 categories:
-- Kanban
-- Social Technologies
+- Product Development
 
 ---
-### Demystifying Kanban: A Strategy for Continuous Improvement
+### Demystifying [Kanban]({{< ref "/categories/kanban" >}}): A Strategy for [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})
 
 **Introduction**
 
@@ -77,7 +70,7 @@ Kanban works by bringing rigor, metrics, and analysis to your workflow, allowing
 
 1. **Visualize Your Work**:
 
-- **Create a Board**: Use a physical board or digital tools like JIRA or DevOps to visualize your workflow.
+- **Create a Board**: Use a physical board or digital tools like JIRA or [DevOps]({{< ref "/categories/devops" >}}) to visualize your workflow.
 
 - **Key Insight**: A board alone is not Kanban. It’s just a tool to help you visualize and manage work.
 

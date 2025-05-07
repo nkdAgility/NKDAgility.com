@@ -2,8 +2,10 @@
 title: Why is Scrum so easy to understand but incredibly hard to master?
 description: "Uncover why Scrum is easy to grasp but tough to master! Join Martin as he shares insights and strategies for navigating its complexities. \U0001F680\U0001F4A1"
 date: 2023-02-28T07:00:18Z
+weight: 750
 ResourceId: zSQSQPFsy-o
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: zSQSQPFsy-o
@@ -15,37 +17,30 @@ preview: https://i.ytimg.com/vi/zSQSQPFsy-o/maxresdefault.jpg
 duration: 389
 isShort: false
 aliases:
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
-- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
-- /resources/videos/zSQSQPFsy-o
-- /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 - /resources/zSQSQPFsy-o
-aliasesFor404:
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
+aliasesArchive:
+- /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+- why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Product Management
-- Agile Project Management
-- Empirical Process Control
-- Transparency
-- Scrum Product Development
-- Sprint Review
 - Agile Frameworks
-- Professional Scrum
 - Software Development
+- Transparency
+- Agile Transformation
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-Why is Scrum so easy to understand but incredibly hard to master?
+Why is [Scrum]({{< ref "/categories/scrum" >}}) so easy to understand but incredibly hard to master?
 
 It’s been said that scrum is easy to understand, but incredibly hard to master. I don’t know if that’s true. I don’t think that scrum is easy to understand, there are thousands of books, videos, and blogs on the topic so it would be fair to say that scrum can be tough to understand.
 
@@ -67,15 +62,15 @@ If you walk into a startup environment, filled with heaps of recent [MIT](https:
 
 If you walk into a bank that has 250 years of history, and you need to integrate the board members with senior managers, and mid-level managers, and junior managers, all the way through to the people who work at the coalface, it’s going to be hard.
 
-If the people who work at the coalface haven’t seen an executive in all their time at the company, but frequently must follow instructions, policies, rules and ‘best practices’ passed down from those senior leaders and executives; it will be hard for that person to grasp the nature of agile leadership and how scrum develops autonomous, collaborative, and creative teams.
+If the people who work at the coalface haven’t seen an executive in all their time at the company, but frequently must follow instructions, policies, rules and ‘best practices’ passed down from those senior leaders and executives; it will be hard for that person to grasp the nature of agile [leadership]({{< ref "/categories/leadership" >}}) and how scrum develops autonomous, collaborative, and creative teams.
 
 They simply have no frame of reference for **agile**, nor could they imagine taking a decision without getting approval or sign-off on that first. They couldn’t imagine taking the lead and speaking truth to power about what needs fixing, what resources they need, and what great would look like in future.
 
 If they did that today, they would be fired or demoted.
 
-So, **adopting scrum** and mastering the **agile framework** effectively depends on your frame of reference for work, product development, or even project management.
+So, **adopting scrum** and mastering the **agile framework** effectively depends on your frame of reference for work, [product development]({{< ref "/categories/product-development" >}}), or even [project management]({{< ref "/tags/project-management" >}}).
 
-### Transparency.
+### [Transparency]({{< ref "/tags/transparency" >}}).
 
 One of the pillars of empiricism, which is a foundation of scrum, is transparency.
 
@@ -105,7 +100,7 @@ It is hard to grasp how this came to be, the underlying principles, theory, and 
 
 It is even harder to apply these theories, principles, values, and concepts in a live environment where people are under pressure to deliver a working solution to a client every few weeks.
 
-They are up against organizational policies and internal working agreements that are completely out of alignment with agile values and principles. Out of alignment with scrum values and philosophies.
+They are up against organizational policies and internal [working agreements]({{< ref "/tags/working-agreements" >}}) that are completely out of alignment with [agile values and principles]({{< ref "/tags/agile-values-and-principles" >}}). Out of alignment with [scrum values]({{< ref "/tags/scrum-values" >}}) and philosophies.
 
 In many ways, it’s a clash of culture.
 
@@ -113,7 +108,7 @@ In many ways, it’s a clash of culture.
 
 - What is the purpose of scrum?
 
-- What is the purpose of Empirical Process Control that underpins scrum?
+- What is the purpose of [Empirical Process Control]({{< ref "/tags/empirical-process-control" >}}) that underpins scrum?
 
 - What is the purpose of the scrum values?
 
@@ -137,7 +132,7 @@ If you keep bumping into walls within your environment because of misalignment b
 
 ### An Example of scrum going wrong.
 
-In almost all the agile consulting calls I make, the one scrum event I see where people completely misunderstand the purpose of the event, is the sprint review.
+In almost all the agile consulting calls I make, the one scrum event I see where people completely misunderstand the purpose of the event, is the [sprint review]({{< ref "/tags/sprint-review" >}}).
 
 The purpose of the sprint review is to figure out what needs to happen next.
 
@@ -153,7 +148,7 @@ Since the last sprint review:
 
 And so forth.
 
-How do these factors affect the product backlog?
+How do these factors affect the [product backlog]({{< ref "/tags/product-backlog" >}})?
 
 If the product backlog is a transparent list and demonstration of our current understanding of what needs to happen next;
 
@@ -169,7 +164,7 @@ If they understood the true purpose of the sprint review, in addition to receivi
 
 Most scrum teams simply demo the product, get limited or zero feedback on what has been built or what needs to happen next, and walk out with very little real insight or valuable information.
 
-The difference between a superficial and deep understanding of scrum. One team walks out none the wiser about how to contribute value and increase customer satisfaction, customer acquisition, and customer retention. The other team hits the ball out of the park and is focused on value creation and backlog refinement before they even enter the next sprint.
+The difference between a superficial and deep understanding of scrum. One team walks out none the wiser about how to contribute value and increase [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}), customer acquisition, and [customer retention]({{< ref "/tags/customer-retention" >}}). The other team hits the ball out of the park and is focused on value creation and [backlog refinement]({{< ref "/tags/backlog-refinement" >}}) before they even enter the next sprint.
 
 Productive versus Effective.
 

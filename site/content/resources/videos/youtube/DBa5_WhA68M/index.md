@@ -2,8 +2,10 @@
 title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
 description: Unlock essential negotiation skills for product owners! Learn strategies from an FBI expert to enhance your influence and success. Watch now!
 date: 2023-12-13T07:00:07Z
+weight: 1000
 ResourceId: DBa5_WhA68M
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DBa5_WhA68M
@@ -15,30 +17,29 @@ preview: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg
 duration: 330
 isShort: false
 aliases:
-- /resources/the-art-of-negotiation-for-product-owners-essential-skills-to-master
-- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
-- /resources/videos/DBa5_WhA68M
-- /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/DBa5_WhA68M
-aliasesFor404:
+- /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
+- /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
+aliasesArchive:
+- /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
 - /resources/the-art-of-negotiation-for-product-owners-essential-skills-to-master
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
+- the-art-of-negotiation-for-product-owners-essential-skills-to-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Product Owner
-- People and Process
-- Products and Books
-- Agile Product Management
+- Value Delivery
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---
-One of the most vital skills for a Product Owner is negotiation. Whether you’re a seasoned Product Owner or just starting out, mastering negotiation can be the key to delivering maximum value. It’s a skill that you’ll use constantly — with developers, stakeholders, and leadership within your organization. Let’s dive into how negotiation plays a role in the life of a Product Owner and how you can become a master negotiator.
+One of the most vital skills for a [Product Owner]({{< ref "/tags/product-owner" >}}) is negotiation. Whether you’re a seasoned Product Owner or just starting out, mastering negotiation can be the key to delivering maximum value. It’s a skill that you’ll use constantly — with developers, stakeholders, and [leadership]({{< ref "/categories/leadership" >}}) within your organization. Let’s dive into how negotiation plays a role in the life of a Product Owner and how you can become a master negotiator.
 
 ## **Why Negotiation Matters for Product Owners**
 
@@ -48,7 +49,7 @@ As a Product Owner, your primary responsibility is to deliver value, even if you
 
 - **Negotiating with Stakeholders:** Stakeholders often have different priorities, and you’ll need to ensure that the product delivers the most value while keeping them happy.
 
-- **Negotiating with Leadership:** Sometimes, leadership will have big ideas that might not align with your product strategy. You’ll need to tactfully handle these situations.
+- **Negotiating with Leadership:** Sometimes, leadership will have big ideas that might not align with your [product strategy]({{< ref "/tags/product-strategy" >}}). You’ll need to tactfully handle these situations.
 
 ### **Personal Example: Negotiating with Leadership**
 
@@ -96,7 +97,7 @@ If a request doesn’t make sense, **frame the decision** in a way that allows t
 
 For instance:
 
-- If a stakeholder pushes for a new feature, guide them through a Lean Business Canvas or other decision-making framework to help them understand the bigger picture.
+- If a stakeholder pushes for a new feature, guide them through a [Lean]({{< ref "/categories/lean" >}}) Business Canvas or other decision-making framework to help them understand the bigger picture.
 
 - Instead of refusing a request from leadership, show them the data and analysis behind why the feature won’t deliver the value they expect. They may withdraw the request themselves once they see the full context.
 
@@ -106,15 +107,15 @@ Sometimes, the best response is no response at all — at least initially. **Pat
 
 ## **Building Long-Term Negotiation Skills**
 
-Negotiation isn’t just about one-off interactions; it’s a skill you’ll use throughout your career. In our **Professional Scrum Product Owner classes**, we cover essential negotiation techniques. Although we don’t dive deeply into the topic (there’s only so much you can cover in two days!), we provide you with the foundation and resources to continue learning.
+Negotiation isn’t just about one-off interactions; it’s a skill you’ll use throughout your career. In our **Professional [Scrum]({{< ref "/categories/scrum" >}}) Product Owner classes**, we cover essential negotiation techniques. Although we don’t dive deeply into the topic (there’s only so much you can cover in two days!), we provide you with the foundation and resources to continue learning.
 
 ### **Practical Steps for Learning Negotiation:**
 
-- **Take a Professional Scrum Product Owner class:** Gain the foundational skills you need as a Product Owner, including how to handle difficult conversations.
+- **Take a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Product Owner class:** Gain the foundational skills you need as a Product Owner, including how to handle difficult conversations.
 
 - **Learn from your experiences:** After every negotiation, reflect on what went well and what you could improve.
 
-- **Get a mentor or coach:** If you're struggling to improve your negotiation skills, consider getting help. My team at Naked Agility offers coaching and guidance for Product Owners at all levels.
+- **Get a mentor or coach:** If you're struggling to improve your negotiation skills, consider getting help. My team at Naked Agility offers [coaching]({{< ref "/tags/coaching" >}}) and guidance for Product Owners at all levels.
 
 - **Continue your education:** Whether it’s taking additional classes, reading books like _Never Split the Difference_, or enrolling in online courses like those on MasterClass, continual learning is key.
 
@@ -130,7 +131,7 @@ At the end of the day, your role as a Product Owner is to maximize the value of 
 
 ## **Personal Experience: Overcoming a Difficult Negotiation**
 
-I once worked with a Product Owner who had trouble saying no to stakeholders. This led to feature creep, overwork, and missed deadlines. After working with them on their negotiation skills, they were able to push back tactfully by framing discussions around value and guiding stakeholders to the right decisions. The result? A streamlined product backlog and more focused, high-impact work.
+I once worked with a Product Owner who had trouble saying no to stakeholders. This led to feature creep, overwork, and missed deadlines. After working with them on their negotiation skills, they were able to push back tactfully by framing discussions around value and guiding stakeholders to the right decisions. The result? A streamlined [product backlog]({{< ref "/tags/product-backlog" >}}) and more focused, high-impact work.
 
 * * *
 

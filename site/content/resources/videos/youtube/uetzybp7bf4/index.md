@@ -2,36 +2,30 @@
 title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
 description: Empower your team to thrive by fostering a culture of ownership and financial insight. Discover how team-level P&L can boost ROI and drive success!
 date: 2024-12-12T06:30:00Z
+weight: 505
 ResourceId: uetzybp7bf4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uetzybp7bf4
 source: youtube
 url: /resources/videos/:slug
-slug: building-a-culture-of-continuous-improvement
+slug: empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 layout: video
 aliases:
-- /resources/videos/uetzybp7bf4
-- /resources/videos/building-a-culture-of-continuous-improvement
-- /resources/building-a-culture-of-continuous-improvement
 - /resources/uetzybp7bf4
-aliasesFor404:
+- /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
+- /resources/videos/building-a-culture-of-continuous-improvement
+aliasesArchive:
+- /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 - /resources/videos/building-a-culture-of-continuous-improvement
 - /resources/building-a-culture-of-continuous-improvement
+- empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA
 duration: 379
 isShort: false
 tags:
-- People and Process
-- Decision Making
-- Continuous Learning
-- Team Collaboration
-- Change Management
-- Pragmatic Thinking
-- Discovery and Learning
-- Organisational Culture
-- Team Performance
 - Value Delivery
 sitemap:
   filename: sitemap.xml
@@ -40,11 +34,13 @@ resourceTypes:
 - video
 categories:
 - Product Management
+- Leadership
+- Product Development
 
 ---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.
 
-### Cultivating a Culture of Continuous Improvement
+### Cultivating a Culture of [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})
 
 To achieve this, we need to cultivate a culture of continuous improvement. Yes, I know it sounds like buzzword bingo, but hear me out. The essence of this approach lies in hypothesis-driven practices. Here’s how it works:
 
@@ -80,6 +76,6 @@ By integrating financial insights into the daily operations of your teams, you�
 
 ### Conclusion
 
-In summary, don’t shield your teams from financial realities. Instead, empower them with the information they need to make sound decisions. Implementing team-level P&L analyses can lead to higher returns on investment and greater value delivery. When every member of your organisation understands the financial context of their work, they’ll be better equipped to contribute meaningfully to your business’s success. 
+In summary, don’t shield your teams from financial realities. Instead, empower them with the information they need to make sound decisions. Implementing team-level P&L analyses can lead to higher returns on investment and greater [value delivery]({{< ref "/tags/value-delivery" >}}). When every member of your organisation understands the financial context of their work, they’ll be better equipped to contribute meaningfully to your business’s success. 
 
 Let’s embrace this shift together and watch as our teams thrive in an environment where they feel ownership and responsibility for their contributions.

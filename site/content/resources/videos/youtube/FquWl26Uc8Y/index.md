@@ -2,39 +2,42 @@
 title: 'Confronting Incompetence: How to Stop Shipping Bad Code and Tackle Technical Debt Effectively'
 description: Stop shipping bad code! Discover how to tackle technical debt, improve code quality, and foster a culture of accountability in your development team.
 date: 2024-11-26T13:55:20Z
+weight: 640
 ResourceId: FquWl26Uc8Y
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FquWl26Uc8Y
 source: youtube
 url: /resources/videos/:slug
-slug: bad-code-isn't-technical-debt-it's-incompetence
+slug: confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
 layout: video
 aliases:
-- /resources/videos/FquWl26Uc8Y
-- /resources/videos/bad-code-isn't-technical-debt-it's-incompetence
-- /resources/bad-code-isn't-technical-debt-it's-incompetence
 - /resources/FquWl26Uc8Y
-aliasesFor404:
+- /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
+- /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
+- /resources/videos/bad-code-isnt-technical-debt-its-incompetence
+aliasesArchive:
+- /resources/videos/confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively
 - /resources/videos/bad-code-isn't-technical-debt-it's-incompetence
 - /resources/bad-code-isn't-technical-debt-it's-incompetence
+- /resources/videos/bad-code-isnt-technical-debt-its-incompetence
+- confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively-FquWl26Uc8Y
 preview: https://i.ytimg.com/vi/FquWl26Uc8Y/maxresdefault.jpg
 duration: 58
 isShort: true
-tags:
-- Technical Debt
-- Technical Mastery
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
+- Uncategorized
 
 ---
-I've been in the trenches of software development long enough to know that we all have our moments of weakness. I’ve written bad code and shipped it. And let’s be clear: that’s not just technical debt; that’s incompetence. It’s a hard truth, but one that we must confront if we want to grow as developers and as teams.
+I've been in the trenches of [software development]({{< ref "/tags/software-development" >}}) long enough to know that we all have our moments of weakness. I’ve written bad code and shipped it. And let’s be clear: that’s not just [technical debt]({{< ref "/tags/technical-debt" >}}); that’s incompetence. It’s a hard truth, but one that we must confront if we want to grow as developers and as teams.
 
 ### Understanding Technical Debt
 
@@ -48,7 +51,7 @@ So, how do we address this? The first step is to stop shipping bad code. It soun
 
 - **Code Reviews**: Implement a robust code review process. This not only helps catch issues before they make it to production but also fosters a culture of collaboration and learning within the team.
   
-- **Automated Testing**: Invest in automated tests. They serve as a safety net, allowing you to catch regressions and ensure that your code behaves as expected.
+- **[Automated Testing]({{< ref "/tags/automated-testing" >}})**: Invest in automated tests. They serve as a safety net, allowing you to catch regressions and ensure that your code behaves as expected.
 
 - **Refactoring**: Make refactoring a regular part of your development process. Don’t wait for a major release to clean up your code; do it incrementally.
 

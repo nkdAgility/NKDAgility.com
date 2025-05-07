@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:59:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "Content primarily discusses Agile concepts and the notion of transformation, without a clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T20:50:43",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of change and agility in organisations, touching on themes of continuous improvement and experimentation, which are relevant to DevOps. However, it primarily focuses on agile methodologies and organisational transformation rather than the specific principles and practices of DevOps. The mention of 'DevOps transformation' is brief and serves more as a critique than a discussion of DevOps itself, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T10:59:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile concepts and the idea of nurturing agility within organisations, which aligns with the themes of continuous improvement and adaptation to change, but it does not focus specifically on Scrum, Kanban, Lean, or Agile practices as primary topics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of agility and continuous experimentation in organisations, which aligns with the principles of self-organisation and adaptability. However, while it touches on themes relevant to social technologies, such as collaboration and the need for evolving management practices, it does not explicitly focus on social technologies or provide in-depth discussions on frameworks or methodologies that promote collaboration. The primary focus is on the concept of change and evolution rather than the specific social technologies that facilitate these processes.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -28,12 +34,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T10:59:14",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the concept of agility in organisations and implies the role of leadership in nurturing and growing agility, but it does not focus primarily on leadership practices or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of leadership in navigating change and fostering an adaptive organisational culture. It touches on the role of leaders in driving transformation and the need for continuous experimentation and learning. However, while leadership is a recurring theme, the focus is more on organisational change and historical management practices rather than specific leadership strategies or frameworks. The depth of discussion on leadership practices is somewhat limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -42,15 +51,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of agility and its evolution rather than focusing on product management strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of agility and its organic growth within organisations, without a clear focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Asynchronous Development": {
@@ -73,10 +73,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of Agile transformation as an evolution rather than focusing on metrics or learning principles within Agile or DevOps frameworks.",
     "level": "Ignored"
   },
@@ -91,30 +91,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to agility and its organic growth within organizations, which ties into Agile principles, but it does not explicitly focus on any specific Agile framework or provide a comparative analysis.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the philosophical aspects of Agile and transformation, without focusing on Scrum principles or product development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile concepts in the context of a presentation and provides a link to a training course and a video, indicating that it relates to an event or presentation. However, the primary focus is on theoretical concepts rather than specific events or presentations.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the concept of agility and the need for organisations to adapt to change, which aligns with Agile principles. However, it lacks direct references to specific Agile frameworks like Scrum or Kanban, and does not provide in-depth analysis or case studies related to these frameworks. The focus is more on the general philosophy of agility rather than a detailed exploration of Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -190,19 +175,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the concept of Agile and its evolution rather than the specific Definition of Done criteria or its importance in Agile frameworks.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Agile concepts and the nature of change without focusing on evidence-based practices or empirical data related to leadership.",
     "level": "Ignored"
   },
@@ -226,12 +211,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the organic development of agility within organizations and emphasizes continuous change, which relates to self-organization, but it does not focus primarily on the principles and practices of self-organization or provide a deep exploration of the topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the need for organisations to evolve and adapt, which aligns with the principles of self-organisation. However, it primarily focuses on the broader theme of organisational change rather than specifically addressing self-organisation practices or principles. While there are mentions of leadership roles and the importance of experimentation, the depth of discussion on self-organisation is limited, making it a secondary focus rather than a primary one.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -244,11 +232,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile transformation and organizational change rather than Continuous Delivery principles and practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses agility and organisational change but does not specifically address Continuous Delivery principles or practices. While it touches on themes of experimentation and adaptation, which are relevant to Continuous Delivery, it lacks direct mentions and detailed exploration of Continuous Delivery concepts such as automation, rapid feedback, or specific tools. The focus is more on general agility and management practices rather than the specific discipline of Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -298,12 +289,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses Agile concepts, it emphasizes transformation and evolutionary ideas rather than specific software development methodologies or practices. Agile is mentioned as a key theme, but the focus is more on leadership and organizational change rather than concrete software development processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and the importance of continuous experimentation in software development, which aligns with the Software Development category. However, it primarily focuses on organisational change and management practices rather than specific software engineering techniques or methodologies. While Agile is mentioned, the depth of discussion on software development practices is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -316,21 +310,24 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the philosophical aspects of Agile and transformation without focusing on specific Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses concepts related to Agile and change, it primarily focuses on the notion of agility as an organic process rather than a strategic framework specifically. The category is a major theme but not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of embracing change and continuous experimentation, which aligns well with Agile principles. It highlights the need for organisations to adapt and evolve, reflecting key themes of Agile Strategy. The depth of discussion on leadership roles and the shift in management practices further supports its relevance to the category. However, while Agile methodologies are implied, they are not explicitly detailed, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -352,12 +349,15 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of agility and its organic growth within organizations, which relates to the adaptability and responsiveness that underpin strategic goals. However, it does not explicitly define or articulate long-term objectives, making strategic goals a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of embracing change and evolving organisations, which aligns with the concept of strategic goals in fostering business agility. However, it lacks explicit mentions of strategic goals or frameworks for setting them. The depth of discussion on the need for continuous experimentation and leadership accountability contributes positively, but the overall focus remains more on the process of change rather than on defining long-term strategic objectives.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -377,30 +377,24 @@
     "reasoning": "Content primarily discusses Agile concepts and transformation without a clear focus on Value Stream Management principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile concepts and transformations without focusing on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 75,
-    "non_ai_confidence": 10,
-    "final_score": 68.0,
-    "reasoning": "The content discusses the concept of agility as a continuous process and mentions the importance of nurturing change within an organization. While it is primarily about the philosophical nature of agility rather than specific change management strategies, it does touch on the broader themes of managing change and organizational evolution, making it a significant, but secondary theme.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses the concept of change within organisations, particularly in the context of Agile principles. It addresses the inevitability of change, the need for continuous evolution rather than superficial transformations, and the role of leadership in guiding this process. The author provides insights into fostering a culture of adaptability and the importance of experimentation, which aligns well with the core themes of change management. However, while the content is rich in relevant ideas, it does not delve deeply into specific strategies or case studies, which slightly lowers the depth score.",
+    "level": "Primary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of agility and challenges the idea of transformation, rather than focusing on strategies or technologies for digital transformation.",
     "level": "Ignored"
   },
@@ -415,21 +409,27 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of growing and nurturing agility within an organization, which aligns with the principles of Continuous Learning, but it does not primarily focus on specific practices or techniques of Continuous Learning.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of embracing change and continuous experimentation, which aligns with the principles of Continuous Learning. It highlights the need for organisations to adapt and evolve, reflecting a growth mindset. However, while it touches on relevant themes, it lacks detailed exploration of specific techniques for knowledge sharing or feedback loops, which are crucial for a higher confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the organic growth of agility within organizations, which relates to systems thinking and the dynamics of organizational change, but it is primarily focused on agility rather than explicitly on systems thinking or organizational dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the dynamics of organisational change and the importance of adapting to rapid shifts in the environment, which aligns with the principles of systems thinking. It touches on the interplay between leadership, management practices, and organisational evolution, indicating a strong conceptual alignment with the category. However, while it provides valuable insights, the depth of discussion on specific systems thinking techniques and feedback loops is somewhat limited, preventing a higher confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -442,10 +442,10 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile transformation and principles without specifically addressing Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
@@ -458,15 +458,6 @@
     "reasoning": "Content primarily discusses concepts of Agile transformation and leadership rather than focusing on technical practices or software craftsmanship.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on the broader concept of Agile transformation and leadership rather than specifically addressing the role of software developers within Agile and DevOps practices.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T12:22:51",
@@ -476,23 +467,17 @@
     "reasoning": "Content primarily discusses Agile transformation and continuous change without focusing on Lean principles or waste reduction in product development.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on Agile transformation and organizational change rather than software code quality or complexity.",
-    "level": "Ignored"
-  },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the notion of growing and nurturing agility within an organization, which touches upon the influence of culture on agility, but does not extensively focus on cultural elements or directly address organizational culture as a primary topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of organisational evolution and the role of leadership in shaping culture, which aligns well with the category. It addresses the impact of outdated management practices on employee engagement and the need for a cultural shift towards continuous improvement and experimentation. However, while it touches on cultural aspects, the primary focus is on agility and transformation rather than a deep exploration of organisational culture itself.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -514,19 +499,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses general Agile concepts and transformations without focusing on the specific role and responsibilities of the Scrum Master.",
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agility and organisational change, which are relevant to the Scrum Master's role, but it does not explicitly focus on the responsibilities or techniques specific to Scrum Masters. The mention of being a professional Scrum trainer indicates some relevance, but the overall discussion is more about general management practices and the concept of change rather than the specific duties and impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses the concept of agility as an organic growth process within an organization but does not focus on scaling Agile methodologies, frameworks, or enterprise-level practices.",
     "level": "Ignored"
   },
@@ -541,10 +529,10 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of agility as an organic growth and evolution rather than focusing on the principles of technical leadership in guiding teams or applying agile best practices.",
     "level": "Ignored"
   },
@@ -586,21 +574,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of agility within organizations and implies an ongoing process of change, which is relevant to organisational change, but it does not provide specific strategies or methodologies typically associated with the category.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the concept of agility and transformation without focusing on scaled Agile practices or frameworks relevant for multiple teams or enterprise-level implementations.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the concept of organisational change, particularly in the context of Agile evolution and the need for continuous adaptation in response to market dynamics. It addresses the inadequacies of traditional management practices and highlights the importance of nurturing agility within organisations. The speaker provides insights into the historical context of management practices and their evolution, aligning well with the key topics of the category. The depth of discussion is significant, with detailed examples and a clear focus on the principles of organisational change, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -610,15 +592,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile transformation and leadership, rather than Lean Thinking principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of agility in organizations and the need for a culture that nurtures it, which relates to team dynamics and human factors in Agile environments, but it is not strictly focused on specific processes or methodologies.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,21 +604,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the organic growth of agility within organizations and addresses the ideas of adapting to continual change in the marketplace, which aligns with the principles of business agility. However, it does not delve deeply into specific strategies or practices, making it a major but secondary theme.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of embracing change and continuous experimentation, which are core principles of business agility. It highlights the need for organisations to adapt swiftly to market changes and technological advancements, aligning well with the category's themes. The depth of discussion on leadership's role in fostering a culture of innovation and the critique of traditional management practices further supports its relevance. However, while the content is rich in insights, it does not explicitly mention 'business agility' as a term, which slightly lowers the direct mentions score.",
+    "level": "Primary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses themes related to agility and continuous change, which aligns with concepts of complexity thinking, but it mainly revolves around the idea of growth and evolution rather than explicitly focusing on complexity science principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the inevitability of change and the need for organisations to evolve continuously, which aligns with complexity thinking principles. It touches on concepts like continuous experimentation and the inadequacy of traditional management practices in a rapidly changing environment. However, it lacks direct references to complexity science frameworks like the Cynefin Framework or specific theories of emergence and self-organisation, which limits its depth and direct mentions of the category.",
+    "level": "Secondary"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -667,10 +646,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of agility and its organic growth within organizations, without focusing on the Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -683,7 +662,7 @@
     "reasoning": "Content primarily discusses Agile transformation and the concept of continuous change, without a focus on Lead Time or its measurement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T12:22:51",
     "ai_confidence": 0,
@@ -694,21 +673,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of agility and its organic growth within organizations, which relates to leadership approaches but lacks a strong focus on specific leadership strategies or practices.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses Agile transformation and organizational agility but does not mention AI or automation, making it irrelevant to the specified category.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of embracing change and the role of leadership in guiding organisations through transformation. It touches on the need for leaders to evolve their organisations and foster a culture of continuous experimentation, which aligns with Agile principles. However, while it mentions leadership, it does not delve deeply into specific Agile leadership practices or strategies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -748,21 +721,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily critiques the concept of Agile transformations and emphasizes the continuous evolution of agility within organizations, it also touches on the theme of responding to business opportunities in a changing marketplace, which relates to market adaptability.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile concepts but does not focus on AI or its application in Agile or DevOps practices.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of agility and continuous experimentation in response to market changes, aligning well with the principles of Market Adaptability. It highlights the need for organisations to evolve and adapt rather than rely on outdated management practices, which directly relates to the category's focus. The depth of discussion on embracing change and the role of leadership in fostering an adaptive culture further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -784,21 +751,24 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile transformation and its philosophical aspects, not Continuous Integration.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the organic growth of agility within an organization in response to change, aligning with the theme of enterprise agility, but it does not delve deeply into frameworks or organizational structures.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of embracing change and evolving organisations, which aligns with the principles of Enterprise Agility. However, it primarily focuses on individual perspectives and experiences rather than providing a structured discussion on organisational frameworks or strategies for scaling agility. While it touches on leadership's role and the need for continuous experimentation, it lacks detailed exploration of specific frameworks or metrics that are central to the category.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -808,15 +778,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on the concept of agility and transformation in organizations, rather than discussing the specifics of the Product Backlog or its management.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses concepts related to agility and adaptability within organizations, but it lacks a direct focus on specific Agile methodologies or principles such as Scrum, Kanban, or the Agile Manifesto.",
-    "level": "Tertiary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -836,24 +797,6 @@
     "reasoning": "Content discusses concepts of Agile and transformation without focusing on identifying or resolving technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on the concept of agility and transformation, without discussing specific products, books, or tools relevant to Agile methodologies.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the concept of Agile transformation and its implications, but it lacks concrete news updates, reviews, or evaluations that align with the specified category; hence, it does not fit the criteria for classification.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T12:22:51",
@@ -870,15 +813,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses Agile transformations and principles without providing personal experiences, reflections, or anecdotes relevant to the individual perspective on Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses concepts of agility and transformation without a clear focus on Scaling Scrum practices, frameworks, or challenges.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -901,10 +835,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on the philosophical aspects of agility and organizational change rather than specific practices or methodologies related to Agile Product Management.",
     "level": "Ignored"
   },
@@ -919,21 +853,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile transformations and organizational growth, without a focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-08T17:23:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agility, organisational change, and management practices without any explicit mention of Test First Development principles or practices. While it touches on themes of experimentation and adaptation, it does not delve into the specifics of defining success criteria, testing methodologies, or the role of testing in software development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 2,
+    "ai_alignment": 15,
+    "ai_depth": 5,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to agility in a broader context without referencing specific Agile frameworks or practices, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile concepts, particularly the evolution of organisations and the nature of change, which directly ties into Agile principles. While it does touch on broader themes of organisational change, the focus on Agile transformation and methodologies indicates a strong alignment with Agile practices, thus not fitting well into the Miscellaneous category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -973,12 +913,12 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 40,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
+    "final_score": 40.0,
     "reasoning": "The content discusses the nature of agility and its organic growth within organizations, which touches on strategic themes; however, it primarily focuses on the concept of transformation and evolution rather than specific strategic approaches within Agile, Scrum, or DevOps frameworks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -991,11 +931,14 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the organic growth of agility within an organization, emphasizing continuous change and evolution, which aligns well with the principles of the Agile Philosophy. It critiques the notion of Agile as a transformation and emphasizes adaptability, making it a primary topic.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of embracing change and continuous improvement, which aligns well with Agile principles. It critiques traditional management practices and emphasises the need for adaptability, reflecting core Agile values. However, while it touches on Agile concepts, it primarily focuses on broader themes of organisational evolution rather than explicitly detailing Agile philosophy or the Agile Manifesto.",
     "level": "Secondary"
   },
   "Product Delivery": {
@@ -1007,32 +950,29 @@
     "reasoning": "The content primarily focuses on the concept of agility and its evolution rather than discussing specific methodologies and practices of product delivery.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the organic growth and evolution of agility rather than specific strategies or frameworks for scaling agility across an organization.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of agility as an evolving process within organizations, emphasizing the need to nurture and grow agility rather than viewing it as a mere transformation or outcome. It aligns well with themes of adaptability and responsiveness in the context of organisational agility.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the concept of organisational agility, emphasising the need for continuous evolution and adaptation in response to market changes. It highlights the importance of leadership in fostering a culture of agility and critiques traditional management practices that inhibit responsiveness. The author provides insights into the necessity of embracing change and continuous experimentation, aligning well with the core themes of the category. The depth of discussion is significant, covering various aspects of agility, including the historical context and the shift in work dynamics, which further supports a high confidence score.",
+    "level": "Primary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "While the content critiques traditional concepts of Agile transformation, it discusses the necessity of evolving agility within organizations, which is a significant aspect of Agile Transformation discussions.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of agility as a continuous journey rather than a fixed transformation, aligning well with Agile principles. It touches on the need for organisations to evolve and adapt, which is central to Agile transformation. However, while it mentions Agile concepts, it lacks specific frameworks or methodologies like Scrum or Kanban, which would enhance its depth. Overall, it provides a thoughtful perspective on the cultural shifts required for Agile but does not delve deeply into practical applications or case studies.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1043,30 +983,12 @@
     "reasoning": "Content primarily discusses the concept of agility and transformations, which are not directly related to portfolio management or the alignment of strategy with execution.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the necessity of embracing continuous change and nurturing agility within organizations, which aligns with themes of resilience and adaptability. However, it does not provide detailed strategies or frameworks specific to organizational resilience.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the nature of Agile and its evolution rather than focusing on transparency or accountability within teams.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the concept of Agile as an organic evolution rather than focusing on planning tools or methodologies specific to Agile planning.",
     "level": "Ignored"
   },
@@ -1079,23 +1001,17 @@
     "reasoning": "Content focuses on the concept of agility and its organic growth within organizations rather than discussing frequent software releases or related practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on philosophical ideas about agility and transformations in organizations rather than practical techniques or tooling.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for organizations to adapt and grow in response to continuous change, which aligns with the broader themes of sensemaking in navigating complexity. However, the primary focus is on the concept of agility and its evolution rather than a detailed exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the need for organisations to adapt to rapid changes and the importance of continuous experimentation, which aligns with sensemaking principles. It touches on leadership's role in fostering a culture of adaptation and understanding complexity, particularly in the context of Agile methodologies. However, while it mentions these concepts, the primary focus is more on Agile practices and organisational evolution rather than a deep exploration of sensemaking frameworks or models.",
+    "level": "Secondary"
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -1135,20 +1051,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of agility as an organic evolution rather than focusing on the Agile Product Operating Model or product-centric approaches.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of growing and nurturing agility within organizations and emphasizes continuous change, which relates to learning and adapting in the context of Agile methodologies, though it predominantly focuses on Agile transformation rather than specific learning or discovery processes.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses agility and organisational change but lacks a direct focus on the Agile Product Operating Model. While it touches on themes of continuous experimentation and the need for speed in adapting to change, it does not delve into specific principles or practices of the APOM. The discussion is more general about agility rather than product management, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Test Automation": {
@@ -1178,23 +1088,17 @@
     "reasoning": "Content discusses Agile principles and transformations but does not focus on automated testing as a primary topic.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile concepts and the nature of transformation rather than specifically addressing Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of agility as an organic process rather than a fixed transformation, which aligns with pragmatic thinking in Agile practices, but it does not provide clear practical problem-solving strategies or real-world applications.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the evolution of Agile and the necessity of adapting management practices to contemporary challenges. It highlights practical problem-solving strategies, the importance of continuous experimentation, and the need for organisations to evolve rather than rely on outdated practices. The speaker draws on real-world examples and personal experience, demonstrating a strong alignment with the core themes of Pragmatic Thinking.",
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1216,12 +1120,15 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of agility and its organic growth within organizations, which resonates with human-centric and adaptive approaches. However, it primarily critiques the notion of 'agile transformation' rather than focusing specifically on Beta Codex principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the need for organisations to evolve and adapt in a rapidly changing environment, which aligns with the principles of decentralisation and human-centric approaches. However, it primarily focuses on agile methodologies and critiques of traditional management practices without explicitly addressing BetaCodex principles or providing in-depth case studies. The discussion on dismantling bureaucratic processes and fostering continuous experimentation reflects some alignment with BetaCodex, but it lacks a direct focus on the category itself.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1261,12 +1168,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the organic growth of agility and the concept of evolution rather than prescribed transformations, suggesting a focus on the underlying Agile values. However, it does not delve deeply into the specific values or principles of Agile, thus making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of embracing change and continuous experimentation, which aligns with Agile principles. However, it primarily focuses on the concept of organisational evolution rather than explicitly addressing Agile values or principles. While it touches on themes relevant to Agile, such as the need for speed and the role of leadership in fostering adaptability, it lacks direct references to the Agile Manifesto or its core values, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1279,12 +1189,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the organic growth of agility within organizations, touching upon the interplay between organizational culture and adaptability, which aligns with sociotechnical system concepts, although it primarily focuses on Agile methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the evolution of organisations and the need for change, touching on themes of organisational culture and management practices. However, it lacks explicit references to sociotechnical systems and does not deeply explore the interplay between social and technical elements. While it mentions the impact of leadership and the need for continuous experimentation, it does not provide a comprehensive analysis of how these factors influence software delivery or team effectiveness.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1315,11 +1228,14 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses concepts of continuous change and evolution within organizations, which aligns with Systems Thinking principles, but primarily focuses on Agile methodologies rather than a comprehensive exploration of Systems Thinking.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of embracing change and continuous experimentation, which aligns with some principles of Systems Thinking, such as the interconnectedness of organisational dynamics. However, it primarily focuses on Agile methodologies and transformation rather than a holistic analysis of systems. The discussion lacks depth in exploring specific Systems Thinking tools or frameworks, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Throughput": {
@@ -1342,28 +1258,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:22:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile concepts and the idea of evolution in organizations, lacking a focus on evidence-based management principles or practices.",
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agility and organisational change but lacks direct references to Evidence-Based Management principles. While it touches on the importance of experimentation and adapting to change, it does not provide empirical evidence or metrics that align with the core themes of EBM. The focus is more on philosophical perspectives rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on philosophical views about Agile transformation and development rather than specific installation or configuration practices.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T12:22:51",
+    "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the nature of agility and the idea of continuous change rather than directly addressing the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -1375,5 +1294,445 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the ideas of Agile transformation and organic growth rather than specific techniques or practices aimed at enhancing operational efficiency.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:06:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and transformations, which are unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:06:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile transformation and organisational change without any mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 50,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile principles and the need for continuous change, which are relevant to Scrum, but it lacks specific references to Scrum roles, events, or artifacts. The focus is more on general agile transformation rather than the Scrum framework itself.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile evolution and organisational change without explicitly addressing the Shift-Left Strategy. While it touches on themes of continuous experimentation and adaptation, it lacks a direct focus on integrating testing, security, or compliance early in the software development lifecycle, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of embracing change and continuous experimentation, which aligns with the principles of Continuous Improvement. However, while it touches on relevant themes, such as the need for speed and the evolution of management practices, it does not delve deeply into specific Continuous Improvement strategies or frameworks. The focus is more on agility and organisational evolution rather than a structured approach to Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of embracing change and evolving organisations, which indirectly relates to the concept of Common Goals. However, it lacks explicit mentions of shared objectives or alignment within teams, focusing more on personal insights and general management philosophies. The depth of discussion on Common Goals is minimal, as it does not delve into specific frameworks or techniques that operationalise these goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of continuous evolution and experimentation in organisations, which aligns with the concept of competence in terms of ongoing learning and adaptation. However, it lacks direct mentions of competence as a primary focus and does not delve deeply into strategies for fostering a culture of competence or the impact of competence on decision-making. The discussion is more about agility and change rather than explicitly addressing competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:50:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses agility, organisational change, and management practices without any explicit mention of the One Engineering System (1ES) framework. While it touches on themes of evolution and adaptation in software development, it does not align with the core principles of 1ES, such as standardisation and integration of tools and processes. The discussion lacks depth regarding 1ES, focusing instead on broader agile concepts and personal insights.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agility and the need for organisations to adapt and evolve, which aligns with the concept of Agentic Agility. However, it lacks explicit mentions of the intentional shaping of outcomes and does not differentiate between human and AI capabilities. The discussion is more focused on general agility and management practices rather than the specific principles of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily addresses the concept of agility and the need for continuous evolution in organizations, without specifically discussing Hybrid Agile or its challenges. There are no direct mentions of merging traditional methodologies with agile practices or the pitfalls associated with such integrations. While it touches on managerial practices, it does not critically analyze the complexities or dysfunctions that can arise in a Hybrid Agile context.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses themes of agility and modern management, which are somewhat tangential to Cell Structure Design. While it mentions the need for organisations to adapt and evolve, which aligns with decentralised decision-making principles, it largely focuses on general organisational change rather than the specific characteristics and functions of autonomous cells. The depth of discussion on Cell Structure Design is minimal, and there is no direct mention of the Beta Codex or comparison with traditional hierarchical models.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses key principles such as embracing change, continuous experimentation, and the need for a shift in management practices to adapt to evolving business environments. While it extensively explores these ideas, it does not explicitly connect them to the foundational principles of Agile, Lean, or DevOps, which slightly reduces the alignment score. Overall, the discussion of principles is significant enough to warrant a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses themes related to agility and change management, which can be linked to project management. However, it primarily focuses on broader management practices and philosophical insights rather than specific project management methodologies or principles. While concepts like continual evolution and experimentation are mentioned, there is limited direct discussion on project management tools, roles, or established methodologies. The overall discussion is more abstract and high-level, resulting in a moderate confidence score for alignment with the Project Management category.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 33.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 33.0,
+    "reasoning": "The content discusses agility and organisational change but does not explicitly mention Open Space Agile or its principles. While there are themes related to evolution and adaptation that align with aspects of Agile philosophy, the focus is more on traditional management concepts rather than the collaborative, emergent processes central to Open Space Agile. Hence, the discussion is limited and does not provide significant depth or direct connections to the category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content predominantly discusses general concepts of agility and change management rather than focusing on specific tools or their functionalities. There are no mentions of specific software applications or their applications within Agile, Lean, or DevOps frameworks, which are critical for classification under the 'Tool' category. While there are references to practices and historical contexts of management, the lack of direct discussion or comparative analysis of actual tools leads to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content discusses concepts around agility and management evolution but does not explicitly mention any Liberating Structures or their application. While it aligns with some general themes of change and experimentation, it lacks specific references or techniques that belong to the Liberating Structures toolkit, leading to a very low confidence score for this category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Values",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 30,
+    "ai_depth": 29,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of organisational evolution and the need for agility in the face of change, which relates to values surrounding adaptability and learning. However, it does not explicitly mention values like the Scrum values or agile principles as guiding beliefs, which would enhance the alignment and depth of the discussion regarding core values. The emphasis is more on practices and trends rather than deeply held beliefs.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the philosophical underpinnings of organizational change and agility, reflecting on themes like evolution vs. transformation and the cultural implications of management practices. It engages with the 'why' behind the need for speed and experimentation in a rapidly changing environment, which reflects the core themes of philosophy in Agile and lean thinking. However, while it does engage philosophically, there are moments where practical advice and modern management practices overshadow the philosophical discourse, thus slightly lowering the depth score. Overall, the piece demonstrates a strong engagement with philosophical thought relevant to Agile principles.",
+    "level": "Secondary"
+  },
+  "Discipline": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile principles and emphasizes the importance of continuous improvement and adaptation within organizations. However, it focuses heavily on the practical aspects of agility and change management rather than a structured examination of discipline as defined in the category. It briefly touches on shared principles and methodologies but mainly revolves around the narrative of evolution and mindset changes rather than providing a rigorous analysis of discipline frameworks.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses organizational change and agility but does not focus specifically on artifacts as defined. It lacks direct mentions of artifacts, their structures, or specific examples like Product Backlog or Sprint Backlog. While it touches on themes of evolution and flexibility in management practices, these discussions are abstract and not tied to the structure or purpose of artifacts in Agile or Scrum contexts.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses themes of agility and organizational change but does not explicitly mention observability or related topics such as metrics, logs, traces, or tools for observability. It focuses on the broader concepts of evolution, experimentation, and management practices rather than the specific principles or practices of observability in software systems.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content briefly discusses the need for speed and adaptability in the context of organisational change, which relates to Time to Market. However, it does not delve into specific metrics or detailed strategies for improving Time to Market. The focus is more on agility and evolution rather than explicitly measuring or optimizing the time taken to deliver products or features, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 16,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the need for continuous experimentation and the evolution of organisations in relation to change, which aligns with Agile principles. It emphasizes the importance of adapting practices iteratively and integrating learning—core elements of product development methodologies. However, it lacks a focused discussion on specific product development frameworks or customer feedback integration, which reduces the overall depth necessary for a higher confidence score.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T17:26:27",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of evolving organizational practices in response to change, touching on concepts like continuous experimentation and the need to rethink management practices. However, it lacks specific actionable techniques or consistent practices detailed in the category description. While it mentions key aspects of agility that could hint at practices, the focus is more on philosophical reflections than on consistent, repeatable actions that fit the 'Practice' category. Consequently, there is a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses organisational evolution, agility, and the need for continuous improvement, aligning with some core themes of Company as a Product. However, it primarily emphasizes the journey of adaptation rather than specifically treating the company itself as a product. The focus is on embracing change and rethinking management practices rather than on detailed strategies for organisational design in relation to customer-centric methodologies or direct examples of CaaP implementations. The mention of continuous experimentation and the criticism of traditional management practices suggest some alignment, but the depth and direct discussion are limited.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Method",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 26,
+    "ai_depth": 11,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the necessity for organisations to evolve and embrace change but lacks a structured step-by-step method for achieving specific goals within Agile methodologies. While there are mentions of concepts like continuous experimentation and the need for speed in adapting to change, the narrative is more philosophical than procedural. The absence of concrete methods like Scrum or Kanban, and a focus on broad ideas rather than systematic approaches, limits its alignment with the category 'Method'. Thus, though relevant topics are touched upon, they are presented in a general, non-structured way.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 70.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of agility and continuous change within organizations, which can be linked to the concept of Unrealised Value by highlighting the need for organizations to evolve and innovate. However, it does not explicitly mention 'Unrealised Value', nor does it focus on specific indicators or strategies for capturing this potential. The discussion is more about the philosophy of change rather than the specific measures or frameworks that could unlock unrealised value in a structured way. Thus, while there is some conceptual alignment, the direct mentions and depth of discussion are limited.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses general agility, organizational change, and the inevitability of evolution without explicitly addressing scaling practices or frameworks. While it touches on themes of adaptability and experimentation relevant to agile principles, it lacks direct mention of scaling methodologies like SAFe or LeSS. The discussion is broader and more philosophical rather than focused on the specific strategies and challenges of scaling agile practices across multiple teams.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Model",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content emphasizes the need for agility and continuous evolution within organizations, it does not explicitly discuss specific models or frameworks aligned with the 'Model' category, such as the Cynefin Framework or Lean Startup principles. The conceptual alignment is somewhat present as it touches on aspects of iterative development and experimentation, which are central to Agile and Lean thinking. However, the depth of discussion regarding explicit models or frameworks remains superficial, leading to a lower than average confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses concepts surrounding agility, experimentation, and management evolution without direct reference to Current Value as defined in Evidence-Based Management. While it includes themes related to organisational change and leadership, it lacks specific metrics or indicators that denote customer satisfaction or revenue impact. The focus is more on philosophical perspectives and general practices rather than real-time assessment or measurement of Current Value.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the concept of agility and the continuous process of adapting organizations rather than focusing on specific frameworks such as Scrum or DevOps. While it addresses themes relevant to Agile evolution, it does not provide a structured methodology or guidelines characteristic of frameworks nor does it delve into specific implementation strategies. There are mentions of agility and management practices, but these discussions are exploratory rather than prescriptive, lacking direct relevance to framework-centric content.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the need for continuous experimentation and flexibility within organizations, which are tenets of Agile methodologies. However, it lacks specific, actionable rules or doctrines that guide decision-making and behaviors. Instead, it approaches topics in a more philosophical and broad manner without diving into concrete practices. The mentions of agility and change hint at relevant themes, but the information remains too general and doesn't elaborate sufficiently on explicit tenets.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses agility, management practices, and organizational transformation without any specific mention of GitHub or its functionalities. There is little to no direct relevance to GitHub's services, collaboration tools, or methodologies associated with software development on GitHub. The points made in the content do not align with the key topics of GitHub, such as CI/CD pipelines, version control, or project management as facilitated by GitHub. Overall, this content is unrelated to the category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 55.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content conveys a preference for continuous evolution and experimentation, hinting at Agnostic Agile principles. However, it strongly focuses on general management practices and personal experiences rather than explicitly discussing Agile principles or making direct comparisons with methodologies like Scrum or Kanban. The content mentions agility related to adaptation and learning but lacks a deep exploration of Agnostic Agile’s distinct philosophies or its ethical considerations, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T17:26:28",
+    "ai_confidence": 55.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content emphasizes the concept of evolving organizations and embracing change through continuous experimentation, which aligns with the theme of cultivating capabilities. However, while it discusses agility and the need for organizations to adapt, it does so in a way that is more focused on the journey and philosophy rather than providing specific strategies or deep insights into developing and embedding enduring capabilities, leading to a moderate score.",
+    "level": "Tertiary"
   }
 }

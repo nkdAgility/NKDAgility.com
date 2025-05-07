@@ -2,8 +2,10 @@
 title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer'
 description: Unlock the secrets to impactful product development! Join me as I explore the importance of addressing assumptions and creating user-centred solutions.
 date: 2024-08-09T05:27:35Z
+weight: 1000
 ResourceId: ucTJ1fe1CvQ
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ucTJ1fe1CvQ
@@ -15,38 +17,32 @@ preview: https://i.ytimg.com/vi/ucTJ1fe1CvQ/maxresdefault.jpg
 duration: 355
 isShort: false
 aliases:
-- /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
-- /resources/videos/ppdv-course-overview
-- /resources/videos/ucTJ1fe1CvQ
-- /resources/ppdv-course-overview
 - /resources/ucTJ1fe1CvQ
-aliasesFor404:
+- /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+- /resources/videos/ppdv-course-overview
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 - /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview
+- unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Experimentation
-- Discovery and Learning
-- Product Validation
-- People and Process
 - Product Discovery
-- Continuous Learning
-- Hypothesis Driven Development
 - Pragmatic Thinking
-- Products and Books
-- Agile Product Management
+- Continuous Learning
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---
 ## **Why the PPDV Course Was Created**
 
-In the fast-paced world of product development, there’s a strong emphasis on delivery. Teams are often laser-focused on producing product increments at the end of every sprint. However, this approach, while essential, is not enough. **Why?** Because we’re not just delivering products; we’re solving complex problems.
+In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), there’s a strong emphasis on delivery. Teams are often laser-focused on producing product increments at the end of every sprint. However, this approach, while essential, is not enough. **Why?** Because we’re not just delivering products; we’re solving complex problems.
 
 Complexity means uncertainty, and uncertainty means assumptions. Throughout the product development journey, teams make countless assumptions. The problem? Many of these assumptions are made unconsciously, leading to missed learning opportunities and the infamous **“Feature Factory”** issue, where teams churn out features without truly understanding user needs or delivering real value.
 
@@ -96,9 +92,9 @@ This course is designed for **product leaders, product owners, product managers*
 
 - **Product Owners and Managers:** Gain the tools to better incorporate Discovery and Validation into your process, ensuring that your products solve the right problems.
 
-- **Product Teams:** Understand how to work more effectively with assumptions and develop a learning mindset that drives continuous improvement.
+- **Product Teams:** Understand how to work more effectively with assumptions and develop a learning mindset that drives [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
-## **Learning and Experimentation Focus**
+## **Learning and [Experimentation]({{< ref "/tags/experimentation" >}}) Focus**
 
 In this one-day course (which can also be split into two half-days or smaller chunks), we use a **case study** to navigate through different concepts. This hands-on approach helps teams better incorporate Discovery and Validation into their product development process.
 

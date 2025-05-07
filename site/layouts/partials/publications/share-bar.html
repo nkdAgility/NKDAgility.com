@@ -1,84 +1,109 @@
-<div class="publications-share-bar d-flex justify-content-between align-items-center border-top border-bottom py-3">
+<div class="publications-share-bar d-flex justify-content-between align-items-center py-2">
   <!-- Left-aligned buttons -->
   <div>
-    <a class="btn btn-outline-secondary" href="#comments" title="Jump to Comments"> <i class="fa-regular fa-comment"></i> </a>
+    {{ if eq .Kind "term" }}
+      <a class="btn btn-sm btn-outline-secondary d-inline-flex align-items-center" href="#overview" title="Jump to overview of this topic">
+        <span class="d-none d-xl-inline d-inline-flex align-items-center"> Overview <i class="fa-solid fa-pen-fancy"></i></span>
+      </a>
+      <a class="btn btn-sm  btn-outline-secondary align-items-center" href="#learnMore" title="Jump to more posts on this topic"> <span class="d-none d-xl-inline"> Learn More </span> <i class="fa-light fa-list"></i> </a>
+    {{ end }}
+    <a class="btn btn-sm  btn-outline-secondary align-items-center" href="#comments" title="Join the conversation"> <span class="d-none d-xl-inline">Comments</span> <i class="fa-regular fa-comment"></i> </a>
   </div>
 
   <!-- Right-aligned 'Share' dropdown button -->
   <div class="d-inline-flex gap-2">
-    <div class="dropdown">
-      <button type="button" class="btn btn-outline-secondary" data-bs-toggle="dropdown" aria-expanded="false">Share <i class="fa-light fa-share-from-square"></i></button>
-      <div class="dropdown-menu dropdown-menu-end p-3">
-        <!-- Copy Link -->
-        <button class="btn btn-light btn-sm w-100 mb-2" onclick="copyLink()"><i class="fas fa-link"></i> Copy Link <i class="fa-light fa-copy"></i></button>
-
-        <!-- Divider -->
-        <hr />
-
-        <!-- LinkedIn -->
-        <a class="btn btn-primary btn-sm w-100 mb-2" href="https://www.linkedin.com/shareArticle?mini=true&url={{- .Permalink }}&title={{- .Title }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-linkedin"></i> LinkedIn </a>
-        <!-- WhatsApp -->
-        <a class="btn btn-success btn-sm w-100 mb-2" href="https://api.whatsapp.com/send?text={{- .Title }}%20{{- .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-whatsapp"></i> WhatsApp </a>
-        <!-- Twitter -->
-        <a class="btn btn-info btn-sm w-100 mb-2" href="https://twitter.com/intent/tweet?text={{- .Title }}&url={{- .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter"></i> Twitter </a>
-        <!-- Facebook -->
-        <a class="btn btn-primary btn-sm w-100 mb-2" href="https://www.facebook.com/sharer/sharer.php?u={{- .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> Facebook </a>
-        <!-- Email -->
-        <a class="btn btn-secondary btn-sm w-100" href="mailto:?subject={{- .Title }}&body={{- .Permalink }}"> <i class="fas fa-envelope"></i> Email </a>
-      </div>
-    </div>
+    {{- partial "components/share-dropdown.html" . }}
     {{- if ne hugo.Environment "production" }}
       <div class="dropdown {{ if eq hugo.Environment "production" }}d-none{{ end }}">
-        <button type="button" class="btn btn-outline-secondary" data-bs-toggle="dropdown" aria-expanded="false">Edit <i class="fa-light fa-pen-to-square"></i></button>
+        <button type="button" class="btn btn-sm btn-outline-secondary text-nowrap" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Edit </span><i class="fa-light fa-pen-to-square"></i></button>
         <div class="dropdown-menu dropdown-menu-end p-3"></div>
       </div>
-      <div class="dropdown {{ if eq hugo.Environment "production" }}d-none{{ end }}">
-        <button type="button" class="btn btn-outline-secondary" data-bs-toggle="dropdown" aria-expanded="false">Admin <i class="fa-regular fa-lock"></i></button>
-        <div class="dropdown-menu dropdown-menu-end p-3">
-          <strong>Internal</strong>
-          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ `{{< ref ` }}' + '{{ .Path }}' + '{{ ` >}}`}}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ .Path }}'">RelPath Markdown <i class="fa-regular fa-clipboard"></i></button>
-          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Path }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ .Path }}'">RelPath Solo <i class="fa-regular fa-clipboard"></i></button>
-          <hr />
-          <strong>External</strong>
-          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('https://nkdagility.com/resources/{{ .Params.ResourceId }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy 'https://nkdagility.com/resources/{{ .Params.ResourceId }}'">Permalink <i class="fa-regular fa-clipboard"></i></button>
-          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Summary }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy Summary'">Summary <i class="fa-regular fa-clipboard"></i></button>
-          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ .Description }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy Description'">Description <i class="fa-regular fa-clipboard"></i></button>
-          {{ $keywords := partial "functions/keywords.html" . }}
-          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('{{ $keywords }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ $keywords }}'">Keywords <i class="fa-regular fa-clipboard"></i></button>
-          {{ $previewUrl := partial "functions/get-preview-image.html" . }}
-          <button class="btn btn-outline-info btn-sm w-100 mb-2" onclick="navigator.clipboard.writeText('https://nkdagility.com/blob{{ $previewUrl }}');" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;" title="Click to copy '{{ $previewUrl }}'">Preview Image <i class="fa-regular fa-clipboard"></i></button>
-          <hr />
-          <strong>Resources</strong>
-          {{ range .Page.Resources }}
-            <p>{{ .Name }} ({{ .MediaType.Type }})</p>
-          {{ end }}
-        </div>
-      </div>
+      {{- partial "components/admin-dropdown.html" . }}
     {{ end }}
+    <a href="#" class="btn btn-sm btn-outline-secondary text-nowrap" title="Sign up for more posts" data-bs-toggle="modal" data-bs-target="#followModal"><span class="d-none d-xl-inline">Subscribe </span><i class="fa-regular fa-cowbell-circle-plus"></i></a>
   </div>
 </div>
 
-<!-- JavaScript to copy link -->
-<script>
-    function copyLink() {
-      const link = "{{- .Permalink }}";
-      navigator.clipboard.writeText(link).then(() => {
-        // Show toast notification with a 3-second delay
-        const toastElement = document.getElementById('copyToast');
-        const toast = new bootstrap.Toast(toastElement, { delay: 2000 });
-        toast.show();
-      }).catch(err => {
-        console.error("Could not copy text: ", err);
-      });
-    }
-    </script>
+<div class="modal fade" id="followModal" tabindex="-1" aria-labelledby="followModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="followModalLabel">Subscribe to Email Notifications</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <!-- Begin Mailchimp Signup Form -->
+        <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css" />
 
-<!-- Toast Notification -->
-<div class="toast-container position-fixed bottom-0 end-0 p-3" style="z-index: 11">
-  <div id="copyToast" class="toast align-items-center text-bg-primary border-0" role="alert" aria-live="assertive" aria-atomic="true">
-    <div class="d-flex">
-      <div class="toast-body">Link copied to clipboard!</div>
-      <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+        <div id="mc_embed_signup">
+          <form action="https://nkdagility.us6.list-manage.com/subscribe/post?u=8f1debed5aa20a5cfafd20918&amp;id=94de9849c1&amp;f_id=00640de3f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div id="mc_embed_signup_scroll">
+              <h2>Subscribe</h2>
+              <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+              <div class="mc-field-group">
+                <label for="mce-EMAIL">Email Address <span class="asterisk">*</span> </label>
+                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required />
+                <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+              </div>
+              <div class="mc-field-group">
+                <label for="mce-FNAME">First Name </label>
+                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" />
+                <span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
+              </div>
+              <div class="mc-field-group">
+                <label for="mce-LNAME">Last Name </label>
+                <input type="text" value="" name="LNAME" class="" id="mce-LNAME" />
+                <span id="mce-LNAME-HELPERTEXT" class="helper_text"></span>
+              </div>
+              <div class="mc-field-group input-group">
+                <strong>Notify me of </strong>
+                <ul>
+                  <li>
+                    <input type="checkbox" value="4" name="group[18025][4]" id="mce-group[18025]-18025-0" />
+                    <label for="mce-group[18025]-18025-0">Blog Posts</label>
+                  </li>
+                  <li>
+                    <input type="checkbox" value="16" name="group[18025][16]" id="mce-group[18025]-18025-1" />
+                    <label for="mce-group[18025]-18025-1">Newsletters</label>
+                  </li>
+                  <li>
+                    <input type="checkbox" value="8" name="group[18025][8]" id="mce-group[18025]-18025-2" />
+                    <label for="mce-group[18025]-18025-2">Class Schedule</label>
+                  </li>
+                </ul>
+                <span id="mce-group[18025]-HELPERTEXT" class="helper_text"></span>
+              </div>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8f1debed5aa20a5cfafd20918_94de9849c1" tabindex="-1" value="" /></div>
+              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" /></div>
+            </div>
+          </form>
+        </div>
+        <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+        <script type="text/javascript">
+          (function ($) {
+            window.fnames = new Array();
+            window.ftypes = new Array();
+            fnames[0] = "EMAIL";
+            ftypes[0] = "email";
+            fnames[1] = "FNAME";
+            ftypes[1] = "text";
+            fnames[2] = "LNAME";
+            ftypes[2] = "text";
+            fnames[3] = "CNAME";
+            ftypes[3] = "text";
+          })(jQuery);
+          var $mcj = jQuery.noConflict(true);
+        </script>
+        <!--End mc_embed_signup-->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
     </div>
   </div>
 </div>

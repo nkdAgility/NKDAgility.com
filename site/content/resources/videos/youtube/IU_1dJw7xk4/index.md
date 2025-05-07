@@ -2,8 +2,10 @@
 title: How long does it take to transition from project management to Kanban?
 description: Transform your project management approach! Discover how to seamlessly transition to Kanban, optimise workflows, and embrace agile methodologies.
 date: 2024-02-16T07:00:10Z
+weight: 1000
 ResourceId: IU_1dJw7xk4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: IU_1dJw7xk4
@@ -15,37 +17,33 @@ preview: https://i.ytimg.com/vi/IU_1dJw7xk4/maxresdefault.jpg
 duration: 438
 isShort: false
 aliases:
-- /resources/how-long-does-it-take-to-transition-from-project-management-to-kanban
-- /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
-- /resources/videos/IU_1dJw7xk4
-- /resources/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
 - /resources/IU_1dJw7xk4
-aliasesFor404:
+- /resources/videos/how-long-does-it-take-to-transition-from-project-management-to-kanban
+- /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban
+aliasesArchive:
+- /resources/videos/how-long-does-it-take-to-transition-from-project-management-to-kanban
 - /resources/how-long-does-it-take-to-transition-from-project-management-to-kanban
 - /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
 - /resources/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
+- /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban
+- how-long-does-it-take-to-transition-from-project-management-to-kanban
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
-- People and Process
-- Cycle Time
-- Metrics and Learning
+- Operational Practices
 - Agile Frameworks
-- Practical Techniques and Tooling
-- Flow Efficiency
 - Software Development
+- Metrics and Learning
 - Pragmatic Thinking
-- Throughput
 resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
+- Product Development
 
 ---
-### Transitioning from Traditional Project Management to Kanban
+### Transitioning from Traditional [Project Management]({{< ref "/tags/project-management" >}}) to [Kanban]({{< ref "/categories/kanban" >}})
 
 **Introduction**
 
@@ -57,13 +55,13 @@ Are you working in a traditional project management environment and feeling daun
 
 **Kanban: A Gentle Transition**
 
-Unlike Scrum, which can require significant changes to your workflow, Kanban allows you to start from where you are. Here's why Kanban is a gentle yet powerful approach:
+Unlike [Scrum]({{< ref "/categories/scrum" >}}), which can require significant changes to your workflow, Kanban allows you to start from where you are. Here's why Kanban is a gentle yet powerful approach:
 
 - **Start Where You Are**: Kanban doesn’t demand immediate changes to your existing processes. Instead, it helps you document and understand your current workflow.
 
 - **Observational Approach**: Kanban is observational, meaning it helps you monitor your existing processes and gather data to identify areas for improvement.
 
-- **Gradual Improvement**: By observing and understanding your workflow, you can make incremental changes that lead to continuous improvement over time.
+- **Gradual Improvement**: By observing and understanding your workflow, you can make incremental changes that lead to [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) over time.
 
 * * *
 
@@ -89,7 +87,7 @@ Here's a step-by-step guide to implementing Kanban in a traditional project mana
 
 1. **Collect Metrics**:
 
-- **Gather Data**: Use tools like JIRA or Azure DevOps to collect data on start and end dates, cycle time, and other relevant metrics.
+- **Gather Data**: Use tools like JIRA or Azure [DevOps]({{< ref "/categories/devops" >}}) to collect data on start and end dates, [cycle time]({{< ref "/tags/cycle-time" >}}), and other relevant metrics.
 
 - **Visualize Data**: Create visual representations of your workflow using cycle time scatterplots and other graphs.
 

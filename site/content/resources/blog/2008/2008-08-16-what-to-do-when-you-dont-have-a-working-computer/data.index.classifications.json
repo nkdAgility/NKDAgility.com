@@ -8,22 +8,16 @@
     "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no relevance to Agile Product Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T12:15:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software usage, without a focus on specific products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T12:15:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses personal experiences and challenges related to not having a working computer, which does not align with specific Agile, Scrum, DevOps, or Lean frameworks.",
+    "reasoning": "The content primarily discusses personal experiences related to the author's lack of a working computer and the challenges faced while using a mobile device. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it does touch on general technology usage and personal anecdotes. The discussion lacks depth in terms of actionable insights or connections to recognised practices, but it aligns with the Miscellaneous category as it does not fit into any specific framework. The confidence score reflects a moderate alignment with the category due to the personal nature of the content and its general technology focus.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -53,49 +47,16 @@
     "reasoning": "Content primarily discusses personal experiences with computer issues and software usage, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T12:15:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:15:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T12:15:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:15:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software installation, with no focus on DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T12:15:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software installation, with no relevance to AI or Agile methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences with computer issues and mobile device usage, with no direct mention of DevOps principles, practices, or cultural shifts. It lacks any alignment with the core themes of DevOps, such as collaboration, automation, or shared accountability, and does not provide any depth on the topic. Therefore, it is classified as having a very low relevance to the DevOps category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +79,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:15:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no relevance to Agile principles or product development.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T12:15:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with hardware and software issues, lacking a focus on practical techniques or tooling related to Agile or DevOps.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences with technology and coping without a computer, with no direct mention or relevance to the Agile Product Operating Model. It lacks any discussion of agile methodologies, product management principles, or related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,10 +109,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T12:15:51",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with hardware and software issues rather than providing actionable installation or configuration instructions.",
     "level": "Ignored"
   },
@@ -172,29 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:15:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T12:15:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with hardware and software issues, lacking a focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T12:15:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software, lacking relevance to industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences with technology and coping without a computer, with no direct mention or alignment to Evidence-Based Management principles. It lacks any discussion on metrics, data-informed decision-making, or strategic improvements.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -226,28 +166,28 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T12:16:08",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no relevance to BetaCodex principles or organisational design.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T12:16:09",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T12:16:10",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with computer issues and software installation, with no relevance to the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -271,21 +211,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content shares personal experiences and reflections on the challenges faced due to the lack of a working computer, but it primarily focuses on technical issues rather than Agile, Scrum, or DevOps methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses the author's personal experience with a malfunctioning computer, which is a personal anecdote. However, it lacks a direct connection to Agile, Scrum, or DevOps methodologies, and does not provide insights or reflections on these themes. While it does touch on personal challenges and experiences, the focus is more on technical issues rather than personal insights related to Agile practices.",
     "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T12:16:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software installation, lacking a focus on discovery or learning methodologies.",
-    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -294,15 +228,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with computer issues and software installation, with no clear focus on Azure DevOps functionalities or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T12:16:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no focus on transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +246,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no focus on Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T12:16:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with technology and software issues, lacking focus on team dynamics or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -467,7 +383,7 @@
     "reasoning": "Content discusses personal challenges with computer hardware and software, unrelated to Agile principles or large-scale agility.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:36:42",
     "ai_confidence": 0,
@@ -483,15 +399,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal experiences with computer issues and software installation, which are not related to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no relation to Agile Project Management.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -514,10 +421,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about personal experiences and technical issues related to computer usage, with no relevant discussion on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -577,10 +484,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses personal experiences with hardware issues and software usage, without focusing on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
@@ -665,24 +572,6 @@
     "reasoning": "Content primarily discusses personal experiences with technology issues and does not relate to estimation in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content mentions software development tools like Visual Studio, but the primary focus is on personal experience with hardware issues and mobile software access, rather than discussing the role of software developers in Agile or DevOps frameworks.",
-    "level": "Quaternary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses personal experience with computer issues and software use, with no reference to AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T12:36:42",
@@ -694,12 +583,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 57.0,
-    "reasoning": "The content primarily discusses issues with a Windows Vista installation, including installation problems and experiences with software like Visual Studio. However, it also mentions the use of a Pocket PC and does not provide extensive guidance or insights specific to managing the Windows environment.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses personal experiences with Windows Vista, including installation issues, performance problems, and a transition back to Windows XP. While it does mention specific Windows versions and related software, the primary focus is on the author's personal situation rather than providing structured guidance or insights on managing the Windows environment. The depth of discussion on Windows-related issues is moderate, but it lacks a comprehensive exploration of the key topics outlined in the category description.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -721,12 +613,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches upon personal experiences with software development tools, specifically mentioning Visual Studio, but the central theme is about the user's lack of a working computer rather than focused on software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions software development tools like Visual Studio and discusses personal experiences with software installation and issues. However, it lacks a structured discussion on software development methodologies or practices, making it more of a personal narrative than a focused discourse on software development.",
+    "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -735,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about personal experiences with hardware and software issues, and does not discuss Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on personal computer issues and software usage, with no relevance to Agile methodologies or scaling.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +670,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about personal experience with computer issues and software usage, not related to innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -865,10 +751,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal experiences with hardware and software issues, with no mention of the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
@@ -883,11 +769,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software installation, which is unrelated to Continuous Delivery principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences with computer issues and mobile device usage, with no direct mention or relevant discussion of Continuous Delivery principles, practices, or tools. It lacks any focus on software delivery cycles, automation, or related strategies, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -901,10 +790,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on personal experience with computer hardware issues and software installation, rather than discussions on working software delivery, quality, or Agile principles.",
     "level": "Ignored"
   },
@@ -998,21 +887,12 @@
     "reasoning": "Content focuses on personal experiences with computer issues and software, with no discussion of empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the author's personal experience with computer issues and does not relate to Kanban principles or scaling in organizations.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal computer issues and experiences, with no relevance to Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -1045,11 +925,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with hardware and software issues, and is not related to Test First Development or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences with computer issues and mobile device usage, with no direct mention or alignment to Test First Development principles or practices. It lacks any discussion on testing methodologies, success criteria, or related topics.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1153,19 +1036,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses personal issues with computer hardware and software, with no relevance to working agreements or teamwork.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about personal experiences with technology and software issues, without any discussions on team performance or collaboration.",
     "level": "Ignored"
   },
@@ -1189,10 +1072,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues regarding personal computer use and does not focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1214,31 +1097,28 @@
     "reasoning": "Content primarily discusses personal experiences with hardware and software issues, and does not relate to deployment methodologies or strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal experiences with computer issues and does not relate to Scrum or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal technical issues faced with a computer, including installation problems, blue screens, and potential hardware failures, which relate to the troubleshooting process. However, it also includes a significant amount of personal narrative and is not structured around systematic troubleshooting methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses personal experiences with a malfunctioning laptop, including issues with software installation and hardware failures. However, it lacks a structured approach to troubleshooting and does not provide specific methodologies or tools for diagnosing or resolving the problems mentioned. The focus is more on personal narrative rather than systematic troubleshooting, which limits its alignment with the category.",
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal computer issues and software, with no relevance to Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content does not mention the Scrum Master role or its responsibilities at all. It focuses entirely on personal experiences with technology and coping without a computer, which is unrelated to Scrum or agile methodologies. There is no conceptual alignment with the key topics of the Scrum Master category, and the depth of discussion is minimal, as it does not address any relevant themes.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1252,10 +1132,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal technical issues and experiences with computers, not team collaboration.",
     "level": "Ignored"
   },
@@ -1270,10 +1150,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T12:36:42",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal challenges with computer hardware and software, with no clear relation to Agile Values and Principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1164,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses personal experiences with hardware and software issues, and does not relate to Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is entirely focused on personal experiences with computer issues and software use, with no relevance to Scaling Scrum or related topics.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1202,6 @@
     "reasoning": "Content primarily discusses personal experiences with hardware failure and software installation issues, rather than systematic approaches to system configuration.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:36:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily a personal account of technical issues with computers and does not discuss scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T12:36:42",
@@ -1360,11 +1222,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:07:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences with computer issues and software, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences with technology and coping without a computer, lacking any discussion on collaboration, decision-making, or value delivery within organisations. It does not align with the core themes of Social Technologies, which are centred around frameworks and methodologies for enhancing teamwork and organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1239,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal technical issues and experiences with computer hardware and software, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:41:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal experiences with computer issues and software installation, with no focus on Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:41:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses personal experiences with computer issues and software installation, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences with computer issues and software installation, with no direct mentions or relevant discussions about Scrum principles, roles, events, or practices. The focus is on individual technical challenges rather than collaborative project management or Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences with computer issues and software installation, with no mention of the Shift-Left Strategy or its principles. It does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences and challenges faced due to the lack of a working computer. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of software and mobile devices is irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses personal experiences with technology and coping without a computer, lacking a focus on competence in Agile, Scrum, or DevOps. While there are mentions of software usage, they do not connect to the principles of continuous learning or skill development, which are central to the competence category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal experiences with technology and coping without a computer, lacking any discussion on Continuous Improvement principles or practices. There are no direct mentions of improvement strategies, empirical evidence, or a culture of experimentation, which are essential for the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses personal experiences with technology and coping without a computer, lacking any explicit mention of Agentic Agility or its principles. While there is a brief mention of navigating tasks with mobile devices, it does not align with the core themes of intentionality, autonomy, or adaptability in shaping outcomes. The discussion is superficial and does not delve into the transformative capacity of individuals or systems, nor does it differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

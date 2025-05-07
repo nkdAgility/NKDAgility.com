@@ -1,11 +1,14 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T20:42:47",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and their relevance to product management, making it a major but secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course aimed at enhancing skills in Agile and Scrum, which are related to social technologies. However, it lacks a direct discussion on the core themes of social technologies such as self-organisation, collective intelligence, and transparency. While it touches on collaboration and decision-making, these aspects are not explored in depth, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -19,39 +22,51 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:42:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Agile product management and Scrum roles, with no clear discussion on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the PSPO-A course, which is centred around Agile and Scrum methodologies, rather than DevOps principles. While there are mentions of collaboration and efficiency, these concepts are not explored in the context of DevOps, and the overall discussion does not align with the core themes of DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T20:42:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 76.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of product management in Agile, focusing on skills and collaboration necessary for effective product delivery.",
+    "final_score": 76.0,
+    "reasoning": "The content explicitly mentions product management and discusses the role of Agile in that context, indicating a clear focus on the category. It aligns well with core themes such as collaboration and responding to change, which are essential in product management. However, while it provides a good overview, it lacks in-depth exploration of specific methodologies or frameworks, which slightly lowers the depth score.",
     "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T20:42:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of collaboration and effectiveness in product management, which are related to leadership in an Agile context, but the primary focus is on product management rather than leadership practices.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on aspects of collaboration and responding to change, which are relevant to leadership in an Agile context. However, it primarily focuses on product management skills rather than leadership practices. The discussion lacks depth in exploring leadership strategies or frameworks, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T20:42:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile in product management and the importance of responding to change, which aligns with business agility principles, but it primarily focuses on the PSPO-A course rather than business agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of Agile in product management and touches on themes of collaboration and responsiveness to change, which are relevant to business agility. However, it lacks a comprehensive exploration of the principles and practices of business agility, focusing more on the benefits of a specific course rather than a broader discussion on organisational agility.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -64,11 +79,14 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T20:42:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a Product Owner and the importance of Agile principles, which are relevant to Scrum, but it primarily focuses on product management rather than Scrum itself.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions the role of a Product Owner and touches on Agile principles, which are relevant to Scrum. However, it lacks a detailed exploration of Scrum roles, events, or artifacts, and does not provide in-depth discussion on Scrum principles or practices. The focus is more on general product management rather than a thorough understanding of Professional Scrum.",
     "level": "Tertiary"
   },
   "Automated Testing": {
@@ -82,29 +100,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:43:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T19:18:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on product management and Agile practices without a clear emphasis on Evidence-Based Management principles or empirical data.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T20:43:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses product management and Agile practices, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T20:43:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile product management and Scrum roles, with no focus on Kanban principles or scaling Kanban practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course related to Agile and Scrum methodologies, with no direct discussion or alignment with Evidence-Based Management principles. It lacks empirical evidence or metrics, and does not address the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,12 +121,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T20:43:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 50.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile in the context of product management and mentions collaboration and responsiveness to change, which are relevant to Agile frameworks, but it primarily focuses on the PSPO-A course rather than a comprehensive exploration of Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of Agile in product management and mentions roles like product owner, which aligns with Agile frameworks. However, it lacks a detailed exploration of specific frameworks or principles, focusing more on the benefits of a course rather than a comprehensive analysis of Agile frameworks.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +142,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T20:43:10",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of a PSPO-A course for product managers and does not focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +156,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on the benefits of a PSPO-A course for product management rather than analysing trends in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T20:43:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses product management and Agile practices without reference to scaling or coordination among multiple teams.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -199,20 +196,26 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T20:43:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses collaboration and effectiveness in the context of Agile product management, which aligns with team performance themes, but it primarily focuses on the role of product management rather than team dynamics or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly touches on collaboration and effectiveness in the context of Agile product management, which aligns with the themes of team performance. However, it lacks detailed discussion on specific strategies, metrics, or Agile ceremonies that would provide a deeper understanding of team dynamics. The focus is more on individual roles rather than team performance as a whole.",
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T20:43:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses collaboration in the context of product management and Agile, making it a major but secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on collaboration in the context of product management and Agile but lacks a focused discussion on specific collaboration tools or their features. While it mentions the desire to be more collaborative and effective, it does not provide detailed insights or examples related to collaboration tools, which diminishes its alignment with the category.",
     "level": "Tertiary"
   },
   "Site Reliability Engineering": {
@@ -226,21 +229,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T20:43:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and their application in product management, which is a significant aspect of product delivery, but it primarily focuses on the benefits of a specific course rather than the broader methodologies and practices involved in the end-to-end process of delivering software products.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T20:43:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile product management and Scrum roles, with no clear focus on AI applications.",
-    "level": "Ignored"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of Agile methodologies in product management, which aligns with the core themes of product delivery. However, it lacks detailed exploration of specific practices or methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -251,15 +248,6 @@
     "reasoning": "Content primarily discusses Agile product management and Scrum roles, without a clear focus on digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T20:43:33",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of product management in Agile, focusing on collaboration and effectiveness in responding to change, which aligns with the interplay between human behaviour and structured methodologies.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T20:43:35",
@@ -268,15 +256,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile product management and Scrum roles, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T20:43:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile principles in the context of product management, highlighting collaboration and responsiveness to change, but it is not primarily focused on Agile Project Management as a central theme.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,41 +275,26 @@
     "reasoning": "Content primarily focuses on product management and Agile practices without a clear emphasis on accountability or team ownership.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T20:43:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on product management and Agile skills rather than transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T20:43:42",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on product management and Agile practices without a clear emphasis on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:43:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile product management and Scrum roles, which are not central to the One Engineering System framework.",
+    "reasoning": "Content primarily focuses on product management and Agile practices without a clear emphasis on release management processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T20:43:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile and collaboration in product management, which are relevant to enterprise agility, but it primarily focuses on individual roles and skills rather than broader organisational implications.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the PSPO-A course, which is aimed at enhancing individual skills in Agile methodologies for product management. While it mentions Agile principles and the importance of collaboration and responsiveness, it does so in a context that is largely team-focused and does not address broader organisational implications or frameworks for scaling agility. Therefore, while there are relevant elements, they do not constitute a primary focus on Enterprise Agility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -352,39 +316,48 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T20:43:48",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product management and the role of a product owner, rather than specifically discussing Agile Planning Tools or their functionalities.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:43:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on product management and the role of a Product Owner, with no clear emphasis on the responsibilities or practices of a Scrum Master.",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course for Product Managers and Product Owners, with only brief mentions of Agile and Scrum principles. While it touches on relevant themes, it lacks a direct discussion of the Scrum Master's role, responsibilities, or impact, which are central to the category. The depth of discussion is limited to the course's benefits rather than exploring the Scrum Master's influence or techniques.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T20:43:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles in the context of product management, highlighting the importance of collaboration and adaptability, which are relevant to Agile Planning, but it primarily focuses on the role of a product owner rather than Agile Planning methodologies themselves.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the PSPO-A course, which focuses on Agile methodologies and principles relevant to product management. While it mentions Agile and Scrum, the primary focus is on promoting the course rather than in-depth discussions on Agile Planning practices. The alignment with Agile Planning is present but not comprehensive, and the depth of discussion is moderate, primarily aimed at enticing potential participants rather than exploring Agile Planning in detail.",
+    "level": "Secondary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T20:43:53",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses aspects of Agile, such as collaboration and responding to change, but primarily focuses on the PSPO-A course and product management rather than the core Agile values and principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 30,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the PSPO-A course and its relevance to Agile principles, particularly in product management. However, it primarily focuses on the course's benefits rather than a deep exploration of Agile values and principles themselves. While there are mentions of Agile methodologies and principles, they are not the primary focus, and the depth of discussion is limited to the context of the course rather than a broader understanding of Agile values.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -397,11 +370,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:43:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and Agile practices without a focus on Test First Development or related testing methodologies.",
+    "calculated_at": "2025-04-08T16:45:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies, with no direct mention or discussion of Test First Development principles or practices. While Agile principles are mentioned, they do not specifically relate to the Test First Development category, which emphasises testing practices and success criteria before implementation.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,21 +436,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T20:44:05",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile product management and skills development rather than the measurement and improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T20:44:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles in the context of product management, highlighting the importance of collaboration and responsiveness to change, which are relevant to Agile transformation, but it is primarily focused on the PSPO-A course rather than a comprehensive discussion on Agile transformation itself.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the PSPO-A course, which focuses on Agile methodologies and principles relevant to product management. While it mentions Agile and Scrum, the primary focus is on promoting the course rather than a comprehensive discussion on Agile transformation strategies or practices. The alignment with Agile transformation concepts is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -496,29 +475,11 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T20:44:11",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of a PSPO-A course and product management rather than focusing on Scrum Values.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T20:44:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses responding to change and improving effectiveness in product management, which aligns with themes of adaptability and resilience, but it primarily focuses on Agile and product management rather than organisational resilience as a central topic.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T20:44:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of a PSPO-A course for product management without a clear focus on specific tools, methodologies, or practical techniques related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -532,29 +493,26 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T20:44:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of a product owner and Agile product management, which are related to the Product Backlog, but it does not focus primarily on backlog management or its specific practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a PSPO-A course aimed at Product Managers and Product Owners, discussing Agile methodologies and skills enhancement. However, it lacks direct references to the Product Backlog, its management, or specific techniques related to backlog refinement and prioritisation. While it touches on Agile principles, it does not delve into the core themes of the Product Backlog, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T20:44:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal motivations for taking a PSPO-A course, which relates to individual experiences in product management and Agile practices, but it primarily focuses on the course's benefits rather than personal anecdotes or reflections.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T20:44:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of a PSPO-A course for product management, without a focus on specific events or presentations.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course and its benefits for Product Managers and Product Owners, rather than sharing personal experiences or reflections. While there are brief mentions of personal challenges and questions, they do not provide substantial personal insights or anecdotes related to Agile methodologies. The alignment with the Personal category is minimal, as the content lacks depth in discussing individual experiences or insights.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -577,20 +535,14 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T20:44:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of a Product Owner and touches on collaboration and effectiveness in Agile, which are relevant to Scrum Team dynamics.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T20:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product management and individual skills rather than organisational scaling of agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for Product Owners and Product Managers, which is related to Scrum but does not delve into the dynamics, roles, or collaboration aspects of a Scrum Team. While it mentions Scrum and Agile principles, it lacks detailed discussion on team interactions, roles, or practices that are central to the Scrum Team category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -613,11 +565,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:44:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile product management and Scrum roles, which are not directly related to Continuous Delivery principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course related to Agile and Scrum methodologies, with no direct mention or discussion of Continuous Delivery principles, practices, or tools. While it touches on Agile concepts, it does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality. The depth of discussion is limited to the benefits of the course rather than any Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -640,32 +595,38 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T20:44:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile and responding to change, which are relevant to change management, but the primary focus is on product management and the PSPO-A course rather than change management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management, with an emphasis on Agile methodologies. While it touches on themes of collaboration and responding to changes, it lacks a direct discussion on change management principles or practices. The alignment with the core themes of change management is minimal, and the depth of discussion does not provide substantial insights into effective change management strategies.",
+    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T20:44:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses collaboration and effectiveness in the context of product management, which is a secondary theme related to team collaboration.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the PSPO-A course, which is related to Agile methodologies and product management, but it primarily focuses on individual roles rather than team collaboration dynamics. While it briefly mentions fostering collaboration and responding to changes, the overall emphasis is on personal skill enhancement rather than collective team performance or dynamics. Therefore, while there are relevant elements, they are not the primary focus.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T20:44:45",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product management and Agile principles without specific reference to the Daily Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T20:44:46",
     "ai_confidence": 0,
@@ -683,32 +644,29 @@
     "reasoning": "Content primarily discusses Agile product management and Scrum roles, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T20:44:49",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile and product management that relate to collaboration and responding to change, which are relevant to learning and discovery, but the primary focus is on the PSPO-A course and its benefits rather than on broader discovery and learning methodologies.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T20:44:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and collaboration, which are related to self-organisation, but the primary focus is on product management rather than self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a PSPO-A course aimed at enhancing skills in Agile and Scrum, but it does not explicitly discuss self-organisation principles or practices. While it touches on Agile methodologies and collaboration, it lacks a focused exploration of self-organisation as a primary theme. The depth of discussion on self-organisation is minimal, and the content does not provide substantial insights into fostering autonomy or team dynamics.",
+    "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:44:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile in the context of product management, highlighting the importance of collaboration and responsiveness to change, which aligns with the Agile Product Operating Model as a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course, which is related to Agile and Scrum principles in product management. While it mentions Agile methodologies and their application in product management, it does not delve deeply into the Agile Product Operating Model itself. The discussion is more about the course benefits rather than a comprehensive exploration of APOM principles or practices.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -730,12 +688,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T20:44:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of responding to change, which aligns with market adaptability, but it primarily focuses on product management rather than broader strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and their application in product management, which aligns with the principles of market adaptability. However, it primarily focuses on promoting a specific course rather than providing in-depth strategies or case studies related to market responsiveness. The discussion on fostering collaboration and responding to changes is relevant but lacks detailed exploration of techniques or methodologies that enhance market adaptability.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -766,19 +727,22 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T20:45:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of product management and collaboration, which are related to decision-making, but it primarily focuses on the benefits of a specific course rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a PSPO-A course aimed at enhancing skills in Agile product management. While it touches on collaboration and responding to changes, it lacks a structured discussion on decision-making methodologies or evidence-based practices. The focus is more on personal development and course promotion rather than on the principles of decision-making as defined in the category.",
+    "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T20:45:05",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product management and Agile practices without a clear emphasis on metrics, data utilisation, or learning mechanisms.",
     "level": "Ignored"
   },
@@ -793,10 +757,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T20:45:08",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile product management and Scrum roles, with no clear emphasis on Lean principles or waste reduction.",
     "level": "Ignored"
   },
@@ -809,50 +773,53 @@
     "reasoning": "Content primarily focuses on product management and Agile practices rather than mentoring or coaching aspects.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T20:45:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses product management and Agile practices without a focus on AI or automation.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-17T20:45:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile and effective product management, which relate to responding to change and collaboration, but it primarily focuses on the benefits of a specific course rather than a deep exploration of sensemaking principles or frameworks.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies. While it briefly touches on themes of collaboration and responding to changes, it lacks a direct discussion on sensemaking principles or frameworks. The depth of discussion is limited to course promotion rather than exploring complex decision-making processes or organisational dynamics.",
+    "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T20:45:14",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles in the context of product management, which aligns with strategic approaches in Agile environments, but it primarily focuses on skills development rather than strategic alignment or execution.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily promotes a PSPO-A course aimed at enhancing skills in Agile and Scrum for Product Managers and Product Owners. While it mentions Agile principles and their application in product management, it lacks a direct focus on strategic discussions or the development of strategic approaches within Agile frameworks. The content is more about skill enhancement and course promotion rather than a deep exploration of strategy, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T20:45:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the role of product management, which are relevant to operational practices, but the focus is more on personal development and skills enhancement rather than direct operational efficiency techniques.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily promotes a PSPO-A course aimed at enhancing skills in Agile and Scrum for product management. While it mentions Agile principles and their application, it lacks a direct focus on operational practices or techniques for improving efficiency within Agile frameworks. The discussion is more about the benefits of the course rather than specific operational strategies or practices.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T20:45:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles in the context of product management, highlighting collaboration and responsiveness to change, but primarily focuses on the PSPO-A course rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the PSPO-A course, which focuses on Agile methodologies and principles, particularly in the context of product management. While it mentions Agile principles and their application, the primary focus is on the course itself rather than a deep exploration of Agile philosophy. The discussion aligns with Agile concepts but lacks extensive depth on the broader implications of Agile as a mindset.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -865,12 +832,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T20:45:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving skills and collaboration in Agile product management, which aligns with coaching principles, but it primarily focuses on product management rather than coaching itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product managers and owners, with limited direct discussion on coaching practices. While it touches on themes of collaboration and skill enhancement, it lacks depth in coaching techniques or the role of a coach, which are central to the Coaching category.",
+    "level": "Ignored"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -883,12 +853,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T20:45:23",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses improving skills and effectiveness in Agile product management, which aligns with the theme of Continuous Learning, but it is primarily focused on the PSPO-A course rather than broader principles of continuous learning.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily promotes a specific course (PSPO-A) aimed at enhancing skills in Agile and product management. While it mentions the importance of learning and skill enhancement, it lacks a direct focus on the broader principles of Continuous Learning, such as fostering a growth mindset or effective knowledge sharing. The discussion is more about the course's benefits rather than exploring Continuous Learning practices in depth.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -901,10 +874,10 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-17T20:45:25",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on product management and Agile practices rather than the management of a portfolio of projects.",
     "level": "Ignored"
   },
@@ -919,12 +892,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T20:45:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Agile principles in the context of product management and the role of the Product Owner, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the PSPO-A course, which is directly related to Agile Product Management, particularly in enhancing skills for Product Managers and Product Owners. It discusses the incorporation of Agile methodologies and principles, aligning well with the core themes of the category. However, while it provides a good overview of the course's benefits, it lacks in-depth discussion on specific Agile practices or techniques, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -937,48 +913,36 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-17T20:45:35",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile product management and Scrum roles, which are not central to Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T20:45:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on product management and Agile practices without discussing scaling Scrum or related frameworks.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T20:45:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of collaboration and effectiveness in product management, which are relevant to sociotechnical systems, but it primarily focuses on Agile and product management without a strong emphasis on the interplay between social and technical elements.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T20:45:39",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of a PSPO-A course for product managers and product owners, which relates to Agile practices, but it primarily focuses on the role and skills in product management rather than specific products or literature.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies, with limited direct discussion on sociotechnical systems. While it touches on collaboration and Agile principles, it lacks a thorough exploration of the interplay between social and technical aspects within organisations, which is central to the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T20:45:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of responding to change, which aligns with empirical process control, but it primarily focuses on product management rather than the core principles of empirical process control.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile methodologies and their application in product management, but it lacks a focused discussion on empirical process control principles such as transparency, inspection, and adaptation. While it touches on Agile concepts, it does not delve into the core themes or provide detailed insights related to empirical process control.",
+    "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -991,20 +955,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T20:45:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical aspects of Agile and product management, focusing on collaboration and responsiveness to change, which aligns with pragmatic thinking, but it is primarily about the PSPO-A course.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the PSPO-A course, which focuses on Agile methodologies relevant to product management. While it mentions Agile principles and their application, it lacks in-depth exploration of practical problem-solving strategies or real-world applications. The discussion is more promotional than analytical, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T20:46:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and Agile practices without a clear focus on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T11:08:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies. It does not explicitly mention Lead Time or its importance as an observability metric. While there are references to enhancing efficiency and responding to changes, these concepts are not directly tied to Lead Time or its measurement. The discussion lacks depth regarding Lead Time, its relationship with Cycle Time, or strategies for optimisation, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,12 +988,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T20:46:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and product management, which are related to working software, but the primary focus is on the benefits of a PSPO-A course rather than directly on the delivery of functional software.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a PSPO-A course aimed at enhancing skills in Agile and Scrum for product management. While it mentions Agile principles and their application in product management, it does not directly discuss working software or its characteristics, nor does it provide detailed insights into delivering functional software. The focus is more on personal development and course promotion rather than on the delivery of working software itself.",
+    "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1054,21 +1027,27 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T20:46:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of product management and Agile methodologies, which are relevant to product strategy, but the primary focus is on skills development and collaboration rather than a clear vision or roadmap.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course, which is centred around Agile methodologies rather than directly discussing product strategy. While it mentions product management and the importance of skills enhancement, it lacks a detailed exploration of strategic planning, market analysis, or customer-centric approaches that are essential to product strategy. The discussion is more about the course's benefits and Agile principles than about formulating a product vision or roadmap.",
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T20:46:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and their application in product management, which is a significant aspect of software development, but the primary focus is on product management rather than software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course aimed at product management, with a strong emphasis on Agile methodologies and Scrum principles. While it does mention Agile and Scrum, which are relevant to software development, the overall focus is more on product management rather than software engineering practices. The discussion lacks depth in software development techniques and methodologies, making it a secondary mention rather than a primary focus.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1115,15 +1094,6 @@
     "reasoning": "Content primarily focuses on product management and Agile principles without a clear emphasis on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T20:46:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product management and Agile practices from a product owner's perspective, rather than the role of software developers.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T20:46:37",
@@ -1135,39 +1105,36 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T20:46:38",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and collaboration, which are relevant to BetaCodex, but the primary focus is on product management and Scrum rather than the core tenets of BetaCodex.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management, discussing Agile methodologies and Scrum practices. While it touches on themes of collaboration and innovation, it does not explicitly mention BetaCodex principles or decentralised organisational design. The discussion lacks depth regarding the core tenets of BetaCodex, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T20:46:40",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of a PSPO-A course for product management and Agile practices, without any focus on installation or configuration processes.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T20:46:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of a product owner and the importance of Agile in product management, but it also touches on broader product management themes, making it a secondary theme.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T20:46:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the benefits of a specific course related to product management rather than discussing industry news or reviews.",
-    "level": "Ignored"
+    "final_score": 68.0,
+    "reasoning": "The content explicitly mentions Product Owners and discusses how the PSPO-A course can enhance their skills in Agile product management. While it aligns with the core themes of the Product Owner role, such as understanding Agile principles and improving collaboration, it lacks in-depth exploration of specific responsibilities and practices unique to the Product Owner. The focus is more on the course benefits rather than detailed discussions on the Product Owner's role in Agile and Scrum.",
+    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1189,10 +1156,10 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T20:46:48",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile product management and Scrum roles, which are not central to Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -1207,21 +1174,27 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T20:46:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile product management and collaboration, which are relevant to Agile leadership, but the primary focus is on the PSPO-A course and product management rather than leadership roles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for Product Managers and Product Owners, discussing Agile methodologies in the context of product management. While it mentions Agile principles and the importance of collaboration, it lacks a direct focus on leadership roles or practices within Agile contexts. The discussion is more about technical skills and course benefits rather than the leadership aspects of Agile, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T20:46:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses collaboration and effectiveness in Agile product management, which relates to team dynamics and motivation, but it primarily focuses on individual roles and skills rather than team motivation as a central theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product managers and owners, with only brief mentions of collaboration and Agile principles. While it touches on themes relevant to team dynamics, such as collaboration and Agile methodologies, it lacks a deep exploration of team motivation strategies or practices. The discussion is more about individual skill enhancement rather than fostering team engagement or dynamics.",
+    "level": "Ignored"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1234,47 +1207,47 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T20:46:57",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile product management and skills development for product managers, without a clear focus on validating product ideas through user engagement.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T20:46:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:08:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product management and Agile practices without a clear emphasis on throughput measurement or optimisation.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies, with no direct mention or analysis of throughput as a delivery metric. While it discusses enhancing skills and efficiency, it does not provide any specific insights or data related to throughput, nor does it engage with the key topics outlined for the category. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:46:59",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of a Product Owner and touches on Agile principles, making Scrum a major but secondary theme.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T20:47:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the role of product management in delivering effective products, which aligns with value delivery, but it is primarily focused on the benefits of a specific course rather than a comprehensive discussion on value delivery strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the PSPO-A course, which focuses on Agile methodologies relevant to product management. While it mentions the importance of Agile principles and enhancing skills for Product Managers and Owners, it lacks a direct focus on value delivery strategies or methodologies. The discussion is more about the course's benefits rather than specific practices that enhance customer satisfaction or business agility.",
     "level": "Tertiary"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T20:47:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:08:19",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and Agile methodologies, with no focus on system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course related to Agile and Scrum methodologies for product management. There are no direct mentions of system configuration, and the discussion does not align with the core themes of system setup, integration, or maintenance. The content lacks depth in any relevant topics related to system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,46 +1261,40 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T20:47:05",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of product management and collaboration, which are relevant to product discovery, but the primary focus is on Agile practices and skills development rather than directly on identifying customer needs or defining product features.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T20:47:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile and product management, with a focus on skills relevant to a Product Owner, but does not primarily address Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course aimed at enhancing Agile skills for Product Managers and Product Owners. While it touches on aspects of product management, it does not explicitly discuss methodologies for product discovery, user research, or defining product features. The mention of Agile principles is relevant but does not align closely with the core themes of understanding customer needs or validating product ideas, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T20:47:07",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile principles and the importance of collaboration and responsiveness to change, which are relevant to organisational change, but the primary focus is on product management and the PSPO-A course.",
     "level": "Tertiary"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T20:47:11",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of a PSPO-A course for product management, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T20:47:13",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 50,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile principles in the context of product management, highlighting the importance of collaboration and responsiveness to change, which aligns with Agile Strategy themes. However, it primarily focuses on the PSPO-A course rather than a broader strategic discussion.",
     "level": "Tertiary"
   },
@@ -1351,10 +1318,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T20:47:17",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 50,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
+    "final_score": 50.0,
     "reasoning": "The content discusses Agile principles in the context of product management and responsiveness to change, making it a major but secondary theme.",
     "level": "Tertiary"
   },
@@ -1374,6 +1341,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile product management and Scrum roles, without a clear focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:54:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and product management, with no focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:54:40",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses product management and Agile practices without any mention of AI or its integration within these methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 67.0,
+    "reasoning": "The content mentions the role of a Product Owner, which is a key role in Scrum, and discusses Agile principles such as collaboration and responding to change. However, it lacks detailed discussion on specific Scrum events or artifacts, which limits its depth. Overall, while it aligns with Scrum concepts, it does not provide a comprehensive exploration of the framework.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies, with no direct mention or discussion of the Shift-Left Strategy. While it touches on Agile principles, it does not address integrating testing, security, or compliance earlier in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a PSPO-A course aimed at enhancing skills in Agile and Scrum, which are related to Continuous Improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or detailed strategies for fostering a culture of experimentation and learning. The focus is more on personal development and course promotion rather than on the broader themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course for product managers and owners, discussing the benefits of Agile methodologies. However, it lacks a direct discussion on Common Goals as defined in the category. While it touches on collaboration and Agile principles, it does not delve into the alignment of strategy with execution or the significance of shared objectives within teams, which are core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the PSPO-A course, which is aimed at enhancing skills in Agile and Scrum, aligning with the concept of competence. It mentions the importance of mastering Agile methodologies and improving skills for Product Managers and Owners, which directly relates to continuous learning and skill development. However, while it touches on these themes, the depth of discussion is more promotional than analytical, limiting its overall alignment with the core principles of competence.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:18:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course related to Agile and Scrum methodologies, which are not directly aligned with the One Engineering System framework. While there are mentions of collaboration and efficiency, these concepts are discussed in the context of Agile practices rather than the integration and standardisation of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies, with no explicit discussion of Agentic Agility or its principles. While it touches on themes of collaboration and responding to changes, it lacks depth in exploring intentional shaping of outcomes or the distinction between human and AI capabilities in agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:07:37",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the PSPO-A course, which is directly related to Agile methodologies in product management. It explicitly mentions the importance of Agile principles and their application in product management, aligning well with the core themes of product development. The depth of discussion is moderate, providing insights into how the course can enhance skills for Product Managers and Owners, but it lacks extensive detail on iterative processes or customer feedback integration, which are crucial for a higher confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:07:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course for product management and Scrum, with no direct mention of Open Space Agile principles or practices. While it discusses Agile methodologies, it does not align with the core themes of Open Space Agile, such as collective participation, psychological safety, or co-creation. The depth of discussion is limited to the benefits of the course, lacking any exploration of Open Space Agile concepts.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:07:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course, which is centred around Scrum and Agile methodologies. While it mentions Agile principles, it does not engage with the core themes of Agnostic Agile, such as ethical, context-driven agility or the importance of adapting methods based on specific project needs. The discussion lacks depth regarding the principles of Agnostic Agile and does not provide comparisons with other frameworks or case studies. Overall, the content is more promotional than analytical, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:07:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course, which is centred around Agile and Scrum principles for product management. While it mentions enhancing skills and collaboration, it does not delve into the complexities of scaling Agile practices or frameworks, nor does it address cross-team collaboration or alignment with business goals, which are key aspects of the Scaling category. The discussion remains superficial and does not provide substantial insights into scaling methodologies or challenges.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:07:49",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course related to Agile and Scrum methodologies, with no direct mention or discussion of Cell Structure Design or its principles. While it touches on themes of collaboration and responsiveness, these are not aligned with the core concepts of decentralised organisational structures or the Beta Codex. The depth of discussion is also limited to the benefits of the course rather than exploring any relevant organisational design models.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:07:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course for product management and Agile methodologies, with no direct mention of Liberating Structures or their principles. While it touches on collaboration and Agile dynamics, it does not delve into specific techniques or the philosophy behind Liberating Structures, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:07:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course for product managers and product owners, discussing Agile methodologies and skills enhancement. While it touches on themes of efficiency and collaboration, it does not explicitly address Time to Market or provide metrics, strategies, or case studies related to the speed of delivering value to customers. Therefore, the confidence score reflects a very low alignment with the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:07:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting a PSPO-A course for product management and Agile methodologies. While it mentions concepts relevant to product management, it does not explicitly discuss the principles of treating an organisation as a product or the strategies for integrating customer feedback into organisational design. The alignment with the core themes of CaaP is minimal, and the depth of discussion does not provide substantial insights into the category. Overall, the content is more about individual skill enhancement rather than organisational strategy.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:08:01",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the PSPO-A course related to Agile and Scrum methodologies, with no direct mention of GitHub or its functionalities. While it discusses Agile principles, it does not align with GitHub's core themes or provide any depth regarding GitHub services or tools. Therefore, the confidence score is very low.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:08:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course for product managers and owners, discussing the benefits of Agile methodologies and skills enhancement. It does not explicitly mention Unrealised Value or its indicators, nor does it explore potential improvements or innovation opportunities within an organisation. The discussion is centred around personal development rather than organisational value capture, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:08:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course for product managers and owners, discussing the benefits of Agile methodologies. However, it does not explicitly mention Current Value or its metrics, nor does it provide insights into customer satisfaction, revenue impact, or performance feedback. The discussion lacks depth regarding the practical application of Current Value in decision-making or prioritisation, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:08:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course and its benefits for product managers and product owners, with a strong emphasis on Agile methodologies. However, it does not critically examine Hybrid Agile or discuss its challenges, implications, or the integration of traditional and agile practices. The mention of Agile principles is superficial and lacks the depth required for a meaningful discussion on Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:08:13",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on promoting the PSPO-A course, which is specifically aimed at Product Owners and Product Managers within the Agile framework. While it mentions Agile methodologies and their application in product management, it lacks a broader discussion on core project management principles, methodologies, or lifecycle phases. The depth of discussion is limited to the benefits of the course rather than a comprehensive exploration of project management as a whole, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 43.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 43.0,
+    "reasoning": "The content discusses the PSPO-A course, emphasizing the incorporation of Agile principles in product management. While it mentions principles and how they apply to product managers and owners, the primary focus is on promoting the course rather than deeply engaging with the principles themselves. There is some discussion of Agile methodologies, but much of the content is about the benefits of the course rather than a significant exploration of the specific actionable principles themselves. Therefore, while it relates somewhat to the category, it does not fully meet the criteria for a strong alignment.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses the PSPO-A course, which is related to Agile methodologies but does not explicitly mention or focus on specific tools. While it indicates an association with improving Agile practices in product management, it lacks concrete discussions on tools that facilitate these practices, thus falling short of the category's requirements for emphasis on tools.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses on the benefits of the PSPO-A course, primarily catering to skills and career enhancement in product management. While it touches on Agile principles, it does not delve into the underlying values that guide those principles or explicitly mention or discuss the concept of values in decision-making or collaboration. The emphasis is more on practical advantages rather than deep-seated beliefs or ethical foundations.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses primarily on promoting the PSPO-A course and how it can enhance skills within Agile and Scrum frameworks. It briefly mentions Agile principles but does not delve into the philosophical foundations or the 'why' behind these methodologies. It centers on the 'how' and practical applications which are excluded from the category of Philosophy.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the PSPO-A course, which pertains to Agile methodologies and their application in product management. There are direct mentions of Agile principles, but the focus is more on promoting the course rather than a thorough exploration of the underlying principles and methodologies associated with these disciplines. While it touches on the importance of Agile and Scrum in professional contexts, it lacks depth in discussing the systemic maturation of these disciplines as the main focus is on the benefits of taking the course rather than a structured examination of discipline as defined in the criteria.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily promotes the PSPO-A course and highlights the benefits of Agile methodologies for product managers and product owners, but it does not directly discuss specific artifacts related to Agile, Scrum, or Lean. It mentions Agile principles in a general sense but lacks any reference to artifacts like Product Backlogs or Sprint Backlogs, making its connection to the category very weak.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on promoting a PSPO-A course aimed at enhancing skills in Agile product management. It does not discuss observability or related themes such as metrics, logs, or system monitoring. The connection to observability is absent, and the content does not provide any detail on how observability impacts product management or Agile practices.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily promotes a PSPO-A course and discusses its benefits for product managers and product owners, focusing on gaining knowledge of Agile principles. However, it lacks a direct discussion on specific actionable techniques or practices that align with the 'Practice' category. While Agile methodologies are mentioned, the content remains superficial on how these methodologies can be effectively applied in practice, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions Agile methodologies and principles, indicating some relevance to structured approaches within product management. However, it focuses more on the promotional aspects of the PSPO-A course and its benefits rather than providing detailed discussions on specific methods or procedures pertinent to Agile or Scrum. There are no explicit structured steps or methods outlined, which lowers the confidence score significantly.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content discusses the PSPO-A course and its benefits for product managers and product owners but does not explicitly mention or focus on conceptual models or frameworks. While it relates to Agile principles, it does not engage with the themes of decision-making, systems thinking, or specific models that would fit the 'Model' category. Overall, it lacks direct discussions, conceptual alignment, and depth regarding frameworks or models.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:25",
+    "ai_confidence": 33.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 33.0,
+    "reasoning": "The content discusses a specific course related to Agile methodologies and Scrum, which aligns in part with the category 'Framework.' However, it primarily focuses on the benefits of the PSPO-A course for individual career development rather than a deeper exploration of framework structures or detailed implementations. While it mentions Agile principles and Scrum briefly, it lacks a robust discussion on how frameworks can be adapted or applied in various contexts, thus limiting its depth. The overall emphasis is more on personal growth than the framework discussions called for in the category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content promotes the PSPO-A course, which focuses on Agile principles; however, it falls short of discussing specific actionable guiding rules or doctrines that align closely with the concept of tenets. While the Agile principles are mentioned, there is minimal exploration into how these principles translate into concrete practices. The emphasis remains on the value of the course rather than on specific tenets applicable in an organizational context.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 3,
+    "ai_alignment": 100.0,
+    "ai_depth": 100.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions Agile methodologies and insights into product management, which align with the concept of enhancing capability but primarily focuses on promoting a course. It lacks a thorough discussion on enduring capabilities and does not delve into integration within organizational culture or the ongoing development of competencies. The focus remains on roles (Product Managers and Product Owners) and learning rather than organizational capabilities themselves.",
     "level": "Ignored"
   }
 }

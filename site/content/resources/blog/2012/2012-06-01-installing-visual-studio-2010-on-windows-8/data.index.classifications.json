@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T20:29:26",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no relevant connection to Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2010 on Windows 8, which involves practical techniques and tooling related to software development environments. However, it primarily focuses on personal experiences and opinions rather than a structured exploration of methodologies or frameworks.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,66 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T20:29:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T20:29:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no significant focus on code quality, complexity, or related best practices.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T20:29:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the technical process of installing Visual Studio 2010 on Windows 8, with no significant discussion on discovery, learning, or innovation methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T20:29:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no mention of AI, automation, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct mention of Evidence-Based Management principles or metrics. It lacks any discussion on data-informed decision-making, current value, or empirical decision-making, which are core themes of the category. The content is more technical and practical in nature, making it irrelevant to the topic of Evidence-Based Management.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T20:29:36",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T20:29:38",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 82.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation process of Visual Studio 2010 on Windows 8, including details about setting up a virtual machine and considerations for installation, which aligns well with the category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T20:29:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 on Windows 8, providing a detailed narrative of the steps taken and considerations made during the installation. It discusses the use of virtual machines, the benefits of clean installations, and the performance of the software on the new operating system. The content aligns well with the key topics of the category, particularly in terms of installation procedures and configuration insights. However, while it provides a good level of detail, it lacks a structured step-by-step guide, which slightly reduces the depth of discussion.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -100,29 +61,23 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-15T20:29:42",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, focusing on technical aspects without addressing the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T20:29:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, focusing on technical aspects rather than organisational resilience or change management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T20:29:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no clear focus on DevOps principles, practices, or tools.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions using a VM, which could relate to automation and efficiency, it lacks depth and direct alignment with the core themes of DevOps. The discussion is more about personal setup preferences rather than collaborative practices or continuous value delivery.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T20:29:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no reference to events, presentations, or discussions related to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T20:29:51",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T20:29:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of installing Visual Studio 2010 on Windows 8, with no significant focus on human behaviour or team dynamics.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T20:29:56",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -235,19 +172,19 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T20:30:03",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, which does not align with the core principles of product delivery.",
     "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-15T20:30:04",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
@@ -259,15 +196,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:09:06",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2010, which is a software product relevant to development practices, but the primary focus is on the installation process rather than a review or analysis of the product itself.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -298,29 +226,32 @@
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-15T20:30:15",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, focusing on technical details and personal experiences rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T20:30:16",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no focus on the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T20:30:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct mentions or discussions related to the Agile Product Operating Model. While there are references to software development practices, they do not align with the core themes of APOM, such as product management principles or agile methodologies. The depth of discussion is also minimal, as it does not explore any relevant concepts or frameworks associated with APOM.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T20:30:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the installation process of Visual Studio 2010 on Windows 8, lacking discussions on industry news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T20:30:22",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no clear focus on the application lifecycle stages, governance, or management practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T20:30:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the installation of Visual Studio 2010 on Windows 8 and does not mention Scrum principles, roles, events, or any related topics.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,38 +283,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, which is unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the installation of Visual Studio 2010 on Windows 8, touching upon technical aspects related to software environment setup and VM usage, which aligns with technical practices. However, it lacks a deeper exploration of software craftsmanship principles or methodologies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the practical aspects of installing Visual Studio 2010 on Windows 8, which is more of a procedural guide than a discussion on technical mastery. While it touches on some relevant topics like the use of VMs and the importance of clean installations, it lacks a deeper exploration of software craftsmanship principles, best practices, or methodologies that contribute to high-quality software development. The discussion is more about personal experience and setup rather than a comprehensive analysis of technical excellence.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the installation process of Visual Studio 2010 on Windows 8 and does not discuss methodologies or practices related to identifying customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on installing Visual Studio 2010 on Windows 8 and managing virtual machines, which is unrelated to Continuous Delivery principles and practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct discussion of Continuous Delivery principles, practices, or benefits. While it mentions using Visual Studio in a VM, it does not explore automation, incremental improvements, or any of the key topics related to Continuous Delivery. The content lacks depth and relevance to the category, making it a very low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +334,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation process of Visual Studio 2010 on Windows 8 and does not mention Lead Time or its relevant concepts.",
     "level": "Ignored"
   },
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily about installing Visual Studio 2010 on Windows 8 and does not discuss the Definition of Ready or related topics.",
     "level": "Ignored"
   },
@@ -451,10 +370,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on installing Visual Studio 2010 on Windows 8 and does not discuss Product Backlog topics relevant to Agile or Scrum frameworks.",
     "level": "Ignored"
   },
@@ -496,10 +415,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses installing Visual Studio 2010 on Windows 8, with no relevant themes or discussions related to Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
@@ -523,10 +442,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on installing software (Visual Studio 2010) on a specific operating system (Windows 8) and does not discuss product validation methodologies or user engagement related to product ideas.",
     "level": "Ignored"
   },
@@ -559,10 +478,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical aspects of installing software and does not discuss team dynamics or Agile principles.",
     "level": "Ignored"
   },
@@ -586,28 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the installation of Visual Studio 2010 on Windows 8, which is directly related to software development tools and practices. While there is a personal context, the main focus revolves around the software development environment setup.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the installation of Visual Studio 2010 on Windows 8, which is a specific software development tool. While it touches on aspects of software development, such as the use of VMs and the context of working with Team Foundation Server, the focus is more on the installation process rather than broader software development methodologies or practices. Therefore, it aligns with the category but lacks depth in discussing software development principles.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on installing Visual Studio 2010 on Windows 8 and discusses virtualization and software installation processes, with no mention of Agile project management principles or practices.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about installing Visual Studio 2010 on Windows 8 and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +614,6 @@
     "reasoning": "Content focuses on technical implementation and installation of Visual Studio 2010 on Windows 8, with no discussion about customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about installing software and virtual machines, with no relevant discussion on Scaling Scrum or its principles.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T21:31:33",
@@ -726,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical installation processes of software and virtualization without reference to psychological safety or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the installation of Visual Studio 2010 on Windows 8 and related software management without any reference to scaling agility or agile frameworks.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +697,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily about installing and configuring Visual Studio 2010 on Windows 8, with no clear discussion on innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the installation of Visual Studio 2010 on Windows 8 and does not relate to Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of installing Visual Studio 2010 and does not address scaling Agile practices or related frameworks.",
+    "reasoning": "The content is primarily about installing and configuring Visual Studio 2010 on Windows 8, with no clear discussion on innovation capabilities or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,12 +742,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content primarily focuses on installing Visual Studio 2010 on Windows 8, which is related to software functionality and setup, but does not deeply engage with the broader topics of software delivery or customer feedback.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the installation of Visual Studio 2010 on Windows 8, which is more focused on technical setup rather than the delivery of functional software that meets user needs. While it touches on aspects of software functionality and user experience, it lacks a comprehensive discussion on working software principles, Agile methodologies, or customer feedback integration.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -964,19 +844,19 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses installing Visual Studio 2010 on Windows 8 and does not address any responsibilities, skills, or practices related to the Product Owner role in Agile or Scrum.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and use of Visual Studio 2010 on Windows 8, which does not relate to the measurement or implications of Cycle Time.",
     "level": "Ignored"
   },
@@ -1009,10 +889,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is focused on installing Visual Studio 2010 on Windows 8, discussing technical aspects and personal setup preferences, with no relevant emphasis on team collaboration or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1034,7 +914,7 @@
     "reasoning": "Content primarily discusses the installation and use of Visual Studio 2010 on Windows 8, which does not relate to strategic digital transformation or the integration of modern digital technologies for business enhancement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T21:31:33",
     "ai_confidence": 0,
@@ -1043,30 +923,24 @@
     "reasoning": "The content discusses the installation of Visual Studio 2010 on Windows 8 and does not mention MVP, product development, or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio on Windows 8, with no focus on AI or its integration into Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the installation and configuration of Visual Studio 2010 on Windows 8, outlining the processes involved in setting up a virtual machine and optimizing the environment for performance. It covers best practices for installation and mentions the challenges and considerations involved in system configuration.",
+    "reasoning": "The content primarily focuses on the installation and configuration of Visual Studio 2010 on Windows 8, which aligns well with the category of System Configuration. It discusses the use of virtual machines (VMs) for software installation, the importance of clean installs, and the performance considerations of running software in a VM environment. However, while it touches on relevant topics such as installation best practices and system optimisation, the depth of technical detail regarding configuration management and troubleshooting is somewhat limited. Overall, the content is relevant but lacks comprehensive coverage of all key aspects of system configuration.",
     "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses installing Visual Studio on Windows 8, focusing on technical setup rather than product strategy.",
     "level": "Ignored"
   },
@@ -1090,29 +964,35 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical installation procedures for software rather than discussing cross-functional teams or their role in Agile methodologies.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily focused on installing Visual Studio 2010 on Windows 8 and does not discuss test first development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any relevant detail or alignment with the core themes of Test First Development, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 85,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 50,
-    "final_score": 82.0,
-    "reasoning": "The content primarily discusses the installation and usage of Visual Studio 2010 specifically on the Windows 8 operating system, addressing installation procedures and performance while using Windows. It is central to the topic of managing and utilizing the Windows environment.",
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on the Windows 8 operating system, which is a direct mention of the Windows environment. It discusses the use of Hyper-V, the performance of VMs on Windows 8, and the author's experiences with installing and running software on this OS. The depth of discussion is significant, as it covers installation procedures, performance considerations, and user experiences, all of which align closely with the key topics outlined for the Windows category. Overall, the content is highly relevant and detailed regarding Windows, justifying a high confidence score.",
     "level": "Primary"
   },
   "Deployment Strategies": {
@@ -1135,19 +1015,19 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical installation details of Visual Studio 2010 on Windows 8, with no discussions on team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused solely on installing software and technical setup, with no relevance to remote working or Agile practices.",
     "level": "Ignored"
   },
@@ -1162,11 +1042,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses installing Visual Studio 2010 on Windows 8 and mentions potential concerns regarding compatibility and performance, which are relevant to troubleshooting, but it is primarily focused on the installation process rather than the identification and resolution of specific technical issues.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the installation of Visual Studio 2010 on Windows 8, which includes some elements of troubleshooting, such as the author's experience with potential issues and the need for clean installations. However, it primarily focuses on the installation process rather than diagnosing or resolving specific technical problems. The discussion lacks depth in troubleshooting methodologies and does not provide systematic problem-solving strategies, which are key aspects of the category.",
     "level": "Tertiary"
   },
   "Experimentation": {
@@ -1180,11 +1063,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses software installation and technical details unrelated to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on the installation of Visual Studio 2010 on Windows 8, with no mention of Scrum, Scrum Masters, or related agile practices. It does not discuss any responsibilities, skills, or impacts of a Scrum Master, nor does it touch on team dynamics or stakeholder engagement. Therefore, it does not align with the category at all.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1084,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on installing software rather than discussing team collaboration and working agreements.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses installing Visual Studio 2010 on Windows 8, which is relevant to software developers, but it primarily focuses on the installation process rather than on Agile or DevOps methodologies.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1252,10 +1129,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical installation of Visual Studio 2010 on Windows 8, with no relevant discussion on product management principles or strategies.",
     "level": "Ignored"
   },
@@ -1306,10 +1183,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T21:31:33",
+    "calculated_at": "2025-04-10T15:55:37",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8 and does not relate to Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1329,15 +1206,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of installing Visual Studio 2010 on Windows 8 and does not relate to accountability or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T21:31:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on installing Visual Studio 2010 on Windows 8, with no mention of Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1360,11 +1228,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:52:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical aspects of installing Visual Studio 2010 on Windows 8, with no significant discussion on collaboration, decision-making, or value delivery. While it briefly mentions using Visual Studio in a team context, it lacks depth and does not align with the core themes of social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to installing Visual Studio 2010 on Windows 8, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:25:02",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no clear focus on Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:25:04",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation of Visual Studio 2010 on Windows 8, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on installing Visual Studio 2010 on Windows 8 and does not mention Scrum principles, roles, events, or any related topics. There is a very brief mention of Team Foundation Server (TFS), which is related to software development but does not align with Scrum discussions. Overall, the content lacks any substantial connection to the Scrum framework or its practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the installation of Visual Studio 2010 on Windows 8, with no direct mention or discussion of the Shift-Left Strategy. While there are references to using Visual Studio in a development context, the content does not address integrating testing, security, or compliance earlier in the software development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the installation process of Visual Studio 2010 on Windows 8, with no explicit discussion of Continuous Improvement principles. While there are mentions of optimising the development environment and efficiency, these are not framed within the context of Continuous Improvement methodologies or practices. The content lacks depth in discussing any strategies, empirical evidence, or cultural aspects related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2010 on Windows 8, with no explicit discussion of Common Goals, Agile, or DevOps principles. While there are mentions of team environments and software compatibility, these do not connect to the foundational principles of aligning strategy with execution or shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2010 on Windows 8, with minimal reference to competence in terms of skill development or professional growth. While it touches on the use of VMs and the efficiency of installations, it lacks a direct discussion on continuous learning, quality outcomes, or fostering a culture of competence, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:37",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the technical process of installing Visual Studio 2010 on Windows 8, with no explicit discussion of Agentic Agility or its principles. While there are mentions of personal preferences and experiences related to software installation, these do not align with the core themes of intentionality, adaptability, or the interplay between human and AI capabilities. The content lacks depth in discussing any aspect of Agentic Agility, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

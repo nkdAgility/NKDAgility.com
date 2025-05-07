@@ -2,29 +2,33 @@
 title: 'Navigating Team Conflict: From Healthy Disagreement to Agile Harmony'
 description: Discover how to identify and de-escalate team conflict in Agile. Learn strategies to transform disagreements into opportunities for collaboration and innovation.
 date: 2023-11-07T11:30:07Z
+weight: 610
 ResourceId: GGtb7Yg8gHY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GGtb7Yg8gHY
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-war
+slug: navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
 layout: video
 aliases:
-- /resources/videos/GGtb7Yg8gHY
-- /resources/videos/7-signs-of-the-agile-apocalypse-war
-- /resources/7-signs-of-the-agile-apocalypse-war
 - /resources/GGtb7Yg8gHY
-aliasesFor404:
+- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
+- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
+- /resources/videos/7-signs-of-the-agile-apocalypse-war
+aliasesArchive:
+- /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
 - /resources/videos/7-signs-of-the-agile-apocalypse-war
 - /resources/7-signs-of-the-agile-apocalypse-war
+- navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: true
 tags:
 - Team Performance
-- People and Process
-- Agile Project Management
+- Scrum Team
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,9 +36,8 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
-- Leadership
+- Product Development
+- Technical Leadership
 
 ---
 In my journey through the world of Agile, I've often encountered various signs that indicate a team is veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 
@@ -50,7 +53,7 @@ When disagreements escalate, it can lead to a toxic environment. Here’s how I 
 - **Conflict**: At this stage, the disagreement becomes personal, and team dynamics begin to suffer.
 - **War**: This is the worst-case scenario, where the conflict escalates to a point of no return—think of it as a Crusade or World War among team members.
 
-As a Scrum Master, it’s my responsibility to recognise when we’re approaching that dangerous territory of "war." If I see the team gearing up for battle, it’s time to step in and de-escalate the situation.
+As a [Scrum]({{< ref "/categories/scrum" >}}) Master, it’s my responsibility to recognise when we’re approaching that dangerous territory of "war." If I see the team gearing up for battle, it’s time to step in and de-escalate the situation.
 
 ### Strategies for De-escalation
 
@@ -58,7 +61,7 @@ Here are some strategies I've found effective in diffusing conflict before it sp
 
 - **Encourage Open Communication**: Create a safe space for team members to express their thoughts without fear of judgement. This can help prevent misunderstandings from escalating.
 - **Focus on the Issue, Not the Person**: Remind the team that the goal is to solve a problem, not to win an argument. Keeping discussions objective can help maintain a collaborative spirit.
-- **Facilitate a Mediation Session**: Sometimes, a neutral party can help bridge the gap between conflicting viewpoints. As a Scrum Master, I often take on this role to guide the conversation back to constructive dialogue.
+- **Facilitate a Mediation Session**: Sometimes, a neutral party can help bridge the gap between conflicting viewpoints. As a [Scrum Master]({{< ref "/tags/scrum-master" >}}), I often take on this role to guide the conversation back to constructive dialogue.
 - **Revisit Team Norms**: Establishing clear team norms around conflict can help set expectations for how disagreements should be handled. This can include guidelines for respectful communication and conflict resolution.
 
 ### The Importance of Addressing Conflict

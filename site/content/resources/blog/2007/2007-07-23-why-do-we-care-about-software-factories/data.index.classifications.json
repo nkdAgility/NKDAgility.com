@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses software factories without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T21:32:27",
     "ai_confidence": 0,
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:32:29",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of software factories and their benefits, without focusing on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses software factories and references a specific post, lacking a direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:32:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses software factories without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:32:34",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses software factories and their accessibility, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:32:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of software factories without a focus on specific tools, methodologies, or practical applications related to Agile and DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:32:38",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software factories and their accessibility, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:32:42",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and does not address Evidence-Based Management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no direct mention of Evidence-Based Management principles or metrics. While it touches on enhancing understanding, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:32:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories without a clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:32:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific post about software factories without providing broader industry news, updates, or reviews relevant to Agile or DevOps.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no direct mention of the Agile Product Operating Model or its core principles. While there may be a tangential relationship to agile methodologies, the focus is not on product management or the specific themes outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses software factories without a clear connection to platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:32:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and does not focus on Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:32:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses software factories without any mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:32:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software factories and their accessibility, without a clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:32:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a blog post about software factories without reference to any events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:32:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software factories and does not address transparency or accountability.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:33:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories without a clear focus on DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses software factories, which are not directly related to the core principles of DevOps. While there is a mention of enhancing development practices, it lacks explicit references to DevOps concepts such as collaboration, automation, or shared accountability. The discussion does not delve into the cultural shifts or practices necessary for effective DevOps implementation, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of software factories without a clear focus on engineering practices or methodologies that enhance agility in software development.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:33:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software factories and their benefits without focusing on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:33:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software factories and their accessibility, without a clear focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:33:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a blog post about software factories without a focus on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T22:10:01",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on software factories and their accessibility rather than the measurement or enhancement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -422,15 +332,6 @@
     "reasoning": "Content discusses software factories and does not relate to portfolio management or the strategic alignment of projects.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of software factories and does not focus on Scrum practices or product development in a Scrum context.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-16T22:10:01",
@@ -451,19 +352,19 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-16T22:10:01",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about software factories and their benefits, rather than decision-making processes or evidence-based methodologies.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T22:10:01",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software factories and does not address Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T22:10:01",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software factories, which is unrelated to the Definition of Done in Agile and Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on software factories without discussing Agile scaling methodologies or frameworks.",
+    "reasoning": "Content primarily discusses software factories, which is unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,23 +467,17 @@
     "reasoning": "Content primarily discusses the concept of software factories and does not mention collaboration tools or their impact on Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of software factories without a clear connection to Agile or DevOps methodologies, and does not focus on the role of software developers.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the concept of software factories, which relates to software development practices, but it is more about raising awareness and accessibility rather than specific software engineering methodologies or techniques.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions software factories, which are relevant to software development practices, but lacks detailed discussion on methodologies or frameworks. The focus is more on the accessibility and understanding of the concept rather than on specific software development techniques or best practices.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +506,7 @@
     "reasoning": "Content is focused on software factories and does not discuss estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T22:10:01",
     "ai_confidence": 0,
@@ -694,11 +580,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and their benefits, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses software factories without any explicit mention of Continuous Delivery principles or practices. While it touches on enhancing development practices, it lacks a direct focus on the core themes of Continuous Delivery, such as automation, incremental improvements, or rapid feedback. The discussion is superficial and does not provide any depth related to Continuous Delivery, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +633,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss hypothesis formulation, experimentation, or data-driven decision-making; it focuses on software factories.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses software factories and does not mention AI or its integration with Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +808,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T22:10:01",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses software factories and the accessibility of their concepts, with no mention of Definition of Ready or related backlog criteria.",
     "level": "Ignored"
   },
@@ -971,15 +851,6 @@
     "reasoning": "Content focuses on software factories and does not discuss remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses software factories and does not relate to Kanban principles or scaling its practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T22:10:01",
@@ -987,15 +858,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses software factories without any mention of customer retention strategies or concepts.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and does not focus on Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1189,10 +1051,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T22:10:01",
+    "calculated_at": "2025-04-10T15:56:58",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the concept of software factories but does not focus on working software as defined by the category guidelines. It is more about the accessibility of software factories rather than the delivery of functional software.",
     "level": "Ignored"
   },
@@ -1268,15 +1130,6 @@
     "reasoning": "Content discusses software factories without any reference to asynchronous development, collaboration, or related principles.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and does not address Scaling Scrum principles or frameworks.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T22:10:01",
@@ -1313,22 +1166,16 @@
     "reasoning": "Content is primarily focused on software factories and does not discuss Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on software factories, which is not relevant to scaling agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses software factories and does not reference Scrum, Scrum Master roles, or related Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no direct mention of the Scrum Master role or related responsibilities. It lacks alignment with the core themes of the Scrum Master category, focusing instead on a different topic altogether. The depth of discussion is minimal and does not provide any relevant insights into Scrum or the role of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1198,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T22:10:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and does not reference Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no direct mention or alignment to Test First Development principles. It lacks any discussion on success criteria, testing practices, or the role of collaboration in software delivery.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:28:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software factories and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on software factories, which are technical practices rather than social technologies. While it briefly mentions enhancing development practices, it lacks explicit discussion on collaboration, decision-making, or value delivery within organisations. The content does not align with the core themes of social technologies, and the depth of discussion is minimal, primarily summarising a post without engaging with the underlying social frameworks.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1227,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses software factories and their benefits, with no clear focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:50:22",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses software factories without a clear focus on Internal Developer Platforms or their related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:50:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses software factories without any mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content does not mention Scrum or its principles, roles, events, or artifacts. It focuses on software factories, which is unrelated to Scrum. There is no alignment with the core themes of Scrum, and the discussion lacks depth regarding any Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses software factories without any explicit mention or discussion of the Shift-Left Strategy. It lacks alignment with the core themes of integrating testing, security, or compliance early in the development process, and does not provide any depth on the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, without explicitly addressing Common Goals or their significance in Agile and DevOps. There are no direct mentions of shared objectives, alignment, or frameworks like OKRs, which are central to the category. The discussion lacks depth and does not connect to the principles of Agile, Scrum, or DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses software factories and their role in enhancing development practices, but it does not explicitly mention competence or its importance in Agile, Scrum, or DevOps contexts. While there is a suggestion of improving understanding and accessibility, it lacks a direct focus on continuous learning, skill development, or the professional principles associated with competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content briefly mentions software factories and their importance in enhancing development practices, but it does not explicitly discuss Continuous Improvement principles or provide any depth on the topic. The focus is more on accessibility and understanding rather than on empirical evidence, experimentation, or measurable advancements, which are core to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses software factories and their importance in development practices, with no explicit mention of Agentic Agility or its core themes. It lacks depth and does not address the intentional shaping of outcomes, making it largely irrelevant to the category.",
     "level": "Ignored"
   }
 }

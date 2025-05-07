@@ -2,8 +2,10 @@
 title: 'Before You Call Yourself an Agile Coach: The Importance of Real Experience'
 description: 'Discover the first of 5 essential achievements to become an #AgileCoach with Martin Hinshelwood. Elevate your coaching journey today! #shorts #agile'
 date: 2023-11-13T11:00:29Z
+weight: 790
 ResourceId: Po58JnxjX7M
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Po58JnxjX7M
@@ -15,34 +17,36 @@ preview: https://i.ytimg.com/vi/Po58JnxjX7M/maxresdefault.jpg
 duration: 62
 isShort: false
 aliases:
-- /resources/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
-- /resources/videos/Po58JnxjX7M
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
 - /resources/Po58JnxjX7M
-aliasesFor404:
+- /resources/videos/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+aliasesArchive:
+- /resources/videos/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 - /resources/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+- before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Pragmatic Thinking
+- Software Development
+- Coaching
+- Competence
+- Personal
+- Agile Transformation
+- Mentoring
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
-- Leadership
+- Product Development
 
 ---
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.
 
-## **Why Practical Experience Matters in Agile Coaching**
+## **Why Practical Experience Matters in Agile [Coaching]({{< ref "/tags/coaching" >}})**
 
-Before you can call yourself an Agile coach, it’s crucial to **understand the intricacies of working on a real team**. Why? Because Agile is all about collaboration, adaptation, and continuous improvement. You can’t effectively coach a team if you haven’t experienced the challenges, pressures, and victories they face daily.
+Before you can call yourself an Agile coach, it’s crucial to **understand the intricacies of working on a real team**. Why? Because Agile is all about collaboration, adaptation, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). You can’t effectively coach a team if you haven’t experienced the challenges, pressures, and victories they face daily.
 
 ### **What Sets Apart a True Agile Coach?**
 
@@ -58,7 +62,7 @@ To be an effective Agile coach, you need to:
 
 ## **My Journey to Becoming an Agile Coach**
 
-When I first entered the world of Agile, I had all the theory down. I knew about Scrum, Kanban, and DevOps, and I could explain all the frameworks and tools. But the real turning point in my career came when I worked directly with teams, rolling up my sleeves to help **build real products**.
+When I first entered the world of Agile, I had all the theory down. I knew about [Scrum]({{< ref "/categories/scrum" >}}), [Kanban]({{< ref "/categories/kanban" >}}), and [DevOps]({{< ref "/categories/devops" >}}), and I could explain all the frameworks and tools. But the real turning point in my career came when I worked directly with teams, rolling up my sleeves to help **build real products**.
 
 ### **Lessons Learned from the Frontlines**
 
@@ -76,7 +80,7 @@ If you’re aspiring to be an Agile coach but haven’t yet worked with a team, 
 
 ### **1\. Join a Team**
 
-Work alongside a team in **any capacity that allows you to observe and participate**. Whether you’re a Scrum Master, product owner, or even part of the development team, being immersed in the process will teach you how Agile works on the ground.
+Work alongside a team in **any capacity that allows you to observe and participate**. Whether you’re a [Scrum Master]({{< ref "/tags/scrum-master" >}}), [product owner]({{< ref "/tags/product-owner" >}}), or even part of the development team, being immersed in the process will teach you how Agile works on the ground.
 
 ### **2\. Contribute to Building a Product**
 
@@ -94,7 +98,7 @@ If I had to offer advice to anyone looking to become a successful Agile coach, I
 
 - **Observe and absorb**: Working with teams allows you to observe their struggles and successes, which will inform your coaching.
 
-- **Be patient and open to learning**: As with any new role, coaching requires continuous learning. Don’t assume that your book knowledge is enough—teams will test your understanding, and you’ll grow with every experience.
+- **Be patient and open to learning**: As with any new role, coaching requires [continuous learning]({{< ref "/tags/continuous-learning" >}}). Don’t assume that your book knowledge is enough—teams will test your understanding, and you’ll grow with every experience.
 
 ## **Why Experience Is Essential for Credibility**
 

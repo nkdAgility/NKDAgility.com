@@ -2,43 +2,44 @@
 title: What Does an Ineffective Scrum Master's Day Look Like?
 description: 'Discover the pitfalls of an ineffective scrum master in this insightful short video by Martin Hinshelwood. Learn what to avoid for agile success! #scrum #agile'
 date: 2023-06-20T12:00:28Z
+weight: 1000
 ResourceId: KjSRjkK6OL0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KjSRjkK6OL0
 source: internal
 url: /resources/videos/:slug
-slug: what-does-an-ineffective-scrum-master-s-day-look-like
+slug: what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
 layout: video
 preview: https://i.ytimg.com/vi/KjSRjkK6OL0/maxresdefault.jpg
 duration: 45
 isShort: true
 aliases:
-- /resources/what-does-an-ineffective-scrum-masters-day-look-like
-- /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
-- /resources/videos/KjSRjkK6OL0
-- /resources/what-does-an-ineffective-scrum-master's-day-look-like-
 - /resources/KjSRjkK6OL0
-aliasesFor404:
+- /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
+- /resources/videos/what-does-an-ineffective-scrum-master-s-day-look-like
+aliasesArchive:
+- /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
 - /resources/what-does-an-ineffective-scrum-master's-day-look-like-
+- what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
+- /resources/videos/what-does-an-ineffective-scrum-master-s-day-look-like
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
+tags: []
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Uncategorized
 
 ---
-## Spotting an Ineffective Scrum Master's Day
+## Spotting an Ineffective [Scrum]({{< ref "/categories/scrum" >}}) Master's Day
 
-Have you ever stopped to ponder over the happenings in an ineffective Scrum Master's daily routine?
+Have you ever stopped to ponder over the happenings in an ineffective [Scrum Master]({{< ref "/tags/scrum-master" >}})'s daily routine?
 
 Let me share some insights and observations from the world of Agile.
 
@@ -50,7 +51,7 @@ Which means they're drowning in paperwork and not in progress.
 
 Instead of actively engaging with their teams, they're probably hunkered down, crafting graphs and disseminating them without much context.
 
-## Misdirected Daily Scrum
+## Misdirected [Daily Scrum]({{< ref "/tags/daily-scrum" >}})
 
 Their day might include popping into the daily Scrum, but not for the right reasons.  Instead of fostering an environment of collaboration, they might treat the Daily Scrum as a mere checkpoint.
 

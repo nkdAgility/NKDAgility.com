@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:49:49",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the implementation of the Unity Application Block in a practical coding scenario, demonstrating specific techniques and tooling related to dependency injection and application structure.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-16T02:49:51",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:49:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block in software development, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the implementation of a Unity Application Block and the creation of a custom object in Visual Studio, which relates to code quality and design practices. However, it primarily focuses on specific coding examples rather than a broader discussion on complexity theory or its impact on software development processes.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:49:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to the Unity Application Block and does not focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:49:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the integration of the Unity Application Block in software development, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details of the Unity Application Block in software development, with no direct mention or alignment to Evidence-Based Management principles. It lacks discussions on metrics, data-informed decision-making, or any empirical evidence related to management practices.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T02:49:59",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the implementation of a custom Unity container in VB.NET, focusing on code examples and usage rather than installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:50:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block and does not address transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,22 +65,16 @@
     "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:50:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation of Unity Application Block and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T02:50:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of the Unity Application Block in a software project, focusing on coding practices and implementation details, without addressing DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on integrating the Unity Application Block in WPF and ASP.NET, which is more aligned with software development practices rather than DevOps principles. There are no explicit discussions on collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content lacks depth in addressing any DevOps-related topics, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +95,6 @@
     "reasoning": "Content primarily discusses technical implementation of Unity Application Block in software development, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:50:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block and does not reference any events, presentations, or discussions related to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:50:12",
@@ -159,15 +102,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of the Unity Application Block in software development, focusing on code implementation rather than flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:50:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of Unity Application Block and code examples, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +124,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:50:17",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of the Unity Application Block in software development, focusing on code implementation rather than metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +142,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of the Unity Application Block and demonstrates coding practices, but it primarily focuses on a specific coding example rather than broader engineering practices or methodologies that enhance agility in software development.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the implementation of the Unity Application Block and demonstrates a practical example of dependency injection in VB.NET. While it touches on technical practices, such as creating a singleton instance and using the 'My' namespace, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The focus is more on a specific coding example rather than on overarching technical excellence concepts like TDD, CI/CD, or modular architecture.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -260,15 +197,6 @@
     "reasoning": "Content primarily discusses technical implementation of Unity Application Block in software development, with no relevance to Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:50:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block and does not focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T02:50:30",
@@ -305,22 +233,25 @@
     "reasoning": "Content primarily discusses the implementation of the Unity Application Block in software development, focusing on code examples and technical details, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:50:35",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the integration of the Unity Application Block in a software project, focusing on implementation details rather than the principles or practices of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:50:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block in software development, with no reference to Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to the Unity Application Block in WPF and ASP.NET, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any relevant themes or depth related to the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +263,13 @@
     "reasoning": "Content primarily discusses technical implementation details of the Unity Application Block and dependency injection in VB, with no focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:50:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details and personal experiences with the Unity Application Block, lacking industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T02:50:42",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the implementation of the Unity Application Block in a coding context, focusing on technical details and examples rather than the management of the application lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:50:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the integration of the Unity Application Block in software development, with no mention of Scrum principles, roles, events, or practices.",
+    "reasoning": "Content primarily discusses the implementation of the Unity Application Block in a coding context, focusing on technical details and examples rather than the management of the application lifecycle.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,20 +283,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T03:05:27",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical implementation of the Unity Application Block and coding practices, with no mention of the Definition of Done or Agile principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the integration and implementation of the Unity Application Block in software development, showcasing specific coding techniques and principles of software design related to dependency injection and application architecture.",
+    "reasoning": "The content primarily focuses on the implementation of the Unity Application Block in a software project, showcasing best practices in software design and architecture through the use of dependency injection. It discusses the creation of a singleton instance and the use of the 'My' namespace in VB, which aligns with principles of clean code and software craftsmanship. However, while it provides a good level of detail, it lacks a broader discussion on methodologies or principles that would enhance its alignment with the category of Technical Mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on integrating the Unity Application Block in software development, with no mention of Continuous Delivery principles, practices, or relevant methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on integrating the Unity Application Block in WPF and ASP.NET, discussing code examples and development techniques. It does not address Continuous Delivery principles, practices, or related topics, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T03:05:27",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses integrating Unity Application Block and does not mention or relate to Definition of Ready in agile practices.",
     "level": "Ignored"
   },
@@ -586,28 +505,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the implementation of the Unity Application Block within the context of software development, including design patterns and coding practices specifically in Visual Basic and .NET. It outlines the creation of a singleton instance and usage of dependency injection, which are relevant software development practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the implementation of the Unity Application Block in software development, without any focus on Agile Project Management principles, frameworks, or practices.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the integration of the Unity Application Block within a software project, showcasing coding practices and design patterns relevant to software development. It provides a detailed example of creating a singleton instance and using dependency injection, which aligns well with best practices in coding and software design. The depth of discussion is substantial, with code examples illustrating the implementation, but it lacks broader context on methodologies or frameworks, which slightly lowers the alignment score.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T03:05:27",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details regarding the Unity Application Block and VB programming, with no clear relevance to Agile values or principles.",
     "level": "Ignored"
   },
@@ -701,15 +614,6 @@
     "reasoning": "Content heavily discusses technical implementation details of the Unity Application Block and dependency injection without any reference to customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on integrating the Unity Application Block into software development, specifically in Visual Basic and .NET programming, without any discussion or relevance to Scrum principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T03:05:27",
@@ -728,23 +632,17 @@
     "reasoning": "Content heavily discusses software development, Unity application integration, and programming concepts, with no references to psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical implementation of Unity Application Block in .NET programming, without any discussion on scaling agility or related frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses software development practices, specifically the use of the Unity Application Block for dependency injection, which is relevant to coding standards and refactoring. However, the primary focus is on implementation rather than broader engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of the Unity Application Block and demonstrates coding practices, but it lacks a strong focus on broader engineering excellence principles such as quality assurance, coding standards, or continuous improvement. While it touches on refactoring and the use of design patterns, it does not delve deeply into best practices or metrics for assessing engineering performance.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -802,29 +700,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T03:05:27",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses implementation details of Unity Application Block and code samples, without a focus on innovation practices or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses integrating the Unity Application Block in software development, with no clear relation to Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical implementation details of dependency injection using the Unity Application Block and does not relate to scaled Agile methodologies, frameworks, or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,12 +745,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses implementation details of integrating a software framework (Unity Application Block) and exemplifies coding practices, which relates to working software, but the focus on practical application and outcomes is less pronounced.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on technical implementation details of integrating the Unity Application Block in a software project. While it discusses aspects of software development, it lacks a direct focus on the delivery of functional, high-quality software that meets customer needs. The discussion is more about coding practices and specific implementations rather than the broader principles of working software in Agile or Scrum contexts.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -892,10 +775,10 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-16T03:05:27",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on software development, specifically on integrating the Unity Application Block for code management and dependency injection, with no mention of market share or related strategies.",
     "level": "Ignored"
   },
@@ -1034,7 +917,7 @@
     "reasoning": "The content primarily focuses on technical implementation details of the Unity Application Block in .NET programming, without discussing digital transformation-related themes such as business agility, innovation, or operational efficiency.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T03:05:27",
     "ai_confidence": 0,
@@ -1043,23 +926,17 @@
     "reasoning": "Content primarily discusses the integration of the Unity Application Block in software development, focusing on technical implementation rather than Minimum Viable Product concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses technical aspects of implementing Unity Application Block in software development without any mention of AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 40,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content primarily discusses using the Unity Application Block and dependency injection in a programming context, which may include configuration aspects, but it is mostly focused on software development practices and examples rather than explicit system configuration. The topic does touch on configuration in terms of setting up the Unity container, but it does not delve deeper into system configuration methodologies or best practices.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of the Unity Application Block and the creation of a singleton instance of a UnityContainer, which relates to system configuration. However, the focus is primarily on coding practices and examples rather than on broader system configuration methodologies or best practices. While there are mentions of configuration (e.g., initialising from a config file), the depth of discussion on system configuration principles is limited, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,21 +976,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:32:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on integrating the Unity Application Block and details about creating a UnityContainer, but does not mention Test First Development principles, practices, or testing-related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on integrating the Unity Application Block in WPF and ASP.NET, discussing code examples and implementation details without any reference to Test First Development principles, success criteria, or testing practices. There is no mention of TDD, ATDD, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:23:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily discusses the use of the Unity Application Block and its implementation in VB for a WPF application, which involves Windows development. However, it does not primarily focus on the Windows operating system itself, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the integration of the Unity Application Block within a .NET context, specifically focusing on Visual Studio and VB.NET. While it mentions the 'My' namespace, which is specific to Windows applications, the overall discussion is more centred on software development practices rather than Windows operating system management or troubleshooting. The content lacks a direct focus on Windows installation, configuration, or updates, leading to a lower confidence score in alignment with the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1180,11 +1063,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation details of Unity and code examples without any reference to Scrum or the role of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of integrating the Unity Application Block in WPF and ASP.NET, with no direct mention of Scrum Master responsibilities or related concepts. It lacks any discussion on Scrum principles, team dynamics, or the role of a Scrum Master, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,15 +1091,6 @@
     "reasoning": "Content is primarily focused on technical implementation of Unity Application Block in coding, with no discussion of team norms or collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical implementation details related to software development, specifically around the integration of a dependency injection framework (Unity) in a software project using Visual Basic. While it does not explicitly address Agile or DevOps methodologies, it falls within the realm of software development practices that can be relevant to developers.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T03:05:27",
@@ -1225,12 +1102,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses implementation details and techniques related to the Unity Application Block and code structure, which loosely connect to software engineering practices. However, it primarily focuses on specific code examples rather than broader Agile engineering principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the implementation of a Unity Container in a software application, which touches on aspects of clean code and refactoring. However, it lacks a direct focus on Agile engineering practices, such as TDD or CI/CD, and does not provide a comprehensive exploration of the principles outlined in the category. The discussion is more technical and implementation-oriented rather than a broader discussion on engineering methodologies.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1331,15 +1211,6 @@
     "reasoning": "Content primarily discusses technical implementation details of Unity Application Block and does not address accountability concepts or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T03:05:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the integration of the Unity Application Block in software development, with no relevance to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T03:05:27",
@@ -1360,11 +1231,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:03:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical implementation of the Unity Application Block and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of integrating the Unity Application Block in software development, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and provides minimal depth on any related topics.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1248,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to Unity Application Block and coding practices, with no focus on leadership topics.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:36:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of the Unity Application Block in a specific coding context, without addressing the broader concepts or benefits of an Internal Developer Platform.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:36:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the integration of the Unity Application Block in software development, with no mention of AI or its applications in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to the Unity Application Block and does not mention Scrum or its principles, roles, events, or practices. There is minimal conceptual alignment with Scrum, as the content does not discuss team dynamics, iterative processes, or continuous improvement, which are core themes of Scrum.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on integrating the Unity Application Block into a website and discusses technical implementation details in VB.NET. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes such as early testing, security, or compliance in the software development lifecycle. The discussion lacks depth regarding the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details of integrating the Unity Application Block in WPF and ASP.NET, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning, which are key topics in Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to integrating the Unity Application Block in WPF and ASP.NET. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it address shared objectives or strategic alignment within teams. The mention of personal experiences and code examples does not connect to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on technical implementation details of integrating the Unity Application Block in WPF and ASP.NET, with minimal direct discussion on competence. While it touches on enhancing development skills, it lacks a thorough exploration of continuous learning, professionalism, or the broader implications of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details of integrating the Unity Application Block in WPF and ASP.NET, with no explicit discussion of Agentic Agility or its principles. While there are elements of adaptability in the coding process, the content lacks a clear connection to the intentional shaping of outcomes or the distinction between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

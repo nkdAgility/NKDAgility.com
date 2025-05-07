@@ -2,41 +2,38 @@
 title: One thing an Agile Coach MUST do to be successful?
 description: 'Discover the key to success for agile coaches! Martin Hinshelwood shares essential insights for thriving in agile consulting. #Agile #Coaching #Scrum'
 date: 2023-08-31T07:00:17Z
+weight: 665
 ResourceId: g1GBes-dVzE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: g1GBes-dVzE
 source: internal
 url: /resources/videos/:slug
-slug: one-thing-an-agile-coach-must-do-to-be-successful
+slug: one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
 layout: video
 preview: https://i.ytimg.com/vi/g1GBes-dVzE/maxresdefault.jpg
 duration: 53
 isShort: true
 aliases:
-- /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
-- /resources/one-thing-an-agile-coach-must-do-to-be-successful
-- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
-- /resources/videos/g1GBes-dVzE
-- /resources/one-thing-an-agile-coach-must-do-to-be-successful-
 - /resources/g1GBes-dVzE
-aliasesFor404:
+- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
+aliasesArchive:
+- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful
 - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-
+- one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Coaching
-- People and Process
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 ## Why a Deep Understanding is Non-Negotiable
@@ -51,13 +48,13 @@ Because you need to understand the technologies the team you're working with mus
 
 ## All the 'Flavours' of Tools and Technologies
 
-Being a lean Agile Practitioner, as I like to call it, means that you should understand and appreciate all the different 'flavours' of tools, practices, and technologies.
+Being a [lean]({{< ref "/categories/lean" >}}) Agile Practitioner, as I like to call it, means that you should understand and appreciate all the different 'flavours' of tools, practices, and technologies.
 
 Do you have to be an expert in them all? No. But you do need to have a bird's eye view of the different flavours of what your team is working on.
 
 You must ask questions like, What tools and technologies are they using, and how are they using it? Are they using it well, or do they need help using it? Or do they need to be moved in a different direction?
 
-## Agile Coaching is Not Babysitting — It's Elevating Teams
+## Agile [Coaching]({{< ref "/tags/coaching" >}}) is Not Babysitting — It's Elevating Teams
 
 Let's set the record straight - Agile Coaching is not, and should never be considered, mere babysitting of the team.  🌟
 
@@ -65,6 +62,6 @@ It's about guiding, it's about challenging, and yes, it's about pushing the team
 
 ## Reach Your Full Potential as an Agile Coach with Our Extensive Courses
 
-Ready to deepen your understanding of Agile, Scrum, and the intricate art of effective Agile Coaching? 🌟
+Ready to deepen your understanding of Agile, [Scrum]({{< ref "/categories/scrum" >}}), and the intricate art of effective Agile Coaching? 🌟
 
 Enroll in our comprehensive courses today and elevate your Agile Coaching game to the next level.

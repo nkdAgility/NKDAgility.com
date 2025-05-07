@@ -2,8 +2,10 @@
 title: Would you recommend the APS course to a newbie scrum team, and Why?
 description: 'Discover how the APS course can empower your newbie Scrum team to create value and thrive in an Agile environment. Watch now! #Scrum #Agile #Training'
 date: 2023-03-23T07:00:15Z
+weight: 790
 ResourceId: rPxverzgPz0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rPxverzgPz0
@@ -15,39 +17,32 @@ preview: https://i.ytimg.com/vi/rPxverzgPz0/maxresdefault.jpg
 duration: 304
 isShort: false
 aliases:
-- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
-- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
-- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
-- /resources/videos/rPxverzgPz0
-- /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 - /resources/rPxverzgPz0
-aliasesFor404:
+- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
+- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
+aliasesArchive:
+- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
+- /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
+- would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Agility
-- Scrum Team
-- Organisational Change
-- People and Process
-- Agile Frameworks
-- Scrum Product Development
 - Agile Transformation
-- Change Management
-- Team Collaboration
-- Agile Project Management
+- Organisational Agility
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-**Would you recommend the APS course to a newbie scrum team, and Why?**
+**Would you recommend the APS course to a newbie [scrum]({{< ref "/categories/scrum" >}}) team, and Why?**
 
 Why the APS Course is a Must for Newbie Scrum Teams
 
@@ -63,11 +58,11 @@ As I've discussed in previous articles, APS's outcomes are exceptional and enlig
 
  It's not just about learning the ropes of Scrum but also about realising the modifications required in your current operational structures. 🔄
 
-### Organisational Change
+### [Organisational Change]({{< ref "/tags/organisational-change" >}})
 
 One of the most impactful exercises in the APS course involves reflecting on what changes your organisation, as a team, needs to make to be successful with Scrum.  🤔
 
-If you're a new team, you have the benefit of a fresh perspective.  This course helps you identify gaps in transparency, accountability, and interactions that may be missing in your organisation.
+If you're a new team, you have the benefit of a fresh perspective.  This course helps you identify gaps in [transparency]({{< ref "/tags/transparency" >}}), accountability, and interactions that may be missing in your organisation.
 
 It's all about strategising for success. 🎯👍
 
@@ -75,7 +70,7 @@ It's all about strategising for success. 🎯👍
 
 The highlight of the course for many new teams is creating an 'Organizational Change Backlog'.  This achievement can be incredibly powerful, especially when leaders are in the room.  💪 And it's usually not difficult for me to tell who the leaders are in that room and nearly always, I'm right.
 
-This backlog represents a collective understanding of what needs to shift in your organisation to make Scrum work effectively.  This is a great way to ensure your team feels heard and it promotes active participation from leadership. 🗣️
+This backlog represents a collective understanding of what needs to shift in your organisation to make Scrum work effectively.  This is a great way to ensure your team feels heard and it promotes active participation from [leadership]({{< ref "/categories/leadership" >}}). 🗣️
 
 ### Teams Drive Change
 

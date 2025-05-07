@@ -1,0 +1,3 @@
+So negotiation is really important. As a product owner apprentice, there's a great book; the title is *Never Split the Difference*. *Never Split the Difference* is about negotiation. It's written by the FBI's head hostage negotiator for the last 20 years, and he talks about it as whether you're negotiating bedtime for your kids or negotiating hostage releases. It's the same tools and techniques that you use.
+
+He has a masterclass on masterclass.com, and what you need to consider as a product owner, and if you're helping out an apprentice product owner, is that they need to understand the ramifications of the decisions that they're making and how to engage in communication that gets them to an effective result.

@@ -2,47 +2,48 @@
 title: 'Quotes: "I estimate that 75% of those organisations using Scrum will not succeed in getting the benefits that they hope for from it." - Ken Schwaber'
 description: "Discover why 75% of organisations struggle with Scrum success, as Martin Hinshelwood unpacks Ken Schwaber's insights in this engaging short video! #Scrum #Agile"
 date: 2023-10-06T07:00:16Z
+weight: 690
 ResourceId: dT1_zHfzto0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: dT1_zHfzto0
 source: internal
 url: /resources/videos/:slug
-slug: quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+slug: quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
 layout: video
 preview: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg
 duration: 38
 isShort: true
 aliases:
-- /resources/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
-- /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
-- /resources/videos/dT1_zHfzto0
-- /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - /resources/dT1_zHfzto0
-aliasesFor404:
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+- /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it.-ken-schwaber
+aliasesArchive:
+- /resources/videos/quotes-i-estimate-that-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 - /resources/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
+- quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
+- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it.-ken-schwaber
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Organisational Change
-- People and Process
-- Organisational Agility
 - Agile Frameworks
-- Enterprise Agility
-- Scaling Agility
+- Software Development
 - Agile Transformation
-- Sociotechnical Systems
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
 
 ---
-## The Reality of Scrum Adoption 🤔  
+## The Reality of [Scrum]({{< ref "/categories/scrum" >}}) Adoption 🤔  
 
 Ken Schwaber once declared that a staggering 75% of organisations utilising Scrum won't reap the benefits they anticipate.  
 
@@ -76,7 +77,7 @@ Ensuring your organisation falls into the successful 10% is challenging yet achi
 
 - **Management Buy-In** **👩‍💼**: Secure support and understanding from management to facilitate holistic change. 
 
-- **Continuous Improvement** **⏩**: Regularly assess and adapt your processes and approach. 
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})** **⏩**: Regularly assess and adapt your processes and approach. 
 
 ## Elevating Your Scrum Journey 🚀  
 

@@ -1,0 +1,5 @@
+My name is Kathryn Maddox and I am astonishingly healthy. I what advice - compared to training because I've linked them from the first time with books high energy pragmatics and really interesting and really glad we did because even the worst skeptics in the crowd were won over and not shopped. 
+
+Yeah, I'm not suggesting and I'm the CTO and calm. So after a lot evaluation of differences from creating options, we selected Martin because I think he brings a unique perspective. They very close to what I call the beakers engineer. The dragons are makers and he gains a great perspective that's close to the makers to the skunk reading session, which is what is thought about how about you know everything else is hard making sure the details of the builders are successfully doing their best work. 
+
+And I think Martin does a great job in connecting with them.

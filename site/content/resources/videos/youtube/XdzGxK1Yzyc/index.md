@@ -2,8 +2,10 @@
 title: What is a product owner?    Why are they essential?
 description: Discover the vital role of a Product Owner in Agile and Scrum, from strategic leadership to market insights. Elevate your understanding today!
 date: 2023-05-23T14:00:19Z
+weight: 840
 ResourceId: XdzGxK1Yzyc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: XdzGxK1Yzyc
@@ -15,29 +17,32 @@ preview: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg
 duration: 319
 isShort: false
 aliases:
-- /resources/what-is-a-product-owner-why-are-they-essential
-- /resources/videos/why-have-a-product-owner-
-- /resources/videos/XdzGxK1Yzyc
-- /resources/why-have-a-product-owner-
 - /resources/XdzGxK1Yzyc
-aliasesFor404:
+- /resources/videos/what-is-a-product-owner-why-are-they-essential
+- /resources/videos/why-have-a-product-owner
+aliasesArchive:
+- /resources/videos/what-is-a-product-owner-why-are-they-essential
 - /resources/what-is-a-product-owner-why-are-they-essential
 - /resources/videos/why-have-a-product-owner-
 - /resources/why-have-a-product-owner-
+- /resources/videos/why-have-a-product-owner
+- what-is-a-product-owner-why-are-they-essential
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Agile Product Management
 - Product Owner
+- Professional Scrum
 resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 - Product Management
-- Social Technologies
 
 ---
-## Decoding the Role of the Product Owner
+## Decoding the Role of the [Product Owner]({{< ref "/tags/product-owner" >}})
 
 A common question I often encounter is,  "What exactly is a product owner?"
 
@@ -49,15 +54,15 @@ A product owner isn't just a fancy job title you'll find on business cards or em
 
 So, you might not find someone wearing a badge stating, "I'm the product owner.
 
-It's about the accountabilities someone in your organisation takes on, with the central focus being accountable for maximising the value of work done by the scrum team.   🎯
+It's about the accountabilities someone in your organisation takes on, with the central focus being accountable for maximising the value of work done by the [scrum]({{< ref "/categories/scrum" >}}) team.   🎯
 
 ## Understanding and Maximising Value
 
 But what does this "value" mean?
 
-It isn't just about ordering a product backlog.
+It isn't just about ordering a [product backlog]({{< ref "/tags/product-backlog" >}}).
 
-The core essence of a product owner lies in maximising the value of work done by the scrum team. It's not merely about ordering a product backlog - that's just a tiny, mechanical element of this vast accountability.
+The core essence of a product owner lies in maximising the value of work done by the [scrum team]({{< ref "/tags/scrum-team" >}}). It's not merely about ordering a product backlog - that's just a tiny, mechanical element of this vast accountability.
 
 The real challenge in your specific organisational context is discerning what product ownership means.
 
@@ -69,7 +74,7 @@ And yes, that takes a lot more than just managing a list! 📊
 
 A product owner isn't just about the 'now'. They're the pulse of where the product is heading and the heartbeat of the strategy.   A product owner needs a deep understanding of the market, insights into product usability, customer feedback, and much more.
 
- It's all about tuning into every signal that might impact our project's direction and success. They're the ones responsible for setting the tone for product leadership and the strategic direction.
+ It's all about tuning into every signal that might impact our project's direction and success. They're the ones responsible for setting the tone for product [leadership]({{< ref "/categories/leadership" >}}) and the strategic direction.
 
 The more informed the product owner is, the better the strategic direction and the resonance with the market. 🌐
 

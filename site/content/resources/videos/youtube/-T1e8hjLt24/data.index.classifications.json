@@ -10,19 +10,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T14:38:20",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of continuous learning and personal development rather than focusing on metrics, data utilisation, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T14:38:22",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on continuous learning and personal development rather than installation and configuration of tools or software.",
     "level": "Ignored"
   },
@@ -46,21 +46,27 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:38:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning and personal development, without a focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-03-21T18:04:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal development, with no explicit mention of Evidence-Based Management or its key topics. While there are elements of data-informed decision-making implied in the context of personal growth, the discussion lacks direct relevance to EBM principles such as current value, time to market, or empirical decision-making.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T14:38:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal reflections on continuous learning and its impact on professional success, which aligns with the Personal category, but it does not specifically relate to Agile, Scrum, or DevOps methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the concept of continuous learning, which can relate to personal development in Agile contexts, but lacks explicit personal anecdotes or reflections on Agile methodologies. The discussion is more general and does not delve deeply into personal experiences or insights related to Agile, Scrum, or DevOps.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -71,24 +77,6 @@
     "reasoning": "Content primarily discusses the importance of continuous learning and personal development, without a focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T14:38:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning and personal development, with no clear focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T14:38:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses continuous learning and personal development, with no clear focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-17T14:38:32",
@@ -96,15 +84,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of continuous learning for personal development rather than strategies for market adaptability.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T14:38:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the importance of continuous learning for individual success rather than on team dynamics or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -118,21 +97,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T14:38:36",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of continuous learning and personal development, which aligns with the broader context of business agility but does not reference specific Agile, Scrum, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T14:38:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the importance of continuous learning and personal development rather than discussing specific news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of continuous learning and personal development without directly referencing Agile, Scrum, DevOps, or Lean methodologies. While it touches on themes relevant to business agility, such as self-improvement and staying competitive, it lacks specific actionable insights or connections to established frameworks. The discussion is more anecdotal and reflective, aligning with the Miscellaneous category, but does not delve deeply into any particular topic.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -170,15 +143,6 @@
     "reasoning": "Content primarily discusses the importance of continuous learning and personal development, with no direct relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T14:38:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning for personal development and success, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Beta Codex": {
     "category": "Beta Codex",
     "calculated_at": "2025-02-17T14:38:45",
@@ -197,15 +161,6 @@
     "reasoning": "Content primarily focuses on the importance of continuous learning for personal development rather than organisational agility or related practices.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:38:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning and personal development, with no direct relation to AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
   "Decision Theory": {
     "category": "Decision Theory",
     "calculated_at": "2025-02-17T14:38:50",
@@ -217,11 +172,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:38:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning and personal development, without a clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning for personal and professional growth, which is somewhat related to the themes of adaptability and self-improvement. However, it lacks direct discussions on collaboration, decision-making, or value delivery within organisations, which are central to the Social Technologies category. While it mentions engaging with the community, it does not delve into frameworks or methodologies that promote collaboration or enhance decision-making, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Lean": {
@@ -260,24 +218,6 @@
     "reasoning": "Content primarily discusses the importance of continuous learning for personal development and career advancement, rather than focusing on business agility principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T14:39:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on the importance of continuous learning and personal development rather than specific tools, methodologies, or practical techniques related to Agile and DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T14:39:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on continuous learning and personal development rather than specific events or presentations.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-17T14:39:16",
@@ -296,15 +236,6 @@
     "reasoning": "Content primarily focuses on the importance of continuous learning for personal development and does not address enterprise agility or its organisational implications.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:39:23",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of continuous learning and mentions reading books, which aligns with the category, but it does not focus specifically on any products or literature related to Agile or DevOps.",
-    "level": "Tertiary"
-  },
   "Value Stream Management": {
     "category": "Value Stream Management",
     "calculated_at": "2025-02-17T14:39:24",
@@ -316,39 +247,27 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:39:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning and personal development, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:39:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous learning and personal development, with no clear focus on Scrum principles, roles, or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal growth, with no direct mention of the Agile Product Operating Model or its principles. While there are general themes of adaptability and skill enhancement, these do not specifically align with the core topics of APOM, such as product management or agile methodologies.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T14:39:28",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the importance of continuous learning and personal development, without discussing DevOps principles, practices, or related topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal growth, which are not specific to DevOps principles or practices. While there are general references to skills and methodologies, there is no explicit discussion of DevOps concepts such as collaboration, automation, or shared accountability. The content lacks depth in relation to the core themes of DevOps, leading to a low confidence score.",
     "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:39:30",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of continuous learning and exploring new techniques, which aligns with the theme of Discovery and Learning, but it does not delve deeply into methodologies or processes that foster innovation.",
-    "level": "Tertiary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -357,15 +276,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of continuous learning and personal development, which does not directly relate to the optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:39:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on continuous learning and personal development rather than the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -377,31 +287,16 @@
     "reasoning": "Content focuses on continuous learning and personal development, with no mention of Kanban principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on continuous learning and personal development, with no reference to Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:13:03",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on continuous learning and personal development, with no relation to system configuration or technical practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning and personal development, without a focus on scaling Agile practices or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal development, with no direct mentions or discussions related to system configuration. While it touches on the need to stay relevant in a rapidly evolving tech landscape, it does not delve into specific tools, methodologies, or best practices associated with system configuration. Therefore, the alignment and depth of discussion are minimal, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -433,11 +328,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on continuous learning and personal development, with no mention of Lead Time or related topics.",
+    "calculated_at": "2025-04-11T09:18:14",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on continuous learning and personal development, with no direct mention of Lead Time or its related concepts. While it discusses the importance of staying relevant and maximising opportunities, these themes do not align with the core definition of Lead Time as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -469,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T15:03:30",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on continuous learning and personal development, with no relevance to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -559,21 +457,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of continuous learning and personal development in achieving success, but it does not explicitly connect to team dynamics or practices within Agile, DevOps, or Lean frameworks.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on continuous learning and personal development rather than discussing Scaling Scrum principles, frameworks, or practices.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of continuous learning and its role in personal development, which aligns with the category's focus. However, it lacks depth in exploring team dynamics, knowledge sharing, or specific practices related to Agile or DevOps methodologies. The mention of being in the 'top 10%' suggests a personal growth mindset but does not delve into the broader implications for team improvement or collaboration.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -800,15 +692,6 @@
     "reasoning": "Content primarily discusses the importance of continuous learning and personal development without a clear focus on Agile methodologies or strategies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the importance of continuous learning for personal and professional growth, rather than discussing specific roles, practices, or methodologies related to software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
     "calculated_at": "2025-02-17T15:03:30",
@@ -892,10 +775,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T15:03:30",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of continuous learning to maintain a competitive edge, rather than focusing on innovation practices or empirical data related to the Ability to Innovate.",
     "level": "Ignored"
   },
@@ -928,11 +811,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T23:13:01",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on continuous learning and personal development, not on measurement or optimisation of work completion rates.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the concept of continuous learning and personal development, with no direct mention of throughput as a delivery metric. While it discusses the importance of staying relevant and maximising opportunities, these themes do not align with the core topics of throughput, such as measuring work items completed over time or visualising delivery capacity. The discussion lacks depth regarding throughput metrics, making it unsuitable for classification under this category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -962,15 +848,6 @@
     "reasoning": "Content primarily focuses on continuous learning and personal development, not on employee engagement or team dynamics.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on the importance of continuous learning and personal development, with no clear discussion of Agile principles or project management methodologies.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T15:03:30",
@@ -991,11 +868,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:04:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of continuous learning for personal and professional development, not Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of continuous learning rather than Continuous Delivery. While it touches on the importance of staying relevant in a rapidly evolving tech landscape, it does not explicitly discuss Continuous Delivery principles, practices, or related topics. The mention of learning and personal growth is too general and does not align with the specific themes of Continuous Delivery, such as automation, rapid feedback, or software quality. Therefore, the confidence score reflects a very low alignment with the category.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1009,10 +889,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T15:03:30",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on continuous learning and personal development, not related to the Definition of Done.",
     "level": "Ignored"
   },
@@ -1070,15 +950,6 @@
     "reasoning": "Content focuses on continuous learning and personal development, which is unrelated to Product Backlog discussions.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses continuous learning and personal development, with no clear connection to Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-17T15:03:30",
@@ -1126,10 +997,10 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T15:03:30",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses continuous learning and personal development, which is unrelated to Continuous Integration principles and practices.",
     "level": "Ignored"
   },
@@ -1162,10 +1033,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T15:03:30",
+    "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses continuous learning and self-improvement without a focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -1205,15 +1076,6 @@
     "reasoning": "Content focuses on the importance of continuous learning and personal development rather than on strategic approaches within Agile, Scrum, or DevOps frameworks.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous learning and personal development rather than AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-17T15:03:30",
@@ -1243,11 +1105,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses continuous learning and personal development, with no focus on Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on continuous learning and personal development, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It does not align with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among development teams.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1295,22 +1160,16 @@
     "reasoning": "Content discusses continuous learning and personal development but does not focus on coaching practices or the coaching relationship.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about continuous learning and self-improvement, with no clear focus on scaling agile practices, frameworks, or organizational agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T15:03:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the importance of continuous learning and personal development, without specific reference to Scrum Master responsibilities or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal growth, with no direct mention of the Scrum Master role or its responsibilities. While there are general themes of learning and improvement, they do not specifically align with the core topics related to the Scrum Master, such as team dynamics or agile principles. The discussion lacks depth regarding Scrum practices or the influence of a Scrum Master on organisational change.",
     "level": "Ignored"
   },
   "Cycle Time": {
@@ -1340,7 +1199,7 @@
     "reasoning": "Content heavily focuses on continuous learning and self-improvement, not on Agile practices or software delivery increments.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T15:03:30",
     "ai_confidence": 0,
@@ -1374,6 +1233,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of continuous learning and personal development, with no clear focus on Behaviour Driven Development or its principles.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:44:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content focuses on continuous learning and personal development rather than Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:44:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of continuous learning and personal development, with no direct relation to AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or its principles, roles, or practices. It focuses on continuous learning and personal development, which are not directly related to Scrum methodologies or frameworks. The discussion lacks any alignment with Scrum's core themes, and there is minimal depth regarding project management or team dynamics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal growth in the tech industry, with no direct mention or discussion of the Shift-Left Strategy. While it touches on staying relevant and engaging with the community, these themes do not align with the core principles of integrating testing, security, and compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses continuous learning, which is related to the principles of Continuous Improvement, but it primarily focuses on personal development rather than organisational processes or team effectiveness. While it mentions experimentation and reflection, it lacks a strong emphasis on empirical evidence or structured frameworks that are central to Continuous Improvement. Therefore, while there is some alignment, it does not meet the criteria for a primary focus on Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal development rather than discussing Common Goals within Agile or DevOps frameworks. While it touches on themes of personal growth and staying relevant, it does not explicitly mention or align with the principles of shared objectives or strategic alignment that are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 85.0,
+    "reasoning": "The content strongly emphasises the importance of continuous learning, which is a key aspect of competence. It discusses how staying relevant and maximising opportunities through skill enhancement aligns well with the core themes of competence in Agile and DevOps. The depth of discussion is substantial, providing practical steps for personal and professional growth, which further supports the focus on competence. However, while it aligns closely, it does not explicitly mention Agile, Scrum, or DevOps methodologies, which slightly lowers the confidence score.",
+    "level": "Primary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on continuous learning and personal development rather than discussing the One Engineering System or its principles. There are no direct mentions of 1ES, and the themes do not align with the core topics of integration and standardisation in software development.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses continuous learning and personal growth, which are related to adaptability and self-improvement. However, it does not explicitly mention Agentic Agility or its key principles, nor does it differentiate between human and AI capabilities in the context of agility. The focus is more on personal development rather than intentional shaping of outcomes in a socio-technical environment.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T23:12:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the concept of continuous learning and personal development rather than product development methodologies. While it briefly touches on the importance of staying relevant and engaging with the community, it lacks direct mentions of product development principles, customer feedback loops, or iterative processes. The alignment with the core themes of product development is minimal, and the depth of discussion does not provide substantial insights into product development practices.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T23:12:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on continuous learning and personal development, with no direct mention of Liberating Structures or facilitation techniques. While it touches on themes of engagement and community, it does not align with the core principles of Liberating Structures, which are centred around group dynamics and collaborative methods. The discussion lacks depth regarding any specific techniques or their applications, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T23:12:27",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of continuous learning and personal development rather than project management. While it briefly touches on the idea of experimenting with different project management approaches, it lacks direct mentions of project management principles, methodologies, or tools. The discussion is more about individual growth and skill enhancement, which does not align closely with the core themes of project management.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T23:12:31",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal growth, with no direct mentions of Open Space Agile or its principles. While there is a slight conceptual alignment in the emphasis on community engagement and iterative learning, it lacks depth in discussing Agile methodologies or the specific themes of Open Space Agile. Overall, the content does not align with the category's focus.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T23:12:34",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal growth, which does not directly address the concept of Unrealised Value. While there are mentions of maximising opportunities and staying relevant, these ideas are more about personal development rather than organisational potential or untapped opportunities. The discussion lacks specific indicators, strategies, or frameworks related to Unrealised Value, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T23:12:36",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on continuous learning and personal development rather than discussing Time to Market or its related metrics and strategies. There are no direct mentions of Time to Market, and while the themes of learning and adaptation could tangentially relate to improving processes, they do not specifically address the core aspects of Time to Market as defined in the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T23:12:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal growth, with no direct mention of Current Value or its relevance to Evidence-Based Management. While it touches on the benefits of staying relevant and maximising opportunities, these themes do not align with the core aspects of Current Value, such as metrics or real-time assessment of value delivered. The discussion lacks depth in terms of practical application or measurement of Current Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T23:12:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning for personal and professional growth, without any direct mention or discussion of organisational strategies or the concept of treating a company as a product. While it touches on themes of personal development and engagement with the community, it lacks alignment with the core principles of CaaP, such as customer-centric strategies or organisational design. The depth of discussion is also limited to individual learning rather than organisational frameworks.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T23:12:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal development, with no direct mentions of scaling methodologies or frameworks. While it touches on themes of staying relevant and maximising opportunities, these concepts do not align with the specific complexities and strategies involved in scaling Agile practices or cross-team collaboration. The discussion lacks depth in relation to scaling, making it unsuitable for this category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T23:12:49",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on continuous learning and personal development, with no direct mention of Hybrid Agile or its core themes. While it discusses the importance of staying relevant and adapting to change, it does not critically examine the integration of traditional project management methodologies with agile practices, nor does it address the challenges associated with Hybrid Agile environments.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T23:12:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on the importance of continuous learning and personal growth, which are not directly related to Agnostic Agile principles. There are no explicit mentions of Agnostic Agile, its principles, or comparisons with traditional frameworks. While the themes of adaptability and learning could loosely connect to agile methodologies, they do not specifically address the core concepts of Agnostic Agile, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T23:12:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content focuses on the importance of continuous learning and personal growth, with no direct mention of GitHub or its functionalities. While it discusses general concepts that could be relevant to developers, it does not align with the specific themes of GitHub services, collaboration features, or best practices related to version control. The discussion lacks depth regarding GitHub, making it unsuitable for the category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T23:12:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the importance of continuous learning and personal development, with no direct mentions or discussions related to Cell Structure Design or its principles. While there is a slight conceptual alignment in terms of promoting adaptability and self-organisation, it lacks depth and specific relevance to the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 52.0,
+    "ai_mentions": 5,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content discusses continuous learning, which relates to the principle of Continuous Improvement, a key topic under the 'Principle' category. However, the discussion is focused on personal development and skills enhancement rather than actionable principles guiding team behavior or decision-making in frameworks like Agile or Lean. The content includes practical tips, which mention continuous learning but does not clearly tie this concept back to organizational principles or team dynamics, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 22.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content emphasizes the importance of continuous learning and personal development but does not focus on or discuss any specific tools, mechanisms, or software applications that facilitate workflows or practices in Agile, Lean, or DevOps. There are only vague references to 'tools' in a general context without practical application or relevance to the category of tools directly linked to methodologies. As such, it does not adequately meet the criteria for the category 'Tool.'",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses continuous learning as an important personal growth principle, which aligns with values of curiosity and personal development. However, the focus is primarily on practical tips for skills enhancement rather than a deep exploration of the underlying values guiding this behavior. While it does mention the importance of personal growth, this concept is not linked closely enough to the core themes of ethical decision-making or team dynamics that define the 'Values' category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 20.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content briefly mentions the importance of continuous learning and touches on personal growth and staying relevant. However, it lacks a deeper exploration of philosophical foundations or the 'why' behind practices. The focus is primarily on practical advice and personal anecdotes, which falls outside the intended philosophical scope.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses continuous learning as a concept essential for personal and professional growth, but it doesn't specifically align with the structured understanding of 'Discipline' as defined. While it touches on the importance of ongoing education and adaptability, it lacks explicit discussions of codified principles, methodologies, or case studies tied to specific disciplines like Agile, DevOps, or Lean. Thus, while there is some relevance, it does not sufficiently focus on the core themes of the Discipline category.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on continuous learning and personal development without any mention or discussion of artifacts as defined in the category. It does not explore the structure, purpose, or role of any artifacts in Agile, Scrum, or other systems. Therefore, it has no direct mentions and a minimal conceptual alignment, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on the concept of continuous learning rather than observability. It does not mention observability directly and deviates from the core themes related to software systems, monitoring, or team metrics. There is a minimal peripheral alignment with the broader concepts of continuous improvement, but the depth of discussion is lacking in specifics relevant to observability tools or practices.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of continuous learning and provides practical steps to enhance skills, but it does not specifically mention or align closely with any particular actionable practices related to team effectiveness, collaboration, or frameworks outlined in the 'Practice' category. While there are practical tips, they are more related to personal development than team practices, limiting the content's relevance to the category.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses continuous learning and practical tips for personal and professional development. However, it does not focus on structured methods or step-by-step procedures related to Agile, Lean, or other methodologies. The mention of practical steps is more about general advice rather than specific methods that the category encompasses. Therefore, while there are some elements that align with the concept of continual improvement, they lack the necessary depth and explicit connection to defined methods.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on the theme of continuous learning and personal development, which does not directly relate to conceptual models or frameworks as specified in the 'Model' category. There is no discussion of frameworks like Cynefin, Lean Startup principles, or any models that aid decision-making within Agile, DevOps, or Lean contexts. The overall relevance to 'Model' is minimal, and therefore the score reflects this lack of connection.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content focuses on continuous learning and personal development rather than discussing any specific frameworks related to Agile, DevOps, or Lean principles. There are no direct mentions of frameworks, and the insights provided do not align with the structured methodologies or implementation strategies that are characteristic of the Framework category. While continuous learning is a valuable topic, it does not meet the criteria for this classification.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 30.0,
+    "ai_mentions": 0,
+    "ai_alignment": 50.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content emphasizes continuous learning as essential for personal and professional growth but does not make any direct mention of specific tenets related to Agile, Lean, or DevOps. While the theme of learning aligns somewhat with the core principles of continuous improvement, it lacks the prescriptive nature characteristic of tenets. The discussion provides practical steps for continuous learning, but these steps are generalized and not tied to specific methodologies or actionable tenets. Overall, while there are elements that resonate with the category, the content remains too general and abstract to be classified confidently under 'Tenet.'",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "-T1e8hjLt24",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:35",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on the concept of continuous learning and its personal and professional benefits, which indirectly relates to the idea of developing capabilities. However, it does not specifically discuss capabilities in a structured, organizational context as defined in the category of Capability. The mentions of continuous learning align loosely with the concept of building competencies, but it lacks depth regarding how these learning practices embed into organizational culture or strategic development of capabilities.",
     "level": "Ignored"
   }
 }

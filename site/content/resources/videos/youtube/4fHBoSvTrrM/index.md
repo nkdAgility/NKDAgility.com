@@ -2,8 +2,10 @@
 title: How will a PSM II course challenge your assumptions the most?
 description: Discover how the PSM II course can elevate your Scrum Master career. Join Martin Hinshelwood as he shares insights on advancing your Agile journey!
 date: 2023-04-03T07:00:03Z
+weight: 665
 ResourceId: 4fHBoSvTrrM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 4fHBoSvTrrM
@@ -14,40 +16,31 @@ preview: https://i.ytimg.com/vi/4fHBoSvTrrM/maxresdefault.jpg
 duration: 383
 isShort: false
 aliases:
-- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
-- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
-- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
-- /resources/videos/4fHBoSvTrrM
-- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 - /resources/4fHBoSvTrrM
-aliasesFor404:
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+aliasesArchive:
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
 - /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 - /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
+- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+- how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Professional Scrum
 - Scrum Master
-- People and Process
-- Agile Frameworks
-- Agile Project Management
-- Pragmatic Thinking
-- Personal
-- Scrum Team
-- Practical Techniques and Tooling
-- Team Performance
+- Professional Scrum
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
-- Social Technologies
 
 ---
-## PSM II: The Game-Changer for Scrum Masters
+## PSM II: The Game-Changer for [Scrum]({{< ref "/categories/scrum" >}}) Masters
 
 Today, I want to tackle an important question I often receive, "How will a PSM II course challenge your assumptions the most?
 
@@ -57,7 +50,7 @@ Buckle up because this journey will shift your perspectives! 🚀
 
 ## Challenging Assumptions about Scrum Masters
 
-What do you think a Scrum Master is?  What do you believe a Scrum Master does?
+What do you think a [Scrum Master]({{< ref "/tags/scrum-master" >}}) is?  What do you believe a Scrum Master does?
 
 We're often inundated with myths about the Scrum Master role.
 
@@ -85,7 +78,7 @@ It's about that massive leap and transition into the advanced Scrum Master world
 
 Ready for More Insights? 
 
-I'd love to share more on this and other Agile, Scrum, and DevOps topics.  If this resonates with you, consider my Agile and Scrum courses.  📣 
+I'd love to share more on this and other Agile, Scrum, and [DevOps]({{< ref "/categories/devops" >}}) topics.  If this resonates with you, consider my Agile and Scrum courses.  📣 
 
 And remember, I'm always eager to engage in the comments or over a coffee chat!
 

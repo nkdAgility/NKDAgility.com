@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical aspects of CSS handling and .NET implementation, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T10:34:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of CSS handling in .NET, with no focus on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T10:34:37",
@@ -37,11 +28,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-16T10:34:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical solution for handling CSS in a .NET environment, which aligns with engineering practices that enhance software development processes.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a technical solution for handling CSS in a .NET environment, which touches on aspects of Continuous Integration and deployment practices. However, it lacks a broader discussion on engineering methodologies or principles that enhance agility in software development. The focus is primarily on a specific implementation rather than a comprehensive exploration of technical excellence.",
     "level": "Secondary"
   },
   "Decision Theory": {
@@ -53,86 +47,47 @@
     "reasoning": "Content primarily discusses technical implementations related to CSS and .NET, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T10:34:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of CSS handling in .NET, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T10:34:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses CSS handling in web development and does not mention Scrum principles, roles, events, or any related topics.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T10:34:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses technical implementations related to CSS and .NET without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:34:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses CSS handling and .NET implementation, with no clear focus on DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T10:34:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses CSS handling in web development without any mention of AI, automation, or Agile methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on dynamically reformatting CSS in a .NET environment, which is more aligned with web development practices rather than DevOps principles. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The discussion lacks depth in relation to DevOps, making it a secondary topic at best.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-16T10:34:50",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of CSS handling in web development, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-16T10:34:51",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to CSS and .NET, with no focus on enterprise agility or organisational adaptability.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:34:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses CSS handling in web development, with no relevance to Agile principles or product-centric development.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on CSS formatting and .NET development, with no mention or relevance to the Agile Product Operating Model. It does not discuss any principles, practices, or frameworks related to agile methodologies or product management.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T10:34:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for handling CSS in a .NET environment, including specific coding examples and configurations that enhance web development practices.",
-    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -154,11 +109,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T10:34:58",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a step-by-step guide on configuring a .NET application to handle CSS requests, which aligns with installation and configuration processes.",
+    "final_score": 72.0,
+    "reasoning": "The content provides a detailed guide on configuring a .NET application to handle CSS requests, which aligns with the installation and configuration category. It includes specific steps for setting up a wildcard application mapping and adding an HTTP handler in the web.config file, demonstrating a clear focus on configuration best practices. However, while it discusses technical aspects, it lacks broader context on system requirements or troubleshooting, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Organisational Agility": {
@@ -172,29 +130,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:35:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of CSS handling in web development, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a specific coding solution related to CSS handling in a .NET environment, which touches on code quality and maintainability. However, it primarily focuses on a practical implementation rather than a broader discussion on code complexity or best practices.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T10:35:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for handling CSS in a .NET environment, with no discussion of news, updates, or reviews related to Agile, DevOps, or technology.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on technical aspects of CSS formatting and .NET implementation, with no direct mention or alignment to Evidence-Based Management principles. It lacks discussions on metrics, data-informed decision-making, or any of the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,19 +178,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T10:35:10",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses CSS handling and .NET implementation, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T10:35:11",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses CSS handling in web development and does not address the principles or practices of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -278,15 +221,6 @@
     "reasoning": "Content primarily discusses technical aspects of CSS handling and deployment issues, with no personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T10:35:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to CSS handling in .NET, with no clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T10:35:16",
@@ -296,21 +230,12 @@
     "reasoning": "Content primarily discusses CSS handling and .NET implementation, with no clear focus on Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T10:35:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of CSS handling in .NET, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T10:35:19",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses CSS handling and .NET implementation, with no clear focus on application lifecycle management practices or methodologies.",
     "level": "Ignored"
   },
@@ -321,15 +246,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses CSS handling and .NET implementation, with no focus on Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T10:35:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical implementation of CSS handling in .NET, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -370,10 +286,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses CSS processing and .NET development, with no clear focus on release management concepts.",
     "level": "Ignored"
   },
@@ -442,11 +358,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on solving a technical problem related to CSS handling in .NET, showcasing software engineering practices and the implementation of a specific HttpHandler, aligning with the principles of software craftsmanship.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses a specific technical solution for handling CSS in a .NET environment, which aligns with best practices in software design and architecture. It provides a detailed explanation of implementing an HttpHandler to manage CSS requests, demonstrating a focus on improving code quality and maintainability. However, while it touches on technical aspects, it lacks broader discussions on principles of clean code or software craftsmanship, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -467,7 +386,7 @@
     "reasoning": "Content is focused on handling CSS in web development and does not discuss any aspect of large scale agility or scaling Agile methodologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:10:52",
     "ai_confidence": 0,
@@ -478,20 +397,11 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily focuses on handling CSS in a web development context, which does not relate to Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses CSS development and .NET application handling with no relevance to Agile Project Management principles or practices.",
+    "reasoning": "Content heavily focuses on handling CSS in a web development context, which does not relate to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -640,12 +550,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a method for handling CSS and preventing deployment issues, which relates to best practices in software development. While it doesn't explicitly address broader principles of engineering excellence, it involves aspects of software craftsmanship and process improvement related to development practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a technical solution for handling CSS in a .NET environment, which touches on aspects of software craftsmanship and coding practices. However, it lacks a broader discussion on engineering excellence principles, such as quality assurance, best practices, or continuous improvement. The focus is primarily on a specific implementation rather than a comprehensive exploration of engineering excellence.",
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -665,24 +578,6 @@
     "reasoning": "Content discusses web development and CSS handling, with no mention of estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses CSS issues and a specific .NET implementation, without addressing Agile or DevOps methodologies or practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses CSS formatting and handling in web development, without any mention of AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T11:10:52",
@@ -694,11 +589,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses web development in the context of .NET and includes references to handling requests for CSS files on a web server, which may be hosted on a Windows environment. While Windows is mentioned, the primary focus is on web application development rather than specifically on Windows OS management or features.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses a technical solution involving .NET and CSS, which is relevant to Windows environments, particularly in the context of web applications hosted on Windows servers. However, the primary focus is on CSS handling and .NET implementation rather than Windows-specific features or issues. The mention of 'Windows' is minimal and does not drive the main discussion, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -721,12 +619,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 27.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical implementation related to handling CSS in web applications, including code examples and methods suitable for software development practices, particularly in the context of .NET development.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses a technical solution for handling CSS in a .NET environment, which aligns with software development practices. It provides a detailed explanation of implementing an HttpHandler for CSS processing, showcasing coding techniques and configuration in a web application context. The mention of CI builds and feature branches indicates an understanding of development workflows, further supporting its relevance to software development. However, while it covers specific coding practices, it lacks broader discussions on methodologies or frameworks, which slightly limits its depth of alignment.",
+    "level": "Primary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -735,15 +636,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content is focused on web development, CSS handling, and .NET applications, with no mention or relevance to Agile frameworks or methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to CSS handling in web development and does not reference Agile methodologies, frameworks, or any related scaling practices.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +676,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical implementation of CSS handling rather than on innovation practices or metrics.",
     "level": "Ignored"
   },
@@ -838,12 +730,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses technical implementation details related to handling CSS in a .NET application, which could loosely relate to practices within software engineering, but it primarily focuses on a specific technical problem rather than broader engineering principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a technical solution for handling CSS in a web application, which touches on aspects of clean code and automation. However, it lacks a direct focus on broader engineering practices such as TDD, CI/CD, or refactoring. The discussion is primarily about a specific implementation rather than the principles that underpin Agile development methodologies.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -865,10 +760,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on technical implementation details related to CSS handling in .NET, which is unrelated to the Definition of Done in Agile or Scrum contexts.",
     "level": "Ignored"
   },
@@ -883,11 +778,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses CSS handling in web development with no substantial focus on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on dynamically reformatting CSS in a .NET environment, which is related to web development but does not discuss Continuous Delivery principles, practices, or benefits. There are no direct mentions of Continuous Delivery, and the discussion lacks depth in terms of automation, incremental improvements, or user feedback, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -937,10 +835,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of CSS and .NET, which are unrelated to organisational change.",
     "level": "Ignored"
   },
@@ -991,28 +889,19 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses CSS development and technical implementation details, which are unrelated to empirical process control or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on CSS handling in web development and does not address Kanban principles or scaling Kanban practices.",
+    "reasoning": "Content discusses CSS development and technical implementation details, which are unrelated to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on web development and CSS processing, with no mention of Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -1045,11 +934,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses handling CSS in a web application without mentioning Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on dynamically reformatting CSS in a .NET environment, with no direct mention of Test First Development principles or practices. While there is a brief mention of testing in the context of feature branches, it does not align with the core themes of Test First Development, such as defining success criteria or discussing TDD/ATDD. The depth of discussion is also minimal, lacking any substantial exploration of testing methodologies.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1081,10 +973,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses technical issues related to CSS and web application development, with no clear relevance to change management principles or practices.",
     "level": "Ignored"
   },
@@ -1214,31 +1106,28 @@
     "reasoning": "Content primarily discusses CSS handling and configurations in a development environment, without a focus on deployment strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to CSS and web development, without any mention of Scrum principles, roles, or product development methodologies.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific issue related to CSS not working properly in different environments, along with a solution to that issue. It focuses on resolving a technical problem, which aligns well with troubleshooting methodologies.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses a specific issue related to CSS not functioning correctly in different deployment environments, which aligns with troubleshooting. It provides a solution involving .NET configuration and code implementation, demonstrating a practical approach to resolving a technical problem. However, while it addresses a troubleshooting scenario, the focus is more on implementation details rather than a broader discussion of troubleshooting methodologies or techniques, which slightly limits its alignment with the category.",
     "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-08T19:35:11",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation details of CSS and .NET, with no relation to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on web development and CSS handling in .NET, with no mention or discussion of the Scrum Master role, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1159,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:10:52",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on CSS development and technical implementation details, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1173,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses CSS handling and .NET application setup without any mention of Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on web development and CSS handling, with no relevance to Scrum practices or scaling methodologies.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1324,20 +1204,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mainly discusses handling CSS requests in a .NET environment, which involves some aspects of configuration related to HTTP handlers and web.config settings. However, system configuration is a secondary theme as the primary focus is on managing CSS implementation rather than broader system setup and optimization.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:10:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses CSS reformatting and web application development, without any mention of scaling agility or related organizational practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses configuring a .NET application to handle CSS requests, which touches on system configuration aspects. However, the primary focus is on CSS handling and web development rather than broader system configuration practices. While there are mentions of configuration (e.g., wildcard application mapping, HttpHandler setup), the depth and breadth of discussion do not fully align with the key topics outlined for the System Configuration category.",
     "level": "Ignored"
   },
   "Entrepreneurship": {
@@ -1360,11 +1234,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:04:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses CSS handling in web development and does not relate to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of CSS formatting and .NET implementation, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. It lacks alignment with the core themes of the category and does not provide depth in relation to social technologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1251,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to CSS and .NET, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:37:42",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses CSS handling and .NET implementation, with no clear focus on Internal Developer Platforms or their related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:37:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses CSS handling and .NET implementation, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on CSS development and .NET implementation, with no direct mentions or discussions related to Scrum principles, roles, events, or practices. It lacks any alignment with the core themes of Scrum, such as team dynamics or iterative progress, and provides minimal depth on any relevant topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on CSS handling and deployment issues, with no direct mention or discussion of the Shift-Left Strategy. While it touches on aspects of development processes, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical implementation details for dynamically reformatting CSS in .NET environments. It does not discuss Continuous Improvement principles, nor does it reflect on processes, team effectiveness, or empirical evidence. The mention of simplifying the web development process is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of CSS handling in .NET and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to technical implementation without connecting to broader organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to CSS and .NET, with no explicit discussion of competence, continuous learning, or skill development. While it may imply a level of competence in web development, it does not align with the core themes of the 'Competence' category, such as fostering a culture of competence or the impact of competence on decision-making.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of CSS handling in .NET and does not discuss Agentic Agility or its principles. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is strictly about web development practices without any connection to the themes of agency or intentionality.",
     "level": "Ignored"
   }
 }

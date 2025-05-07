@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T18:19:11",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on customising colours in Team Foundation Server and does not discuss Agile principles or product management practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:19:12",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content provides a detailed guide on customising colours in Team Foundation Server 2013 Agile Planning Tools, including specific commands and configurations, which aligns with practical techniques and tooling in Agile practices.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:19:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:19:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server and does not address code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:19:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to customising colours in Team Foundation Server, without any discussion on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:19:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is a technical guide with no direct mention of Evidence-Based Management principles. While it discusses workflow enhancement, it does not align with the core themes of EBM such as data-informed decision-making or metrics related to value delivery.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:19:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content provides a detailed step-by-step guide on how to customise the colours in Team Foundation Server 2013 Agile Planning Tools, including exporting and importing configuration files, which aligns well with installation and configuration processes.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:19:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed step-by-step guide on how to customise colours in Team Foundation Server 2013 Agile Planning Tools, which directly relates to the installation and configuration of software. It explicitly discusses the process of exporting and importing the process configuration file, including specific commands and code snippets. The content aligns well with the key topics of the category, such as configuration best practices and troubleshooting common issues. The depth of discussion is substantial, offering clear instructions and examples, which enhances its relevance to the category.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, with no discussion on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:19:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses customisation of colours in Team Foundation Server and technical implementation details, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:19:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on customising colours in Team Foundation Server and does not discuss DevOps principles, practices, or tools.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is a specific task related to project management rather than a discussion on DevOps principles. While it touches on aspects of workflow and visibility, it lacks direct mentions of DevOps philosophy, practices, or cultural shifts. The discussion does not align with key DevOps topics such as automation, shared accountability, or continuous improvement, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementation details for customising colours in Team Foundation Server, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:19:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:19:37",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses customising colours in Team Foundation Server and does not address flow efficiency principles, bottlenecks, or work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:19:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical aspects of customising colours in Team Foundation Server, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:19:44",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server and does not address metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -235,10 +172,10 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-15T18:19:51",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on customising colours in Team Foundation Server and does not discuss methodologies or practices related to the end-to-end process of delivering software products.",
     "level": "Ignored"
   },
@@ -253,38 +190,32 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T18:19:58",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server and does not relate to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:19:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses customisation of Team Foundation Server 2013 Agile Planning Tools, with no focus on products or literature related to Agile methodologies or DevOps practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T18:20:01",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to customising colours in Team Foundation Server, without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T18:20:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses customisation of features within Team Foundation Server, which is part of Azure DevOps, and provides specific instructions related to its configuration.",
+    "reasoning": "The content primarily discusses customisation within Team Foundation Server (TFS), which is a component of Azure DevOps. It provides specific instructions on editing the Process Configuration file, which is relevant to Azure DevOps functionalities. The discussion aligns well with the category's focus on Azure DevOps services, particularly in the context of project management tools. However, while it is detailed and specific, it does not cover broader Azure DevOps practices or methodologies, which slightly lowers the alignment score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,22 +236,25 @@
     "reasoning": "Content primarily discusses customising colours in Team Foundation Server 2013 Agile Planning Tools, focusing on technical instructions rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:20:06",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, which is not related to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:20:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, with no clear focus on Agile Product Operating Model principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is a technical guide rather than a discussion on the Agile Product Operating Model. While it mentions Agile Planning Tools, it does not delve into any principles or practices related to the Agile Product Operating Model, nor does it discuss product management or agile methodologies in a meaningful way.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +266,6 @@
     "reasoning": "Content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, with no substantial discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:20:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical tutorial for customising colours in Team Foundation Server 2013, lacking discussions on industry news or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T18:20:12",
@@ -348,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on customising colours in Team Foundation Server's Agile Planning Tools, which does not directly relate to the management of the application lifecycle.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:20:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, with no clear focus on Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,38 +286,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses customizing colors in Team Foundation Server and does not relate to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical procedure for customizing colors in Team Foundation Server, which involves editing configuration files and using specific software tools. However, the focus is more on specific implementation details rather than on broader software engineering principles or best practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server, which is more about configuration than software craftsmanship or engineering practices. While it does touch on technical aspects like exporting and importing process configurations, it lacks a broader discussion on best practices, code quality, or architectural principles. The technical details provided are limited to a specific task without delving into the underlying methodologies or principles that would align with the 'Technical Mastery' category.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses customization and technical implementation details of Team Foundation Server, which is unrelated to understanding customer needs or product feature definition.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses customizing colors in Team Foundation Server and does not relate to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is a specific task related to configuration rather than Continuous Delivery. There are no direct mentions of Continuous Delivery principles, practices, or related topics. The discussion lacks depth and does not align with the core themes of Continuous Delivery, such as automation, rapid feedback, or software quality improvement.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +355,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on customizing colors in Team Foundation Server and does not address the Definition of Ready or related Agile practices.",
     "level": "Ignored"
   },
@@ -451,28 +373,31 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses customisation of work item colours related to Product Backlog Items, making it a relevant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'Product Backlog Items' in the context of customising colours in Team Foundation Server, but it does not focus on the Product Backlog's definition, purpose, or management strategies. The discussion is primarily technical and centred around configuration rather than backlog management, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses configuring color settings in Team Foundation Server without focusing on Agile Planning principles or methodologies.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools without any reference to Value Stream Mapping or Lean principles.",
     "level": "Ignored"
   },
@@ -496,19 +421,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses customizing colors in Team Foundation Server and does not focus on Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical customization of Team Foundation Server and does not address Agile principles, values, or philosophy.",
     "level": "Ignored"
   },
@@ -523,19 +448,19 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses customizing colors in Team Foundation Server 2013 Agile Planning Tools, without any direct relation to validating product ideas or user feedback.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on customization features in Team Foundation Server 2013 and does not primarily discuss Agile practices, frameworks, or transformations.",
     "level": "Ignored"
   },
@@ -559,10 +484,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical customization in Team Foundation Server, focusing on color coding work items rather than strategies or practices related to team performance or collaboration.",
     "level": "Ignored"
   },
@@ -586,28 +511,22 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed guide on customizing the configuration of Team Foundation Server (TFS) Agile Planning Tools, which is a software development tool, and includes specific scripting aspects and coding that aligns with software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on customising the colours in Team Foundation Server 2013 Agile Planning Tools, which is a specific aspect of software development related to configuration management. It discusses the process of exporting and importing configuration files, which aligns with version control and collaborative development practices. However, while it touches on Agile tools, the discussion lacks depth in broader software development methodologies or best practices, leading to a moderate confidence score.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on customizing colors in Team Foundation Server and does not discuss Agile Project Management principles, methodologies, or practices.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on customizing colors in Team Foundation Server's Agile Planning Tools rather than discussing Agile values or principles.",
     "level": "Ignored"
   },
@@ -631,10 +550,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the customization of colors in Team Foundation Server and does not address principles of empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
@@ -649,28 +568,31 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses customization of work item colors in Team Foundation Server, which is related to Azure Boards functionalities, specifically managing visual distinctions for work items within Agile project management.",
+    "final_score": 68.0,
+    "reasoning": "The content discusses customisation of work item colours in Team Foundation Server (TFS), which is related to Azure Boards. However, it primarily focuses on a specific technical aspect (colour configuration) rather than providing a comprehensive overview or best practices for Azure Boards in Agile project management. While it mentions work item types, it lacks depth in discussing broader functionalities or integration with Agile methodologies.",
     "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses customizing colors in Team Foundation Server's Agile Planning Tools but does not address collaboration or Agile teamwork dynamics.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of customizing colors in Team Foundation Server without addressing themes related to organisational change or agility.",
     "level": "Ignored"
   },
@@ -701,15 +623,6 @@
     "reasoning": "Content heavily discusses technical details related to customising the Team Foundation Server configurations without any focus on customer satisfaction or related themes.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about customizing visual elements in Team Foundation Server and does not discuss scaling Scrum or related practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T20:03:37",
@@ -726,15 +639,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical aspects of customizing colors in Team Foundation Server 2013 and does not relate to psychological safety.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on customization of colours in Team Foundation Server's Agile Planning Tools and does not discuss scaling agility at an organizational level.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -793,38 +697,20 @@
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on customizing colors in Team Foundation Server's Agile Planning Tools and does not address backlog refinement practices or principles in Agile.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on customizing visual elements in Team Foundation Server, which is not directly related to the measurement or enhancement of innovation capabilities or practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses customising colors in Team Foundation Server for visual distinctions of work item types, with no focus on Scrum methodologies, frameworks, or product development practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses customizing colors in Team Foundation Server's Agile Planning Tools, which is unrelated to the scaling of Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,21 +751,24 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:55",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content primarily discusses customization of visual aspects within Team Foundation Server tools rather than the delivery of functional software or meeting user needs.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses customizing the Agile Planning Tools in Team Foundation Server, which is related to how tools are configured for Agile methodologies. However, it mainly focuses on the technical aspect of color customization rather than broader Agile planning topics.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, which is a specific tool related to Agile planning. However, the focus is primarily on the technical aspects of configuration rather than broader discussions on Agile methodologies, backlog management, or team collaboration. While it does mention Agile Planning Tools, the depth of discussion is limited to configuration details without exploring the wider implications or benefits of such tools in Agile practices.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -901,10 +790,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical customization of colors in Team Foundation Server 2013, with no clear focus on Agile leadership practices or principles.",
     "level": "Ignored"
   },
@@ -964,10 +853,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the customization of visual elements in Team Foundation Server, without addressing the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
   },
@@ -1000,19 +889,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical customization of Team Foundation Server and does not address change management strategies, principles, or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical configuration and customization of Team Foundation Server, with no focus on team dynamics or collaboration.",
     "level": "Ignored"
   },
@@ -1034,7 +923,7 @@
     "reasoning": "Content focuses on customizing visual elements in Team Foundation Server, which is a technical implementation detail rather than a discussion on digital transformation strategies or impacts.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T20:03:37",
     "ai_confidence": 0,
@@ -1043,30 +932,24 @@
     "reasoning": "Content is focused on customising colours in Team Foundation Server Agile Planning Tools and does not discuss MVP concepts or methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses customizing colors in Team Foundation Server 2013 Agile Planning Tools, which does not relate to AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily focuses on configuring the Process Configuration file in Team Foundation Server 2013 which directly relates to system setup and configuration processes.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the configuration of Team Foundation Server (TFS) by detailing the process of exporting, editing, and importing the process configuration file. It explicitly discusses the steps involved in customising the colours for work item types, which aligns well with the category of System Configuration. The content provides a clear methodology for achieving a specific configuration goal, demonstrating best practices in configuration management. The depth of discussion is substantial, as it includes code snippets and detailed instructions, which enhances its relevance to the category. Overall, the content is a strong fit for System Configuration, with a high confidence score reflecting its direct focus and detailed exploration of the topic.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical implementation details of customizing colours in Team Foundation Server, which deviates from the core principles of product strategy.",
     "level": "Ignored"
   },
@@ -1099,21 +982,27 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on customizing colors in Team Foundation Server's Agile Planning Tools, which is unrelated to Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is unrelated to Test First Development principles. There are no mentions of success criteria, testing practices, or any relevant discussions that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses customizing colors in Team Foundation Server 2013, which involves Windows-related tools and scripts (WitAdmin and TFS) but focuses more on TFS and its functionalities than on the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses customisation of Team Foundation Server (TFS), which is a Microsoft product that operates within the Windows environment. It includes specific commands and configurations relevant to Windows, such as the use of the 'witadmin.exe' tool and paths typical of Windows file systems. However, the primary focus is on TFS customisation rather than broader Windows operating system topics like installation, troubleshooting, or updates. While it does mention Windows-related tools and configurations, it does not delve deeply into the Windows OS itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1135,10 +1024,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical details about configuring colors in Team Foundation Server without any focus on team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1180,19 +1069,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical customization of Team Foundation Server without any reference to Scrum Master roles or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is unrelated to the role or responsibilities of a Scrum Master. There are no direct mentions of Scrum or the Scrum Master role, and the discussion lacks any alignment with the key topics outlined for the category. The content does not provide any depth regarding Scrum practices or principles.",
     "level": "Ignored"
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on customizing colors in Team Foundation Server's Agile Planning Tools and does not discuss transparency or its importance in agile processes.",
     "level": "Ignored"
   },
@@ -1204,15 +1096,6 @@
     "final_score": 0.0,
     "reasoning": "Content discusses the customization of colors in Team Foundation Server rather than working agreements or team collaboration norms.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses customization of Agile Planning Tools in Microsoft's Team Foundation Server, which is relevant to software development practices and configurations used by software developers in an Agile context.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1243,19 +1126,19 @@
   },
   "Sprint Review": {
     "category": "Sprint Review",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses how to customize colors in Team Foundation Server and does not relate to Sprint Review processes or discussions.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details in Team Foundation Server, which is not central to Product Management topics.",
     "level": "Ignored"
   },
@@ -1270,19 +1153,19 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses customizing colors in Team Foundation Server's Agile Planning Tools and provides technical instructions, which is not focused on Agile frameworks, principles, or their applications.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of customizing colours in Team Foundation Server 2013 rather than focusing on Agile strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1306,10 +1189,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T20:03:37",
+    "calculated_at": "2025-04-10T15:55:12",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on customizing colors in Team Foundation Server 2013 Agile Planning Tools rather than discussing Lean Product Development principles, waste reduction, or customer feedback.",
     "level": "Ignored"
   },
@@ -1329,15 +1212,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses customizing colors in Team Foundation Server 2013 Agile Planning Tools, with no focus on accountability or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T20:03:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on customizing colors in Team Foundation Server's Agile Planning Tools and does not discuss Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1369,11 +1243,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:16:41",
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical instructions for customising colours in Team Foundation Server 2013 Agile Planning Tools. While it mentions Agile Planning, it does not discuss collaboration, decision-making, or value delivery in a meaningful way. The content lacks depth in relation to social technologies and does not align with the core themes outlined in the category description.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:18:21",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses customisation of colours in Team Foundation Server 2013 Agile Planning Tools, which is not related to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:18:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses customising colours in Team Foundation Server 2013 Agile Planning Tools, with no mention of AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server's Agile Planning Tools, with no direct mention of Scrum principles, roles, or events. While it touches on work item types, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum practices, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server's Agile Planning Tools, which is unrelated to the Shift-Left Strategy. There are no direct mentions of testing, security, or compliance processes, nor does it discuss integrating these elements earlier in the software development lifecycle. The content lacks any depth or alignment with the core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is a technical guide rather than a discussion on Continuous Improvement. While it touches on enhancing visibility and organisation of work items, it lacks explicit references to Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation and learning. The depth of discussion is limited to technical instructions without broader implications for team effectiveness or organisational processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for customising colours in Team Foundation Server 2013 Agile Planning Tools. It does not discuss Common Goals, their significance, or their role in Agile and DevOps frameworks. The mention of Agile is incidental and does not connect to the core themes of Common Goals, which are about alignment and shared objectives. The depth of discussion is limited to practical steps without any strategic context.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on technical instructions for customising colours in Team Foundation Server, with no explicit discussion of competence, continuous learning, or skill development. While it may indirectly relate to improving workflow, it does not align with the core themes of competence as defined in Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:12",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on customising colours in Team Foundation Server 2013 Agile Planning Tools, which is a technical guide with no discussion on Agentic Agility. There are no direct mentions of agency, intentionality, or the transformative capacity of individuals or systems. The content does not align with the core themes of Agentic Agility, nor does it provide any depth on the subject.",
     "level": "Ignored"
   }
 }

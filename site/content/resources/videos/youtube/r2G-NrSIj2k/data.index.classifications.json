@@ -109,11 +109,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T02:54:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:03:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses code reviews and automation in the context of software development, which is not directly related to system configuration.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses code reviews and automation in software development, which is not directly related to system configuration. While it mentions automation tools and practices that could be tangentially related to system setup, the focus remains on code quality and review processes rather than the configuration of systems or integration of hardware and software components. The discussion lacks depth in terms of system configuration specifics, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -127,12 +130,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and their role in improving code quality, which is a significant aspect of ensuring working software. However, the primary focus is on code review practices rather than the broader concept of delivering functional software.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach, which are relevant to ensuring software quality and functionality. However, while it touches on aspects of working software, such as automated checks and faster delivery, it does not explicitly focus on the broader themes of working software delivery or customer value. The depth of discussion on working software principles is moderate, primarily centred around code review practices rather than a comprehensive exploration of working software as defined in Agile and Scrum.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -190,12 +196,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and pull requests, which are relevant to Azure Repos, but it also includes general practices and mentions other platforms like GitHub, making Azure Repos a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach, which are relevant to Azure Repos, particularly in the context of pull requests and automated checks. However, it lacks a direct focus on Azure Repos itself, with only a brief mention of Azure DevOps Pipelines as a tool for automation. The primary emphasis is on general code review practices rather than specific Azure Repos functionalities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -208,10 +217,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T02:55:01",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, without a clear focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -235,10 +244,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-12T02:55:06",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code reviews and quality assurance practices, which are unrelated to Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -253,11 +262,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T02:55:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T16:59:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code review practices and automation in the context of quality assurance, without a clear focus on measuring or enhancing innovation capabilities.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and automation in the context of software development, which touches on innovation in practices but does not explicitly focus on the broader themes of innovation as defined in the category. While it mentions the shift-left approach and automation, it lacks a detailed exploration of innovation metrics, learning cycles, or case studies that would align more closely with the Ability to Innovate category. The primary focus remains on improving code review processes rather than fostering a culture of innovation.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
@@ -269,23 +281,17 @@
     "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, with no clear focus on Agile frameworks or principles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T02:55:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses code reviews and automation in the context of quality assurance, without addressing scaling agility principles or frameworks.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and their role in improving code quality, which indirectly relates to team collaboration practices in a DevOps context. However, the primary focus is on code review techniques rather than explicit team dynamics or collaboration strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses code reviews primarily in the context of quality assurance and automation, with only brief mentions of team dynamics and knowledge sharing. While it touches on collaboration aspects, such as knowledge sharing and strategic discussions during reviews, the focus remains on individual practices and automation rather than enhancing team collaboration within Agile or DevOps frameworks.",
+    "level": "Secondary"
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -307,20 +313,23 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T02:55:16",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code reviews and their impact on code quality, but does not focus on Cycle Time or its measurement.",
     "level": "Ignored"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T02:55:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses code reviews, automation in the pull request process, and practices that enhance code quality, which are central to engineering practices in Agile development.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses code reviews, which directly relate to clean code and quality assurance, aligning with the principles of Engineering Practices. It mentions the importance of automation in the pull request process, which ties into CI/CD practices. The depth of discussion is substantial, covering various techniques and advocating for automated checks, but it does not delve deeply into TDD or pair programming, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Portfolio Management": {
@@ -334,29 +343,38 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T02:55:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses code reviews as a best practice in software development, focusing on quality assurance and automation within the context of the development lifecycle.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses code reviews, a key practice in software development, and aligns well with the themes of code quality assurance and automated processes within the development lifecycle. It provides a detailed exploration of different perspectives on code reviews, their importance, and the integration of automation in the pull request process, demonstrating a strong understanding of best practices in software development.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-12T02:55:21",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses code reviews as a practice for improving code quality and reducing defects, which aligns closely with the principles of software craftsmanship and quality assurance. It also touches on automation in the pull request process, which is relevant to continuous integration and delivery practices.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the importance of code reviews in improving code quality, which is a key aspect of software craftsmanship and quality assurance. It aligns well with the principles of best practices in coding standards and the role of automation in enhancing development efficiency. The depth of discussion is significant, as it covers various techniques and practices related to code reviews, including the shift towards pre-reviewing code and the automation of pull requests. Overall, the content strongly supports the category of Engineering Excellence.",
+    "level": "Primary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T02:55:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:03:17",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and their role in quality assurance, rather than focusing on throughput or the measurement and optimisation of work completion rates.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and automation in the context of improving delivery speed and quality, which indirectly relates to throughput. However, it does not explicitly define or analyse throughput as a metric, nor does it provide detailed insights into measuring or visualising throughput. The focus is more on code quality and process improvement rather than on throughput as a delivery metric.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,21 +388,24 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T02:55:24",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code review practices and automation, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of automation in the code review process and mentions validated checks that should be automated, indicating a secondary theme related to automated testing practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the role of automated checks in the context of code reviews, highlighting their importance in improving quality and efficiency. It mentions automated tests and tools, aligning with the principles of automated testing. However, the primary focus is on code reviews rather than automated testing itself, which limits the depth of discussion on the category.",
+    "level": "Secondary"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -424,10 +445,10 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-12T02:55:32",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, without a clear focus on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -458,22 +479,16 @@
     "reasoning": "Content heavily discusses code reviews and quality assurance practices, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and their role in improving code quality, which is relevant to software development practices. However, it does not primarily focus on Agile or DevOps methodologies, making it a secondary theme.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T02:55:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, without a clear focus on Test First Development principles or practices.",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and automation in the context of improving quality and speed in software development. While it touches on automated checks and early defect detection, it does not explicitly mention Test First Development principles or practices such as TDD or ATDD. The focus is more on code review processes rather than the foundational concepts of Test First Development, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,57 +547,51 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T02:55:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses code reviews and their role in quality assurance, without a clear focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T02:55:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, without reference to scaling Agile practices or coordination among multiple teams.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'faster delivery' as a benefit of pre-reviewed code, which aligns with the concept of Lead Time. However, the primary focus is on code reviews and automation rather than a detailed exploration of Lead Time as a metric. The discussion lacks depth on measuring or optimising Lead Time specifically, and while it touches on related themes, it does not provide a comprehensive analysis of Lead Time itself.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T02:55:49",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses practical strategies for code reviews and automation within a DevOps context, highlighting real-world applications and techniques to enhance collaboration and efficiency. However, it primarily focuses on code review practices rather than broader Agile or Scrum principles.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which aligns with practical problem-solving strategies in Agile and DevOps contexts. It mentions the importance of automation in the pull request process, reflecting adaptability and efficiency. However, while it touches on relevant themes, the discussion lacks depth in exploring broader pragmatic thinking principles and does not explicitly focus on Agile or Scrum methodologies.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses automation in the context of code reviews and pull requests, which relates to optimising deployment processes, but the primary focus is on code quality rather than deployment frequency itself.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T02:55:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, with no clear focus on agile methodologies or principles.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of automated checks and streamlined processes in code reviews, which indirectly relates to deployment frequency by emphasising faster delivery and reducing bottlenecks. However, it does not explicitly focus on deployment frequency as a primary topic, nor does it provide in-depth strategies or metrics specifically for optimising deployment intervals.",
+    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of automated checks and the pull request process, which are relevant to Continuous Integration practices, but the primary focus is on code reviews rather than CI itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which is tangentially related to Continuous Integration practices. However, it does not explicitly focus on CI principles or tools, and while it mentions automation in the context of pull requests, it lacks depth in discussing CI as a primary focus. The mention of automated checks aligns with CI concepts, but the overall discussion is more about code reviews than CI itself.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -595,12 +604,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the automation of code reviews and pull requests, which are relevant to Continuous Delivery practices, but the primary focus is on code quality and review processes rather than Continuous Delivery itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the shift-left approach and automation in code reviews, which aligns with Continuous Delivery principles. It highlights the importance of automated validation and faster delivery, both key aspects of Continuous Delivery. However, while it touches on relevant themes, the primary focus is on code reviews rather than Continuous Delivery as a whole, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -613,10 +625,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T02:55:59",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code reviews and quality assurance practices, with no focus on the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -645,24 +657,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, rather than focusing on team dynamics, collaboration, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T02:56:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses code reviews and automation practices in software development without a clear focus on AI applications.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T02:56:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, with no clear focus on Kanban principles or scaling Kanban practices.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -730,38 +724,38 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the automation of the code review process and the importance of validated checks, which are related to test automation principles. However, the primary focus is on code reviews rather than test automation itself.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T02:56:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and quality assurance practices, with no clear focus on Scrum principles or product development.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of automating validation checks in the context of code reviews, which aligns with test automation principles. It mentions automated tests and tools, indicating a focus on improving quality through automation. However, the primary focus is on code reviews rather than test automation itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-12T02:56:21",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses code reviews and automation in the context of improving code quality and reducing bottlenecks in the delivery process, which aligns with operational efficiency practices. However, it primarily focuses on code review techniques rather than broader operational strategies.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which aligns with operational practices in terms of enhancing delivery speed and quality. However, while it touches on automation and reducing bottlenecks, it does not delve deeply into specific operational efficiency techniques or metrics, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T02:56:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and automation in software development, with no clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and automation in software development but does not explicitly mention Evidence-Based Management or its key topics. While it touches on improving quality and delivery speed, it lacks a focus on empirical evidence or data-informed decision-making, which are central to EBM.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,30 +767,24 @@
     "reasoning": "Content heavily discusses code reviews and quality assurance practices, with no focus on backlog refinement or related Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T02:56:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and quality assurance practices, with no clear focus on scaling Scrum or related frameworks.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T02:56:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code reviews and automation in software development, with no clear focus on Scrum Master responsibilities or practices.",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on code reviews and automation in software development, with no direct mention of the Scrum Master role or its responsibilities. While it touches on themes of collaboration and quality, it does not align with the core topics related to the Scrum Master, such as facilitating Scrum processes or promoting agile principles.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T02:56:27",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code review practices and automation, with no clear focus on scaling Agile methodologies or enterprise-level Agile transformation.",
     "level": "Ignored"
   },
@@ -811,12 +799,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and automation in the context of quality assurance, which relates to technical leadership principles but is primarily focused on practices rather than leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses code reviews and the shift towards pre-reviewed code, which touches on aspects of technical leadership, such as fostering collaboration and aligning technical practices with business goals. However, it primarily focuses on the mechanics of code reviews rather than providing in-depth insights into technical leadership principles or strategies for mentoring and coaching teams. The discussion lacks a strong emphasis on agile methodologies and team dynamics, which are crucial for a higher confidence score in this category.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -854,7 +845,7 @@
     "reasoning": "Content heavily discusses code reviews and automation in the context of quality assurance, without a clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T02:56:35",
     "ai_confidence": 0,
@@ -901,11 +892,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-12T02:56:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses code reviews, their impact on code quality, and the importance of automation in the pull request process, which aligns closely with best practices in software craftsmanship and quality assurance.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which aligns with the principles of clean code and software craftsmanship. It mentions the importance of automated checks and practices that enhance technical delivery, reflecting a good understanding of technical mastery. However, while it touches on relevant topics, the discussion lacks depth in exploring best practices or methodologies in detail, which slightly lowers the overall confidence score.",
     "level": "Secondary"
   },
   "Release Management": {
@@ -946,11 +940,14 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-12T02:56:48",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses code review processes, pull request systems, and automation in the context of version control, which are central themes in modern source control practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses code reviews, which are a crucial aspect of modern source control practices. It explicitly mentions pull requests and the importance of automated checks, aligning well with the category's focus on collaboration workflows and code review processes. The depth of discussion is significant, as it explores different schools of thought on code reviews and their impact on code quality, indicating a thorough understanding of the topic. Overall, the content is highly relevant to modern source control, though it could benefit from more detailed exploration of specific version control methodologies.",
     "level": "Secondary"
   },
   "Agile Planning Tools": {
@@ -1018,10 +1015,10 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-12T02:53:37",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code reviews and automation in the context of software development, without addressing broader organisational agility or cultural aspects.",
     "level": "Ignored"
   },
@@ -1034,59 +1031,38 @@
     "reasoning": "Content primarily discusses code reviews and automation in software development, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T02:53:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses code reviews and automation in software development, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T02:53:41",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code review practices and philosophies rather than installation or configuration of tools.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T02:53:43",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses code reviews as a practice to improve code quality, which aligns with the principles of software code quality and best practices in software development. It also touches on automation in the code review process, indicating a focus on managing complexity in codebases.",
-    "level": "Secondary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the automation of code reviews and pull requests to prevent bottlenecks in the delivery process, which aligns with flow efficiency principles. However, the primary focus is on code quality and review practices rather than flow efficiency itself.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses automation in the context of code reviews and pull requests, which relates to Agile practices, but it primarily focuses on code quality and review processes rather than a direct integration of AI and automation within Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the optimisation of code review processes through automation, which directly relates to enhancing flow efficiency by reducing bottlenecks and improving throughput. It highlights the benefits of pre-reviewed code, such as faster delivery and early defect detection, aligning well with the principles of Flow Efficiency. However, while it touches on relevant concepts, the primary focus is on code reviews rather than a broader discussion of flow efficiency principles.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and their role in quality assurance, which is a significant aspect of product delivery, but it primarily focuses on code review practices rather than the broader methodologies and processes of delivering software products.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses code reviews primarily in the context of quality assurance and automation, which are relevant to product delivery. It highlights the importance of automated checks and streamlined processes that contribute to faster delivery and quality, aligning with key topics in product delivery. However, the focus is more on code review practices rather than the broader methodologies and strategies of product delivery, which slightly limits its depth in that specific category.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1097,21 +1073,12 @@
     "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T02:53:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses code review processes and automation without a clear focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-12T02:53:53",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code reviews and automation in software development, with no clear focus on Systems Thinking principles or practices.",
     "level": "Ignored"
   },
@@ -1122,33 +1089,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses code reviews and automation in software development, without a clear focus on complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T02:53:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses code reviews and automation in the context of quality assurance, without a focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T02:53:57",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses practical techniques related to code reviews, automation in the pull request process, and the use of tools like GitHub within a DevOps context.",
-    "level": "Secondary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T02:53:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code reviews and quality assurance practices, with no clear focus on events or presentations.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1171,37 +1111,34 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T02:54:03",
-    "ai_confidence": 70,
-    "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses code reviews and automation in the context of DevOps practices, highlighting the importance of automated checks and pull requests. However, it primarily focuses on code quality rather than broader DevOps principles.",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the shift-left approach and automation in code reviews, which aligns with DevOps principles of continuous improvement and automation. It emphasises the importance of early defect detection and streamlined processes, reflecting the core themes of DevOps. However, while it touches on collaboration and quality assurance, it primarily focuses on code review practices rather than broader DevOps cultural shifts or principles, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses code reviews and pull request systems, mentioning DevOps in the context of automation and quality assurance, but it does not focus specifically on Azure DevOps functionalities or practices.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T02:54:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code review practices and automation in DevOps, without focusing on specific products or literature related to Agile or DevOps methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 20,
+    "final_score": 68.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach, with a brief mention of Azure DevOps Pipelines as a tool for automated processes. However, the primary focus is on code review practices rather than Azure DevOps itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T02:54:08",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code reviews and automation in the context of quality assurance, without a clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -1216,28 +1153,34 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses code reviews and automation in the context of improving code quality and reducing blockers to value delivery, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses code reviews primarily in the context of quality assurance and automation, which indirectly relates to value delivery through faster delivery and early defect detection. However, it lacks explicit discussions on customer value, iterative development, or alignment with customer needs, which are core themes of the Value Delivery category.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-12T02:54:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses code reviews as a practice to enhance code quality and reduce defects, aligning closely with principles of Technical Excellence. It emphasizes automation in the code review process and the importance of validated checks, which are key aspects of engineering practices that improve agility and delivery in software development.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses code reviews and their role in improving code quality, which aligns with the principles of Technical Excellence. It mentions the importance of automated checks and practices that enhance the development process, reflecting a focus on engineering methodologies. However, the discussion is somewhat general and lacks in-depth exploration of specific technical practices like TDD or CI/CD, which limits the overall depth of the content.",
     "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T02:54:15",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses code reviews and automation in the context of quality assurance, with no clear focus on organisational agility principles or practices.",
     "level": "Ignored"
   },
@@ -1250,39 +1193,21 @@
     "reasoning": "Content primarily discusses code reviews and automation practices in DevOps, lacking personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T12:00:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses code reviews and their impact on quality assurance, touching on the processes involved and the human factors in code review practices. However, the primary focus is on technical practices rather than the interplay between people and processes.",
-    "level": "Tertiary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-12T02:54:21",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses code reviews and automation practices without addressing the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T02:54:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses code review practices and techniques rather than industry news or reviews.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T02:54:24",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses code reviews and automation practices rather than metrics, data analysis, or feedback mechanisms.",
     "level": "Ignored"
   },
@@ -1297,10 +1222,10 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-12T02:54:26",
+    "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses code reviews and automation in the context of software development, which does not align with the principles of Value Stream Management.",
     "level": "Ignored"
   },
@@ -1311,15 +1236,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses code review processes and automation in software development, which are not related to the psychological aspects of organisational behaviour.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:00:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses code reviews and automation in the context of software development, with no clear focus on Scrum principles, roles, or events.",
     "level": "Ignored"
   },
   "Platform Engineering": {
@@ -1340,22 +1256,16 @@
     "reasoning": "Content primarily discusses code reviews and automation in software development, with no clear focus on BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:00:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses code reviews and automation practices, which are not central to the One Engineering System framework.",
-    "level": "Ignored"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:00:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and quality assurance practices, with no clear focus on the Agile Product Operating Model or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses code reviews and automation in software development, which does not directly address the Agile Product Operating Model. While it touches on themes of efficiency and quality, it lacks explicit references to product management principles, agile methodologies, or the core topics outlined in the APOM definition.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1369,11 +1279,441 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:48:41",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and automation in software development, which touches on collaboration and quality assurance. However, it primarily focuses on technical processes rather than the broader social frameworks and methodologies that promote collaboration and decision-making within teams. While there are mentions of knowledge sharing and strategic discussions, the overall emphasis is on technical practices rather than the social technologies that underpin effective teamwork and organisational culture.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:32:47",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses code reviews and automation in software development, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses code reviews and quality assurance practices, with no clear focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:32:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses code reviews and quality assurance practices without a clear focus on the application of AI in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses code reviews and quality assurance practices, which are not directly related to Scrum principles or frameworks. While there is a mention of 'agility' and 'automations', these concepts are not explicitly tied to Scrum roles, events, or artifacts. The focus is on code quality rather than collaborative project management or Scrum-specific practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the Shift-Left Strategy in the context of code reviews, focusing on the concept of pre-reviewed code and its benefits. It aligns well with the core themes of integrating testing and quality assurance earlier in the development process. The depth of discussion is significant, providing detailed best practices and tools that support a Shift-Left approach, making it a primary focus of the content.",
+    "level": "Primary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the evolution of code reviews and the shift-left approach, which aligns with Continuous Improvement principles by emphasising automation, early defect detection, and streamlined processes. However, it primarily focuses on code reviews rather than a broader discussion on Continuous Improvement practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and automation in software development, which are relevant to Agile practices. However, it primarily focuses on technical processes rather than explicitly addressing shared objectives or strategic alignment within teams. While there are mentions of business alignment and fostering collaboration, these are secondary to the main topic of code review techniques. Therefore, the content does not fully align with the core themes of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of code reviews and the shift-left approach, which indirectly relates to competence through the emphasis on quality assurance and continuous improvement in software development. It mentions the need for knowledge sharing and best practices, aligning with the core themes of competence. However, the primary focus is on code review processes rather than a direct exploration of competence as a foundational principle.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and automation in software development, which are relevant to improving quality and efficiency. However, it does not explicitly mention the One Engineering System framework or its principles. The focus is primarily on code review practices rather than the integration and standardisation of engineering processes across teams, which is central to 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T13:02:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and automation in software development, which touches on aspects of agility but lacks a direct focus on Agentic Agility. While it mentions improving processes and outcomes through automation, it does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:02:59",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses code reviews in the context of improving quality and delivery speed, which aligns with product development principles. It mentions methodologies like shift-left and automation, which are relevant to iterative processes and continuous improvement. However, the primary focus is on technical implementation rather than broader product development strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:03:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on code reviews and automation in software development, which is more aligned with software engineering practices than project management. While it touches on aspects like team collaboration and delivery speed, it lacks a direct discussion of project management principles, methodologies, or lifecycle phases. The mention of aligning with business goals hints at project management but does not delve into the core themes of the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T13:03:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses code reviews and automation in software development, with no explicit mention of Hybrid Agile concepts or critical examination of merging traditional and agile methodologies. It lacks depth in addressing the challenges or implications of Hybrid Agile, focusing instead on improving code quality through automation.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:03:09",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses code reviews and automation in software development, which are not directly related to scaling methodologies or frameworks. While there are mentions of aligning with business goals and improving delivery speed, these concepts are secondary to the main focus on code review processes. The discussion lacks depth in scaling strategies and frameworks, making it only tangentially relevant to the Scaling category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:03:12",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 72.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach, which are relevant to GitHub's functionalities, particularly in the context of pull requests and automated checks. However, it lacks direct references to GitHub services or tools beyond a brief mention of GitHub Actions. The focus is more on general practices rather than specific GitHub methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T16:59:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 37,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of 'pre-reviewed code' and how it can lead to faster delivery, which directly relates to the Time to Market category. It mentions the importance of automation in reducing bottlenecks and enhancing the speed of the development process, aligning with the core themes of Time to Market. The depth of discussion is significant, as it provides specific strategies and best practices for improving the code review process to accelerate delivery. However, while it touches on Time to Market, the primary focus is on code reviews rather than a comprehensive exploration of Time to Market metrics or strategies.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T16:59:33",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on code reviews and automation in software development, with no explicit discussion of Unrealised Value or its indicators. While it touches on improving processes and quality, it does not explore potential untapped opportunities or strategic decision-making related to Unrealised Value. The discussion is more operational and tactical rather than strategic, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T16:59:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach, which indirectly relates to the concept of Current Value by emphasising faster delivery and quality assurance. However, it lacks a direct focus on measuring Current Value or discussing specific metrics related to customer satisfaction or revenue impact. The mention of benefits like faster delivery and early defect detection aligns with the idea of delivering value, but it does not delve into the real-time assessment of value or provide concrete examples or metrics that would strengthen its relevance to Current Value in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T16:59:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on code reviews and automation in software development, with no direct mention of Agnostic Agile principles or discussions. While it touches on themes of efficiency and quality, it does not align with the core concepts of Agnostic Agile, such as ethical considerations or the importance of adapting methodologies to context. The discussion is more about specific practices rather than the broader philosophy of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T16:59:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on code reviews and automation in software development, with no direct mention of treating the organisation as a product or integrating customer feedback into organisational design. While it touches on improving processes and collaboration, it does not align with the core themes of CaaP, such as organisational agility or customer-centric strategies. The discussion lacks depth regarding the principles of CaaP, making it a low-confidence evaluation.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T16:59:30",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses code reviews and automation in software development, with no direct mention of Cell Structure Design or its principles. While there is a focus on improving processes and efficiency, it does not align with the core themes of decentralised organisational structures or the Beta Codex. The discussion is centred around traditional software practices rather than the dynamics of organisational design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T16:59:17",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on code reviews and automation in software development, with no direct mention of Liberating Structures or their facilitation techniques. While it discusses collaboration and team dynamics, it does not align with the core themes of Liberating Structures, which are centred around inclusive engagement and specific facilitation methods. The depth of discussion is also limited to code review practices rather than exploring the principles or techniques of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T16:59:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on code reviews and automation in software development, with no direct mention of Open Space Agile principles or practices. While it discusses collaboration and quality assurance, it does not align with the core themes of Open Space Agile, such as psychological safety, shared ownership, or iterative dialogue. The depth of discussion is also limited to technical practices rather than organisational agility or collaborative change processes.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses code reviews, particularly focusing on automation and a shift-left approach, emphasizing faster delivery and quality assurance. However, it primarily discusses practical operational aspects and methods rather than the underlying principles that guide these practices. While it touches upon ideas of automation and collaboration, it does not explicitly frame these discussions in terms of the guiding principles like self-management or continuous improvement as defined in Agile or Lean principles, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 85.0,
+    "ai_mentions": 18,
+    "ai_alignment": 30,
+    "ai_depth": 34,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content discusses automation in code reviews and specifically mentions tools such as SonarQube/SonarCloud and GitHub Actions or Azure DevOps Pipelines, which directly aligns with the category of Tools. While the content also covers methods of code reviews and the shift-left approach, it effectively highlights how these tools can automate processes and improve workflows. The discussion includes best practices for tool integration, which aligns well with the category's focus, thus providing a comprehensive understanding of how these tools facilitate team performance and value delivery.",
+    "level": "Primary"
+  },
+  "Values": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mainly discusses practical aspects of code reviews, automation, and process improvement without explicitly addressing underlying values or principles that guide behavior and decision-making in the context of team dynamics or organizational culture. Although it touches on collaboration and efficiency, it does not explicitly link these concepts to core values or beliefs that shape work approaches.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 17.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 17.0,
+    "reasoning": "The content primarily discusses practical aspects of code reviews and automation techniques, lacking explicit engagement with philosophical underpinnings or theoretical discussions relevant to the category of Philosophy. It mentions objectives like faster delivery and quality assurance, but does not delve into the foundational beliefs or values that inform these practices, such as those found in Agile or Lean philosophies. There is minimal alignment with the theme of organizational decision-making or team dynamics from a philosophical standpoint.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach in software development, but does so in a practical and tool-oriented manner rather than focusing on the underlying principles and methodologies of discipline. While it mentions establishing best practices and strives for quality, it does not delve into how these practices represent a structured discipline within modern work systems, nor does it discuss the evolution of these disciplines or their impact on organizational performance in a significant way.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 20.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content discusses code reviews and the shift-left approach to improving code quality, but does not focus on Agile or Scrum artifacts or their structural roles. Mentions of automated checks and code quality primarily relate to processes and tools, rather than formal representations of work like artifacts. There is minimal discussion of specific Agile artifacts or their purposes.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses code reviews and automation in a software development context but does not directly address observability concepts such as metrics, logs, and traces. It mentions tools like SonarQube and GitHub Actions, which contribute to code quality, but these are more aligned with CI/CD practices than observability. The focus remains on improving code quality and speeding up the review process, rather than explaining how to understand internal system states based on observability principles. While automation is a crucial aspect of Agile and DevOps, it does not equate to observability as defined. Therefore, while there are some relevant mentions, the core themes and depth of discussion do not firmly align with the observability category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 76.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content focuses on the practice of code reviews and specifically discusses actionable techniques like automated validation and the shift-left approach to enhance the code review process. There's a clear focus on improving team performance through consistent, repeatable actions that streamline development, which aligns well with the category 'Practice'. The depth of discussion around best practices and specific techniques contributes to a high confidence score, though the primary topic may veer slightly towards tools and automation, preventing a perfect score.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses a specific method for conducting code reviews, emphasizing the shift-left approach and automated validation. It outlines structured practices and procedures for improving code quality and speeding up delivery through automated checks. The discussion is detailed, providing specific practices and tools to implement this method, aligning well with the key topics of structured procedures. While it does touch on broader concepts like collaboration and overall quality, the primary focus is on the procedural methods of code review, justifying a high confidence score.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 22.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses practices around code reviews and a shift-left approach rather than focusing explicitly on conceptual models or frameworks that would align it with the 'Model' category. While it introduces the concept of 'pre-reviewed code', it does not delve into discussions of frameworks or models that underpin this approach, nor does it explore their application in decision-making within Agile or DevOps contexts. Overall, discussions remain more operational and procedural, leading to a low confidence score for the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 35.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses code reviews and automation within a development context, which touches on aspects of DevOps and Agile principles such as collaboration and continuous improvement. However, it does not explicitly address structured frameworks like Scrum or Kanban, nor does it provide a detailed overview or implementation strategies for any specific framework. The primary focus is on the concept of pre-reviewed code rather than on frameworks themselves, leading to a relatively low confidence score for the Framework category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the evolving approach to code reviews in a shift-left context, which aligns somewhat with tenets of Agile and DevOps and emphasizes automation and efficiency. However, it lacks direct discussions of actionable guiding rules or doctrines that are core to tenets. The content provides insights and a new perspective on code reviews but does not extensively outline specific tenets or structured principles inherent in Agile or similar methodologies. As such, while it touches on relevant themes, it lacks the depth and focus on tenets required for a higher confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:06:22",
+    "ai_confidence": 37.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content focuses on code review practices and automation, primarily discussing tools and processes rather than the enduring competencies that support organizational capabilities. While it mentions aspects of enhancing quality and collaboration within teams, it lacks a deep exploration of capability development and integration into organizational culture. The discussion on 'shift-left' practices and automated checks hints at improving capabilities but does not articulate strategies for cultivating enduring competencies required for sustainability and adaptability.",
     "level": "Ignored"
   }
 }

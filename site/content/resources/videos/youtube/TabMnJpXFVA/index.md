@@ -1,62 +1,65 @@
 ---
-title: Why are you going the immersive Scrum training route?
-description: Discover the benefits of immersive Scrum training with Martin Hinshelwood. Transform your skills in 4-8 day courses for real-time learning and growth!
+title: 'Transforming Training: How Immersive Learning and DevOps Drive Real Value in Organisations'
+description: Discover how immersive training and agile methodologies can transform learning experiences. Join me in prioritising value over revenue for impactful results!
 date: 2023-03-16T07:00:16Z
+weight: 765
 ResourceId: TabMnJpXFVA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: TabMnJpXFVA
 url: /resources/videos/:slug
-slug: why-are-you-going-the-immersive-scrum-training-route-
+slug: transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
 aliases:
-- /resources/videos/TabMnJpXFVA
-- /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
-- /resources/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/TabMnJpXFVA
-aliasesFor404:
+- /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
+- /resources/videos/why-are-you-going-the-immersive-scrum-training-route
+aliasesArchive:
+- /resources/videos/why-are-you-going-the-immersive-scrum-training-route
 - /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 - /resources/why-are-you-going-the-immersive-scrum-training-route-
+- why-are-you-going-the-immersive-scrum-training-route
+- /resources/videos/transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
+- transforming-training-how-immersive-learning-and-devops-drive-real-value-in-organisations
 preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: false
 tags:
-- People and Process
-- Agile Frameworks
-- Software Development
-- Agile Project Management
-- Agile Transformation
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
-- Scrum
+- Uncategorized
 
 ---
- scrum.org have pioneered a new format of #scrumtraining called #immersive learning, especially for #scrumcertification courses like the #professionalscrummaster and #professionalscrumproductowner courses.
+As I embark on the immersive trading route, I find myself reflecting on the core reasons behind this shift. My journey into training began with a desire to address the struggles faced by individuals and organisations alike. Back in 2010, when I first delved into [DevOps]({{< ref "/categories/devops" >}}), I witnessed firsthand the challenges people encountered and the disconnect between their needs and what organisations were providing. This disconnect often led to a vicious cycle where organisations blamed their people for failures, rather than addressing the root causes.
 
-It's a shift from the traditional 2-day course format to 4-day and 8-day course formats that include assignments, feedback sessions, and opportunities for people to ask questions about work they are implementing real-time.
+### The Role of DevOps in [Value Delivery]({{< ref "/tags/value-delivery" >}})
 
-Yup, it's pretty awesome.
+DevOps was a game changer for many. It streamlined processes and automated repetitive tasks, allowing teams to focus on delivering value. My work with [Azure DevOps]({{< ref "/tags/azure-devops" >}}) highlighted that while tools are essential, it’s the practices surrounding them that truly make a difference. This realisation led me to explore agile methodologies, including [Scrum]({{< ref "/categories/scrum" >}}) and [Kanban]({{< ref "/categories/kanban" >}}), which emphasise collaboration and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}).
 
-In this short video, Martin Hinshelwood explains why he is such a big fan of the new immersive learning format, and why he and NKD Agility are embracing the opportunity of developing the next level of scrum masters and product owners.
+### Rethinking Training Approaches
 
-About NKD Agility
+Through my experiences, I recognised that traditional training methods often fall short in helping people retain and apply knowledge effectively. This insight prompted me to reconsider how I deliver training. The concept of double-loop learning became pivotal in my approach. It’s not just about teaching; it’s about ensuring that the training style aligns with how people learn best.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+To enhance the learning experience, I’ve adopted a flipped-ish learning model. This approach allows for a more practical, hands-on experience, which I believe is crucial for effective learning. However, this shift comes with its challenges. As a trainer and business owner, I will have less time to conduct multiple training sessions. Instead of cramming four half-day classes into a short period, I’m opting for eight half-days spread over eight weeks. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+### Prioritising Value Over Revenue
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+This decision may seem counterintuitive from a business perspective, as it means fewer classes in the same timeframe. Yet, I firmly believe that providing a richer learning experience is worth the trade-off. If students can learn more effectively and apply that knowledge in their organisations, the value created far outweighs the immediate revenue concerns.
 
-We would love to work with you. 
+It’s essential to focus on a value creation model rather than a revenue extraction model. If organisations feel they’re not gaining enough from traditional training formats, they will seek alternatives. By prioritising the needs of the students and the organisations they represent, we can foster a more positive perception of our training offerings.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
- [Watch on Youtube](https://www.youtube.com/watch?v=TabMnJpXFVA)
+### A Win-Win Situation
+
+Ultimately, this approach benefits both sides. From a business standpoint, investing in a more effective training model can lead to greater satisfaction and better outcomes for clients. When organisations see tangible results from their investment in training, they are more likely to continue seeking our services.
+
+In conclusion, my commitment to delivering value through immersive training is rooted in a desire to effect real change. By embracing new learning formats and prioritising the needs of students, I believe we can create a more impactful training experience that resonates with both individuals and organisations.
+
+Thank you for joining me on this journey. If you found this post insightful, please like, follow, and subscribe. I welcome your comments and would love to chat about agile, Scrum, or DevOps—feel free to book a coffee with me through Naked Agility.

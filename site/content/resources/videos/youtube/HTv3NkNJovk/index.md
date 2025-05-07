@@ -2,8 +2,10 @@
 title: Why is Satya Nadella a better example of agile leadership than Steve Jobs?
 description: Discover why Satya Nadella exemplifies agile leadership better than Steve Jobs, as Martin Hinshelwood explores vision and teamwork in this insightful video.
 date: 2023-02-01T07:00:10Z
+weight: 465
 ResourceId: HTv3NkNJovk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: HTv3NkNJovk
@@ -15,42 +17,39 @@ preview: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg
 duration: 487
 isShort: false
 aliases:
-- /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
-- /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
-- /resources/videos/HTv3NkNJovk
-- /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 - /resources/HTv3NkNJovk
-aliasesFor404:
+- /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
+aliasesArchive:
+- /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 - /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 - /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
+- why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Organisational Agility
+- Pragmatic Thinking
 - Agile Leadership
-- Agile Values and Principles
-- People and Process
-- Metrics and Learning
-- Agile Product Management
-- Business Agility
-- Empirical Process Control
-- Evidence Based Leadership
-- Market Adaptability
 - Agile Strategy
+- Agile Transformation
+- Business Agility
+- Agile Philosophy
+- Organisational Culture
+- Organisational Change
 resourceTypes:
 - video
 categories:
 - Leadership
-- Social Technologies
-- Product Management
+- Technical Leadership
 
 ---
 This is a great question, although I imagine I might pick up a bit of flack because of the hordes of people who love [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and think of him as one of the most iconic leaders of the past century.
 
-Steve is great, but in terms of **Agile leadership**, he doesn’t touch sides – in my opinion – to **Satya Nadella**. You can see the difficulty he created within [Apple](https://www.apple.com/) because all innovation, product development, and so forth stemmed from him rather than a culture of innovation that permeates throughout the organization.
+Steve is great, but in terms of **Agile [leadership]({{< ref "/categories/leadership" >}})**, he doesn’t touch sides – in my opinion – to **Satya Nadella**. You can see the difficulty he created within [Apple](https://www.apple.com/) because all innovation, [product development]({{< ref "/categories/product-development" >}}), and so forth stemmed from him rather than a culture of innovation that permeates throughout the organization.
 
-So, a great **product owner**, absolutely, probably one of the best that has ever lived, but there are chinks in the leadership armour that are impossible to ignore.
+So, a great **[product owner]({{< ref "/tags/product-owner" >}})**, absolutely, probably one of the best that has ever lived, but there are chinks in the leadership armour that are impossible to ignore.
 
 <figure>
 
@@ -58,7 +57,7 @@ So, a great **product owner**, absolutely, probably one of the best that has eve
 
 <figcaption>
 
-Why is Satya Nadella a better example of agile leadership than Steve Jobs?
+Why is Satya Nadella a better example of [agile leadership]({{< ref "/tags/agile-leadership" >}}) than Steve Jobs?
 
 </figcaption>
 
@@ -90,7 +89,7 @@ An organization that gained notoriety for disrupting almost every market it ente
 
 When [Satya Nadella](https://www.linkedin.com/in/satyanadella/) took over the reins at [Microsoft](https://www.microsoft.com/), he immediately started to decentralize decision-making by pushing decision-making authority and capability down to the experts who were best positioned to make those calls.
 
-In an organization the size of **Microsoft**, it takes a considerable amount of time to create change that has a lasting, sustainable impact but from the start, **Satya** was determined to embrace Agile and use those agile values and principles as a starting point for developing agile and innovation capabilities.
+In an organization the size of **Microsoft**, it takes a considerable amount of time to create change that has a lasting, sustainable impact but from the start, **Satya** was determined to embrace Agile and use those [agile values and principles]({{< ref "/tags/agile-values-and-principles" >}}) as a starting point for developing agile and innovation capabilities.
 
 He wanted to see the people who are actively doing the work, and are experts in that field, have a far stronger role in deciding how best to create a complex solution or solve a complex problem.
 
@@ -102,7 +101,7 @@ But in the areas where product development and innovation is important, that new
 
 Each department bore responsibility for coming up with their own ideas, using their own data and feedback loops to develop new hypotheses, and for designing experiments to validate or invalidate those hypotheses.
 
-In a word, empiricism or empirical process control.
+In a word, empiricism or [empirical process control]({{< ref "/tags/empirical-process-control" >}}).
 
 Make things transparent and visible, inspect the work you are doing frequently, and use what you have learned combined with data to inform what you attempt next.
 
@@ -112,7 +111,7 @@ Make things transparent and visible, inspect the work you are doing frequently, 
 
 For example, the Azure folks used to incentivise sales revenue and so customers would purchase millions of hours of **Azure** but become deeply dissatisfied because they only used a fraction of those hours over the course of the year.
 
-Incentivising the wrong things led to increased customer churn and decreased customer satisfaction.
+Incentivising the wrong things led to increased customer churn and decreased [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}).
 
 The focus was on revenue extraction rather than value creation.
 
@@ -138,7 +137,7 @@ So, that is why, in my opinion, Satya Nadella is a better example of Agile leade
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

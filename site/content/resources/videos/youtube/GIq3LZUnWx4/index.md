@@ -2,8 +2,10 @@
 title: What is the one thing a PSPO course forces you to focus on?
 description: Discover the key focus of the PSPO course and how it empowers product owners to drive value and customer satisfaction in Scrum environments.
 date: 2023-05-15T14:00:13Z
+weight: 790
 ResourceId: GIq3LZUnWx4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GIq3LZUnWx4
@@ -15,28 +17,26 @@ preview: https://i.ytimg.com/vi/GIq3LZUnWx4/maxresdefault.jpg
 duration: 116
 isShort: false
 aliases:
-- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
-- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
-- /resources/videos/GIq3LZUnWx4
-- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
 - /resources/GIq3LZUnWx4
-aliasesFor404:
+- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+aliasesArchive:
+- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 - /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 - /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
 - /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
+- what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- Value Delivery
 - Agile Product Management
-- Professional Scrum
-- Agile Philosophy
+- Value Delivery
+- Product Owner
 resourceTypes:
 - video
 categories:
 - Product Management
+- Product Development
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value
@@ -59,13 +59,13 @@ Particularly for public companies or not-for-profits, value takes on multifacete
 
 This is the intriguing aspect.  This isn't something I, or anyone else, can dictate or define for others or have a ready-made answer.  Each organisation has its unique interpretation.  
 
-Product Owners are uniquely responsible for "demonstrating leadership in their organisation" to define value.  🤔 
+Product Owners are uniquely responsible for "demonstrating [leadership]({{< ref "/categories/leadership" >}}) in their organisation" to define value.  🤔 
 
 But, unfortunately, for many, their comprehension of value is hazy, driven by the whims and inclinations of their superiors.
 
 ## Stepping Up as Product Owners
 
-A Product Owner's role transcends managing backlogs and stakeholders.  It's about "demonstrating leadership", delineating what value means for the organisation.   Being a Product Owner is about more than just the title.  👑
+A [Product Owner]({{< ref "/tags/product-owner" >}})'s role transcends managing backlogs and stakeholders.  It's about "demonstrating leadership", delineating what value means for the organisation.   Being a Product Owner is about more than just the title.  👑
 
 It's about evolving into a true Product Manager, anchoring strategies and decisions firmly on the bedrock of value.
 

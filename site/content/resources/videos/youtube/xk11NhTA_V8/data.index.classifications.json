@@ -1,13 +1,4 @@
 {
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T15:55:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses judgment in agile environments and metrics for team performance, with only a brief mention of Scrum at the end, making it not central to the topic.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-17T15:55:30",
@@ -28,29 +19,14 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T15:55:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of judgment on team dynamics and the importance of setting goals and adapting metrics, which are relevant to leadership practices in fostering team growth. However, the primary focus is more on the challenges within Agile environments rather than on leadership itself.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T15:55:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile concepts and personal experiences rather than specific events or presentations.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T15:55:38",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of judgment on team dynamics and the need to adapt metrics, which relates to learning and improvement, but it primarily focuses on Agile practices rather than a broader exploration of discovery and learning methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content touches on the impact of judgment on team dynamics and the need for adaptive metrics, which aligns with leadership's role in fostering a supportive environment. However, it lacks a direct focus on leadership practices and does not delve deeply into strategies or frameworks for effective leadership, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Engineering Excellence": {
@@ -62,40 +38,28 @@
     "reasoning": "Content primarily discusses judgment in agile practices and team dynamics rather than focusing on software craftsmanship or development practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T15:55:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses judgment in agile practices and team dynamics, with no clear focus on code quality or complexity.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T15:55:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of Agile and metrics related to team performance, which are relevant to product management, but the primary focus is on judgment and team dynamics rather than strategic product management.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly touches on Agile concepts and the importance of setting goals and metrics, which are relevant to product management. However, it lacks a direct focus on product management strategies, methodologies, or frameworks. The discussion is more about team dynamics and judgement rather than the strategic alignment of customer needs and business objectives, which diminishes its relevance to the category.",
     "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T15:55:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal insights and experiences related to Agile practices rather than providing news or reviews on industry developments or tools.",
-    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T15:55:44",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal experiences and reflections on judgment within Agile teams, making it a major theme, but it also includes technical aspects of metrics and goals.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses personal experiences with judgment in Agile environments, which aligns with the Personal category. However, it primarily focuses on the negative impacts of judgment rather than providing deeper personal anecdotes or reflections. The mention of adapting metrics suggests some personal insight, but the overall depth of personal experience is limited.",
     "level": "Tertiary"
   },
   "Miscellaneous": {
@@ -116,41 +80,41 @@
     "reasoning": "Content primarily discusses judgment in Agile practices and team dynamics rather than specific engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T15:55:53",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the impact of judgment on team dynamics and the importance of adapting metrics to foster team growth, which aligns with the interplay between human behaviour and structured methodologies in Agile environments.",
-    "level": "Secondary"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T15:55:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-21T18:29:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Agile principles and team dynamics, with only a brief mention of DevOps at the end.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the impact of judgment on team dynamics, which is not directly aligned with DevOps principles. While it briefly mentions collaboration and metrics, these concepts are framed within an Agile context rather than a DevOps philosophy. The depth of discussion on DevOps is minimal, focusing instead on Agile practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T15:55:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile concepts and the impact of judgment on team dynamics, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of judgment on team dynamics and innovation within Agile frameworks, which aligns with the core themes of collaboration and decision-making in social technologies. It provides specific strategies for fostering a supportive culture and enhancing collaboration, indicating a strong conceptual alignment. The depth of discussion is substantial, as it explores various forms of judgment and their effects on team behaviour, while also suggesting methods to improve team dynamics. However, it does not explicitly mention social technologies or frameworks, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the importance of adapting metrics to promote positive behaviors and team growth, which aligns with principles of Continuous Learning, but it is primarily focused on judgment in agile practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the negative impact of judgment on team dynamics and the importance of adapting metrics to foster a more supportive environment. While it touches on themes relevant to Continuous Learning, such as adaptability and the need for growth, it lacks a direct focus on knowledge sharing, feedback loops, or specific practices that promote a culture of experimentation. The discussion is somewhat superficial and does not delve deeply into the principles of Continuous Learning, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -163,37 +127,46 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses judgment and metrics in Agile, without a focus on Continuous Delivery principles or practices.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses Agile practices and the impact of judgment on team dynamics, which is not directly related to Continuous Delivery. While it touches on themes of collaboration and metrics, it lacks a clear focus on Continuous Delivery principles, automation, or delivery practices. The discussion is more about fostering a supportive culture rather than the specific practices and benefits of Continuous Delivery.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses judgment in Agile practices, goals, and metrics, but does not address Test First Development or related topics like TDD or testing processes.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of judgment on Agile team dynamics and does not explicitly mention Test First Development or its principles. While it touches on the importance of setting clear goals and metrics, it lacks a direct focus on testing practices, success criteria, or the methodologies associated with Test First Development. Therefore, the confidence score reflects minimal relevance to the category.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of setting goals and creating metrics for monitoring progress, which aligns with operational efficiency. However, it primarily focuses on the issues of judgment and team dynamics, making operational practices a secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of judgment on Agile practices and suggests strategies for setting effective metrics and fostering team dynamics. While it touches on operational practices, such as focusing on outcomes and iterating on metrics, the primary focus is on the cultural aspects of Agile rather than specific operational techniques or methodologies. Therefore, it aligns with the category but lacks depth and direct mentions of operational efficiency strategies.",
     "level": "Tertiary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:36:02",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses judgment in Agile and Scrum, focusing on team dynamics and goal-setting, rather than technical aspects of installation and configuration.",
     "level": "Ignored"
   },
@@ -253,21 +226,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly touches on the impact of judgment on teams and emphasizes the need for adapting metrics to foster progress, which relates to leadership in an Agile context. However, the primary focus is on discussing issues related to agile metrics rather than explicitly exploring agile leadership roles and practices.",
-    "level": "Tertiary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects related to agile practices, particularly around metrics and team dynamics, which are relevant to Agile Project Management, though it touches on broader themes as well.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the negative impacts of judgment on team dynamics and emphasises the importance of fostering a supportive culture, which aligns with Agile Leadership principles. However, it primarily focuses on the issues of metrics and judgment rather than explicitly addressing leadership roles or practices. The discussion on creating a culture of open dialogue and iterating on metrics touches on leadership but lacks depth in exploring specific leadership strategies or the role of leaders in facilitating change.",
+    "level": "Secondary"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -289,30 +256,36 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses judgment in agile practices and the impact of metrics on team behavior, without directly addressing lead time or its relevance.",
+    "calculated_at": "2025-04-11T09:20:52",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the negative impacts of judgment on team dynamics and metrics like velocity, which are unrelated to Lead Time. While it touches on the importance of metrics, it does not define or discuss Lead Time as a concept, nor does it provide any techniques for measuring or optimising it. The focus is on fostering a supportive culture rather than on the efficiency of processes or delivery times, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 28,
+    "ai_depth": 36,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the establishment of goals and metrics, which relates to strategic alignment and the approach to managing team performance. However, it primarily focuses on the negative impact of judgment in Agile environments rather than a comprehensive discussion on strategy itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of judgment on Agile teams and the importance of setting clear goals and metrics, which aligns with strategic discussions in Agile environments. It provides specific strategies for improving team dynamics and performance, indicating a depth of discussion on the topic. However, while it touches on strategic alignment and metrics, it does not delve deeply into broader strategic frameworks or leadership roles, which slightly limits its overall alignment with the Strategy category.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-17T23:36:02",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses the impact of judgment in agile environments but does not focus on the principles of Beta Codex, decentralisation, or human-centric organizational design as its primary topic.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -325,21 +298,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the importance of adapting metrics to foster positive team behaviors, which aligns with coaching principles, but the primary focus is on the negative impact of judgment rather than direct coaching techniques or practices.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses judgment in agile processes and does not focus on Kanban principles or scaling Kanban.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the negative impacts of judgment on team dynamics and emphasises the importance of fostering a supportive environment, which aligns with coaching principles. However, it lacks direct mentions of coaching techniques or frameworks, and the depth of discussion on coaching practices is limited.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -385,15 +352,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of judgment and metrics on team dynamics within an agile context, with no clear focus on validating product ideas or user engagement.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses adapting metrics to avoid negative behaviors, which relates to the broader theme of fostering adaptability. However, it primarily focuses on judgment in agile practices rather than a clear emphasis on resilience or change management strategies.",
-    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -442,38 +400,50 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content addresses the impact of judgment on team dynamics and the need for adapting metrics that can foster team growth, which relates to team collaboration in Agile contexts.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the negative impact of judgment on team dynamics, which aligns with the themes of fostering a culture of trust and psychological safety. However, it lacks direct mentions of specific collaboration techniques or tools, and the depth of discussion is limited, focusing more on the consequences of judgment rather than actionable strategies for improving team collaboration.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 56.0,
-    "reasoning": "The content discusses the importance of setting goals and creating metrics to monitor progress, along with the need to adapt metrics to avoid negative behaviors. However, the primary focus is on the concepts of judgment and team growth in an Agile context rather than solely on metrics and learning.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of metrics on team dynamics and the importance of setting clear goals, which aligns well with the core themes of the category. It explicitly mentions various metrics like velocity, bug counts, and code volume, indicating a direct engagement with the topic. The depth of discussion is substantial, providing strategies for improving metrics and fostering a supportive team environment. However, the focus on judgment and its negative implications slightly detracts from a purely metrics-focused narrative.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of judgment on teams and the need for adapting metrics to promote positive behaviors, which are relevant to the theme of psychological safety as they imply a focus on team dynamics. However, the primary focus seems to be on judgment and metrics rather than directly on psychological safety itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the negative impact of judgment on team dynamics and highlights the importance of fostering an open dialogue, which aligns closely with the principles of psychological safety. It provides specific strategies for creating a supportive culture, such as focusing on outcomes rather than outputs and encouraging open communication. However, while it addresses psychological safety, it also delves into metrics and goals, which slightly detracts from its primary focus on psychological safety.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of setting goals and creating metrics for monitoring progress, which aligns with the idea of using empirical evidence for leadership decisions. However, it also contains elements that are more about Agile practices and judgment in teams, making the topic a major but secondary theme.",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of metrics and judgment on team dynamics, which aligns with the principles of evidence-based leadership. However, it primarily focuses on the negative aspects of judgment rather than providing a robust framework for evidence-based decision-making. While it mentions the importance of metrics and adapting them, it lacks a detailed exploration of empirical evidence or case studies that would strengthen its alignment with the category.",
     "level": "Tertiary"
   },
   "Sensemaking": {
@@ -523,12 +493,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of judgments and metrics on team performance and goal-setting, which relates to decision-making processes. However, it is not the primary focus and largely revolves around challenges in Agile environments.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of judgment on team dynamics and decision-making processes, particularly in Agile environments. It mentions the importance of setting clear goals and metrics, which aligns with evidence-based decision-making principles. However, the focus is more on the negative aspects of judgment rather than structured methodologies for decision-making, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -537,15 +510,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses judgment in Agile and Scrum processes and focuses on team dynamics and metrics rather than product strategy principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses team-level dynamics and issues related to judgment in agile environments, rather than strategies for scaling agility across an organization.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -566,31 +530,13 @@
     "reasoning": "Content primarily discusses Agile methodologies, judgment in metrics, and performance-related topics, without a clear focus on psychological principles of motivation, engagement, or team dynamics.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on judgment and team dynamics in Agile but does not discuss AI, automation, or their integration into Agile practices.",
-    "level": "Ignored"
-  },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:36:02",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on general Agile concepts and judgment in teams rather than specific Scrum roles, practices, or dynamics.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the negative impacts of judgment in Agile environments and the need for adaptive metrics, without a clear focus on specific tools, methodologies, or practical applications.",
     "level": "Ignored"
   },
   "Experimentation": {
@@ -604,12 +550,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses general Agile concepts and metrics but does not primarily focus on the Scrum Master role, responsibilities, or practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and team dynamics, which are relevant to the role of a Scrum Master. However, it does not explicitly mention the Scrum Master role or its specific responsibilities. The focus is more on general Agile practices and the impact of judgment on team culture rather than on the Scrum Master's influence or techniques. While there is some alignment with the themes of fostering collaboration and continuous improvement, the depth of discussion regarding the Scrum Master role is limited.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
@@ -618,15 +567,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses team-level dynamics and judgments rather than broader organizational agility principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to team dynamics and judgment in an Agile context, without reference to specific products or literature. It does not offer reviews, analyses, or discussions focused on Agile-related resources.",
     "level": "Ignored"
   },
   "Sprint Review": {
@@ -665,15 +605,6 @@
     "reasoning": "Content heavily discusses Agile concepts, focusing on issues like judgment and metrics, without any clear reference to Lean principles.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses judgment in teams and the need for adaptive metrics, but it primarily focuses on the negative impacts of judgment rather than directly addressing transparency or accountability practices.",
-    "level": "Quaternary"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
     "calculated_at": "2025-02-17T23:36:02",
@@ -685,12 +616,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses team dynamics and the impact of judgments on team performance, which relates to the social aspects of software development. However, it primarily focuses on issues within Agile practices without deeply exploring the interplay between social and technical systems.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses team dynamics and the impact of judgment on collaboration, which aligns with sociotechnical systems. However, it lacks explicit references to sociotechnical principles and does not deeply explore the interplay between social and technical aspects. The focus is more on Agile practices and team culture rather than a comprehensive examination of sociotechnical systems.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -701,23 +635,17 @@
     "reasoning": "Content heavily discusses agile methodologies and team dynamics rather than specifics of version control practices.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses individual Agile topics such as judgment and team dynamics without reference to scaling Agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of adaptability and team dynamics in an Agile context, but it primarily focuses on the negative impact of judgment and metrics rather than direct change management strategies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of judgment on team dynamics and the importance of setting clear goals and metrics, which aligns with change management principles. However, it primarily focuses on the negative effects of judgment rather than providing a comprehensive discussion on change management strategies or practices. The mention of fostering a culture of support and understanding hints at change management but lacks depth in exploring specific change management techniques or leadership roles.",
+    "level": "Secondary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -739,14 +667,17 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on aspects of collaboration and team dynamics in an agile context, specifically related to how judgment and metrics can impact team growth. Although it does mention agile and references DevOps, the focus is more on the issues surrounding judgment rather than on clear technical leadership principles or practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of judgment on team dynamics and the importance of fostering a supportive culture, which aligns with the principles of technical leadership. However, it primarily focuses on personal experiences and general observations rather than providing in-depth strategies or frameworks for technical leadership in agile environments. The mention of metrics and team dynamics is relevant but lacks a strong emphasis on actionable leadership practices.",
+    "level": "Secondary"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:36:02",
     "ai_confidence": 0,
@@ -766,21 +697,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content touches on agile concepts, specifically in relation to team dynamics and metrics, which are relevant to Agile Product Management, but it is not primarily focused on the key aspects of the category.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses negative behaviors related to metrics and judgment in agile teams, without a clear focus on scaling Scrum practices, frameworks, or coordination among multiple teams.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile principles and their impact on team dynamics, particularly focusing on judgment and metrics. While it touches on Agile methodologies and the importance of aligning team efforts with organisational goals, it lacks a direct focus on product management aspects such as the role of the Product Owner or specific techniques for prioritising product backlogs. The discussion is more about team culture and metrics rather than product value maximisation, which slightly diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -793,11 +718,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:20:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on judgment in Agile and the impact of metrics on team behavior, without discussing the measurement or optimization of throughput itself.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the negative impacts of judgment on team dynamics and innovation within Agile frameworks. While it mentions metrics like velocity and bug counts, it does not focus on throughput as a delivery metric or provide any analysis, visualisation, or interpretation of throughput. The discussion is more about fostering a supportive culture rather than examining throughput in the context of delivery capacity or performance.",
     "level": "Ignored"
   },
   "Troubleshooting": {
@@ -820,10 +748,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:36:02",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content discusses judgments and metrics in Agile but does not focus on the Definition of Ready or its related criteria.",
     "level": "Ignored"
   },
@@ -838,20 +766,11 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T23:36:02",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content mainly discusses the impact of judgment and metrics on team dynamics rather than focusing on Agile Planning Tools specifically.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of judgment in agile environments and team dynamics rather than focusing directly on Scrum product development practices, roles, or specific methodologies.",
+    "reasoning": "Content mainly discusses the impact of judgment and metrics on team dynamics rather than focusing on Agile Planning Tools specifically.",
     "level": "Ignored"
   },
   "Self Organisation": {
@@ -874,10 +793,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:36:02",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses judgment in agile practices, with minimal focus on the Ability to Innovate or empirical data for innovation measurement.",
     "level": "Ignored"
   },
@@ -901,29 +820,38 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the negative impacts of judgment on team dynamics and the importance of setting goals and metrics, which relate to accountability. However, it primarily focuses on judgment rather than accountability as a central theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the negative impacts of judgment on team dynamics, which indirectly relates to accountability by highlighting the importance of fostering a supportive environment. It mentions strategies for creating a culture of open dialogue and focusing on outcomes rather than outputs, which aligns with accountability principles. However, the primary focus is on judgment rather than accountability itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses judgment in the context of agile teams and the impact of metrics on team behavior, which relates to team dynamics and motivation.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the negative impacts of judgment on team dynamics and emphasises the importance of fostering a supportive culture, which aligns with team motivation principles. It mentions strategies for open dialogue and focusing on outcomes, but lacks extensive detail on broader motivational strategies or practices.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses judgment in Agile practices and metrics, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile principles and team dynamics but does not explicitly focus on the Agile Product Operating Model. It touches on metrics and team culture, which are relevant to Agile practices, but lacks a direct connection to product management or the specific themes outlined in the APOM framework.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -973,12 +901,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 24,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses themes related to Agile methodologies and team dynamics, it mostly centers around the negative impacts of judgment in Agile environments rather than focusing explicitly on product delivery processes or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and the impact of metrics on team dynamics, which aligns with product delivery principles. However, it primarily focuses on the negative aspects of judgment rather than providing a comprehensive view of product delivery practices. While it touches on important themes like goal setting and team collaboration, it lacks detailed exploration of methodologies, testing, or deployment strategies, which are crucial for a higher confidence score.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -991,30 +922,36 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses themes relevant to Agile philosophy, such as team dynamics, judgment, and goal setting, but it also includes references to specific metrics and potential practices without diving deeply into the principles or mindset of Agile philosophy itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the negative impacts of judgment on Agile principles, emphasising the importance of collaboration, adaptability, and a supportive culture, which aligns well with Agile Philosophy. It addresses the need for metrics that reflect value delivery rather than mere outputs, showcasing a deep understanding of Agile values. However, while it touches on Agile concepts, it does not explicitly reference the Agile Manifesto or its principles, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and indirectly touches on aspects of team dynamics and goal setting, which are relevant to the Software Development category, but is more focused on judgment and team growth than on software engineering practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Agile methodologies, specifically focusing on the impact of judgment on team dynamics and performance. It aligns well with the core themes of software development, particularly in relation to Agile practices and team collaboration. The depth of discussion is substantial, providing specific examples and strategies for improvement, which enhances its relevance to the Software Development category.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T23:36:02",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "While the content mentions Agile and metrics, it primarily focuses on judgments and negative behaviors within teams, rather than explicitly discussing complexity science or its principles.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1027,12 +964,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses judgment and its impact on the team, along with the need for setting goals and metrics to monitor progress, which relates to team performance. However, the focus is mixed with broader themes that dilute the primary emphasis on team performance.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of judgment on team dynamics and offers strategies for fostering a supportive environment, which aligns well with the core themes of team performance. It explicitly mentions metrics and their influence on team behaviour, indicating a strong focus on enhancing collaboration and productivity. The depth of discussion on how to navigate judgment and promote open dialogue further supports its relevance to the category.",
+    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1045,10 +985,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:36:02",
+    "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on judgment, metrics, and team dynamics rather than the Definition of Done.",
     "level": "Ignored"
   },
@@ -1059,15 +999,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and personal experiences related to team dynamics, rather than focusing on Continuous Integration principles or practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Agile concepts, particularly judgment and metrics, without any mention or discussion of AI applications or integration.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
@@ -1081,12 +1012,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses judgment in the context of team dynamics and goals, which relates to Agile principles of collaboration and continuous improvement. However, it also mentions Scrum and DevOps, indicating that Agile values are not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 30,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the negative impacts of judgment on team dynamics, which aligns with Agile principles of collaboration and fostering a supportive environment. It emphasises the importance of focusing on outcomes rather than outputs, reflecting Agile's customer-centric approach. However, while it touches on Agile values, it does not explicitly mention the Agile Manifesto or its core values, which limits the direct mentions score. The depth of discussion is substantial, providing strategies for improvement, but it could delve deeper into the foundational principles of Agile.",
+    "level": "Secondary"
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1097,41 +1031,41 @@
     "reasoning": "Content mostly discusses judgments in Agile environments and setting goals without a focus on organisational change or its methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile practices and their impact on team dynamics, making it a major but secondary theme within a broader context of team growth and metrics.",
-    "level": "Tertiary"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of setting goals and creating metrics to monitor progress, which aligns with the principles of Evidence-Based Management. However, the primary focus appears to be on judgment and team dynamics rather than a thorough exploration of EBM as a central theme.",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of judgment on Agile practices and the importance of setting meaningful goals and metrics. However, it primarily focuses on the negative effects of judgment rather than providing a robust discussion on Evidence-Based Management principles. While it touches on the need to focus on outcomes over outputs, it lacks a strong empirical basis and does not delve deeply into the specific metrics or data-driven decision-making that characterise EBM.",
     "level": "Tertiary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need to adapt metrics to avoid negative behaviors, which touches on the theme of adaptability in an Agile context. However, the primary focus appears to be on judgment within Agile teams rather than directly addressing broader market adaptability strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile principles and the importance of adapting metrics to foster a supportive team environment, which aligns with the concept of market adaptability. However, it primarily focuses on the negative impacts of judgment rather than directly addressing strategies for responding to market shifts or competitive pressures. The discussion lacks explicit references to Agile methodologies' role in enhancing market adaptability, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of setting goals and creating metrics to monitor progress, which is relevant to Agile Planning. However, the primary focus is on judgment and team dynamics rather than specific Agile Planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of judgment on Agile practices and team dynamics, which indirectly relates to Agile Planning. It mentions the importance of setting clear goals and metrics, aligning with Agile principles. However, it lacks direct references to Agile Planning methodologies and does not delve deeply into specific planning techniques or frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -1144,11 +1078,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:20:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses agile methodologies and team dynamics rather than system configuration topics.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and team dynamics, with a focus on judgment and metrics within teams. There are no direct mentions of system configuration, and the themes of the content do not align with the core topics of system setup, automation, or maintenance. The depth of discussion is also low, as it does not provide any technical insights or practices related to system configuration. Overall, the content is more aligned with Agile practices than with system configuration.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -1169,23 +1106,17 @@
     "reasoning": "Content heavily discusses judgment in the context of Agile methodologies and metrics, without focusing on employee engagement themes like motivation, trust, or feedback.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses judgment in agile practices and does not focus on One Engineering System or its principles.",
-    "level": "Ignored"
-  },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile concepts and metrics, which are relevant to Agile frameworks, but it does not primarily focus on those frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of judgment on Agile teams and the importance of fostering a supportive environment, which aligns with Agile principles. However, it lacks direct references to specific Agile frameworks and does not provide a detailed exploration of any particular framework. The focus is more on team dynamics and metrics rather than a comprehensive analysis of Agile frameworks themselves.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1216,30 +1147,39 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the adaptation of metrics to better align with goals, indicating a secondary theme of empirical process control, though the primary focus is on judgment and team dynamics.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of judgment on Agile practices and the importance of adapting metrics to foster a supportive team environment. While it touches on themes of transparency and adaptation, it does not explicitly focus on empirical process control principles or provide in-depth analysis of its core concepts. The discussion is relevant but not central to the category.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses judgment and metrics in the context of Agile frameworks, which are related to decision-making processes, it primarily focuses on aspects of Agile practices rather than explicitly on decision theory principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses judgment in Agile environments, which relates to decision-making processes, but it primarily focuses on the impact of metrics and team dynamics rather than explicitly exploring decision theory concepts. While there are mentions of decision-making strategies, they are not the primary focus, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses adaptability in metrics to monitor progress towards team goals, which aligns with pragmatic thinking in Agile contexts. However, the primary focus is on judgment and the emotional impact of metrics rather than practical problem-solving strategies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the negative impacts of judgment in Agile environments and the need to adapt metrics to foster team growth, which aligns with pragmatic problem-solving in Agile contexts. However, it lacks direct mentions of specific Agile or Scrum practices and does not delve deeply into real-world applications or case studies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1252,12 +1192,15 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of judgment on team dynamics and the need to adapt metrics to encourage positive behaviors, which relates to elements of organizational culture in an Agile context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the impact of judgment on team dynamics and highlights the importance of fostering a supportive culture, which aligns well with the themes of organisational culture. It provides specific strategies for creating a positive environment that encourages collaboration and innovation, demonstrating a strong conceptual alignment with the category. The depth of discussion is substantial, as it explores various aspects of how judgment affects team performance and offers actionable insights for improvement.",
+    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1279,21 +1222,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of Agile transformation, particularly around setting goals and metrics, which are relevant to Agile practices. However, it also includes broader reflections on judgment and team dynamics that are not exclusively tied to Agile principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the negative impacts of judgment on Agile teams and suggests strategies for fostering a supportive environment, which aligns with Agile principles. However, it lacks direct references to specific Agile frameworks or methodologies, and the depth of discussion on Agile transformation practices is limited.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses elements related to Agile principles and team dynamics, such as setting goals and adapting metrics, but it is mainly focused on the implications of judgment within Agile teams rather than a comprehensive discussion on Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the negative impacts of judgment on Agile teams and suggests strategies for fostering a supportive environment, which aligns with Agile principles. However, it primarily focuses on team dynamics and metrics rather than a comprehensive Agile strategy, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1306,11 +1255,14 @@
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses setting goals and adapting metrics to monitor progress, which relates to strategic objectives. However, it primarily focuses on behaviors influenced by metrics and judgments within a team context, making strategic goals a secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of setting clear goals and metrics, which aligns with the concept of strategic goals. However, it primarily focuses on the negative impacts of judgment and metrics on team dynamics rather than articulating long-term objectives or frameworks for achieving strategic goals. The discussion lacks depth in terms of strategic alignment with Agile principles and does not provide a comprehensive exploration of how these goals enhance business agility.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
@@ -1324,21 +1276,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses aspects of agile methodologies, such as the need for adaptive metrics and the impact of judgment on team dynamics, but it primarily focuses on the consequences of judgment rather than a comprehensive exploration of organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the negative impacts of judgment on team dynamics and highlights the importance of fostering a supportive culture, which aligns with the principles of organisational agility. It addresses the need for clear goals and metrics that promote positive behaviours, reflecting a conceptual understanding of agility. However, while it touches on relevant themes, it does not delve deeply into specific agile methodologies or frameworks, which slightly limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:36:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses judgment in agile practices and the importance of adapting metrics to support team growth, indicating a connection to broader themes of business agility, although it is primarily focused on agile and scrum rather than business agility as a central topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the impact of judgment on Agile teams and suggests strategies for fostering a supportive culture, which aligns with the principles of business agility. However, it primarily focuses on Agile practices rather than explicitly addressing broader business agility concepts, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1375,5 +1333,432 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses judgment in Agile practices and metrics for team progress, with no focus on asynchronous development principles or practices.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:48:05",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and Scrum practices, with no clear focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:48:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile practices and team dynamics without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-14T21:12:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions 'agile' and 'scrum' in the context of discussing judgment and metrics, but it does not delve into specific Scrum roles, events, or practices. The focus is more on general agile principles rather than the Scrum framework itself, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of judgment on Agile teams and the importance of metrics, but it does not explicitly mention the Shift-Left Strategy or its principles. While there are some themes related to improving team dynamics and outcomes, they do not align with the core focus of integrating testing, security, and compliance earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the negative impact of judgment on team dynamics and suggests strategies for fostering a supportive culture, which aligns with the principles of Continuous Improvement. However, it primarily focuses on the issue of judgment rather than explicitly addressing Continuous Improvement practices or frameworks. The mention of iterating on metrics and focusing on outcomes indicates some alignment with Continuous Improvement, but the depth of discussion is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 62.0,
+    "ai_mentions": 30.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of setting clear goals and metrics, which aligns with the concept of Common Goals. However, the primary focus is on the negative impacts of judgment within Agile teams rather than a thorough exploration of shared objectives or strategic alignment. While it touches on the need for alignment with broader organisational goals, it does not delve deeply into the principles of Agile or DevOps frameworks, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the negative impacts of judgment on team dynamics and innovation within Agile environments. While it touches on the importance of setting clear goals and metrics, which can relate to competence, the focus is more on fostering a supportive culture rather than directly addressing continuous learning or skill development. The discussion lacks explicit references to competence as a foundational principle, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:29:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the impact of judgment on team dynamics, which does not align with the core principles of the One Engineering System. While it touches on collaboration and metrics, it lacks a direct focus on the integration and standardisation of engineering processes as outlined in the 1ES framework.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of judgment on Agile practices and team dynamics, but it does not explicitly address Agentic Agility or its principles. While it touches on themes of adaptability and fostering a supportive culture, it lacks a clear focus on intentional shaping of outcomes or the distinction between human and AI capabilities. The discussion is more about general Agile practices rather than the specific concept of agency and intentionality.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T09:20:06",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 37,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of judgment on Agile team dynamics, which is relevant to product development methodologies. It mentions the importance of setting clear goals and metrics that align with customer value, reflecting key principles of Agile product development. The discussion on fostering a supportive culture and iterating on metrics aligns with continuous improvement practices. However, while the content is focused on Agile, it does not delve deeply into specific product development strategies or frameworks, which slightly limits its depth of discussion.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T09:20:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of judgment on Agile team dynamics and emphasises the importance of fostering a supportive culture, which aligns with the principles of psychological safety and collaboration. However, it does not explicitly mention Open Space Agile or its specific practices, nor does it delve deeply into the core themes of Open Space Technology. The focus is more on general Agile principles rather than the specific category of Open Space Agile, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T09:20:12",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the negative impacts of judgment in Agile environments and promotes a culture of support and understanding, which aligns with the principles of Agnostic Agile. However, it does not explicitly mention Agnostic Agile or its key themes, focusing instead on general Agile practices and metrics. The depth of discussion on fostering collaboration and adapting metrics reflects some alignment with Agnostic Agile principles, but the lack of direct references to the movement or its philosophy limits the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T09:20:14",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the negative impacts of judgment on team dynamics within Agile environments, focusing on fostering a supportive culture and enhancing collaboration. While it touches on the importance of metrics and goals, it does not explicitly address scaling methodologies, frameworks, or strategies for cross-team collaboration, which are central to the 'Scaling' category. The discussion lacks depth in exploring how to coordinate multiple teams or manage dependencies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T09:20:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of judgment on Agile team dynamics and does not mention or align with the principles of Cell Structure Design. It focuses on fostering a supportive culture and enhancing collaboration, which are not directly related to the decentralised, network-based structure of cells as described in the Cell Structure Design model. There is no exploration of the Beta Codex, autonomous cells, or complexity theory, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T09:20:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of judgment on Agile team dynamics and suggests strategies for fostering a supportive culture. However, it does not explicitly mention Liberating Structures or their specific techniques. While it aligns with the themes of enhancing collaboration and creating a safe environment, it lacks depth in discussing Liberating Structures as a facilitation technique. The focus remains primarily on Agile principles rather than the specific methodologies of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T09:20:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the negative impacts of judgment on team dynamics and innovation within Agile environments. While it touches on metrics, such as velocity and bug counts, these are not directly related to Time to Market. The focus is more on fostering a supportive culture rather than optimising processes for quicker delivery of value. Therefore, the content does not align closely with the core themes of Time to Market, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T09:20:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the impact of judgment on Agile team dynamics and innovation, which is somewhat related to organisational culture but does not explicitly address the concept of 'Company as a Product'. While it touches on the importance of aligning team efforts with broader organisational goals and fostering a supportive culture, it lacks a direct focus on treating the organisation itself as a product or integrating customer feedback into organisational design. The discussion is more centred on team-level dynamics rather than the overarching organisational strategy that CaaP entails.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T09:20:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and the impact of judgment on team dynamics, without any direct mention of GitHub or its functionalities. While it touches on themes relevant to Agile methodologies, it does not align with GitHub's specific tools or practices, nor does it provide any depth regarding GitHub services. Therefore, the confidence score reflects a very low relevance to the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T09:20:33",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the negative impacts of judgment on team dynamics and innovation within Agile environments. While it touches on the importance of fostering a supportive culture and enhancing collaboration, it does not explicitly mention Unrealised Value or its indicators. The discussion lacks a direct focus on potential improvements or innovation opportunities that align with the concept of Unrealised Value. The content does provide some depth in discussing metrics and their impact on team behaviour, but it does not explore the broader implications of untapped opportunities or strategies for identifying them, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T09:20:36",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of judgment on team dynamics and the importance of metrics, but it does not explicitly focus on Current Value or its measurement. While it touches on the need to focus on outcomes and the value delivered to customers, it lacks a detailed exploration of Current Value metrics or techniques for gathering and analysing data related to Current Value. The primary focus is on team culture and the negative effects of judgment rather than a real-time assessment of value delivered.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T09:20:39",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the impact of judgment on Agile teams and the importance of fostering a supportive culture, but it does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. While it touches on themes relevant to Agile practices, it lacks a direct focus on the challenges and implications of Hybrid Agile, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T09:20:43",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the challenges of judgment within Agile teams, which is a specific aspect of Agile methodology rather than a broader discussion on project management principles. While it touches on the importance of setting goals and metrics, it lacks a comprehensive exploration of core project management themes such as project lifecycle phases, governance structures, or roles within a project. The discussion is more about team dynamics and culture rather than practical strategies for managing projects as a whole.",
+    "level": "Tertiary"
+  },
+  "Tool": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content focuses primarily on the concept of judgment within Agile environments and discusses team dynamics and culture rather than any specific tools or their functionalities. It touches on metrics but does not evaluate or discuss specific software tools or techniques that would fit into the 'Tool' category. As such, the direct mention of tools is absent, and while there is some conceptual alignment with adapting metrics and fostering collaboration—elements indirectly related to tools—the depth of discussion on tools is minimal.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "Navigating_the_Agile_Apocalypse",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 68.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the impact of judgment on team dynamics and emphasizes the importance of fostering a supportive culture. While it touches on the agile values of collaboration and openness, much of the focus is on metrics and judgments that can lead to negative outcomes. Therefore, while the notion of values is present, it is not the primary focus throughout the content. The discussion provides reasonable depth about improving culture and team interactions but does not significantly delve into foundational values like those in Agile or Scrum explicitly.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content does mention Agile and touches on team dynamics and culture, which can relate to philosophical discussions. However, it primarily focuses on practical challenges and strategies specific to Agile practices, such as metrics and outcomes, rather than providing a deep philosophical exploration of the underlying principles of Agile, Lean, or DevOps. The discourse lacks substantial philosophical engagement and revolves mostly around practical implementation and personal experiences, which limits its alignment with the Philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 70.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 70.0,
+    "reasoning": "The content discusses Agile practices and the impact of judgment on team dynamics, highlighting the importance of fostering a supportive culture. Direct mentions of Agile principles and challenges related to judgment indicate some alignment with the discipline of Agile. However, the content primarily focuses on the impact of judgment rather than a broader discussion of Agile as a discipline with shared principles and methodologies. While it addresses aspects of continuous improvement and cultural considerations, it lacks depth in exploring the systemic application of Agile as a formal discipline.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of judgment on team dynamics and metrics within Agile, without focusing on specific artifacts or their roles in Agile. While it mentions metrics, it does not explore artifacts like Product Backlogs or Definitions of Done, which are central to the classification of 'Artifact'. Thus, it lacks direct mentions, alignment, and depth related to the category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 22.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content primarily discusses the effects of judgment in Agile settings and emphasizes metrics and goals but does not focus on observability in terms of understanding system states or implementing observability practices in technical environments. The mention of metrics is brief and not fully aligned with observability principles like logs, traces, or tools. Overall, the content superficially touches on relevant topics but lacks depth and strong alignment with the category's definitions.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 63.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the negative impacts of judgment on team dynamics within Agile environments and suggests strategies for fostering a supportive culture. While it does mention the importance of metrics and goals, the focus is more on the philosophical impacts rather than specific actionable practices within Agile. It references aligning efforts with broader goals and iterating on metrics, which aligns with continuous improvement, but does not delve into actual practices like retrospectives or TDD. The discussion is somewhat abstract and lacks depth in practical methodologies, thus resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "Navigating_the_Agile_Apocalypse_12345",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the negative impacts of judgment on Agile team dynamics and proposes strategies for fostering collaboration and support. However, it primarily focuses on the cultural aspects and issues rather than providing detailed step-by-step methods or structured procedural approaches typical of the 'Method' category. While there are brief mentions of ideas that could align with methods, such as iterating on metrics and focusing on outcomes, the content does not delve into specific methodologies like Scrum or Kanban, nor does it provide a comprehensive procedural approach.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses judgment in Agile contexts and its impact on team dynamics. While it touches on the importance of metrics as a means to measure progress, it does not focus on specific models or conceptual frameworks central to the category 'Model'. Therefore, the direct mentions are nonexistent, and the alignment of the discussion with the core themes of various models is weak, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile-related challenges and strategies, but it primarily focuses on the issue of judgment within teams rather than on specific frameworks or structured methodologies. While it briefly touches on Agile principles and suggests strategies that align with Agile values, it does not discuss specific frameworks or how they can be adapted for better implementation. The content lacks a deep exploration of any framework, and the primary intent seems to be fostering team culture rather than a thorough analysis of a framework.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "Navigating_the_Agile_Apocalypse",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 55.0,
+    "ai_mentions": 7,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses challenges within Agile, particularly the impact of judgment on team dynamics and innovation. While it identifies issues related to metrics and suggests a more positive approach to them, it lacks explicit mentions of actionable tenets or doctrines from Agile methodologies. The themes around fostering collaboration and focusing on outcomes align somewhat with Agile principles, but the content mostly addresses problems rather than prescribing specific tenets or direct applications of Agile practices, creating a modest confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:38:37",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses how judgment impacts team dynamics and innovation within Agile environments, and mentions the importance of setting goals and metrics which could hint at capabilities. However, the primary focus is on the negative effects of judgment rather than on developing enduring competencies that empower teams. It lacks a detailed exploration of how to systematically build or assess capabilities, leaning more toward ephemeral practices. Therefore, while there are relevant points made, they are not deeply aligned with the core themes of Capability as defined.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:29",
+    "ai_confidence": 75.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content discusses the detrimental effects of judgment in Agile, relating it to foundational principles such as fostering collaboration and encouraging open dialogue. It mentions the need to focus on outcomes rather than outputs, aligning with the principle of Value Delivery. However, the discussion primarily focuses on the negative implications of judgment rather than outlining specific guiding principles of Agile directly. The conversation around adapting metrics to support a positive culture reflects Continuous Improvement, but it lacks a deeper exploration of core Agile principles, resulting in a somewhat lower confidence score.",
+    "level": "Secondary"
   }
 }

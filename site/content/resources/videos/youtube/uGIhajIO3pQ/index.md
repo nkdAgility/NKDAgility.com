@@ -2,8 +2,10 @@
 title: 'Agile Scotland 2023: Why does this matter to you and why should people come to the event?'
 description: Join Martin Hinshelwood as he highlights why Agile Scotland 2023 is a must-attend event for anyone in Scotland's agile community!
 date: 2023-06-28T07:00:21Z
+weight: 1000
 ResourceId: uGIhajIO3pQ
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uGIhajIO3pQ
@@ -15,26 +17,23 @@ preview: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg
 duration: 121
 isShort: false
 aliases:
-- /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
-- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
-- /resources/videos/uGIhajIO3pQ
-- /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 - /resources/uGIhajIO3pQ
-aliasesFor404:
+- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+aliasesArchive:
+- /resources/videos/agile-scotland-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
+- agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Events and Presentations
-- News and Reviews
+tags: []
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
+- Uncategorized
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

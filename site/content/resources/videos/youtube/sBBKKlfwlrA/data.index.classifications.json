@@ -1,20 +1,26 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:50:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the challenges associated with it, which is not aligned with the core principles of DevOps. While there are mentions of collaboration and accountability, these are framed within the context of Scrum rather than the broader DevOps philosophy. The discussion lacks depth in DevOps-specific practices such as automation, feedback loops, or shared accountability across development and operations teams.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T10:50:59",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Scaled Professional Scrum framework, focusing on skills to overcome challenges in scaling Scrum, which aligns with the principles of Scrum and Agile practices.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses scaling Scrum, which inherently involves collaboration and decision-making among teams. It mentions self-management, transparency, and accountability, aligning with the core themes of social technologies. However, while it touches on these aspects, the primary focus is on the technicalities of the Scaled Professional Scrum course rather than a broader discussion of social technologies. The depth of discussion on techniques and frameworks is substantial, but it remains somewhat secondary to the course specifics.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -37,12 +43,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T10:51:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses scaling Scrum and the challenges faced by teams, which relates to product management but is primarily focused on Scrum methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Scaled Professional Scrum course, which is more about the Scrum framework and its scaling rather than the strategic aspects of product management. While it touches on challenges related to scaling teams and project management, it lacks a direct discussion on product management methodologies, customer needs, or business objectives. The depth of discussion is moderate, providing insights into the course structure and techniques but not sufficiently addressing the core themes of product management.",
+    "level": "Ignored"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -64,48 +73,36 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on scaling Scrum and the challenges of collaboration among Scrum teams, without discussing metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses scaling Scrum using the Nexus framework, which is a key topic within the Professional Scrum category. It focuses on overcoming challenges associated with multiple Scrum teams and emphasizes core Scrum principles, making it a significant exploration of Scrum practices.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the Scaled Professional Scrum course, which is directly related to the scaling of Scrum practices. It discusses the challenges of scaling, the Nexus framework, and provides insights into practical techniques for implementation. The depth of discussion is significant, covering various aspects of scaling Scrum, making it highly relevant to the Professional Scrum category.",
+    "level": "Primary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the Scaled Professional Scrum framework, focusing on challenges and skills relevant to scaling Scrum, which are key aspects of Agile frameworks.",
-    "level": "Secondary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and scaling it with coordination among multiple teams, focusing on overcoming challenges in a Scrum environment. However, it does not deeply focus on specific product development practices or the Scrum framework roles.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a hands-on course that is related to Scrum, implying an educational event, but it primarily focuses on the skills and challenges of scaling Scrum rather than detailing the event structure or presentations.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the Scaled Professional Scrum (SPS) course, which is directly related to the Agile framework of Scrum. It discusses the challenges of scaling Scrum, the Nexus framework, and practical techniques for implementation, aligning well with the core themes of Agile frameworks. The depth of discussion is substantial, providing insights into the course structure, challenges, and practical applications, which enhances the overall understanding of Agile principles in a scaling context.",
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -118,12 +115,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "Content mentions accountability in the context of scaling Scrum, making it a significant but secondary theme to the primary topic of scaling challenges and team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 67.0,
+    "reasoning": "The content mentions accountability in the context of scaling Scrum, highlighting its complexity as teams grow. However, the discussion is not deeply focused on accountability as a primary theme; rather, it is one of several challenges in scaling. The content aligns conceptually with the idea of accountability in Agile, but it lacks depth in exploring strategies or case studies specifically related to fostering a culture of accountability. Overall, while accountability is acknowledged, it does not serve as the main focus of the content.",
+    "level": "Secondary"
   },
   "Windows": {
     "category": "Windows",
@@ -163,10 +163,10 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling Scrum and related challenges, which does not focus on remote working practices or Agile specific to remote teams.",
     "level": "Ignored"
   },
@@ -181,10 +181,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling Scrum and challenges associated with cross-team collaboration, which diverges from the primary focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -217,12 +217,15 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses scaling Scrum and includes elements of self-management and accountability, it primarily focuses on challenges and skills related to scaling Scrum rather than self-organisation itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses self-management and the importance of teams remaining self-organising while scaling, which aligns with the principles of self-organisation. However, the primary focus is on scaling Scrum and the challenges associated with it, rather than a deep exploration of self-organisation itself. The mention of self-management is relevant but not the central theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -235,11 +238,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 2,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses scaling challenges in Scrum and does not address Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum practices rather than Continuous Delivery. While it briefly touches on the need for effective delivery and mentions techniques for overcoming challenges, it does not delve into Continuous Delivery principles, automation, or rapid feedback mechanisms. The discussion is centred around Scrum methodologies, which are not directly aligned with Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -289,12 +295,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum, which is a key Agile framework relevant to software development practices, specifically addressing scaling challenges in software teams.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on the challenges and methodologies associated with scaling Scrum, a key Agile framework in software development. It discusses specific practices, frameworks, and techniques relevant to the Software Development Life Cycle, particularly in the context of Agile methodologies. The depth of discussion is substantial, providing insights into the Scaled Professional Scrum course, which aligns well with best practices in software development. The content is rich in detail, covering common challenges, interactive learning experiences, and practical applications, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -307,30 +316,39 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling Scrum and addresses challenges related to multiple teams working together, which relates to Agile Planning. However, the primary focus is on scaling Scrum rather than planning itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a specific aspect of Agile Planning. It discusses challenges and techniques related to scaling, aligning with Agile principles. However, while it touches on Agile Planning concepts, it does not delve deeply into the broader methodologies or practices of Agile Planning itself, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling Scrum and challenges related to it, which are relevant to Agile Strategy. However, it mainly focuses on technical practices and skills rather than a broader strategic context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a key aspect of Agile strategy. It discusses the challenges of scaling, the importance of maintaining Agile principles, and the use of the Nexus framework, all of which align with the core themes of Agile strategy. The depth of discussion is significant, providing insights into practical techniques and the structure of the SPS course, which supports the strategic implementation of Agile methodologies. However, while it touches on strategic elements, it is more focused on the technical aspects of Scrum rather than broader organisational strategy, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges faced by Scrum teams when scaling, and the need for collaboration and coordination among multiple teams, which relates to team performance and dynamics, but it is primarily focused on scaling challenges rather than in-depth strategies for improving team performance.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses scaling Scrum and the challenges associated with it, which directly relates to team performance in an Agile context. It mentions cross-team dependencies, self-management, and techniques for overcoming challenges, aligning well with the core themes of enhancing team dynamics and collaboration. The depth of discussion is significant, as it outlines specific practices and methodologies for managing large agile projects, indicating a strong focus on team performance.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -361,20 +379,11 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum scaling challenges and related practices without a clear focus on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content heavily discusses scaling challenges in Scrum and does not align with the principles or components of the One Engineering System framework.",
+    "reasoning": "Content heavily discusses Scrum scaling challenges and related practices without a clear focus on Value Stream Management principles.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -449,15 +458,6 @@
     "reasoning": "Content heavily discusses Scrum roles and scaling challenges, which do not focus on software craftsmanship or engineering excellence.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling Scrum, which is relevant to software developers working within Agile frameworks. However, it primarily focuses on scaling challenges and team dynamics rather than specific best practices or roles of software developers.",
-    "level": "Tertiary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:14:20",
@@ -465,15 +465,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses primarily on scaling Scrum rather than Lean Product Development principles such as waste reduction or customer feedback integration.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum scaling challenges and team dynamics, which are not primarily focused on code quality or complexity theory.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,39 +496,51 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses scaling Scrum and addressing challenges with multiple teams rather than focusing on the specific role and responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the Scaled Professional Scrum course, which indirectly relates to the role of a Scrum Master. While it discusses challenges and techniques relevant to Scrum, it does not explicitly address the responsibilities or influence of the Scrum Master. The mention of Scrum principles and practices aligns with the category, but the depth of discussion on the Scrum Master's role is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily focuses on the challenges and skills related to scaling Scrum across multiple teams, which aligns with the principles of Large Scale Agility.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a key aspect of large-scale agility. It discusses the challenges of scaling, the Nexus framework, and provides insights into a course designed to equip teams with the necessary skills for effective scaling. The depth of discussion is significant, covering practical techniques and the interactive nature of the course, which aligns well with the principles of large-scale agility. However, while it mentions scaling methodologies, it does not delve deeply into broader enterprise-level strategies or cultural shifts, which slightly lowers the overall confidence score.",
+    "level": "Primary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling Scrum and overcoming challenges to increase the amount of work and value that can be created, which relates to value delivery but focuses more on Scrum scaling aspects.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges and methodologies related to scaling Scrum, which indirectly relates to value delivery by addressing how teams can enhance their output and collaboration. However, it primarily focuses on the course structure and personal experiences rather than explicitly detailing strategies for delivering customer value or aligning product development with customer needs. The mention of techniques and practices does contribute to the understanding of value delivery, but the depth of discussion is more about the course than the value delivery principles themselves.",
+    "level": "Secondary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the challenges of scaling Scrum, which is relevant to technical leadership, but it primarily focuses on the Scrum framework itself rather than on leadership strategies or principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a key aspect of technical leadership in agile environments. It discusses challenges and strategies related to team dynamics, self-management, and maintaining transparency, all of which align with the principles of technical leadership. However, while it provides a good depth of discussion on the SPS course and its techniques, it lacks a direct emphasis on broader technical leadership principles such as mentoring, coaching, and aligning technical decisions with business objectives. Therefore, the confidence score reflects a strong but not complete alignment with the category.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -556,15 +559,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum scaling challenges and practical skills rather than decision-making processes or theories.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content is primarily focused on scaling Scrum with an emphasis on common challenges related to Scrum roles and collaboration among multiple Scrum Teams.",
-    "level": "Secondary"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -593,15 +587,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on scaling Scrum rather than on organisational change practices or methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses on the Scaled Professional Scrum framework and addresses specific challenges faced when scaling Scrum across multiple teams, which aligns well with the principles of scaled Agile.",
-    "level": "Secondary"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:14:20",
@@ -610,15 +595,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on scaling Scrum and related challenges, with no direct alignment to Lean Thinking principles.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the challenges teams face when scaling Scrum, focusing on human dynamics like collaboration, self-management, and accountability among teams, which aligns closely with the 'People and Process' category.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,12 +607,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content focuses on scaling Scrum and overcoming challenges when multiple teams work together, which relates to business agility in terms of adapting and innovating in larger group settings. However, it primarily discusses Scrum rather than directly addressing broader principles or practices of business agility.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a specific agile framework rather than a broader discussion on business agility. While it touches on challenges and techniques related to scaling, it does not delve into the principles of business agility or its importance in modern organisations. The discussion is more about Scrum practices than the overarching themes of adaptability and innovation in a dynamic market environment.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -667,10 +646,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling Scrum and challenges related to teamwork, rather than focusing on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -683,7 +662,7 @@
     "reasoning": "Content primarily discusses scaling Scrum and related challenges, not focusing on Lead Time.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T11:14:20",
     "ai_confidence": 0,
@@ -701,15 +680,6 @@
     "reasoning": "Content heavily discusses scaling Scrum and technical challenges without focusing on leadership roles or practices within Agile contexts.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum scaling challenges and team dynamics without any mention of AI or automation technologies.",
-    "level": "Ignored"
-  },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
     "calculated_at": "2025-02-18T11:14:20",
@@ -721,12 +691,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to transparency and self-management within scaling Scrum, which aligns with the principles of empirical process control, but it is not primarily focused on this topic.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses scaling Scrum and the challenges associated with it, which indirectly relates to empirical process control through the emphasis on transparency and accountability. However, it primarily focuses on the Scaled Professional Scrum course and its techniques rather than deeply exploring empirical process control principles. While there are mentions of transparency and techniques for overcoming challenges, the discussion lacks a thorough examination of empirical process control as a primary focus.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -739,46 +712,46 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges faced by teams when scaling Scrum, including cross-team dependencies and self-management, which are relevant to team collaboration. However, it focuses more on scaling Scrum rather than deepening team collaboration itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses scaling Scrum and the challenges associated with cross-team dependencies, which aligns with the themes of team collaboration. It mentions techniques for overcoming common challenges and highlights the importance of working together in a nexus, indicating a focus on collaboration. However, the primary focus is on the course structure and certification rather than in-depth exploration of team dynamics or collaboration strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses challenges and skills related to scaling Scrum, which can indirectly relate to market adaptability as it involves improving collaboration and efficiency among teams. However, the focus is primarily on Scrum practices rather than explicitly on market adaptability strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses scaling Scrum, which indirectly relates to market adaptability by addressing how teams can respond to increased demands and complexities. However, it primarily focuses on the challenges and techniques of scaling Scrum rather than explicitly discussing market adaptability strategies or methodologies like Agile, DevOps, or Lean. While there are mentions of collaboration and overcoming challenges, the depth of discussion does not fully align with the core themes of market adaptability.",
     "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses scaling Scrum and does not focus on AI applications within Agile, DevOps, or software development.",
-    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling Scrum and overcoming challenges in Scrum teams, which relates to the functioning of software development processes, but does not focus primarily on working software or its delivery.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the challenges and methodologies associated with scaling Scrum, which indirectly relates to the delivery of working software. While it touches on the importance of maintaining Scrum principles and provides practical techniques, it lacks a direct focus on the characteristics of working software or its delivery to customers. The depth of discussion on practical applications and techniques contributes positively, but the overall emphasis remains on scaling rather than on the software itself.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling Scrum and the challenges faced by multiple teams rather than the specifics of Daily Scrum.",
     "level": "Ignored"
   },
@@ -793,12 +766,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling Scrum and collaborative challenges across multiple teams, which aligns with the broader themes of enterprise agility, but primarily focuses on team-level practices without context of overall organizational agility.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a team-level agile practice. While it discusses challenges and frameworks related to scaling, it lacks a broader organisational context and does not address the implications of agility on organisational performance or culture. The mention of the Nexus framework and the need for cross-team collaboration hints at enterprise-level considerations, but the overall focus remains on team dynamics rather than enterprise agility as a whole.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -808,15 +784,6 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on scaling challenges in Scrum rather than the management or refinement of the Product Backlog.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses challenges and skills related to scaling Scrum, a key element of Agile Project Management.",
-    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -834,24 +801,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily focuses on scaling challenges in Scrum rather than on diagnosing or resolving technical issues.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a course related to Scaled Professional Scrum, which is relevant to Agile methodologies and may involve the use of specific educational products, but it is primarily focused on the course content rather than discussing specific products or books.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a specific Scrum course and its skills, rather than industry news or analysis of Agile and DevOps practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -872,41 +821,38 @@
     "reasoning": "Content focuses on a course about Scaled Professional Scrum and discusses technical aspects and challenges of scaling Scrum, rather than personal experiences or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily focuses on the application of Scrum principles in overcoming scaling challenges, discussing issues specific to managing multiple Scrum Teams and their collaboration.",
-    "level": "Secondary"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions cross-team dependencies and the need for collaboration among groups of Scrum Teams, indicating that cross-functional teams are a relevant theme in the context of scaling Scrum, but the primary focus is on the skills needed to overcome scaling challenges rather than an in-depth discussion of cross-functional teams themselves.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses scaling Scrum and the challenges associated with it, including cross-team dependencies, which indirectly relates to cross-functional teams. However, it primarily focuses on the scaling process and methodologies rather than the characteristics, benefits, or management of cross-functional teams specifically. The mention of collaboration among teams hints at cross-functional dynamics but lacks a detailed exploration of the category's core themes.",
     "level": "Tertiary"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling Scrum and related challenges but does not focus on Scrum Values.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling Scrum, which is a major aspect of Agile Product Management, but its primary focus is on overcoming challenges rather than on product management practices or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the Scaled Professional Scrum course and its methodologies for scaling Scrum practices. While it touches on Agile principles and the importance of collaboration, it lacks a direct focus on product management aspects such as prioritising backlogs or aligning product vision with customer needs. The depth of discussion is more about the course structure and challenges in scaling rather than specific Agile product management strategies.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -919,11 +865,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses scaling challenges in Scrum and does not focus on Test First Development or any related testing practices.",
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and does not discuss Test First Development principles, success criteria, or testing practices. While it touches on challenges and techniques related to Scrum, it lacks any direct mention or detailed exploration of Test First Development concepts.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,12 +886,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses challenges related to scaling Scrum and the collaboration between multiple Scrum Teams, indicating a secondary theme related to Scrum Team dynamics.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the challenges and techniques related to scaling Scrum, which indirectly touches on the dynamics of Scrum Teams. However, it primarily focuses on the scaling aspect rather than the specific roles, collaboration, and communication strategies within a Scrum Team. While it mentions self-management and cross-team dependencies, it lacks a detailed exploration of team dynamics and practices that are central to the Scrum Team category.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -973,12 +925,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses overcoming scaling challenges in Scrum, which relates to strategic alignment and integration of multiple Scrum teams. However, it primarily focuses on the application of Scrum rather than the broader strategic planning and execution principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the strategic aspects of scaling Scrum, discussing the challenges and methodologies involved in aligning multiple teams towards a common goal. It explicitly mentions the need for strategic alignment and the importance of maintaining Scrum principles while scaling, which aligns well with the core themes of the Strategy category. The depth of discussion is substantial, providing insights into specific challenges and techniques, thus justifying a high confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -1000,39 +955,39 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the Scaling challenges in Scrum which is related to product delivery, but the primary focus is on scaling Scrum rather than direct practices of product delivery.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses challenges and skills related to scaling Scrum across multiple teams, making it central to the theme of scaling agility.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a methodology directly related to product delivery. It discusses challenges and techniques relevant to delivering software products effectively, aligning well with the core themes of the category. However, while it provides a good depth of discussion on scaling practices, it does not delve deeply into all aspects of product delivery, such as deployment strategies or metrics for measuring delivery performance.",
     "level": "Secondary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling Scrum and the challenges associated with it, which ties into themes of organisational agility, particularly in relation to cross-functional teams and adaptability. However, the primary focus is on Scrum roles and events rather than agility as a broader concept.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a specific Agile methodology. While it discusses challenges and techniques related to scaling, it does not explicitly address broader organisational agility principles or cultural shifts necessary for adaptability. The mention of cross-team dependencies and self-management aligns somewhat with organisational agility, but the depth of discussion remains centred on Scrum practices rather than a comprehensive exploration of agility as a whole.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling challenges in Scrum, which is relevant to Agile transformation practices, but it primarily focuses on the specific framework of Scrum rather than broader Agile transformation strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, which is a key aspect of Agile transformation. It discusses challenges, frameworks, and techniques relevant to Agile practices, aligning well with the core themes of the category. The depth of discussion is substantial, providing insights into the Scaled Professional Scrum course and its practical applications, which enhances the overall confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1042,24 +997,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum scaling challenges and team-based practices rather than portfolio management concepts.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses skills to overcome challenges when scaling Scrum, which relates to organisational resilience and adaptability in terms of scaling teams and managing dependencies, but it primarily focuses on Scrum practices rather than broader change management strategies.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content mentions transparency and accountability as part of overcoming challenges in scaling Scrum, it primarily focuses on the skills and challenges of scaling Scrum rather than specifically addressing transparency and accountability as central themes.",
-    "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1078,15 +1015,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling challenges in Scrum and does not focus on the principles or practices of frequent releases.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses skills and challenges related to scaling Scrum, which implies a practical application of Scrum methodologies, but it is more focused on the challenges rather than detailed tooling or specific techniques.",
-    "level": "Tertiary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1135,20 +1063,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges related to scaling Scrum, which is relevant to the Agile Product Operating Model as it involves the coordination of multiple teams working on a single product. However, it does not primarily focus on Agile Product Operating Model principles or strategies, making it a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum scaling challenges without a clear focus on learning or discovery processes.",
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the Scaled Professional Scrum course, which, while related to agile practices, does not directly address the Agile Product Operating Model. There are mentions of challenges and frameworks relevant to Scrum, but the discussion lacks a clear connection to the principles of APOM, such as product management integration or continuous delivery. The depth of discussion on scaling techniques is substantial, but it does not align with the core themes of the Agile Product Operating Model.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1178,23 +1100,17 @@
     "reasoning": "Content heavily discusses scaling Scrum and challenges related to team collaboration, which is not relevant to automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on scaling Scrum and its associated challenges, rather than applying Kanban principles in large organizations.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content focuses on practical skills and strategies to overcome scaling challenges in Scrum, which aligns well with pragmatic thinking and real-world applications.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content focuses on practical skills and techniques for overcoming challenges in scaling Scrum, which aligns well with the core themes of Pragmatic Thinking. It discusses real-world applications of Scrum principles, particularly in a scaled context, and highlights the importance of adaptability and collaboration among teams. The depth of discussion is significant, as it details specific practices and a structured approach to managing large agile projects, demonstrating a strong emphasis on practical problem-solving strategies. The mention of common challenges and the provision of a toolbox for overcoming them further supports the alignment with pragmatic approaches.",
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1225,10 +1141,10 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling Scrum and challenges related to cross-team dependencies rather than focusing on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
@@ -1261,29 +1177,32 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses specific aspects of the Scrum framework and scaling challenges, rather than focusing on Agile values and principles.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling challenges in Scrum, which is unrelated to Value Stream Mapping.",
     "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content addresses scaling challenges in Scrum, which involves organizational structure and team dynamics, but largely focuses on the technical implementation of Scrum rather than the interplay with sociotechnical systems.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the challenges associated with it, which are technical in nature. While it touches on team dynamics and collaboration, it lacks a comprehensive exploration of the interplay between social and technical systems as defined in the Sociotechnical Systems category. The discussion is more centred on methodologies and practices rather than the broader organisational context and cultural aspects that influence technology adoption and team effectiveness.",
     "level": "Tertiary"
   },
   "Flow Efficiency": {
@@ -1297,12 +1216,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "While the content primarily discusses scaling Scrum and associated challenges, it mentions transparency as one of the challenges faced when working with multiple teams, indicating it is a significant theme but not the central focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 67.0,
+    "reasoning": "The content discusses transparency in the context of scaling Scrum, highlighting its importance alongside accountability. While it does mention transparency as a challenge in scaling, the primary focus is on the SPS course and its techniques rather than a deep exploration of transparency itself. The mention of transparency is significant but not the central theme, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1342,38 +1264,484 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the challenges of scaling Scrum and does not primarily focus on evidence-based management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the Scaled Professional Scrum course, with little emphasis on Evidence-Based Management principles. While it touches on challenges and techniques related to scaling, it does not explicitly discuss empirical evidence or data-informed decision-making, which are central to EBM. The discussion lacks depth in terms of metrics or outcomes that align with EBM's key topics.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and scaling challenges rather than installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:14:20",
+    "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses scaling Scrum and associated challenges, which does not directly relate to the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T11:14:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses scaling Scrum and the challenges associated with it, which aligns with operational practices in Agile. However, while it mentions techniques and frameworks like the Nexus framework, the focus is more on the course experience rather than specific operational efficiency strategies. The depth of discussion on practical applications is moderate, but it lacks a strong emphasis on metrics or continuous improvement, which are key aspects of operational practices.",
+    "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:05:06",
+    "ai_confidence": 0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses challenges in scaling Scrum, which relates to operational practices in Agile settings, but it does not focus primarily on techniques or strategies for enhancing operational efficiency.",
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:05:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": 50,
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on scaling Scrum, discussing the challenges and practices associated with it. It explicitly mentions Scrum roles, the importance of self-management, transparency, and accountability, which are core themes of the Scrum framework. The depth of discussion is significant, as it outlines specific practices and techniques for overcoming scaling challenges, indicating a thorough exploration of the topic. Overall, the content aligns well with the principles and practices of Scrum, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the challenges associated with it, without any explicit discussion of integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on collaborative practices and techniques, it does not align with the core themes of the Shift-Left Strategy, which is not mentioned at all.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the challenges associated with it, rather than discussing Continuous Improvement as a core theme. While there are elements of learning and adaptation present, they are not explicitly tied to Continuous Improvement principles. The mention of techniques and tools is more about scaling Scrum than about fostering a culture of continuous improvement. Therefore, the confidence score reflects a low alignment with the Continuous Improvement category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the challenges associated with it, rather than explicitly discussing Common Goals. While it touches on themes of collaboration and team dynamics, it lacks a direct emphasis on aligning strategy with execution or shared objectives that guide decision-making. The mention of techniques and frameworks is more about practical application than about establishing common goals within Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of skills and techniques necessary for scaling Scrum, which aligns with the concept of competence. It mentions the need for continuous learning and practical application of skills, which are key aspects of competence. However, while it touches on these themes, the primary focus is on the course and its structure rather than a deep exploration of competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T20:38:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the Scaled Professional Scrum course, which are not directly related to the One Engineering System framework. While there are mentions of challenges and practices in scaling, the discussion does not align with the core principles of 1ES, such as integration of tools and processes across teams or standardisation in software development. The content lacks depth in discussing 1ES specifically, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and does not explicitly discuss Agentic Agility or its principles. While it touches on themes like self-management and accountability, these are framed within the context of Scrum practices rather than the intentional shaping of outcomes through autonomy and adaptability. The discussion lacks depth regarding the distinction between human and AI capabilities, and there are no case studies or examples illustrating Agentic Agility in practice.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mentions scalability in the context of Scrum and briefly touches on the challenges teams face when scaling, which aligns somewhat with some Hybrid Agile discussions. However, the primary focus is on practical scaling techniques and the benefits of the Scaled Professional Scrum course, lacking a critical examination of Hybrid Agile and its inherent challenges. Overall, while it recognizes issues like transparency and accountability, it does not delve into the conflicts and pitfalls associated with merging traditional project management with agile practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum practices and methodologies, which does not align with the core principles of Cell Structure Design or the Beta Codex principles. While there is some mention of self-management and accountability, these topics are secondary to scaling Scrum rather than directly discussing cell structures or their organizational benefits as outlined in Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 80.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content discusses principles of Scrum, particularly self-management and transparency, essential for teams when scaling. There is a focus on practical applications and challenges that align with the actionable principles of Agile. However, while it mentions principles, the depth of discussion generally revolves around the challenges and course offerings rather than a robust exploration of principles. The evaluation of aligning with principles is stronger than many, but still not fully focused on them.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 67.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content extensively discusses the challenges and strategies related to scaling Scrum, which is a methodology in project management. However, it focuses primarily on Scrum-specific practices and does not address broader project management principles or methodologies beyond Scrum itself. While the content mentions project management tools and techniques related to Scrum scaling, it does not delve into core concepts like scope, cost, or risk management in a traditional way. Therefore, while it aligns conceptually with project management, it does so in a limited context, hence a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on scaling Scrum through the Scaled Professional Scrum course. It does not mention Open Space Agile or its principles, nor does it discuss concepts like psychological safety, shared ownership, or co-creation which are central to Open Space Agile. While it mentions some Agile practices, the content is more centered around traditional Scrum methods and scaling frameworks, deviating significantly from the Open Space Agile scope.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 75.0,
+    "ai_mentions": 16,
+    "ai_alignment": 30,
+    "ai_depth": 32,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the Scaled Professional Scrum (SPS) course, which is an educational offering rather than a tool itself. Although it references techniques and practices that can support teams in their Agile journey, it does not delve deeply into specific tools or software applications as defined in the category. The mention of a 'toolbox of techniques' suggests practical applications, but it does not provide specific tool-related insights or features, which diminishes its alignment with the 'Tool' category. Overall, the content aligns moderately with the themes of the Tools category but lacks extensive depth or direct discussion on actual tools.",
+    "level": "Secondary"
+  },
+  "Liberating Structures": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content focuses primarily on scaling Scrum through a specific course, highlighting challenges and frameworks rather than discussing Liberating Structures. While it mentions interactive and activity-based learning, which aligns with engagement techniques, it does not provide clear references to specific Liberating Structures or their integration into Scrum practices. Therefore, the direct mentions are limited, and the depth of discussion about Liberating Structures is insufficient to meet the required criteria for higher confidence in this category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 22.0,
+    "ai_mentions": 0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content discusses scaling Scrum and its practical challenges but focuses primarily on methodologies and tools rather than on the underlying values guiding these practices. While it touches on concepts related to collaboration and transparency, which are indirectly linked to values, it lacks explicit discussions of core beliefs or principles that drive behaviour and decision-making in Scrum. The absence of direct mentions of Scrum values or Agile principles in a philosophical context limits the alignment and depth of the discussion regarding organisational values.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses practical aspects of scaling Scrum and specific techniques from the Scaled Professional Scrum course, focusing on challenges, methodologies, and a toolbox of techniques for implementation. It lacks exploration of philosophical underpinnings or the 'why' behind these practices, thus falling short in alignment with the philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 58.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "The content primarily focuses on the practical aspects of scaling Scrum and discusses the Scaled Professional Scrum course, which could imply discussion around the discipline of Agile and Scrum. However, it mostly concentrates on tools and techniques for scaling rather than on the underlying principles and methodologies that define the discipline of Agile or Scrum itself. While there are references to challenges and practices, the absence of a detailed exploration of governance structures, ethical considerations, or the evolution of such methodologies detracts from a stronger alignment with the category of Discipline.",
     "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the challenges and methodologies of scaling Scrum but does not specifically focus on the artifacts associated with Scrum. While it touches on themes like transparency and accountability, it lacks detailed examination of specific artifacts (like Product Backlog or Sprint Backlog) and their roles in the context of scaling. Mentions of frameworks like Nexus do suggest a vaguely related structure, but the absence of direct discussions on artifacts means that the core themes of the category are only partially addressed.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on scaling Scrum practices and does not directly discuss observability concepts or their implementation. While it touches on the importance of transparency and accountability, these themes are centered around Scrum and Agile methodologies rather than the specific principles and practices of observability as defined in the classification criteria. There are no explicit mentions of metrics, logs, traces, or tools related to observability, resulting in a low overall confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mainly focuses on scaling Scrum and the challenges associated with it. While it briefly touches upon concepts like cross-team dependencies and maintaining Scrum principles, it does not explicitly address Time to Market or provide concrete strategies or metrics related to improving it. The discussions are primarily about scaling practices rather than optimizing the speed of delivering value to customers, which limits its relevance to the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:11",
+    "ai_confidence": 70.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 70.0,
+    "reasoning": "The content focuses extensively on scaling Scrum, which is a specific methodology within Agile product development. It discusses challenges, practices, and frameworks relevant to product development processes. There are many direct mentions of concepts associated with Agile and Scrum, and it offers detailed insights into the course structured around these methodologies. However, while it aligns with product development practices, it lacks more explicit connections to broader product strategies and continuous improvement practices outside of Scrum. The emphasis remains on Scrum, thus slightly limiting the overall breadth of the product development category.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content primarily focuses on the challenges and techniques related to scaling Scrum, which aligns with the practice of improving team effectiveness and collaboration. It mentions various practices and techniques relevant to this scaling process, providing actionable insights. However, while the discussion is rich in context regarding scaling Scrum, it does not deeply explore specific practices as individual techniques but rather discusses them in the context of the overall Scrum framework. Therefore, while there is a strong correlation, it lacks some depth in customization of the techniques that would typically demonstrate more actionable practice.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on scaling Scrum and practical aspects of a Scrum training course, which do not align with the principles of Company as a Product. There are no direct mentions of treating the organization as a product or integrating customer insights into organizational design. While it touches on challenges and methods within agile frameworks, it does not explore the customer-centric or organizational strategies of the CaaP approach. The context is more about agile methodologies rather than conceptualizing the entire company as a product.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 88.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 88.0,
+    "reasoning": "The content primarily focuses on the structured methods and techniques taught in the Scaled Professional Scrum (SPS) course reflecting an advanced understanding of scaling Scrum. The explicit mention of overcoming specific scaling challenges ties directly to methodical approaches for implementation. Moreover, it discusses the interactive learning experience and practical techniques offered in the course, aligning well with the category defined for structured, procedural methods. It provides significant detail about the approach to scaling without straying into broader philosophical discussions.",
+    "level": "Primary"
+  },
+  "Unrealised Value": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on scaling Scrum and the benefits of the Scaled Professional Scrum course. While it briefly acknowledges challenges that organizations face and how these can limit the value they deliver, it does not explicitly discuss Unrealised Value as a concept. The primary focus is on practical skills and overcoming scaling challenges rather than exploring potential improvements or innovation opportunities that align with the core themes of Unrealised Value in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 89.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 89.0,
+    "reasoning": "The content extensively discusses the challenges and methods for scaling Scrum, directly addressing topics relevant to the 'Scaling' category. It mentions specific aspects such as managing cross-team dependencies, maintaining transparency, and utilizing the Nexus framework, which are key themes in scaling methodologies. The depth includes both practical tools and techniques from the Scaled Professional Scrum course, indicating a comprehensive understanding of the complexities of scaling in Agile contexts. Overall, the content aligns very well with the focus on scaling frameworks, collaboration, and Agile principles, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Model": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the Scaled Professional Scrum course and its focus on scaling Scrum practices. Although it touches upon the Nexus framework (which can be seen as a model), the primary focus is on practical challenges and experiences associated with implementing these ideas rather than deeply exploring the conceptual representation of models within Agile or Scrum. The discussions on challenges and techniques are relevant, but they do not primarily frame these under the idea of models or frameworks, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Current Value": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses scaling Scrum and does not directly address Current Value or its importance in Evidence-Based Management. While there are references to challenges and practices associated with Scrum, the discussion lacks specific indicators or metrics related to Current Value. Additionally, there is minimal practical application or measurement of Current Value, leading to a low overall confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content focuses heavily on the Scaled Professional Scrum (SPS) course, discussing its purpose, challenges associated with scaling Scrum, and the application of the Nexus framework. It provides detailed insights into scaling methodologies and practical techniques for implementation, aligning well with the Framework category. The discussion is primarily centered on the SPS course as a structured methodology for applying Scrum principles at scale. However, while it offers a lot of useful insights and practical tips, it also includes personal experiences and opinions, which somewhat detract from the objective analysis expected in a strict framework discussion.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses scaling Scrum and the challenges associated with it, but it does not provide specific, actionable tenets or guiding rules that would align with the category. While it mentions principles of Scrum and outlines challenges and techniques, it lacks a focus on prescriptive tenets that guide decision-making. The discussion is more descriptive and anecdotal rather than prescriptive, which diminishes its relevance to the category of 'Tenet'.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content discusses scaling Scrum and the Scaled Professional Scrum course, but does not mention GitHub or relate to its services, functionalities, or practices. It focuses solely on Scrum methodologies without integrating any aspect of GitHub, thereby failing to align with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content focuses almost exclusively on the mechanics of scaling Scrum through the Scaled Professional Scrum course, discussing specific challenges and frameworks without referencing the broader principles of Agnostic Agile. While it mentions the importance of understanding Scrum principles, it does not engage with the concepts of ethical, context-driven agility, or a comparative analysis of methodologies that is central to Agnostic Agile. Hence, it fails to meet the criteria for this classification significantly.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:12",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on the Scaled Professional Scrum course, addressing specific roles, techniques, and challenges associated with scaling Scrum. While it touches on overarching themes related to capabilities, such as team dynamics and support for ongoing learning, it lacks an explicit discussion on the long-term development of capabilities or their integration into organizational culture. Concepts like the Nexus framework and practical techniques are mentioned but are more about tools for scaling rather than the cultivation of systemic capability within teams and organizations.",
+    "level": "Ignored"
   }
 }

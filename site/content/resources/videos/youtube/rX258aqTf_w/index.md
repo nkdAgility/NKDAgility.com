@@ -2,8 +2,10 @@
 title: In what circumstances is agile consulting appropriate?
 description: Discover when to engage an agile consultant to enhance your team's collaboration and creativity in this insightful video with Martin Hinshelwood.
 date: 2023-01-06T04:52:40Z
+weight: 640
 ResourceId: rX258aqTf_w
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rX258aqTf_w
@@ -15,34 +17,24 @@ preview: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg
 duration: 318
 isShort: false
 aliases:
-- /resources/in-what-circumstances-is-agile-consulting-appropriate
-- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
-- /resources/videos/rX258aqTf_w
-- /resources/in-what-circumstances-is-agile-consulting-appropriate-
 - /resources/rX258aqTf_w
-aliasesFor404:
+- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
+aliasesArchive:
+- /resources/videos/in-what-circumstances-is-agile-consulting-appropriate
 - /resources/in-what-circumstances-is-agile-consulting-appropriate
 - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
 - /resources/in-what-circumstances-is-agile-consulting-appropriate-
+- in-what-circumstances-is-agile-consulting-appropriate
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Project Management
-- Agile Strategy
-- Agile Transformation
-- Technical Leadership
-- Organisational Agility
-- Software Development
 - Pragmatic Thinking
-- Agile Leadership
-- Organisational Change
 resourceTypes:
 - video
 categories:
+- Product Development
 - Leadership
-- Social Technologies
 
 ---
 In what circumstances is agile consulting appropriate?
@@ -51,7 +43,7 @@ Agile consulting is almost always my first and favourite approach when working w
 
 ## Internal Core Competencies
 
-The only reason why an organization thinks that they need an agile coach, rather than an agile consultant, is because of a systemic lack of leadership within the organization.
+The only reason why an organization thinks that they need an agile coach, rather than an agile consultant, is because of a systemic lack of [leadership]({{< ref "/categories/leadership" >}}) within the organization.
 
 They have lots of managers, but not many empowered leaders.
 
@@ -71,11 +63,11 @@ So, you want an agile consultant that is going to help you develop that internal
 
 ### Develop internal core competencies.
 
-Don’t get me wrong, there is a kickstart value to having an agile coach join the team, but it shouldn’t be a long-term engagement. Like an agile consultant who is a short-term engagement designed to help empower a team with agile capabilities, the agile coach should be looking to help the team improve and develop internal leadership and coaching capabilities.
+Don’t get me wrong, there is a kickstart value to having an agile coach join the team, but it shouldn’t be a long-term engagement. Like an agile consultant who is a short-term engagement designed to help empower a team with agile capabilities, the agile coach should be looking to help the team improve and develop internal leadership and [coaching]({{< ref "/tags/coaching" >}}) capabilities.
 
 The value would be in creating agile coaches inside of your business rather than outsourcing that role to external agile coaches.
 
-Actively seeking and finding the individuals in your organization that can make that transition from management to leadership. People that can transition from micro-management to coaching and mentoring within the organization.
+Actively seeking and finding the individuals in your organization that can make that transition from management to leadership. People that can transition from micro-management to coaching and [mentoring]({{< ref "/tags/mentoring" >}}) within the organization.
 
 So, in my experience, when an organization thinks they need an agile coach, what they really need is an agile consultant that can – through a short-term engagement – help them identify what the most valuable steps would be in order to become a more successful organization.
 
@@ -121,7 +113,7 @@ The art of consulting is helping teams focus on the most valuable work, and to h
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

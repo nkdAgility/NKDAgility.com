@@ -35,7 +35,7 @@
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007 without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T21:15:27",
     "ai_confidence": 0,
@@ -55,12 +55,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the installation of Office Mobile 2007, which is relevant to the category, but it primarily focuses on the user's experience and features rather than providing clear, actionable instructions or insights on installation and configuration.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the installation of Office Mobile 2007, which aligns with the category of Install and Configuration. However, it lacks detailed step-by-step instructions or best practices for installation and configuration. The discussion is more focused on personal experience and features rather than providing actionable insights or troubleshooting advice, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -80,15 +83,6 @@
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no direct connection to Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:15:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:15:37",
@@ -96,15 +90,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:15:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with Office Mobile 2007 and its features, without a focus on Agile or DevOps practices.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +103,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:15:41",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no relevance to metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
@@ -154,29 +139,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:15:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the features of Office Mobile 2007 and personal experiences with the software, with no mention of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:15:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:15:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on personal experience with Office Mobile 2007 rather than industry news or reviews related to Agile, DevOps, or technology updates.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the features of Office Mobile 2007 and its integration with Windows Mobile 6, with no mention or discussion of agile methodologies, product management principles, or the Agile Product Operating Model. It does not align with any of the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +186,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no relevance to platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:15:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Office Mobile 2007 and its features, with no mention of Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:15:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no relevance to AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:15:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:15:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no reference to events, presentations, or related discussions.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:16:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +253,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:16:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no relevance to DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on Office Mobile 2007 and its features, with no mention of DevOps principles, practices, or cultural shifts. It does not discuss collaboration, automation, or shared accountability, which are core to the DevOps philosophy. The content is primarily about mobile productivity tools and does not align with the key topics of DevOps.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses personal experiences with Office Mobile 2007 and its features, lacking focus on engineering practices or methodologies related to technical excellence.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T21:16:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no focus on human behaviour or structured methodologies in technology and product development.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:16:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:16:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal experiences with Office Mobile 2007, lacking a focus on Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +301,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:42:55",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on personal experiences with Office Mobile 2007 and its features, without discussing innovation capabilities or strategies.",
     "level": "Ignored"
   },
@@ -420,15 +333,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on personal experiences with Office Mobile 2007 and software updates, with no relevance to portfolio management or related themes.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features of Office Mobile 2007 and does not relate to Scrum principles or product development practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +364,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:42:55",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, which is unrelated to Agile values and principles.",
     "level": "Ignored"
   },
@@ -496,20 +400,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:42:55",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about personal experiences with software installation and features, not related to the Definition of Done.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on personal experience with Office Mobile 2007 and does not discuss any Agile methodologies or scaling practices.",
+    "reasoning": "Content is primarily about personal experiences with software installation and features, not related to the Definition of Done.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +470,6 @@
     "reasoning": "Content primarily discusses personal experiences with Office Mobile 2007 and OneNote without focusing on collaboration tools or Agile principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the installation of Office Mobile 2007 on a mobile device and its features, with no clear focus on software developers' roles, Agile practices, or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T21:42:55",
@@ -620,7 +506,7 @@
     "reasoning": "Content discusses Office Mobile 2007 and personal experiences with it, with no relevant connection to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:42:55",
     "ai_confidence": 0,
@@ -694,11 +580,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Office Mobile 2007 and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the features of Office Mobile 2007 and its integration with Windows Mobile 6, with no mention of Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The discussion is focused on a specific software product rather than the delivery practices associated with software development.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -721,10 +610,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T21:42:55",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the installation of Office Mobile 2007 on Windows Mobile without any mention of organisational change strategies, methodologies, or related themes.",
     "level": "Ignored"
   },
@@ -746,15 +635,6 @@
     "reasoning": "Content is primarily about the installation and features of Office Mobile 2007, with no mention of hypothesis formulation, experimentation, or validation in product development.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Office Mobile 2007 and its features, which are unrelated to AI, Agile methodologies, DevOps practices, or software development processes.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-16T21:42:55",
@@ -766,10 +646,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T21:42:55",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the installation and features of Office Mobile 2007, with no discussion related to change management principles or practices.",
     "level": "Ignored"
   },
@@ -928,10 +808,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:42:55",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Office Mobile 2007 and personal experiences with software rather than any aspects of Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -971,15 +851,6 @@
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no relevant focus on remote work practices, challenges, or solutions.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on Office Mobile 2007 and personal experiences with software installation, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:42:55",
@@ -987,15 +858,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no relation to customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses features of Office Mobile 2007 and its applications, which are unrelated to Agile Project Management.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,11 +952,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions installation on Windows Mobile 6 and discusses features related to Office Mobile 2007, which relates to the Windows environment, but the primary focus is on the Office application rather than on Windows itself.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions Windows Mobile 6 and discusses the installation of Office Mobile 2007, which is relevant to the Windows category. However, the focus is primarily on the Office application rather than the Windows operating system itself. While there are direct mentions of Windows, the discussion lacks depth regarding installation procedures, configuration, or troubleshooting specific to the Windows environment. The content is more about the Office suite than Windows as an operating system, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Lean Principles": {
@@ -1268,15 +1133,6 @@
     "reasoning": "Content discusses personal experience with Office Mobile 2007 and its features, which does not relate to asynchronous development.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Office Mobile 2007 and its features, which are unrelated to Scrum or scaling practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:42:55",
@@ -1313,22 +1169,16 @@
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, which is not related to Scrum principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the installation and features of Office Mobile 2007 and is unrelated to agile principles or scaling agility.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:49:35",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is centered around Office Mobile 2007 features and personal experiences with software, with no relevance to Scrum Master roles or responsibilities.",
+    "reasoning": "The content focuses entirely on Office Mobile 2007 and its features, with no mention or discussion of the Scrum Master role, responsibilities, or related concepts. It does not align with any key topics associated with the Scrum Master category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1201,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:42:55",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the features of Office Mobile 2007 and personal experiences, with no mention of Test First Development, TDD, or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the features of Office Mobile 2007 and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:28:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Office Mobile 2007 and its integration with Windows Mobile 6, with no substantial discussion on social technologies, collaboration, or decision-making frameworks. While it mentions OneNote, it does not explore its role in enhancing team dynamics or organisational culture, which are key aspects of the Social Technologies category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1230,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no relevance to leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:49:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Office Mobile 2007 and its features, with no relevance to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:49:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the installation and features of Office Mobile 2007, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or any related concepts. It focuses on personal experiences with Office Mobile 2007, which is unrelated to Scrum principles, practices, or frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on personal experiences with Office Mobile 2007 and does not discuss any aspects of the Shift-Left Strategy in software development. There are no direct mentions of testing, security, or compliance processes, nor any alignment with the core themes of integrating these elements early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Office Mobile 2007 and personal experiences with the software, with no discussion of Common Goals, Agile, or DevOps principles. It lacks any alignment with the category's core themes and does not provide depth on the subject matter.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Office Mobile 2007 and personal experiences with the software, with no direct discussion of competence, continuous learning, or skill development. While it mentions using OneNote for note-taking, it does not explore the implications of competence in a professional context or relate to Agile, Scrum, or DevOps principles.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Office Mobile 2007 and personal experiences with the software, lacking any discussion on Continuous Improvement principles or practices. There are no mentions of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation, which are essential for alignment with the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the features of Office Mobile 2007 and does not address any aspects of Agentic Agility. There are no direct mentions of intentional shaping of outcomes, autonomy, or adaptability, nor does it explore the interplay between human and AI capabilities. The focus is entirely on software enhancements, making it irrelevant to the category.",
     "level": "Ignored"
   }
 }

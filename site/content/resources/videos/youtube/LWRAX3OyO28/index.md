@@ -2,28 +2,41 @@
 title: 'Unlocking the True Power of Continuous Delivery: How Automation Transforms Software Development'
 description: Unlock the true power of continuous delivery! Discover how automation transforms software delivery, mitigates risks, and boosts efficiency in your organisation.
 date: 2024-12-06T06:00:00Z
+weight: 355
 ResourceId: LWRAX3OyO28
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: LWRAX3OyO28
 source: youtube
 url: /resources/videos/:slug
-slug: the-power-of-continuous-delivery
+slug: unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 layout: video
 aliases:
-- /resources/videos/LWRAX3OyO28
-- /resources/videos/the-power-of-continuous-delivery
-- /resources/the-power-of-continuous-delivery
 - /resources/LWRAX3OyO28
-aliasesFor404:
+- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
+- /resources/videos/the-power-of-continuous-delivery
+aliasesArchive:
+- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 - /resources/videos/the-power-of-continuous-delivery
 - /resources/the-power-of-continuous-delivery
+- unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
 duration: 332
 isShort: false
 tags:
 - Continuous Delivery
+- Software Development
+- Frequent Releases
+- Product Delivery
+- Technical Excellence
+- Operational Practices
+- Deployment Frequency
+- Engineering Practices
+- Pragmatic Thinking
+- Value Delivery
+- Working Software
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -31,9 +44,11 @@ resourceTypes:
 - video
 categories:
 - DevOps
+- Engineering Excellence
+- Product Development
 
 ---
-If you're venturing into the realm of continuous delivery, you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the DevOps framework. 
+If you're venturing into the realm of [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the [DevOps]({{< ref "/categories/devops" >}}) framework. 
 
 ### The Real Value of Automation
 
@@ -51,7 +66,7 @@ In my journey, I’ve seen how automation can protect not just the business, but
 
 - **Continuous Everything**: Embracing continuous testing, continuous deployment, and continuous delivery allows for rapid feedback loops. This means that if something goes awry, developers can identify and rectify issues much faster.
 
-### The Azure DevOps Transformation
+### The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) Transformation
 
 A prime example of the power of continuous delivery is the transformation witnessed by the Azure DevOps team at Microsoft. They managed to increase their feature delivery from 12 to an astonishing 280 features per year, all while maintaining the same team size. How did they achieve this? 
 
@@ -59,7 +74,7 @@ A prime example of the power of continuous delivery is the transformation witnes
 
 ### Real-World Impact
 
-The implications of continuous delivery extend beyond internal processes. For instance, the Windows team at Microsoft exemplifies the power of rapid deployment. They can move code from development to production in less than 24 hours. This agility allows them to get features in front of users quickly, iterating based on real-world feedback.
+The implications of continuous delivery extend beyond internal processes. For instance, the [Windows]({{< ref "/tags/windows" >}}) team at Microsoft exemplifies the power of rapid deployment. They can move code from development to production in less than 24 hours. This agility allows them to get features in front of users quickly, iterating based on real-world feedback.
 
 If organisations like CrowdStrike had adopted similar practices, they could have avoided the errors that plagued their deployments. Continuous delivery, when executed effectively, reduces risk, enhances effectiveness, and accelerates feedback.
 

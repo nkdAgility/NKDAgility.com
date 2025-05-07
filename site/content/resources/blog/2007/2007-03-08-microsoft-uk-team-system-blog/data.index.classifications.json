@@ -1,13 +1,4 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:36:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss AI or automation in Agile practices; it focuses on a blog about TFS without relevant themes.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
     "calculated_at": "2025-02-17T09:36:42",
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a blog about Team Foundation Server (TFS) and does not focus on decision-making processes or related topics.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:36:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a blog announcement without discussing team dynamics, collaboration, or any human factors related to processes.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:36:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a blog announcement without addressing organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +37,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:36:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Scrum principles, practices, or frameworks; it primarily focuses on a blog announcement without relevant Scrum topics.",
+    "final_score": 10.0,
+    "reasoning": "The content does not explicitly mention Scrum or its principles, roles, events, or artifacts. It briefly references a blog related to TFS (Team Foundation Server), which may imply some connection to Agile practices, but lacks any substantial discussion on Scrum itself. Therefore, the confidence score is very low due to minimal direct mentions and a lack of depth or alignment with Scrum concepts.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -134,15 +110,6 @@
     "reasoning": "Content primarily discusses a blog related to TFS and ALM without a clear focus on platform engineering principles or practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:37:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a blog announcement without addressing software code quality or complexity.",
-    "level": "Ignored"
-  },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
     "calculated_at": "2025-02-17T09:37:02",
@@ -206,24 +173,6 @@
     "reasoning": "Content primarily discusses a blog about TFS and does not address Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:37:10",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a blog related to Team Foundation Server (TFS) and implies updates about it, which aligns with industry news. However, it lacks detailed insights or evaluations that would strengthen its relevance to the category.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:37:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a blog announcement without delving into specific practical techniques, tools, or methodologies related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:37:13",
@@ -258,15 +207,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a blog announcement without any focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:37:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a blog and does not reference any specific events, presentations, or discussions related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,33 +245,6 @@
     "reasoning": "Content primarily discusses a blog about TFS and does not provide personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:37:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a blog announcement without discussing discovery, learning, or related methodologies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:37:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a blog announcement without addressing transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a blog about Team Foundation Server (TFS) without focusing on specific products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T09:37:30",
@@ -350,12 +263,12 @@
     "reasoning": "Content primarily focuses on a blog announcement without discussing DevOps principles, practices, or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T09:37:37",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a blog about TFS without any focus on the principles or components of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -397,10 +310,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss the Definition of Done and instead focuses on a blog announcement related to TFS.",
     "level": "Ignored"
   },
@@ -431,15 +344,6 @@
     "reasoning": "Content does not discuss empirical process control or related Agile principles; it is primarily about a blog announcement.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:46:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content does not discuss Scaling Scrum practices, frameworks, or any related topics. It appears to be a general announcement about a blog without any focused content on Scrum or its scaling.",
-    "level": "Ignored"
-  },
   "Increment": {
     "category": "Increment",
     "calculated_at": "2025-02-17T11:46:36",
@@ -460,10 +364,10 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a blogging initiative by the TFS team and does not focus on system configuration topics.",
     "level": "Ignored"
   },
@@ -559,10 +463,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses blogging by TFS teams without a focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -611,15 +515,6 @@
     "reasoning": "Content primarily discusses a blog about Team Foundation Server (TFS) without addressing long-term strategic goals or business agility.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:46:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a blog announcement rather than providing insights on scaled Agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-17T11:46:36",
@@ -640,10 +535,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss team performance, collaboration, or Agile principles; it primarily talks about a blog and its history.",
     "level": "Ignored"
   },
@@ -685,10 +580,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a blog about TFS with no clear focus on Scrum Teams, roles, or dynamics.",
     "level": "Ignored"
   },
@@ -847,10 +742,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss Cycle Time or its implications; it focuses on a blog announcement related to Team Foundation Server without any mention of workflow metrics.",
     "level": "Ignored"
   },
@@ -865,10 +760,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss the Definition of Ready; it is primarily about a blog and does not address any relevant topics concerning backlog item readiness.",
     "level": "Ignored"
   },
@@ -881,7 +776,7 @@
     "reasoning": "The content is primarily about a blog announcement and does not focus on Azure Boards or related Agile project management discussions.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:46:36",
     "ai_confidence": 0,
@@ -919,10 +814,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a blog announcement and does not address lead time or its related concepts.",
     "level": "Ignored"
   },
@@ -933,15 +828,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses a blog related to Team Foundation Server (TFS) and does not focus on Agile strategy or principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:46:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a blog announcement with no direct discussion of Software Developers, Agile, or DevOps practices.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +882,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Scrum Values; it focuses on a blog announcement related to TFS.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:46:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the existence of a blog related to Microsoft Team Foundation Server and does not address any topics related to Scaling Kanban.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1205,15 +1082,6 @@
     "reasoning": "Content does not discuss test automation principles, practices, or tools, and instead focuses on a blog announcement.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:46:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about blogging and does not engage with Scrum principles, practices, or product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:46:36",
@@ -1261,29 +1129,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a blog related to TFS and does not address innovation capabilities or evidence-based management.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:46:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss scaling agility; it primarily mentions a blog without relevant agile frameworks or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:46:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on a blog announcement without any discussion of Agile Project Management principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1306,10 +1156,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T11:46:36",
+    "calculated_at": "2025-04-10T15:57:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a blog announcement and does not focus on team collaboration or Agile methodologies.",
     "level": "Ignored"
   },
@@ -1329,15 +1179,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss Value Stream Mapping; rather, it focuses on blogging about Team Foundation Server (TFS) without relevant topics related to VSM.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:46:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a blog about Team Foundation Server (TFS) and does not directly discuss AI or its applications in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1374,6 +1215,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a blog about Team Foundation Server (TFS) without any focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:54:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a blog related to TFS and does not focus on Internal Developer Platforms or their key topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:54:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a blog about Team Foundation Server (TFS) and does not focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:16",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on a blog announcement without any explicit discussion of the Shift-Left Strategy or its principles. There are no mentions of testing, security, or compliance integration in the software development lifecycle, which are core to the category. The content lacks depth and detail on the topic, making it largely irrelevant to the Shift-Left Strategy.",
     "level": "Ignored"
   }
 }

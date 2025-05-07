@@ -1,29 +1,35 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T21:00:00",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity in the workplace, with only a brief mention of Agile, Scrum, or DevOps at the end, which does not constitute a central theme.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, which is somewhat tangential to the core themes of Social Technologies. While it mentions collaboration and decision-making in a broad sense, it lacks a detailed exploration of self-organisation, collective intelligence, or specific methodologies that enhance these aspects within teams. The discussion is more centred on individual productivity rather than organisational frameworks or cultural impacts, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T21:00:02",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without a clear focus on software craftsmanship or engineering practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T21:00:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with only a brief mention of Agile, Scrum, or DevOps at the end.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with only a brief mention of DevOps at the end. It does not delve into any core DevOps principles or practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -46,12 +52,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T21:00:08",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how AI tools can enhance productivity and adaptability in the workplace, which aligns with the principles of business agility. However, the primary focus is on AI's impact on individual productivity rather than a comprehensive exploration of business agility as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses how AI tools can enhance productivity and adaptability in the workplace, which aligns with the principles of business agility. It mentions the importance of adopting technology to remain competitive and responsive to market changes, reflecting a conceptual alignment with business agility. However, the primary focus is on AI's role in individual productivity rather than a comprehensive exploration of business agility principles, which limits the depth of discussion.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -82,29 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T21:00:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without a focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T21:00:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and work processes, with no clear focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T21:00:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on Kanban principles or scaling practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, without any explicit discussion of Evidence-Based Management principles or metrics. While it touches on themes of efficiency and innovation, it lacks a direct connection to empirical decision-making or the specific metrics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -136,29 +130,20 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T21:00:25",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T21:00:26",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without a clear focus on Agile, DevOps, or business agility trends.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T21:00:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on individual productivity and creativity, with no clear focus on Scaled Agile methodologies or frameworks.",
+    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without a clear focus on Agile, DevOps, or business agility trends.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -208,19 +193,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-17T21:01:11",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on individual productivity rather than focusing on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T21:01:13",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -233,32 +218,17 @@
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity in the workplace, without a clear focus on product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T21:01:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the impact of AI on productivity and creativity in the workplace, but it lacks a specific focus on Agile methodologies, DevOps practices, or software development processes.",
-    "level": "Tertiary"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T21:01:17",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses how AI tools can enhance productivity and effectiveness in the workplace, aligning with the strategic adoption of digital technologies to improve operational efficiency and business agility.",
+    "reasoning": "The content discusses the impact of AI on productivity and work processes, which aligns with the themes of digital transformation. However, it primarily focuses on personal productivity rather than broader organisational strategies or case studies. While it mentions the potential for organisations to adapt and compete more effectively, it lacks detailed exploration of change management practices or metrics for measuring success in digital transformation initiatives.",
     "level": "Secondary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T21:01:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how AI tools can enhance individual productivity and effectiveness at work, which relates to human factors in the workplace. However, it primarily focuses on the technology itself rather than the interplay between people and structured methodologies.",
-    "level": "Tertiary"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -267,15 +237,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no focus on Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T21:01:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity, with only a brief mention of Agile, Scrum, or DevOps at the end, which does not constitute a central theme.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -296,15 +257,6 @@
     "reasoning": "Content primarily discusses the impact of AI on productivity and individual effectiveness, with no clear focus on accountability within Agile teams.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T21:01:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on transparency or accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T21:01:29",
@@ -314,23 +266,17 @@
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity in the workplace, with no clear focus on release management practices or processes.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T21:01:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on the One Engineering System framework or its principles.",
-    "level": "Ignored"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T21:01:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how AI tools can enhance productivity and adaptability in the workplace, which aligns with the broader implications of agility on organisational performance. However, the primary focus is on individual productivity rather than enterprise-level agility.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses how AI can enhance individual productivity and organisational competitiveness, which aligns with the broader implications of agility. However, it primarily focuses on personal productivity tools rather than organisational agility frameworks or structures. While it mentions the potential for organisations to adapt to market changes, it lacks detailed exploration of enterprise agility concepts such as frameworks, leadership roles, or cultural aspects.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -352,20 +298,23 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T21:01:37",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T21:01:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with only a brief mention of Agile and Scrum at the end, which does not constitute a central theme.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with only a brief mention of Agile and Scrum at the end. It does not delve into the specific responsibilities or skills of a Scrum Master, nor does it discuss the role's influence on team dynamics or organisational change, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Agile Planning": {
@@ -379,10 +328,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T21:01:42",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with only a brief mention of Agile, Scrum, or DevOps at the end.",
     "level": "Ignored"
   },
@@ -397,11 +346,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T21:01:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no focus on Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention or discussion of Test First Development principles, practices, or methodologies. It does not align with the core themes of Test First Development, such as success criteria, testing practices, or collaboration among development teams.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,12 +412,15 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T21:01:59",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of AI on productivity and creativity, which relates to innovation, but it primarily focuses on personal productivity rather than organisational innovation capabilities.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses how AI tools can enhance productivity and creativity in the workplace, which aligns with the concept of innovation. However, it lacks a direct focus on the measurement and improvement of innovation capabilities, as it primarily emphasises personal productivity rather than organisational innovation frameworks or Evidence-Based Management principles.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -478,10 +433,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T21:02:02",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on Agile engineering practices or methodologies.",
     "level": "Ignored"
   },
@@ -503,24 +458,6 @@
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T21:02:07",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses how AI tools can enhance productivity and adaptability in the workplace, which aligns with the theme of organisational resilience and change. However, the primary focus is on AI's impact on individual productivity rather than a comprehensive exploration of resilience strategies or change management practices.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T21:02:09",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of AI as a tool to enhance productivity and creativity, which aligns with the category's focus on practical techniques and tooling. However, it primarily centres on the broader implications of AI rather than specific Agile or DevOps methodologies.",
-    "level": "Tertiary"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T21:02:10",
@@ -541,39 +478,36 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T21:02:13",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal insights on the use of AI in enhancing productivity and creativity, but it primarily focuses on the technology itself rather than personal experiences with Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T21:02:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on events or presentations.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
+    "final_score": 68.0,
+    "reasoning": "The content includes personal experiences with AI, particularly how it aids in brainstorming and productivity, which aligns with the Personal category. However, the primary focus is on AI's impact on work rather than Agile, Scrum, or DevOps specifically, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T21:02:15",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and individual work processes, with no clear focus on working agreements or team collaboration.",
     "level": "Ignored"
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-17T21:02:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-14T23:08:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how AI can enhance productivity and competitiveness in the market, making it a significant but secondary theme rather than a primary focus on market share strategies.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity, with only a brief mention of a 'competitive edge' for organisations adopting AI. However, it lacks a detailed discussion on market share strategies, competitive analysis, or specific methodologies for increasing market presence, which are essential for the 'Market Share' category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -582,15 +516,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and work processes, with only a brief mention of Agile and Scrum at the end, which does not align with the central theme of Scrum Team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T21:02:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on individual productivity and creativity, with no clear focus on scaling agile practices or organisational agility.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -613,11 +538,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T21:02:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity in the workplace, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of Continuous Delivery principles or practices. While it discusses efficiency and automation, these concepts are not specifically tied to Continuous Delivery, which requires a more focused exploration of software delivery practices. The discussion lacks depth in relation to Continuous Delivery, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -631,19 +559,19 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T21:02:32",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity in general work contexts, without a specific focus on remote working or Agile practices.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T21:02:33",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and individual work processes, without a clear focus on change management principles or practices.",
     "level": "Ignored"
   },
@@ -665,7 +593,7 @@
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on Daily Scrum or related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T21:02:37",
     "ai_confidence": 0,
@@ -683,15 +611,6 @@
     "reasoning": "Content primarily discusses the impact of AI on productivity and work processes, with no clear focus on Windows operating system topics.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T21:02:40",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the use of AI as a tool for enhancing productivity and creativity, which aligns with the theme of continuous learning and adaptation in the workplace. However, the primary focus is on AI's impact on work rather than explicit methodologies for discovery and learning.",
-    "level": "Tertiary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T21:02:48",
@@ -703,11 +622,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T21:02:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with only a brief mention of Agile, Scrum, or DevOps at the end.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct discussion of the Agile Product Operating Model or its principles. While it briefly mentions Agile in the context of a coffee chat invitation, this is not substantial enough to align with the core themes of the category. The content lacks depth and detail regarding product management practices or agile methodologies.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -730,12 +652,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T21:02:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how AI tools can enhance productivity and adaptability in the workplace, suggesting that organisations adopting these technologies can respond more swiftly to market demands. However, the primary focus is on AI's role in individual productivity rather than a detailed exploration of Agile, DevOps, or Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of AI on productivity and creativity, which indirectly relates to market adaptability by mentioning the competitive edge organisations can gain through AI adoption. However, it lacks direct references to Agile, DevOps, or Lean methodologies, and does not provide in-depth strategies or practices specifically aimed at enhancing market adaptability.",
+    "level": "Ignored"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -766,19 +691,19 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T21:03:02",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, rather than structured decision-making methodologies.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T21:03:03",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without a focus on metrics, data analysis, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -809,15 +734,6 @@
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on mentoring or related themes.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T21:03:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the general impact of AI on productivity and creativity without a specific focus on Agile methodologies or practices.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T21:03:13",
@@ -838,12 +754,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T21:03:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of AI tools to enhance productivity and efficiency in work processes, which aligns with operational practices. However, it primarily focuses on the general impact of AI rather than specific operational methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the use of AI to enhance productivity and efficiency, which aligns with operational practices. However, it primarily focuses on personal experiences and general benefits of AI rather than specific operational techniques or methodologies within Agile, DevOps, or Lean frameworks. The discussion lacks depth in terms of practical application and does not provide concrete strategies or metrics related to operational efficiency.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -883,12 +802,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T21:03:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the adoption of AI tools and the importance of learning how to use them effectively, which aligns with the theme of continuous learning. However, the primary focus is on AI's impact on productivity rather than on continuous learning principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the integration of AI into workflows and its impact on productivity and creativity, which touches on aspects of continuous learning. However, it primarily focuses on the use of AI as a tool rather than exploring the principles and practices that promote a growth mindset or knowledge sharing within teams. The mention of taking courses on prompt engineering hints at a learning aspect, but it lacks depth in discussing continuous improvement or team dynamics.",
+    "level": "Ignored"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -944,15 +866,6 @@
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without a clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T21:03:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity in the workplace, with no clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T21:03:43",
@@ -960,15 +873,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on individual productivity and job effectiveness without a clear focus on the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T21:03:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and work processes, without a focus on specific products or literature related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,20 +895,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T21:03:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical application of AI tools to enhance productivity and effectiveness in work, which aligns with pragmatic thinking in a general sense. However, it primarily focuses on AI's impact rather than specific Agile, Scrum, or DevOps frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the practical applications of AI in enhancing productivity and creativity, which aligns with the core themes of pragmatic thinking. However, it lacks direct mentions of Agile, Scrum, or DevOps frameworks, and the depth of discussion on pragmatic problem-solving strategies is limited.",
+    "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T21:03:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on Lead Time as defined.",
+    "calculated_at": "2025-04-11T11:15:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of Lead Time or its related concepts. While it discusses efficiency and productivity, these themes do not align specifically with Lead Time as an observability metric. The discussion lacks depth regarding Lead Time, its measurement, or strategies for optimisation, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,19 +928,19 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T21:03:56",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity in the workplace, without a clear focus on working software or Agile principles.",
     "level": "Ignored"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T21:03:57",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
@@ -1063,12 +973,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T21:04:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of AI on productivity and work processes, with a brief mention of Agile, Scrum, and DevOps at the end, indicating a secondary theme related to software development practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity in the workplace, with only brief mentions of Agile, Scrum, and DevOps at the end. While it touches on themes relevant to software development, such as efficiency and automation, it lacks a focused discussion on software engineering practices or methodologies. The overall emphasis is more on personal experiences and general productivity rather than specific software development techniques or frameworks.",
+    "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1099,12 +1012,15 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T21:04:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how AI tools can enhance productivity and competitiveness in the workplace, which aligns with entrepreneurial themes of innovation and adapting to market demands. However, the primary focus is on the use of AI in work processes rather than on entrepreneurship itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of AI on productivity and creativity, which indirectly relates to entrepreneurship by highlighting innovation and competitive advantage. However, it primarily focuses on personal experiences and practical applications of AI rather than the broader principles of entrepreneurship. While there are mentions of efficiency and competitive edge, the depth of discussion on entrepreneurial strategies and risk-taking is limited.",
+    "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1113,15 +1029,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on individual productivity and does not focus on cross-functional teams or their characteristics.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T21:04:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity in the workplace, with only a brief mention of Agile, Scrum, or DevOps at the end.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1144,10 +1051,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T21:04:15",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without focusing on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1158,15 +1065,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and work processes, with no clear focus on the responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T21:04:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without a clear focus on Agile, DevOps, or technology news and reviews.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1243,20 +1141,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T21:04:30",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:15:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without a clear focus on throughput measurement or optimisation in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T21:04:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "The content primarily discusses the impact of AI on productivity and work processes, with only a brief mention of Agile, Scrum, or DevOps at the end, which does not constitute a central theme.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, without any explicit discussion of throughput as a delivery metric. While it mentions efficiency and productivity, these concepts are not tied to throughput metrics or analysis. The content lacks depth in discussing throughput, and it does not provide any calculations, visualisations, or trends related to throughput. Overall, the content does not align with the key topics outlined for the 'Throughput' category.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1270,11 +1162,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T21:04:35",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:15:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no focus on system configuration or related technical aspects.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of system configuration or related topics. While it discusses the integration of AI tools, it does not delve into configuration management, optimisation techniques, or best practices for system setup. The discussion is more aligned with general productivity and technology adoption rather than the specific themes of system configuration.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,30 +1190,24 @@
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, without a clear focus on product discovery methodologies or understanding customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T21:04:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with only a brief mention of Agile, Scrum, or DevOps at the end, which does not constitute a central theme.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T21:04:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses how AI tools can enhance productivity and adaptability within organisations, which aligns with the theme of organisational change, but it primarily focuses on the use of AI rather than the broader strategies or frameworks for organisational transformation.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of AI on productivity and creativity, which is tangentially related to organisational change but does not focus on the principles, frameworks, or methodologies of organisational change itself. While it mentions the need for adaptation and embracing change, it lacks a detailed exploration of change management strategies or the role of leadership in driving organisational change.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T21:04:41",
+    "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on the Definition of Done.",
     "level": "Ignored"
   },
@@ -1351,12 +1240,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T21:04:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how AI tools can enhance productivity and adaptability in the workplace, which aligns with the theme of organisational agility. However, the primary focus is on AI's impact on individual productivity rather than on broader organisational strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of AI on productivity and creativity, which indirectly relates to organisational agility by highlighting the need for adaptability and efficiency. However, it lacks direct mentions of agile methodologies or specific practices that enhance organisational agility. The discussion is more focused on personal experiences with AI rather than on organisational strategies or frameworks, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1374,6 +1266,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of AI on productivity and creativity in the workplace, without a focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:55:07",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the impact of AI on productivity and creativity, with no clear focus on Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 50.0,
+    "reasoning": "The content discusses the impact of AI on productivity and creativity in the workplace, but it lacks a specific focus on Agile methodologies, DevOps practices, or software development processes.",
+    "level": "Tertiary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity in the workplace, with only a brief mention of Agile and Scrum at the end. There are no detailed discussions on Scrum roles, events, or principles, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity, with no explicit mention of the Shift-Left Strategy or its principles. While it touches on efficiency and productivity, it does not align with the core themes of integrating testing, security, or compliance early in the software development lifecycle. The discussion lacks depth regarding Shift-Left practices, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of AI in enhancing productivity and creativity rather than discussing Continuous Improvement principles. While it mentions efficiency and productivity, it lacks explicit discussions on empirical evidence, data-driven decision-making, or techniques for fostering a culture of experimentation and learning. The alignment with Continuous Improvement themes is minimal, and the depth of discussion does not provide substantial insights into Continuous Improvement practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity, with personal anecdotes and general advice on leveraging AI tools. It does not explicitly discuss Common Goals, nor does it align with the core themes of Agile or DevOps. The mention of Agile, Scrum, or DevOps is very brief and lacks depth, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the use of AI to enhance productivity and creativity, which indirectly relates to competence by suggesting that leveraging AI tools can improve efficiency and capabilities. However, it lacks direct mentions of competence as a foundational principle and does not delve deeply into continuous learning or skill development in the context of Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of the One Engineering System or its principles. While it discusses efficiency and integration of tools, it does not align with the core themes of 1ES, such as standardising software development practices or implementing a unified engineering system. The discussion is more about personal experiences and general productivity rather than the structured framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of AI in enhancing productivity and creativity, which touches on the concept of agency but lacks a focused discussion on Agentic Agility. While it mentions autonomy in using AI tools, it does not delve into the principles of Agentic Agility, such as intent, accountability, or the distinction between human and AI capabilities. The discussion is more about the benefits of AI rather than the intentional shaping of outcomes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:15:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, rather than discussing specific methodologies or practices related to product development. While it briefly mentions concepts like efficiency and idea generation, these are not directly tied to product development principles or practices. The discussion lacks depth in terms of product development strategies, customer feedback integration, or iterative processes, which are crucial for the category. Therefore, while there is some conceptual alignment with the idea of enhancing productivity, it does not meet the primary focus required for a strong classification in 'Product Development'.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:15:07",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of Open Space Agile or its principles. While it touches on themes of collaboration and efficiency, these are not specifically aligned with Open Space Agile's emphasis on collective participation and psychological safety. The discussion lacks depth regarding Agile methodologies or the co-creation aspect central to Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:15:10",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of Agnostic Agile principles or discussions. While it briefly touches on Agile, Scrum, and DevOps at the end, these are not explored in the context of Agnostic Agile. The content lacks depth in discussing the core themes of Agnostic Agile, such as ethical considerations, value delivery, or the application of agile principles in various contexts.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:15:13",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of scaling methodologies or frameworks. While it touches on themes of efficiency and collaboration, these are not specifically related to scaling Agile practices or the complexities involved in coordinating multiple teams. The discussion lacks depth regarding scaling strategies, metrics, or case studies, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:15:17",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of Cell Structure Design or its principles. While it discusses themes of efficiency and self-organisation, these are not aligned with the specific concepts of decentralised structures or autonomous cells as outlined in the Cell Structure Design category. The discussion lacks depth regarding the core principles of the Beta Codex or comparisons with traditional hierarchical models.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:15:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of Liberating Structures or their facilitation techniques. While there are themes of collaboration and enhanced creativity, they are not explicitly linked to the principles or methods of Liberating Structures. The discussion lacks depth regarding specific techniques or their applications, resulting in a low confidence score for alignment with the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:15:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, without any explicit discussion of Time to Market or related metrics. While it touches on themes of efficiency and competitive advantage, these are not directly linked to the concept of Time to Market as defined in the category. The content lacks depth in discussing strategies or metrics for improving Time to Market, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:15:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on individual productivity and creativity rather than discussing the organisation as a product. While it touches on themes of efficiency and adaptation, it lacks direct references to organisational design, customer feedback integration, or cross-functional collaboration, which are central to the CaaP concept. The discussion is more about personal experiences with AI tools rather than a strategic organisational approach.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:15:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity in the workplace, with no direct mentions of GitHub or its functionalities. While it touches on themes of efficiency and collaboration, these are not specifically tied to GitHub or its services. The discussion lacks depth regarding GitHub's tools, practices, or methodologies, leading to a very low confidence score for alignment with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:15:32",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, without explicitly discussing Unrealised Value or its indicators. While it touches on themes of efficiency and potential improvements through AI, it lacks a direct exploration of untapped opportunities or strategic decision-making related to Evidence-Based Management. The discussion is more about personal experiences and general benefits of AI rather than a structured analysis of unrealised value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:15:35",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, without any explicit discussion of Current Value or its relevance to Evidence-Based Management. While it touches on themes of efficiency and productivity, it lacks specific metrics, indicators, or techniques related to Current Value assessment. The discussion is more about personal experiences and general benefits of AI rather than a structured analysis of value delivery in a management context.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:15:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct mention of Hybrid Agile methodologies or their challenges. While it briefly touches on Agile and Scrum in the conclusion, this is not the main focus of the content, and there is no critical examination of Hybrid Agile practices or their implications. The discussion lacks depth and does not align with the core themes of the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:15:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace, with no direct discussion of project management principles, methodologies, or tools. While it briefly mentions Agile and Scrum in the context of a coffee chat invitation, this is not substantial enough to align with the core themes of project management. The overall discussion lacks depth and detail related to project management practices, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity in the workplace without clearly articulating any specific principles related to Agile, Lean, or DevOps. While it touches on improved efficiency and enhanced creativity, these themes are not specifically framed as actionable principles guiding decision-making or team behavior. Therefore, the confidence score remains low as it lacks direct mentions, clear alignment with core themes, and depth in relation to specific principles.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 34,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses AI as a tool that enhances productivity and creativity, which aligns with the definition of 'tools' in terms of improving workflows. However, it primarily focuses on the broad impact of AI rather than delving into specific tools, their functionalities, or structured methodologies such as Agile, Lean, or DevOps. While there are mentions of AI applications in workflows, the discussion lacks the depth and direct focus on tool-specific practices that are required for a higher confidence score in this category.",
+    "level": "Secondary"
+  },
+  "Values": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity in the workplace, without addressing any core values or principles that guide behavior and decision-making. While it briefly mentions the benefits of AI in work processes, it does not explore the foundational beliefs or ethical considerations related to values, and personal experiences dominate the discussion, which detracts from its relevance to the 'Values' category.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the impact of AI on work productivity and creativity, focusing more on personal experiences and practical applications rather than philosophical discussions. There are brief mentions of concepts like efficiency and creativity enhancement, but they do not delve into the foundational beliefs or core philosophies behind Agile, Lean, or DevOps, which is essential for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the impact of AI on productivity and creativity but does not directly engage with the concept of discipline or its principles. While it mentions terms like Agile, Scrum, and DevOps at the end, the focus is on AI as a tool rather than a structured methodology related to a discipline. Therefore, it lacks depth and direct mentions regarding the thematic components of the category.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses AI's impact on productivity and creativity in the workplace, with no direct mention or focus on artifacts as defined in Agile, Scrum, or Lean frameworks. While it touches on themes of efficiency and tools, it does not explore the structure, purpose, or management of artifacts, which are central to the Artifact category.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the integration of AI into the workplace, discussing productivity, creativity, and personal experiences with AI tools. There are no direct mentions of observability or related concepts such as metrics, logs, or traces. While there is some alignment in discussing insights gained from data analysis, this is tangential to observability as a core category. The depth of discussion on AI's role overshadows any relevance to observability principles or practices. Overall, the content does not fulfill the criteria for the observability category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses the integration of AI into work processes, focusing on productivity and creativity enhancement rather than on specific actionable techniques or practices relevant to team performance. The mention of Agile and Scrum at the end is very brief and not tied directly to the key topics outlined in the 'Practice' category. Overall, the content does not primarily focus on the core themes of practical techniques for improving team effectiveness or continuous improvement.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the role of AI in enhancing productivity and creativity, but it does not focus on structured procedures or specific methods related to Agile, Lean, or DevOps. While it briefly alludes to tools and practices, it lacks detailed discussion on any specific method. The mention of Agile, Scrum, or DevOps is secondary, suggesting a lack of depth in methodical content.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses AI's impact on productivity and creativity, but makes no explicit references to conceptual models, frameworks, or their application in Agile, DevOps, or Lean contexts. It lacks focus on models, which diminishes its relevancy to the 'Model' category. The mention of Agile, Scrum, or DevOps is only in passing, indicating a very low relevance to the key themes outlined for this category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the impact of AI on productivity and creativity in the workplace. Although Agile, Scrum, and DevOps are briefly mentioned at the end, they are not the main topic of discussion. The content lacks any structured methodology or guidelines related to Agile, DevOps, or Lean principles, which are essential for a strong alignment with the Framework category. It discusses personal experiences and general benefits of AI rather than providing an in-depth exploration of frameworks or their applications.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:28",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content is primarily focused on the general impact of AI in the workplace and personal experiences rather than actionable tenets or guiding principles within Agile, DevOps, or Lean methodologies. While there is a fleeting mention of Agile and DevOps in the closing statement, the overall emphasis is not on specific tenets or actionable rules, but rather on a broad discussion about productivity and technology. Thus, the content does not adequately meet the criteria for the 'Tenet' category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "fcOSewXez3I",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:29",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content discusses how AI enhances capabilities and productivity in a workplace, it primarily focuses on the tools and techniques of AI rather than the enduring competencies that form systemic capabilities within organizations. The mention of being 'more capable and efficient' is limited and not deeply developed in terms of strategies for embedding capabilities or their impact on organizational culture as outlined in the category description.",
     "level": "Ignored"
   }
 }

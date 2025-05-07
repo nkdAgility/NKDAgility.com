@@ -2,8 +2,10 @@
 title: What is a Sprint Backlog?
 description: Discover the sprint backlog's role in Scrum! Join Martin Hinshelwood as he explains its importance for teams and stakeholders in this insightful video.
 date: 2023-05-29T12:01:04Z
+weight: 1000
 ResourceId: T-K7HC-ZGjM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: T-K7HC-ZGjM
@@ -15,41 +17,34 @@ preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
 duration: 296
 isShort: false
 aliases:
-- /resources/what-is-a-sprint-backlog
-- /resources/videos/what-is-a-sprint-backlog-
-- /resources/videos/T-K7HC-ZGjM
-- /resources/what-is-a-sprint-backlog-
 - /resources/T-K7HC-ZGjM
-aliasesFor404:
+- /resources/videos/what-is-a-sprint-backlog
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-backlog
 - /resources/what-is-a-sprint-backlog
 - /resources/videos/what-is-a-sprint-backlog-
 - /resources/what-is-a-sprint-backlog-
+- what-is-a-sprint-backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- People and Process
-- Professional Scrum
-- Agile Product Management
-- Product Delivery
-- Agile Frameworks
-- Software Development
 - Agile Planning
-- Software Developers
-- Agile Project Management
+- Professional Scrum
+- Software Development
+- Agile Frameworks
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
 ## Interpreting the Sprint Backlog
 
 One of the most common inquiries I encounter is, "What is a Sprint Backlog?"  📝
 
-The Scrum Guide offers a blueprint answer, but let's break it down further into three pillars of three key elements.
+The [Scrum]({{< ref "/categories/scrum" >}}) Guide offers a blueprint answer, but let's break it down further into three pillars of three key elements.
 
 The Sprint Backlog, in my words, is essentially three things tied together:
 
@@ -59,7 +54,7 @@ The Sprint Backlog, in my words, is essentially three things tied together:
 
 3\. A Concrete Plan: A strategic roadmap detailing how to achieve these tasks.  📈
 
-## The Transparency Beacon
+## The [Transparency]({{< ref "/tags/transparency" >}}) Beacon
 
 From my viewpoint, the Sprint Backlog symbolises our 'transparency of the present'.  💡
 

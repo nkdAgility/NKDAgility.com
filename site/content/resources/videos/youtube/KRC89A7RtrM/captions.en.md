@@ -1,0 +1,11 @@
+So when you first open Team Foundation server you might see a message saying some features of Team web access are not visible to you and you click show details there's an MSDN article on how to solve that problem but it is actually very simple to solve as long as you have your administrator on the TFS server not just on the collection but on the whole server.
+
+You can click on the little cog the top right to go in and administer your server and if you click all the way up to control panel in the view there and you'll see an access levels tab on access levels and you get to configure which users have permission or have which licensing level.
+
+So you have limited access which is view my work items and you do not need CAL or any sort of access directly paid access TFS in order to get this level. You have standard which is currently the default which is why we get the message to say things aren't being shown this requires a CAL and so anybody in this group which again is the default will see all of those features there view my work items standard features agile boards backlog and sprint planning tools and the chart viewing.
+
+In order to get full access if I click on full and you'll see that this also has agile portfolio tools team rooms test case management there's a few extra things in there over and above. This is only available with the up level CALs which is a test professional with MSDN, a premium with MSDN, an ultimate with MSDN that you need one of those levels to access this.
+
+So you can just add the user accounts for everybody that has that version in there. Now this is my local server everybody accessing it has ultimate so I can just set this as the default level and if I go back to my TFS server and click refresh you'll see I get the extra features coming in. I get the request feedback on here, I get if I view my backlog I now have the features which is part of the agile portfolio management and I have the test tab which is also an additional feature.
+
+So there you go that's how you configure permissions for the features that you can't see.

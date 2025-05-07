@@ -8,86 +8,50 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-14T16:42:52",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical issues and solutions related to Team Foundation Build 2012, including specific tooling and methodologies for resolving build errors, which aligns well with the category.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to build processes and configurations in Team Foundation Build, which are relevant to platform engineering, but the primary focus is on troubleshooting specific errors rather than a comprehensive discussion on platform engineering principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Build and its interaction with MVC projects, which is more focused on troubleshooting and specific build configurations rather than the broader principles of Platform Engineering. While it touches on aspects of build automation and developer productivity, it lacks a comprehensive exploration of Internal Developer Platforms (IDPs) or the core themes of platform engineering. The discussion is technical but does not delve into the design or construction of internal platforms, which is central to the category.",
+    "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-14T16:42:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not address Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to build processes and targets in Team Foundation Build, which touches on code quality and complexity in the context of software development. However, it primarily focuses on specific technical problems rather than a broader exploration of code quality principles or complexity theory.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-14T16:42:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details and troubleshooting related to Team Foundation Build and MVC projects, without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-14T16:42:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Build and does not mention Evidence-Based Management or its key topics. It focuses on troubleshooting and solutions for a specific error, lacking any empirical decision-making or data-informed management practices.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-14T16:43:01",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-14T16:43:02",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses troubleshooting and configuration issues related to Team Foundation Build 2012, including installation steps and workarounds for specific build errors, which aligns well with the Install and Configuration category.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-14T16:43:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not address transparency or accountability within Agile teams.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed discussion on troubleshooting and resolving a specific issue related to the installation and configuration of Team Foundation Build 2012, particularly in the context of MVC projects. It includes step-by-step guidance on how to address the error encountered, discusses the implications of certain configurations, and offers workarounds and solutions. The focus is primarily on the technical aspects of installation and configuration, aligning well with the key topics outlined in the category definition.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +71,17 @@
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build and does not address the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-14T16:43:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical issues related to Team Foundation Build and MVC projects, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-14T16:43:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to Continuous Integration (CI) in the context of Team Foundation Build, which is a key aspect of DevOps practices.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Build 2012 and its integration with MVC projects, focusing on resolving a build error. While it touches on aspects of Continuous Integration, which is a component of DevOps, the discussion lacks a broader exploration of DevOps principles such as collaboration, automation, or shared accountability. The content is more technical and problem-solving in nature rather than a philosophical or cultural discussion of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +101,6 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-14T16:43:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build and does not reference any events, presentations, or discussions relevant to Agile, DevOps, or software engineering conferences.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-14T16:43:18",
@@ -159,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and specific technical problems with MVC projects, without a focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-14T16:43:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-14T16:43:24",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build and does not focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,11 +148,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-14T16:43:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a technical issue related to Continuous Integration and build processes in Team Foundation Build, including specific solutions and workarounds that enhance the software development process.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Build and the challenges faced when upgrading from older versions of Visual Studio. It mentions Continuous Integration practices and provides detailed workarounds and solutions, which align with the principles of technical excellence. However, while it touches on relevant topics, such as build processes and project file management, it lacks a broader discussion on methodologies or principles that enhance agility in software development, which limits its overall alignment with the category.",
     "level": "Secondary"
   },
   "Complexity Thinking": {
@@ -235,12 +178,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build processes and deployment in Team Foundation Build, which are relevant to product delivery, but the primary focus is on troubleshooting specific errors rather than broader methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific technical issue related to Team Foundation Build and does not explicitly focus on broader product delivery methodologies or practices. While it touches on aspects of continuous integration, it lacks a comprehensive exploration of product delivery principles such as Agile methodologies, iterative development, or deployment strategies. The discussion is more about troubleshooting and specific configurations rather than the end-to-end process of delivering software products.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -260,15 +206,6 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-14T16:43:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build and does not focus on products or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-14T16:43:38",
@@ -280,11 +217,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-14T16:43:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues and solutions related to Team Foundation Build 2012, which is part of Azure DevOps, and focuses on CI/CD processes and build configurations.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Build 2012, which is a component of Azure DevOps. It provides detailed insights into a specific problem encountered during a build process, including workarounds and solutions that are directly relevant to Azure DevOps functionalities. The discussion is focused on CI/CD practices within the context of Azure DevOps, aligning well with the category's core themes. However, while it is detailed, it does not cover a broad range of Azure DevOps services or best practices, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,7 +245,7 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, without addressing Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-14T16:43:43",
     "ai_confidence": 0,
@@ -316,11 +256,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-14T16:43:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a technical issue related to Team Foundation Build and does not address any principles or practices of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management, or the key topics outlined in the APOM definition. The focus is on resolving a specific build error rather than on agile product delivery or organisational effectiveness.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,31 +275,16 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on organisational agility or related methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-14T16:43:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build 2012 and does not provide industry news, updates, or reviews relevant to Agile, DevOps, or technology trends.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to building and deploying applications using Team Foundation Build, which is relevant to the application lifecycle, but it primarily focuses on a specific technical problem rather than the broader methodologies and practices of Application Lifecycle Management.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-14T16:43:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Build and ASP.NET MVC, with no clear focus on Scrum principles, roles, events, or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Build and the challenges faced during the build process of MVC projects. While it touches on aspects of deployment and maintenance, it lacks a comprehensive discussion on the broader application lifecycle management principles, methodologies, or tools. The focus is more on troubleshooting a specific error rather than on managing the entire lifecycle of an application.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +298,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-14T16:43:54",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build and does not address the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-14T16:43:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses technical issues related to build processes in Team Foundation Build, including troubleshooting, workarounds, and solutions that reflect software craftsmanship and engineering practices.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed discussion on a specific technical issue related to Team Foundation Build and MVC projects, focusing on the resolution of a build error. It directly addresses best practices in software build processes and the implications of using different versions of tools and SDKs, which aligns well with the principles of software craftsmanship. The depth of the discussion is significant, as it includes workarounds and solutions, demonstrating a strong understanding of the technical aspects involved. However, while it is primarily focused on a technical issue, it does not extensively cover broader principles of software design or architecture, which slightly limits its alignment with the category.",
+    "level": "Primary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,12 +328,15 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to build processes and deployment in Team Foundation Build, which are relevant to Continuous Delivery, but the primary focus is on troubleshooting specific errors rather than the broader principles and practices of Continuous Delivery.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific issue related to Team Foundation Build and MVC projects, touching on aspects of Continuous Integration, which is a component of Continuous Delivery. However, it lacks a direct focus on Continuous Delivery principles, practices, or benefits. The discussion is primarily technical and problem-solving in nature, with limited exploration of broader Continuous Delivery concepts such as automation, rapid feedback, or cultural aspects. Therefore, while there are relevant elements, they do not constitute a primary focus on Continuous Delivery.",
+    "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -415,10 +349,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-14T16:44:04",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes and errors in Team Foundation Build, with no focus on Lead Time as a metric or its implications.",
     "level": "Ignored"
   },
@@ -433,10 +367,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-14T16:44:07",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no mention of Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -478,28 +412,31 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-14T16:44:13",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not address customer feedback mechanisms or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-14T16:44:14",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses troubleshooting and solutions related to build processes in Team Foundation Build, which aligns with operational practices in enhancing delivery efficiency and addressing workflow issues.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific issue related to build processes in Team Foundation Build 2012, which touches on operational practices in a software development context. However, it primarily focuses on troubleshooting a specific error rather than providing broader strategies or techniques for enhancing operational efficiency. While there are mentions of build targets and configurations, the depth of discussion does not fully align with the key topics of operational practices, such as process optimisation or continuous improvement strategies.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-14T16:44:16",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not address Scrum roles, collaboration, or team dynamics.",
     "level": "Ignored"
   },
@@ -559,10 +496,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-14T16:44:26",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not focus on team dynamics, collaboration, or Agile methodologies.",
     "level": "Ignored"
   },
@@ -577,37 +514,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-14T16:44:29",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no focus on Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-14T16:44:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Build, Continuous Integration, and specific solutions for building MVC projects, which are central to software development practices.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-14T16:44:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on Agile Project Management principles or methodologies.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed discussion on a specific issue encountered in the software development process using Team Foundation Build 2012, particularly in relation to Continuous Integration practices. It explicitly mentions the build process, project files, and the resolution of a build error, which aligns closely with software development methodologies and practices. The depth of the discussion includes workarounds and solutions, demonstrating a thorough understanding of the software development lifecycle and related tools.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-14T16:44:34",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +553,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Team Foundation Build and Continuous Integration, which are relevant to modern source control practices, but the primary focus is on troubleshooting specific build errors rather than broader version control methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to Team Foundation Build and Continuous Integration, which are relevant to modern source control practices. However, it primarily focuses on a specific error and its resolution rather than broader best practices or methodologies in version control. While it does mention aspects of build processes and targets, it lacks a comprehensive exploration of version control strategies or collaboration workflows, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-14T16:44:40",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no focus on empirical process control principles or Agile methodologies.",
     "level": "Ignored"
   },
@@ -649,19 +583,19 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-14T16:44:43",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC projects, with no clear focus on Azure Boards or Agile project management.",
     "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-14T16:44:45",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC projects, with no focus on collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
@@ -694,20 +628,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-14T16:44:51",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not focus on customer satisfaction or experience.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-14T16:44:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC projects, with no clear focus on Scaling Scrum principles or practices.",
+    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not focus on customer satisfaction or experience.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,22 +653,16 @@
     "reasoning": "Content heavily discusses technical issues related to Team Foundation Build and MVC projects, with no mention of psychological safety or related themes.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-14T16:44:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build and does not address scaling agile practices or organisational agility.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-14T16:44:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to build processes, Continuous Integration, and the resolution of technical problems in software development, which aligns with best practices in engineering excellence.",
+    "reasoning": "The content discusses a specific technical issue related to build processes in Team Foundation Build 2012, which touches on aspects of software craftsmanship and continuous integration. However, while it provides some insights into troubleshooting and solutions, it lacks a broader discussion on best practices, principles of software craftsmanship, or a culture of excellence in software development. The focus is primarily on a specific problem and its resolution rather than a comprehensive exploration of engineering excellence.",
     "level": "Secondary"
   },
   "Revenue per Employee": {
@@ -775,20 +694,23 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-14T16:45:03",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not address customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-14T16:45:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses practical problem-solving strategies related to build issues in Team Foundation Build 2012, demonstrating real-world applications of DevOps principles and techniques for navigating complexity in project management.",
+    "reasoning": "The content discusses practical problem-solving strategies related to a specific issue encountered in Team Foundation Build 2012, demonstrating real-world applications of DevOps principles. It provides detailed workarounds and solutions based on experience, aligning well with the core themes of pragmatic thinking. The depth of discussion is significant, as it explores multiple solutions and their implications, although it lacks broader context on Agile or Scrum methodologies.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +724,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-14T16:45:08",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build and does not focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-14T16:45:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC projects, with no clear focus on Scrum principles or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-14T16:45:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build and does not address any aspects of scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +751,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-14T16:45:20",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes in Team Foundation Build and does not focus on test automation principles, frameworks, or practices.",
     "level": "Ignored"
   },
@@ -865,29 +769,35 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to building software in Team Foundation Build, which is relevant to the delivery of functional software. However, it primarily focuses on specific technical problems and workarounds rather than broader themes of working software delivery.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses a specific issue encountered during the build process in Team Foundation Build 2012, which relates to the functionality of software. It provides a workaround and solution to a problem that affects the delivery of working software, indicating a focus on ensuring software quality and functionality. However, it lacks broader discussions on Agile principles, customer feedback, or iterative development, which are key themes in the 'Working Software' category.",
+    "level": "Secondary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-14T16:45:28",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no focus on Agile planning tools or methodologies.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-14T16:45:31",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues and solutions related to building projects in Team Foundation Build 2012, which is a tool used in Continuous Integration workflows. It addresses specific problems encountered during the CI process and provides workarounds and solutions, indicating a strong focus on CI practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses a specific issue encountered while using Team Foundation Build 2012 in the context of Continuous Integration. It mentions the desire to leverage CI practices and addresses problems related to build configurations, which aligns with CI principles. However, the discussion is primarily focused on a technical issue rather than a broader exploration of CI practices, tools, or strategies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Market Share": {
@@ -955,12 +865,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to build processes and deployment in Team Foundation Build, which are relevant to release management, but the primary focus is on troubleshooting specific errors rather than broader release management strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses issues related to building and deploying applications using Team Foundation Build, which touches on aspects of release management, particularly in the context of Continuous Integration. However, it lacks a comprehensive focus on broader release management strategies, such as version control, risk management, or coordination among stakeholders. The primary emphasis is on troubleshooting specific build errors rather than on the overall release process.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
@@ -973,28 +886,31 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-14T16:45:44",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes and configurations in Team Foundation Build, with no clear focus on Cycle Time or its implications.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to Team Foundation Build, which is part of the Azure DevOps ecosystem, and touches on Continuous Integration practices. However, it primarily focuses on specific build errors and workarounds rather than a comprehensive discussion on Azure Pipelines.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses issues related to Team Foundation Build 2012, which is part of the Azure DevOps ecosystem, and touches on Continuous Integration practices. It provides specific details about build targets and configurations relevant to Azure Pipelines, indicating a strong focus on the automation of software development processes. However, it lacks a broader discussion on Azure Pipelines as a whole and does not explicitly mention CI/CD practices or YAML configurations, which slightly lowers the alignment score.",
+    "level": "Secondary"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-14T16:45:48",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to build processes and errors in Team Foundation Build, without a focus on deployment frequency or its optimisation.",
     "level": "Ignored"
   },
@@ -1009,10 +925,10 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-14T16:45:51",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not focus on team dynamics, communication, or collaboration.",
     "level": "Ignored"
   },
@@ -1034,7 +950,7 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, without a focus on digital transformation strategies or the integration of digital technologies for business enhancement.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-14T16:45:55",
     "ai_confidence": 0,
@@ -1043,23 +959,17 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and ASP.NET MVC, with no clear focus on Minimum Viable Product concepts or methodologies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-14T16:45:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no mention of AI or its applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-14T16:45:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to the configuration of a build server in Team Foundation Build 2012, including troubleshooting and workarounds for specific build targets and dependencies, which aligns with system configuration practices.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses issues related to the configuration of Team Foundation Build 2012, specifically addressing the error regarding 'CleanWorkspacePackageTempDir' and the necessary adjustments to project files and build definitions. It provides detailed insights into troubleshooting, workarounds, and solutions that are directly related to system configuration practices. The depth of discussion is significant, covering specific configurations and their implications, which aligns well with the category's focus on system setup and optimisation. However, while the content is rich in technical detail, it does not explicitly cover broader best practices or methodologies, which slightly lowers the alignment score.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1090,39 +1000,48 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-14T16:46:03",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical issue related to Team Foundation Build and does not address cross-functional teams or their characteristics.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-14T16:46:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no focus on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific error related to Team Foundation Build 2012 and does not address Test First Development principles. There are no explicit mentions of success criteria, testing practices, or the impact of testing on collaboration, which are core to the Test First Development category. The focus is on resolving a technical issue rather than on testing methodologies or practices.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-14T16:46:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Build 2012, which operates within the Windows environment, and provides solutions that are specific to Windows-based development and deployment processes.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses an issue related to Team Foundation Build 2012, which is a tool used within the Windows environment for building applications. It provides detailed insights into troubleshooting a specific error encountered during the build process, which aligns well with the Windows category's focus on troubleshooting and configuration. The content also mentions installation and configuration aspects relevant to Windows, such as the use of Visual Studio and the Web Platform Installer. However, while it is focused on Windows-related tools, it does not delve deeply into broader Windows operating system topics like security features or user account management, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to building and deploying MVC applications using Team Foundation Build, which touches on deployment processes and configurations, but it primarily focuses on troubleshooting specific build errors rather than broader deployment strategies.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content discusses issues related to building and deploying applications using Team Foundation Build, but it primarily focuses on troubleshooting specific errors rather than outlining deployment strategies. While it touches on aspects of Continuous Integration and mentions build targets, it lacks a comprehensive discussion on methodologies like Blue-Green Deployments or Canary Releases, which are central to the category of Deployment Strategies.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1135,38 +1054,41 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-14T16:46:12",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues related to Team Foundation Build and does not address team dynamics or motivation.",
     "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-14T16:46:13",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC projects, with no focus on remote working practices or Agile methodologies.",
     "level": "Ignored"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-14T16:46:15",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not focus on principles or practices of Continuous Learning.",
     "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-14T16:46:17",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content primarily discusses the identification and resolution of a specific build error in Team Foundation Build 2012, detailing the causes and providing workarounds and solutions, which aligns well with troubleshooting methodologies.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed account of a specific issue encountered during a build process in Team Foundation Build 2012, including the identification of the problem, its causes, and multiple workarounds and solutions. It explicitly discusses troubleshooting techniques related to software build errors, aligning well with the core themes of the category. The depth of discussion is significant, as it includes specific technical details and references to related resources, demonstrating a thorough exploration of the troubleshooting process.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1180,11 +1102,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-14T16:46:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no clear focus on Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no direct mention of Scrum Master responsibilities, roles, or related concepts. It lacks any discussion on agile principles, team dynamics, or coaching, which are essential for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1198,21 +1123,12 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-14T16:46:21",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no focus on working agreements or team collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to building software projects using Team Foundation Build and mentions Continuous Integration, which is relevant to software developers. However, it primarily focuses on a specific technical problem rather than broader Agile or DevOps practices.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1225,12 +1141,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to Continuous Integration and build processes, which are relevant to engineering practices, but the primary focus is on troubleshooting specific build errors rather than broader engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses issues related to Continuous Integration and build processes, which are integral to engineering practices. It provides specific details about the challenges faced when upgrading build servers and the solutions implemented, reflecting a practical application of CI/CD principles. However, while it touches on automation and build configurations, it lacks a broader discussion on clean code, TDD, or refactoring, which are also key aspects of engineering practices. Therefore, while the content is relevant, it does not fully encompass the depth of the category.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1288,12 +1207,15 @@
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-17T09:09:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues related to Team Foundation Build, which is part of the Azure DevOps suite, but it primarily focuses on build errors and solutions rather than Azure Repos functionalities or best practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Build 2012 and its interaction with MVC projects, which is tangentially related to Azure Repos but does not focus on Azure Repos functionalities, best practices, or source control management. While it mentions Team Foundation Server, it lacks a direct exploration of Azure Repos features or practices, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1331,15 +1253,6 @@
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not address accountability or team dynamics in Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-14T16:46:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no mention of Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-14T16:46:54",
@@ -1351,20 +1264,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-14T16:46:56",
+    "calculated_at": "2025-04-10T15:55:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Team Foundation Build and MVC project configurations, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:49:47",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and MVC projects, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Team Foundation Build 2012 and does not discuss social technologies, collaboration, or decision-making. It lacks any mention of self-organisation, collective intelligence, or value delivery, which are core themes of the category. The depth of discussion is entirely technical, with no exploration of social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1290,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to Team Foundation Build and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 50,
+    "non_ai_confidence": 10,
+    "final_score": 50.0,
+    "reasoning": "The content discusses issues related to Team Foundation Build, which is part of the software development lifecycle, but it primarily focuses on specific build errors and solutions rather than the broader concepts of an Internal Developer Platform.",
+    "level": "Tertiary"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:21:47",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Team Foundation Build and ASP.NET MVC, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Build and ASP.NET MVC projects, with no direct mention of Scrum principles, roles, events, or artifacts. While it touches on project management aspects, it does not align with the core themes of Scrum or provide any depth in discussing Scrum practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses a specific issue related to Team Foundation Build and does not explicitly mention the Shift-Left Strategy. While it touches on aspects of build processes and potential issues, it lacks a focus on integrating testing, security, or compliance earlier in the development lifecycle, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on resolving a specific technical issue related to Team Foundation Build 2012 and does not explicitly discuss Continuous Improvement principles. While it touches on problem-solving and workarounds, it lacks a broader discussion on continuous improvement methodologies, empirical evidence, or a culture of experimentation. The mention of 'Continuous Integration' is relevant but not sufficient to classify the content under Continuous Improvement as a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical issue related to Team Foundation Build and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, and the depth of discussion is limited to troubleshooting a specific error without connecting it to broader organisational objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Team Foundation Build 2012 and does not explicitly discuss competence, continuous learning, or skill development. While it touches on problem-solving and troubleshooting, these aspects are not framed within the context of competence as defined in Agile or DevOps methodologies. The discussion lacks depth in exploring the importance of competence in delivering quality outcomes or fostering a culture of continuous improvement.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on resolving a technical issue related to Team Foundation Build 2012 and does not discuss Agentic Agility or its principles. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, which are central to the category. The discussion is technical and procedural, lacking depth in the context of agency and intentionality.",
     "level": "Ignored"
   }
 }

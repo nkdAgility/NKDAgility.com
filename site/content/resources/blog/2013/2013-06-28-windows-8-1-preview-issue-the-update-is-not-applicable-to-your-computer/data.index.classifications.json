@@ -8,15 +8,6 @@
     "reasoning": "Content is focused on troubleshooting a Windows update issue and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T18:16:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting and installation techniques for Windows 8.1, which does not align with Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
     "calculated_at": "2025-02-15T18:16:56",
@@ -28,66 +19,36 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T18:16:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses troubleshooting issues related to Windows 8.1 updates, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T18:16:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting issues related to Windows 8.1 updates, with no focus on software code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T18:17:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting and technical implementation details related to Windows 8.1 updates, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T18:17:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to Windows 8.1 updates and troubleshooting, with no mention of AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on troubleshooting a specific technical issue related to Windows 8.1 updates, with no mention of Evidence-Based Management principles or metrics. It does not discuss data-informed decision-making or any of the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-15T18:17:03",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting issues related to Windows 8.1 updates, with no reference to Lean principles or methodologies.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T18:17:05",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses installation procedures and troubleshooting for the Windows 8.1 update, providing clear, actionable instructions for resolving specific installation issues.",
-    "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T18:17:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Windows 8.1 updates, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed guide on troubleshooting and installing the Windows 8.1 Update, which aligns closely with the category of Install and Configuration. It explicitly discusses installation procedures, configuration changes (such as altering regional settings), and offers step-by-step solutions to common issues encountered during the installation process. The depth of discussion is significant, as it includes multiple solutions and detailed commands for manual installation, which are essential for effective implementation. Overall, the content is highly relevant to the category, focusing on practical, actionable instructions.",
+    "level": "Primary"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,22 +68,16 @@
     "reasoning": "Content primarily discusses technical issues related to Windows 8.1 updates without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T18:17:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Windows 8.1 updates, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-15T18:17:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows 8.1 updates and installation, which is not relevant to DevOps practices or principles.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on troubleshooting a specific Windows update issue, which is unrelated to DevOps principles, practices, or cultural shifts. There are no discussions of collaboration, automation, or shared accountability, which are core to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to Windows 8.1 updates, with no focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T18:17:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Windows 8.1, with no reference to events, presentations, or discussions relevant to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T18:17:17",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting issues related to Windows 8.1 updates, with no focus on flow efficiency or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T18:17:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Windows 8.1 updates, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T18:17:25",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting issues related to Windows 8.1 updates, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -260,15 +197,6 @@
     "reasoning": "Content discusses technical issues related to Windows 8.1 updates and installation, which is unrelated to Value Stream Management.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T18:17:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses troubleshooting issues related to Windows 8.1, which does not align with the category focused on discussions about products and books relevant to Agile methodologies or DevOps practices.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-15T18:17:37",
@@ -289,10 +217,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-15T18:17:42",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and solutions related to Windows 8.1 updates, with no personal reflections or experiences shared.",
     "level": "Ignored"
   },
@@ -305,22 +233,25 @@
     "reasoning": "Content primarily discusses troubleshooting and installation issues related to Windows 8.1, with no focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T18:17:44",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to Windows 8.1 update installation, with no relevance to the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T18:17:45",
+    "calculated_at": "2025-03-22T07:44:17",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to Windows 8.1 update installation, which is unrelated to the Agile Product Operating Model.",
+    "reasoning": "The content focuses entirely on troubleshooting a Windows 8.1 update issue, with no references to agile methodologies, product management principles, or any related concepts. It does not discuss the Agile Product Operating Model or its key topics.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,15 +263,6 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to Windows 8.1 updates, with no relevance to organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T18:17:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on troubleshooting and technical solutions for a specific Windows update issue, rather than discussing industry news or reviews related to Agile, DevOps, or technology trends.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-15T18:17:49",
@@ -348,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting issues related to the installation of a specific Windows update, which does not align with the principles of Application Lifecycle Management.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T18:17:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Windows 8.1 updates and troubleshooting, with no mention of Scrum principles, roles, events, or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
@@ -370,21 +283,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T18:25:19",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses troubleshooting Windows update issues and provides technical solutions, which is not related to the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily focuses on troubleshooting and technical procedures related to updating Windows 8.1, which involves software configuration and system administration. While it has some relevance to technical mastery in software installation and patching, it does not deeply delve into software craftsmanship, design principles, or high-level engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific Windows update issue, which does not align with the core themes of software craftsmanship or engineering excellence. While it provides some technical solutions, it lacks depth in discussing best practices, principles of clean code, or methodologies that contribute to high-quality software development.",
+    "level": "Ignored"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,11 +313,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on troubleshooting a Windows update issue and does not discuss Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses troubleshooting issues related to the Windows 8.1 update process, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, automation, or software delivery cycles, and the focus is on resolving a specific technical problem rather than exploring the broader themes of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,10 +352,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T18:25:19",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on troubleshooting Windows 8.1 update issues and does not discuss the Definition of Ready or its principles.",
     "level": "Ignored"
   },
@@ -593,21 +512,12 @@
     "reasoning": "The content primarily discusses troubleshooting and installation of Windows 8.1 updates, which is not directly related to software development methodologies or practices.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused entirely on troubleshooting Windows 8.1 update issues and does not discuss Agile Project Management or related methodologies.",
-    "level": "Ignored"
-  },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T18:25:19",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to software updates and installation procedures, with no reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -667,10 +577,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T18:25:19",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues and solutions related to the Windows 8.1 update rather than organisational change strategies, methodologies, or practices.",
     "level": "Ignored"
   },
@@ -701,15 +611,6 @@
     "reasoning": "Content heavily discusses technical issues and solutions related to Windows 8.1 updates, without any focus on customer satisfaction, experience, or feedback.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is entirely about troubleshooting Windows 8.1 Update issues and does not discuss Scrum or scaling practices in any capacity.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T18:25:19",
@@ -726,15 +627,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical issues and solutions related to Windows 8.1 update problems, with no relation to psychological safety or team dynamics.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on troubleshooting issues with Windows 8.1 update installation, not related to scaling agility or agile methodologies.",
     "level": "Ignored"
   },
   "Engineering Excellence": {
@@ -802,29 +694,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T18:25:19",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on troubleshooting Windows update errors and does not discuss innovation capabilities, Evidence-Based Management, or related strategies.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses entirely on troubleshooting a Windows update issue and does not mention Scrum principles, practices, or any related product development topics.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to the installation of Windows 8.1 updates, with no mention of Agile methodologies or practices.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -937,10 +811,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T18:25:19",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting and technical solutions related to Windows 8.1 updates, without any focus on structured decision-making or evidence-based practices.",
     "level": "Ignored"
   },
@@ -1000,10 +874,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T18:25:19",
+    "calculated_at": "2025-04-10T15:55:11",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting installation issues related to Windows 8.1, with no relevance to change management principles or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +908,7 @@
     "reasoning": "Content is focused on troubleshooting issues related to the Windows 8.1 update, which does not align with digital transformation themes such as business agility or the strategic adoption of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T18:25:19",
     "ai_confidence": 0,
@@ -1043,23 +917,17 @@
     "reasoning": "Content discusses technical issues related to the Windows 8.1 Update and does not involve Minimum Viable Product concepts.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to the installation of Windows 8.1 and does not mention AI, Agile, DevOps, or software development methodologies.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses technical processes related to configuring Windows 8.1 settings and installing updates, which directly pertains to system configuration methodologies.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on troubleshooting and configuring the Windows 8.1 update process, which directly relates to system configuration. It discusses specific steps to change regional settings, manually unpack updates, and install a clean copy of Windows, all of which are practical aspects of configuring a system for optimal performance. The depth of discussion is significant, providing detailed solutions and commands, which aligns well with the category's focus on configuration methodologies. However, while the content is rich in practical advice, it does not delve into broader configuration management tools or strategies, slightly limiting its alignment score.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,20 +967,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses issues and solutions related to the Windows 8.1 update, without any mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on troubleshooting a Windows update issue and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing methodologies, or any relevant practices that align with the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 92.0,
+    "ai_mentions": 95.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 50,
-    "final_score": 86.0,
-    "reasoning": "The content is primarily focused on issues related to the installation and troubleshooting of the Windows 8.1 Preview update, providing multiple solutions. It directly addresses Windows operating system specifics and is relevant to user experiences with Windows updates.",
+    "final_score": 92.0,
+    "reasoning": "The content is primarily focused on troubleshooting a specific issue related to the installation of the Windows 8.1 Update. It discusses the error message encountered, provides detailed solutions, and includes steps for changing regional settings and manually installing updates. The depth of discussion is significant, covering multiple solutions and technical steps, which aligns well with the key topics of the Windows category.",
     "level": "Primary"
   },
   "Deployment Strategies": {
@@ -1162,11 +1036,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 92.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 95.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "Content primarily discusses troubleshooting a specific installation issue with the Windows 8.1 update, providing multiple solutions for resolving the error encountered.",
+    "final_score": 92.0,
+    "reasoning": "The content focuses explicitly on troubleshooting a specific issue related to the Windows 8.1 update, providing detailed solutions and methods for diagnosing and resolving the problem. It discusses various techniques for addressing the error message encountered, including changing regional settings and manually unpacking the update. The depth of discussion is significant, with step-by-step instructions and potential alternative solutions, aligning well with the core themes of the troubleshooting category.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1180,11 +1057,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T18:25:19",
+    "calculated_at": "2025-04-08T17:56:35",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on technical issues and solutions related to Windows 8.1, with no mention of Scrum, Scrum Master roles, or Agile practices.",
+    "reasoning": "The content is entirely focused on troubleshooting a technical issue related to Windows 8.1 and does not mention or discuss any aspects of the Scrum Master role, responsibilities, or related agile principles. It does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1083,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily about troubleshooting Windows 8.1 update issues and provides solutions related to system configuration, not teamwork or collaboration principles.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-15T18:25:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on troubleshooting issues related to Windows 8.1 updates and installation processes, which does not align with discussions on software development methodologies, Agile practices, or DevOps principles.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1331,15 +1202,6 @@
     "reasoning": "Content heavily discusses technical issues and solutions related to Windows 8.1 updates without any reference to accountability, team dynamics, or ownership in the context of Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T18:25:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to a Windows update, not Kanban principles or scaling strategies.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T18:25:20",
@@ -1369,11 +1231,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:16:35",
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a technical issue related to Windows 8.1 updates, with no discussion of collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their principles, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:18:18",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to Windows 8.1 updates, with no mention of Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses issues related to Windows 8.1 updates and installation processes, which are not relevant to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:18:20",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to Windows 8.1 updates and installation solutions, with no mention of AI or its applications in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-03-04T11:39:50",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "The content discusses technical issues related to Windows 8.1 updates and does not mention Scrum principles, roles, events, or any related topics. It is entirely focused on troubleshooting a software installation problem, which is unrelated to Scrum or its practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses issues related to the installation of a Windows update, with no mention of software development processes, testing, security, or compliance. It does not align with the principles of the Shift-Left Strategy, which focuses on integrating critical processes earlier in the software development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to Windows 8.1 updates. It does not discuss Continuous Improvement principles, nor does it reflect on processes, products, or team effectiveness. The mention of enhancing system performance is too vague and does not align with the core themes of Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on troubleshooting a specific technical issue related to Windows 8.1 updates. It does not discuss or align with the principles of Common Goals in Agile or DevOps, nor does it mention shared objectives or strategic alignment. The content is purely instructional and technical, lacking any connection to the category's core themes.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to Windows 8.1 updates. It does not discuss competence, continuous learning, or skill development in any meaningful way. While it provides detailed solutions to a technical problem, it lacks any reference to the principles of professionalism, quality delivery, or the development of skills and capabilities.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:11",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses troubleshooting issues related to Windows 8.1 updates, with no mention of Agentic Agility or its principles. It focuses on technical solutions rather than the intentional shaping of outcomes or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

@@ -2,49 +2,46 @@
 title: Worst Contribution from a Product Owner that You Know Of
 description: 'Discover the worst product owner performance ever witnessed! Join Martin Hinshelwood as he shares valuable lessons from poor practices. #agile #scrum #shorts'
 date: 2023-06-06T11:00:34Z
+weight: 1000
 ResourceId: ekUL1oIMeAc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ekUL1oIMeAc
 source: internal
 url: /resources/videos/:slug
-slug: worst-contribution-from-a-product-owner-that-you-know-of
+slug: worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
 layout: video
 preview: https://i.ytimg.com/vi/ekUL1oIMeAc/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of
-- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
-- /resources/videos/ekUL1oIMeAc
-- /resources/worst-contribution-from-a-product-owner-that-you-know-of-
 - /resources/ekUL1oIMeAc
-aliasesFor404:
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
+aliasesArchive:
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of-
+- worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- People and Process
 - Agile Product Management
-- Scrum Team
-- Agile Project Management
-- Personal
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
 
 ---
-## Product Owner's Misstep
+## [Product Owner]({{< ref "/tags/product-owner" >}})'s Misstep
 
-There's never a good time for a Scrum Team to be slanted, unsupported or left feeling surprised.  A Scrum Team is all about transparency, dependability and teamwork throughout good and bad situations.
+There's never a good time for a [Scrum]({{< ref "/categories/scrum" >}}) Team to be slanted, unsupported or left feeling surprised.  A [Scrum Team]({{< ref "/tags/scrum-team" >}}) is all about [transparency]({{< ref "/tags/transparency" >}}), dependability and teamwork throughout good and bad situations.
 
-## Setting the Stage at the Sprint Review 
+## Setting the Stage at the [Sprint Review]({{< ref "/tags/sprint-review" >}}) 
 
 Imagine a meeting room brimming with anticipation after all the stakes are high for every team member at a Sprint review.
 

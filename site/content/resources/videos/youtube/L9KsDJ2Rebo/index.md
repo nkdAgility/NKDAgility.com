@@ -2,30 +2,32 @@
 title: 'Unlocking Agile Mastery: Why Spaced Learning Outshines Traditional Courses'
 description: Discover why spaced learning in Agile and Scrum courses enhances retention and real-world application. Transform your learning experience today!
 date: 2023-07-13T07:45:48Z
+weight: 1000
 ResourceId: L9KsDJ2Rebo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: L9KsDJ2Rebo
 url: /resources/videos/:slug
-slug: what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+slug: unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 layout: video
 aliases:
-- /resources/videos/L9KsDJ2Rebo
-- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
-- /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/L9KsDJ2Rebo
-aliasesFor404:
+- /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
+- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
+aliasesArchive:
+- /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+- /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
+- unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: false
 tags:
-- People and Process
 - Continuous Learning
 - Pragmatic Thinking
-- Discovery and Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,10 +35,10 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
-When it comes to learning, especially in the realm of Agile and Scrum, I've often found that the traditional approach of cramming information into a couple of days can be less effective than we might hope. Reflecting on my experiences, I’ve come to appreciate the value of spreading learning over a longer period, allowing for deeper engagement and practical application.
+When it comes to learning, especially in the realm of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often found that the traditional approach of cramming information into a couple of days can be less effective than we might hope. Reflecting on my experiences, I’ve come to appreciate the value of spreading learning over a longer period, allowing for deeper engagement and practical application.
 
 ### The Challenge of Traditional Learning
 
@@ -48,7 +50,7 @@ In a typical two-day course, I’ve noticed that while participants may absorb a
 
 ### The Power of Spaced Learning
 
-This is where a more extended learning approach, such as the Professional Scrum Master (PSM) course spread over seven weeks, shines. Here’s why I advocate for this method:
+This is where a more extended learning approach, such as the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) course spread over seven weeks, shines. Here’s why I advocate for this method:
 
 - **Multiple Opportunities for Practice**: With sessions spaced out, participants have the chance to practice what they’ve learned in their real work environments. This isn’t just theory; it’s about tackling real challenges.
 - **Real-World Application**: Instead of a pristine classroom setting, learners face the complexities and messiness of their actual work situations. This is where true learning happens.

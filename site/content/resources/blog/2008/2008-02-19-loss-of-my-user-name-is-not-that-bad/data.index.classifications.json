@@ -1,10 +1,10 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T18:33:33",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses accessing and manipulating Active Directory in .NET applications, which is not directly related to Application Lifecycle Management.",
     "level": "Ignored"
   },
@@ -35,7 +35,7 @@
     "reasoning": "Content heavily discusses technical aspects of .NET and Active Directory without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T18:33:38",
     "ai_confidence": 0,
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:33:40",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses accessing and manipulating Active Directory objects in .NET, rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses technical aspects of .NET and Active Directory without any direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:33:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementations related to Active Directory and .NET, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:33:46",
@@ -97,15 +88,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET development and Active Directory management, with no reference to complexity science or its principles.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practical techniques for accessing and manipulating Active Directory using .NET, which aligns with the category's focus on tooling and methodologies. However, it does not primarily focus on Agile or DevOps practices.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:33:52",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET development and Active Directory access, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:33:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET development and Active Directory management, with no relevance to Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing user identities in WPF with Active Directory, with no direct mention or alignment to Evidence-Based Management principles. It lacks discussions on metrics, empirical decision-making, or value delivery, which are central to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:33:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET development and Active Directory, with no relevance to Agile principles or product-centric approaches.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:33:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of Active Directory in .NET, lacking a focus on news or reviews related to Agile, DevOps, or technology trends.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on managing user identities in WPF with Active Directory and does not mention or align with any principles of the Agile Product Operating Model. There are no discussions on agile methodologies, product management, or related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Active Directory and .NET development, with no clear focus on platform engineering principles or Internal Developer Platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:34:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET development and Active Directory, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:34:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses .NET development and Active Directory management, with no relevance to AI or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:34:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the use of Active Directory in .NET applications without addressing the complexities of code quality or software development processes.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:34:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of .NET and Active Directory without any reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:34:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of Active Directory and .NET development without addressing transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,47 +250,26 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:34:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET development and Active Directory access, with no clear focus on DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on managing user identities in WPF with Active Directory and does not discuss any DevOps principles, practices, or cultural shifts. There are no direct mentions of DevOps, and the content lacks alignment with the core themes of collaboration, automation, or shared accountability that are central to DevOps. The depth of discussion is also minimal, as it is focused on a specific technical implementation rather than broader DevOps concepts.",
     "level": "Ignored"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' assembly in .NET for accessing Active Directory, which relates to engineering practices in software development. However, it primarily focuses on specific implementation details rather than broader engineering methodologies or principles.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:34:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of Active Directory and .NET development without addressing human behaviour or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:34:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details related to Active Directory in .NET, without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:34:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation details of Active Directory in .NET, with no focus on products, books, or Agile/DevOps methodologies.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' assembly in .NET for accessing Active Directory, which relates to technical practices in software development. However, it lacks a broader discussion on methodologies or principles that enhance agility or quality in engineering practices. The focus is primarily on specific code implementations rather than on overarching themes of technical excellence such as TDD, CI/CD, or modular architecture.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -379,19 +292,22 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the setup and configuration of Active Directory in .NET applications, which relates to system configuration practices. However, the primary focus is on code usage rather than broader configuration principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' namespace in .NET for accessing and manipulating Active Directory objects, which relates to system configuration in terms of user authentication and security management. However, it lacks a comprehensive exploration of configuration methodologies or best practices, focusing instead on specific code examples and personal insights. This results in a moderate confidence score, as it touches on relevant topics but does not delve deeply into the broader principles of system configuration.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details of using Active Directory in .NET applications, with no focus on innovation capabilities or practices.",
     "level": "Ignored"
   },
@@ -420,15 +336,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on technical aspects of Active Directory management in .NET development and does not discuss portfolio management or related topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses .NET and Active Directory developments without any mention or relevance to Scrum principles or practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +367,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET development and Active Directory rather than Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +403,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses .NET programming and Active Directory management, without reference to the Definition of Done or its principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses .NET development and Active Directory, with no relevance to Agile methodologies or scaling Agile practices.",
+    "reasoning": "Content primarily discusses .NET programming and Active Directory management, without reference to the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -541,19 +439,19 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses .NET programming and Active Directory but is not related to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses .NET Active Directory access methods and programming details, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -575,22 +473,16 @@
     "reasoning": "Content is primarily focused on Active Directory and .NET programming rather than collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on .NET framework and Active Directory manipulation, which are technical topics but do not directly address Agile, DevOps, or the role of software developers in those contexts.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses WPF development and the use of the System.DirectoryServices.AccountManagement namespace, which are technical topics related to software development and coding practices.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses specific .NET development practices related to Active Directory, which aligns with software development methodologies. It provides practical coding examples and mentions relevant classes and methods, indicating a focus on software engineering. However, while it touches on important aspects of software development, it lacks a broader discussion of methodologies or frameworks, which limits its depth and alignment with the category.",
     "level": "Secondary"
   },
   "Site Reliability Engineering": {
@@ -620,7 +512,7 @@
     "reasoning": "Content discusses .NET development and Active Directory integration, with no reference to estimation, Agile, or Scrum practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:58:08",
     "ai_confidence": 0,
@@ -694,11 +586,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses methods for accessing and manipulating Active Directory in .NET without any focus on Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on managing user identities in WPF with Active Directory and does not discuss Continuous Delivery principles, practices, or related topics. There are no direct mentions of Continuous Delivery, and the content lacks depth in discussing any relevant themes such as automation, rapid feedback, or software quality.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -739,20 +634,11 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Active Directory and .NET development without any mention of hypothesis formulation, experimentation, or validated learning.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses Active Directory and .NET development, with no focus on AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -793,10 +679,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Active Directory integration and .NET programming with no relevance to Lean Product Development principles.",
     "level": "Ignored"
   },
@@ -847,10 +733,10 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Active Directory and .NET development without any mention or relevance to version control systems or practices.",
     "level": "Ignored"
   },
@@ -928,19 +814,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses .NET and Active Directory functionalities, which are irrelevant to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses .NET and Active Directory, without any mention of Acceptance Test Driven Development or related concepts.",
     "level": "Ignored"
   },
@@ -955,11 +841,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 20,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of Active Directory in .NET applications, detailing specific classes and methods for managing user information and access control, which aligns with best practices and technical methods in software craftsmanship.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' assembly in .NET for accessing Active Directory, which aligns with best practices in software design and architecture. It provides specific code examples and explains various identity types, demonstrating a good level of detail. However, it lacks a broader discussion on principles of clean code, testing, or continuous integration, which limits its depth in the context of Technical Mastery.",
     "level": "Secondary"
   },
   "Remote Working": {
@@ -971,15 +860,6 @@
     "reasoning": "Content is focused on .NET and WPF development, specifically dealing with Active Directory and user authentication, without any reference to remote working, Agile practices, or related challenges.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses .NET development and Active Directory, which are unrelated to Scaling Kanban principles.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T18:58:08",
@@ -987,15 +867,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Active Directory and .NET programming, with no relevance to customer retention strategies or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET and Active Directory programming, with no clear relation to Agile project management principles or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,11 +961,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the use of the .NET framework to interact with Windows Active Directory and security contexts, which is highly relevant to the Windows operating system and its user account management features.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' namespace in .NET for managing Active Directory, which is directly related to Windows environments. It mentions Windows user initialisation and provides code examples that are relevant to Windows user account management. However, while it touches on Windows-related topics, the primary focus is on .NET programming rather than a comprehensive discussion of Windows itself, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Lean Principles": {
@@ -1108,12 +982,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses access to Active Directory and the use of system assemblies to manipulate security information, which hints at resolving issues related to user access and authentication, although it is more informative than strictly troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the use of the 'System.DirectoryServices.AccountManagement' assembly in .NET for accessing Active Directory, which could be relevant for troubleshooting issues related to user authentication. However, it lacks explicit troubleshooting techniques or methodologies, and the discussion is more focused on implementation rather than diagnosing or resolving specific issues. Therefore, while there are elements that touch on troubleshooting, they are not the primary focus of the content.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1171,10 +1048,10 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about accessing Active Directory in .NET and does not discuss Behaviour Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -1261,20 +1138,11 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T18:58:08",
+    "calculated_at": "2025-04-10T15:56:44",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on accessing and manipulating Active Directory in .NET applications and does not address asynchronous development concepts.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content focuses on .NET programming and Active Directory rather than Scrum principles or practices.",
+    "reasoning": "Content focuses on accessing and manipulating Active Directory in .NET applications and does not address asynchronous development concepts.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1313,22 +1181,16 @@
     "reasoning": "The content is primarily about .NET development and Active Directory, with no mention or discussion of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses .NET and Active Directory programming rather than scaling agile principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on .NET development and Active Directory, with no relevance to Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical aspects of WPF development and Active Directory management, with no mention or discussion of Scrum, the role of a Scrum Master, or any related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1213,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:58:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on .NET and Active Directory integration without discussing Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on managing user identities in WPF with Active Directory and does not discuss Test First Development principles, success criteria, or testing practices. There are no mentions of TDD, ATDD, or any related concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:15:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses .NET development and Active Directory, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing user identities in WPF with Active Directory and does not discuss any themes related to collaboration, decision-making, or value delivery. It lacks any mention of social technologies or their impact on organisational culture, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1242,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to Active Directory and .NET development, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:43:52",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses .NET and Active Directory programming, with no clear focus on Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:43:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses .NET development and Active Directory management, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses .NET development and Active Directory management, with no direct mentions or relevant discussions about Scrum principles, roles, events, or practices. It lacks any alignment with the core themes of Scrum, such as team dynamics or iterative progress, and does not provide any depth on Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the use of Active Directory in .NET applications, focusing on accessing security information and user management. There are no direct mentions of the Shift-Left Strategy, nor does it align with its core themes of integrating testing, security, and compliance early in the software development lifecycle. The discussion lacks depth regarding Shift-Left principles, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing user identities in WPF with Active Directory and does not discuss or align with the principles of Common Goals in Agile or DevOps. There are no direct mentions of shared objectives, alignment, or strategic goals, and the discussion lacks depth in relation to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical implementation details related to user identity management in WPF and Active Directory, with no explicit discussion of competence or continuous skill development. While it touches on aspects of software development, it does not align with the core themes of competence, such as professionalism, trust, or quality outcomes. The depth of discussion is limited to technical specifics rather than broader principles of competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing user identities in WPF with Active Directory, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:44",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of managing user identities in WPF with Active Directory, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

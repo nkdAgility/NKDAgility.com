@@ -2,39 +2,36 @@
 title: Momentum
 description: "Discover the power of momentum in product development and organisational culture with Martin Hinshelwood. Boost your agile team's performance today! #agile #scrum"
 date: 2023-05-16T07:00:02Z
+weight: 1000
 ResourceId: 5bgfme-Pspw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 5bgfme-Pspw
 source: internal
 url: /resources/videos/:slug
-slug: momentum
+slug: momentum-5bgfme-Pspw
 preview: https://i.ytimg.com/vi/5bgfme-Pspw/maxresdefault.jpg
 duration: 59
 isShort: true
 aliases:
-- /resources/momentum-2
-- /resources/videos/momentum
-- /resources/videos/5bgfme-Pspw
-- /resources/momentum
 - /resources/5bgfme-Pspw
-aliasesFor404:
-- /resources/momentum-2
+- /resources/videos/momentum-5bgfme-Pspw
+aliasesArchive:
 - /resources/videos/momentum
+- /resources/momentum-2
 - /resources/momentum
+- momentum-5bgfme-Pspw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Miscellaneous
-- Product Delivery
+tags: []
 resourceTypes:
 - video
 layout: video
 categories:
-- Product Management
-- Leadership
+- Uncategorized
 
 ---
 **Momentum**
@@ -47,7 +44,7 @@ When we hear the word 'momentum,' what comes to mind?
 
 For me, it's simple - momentum equals movement. 🚀
 
-Momentum is an irresistible force in product delivery, without a doubt.
+Momentum is an irresistible force in [product delivery]({{< ref "/tags/product-delivery" >}}), without a doubt.
 
 For a moment, imagine a ship at full speed; it's moving in a particular direction with such force that stopping it would take miles. That's momentum! 💫
 
@@ -65,7 +62,7 @@ This movement, this momentum, is what can make the difference between just float
 
 So let's keep that momentum going, carry everyone along, and transform your organisation together!
 
-Want to build momentum in your team and master Agile and Scrum methodologies and keep the momentum going?
+Want to build momentum in your team and master Agile and [Scrum]({{< ref "/categories/scrum" >}}) methodologies and keep the momentum going?
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
@@ -79,7 +76,7 @@ We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-Keywords:       Momentum, Team Movement, Direction, Agile Leadership
+Keywords:       Momentum, Team Movement, Direction, Agile [Leadership]({{< ref "/categories/leadership" >}})
 
 Hashtags:        #Momentum, #TeamMovement, #AgileLeadership, #Direction
 

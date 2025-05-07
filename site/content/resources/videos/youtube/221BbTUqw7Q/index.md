@@ -2,8 +2,10 @@
 title: What are 3 key takeaways for a scrum team after attending an APS immersive learning experience course?
 description: Discover 3 essential takeaways for scrum teams from the APS immersive learning course, enhancing their adoption and improvement of professional Scrum.
 date: 2023-08-14T07:00:01Z
+weight: 790
 ResourceId: 221BbTUqw7Q
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 221BbTUqw7Q
@@ -14,44 +16,35 @@ preview: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg
 duration: 241
 isShort: false
 aliases:
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course-2
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
-- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
-- /resources/videos/221BbTUqw7Q
-- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 - /resources/221BbTUqw7Q
-aliasesFor404:
+- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
+aliasesArchive:
+- /resources/videos/what-are-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course-2
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
 - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
+- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
+- what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Professional Scrum
-- Agile Frameworks
 - Software Development
-- Agile Project Management
-- Empirical Process Control
-- Pragmatic Thinking
-- Scrum Product Development
-- Scrum Team
-- Agile Product Management
 resourceTypes:
 - video
 layout: video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-## Scrum's True Potential: A Journey Through the APS Immersive Class
+## [Scrum]({{< ref "/categories/scrum" >}})'s True Potential: A Journey Through the APS Immersive Class
 
-In the evolving landscape of Scrum, nothing quite stands out like the Applied Professional Scrum (APS) immersive experience.  ✨
+In the evolving landscape of Scrum, nothing quite stands out like the Applied [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) (APS) immersive experience.  ✨
 
 This course has significantly shaped my understanding and approach to Scrum, offering a deep-rooted perspective on its core principles.
 
@@ -65,7 +58,7 @@ Every Scrum enthusiast knows its underlying principles, but how many truly grasp
 
 But its brilliance lies in its immersive nature, which seamlessly bridges theory with real-world application.
 
-As I've often mused, "It's one thing to know the definition of a product owner and quite another to tailor its role to your unique organisational challenges and strengths."
+As I've often mused, "It's one thing to know the definition of a [product owner]({{< ref "/tags/product-owner" >}}) and quite another to tailor its role to your unique organisational challenges and strengths."
 
 In the APS class, every session becomes a catalyst, prompting introspection and encouraging customisation based on individual organisational realities.  🧭
 

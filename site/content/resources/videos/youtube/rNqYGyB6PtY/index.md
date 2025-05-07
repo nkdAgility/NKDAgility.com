@@ -2,8 +2,10 @@
 title: What Should a Product Owner Do with an Incompetent Team?
 description: "Struggling with a team that underperforms? Discover how to identify true incompetence vs. lack of knowledge in this insightful video! \U0001F4BC\U0001F680 #LeadershipSkills"
 date: 2023-10-26T14:30:26Z
+weight: 630
 ResourceId: rNqYGyB6PtY
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: rNqYGyB6PtY
@@ -15,31 +17,27 @@ preview: https://i.ytimg.com/vi/rNqYGyB6PtY/maxresdefault.jpg
 duration: 386
 isShort: false
 aliases:
-- /resources/what-should-a-product-owner-do-with-an-incompetent-team
-- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent-
-- /resources/videos/rNqYGyB6PtY
-- /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
 - /resources/rNqYGyB6PtY
-aliasesFor404:
+- /resources/videos/what-should-a-product-owner-do-with-an-incompetent-team
+- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent
+aliasesArchive:
+- /resources/videos/what-should-a-product-owner-do-with-an-incompetent-team
 - /resources/what-should-a-product-owner-do-with-an-incompetent-team
 - /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent-
 - /resources/what-does-a-product-owner-do-if-the-team-are-incompetent-
+- /resources/videos/what-does-a-product-owner-do-if-the-team-are-incompetent
+- what-should-a-product-owner-do-with-an-incompetent-team
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Personal
-- Pragmatic Thinking
+tags: []
 resourceTypes:
 - video
 categories:
-- Leadership
-- DevOps
-- Scrum
+- Uncategorized
 
 ---
-As a product owner, you might sometimes face the challenge of working with a team that isn't meeting expectations. Incompetence in a team can be frustrating, but it’s essential to approach the situation thoughtfully and strategically before taking any drastic steps. So, what should you do if you find yourself in this predicament? Let’s dive into it.
+As a [product owner]({{< ref "/tags/product-owner" >}}), you might sometimes face the challenge of working with a team that isn't meeting expectations. Incompetence in a team can be frustrating, but it’s essential to approach the situation thoughtfully and strategically before taking any drastic steps. So, what should you do if you find yourself in this predicament? Let’s dive into it.
 
 ## **🧐 First Things First: Define “Incompetence”**
 
@@ -69,7 +67,7 @@ If you’ve determined that the team is truly incompetent, or worse—intentiona
 
 Let me share a story about a team I worked with at a bank. At first glance, their behavior seemed incompetent, but as I dug deeper, I realized it was more complex than that.
 
-I was consulting on a project, helping a team transition from their previous systems to Azure DevOps (or TFS, as it was known then). This team was using Java, and if you know Java teams back then, many were resistant to moving to TFS. That was their first issue: hostility toward change.
+I was consulting on a project, helping a team transition from their previous systems to Azure [DevOps]({{< ref "/categories/devops" >}}) (or TFS, as it was known then). This team was using Java, and if you know Java teams back then, many were resistant to moving to TFS. That was their first issue: hostility toward change.
 
 ### **The Real Horror Story: No Source Control**
 
@@ -77,7 +75,7 @@ This team refused to use source control. They believed it would slow them down, 
 
 Even worse, each team member had their own server, and they would log in independently to make changes. You can imagine the chaos this caused. How did they synchronize across servers? They didn’t. Each person managed their own server, and the changes were not aligned.
 
-To make matters worse, these weren’t just any servers—**they handled real-time banking transactions for a multinational bank**. This realization horrified me, and I immediately raised the issue with leadership.
+To make matters worse, these weren’t just any servers—**they handled real-time banking transactions for a multinational bank**. This realization horrified me, and I immediately raised the issue with [leadership]({{< ref "/categories/leadership" >}}).
 
 ### **Holding the Bank Hostage**
 
@@ -95,11 +93,11 @@ Not every team that struggles is incompetent. Often, they simply don’t know be
 
 1. **Training:** Provide structured training sessions to fill those gaps.
 
-3. **Mentoring:** Pair inexperienced team members with seasoned veterans who can guide them.
+3. **[Mentoring]({{< ref "/tags/mentoring" >}}):** Pair inexperienced team members with seasoned veterans who can guide them.
 
 5. **Continuous Feedback:** Give them regular feedback so they know where to improve.
 
-Teaching and nurturing your team can transform perceived incompetence into competence. However, if after extensive training, the team still doesn’t improve, it may be time to part ways.
+Teaching and nurturing your team can transform perceived incompetence into [competence]({{< ref "/tags/competence" >}}). However, if after extensive training, the team still doesn’t improve, it may be time to part ways.
 
 ## **🚫** **When to Cut the Cord**
 
@@ -123,4 +121,4 @@ So, when do you finally decide to fire the team?
 
 - **Act quickly when necessary**. Prolonging the inevitable only hurts the product, the organization, and ultimately, your customers.
 
-**🚀** **Moving Forward** At the end of the day, a successful product owner understands when to invest in their team and when to cut their losses. It’s not an easy decision, but it’s one that can save your product—and your organization. If you find yourself in a situation like this and need advice or coaching, feel free to reach out. I’m always happy to chat about Scrum, Agile, or DevOps. Let’s build amazing teams together!
+**🚀** **Moving Forward** At the end of the day, a successful product owner understands when to invest in their team and when to cut their losses. It’s not an easy decision, but it’s one that can save your product—and your organization. If you find yourself in a situation like this and need advice or [coaching]({{< ref "/tags/coaching" >}}), feel free to reach out. I’m always happy to chat about [Scrum]({{< ref "/categories/scrum" >}}), Agile, or DevOps. Let’s build amazing teams together!

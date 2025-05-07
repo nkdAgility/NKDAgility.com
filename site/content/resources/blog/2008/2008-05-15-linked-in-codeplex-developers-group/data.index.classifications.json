@@ -35,12 +35,12 @@
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, lacking focus on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T18:06:42",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no mention of the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
@@ -55,10 +55,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T18:06:45",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +80,6 @@
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, which does not align with Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T18:06:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T18:06:52",
@@ -96,15 +87,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T18:06:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +100,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T18:06:57",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on metrics or learning.",
     "level": "Ignored"
   },
@@ -154,29 +136,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T18:07:04",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no relevance to Evidence-Based Management.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting LinkedIn groups for Codeplex developers and coordinators, with no direct mention or discussion of Evidence-Based Management principles or metrics. It lacks any alignment with the core themes of EBM, such as data-informed decision-making or value delivery, and does not provide any depth on the topic.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T18:07:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T18:07:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, lacking relevance to Agile, DevOps, or technology updates.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting LinkedIn groups for Codeplex developers and coordinators, with no direct mention or discussion of the Agile Product Operating Model or its principles. It lacks any alignment with the core themes of APOM, such as product management practices or agile methodologies, and does not provide any depth on the subject matter.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -204,51 +183,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on platform engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T18:07:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T18:07:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T18:07:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T18:07:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T18:07:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses joining LinkedIn groups for Codeplex developers and coordinators, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -289,10 +223,10 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T18:07:26",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, lacking personal reflections or insights related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
@@ -316,11 +250,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T18:07:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on DevOps principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting LinkedIn groups for Codeplex developers and coordinators, with no explicit discussion of DevOps principles, practices, or cultural shifts. It lacks any mention of collaboration, automation, or shared accountability, which are core themes of DevOps. The content does not provide any depth or detail related to DevOps, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -330,33 +267,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on engineering practices or methodologies.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T18:07:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses joining LinkedIn groups for Codeplex developers and coordinators, with no significant focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T18:07:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses joining LinkedIn groups for Codeplex developers and coordinators, with no focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T18:07:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on products, books, or Agile methodologies.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -388,10 +298,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T18:45:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on LinkedIn groups for Codeplex developers and coordinators, with no mention of innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
@@ -420,15 +330,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, which is not related to portfolio management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses joining LinkedIn groups for Codeplex developers and coordinators, with no connection to Scrum principles or product development.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +361,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T18:45:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no relation to Agile values and principles.",
     "level": "Ignored"
   },
@@ -496,20 +397,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T18:45:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, without any reference to the Definition of Done or its principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily focuses on LinkedIn groups for Codeplex developers and coordinators, with no mention of Agile methodologies or scaling practices.",
+    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, without any reference to the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,15 +467,6 @@
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, which does not specifically address collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on joining LinkedIn groups for Codeplex developers, with no discussion of Agile, DevOps, or software development practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
     "calculated_at": "2025-02-16T18:45:21",
@@ -620,7 +503,7 @@
     "reasoning": "Content is focused on joining LinkedIn groups for Codeplex developers and coordinators, without any discussion on estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T18:45:21",
     "ai_confidence": 0,
@@ -694,11 +577,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Codeplex LinkedIn group memberships and not on Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting LinkedIn groups for Codeplex developers and coordinators, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It lacks any relevant detail or alignment with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Codeplex LinkedIn groups for developers and coordinators, with no mention of hypothesis formulation, experimentation, or related topics.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses LinkedIn groups for Codeplex developers and coordinators, with no relation to AI, Agile methodologies, or DevOps practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -928,10 +805,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T18:45:21",
+    "calculated_at": "2025-04-10T15:56:38",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about LinkedIn groups for Codeplex developers, with no relevance to the Definition of Ready or Agile practices.",
     "level": "Ignored"
   },
@@ -971,15 +848,6 @@
     "reasoning": "Content primarily discusses joining LinkedIn groups for Codeplex developers and coordinators, without any focus on remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no relevance to Scaling Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T18:45:21",
@@ -987,15 +855,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses LinkedIn groups for developers and coordinators on Codeplex, with no relevance to customer retention strategies or user engagement methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers, with no focus on Agile Project Management or related methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1268,15 +1127,6 @@
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators without mentioning asynchronous development principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on developer groups on Codeplex and does not discuss any Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T18:45:21",
@@ -1313,22 +1163,16 @@
     "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no mention of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses joining LinkedIn groups for Codeplex developers and coordinators, which is unrelated to scaling agility practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about joining Codeplex LinkedIn groups for developers and coordinators, with no direct relation to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on joining LinkedIn groups for Codeplex developers and coordinators, with no direct mention of Scrum or the role of a Scrum Master. It lacks any discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1195,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T18:45:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses enrollment in LinkedIn groups for Codeplex developers and coordinators, with no references to Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting LinkedIn groups for Codeplex developers and coordinators, with no direct mention or discussion of Test First Development principles, practices, or related topics. It lacks any alignment with the core themes of Test First Development, such as success criteria, testing methodologies, or collaboration among team members. The depth of discussion is also minimal, as it does not provide any relevant information or insights into the Test First Development approach.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:14:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions collaboration among developers and coordinators through LinkedIn groups, which aligns with the concept of fostering collaboration. However, it lacks depth in discussing methodologies or frameworks that promote self-organisation, decision-making, or value delivery. The focus is primarily on joining groups rather than exploring the underlying social technologies or their impact on organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1224,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses joining LinkedIn groups for Codeplex developers and coordinators, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no mention of Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:42:51",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no direct mention of Scrum principles, roles, events, or practices. It lacks any alignment with Scrum's core themes and does not provide any depth on Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses LinkedIn groups for Codeplex developers and coordinators, with no mention or relevance to the Shift-Left Strategy or its principles, benefits, or practices.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on promoting LinkedIn groups for Codeplex developers and coordinators, lacking any explicit discussion of Common Goals or their significance in Agile and DevOps. While it encourages collaboration, it does not connect to the foundational principles of aligning strategy with execution or shared objectives that guide decision-making.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on joining LinkedIn groups for developers and coordinators, with no explicit discussion on competence, continuous learning, or skill development. While it mentions the requirement of being a developer or coordinator, it does not delve into the importance of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting LinkedIn groups for Codeplex developers and coordinators, with no explicit discussion or alignment with Continuous Improvement principles. It lacks any mention of empirical evidence, data-driven decision-making, or strategies for enhancing processes or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:38",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on promoting LinkedIn groups for Codeplex developers and coordinators, with no explicit discussion of Agentic Agility or its principles. It lacks any mention of intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

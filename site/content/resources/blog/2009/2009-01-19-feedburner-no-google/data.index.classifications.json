@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses the migration of Feedburner to Google and does not relate to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T10:35:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google servers and does not focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T10:35:51",
@@ -53,49 +44,16 @@
     "reasoning": "Content primarily discusses the migration of Feedburner to Google and the technical implications, with no focus on decision-making processes or related themes.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T10:35:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the migration of Feedburner to Google and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T10:35:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Feedburner and its migration to Google, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T10:36:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google servers and the technical implications of this change, without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T10:36:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google servers, which is unrelated to DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T10:36:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google servers and does not relate to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google, focusing on updating feed URLs for performance and accuracy. It does not mention any DevOps principles, practices, or cultural shifts, nor does it align with the core themes of DevOps such as collaboration, automation, or shared accountability. The discussion is more about a specific tool and its migration rather than the broader philosophy of DevOps.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +76,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T10:36:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google servers, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T10:36:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google servers without focusing on practical techniques or tooling related to Agile or DevOps.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google and does not mention or align with any principles of the Agile Product Operating Model. It lacks any depth or relevant discussion on agile methodologies or product management practices.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,12 +106,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly mentions the process of migrating feeds to Google servers, which relates to installation and configuration, but the primary focus is on personal experiences and implications rather than detailed instructions or best practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions the process of migrating to Google servers and changing feed URLs, which relates to installation and configuration. However, it lacks detailed step-by-step instructions, best practices, or troubleshooting advice. The discussion is more focused on personal experience and implications rather than providing actionable guidance on installation or configuration processes.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -172,30 +127,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T10:36:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google and does not address Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google and does not mention Evidence-Based Management or its key topics. There is no focus on data-informed decision-making or empirical evidence, which are central to the category.",
     "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T10:36:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google servers and the implications for feed URLs, without a focus on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses the migration of Feedburner to Google servers, which is a relevant update in the tech industry, but it primarily focuses on personal experiences and technical details rather than providing a broader industry analysis or review.",
-    "level": "Quaternary"
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -235,14 +175,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T10:36:26",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration of Feedburner to Google and the implications for feed URLs, with minimal focus on metrics or learning.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T10:36:27",
     "ai_confidence": 0,
@@ -271,20 +211,11 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T10:36:31",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration of Feedburner to Google and technical implications, lacking personal reflections or insights related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T10:36:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google and the technical implications, without a focus on discovery or learning processes.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -294,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses Feedburner and its migration to Google, with no mention of Azure DevOps or related functionalities.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T10:36:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google and the implications for users, without addressing transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration of Feedburner to Google and the implications for users, without addressing Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T10:36:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google and the technical implications, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -467,7 +380,7 @@
     "reasoning": "Content discusses Feedburner and its transition to Google, which is unrelated to large scale agility or Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:10:53",
     "ai_confidence": 0,
@@ -483,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration of Feedburner to Google servers and does not address any principles of Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the migration of Feedburner to Google, not related to Agile Project Management or its principles.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -665,24 +569,6 @@
     "reasoning": "Content discusses the migration of Feedburner to Google and is more focused on personal experiences and technical issues rather than estimation practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the migration of Feedburner to Google and technical implications, but does not relate to the role of software developers in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily about the migration of Feedburner to Google servers and technical implications, with no discussion of AI in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T11:10:53",
@@ -694,10 +580,10 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Feedburner and its migration to Google services, with no relevant focus on the Windows operating system.",
     "level": "Ignored"
   },
@@ -737,15 +623,6 @@
     "reasoning": "Content discusses Feedburner's migration to Google and related technical issues, with no relevance to Agile frameworks or any related concepts.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the migration of Feedburner to Google servers and does not relate to Agile practices or frameworks.",
-    "level": "Ignored"
-  },
   "Product Owner": {
     "category": "Product Owner",
     "calculated_at": "2025-02-16T11:10:53",
@@ -757,10 +634,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the migration of Feedburner to Google and its impact on load speed, without relevance to Lead Time measurement or its implications.",
     "level": "Ignored"
   },
@@ -784,10 +661,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the migration of Feedburner to Google servers but does not focus on innovation capabilities or the measurement and improvement of innovation.",
     "level": "Ignored"
   },
@@ -802,10 +679,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a migration process and its implications for load speed but doesn't address Cycle Time, Agile, or DevOps topics.",
     "level": "Ignored"
   },
@@ -865,10 +742,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content does not discuss the Definition of Done or related Agile/Scrum concepts; it discusses Feedburner and its migration to Google services.",
     "level": "Ignored"
   },
@@ -883,11 +760,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the migration of Feedburner to Google servers and related issues, not relevant to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google and updating feed URLs, which is unrelated to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks depth on any relevant topics such as automation, incremental improvements, or software quality.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -937,10 +817,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration of Feedburner to Google servers, focusing on technical aspects rather than organisational change strategies or methodologies.",
     "level": "Ignored"
   },
@@ -991,28 +871,19 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not discuss Agile methodologies, empirical process control, or related principles; it is focused on Feedburner and Google migration, which is unrelated.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is discussing the migration of Feedburner to Google and related issues, with no relevance to Kanban principles or scaling practices.",
+    "reasoning": "Content does not discuss Agile methodologies, empirical process control, or related principles; it is focused on Feedburner and Google migration, which is unrelated.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is about Feedburner and its migration to Google, with no relevance to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -1045,11 +916,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about the migration of Feedburner to Google and does not discuss Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google and does not mention Test First Development or its principles. There is no alignment with the core themes of Test First Development, and the depth of discussion is minimal, focusing instead on feed management rather than software development practices.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1081,10 +955,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration of Feedburner to Google and does not focus on organizational change management principles or practices.",
     "level": "Ignored"
   },
@@ -1214,31 +1088,28 @@
     "reasoning": "Content primarily discusses the migration of Feedburner to Google servers rather than specific deployment strategies or methodologies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses Feedburner and its migration to Google, with no mention or relevance to Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:13",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content is primarily about the migration of Feedburner services to Google, it touches on potential problems users might face with feeds and invites readers to report issues, indicating a secondary focus on troubleshooting these potential issues.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions potential problems with feeds and invites users to report issues, which aligns with troubleshooting. However, it lacks detailed discussion on diagnosing or resolving specific technical issues, and the focus is more on the migration process rather than systematic problem-solving.",
+    "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-08T19:35:17",
     "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses Feedburner and its migration to Google, with no relevance to Scrum Master role or responsibilities.",
+    "reasoning": "The content focuses entirely on the transition from Feedburner to Google, discussing technical aspects of feed URLs and performance. It does not mention the Scrum Master role, agile principles, or any related topics, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1141,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:10:53",
+    "calculated_at": "2025-04-10T15:56:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the migration of Feedburner to Google, focusing on technical changes and user experiences, without any reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1155,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses Feedburner and its migration process to Google, which is unrelated to Test Driven Development.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is unrelated to Scrum or its scaling principles, focusing instead on a technical update about Feedburner.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1193,6 @@
     "reasoning": "Content discusses the migration of Feedburner to Google servers and the potential impact on load speed, but does not focus on system configuration topics such as installation, setup, or optimization strategies.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:10:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the migration of feeds between services and does not address scaling agility or relevant agile methodologies.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T11:10:53",
@@ -1360,11 +1213,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:04:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the migration of Feedburner to Google and does not address any frameworks or principles related to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the transition of Feedburner to Google and the technical aspects of updating feed URLs. It does not address any themes related to collaboration, decision-making, or value delivery within organisations, which are central to the category of Social Technologies. The mention of Google and Feedburner is more focused on technical changes rather than social frameworks or methodologies that promote collaboration or enhance organisational culture.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1230,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the migration of Feedburner to Google and technical aspects related to feed URLs, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:37:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses the migration of Feedburner to Google servers, which is unrelated to Internal Developer Platforms or software development processes.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:37:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the migration of Feedburner to Google servers and does not relate to Artificial Intelligence or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss Scrum principles, roles, events, or any related topics. It focuses on the migration of Feedburner to Google, which is unrelated to Scrum or its frameworks.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the migration of Feedburner to Google servers and does not mention or align with the principles of the Shift-Left Strategy in software development. There are no references to testing, security, or compliance processes, nor any discussion of integrating these elements early in the development lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google and provides practical tips for updating feed URLs. While it touches on performance and accuracy, it lacks a focus on Continuous Improvement principles, such as empirical evidence, team effectiveness, or a culture of experimentation. The discussion is more about a specific technical change rather than a broader commitment to ongoing improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google and provides practical tips for updating feed URLs. It does not address the concept of Common Goals, nor does it relate to Agile or DevOps principles. The focus is on a technical migration process rather than aligning strategies or objectives within a team or organisation.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google and the technical aspects of updating feed URLs. It does not explicitly mention competence or related themes such as continuous learning, skill development, or professionalism. The focus is on a specific technical process rather than on the principles of competence in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the transition from Feedburner to Google, focusing on technical aspects of updating feed URLs. There are no direct mentions of Agentic Agility, and the themes of intentionality, autonomy, or adaptability are not present. The discussion lacks depth and relevance to the category.",
     "level": "Ignored"
   }
 }

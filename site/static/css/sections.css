@@ -1,6 +1,23 @@
+.two-column-text {
+  column-count: 2;
+  column-gap: 30px; /* Adjust the gap between the columns as needed */
+}
 
+.two-column-text h2,
+.two-column-text h3,
+.two-column-text h4,
+.two-column-text h5,
+.two-column-text h6 {
+  break-before: avoid;
+  break-after: avoid;
+}
+
+.two-column-text p {
+  break-before: avoid;
+}
+
+@media (max-width: 900px) {
   .two-column-text {
-    column-count: 2;
-    column-gap: 30px; /* Adjust the gap between the columns as needed */
+    column-count: 1; /* Single column on smaller screens */
   }
-
+}

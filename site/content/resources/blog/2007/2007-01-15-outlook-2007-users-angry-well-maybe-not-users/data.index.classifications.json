@@ -1,19 +1,10 @@
 {
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T09:52:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses changes in Outlook 2007 and user reactions, with no relevance to AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:52:49",
+    "calculated_at": "2025-04-10T15:57:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses user reactions to changes in Outlook 2007 rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -24,24 +15,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses changes in Outlook 2007 and user reactions, with no focus on decision-making processes or related theories.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:52:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses changes in Outlook 2007 and user perceptions, with no significant focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T09:52:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses changes in Outlook 2007 and user reactions, with no focus on organisational resilience or change management.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -64,11 +37,14 @@
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T09:52:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:57:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses changes in Outlook 2007 and user reactions, with no mention of Scrum principles, practices, or frameworks.",
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss Scrum principles, roles, events, or any related topics. It focuses on user reactions to changes in Outlook 2007, which is unrelated to Scrum or its frameworks.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -118,10 +94,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T09:53:06",
+    "calculated_at": "2025-04-10T15:57:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses user reactions to changes in Outlook 2007, focusing on opinions rather than metrics or learning principles.",
     "level": "Ignored"
   },
@@ -132,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses user reactions to changes in Outlook 2007, with no relevance to platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:53:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user reactions to changes in Outlook 2007, focusing on user experience rather than code quality or complexity in software development.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
@@ -206,24 +173,6 @@
     "reasoning": "Content primarily discusses changes in Outlook 2007 and user reactions, with no relevance to Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T09:53:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses personal opinions on Outlook 2007 changes rather than providing industry news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:53:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user reactions to changes in Outlook 2007, without reference to practical techniques or tooling related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
     "calculated_at": "2025-02-17T09:53:22",
@@ -258,15 +207,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses changes in Outlook 2007 and user reactions, with no relevance to Agile principles or product operating models.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:53:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses changes in Outlook 2007 and user reactions, with no reference to events, presentations, or related topics.",
     "level": "Ignored"
   },
   "Agile Product Management": {
@@ -305,40 +245,16 @@
     "reasoning": "Content primarily discusses changes in Outlook 2007 and user reactions, with no personal reflections or insights related to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T09:53:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user reactions to changes in Outlook 2007 and does not focus on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T09:53:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses changes in Outlook 2007 and user reactions, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:53:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user reactions to changes in Outlook 2007, without focusing on products or literature related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T09:53:39",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:57:18",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content discusses general opinions and experiences regarding changes in Outlook 2007 without referencing specific Agile, Scrum, DevOps, or Lean frameworks.",
+    "reasoning": "The content discusses changes in Outlook 2007 and user reactions, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management. While it touches on general IT topics and user experiences, it lacks a structured exploration of Agile methodologies or practices, making it fit within the Miscellaneous category. The discussion is primarily anecdotal and does not provide actionable insights related to recognised frameworks.",
     "level": "Secondary"
   },
   "DevOps": {
@@ -350,7 +266,7 @@
     "reasoning": "Content primarily discusses user reactions to changes in Outlook 2007, with no focus on DevOps principles, practices, or related topics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-17T09:53:42",
     "ai_confidence": 0,
@@ -397,10 +313,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T11:09:12",
+    "calculated_at": "2025-04-10T15:57:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Outlook email changes and user opinions, unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
@@ -429,15 +345,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses changes in Outlook and user reactions, with no relevance to empirical process control or Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T11:09:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about Outlook email changes and user reactions, with no relation to Scaling Scrum or Agile methodologies.",
     "level": "Ignored"
   },
   "Increment": {
@@ -550,10 +457,10 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T11:09:12",
+    "calculated_at": "2025-04-10T15:57:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses changes in Outlook email without addressing organisational change strategies, practices, or impacts on agility and resilience.",
     "level": "Ignored"
   },
@@ -609,15 +516,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses specific changes in Outlook and user reactions, which is unrelated to strategic goals or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T11:09:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses changes in Outlook and user perceptions of those changes, with no relevance to Agile methodologies or scaling practices.",
     "level": "Ignored"
   },
   "Lean Product Development": {
@@ -784,10 +682,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T11:09:12",
+    "calculated_at": "2025-04-10T15:57:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses changes in Outlook and user perspectives on email, without any mention or connection to Agile values or principles.",
     "level": "Ignored"
   },
@@ -865,10 +763,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T11:09:12",
+    "calculated_at": "2025-04-10T15:57:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Outlook email changes and users' perceptions, which is unrelated to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -881,7 +779,7 @@
     "reasoning": "Content discusses changes in Outlook 2007 and user reactions, with no relevance to Azure Boards or Agile project management.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T11:09:12",
     "ai_confidence": 0,
@@ -933,15 +831,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses changes in Outlook 2007 and user reactions, with no relevance to Agile methodologies or strategies.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T11:09:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses user perceptions of Outlook email changes rather than focusing on software development practices or methodologies.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -996,15 +885,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses changes in email management and user reactions, with no reference to Scrum values or principles.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T11:09:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to email changes in Outlook 2007 and does not relate to Kanban principles or scaling practices.",
     "level": "Ignored"
   },
   "Product Validation": {
@@ -1205,15 +1085,6 @@
     "reasoning": "Content focuses on user reactions to changes in email software, not related to test automation.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T11:09:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses changes in email formatting in Outlook 2007 and user perceptions, which is unrelated to Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
     "calculated_at": "2025-02-17T11:09:12",
@@ -1225,10 +1096,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T11:09:12",
+    "calculated_at": "2025-04-10T15:57:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content predominantly discusses changes to Outlook email features rather than focusing on change management principles or strategies within an organizational context.",
     "level": "Ignored"
   },
@@ -1261,29 +1132,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T11:09:12",
+    "calculated_at": "2025-04-10T15:57:18",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses changes in email formatting and user perspectives but does not focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T11:09:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on opinions regarding changes in Outlook 2007 and its impact on users and developers, with no relevance to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T11:09:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content mainly discusses changes in Outlook and user reactions, with no relevance to Agile Project Management concepts or methodologies.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -1331,15 +1184,6 @@
     "reasoning": "Content discusses email changes in Outlook and user reactions, with no relevance to Value Stream Mapping or Lean management principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T11:09:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content predominantly discusses user reactions to changes in Outlook, with no mention of AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T11:09:12",
@@ -1374,6 +1218,36 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses changes in Outlook 2007 and user reactions, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:55:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content discusses changes in Outlook 2007 and user reactions, with no relevance to Internal Developer Platforms or their associated topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:55:18",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses changes in Outlook 2007 and user reactions, with no mention of AI, Agile methodologies, or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:57:18",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses user reactions to changes in Outlook 2007 and does not mention or align with the principles of the Shift-Left Strategy in software development. There is no discussion of integrating testing, security, or compliance earlier in the development process, nor any relevant case studies or tools related to the Shift-Left approach.",
     "level": "Ignored"
   }
 }

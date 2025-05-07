@@ -1,65 +1,32 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-15T09:09:28",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of merging Team Projects in TFS, focusing on integration tools and configurations, rather than Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-15T09:09:30",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the practical application of TFS Integration Tools for merging Team Projects, detailing installation, configuration, and migration techniques, which aligns well with the category's focus on tooling and methodologies.",
-    "level": "Secondary"
-  },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-15T09:09:31",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses merging Team Projects in TFS and the use of TFS Integration Tools, which does not align with the core principles of Platform Engineering.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-15T09:09:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical aspects of merging Team Projects in TFS, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-15T09:09:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses the process of merging Team Projects in TFS, focusing on practical steps and tools rather than the interplay between code quality and complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-15T09:09:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details related to merging Team Projects in TFS, without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-15T09:09:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses merging Team Projects in TFS and does not address AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for merging Team Projects in TFS, with no direct mention of Evidence-Based Management principles or metrics. While it discusses workflows and tools, it lacks alignment with the core themes of EBM, such as data-informed decision-making or outcome management.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-15T09:09:39",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 40,
     "non_ai_confidence": 30,
-    "final_score": 84.0,
-    "reasoning": "The content primarily focuses on the installation and configuration of TFS Integration Tools, providing detailed step-by-step instructions, troubleshooting tips, and best practices for merging Team Projects in TFS, which aligns well with the category's definition.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a comprehensive guide on merging Team Projects in TFS, detailing the installation of TFS Integration Tools, configuration steps, and troubleshooting advice. It explicitly discusses installation procedures, configuration best practices, and potential issues, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, offering actionable insights and detailed instructions, which further supports a high confidence score.",
     "level": "Primary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-15T09:09:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of merging Team Projects in TFS, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily focuses on technical aspects of merging Team Projects in TFS, without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-15T09:09:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical implementations of merging Team Projects in TFS, with little to no discussion on organisational resilience or change management strategies.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on merging Team Projects in TFS and the technical steps involved, which does not align closely with core DevOps principles or practices.",
-    "level": "Quaternary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on merging Team Projects in TFS, which is more about project management and specific tools rather than the broader DevOps philosophy. While it touches on aspects of collaboration and workflow streamlining, it lacks a strong emphasis on the core principles of DevOps such as automation, shared accountability, and continuous improvement. The discussion is largely technical and procedural, which does not align well with the cultural and philosophical aspects of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses technical implementations and processes related to merging Team Projects in TFS, without a focus on decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-15T09:09:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical procedures for merging Team Projects in TFS, with no reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-15T09:09:52",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of merging Team Projects in TFS, focusing on technical steps and tools rather than optimising work throughput or addressing flow efficiency principles.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-15T09:09:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on technical aspects of merging Team Projects in TFS, with minimal discussion on human factors or team processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-15T09:09:57",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of merging Team Projects in TFS, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,19 +145,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical process of merging Team Projects in TFS, including the use of TFS Integration Tools and configurations for work item tracking and source control. However, it primarily focuses on operational aspects rather than broader engineering practices or methodologies that enhance agility.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical process of merging Team Projects in TFS, detailing the use of TFS Integration Tools and providing practical advice on configurations and potential issues. While it touches on aspects of technical excellence, such as the importance of proper configuration and the challenges of migration, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The depth of discussion is practical but does not delve into principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-15T09:10:01",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of merging Team Projects in TFS, focusing on practical steps and tools rather than complexity science or its principles.",
     "level": "Ignored"
   },
@@ -235,12 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the process of merging Team Projects in TFS, which relates to product delivery practices, but it primarily focuses on technical migration steps rather than broader methodologies or strategies for delivering software products.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical aspects of merging Team Projects in TFS, which is more about the tools and processes rather than the broader methodologies and practices of product delivery. While it touches on aspects of planning and configuration, it lacks a comprehensive discussion on product delivery principles such as Agile methodologies, iterative development, or deployment strategies. The depth of technical detail is significant, but it does not align closely with the core themes of product delivery as defined in the category.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -253,38 +196,32 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-15T09:10:07",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical process of merging Team Projects in TFS, which does not align with the principles or practices of Value Stream Management.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-15T09:10:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical process of merging Team Projects in TFS, without focusing on specific products or literature related to Agile or DevOps methodologies.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-15T09:10:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical implementation details related to merging Team Projects in TFS, without a clear focus on value delivery strategies or methodologies.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-15T09:10:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the use of TFS Integration Tools for merging Team Projects in TFS, which is closely related to Azure DevOps functionalities and practices.",
+    "reasoning": "The content primarily discusses the merging of Team Projects in TFS (Team Foundation Server), which is a component of Azure DevOps. It provides detailed instructions on using TFS Integration Tools, which are relevant to Azure DevOps functionalities. While it does not explicitly mention Azure DevOps frequently, the focus on TFS and its integration with Visual Studio Online indicates a strong alignment with Azure DevOps principles. The depth of discussion is significant, covering installation, configuration, and migration processes, which are critical aspects of Azure DevOps. However, the content lacks broader discussions on Azure DevOps services like Boards, Pipelines, or Test Plans, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,22 +242,25 @@
     "reasoning": "Content primarily focuses on the technical process of merging Team Projects in TFS, detailing tools and configurations without discussing Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-15T09:10:16",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses merging Team Projects in TFS and the use of TFS Integration Tools, which does not align with the core principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-15T09:10:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:16:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the technical aspects of merging Team Projects in TFS, without a focus on Agile principles or product-centric development.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on merging Team Projects in TFS, which is a technical process related to project management rather than discussing the Agile Product Operating Model. While it touches on aspects of team collaboration and project consolidation, it does not align with the core principles or key topics of the Agile Product Operating Model, such as continuous delivery, product-oriented mindset, or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,76 +272,67 @@
     "reasoning": "Content primarily focuses on technical aspects of merging Team Projects in TFS, with no clear discussion on organisational agility principles or practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-15T09:10:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on technical instructions and guidance for merging Team Projects in TFS, rather than discussing news, updates, or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the process of merging Team Projects in TFS, which relates to the maintenance and management aspects of the application lifecycle. However, it primarily focuses on technical steps and tools rather than broader ALM methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-15T09:10:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 50,
-    "final_score": 5.0,
-    "reasoning": "The content primarily discusses merging Team Projects in TFS and the use of TFS Integration Tools, with only a brief mention of Scrum templates. Scrum principles and practices are not the central focus.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on merging Team Projects in TFS, which is a specific task within the broader context of Application Lifecycle Management. While it touches on aspects of migration and configuration, it lacks a comprehensive discussion on the overall lifecycle stages, governance, or best practices that are central to ALM. The depth of discussion is limited to practical steps without addressing the strategic implications or methodologies of ALM.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses techniques and considerations for merging Team Projects in TFS, without any reference to Daily Scrum or its related practices.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses how to merge Team Projects in TFS and does not focus on the Definition of Done in Agile or Scrum frameworks.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses tools and techniques related to merging Team Projects in TFS, focusing on technical processes and configurations, but is primarily centered around migration rather than overarching software craftsmanship principles.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the technical process of merging Team Projects in TFS, detailing specific tools and configurations. While it does touch on aspects of software craftsmanship, such as the importance of testing and configuration management, it lacks a broader discussion on best practices or principles of clean code and software architecture. The depth of discussion is more procedural than conceptual, which limits its alignment with the category of Technical Mastery.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses merging Team Projects in TFS, focusing on technical implementation details and user configurations rather than understanding customer needs or defining product features.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T07:16:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on TFS project management, migration strategies, and tooling setup, without a discussion on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on merging Team Projects in TFS, which is more about project management and integration rather than Continuous Delivery practices. While it touches on aspects of migration and configuration, it lacks a direct discussion on Continuous Delivery principles, automation, or rapid feedback mechanisms that are central to the category.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses merging Team Projects in TFS and does not focus on Lead Time as defined in the guidelines.",
     "level": "Ignored"
   },
@@ -433,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on merging Team Projects in TFS, discussing installation and configuration of TFS Integration Tools, and migration strategies, without any mention of backlog readiness or Definition of Ready concepts.",
     "level": "Ignored"
   },
@@ -451,10 +382,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the merging of Team Projects in TFS and the usage of TFS Integration Tools, with no mention or focus on Product Backlog discussions, backlog management, or Agile practices.",
     "level": "Ignored"
   },
@@ -469,10 +400,10 @@
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Team Foundation Server (TFS) project management and integration tools, without reference to Value Stream Mapping or related Lean principles.",
     "level": "Ignored"
   },
@@ -487,19 +418,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses the operational practice of merging Team Projects in TFS using the TFS Integration Tools, detailing practical steps to enhance efficiency in project management and workflow integration, which aligns with the focus on operational practices in Agile and Lean methodologies.",
+    "reasoning": "The content primarily discusses the technical process of merging Team Projects in TFS, which includes practical steps and tools for migration. While it touches on operational practices, such as configuration and migration strategies, it lacks a broader focus on enhancing operational efficiency or integrating Agile, DevOps, or Lean methodologies. The discussion is more about specific technical implementation rather than overarching operational strategies.",
     "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical aspects of migrating Team Projects in TFS and does not focus on the dynamics, roles, or collaboration within a Scrum Team.",
     "level": "Ignored"
   },
@@ -523,10 +457,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical aspects of merging Team Projects in TFS without any substantial focus on product validation methodologies, user feedback, or testing product ideas.",
     "level": "Ignored"
   },
@@ -559,10 +493,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the technical process of merging Team Projects in TFS, without clearly addressing team dynamics, collaboration, or Agile methodologies related to team performance.",
     "level": "Ignored"
   },
@@ -577,73 +511,70 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on merging Team Projects in TFS and does not discuss Acceptance Test Driven Development or related concepts such as acceptance criteria or collaboration in ATDD.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 32,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses the techniques and challenges involved in merging Team Projects in TFS, which is relevant to software development practices and methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses merging team projects in TFS and the technical aspects of using TFS Integration Tools, without addressing Agile project management principles, values, or methodologies.",
-    "level": "Ignored"
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed guide on merging Team Projects in TFS, which directly relates to software development practices, particularly in the context of version control and project management. It discusses specific tools (TFS Integration Tools), methodologies for migration, and best practices for managing work items and source control, aligning well with the core themes of software development. The depth of discussion is significant, covering installation, configuration, and troubleshooting, which indicates a strong focus on software engineering outcomes.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the technical aspects of merging Team Projects in TFS and does not discuss Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on merging Team Projects in TFS and does not engage in discussions related to Scrum roles, practices, or principles.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content focuses primarily on migrating and consolidating Team Projects in TFS, detailing source control processes and tools, and discusses specific techniques for managing source control data and configurations during migrations, which aligns well with best practices in modern source control.",
+    "final_score": 72.0,
+    "reasoning": "The content primarily discusses the process of merging Team Projects in TFS, which involves source control practices. It provides detailed instructions on using TFS Integration Tools for source control migration, addressing potential issues and configurations. While it does not explicitly mention modern version control systems like Git, it aligns well with the core themes of source control methodologies and practices, particularly in the context of TFS. The depth of discussion is significant, covering various aspects of the migration process, which contributes to a higher confidence score.",
     "level": "Secondary"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses merging Team Projects in TFS and the technical steps involved in using TFS Integration Tools, which does not clearly align with empirical process control or Agile principles.",
     "level": "Ignored"
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on technical aspects of merging Team Projects in TFS and does not directly discuss Scrum Values or their significance within the Scrum framework.",
     "level": "Ignored"
   },
@@ -658,19 +589,19 @@
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on merging Team Projects in TFS, which is a technical process not directly related to collaboration tools or Agile team dynamics.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical aspects of merging Team Projects in TFS without focusing on the broader strategic or management processes of organisational change.",
     "level": "Ignored"
   },
@@ -701,15 +632,6 @@
     "reasoning": "Content primarily focuses on technical details for merging Team Projects in TFS and does not discuss customer satisfaction or customer experience.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses merging Team Projects in TFS and does not focus on Scaling Scrum practices or frameworks.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-15T19:11:10",
@@ -728,15 +650,6 @@
     "reasoning": "Content is primarily about merging Team Projects in TFS and does not discuss psychological safety or its relevance to team dynamics, engagement, or other related topics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on technical processes related to merging Team Projects in TFS, which does not align with the primary discussions of Scaling Agility like frameworks and cultural practices.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
     "calculated_at": "2025-02-15T19:11:10",
@@ -748,10 +661,10 @@
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical aspects of merging Team Projects in TFS and does not relate to Revenue per Employee or financial efficiency.",
     "level": "Ignored"
   },
@@ -784,11 +697,14 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content provides practical steps and strategies for merging Team Projects in TFS, focusing on real-world applications of TFS Integration Tools. It emphasizes adaptability and problem-solving techniques essential for navigating the complexities of project management during migrations.",
+    "reasoning": "The content provides a detailed, practical guide on merging Team Projects in TFS, which aligns well with pragmatic thinking. It discusses real-world applications of tools and strategies, emphasising adaptability and problem-solving in complex environments. The author shares personal experiences and recommendations, demonstrating a strong alignment with the core themes of pragmatic thinking, particularly in the context of Agile and DevOps. The depth of discussion is significant, covering various aspects of the migration process, potential pitfalls, and mitigation strategies, which further supports the classification.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +718,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the technical process of merging Team Projects in TFS, without a focus on measuring or improving innovation capabilities, empirical data analysis, or strategies fostering innovation.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content focuses primarily on merging Team Projects in TFS and the technicalities of using TFS Integration Tools, without any discussion on Scrum principles, roles, or methodologies related to product development.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-15T19:11:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on technical details of merging Team Projects in TFS and does not address scaling Agile practices, frameworks, or related topics central to Scaled Agile discussions.",
+    "reasoning": "Content primarily discusses the technical process of merging Team Projects in TFS, without a focus on measuring or improving innovation capabilities, empirical data analysis, or strategies fostering innovation.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,10 +745,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses merging Team Projects in TFS and the setup of TFS Integration Tools, with no clear focus on test automation practices, principles, or tools.",
     "level": "Ignored"
   },
@@ -865,28 +763,31 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the technical aspects of merging Team Projects in TFS, which relates to the software development process, but it primarily focuses on tooling and setup rather than the overall delivery of functional software or user-centered practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the technical aspects of merging Team Projects in TFS, which is more focused on the process and tools rather than the delivery of functional software that meets user needs. While it touches on some aspects of software quality and configuration, it lacks a strong emphasis on customer value, iterative development, or best practices for ensuring software quality.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content predominantly discusses merging Team Projects in TFS and the associated challenges, rather than focusing on Agile planning tools, methodologies, or their benefits.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on merging Team Projects in TFS and does not discuss Continuous Integration principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -937,10 +838,10 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical aspects of merging Team Projects in TFS and does not focus on structured decision-making methodologies or evidence-based practices.",
     "level": "Ignored"
   },
@@ -955,28 +856,31 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the use of TFS Integration Tools for migrating and consolidating Team Projects, which relates to release management as it involves planning and managing software releases. However, the primary focus is more on the technical details of tool usage rather than broader release management strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the technical aspects of merging Team Projects in TFS, focusing on the use of TFS Integration Tools. While it touches on aspects of project management and migration, it lacks a direct focus on release management strategies, such as version control, release scheduling, or coordination between teams. The discussion is more about the technical execution of a migration rather than the broader context of managing software releases effectively.",
+    "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on merging Team Projects in TFS, which does not directly relate to the responsibilities or practices of a Product Owner in Agile or Scrum.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-15T19:11:10",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the process of merging Team Projects in TFS, focusing on tools and configurations, without any clear reference to Cycle Time or its measurement.",
     "level": "Ignored"
   },
@@ -1000,19 +904,19 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on technical procedures for merging Team Projects within TFS, without any clear emphasis on change management principles, strategies, or organizational transition.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical procedures for merging Team Projects in TFS and does not address team dynamics, communication, or collaboration aspects within Agile frameworks.",
     "level": "Ignored"
   },
@@ -1034,7 +938,7 @@
     "reasoning": "The content primarily focuses on merging Team Projects in TFS and does not address strategic adoption or integration of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-15T19:11:11",
     "ai_confidence": 0,
@@ -1043,30 +947,24 @@
     "reasoning": "Content primarily discusses techniques and processes for merging Team Projects in TFS, which is unrelated to MVP discussions on product development and market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-15T19:11:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses merging Team Projects in TFS and does not address AI applications in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-15T19:11:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration of TFS Integration Tools, including best practices for setting up configurations, migrating data, handling hardware and software integration challenges, and managing system configurations, which aligns well with system configuration principles.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the configuration and migration of Team Projects within TFS, detailing the installation of TFS Integration Tools, creating configurations, and managing source control and work items. It discusses best practices, potential issues, and specific configurations, aligning well with the core themes of system configuration. The depth of discussion is substantial, providing detailed steps and considerations, which supports a high confidence score.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on technical processes and tools for merging Team Projects in TFS, not on product strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1090,30 +988,36 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses merging Team Projects in TFS and does not focus on cross-functional teams or Agile collaboration principles.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-15T19:11:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses primarily on merging Team Projects in TFS and configuring TFS Integration Tools, with no clear discussion on Test First Development or its principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on merging Team Projects in TFS and does not discuss Test First Development principles, success criteria, or testing practices. It lacks any mention of automated or manual testing methodologies, making it irrelevant to the Test First Development category.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content primarily discusses TFS (Team Foundation Server) and related integration tools, which are often used in Windows environments, but the main focus is on project management and migration rather than Windows operating system-specific topics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the use of TFS (Team Foundation Server) Integration Tools, which is a Microsoft product that operates within the Windows environment. However, it does not focus on the Windows operating system itself, such as installation, configuration, or troubleshooting of Windows. While there are mentions of Windows components (like SQL Server and Visual Studio), the main focus is on TFS and its functionalities, which makes it only tangentially related to the Windows category.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1126,19 +1030,19 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the technical aspects of merging Team Projects in TFS and does not engage with principles or practices of scaling Agile methodologies across an organization.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to merging team projects in TFS, without addressing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1153,20 +1057,23 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical details and procedures related to merging Team Projects in TFS, without discussing principles or practices of continuous learning, growth mindset, or team improvement.",
     "level": "Ignored"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-15T19:11:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses resolving technical issues related to merging Team Projects in TFS, including potential pitfalls and methodologies for effective migration. It provides practical insights into diagnosing and handling specific problems encountered during the migration process.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the process of merging Team Projects in TFS, highlighting potential issues and providing solutions, which aligns with troubleshooting. It mentions specific problems (e.g., workspace issues, installation errors) and suggests methods to mitigate these problems, indicating a focus on diagnosing and resolving technical issues. However, the primary focus is on the migration process rather than a systematic troubleshooting methodology, which slightly lowers the confidence score.",
     "level": "Secondary"
   },
   "Experimentation": {
@@ -1180,11 +1087,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-15T19:11:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on merging Team Projects in TFS, with no clear discussions on Scrum Master responsibilities, practices, or team dynamics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical aspects of merging Team Projects in TFS, with no direct mention of the Scrum Master role or its responsibilities. While there are references to team dynamics and project management, they are not aligned with the core themes of the Scrum Master category, which emphasises facilitation, coaching, and agile principles.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1204,15 +1114,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical processes for merging Team Projects in TFS, without focusing on teamwork norms or collaboration principles.",
     "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:08:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content primarily focuses on the technical aspects of merging Team Projects using TFS Integration Tools, which is relevant to software development, but does not deeply explore Agile or DevOps practices.",
-    "level": "Tertiary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -1252,10 +1153,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on technical details about merging Team Projects in TFS and does not discuss strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1306,10 +1207,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on TFS and project merging techniques, which do not align with Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1232,6 @@
     "reasoning": "The content focuses on technical procedures for merging Team Projects in TFS and does not discuss accountability, ownership, or team dynamics within Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-15T19:11:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on merging Team Projects in TFS with no discussions of Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-15T19:11:11",
@@ -1351,10 +1243,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-15T19:11:11",
+    "calculated_at": "2025-04-10T15:54:59",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on merging Team Projects in TFS, discussing integration tools, configurations, and migration processes, which does not relate to Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1369,11 +1261,104 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T16:12:11",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical aspects of merging Team Projects in TFS, discussing tools and processes without addressing the underlying social frameworks or collaboration principles that define Social Technologies. While there are mentions of team dynamics, they are not the primary focus, and the content lacks depth in discussing collaboration, decision-making, or value delivery in an organisational context.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses merging Team Projects in TFS, which is not directly related to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:13:32",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses the technical aspects of merging Team Projects in TFS, focusing on tools and configurations rather than on Scrum, Kanban, Lean, or Agile practices.",
+    "reasoning": "Content primarily discusses merging Team Projects in TFS and does not mention or relate to Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 50,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses merging Team Projects in TFS and the use of TFS Integration Tools, with only a brief mention of Scrum templates. It lacks a detailed exploration of Scrum principles, roles, events, or practices, which are essential for a strong alignment with the Scrum category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses merging Team Projects in TFS and the associated technical processes, with no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks alignment with the core themes of the Shift-Left Strategy, focusing instead on migration tools and configurations without addressing proactive quality measures.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the technical process of merging Team Projects in TFS, with limited discussion on Continuous Improvement principles. While it mentions the need for practice and iterative testing, it lacks a broader context of Continuous Improvement as a philosophy or culture. The discussion is more about specific tools and methods rather than fostering a culture of experimentation or learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the technical aspects of merging Team Projects in TFS, discussing tools and strategies without addressing the concept of Common Goals or their significance in Agile and DevOps. While it touches on team collaboration indirectly, it lacks a clear connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on technical instructions for merging Team Projects in TFS, with minimal direct discussion on competence or continuous skill development. While it touches on the challenges and complexities of the migration process, it lacks a strong emphasis on the importance of competence in Agile or DevOps contexts, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:59",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on technical instructions for merging Team Projects in TFS, lacking any discussion on the intentional shaping of outcomes, agency, or adaptability. It does not address the principles of Agentic Agility or differentiate between human and AI capabilities.",
     "level": "Ignored"
   }
 }

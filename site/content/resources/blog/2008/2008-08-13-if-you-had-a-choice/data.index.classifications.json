@@ -8,22 +8,16 @@
     "reasoning": "Content is primarily focused on personal preferences for development platforms and does not discuss Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T12:16:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses preferences for operating systems among .NET developers, with no focus on Agile methodologies, DevOps practices, or relevant literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T12:16:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 72.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 60.0,
+    "ai_depth": 90.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses preferences for a specific development platform without referencing Agile, Scrum, DevOps, or Lean principles, making it a general discussion relevant to the broader context of business agility.",
+    "reasoning": "The content primarily discusses preferences for a specific development environment (Visual Studio 2008) without referencing Agile, Scrum, DevOps, or Lean methodologies. While it does not delve deeply into any established frameworks, it aligns with the Miscellaneous category as it invites general discussion among developers. The lack of actionable insights or direct connections to recognised practices supports its classification as Miscellaneous.",
     "level": "Secondary"
   },
   "Organisational Psychology": {
@@ -53,49 +47,16 @@
     "reasoning": "Content primarily discusses preferences for development platforms without addressing decision-making processes or uncertainty.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T12:17:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on preferences for development platforms and does not discuss any events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T12:17:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses preferences for development platforms and does not address Scrum principles, practices, or frameworks.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T12:17:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on preferences for development platforms and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T12:17:08",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal preferences for development platforms and does not address any DevOps principles, practices, or related topics.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T12:17:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on preferences for development platforms and does not discuss AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on preferences for Visual Studio 2008 and does not discuss any DevOps principles, practices, or cultural shifts. It lacks direct mentions of DevOps and does not align with the core themes of the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +79,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T12:17:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal preferences for development platforms and does not discuss Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T12:17:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal preferences for operating systems among .NET developers without reference to practical techniques or tooling related to Agile or DevOps.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on preferences for Visual Studio 2008 platforms and does not discuss any aspects of the Agile Product Operating Model. There are no direct mentions of agile methodologies, product management principles, or any related topics that align with the category. The discussion is entirely centred around personal preferences for software, which is unrelated to the core themes of APOM.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -145,10 +100,10 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-16T12:17:16",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses personal preferences for operating systems among .NET developers, with no clear focus on platform engineering principles or practices.",
     "level": "Ignored"
   },
@@ -172,29 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T12:17:19",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal preferences for development platforms and does not discuss Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T12:17:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal preferences for development platforms and does not address code quality or complexity.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T12:17:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily seeks personal preferences regarding Visual Studio platforms, lacking relevance to industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal preferences for Visual Studio 2008 platforms and does not discuss any aspects of Evidence-Based Management. There are no direct mentions of EBM concepts, and the discussion lacks any alignment with the key topics outlined for the category.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -242,7 +182,7 @@
     "reasoning": "Content primarily discusses preferences for development platforms without any focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T12:17:27",
     "ai_confidence": 0,
@@ -271,20 +211,11 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T12:17:33",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses preferences for development platforms rather than personal experiences or reflections related to Agile, Scrum, or DevOps.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T12:17:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses preferences for development platforms without any focus on discovery, learning, or innovation processes.",
+    "reasoning": "Content primarily discusses preferences for development platforms rather than personal experiences or reflections related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -294,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses preferences for operating systems and Visual Studio versions, with no mention of Azure DevOps functionalities or practices.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T12:17:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal preferences for development platforms and does not address transparency or accountability in Agile teams.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on personal preferences for development platforms and does not discuss Systems Thinking principles or applications.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T12:18:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses preferences for development platforms without addressing team dynamics, collaboration, or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -467,7 +380,7 @@
     "reasoning": "Content focuses on preferences for a specific development platform rather than discussing Agile practices or scaling Agile methodologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T12:37:26",
     "ai_confidence": 0,
@@ -483,15 +396,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is primarily focused on personal preferences for development environments and does not discuss any principles or practices of Site Reliability Engineering.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T12:37:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about preferences related to .NET development platforms and does not discuss agile methodologies or project management.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -665,24 +569,6 @@
     "reasoning": "Content primarily seeks to gather preferences on development platforms, without discussing estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T12:37:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on personal preferences for platforms among .NET developers and does not engage with Agile or DevOps practices.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T12:37:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content is primarily focused on developer preferences for operating systems and does not discuss AI or its application in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
     "calculated_at": "2025-02-16T12:37:26",
@@ -694,11 +580,14 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:20",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 55.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 50.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content mentions various Windows platforms in the context of a preference survey but primarily focuses on the opinions of .NET developers rather than providing information or discussions focused on the Windows operating system itself.",
+    "final_score": 55.0,
+    "reasoning": "The content mentions various Windows versions (XP, Vista, Server 2008) in the context of a question about developer preferences for Visual Studio 2008. While it does touch on the Windows operating system, the discussion is primarily focused on developer preferences rather than providing in-depth insights or guidance on Windows installation, configuration, or troubleshooting. Therefore, while there is a relevant mention of Windows, the overall depth and alignment with the core themes of the category are moderate.",
     "level": "Tertiary"
   },
   "Product Strategy": {
@@ -735,15 +624,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content does not discuss Agile frameworks directly; it focuses on preferences for Visual Studio versions and platforms, with only a mention of 'XP' which is not relevant to the Agile framework context.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T12:37:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses platform preferences for .NET developers, unrelated to Scaled Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +664,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T12:37:26",
+    "calculated_at": "2025-04-10T15:56:32",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses preferences for specific software platforms and does not relate to innovation capabilities or measurement.",
     "level": "Ignored"
   },
@@ -883,11 +763,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T12:37:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses personal preferences for .NET development environments, which is unrelated to Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on user preferences for Visual Studio 2008 platforms, with no direct mention or discussion of Continuous Delivery principles, practices, or related topics. It does not align with the core themes of Continuous Delivery, such as automation, incremental improvements, or software quality. The discussion is entirely unrelated to the category.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -998,15 +881,6 @@
     "reasoning": "Content is focused on a personal inquiry about development platforms and is unrelated to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T12:37:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on preferences for platforms among .NET developers, which is unrelated to Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
     "calculated_at": "2025-02-16T12:37:26",
@@ -1045,11 +919,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T12:37:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about developer preferences for operating systems and does not discuss Test First Development or related concepts.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on preferences for Visual Studio 2008 platforms and does not discuss any principles or practices related to Test First Development. There are no mentions of success criteria, testing practices, or any relevant topics that align with the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1214,15 +1091,6 @@
     "reasoning": "Content discusses preferred development platforms for Visual Studio 2008, which is unrelated to deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T12:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on preferences for development platforms and does not discuss Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "calculated_at": "2025-02-16T12:37:27",
@@ -1234,11 +1102,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T12:37:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on a question about preferred operating systems for .NET developers and does not address any Scrum Master-related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on preferences for Visual Studio 2008 platforms and does not mention the Scrum Master role or any related concepts. There is no discussion of Scrum principles, responsibilities, or the impact of a Scrum Master, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1286,15 +1157,6 @@
     "reasoning": "The content does not discuss Test Driven Development or related concepts; it focuses on preferences for operating systems and Visual Studio 2008.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T12:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on preferences for operating systems and development environments rather than on scaling Scrum practices.",
-    "level": "Ignored"
-  },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
     "calculated_at": "2025-02-16T12:37:27",
@@ -1331,15 +1193,6 @@
     "reasoning": "Content primarily asks about personal preferences for a development platform rather than discussing system configuration practices or methodologies.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T12:37:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on personal preferences for software platforms and not related to scaling agility practices or frameworks.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T12:37:27",
@@ -1360,11 +1213,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:07:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses preferences for operating systems among .NET developers, which is unrelated to Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on preferences for Visual Studio 2008 platforms among .NET developers, which does not align with the core themes of Social Technologies. There are no discussions on collaboration, decision-making, or value delivery, and the content lacks depth in addressing any social frameworks or methodologies.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1230,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses preferences for development platforms and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses preferences for operating systems and development environments, without addressing Internal Developer Platforms or their related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:41:50",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses preferences for development platforms and does not relate to AI in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Scrum or its principles, roles, events, or any related topics. It focuses solely on preferences for development platforms, which is unrelated to Scrum discussions.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content does not discuss the Shift-Left Strategy or any related concepts. It focuses solely on a personal inquiry about preferred platforms for .NET development, which is unrelated to software development processes that integrate testing, security, or compliance earlier in the lifecycle.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on personal preferences regarding Visual Studio 2008 platforms, which does not relate to the concept of Common Goals in Agile or DevOps. There are no explicit discussions of shared objectives, alignment, or strategic goals, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on preferences for Visual Studio 2008 platforms and does not discuss competence, continuous learning, or skill development in Agile or DevOps contexts. There are no direct mentions of competence, and the discussion lacks depth and alignment with the key topics outlined in the competence category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on preferences for Visual Studio 2008 platforms and does not discuss Continuous Improvement principles or practices. There are no direct mentions of Continuous Improvement, and the discussion lacks alignment with its core themes, such as data-driven decision-making or fostering a culture of experimentation.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:32",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on preferences for Visual Studio 2008 platforms and does not discuss Agentic Agility or its principles. There are no direct mentions of agency, intentionality, or the interplay between human and AI capabilities, which are central to the category.",
     "level": "Ignored"
   }
 }

@@ -2,8 +2,10 @@
 title: Why is Kanban becoming increasingly popular in creative industries?
 description: Explore why Kanban is gaining traction in creative industries! Discover its adaptability, core principles, and how it enhances workflow efficiency.
 date: 2024-02-13T07:00:14Z
+weight: 1000
 ResourceId: MDpthtdJgNk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: MDpthtdJgNk
@@ -15,32 +17,27 @@ preview: https://i.ytimg.com/vi/MDpthtdJgNk/maxresdefault.jpg
 duration: 581
 isShort: false
 aliases:
-- /resources/why-is-kanban-becoming-increasingly-popular-in-creative-industries
-- /resources/videos/why-is-kanban-becoming-popular-with-creative-industries-
-- /resources/videos/MDpthtdJgNk
-- /resources/why-is-kanban-becoming-popular-with-creative-industries-
 - /resources/MDpthtdJgNk
-aliasesFor404:
+- /resources/videos/why-is-kanban-becoming-increasingly-popular-in-creative-industries
+- /resources/videos/why-is-kanban-becoming-popular-with-creative-industries
+aliasesArchive:
+- /resources/videos/why-is-kanban-becoming-increasingly-popular-in-creative-industries
 - /resources/why-is-kanban-becoming-increasingly-popular-in-creative-industries
 - /resources/videos/why-is-kanban-becoming-popular-with-creative-industries-
 - /resources/why-is-kanban-becoming-popular-with-creative-industries-
+- /resources/videos/why-is-kanban-becoming-popular-with-creative-industries
+- why-is-kanban-becoming-increasingly-popular-in-creative-industries
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Practical Techniques and Tooling
-- Agile Frameworks
-- Pragmatic Thinking
-- Operational Practices
+tags: []
 resourceTypes:
 - video
 categories:
 - Kanban
-- Social Technologies
 
 ---
-### Embracing Kanban: A Creative Approach to Workflow Optimization
+### Embracing [Kanban]({{< ref "/categories/kanban" >}}): A Creative Approach to Workflow Optimization
 
 **Introduction**
 
@@ -52,7 +49,7 @@ Kanban is gaining popularity across various industries, especially the creative 
 
 **Why Kanban is Ideal for Creative Industries**
 
-Creative industries often face unique challenges that traditional frameworks like Scrum may not adequately address. Here’s why Kanban is becoming the go-to strategy:
+Creative industries often face unique challenges that traditional frameworks like [Scrum]({{< ref "/categories/scrum" >}}) may not adequately address. Here’s why Kanban is becoming the go-to strategy:
 
 - **Flexibility**: Unlike Scrum, which many perceive as a software engineering process, Kanban can be adapted to any type of work, making it ideal for creative tasks.
 
@@ -90,7 +87,7 @@ Kanban’s beauty lies in its simplicity and flexibility. Here’s how you can g
 
 - **Collect Data**: Use Kanban metrics to track the flow of work and identify bottlenecks.
 
-- **Continuous Improvement**: Regularly review your workflow and make adjustments based on the data to optimize your process.
+- **[Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})**: Regularly review your workflow and make adjustments based on the data to optimize your process.
 
 * * *
 
@@ -130,7 +127,7 @@ A common misconception is that Kanban is merely about having a board with column
 
 Kanban is an incredibly versatile and powerful strategy for optimizing workflows, especially in creative industries. By starting from your current process and gradually introducing improvements, Kanban minimizes disruption and enhances efficiency.
 
-**Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, agile, or DevOps, feel free to book a coffee with me through Naked Agility.
+**Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, agile, or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility.
 
 * * *
 

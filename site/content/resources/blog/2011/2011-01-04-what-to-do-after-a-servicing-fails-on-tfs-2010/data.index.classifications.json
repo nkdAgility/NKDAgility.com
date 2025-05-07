@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T00:05:17",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to TFS 2010 and does not address Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T00:05:19",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses practical techniques for troubleshooting and resolving issues with TFS 2010, including specific commands and hotfixes, which aligns well with the category's focus on practical application of tools and methodologies.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:05:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues and troubleshooting related to TFS 2010, with no focus on evidence-based management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:05:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses issues related to TFS 2010 upgrades and specific troubleshooting steps, without a clear focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:05:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to TFS 2010 upgrades, without a focus on learning processes or methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:05:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues related to TFS 2010 upgrades and troubleshooting, with no mention of AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS 2010 upgrades and troubleshooting, with no explicit focus on Evidence-Based Management principles or metrics. While it touches on real-world challenges, it lacks a connection to data-informed decision-making or the key topics outlined in the EBM category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,21 +40,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:05:28",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the installation and configuration challenges faced during an upgrade of TFS 2010, including troubleshooting steps and commands used to recover the system, which aligns well with the category.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the installation and configuration challenges faced during an upgrade of TFS 2010, detailing specific hotfixes, commands, and troubleshooting steps. It provides actionable insights into the installation process, including the use of commands like 'TFSConfig Recover' and the implications of schema versions. The depth of discussion is significant, as it covers the entire upgrade process, issues encountered, and potential solutions, aligning well with the key topics of the category.",
     "level": "Secondary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:05:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and solutions related to TFS 2010 upgrades, without a focus on transparency or accountability principles.",
-    "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses technical issues related to TFS 2010 upgrades and does not address the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:05:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS 2010 upgrades and troubleshooting, without a focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses a specific issue related to TFS (Team Foundation Server) and its upgrade process, which touches on aspects of software deployment and management. However, it primarily focuses on troubleshooting and specific technical problems rather than broader DevOps principles, practices, or cultural shifts.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on troubleshooting issues related to TFS 2010 and does not explicitly discuss DevOps principles or practices. While it touches on aspects of collaboration and problem-solving within a development team, it lacks a broader discussion on the DevOps philosophy, such as automation, shared accountability, or continuous improvement. The depth of discussion is moderate, but it does not align closely with the core themes of DevOps.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -136,20 +91,14 @@
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a decision-making scenario regarding whether to use a repaired database or start anew, which aligns with decision theory principles. However, the primary focus is on technical issues related to TFS rather than a comprehensive exploration of decision-making processes.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T00:05:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical issue related to TFS 2010 and does not reference any events, presentations, or discussions relevant to Agile, DevOps, or software engineering conferences.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS 2010 and does not focus on decision-making processes or the principles of Decision Theory. While it touches on a scenario where decisions are made regarding database management, it lacks a structured exploration of decision-making frameworks, heuristics, or the impact of uncertainty on choices.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -159,15 +108,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS upgrades and troubleshooting, with no clear focus on optimising work throughput or flow efficiency.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:05:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS 2010 upgrades and troubleshooting, with minimal focus on human behaviour or team processes.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +130,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:05:47",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and troubleshooting related to TFS 2010 upgrades, with no focus on metrics, data analysis, or learning methodologies.",
     "level": "Ignored"
   },
@@ -208,12 +148,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical issue related to TFS 2010 and the challenges faced during an upgrade, which touches on engineering practices and methodologies. However, the primary focus is on troubleshooting and specific incidents rather than broader principles of technical excellence.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS 2010 and the challenges faced during an upgrade process. While it touches on aspects of technical problem-solving and the implications of database management, it lacks a broader discussion on engineering practices or methodologies that enhance agility in software development. The focus is primarily on a specific case rather than on principles like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -235,12 +178,12 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:15",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 30,
     "non_ai_confidence": 10,
-    "final_score": 28.0,
+    "final_score": 30.0,
     "reasoning": "The content discusses a specific issue related to upgrading a software product (TFS 2010) and the challenges faced during the process. However, it primarily focuses on troubleshooting and technical details rather than broader methodologies or practices of product delivery.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -260,15 +203,6 @@
     "reasoning": "Content primarily discusses issues related to TFS 2010 upgrades and troubleshooting, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:05:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues and troubleshooting related to TFS 2010, without focusing on specific products or literature relevant to Agile or DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Value Delivery": {
     "category": "Value Delivery",
     "calculated_at": "2025-02-16T00:05:59",
@@ -280,11 +214,14 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-16T00:06:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses issues and solutions related to Team Foundation Server (TFS), which is a component of Azure DevOps, focusing on upgrade challenges and recovery processes.",
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS), which is a component of Azure DevOps. It provides a detailed account of a specific upgrade scenario, including troubleshooting steps and commands relevant to TFS. While it does not explicitly cover broader Azure DevOps functionalities, it aligns well with the category by focusing on a specific service within Azure DevOps and offering insights into best practices and problem-solving approaches. The depth of discussion is significant, detailing the challenges faced during the upgrade process and the solutions attempted.",
     "level": "Secondary"
   },
   "Personal": {
@@ -305,7 +242,7 @@
     "reasoning": "Content primarily discusses technical issues and solutions related to TFS 2010 upgrades, without a focus on Systems Thinking principles or holistic analysis of organisational dynamics.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:06:11",
     "ai_confidence": 0,
@@ -316,11 +253,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:06:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS 2010 upgrades and does not address Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS 2010 upgrades and does not mention or align with the Agile Product Operating Model. It focuses on troubleshooting and operational challenges rather than agile methodologies or product management principles.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +272,17 @@
     "reasoning": "Content primarily discusses technical issues related to TFS 2010 upgrades and troubleshooting, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:06:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a specific technical issue related to TFS 2010 and does not focus on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses issues related to upgrading and maintaining a Team Foundation Server (TFS) deployment, which falls under the maintenance stage of the application lifecycle. However, it primarily focuses on specific technical problems rather than broader ALM methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T00:06:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to TFS 2010 and its upgrade process, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific issue related to the upgrade and maintenance of a TFS (Team Foundation Server) instance, which is part of the application lifecycle. However, it primarily focuses on troubleshooting and specific technical problems rather than a comprehensive discussion of the application lifecycle stages, best practices, or governance. While it touches on aspects of maintenance and deployment, it lacks depth in discussing broader ALM methodologies or tools, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,38 +295,44 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:57:50",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily discussing issues and resolutions related to TFS 2010 upgrade and hotfixes, not the Definition of Done.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T00:57:50",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses a complex technical issue involving TFS 2010 server upgrades, hotfixes, and database management, highlighting technical troubleshooting methods and the implications of software maintenance and schema management.",
+    "reasoning": "The content discusses a specific technical issue related to TFS 2010 and the challenges faced during an upgrade, which touches on aspects of software craftsmanship and problem-solving. However, it primarily focuses on a specific case study rather than broader principles of software design, architecture, or best practices. While it does provide some insights into troubleshooting and technical decision-making, it lacks a comprehensive exploration of the methodologies or principles that define technical mastery.",
     "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-16T00:57:50",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and troubleshooting related to upgrading Team Foundation Server, focusing on technical details and specific commands, rather than exploring product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:57:50",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses a specific technical issue with Team Foundation Server (TFS) in the context of hotfixes and upgrades, without addressing Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses troubleshooting issues related to a specific upgrade of TFS 2010, focusing on hotfixes and database management rather than Continuous Delivery principles or practices. While it touches on aspects of software deployment, it lacks a clear focus on Continuous Delivery as defined by the category, such as automation, rapid feedback, or cultural aspects of delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -415,10 +346,10 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T00:57:50",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on troubleshooting a TFS upgrade issue and does not primarily discuss Lead Time or provide insights into measuring, optimizing, or the impact of Lead Time in processes.",
     "level": "Ignored"
   },
@@ -433,10 +364,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to TFS and software upgrade problems, not related to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
@@ -451,10 +382,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses issues related to TFS 2010 and troubleshooting server upgrades, which are not relevant to the Product Backlog or Agile practices.",
     "level": "Ignored"
   },
@@ -478,28 +409,31 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues and troubleshooting related to TFS 2010, with no focus on customer feedback integration or feedback loops.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Although the content primarily describes a technical problem and solution related to TFS upgrades, it touches on practical aspects of operational practices in managing a large development environment. The resolution involves process management and consideration of operational continuity, which aligns with operational practices but is not the main focus of the content.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific operational issue related to TFS 2010 and the challenges faced during a large-scale upgrade. While it touches on aspects of operational practices, such as troubleshooting and recovery strategies, it lacks a broader focus on methodologies like Agile, DevOps, or Lean. The discussion is more anecdotal and does not provide structured techniques or strategies for improving operational efficiency, which is a key requirement for this category.",
+    "level": "Ignored"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on technical problems related to TFS 2010 upgrade and troubleshooting, with no relevance to Scrum roles, team dynamics, or collaboration.",
     "level": "Ignored"
   },
@@ -523,10 +457,10 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on troubleshooting and technical issues related to TFS 2010 upgrades rather than the validation of product ideas or methodologies for gathering user feedback.",
     "level": "Ignored"
   },
@@ -559,10 +493,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and solutions related to TFS 2010 deployment rather than team performance or collaboration within agile teams.",
     "level": "Ignored"
   },
@@ -577,37 +511,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues and solutions related to upgrading TFS 2010, without focuses on Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses issues related to the upgrade and management of a Team Foundation Server (TFS) 2010 deployment, including specific hotfixes, commands for recovery, and the implications of schema versions, which are all relevant to software development practices and methodologies.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS 2010 and hotfix deployments, with no clear focus on agile methodologies or project management principles.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses a specific issue encountered during a software upgrade process involving Team Foundation Server (TFS) 2010. It provides detailed insights into the challenges faced, the commands used, and the implications of those commands on the software's functionality. While it does not explicitly mention broader software development methodologies or practices, it aligns well with the category through its focus on troubleshooting and problem-solving within a software development context. The depth of discussion is moderate, as it covers a real-world scenario but lacks extensive exploration of software development principles or frameworks.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues related to TFS 2010 and specific hotfixes, with no clear focus on Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,19 +550,22 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content primarily discusses issues related to Team Foundation Server (TFS), including upgrades, hotfixes, and database management, but does not focus on version control practices or methodologies central to modern source control.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses issues related to TFS (Team Foundation Server) and its upgrade process, which is a version control system. However, the focus is primarily on troubleshooting and specific problems encountered during an upgrade rather than on broader best practices or methodologies of modern source control. While it mentions source control, it does not delve into key topics such as branching strategies, code review processes, or collaboration workflows, which are central to the category of Modern Source Control.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific technical issue with TFS 2010 upgrades and troubleshooting, without a focus on empirical process control or Agile principles.",
     "level": "Ignored"
   },
@@ -694,20 +625,11 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily revolves around technical issues and solutions regarding TFS 2010 upgrades rather than customer satisfaction metrics, principles, or strategies. There is no clear discussion of customer needs or experiences.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) and operational challenges during a server upgrade, with no clear emphasis on Scrum principles, practices, or scaling frameworks.",
+    "reasoning": "Content primarily revolves around technical issues and solutions regarding TFS 2010 upgrades rather than customer satisfaction metrics, principles, or strategies. There is no clear discussion of customer needs or experiences.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
@@ -728,23 +650,17 @@
     "reasoning": "Content primarily discusses technical issues and troubleshooting related to TFS 2010, without any mention of psychological safety or team dynamics.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical issues related to TFS 2010 server and its upgrade process, with no relation to scaling agility or agile methodologies.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses a technical issue regarding TFS (Team Foundation Server) upgrade and troubleshooting, which touches on aspects of software development practices. While it primarily focuses on a specific case and problem resolution, it does implicate best practices in handling software upgrades and managing system configurations, aligning it somewhat with engineering excellence themes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific technical issue related to TFS 2010 and the challenges faced during an upgrade, which touches on aspects of software craftsmanship and problem-solving. However, it lacks a broader discussion on best practices, continuous improvement, or engineering processes that are central to the category of Engineering Excellence. The focus is primarily on a specific incident rather than a comprehensive exploration of engineering excellence principles.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -757,10 +673,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on troubleshooting issues related to a specific software upgrade and server management, without any discussion on asynchronous development principles, practices, or collaboration.",
     "level": "Ignored"
   },
@@ -775,20 +691,23 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS 2010 upgrades and does not focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content provides a detailed account of troubleshooting and problem-solving in a complex TFS upgrade scenario, illustrating practical strategies and the importance of real-world application, which aligns well with pragmatic thinking.",
+    "final_score": 78.0,
+    "reasoning": "The content provides a detailed account of a real-world problem encountered during a TFS upgrade, showcasing practical problem-solving strategies and the application of experience-based decision-making. It discusses specific issues faced, the steps taken to resolve them, and the eventual decision to abandon the repaired database due to potential future problems. This aligns well with the core themes of pragmatic thinking, particularly in the context of navigating complexity and uncertainty in project management. The depth of discussion is significant, as it includes technical details and considerations that reflect a pragmatic approach to problem-solving.",
     "level": "Secondary"
   },
   "Backlog Refinement": {
@@ -802,29 +721,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical issues regarding TFS 2010 upgrades and troubleshooting, without a focus on innovation capabilities or Evidence-Based Management.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses issues with Microsoft TFS (Team Foundation Server) without any reference to Scrum principles, frameworks, or product development methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses a technical issue related to TFS (Team Foundation Server) and does not mention Agile scaling frameworks, methodologies, or coordination among multiple teams.",
+    "reasoning": "Content primarily discusses technical issues regarding TFS 2010 upgrades and troubleshooting, without a focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -865,12 +766,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses troubleshooting and issues related to TFS (Team Foundation Server) and upgrading development software. While it touches on aspects of working software through the lens of a specific software deployment, the main focus is on resolution of issues rather than the broader principles of delivering high-quality, functional software, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses a specific issue related to a software upgrade and the challenges faced during the process. While it touches on aspects of working software, such as the importance of successful upgrades and the implications of software quality, it lacks a direct focus on the broader principles of working software as defined in Agile and Scrum. The discussion is more about troubleshooting and specific technical problems rather than delivering functional software that meets user needs.",
+    "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -928,21 +832,24 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses troubleshooting and migration issues with TFS 2010, focusing on technical problems and solutions without addressing hypothesis formulation, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a real-world scenario involving decision-making regarding a TFS upgrade, weighing the risks and outcomes of continuing with a potentially flawed database versus starting over. However, the focus is more on troubleshooting and problem-solving rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific case of decision-making regarding a TFS upgrade and the challenges faced, including the decision to abandon a repaired database in favour of starting anew. While it touches on decision-making, it lacks structured methodologies or evidence-based practices, focusing more on anecdotal experiences and technical troubleshooting.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -955,28 +862,31 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses challenges faced during a software upgrade and hotfix application process for TFS, which relates to release management practices. However, the primary focus is on the specific scenarios encountered rather than a broad discussion on release management strategies or practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses a specific case of upgrading TFS and the challenges faced during the process, which touches on aspects of release management such as version control and risk management. However, it lacks a broader discussion on release strategies, metrics, or tools, making it more of a technical troubleshooting narrative rather than a comprehensive exploration of release management practices.",
+    "level": "Secondary"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues and solutions related to TFS 2010 servicing, without any mention of Product Owner responsibilities or themes related to Agile, backlog management, or stakeholder engagement.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a troubleshooting process related to TFS 2010 and does not focus on Cycle Time measurements or implications in Agile and DevOps contexts.",
     "level": "Ignored"
   },
@@ -991,10 +901,10 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses troubleshooting a specific problem encountered during a TFS upgrade, which does not directly relate to the optimization of deployment frequency in Agile or DevOps practices.",
     "level": "Ignored"
   },
@@ -1009,19 +919,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical challenges and solutions related to TFS upgrades, with no focus on team collaboration, Agile principles, or related themes.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to TFS 2010 upgrades and patches, which are not relevant to Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -1034,7 +944,7 @@
     "reasoning": "The content primarily discusses technical issues and troubleshooting related to TFS 2010 rather than strategic utilization of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:57:51",
     "ai_confidence": 0,
@@ -1043,30 +953,24 @@
     "reasoning": "Content primarily discusses troubleshooting and issues encountered during a TFS 2010 upgrade, not related to MVP development or market validation.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses troubleshooting and issues related to Team Foundation Server (TFS) 2010, with no mention of AI, Agile methodologies, or DevOps practices.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses technical issues related to configuring and managing a Team Foundation Server (TFS) upgrade, including handling hotfixes, schema versions, and recovery commands which are central to system configuration challenges.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses the challenges and processes involved in configuring and upgrading a Team Foundation Server (TFS) environment, which directly aligns with system configuration. It details specific hotfixes, troubleshooting steps, and commands used to recover and reattach databases, demonstrating a strong focus on practical configuration issues. The depth of discussion includes specific commands and their implications, as well as the consequences of misconfiguration, which adds to the overall relevance to the category.",
+    "level": "Primary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical issues related to TFS upgrades and recovery rather than product strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1099,30 +1003,39 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content focuses on issues related to Team Foundation Server upgrade failures and recovery strategies, with no discussion of Test First Development practices or principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses troubleshooting and upgrading TFS 2010, focusing on real-world challenges and solutions rather than the principles of Test First Development. There are no explicit mentions of success criteria, testing practices, or the Test First approach, which are central to the category. The discussion lacks depth in relation to Test First Development, making it largely irrelevant to the classification.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 66.0,
-    "reasoning": "The content discusses the upgrade and troubleshooting of TFS 2010, which is a product that runs on Windows. While it is primarily about TFS, it intersects with Windows environment management and issues that might arise during installation and servicing in a Windows context.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily discusses issues related to Team Foundation Server (TFS) 2010, which operates within the Windows environment. It includes specific references to hotfixes and patches that are relevant to Windows, as well as troubleshooting steps that are directly applicable to Windows users. The depth of discussion is significant, detailing the upgrade process, problems encountered, and solutions attempted, which aligns well with the core themes of the Windows category. However, while the content is focused on Windows, it is somewhat specific to TFS and may not cover broader Windows operating system topics extensively.",
+    "level": "Primary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses issues and processes related to the deployment of TFS 2010, including upgrading challenges and considerations for when to roll back or proceed with deployments. However, the focus is more on troubleshooting specific deployment problems rather than discussing broader deployment strategies, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content discusses a specific case of upgrading a TFS server and the challenges faced during that process. While it touches on aspects of deployment, such as hotfixes and the recovery of a database, it does not provide a structured discussion on deployment strategies or methodologies. The focus is more on troubleshooting and problem resolution rather than on deployment practices like Blue-Green Deployments or Canary Releases.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -1135,10 +1048,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical details related to troubleshooting and managing a TFS 2010 upgrade, with no clear focus on team motivation or dynamics.",
     "level": "Ignored"
   },
@@ -1162,11 +1075,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 90,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 87.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 81.0,
-    "reasoning": "The content focuses on diagnosing and resolving specific problems encountered during the upgrade of TFS 2010, detailing troubleshooting steps, issues faced, and solutions applied, making troubleshooting the central theme.",
+    "final_score": 87.0,
+    "reasoning": "The content provides a detailed account of troubleshooting issues encountered during a TFS 2010 upgrade, including specific problems, attempted solutions, and expert advice. It discusses techniques for diagnosing and resolving technical issues, aligning well with the core themes of the Troubleshooting category. The depth of discussion is significant, as it covers multiple aspects of the problem and the resolution process, making it a primary focus of the content.",
     "level": "Primary"
   },
   "Experimentation": {
@@ -1180,11 +1096,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses technical issues related to Team Foundation Server (TFS) upgrades and does not focus on the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses technical issues related to TFS 2010 and does not mention the role or responsibilities of a Scrum Master. There is minimal conceptual alignment with Scrum principles, and the depth of discussion is focused on troubleshooting rather than Scrum practices.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1203,15 +1122,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content revolves around technical challenges and solutions related to TFS 2010 upgrades, with no mention of teamwork, collaboration norms, or working agreements.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses primarily on a specific incident involving TFS 2010 and does not address broader discussions on software development methodologies, practices, or the role of software developers in Agile or DevOps contexts.",
     "level": "Ignored"
   },
   "Coaching": {
@@ -1252,10 +1162,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses technical issues related to upgrading a Team Foundation Server (TFS) and the associated troubleshooting steps, with no explicit focus on product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1306,10 +1216,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues and troubleshooting with Team Foundation Server (TFS) 2010 rather than focusing on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1241,6 @@
     "reasoning": "Content primarily discusses technical issues related to TFS 2010 and does not focus on accountability, ownership, or team dynamics within Agile frameworks.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:57:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues and solutions related to a large-scale migration of Team Foundation Server (TFS) without any reference to Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:57:51",
@@ -1351,20 +1252,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T00:57:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses issues with upgrading TFS 2010 and does not address Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:57:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical issues related to TFS 2010 and does not focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on technical issues related to TFS 2010 and does not discuss social technologies, collaboration, or decision-making frameworks. It lacks any mention of self-organisation, collective intelligence, or value delivery, which are core themes of the Social Technologies category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1278,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses technical issues related to TFS 2010 and does not address leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:30:21",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to TFS 2010 upgrades and troubleshooting, which does not align with the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:30:23",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses issues related to TFS 2010 upgrades and troubleshooting, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses issues related to TFS (Team Foundation Server) and its upgrade process, with no direct mention of Scrum principles, roles, events, or practices. While it touches on project management aspects, it does not align with the core themes of Scrum, such as iterative progress or team dynamics. The discussion lacks depth regarding Scrum methodologies, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses a specific incident related to TFS 2010 upgrades and troubleshooting, with no explicit mention of integrating testing, security, or compliance earlier in the software development lifecycle. It lacks a focus on the principles, benefits, or methodologies associated with the Shift-Left Strategy, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS 2010 upgrades, with minimal discussion on Continuous Improvement principles. While it touches on problem-solving and learning from past experiences, it lacks a structured approach to Continuous Improvement, such as empirical evidence, data-driven decision-making, or fostering a culture of experimentation. The content does not provide strategies or frameworks that align with Continuous Improvement, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS 2010, detailing a real-world scenario without addressing the concept of Common Goals in Agile or DevOps. There are no explicit mentions of shared objectives, alignment, or strategic goals, which are central to the category of Common Goals. The discussion is technical and operational, lacking the necessary depth or alignment with the principles of Agile and DevOps.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on troubleshooting a specific technical issue related to TFS 2010, with minimal direct discussion on competence or skill development. While it touches on the challenges faced by a large development team and the importance of expert advice, it lacks a thorough exploration of continuous learning, professionalism, or strategies for fostering competence. The mention of expertise is too brief and does not align closely with the core themes of the competence category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on troubleshooting and technical solutions related to TFS 2010, with no explicit discussion of Agentic Agility principles or the intentional shaping of outcomes. While it touches on problem-solving and decision-making, it does not align with the core themes of Agentic Agility, such as autonomy, adaptability, or the interplay between human and AI capabilities.",
     "level": "Ignored"
   }
 }

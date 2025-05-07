@@ -2,8 +2,10 @@
 title: 'Mastering Product Development: From Assumptions to Hypotheses'
 description: Unlock the power of assumptions in product development! Learn to identify, validate, and test assumptions for data-driven decisions. A must-watch for product teams!
 date: 2024-08-10T07:00:32Z
+weight: 1000
 ResourceId: j-mPdGP7BiU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: j-mPdGP7BiU
@@ -15,36 +17,32 @@ preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
 duration: 302
 isShort: false
 aliases:
-- /resources/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/videos/ppdv-learning-outcomes
-- /resources/videos/j-mPdGP7BiU
-- /resources/ppdv-learning-outcomes
 - /resources/j-mPdGP7BiU
-aliasesFor404:
+- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
+- /resources/videos/ppdv-learning-outcomes
+aliasesArchive:
+- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/videos/ppdv-learning-outcomes
 - /resources/ppdv-learning-outcomes
+- mastering-product-development-from-assumptions-to-hypotheses
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Experimentation
-- Metrics and Learning
-- Discovery and Learning
-- Product Validation
-- Continuous Learning
-- Product Discovery
 - Hypothesis Driven Development
-- Decision Making
+- Experimentation
 - Lean Startup
-- Evidence Based Management
+- Product Discovery
+- Product Validation
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---
-In the fast-paced world of product development, assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.
+In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.
 
 ## **Introducing Assumptions to Your Product Development Toolbox**
 
@@ -52,7 +50,7 @@ One of the first and most critical lessons in our course is the introduction of 
 
 ### **The Moment of Realization: We Are Making Assumptions**
 
-The moment when you realize that you’ve been making assumptions, not just one or two, but many, is pivotal. Whether you're developing a new product, discussing its potential future, or creating product backlog items, assumptions are quietly influencing every decision. But here's the question: What kind of assumptions are you making?
+The moment when you realize that you’ve been making assumptions, not just one or two, but many, is pivotal. Whether you're developing a new product, discussing its potential future, or creating [product backlog]({{< ref "/tags/product-backlog" >}}) items, assumptions are quietly influencing every decision. But here's the question: What kind of assumptions are you making?
 
 - **Assumptions in Product Futures:** What do you believe the market will want?
 
@@ -80,7 +78,7 @@ After prioritizing your assumptions, it’s time to take the next step: transfor
 
 ### **Crafting and Testing Hypotheses**
 
-In the course, we place significant emphasis on how to create hypotheses and, more importantly, how to test them. Hypotheses are essentially educated guesses that need to be validated through experimentation.
+In the course, we place significant emphasis on how to create hypotheses and, more importantly, how to test them. Hypotheses are essentially educated guesses that need to be validated through [experimentation]({{< ref "/tags/experimentation" >}}).
 
 - **Example Hypothesis:** "If we add feature X, user engagement will increase by 20%."
 

@@ -37,20 +37,26 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in relation to Scrum, touching on its principles and implications for product development, but it primarily focuses on governance rather than Scrum itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, addressing a common myth about Scrum's flexibility and the necessity of governance in Agile practices. While it touches on Scrum principles, the primary focus is on governance rather than an in-depth exploration of Scrum roles, events, or artifacts. The discussion is relevant but lacks comprehensive detail on core Scrum concepts, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance within organisations and its impact on Scrum practices, which relates to organisational dynamics. However, the primary focus is on Scrum and agile methodologies rather than a comprehensive exploration of systems thinking or organisational physics.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, touching on how Scrum operates within larger organisational and regulatory ecosystems. While it does mention organisational standards and practices, the primary focus is on governance rather than the broader systems thinking principles central to Organisational Physics. The discussion lacks depth in exploring the interplay of organisational dynamics and systems thinking, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Coaching": {
@@ -73,47 +79,53 @@
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-12T05:13:54",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and governance, with no focus on employee engagement or related themes.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for product development, which relates to product management, but the primary focus is on Scrum practices rather than strategic product management.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses governance in the context of Scrum and its implications for product development, which aligns with product management principles. However, it primarily focuses on Scrum methodology rather than broader product management strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-12T05:13:56",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses governance in Scrum and its implications, without a clear focus on Agile leadership roles or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T05:13:57",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses governance in Scrum and its implications, without a clear focus on the Daily Scrum event.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T05:13:58",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:27:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance, which are not related to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and governance, focusing on Agile methodologies rather than system configuration. There are no direct mentions of system configuration tools, practices, or methodologies. While it touches on compliance and regulatory aspects, these are not aligned with the core themes of system configuration, which focuses on the setup and integration of systems for performance. The depth of discussion is also limited to Agile governance, lacking any substantial detail on system configuration topics.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -127,56 +139,71 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its impact on product development, which relates to the delivery of functional software. However, the primary focus is on governance rather than directly on working software itself.",
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, touching on the importance of compliance and internal standards, which are relevant to delivering working software. However, it primarily focuses on governance rather than the characteristics or delivery of functional software itself. While it mentions the need for quality and alignment with business objectives, it does not delve deeply into the core themes of working software or provide specific examples of successful software delivery.",
     "level": "Tertiary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in Scrum and its implications for decision-making within organisations, particularly in relation to compliance and internal guidelines. However, the primary focus is on Scrum practices rather than structured decision-making methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in Scrum, which touches on decision-making aspects related to compliance and internal standards. However, it primarily focuses on debunking myths rather than providing structured methodologies or evidence-based practices for decision-making. The discussion lacks depth in terms of frameworks or empirical evidence, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in Scrum and its implications for self-organisation, but the primary focus is on governance rather than self-organisation itself.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in Scrum, which is tangentially related to self-organisation but primarily focuses on the need for governance structures rather than the principles of self-organisation itself. While it touches on the importance of autonomy and flexibility, it does not delve deeply into fostering a culture of self-organisation or the role of leadership in supporting such teams. The discussion is more about balancing governance with Agile practices rather than promoting self-organisation as a primary focus.",
+    "level": "Ignored"
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-12T05:14:05",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and governance rather than remote working practices or challenges.",
     "level": "Ignored"
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the minimisation of governance and the importance of reducing unnecessary procedures to deliver value, which aligns with Lean principles. However, the primary focus is on Scrum and governance rather than Lean Product Development specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and governance, which are not central to Lean Product Development principles. While it touches on the importance of evaluating policies to eliminate waste, it lacks a direct focus on Lean methodologies, customer feedback, or continuous improvement specific to product development. The discussion is more about governance in Agile contexts rather than Lean principles.",
+    "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in relation to Scrum and how organisational policies can inhibit agility, which aligns with cultural aspects. However, the primary focus is on Scrum practices rather than a deep exploration of organisational culture.",
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses governance in the context of Scrum, touching on how organisational standards and regulatory compliance interact with Agile practices. However, it primarily focuses on governance rather than the cultural aspects that influence Agile methodologies. While there are mentions of the need for a culture of continuous evaluation and adaptation, the overall emphasis is more on governance structures than on the cultural dimensions that support Agile and DevOps practices.",
     "level": "Tertiary"
   },
   "Customer Feedback Loops": {
@@ -208,10 +235,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T05:14:12",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum rather than the Definition of Done.",
     "level": "Ignored"
   },
@@ -244,39 +271,36 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in Scrum and its implications for product development, which relates to strategic considerations in Agile environments. However, the primary focus is on governance rather than a comprehensive strategic approach.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, focusing on how governance can be integrated into Agile practices without compromising agility. It directly addresses strategic alignment by highlighting the importance of governance in achieving compliance and organisational standards, which is a key aspect of strategic planning in Agile environments. The depth of discussion is substantial, covering external and internal governance, challenges, and the concept of 'just enough governance', which aligns well with the category's focus on optimising delivery processes and enhancing team performance.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T05:14:18",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum and Agile practices, without a clear focus on measuring or enhancing innovation capabilities.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T05:14:19",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses Scrum, its governance aspects, and the challenges faced by large organisations in adopting Agile practices, making it a central topic.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Scrum, a specific Agile framework, and addresses governance within that context. It explores the balance of governance in Scrum and its implications for product development, which aligns well with the core themes of Agile frameworks. The discussion is detailed, providing insights into how governance affects the implementation of Scrum in large organisations, thus demonstrating a good depth of analysis. However, while it focuses on Scrum, it does not extensively cover other Agile frameworks or provide a comparative analysis, which slightly limits its overall alignment with the broader category.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T05:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance rather than strategies for scaling agility across an organisation.",
-    "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -298,12 +322,15 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need to minimise governance and challenges policies that inhibit value delivery, which aligns with Lean principles of waste reduction and efficiency. However, the primary focus is on Scrum and governance rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and governance, with no direct mention of Lean Thinking principles or practices. While it touches on concepts like 'just enough governance' and continuous evaluation, these ideas are framed within the context of Agile methodologies rather than Lean principles. The discussion lacks depth in Lean-specific topics such as waste identification, value stream mapping, or Lean tools, leading to a low confidence score for alignment with Lean Thinking.",
+    "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -316,10 +343,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-12T05:14:27",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum and its implications, which deviates from core engineering practices such as clean code, TDD, or CI/CD.",
     "level": "Ignored"
   },
@@ -334,11 +361,14 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T05:14:30",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum, an Agile framework, and its governance aspects, which are central to software development practices.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Scrum, a key Agile framework, and its relationship with governance in software development. It explicitly mentions governance in the context of Scrum and how it affects product development, which aligns well with the Software Development category. The discussion is detailed, addressing both internal and external governance and its implications for organisations, particularly in regulated industries like healthcare. The depth of the discussion is significant, as it explores the challenges faced by large organisations in adopting Agile practices. Overall, the content is focused on software development methodologies and practices, justifying a high confidence score.",
     "level": "Secondary"
   },
   "Engineering Excellence": {
@@ -352,11 +382,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T05:14:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:27:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses governance in Scrum and its implications, but does not focus on throughput or its measurement and optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses governance in Scrum and does not mention throughput as a delivery metric. While it touches on aspects of Agile practices, it does not analyse or visualise throughput, nor does it provide any data or insights related to delivery capacity or performance metrics. The focus is on governance rather than throughput, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,12 +403,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for Agile practices, indicating a major theme related to Agile values, but primarily focuses on Scrum as a framework.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses Scrum and governance, which are specific frameworks and practices rather than the underlying Agile values and principles. While it touches on the importance of flexibility and responsiveness, it does so in the context of governance rather than directly addressing Agile's core values or principles. The discussion lacks depth in exploring Agile's foundational beliefs, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -406,12 +442,15 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in the context of Scrum and Agile practices, touching on the challenges large organisations face in adapting to change. However, the primary focus is on Scrum roles and governance rather than a comprehensive exploration of change management principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and governance, focusing on how governance can coexist with Agile practices. While it touches on the need for adaptability and the importance of aligning governance with Agile values, it does not delve deeply into change management principles or strategies. The discussion is more about governance than about managing change within an organisation, which is the core focus of the Change Management category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -424,12 +463,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in Scrum and its implications for Agile practices, which relates to the principles of empirical process control. However, the primary focus is on governance rather than empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in Scrum, which is tangentially related to empirical process control through the lens of transparency and adaptation. However, it primarily focuses on governance rather than the core principles of empirical process control, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -458,22 +500,16 @@
     "reasoning": "Content heavily discusses Scrum roles and governance, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and governance in the context of Agile practices, which is relevant to software developers, but it also includes broader discussions about organisational governance that may not be directly related to the role of developers.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T05:14:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T16:25:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses governance in Scrum and Agile practices, with no mention of Test First Development or related testing principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and governance, with no direct mention of Test First Development principles or practices. While it touches on Agile methodologies, it does not align with the core themes of Test First Development, such as success criteria, testing practices, or the role of automated testing. The focus is on governance rather than testing, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,29 +568,26 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T05:14:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T09:27:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses governance in Scrum and its implications, but does not focus on Lead Time or its measurement.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T05:14:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance without addressing scaling Agile practices across multiple teams or at an enterprise level.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses governance in Scrum and does not mention Lead Time at all. While it touches on Agile practices, it does not align with the core themes of Lead Time, such as its definition, measurement, or optimisation strategies. The discussion lacks depth regarding Lead Time, focusing instead on governance issues, which are unrelated to the category.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T05:15:00",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses governance in Scrum and its implications for product development, highlighting practical considerations and challenges faced in real-world scenarios, particularly in large organisations. While it primarily focuses on governance, it also touches on the need for adaptability and critical thinking in applying Scrum principles effectively.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of governance within Scrum, highlighting the balance between necessary governance and the agility required for effective product development. It addresses practical problem-solving strategies in the context of Scrum, particularly in regulated environments like healthcare. The discussion on internal and external governance, as well as the challenges faced by large organisations, aligns well with the core themes of pragmatic thinking. However, while it provides substantial detail, it does not delve deeply into specific techniques or case studies, which slightly limits the depth score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -565,15 +598,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum and its implications, but does not focus on deployment frequency or related practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T05:15:03",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Scrum roles and governance within the context of Agile Project Management, addressing myths and the balance of governance in agile practices.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -586,20 +610,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for product development, which relates to Agile principles. However, the primary focus is on Scrum practices rather than a broader Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, which touches on Agile principles and the need for alignment with regulatory and organizational standards. However, while it addresses governance within the context of Scrum, it does not deeply explore broader Agile strategy concepts such as organisational vision alignment or large-scale Agile implementation. The focus is more on governance than on strategic planning or adaptability, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T05:15:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T18:32:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and governance, which are not directly related to Continuous Delivery. While it touches on Agile practices, it does not explore Continuous Delivery principles, automation, or the delivery of incremental improvements. The focus is on governance within Scrum rather than on the Continuous Delivery process itself.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,10 +643,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T05:15:10",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum and its implications, but does not address the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -647,24 +677,6 @@
     "reasoning": "Content primarily discusses governance in Scrum and its implications, rather than focusing on team performance or collaboration strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T05:15:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance, with no mention of AI or its application in Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T05:15:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance, with no focus on Kanban principles or scaling Kanban practices.",
-    "level": "Ignored"
-  },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
     "calculated_at": "2025-02-12T05:15:18",
@@ -676,30 +688,36 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-12T05:15:19",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum and its implications, rather than focusing on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in the context of Scrum and touches on the need to challenge policies and procedures that inhibit value delivery, which aligns with Lean principles of waste reduction and value maximisation. However, the primary focus is on Scrum and governance rather than Lean itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and governance, with a focus on how governance can coexist with Agile practices. While it touches on concepts like 'just enough governance' and the need for continuous evaluation, it does not explicitly address Lean Principles or their core concepts such as waste reduction or value maximisation. The discussion is more centred on governance rather than Lean methodologies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Scrum and governance in the context of Agile practices, making Agile a major theme, but it primarily focuses on governance rather than a comprehensive discussion of Agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, addressing common misconceptions and emphasising the importance of governance within Agile practices. It aligns well with Agile transformation principles by exploring how Scrum can operate effectively within regulatory frameworks, which is a key aspect of organisational agility. The depth of discussion on governance challenges and strategies for maintaining agility while ensuring compliance adds significant value to the topic. However, while it is focused on Scrum, it does not delve deeply into broader Agile transformation methodologies or case studies, which slightly limits its overall alignment.",
+    "level": "Secondary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -712,21 +730,24 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T05:15:25",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses governance in Scrum and its implications, rather than focusing on the Scrum Values themselves.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for organisational practices, which relates to organisational change. However, the primary focus is on Scrum roles and events rather than a comprehensive discussion on organisational change strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in the context of Scrum and its implications for organisational practices, touching on the challenges large organisations face in adopting Agile methodologies. However, it primarily focuses on Scrum and governance rather than broader organisational change strategies or frameworks. While there are mentions of internal governance and the need to challenge outdated policies, the discussion lacks depth in exploring specific organisational change methodologies or the role of leadership in driving change.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -737,31 +758,28 @@
     "reasoning": "Content heavily discusses Scrum governance and practices, with no mention of test automation or related topics.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses governance in the context of Scrum and its impact on product development, making it a major but secondary theme.",
-    "level": "Tertiary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in Scrum and its impact on operational efficiency, but the primary focus is on governance rather than specific operational practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, touching on the need for compliance and internal standards, which aligns with operational practices. However, it primarily focuses on debunking a myth rather than providing detailed strategies or techniques for improving operational efficiency. The depth of discussion on practical applications is limited, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T05:15:31",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses governance in Scrum and its implications, but does not focus on Evidence-Based Management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and governance, focusing on the balance between flexibility and compliance. While it touches on the importance of governance in Agile practices, it does not explicitly mention Evidence-Based Management or its key topics. The discussion lacks depth in empirical decision-making and metrics that are central to EBM, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -773,30 +791,24 @@
     "reasoning": "Content heavily discusses governance in Scrum and Agile practices but does not focus on backlog refinement or its related techniques and best practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in Scrum and its implications in large organisations, which relates to challenges in scaling Scrum, but it is not primarily focused on scaling practices or frameworks.",
-    "level": "Tertiary"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses governance in Scrum and its implications for product development, which relates to the Scrum Master's role in facilitating processes and removing impediments.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, which indirectly touches on the role of the Scrum Master in facilitating Agile practices within regulatory frameworks. However, it does not explicitly focus on the responsibilities or skills of the Scrum Master, nor does it delve deeply into their impact on team dynamics or organisational change. While governance is a relevant topic, the primary focus remains on debunking myths rather than exploring the Scrum Master's role in detail.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T05:15:37",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -811,12 +823,15 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in Scrum and its implications for product development, which relates to technical leadership principles, but it primarily focuses on governance rather than the broader aspects of technical leadership.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, touching on the importance of compliance and internal standards. However, it lacks a direct focus on technical leadership principles, such as mentoring, team dynamics, or agile methodologies in a leadership context. While it mentions governance, it does not delve deeply into how technical leaders can influence these aspects or foster a culture of continuous improvement, which are key themes of technical leadership.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -838,12 +853,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in the context of Scrum and Agile practices, which relates to Agile Planning, but it primarily focuses on governance issues rather than planning methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, addressing how governance can coexist with Agile practices. It mentions the importance of planning and compliance within Scrum, which aligns with Agile Planning principles. However, the focus is more on governance than on Agile Planning methodologies themselves, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -854,7 +872,7 @@
     "reasoning": "Content heavily discusses governance in Scrum and the challenges faced by large organisations, without a clear focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T05:15:46",
     "ai_confidence": 0,
@@ -892,10 +910,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T05:15:51",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses governance in Scrum and its implications, rather than focusing on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -937,28 +955,31 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in the context of Scrum and Agile practices, highlighting the need for balance between governance and value delivery, which aligns with Agile principles. However, the primary focus is on Scrum rather than the broader Agile philosophy.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, which touches on Agile principles but primarily focuses on a specific framework (Scrum) rather than the broader Agile philosophy. While it mentions Agile values and the importance of flexibility, the depth of discussion is more about governance within Scrum rather than the foundational principles of Agile as a whole.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-12T05:16:00",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and governance, which are not directly related to version control practices.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-12T05:16:01",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum rather than Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -982,10 +1003,10 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-12T05:16:05",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and governance rather than market share strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1018,93 +1039,72 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for larger organisations, touching on themes of organisational challenges and the need for adaptability, which are relevant to enterprise agility. However, the primary focus remains on Scrum practices rather than a broader organisational agility context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, highlighting the importance of governance in Agile practices. However, it primarily focuses on team-level practices and does not delve into broader organisational implications or strategies for fostering a culture of agility across the enterprise. While it touches on the need for adaptability and compliance within Scrum, it lacks a comprehensive exploration of enterprise-level agility frameworks or leadership roles, which diminishes its alignment with the category.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need to challenge policies and procedures that inhibit the ability to deliver value, which aligns with Lean principles of minimising waste and maximising value. However, the primary focus is on Scrum and governance, making Lean a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for organisational practices, which relates to adaptability and change management. However, the primary focus is on Scrum roles and governance rather than resilience strategies or change methodologies.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and governance, with no direct mention of Lean principles or methodologies. While it touches on concepts like 'just enough governance' and continuous evaluation, these ideas are framed within an Agile context rather than Lean. The discussion lacks depth regarding Lean practices, tools, or waste reduction, leading to a low confidence score for alignment with the Lean category.",
+    "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T05:12:51",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum and its implications, rather than installation or configuration of tools or software.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T05:12:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance rather than code quality or complexity in software development.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in Scrum and its impact on the ability to deliver value, which relates to flow efficiency. However, the primary focus is on governance rather than directly on flow efficiency principles or techniques.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T05:12:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content heavily discusses governance in Scrum and Agile practices without any mention of AI or automation.",
+    "final_score": 25.0,
+    "reasoning": "The content discusses governance in Scrum, which is tangentially related to flow efficiency but does not focus on optimising throughput or eliminating bottlenecks. While it mentions the need for 'just enough governance' to support Agile practices, it lacks a direct emphasis on flow efficiency principles, metrics, or strategies. The discussion is more about governance structures than about enhancing flow in the value stream.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for product delivery, making it a major but secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, which is relevant to product delivery, particularly in regulated environments. However, it primarily focuses on governance rather than the broader methodologies and practices of product delivery. While it touches on Agile principles, the depth of discussion on product delivery processes is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Scrum roles and governance in the context of product development, making Agile principles a major theme, but it also includes broader discussions on governance that may not be strictly related to Agile product management.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T05:12:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance without a focus on discovery or learning processes.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, which is relevant to Agile Product Management. It touches on the role of governance in Scrum, the importance of compliance, and how to balance governance with Agile principles. However, while it aligns with Agile concepts, it does not delve deeply into product management specifics such as backlog prioritisation or stakeholder engagement, which limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1124,39 +1124,12 @@
     "reasoning": "Content heavily discusses Scrum roles and governance without a clear focus on complexity science or its principles.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in Scrum and the importance of understanding internal and external governance, which relates to accountability. However, the primary focus is on governance rather than transparency and accountability as central themes.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T05:13:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses governance in Scrum and its implications rather than practical techniques or tooling related to Agile and DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T05:13:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance without reference to specific events or presentations.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-12T05:13:09",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum and its implications, but does not focus on market adaptability or related strategies.",
     "level": "Ignored"
   },
@@ -1171,11 +1144,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T05:13:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance, which are not central to DevOps principles.",
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 50,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and governance, discussing Agile methodologies rather than DevOps principles. While it briefly touches on the importance of compliance and governance, it does not delve into core DevOps themes such as automation, shared accountability, or continuous improvement. The mention of Agile practices does not align with the DevOps philosophy, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,23 +1163,17 @@
     "reasoning": "Content heavily discusses Scrum roles and governance, with no specific mention of Azure DevOps.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T05:13:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses governance in Scrum and its implications for product development, without focusing on specific products or literature.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T16:42:02",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for product development, touching on the need for adaptability and minimising unnecessary governance to enhance value delivery, which aligns with business agility principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and governance, which are related to Agile practices but do not directly address the broader principles of business agility. While it touches on the importance of governance in Agile environments, it lacks a comprehensive exploration of business agility concepts such as organisational adaptability, innovation culture, or leadership roles in promoting agility. The focus remains on Scrum's governance rather than the overarching theme of business agility.",
+    "level": "Ignored"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1216,12 +1186,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in Scrum and its impact on delivering value, but the primary focus is on governance rather than value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, highlighting the importance of 'just enough governance' to facilitate value delivery. While it does not explicitly focus on value delivery strategies, it aligns with the core themes of ensuring compliance and quality in product development, which are essential for delivering value to customers. However, the primary focus is on governance rather than direct value delivery practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,12 +1207,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its impact on organisational agility, highlighting the need to challenge policies that inhibit value delivery. However, the primary focus is on Scrum roles and events rather than broader organisational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, highlighting the need for a balance that supports Agile practices while adhering to necessary regulations. It touches on the principles of agility, particularly in regulated environments, and the importance of continuous evaluation and adaptation, which aligns with the core themes of organisational agility. However, the primary focus is on governance rather than broader organisational agility strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
@@ -1250,50 +1226,38 @@
     "reasoning": "Content heavily discusses governance in Scrum and its implications, lacking personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-12T05:13:24",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses governance in Scrum and its implications on team dynamics and organisational processes, highlighting the interplay between human behaviour and structured methodologies in product development.",
-    "level": "Secondary"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for organisational practices, which relates to the interplay between technology and organisational structures. However, the primary focus is on Scrum and governance rather than a broader exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T05:13:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum governance and its implications, lacking a focus on news or reviews related to Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the relationship between Scrum and governance, highlighting how Scrum operates within larger organisational and regulatory ecosystems. It touches on the interplay between governance structures and Agile practices, which aligns with sociotechnical systems. However, while it mentions organisational standards and the need for alignment with business objectives, the primary focus remains on governance rather than a broader exploration of sociotechnical interactions. The depth of discussion on sociotechnical principles is moderate, as it does not extensively cover team dynamics or cultural aspects, leading to a high but not maximum confidence score.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T05:13:28",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses governance in Scrum and its implications, but does not focus on metrics, data utilisation, or learning processes.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T16:42:03",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for product development, which relates to application lifecycle management. However, the primary focus is on Scrum practices rather than a comprehensive discussion of the application lifecycle stages or management methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in the context of Scrum, which is related to Agile methodologies rather than directly addressing the full scope of Application Lifecycle Management. While it touches on aspects of governance and compliance, it does not cover the entire lifecycle of software applications or the specific stages outlined in the ALM category. The focus is primarily on Scrum and Agile practices, making it a secondary topic rather than a primary focus on ALM.",
+    "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1315,30 +1279,39 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T17:05:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses governance in Scrum and the need for leaders to challenge outdated policies and procedures, which relates to leadership practices in fostering organisational agility. However, the primary focus is on Scrum and governance rather than leadership itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in Scrum and the challenges large organisations face in adopting agile practices, which indirectly touches on leadership's role in challenging the status quo and driving cultural change. However, the primary focus is on governance rather than leadership practices, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T17:05:35",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Scrum principles, governance, and the challenges of implementing Scrum in large organisations, aligning closely with the themes of Agile practices and continuous improvement.",
+    "final_score": 62.0,
+    "reasoning": "The content discusses the balance between governance and Scrum, touching on themes of collaboration and decision-making within Agile frameworks. However, it primarily focuses on governance rather than the broader social technologies aspect, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T17:05:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses governance in the context of Scrum and its implications for product development, which aligns with the Agile Product Operating Model, but it primarily focuses on Scrum practices rather than a broader discussion of the Agile Product Operating Model.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Scrum and its relationship with governance, which is a specific agile framework rather than the broader Agile Product Operating Model. While it touches on themes of governance and compliance relevant to product development, it does not explicitly address the core principles or practices of the Agile Product Operating Model. The focus remains on Scrum, making it a secondary topic rather than a primary discussion on APOM.",
+    "level": "Ignored"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1358,22 +1331,431 @@
     "reasoning": "Content heavily discusses Scrum roles and governance, with no clear focus on platform engineering or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T17:05:41",
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and governance, which are not central to the One Engineering System framework.",
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and governance, which are unrelated to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:48:34",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and governance, with no mention of AI or its application in Agile or DevOps.",
     "level": "Ignored"
   },
   "Scrum": {
     "category": "Scrum",
-    "calculated_at": "2025-02-17T17:05:43",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
     "final_score": 68.0,
-    "reasoning": "The content discusses governance in the context of Scrum, addressing common myths and the balance of governance within Scrum practices. While it primarily focuses on governance, it relates closely to Scrum principles, making it a significant theme.",
+    "reasoning": "The content discusses governance in the context of Scrum, addressing common myths and the balance between governance and agility. It mentions Scrum principles and how they relate to external and internal governance, which aligns with Scrum's emphasis on minimising unnecessary processes. However, while it touches on Scrum concepts, the depth of discussion is more focused on governance rather than the core Scrum framework, roles, or events, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in the context of Scrum but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on compliance and regulatory aspects, which are relevant to the Shift-Left approach, the primary focus is on governance within Scrum rather than integrating testing, security, or compliance earlier in the development lifecycle. The discussion lacks depth regarding the proactive identification of issues typical of Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in Scrum, touching on the need for continuous evaluation and adaptation of policies, which aligns with Continuous Improvement principles. However, the primary focus is on governance rather than Continuous Improvement itself, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in Scrum, which is tangentially related to Common Goals but does not explicitly address shared objectives or alignment within teams. While it touches on the importance of governance structures and their role in Agile practices, it lacks a direct focus on how these relate to common goals or strategic alignment. The discussion is more about governance than about aligning team efforts with overarching strategic objectives.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses governance in Scrum, touching on the importance of compliance and internal standards, which indirectly relates to competence. However, it primarily focuses on governance rather than the continuous development of skills or the core principles of competence. The depth of discussion on governance and its relationship to Agile practices is present, but it lacks a strong emphasis on competence as a primary theme.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and its governance aspects, which are not directly related to the One Engineering System framework. While it touches on the importance of governance in Agile practices, it does not discuss the principles, components, or implementation of 1ES, nor does it provide insights into integration across teams or methodologies. Therefore, the alignment with the category is minimal.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:25:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum governance and the balance between flexibility and compliance, which does not directly address the concept of Agentic Agility. While it touches on themes of adaptability and the importance of governance, it lacks explicit discussions on intentional shaping of outcomes, the distinction between human and AI capabilities, or the transformative capacity of individuals and systems. Therefore, it does not align well with the core themes of Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T09:26:52",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the relationship between Scrum and governance, which is a critical aspect of Agile product development. It discusses how governance can coexist with Agile methodologies, particularly in regulated industries, aligning well with the principles of iterative learning and continuous improvement. The depth of discussion is substantial, covering external and internal governance, challenges faced by large organisations, and strategies for maintaining agility while ensuring compliance. The content does not merely mention product development but delves into how governance impacts the product development lifecycle, thus justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T09:26:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and its relationship with governance, which is not aligned with the principles of Open Space Agile. There are no direct mentions of Open Space Agile or its core themes such as psychological safety, co-creation, or iterative dialogue. While it discusses Agile practices, it does so within the context of traditional Scrum methodologies, which do not reflect the collaborative and emergent nature of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T09:26:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Scrum and its governance aspects, discussing the balance between flexibility and compliance. While it touches on the importance of governance within Agile practices, it does not explicitly mention Agnostic Agile or its principles. The discussion is more about the mechanics of Scrum rather than a broader exploration of Agnostic Agile's context-driven approach. Therefore, while there is some alignment with the themes of Agnostic Agile, the primary focus remains on Scrum, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T09:27:01",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and governance, discussing the balance between flexibility and compliance. While it touches on the importance of governance in Agile practices, it does not delve into scaling methodologies, frameworks, or the complexities of coordinating multiple teams, which are central to the 'Scaling' category. The discussion lacks depth in terms of strategies for cross-team collaboration or managing dependencies, which are key aspects of scaling Agile practices.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T09:27:04",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum governance and its relationship with Agile practices, which is not aligned with the principles of Cell Structure Design. There are no direct mentions of the Beta Codex or the concept of autonomous cells. While it touches on themes of flexibility and compliance, these are framed within traditional governance structures rather than the decentralised, network-based approach of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T09:27:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Scrum and governance, discussing the balance between flexibility and compliance within Agile practices. It does not mention Liberating Structures or their techniques, nor does it align with the core themes of enhancing participation or collaboration through facilitation methods. The discussion is centred around governance in Scrum, which is outside the scope of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T09:27:11",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses governance within the Scrum framework, focusing on the balance between flexibility and compliance. While it touches on the importance of governance in product development, it does not explicitly address Time to Market or its associated metrics, strategies, or impacts. The discussion is more about governance structures rather than optimising processes for quicker delivery of value, which is the core of the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T09:27:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and its relationship with governance, focusing on debunking myths about governance in Agile practices. While it touches on organisational standards and compliance, it does not explicitly address the concept of treating the company as a product or the broader implications of CaaP. The discussion lacks depth in exploring customer-centric strategies or organisational design, which are key aspects of the CaaP framework. Therefore, the content does not align well with the category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T09:27:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Scrum and governance, with no direct mention of GitHub or its services. While it touches on Agile principles, it does not align with GitHub's functionalities or best practices. The discussion lacks depth regarding GitHub, making it irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T09:27:21",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the relationship between Scrum and governance, discussing the importance of compliance and internal standards. While it touches on the need for flexibility and innovation within governance, it does not explicitly address the concept of Unrealised Value or its indicators, strategies, or case studies. The discussion lacks depth regarding untapped opportunities or potential improvements, which are central to the category of Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T09:27:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses governance in Scrum and does not directly address Current Value or its measurement. While it touches on the importance of compliance and internal standards, it lacks explicit references to metrics or indicators that assess the real-time value delivered by a product or service. The discussion is more focused on governance structures rather than the tangible benefits realised through Current Value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T09:27:27",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on governance within Scrum, which is relevant to Hybrid Agile discussions, but it does not critically examine the integration of traditional and agile methodologies. The focus is more on debunking myths about Scrum rather than exploring the challenges of Hybrid Agile. While it mentions governance, it lacks a deep analysis of the implications and dysfunctions associated with Hybrid Agile frameworks, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T09:27:31",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses governance within the context of Scrum, which is a specific Agile methodology. While it touches on project management principles such as compliance and organizational standards, the primary focus is on Scrum roles and practices rather than broader project management strategies. The discussion of governance is relevant but does not encompass the full scope of project management methodologies or lifecycle phases, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Principle": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 76.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 29,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "While the content primarily focuses on governance rather than core Agile principles, it does explore a principle that influences Agile practices—specifically, the balance of governance needed to maintain Agile methodologies like Scrum. It discusses 'just enough governance' as a principle that can guide decision-making and behavior in Agile teams. The content aligns reasonably well with principles like continuous improvement and value delivery, but it does not deeply engage with other key principles of Agile, Lean, or DevOps. The discussion lacks a primary focus on a specific principle and instead centers around governance, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses governance in Scrum but does not mention any specific tools or techniques related to Agile methodologies. While it touches upon the need for governance and challenges faced by Scrum teams, the primary focus is on the myth of governance in Scrum, rather than on tools that support Agile practices. The mention of governance mechanisms indicates some relevance, but the lack of detailed discussion on tools leads to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 50,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "While the content touches upon governance in the context of Scrum, it primarily focuses on the practical aspects of integrating governance with Agile practices rather than delving into the underlying values that influence team dynamics and decision-making. The discussion on 'just enough governance' hints at values like flexibility and compliance, but these are not examined as foundational beliefs guiding behavior within the team. The content lacks a deep exploration of Agile or Scrum values, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 30.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "While the content discusses governance in the context of Scrum, it focuses heavily on specific practices and procedural aspects of Agile methodologies rather than exploring the philosophical foundations or 'why' behind these practices. There are some mentions of broader aspects like the need for governance in Agile environments, but the primary focus is on addressing myths related to Scrum governance rather than philosophical discussions on decision-making or cultural dynamics.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content focuses heavily on the governance aspect of Scrum, which is often associated with Agile practices. It discusses principles and standards within the Agile discipline, highlighting how governance can coexist with Agile methodologies. However, the main emphasis remains on the practical execution of Scrum rather than a deep exploration of the overall discipline and its evolution. It aligns conceptually with discipline through discussions of internal and external governance in Agile contexts and the importance of continuous improvement, but lacks a broader examination of the discipline of Agile as a whole.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content addresses governance within Scrum, it does not focus on artifacts themselves or their roles directly. The mention of internal and external governance does provide some context for how Scrum operates, but it does not specifically discuss artifacts like the Product Backlog or Sprint Backlog which are critical to the artifact classification. The discussion mainly revolves around governance principles rather than the structure or purpose of Scrum artifacts.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content discusses aspects of Scrum and governance but does not mention or align with the specific principles of observability. It does not provide insights into measuring or understanding internal states of systems based on generated data, nor does it discuss metrics, logs, traces, or tools relevant to observability. Governance and Agile practices are the primary focus, placing observability as an unsupported theme in this context.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 35.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily explores the concept of governance in Scrum, which is indirectly related to practice but does not deeply delve into specific actionable techniques or habits that would enhance team performance. Although it discusses some practical implications of governance in Agile and Scrum, it does so more in a philosophical framework rather than providing clear, concrete practices that teams can implement. The mention of 'just enough governance' hints at a practical approach, but overall, the content focuses on governance rather than specific practices that improve collaboration and value delivery.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 65.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of governance within Scrum, touching on its importance and the balance needed between flexibility and compliance. While it provides insight into how governance works within the Scrum framework and discusses procedural approaches to maintain agility, it does not dive deeply into the specific structured, step-by-step methods of Scrum itself. It mentions the need for systems and practices but focuses more on the theoretical aspects rather than specific methodologies, thus aligning moderately with the 'Method' category.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Scrum and its interaction with governance, but it does not focus on conceptual models or frameworks relevant to the 'Model' category. It primarily addresses misconceptions about governance in Scrum rather than exploring models that influence decision-making in Agile contexts. As such, while there are tangential references to Agile practices, they do not center on any specific model or framework that enhances understanding or organizational agility.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:38:40",
+    "ai_confidence": 76.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content primarily discusses the relationship between Scrum and governance, addressing a common misconception about Scrum's flexibility and its necessity for governance in various contexts. Although it goes into detail about governance, this could be seen as related to framework implementation rather than a direct discussion on the framework of Scrum itself. The article aligns well conceptually with the discussions on adapting frameworks but lacks deep discussion on various Agile frameworks or systematic comparison. The depth of the discussion is quite substantial, making it robust within the context of governance in Scrum specifically.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:38:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 5,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Scrum's relationship with governance, highlighting key tenets such as 'just enough governance' to support Agile practices. It also addresses challenges and practices involving compliance and organizational standards, aligning with the framework of actionable guiding principles in Agile methodologies. However, while discussing these tenets, it does not provide in-depth, specific actionable rules that directly fall under the strict definition of 'tenets,' leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Capability": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:38:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the myth of governance in Scrum but mainly focuses on roles and frameworks within Scrum rather than directly addressing capabilities. While it touches on the importance of governance in product development, it does not convey enduring competencies or strategies for developing capabilities within teams. The content's emphasis is more on the practical aspects of governance rather than cultivating systemic capabilities, leading to a lower alignment and depth of discussion regarding capability as defined in the category.",
+    "level": "Ignored"
   }
 }

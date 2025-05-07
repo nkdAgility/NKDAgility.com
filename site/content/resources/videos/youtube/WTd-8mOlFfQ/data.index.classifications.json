@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T20:51:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and their responsibilities, which aligns closely with the Scrum framework and its principles.",
-    "level": "Secondary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is somewhat related to team dynamics and effectiveness. However, it lacks a direct discussion on broader social technologies or frameworks that promote collaboration and decision-making. While it touches on the importance of maintaining focus on team effectiveness, it does not delve deeply into methodologies or practices that enhance collective intelligence or transparency within organisations. Therefore, the confidence score reflects a low alignment with the core themes of the Social Technologies category.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:51:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters within Agile methodologies, discussing common mistakes and responsibilities. While it touches on team effectiveness, it does not engage with DevOps principles, practices, or cultural shifts. The discussion is centred around Scrum, which is a specific framework rather than the broader DevOps philosophy.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -64,12 +70,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T20:51:32",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master and highlights common mistakes related to their responsibilities, making it a major but secondary theme within the broader context of Scrum principles.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content briefly mentions the role of the Scrum Master and highlights a common mistake related to their responsibilities. However, it lacks a comprehensive exploration of Scrum principles, roles, or practices, which limits its depth and alignment with the core themes of Professional Scrum.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -82,29 +91,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:51:34",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, specifically the mistakes Scrum Masters make, without addressing Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T20:51:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T20:51:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and common mistakes they make, focusing on administrative tasks rather than evidence-based management practices. There are no direct mentions of empirical decision-making or metrics related to value delivery, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,11 +112,14 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T20:51:39",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 55.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters, which is a significant aspect of the Scrum framework, but it primarily focuses on common mistakes rather than a broader exploration of Agile frameworks.",
+    "final_score": 55.0,
+    "reasoning": "The content discusses the role of Scrum Masters, which is a specific aspect of the Scrum framework, thus directly mentioning an Agile framework. It aligns with the core themes of Agile frameworks by addressing the responsibilities and focus areas of Scrum Masters, contributing to team effectiveness. However, the discussion lacks depth regarding broader Agile principles or comparative analysis with other frameworks, which limits its overall confidence score.",
     "level": "Tertiary"
   },
   "Revenue per Employee": {
@@ -136,10 +133,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T20:51:41",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of Scrum Masters and their common mistakes, without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
@@ -150,15 +147,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of Scrum Masters and common mistakes, which does not align with trend analysis in Agile, DevOps, or business agility.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T20:51:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities without reference to scaling Agile practices across multiple teams or at an enterprise level.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -199,12 +187,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T20:51:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their impact on team effectiveness, which is a significant aspect of team performance, but it primarily focuses on common mistakes rather than broader strategies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of the Scrum Master and highlights the importance of focusing on team effectiveness rather than administrative tasks. While it does mention team performance indirectly, it lacks detailed exploration of strategies or methodologies for enhancing team dynamics or collaboration, which are key aspects of the 'Team Performance' category.",
+    "level": "Secondary"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -226,20 +217,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T20:51:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters, which is related to Agile methodologies and team effectiveness in the context of product delivery, but it primarily focuses on common mistakes rather than the broader aspects of product delivery.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T20:51:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the role of Scrum Masters, which is related to Agile methodologies in product delivery. However, it primarily focuses on common mistakes rather than providing a comprehensive discussion on product delivery practices. The mention of team effectiveness aligns somewhat with the category, but the lack of depth and specific focus on product delivery methodologies limits the overall confidence score.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -251,15 +236,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T20:52:01",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and their impact on team effectiveness, highlighting the importance of focusing on team dynamics rather than administrative tasks.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T20:52:02",
@@ -268,15 +244,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T20:52:04",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master within the context of Agile Project Management, highlighting common mistakes and the focus on team effectiveness.",
-    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +263,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T20:52:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and their responsibilities, but does not focus on transparency or accountability as primary themes.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T20:52:08",
@@ -312,15 +270,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities without a focus on release processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:52:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -343,11 +292,14 @@
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T20:52:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their focus on team effectiveness, which relates to technical leadership principles, but it primarily addresses common mistakes rather than providing a comprehensive discussion on technical leadership.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of Scrum Masters and highlights common mistakes, particularly the issue of becoming overly involved in administrative tasks. While it touches on the responsibilities of a Scrum Master, which is related to technical leadership, it lacks a broader discussion on mentoring, coaching, or fostering team dynamics. The focus is more on individual pitfalls rather than on guiding teams or implementing agile best practices, which diminishes its alignment with the core themes of technical leadership.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
@@ -361,12 +313,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:52:18",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master and common mistakes associated with it, focusing on their responsibilities and the importance of team effectiveness.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the role of Scrum Masters, particularly focusing on common mistakes they make, such as falling into administrative tasks. It aligns well with the core themes of the category by addressing the responsibilities and the importance of maintaining the Scrum Master's focus on team effectiveness. The depth of discussion is substantial, providing insights into the pitfalls and the essence of the Scrum Master's role, which enhances its relevance to the category.",
+    "level": "Primary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -379,10 +334,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T20:52:20",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities rather than Agile values and principles.",
     "level": "Ignored"
   },
@@ -397,11 +352,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:52:22",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of Scrum Masters, focusing on common mistakes related to administrative tasks. It does not mention Test First Development or its principles, nor does it align with the core themes of success criteria, testing practices, or collaboration in software development.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -424,10 +382,10 @@
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-17T20:52:25",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of Scrum Masters and their administrative tasks, which are not central to organisational culture.",
     "level": "Ignored"
   },
@@ -460,21 +418,24 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T20:52:31",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities, with no focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T20:52:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of Scrum Masters, which is a significant aspect of Agile transformation, but it primarily focuses on common mistakes rather than broader Agile transformation strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and common mistakes they make, which is relevant to Agile practices. However, it lacks a broader discussion on Agile transformation strategies, methodologies, or change management. While it touches on the responsibilities of Scrum Masters, it does not delve deeply into the principles of Agile transformation or organisational agility, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -496,30 +457,12 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T20:52:44",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of Scrum Masters and their responsibilities, rather than focusing on Scrum Values.",
     "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T20:52:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T20:52:48",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of Scrum Masters in relation to Jira, which is a tool relevant to Agile practices. However, the primary focus is on the mistakes made by Scrum Masters rather than a comprehensive exploration of practical techniques or tooling.",
-    "level": "Tertiary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -548,15 +491,6 @@
     "reasoning": "Content heavily discusses Scrum roles and responsibilities without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T20:52:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and common mistakes, without reference to events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
     "calculated_at": "2025-02-17T20:52:54",
@@ -577,21 +511,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T20:52:56",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master and their responsibilities, highlighting the importance of focusing on team effectiveness rather than administrative tasks.",
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master, highlighting common mistakes and the importance of focusing on team effectiveness rather than administrative tasks. It aligns well with the themes of roles and responsibilities within a Scrum Team, as well as the dynamics of team collaboration. However, while it provides valuable insights, it does not delve deeply into broader team dynamics or practices, which slightly limits its depth.",
     "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T20:52:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities at the team level, without addressing scaling agility or organisational practices.",
-    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -613,11 +541,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:53:01",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is not directly related to Continuous Delivery. While it touches on Agile principles, it does not discuss Continuous Delivery practices, automation, or the delivery of software in reliable cycles, which are key aspects of the category.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -649,23 +580,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T20:53:09",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of the Scrum Master and their impact on team effectiveness, which relates to team collaboration, but it primarily focuses on individual responsibilities rather than broader team dynamics or collaboration techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of Scrum Masters and the importance of not falling into administrative tasks, which indirectly relates to team collaboration. However, it primarily focuses on individual responsibilities rather than enhancing team dynamics or collaboration techniques. The mention of fostering team effectiveness aligns with the category, but the overall depth and focus on collaboration are limited.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T20:53:11",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of Scrum Masters and common mistakes, without a clear focus on the Daily Scrum event.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T20:53:12",
     "ai_confidence": 0,
@@ -683,31 +617,28 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T20:53:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-17T20:53:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their impact on team effectiveness, which relates to self-organisation, but it primarily focuses on common mistakes rather than exploring self-organisation principles or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of Scrum Masters and the pitfalls of becoming overly involved in administrative tasks, which indirectly touches on self-organisation. However, it primarily focuses on the responsibilities of Scrum Masters rather than exploring self-organisation principles or practices in depth. The mention of fostering team effectiveness aligns with self-organisation, but the overall discussion lacks a strong emphasis on the core themes of autonomy and team ownership.",
     "level": "Tertiary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:53:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and their common mistakes, which is more focused on Scrum practices rather than the Agile Product Operating Model as a whole.",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is more aligned with Scrum practices than the Agile Product Operating Model. While it touches on agile principles, it does not discuss the broader themes of product management or the transition to a product-oriented mindset, which are central to the APOM. Therefore, the confidence score reflects a low alignment with the category.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -739,10 +670,10 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T20:53:24",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities, which are not central to the themes of systems thinking or organisational dynamics.",
     "level": "Ignored"
   },
@@ -775,10 +706,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T20:53:31",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities rather than metrics or learning.",
     "level": "Ignored"
   },
@@ -809,15 +740,6 @@
     "reasoning": "Content heavily discusses Scrum roles and responsibilities rather than mentoring techniques or guidance.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T20:53:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities without any mention of AI or automation.",
-    "level": "Ignored"
-  },
   "Sensemaking": {
     "category": "Sensemaking",
     "calculated_at": "2025-02-17T20:53:39",
@@ -838,11 +760,14 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T20:53:42",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and their focus on team effectiveness, which relates to operational practices, but it primarily addresses common mistakes rather than providing techniques or strategies for enhancing operational efficiency.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of Scrum Masters and highlights the common mistake of becoming overly involved in administrative tasks, which detracts from their primary focus on team effectiveness. While it touches on operational practices within the Agile framework, the discussion is more about individual roles and responsibilities rather than broader operational efficiency techniques or strategies. Therefore, it has some relevance but lacks depth and direct focus on operational practices.",
     "level": "Tertiary"
   },
   "Agile Philosophy": {
@@ -944,15 +869,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T20:53:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and common mistakes, without addressing scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
     "calculated_at": "2025-02-17T20:53:58",
@@ -960,15 +876,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T20:54:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities rather than specific products or literature.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,20 +898,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T20:54:04",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters and highlights practical issues they face, which aligns with pragmatic thinking in Agile contexts, but it is primarily focused on common mistakes rather than broader problem-solving strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses common mistakes Scrum Masters make, particularly the issue of becoming overly involved in administrative tasks, which detracts from their primary role. This aligns with pragmatic thinking by highlighting practical problem-solving strategies and the importance of maintaining focus on team effectiveness. However, while it touches on relevant themes, the discussion lacks depth in exploring broader pragmatic approaches or real-world applications beyond the specific mistake mentioned.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T20:54:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and responsibilities, with no focus on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T11:11:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. There are no direct mentions of Lead Time or its importance as an observability metric. The discussion does not align with the core themes of Lead Time, such as measuring efficiency or optimising workflows. The depth of discussion is also minimal, as it does not provide any techniques or strategies related to Lead Time. Overall, the content is largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1045,10 +958,10 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-17T20:54:10",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -1063,12 +976,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T20:54:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of Scrum Masters within the Agile framework, which is a significant aspect of software development practices, but it primarily focuses on common mistakes rather than broader software development methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters within the Agile framework, focusing on common mistakes and responsibilities. While it does not delve deeply into software development methodologies or practices, it aligns with Agile principles and the importance of effective team dynamics, which are core to software development. The discussion is somewhat detailed but lacks extensive exploration of broader software engineering practices.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1115,15 +1031,6 @@
     "reasoning": "Content heavily discusses the role of Scrum Masters and their responsibilities, rather than focusing on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T20:54:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters rather than software developers, focusing on their responsibilities and common mistakes.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T20:54:21",
@@ -1144,10 +1051,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T20:54:23",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -1158,15 +1065,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and mistakes of Scrum Masters, with no focus on the responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T20:54:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses common mistakes made by Scrum Masters, focusing on roles and responsibilities rather than industry news or reviews.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1216,10 +1114,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T20:54:35",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities rather than team motivation strategies.",
     "level": "Ignored"
   },
@@ -1243,21 +1141,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T20:54:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:11:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the role of Scrum Masters and their responsibilities, rather than focusing on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and common mistakes they make, particularly focusing on administrative tasks. There are no direct mentions of throughput as a delivery metric, nor does it explore any of the key topics related to throughput, such as measuring delivery capacity or visualising throughput. The discussion is more about the responsibilities of Scrum Masters rather than analysing or interpreting throughput, leading to a very low confidence score in this category.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:54:39",
-    "ai_confidence": 80,
-    "non_ai_confidence": 50,
-    "final_score": 77.0,
-    "reasoning": "Content primarily discusses the role of the Scrum Master and common mistakes associated with it, which aligns closely with Scrum principles.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1270,11 +1162,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T20:54:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:11:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and common mistakes they make, focusing on administrative tasks rather than system configuration. There are no direct mentions of system configuration, and the themes of the content do not align with the core topics outlined for this category. The depth of discussion is also minimal regarding system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,30 +1190,21 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T20:54:51",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the role of the Scrum Master, which is a significant aspect of Scrum practices, but does not primarily focus on product development.",
-    "level": "Tertiary"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T20:54:52",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and responsibilities rather than organisational change strategies or methodologies.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T20:54:53",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of Scrum Masters and their responsibilities, without addressing the Definition of Done.",
     "level": "Ignored"
   },
@@ -1351,10 +1237,10 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T20:54:58",
+    "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of Scrum Masters and their responsibilities, which is more focused on specific Scrum practices rather than broader organisational agility strategies.",
     "level": "Ignored"
   },
@@ -1374,6 +1260,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:54:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:54:49",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 50,
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of the Scrum Master, which is a key aspect of the Scrum framework. It highlights a common mistake related to the Scrum Master's responsibilities, aligning with the principles of team effectiveness and self-organisation. However, the discussion is somewhat limited in scope, focusing primarily on one aspect of the role without delving into other Scrum events or artifacts, which affects the overall depth of discussion.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and common mistakes they make, focusing on administrative tasks rather than integrating testing, security, or compliance early in the software development lifecycle. There are no direct mentions of the Shift-Left Strategy, and the themes do not align with its principles or benefits.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. While it touches on the importance of team effectiveness, it does not explicitly discuss Continuous Improvement principles or strategies. The alignment with Continuous Improvement is minimal, as the content lacks depth in exploring empirical evidence, data-driven decision-making, or techniques for fostering a culture of experimentation and learning.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the mistakes Scrum Masters make, particularly regarding administrative tasks, rather than discussing Common Goals. While it touches on the importance of a Scrum Master's role in fostering team effectiveness, it lacks a direct discussion on aligning strategy with execution or shared objectives, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of a Scrum Master and highlights the importance of focusing on team effectiveness rather than getting bogged down in administrative tasks. While it touches on the need for competence in fulfilling the Scrum Master's role, it primarily focuses on common mistakes rather than a deep exploration of competence as a foundational principle. The discussion lacks explicit references to continuous learning or skill development, which are key aspects of the competence category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T19:19:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is not aligned with the principles of the One Engineering System. There are no direct mentions of 1ES, and the discussion is centred around Agile practices rather than the integration and standardisation of engineering processes.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. While it touches on the importance of maintaining focus on team effectiveness, it does not explicitly discuss Agentic Agility or its principles. The discussion lacks depth and does not differentiate between human and AI capabilities, nor does it engage with the intentional shaping of outcomes in a meaningful way.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:10:18",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and common mistakes they make, which is relevant to Agile methodologies. However, it lacks a broader discussion on product development principles, customer feedback integration, or iterative processes. While it touches on the importance of team effectiveness, it does not delve deeply into the product development lifecycle or strategies for aligning product strategy with business objectives. Therefore, while there is some alignment with the category, it is not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:10:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is more aligned with traditional Scrum practices rather than Open Space Agile principles. There are no direct mentions of Open Space Agile or its core themes such as psychological safety, co-creation, or iterative dialogue. The discussion lacks depth regarding Open Space Agile methodologies, making it clear that the content does not align with the category's focus.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:10:25",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is heavily centred around the Scrum framework. While it touches on the responsibilities of a Scrum Master, it does not engage with the principles of Agnostic Agile or discuss the adaptability of agile practices based on context. There are no direct mentions of Agnostic Agile, nor does it explore the ethical considerations or critical thinking aspects that are central to the Agnostic Agile philosophy. Overall, the content lacks the necessary depth and alignment with the core themes of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:10:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. While it touches on the importance of team effectiveness, it does not discuss scaling methodologies, frameworks, or strategies relevant to the Scaling category. The content lacks direct mentions of scaling practices and does not provide depth in terms of cross-team collaboration or alignment with business goals, which are key aspects of the Scaling category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:10:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. There are no direct mentions of Cell Structure Design or its principles, and the discussion does not align with the core themes of decentralised organisational structures or autonomous cells. The depth of discussion is limited to Scrum practices, which are unrelated to the specified category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:10:37",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. While it touches on team effectiveness, it does not explicitly discuss Liberating Structures or their principles, techniques, or applications. The discussion is more aligned with traditional Scrum practices rather than the facilitation techniques that promote inclusive engagement and collaboration, which are central to Liberating Structures. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:10:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. There are no direct mentions of Time to Market, and while there is a brief discussion about team effectiveness, it does not align with the core themes of optimising processes for quicker delivery of value. The depth of discussion is limited to the responsibilities of Scrum Masters, which does not contribute to understanding or improving Time to Market.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:10:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, which is more about individual responsibilities within Agile teams rather than discussing the organisation as a product. There are no direct mentions of CaaP principles, and the discussion lacks alignment with the core themes of customer-centric strategies or organisational design. The depth of discussion is limited to practical advice for Scrum Masters, which does not contribute to the understanding of CaaP.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:10:46",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of Scrum Masters within Agile methodologies, focusing on common mistakes and administrative tasks. It does not mention GitHub or its functionalities, nor does it align with the core themes of GitHub services, tools, or best practices. The discussion is centred around Scrum and Agile principles without any reference to GitHub, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:10:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. There are no direct mentions of Unrealised Value or its related concepts. While there is a brief discussion on maintaining focus on team effectiveness, it does not explore potential improvements or innovations that could lead to capturing unrealised value. The content lacks depth in discussing indicators or strategies related to unrealised value, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:10:53",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. There are no direct mentions of Current Value or its importance in Evidence-Based Management. The discussion does not align with the core themes of Current Value, such as metrics, customer satisfaction, or decision-making. The depth of discussion is limited to practical advice for Scrum Masters, lacking any analysis or measurement of Current Value.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:10:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly regarding administrative tasks. While it touches on the responsibilities of a Scrum Master, it does not explicitly discuss Hybrid Agile or its challenges. The mention of organisational pressures hints at potential conflicts in expectations, but this is not explored in depth. Overall, the content lacks a critical examination of Hybrid Agile, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:11:00",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters within the Agile framework, discussing specific mistakes they make, particularly around administrative tasks. While it touches on project management principles indirectly, such as team effectiveness and role clarity, it lacks a broader discussion of project management methodologies, lifecycle phases, or tools. The emphasis is on Scrum-specific roles and practices, which does not align with the wider project management category as defined. Therefore, while there are relevant mentions, the overall depth and alignment with core project management themes are limited.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 35.0,
+    "ai_mentions": 7,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses common mistakes made by Scrum Masters, specifically focusing on the pitfalls of taking on administrative roles rather than fostering team effectiveness. While it highlights the importance of the Scrum Master's role, it does not explicitly discuss actionable principles that guide decisions or team behaviours, such as self-management, adaptability, or customer collaboration. The discussion is more about individual responsibilities rather than the broader principles guiding Agile practices. Although the content aligns somewhat with the concept of respecting roles and avoiding unnecessary duties, it primarily hovers on operational advice rather than the foundational principles of Agile.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the roles and responsibilities of Scrum Masters, particularly the pitfalls of taking on administrative tasks. Although it briefly mentions JIRA in the context of administrative duties, the focus is not on tools, but rather on Scrum Master practices and the importance of maintaining the right role. The discussion lacks depth regarding the functionality or integration of tools within Agile practices, leading to a low alignment and depth score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the role of a Scrum Master and highlights the importance of focusing on team effectiveness rather than administrative duties. However, it does not explicitly mention any values such as Scrum values or Agile values. The alignment with the category is limited, as the discussion leans more towards practical advice and common mistakes without connecting to underlying beliefs or principles of value-driven behaviour.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses common mistakes made by Scrum Masters, focusing on specific responsibilities and tasks, especially concerning administrative duties. There is no exploration of the philosophical underpinnings of Scrum or Agile practices. The discussion lacks a foundational exploration of why Scrum Masters should avoid these pitfalls from a philosophical perspective, thereby failing to establish alignment with the category of Philosophy. The references to Scrum and Agile are procedural rather than philosophical, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 53.0,
+    "ai_mentions": 2,
+    "ai_alignment": 60.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 53.0,
+    "reasoning": "The content discusses the role of a Scrum Master and addresses common mistakes, such as taking on administrative duties instead of focusing on facilitating the team's effectiveness. While it mentions aspects of the Agile discipline, including the responsibilities of Scrum Masters, the primary focus is on practical pitfalls rather than a systemic overview of the discipline itself. The discussion aligns moderately with core themes, but lacks depth in exploring principles, methodologies, or the maturation of Agile discipline as a whole.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 18.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 8.0,
+    "non_ai_confidence": null,
+    "final_score": 18.0,
+    "reasoning": "The content primarily focuses on common mistakes made by Scrum Masters, specifically around administrative tasks and the role of a Scrum Master. While there may be implicit references to the Scrum process, there are no direct mentions or discussions about artifacts as defined in the category. The themes of transparency and inspection visible in artifacts are not explored, and the content does not provide details on specific artifacts or their management. As such, the content provides very minimal alignment with the category of 'Artifact'.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 5.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on the role of Scrum Masters and common mistakes they make, particularly around administrative tasks. While it discusses team effectiveness, it does not mention observability, metrics, logs, or any related tool or principle. The discussion is not centered on the internal states of a system or measuring work flows, therefore it lacks significant alignment with the observability category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the role of Scrum Masters and the common mistakes they make, specifically focusing on avoiding administrative tasks. While this touches on practices related to team effectiveness and collaboration, it doesn't delve into specific techniques or methods that Scrum Masters can employ to improve practices, nor does it provide detailed actionable insights that align directly with the key topics listed under the 'Practice' category. It primarily offers advice and warnings, thus lacking the depth required for a high confidence score in this category.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses common mistakes made by Scrum Masters and emphasizes the importance of adhering to their core responsibilities rather than getting bogged down in administrative tasks. While it addresses specific behaviors relevant to Scrum roles, it does not provide a structured, step-by-step procedural approach typical of methods. The discussion touches on concepts related to Scrum, but lacks detailed exploration of the Scrum method itself, focusing instead on the implications of certain mistakes. Overall, the content aligns with the category but does not delve deeply into procedural methods, resulting in a moderately high confidence score.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content is primarily focused on the common mistakes made by Scrum Masters, particularly related to administrative tasks. While it discusses the role of a Scrum Master, which is part of the Scrum framework, it does not engage with any explicit models, frameworks, or conceptual representations that align with the category 'Model'. The content lacks direct mentions of specific models and does not explore decision-making processes or systems thinking, which are central to the Category. Thus, it has very low alignment and depth within the context required for the 'Model' category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of a Scrum Master within the Scrum framework, focusing on common mistakes. While it directly mentions Scrum and touches upon aspects relevant to Agile methodologies, the discussion is centered on pitfalls rather than providing a broad overview or deep analysis of the framework itself. The primary focus is on the roles within Scrum, which does align partially with the Framework category, but lacks the structural depth and comparative analysis expected in discussions about frameworks. Thus, the confidence score reflects a moderate alignment with the Framework category but acknowledges that it does not fully meet the extensive criteria set out for it.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses mistakes that Scrum Masters commonly make, primarily focusing on not getting bogged down with administrative tasks. While it hints at the roles and responsibilities of a Scrum Master, it does not delve into any specific tenets that guide Agile practices. The discussion lacks actionable rules or principles that could be classified as tenets, leading to a lower confidence in alignment with the category despite some relevant mentions.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "WTd-8mOlFfQ",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:26",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses the roles and mistakes of Scrum Masters, which is not aligned with discussions on enduring capabilities. While it touches upon the importance of team effectiveness, it lacks a clear focus on developing or measuring capabilities within teams, as per the category requirements. The content is more about individual roles and tasks rather than fostering organizational capabilities.",
     "level": "Ignored"
   }
 }

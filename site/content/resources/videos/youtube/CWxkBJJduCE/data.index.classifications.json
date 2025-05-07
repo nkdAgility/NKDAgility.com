@@ -17,33 +17,6 @@
     "reasoning": "Content primarily discusses technical aspects of TDD and pair programming without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-13T19:56:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Test-Driven Development (TDD) and Pair Programming, with no clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-13T19:56:54",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the impact of test-driven development (TDD) and pair programming on software architecture, which relates to code quality and complexity. However, the primary focus is on the practices themselves rather than a deep exploration of complexity theory or its principles.",
-    "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-13T19:56:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Test-Driven Development (TDD) and pair programming, focusing on software architecture rather than organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
     "calculated_at": "2025-02-13T19:56:57",
@@ -53,33 +26,6 @@
     "reasoning": "Content primarily discusses Test-Driven Development (TDD) and Pair Programming, which are software development practices rather than methodologies or practices specifically related to the end-to-end process of delivering usable software products.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T12:02:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses pair programming and test-driven development (TDD) in the context of improving software architecture, which implies a learning aspect. However, the primary focus is on productivity and code quality rather than explicit methodologies for discovery and learning.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T12:02:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practical techniques such as Test-Driven Development (TDD) and Pair Programming, which are relevant to Agile practices. However, it does not delve deeply into specific tools or methodologies, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-13T19:57:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software development practices such as TDD and pair programming, without reference to specific events or presentations.",
-    "level": "Ignored"
-  },
   "Market Adaptability": {
     "category": "Market Adaptability",
     "calculated_at": "2025-02-13T19:57:04",
@@ -87,15 +33,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses Test-Driven Development (TDD) and pair programming, which are not directly related to market adaptability strategies or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-13T19:57:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development and pair programming, which are not directly related to scaling Agile practices across multiple teams or organisational structures.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -118,19 +55,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-13T19:57:11",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses Test-Driven Development (TDD) and pair programming, both of which are key engineering practices that enhance code quality and architecture. It focuses on the benefits of these methodologies in improving software architecture and overall productivity, aligning well with the principles of technical excellence.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on Test-Driven Development (TDD) and its impact on software architecture, which aligns well with the principles of Technical Excellence. It discusses the benefits of TDD in creating better architectures and highlights the role of pair programming in enhancing code quality. However, while it touches on these key topics, the depth of discussion could be expanded to fully explore the methodologies and practices that enhance agility in software development. Overall, the content is relevant and provides a solid foundation, but it could benefit from a more comprehensive exploration of the themes outlined in the category.",
+    "level": "Primary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-13T19:57:12",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses test-driven development and pair programming, which are not related to installation or configuration processes.",
     "level": "Ignored"
   },
@@ -154,10 +94,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-13T19:57:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Test-Driven Development (TDD) and Pair Programming, focusing on software architecture rather than metrics, data analysis, or continuous improvement methodologies.",
     "level": "Ignored"
   },
@@ -179,41 +119,29 @@
     "reasoning": "Content primarily discusses Test-Driven Development (TDD) and Pair Programming, with no clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-13T19:57:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses software development practices, specifically TDD and pair programming, without reference to specific products or literature.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-13T19:57:46",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Test-Driven Development (TDD) and Pair Programming, which are not central to DevOps principles and practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are methodologies related to software development rather than DevOps principles. While there are elements of collaboration and quality improvement that align with DevOps, the discussion lacks a direct focus on the broader DevOps philosophy, such as automation, shared accountability, or continuous delivery. The depth of discussion on DevOps-related themes is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T12:02:37",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the interconnectedness of productivity and architecture in software development, which aligns with Systems Thinking principles, but it primarily focuses on TDD and pair programming.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T12:02:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "Content discusses pair programming and its impact on productivity, which relates to team dynamics and collaboration, but primarily focuses on technical aspects of TDD and software architecture.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content briefly touches on the interconnectedness of productivity and architecture in software development, suggesting a systems perspective. However, it lacks explicit discussions on Systems Thinking principles, techniques, or frameworks. The focus is primarily on TDD and pair programming rather than a holistic analysis of organisational dynamics.",
+    "level": "Secondary"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -235,20 +163,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T12:02:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Test-Driven Development (TDD) and pair programming, which are technical practices rather than a focus on the Agile Product Operating Model or value delivery.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are practices related to software development but do not directly address the Agile Product Operating Model. While there are mentions of productivity and collaboration, these concepts are not explored in the context of product management or the principles of APOM. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T12:02:39",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development and pair programming, without a clear focus on Evidence-Based Management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, which are methodologies focused on software development rather than evidence-based management. While there are mentions of productivity and strategic choices, these concepts are not directly tied to the core themes of Evidence-Based Management, such as empirical decision-making or current value metrics. The discussion lacks a strong focus on data-informed decision-making and does not provide detailed insights into how these practices relate to managing for meaningful outcomes.",
     "level": "Ignored"
   },
   "Complexity Thinking": {
@@ -260,24 +194,6 @@
     "reasoning": "Content primarily discusses test-driven development and pair programming, focusing on productivity and architecture rather than complexity science or its principles.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T12:02:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses test-driven development and pair programming, which are not directly related to AI and automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T12:02:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses concepts of test-driven development and pair programming without focusing on industry news, updates, or reviews.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T12:02:45",
@@ -285,15 +201,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Test-Driven Development (TDD) and Pair Programming, which are specific practices within Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T12:02:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development and pair programming, with no clear focus on Scrum principles, roles, or events.",
     "level": "Ignored"
   },
   "Beta Codex": {
@@ -307,20 +214,26 @@
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T12:02:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses productivity in the context of pair programming and test-driven development, which relates to flow efficiency but is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 35.0,
+    "reasoning": "The content briefly touches on productivity and the benefits of pair programming, which can relate to flow efficiency in terms of reducing future problems. However, it lacks explicit discussions on flow efficiency principles, metrics, or techniques for optimising throughput. The focus is more on software architecture and development practices rather than directly addressing flow efficiency concepts.",
+    "level": "Ignored"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T12:02:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses pair programming and its impact on productivity and architecture, which touches on team dynamics and technical practices. However, it primarily focuses on technical aspects without a strong emphasis on the organisational context or broader sociotechnical interactions.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses pair programming and test-driven development (TDD) in the context of software architecture, which touches on technical practices but lacks a strong focus on the sociotechnical interplay. While it hints at productivity and team dynamics, it does not explicitly address organisational culture, communication, or the broader sociotechnical implications of these practices. Therefore, while there is some relevance, it does not meet the primary focus required for a higher confidence score.",
     "level": "Tertiary"
   },
   "Kanban": {
@@ -343,20 +256,11 @@
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
-    "calculated_at": "2025-02-17T12:03:01",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses test-driven development and pair programming, which are not central to platform engineering principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T12:03:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Test-Driven Development (TDD) and Pair Programming, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Organisational Psychology": {
@@ -379,38 +283,26 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T13:49:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development and pair programming, which are not central to the frameworks of Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Test-driven development and pair programming, without any mention of Kanban principles or scaling Kanban practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on technical practices like TDD and pair programming, which are more about coding techniques than social technologies. While it touches on collaboration through pair programming, it lacks a broader discussion on self-organisation, decision-making, or value delivery within teams. The depth of discussion on collaboration is present but not extensive enough to align closely with the core themes of social technologies.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:41:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Test-Driven Development (TDD) and pair programming, which are software development practices, rather than system configuration methodologies.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development and pair programming without reference to scaling Agile practices across multiple teams or at an enterprise level.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are methodologies related to software development rather than system configuration. While there are mentions of improving code quality and architecture, these concepts do not directly address system configuration topics such as configuration management, system optimisation, or integration of hardware and software components. The discussion lacks depth in the specific areas outlined for the System Configuration category, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -442,11 +334,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:57:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on test-driven development and pair programming rather than on Lead Time or its measurement.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, discussing their benefits for code quality and architecture. There are no direct mentions of Lead Time or its importance as an observability metric. While there is a brief mention of productivity, it does not align with the core themes of Lead Time, such as measuring time from initiation to delivery or strategies for optimising Lead Time. The discussion lacks depth regarding Lead Time, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -478,10 +373,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Test-Driven Development (TDD) and pair programming, with no clear focus on Definition of Ready criteria or preparation for sprint planning.",
     "level": "Ignored"
   },
@@ -496,12 +391,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses test-driven development (TDD) and pair programming, which are technical practices that contribute to software craftsmanship and architecture.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses test-driven development (TDD) and pair programming, both of which are key practices in software craftsmanship. It aligns well with the principles of clean code, software design, and improving code quality. The depth of discussion is substantial, providing insights into how these methodologies enhance architecture and team productivity, which are core themes of Technical Mastery.",
+    "level": "Primary"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -541,12 +439,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices such as test-driven development and pair programming that contribute to software quality and functionality, but it primarily focuses on software architecture and productivity rather than directly addressing the concept of working software.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses TDD and pair programming, which are practices that contribute to the development of working software. However, while it touches on aspects of software quality and productivity, it does not explicitly focus on the delivery of functional software or customer feedback, which are key themes in the 'Working Software' category. The discussion is more about methodologies rather than the direct delivery of working software.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -568,21 +469,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses pair programming and test-driven development, which are practices that promote collaboration and can lead to a growth mindset, but the primary focus seems to be on software architecture and productivity rather than explicitly on Continuous Learning principles.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses test-driven development and pair programming, which are not related to Scaling Scrum practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses pair programming and test-driven development (TDD), which are practices that can contribute to continuous learning by promoting collaboration and improving code quality. However, the primary focus is on the technical aspects of software architecture rather than explicitly addressing the principles of continuous learning, such as growth mindset or knowledge sharing. While there are elements that suggest a learning approach, they are not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -703,10 +598,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Test-Driven Development (TDD) and Pair Programming, which are more focused on software engineering practices rather than Lean Product Development principles such as waste reduction and customer feedback.",
     "level": "Ignored"
   },
@@ -730,11 +625,14 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses test-driven development (TDD) and pair programming, which are both key practices that promote high standards in software craftsmanship and development processes. It emphasizes principles of software quality, collaborative coding practices, and the long-term benefits of these engineering practices, aligning well with the focus on engineering excellence.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are both practices that align with the principles of software craftsmanship and quality assurance. It highlights the importance of creating better architectures and the long-term benefits of pair programming, which ties into continuous improvement and engineering processes. However, while these topics are relevant, the discussion lacks depth in exploring broader engineering excellence themes such as CI/CD practices or metrics for assessing performance, leading to a moderately high confidence score.",
     "level": "Secondary"
   },
   "Product Strategy": {
@@ -775,12 +673,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) and Pair Programming, which are relevant to improving operational practices in software development. However, the focus is more on the theoretical implications of TDD and pair programming rather than detailed operational techniques and strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses TDD and pair programming, which are practices that can enhance operational efficiency in software development. However, it primarily focuses on the principles and benefits of these techniques rather than providing detailed strategies or metrics for operational improvement. While there are mentions of productivity and quality, the discussion lacks a direct focus on broader operational practices within Agile or DevOps frameworks.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -809,23 +710,17 @@
     "reasoning": "Content primarily focuses on technical practices like Test-Driven Development and Pair Programming without discussing alignment with Agile strategy or principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) and pair programming, which are modern engineering practices relevant to software developers. However, it does not engage deeply with Agile or DevOps principles.",
-    "level": "Secondary"
-  },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Test-Driven Development (TDD) and Pair Programming, which are key topics within the Engineering Practices category. The focus on improving architecture through TDD and the collaboration benefits of pair programming aligns with the category's principles.",
-    "level": "Secondary"
+    "final_score": 92.0,
+    "reasoning": "The content primarily focuses on Test-Driven Development (TDD) and Pair Programming, both of which are key topics within the Engineering Practices category. It discusses the principles of TDD in detail, emphasising its role in creating maintainable architectures and reducing complexity. Additionally, it elaborates on the benefits of Pair Programming, highlighting its impact on code quality and knowledge sharing. The depth of discussion is substantial, providing insights into how these practices enhance overall productivity and long-term success in software development. Overall, the content aligns closely with the core themes of the category, justifying a high confidence score.",
+    "level": "Primary"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -874,21 +769,24 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses test-driven development and pair programming without a focus on asynchronous development principles or practices.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses practices like pair programming and its impact on architecture, which is relevant to technical leadership, but it does not primarily focus on guiding teams or leadership strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses TDD and pair programming, which are relevant to technical practices but does not explicitly address technical leadership principles or strategies for guiding teams. While it touches on productivity and collaboration, it lacks a direct focus on mentoring, agile ceremonies, or team dynamics, which are core to the category of Technical Leadership.",
+    "level": "Secondary"
   },
   "Transparency": {
     "category": "Transparency",
@@ -901,11 +799,14 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T17:05:37",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Test-Driven Development (TDD) and pair programming, focusing on software architecture rather than innovation capabilities or evidence-based management.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, focusing on improving code quality and architecture rather than explicitly addressing innovation practices or metrics. While it touches on concepts like productivity and long-term benefits, it lacks direct references to innovation mechanisms or frameworks. The discussion is more about development practices than fostering a culture of innovation, leading to a low confidence score in the 'Ability to Innovate' category.",
     "level": "Ignored"
   },
   "Accountability": {
@@ -928,20 +829,26 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses pair programming, which relates to team dynamics and collaboration, but it primarily focuses on software architecture and productivity rather than team performance specifically.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses pair programming and its benefits, which can enhance team collaboration and productivity. However, it primarily focuses on software development practices rather than directly addressing team performance strategies or methodologies within an Agile framework. While there are relevant points about collaboration and knowledge sharing, the overall emphasis is more on technical practices than on team dynamics or Agile principles.",
     "level": "Tertiary"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:41:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses test-driven development (TDD) and pair programming, rather than focusing on the measurement and optimization of throughput in Agile or DevOps contexts.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, discussing their benefits for code quality and architecture. While it touches on productivity, it does not explicitly analyse or visualise throughput as a delivery metric. The discussion lacks depth in terms of throughput concepts, making it only tangentially related to the category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -955,10 +862,10 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on test-driven development (TDD) and pair programming, with no clear emphasis on acceptance test driven development or its principles.",
     "level": "Ignored"
   },
@@ -971,21 +878,12 @@
     "reasoning": "Content discusses technical processes and methodologies like TDD and pair programming, which do not align with the human aspects of employee engagement.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily focuses on test-driven development and pair programming, which are practices in software development, but it does not address agile project management principles, methodologies, or frameworks directly.",
-    "level": "Ignored"
-  },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Test-Driven Development (TDD) and pair programming, without a focus on hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
@@ -1000,11 +898,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on test-driven development and pair programming, without discussing principles or practices related to Continuous Delivery.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, which are methodologies focused on improving code quality and architecture rather than Continuous Delivery itself. While there are mentions of improving code quality and reducing complexity, the discussion does not explicitly address Continuous Delivery principles, such as automation in deployment or rapid feedback loops. The content lacks a direct focus on the Continuous Delivery practices and does not provide in-depth exploration of its core themes, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Product Discovery": {
@@ -1018,10 +919,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses software architecture, test-driven development, and pair programming, which are not central to the Definition of Done.",
     "level": "Ignored"
   },
@@ -1045,21 +946,24 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 20,
     "non_ai_confidence": 0,
-    "final_score": 18.0,
+    "final_score": 20.0,
     "reasoning": "The content discusses aspects of productivity and architectural decisions in software development, but it primarily focuses on TDD and pair programming rather than structured decision-making principles or methodologies.",
-    "level": "Quinary"
+    "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses Test-Driven Development (TDD) and pair programming as methodologies that impact software architecture and engineering practices.",
-    "level": "Secondary"
+    "final_score": 92.0,
+    "reasoning": "The content extensively discusses Test-Driven Development (TDD) and pair programming, both of which are key practices in software development. It provides a detailed exploration of how TDD contributes to better software architecture and the benefits of pair programming in enhancing code quality and team collaboration. The depth of discussion is significant, with clear examples and insights that align closely with the core themes of software development methodologies and best practices.",
+    "level": "Primary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1079,23 +983,17 @@
     "reasoning": "Content discusses software architecture and pair programming, which are unrelated to Product Backlog management.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on test-driven development and pair programming, which are not directly related to Scrum product development processes, roles, or principles.",
-    "level": "Ignored"
-  },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to efficiency and productivity through practices like pair programming and test-driven development, which align with Lean thinking principles, though it does not directly focus on Lean as a primary topic.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses principles related to efficiency and waste reduction through TDD and pair programming, which aligns with Lean Principles. However, it does not explicitly mention Lean terminology or concepts, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -1126,10 +1024,10 @@
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Test-driven Development (TDD) and Pair Programming without focusing on Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -1171,11 +1069,14 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses practices like pair programming and focusing on necessities, which are aligned with Agile principles such as collaboration and emphasizing value. However, it primarily centers around specific development practices rather than the core Agile values and principles themselves.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are practices that can align with Agile principles, particularly around collaboration and quality. However, it does not explicitly mention Agile values or principles, nor does it delve deeply into the Agile Manifesto or its core tenets. The focus is more on specific practices rather than the underlying Agile philosophy, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Portfolio Management": {
@@ -1189,12 +1090,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses concepts related to systems thinking in the context of software development, particularly how pair programming and test-driven development can influence architecture and productivity as a whole system. However, it primarily focuses on software practices rather than explicitly on organisational dynamics.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses software development practices such as TDD and pair programming, which are more focused on individual and team behaviours rather than organisational dynamics. While there are mentions of productivity and system-wide perspectives, these are not deeply tied to the principles of systems thinking or organisational behaviour as outlined in the category of Organisational Physics.",
+    "level": "Ignored"
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1212,15 +1116,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses test-driven development and pair programming rather than strategic approaches within Agile, Scrum, or DevOps frameworks.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on test-driven development and pair programming, which are not directly related to AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -1252,12 +1147,15 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Test-Driven Development (TDD) as a key aspect of creating better software architectures, indicating a significant focus on TDD principles and its impact on the development process, but it also touches on broader topics like pair programming and productivity, which makes TDD a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on Test-Driven Development (TDD), which is a key aspect of Test First Development. It discusses the principles of TDD, such as defining tests before writing code, which aligns well with the core themes of the category. The depth of discussion is substantial, covering the benefits of TDD and pair programming in enhancing code quality and architecture. However, while TDD is a significant part of Test First Development, the content does not extensively cover other aspects like manual testing practices or the broader implications of Test First on collaboration, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -1270,21 +1168,27 @@
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the long-term benefits of pair programming and test-driven development in terms of addressing potential problems, which indirectly relates to the concept of technical debt, but the primary focus is on programming practices rather than explicit discussions of technical debt.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses principles of test-driven development (TDD) and pair programming, which can indirectly relate to technical debt by promoting better coding practices and reducing complexity. However, it does not explicitly mention technical debt or its management, making it a secondary focus rather than a primary discussion. The alignment with the core themes of technical debt is present but not deeply explored, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical problem-solving techniques related to software architecture, specifically the impact of test-driven development and pair programming. While it touches on real-world applications and collaborative approaches, it does not primarily focus on Agile, Scrum, or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses practical applications of TDD and pair programming, which are relevant to Agile methodologies. It highlights real-world problem-solving strategies and the importance of collaboration, aligning well with the core themes of pragmatic thinking. The depth of discussion on how these practices enhance software architecture and productivity further supports a high confidence score.",
+    "level": "Secondary"
   },
   "Market Share": {
     "category": "Market Share",
@@ -1306,19 +1210,22 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses software development practices (TDD and pair programming) without a focus on the Scrum Master role or related responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, with no direct mention of the Scrum Master role or its responsibilities. While it touches on team dynamics and productivity, it does not align with the core themes of the Scrum Master category, such as coaching, mentoring, or facilitating within a Scrum context. The discussion lacks depth regarding the Scrum Master's influence on organisational change or agility.",
     "level": "Ignored"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses test-driven development and pair programming, without a focus on Cycle Time as a metric or its implications.",
     "level": "Ignored"
   },
@@ -1340,7 +1247,7 @@
     "reasoning": "Content heavily discusses Test-Driven Development (TDD) and pair programming without focusing on the delivery of software increments or Agile processes.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T13:49:16",
     "ai_confidence": 0,
@@ -1351,29 +1258,462 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses TDD in relation to software architecture and mentions benefits associated with it, but focuses significantly on pair programming and does not detail TDD principles comprehensively.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses Test Driven Development (TDD) as a core principle, highlighting its importance in crafting superior software architectures. It aligns well with the key themes of TDD, such as writing tests before code and the benefits of TDD for code quality and maintainability. The depth of discussion is significant, providing insights into how TDD influences development practices and outcomes. However, the mention of pair programming, while relevant, slightly shifts the focus away from TDD as the primary subject, which is why the confidence score is not higher.",
+    "level": "Primary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T13:49:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses pair programming, which involves collaboration between team members, highlighting aspects of teamwork and shared ownership. However, it primarily focuses on test-driven development and architectural decisions, making collaboration a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses pair programming, which is a collaborative practice that enhances team dynamics and knowledge sharing. However, while it touches on collaboration, the primary focus is on TDD and individual coding practices rather than broader team collaboration strategies. The depth of discussion on collaboration is moderate, but it lacks a comprehensive exploration of team dynamics or Agile principles.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-17T13:49:16",
+    "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Test-Driven Development (TDD) and pair programming, which are not central to Behaviour Driven Development (BDD).",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:33:26",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Test-Driven Development (TDD) and Pair Programming, which are not central to the concept of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:33:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses test-driven development and pair programming, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly touches on concepts related to collaboration and productivity, which are relevant to Scrum principles, but it primarily focuses on test-driven development (TDD) and pair programming without explicitly discussing Scrum roles, events, or artifacts. The alignment with Scrum is minimal, as it does not delve into the Scrum framework or its core themes, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are practices that can align with the Shift-Left Strategy by promoting early issue detection and enhancing code quality. However, it does not explicitly mention the Shift-Left Strategy or its principles, focusing instead on TDD and pair programming as standalone concepts. While there is a clear connection to the benefits of addressing issues early in the development process, the primary focus remains on TDD and pair programming rather than a comprehensive discussion of the Shift-Left Strategy itself.",
+    "level": "Secondary"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are practices that can contribute to Continuous Improvement by enhancing code quality and team collaboration. However, while it touches on the importance of these practices in improving processes, it does not explicitly frame them within the broader context of Continuous Improvement principles or strategies. The discussion is more focused on specific methodologies rather than a comprehensive exploration of Continuous Improvement as a category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, focusing on their benefits for code quality and architecture. While it touches on strategic choices and long-term productivity, it lacks a direct discussion of Common Goals within Agile or DevOps frameworks. The mention of aligning with business objectives is too vague to strongly connect to the category, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 65.0,
+    "non_ai_confidence": 0,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of test-driven development (TDD) and pair programming, which are practices that enhance competence through skill development and knowledge sharing. It explicitly mentions how these practices lead to improved code quality and team skill sets, aligning well with the core themes of competence. However, while it touches on the importance of these methodologies, it does not delve deeply into strategies for fostering a culture of competence or inspecting and adapting competence over time, which slightly limits the depth of discussion.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T16:57:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are specific methodologies rather than discussions on the One Engineering System (1ES). While there are mentions of improving code quality and collaboration, these concepts are not directly tied to the principles or components of 1ES. The discussion lacks depth regarding the integration of tools and processes across teams, which is a core aspect of 1ES. Overall, the content does not align with the key topics outlined for the One Engineering System category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T13:41:20",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, focusing on software quality and architecture rather than the intentional shaping of outcomes through agency and adaptability. While there are elements of collaboration and strategic choices, the discussion lacks a clear connection to the principles of Agentic Agility, such as intent, accountability, and the interplay between human and AI capabilities.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T13:41:23",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are methodologies that can enhance product development processes. It aligns with the principles of Agile and continuous improvement by emphasising iterative practices and collaboration. However, while it touches on aspects of product development, it primarily focuses on technical implementation rather than broader product strategy or customer feedback integration, which slightly limits its depth in the context of product development.",
+    "level": "Secondary"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T17:05:30",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, discussing their benefits for code quality and architecture. While it touches on productivity and long-term benefits, it does not explicitly address Time to Market or its associated metrics. The discussion lacks a direct connection to the core themes of Time to Market, such as lead time or strategies for reducing delivery time. Therefore, while there are some relevant concepts, they are not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T13:41:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on software development practices, specifically TDD and pair programming, rather than project management principles or methodologies. While it touches on aspects of productivity and team collaboration, it lacks direct references to project management frameworks, lifecycle phases, or governance structures. The discussion is more aligned with software engineering than with broader project management concepts.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T17:05:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on software development practices, specifically test-driven development (TDD) and pair programming, without explicitly discussing Unrealised Value or its indicators. While there are mentions of long-term benefits and strategic choices that could hint at potential improvements, the core themes of identifying untapped opportunities and measuring unrealised value are not addressed. The discussion lacks depth in exploring how these practices relate to the broader concept of unrealised value in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T13:41:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, with no direct mention of Hybrid Agile or its challenges. While it discusses principles that could be relevant in an agile context, it does not critically examine the integration of traditional and agile methodologies, nor does it address the specific themes outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T17:05:52",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content discusses TDD and pair programming, which are methodologies that can indirectly influence current value through improved code quality and reduced long-term costs. However, it does not explicitly address current value metrics, indicators, or their role in decision-making, which are central to the category. The focus is more on software development practices rather than a real-time assessment of value delivered.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T13:41:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are methodologies for improving code quality rather than scaling practices. While it briefly touches on concepts like productivity and system-wide perspectives, it does not explicitly discuss scaling frameworks, cross-team collaboration, or managing dependencies, which are central to the Scaling category. The discussion lacks depth in terms of scaling strategies and does not provide specific examples or metrics related to scaling efforts.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T13:41:42",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses test-driven development (TDD) and pair programming, which are methodologies in software development but does not mention GitHub or its functionalities. While there are concepts related to collaboration and code quality, they do not specifically align with GitHub's services or practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T17:05:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, discussing their benefits and implications for software architecture. While it touches on principles of effective software development, it does not explicitly mention Agnostic Agile or its core themes. The discussion lacks depth regarding the application of Agnostic Agile principles, and there is no comparison to traditional frameworks or ethical considerations in agile practices.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T17:05:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 7.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on software development practices, specifically test-driven development (TDD) and pair programming. While it touches on concepts like productivity and collaboration, it does not explicitly discuss the company as a product or organisational strategies. The themes of customer-centric strategies and organisational design are absent, leading to a low confidence score in alignment with the CaaP category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T17:05:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on software development practices such as test-driven development (TDD) and pair programming, which are not directly related to Cell Structure Design. There are no explicit mentions of the principles of the Beta Codex, autonomous cells, or decentralised structures. While there is a brief discussion on collaboration and productivity, it does not align with the core themes of Cell Structure Design, which emphasises organisational design and decentralisation. The depth of discussion is also limited to software practices rather than organisational models.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T17:05:26",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are not related to Liberating Structures. There are no direct mentions of facilitation techniques or group dynamics, and while there is a brief discussion on collaboration, it does not align with the core themes of Liberating Structures. The depth of discussion is also limited to software development practices rather than the principles or techniques of Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T17:05:55",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on test-driven development (TDD) and pair programming, which are not directly related to Open Space Agile principles. There are no explicit mentions of Open Space Agile or its core themes such as psychological safety, co-creation, or iterative dialogue. While there is a discussion on collaboration and productivity, it does not align with the specific context of Open Space Agile, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content primarily revolves around the principles of test-driven development (TDD) and pair programming, clearly identifying actionable approaches that enhance software architecture. It discusses how TDD encourages focused development and reduces complexity, which aligns well with the principle of Continuous Improvement. Pair programming is presented as a method fostering collaboration and knowledge sharing, addressing Respect for People and the principle of Self-Management. However, while the principles are discussed in a practical context, the content does not explicitly reference Agile, Lean, or DevOps frameworks. Therefore, while strongly aligned with the principle category, it lacks some specificity in terms of established frameworks, affecting the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses software development practices such as Test-Driven Development (TDD) and Pair Programming, which are methodologies rather than tools. While there are brief mentions of how these practices can enhance code quality and architecture, the lack of specific tools or software applications associated with these methods diminishes its classification as a primary focus on 'Tools'. The primary discussion centers on the principles and benefits of the methodologies without exploring any specific tool or practical application, hence a low confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses TDD and pair programming primarily as practices to improve code and architecture rather than as expressions of core values. While there are mentions of principles such as productivity and knowledge sharing, the focus remains on the methodologies and their effectiveness rather than deeply held beliefs or principles. It touches on collaboration, which aligns somewhat with values, but does not sufficiently delve into how these practices are rooted in or guided by underlying values like commitment, respect, or focus that would warrant a higher confidence score. Overall, the emphasis is more on practical outcomes rather than foundational beliefs.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 30.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 30.0,
+    "reasoning": "The content primarily focuses on specific practices like test-driven development (TDD) and pair programming. While there are some hints at deeper conceptual notions such as productivity and team dynamics, these ideas are secondary and not explored within a philosophical framework of Agile, DevOps, or Lean. The discussion largely revolves around practical implications and benefits of these techniques, rather than the foundational beliefs or philosophical questions that guide them, which is more aligned with the specified 'Philosophy' category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses TDD and pair programming but primarily focuses on their application and benefits rather than the underlying principles that define a discipline. There are mentions of structured development practices, but it lacks a clear framing of how these relate to the evolution or systemic nature of a discipline. The discussion is relevant but does not primarily focus on core characteristics of a discipline or their systemic application, thus lowering the overall alignment with the 'Discipline' category.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses principles of test-driven development (TDD) and pair programming, which are methodologies rather than specific artifacts or their roles within systems like Agile or Scrum. It lacks direct references to specific artifacts such as Product Backlogs or Sprint Backlogs. While there is conceptual relevance to the idea of creating structures through TDD, the focus is not on artifacts themselves but rather on coding practices and productivity. Consequently, the overall alignment with the 'Artifact' category is weak.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses test-driven development and pair programming, emphasizing code quality and architecture. While there are mentions of broader productivity and team collaboration concepts, it does not focus on observability as defined in the category. The key topics relevant to observability, such as metrics, logs, traces, and specific challenges in achieving effective observability, are absent, indicating that observability is only tangentially related to the main themes presented.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 88.0,
+    "ai_mentions": 16,
+    "ai_alignment": 35,
+    "ai_depth": 32,
+    "non_ai_confidence": null,
+    "final_score": 88.0,
+    "reasoning": "The content primarily focuses on two key practices: Test-Driven Development (TDD) and Pair Programming. There are direct mentions and detailed explanations of how these practices enhance code quality, reduce complexity, and foster collaboration, aligning well with the 'Practice' category. The depth of the discussion includes actionable insights on the application and benefits of these techniques. While there are some references to broader concepts of productivity, the primary focus remains on actionable practices, reinforcing a high confidence score for the alignment with the specified category.",
+    "level": "Primary"
+  },
+  "Method": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 18,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses test-driven development (TDD) and pair programming, which are methods used within software development. It provides specific insights into how TDD fosters better architecture and how pair programming enhances code quality and team collaboration. However, while methods are mentioned, the content is more focused on the philosophy and benefits of these practices rather than structured, step-by-step procedures in a specific methodological context. It does not extensively cover how to implement these methods systematically, which reduces the alignment and depth scores.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 14,
+    "ai_depth": 6,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses concepts like test-driven development (TDD) and pair programming, which are more focused on practices rather than conceptual models or frameworks specific to Agile, DevOps, or Lean contexts. While some principles mentioned (like reducing complexity and enhanced collaboration) relate to improving software architectures, there is no direct exploration of how these practices inform decision-making or systems thinking within a structured model. The discussions, thus, do not engage deeply with the 'Model' category's requirements, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content mainly discusses TDD (test-driven development) and pair programming, which are methodologies and practices rather than frameworks. It briefly mentions aspects that could align with Agile principles, like collaboration and productivity in software development, but it does not focus on any specific agile framework, their implementation, or comparison. The discussion lacks depth in framing the methodologies within a formal framework context and fails to clearly connect TDD and pair programming to Agile, Lean, or DevOps frameworks as defined in the category. Thus, it does not meet the content expectations for the 'Framework' category.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 2,
+    "ai_depth": 3,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content focuses on principles like test-driven development (TDD) and pair programming, which are methods that align with Agile practices. However, the discussion lacks specific, actionable tenets as defined by the category. It discusses general ideas and benefits of these practices rather than translating them into concrete, prescriptive rules or doctrines that shape decision-making directly. The mentions of TDD and pair programming reflect a conceptual understanding related to Agile, while the depth of the analysis offers some useful insights but doesn't fully articulate how these principles might serve as guiding tenets in an organizational context.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:06:27",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses TDD and pair programming, both of which can relate to enhancing capabilities in software development. However, the main focus is on specific practices and techniques rather than on enduring competencies that empower teams or organizations at a systemic level. While there is some mention of building sustainable architectures and improving team skill sets, it lacks a comprehensive exploration of how these methods embed capabilities within organizational processes. The discussion is more about immediate practices than about long-term organizational capabilities.",
     "level": "Ignored"
   }
 }

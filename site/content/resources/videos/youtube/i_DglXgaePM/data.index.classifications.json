@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:15:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organisational change and scaling agile practices, without a clear focus on DevOps principles or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 67.0,
+    "reasoning": "The content discusses DevOps in the context of Agile practices, highlighting the importance of engineering excellence and continuous improvement. While it mentions DevOps, the primary focus is on Agile methodologies and their implementation, which detracts from a deeper exploration of DevOps principles. The discussion includes relevant themes such as collaboration and accountability, but lacks a thorough examination of DevOps-specific practices and cultural shifts.",
+    "level": "Secondary"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:15:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses the challenges of organisational change and scaling agile but does not focus on specific frameworks or methodologies like Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile and DevOps, highlighting the importance of collaboration, transparency, and continuous improvement, which are core themes of social technologies. However, while it touches on these aspects, the primary focus is on engineering excellence and processes rather than the social frameworks that underpin effective collaboration and decision-making. The depth of discussion on social technologies is limited, as it does not provide extensive insights into specific methodologies or case studies related to social technologies.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -64,10 +70,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:22:28",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses scaling agile and organizational change but does not focus on metrics, data, or learning methodologies.",
     "level": "Ignored"
   },
@@ -82,30 +88,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of scaling Agile practices and hints at Agile principles, but it is not primarily focused on specific Agile frameworks or their comparative analysis.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses challenges organizations face in scaling agile practices rather than focusing on Scrum principles, roles, or specific product development processes.",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 15.0,
+    "reasoning": "The content primarily consists of a transcription of a live event, which lacks a coherent focus on Agile frameworks. While there are some mentions of Agile concepts and frameworks like Scrum and Kanban, the discussion is largely informal and fragmented, making it difficult to extract structured insights or analyses relevant to the category. The content does not provide a clear overview, comparative analysis, or case studies that would typically align with the Agile Frameworks category.",
     "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses an event titled 'Slaying the dragons and how to successfully descale at scale', inviting participants to join through various platforms, which indicates a focus on a specific presentation format.",
-    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -181,10 +172,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T11:22:28",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses scaling organizations and Agile principles but does not address the Definition of Done.",
     "level": "Ignored"
   },
@@ -235,11 +226,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses agile scaling and organizational change, but does not focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile and DevOps practices, emphasising engineering excellence and continuous improvement, which are relevant to Continuous Delivery. However, it lacks direct mentions of Continuous Delivery principles and does not delve deeply into specific practices or tools associated with Continuous Delivery. The focus is more on Agile methodologies and cultural aspects rather than the specific delivery practices outlined in the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -289,12 +283,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses scaling software delivery and agile principles, suggesting a focus on software development practices, though it also addresses organizational change which is secondary.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 15.0,
+    "reasoning": "The content primarily consists of a disjointed conversation with minimal focus on software development practices. While there are brief mentions of Agile and Scrum, the overall discussion lacks depth and structured insights into software development methodologies, making it difficult to classify as a focused discussion on the topic.",
+    "level": "Ignored"
   },
   "Coaching": {
     "category": "Coaching",
@@ -307,21 +304,24 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T11:22:28",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on scaling and critiques organizations' reluctance to change rather than discussing specific principles or practices of Agile Planning.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and commonalities of organizations that are successfully scaling Agile, aligning partially with Agile Strategy themes but lacks a clear, primary focus on strategic planning or implementation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily consists of a disjointed conversation with minimal focus on Agile Strategy. While there are brief mentions of Agile concepts, the overall discussion lacks coherence and depth in relation to strategic planning, execution, or adaptability within Agile methodologies.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -368,32 +368,29 @@
     "reasoning": "Content primarily discusses scaling agile principles and the challenges organizations face in changing their business practices, without addressing Value Stream Management concepts directly.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses scaling and agile principles but does not focus on the integration and standardization of engineering practices as defined in the 1ES framework.",
-    "level": "Ignored"
-  },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T11:22:28",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and realities of organisational change in the context of scaling Agile practices. While it highlights the need for meaningful change, it is primarily focused on scaling rather than detailed change management strategies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices, Scrum, and technical processes rather than on Change Management strategies or principles. While there are brief mentions of Agile transformation and the importance of adapting processes, the overall discussion lacks depth in exploring how to manage change effectively within organisations. The content does not provide insights into stakeholder engagement, leadership roles in transformation, or measuring the impact of change initiatives, which are key aspects of Change Management.",
+    "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organizations face in changing their business practices and references scaling and agile principles, indicating a secondary theme related to digital transformation initiatives.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses agility and engineering excellence, which are relevant to digital transformation, but it primarily focuses on Agile methodologies and practices rather than the strategic adoption of digital technologies. While it touches on the importance of culture and metrics, it lacks a direct emphasis on how these elements contribute to broader digital transformation initiatives.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -415,12 +412,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses organizational change and the challenges of scaling agile methodologies, which relates to the dynamics within organizations. However, without a strong focus on systems thinking or a holistic view of organizational behavior, it remains a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile and DevOps, touching on organisational culture and the importance of collaboration and continuous improvement, which aligns with some principles of systems thinking. However, it primarily focuses on engineering practices and individual roles rather than a comprehensive exploration of organisational dynamics or systems thinking. The depth of discussion on organisational physics concepts is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
@@ -449,15 +449,6 @@
     "reasoning": "Content focuses primarily on organizational change and scaling Agile practices, without addressing specific technical practices or software craftsmanship principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses organizational change and scaling rather than the specific role of software developers within Agile or DevOps frameworks.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:22:29",
@@ -467,23 +458,17 @@
     "reasoning": "Content does not discuss Lean Product Development principles or related techniques, focusing instead on agile scaling and organizational change.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses organizational change and scaling strategies, focusing on agile practices rather than software code quality or complexity.",
-    "level": "Ignored"
-  },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content addresses the challenges of organizational change and the need to embrace new values and principles for successful transformation, aligning it with themes of organizational culture, albeit it does not delve deeply into specific cultural elements or strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of fostering an Agile mindset and a culture of transparency, collaboration, and continuous improvement, which aligns well with the themes of organisational culture. It highlights the role of culture in enabling agility and addresses challenges related to product ownership and the superficial adoption of Agile practices. However, the primary focus is on engineering excellence and processes, which detracts from a deeper exploration of cultural aspects. Overall, while the content is relevant, it does not fully centre on organisational culture, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -505,20 +490,26 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on scaling Agile and organizational change rather than the specific role or responsibilities of a Scrum Master.",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile principles and the importance of an Agile mindset, which are relevant to the role of a Scrum Master. However, it does not explicitly mention the Scrum Master role or its specific responsibilities. The focus is more on general Agile practices and engineering excellence rather than the distinct functions of a Scrum Master, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions scaling Agile and discusses organizations successfully scaling, but it is more focused on general observations regarding organizational change rather than detailing specific frameworks or strategies for large scale agility.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of an Agile mindset and engineering excellence, which are relevant to agility but primarily focus on individual and team-level practices rather than large-scale Agile frameworks or enterprise-level strategies. While it touches on cultural shifts and metrics, it lacks a direct focus on scaling Agile across an organisation, which is essential for this category.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -557,15 +548,6 @@
     "reasoning": "Content primarily discusses organizational change and scaling in software delivery, with no focus on decision-making processes or decision theory principles.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the challenges of scaling agile practices in organizations but does not focus explicitly on Scrum principles, roles, events, or artifacts. Instead, it seems to address broader themes of agility and business transformation.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:22:29",
@@ -586,21 +568,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges organisations face in changing their business practices and touches on scaling and agile principles, making organisational change a significant theme.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses scaling agile practices but focuses more on the challenges and commonalities between organizations rather than specific frameworks or enterprise-level strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agility and the Agile mindset, which are relevant to organisational change. It touches on the need for a cultural shift and the challenges organisations face in adopting Agile practices. However, it primarily focuses on engineering excellence and technical aspects rather than providing a comprehensive exploration of organisational change frameworks or methodologies. The discussion on metrics and continuous improvement aligns with change management principles but lacks depth in specific organisational change strategies.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -610,15 +586,6 @@
     "final_score": 0.0,
     "reasoning": "Content discusses scaling agile practices but does not focus primarily on Lean Thinking principles or waste minimization.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the challenges organizations face in changing their processes and highlights the importance of values and principles in successful scaling, indicating a focus on human behavior in organizational contexts.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,12 +598,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges organizations face in adapting their business practices in the context of agile methodologies, and mentions the successful scaling of agile principles, indicating a focus on business agility principles even if it is not the primary subject.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of agility in business, emphasising the need for a cultural shift and effective processes. It highlights the role of engineering excellence and the Agile mindset, which are crucial for business agility. The mention of metrics and the need for continuous improvement aligns well with the principles of business agility. However, while the content is rich in relevant themes, it does not delve deeply into specific strategies or case studies, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -667,10 +637,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T11:22:29",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organizational change and scaling in Agile, without addressing the Definition of Ready specifically.",
     "level": "Ignored"
   },
@@ -683,7 +653,7 @@
     "reasoning": "Content discusses organizational change and scaling but does not directly address Lead Time as a primary topic.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T11:22:29",
     "ai_confidence": 0,
@@ -694,21 +664,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges of organizational change and scaling Agile, which relates to leadership in guiding teams through transformation. However, it primarily focuses on scaling practices rather than explicitly addressing leadership roles or empowerment strategies.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses scaling Agile processes without a focus on AI or automation; it primarily addresses organizational change and the philosophies of Agile.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Agile mindset and the importance of fostering a culture of collaboration and continuous improvement, which aligns with Agile Leadership principles. However, it primarily focuses on engineering practices and technical challenges rather than explicitly addressing leadership roles or strategies. The mention of product ownership and the need for training indicates some leadership aspects, but they are not the primary focus of the discussion.",
+    "level": "Secondary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -748,21 +712,15 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the challenges organizations face in adapting to change and delivers insights on successful scaling in a competitive environment, indicating a secondary theme of market adaptability.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges and strategies of scaling agile practices, with no explicit mention or focus on AI applications in Agile or DevOps.",
-    "level": "Ignored"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agility and engineering excellence in responding to rapid changes in the business landscape, which aligns well with the principles of market adaptability. It highlights the need for a cultural shift towards agility, the role of effective product ownership, and the significance of metrics in measuring progress, all of which are relevant to enhancing an organisation's responsiveness to market shifts. However, while the content touches on these themes, it does not delve deeply into specific strategies or methodologies that directly enhance market adaptability, leading to a moderately high confidence score.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
@@ -793,12 +751,15 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses scaling agility and the commonalities among organisations that successfully embrace agile principles, although it does not deeply delve into specific frameworks or organisational strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of agility in a business context, highlighting the need for a cultural shift and continuous improvement, which aligns well with the principles of Enterprise Agility. It mentions the Agile mindset, the role of metrics, and the necessity of adapting practices to fit organisational needs, indicating a strong conceptual alignment. However, while it touches on broader themes, the focus remains somewhat on team-level practices and engineering excellence, which slightly detracts from a purely organisational perspective.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -807,15 +768,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content does not discuss the Product Backlog or its significance in Agile frameworks; it focuses on organizational change and scaling in Agile, which is unrelated.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses scaling in organizations and the challenges of change but does not focus on Agile Project Management principles, frameworks, or practices.",
     "level": "Ignored"
   },
   "Psychological Safety": {
@@ -836,24 +788,6 @@
     "reasoning": "Content primarily focuses on organizational change and scaling Agile practices rather than the identification and resolution of technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses organizational change and scaling agile practices but does not focus on specific products, tools, or literature relevant to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses scaling agile practices and the challenges organizations face, which relates to news about contemporary practices in Agile. However, it does not provide specific updates or reviews, making it a secondary theme.",
-    "level": "Tertiary"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T11:22:29",
@@ -872,15 +806,6 @@
     "reasoning": "Content primarily discusses organizational strategies and the challenges of scaling Agile, without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges and principles of scaling agility within organizations, which aligns with the topic of scaling Scrum, although it does not focus specifically on Scrum frameworks or practices.",
-    "level": "Tertiary"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T11:22:29",
@@ -892,19 +817,19 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T11:22:29",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses organizational scaling and the challenges of change, without a clear focus on Scrum values.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T11:22:29",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses scaling agile frameworks but does not focus on Agile Product Management principles or practices.",
     "level": "Ignored"
   },
@@ -919,11 +844,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses scaling agile practices in organizations without a focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and DevOps practices, focusing on engineering excellence and organisational culture rather than the specific principles of Test First Development. There are no direct mentions of Test First practices, success criteria, or testing methodologies that align with the category. While it touches on continuous improvement and collaboration, these themes are too broad and do not specifically address Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -973,12 +901,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content touches on the challenges organizations face with scaling agile and implies some strategic considerations behind overcoming these challenges. However, it primarily discusses the concept of scaling without delving deeply into specific strategic frameworks or methods, making strategy a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses various aspects of Agile and DevOps, focusing on the importance of engineering excellence, the Agile mindset, and the role of metrics in transformation. While it does not explicitly label these discussions as 'strategy', it aligns well with strategic themes such as continuous improvement, value delivery, and adapting to change. The depth of discussion is substantial, providing insights into challenges and recommendations for enhancing Agile practices, which supports a higher confidence score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -991,12 +922,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the need for organizations to embrace fundamental Agile values and principles in order to succeed as opposed to merely scaling Agile practices, indicating a major theme related to Agile Philosophy.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Agile mindset and its importance in fostering a culture of collaboration and continuous improvement, aligning well with the Agile Philosophy. It highlights the need for adaptability and the significance of understanding Agile beyond mere processes. However, it also delves into technical aspects and specific practices, which slightly detracts from its focus on the broader philosophical implications.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1007,32 +941,29 @@
     "reasoning": "Content discusses organizational change and scaling issues rather than specific methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the challenges organizations face in scaling agile practices and hints at successful strategies for scaling, but it primarily emphasizes the difficulties and commonalities, making scaling agility a significant but secondary theme.",
-    "level": "Tertiary"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the need for organizations to change their business practices and highlights the commonalities among those successfully adapting to agile principles, although it is not the primary focus.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of an Agile mindset, the need for cultural shifts, and the role of metrics in measuring progress towards agility. It highlights the balance between engineering excellence and effective processes, which aligns with the core themes of organisational agility. The depth of discussion is substantial, covering various aspects of agility, including the challenges organisations face and the importance of continuous improvement. However, while it touches on key topics, it does not delve deeply into specific frameworks or case studies, which slightly lowers the overall confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the need for organizations to fundamentally change their business practices to improve software delivery, which aligns with Agile transformation principles, but the focus on successful scaling and joining events may indicate a broader theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the Agile mindset and its importance in transforming organisations, highlighting the need for cultural shifts and effective product ownership. It also touches on metrics for measuring progress in Agile transformations. However, while it mentions Agile principles and practices, the focus on engineering excellence and specific case studies detracts from a deeper exploration of Agile transformation strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1043,30 +974,12 @@
     "reasoning": "Content focuses on scaling agile methodologies and does not address portfolio management or the alignment of strategy with execution.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content touches on the need for organizations to change their business practices and discusses how successful scaling is achieved, which aligns with themes of adaptability and transformation. However, the primary focus appears to be more on scaling agile rather than a comprehensive exploration of resilience practices.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses scaling Agile and the challenges organizations face, without a clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T11:22:29",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the challenges of scaling Agile and organizational change, without specifically discussing Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -1077,15 +990,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on the broad challenges of scaling agile practices rather than specifically addressing frequent software releases or related practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on general observations about organizations scaling Agile rather than specific techniques, tools, or methodologies.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1135,21 +1039,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses the challenges of scaling Agile and the need for fundamental changes in business practices without a direct focus on the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the challenges and misconceptions of scaling agile practices in organizations without a direct focus on discovery and learning methodologies.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Agile mindset and the importance of effective product ownership, which aligns with the principles of the Agile Product Operating Model. It mentions the need for continuous improvement and the role of metrics, which are relevant to APOM. However, the primary focus is more on general Agile and DevOps practices rather than specifically on the Agile Product Operating Model, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1178,23 +1076,17 @@
     "reasoning": "Content is primarily focused on organizational change and business practices, not on automated testing or its principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses scaling agile but does not specifically focus on Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organizations face in scaling agile practices and hints at the importance of practical approaches to navigate these challenges, making it a significant secondary theme.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses practical problem-solving strategies within Agile and DevOps contexts, particularly through real-world examples like the Knight Capital Group incident. It emphasises the importance of engineering excellence and the Agile mindset, aligning well with the core themes of pragmatic thinking. The depth of discussion is significant, covering various aspects such as product ownership, metrics, and the need for continuous improvement, which are all crucial for navigating complexity in project management.",
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1261,12 +1153,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the need for organizations to focus on Agile values and principles, particularly in the context of scaling Agile practices. However, it does not extensively cover the foundational Agile methodologies or the Agile Manifesto.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the Agile mindset and the importance of collaboration, transparency, and continuous improvement, which are core Agile principles. It also touches on the significance of understanding Agile beyond mere processes. However, it primarily focuses on engineering excellence and practical challenges rather than deeply exploring Agile values and principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -1279,12 +1174,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the challenges organizations face in changing their business practices to improve software delivery, which implies a consideration of the interplay between social aspects (organizational change, culture) and technical aspects (software delivery). However, it does not delve deeply into sociotechnical systems or their specific frameworks, making the category a major but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the interplay between engineering excellence and effective processes, which aligns with sociotechnical systems. It touches on organisational culture, the importance of collaboration, and the role of product ownership, indicating a recognition of social aspects in technology adoption. However, while these themes are present, the primary focus remains on technical practices and Agile methodologies rather than a comprehensive exploration of sociotechnical interactions.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1342,28 +1240,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:22:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses scaling in agile organizations and the challenges they face, not focusing on empirical evidence or evidence-based management principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content briefly mentions evidence-based management (EBM) metrics in the context of measuring progress and making informed decisions, which aligns with the category. However, the primary focus is on Agile and DevOps practices rather than a deep exploration of EBM principles. The discussion on metrics is relevant but not extensive enough to warrant a higher score.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T11:22:29",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the challenges of scaling agile practices rather than providing technical instructions on installation or configuration.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:22:29",
+    "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses scaling agile methodologies and the struggles organizations face with change, rather than focusing on the ability to innovate or empirical data-driven practices.",
     "level": "Ignored"
   },
@@ -1375,5 +1276,445 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses organizational change and scaling rather than specific techniques and strategies aimed at operational efficiency.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:08:24",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses scaling agile practices and organisational change, with no clear focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:08:25",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses organisational change and scaling agile practices, with no clear focus on Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 50,
+    "final_score": 25.0,
+    "reasoning": "The content discusses various aspects of project management and agile methodologies, including Scrum principles, but lacks a focused and coherent discussion specifically on Scrum. While there are mentions of Scrum roles and frameworks, the overall content is more of a general discussion on agile practices and challenges rather than a dedicated exploration of Scrum itself.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile and DevOps principles, focusing on engineering excellence and the importance of a mindset shift. However, it does not explicitly mention the Shift-Left Strategy or its core themes, such as integrating testing and security early in the development process. While there are elements of continuous improvement and metrics, the primary focus remains on Agile practices rather than the proactive approach of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of continuous improvement within the context of Agile and DevOps, highlighting the need for a culture of learning and adaptation. It mentions fostering a culture of continuous improvement and the role of metrics in measuring progress, which aligns with the core themes of the category. However, while these concepts are present, they are not the primary focus of the content, which also heavily emphasises engineering excellence and the Agile mindset. Therefore, the confidence score reflects a strong but not dominant alignment with the Continuous Improvement category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile and DevOps principles but lacks a direct focus on Common Goals. While it touches on the importance of collaboration and continuous improvement, it does not explicitly define or explore the significance of Common Goals in aligning strategy with execution. The discussion is more centred on engineering excellence and the Agile mindset rather than the shared objectives that guide decision-making within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of engineering excellence and continuous improvement, which aligns well with the principles of competence. It highlights the need for skill development, particularly in the context of product ownership and Agile practices. The depth of discussion on fostering a culture of learning and the consequences of neglecting competence in engineering practices further supports a strong alignment with the category. However, while competence is a significant theme, the content also touches on broader Agile concepts, which slightly dilutes its primary focus.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile and DevOps practices, focusing on engineering excellence and the Agile mindset. While it touches on themes of collaboration and continuous improvement, it does not explicitly mention the One Engineering System framework or its principles. The discussion lacks depth regarding the integration of tools and processes across teams, which is central to 1ES. Therefore, the content is only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:41",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile and DevOps practices, focusing on engineering excellence and the Agile mindset. However, it lacks explicit references to Agentic Agility, such as intentional shaping of outcomes or the distinction between human and AI capabilities. While it touches on themes of adaptability and continuous improvement, it does not delve deeply into the principles or mechanisms of Agentic Agility, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:54",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses Agile concepts and the importance of processes, but it does not explicitly mention Hybrid Agile or delve into the challenges of merging traditional project management with Agile practices. While it touches on the superficial adoption of Agile ('skin deep agile'), it lacks a focused critique of Hybrid Agile, including the conflicts and pitfalls associated with it. The overall discussion primarily promotes an Agile mindset and engineering excellence rather than analyzing the dysfunctions of Hybrid Agile, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses Agile and DevOps practices, focusing on engineering excellence and a culture of transparency and continuous improvement without any specific reference to Cell Structure Design or its principles. As a result, there are no direct mentions, and the conceptual alignment with the core themes of Cell Structure Design is minimal, primarily focusing instead on traditional Agile methodology.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content discusses key principles such as continuous improvement, engineering excellence, and the Agile mindset, which are crucial for decision-making in Agile and DevOps. It includes specific examples and emphasizes a culture of learning and adaptation. While it focuses heavily on principles that influence team behavior, the explicit discussions of these principles are somewhat scattered and not always directly linked to actionable guidelines, which slightly lowers the score.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 57.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile methodology in depth, emphasizing engineering excellence and the Agile mindset. However, it does not fully encompass broader project management principles such as scope, time, cost, and roles beyond product ownership. While it touches on aspects relevant to project management, like continuous improvement and effective processes, the primary focus remains on Agile practices rather than a holistic view of project management across various methodologies.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 35.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses Agile and DevOps but does not specifically mention Open Space Agile or its core principles. It focuses on engineering excellence and the general Agile mindset without addressing key themes such as Open Space Technology, psychological safety, or co-creation. Therefore, while the content touches on Agile concepts, it does not align well with Open Space Agile and lacks depth in discussing relevant practices.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 22.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content discusses Agile and DevOps principles broadly, emphasizing the importance of engineering excellence and the Agile mindset. However, it does not specifically mention any tools or their functionalities. There is a light adherence to the themes related to tools by discussing the importance of metrics and training, but the content lacks direct focus on any particular tools or their integration within frameworks. As such, it does not meet the primary emphasis required for the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses Agile and DevOps practices but does not mention specific Liberating Structures or their integration into team facilitation. It focuses more on engineering excellence and the Agile mindset without delving into actionable methods or techniques related to Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses key elements of Agile and DevOps, emphasizing the importance of fostering a culture of transparency, collaboration, and continuous improvement, which aligns with core values. However, its focus is more on practical application rather than a deep philosophical exploration of values. While there are specific mentions of values related to the Agile mindset, the content primarily revolves around processes and engineering excellence rather than an in-depth exploration of guiding principles.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile and DevOps primarily in a practical context, focusing on engineering excellence and effective processes rather than exploring the philosophical underpinnings of these methodologies. Although it includes concepts such as the Agile mindset and continuous improvement, which touch on philosophical aspects, most of the content is grounded in personal anecdotes and practical challenges rather than theoretical discussions about philosophy itself. Additionally, the exploration of issues like product ownership and metrics, while relevant to the culture and decision-making in organizations, lacks depth in philosophical exploration, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 76.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content addresses several core themes of the Discipline category, especially regarding Agile and DevOps. It discusses the importance of engineering excellence, the significance of a proper understanding of Agile principles, and continuous improvement. However, while it mentions discipline-related concepts, the primary focus is on practical experiences and challenges in Agile adoption rather than a systematic application of discipline. The detailed anecdotes provide some depth but do not fully adhere to the rigor of disciplinary discussions.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content touches on Agile and DevOps practices but largely focuses on engineering excellence and the challenges of product ownership rather than on artifacts themselves. There is a brief mention of backlog prioritization which relates to artifacts, but overall, the content does not dive deeply into the structure, purpose, or management of artifacts specifically, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content mentions the role of metrics in Agile transformation, which is related to observability, but it does not deeply explore observability as a primary focus. It discusses concepts of transparency and continuous improvement, but it lacks detailed insights into observability principles, tools, or practices specifically tailored for measuring and understanding internal system states. The overall focus is more on Agile and DevOps processes rather than a dedicated discussion on observability.",
+    "level": "Tertiary"
+  },
+  "Time to Market": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 40.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 40.0,
+    "reasoning": "While the content discusses Agile and DevOps processes and mentions the importance of metrics, it does not specifically focus on Time to Market as a primary topic. There are anecdotes related to engineering excellence and a general push towards improving Agile practices, but there is a lack of explicit metrics or strategies specifically associated with reducing Time to Market.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 78.0,
+    "ai_depth": 66.0,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile and DevOps principles which are central to product development. It mentions the importance of engineering excellence and the Agile mindset, aligning well with product development themes. The discussion on continuous improvement, product ownership, and metrics further demonstrates depth, showing the importance of aligning strategies with outcomes. However, while it is focused on product development practices, it sometimes lapses into general observations about culture and mindset, reducing the overall confidence score.",
+    "level": "Secondary"
+  },
+  "Practice": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 48.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 48.0,
+    "reasoning": "The content discusses various aspects of Agile and DevOps, emphasizing the importance of engineering excellence and an agile mindset. While it touches on the values of continuous improvement and collaboration, it lacks specific actionable techniques directly related to the 'Practice' category. It includes some mentions of training and metrics related to Agile practices, but it is more focused on theoretical aspects rather than providing concrete practices or actionable techniques. Therefore, while there is some alignment and depth in discussing practices relevant to Agile, it doesn't closely fit into the 'Practice' category as specified.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile and DevOps principles, emphasizing the importance of an Agile mindset and continuous improvement. However, it primarily revolves around engineering practices and process challenges rather than explicitly framing the company as a product in alignment with CaaP principles. While it touches upon culture and collaboration, it lacks a concrete discussion of how these principles are integrated into organizational design or customer-centric strategies central to the CaaP concept.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 33.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 33.0,
+    "reasoning": "The content discusses various concepts related to Agile and DevOps, focusing on the importance of balancing engineering excellence with effective processes. However, it primarily emphasizes mindset and culture rather than outlining specific structured methods or procedures. While there are mentions of training for product owners and methodologies like evidence-based management, there is insufficient detail on actual methods or step-by-step processes, which limits its alignment with the 'Method' category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content touches on key aspects of Agile and DevOps, including continuous improvement and metrics that contribute to performance understanding, which aligns with the idea of capturing unrealised value. However, it does not explicitly focus on unrealised value as defined in the category description. The mention of EBM metrics suggests some level of opportunity identification, but the content primarily revolves around engineering and process excellence without delving deeply into untapped market demand or strategic insights directly linked to unrealised value.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 25.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 2,
+    "ai_depth": 3,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content touches on Agile and DevOps concepts, emphasizing engineering excellence and the importance of collaboration and continuous improvement. However, it primarily focuses on general Agile practices, the Agile mindset, and the importance of effective processes, which are not aligned with the specific complexities of scaling as outlined in the category criteria. The discussion does not delve into scaling frameworks or strategies for coordinating multiple teams across a complex product landscape. Since scaling is mentioned only indirectly and the main themes relate more to general agility and processes, the confidence score reflects a low level of direct relevance.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of balancing engineering excellence and effective processes in Agile and DevOps, which relates to models in terms of systems thinking and continuous improvement. It touches on concepts such as the Agile mindset and evidence-based management metrics, but it lacks a focused exploration of specific models like the Cynefin Framework or Lean Startup principles. The mentions of metrics and an experimental approach show some alignment with the category, but overall, the primary focus is more on practices and experiences rather than distinct conceptual models.",
+    "level": "Tertiary"
+  },
+  "Current Value": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 55.0,
+    "ai_mentions": 4,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses Agile and DevOps but does not specifically focus on Current Value. While it mentions the importance of metrics for measuring progress and emphasizes outcomes over outputs, it lacks detailed discussion on Current Value metrics or real-time evaluation of value delivery. The conceptual alignment with the core themes of Current Value is moderate, while the depth of discussion on practical application and measurement is surface-level, leading to an overall moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile and DevOps practices and the importance of an Agile mindset, but it does so primarily through personal reflections and broad observations rather than focusing on specific frameworks like Scrum, Kanban, or SAFe. It mentions concepts that are related to frameworks but does not delve deeply into any specific framework structure, implementation strategies, or comparative analysis. Therefore, while it touches upon themes relevant to the category, it does not strictly adhere to the ‘Framework’ classification criteria.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses Agile and DevOps principles, highlighting the importance of engineering excellence, continuous improvement, and the Agile mindset. However, it tends to focus more on general philosophies and personal anecdotes rather than providing specific, actionable tenets that guide decisions and behaviors. While it does mention the necessity of an experimental approach and evidence-based management metrics, it lacks concrete examples of tenets that are typically prescriptive in nature. Therefore, while there is some alignment with the category of 'Tenet', the discussion does not fit strictly within the defined boundaries of actionable guiding rules.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "resourceId": "i_DglXgaePM",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and DevOps practices without any direct mention or focus on GitHub or its functionalities. While it touches on topics relevant to software development processes, it does not provide insights specifically related to GitHub services or tools, and therefore aligns very loosely with the category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "new_id_placeholder",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses themes related to agility, continuous improvement, and an agile mindset, which loosely aligns with Agnostic Agile principles. However, it focuses more on specific challenges and practices in Agile and DevOps without explicitly mentioning or emphasizing Agnostic Agile principles. It lacks a clear and primary focus on the core themes of Agile adaptability and ethical considerations, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "i_DglXgaePM",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:55",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of effective processes and engineering excellence in the context of Agile and DevOps, touching on the concepts of capability. However, it primarily emphasizes roles and practices rather than the deeper systemic capabilities that enhance overall organizational performance. The alignment score reflects some relevance to the category, but the depth of discussion primarily focuses on challenges, mentoring, and methods rather than robust capabilities themselves.",
+    "level": "Secondary"
   }
 }

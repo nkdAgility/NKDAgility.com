@@ -2,8 +2,10 @@
 title: '7 deadly sins of Agile: Gluttony'
 description: "Discover the pitfalls of gluttony in Agile! \U0001F354 Learn how bloated backlogs and overloaded sprints waste effort and hinder success. Watch now! \U0001F4CA✨"
 date: 2023-10-11T11:35:09Z
+weight: 505
 ResourceId: 2ASLFX2i9_g
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2ASLFX2i9_g
@@ -14,39 +16,38 @@ preview: https://i.ytimg.com/vi/2ASLFX2i9_g/maxresdefault.jpg
 duration: 412
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-gluttony
-- /resources/videos/gluttony!-7-deadly-sins-of-agile
-- /resources/videos/2ASLFX2i9_g
-- /resources/gluttony!-7-deadly-sins-of-agile
 - /resources/2ASLFX2i9_g
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-gluttony
+- /resources/videos/gluttony-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-gluttony
+- /resources/videos/7-deadly-sins-of-agile-gluttony
 - /resources/7-deadly-sins-of-agile-gluttony
 - /resources/videos/gluttony!-7-deadly-sins-of-agile
 - /resources/gluttony!-7-deadly-sins-of-agile
+- /resources/videos/gluttony-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-gluttony
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Agile Product Management
-- Metrics and Learning
-- Scrum Product Development
-- Agile Planning
-- Team Performance
-- Value Delivery
-- Agile Project Management
+- Pragmatic Thinking
 - Software Development
-- Software Developers
+- Agile Planning
+- Agile Product Management
+- Operational Practices
+- Product Delivery
+- Product Backlog
+- Team Performance
 resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
 - Scrum
-- Social Technologies
-- Product Management
 
 ---
-## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and Scrum 🌟 
+## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and [Scrum]({{< ref "/categories/scrum" >}}) 🌟 
 
 In the Agile realm, 'gluttony' extends beyond mere overconsumption. It's a metaphor for the excessive accumulation of backlogs and products, often paralysing the agility of teams.
 
@@ -54,7 +55,7 @@ In the Agile realm, 'gluttony' extends beyond mere overconsumption. It's a metap
 
 This blog delves into how Agile teams can avoid falling into this common pitfall. 
 
-## **The Pitfall of an Overloaded Product Backlog** 📚✨ 
+## **The Pitfall of an Overloaded [Product Backlog]({{< ref "/tags/product-backlog" >}})** 📚✨ 
 
 - **Consequences of a Bloated Backlog:** A crowded product backlog can lead to confusion, decreased focus, and hindered agility. The presence of too many items can obscure the team's vision of what's truly important. 
 
@@ -68,7 +69,7 @@ This blog delves into how Agile teams can avoid falling into this common pitfall
 
 - **Striking the Right Balance:** Successful Sprint planning lies in setting attainable goals. A well-planned Sprint with realistic targets can lead to consistent, high-quality outputs, fostering a sense of achievement and motivation within the team. 
 
-## **Streamlining the Product: A Lean Approach** 🛠️💡 
+## **Streamlining the Product: A [Lean]({{< ref "/categories/lean" >}}) Approach** 🛠️💡 
 
 - **The Weight of Unused Features:** An overcrowded product with seldom-used features can significantly impede a team's progress. It's not just about the quantity of features but their impact and usage. 
 
@@ -88,6 +89,6 @@ The key to avoiding gluttony in Agile and Scrum is recognising that more isn't a
 
 - **Feature Audits:** Regularly assess and remove features that don't add value. 
 
-- **Embrace Value Delivery:** Ensure every feature and task adds real value. 
+- **Embrace [Value Delivery]({{< ref "/tags/value-delivery" >}}):** Ensure every feature and task adds real value. 
 
 - **Leverage Feedback:** Use insights from customers and team members to guide decisions.

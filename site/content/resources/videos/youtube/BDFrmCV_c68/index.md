@@ -2,8 +2,10 @@
 title: '7 deadly sins of Agile: Pride'
 description: "Explore the dual nature of pride in Agile! Learn to harness it wisely while avoiding costly pitfalls. Join Martin for insights on data-driven success. \U0001F4CA\U0001F6AB"
 date: 2023-10-13T07:00:05Z
+weight: 1000
 ResourceId: BDFrmCV_c68
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: BDFrmCV_c68
@@ -15,33 +17,27 @@ preview: https://i.ytimg.com/vi/BDFrmCV_c68/maxresdefault.jpg
 duration: 251
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-pride
-- /resources/videos/pride!-7-deadly-sins-of-agile
-- /resources/videos/BDFrmCV_c68
-- /resources/pride!-7-deadly-sins-of-agile
 - /resources/BDFrmCV_c68
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-pride
+- /resources/videos/pride-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-pride
+- /resources/videos/7-deadly-sins-of-agile-pride
 - /resources/7-deadly-sins-of-agile-pride
 - /resources/videos/pride!-7-deadly-sins-of-agile
 - /resources/pride!-7-deadly-sins-of-agile
+- /resources/videos/pride-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-pride
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Metrics and Learning
-- Personal
+- Software Development
 - Pragmatic Thinking
-- Product Owner
-- Agile Product Management
-- Value Delivery
-- Evidence Based Leadership
-- Experimentation
-- Hypothesis Driven Development
-- Decision Making
 resourceTypes:
 - video
 categories:
-- Product Management
+- Product Development
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 
@@ -86,7 +82,7 @@ Pride can lead us to focus on vanity metrics, those that look good on paper but 
 
 **Conclusion**  
 
-In Agile, pride must be tempered with humility and a commitment to continuous learning. 🌱 Embrace a culture where feedback is valued over ego, where data drives decisions, and where failures are seen as opportunities to grow. 
+In Agile, pride must be tempered with humility and a commitment to [continuous learning]({{< ref "/tags/continuous-learning" >}}). 🌱 Embrace a culture where feedback is valued over ego, where data drives decisions, and where failures are seen as opportunities to grow. 
 
 - **Embrace Humility:** Stay open to learning and feedback. 
 

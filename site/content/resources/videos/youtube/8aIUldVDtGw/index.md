@@ -2,8 +2,10 @@
 title: 'Stop Starting and Start Finishing: The Key to Team Success'
 description: Unlock Agile success! Learn to "stop starting and start finishing" for enhanced productivity and team effectiveness. Watch now for valuable insights!
 date: 2024-01-31T14:26:11Z
+weight: 440
 ResourceId: 8aIUldVDtGw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 8aIUldVDtGw
@@ -15,40 +17,43 @@ preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
 duration: 496
 isShort: false
 aliases:
-- /resources/stop-starting-and-start-finishing-the-key-to-team-success
-- /resources/videos/stop-starting-and-start-finishing!
-- /resources/videos/8aIUldVDtGw
-- /resources/stop-starting-and-start-finishing!
 - /resources/8aIUldVDtGw
-aliasesFor404:
+- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
+- /resources/videos/stop-starting-and-start-finishing
+aliasesArchive:
+- /resources/videos/stop-starting-and-start-finishing-the-key-to-team-success
 - /resources/stop-starting-and-start-finishing-the-key-to-team-success
 - /resources/videos/stop-starting-and-start-finishing!
 - /resources/stop-starting-and-start-finishing!
+- /resources/videos/stop-starting-and-start-finishing
+- stop-starting-and-start-finishing-the-key-to-team-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Lean
-- People and Process
-- Throughput
-- Strategy
-- Lean Product Development
-- Agile Product Management
-- Lean Thinking
-- Scrum Product Development
+- Operational Practices
+- Pragmatic Thinking
+- Value Delivery
 - Cycle Time
+- Lean Principles
 - Team Performance
+- Flow Efficiency
+- Lean Thinking
+- Throughput
+- Agile Product Management
+- Software Development
+- Product Delivery
 resourceTypes:
 - video
 categories:
+- Product Development
+- Lean
 - Product Management
-- Social Technologies
-- Scrum
 
 ---
-In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from Lean methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.
+In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from [Lean]({{< ref "/categories/lean" >}}) methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.
 
-In this blog post, we’ll explore why this mindset is critical for Scrum teams and how implementing it can significantly improve efficiency, productivity, and overall business value.
+In this blog post, we’ll explore why this mindset is critical for [Scrum]({{< ref "/categories/scrum" >}}) teams and how implementing it can significantly improve efficiency, productivity, and overall business value.
 
 ## **The Cost of Multitasking: A Cognitive Drain**
 
@@ -74,9 +79,9 @@ For instance, how often have you found yourself in the shower thinking, “How d
 
 👉 **Pro Tip**: Focus on finishing a single project to completion before jumping to the next one. Your business cares about outcomes, not how many tasks you’re managing at once!
 
-## **The Role of Leadership in Pushing Multiple Priorities**
+## **The Role of [Leadership]({{< ref "/categories/leadership" >}}) in Pushing Multiple Priorities**
 
-While it may seem like leadership is always pushing for more work to be completed simultaneously, it's often **middle management** that applies this pressure. Middle managers, who are accountable for team performance, sometimes mistakenly believe that more tasks underway means more progress is being made.
+While it may seem like leadership is always pushing for more work to be completed simultaneously, it's often **middle management** that applies this pressure. Middle managers, who are accountable for [team performance]({{< ref "/tags/team-performance" >}}), sometimes mistakenly believe that more tasks underway means more progress is being made.
 
 However, this approach often results in:
 
@@ -86,7 +91,7 @@ However, this approach often results in:
 
 - **Slower delivery times** as tasks pile up without being completed
 
-**In Scrum**, one of the core principles is to have a **single Product Owner** who prioritizes the backlog and funnels the work. This singular focus ensures that teams aren't overwhelmed by conflicting demands from various stakeholders.
+**In Scrum**, one of the core principles is to have a **single [Product Owner]({{< ref "/tags/product-owner" >}})** who prioritizes the backlog and funnels the work. This singular focus ensures that teams aren't overwhelmed by conflicting demands from various stakeholders.
 
 ## **Scrum and Lean: Aligning for Maximum Efficiency**
 
@@ -98,7 +103,7 @@ While Lean doesn't necessarily assign this role to an individual, it does advoca
 
 ### **Limiting Work in Progress (WIP)**
 
-Both Scrum and Lean methodologies emphasize the importance of **limiting WIP**. When teams attempt to do too many things at once, they inadvertently extend their cycle time—the total time it takes from starting a task to finishing it.
+Both Scrum and Lean methodologies emphasize the importance of **limiting WIP**. When teams attempt to do too many things at once, they inadvertently extend their [cycle time]({{< ref "/tags/cycle-time" >}})—the total time it takes from starting a task to finishing it.
 
 One way to visualize this is through a **Cumulative Flow Diagram** (CFD), which shows the difference between the amount of work started and the amount of work finished. When the gap between these two lines grows, it’s a clear indicator that too much work is being started and not enough is being completed.
 
@@ -120,7 +125,7 @@ When teams focus on value, they can:
 
 ## **Stop Starting, Start Finishing: Why It Matters**
 
-At the end of the day, the key to high-performing teams is simple: **stop starting work and start finishing it**. When teams focus on finishing tasks, they can reduce cycle times, improve throughput, and deliver more value to the business in a shorter amount of time.
+At the end of the day, the key to high-performing teams is simple: **stop starting work and start finishing it**. When teams focus on finishing tasks, they can reduce cycle times, improve [throughput]({{< ref "/tags/throughput" >}}), and deliver more value to the business in a shorter amount of time.
 
 ### **Benefits of Finishing Work Before Starting New Tasks:**
 

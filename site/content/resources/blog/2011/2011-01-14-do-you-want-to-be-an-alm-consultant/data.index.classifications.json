@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T00:04:16",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on the role of an ALM Consultant and does not discuss Agile Product Management principles or practices in a central manner.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, which includes providing training and consulting on tools like Visual Studio Team Foundation Server and ALM, indicating a secondary theme related to practical techniques and tooling.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T00:04:20",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with no clear discussion on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T00:04:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with no substantial discussion on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T00:04:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with little emphasis on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T00:04:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily focuses on the role of an ALM Consultant and does not discuss AI or automation in Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant role, detailing responsibilities and qualifications without any explicit discussion of Evidence-Based Management principles. While it mentions consulting and training, it lacks direct references to empirical decision-making, metrics, or the core themes of EBM. The content does not provide any depth or detail related to evidence-based practices, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,11 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T00:04:26",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and responsibilities for an ALM Consultant, with no focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T00:04:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with no clear discussion on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -100,29 +58,23 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-16T00:04:30",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with little to no discussion on the interplay between technology and organisational structures.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T00:04:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with no clear discussion on organisational resilience or change management.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T00:04:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the role of an ALM Consultant and related job requirements, with no clear discussion on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant, discussing skills and responsibilities related to Application Lifecycle Management and software development. While there are elements that touch on collaboration and efficiency, which are relevant to DevOps, the main emphasis is on consulting and training rather than the broader DevOps philosophy or practices. Therefore, it does not meet the criteria for a strong alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -143,15 +95,6 @@
     "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with no clear discussion on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions providing training and consulting, which could relate to events, but the primary focus is on job requirements and responsibilities rather than specific events or presentations.",
-    "level": "Tertiary"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T00:04:38",
@@ -161,39 +104,33 @@
     "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with no clear discussion on flow efficiency principles or practices.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T00:04:40",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the role of an ALM Consultant, focusing on team dynamics, collaboration, and the importance of interpersonal skills in a consulting environment, which aligns well with the category.",
-    "level": "Secondary"
-  },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, which includes elements of agile practices and leadership in a consulting context, but it primarily focuses on job requirements and responsibilities rather than a broader discussion on enterprise agility.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant, detailing the skills and responsibilities required for the role. While it mentions agile practices and the need for adaptability in software development, it lacks a broader discussion on enterprise agility as a cultural or organisational concept. The mention of agile methods is limited and does not explore frameworks, organisational structures, or strategies for fostering a culture of agility, which are key topics in the Enterprise Agility category.",
+    "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T00:04:43",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a job advertisement for an ALM Consultant, detailing job requirements and responsibilities without a clear emphasis on business agility principles or practices.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T00:04:44",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with no clear discussion on metrics or learning principles.",
     "level": "Ignored"
   },
@@ -208,19 +145,22 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, which includes providing training and consulting on best practices for software development and Application Lifecycle Management. However, the primary focus is on job requirements and company promotion rather than a deep exploration of technical excellence principles.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant position, which includes some references to technical skills and practices such as Application Lifecycle Management and Visual Studio. However, it lacks a direct discussion on the principles and methodologies that enhance technical excellence in software development. While it mentions the need for experience with agile methods and technical strategies, these are not explored in depth, making the overall alignment with the category moderate rather than strong.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-16T00:04:49",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with no clear discussion on complexity science or its principles.",
     "level": "Ignored"
   },
@@ -235,12 +175,15 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, which includes aspects of product delivery such as training on Agile methodologies and providing consulting on software development practices. However, the primary focus is on job requirements and responsibilities rather than a comprehensive discussion on product delivery methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of an ALM Consultant, which involves methodologies and practices related to product delivery, particularly in the context of Agile and software development. It mentions providing training and consulting on ALM and Visual Studio, which aligns with the core themes of product delivery. However, while it touches on relevant topics, the primary focus is on job requirements and responsibilities rather than a comprehensive discussion of product delivery methodologies.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -253,59 +196,56 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T00:04:55",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role and responsibilities of an ALM Consultant, with no clear discussion on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T00:04:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a job opportunity for an ALM Consultant and does not focus on products, books, or relevant literature.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, which includes providing training and consulting on Agile methodologies and best practices, indicating a focus on delivering value to customers. However, the primary focus is on job requirements and responsibilities rather than specific strategies or methodologies for value delivery.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on job requirements and responsibilities for an ALM Consultant, with some mention of Agile methodologies and training. However, it lacks a strong emphasis on value delivery strategies or methodologies, making it more of a recruitment advertisement than a discussion on value delivery.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses roles related to Application Lifecycle Management (ALM) and mentions Visual Studio Team Foundation Server, which are relevant to Azure DevOps, but the primary focus is on job requirements and consulting rather than Azure DevOps functionalities or practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of an ALM Consultant, which includes responsibilities related to Application Lifecycle Management and Visual Studio Team Foundation Server. However, it does not explicitly focus on Azure DevOps as a suite of tools or its specific functionalities. While there are mentions of related concepts, the primary focus is on the job description and qualifications rather than a detailed exploration of Azure DevOps services or best practices.",
     "level": "Tertiary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-16T00:05:01",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a job advertisement for an ALM Consultant position, detailing job requirements and responsibilities without personal reflections or experiences.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-16T00:05:02",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role and requirements of an ALM Consultant, discussing specific skills and experiences rather than Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T00:05:03",
     "ai_confidence": 0,
@@ -316,75 +256,69 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T00:05:05",
-    "ai_confidence": 0,
+    "calculated_at": "2025-03-22T08:47:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on the role and requirements of an ALM Consultant, with no clear discussion on the Agile Product Operating Model or its principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant and the skills required for the position, with only a brief mention of agile methodologies. It does not discuss the Agile Product Operating Model or its principles in any meaningful way, lacking depth and alignment with the core themes of the category.",
     "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an ALM Consultant and mentions the use of agile methodologies, but the primary focus is on job requirements and responsibilities rather than a deep exploration of organisational agility.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T00:05:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a job advertisement for an ALM Consultant position, lacking discussions on industry news, updates, or reviews.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the job description for an ALM Consultant, with some mention of agile methodologies in the context of software development. However, it lacks a comprehensive discussion on organisational agility principles, practices, or cultural shifts. While it touches on training and consulting related to agile practices, it does not delve into how these contribute to organisational adaptability or responsiveness, which is central to the category of Organisational Agility.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T00:05:08",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the role and responsibilities of an ALM Consultant, including training and consulting on Application Lifecycle Management practices and tools, which aligns closely with the category.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant, which directly mentions Application Lifecycle Management. However, while it discusses the responsibilities and skills required for the position, it lacks a comprehensive exploration of the stages of the application lifecycle or best practices in ALM. The alignment with core themes is present but not deeply elaborated, and the depth of discussion is limited to job requirements rather than broader ALM methodologies or tools.",
     "level": "Secondary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses providing training and consulting for Scrum, indicating that Scrum is a significant theme, but the primary focus is on the role of an ALM Consultant and related responsibilities.",
-    "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a job opportunity for an ALM Consultant and does not focus on the Daily Scrum or related Scrum events.",
     "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job recruitment for an ALM Consultant and does not focus on the Definition of Done in Agile or Scrum.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, emphasizing best practices in software design, enterprise architecture, and training in software development methodologies, which are relevant to technical mastery. However, the overall focus is more on the job role and qualifications than on the deeper technical principles and practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content primarily focuses on the job description for an ALM Consultant, which includes elements of technical expertise and best practices in software development. However, while it mentions the need for thought leadership on best practices and understanding of software design, the discussion is more about the role and responsibilities rather than a deep exploration of technical mastery principles. The content lacks detailed discussions on methodologies, principles, or practices that contribute to high-quality software development, which limits its alignment and depth in the context of the 'Technical Mastery' category.",
+    "level": "Secondary"
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -397,28 +331,31 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T00:18:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses job requirements and responsibilities for an ALM Consultant, focusing on Application Lifecycle Management and training, with no clear focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant and does not explicitly discuss Continuous Delivery principles or practices. While it mentions software development and consulting, it lacks direct references to Continuous Delivery concepts such as automation, incremental improvements, or rapid feedback. The discussion is more aligned with general software development and ALM rather than the specific practices of Continuous Delivery.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and responsibilities for an ALM Consultant, without a clear focus on long-term strategic goals or business agility.",
     "level": "Ignored"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about job requirements and responsibilities for an ALM Consultant, without a focus on Lead Time or its related concepts.",
     "level": "Ignored"
   },
@@ -433,19 +370,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a job advertisement for an ALM Consultant and does not address the Definition of Ready or any related criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with emphasis on Application Lifecycle Management, rather than on portfolio management practices or strategic alignment of projects and initiatives.",
     "level": "Ignored"
   },
@@ -460,12 +397,15 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile methodologies and their application in a consulting role, which is a major but secondary theme compared to the primary focus on recruiting for an ALM Consultant position.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant and the skills required for the position, with only brief mentions of Agile methodologies. While it discusses the need for understanding agile and formal software development methods, it lacks a detailed exploration of Agile Planning principles, techniques, or best practices. The discussion is more centred on job requirements and responsibilities rather than on Agile Planning as a core topic.",
+    "level": "Ignored"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -478,47 +418,53 @@
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an ALM consultant job description and requirements, with no clear discussion specifically about customer feedback integration processes.",
     "level": "Ignored"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, emphasizing the importance of providing training and mentoring related to Application Lifecycle Management (ALM) and Visual Studio Team Foundation Server, which can be seen as operational practices. However, the focus seems more on the requirements and expectations for a job role rather than on specific operational techniques or strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant position, detailing the qualifications and responsibilities associated with the role. While it mentions providing training and consulting on ALM and Visual Studio, which could relate to operational practices, the discussion lacks depth and specific techniques or strategies aimed at enhancing operational efficiency. The content does not delve into methodologies like Agile, DevOps, or Lean, nor does it provide practical applications or metrics for operational improvement, which are central to the category of Operational Practices.",
+    "level": "Secondary"
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on a job description for an ALM Consultant, mentioning Application Lifecycle Management and consulting roles rather than discussions specific to Scrum Team dynamics, roles, or practices.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on job requirements and responsibilities of an ALM consultant, mentioning agile only in the context of software development methods without addressing Agile principles or philosophy.",
     "level": "Ignored"
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses strategic elements of the ALM Consultant role, including thought leadership on best practices and technical strategy, but it primarily focuses on job requirements and qualifications rather than in-depth strategic planning and implementation.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant, detailing the responsibilities and qualifications required for the role. While it mentions the need for strategic thinking and the formulation of technical strategies, these elements are not the primary focus of the content. The discussion of strategy is limited and lacks depth, as it does not explore strategic alignment within Agile frameworks or provide insights into optimising delivery processes. Therefore, while there are relevant mentions, the overall emphasis is on job requirements rather than a comprehensive discussion of strategy.",
     "level": "Tertiary"
   },
   "Product Validation": {
@@ -532,21 +478,27 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the use of Agile and formal software development methods, as well as delivering Scrum courseware. However, it primarily focuses on the job description for an ALM consultant rather than a comprehensive discussion on Agile transformation.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions Agile in the context of software development methods and training but does not focus on Agile transformation strategies or methodologies. It primarily discusses the role of an ALM Consultant and the skills required, with only a brief reference to Agile practices. The alignment with Agile transformation principles is present but not deeply explored, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses mentoring as part of the role of an ALM Consultant, but the primary focus is on job requirements and qualifications rather than mentoring itself.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content mentions mentoring as part of the responsibilities of an ALM Consultant, indicating a role that involves guiding and training others. However, the primary focus is on job requirements and technical skills rather than a detailed discussion on mentoring techniques or strategies. The alignment with the core themes of mentoring is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -559,12 +511,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses roles related to providing training and consulting in Agile and Scrum contexts which could influence team performance, but it primarily focuses on a job posting rather than directly discussing team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the job description for an ALM Consultant, detailing qualifications and responsibilities rather than discussing team performance directly. While it mentions the need for strong interpersonal skills and the ability to work in a team environment, these points are not explored in depth or connected to specific strategies for enhancing team dynamics or performance. The content lacks explicit discussions on Agile methodologies or practices that would typically fall under the 'Team Performance' category.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -577,46 +532,40 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a job advertisement for an ALM Consultant, discussing responsibilities, skills, and qualifications relevant to application lifecycle management, without addressing concepts or principles related to Acceptance Test Driven Development.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T00:18:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 32.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content focuses on the role of an Application Lifecycle Management (ALM) Consultant, detailing responsibilities related to software development, agile methods, and consulting on best practices in software design and integration.",
-    "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content primarily focuses on the job requirements for an ALM Consultant and mentions agile methods briefly, indicating that it is a major but secondary theme in the context of the job description.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant, which is closely related to software development practices, particularly in the context of Application Lifecycle Management. It discusses the need for experience in software design, agile methodologies, and enterprise application integration, aligning well with the core themes of software development. However, while it mentions relevant practices and skills, the depth of discussion is more about job requirements and responsibilities rather than a comprehensive exploration of software development methodologies or best practices.",
+    "level": "Primary"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses an ALM Consultant job description and specific qualifications, with only a minor mention of agile methods in the context of software development. The central theme is not focused on Agile values or principles.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses job requirements and responsibilities for an ALM Consultant, mentioning Agile and Scrum only briefly and not in depth. It is largely focused on Application Lifecycle Management and related technologies rather than on Scrum principles or practices.",
     "level": "Ignored"
   },
@@ -640,10 +589,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on job requirements and responsibilities for an ALM Consultant, without addressing Scrum Values or their significance.",
     "level": "Ignored"
   },
@@ -694,28 +643,19 @@
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on job requirements and responsibilities for an ALM Consultant, with no direct discussion on customer satisfaction principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T00:18:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily focuses on a job posting for an ALM Consultant and discusses qualifications and responsibilities related to Application Lifecycle Management, without central relevance to scaling Scrum or its methodologies.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on a job description for an ALM Consultant, detailing qualifications and responsibilities related to software development and consulting, without discussing evidence-based leadership or empirical decision-making.",
     "level": "Ignored"
   },
@@ -728,23 +668,17 @@
     "reasoning": "Content focuses on a job posting for an ALM Consultant and does not discuss psychological safety or its impacts on team dynamics or performance.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T00:18:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a job advertisement for an ALM Consultant and discusses roles, responsibilities, and qualifications rather than strategies or frameworks for scaling agility across organizations.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an ALM Consultant and includes references to best practices in software development, such as providing training on Visual Studio Team Foundation Server and ALM, which align with engineering excellence. However, the primary focus is on job description and organizational context rather than on engineering practices themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of an ALM Consultant, which includes elements of software craftsmanship and best practices in software development. However, it primarily focuses on job requirements and responsibilities rather than a deep exploration of engineering excellence principles. While there are mentions of providing training and consulting on best practices, the overall discussion lacks depth and does not fully align with the core themes of engineering excellence.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -757,10 +691,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a job advertisement for an ALM Consultant position, detailing roles and responsibilities without discussing asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -775,21 +709,24 @@
   },
   "Customer Retention": {
     "category": "Customer Retention",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and responsibilities for an ALM Consultant role, with no clear focus on customer retention strategies or methodologies.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions providing training and consulting related to Agile methods, specifically Scrum and ALM, indicating a secondary theme of pragmatic thinking in real-world application. However, the primary focus is on job requirements and consultancy rather than on practical problem-solving techniques or case studies directly.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of an ALM Consultant, highlighting practical skills and experiences relevant to Agile and Scrum methodologies. It mentions providing training and consulting, which aligns with pragmatic problem-solving in real-world contexts. However, the focus is more on job requirements and responsibilities rather than a deep exploration of pragmatic thinking principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -802,46 +739,28 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses a job posting for an ALM Consultant, focusing on qualifications, responsibilities, and company culture rather than the measurement and improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T00:18:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses job requirements and responsibilities related to an ALM Consultant position, with only a brief mention of delivering Scrum training, which does not make Scrum product development a central topic.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T00:18:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a job description for an ALM Consultant, highlighting Software Development and Application Lifecycle Management rather than discussing Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the job description and requirements for an ALM Consultant role, with no clear discussions on employee engagement strategies or practices.",
     "level": "Ignored"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-16T00:18:51",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a job advertisement for an ALM Consultant and discusses skills and responsibilities related to software development and consulting, not Lean Thinking principles.",
     "level": "Ignored"
   },
@@ -856,37 +775,43 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant position, including detailed job requirements and responsibilities, rather than engaging in discussions about entrepreneurship, innovation, or the entrepreneurial process.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant position, detailing the responsibilities and qualifications required. While it mentions the need for thought leadership and helping to grow the business, which aligns with entrepreneurial principles, the overall emphasis is on job requirements and consulting roles rather than on entrepreneurship itself. The discussion lacks depth in entrepreneurial strategies, innovation, or risk-taking, which are core themes of the category.",
+    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, which includes delivering software and consulting on best practices that are related to working software. However, it is primarily focused on the job description and qualifications rather than directly on discussions about working software itself.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of an ALM Consultant and mentions providing training and consulting on software development practices, which aligns with the concept of working software. However, it primarily focuses on job requirements and responsibilities rather than delivering functional software or customer value directly. The discussion lacks depth in terms of specific methodologies or practices related to working software, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on the role and responsibilities of an ALM Consultant and does not discuss Agile planning tools specifically.",
     "level": "Ignored"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a job opportunity for an ALM Consultant and focuses on the qualifications and responsibilities associated with that role, without addressing Continuous Integration principles or practices.",
     "level": "Ignored"
   },
@@ -901,11 +826,14 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions the importance of providing training and consultation related to Agile methodologies, including Scrum. While Agile principles are referenced, the primary focus is on job requirements and descriptions for an ALM Consultant position, making Agile Leadership a secondary theme.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the job description for an ALM Consultant, detailing technical skills and responsibilities rather than discussing Agile Leadership principles. While there are mentions of leading teams and providing training, the emphasis is on technical expertise and consulting rather than on fostering a culture of adaptability, empowerment, or continuous improvement, which are core to Agile Leadership.",
     "level": "Tertiary"
   },
   "Sensemaking": {
@@ -928,10 +856,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on job description and qualifications for an ALM Consultant, with no explicit emphasis on hypothesis-driven development or experimentation.",
     "level": "Ignored"
   },
@@ -955,10 +883,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on the role and qualifications of an ALM Consultant, with little emphasis on release management strategies or practices.",
     "level": "Ignored"
   },
@@ -973,10 +901,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on an ALM consultant job role, including responsibilities and qualifications, without any mention of Cycle Time or related metrics.",
     "level": "Ignored"
   },
@@ -1000,56 +928,53 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on job recruitment for an ALM Consultant, detailing responsibilities and qualifications without a clear focus on change management strategies or practices.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the role of an ALM Consultant and mentions teamwork and interpersonal skills, indicating a connection to team collaboration; however, it mainly focuses on individual qualifications and responsibilities rather than central themes of teamwork or Agile frameworks.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of an ALM Consultant, highlighting the importance of teamwork, communication, and mentoring within a consulting context. However, it primarily focuses on job requirements and responsibilities rather than exploring team collaboration techniques or dynamics in depth. While there are mentions of working with teams and providing training, the overall emphasis is more on individual qualifications and tasks rather than a comprehensive discussion on team collaboration principles within Agile or DevOps frameworks.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on job recruitment for an ALM Consultant and discusses roles related to Application Lifecycle Management, not Behaviour Driven Development.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses roles and responsibilities related to Application Lifecycle Management (ALM) and training on Scrum, which are related to digital tools and processes but are secondary to the primary focus on job recruitment. It touches on aspects of digital transformation but does not primarily focus on strategic adoption or integration of digital technologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant and the skills required for the position, with some mention of training and consulting on Application Lifecycle Management. While it touches on aspects of digital tools and methodologies, it lacks a direct discussion on broader digital transformation strategies or the impact of digital technologies on business agility and innovation. The depth of discussion is moderate, but it does not fully align with the core themes of digital transformation as defined.",
+    "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T00:18:52",
     "ai_confidence": 0,
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a job opportunity for an ALM Consultant and does not focus on the development or discussion of a Minimum Viable Product.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T00:18:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on the role and requirements of an ALM Consultant and does not discuss AI applications in Agile or DevOps.",
     "level": "Ignored"
   },
   "System Configuration": {
@@ -1063,21 +988,24 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role and requirements of an Application Lifecycle Management Consultant, focusing on ALM practices rather than product strategy.",
     "level": "Ignored"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, which includes providing training, mentoring, and guidance on agile methodologies and technical strategies, indicating that technical leadership is a major theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of an ALM Consultant, highlighting responsibilities such as providing training, mentoring, and thought leadership on best practices. While it touches on aspects of technical leadership, such as guiding teams and aligning technical solutions with business needs, it lacks a focused discussion on agile methodologies and servant leadership principles. The depth of discussion on technical leadership is moderate, but it does not fully explore the core themes outlined in the category definition.",
+    "level": "Secondary"
   },
   "Estimation": {
     "category": "Estimation",
@@ -1090,37 +1018,43 @@
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily describes a job position for an ALM Consultant and does not focus on cross-functional teams or their principles.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T00:18:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of an ALM consultant and related responsibilities, without a focus on Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant position, discussing qualifications and responsibilities without any direct mention or discussion of Test First Development principles. While it touches on software development and best practices, it does not align with the core themes of Test First Development, such as defining success criteria or the role of testing in the development process.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T06:43:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses roles related to Application Lifecycle Management and mentions Visual Studio, which is related to Windows software development and solutions. However, the primary focus is on job requirements and consulting, not specifically on Windows as an operating system.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant, with some mentions of Microsoft technologies like Visual Studio and ALM practices. However, it does not delve into specific Windows operating system topics such as installation, configuration, or troubleshooting. The references to Microsoft products suggest a peripheral connection to the Windows environment, but the main focus is on consulting and training rather than Windows-specific discussions.",
+    "level": "Ignored"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses job requirements and responsibilities for an ALM Consultant, with no focus on deployment strategies or methodologies.",
     "level": "Ignored"
   },
@@ -1135,10 +1069,10 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on job requirements for an ALM Consultant and details about the role rather than team motivation strategies or dynamics.",
     "level": "Ignored"
   },
@@ -1180,11 +1114,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T00:18:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T19:18:00",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a job opportunity for an ALM Consultant, mentioning Agile only in the context of software development methods without focusing specifically on the Scrum Master role or responsibilities.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant, with only a brief mention of Scrum in the context of training and consulting. It does not delve into the specific responsibilities or impact of a Scrum Master, nor does it discuss the core themes associated with the Scrum Master role. The discussion lacks depth and does not align with the key topics outlined for the Scrum Master category.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,39 +1142,36 @@
     "reasoning": "The content primarily discusses a job opportunity for an ALM Consultant and the associated requirements, with no focus on working agreements, teamwork, or collaboration principles.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a position that requires experience in agile software development and mentions tools related to software delivery, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content describes a job position that involves providing training, consulting, and mentoring, which are activities related to coaching, but it primarily focuses on the job requirements and responsibilities rather than in-depth coaching practices.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of an ALM Consultant, which includes elements of training, mentoring, and providing guidance. However, it primarily focuses on job requirements and responsibilities rather than the broader principles of coaching. While there are mentions of mentoring and training, the overall emphasis is more on technical skills and consultancy rather than on fostering growth and development in a coaching context.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the qualifications for an ALM Consultant role and mentions Agile development methods, but it primarily focuses on job responsibilities and requirements rather than core engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant, discussing responsibilities and qualifications rather than core engineering practices. While it mentions Agile methodologies and best practices, these are not the main focus. The discussion lacks depth in specific engineering practices like TDD, CI/CD, or clean code principles, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about a job opportunity for an ALM Consultant and does not directly address technical debt or its management.",
     "level": "Ignored"
   },
@@ -1252,10 +1186,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a job description for an ALM Consultant, discussing technical requirements and consulting roles rather than the strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1270,20 +1204,26 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions providing training and consulting related to Scrum and discusses aspects of Agile methods, but primarily focuses on the role and responsibilities of an ALM Consultant rather than a comprehensive exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile methodologies in the context of the job requirements for an ALM Consultant, but it does not provide a focused discussion on Agile frameworks themselves. While there is a reference to 'agile and formal software development methods', the primary emphasis is on the role and responsibilities of the consultant rather than an exploration of Agile frameworks or their principles. Therefore, the content aligns only marginally with the category.",
+    "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T09:09:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions agile methodologies and discusses the role of an ALM Consultant in implementing agile practices, but the primary focus is on job requirements and responsibilities rather than a comprehensive discussion on Agile Strategy.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of an ALM Consultant and mentions the use of Agile methodologies in the context of software development. However, it primarily focuses on job requirements and responsibilities rather than a strategic discussion on Agile principles or their integration into organisational vision and planning. While Agile is mentioned, it is not the primary focus of the content, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Azure Repos": {
@@ -1306,10 +1246,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a job posting for an ALM consultant and discusses responsibilities and qualifications rather than Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -1331,15 +1271,6 @@
     "reasoning": "Content focuses on a job advertisement for an ALM Consultant, detailing responsibilities and qualifications but does not primarily discuss accountability or team dynamics in an Agile context.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T00:18:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on a job opportunity for an Application Lifecycle Management Consultant and does not discuss Kanban principles or scaling practices.",
-    "level": "Ignored"
-  },
   "Throughput": {
     "category": "Throughput",
     "calculated_at": "2025-02-16T00:18:52",
@@ -1351,29 +1282,125 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T00:18:52",
+    "calculated_at": "2025-04-10T15:55:54",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a job position for an ALM Consultant and focuses on the requirements and responsibilities without mentioning Test Driven Development or related practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:57:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, which includes providing training and consulting on Agile methodologies like Scrum, indicating that Agile practices are a significant theme, but the primary focus is on job requirements and responsibilities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an ALM Consultant and the technical skills required for the position. While it mentions collaboration and team dynamics in the context of providing training and consulting, it lacks a direct discussion on social technologies or their frameworks. The alignment with the core themes of social technologies is minimal, as the content does not delve into self-organisation, collective intelligence, or transparency within organisations. The depth of discussion is also limited, primarily outlining job responsibilities without exploring the underlying social frameworks that support collaboration and decision-making.",
+    "level": "Ignored"
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T11:57:56",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 42.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the role of an ALM Consultant, which includes providing thought leadership and mentoring, indicating a secondary theme of leadership within a technical context.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the role of an ALM Consultant, highlighting the need for thought leadership, mentoring, and leading teams, which aligns with leadership practices. However, the primary focus is on technical skills and job requirements rather than a deep exploration of leadership strategies or frameworks. The mention of 'thought leadership' and 'leading teams' indicates some relevance to leadership, but the overall emphasis is more on technical competencies and consulting roles.",
     "level": "Tertiary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 10,
+    "final_score": 0.0,
+    "reasoning": "Content primarily focuses on the role of an ALM Consultant and related responsibilities, with no clear discussion on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:30:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the role and requirements of an ALM Consultant, focusing on software development and project management without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 45.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 50,
+    "final_score": 45.0,
+    "reasoning": "The content briefly mentions Scrum in the context of providing training and consulting for teams, indicating some relevance to the Scrum framework. However, it primarily focuses on the role of an ALM Consultant and does not delve deeply into Scrum principles, roles, or practices. The discussion lacks substantial detail on Scrum events or artifacts, which limits its alignment with the core themes of the category.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-03-17T16:31:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of an ALM Consultant, discussing skills and experiences related to Application Lifecycle Management. While it touches on software development processes, it does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. The discussion lacks depth regarding early integration of testing, security, or compliance, which are core aspects of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on job recruitment for an ALM Consultant role, discussing qualifications and responsibilities without any explicit mention of Continuous Improvement principles or practices. While there are references to training and consulting, these do not align with the core themes of Continuous Improvement, such as empirical evidence, culture of experimentation, or strategies for integrating Continuous Improvement into processes.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant position, detailing the qualifications and responsibilities associated with the role. While it mentions Agile methodologies in passing, it does not engage with the concept of Common Goals in a meaningful way. There is no discussion of shared objectives, alignment, or strategic frameworks that connect individual contributions to organisational missions, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the role of an ALM Consultant, highlighting the need for expertise, training, and mentoring, which aligns with the concept of competence. However, while it mentions skills and experience, it lacks a deeper exploration of continuous learning or strategies for fostering a culture of competence, which limits its overall alignment with the category.",
+    "level": "Secondary"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:55:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a job advertisement for an ALM Consultant, detailing responsibilities and qualifications without discussing Agentic Agility or its principles. While it mentions roles that may involve some level of autonomy and adaptability, it does not explicitly address the intentional shaping of outcomes or the distinction between human and AI capabilities in this context.",
+    "level": "Ignored"
   }
 }

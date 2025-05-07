@@ -2,8 +2,10 @@
 title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 description: "Discover how to avoid rigid product ownership in Agile! Join Martin as he shares insights on fostering team engagement and achieving true Agile success. \U0001F680"
 date: 2024-01-10T07:00:11Z
+weight: 1000
 ResourceId: EoInrPvjBHo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: EoInrPvjBHo
@@ -15,40 +17,44 @@ preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
 duration: 197
 isShort: false
 aliases:
-- /resources/how-to-overcome-agile-banditry-a-product-owners-journey
-- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
-- /resources/videos/EoInrPvjBHo
-- /resources/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/EoInrPvjBHo
-aliasesFor404:
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
+aliasesArchive:
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 - /resources/5-kinds-of-agile-bandits-product-owner-bandits
+- how-to-overcome-agile-banditry-a-product-owners-journey
+- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
-- People and Process
-- Agile Project Management
+- Agile Transformation
+- Pragmatic Thinking
+- Software Development
+- Team Performance
+- Agile Planning
+- Agile Values and Principles
+- Team Collaboration
+- Agile Leadership
+- Agile Strategy
+- Product Delivery
+- Self Organisation
 - Agile Product Management
-- Agile Product Operating Model
-- Team Motivation
-- Personal
-- Employee Engagement
-- Agile Philosophy
 resourceTypes:
 - video
 categories:
-- Product Management
-- Social Technologies
+- Product Development
 
 ---
 In Agile, there's a common misconception that leads to what I like to call "Agile Banditry." Product Owners, when misguided, can fall into the trap of treating their role as a project manager, dictating every step of the team’s progress like an overbearing taskmaster. This often leads to disengagement, frustration, and ultimately, a failed product. In this blog, we’ll explore the dangers of Agile Banditry and how Product Owners can avoid this trap, enabling their teams to thrive.
 
 ## **What is an Agile Bandit?**
 
-**Have you ever encountered a Product Owner as an Agile Bandit?** I have. I once worked with a Product Owner who was obsessed with task-level planning. Every person on the team had a detailed Gantt chart—start times, end times, task dependencies—you name it. If the team followed this rigid plan perfectly, everything would supposedly work out just fine. But as you can guess, it didn’t.
+**Have you ever encountered a [Product Owner]({{< ref "/tags/product-owner" >}}) as an Agile Bandit?** I have. I once worked with a Product Owner who was obsessed with task-level planning. Every person on the team had a detailed Gantt chart—start times, end times, task dependencies—you name it. If the team followed this rigid plan perfectly, everything would supposedly work out just fine. But as you can guess, it didn’t.
 
 This mindset embodies Agile Banditry. The Product Owner believes that controlling every little detail of the team’s work will result in success. They’re so focused on the plan that they miss the bigger picture.
 

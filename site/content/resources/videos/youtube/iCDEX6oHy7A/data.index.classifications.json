@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:14:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on fostering an agile mindset within development teams, discussing leadership, quality, and cultural aspects rather than the core principles of DevOps. While it touches on collaboration and continuous feedback, it lacks a direct focus on DevOps practices, automation, or shared accountability, which are central to the DevOps philosophy.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:14:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Scrum and Agile, indicating a connection to social technologies, but the primary focus is on professionalism and conflicting priorities rather than the frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses fostering an agile mindset and the importance of cultural change within development teams, which aligns with the principles of self-organisation and collaboration. However, it primarily focuses on individual and team behaviours rather than explicitly addressing social technologies or frameworks. The depth of discussion on social technologies is limited, as it does not provide specific methodologies or tools that promote collective intelligence or transparency.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -44,15 +50,6 @@
     "reasoning": "The content primarily discusses a chat with a Scrum Trainer and focuses on professionalism and conflicting priorities, which are not central to product management discussions.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:46:52",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum and features a Professional Scrum Trainer, indicating a significant but secondary theme related to Scrum principles and practices.",
-    "level": "Tertiary"
-  },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
     "calculated_at": "2025-02-18T12:23:21",
@@ -73,47 +70,35 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses professionalism and conflicting priorities, with no clear focus on metrics or learning.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions a Professional Scrum Trainer and implies a discussion related to professionalism within the Scrum context, but it lacks deeper exploration of Scrum principles or practices.",
-    "level": "Tertiary"
+    "final_score": 65.0,
+    "reasoning": "The content discusses various aspects of Scrum, including roles, team dynamics, and the importance of commitment and quality in Agile practices. However, it lacks a structured exploration of Scrum principles and frameworks as outlined in the Scrum Guide, focusing more on personal experiences and opinions rather than a deep dive into Scrum theory.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content features a guest who is a Professional Scrum Trainer and provides insights related to Agile consultancy, indicating a significant focus on Agile principles, but it does not delve deeply into any specific Agile framework or its application.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content is primarily about a chat regarding professionalism and conflicting priorities, with no clear focus on Scrum product development principles or practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content focuses on a specific event involving a discussion with a guest speaker, which qualifies it for the Events and Presentations category.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of cultivating an agile mindset and the role of leadership in fostering a culture that values quality and customer feedback, which aligns with Agile principles. However, it lacks direct references to specific Agile frameworks like Scrum or Kanban, and while it touches on Agile practices, it does not provide a detailed exploration of the frameworks themselves. The focus is more on mindset and cultural change rather than a comparative analysis of Agile frameworks.",
     "level": "Secondary"
   },
   "Product Validation": {
@@ -244,11 +229,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses fostering an agile mindset and cultural aspects of agile practices, which are related to Continuous Delivery but do not explicitly focus on its principles or practices. While it touches on quality and feedback, it lacks direct references to Continuous Delivery techniques, automation, or specific tools that support the category.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -298,12 +286,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Scrum, which is a key Agile framework related to software development, but the main focus is on professionalism and conflicting priorities rather than specific software engineering practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 27.0,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses the importance of cultivating an agile mindset within development teams, which aligns closely with software development practices, particularly Agile methodologies. It mentions specific practices like Test-Driven Development (TDD), code reviews, and pair programming, indicating a strong connection to software engineering. However, the focus on cultural aspects and leadership strategies, while relevant, detracts slightly from a purely technical discussion, leading to a high but not perfect confidence score.",
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -316,19 +307,19 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses professionalism and conflicting priorities rather than focusing on Agile Planning methodologies and practices.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a conversation about professionalism and conflicting priorities without a clear focus on Agile strategies or methodologies.",
     "level": "Ignored"
   },
@@ -375,15 +366,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses professionalism and conflicting priorities within an Agile context, without focusing on Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which do not align with the core principles of the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -458,15 +440,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a chat about professionalism and conflicting priorities, with no clear discussion of software developers' roles in Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T12:23:21",
@@ -474,15 +447,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodology, specifically Scrum roles and events, without focusing on Lean Product Development principles.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -514,12 +478,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "While the content mentions a Professional Scrum Trainer and Agile consulting, it does not primarily focus on the Scrum Master role, responsibilities, or practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of fostering an agile mindset and the role of leadership in creating an environment conducive to quality and ownership, which aligns with the Scrum Master's responsibilities. However, it does not explicitly mention the Scrum Master role or delve deeply into Scrum-specific practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
@@ -593,15 +560,6 @@
     "reasoning": "Content primarily discusses professionalism and conflicting priorities in an Agile context but does not focus on organisational change processes or methodologies.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an interview format with a Scrum Trainer discussing professionalism and conflicting priorities, which do not directly relate to scaling Agile across multiple teams or enterprise-level initiatives.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T12:23:21",
@@ -610,15 +568,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses professionalism and conflicting priorities without a focus on Lean principles or practices.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a Scrum Trainer and discusses themes of professionalism and conflicting priorities, which are relevant to team dynamics and human factors in Agile environments, but lacks a detailed exploration of processes or methodologies.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -683,7 +632,7 @@
     "reasoning": "Content focuses on a discussion with a Scrum trainer about professionalism and conflicting priorities, which does not align with the topic of Lead Time.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T12:23:21",
     "ai_confidence": 0,
@@ -694,20 +643,11 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the guests and their backgrounds, with no substantial discussion on Agile leadership or related themes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses professionalism and conflicting priorities in Agile, with no clear mention of AI or automation.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +695,6 @@
     "reasoning": "Content primarily discusses professionalism and conflicting priorities without a clear focus on market adaptability strategies or principles.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses professionalism and conflicting priorities in the context of Agile, without a clear focus on AI and its applications.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T12:23:21",
@@ -775,10 +706,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on an interview with a Scrum trainer discussing professionalism and conflicting priorities, without specific reference to the Daily Scrum.",
     "level": "Ignored"
   },
@@ -809,15 +740,6 @@
     "reasoning": "Content primarily discusses a chat with a Scrum trainer about professionalism and conflicting priorities, with no clear focus on the Product Backlog or its management.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content mentions Agile consulting and features a Professional Scrum Trainer, indicating a connection to Agile principles, but the primary focus appears to be on professionalism and conflicting priorities rather than on agile methodologies directly.",
-    "level": "Tertiary"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T12:23:21",
@@ -835,24 +757,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, and does not focus on technical issue identification or resolution.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a conversation between individuals about professionalism and conflicting priorities without focusing on specific products, books, or their reviews.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content features a discussion about a specific Agile-related event involving a Scrum Trainer, which is relevant to the field. However, it does not provide substantial news or reviews, making it a secondary theme.",
-    "level": "Tertiary"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -872,15 +776,6 @@
     "reasoning": "Content primarily focuses on a chat with a guest about professionalism and conflicting priorities, without offering personal reflections or experiences related to Agile or Scrum.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a conversation about professionalism and conflicting priorities, with no clear focus on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T12:23:21",
@@ -892,19 +787,19 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses an interview with a Scrum Trainer but does not directly reference or focus on the Scrum Values. It mentions professionalism and conflicting priorities, which do not align with the specified key topics of Scrum Values.",
     "level": "Ignored"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on a discussion with a Scrum trainer about professionalism and conflicting priorities, which does not clearly align with Agile Product Management as a primary topic.",
     "level": "Ignored"
   },
@@ -919,11 +814,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses professionalism and conflicting priorities in an Agile context, without any mention of Test First Development or related practices.",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses agile principles and the importance of quality but does not focus specifically on Test First Development practices. While it briefly mentions TDD, it does not delve into its principles or the role of success criteria, which are central to Test First Development. The discussion is more about fostering an agile mindset and cultural change rather than the specifics of Test First methodologies.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,10 +835,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content briefly mentions a Scrum Trainer but does not focus on Scrum Team dynamics, roles, or collaboration, making it not relevant enough to classify.",
     "level": "Ignored"
   },
@@ -991,10 +889,10 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a specific Scrum Trainer and a chat about professionalism and conflicting priorities, without delving into Agile philosophy or its foundational principles.",
     "level": "Ignored"
   },
@@ -1005,15 +903,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content mostly discusses an interview about professionalism and conflicting priorities without focusing directly on product delivery methodologies or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a conversation with a Scrum Trainer about professionalism and conflicting priorities, without a focus on scaling agility or related frameworks.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -1027,12 +916,15 @@
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a conversation with a Professional Scrum Trainer, indicating a connection to Agile practices. However, the primary focus on professionalism and conflicting priorities suggests that Agile Transformation is a secondary theme rather than the central topic.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the challenges of training development teams to embrace an agile mindset, which is a core aspect of Agile transformation. It aligns well with the principles of Agile, focusing on cultural shifts, leadership roles, and the importance of quality and customer feedback. The depth of discussion is significant, providing strategies for fostering an agile culture and emphasising the need for intrinsic motivation among team members.",
+    "level": "Primary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1043,30 +935,12 @@
     "reasoning": "Content heavily discusses professionalism and conflicting priorities without a clear focus on portfolio management principles or practices.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses professionalism and conflicting priorities, with no clear focus on resilience or change management.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on professionalism and conflicting priorities, with no substantial discussion on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses professionalism and conflicting priorities in Agile, rather than Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -1077,15 +951,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses professionalism and conflicting priorities in Scrum, which is not focused on the principles or practices of Frequent Releases.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses a conversation about professionalism and conflicting priorities without focusing on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1135,21 +1000,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a chat about professionalism and conflicting priorities in relation to a Scrum Trainer, without clear discussion on the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses fostering an agile mindset and the importance of quality in development teams, which aligns with some principles of the Agile Product Operating Model. However, it lacks direct references to the APOM framework, specific product management practices, or detailed discussions on transitioning from project to product ethos. The focus is more on cultural change and team dynamics rather than the operational model itself.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1176,15 +1035,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events without any mention of automated testing.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a discussion with a Scrum trainer and does not primarily address scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1261,10 +1111,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a specific individual and an event related to Scrum rather than focusing on Agile values and principles.",
     "level": "Ignored"
   },
@@ -1342,19 +1192,22 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T12:23:21",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a chat about professionalism and conflicting priorities, without discussing Evidence-Based Management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses fostering an agile mindset and cultural change within development teams, focusing on intrinsic motivation and leadership strategies. While it touches on quality and customer feedback, it lacks direct references to evidence-based management principles or metrics. The discussion is more about agile practices and cultural aspects rather than empirical decision-making or data-informed strategies, which are central to Evidence-Based Management.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T12:23:21",
+    "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on a discussion about professionalism and conflicting priorities, which is not related to installation or configuration of tools or software.",
     "level": "Ignored"
   },
@@ -1375,5 +1228,445 @@
     "final_score": 0.0,
     "reasoning": "Content focuses on a conversation about professionalism and conflicting priorities, which does not directly address operational practices or techniques in Agile, DevOps, or Lean methodologies.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:08:08",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:08:09",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events without any mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 40,
+    "non_ai_confidence": 50,
+    "final_score": 78.0,
+    "reasoning": "The content discusses various aspects of Scrum, including roles, team dynamics, and the importance of agile principles. It features conversations about product ownership, backlog management, and the challenges of maintaining team engagement, which are all central to Scrum practices. The dialogue reflects a deep understanding of Scrum concepts, although it occasionally veers into broader agile discussions and personal anecdotes, which slightly dilutes the focus on Scrum specifically.",
+    "level": "Secondary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of quality and feedback in agile development, which aligns with some principles of the Shift-Left Strategy. However, it primarily focuses on cultural aspects and mindset rather than explicitly integrating testing, security, or compliance earlier in the development process. The mention of practices like code reviews and continuous feedback hints at Shift-Left concepts but lacks depth in discussing how these practices are implemented early in the lifecycle.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of fostering an agile mindset and continuous improvement in team effectiveness, particularly through strategies like retrospectives and feedback mechanisms. However, while it touches on key aspects of Continuous Improvement, such as quality and ownership, it does not explicitly frame these discussions within the broader context of Continuous Improvement principles or methodologies. The focus is more on cultural change and agile practices rather than a systematic approach to Continuous Improvement.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of fostering an agile mindset and ownership within development teams, which aligns with the principles of Common Goals. However, it primarily focuses on cultural aspects and personal anecdotes rather than explicitly addressing shared objectives or strategic alignment. While it touches on the significance of quality and customer feedback, it lacks a direct discussion on how these elements connect to overarching organisational goals.",
+    "level": "Tertiary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of fostering an agile mindset and continuous skill development, which aligns well with the principles of competence. It highlights strategies for promoting mastery and quality, and the role of leadership in creating a culture that values these aspects. However, while competence is a significant theme, the focus on cultural and motivational aspects slightly dilutes the primary emphasis on competence itself.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses fostering an agile mindset and cultural change within development teams, which is tangentially related to the principles of the One Engineering System. However, it lacks direct mentions of 1ES, its components, or its implementation. The focus is more on agile methodologies rather than the integration and standardisation of engineering processes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:40",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of autonomy, ownership, and intrinsic motivation, which aligns with the principles of Agentic Agility. However, it primarily focuses on fostering an agile mindset rather than explicitly addressing the intentional shaping of outcomes through both human and AI perspectives. The depth of discussion on the mechanisms of Agentic Agility is limited, and while it touches on relevant themes, it does not provide a comprehensive exploration of the category.",
+    "level": "Secondary"
+  },
+  "Hybrid Agile": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content heavily emphasizes fostering an agile mindset and empowerment within development teams, but does not specifically address Hybrid Agile practices, challenges, or dysfunctional integrations of methodologies. It lacks critical analysis of merging traditional and agile practices or mentions of conflicts in project management structures associated with Hybrid Agile.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on fostering an agile mindset within development teams, discussing autonomy, quality, and cultural change, which are tangentially related to the principles of self-organisation found in Cell Structure Design. However, it does not mention the concept of 'cells', the Beta Codex, or decentralised structures, which are essential to the 'Cell Structure Design' category. Overall, the discussion leans more towards agile practices rather than the specific framework of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the transformation of development teams in an Agile context, emphasizing specific principles such as autonomy, mastery, customer collaboration, and continuous improvement. It talks about the importance of empowering teams, fostering an agile mindset, and prioritizing quality, which aligns well with foundational Agile principles. However, while the principles are heavily implied and referenced, direct mentions of them as actionable guiding rules could be clearer. The depth of discussion is substantial, providing examples and strategies, leading to a high confidence score overall.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 65.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses agile mindset and cultural transformation within development teams, which aligns with project management practices in agile contexts. It mentions leadership roles, team dynamics, and the importance of quality, which are relevant to project management but does not cover broader project management principles or methodologies extensively. The depth is moderate, focusing on mindset rather than detailed project management techniques or tools, leading to the confidence score reflecting a decent but not fully qualified alignment with the category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses how to foster an agile mindset in development teams, focusing on leadership, intrinsic motivation, and quality. However, it does not explicitly mention Open Space Agile or its specific principles. While there is a connection to themes of shared ownership and cultural change, it lacks a direct focus on the Open Space Technology aspects of agile transformation, resulting in only partial conceptual alignment. The depth of discussion on agile practices is present but does not delve into the specifics of Open Space Agile, leading to a lower confidence score overall.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily focuses on cultivating an agile mindset and improving teamwork and quality within development teams, without discussing specific tools, their functions, or practical implementations in Agile, Lean, or DevOps contexts. While it touches on practices relevant to agile principles, the absence of tool-specific discussions limits its alignment with the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses fostering an agile mindset and cultivating quality and ownership in development teams, but it does not explicitly mention any specific Liberating Structures. While it touches on some themes relevant to engagement and self-facilitation in teams, the overall focus is more on cultural change and leadership in agile practices, without concrete references to the facilitation techniques that define Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 76.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content discusses the importance of fostering an agile mindset, emphasizing values such as autonomy, mastery, and purpose, which are foundational for motivating teams. It highlights how leadership can cultivate a culture that prioritizes quality and craftsmanship. The focus on cultural aspects and intrinsic motivation aligns well with the core themes of values guiding behavior and decision-making within organizations. While it does touch on practical methods, these are framed within the context of instilling deeper values, thus maintaining a strong alignment with the 'Values' category.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 33.0,
+    "ai_mentions": 2,
+    "ai_alignment": 40.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 33.0,
+    "reasoning": "The content discusses the importance of cultivating an agile mindset and intrinsic motivation among development teams, which relates to the philosophical aspects of Agile thinking. It touches on cultural and motivational elements essential to understanding Agile as a philosophy. However, the focus is heavily on specific strategies and practices (e.g., code reviews, pair programming), which detracts from a deep philosophical exploration, resulting in a lower score for depth and alignment.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "uniqueID12345",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:49",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 29,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the Agile mindset and its importance to fostering a culture that values quality and intrinsic motivation, aligning with key aspects of discipline in the context of Agile practices. However, it primarily focuses on strategies and experiences rather than a structured conceptual framework of discipline, which limits its depth in discussing methodologies and systemic applications of Agile as a discipline.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the agile mindset, cultural challenges, and leadership strategies for development teams, without specific focus on artifacts or their roles in Agile methodologies. It lacks direct mentions or detailed examination of any specific artifacts like Product Backlogs or Sprint Backlogs, instead emphasizing broader agile principles and practices unrelated to tangible artifacts.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses fostering an agile mindset, focusing on team culture, quality, and leadership strategies, but does not address observability or related concepts. There are no direct mentions or relevant discussions regarding metrics, logs, traces, or the tools and practices associated with observability, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses fostering an agile mindset and the importance of quality in development teams but does not explicitly address the Time to Market category. While it touches upon concepts like customer feedback and the importance of delivering high-quality products, it lacks a focused discussion on metrics or strategies specifically aimed at reducing Time to Market. The primary focus is more on cultural and mindset changes rather than on the efficiency of delivering value quickly.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 83.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 83.0,
+    "reasoning": "The content discusses methodologies and practices for developing an agile mindset in teams, emphasizing leadership, customer focus, and quality, which aligns well with product development principles. The presence of specific strategies, such as promoting autonomy and continual feedback, contributes positively to the depth of discussion on product development themes. However, while the agile principles are mentioned, they are more in the context of cultural and mindset shifts rather than specific product development processes, which could be a limiting factor in the alignment dimension.",
+    "level": "Primary"
+  },
+  "Practice": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 68.0,
+    "ai_mentions": 7,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content primarily focuses on creating an agile mindset and enhancing team effectiveness through fostering quality and intrinsic motivation, which aligns well with the notion of practice. It discusses specific practices such as pair programming, code reviews, and retrospectives, showing some actionable techniques. However, the content also heavily emphasizes cultural aspects and leadership strategies, which detracts from its alignment with the 'Practice' category as a primary focus. Therefore, while it provides substantial insight into practices, the strong emphasis on mindset and cultural elements lowers the score slightly.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 38.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 38.0,
+    "reasoning": "The content discusses fostering an agile mindset within development teams and emphasizes the importance of quality, customer focus, and leadership in creating a suitable organizational culture. However, while it touches on aspects relevant to customer feedback and cultural shifts that align with CaaP principles, it primarily focuses on agile methodologies and individual team dynamics rather than the overarching organizational strategy of treating the company itself as a dynamic product. The mentions of cultural change and customer feedback suggest some alignment, but overall, the focus is more on practices than a systemic organizational approach, limiting its relevance to CaaP.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 33.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 33.0,
+    "reasoning": "While the content discusses general strategies to cultivate an agile mindset within development teams, it mostly focuses on cultural aspects rather than specific structured methods or procedures. The mention of techniques like code reviews and pair programming does creep into more methodical discussions but lacks the detailed framework explanation typical of the 'Method' category. The content is primarily about fostering an agile culture, which is broader than just focusing on specific methods.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of cultivating an agile mindset and cultural change in development teams, which indirectly touches upon the potential for improvement and innovation. However, it primarily focuses on training and leadership strategies rather than explicitly addressing 'Unrealised Value' or associated indicators, measures, or case studies. The content lacks specific discussions about unrealised opportunities or frameworks related to value assessment.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses cultivating an agile mindset within development teams and focuses heavily on individual empowerment, quality, and cultural aspects of Agile practices. It mentions strategies for enhancing team performance and ownership but does not delve into methodologies for scaling Agile across multiple teams or enterprises, which is required for a higher confidence rating in the Scaling category. Key Scaling frameworks and concepts are absent, resulting in low direct mentions and conceptual alignment with the category. The discussion lacks the depth on scaling specific challenges and solutions that would justify a higher score.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 35.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses elements of agile methodologies and emphasizes the importance of mindset and cultural change in development teams, touching on intrinsic motivation and leadership's role. However, it does not explicitly reference or utilize established conceptual models or frameworks directly related to the 'Model' category, which limits its effectiveness in this classification. The mention of an agile mindset and practices like retrospectives hints at a model-like approach, but lacks depth in discussing specific models or frameworks such as the Cynefin Framework or Lean Startup principles.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 4,
+    "ai_alignment": 20.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content does not explicitly mention 'Current Value' or its direct indicators but discusses related themes of quality and customer feedback, which are crucial elements of value delivery. While the discussion on quality and feedback can loosely connect to assessing value, it lacks concrete metrics, indicators, or evidence-based assessment frameworks. Additionally, the primary focus is on cultural issues and agile mindsets rather than on the real-time evaluation of delivered value.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 57.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 65.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 57.0,
+    "reasoning": "The content discusses fostering an agile mindset, which is relevant to the principles of Agile frameworks. However, it mainly focuses on the cultural aspects of Agile rather than the structured methodologies or implementation strategies of specific frameworks. While 'agile' and its principles are mentioned, the content does not directly address specific frameworks like Scrum or Kanban, resulting in a secondary focus on the category.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily emphasizes fostering an agile mindset and intrinsic motivation among development teams, but it lacks specific, actionable tenets. While there are references to agile principles and cultural changes, the discussion does not delve into core tenets of methodologies like Agile or Lean, nor does it specify actionable guiding rules that directly inform decision-making and behavior. Therefore, the confidence score reflects a low alignment with the strict definition of the 'Tenet' category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on fostering an agile mindset and improving development team culture but does not mention GitHub or its services. While it relates to Agile principles, it lacks a direct connection to GitHub or its functionalities such as repositories, actions, or integration with tools, which is essential for classification under the 'GitHub' category.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 34.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 34.0,
+    "reasoning": "The content discusses the importance of an agile mindset and cultural change in agile transformations, which aligns somewhat with Agnostic Agile principles. However, it primarily focuses on training methods and leadership roles rather than directly addressing Agnostic Agile's emphasis on context-driven agility or comparing methodologies. There are mentions of autonomy and quality, but they are broadly applicable and lack specific references to Agnostic Agile principles or thought leaders, leading to a lower overall confidence score.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "iCDEX6oHy7A",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:50",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content robustly discusses strategies for cultivating an agile mindset within development teams, which aligns with the core themes of enhancing organisational capabilities. It emphasizes the importance of leadership in fostering a culture of quality and intrinsic motivation, essential for developing enduring competencies. The depth of discussion on promoting autonomy, mastery, and purpose demonstrates a significant understanding of capability-building strategies. While it doesn't delve deeply into specific Agile or DevOps frameworks, the overall focus on developing capability through cultural change and quality improvement justifies a higher score.",
+    "level": "Secondary"
   }
 }

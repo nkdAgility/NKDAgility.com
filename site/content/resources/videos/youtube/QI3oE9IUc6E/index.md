@@ -2,8 +2,10 @@
 title: How effectively does an APS prepare a team to do a solid, professional Scrum?
 description: Discover how the APS course empowers scrum teams to excel in professional scrum practices. Join Martin Hinshelwood for insights on effective training!
 date: 2023-08-12T07:00:10Z
+weight: 665
 ResourceId: QI3oE9IUc6E
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QI3oE9IUc6E
@@ -15,34 +17,35 @@ preview: https://i.ytimg.com/vi/QI3oE9IUc6E/maxresdefault.jpg
 duration: 315
 isShort: false
 aliases:
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
-- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
-- /resources/videos/QI3oE9IUc6E
-- /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 - /resources/QI3oE9IUc6E
-aliasesFor404:
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
+aliasesArchive:
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum-2
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
 - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
+- /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
+- how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Project Management
+- Agile Frameworks
+- Software Development
+- Professional Scrum
 resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-## The APS Advantage: Exploring Professional Scrum Mastery
+## The APS Advantage: Exploring Professional [Scrum]({{< ref "/categories/scrum" >}}) Mastery
 
-Navigating the Scrum world, it's impossible not to acknowledge the weight of the Applied Professional Scrum (APS).  🚀
+Navigating the Scrum world, it's impossible not to acknowledge the weight of the Applied [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) (APS).  🚀
 
 From my own explorations and experiences, I've discerned a few elements that stand out, pushing this approach to the forefront for those yearning for genuine Scrum mastery.
 
@@ -76,9 +79,9 @@ One of the standout elements of the APS sessions I guide is this introspective e
 
 Its design is straightforward: to aid teams, whether rookies on their Scrum voyage or seasoned sailors, in identifying and ultimately shedding their 'barnacles'.
 
-When we collaborate closely with specific organisations, this takes on an added layer, culminating in creating an "organisational change backlog."
+When we collaborate closely with specific organisations, this takes on an added layer, culminating in creating an "[organisational change]({{< ref "/tags/organisational-change" >}}) backlog."
 
-It's essentially an agile transformation blueprint crafted by those knee-deep in the work each day. 🔄
+It's essentially an [agile transformation]({{< ref "/tags/agile-transformation" >}}) blueprint crafted by those knee-deep in the work each day. 🔄
 
 ## The Ultimate Goal: Crafting True Professional Scrum Teams
 

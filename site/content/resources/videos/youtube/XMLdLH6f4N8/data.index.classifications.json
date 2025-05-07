@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T11:17:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses organisational change and team dynamics, which are relevant to DevOps principles like collaboration and continuous improvement. However, it lacks direct mentions of DevOps practices or specific methodologies, focusing instead on general change management strategies. The alignment with DevOps is present but not strong enough to classify it as a primary focus.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:17:17",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions a lead Scrum Master and discusses training in relation to organisational culture, indicating a connection to Scrum practices, but does not delve deeply into the frameworks or principles.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on fostering collaboration and enhancing team dynamics through a common framework, which aligns well with the principles of social technologies. It discusses the importance of a shared vision, effective communication, and structured approaches to problem-solving, all of which are key themes in the category. The depth of discussion is significant, as it provides specific examples and insights into how these strategies can transform team dynamics and promote continuous improvement. Overall, the content is highly relevant to the category, with a strong emphasis on collaboration and decision-making.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -28,12 +34,15 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-18T11:17:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the importance of a trainer fitting with the organisational culture, which relates to leadership in fostering an environment for training and development. However, it primarily focuses on the role of a Scrum Master and training rather than broader leadership practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of a common framework and communication in a team setting, which touches on leadership aspects such as fostering collaboration and addressing team dynamics. However, it lacks explicit discussions on leadership strategies or frameworks, and the focus is more on team processes than on leadership practices themselves.",
+    "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
@@ -64,48 +73,33 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T11:23:18",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a trainer and Scrummaster alignment with culture, rather than metrics, data utilization, or continuous improvement methodologies.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-18T11:23:18",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content does not primarily discuss Scrum principles, roles, or practices but instead focuses on the cultural fit of a trainer in an organization.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes a mention of a Scrum Master and training related to an Agile framework, suggesting a significant but secondary theme related to Agile Frameworks.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a trainer's fit with organizational culture and does not focus on Scrum practices or product development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content references a specific interview which may involve discussions relevant to Agile practices, but the primary focus is on the trainer and their fit within the organization rather than on formal event content or presentations.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of a common framework in enhancing team dynamics and communication, which aligns with Agile principles. However, it does not explicitly mention specific Agile frameworks like Scrum or Kanban, nor does it delve deeply into Agile methodologies. The focus is more on general organisational change and team collaboration rather than a thorough exploration of Agile frameworks.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -217,10 +211,10 @@
   },
   "Self Organisation": {
     "category": "Self Organisation",
-    "calculated_at": "2025-02-18T11:23:18",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the role of a trainer and the alignment with organizational culture, not on self-organisation principles or practices.",
     "level": "Ignored"
   },
@@ -235,11 +229,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not aligned with Continuous Delivery principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses organisational change and team dynamics without a direct focus on Continuous Delivery principles. While it touches on themes of collaboration and communication, it lacks explicit references to Continuous Delivery practices, automation, or delivery cycles. The discussion is more aligned with general team management and change strategies rather than the specific methodologies and benefits associated with Continuous Delivery.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -289,12 +286,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content discusses the role of a Scrum Master, which is relevant to Agile methodologies within the Software Development category, but the primary focus seems to be on training and cultural fit rather than software development practices themselves.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses organisational change and team dynamics, which are relevant to software development practices, particularly in Agile methodologies. However, it lacks direct references to specific software development techniques or frameworks, focusing more on general team collaboration and communication rather than detailed software engineering practices. The mention of a 'common framework' and 'structured communication channels' hints at Agile principles, but the overall depth and specificity regarding software development are limited.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -366,15 +366,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily focuses on Scrum roles and the training of a Scrum Master, with no direct relevance to Value Stream Management principles or practices.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, which are not central to the One Engineering System framework.",
     "level": "Ignored"
   },
   "Change Management": {
@@ -449,15 +440,6 @@
     "reasoning": "Content primarily discusses training and organizational culture, focusing on the role of a Scrum Master rather than technical practices or software development excellence.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on training and the fit of a trainer within an organization, rather than specifically on software developer roles or Agile/DevOps methodologies.",
-    "level": "Ignored"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
     "calculated_at": "2025-02-18T11:23:18",
@@ -467,23 +449,17 @@
     "reasoning": "Content heavily focuses on Scrum roles and training rather than Lean Product Development principles and practices.",
     "level": "Ignored"
   },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses training and Scrum roles, with no clear focus on software code or complexity.",
-    "level": "Ignored"
-  },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions the importance of a trainer fitting with the organisational culture, which aligns with the theme of organisational culture, but does not delve deeply into the broader implications or strategies related to it.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the impact of organisational change on team dynamics and highlights the importance of a common framework, shared vision, and structured communication, all of which are key elements of organisational culture. It explicitly mentions fostering trust and engagement, which aligns well with the category's focus on cultural dimensions that support Agile practices. The depth of discussion is significant, providing insights into how these cultural aspects can lead to improved collaboration and productivity, thus justifying a high confidence score.",
+    "level": "Primary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -505,20 +481,26 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a lead Scrum Master and discusses training, which relates to the role of a Scrum Master, but it does not delve deeply into specific Scrum Master responsibilities or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses themes relevant to organisational change and team dynamics, which are important for a Scrum Master. However, it lacks direct references to the Scrum framework or the specific responsibilities of a Scrum Master, making it more of a general discussion on team collaboration rather than a focused exploration of the Scrum Master role.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "Content mentions training for a large group and hints at cultural fit, which aligns with scaling Agile, but primarily focuses on an individual perspective of the Scrum Master role.",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of a common framework and structured communication within teams, which aligns with some principles of Large Scale Agility. However, it primarily focuses on team-level dynamics and individual experiences rather than enterprise-level scaling strategies or frameworks. The mention of a common framework and structured approaches hints at larger organisational change, but lacks explicit references to scaling Agile methodologies or frameworks like SAFe or LeSS. Overall, while there are relevant themes, the content does not sufficiently address the core aspects of Large Scale Agility.",
     "level": "Tertiary"
   },
   "Value Delivery": {
@@ -557,15 +539,6 @@
     "reasoning": "Content heavily discusses the role of a trainer in a Scrum environment, without a focus on decision-making processes or theory.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions a lead Scrum Master and implies a discussion related to Scrum training, indicating Scrum as a major theme although it does not delve deeply into Scrum principles or practices.",
-    "level": "Tertiary"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T11:23:18",
@@ -593,15 +566,6 @@
     "reasoning": "The content primarily discusses training and the role of a Trainer within an organisation, which does not align closely with the key topics of organisational change such as methodologies for transformation or change management frameworks.",
     "level": "Ignored"
   },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a specific Scrum Master’s on the training approach rather than discussing scaling Agile practices across multiple teams or enterprise-level strategies.",
-    "level": "Ignored"
-  },
   "Lean Thinking": {
     "category": "Lean Thinking",
     "calculated_at": "2025-02-18T11:23:18",
@@ -610,15 +574,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of the trainer's fit with the organizational culture, which aligns with themes of team dynamics and leadership in process environments, but it does not delve deeply into methodologies or processes, making it secondary.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -676,14 +631,14 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-18T11:23:18",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on training and cultural fit in the context of a Scrum Master role, without discussing Lead Time or its related metrics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T11:23:18",
     "ai_confidence": 0,
@@ -699,15 +654,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the importance of the trainer in fitting with the organisational culture and provides a reference to an interview, but does not focus on Agile leadership principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum training and organizational culture, with no mention of AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -755,15 +701,6 @@
     "reasoning": "The content primarily discusses the importance of a trainer fitting into the organization’s culture and does not focus on strategies or practices related to market adaptability, Agile methodologies, or relevant frameworks.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content mainly focuses on training and a Scrum Master's perspective, with no direct discussion on AI integration in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "Working Software": {
     "category": "Working Software",
     "calculated_at": "2025-02-18T11:23:18",
@@ -775,10 +712,10 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-18T11:23:18",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the importance of a trainer fitting into the organizational culture and includes a mention of a Scrum Master, but it does not focus on the Daily Scrum event itself or its specific practices and principles.",
     "level": "Ignored"
   },
@@ -809,15 +746,6 @@
     "reasoning": "Content primarily discusses a Trainer's fit within an organization and lacks a focus on Product Backlog concepts or management.",
     "level": "Ignored"
   },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content mentions a Scrum Master, the primary focus seems to be on training and cultural fit rather than on agile methodologies or project management principles.",
-    "level": "Tertiary"
-  },
   "Psychological Safety": {
     "category": "Psychological Safety",
     "calculated_at": "2025-02-18T11:23:18",
@@ -834,24 +762,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the role of a Scrum Master and training rather than troubleshooting technical issues.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on training and the trainer's fit within the organization, with no clear discussion or analysis of specific products or literature.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an interview with a Scrum Master and does not provide broader industry news, reviews, or insights related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Team Motivation": {
@@ -872,15 +782,6 @@
     "reasoning": "Content primarily focuses on the role of a Scrum Master and training, which does not provide personal reflections or experiences related to Agile or Scrum methodologies.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content briefly mentions a Scrum Master and training within the context of a large organization but does not specifically address scaling Scrum principles, frameworks, or practices.",
-    "level": "Ignored"
-  },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
     "calculated_at": "2025-02-18T11:23:18",
@@ -892,10 +793,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-18T11:23:18",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on training and cultural fit rather than directly discussing Scrum Values.",
     "level": "Ignored"
   },
@@ -919,11 +820,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses training and the role of a Scrum Master, with no clear focus on Test First Development or related practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses organisational change and team dynamics without any explicit mention of Test First Development principles. While it touches on collaboration and communication, it does not address success criteria, testing practices, or the importance of defining criteria before implementation, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -937,12 +841,15 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions a lead Scrum Master and discusses aspects of training related to Scrum, but it is not deeply focused on the dynamics or collaboration within a Scrum Team.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses team dynamics, communication, and collaboration, which are relevant to Scrum Teams. However, it lacks explicit references to Scrum roles and practices, focusing more on general organisational change and frameworks. The depth of discussion on team dynamics and communication strategies contributes positively, but the absence of direct mentions of Scrum limits the overall confidence score.",
+    "level": "Secondary"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1007,32 +914,29 @@
     "reasoning": "Content mostly discusses the importance of cultural fit for trainers and mentions a Scrum Master but lacks a clear focus on product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the role of a trainer in a Scrum context but does not address scaling agility or large-scale agile practices.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the role of a lead Scrum Master and hints at teaching within an organizational context, which relates to agile methodologies. However, it does not primarily focus on organisational agility as a central theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the transformation of team dynamics through a common framework, which aligns well with the principles of organisational agility. It highlights the importance of a shared vision, structured communication, and continuous improvement, all of which are key themes in the category. The depth of discussion is significant, providing specific examples of how these practices enhance adaptability and responsiveness within teams. However, while the content is focused on agility, it does not explicitly mention agile methodologies or frameworks, which slightly lowers the confidence score.",
+    "level": "Primary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content briefly mentions the role of a Scrum Master and touches on training within an Agile context, indicating a major but secondary theme related to Agile transformation.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses organisational change and the importance of a common framework, which aligns with Agile principles of collaboration and communication. However, it lacks explicit references to Agile methodologies or frameworks like Scrum or Kanban, and does not delve deeply into Agile transformation strategies. The focus is more on general change management rather than specific Agile practices.",
+    "level": "Secondary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1041,24 +945,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, which are not directly related to portfolio management.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the suitability of a trainer for a specific organizational culture, without focusing on resilience, change management, or related methodologies.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on a Trainer's fit with organizational culture and a specific individual's perspective, without discussing transparency, accountability, or related Agile principles.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
@@ -1077,15 +963,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses teaching and training rather than software delivery or frequent releases.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of a trainer and cultural fit in teaching, without a focus on practical techniques, tools, or methodologies related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1135,20 +1012,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on training and trainer alignment within a Scrum context, lacking a primary discussion on the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of a trainer within an organization's culture, which is more about training and Scrum roles than discovery and learning processes.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses organisational change and team dynamics, which are relevant to agile principles, but it does not explicitly mention the Agile Product Operating Model or its core components. While there are themes of collaboration and communication that align with agile methodologies, the focus is more on general change management rather than the specific framework of APOM.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -1176,15 +1047,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on training and Scrum roles, with no discussion on automated testing principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on Scrum training and the role of a Scrum Master, which is not related to Scaling Kanban principles.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
@@ -1261,10 +1123,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T11:23:18",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the fit of a trainer with organizational culture and specific insights from a Scrum Master without a clear focus on Agile values and principles.",
     "level": "Ignored"
   },
@@ -1279,12 +1141,15 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the importance of the Trainer's fit with the organisational culture, which relates to the interplay between technology (Scrum practices) and social aspects (organizational culture), but it does not delve deeply into the broader sociotechnical system context.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the transformation of team dynamics and communication within an organisational context, which aligns with sociotechnical systems. However, it lacks explicit mentions of sociotechnical principles and does not delve deeply into the interplay between social and technical aspects. The focus is more on personal experiences and anecdotal evidence rather than a structured analysis of sociotechnical systems.",
+    "level": "Secondary"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1342,28 +1207,31 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T11:23:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on training and cultural fit in an organisation, without discussing evidence-based management principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses organisational change and team dynamics but lacks a direct focus on Evidence-Based Management principles. While it touches on structured approaches and communication, it does not provide empirical evidence or metrics that are central to EBM. The discussion is more about collaboration and frameworks rather than data-informed decision-making.",
     "level": "Ignored"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T11:23:18",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses training and Scrum roles, with no focus on installation or configuration of tools.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T11:23:18",
+    "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses training and a Scrum Master's fit with organizational culture, lacking a focus on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -1375,5 +1243,445 @@
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the role of a Scrum Master and training within the organization but does not focus on techniques or strategies that enhance operational efficiency, which is central to the category 'Operational Practices'.",
     "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:09:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:09:36",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses training and Scrum roles, with no mention of AI or its application in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 45.0,
+    "reasoning": "The content discusses a common framework for collaboration and mentions concepts like a backlog and team dynamics, which are relevant to Scrum. However, it lacks explicit references to Scrum roles, events, or detailed practices, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 3.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content discusses organisational change and team dynamics but does not explicitly mention the Shift-Left Strategy or its principles. While it touches on collaboration and communication, which are relevant to the Shift-Left approach, it lacks a direct focus on integrating testing, security, or compliance early in the software development lifecycle. The discussion is more about team frameworks and communication rather than the proactive measures associated with Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses organisational change and the importance of structured frameworks, which aligns with Continuous Improvement principles. It mentions 'Continuous Improvement' explicitly and highlights aspects like team alignment, communication, and ongoing enhancements. However, while it touches on relevant themes, the depth of discussion on specific Continuous Improvement techniques and empirical evidence is limited, preventing a higher confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of a common vision and framework for team alignment, which aligns with the principles of Common Goals. However, it primarily focuses on personal experiences and anecdotes rather than providing a detailed exploration of how these concepts operationalise within Agile or DevOps frameworks. The discussion on communication and collaboration is relevant but lacks depth in connecting to strategic objectives or frameworks like OKRs.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of a common framework and structured communication in fostering team alignment and collaboration, which indirectly relates to competence. However, it primarily focuses on team dynamics and organisational change rather than explicitly addressing continuous learning or skill development. The mention of increased confidence among developers hints at competence but lacks depth in exploring the core themes of the category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T21:14:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content discusses organisational change and team dynamics but does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on the importance of a common framework and communication, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about general team collaboration rather than the specific methodologies and practices of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:48",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses organisational change and team dynamics, which are related to agility but does not explicitly focus on the intentional shaping of outcomes as defined by Agentic Agility. While it touches on themes of collaboration and communication, it lacks a clear distinction between human and AI capabilities and does not delve into the mechanisms of AI Agentic Agility or the role of intent and accountability in Human Agentic Agility.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on organizational change and team dynamics without any explicit mention of Hybrid Agile concepts or critical examination of merging traditional and agile methodologies. It does touch on structured approaches to problem-solving and team alignment, which may relate to agile principles, but it lacks depth in discussing the challenges or implications of Hybrid Agile specifically. Overall, while there are themes of collaboration and communication, these do not align sufficiently with the core topics outlined for the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "TransformingChaosIntoCollaboration",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses effective organisational change strategies and emphasizes team alignment and communication but does not explicitly mention or focus on Cell Structure Design or its core principles. While there are themes of structure and collaboration, they are framed within general organisational change rather than the specific context of decentralised, network-based structures that are central to Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 4,
+    "ai_alignment": 3,
+    "ai_depth": 4,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses principles related to collaboration, communication, and continuous improvement in the context of organisational change. It mentions frameworks, structured approaches, and the importance of team alignment, which aligns with actionable principles that guide team behaviour. However, while it touches on these areas, it doesn't fully delve into specific Agile, Lean, or DevOps principles, which slightly limits its depth. Therefore, while the principles are present and discussed, they are not the primary focus of the content.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 52.0,
+    "ai_mentions": 3,
+    "ai_alignment": 2,
+    "ai_depth": 3,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content discusses organisational change and team collaboration, which are relevant to project management. However, it primarily focuses on frameworks and communication rather than core project management principles. It briefly mentions the need for structured approaches, aligning with project management themes but lacks comprehensive detail on methodologies or project lifecycle phases, making it more of a secondary discussion related to project management.",
+    "level": "Tertiary"
+  },
+  "Open Space Agile": {
+    "resourceId": "TransformingChaosCollaboration",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses themes of collaboration, communication, and engaging team members, which are somewhat aligned with Open Space Agile principles. However, it primarily focuses on a structured approach to organizational change rather than specifically addressing Open Space Agile methodologies or principles, resulting in a low confidence score, as it does not deeply engage with the category's core aspects.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 50.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of tools in organisational change strategies, specifically referencing a structured change backlog as a tool for identifying impediments. It also touches on the role of a common framework in improving team dynamics and communication. However, while tools are mentioned, the primary focus is more on the methodology of change rather than specific tools and their functions within Agile, Lean, or DevOps frameworks. Therefore, while there is a moderate alignment with the category, the depth and specificity regarding tools could be improved.",
+    "level": "Tertiary"
+  },
+  "Liberating Structures": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 28.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 24.0,
+    "non_ai_confidence": null,
+    "final_score": 28.0,
+    "reasoning": "The content describes concepts of organizational change and team collaboration but does not specifically mention Liberating Structures or any of its specific methods. It emphasizes the importance of communication and structure but lacks direct references to facilitation techniques or frameworks commonly associated with Liberating Structures. The general discussion on frameworks and alignment is too vague and does not delve into practical usage or integration with Scrum or Agile practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Values",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 8,
+    "ai_alignment": 36,
+    "ai_depth": 40,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses themes like team collaboration, communication, and the importance of a shared vision, which align with core values. However, it focuses more on practical strategies and frameworks than on underlying philosophical values. While there are insights regarding trust and engagement that resonate with the concept of values, the emphasis on methodology rather than on foundational beliefs slightly diminishes its alignment with the 'Values' category.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses team dynamics and the importance of a common framework for collaboration, which aligns somewhat with the philosophical underpinnings of organisational principles. However, it focuses more on practical strategies and tools (like the structured change backlog) rather than exploring the foundational philosophical concepts that guide these practices. The explicit mentions of philosophical themes are minimal, and while it hints at some philosophical ideas about collaboration and communication, it lacks depth in analyzing these ideas in a theoretical context.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 52.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content discusses the importance of structured frameworks and common practices in fostering team dynamics and facilitating organisational change. However, while it touches on concepts like communication, collaboration, and ongoing improvement, it lacks a deep dive into the underlying principles, standard methodologies, or frameworks that define a discipline as per the category. The explicit mention of a structured approach and teamwork hints at disciplinary characteristics, but it primarily revolves around practical applications rather than a systemic exploration of a discipline. Hence, while there are relevant elements, they are not the primary focus.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "TransformingChaosCollaboration",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content discusses the importance of structured approaches and a backlog, it primarily focuses on organizational change and collaboration rather than specific artifacts and their roles in Agile systems. The references to a 'structured organizational change backlog' and the idea that this backlog helps in identifying impediments, while relevant to artifacts, are not the main focus. The content does not delve deeply into defining artifacts or their purpose in Agile methodologies, making it more about change management than artifact-specific discussion.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses strategies for organizational change and team dynamics, lacking direct mentions of observability concepts such as metrics, logs, or traces. While it touches on team collaboration and communication, which can relate to observability in a very indirect way, it does not delve into the technical aspects or implementation of observability in software systems. Thus, the relevance to the Observability category is minimal with low confidence in its classification.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses organizational change and team collaboration rather than focusing on Time to Market. While it touches on themes of communication and problem-solving, it does not explicitly address the speed of delivering value to customers or metrics related to Time to Market. Therefore, it aligns poorly with the category despite some indirect connections to efficiency and team dynamics.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 58.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30,
+    "ai_depth": 26,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "The content discusses organisational change and team dynamics, which subtly ties into product development, particularly in terms of aligning team efforts and fostering collaboration. However, it lacks a direct focus on product development methodologies or practices that deliver usable products. While it mentions fostering a common vision and structured approaches, it does not delve deeply into Agile principles or customer feedback loops, diminishing the depth related to product development. Overall, the discussion is relevant but secondary, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Practice": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses organisational change and team collaboration but lacks a direct focus on specific practices or techniques listed under the 'Practice' category. While it touches upon ideas related to team alignment and communication, it does so in a more abstract manner without detailing actionable techniques like retrospectives or TDD. The key themes of collaboration and improvement are present, but the specifics of practice are not the primary emphasis.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 43.0,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses organisational change and strategies for collaboration within teams, which touches on aspects of treating the organisation more dynamically and aligning teams around shared objectives. However, it mainly focuses on practical change management and team dynamics rather than conceptualizing the company as a product or integrating customer feedback into the broader organisational design. While there is some mention of a common framework for improvement and communication, the depth and explicit references to CaaP principles are limited, resulting in a moderate level of confidence in its alignment with the 'Company as a Product' category.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Method",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 47.0,
+    "ai_mentions": 12,
+    "ai_alignment": 38,
+    "ai_depth": 43,
+    "non_ai_confidence": null,
+    "final_score": 47.0,
+    "reasoning": "The content discusses various aspects of facilitating collaboration and structured approaches to organisational change. While it mentions a 'structured approach' and provides insights into how frameworks enhance communication and trust, it largely focuses on general strategies rather than strict, step-by-step methods typical in specific methodologies like Scrum or Lean. The lack of detailed, methodical procedural steps reduces its alignment with the 'Method' category. However, it does provide some useful insights into structured practices, earning a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Unrealised Value": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content focuses on organisational change and improving team dynamics through a common framework, which may provide untapped opportunities for innovation; however, it does not explicitly mention 'Unrealised Value' or detail specific indicators or measurements of untapped value. It lightly touches on concepts that could relate to unrealised value, such as 'identifying impediments' and 'continuous improvement', but lacks a focused examination or actionable strategies related to unrealised value in Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 18,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses collaboration and communication strategies within teams, which are relevant to scaling efforts. However, it lacks specific scaling frameworks or methodologies that are central to the category. The primary focus is on transforming team dynamics rather than on scaling Agile practices or addressing complex coordination challenges, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Model",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 35.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content discusses the introduction of a structured framework to facilitate team dynamics and enhance communication, it does not explicitly focus on a specific conceptual model such as the Cynefin Framework or Lean principles. Instead, it talks more generically about frameworks and their benefits in fostering collaboration and improving organisational change. The discussion on a common framework aligns partially with the themes of the 'Model' category but lacks depth in exploring how these frameworks fit into Agile, DevOps, or Lean methodologies specifically. There are mentions of problem-solving and team dynamics but they don't center on the analysis of diverse models or frameworks, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content discusses organisational change and team dynamics but does not explicitly mention Current Value or any related metrics such as customer satisfaction or revenue impact. The focus is primarily on improving collaboration and communication within teams, lacking the real-time assessment characteristics essential for the Current Value category. As such, the content only touches on aspects that might be tangentially related, without providing measurable insights on value delivery.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 68.0,
+    "ai_mentions": 3,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the role of a common framework in fostering team collaboration, emphasizing the structured methodologies that aid in problem-solving. It highlights how a shared vocabulary and a structured change backlog can transform team dynamics, which aligns with core themes of adapting frameworks for better performance. However, the focus leans more towards personal experiences and insights rather than a thorough exploration of specific frameworks or their implementation in varied contexts, which affects the overall depth of the discussion.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content does not focus specifically on tenets of Agile, Lean, or DevOps. While it discusses concepts like effective communication and collaboration, it lacks specific, actionable guiding rules or doctrines that would qualify as tenets. Instead, it provides general observations about organisational change and development without explicitly linking to established methodologies or their core tenets.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on organizational change and team dynamics, discussing effective collaboration strategies without any explicit mention of GitHub or its functionality. While the themes of collaboration and communication align somewhat with Agile principles that intersect with GitHub practices, there is no direct connection to GitHub. The depth of discussion revolves around high-level strategies for team management rather than specific GitHub features or methodologies, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 38.0,
+    "ai_mentions": 0,
+    "ai_alignment": 50.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 38.0,
+    "reasoning": "The content discusses themes of collaboration and structured approaches to organizational change, which align somewhat with Agnostic Agile principles. However, it primarily focuses on a common framework and team dynamics without explicitly addressing the Agnostic Agile philosophy or its core topics. While there is a mention of pragmatism, the content does not delve into the specific principles or ethical considerations of Agnostic Agile, nor does it present a comparison with traditional frameworks explicitly. Thus, while there are relevant themes, they are not the primary focus, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "XMLdLH6f4N8",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T15:03:47",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses elements of organizational change and team dynamics, which are indirectly related to the concept of capability, particularly in building competencies for collaboration and improvement. However, it focuses more on specific roles, communication, and practices rather than developing enduring capabilities within the organization. While the content mentions the importance of frameworks and shared language, it lacks a deep exploration of capabilities as systemic competencies and does not address measurement or assessment of these capabilities.",
+    "level": "Secondary"
   }
 }

@@ -1,94 +1,77 @@
 ---
-title: Live Virtual Professional Agile Leadership in 5 minutes!
-description: Discover Agile Leadership in just 5 minutes! Watch our timelapse overview of a comprehensive training course and explore free workshops on our channel.
+title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments'
+description: Unlock your organisation's potential with continuous delivery! Discover how to shorten feedback loops and stay ahead in a fast-paced market.
 date: 2025-02-06T10:20:34Z
-ResourceId: _ghSntAkoKI
+weight: 230
+ResourceId: _gyzx59-AJk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
-videoId: _ghSntAkoKI
+videoId: _gyzx59-AJk
 url: /resources/videos/:slug
-slug: live-virtual-professional-agile-leadership-in-5-minutes!
-canonicalUrl: https://www.youtube.com/watch?v=_ghSntAkoKI
+slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 aliases:
-- /resources/videos/_ghSntAkoKI
+- /resources/_gyzx59-AJk
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+aliasesArchive:
+- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 - /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
 - /resources/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/_ghSntAkoKI
-- /resources/_gyzx59-AJk
-- /resources/videos/_gyzx59-AJk
 - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-aliasesFor404:
-- /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/live-virtual-professional-agile-leadership-in-5-minutes!
-- /resources/_gyzx59-AJk
-- /resources/videos/_gyzx59-AJk
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-preview: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
-duration: 289
+- transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
+duration: 358
 isShort: false
 tags:
-- Deployment Frequency
+- Market Adaptability
+- Business Agility
+- Continuous Improvement
+- Digital Transformation
+- Metrics and Learning
+- Operational Practices
+- Organisational Agility
+- Continuous Delivery
 - Frequent Releases
+- Working Software
+- Pragmatic Thinking
+- Deployment Frequency
+- Product Delivery
+- Value Delivery
+- Enterprise Agility
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
 source: youtube
 layout: video
 resourceTypes:
 - video
 categories:
+- Product Development
 - DevOps
 - Engineering Excellence
-- Product Management
 
 ---
- The Need for Speed: Why High Deployment Frequencies Matter in a Changing Market
+In today’s fast-paced market, the ability to respond swiftly to changes is not just an advantage; it’s a necessity. As organisations, we often find ourselves navigating a landscape filled with surprises—some of which can be detrimental, while others present golden opportunities. The key to capitalising on these opportunities lies in our [lead time]({{< ref "/tags/lead-time" >}}). If there’s a significant delay between the moment we decide to act and when our changes hit production, we risk losing out to competitors who are quicker on the draw.
 
-When an organization is trying to respond to market changes, the ability to react quickly is essential. These changes might be unexpected challenges or new opportunities, and if there's a long lead time between deciding to do something and actually getting it into production, that organization is at a disadvantage.
+Let me share a story from my experience with the Azure [DevOps]({{< ref "/categories/devops" >}}) team. Back in the days when it was still known as TFS, they operated on a two-year release cycle. Yes, you heard that right—two years! They would ship a service pack halfway through, but the real challenge emerged when they began to gather feedback on their beta releases. Customers would provide valuable insights, highlighting missing features or changes in market demands. However, with only six months left in their development cycle, they were often left with no option but to defer these requests to the next version—or worse, the version after that. This meant that significant customer needs could go unmet for over two years, which is simply unacceptable in a rapidly evolving market.
 
-Opportunities pass by, competitors seize them first, and the ability to be first to market is lost. A long time-to-market means wasted potential.
+Fast forward to 2018, and the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team had transformed their [deployment frequency]({{< ref "/tags/deployment-frequency" >}}) from a mere 20-30 deployments a year to an astonishing 880,000! This dramatic shift illustrates the power of shortening feedback loops. By continuously delivering updates and features to production, they could test ideas in real-time, gather data, and adapt accordingly.
 
-*A Case Study: Azure DevOps' Transformation*
-The Azure DevOps team, back when it was known as TFS (Team Foundation Server), operated on a two-year release cycle, with a service pack halfway through. This meant:
-- Halfway through the two-year cycle, they would release a beta version.
-- Feedback would start rolling in.
-- By then, it was too late to incorporate significant changes into the next release.
-- Even if a requested feature was crucial, it would often take **over two years** to make it into the product.
+Here are some key takeaways from this transformation that I believe can benefit any organisation looking to enhance their agility:
 
-The team found themselves stuck in an outdated cadence. Meanwhile, DevOps was evolving rapidly, cloud adoption was accelerating, and customers wanted faster iteration. TFS simply couldn’t keep up.
+- **Embrace [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}})**: Instead of adhering to rigid release schedules, aim for continuous delivery. This allows you to push features to users as soon as they’re ready, enabling you to gather feedback and iterate quickly.
 
-Microsoft realized that this approach wasn’t viable anymore. Between 2010 and 2018, they shifted from **20–30 deployments per year** to **over 80,000 deployments per year** across the organization. 
+- **Start Small**: When exploring new market opportunities, focus on the smallest viable feature that can validate your idea. This approach minimises risk and allows for rapid testing and learning.
 
-*Why High Deployment Frequency Matters*
-Shorter feedback loops allow for:
-- Faster validation of ideas.
-- More rapid response to market demands.
-- The ability to test hypotheses with minimal investment.
-- Reduced risk of investing in the wrong features.
+- **Utilise Data and Telemetry**: Once your feature is live, leverage data to assess its performance. This will inform your next steps—whether to invest further in the idea, pivot, or scrap it altogether.
 
-The goal should be continuous delivery—getting **features and improvements into real users' hands as quickly as possible**. Instead of waiting months or years to see if a feature is successful, organizations can launch a **minimum viable implementation**, gather **real user feedback**, and refine it based on data.
+- **Stay Ahead of the Curve**: By maintaining a tight release frequency, you position your organisation to not just react to market changes but to anticipate and set trends. This proactive stance can differentiate you from competitors who are merely following the market.
 
-*From Ideation to Learning: The Importance of Fast Feedback*
-The true measure of agility is how fast an organization can go from:
-1. **Identifying an opportunity**
-2. **Deploying a small testable feature**
-3. **Getting real-world feedback**
-4. **Iterating based on data**
-5. **Determining whether to scale up, pivot, or abandon the idea**
+- **Maximise Value Creation**: Ultimately, the goal is to maximise the value you create for your users. By being responsive and adaptable, you can ensure that your product remains relevant and valuable in a constantly changing environment.
 
-If a company releases software on an annual or semi-annual basis, it can take **years** to validate an idea. By then, competitors have moved ahead.
-
-*Setting the Market vs. Following It*
-Fast-moving companies don’t wait for competitors to set the trends—they define them. To do this, they need:
-- **Continuous delivery pipelines**
-- **Automated testing and deployment**
-- **Feature flagging for gradual rollouts**
-- **Data-driven decision-making**
-- **High-trust, low-friction release processes**
-
-*Key Takeaway*
-If an organization wants to maximize value, adapt to market conditions, and innovate faster than competitors, **it must continuously deliver software to production**. High deployment frequencies aren’t just about moving faster—they’re about **learning faster** and ensuring every release decision is informed by **real-world customer data**. 
- [Watch on Youtube](https://www.youtube.com/watch?v=_gyzx59-AJk)
+In conclusion, the journey from a lengthy release cycle to continuous delivery is not just about adopting new tools or processes; it’s about fostering a culture of agility and responsiveness. By prioritising quick feedback loops and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}), we can not only survive but thrive in today’s competitive landscape. Let’s not just keep pace with the market—let’s lead it.

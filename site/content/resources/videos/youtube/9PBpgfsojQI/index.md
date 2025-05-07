@@ -2,8 +2,10 @@
 title: 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
 description: Discover key strategies for thriving in 2023's challenges as Martin Hinshelwood explores the essentials for successful Agile leadership and adaptation.
 date: 2023-02-13T22:00:04Z
+weight: 540
 ResourceId: 9PBpgfsojQI
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 9PBpgfsojQI
@@ -15,34 +17,27 @@ preview: https://i.ytimg.com/vi/9PBpgfsojQI/maxresdefault.jpg
 duration: 288
 isShort: false
 aliases:
-- /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
-- /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
-- /resources/videos/9PBpgfsojQI
-- /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
 - /resources/9PBpgfsojQI
-aliasesFor404:
+- /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
+- /resources/videos/2023-is-predicted-to-be-a-very-tough-year.-what-do-you-think-will-be-needed-to-win-and-improve
+aliasesArchive:
+- /resources/videos/-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
+- /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 - /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
 - /resources/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
+- 2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
+- /resources/videos/2023-is-predicted-to-be-a-very-tough-year.-what-do-you-think-will-be-needed-to-win-and-improve
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Strategy
-- Product Owner
-- People and Process
-- Agile Product Management
-- Agile Product Operating Model
-- Value Delivery
-- Product Delivery
-- Agile Project Management
 - Pragmatic Thinking
-- Product Strategy
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
-- Social Technologies
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
@@ -59,11 +54,11 @@ I work with organizations, year in and year out, who have no idea what their coh
 
 - They don’t know what competitive advantage looks like for their product?
 
-- They don’t understand what is needed, in terms of product development, to win.
+- They don’t understand what is needed, in terms of [product development]({{< ref "/categories/product-development" >}}), to win.
 
 And so forth.
 
-Addressing those elements is going to make the difference between becoming successful in 2023 versus losing ground, market share, and customer satisfaction in 2023.
+Addressing those elements is going to make the difference between becoming successful in 2023 versus losing ground, [market share]({{< ref "/tags/market-share" >}}), and [customer satisfaction]({{< ref "/tags/customer-satisfaction" >}}) in 2023.
 
 ## Profitability.
 
@@ -93,7 +88,7 @@ There is a little magic in the urgency a recession creates, and how that inspire
 
 Explore tools and frameworks that can support your strategy.
 
-Scrum and Kanban are a great example of agile tools and frameworks that you can employ to visually demonstrate the current state of affairs in your product development systems and processes.
+[Scrum]({{< ref "/categories/scrum" >}}) and [Kanban]({{< ref "/categories/kanban" >}}) are a great example of agile tools and frameworks that you can employ to visually demonstrate the current state of affairs in your product development systems and processes.
 
 It is said that scrum doesn’t solve problems, it highlights them.
 
@@ -103,13 +98,13 @@ All the things that are preventing the team from innovating effectively and cont
 
 It can be hard to identify what isn’t working, and what needs to be improved, but scrum makes these things very clear within a short space of time. The team simply get going and as they work, the problems and impediments light up like a Christmas tree.
 
-As the team document these issues, great leadership teams invest time, effort, and money into solving those problems and removing impediments, which has an immediate impact on how effectively the team can produce great products and deliver those products to market quicker than competitors.
+As the team document these issues, great [leadership]({{< ref "/categories/leadership" >}}) teams invest time, effort, and money into solving those problems and removing impediments, which has an immediate impact on how effectively the team can produce great products and deliver those products to market quicker than competitors.
 
 ## Great things to invest in throughout 2023
 
 ### Product Ownership
 
-- This is huge. Having great product ownership knowledge, skills, and capabilities is a game-changer in the world of product development. Most organizations have no idea what a great product backlog should look like, nor do they know how to order and prioritize work items to increase customer satisfaction and achieve competitive advantage in their environments.
+- This is huge. Having great product ownership knowledge, skills, and capabilities is a game-changer in the world of product development. Most organizations have no idea what a great [product backlog]({{< ref "/tags/product-backlog" >}}) should look like, nor do they know how to order and prioritize work items to increase customer satisfaction and achieve competitive advantage in their environments.
 
 ### Market Analysis
 

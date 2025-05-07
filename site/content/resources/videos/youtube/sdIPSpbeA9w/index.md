@@ -2,54 +2,54 @@
 title: Why Embracing Automation is Essential for Reducing Human Error in Software Development
 description: Discover how automation transforms software development by minimising human error and enhancing efficiency. Learn why embracing automation is essential for success!
 date: 2024-12-18T06:45:00Z
+weight: 565
 ResourceId: sdIPSpbeA9w
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: sdIPSpbeA9w
 source: youtube
 url: /resources/videos/:slug
-slug: the-cost-saving-power-of-automation
+slug: why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 layout: video
 aliases:
-- /resources/videos/sdIPSpbeA9w
-- /resources/videos/the-cost-saving-power-of-automation
-- /resources/the-cost-saving-power-of-automation
 - /resources/sdIPSpbeA9w
-aliasesFor404:
+- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
+- /resources/videos/the-cost-saving-power-of-automation
+aliasesArchive:
+- /resources/videos/why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 - /resources/videos/the-cost-saving-power-of-automation
 - /resources/the-cost-saving-power-of-automation
+- why-embracing-automation-is-essential-for-reducing-human-error-in-software-development
 preview: https://i9.ytimg.com/vi/sdIPSpbeA9w/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLBkj3eLxuykEKxltLkuDDf4Y7aXHw
 duration: 613
 isShort: false
 tags:
-- Software Development
-- Azure DevOps
-- Test Automation
 - Automated Testing
-- Practical Techniques and Tooling
-- Pragmatic Thinking
-- Engineering Practices
-- Technical Mastery
-- Value Delivery
+- Software Development
+- Operational Practices
 - Technical Excellence
+- Test Automation
+- Engineering Practices
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
 categories:
-- DevOps
 - Engineering Excellence
+- DevOps
 
 ---
-Automation is a game changer in the world of software development. It’s not just about making things faster; it’s about creating a more standardised and efficient process. However, I must admit, I have a bit of a love-hate relationship with the term "efficiency." While it certainly fits the context, it can sometimes overshadow the human element that is so crucial in our field. 
+Automation is a game changer in the world of [software development]({{< ref "/tags/software-development" >}}). It’s not just about making things faster; it’s about creating a more standardised and efficient process. However, I must admit, I have a bit of a love-hate relationship with the term "efficiency." While it certainly fits the context, it can sometimes overshadow the human element that is so crucial in our field. 
 
 Let me share a couple of stories that illustrate the importance of automation and the pitfalls of relying solely on human execution.
 
 ### The Human Element in Testing
 
-Years ago, I had the opportunity to teach a group of testers how to use the Azure DevOps test tools. At that time, the tools were still quite new, and we had a series of workshops and labs designed to help them grasp the concepts. You’d think that testers, whose superpower is following test scripts, would excel at this. After all, they spend considerable time creating these scripts, right?
+Years ago, I had the opportunity to teach a group of testers how to use the Azure [DevOps]({{< ref "/categories/devops" >}}) test tools. At that time, the tools were still quite new, and we had a series of workshops and labs designed to help them grasp the concepts. You’d think that testers, whose superpower is following test scripts, would excel at this. After all, they spend considerable time creating these scripts, right?
 
 However, I kept receiving feedback that the labs were faulty. Testers were adamant that they were following the steps correctly, yet the tests were failing. The reality? They were missing steps or clicking the wrong buttons. This wasn’t a reflection of their skills; it was simply a human error. 
 
@@ -63,7 +63,7 @@ These examples highlight a crucial point: when humans are involved, mistakes are
 
 I often say, "If it can be automated, it should be automated. If it can’t be automated, it should be rearchitected." This philosophy is about closing the feedback loop. Imagine writing a story and submitting it to a publisher, only to wait six months for feedback. By the time you receive it, you’ve moved on to other parts of the story, and now you have to revisit earlier sections with a different mindset. This cognitive load can be overwhelming, and it’s no different in software development.
 
-To mitigate this, we need automation that provides rapid feedback. Ideally, we want tests that run in minutes—if not seconds. The Azure DevOps team faced a similar challenge. Their automated tests took 48 to 72 hours to run, which is far too long. They realised that their testing pyramid was inverted, with too many long-running system tests and not enough fast-running unit tests. 
+To mitigate this, we need automation that provides rapid feedback. Ideally, we want tests that run in minutes—if not seconds. The [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team faced a similar challenge. Their automated tests took 48 to 72 hours to run, which is far too long. They realised that their testing pyramid was inverted, with too many long-running system tests and not enough fast-running unit tests. 
 
 By flipping that pyramid, they reduced their testing time from days to just three and a half minutes. This is the kind of efficiency we should strive for. 
 

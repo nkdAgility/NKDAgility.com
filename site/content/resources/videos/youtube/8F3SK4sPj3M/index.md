@@ -2,28 +2,29 @@
 title: Why Validate Your Advanced Product Ownership Skills with a PSPO-A
 description: 'Discover how the PSPO-A course empowers you to lead product ownership like a CEO. Elevate your skills and drive success in your organisation! #Agile #Scrum'
 date: 2023-06-08T11:00:05Z
+weight: 1000
 ResourceId: 8F3SK4sPj3M
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 8F3SK4sPj3M
 source: internal
 url: /resources/videos/:slug
-slug: why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
+slug: why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
 layout: video
 preview: https://i.ytimg.com/vi/8F3SK4sPj3M/maxresdefault.jpg
 duration: 43
 isShort: true
 aliases:
-- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
-- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
-- /resources/videos/8F3SK4sPj3M
-- /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
 - /resources/8F3SK4sPj3M
-aliasesFor404:
+- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
+aliasesArchive:
+- /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 - /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 - /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
 - /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
+- why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-8F3SK4sPj3M
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,12 +33,10 @@ tags:
 resourceTypes:
 - video
 categories:
-- Product Management
-- Leadership
-- Scrum
+- Product Development
 
 ---
-## Stepping Up Your Game as a Product Owner
+## Stepping Up Your Game as a [Product Owner]({{< ref "/tags/product-owner" >}})
 
 The Agile landscape is a vast expanse of roles, responsibilities, and possibilities and the realm of product ownership in Agile is ever-evolving.
 
@@ -51,7 +50,7 @@ Let's delve deeper, and I'll share my perspectives on boosting your product owne
 
 ## Beyond The Basics of Product Ownership
 
-For those acquainted with my Agile and Scrum teachings, you'll resonate with the comprehensive insights we've shared about the foundational Product Owner role, basically the core of a Product Owner, its nuances and its potential.
+For those acquainted with my Agile and [Scrum]({{< ref "/categories/scrum" >}}) teachings, you'll resonate with the comprehensive insights we've shared about the foundational Product Owner role, basically the core of a Product Owner, its nuances and its potential.
 
 We've unravelled their essence, their function, and their impact.
 

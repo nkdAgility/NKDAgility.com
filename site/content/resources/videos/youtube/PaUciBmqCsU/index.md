@@ -2,52 +2,49 @@
 title: Understanding the Power of Kanban in Scrum
 description: Discover why the Kanban vs. Scrum debate is misguided! Learn how Kanban can enhance your Scrum process and optimise any workflow for superior results.
 date: 2024-08-05T06:45:00Z
+weight: 1000
 ResourceId: PaUciBmqCsU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: PaUciBmqCsU
 source: internal
 url: /resources/videos/:slug
-slug: understanding-the-power-of-kanban-in-scrum
+slug: understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
 layout: video
 preview: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg
 duration: 50
 isShort: true
 aliases:
-- /resources/understanding-the-power-of-kanban-in-scrum
-- /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
-- /resources/videos/PaUciBmqCsU
-- /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
 - /resources/PaUciBmqCsU
-aliasesFor404:
+- /resources/videos/understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
+- /resources/videos/understanding-the-power-of-kanban-in-scrum
+- /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
+aliasesArchive:
+- /resources/videos/understanding-the-power-of-kanban-in-scrum
 - /resources/understanding-the-power-of-kanban-in-scrum
 - /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
 - /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
+- /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
+- understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Transparency
-- Strategy
-- Transparency and Accountability
-- Flow Efficiency
-- Value Stream Management
-- Value Delivery
-- Practical Techniques and Tooling
-- Empirical Process Control
-- Throughput
+- Agile Frameworks
+- Operational Practices
 - Software Development
 resourceTypes:
 - video
 categories:
-- Kanban
-- Social Technologies
+- Product Development
 
 ---
-If you're talking about Kanban versus Scrum, chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum—it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.
+If you're talking about [Kanban]({{< ref "/categories/kanban" >}}) versus [Scrum]({{< ref "/categories/scrum" >}}), chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum—it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.
 
-In this post, we’ll explore how **Kanban** works within the context of Scrum, how it brings transparency, and why it’s a powerful tool for optimizing your processes. As a professional Scrum Trainer, I’ll share personal experiences and recommendations to help you leverage Kanban in your Scrum practices.
+In this post, we’ll explore how **Kanban** works within the context of Scrum, how it brings [transparency]({{< ref "/tags/transparency" >}}), and why it’s a powerful tool for optimizing your processes. As a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer, I’ll share personal experiences and recommendations to help you leverage Kanban in your Scrum practices.
 
 ## Kanban and Scrum: Not a Choice, But a Partnership
 
@@ -79,7 +76,7 @@ To put it simply, **Kanban** is a strategy that helps you understand any system 
 
 - **Managing flow**: You can track how work moves through the process and identify bottlenecks.
 
-- **Continuous improvement**: Kanban encourages teams to keep improving the process and flow of work.
+- **[Continuous improvement]({{< ref "/tags/continuous-improvement" >}})**: Kanban encourages teams to keep improving the process and flow of work.
 
 💡 **Pro Tip:** If your team is struggling with too many tasks in progress, a Kanban board can help you visually limit the WIP and maintain focus on delivering value.
 
@@ -87,7 +84,7 @@ To put it simply, **Kanban** is a strategy that helps you understand any system 
 
 ## Kanban's Value in Any System
 
-Kanban isn’t just limited to Scrum or Agile frameworks—it’s applicable to any kind of work. Whether you’re in a marketing department, a software development team, or a manufacturing plant, Kanban can bring value by improving transparency and efficiency.
+Kanban isn’t just limited to Scrum or [Agile frameworks]({{< ref "/tags/agile-frameworks" >}})—it’s applicable to any kind of work. Whether you’re in a marketing department, a [software development]({{< ref "/tags/software-development" >}}) team, or a manufacturing plant, Kanban can bring value by improving transparency and efficiency.
 
 ### How Kanban Adds Value:
 
@@ -109,7 +106,7 @@ So, how do you actually integrate Kanban with Scrum? It’s simpler than you mig
 
 ### Steps to Combine Kanban and Scrum:
 
-1. **Start with transparency**: Use a Kanban board to visualize your Scrum team’s workflow.
+1. **Start with transparency**: Use a Kanban board to visualize your [Scrum team]({{< ref "/tags/scrum-team" >}})’s workflow.
 
 3. **Set WIP limits**: This helps Scrum teams avoid taking on too much at once, a common challenge when sprint goals are set.
 
@@ -119,13 +116,13 @@ So, how do you actually integrate Kanban with Scrum? It’s simpler than you mig
 
 9. **Apply Kanban principles**: The Kanban principles of limiting WIP and managing flow enhance your Scrum processes.
 
-By adding Kanban principles into Scrum, teams can manage their sprints more effectively. I’ve personally seen teams reduce their cycle time significantly after adopting this hybrid approach. Kanban gives teams real-time feedback on their workflow, which allows them to make data-driven decisions during sprint retrospectives.
+By adding Kanban principles into Scrum, teams can manage their sprints more effectively. I’ve personally seen teams reduce their [cycle time]({{< ref "/tags/cycle-time" >}}) significantly after adopting this hybrid approach. Kanban gives teams real-time feedback on their workflow, which allows them to make data-driven decisions during sprint retrospectives.
 
 * * *
 
 ## Real-Life Example: Kanban and Scrum in Action
 
-In one of my coaching experiences, I worked with a team that was constantly missing their sprint goals. The team was struggling to visualize what was happening between different stages of their work. By integrating a Kanban board into their existing Scrum practices, we were able to see exactly where the delays were happening.
+In one of my [coaching]({{< ref "/tags/coaching" >}}) experiences, I worked with a team that was constantly missing their sprint goals. The team was struggling to visualize what was happening between different stages of their work. By integrating a Kanban board into their existing Scrum practices, we were able to see exactly where the delays were happening.
 
 ### What We Did:
 

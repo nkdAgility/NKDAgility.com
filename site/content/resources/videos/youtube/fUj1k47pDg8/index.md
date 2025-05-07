@@ -2,36 +2,31 @@
 title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
 description: Unlock the secrets to effective product development! Discover how to challenge assumptions and enhance user understanding in our PPD V course.
 date: 2024-08-13T07:14:40Z
+weight: 680
 ResourceId: fUj1k47pDg8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: fUj1k47pDg8
 url: /resources/videos/:slug
-slug: ppdv-course-overview-with-dr-joanna-plaskonka
+slug: unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 layout: video
 aliases:
-- /resources/videos/fUj1k47pDg8
-- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
-- /resources/ppdv-course-overview-with-dr-joanna-plaskonka
 - /resources/fUj1k47pDg8
-aliasesFor404:
+- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
+aliasesArchive:
+- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
 - /resources/ppdv-course-overview-with-dr-joanna-plaskonka
+- unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
 preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: false
 tags:
-- Discovery and Learning
-- Experimentation
-- Empirical Process Control
-- Product Validation
-- People and Process
 - Product Discovery
-- Product Delivery
-- Agile Product Management
-- Continuous Learning
-- Hypothesis Driven Development
+- Product Validation
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,10 +34,11 @@ source: youtube
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---
-Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in product development. As I’ve observed in various organisations, there’s often a heavy focus on delivery—specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.
+Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in [product development]({{< ref "/categories/product-development" >}}). As I’ve observed in various organisations, there’s often a heavy focus on delivery—specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.
 
 ### The Assumption Trap
 
@@ -81,7 +77,7 @@ Throughout the course, we’ll engage with a case study that illustrates how to 
 
 - **Working with Assumptions**: We’ll explore how to identify and challenge assumptions that may hinder our progress.
   
-- **Experimentation**: You’ll learn how to design experiments that provide valuable insights into user needs and preferences.
+- **[Experimentation]({{< ref "/tags/experimentation" >}})**: You’ll learn how to design experiments that provide valuable insights into user needs and preferences.
   
 - **Collecting Evidence**: We’ll discuss methods for gathering data that informs our decisions and validates our hypotheses.
   

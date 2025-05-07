@@ -2,8 +2,10 @@
 title: '7 Deadly Sins of Agile: Greed'
 description: "Uncover the hidden dangers of greed in agile! \U0001F6AB\U0001F4C8 Join Martin Hinshelwood as he reveals how this sin can derail teams and hinder productivity."
 date: 2023-10-11T12:00:36Z
+weight: 415
 ResourceId: fZLGlqMdejA
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: fZLGlqMdejA
@@ -15,33 +17,38 @@ preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
 duration: 380
 isShort: false
 aliases:
-- /resources/7-deadly-sins-of-agile-greed
-- /resources/videos/greed!-7-deadly-sins-of-agile
-- /resources/videos/fZLGlqMdejA
-- /resources/greed!-7-deadly-sins-of-agile
 - /resources/fZLGlqMdejA
-aliasesFor404:
+- /resources/videos/7-deadly-sins-of-agile-greed
+- /resources/videos/greed-7-deadly-sins-of-agile
+aliasesArchive:
+- /resources/videos/-deadly-sins-of-agile-greed
+- /resources/videos/7-deadly-sins-of-agile-greed
 - /resources/7-deadly-sins-of-agile-greed
 - /resources/videos/greed!-7-deadly-sins-of-agile
 - /resources/greed!-7-deadly-sins-of-agile
+- /resources/videos/greed-7-deadly-sins-of-agile
+- 7-deadly-sins-of-agile-greed
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Agile Product Management
-- Flow Efficiency
-- Product Delivery
-- Agile Values and Principles
-- People and Process
-- Value Delivery
-- Agile Product Operating Model
-- Agile Strategy
-- Agile Frameworks
 - Agile Philosophy
+- Agile Strategy
+- Agile Transformation
+- Pragmatic Thinking
+- Value Delivery
+- Flow Efficiency
+- Software Development
+- Agile Values and Principles
+- Team Performance
+- Agile Product Management
+- Agile Leadership
+- Organisational Agility
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Product Development
+- Scrum
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 
@@ -70,9 +77,9 @@ The traditional view of maximising resource utilisation is rooted in industrial 
 
 - Proposes a shift to recognising the value of creative and strategic thinking in Agile. 
 
-**Valuing Flow Efficiency and Customer Value 🌊** 
+**Valuing [Flow Efficiency]({{< ref "/tags/flow-efficiency" >}}) and Customer Value 🌊** 
 
-In Agile, the primary focus is on delivering tangible benefits to customers, not just on task completion. This section encourages a deeper understanding of flow efficiency and value delivery as the true indicators of an Agile team’s success, moving away from mere task accomplishment to meaningful customer-centric outcomes. 
+In Agile, the primary focus is on delivering tangible benefits to customers, not just on task completion. This section encourages a deeper understanding of flow efficiency and [value delivery]({{< ref "/tags/value-delivery" >}}) as the true indicators of an Agile team’s success, moving away from mere task accomplishment to meaningful customer-centric outcomes. 
 
 **Key Aspects of Flow Efficiency:** 
 
@@ -98,7 +105,7 @@ This section advocates for a paradigm shift in Agile practices, from maximising 
 
 - Stresses the importance of a balanced work culture in Agile. 
 
-- Encourages continuous improvement and creativity within Agile teams. 
+- Encourages [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and creativity within Agile teams. 
 
 **The Importance of Listening to Teams 🎧** 
 
@@ -112,7 +119,7 @@ Effective listening is crucial in understanding team dynamics and tailoring Agil
 
 **Understanding the Work 🧠** 
 
-For Scrum Masters and Agile Coaches, a deep understanding of the team’s tasks and the overall project context is essential. This section discusses how credibility in Agile leadership is built through knowledge, understanding, and empathy, enabling leaders to guide their teams more effectively. 
+For [Scrum]({{< ref "/categories/scrum" >}}) Masters and Agile Coaches, a deep understanding of the team’s tasks and the overall project context is essential. This section discusses how credibility in Agile [leadership]({{< ref "/categories/leadership" >}}) is built through knowledge, understanding, and empathy, enabling leaders to guide their teams more effectively. 
 
 **Building Credibility and Trust:** 
 
@@ -122,9 +129,9 @@ For Scrum Masters and Agile Coaches, a deep understanding of the team’s tasks 
 
 **Building Trust and Credibility 🤝** 
 
-This section examines the role of trust in Agile leadership, discussing how Scrum Masters and coaches can enhance team performance through credible, valuable contributions and guidance. It underscores the importance of earning respect and trust to lead teams effectively in Agile environments. 
+This section examines the role of trust in [Agile leadership]({{< ref "/tags/agile-leadership" >}}), discussing how Scrum Masters and coaches can enhance [team performance]({{< ref "/tags/team-performance" >}}) through credible, valuable contributions and guidance. It underscores the importance of earning respect and trust to lead teams effectively in Agile environments. 
 
-**The Role of a Scrum Master:** 
+**The Role of a [Scrum Master]({{< ref "/tags/scrum-master" >}}):** 
 
 - Details the importance of trust in the Scrum Master role. 
 
@@ -132,7 +139,7 @@ This section examines the role of trust in Agile leadership, discussing how Scru
 
 **The Agile Way Forward ➡️** 
 
-The blog concludes by encouraging an embrace of value-driven approaches in all Agile practices. It highlights the importance of collaboration, continuous improvement, and innovation, outlining steps for overcoming traditional business model limitations and emphasising the need for continuous learning and adaptation in Agile. 
+The blog concludes by encouraging an embrace of value-driven approaches in all Agile practices. It highlights the importance of collaboration, continuous improvement, and innovation, outlining steps for overcoming traditional business model limitations and emphasising the need for [continuous learning]({{< ref "/tags/continuous-learning" >}}) and adaptation in Agile. 
 
 **The Path Ahead in Agile:** 
 

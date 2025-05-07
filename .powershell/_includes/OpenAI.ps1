@@ -1,5 +1,9 @@
 
 $OutputEncoding = [System.Text.Encoding]::UTF8
+
+. ./.powershell/_includes/LoggingHelper.ps1
+. ./.powershell/_includes/TokenServer.ps1
+
 function Call-OpenAI {
     param (
         [Parameter(Mandatory = $false)]
@@ -24,7 +28,7 @@ function Call-OpenAI {
 
     # Create the body for the API request
     $body = @{
-        "model"       = "gpt-4o-mini"
+        "model"       = "gpt-4.1"
         "messages"    = @(
             @{ "role" = "system"; "content" = $system },
             @{ "role" = "user"; "content" = $prompt }
@@ -43,7 +47,7 @@ function Call-OpenAI {
             $response = Invoke-RestMethod -Uri $apiUrl -Method Post -Headers @{
                 "Content-Type"  = "application/json; charset=utf-8"
                 "Authorization" = "Bearer $OPEN_AI_KEY"
-            } -Body $body -TimeoutSec 30
+            } -Body $body -TimeoutSec 300
 
             # Validate response structure
             if ($response -and $response.choices -and $response.choices.Count -gt 0 -and $response.choices[0].message) {
@@ -88,9 +92,44 @@ function Call-OpenAI {
 
 
 function Get-TokenEstimate {
-    param ($text)
-    return ($text.Length / 4)  # Rough estimate, adjust as needed
+    param (
+        [string]$prompt
+    )
+
+    # Create a temporary file for the prompt
+    $tempFile = [System.IO.Path]::GetTempFileName()
+
+    try {
+        # Write the prompt to the temporary file with UTF-8 encoding
+        Set-Content -Path $tempFile -Value $prompt -Encoding UTF8
+        
+        # Escape backslashes for Python compatibility
+        $escapedTempFile = $tempFile -replace '\\', '\\'
+
+        # Run Python to count tokens and handle potential errors
+        $tokenCount = python -c "import tiktoken; enc = tiktoken.encoding_for_model('gpt-4'); print(len(enc.encode(open(r'$escapedTempFile', 'r', encoding='utf-8').read())))" 2>&1
+
+        # Convert the token count to an integer
+        if ($tokenCount -match '^\d+$') {
+            return [int]$tokenCount
+        }
+        else {
+            Write-Error "Failed to parse token count. Python output: $tokenCount"
+            return $null
+        }
+    }
+    catch {
+        Write-Error "An error occurred while estimating tokens: $_"
+        return $null
+    }
+    finally {
+        # Ensure the temporary file is deleted
+        if (Test-Path $tempFile) {
+            Remove-Item -Path $tempFile -ErrorAction SilentlyContinue
+        }
+    }
 }
+
 
 function Get-TextChunks {
     param ($text, $maxLength)
@@ -126,8 +165,8 @@ function Get-OpenAIResponse {
     Write-VerboseLog "-----------------------------------------"
 
     # Estimate tokens for the prompt
-    $tokenEstimate = Get-TokenEstimate $prompt
-    $maxTokensPerChunk = 100000  # Leave room for model response
+    $tokenEstimate = Get-TokenCountFromServer $prompt
+    $maxTokensPerChunk = 50000  # Leave room for model response
 
     # Split the prompt into chunks if it exceeds the max token size
     if ($tokenEstimate -gt $maxTokensPerChunk) {
@@ -178,7 +217,7 @@ $batchesInProgressMax = 10;
 function Submit-OpenAIBatch {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
-        [string]$Model = "gpt-4o-mini",
+        [string]$Model = "gpt-4.1",
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )
@@ -191,8 +230,18 @@ function Submit-OpenAIBatch {
         return $null
     }
     $tokenEstimate = 0
+    $total = $Prompts.Count
+    $counter = 0
+    $nextPercent = 10
     $BatchData = $Prompts | ForEach-Object {
-        $tokenEstimate += Get-TokenEstimate $_
+        $tokenEstimate += $_.TokenEstimate
+        $counter++
+        $percent = [math]::Floor(($counter / $total) * 100)
+        if ($percent -ge $nextPercent) {
+            Write-Host "Processed $counter of $total prompts ($percent%)"
+            $nextPercent += 10
+        }
+
         [PSCustomObject]@{
             custom_id = "request-$([System.Guid]::NewGuid().ToString())"
             method    = "POST"
@@ -206,7 +255,8 @@ function Submit-OpenAIBatch {
                 max_tokens = 5000
             }
         } | ConvertTo-Json -Depth 10 -Compress
-    } 
+    }
+
     
     # Ensure each JSON object is written as a new line in the .jsonl file
     $BatchData -join "`n" | Set-Content -Path $OutputFile -Encoding utf8
@@ -224,12 +274,18 @@ function Submit-OpenAIBatch {
         $batchesInProgress++
     }
     Write-Host "Batch submitted. ID: $BatchId"
-    return $BatchId
+    return  [PSCustomObject]@{
+        BatchId              = $BatchId
+        TokenEstimate        = $tokenEstimate
+        BatchesInProgress    = $batchesInProgress
+        BatchesInProgressMax = $batchesInProgressMax
+    }
 }
 
 function Get-OpenAIBatchStatus {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
+        [Parameter(Mandatory = $true)]
         [string]$BatchId
     )
     
@@ -246,8 +302,8 @@ function Get-OpenAIBatchResults {
     
     # Get batch details
     $BatchDetails = Invoke-RestMethod -Uri "https://api.openai.com/v1/batches/$BatchId" -Headers @{"Authorization" = "Bearer $OPEN_AI_KEY"; "Content-Type" = "application/json" } -Method Get
-    if ($BatchDetails.status -ne "completed") {
-        Write-Host "Batch is not yet completed. Current status: $($BatchDetails.status)"
+    if ($BatchDetails.status -notin @("completed", "expired")) {
+        Write-Host "Batch is not yet completed or expired. Current status: $($BatchDetails.status)"
         return $null
     }
     
@@ -272,7 +328,7 @@ function Cancel-OpenAIBatch {
 function Submit-And-Wait-OpenAIBatch {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
-        [string]$Model = "gpt-4o-mini",
+        [string]$Model = "gpt-4.1",
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )
@@ -429,36 +485,7 @@ function Get-OpenAIBatchList {
     return $totalTokens
 }
 
-function Get-TokenCount {
-    param (
-        [string]$Prompt
-    )
 
-    # Save the prompt to a temp file
-    $tempFile = "$env:TEMP\prompt.txt"
-    $Prompt | Out-File -Encoding utf8 $tempFile
-
-    # Run Python script to get token count
-    $tokenCount = python -c @"
-import tiktoken
-import sys
-
-with open(sys.argv[1], 'r', encoding='utf-8') as file:
-    text = file.read()
-
-encoding = tiktoken.get_encoding("cl100k_base")  # Model-specific encoding
-tokens = encoding.encode(text)
-print(len(tokens))
-"@ $tempFile
-
-    Remove-Item $tempFile -Force  # Clean up temp file
-    return [int]$tokenCount
-}
-
-# Example usage:
-$prompt = "This is a sample prompt to estimate tokens."
-$tokenCount = Get-TokenCount -Prompt $prompt
-Write-Host "Estimated Tokens: $tokenCount"
 
 
 

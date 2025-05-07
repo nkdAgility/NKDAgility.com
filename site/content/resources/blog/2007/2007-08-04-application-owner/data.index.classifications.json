@@ -1,11 +1,14 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-16T21:14:23",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses the management of production applications, including vendor relationships, infrastructure management, issue resolution, updates, documentation, and compliance audits, which are all key aspects of Application Lifecycle Management.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of an application owner in managing production applications, which aligns with the principles of Application Lifecycle Management (ALM). It mentions managing relationships with vendors, infrastructure teams, and issues related to applications, which are relevant to the maintenance and governance aspects of ALM. However, the discussion lacks depth in covering the entire lifecycle stages and best practices, focusing more on the management role rather than the methodologies or tools involved in ALM. The mention of SOX audits indicates an understanding of compliance, but overall, the content does not provide a comprehensive exploration of ALM, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Flow Efficiency": {
@@ -28,19 +31,22 @@
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the management of production applications and the relationship between business technology and project management, indicating a connection between social and technical aspects. However, the primary focus is on the management tasks rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of an Application Owner in managing various aspects of production applications, which touches on organisational roles and responsibilities. However, it primarily focuses on the technical management tasks without a significant exploration of the interplay between social and technical systems. While there are mentions of management and coordination with teams, the discussion lacks depth in examining how these roles influence software delivery and team effectiveness, which is central to the Sociotechnical Systems category.",
+    "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T21:14:30",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Application Owner and management tasks rather than the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,10 +61,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T21:14:33",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses management roles and responsibilities related to applications rather than installation or configuration processes.",
     "level": "Ignored"
   },
@@ -80,15 +86,6 @@
     "reasoning": "Content primarily discusses the role of an Application Owner and management tasks, with no direct connection to Agile, Scrum, DevOps, or Lean principles.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T21:14:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the management of production applications and the responsibilities of an Application Owner, with no clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-16T21:14:39",
@@ -96,15 +93,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the management of production applications and the responsibilities of an Application Owner, without reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T21:14:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of an Application Owner and management tasks rather than practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +106,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T21:14:42",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Application Owner and management tasks rather than metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,38 +142,38 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T21:14:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-08T20:49:14",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an Application Owner, focusing on management tasks rather than evidence-based management principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of an Application Owner in managing production applications and vendor relations, with a focus on operational tasks rather than evidence-based management principles. There are no direct mentions of empirical decision-making or metrics related to current value, time to market, or ability to innovate. The discussion lacks depth in relation to EBM concepts, making it largely irrelevant to the category.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T21:14:49",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of production applications and the responsibilities of an Application Owner, without a focus on Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T21:14:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of an Application Owner and personal experiences related to management tasks, rather than providing industry news or reviews.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of an Application Owner in managing production applications and vendor relations, which does not align with the Agile Product Operating Model. While there are mentions of management tasks, there is no focus on agile methodologies, product management principles, or the core themes of APOM. The discussion is more aligned with traditional project management and operational tasks rather than the agile product mindset.",
     "level": "Ignored"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses management of production applications and the role of an Application Owner, which relates to aspects of product delivery, such as managing updates and issues. However, it primarily focuses on management responsibilities rather than the end-to-end delivery process.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the management of production applications, which touches on aspects of product delivery, such as managing updates and issues. However, it lacks a direct focus on methodologies or practices specifically related to the end-to-end delivery process. While it mentions managing relationships and audits, it does not delve into agile methodologies, testing, or deployment strategies, which are core themes of product delivery.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -206,66 +194,21 @@
     "reasoning": "Content primarily discusses the management of production applications and related tasks, without a clear focus on platform engineering principles or Internal Developer Platforms.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T21:14:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role of an Application Owner and management tasks related to production applications, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T21:14:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the role of an Application Owner and management tasks, with no clear focus on AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T21:14:59",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses project management responsibilities and the management of applications, rather than focusing on code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T21:15:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the responsibilities of an Application Owner and does not reference any events, presentations, or discussions related to Agile, DevOps, or software engineering.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T21:15:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the responsibilities of an Application Owner and the management of production applications, without a clear focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-16T21:15:03",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Application Owner and management tasks rather than principles or practices of business agility.",
     "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-16T21:15:04",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Application Owner and management tasks related to production applications, without a focus on Systems Thinking principles or interconnectedness within systems.",
     "level": "Ignored"
   },
@@ -280,21 +223,24 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T21:15:07",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Application Owner and management tasks related to production applications, without a focus on Agile principles or product management.",
     "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-03-15T07:42:04",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 15,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content includes personal reflections on the role of an Application Owner and the challenges faced in managing production applications, which aligns with the Personal category. However, it primarily focuses on job responsibilities and technical aspects rather than deeper personal insights or experiences.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content provides a personal perspective on the role of an Application Owner, discussing the management aspects of the job and personal experiences with SOX audits. However, it primarily focuses on technical responsibilities and management tasks rather than personal reflections or insights related to Agile, Scrum, or DevOps methodologies. The mention of personal opinions and experiences is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -307,20 +253,23 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T21:15:12",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Application Owner and project management tasks, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T21:15:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses management responsibilities related to production applications and SOX audits, without a clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the role of an Application Owner in managing production applications and vendor relations, which is more aligned with project management than DevOps principles. While there are mentions of managing infrastructure and issues, the focus is not on collaboration, automation, or shared accountability, which are core to DevOps. The discussion lacks depth in DevOps practices and does not address key topics such as continuous improvement or feedback loops.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -332,39 +281,12 @@
     "reasoning": "Content primarily discusses management responsibilities and challenges related to application ownership, rather than engineering practices or methodologies that enhance technical excellence.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the management responsibilities of an Application Owner, highlighting the interplay between human roles and processes in application management, but it primarily focuses on specific tasks rather than broader team dynamics or methodologies.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T21:15:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses project management responsibilities and technical issues without a focus on learning or discovery processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T21:15:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role and responsibilities of an Application Owner, with no focus on specific products, books, or Agile methodologies.",
-    "level": "Ignored"
-  },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses heavily on application management tasks, project management, and specific technical responsibilities, without a clear alignment with product management strategies or methodologies.",
     "level": "Ignored"
   },
@@ -379,28 +301,28 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses project management and application ownership rather than technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses application management and project management responsibilities, with no clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses primarily on application management and the responsibilities of an Application Owner, without addressing cross-functional teams or their concepts.",
     "level": "Ignored"
   },
@@ -415,20 +337,11 @@
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the management of specific applications and operational issues rather than on the strategic alignment of projects or portfolio management practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses application management and technical responsibilities without any mention of Scrum principles or product development.",
+    "reasoning": "Content focuses on the management of specific applications and operational issues rather than on the strategic alignment of projects or portfolio management practices.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +373,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the responsibilities and tasks of a role related to application management, with no clear reference to Agile values, principles, or methodologies.",
     "level": "Ignored"
   },
@@ -478,12 +391,15 @@
   },
   "Accountability": {
     "category": "Accountability",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 40,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 36.0,
-    "reasoning": "The content discusses roles and responsibilities related to application management, but it primarily focuses on task management and individual duties rather than on accountability as a team principle or culture. It does not emphasize ownership or the distinction between accountability and blame in Agile teams.",
-    "level": "Quaternary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the responsibilities of an Application Owner, which touches on aspects of accountability, particularly in terms of ownership of applications and managing relationships. However, it lacks a clear focus on the distinction between accountability and blame, and does not delve into team dynamics or strategies for fostering a culture of accountability. The discussion is more about individual responsibilities rather than collective team principles, which diminishes its alignment with the core themes of the Accountability category.",
+    "level": "Ignored"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -496,20 +412,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the role and responsibilities of an Application Owner, not on the Definition of Done or its principles.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on the management of applications and associated tasks, without any reference to Agile practices or scaling Agile across teams.",
+    "reasoning": "Content focuses on the role and responsibilities of an Application Owner, not on the Definition of Done or its principles.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -575,23 +482,14 @@
     "reasoning": "Content primarily discusses the responsibilities of an Application Owner in managing production applications and related tasks, with no focus on collaboration tools or enhancing communication within Agile teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the role of an Application Owner, which focuses on management duties rather than the role of software developers within Agile or DevOps contexts. It does not align with the category's focus on developer practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:34",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 30,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
+    "final_score": 30.0,
     "reasoning": "The content primarily discusses management aspects of applications rather than software development practices or methodologies. Although it touches on some software-related topics, these are secondary to the main discussion about management and operational tasks.",
-    "level": "Quaternary"
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -620,7 +518,7 @@
     "reasoning": "Content is primarily focused on the role of the Application Owner and management tasks, without any discussion of estimation techniques or Agile-related practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:53:43",
     "ai_confidence": 0,
@@ -694,11 +592,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses application management and project management roles rather than Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of an Application Owner in managing production applications and vendor relations, with a focus on operational management rather than Continuous Delivery principles. While there are mentions of managing updates and issues, the discussion lacks explicit references to Continuous Delivery practices, automation, or the cultural aspects associated with it. The content does not delve into the core themes of Continuous Delivery, such as rapid feedback, incremental improvements, or specific tools and frameworks that support these practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -746,15 +647,6 @@
     "reasoning": "The content primarily discusses the role of an application owner in managing production applications, project management, and SOX audits without any focus on hypothesis formulation, experimentation, or validated learning.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on application management and auditing processes rather than the integration of AI within Agile or DevOps practices.",
-    "level": "Ignored"
-  },
   "Agile Strategy": {
     "category": "Agile Strategy",
     "calculated_at": "2025-02-16T21:53:43",
@@ -766,10 +658,10 @@
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Application Owner and project management tasks, rather than focusing on change management strategies or practices.",
     "level": "Ignored"
   },
@@ -874,10 +766,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the responsibilities of an Application Owner and management tasks related to applications, rather than focusing on team dynamics, collaboration, or performance strategies within agile teams.",
     "level": "Ignored"
   },
@@ -901,10 +793,10 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the role of an Application Owner and project management rather than the responsibilities of a Product Owner in Agile and Scrum.",
     "level": "Ignored"
   },
@@ -919,19 +811,19 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the responsibilities of a project manager regarding application management rather than focusing on team collaboration, communication, or Agile principles.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about application management and job responsibilities rather than the Definition of Ready or backlog item readiness.",
     "level": "Ignored"
   },
@@ -964,20 +856,11 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the role of an Application Owner and related management tasks, with no clear connection to remote work practices, challenges, or Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on application management and roles related to that, with no connection to Kanban principles or their application at scale.",
+    "reasoning": "Content primarily discusses the role of an Application Owner and related management tasks, with no clear connection to remote work practices, challenges, or Agile methodologies.",
     "level": "Ignored"
   },
   "Customer Retention": {
@@ -987,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses management tasks related to application ownership and does not address customer retention strategies or user engagement.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses application management roles and responsibilities, without any mention or focus on Agile Project Management principles, methodologies, or practices.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1108,12 +982,15 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses managing issues and problems with applications, which is related to troubleshooting, but the primary focus is on management rather than the direct resolution of technical issues.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses managing issues and problems with applications, which aligns with troubleshooting. However, it primarily focuses on management roles and responsibilities rather than specific troubleshooting techniques or methodologies. The mention of fixing problems and the slow process indicates some depth, but the overall emphasis is more on management than on direct troubleshooting practices.",
+    "level": "Secondary"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1180,19 +1057,19 @@
   },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the role of an Application Owner in managing production applications and specific tasks associated with it, without focusing on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on application management and the role of an Application Owner, discussing management tasks rather than the delivery or characteristics of working software.",
     "level": "Ignored"
   },
@@ -1207,37 +1084,40 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content is primarily focused on the role of an Application Owner and related management tasks, which does not align with discussions specifically about Scrum Teams or their dynamics.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the technical and managerial responsibilities of an Application Owner, without focusing on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the practical aspects of managing production applications, focusing on problem-solving related to application management and issues. While it touches on the pragmatic aspects of management and dealing with production challenges, it is primarily focused on the role of an Application Owner rather than explicitly emphasizing Agile, Scrum, or DevOps principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the role of an Application Owner and the practical challenges faced in managing production applications, which aligns with pragmatic thinking. It highlights real-world problem-solving in a complex environment, particularly in relation to managing vendor relationships and infrastructure teams. However, while it touches on relevant themes, the discussion lacks depth in terms of specific Agile or Scrum methodologies and does not provide extensive practical strategies or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T21:53:43",
+    "calculated_at": "2025-04-10T15:56:56",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on application ownership and management tasks rather than specific practices, strategies, or discussions around software release management.",
     "level": "Ignored"
   },
@@ -1268,15 +1148,6 @@
     "reasoning": "Content focuses on management roles and tasks associated with applications, lacking any discussion of asynchronous development principles, practices, or methods.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the responsibilities of an Application Owner and management tasks related to production applications, with no clear focus on scaling Scrum principles or frameworks.",
-    "level": "Ignored"
-  },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
     "calculated_at": "2025-02-16T21:53:43",
@@ -1288,12 +1159,15 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T09:13:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses management tasks and practices related to applications, including the management of relationships and processes that may relate to operational efficiency, although it primarily focuses on job roles rather than specific operational practices.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the role of an Application Owner in managing production applications, which touches on operational practices such as managing vendor relationships, infrastructure, and audits. However, it lacks a strong focus on specific methodologies like Agile, DevOps, or Lean, and does not delve deeply into techniques for process optimisation or continuous improvement. The mention of a SOX audit management system indicates some operational efficiency improvement, but overall, the content is more about job responsibilities than strategic operational practices.",
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1313,22 +1187,16 @@
     "reasoning": "Content primarily discusses the role and responsibilities of an Application Owner, focusing on management and operations rather than Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the management of production applications and does not address scaling agility or related strategies.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the responsibilities and management of applications rather than the specific role or practices of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the role of an Application Owner, focusing on management tasks related to production applications and vendor relations. There are no direct mentions of the Scrum Master role or its responsibilities, and the content does not align with the core themes of Scrum or agile principles. The discussion lacks depth regarding Scrum practices, coaching, or team dynamics, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1219,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:53:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses application management, project management, and SOX audit responsibilities, with no mention of Test First Development or related topics.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the role of an Application Owner in managing production applications and vendor relations, with no direct mention of Test First Development principles or practices. It lacks alignment with the core themes of Test First Development, such as success criteria, testing methodologies, or collaboration among development teams. The depth of discussion is focused on management tasks rather than any testing or development practices.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:28:18",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of an Application Owner and management tasks, with no clear focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the role of an Application Owner in managing production applications and vendor relations, which does not directly address the core themes of Social Technologies. While there are mentions of management and collaboration with teams, the discussion lacks depth in exploring self-organisation, collective intelligence, or transparency within the context of social technologies. The content is more centred on technical management tasks rather than the social frameworks that promote collaboration and decision-making.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1248,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the management of production applications and the responsibilities associated with that role, rather than focusing on leadership practices or strategies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:49:44",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the role of an application owner and management tasks, with no clear focus on Internal Developer Platforms or their benefits, components, or implementation.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:49:45",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses application management and project management roles, with no clear focus on Artificial Intelligence or its integration within Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of an Application Owner in managing production applications, which does not directly relate to Scrum principles, roles, or events. While there is a mention of management tasks, it lacks explicit references to Scrum roles (like Scrum Master or Product Owner) or events (like Sprints or Daily Scrums). The discussion is more focused on operational management rather than the collaborative and iterative nature of Scrum, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the role of an Application Owner in managing production applications and does not explicitly mention the Shift-Left Strategy. While there are references to managing audits and issues, these do not align with the proactive integration of testing, security, and compliance earlier in the development lifecycle. The focus is on management tasks rather than the principles or benefits of the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of an Application Owner and the management of production applications, vendor relations, and SOX audits. While it touches on aspects of management and operational tasks, it does not explicitly discuss Common Goals or their significance within Agile or DevOps frameworks. The discussion lacks a clear connection to shared objectives or alignment with strategic goals, which are central to the category of Common Goals.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the role of an Application Owner, focusing on management tasks rather than the development of skills or continuous learning. While it touches on the importance of managing applications and vendor relations, it lacks a strong emphasis on competence as a foundational principle in Agile or DevOps. The discussion is more about operational responsibilities than fostering a culture of competence or skill development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the role of an Application Owner in managing production applications and vendor relations, with little emphasis on Continuous Improvement principles. While there is a brief mention of a SOX audit management system improving efficiency, the overall discussion lacks depth in Continuous Improvement strategies, empirical evidence, or a culture of experimentation. The content does not align closely with the core themes of Continuous Improvement, making it a secondary topic rather than a primary focus.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:56",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the role of an Application Owner in managing production applications and vendor relations, with no explicit discussion of Agentic Agility. While it touches on management tasks, it lacks a clear connection to the intentional shaping of outcomes, adaptability, or the interplay between human and AI capabilities. The discussion is more about operational management than the transformative capacity of individuals or systems.",
     "level": "Ignored"
   }
 }

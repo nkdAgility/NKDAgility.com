@@ -2,8 +2,10 @@
 title: Addressing Systemic Issues in Agile Organizations
 description: Unlock the secrets to startup success! Discover how agile techniques can transform your business and boost team performance in this must-watch video.
 date: 2024-01-24T07:00:16Z
+weight: 455
 ResourceId: QBX7dnUBzo8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: QBX7dnUBzo8
@@ -15,33 +17,38 @@ preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
 duration: 349
 isShort: false
 aliases:
-- /resources/addressing-systemic-issues-in-agile-organizations
-- /resources/videos/agile-techniques-that-boost-startups!
-- /resources/videos/QBX7dnUBzo8
-- /resources/agile-techniques-that-boost-startups!
 - /resources/QBX7dnUBzo8
-aliasesFor404:
+- /resources/videos/addressing-systemic-issues-in-agile-organizations
+- /resources/videos/agile-techniques-that-boost-startups
+aliasesArchive:
+- /resources/videos/addressing-systemic-issues-in-agile-organizations
 - /resources/addressing-systemic-issues-in-agile-organizations
 - /resources/videos/agile-techniques-that-boost-startups!
 - /resources/agile-techniques-that-boost-startups!
+- /resources/videos/agile-techniques-that-boost-startups
+- addressing-systemic-issues-in-agile-organizations
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Resilience and Change
-- Business Agility
-- People and Process
-- Agile Strategy
-- Agile Frameworks
-- Change Management
-- Agile Leadership
+- Agile Transformation
+- Continuous Improvement
+- Organisational Change
+- Pragmatic Thinking
 - Agile Philosophy
+- Change Management
+- Organisational Agility
+- Organisational Physics
+- Software Development
 - Enterprise Agility
-- Scaling Agility
+- Sociotechnical Systems
+- Systems Thinking
+- Agile Strategy
+- Operational Practices
 resourceTypes:
 - video
 categories:
-- Leadership
+- Product Development
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.
@@ -106,7 +113,7 @@ This happens because **Agile** isn’t just a set of ceremonies or rituals. It r
 
 ### **Agile Isn’t a Magic Fix**
 
-Agile doesn’t magically make your organization better. It’s about **systematic and continuous improvement**—taking small steps in some cases, but also being willing to make **big jumps** when necessary.
+Agile doesn’t magically make your organization better. It’s about **systematic and [continuous improvement]({{< ref "/tags/continuous-improvement" >}})**—taking small steps in some cases, but also being willing to make **big jumps** when necessary.
 
 The question is, do you have the **courage** to make those changes? 🚀
 

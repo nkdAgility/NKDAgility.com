@@ -1,12 +1,15 @@
 {
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio 2008 and Team Foundation Server, which are tools related to application lifecycle management, but the primary focus is on confusion regarding downloads rather than a comprehensive discussion on ALM practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions ALM in the tags but does not discuss any core principles or practices related to Application Lifecycle Management. The focus is primarily on confusion regarding the availability of specific Visual Studio components, which does not align with the key topics of ALM such as lifecycle stages, governance, or tools. Therefore, while there is a minimal mention of ALM, the overall content does not provide substantial information or depth on the subject.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -35,12 +38,12 @@
     "reasoning": "Content primarily discusses confusion regarding software downloads and versions without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T19:54:36",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and Team Explorer, which is unrelated to the principles or implementation of the One Engineering System framework.",
     "level": "Ignored"
   },
@@ -55,12 +58,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses confusion regarding the installation and availability of Visual Studio 2008 components, which relates to installation and configuration, but it is primarily focused on the author's personal experience and questions rather than providing clear, actionable instructions.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily expresses confusion regarding the availability of specific software components related to Visual Studio 2008, particularly Team Explorer and Team Suite. While it touches on installation-related issues, such as the need for Team Foundation Server and the .NET 3.5 redistributable, it lacks detailed installation procedures or configuration best practices. The discussion is more about seeking clarification than providing actionable instructions, which diminishes its alignment with the category's core themes.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -73,21 +79,15 @@
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-16T19:54:41",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
     "final_score": 72.0,
-    "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components, which does not directly reference Agile, Scrum, DevOps, Lean, or Evidence-Based Management principles.",
+    "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components, specifically Team Explorer and Team Suite. While it does not directly reference Agile, Scrum, DevOps, or Lean methodologies, it touches on tools and technologies related to software development. The discussion lacks a clear connection to established Agile frameworks, making it suitable for the Miscellaneous category. However, the depth of the inquiry and the mention of specific tools provide a moderate level of alignment with the broader context of business agility.",
     "level": "Secondary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T19:54:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses confusion regarding software downloads and versions, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -96,15 +96,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion regarding software downloads and versions, with no reference to complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T19:54:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses confusion regarding the availability of Visual Studio 2008 components and does not focus on practical techniques or tooling related to Agile or DevOps.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -118,10 +109,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T19:54:47",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion regarding software downloads and versions, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -154,29 +145,26 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T19:54:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses confusion regarding software downloads and versions, with no focus on Evidence-Based Management principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not mention Evidence-Based Management or its key topics, nor does it provide any empirical evidence or data-informed decision-making insights. The focus is on software releases rather than management practices.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T19:54:52",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and its components, with no relevance to Agile principles or product-centric development.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T19:54:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses confusion regarding the availability of Visual Studio 2008 components, lacking a focus on industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not mention the Agile Product Operating Model or its principles, nor does it align with the core themes of product management or agile methodologies. The focus is on software releases rather than agile practices.",
     "level": "Ignored"
   },
   "Product Delivery": {
@@ -190,10 +178,10 @@
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T19:54:56",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 releases and downloads, with no relevance to BetaCodex principles or practices.",
     "level": "Ignored"
   },
@@ -204,51 +192,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and Team Explorer, which does not align with the principles of platform engineering or internal developer platforms.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T19:54:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses confusion regarding Visual Studio 2008 and Team Foundation Server, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T19:55:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and Team Explorer, with no mention of AI, automation, or Agile practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T19:55:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses confusion regarding the availability of Visual Studio 2008 components and downloads, which does not relate to code quality or complexity in software development.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T19:55:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses confusion regarding software downloads and does not relate to events or presentations.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T19:55:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses confusion regarding software downloads and does not address transparency or accountability within Agile teams.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -316,11 +259,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T19:55:14",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and Team Explorer, which does not align with DevOps principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. While it touches on tools that may be used in a DevOps context, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The focus is on specific software releases rather than the integration of people, processes, and technology for continuous value delivery.",
     "level": "Ignored"
   },
   "Technical Excellence": {
@@ -331,33 +277,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion regarding software downloads and versions, lacking focus on engineering practices or methodologies related to technical excellence.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T19:55:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses confusion regarding software downloads and versions, with no focus on team dynamics, collaboration, or process methodologies.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T19:55:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses confusion regarding software downloads and versions, with no focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Visual Studio 2008 and its components, which are software products relevant to Agile and DevOps practices, but the primary focus is on user confusion rather than a review or analysis of the products.",
-    "level": "Tertiary"
   },
   "Product Management": {
     "category": "Product Management",
@@ -379,19 +298,19 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion about the availability of Visual Studio 2008 components and downloads, rather than focusing on technical aspects of system configuration.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on confusion regarding software downloads and does not discuss innovation or the ability to innovate.",
     "level": "Ignored"
   },
@@ -420,15 +339,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content focuses on confusion regarding software downloads and lacks discussion on portfolio management, project alignment, or related strategic investment topics.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum practices or principles; it focuses on confusion regarding Visual Studio 2008 and related resources.",
     "level": "Ignored"
   },
   "Engineering Practices": {
@@ -460,10 +370,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily focused on confusion regarding software releases and downloads, with no discussion of Agile values or principles.",
     "level": "Ignored"
   },
@@ -496,20 +406,11 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses confusion regarding software versions and downloads, which is unrelated to the Definition of Done in Agile and Scrum.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is focused on issues related to Visual Studio and Team Explorer, with no discussions on Agile practices or scaling methodologies.",
+    "reasoning": "Content discusses confusion regarding software versions and downloads, which is unrelated to the Definition of Done in Agile and Scrum.",
     "level": "Ignored"
   },
   "Trend Analysis": {
@@ -550,10 +451,10 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses confusion related to Visual Studio releases and Team Explorer, which is not relevant to Test Driven Development principles or practices.",
     "level": "Ignored"
   },
@@ -575,30 +476,24 @@
     "reasoning": "Content primarily discusses issues related to the download and availability of Visual Studio components, with no focus on collaboration tools or Agile practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses confusion surrounding the RTM release of Visual Studio 2008 and associated downloads. It does not focus on the role of software developers within Agile or DevOps frameworks, or related methodologies and practices.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses issues related to Visual Studio 2008 and Team Explorer, which are tools used in software development, but it lacks in-depth discussion on software development practices or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses confusion regarding the availability of Visual Studio 2008 components, specifically Team Explorer and Team Suite. While it touches on software tools relevant to software development, the focus is primarily on personal confusion and download issues rather than on methodologies, practices, or detailed discussions about software development processes. The mention of Team Foundation Server indicates some alignment with version control systems, but the overall depth and focus on software development practices are limited.",
+    "level": "Ignored"
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 releases and Team Explorer, which is not related to Site Reliability Engineering principles or practices.",
     "level": "Ignored"
   },
@@ -620,7 +515,7 @@
     "reasoning": "Content discusses confusion about software downloads and versions, which is not related to estimation practices in Agile or Scrum.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T21:08:32",
     "ai_confidence": 0,
@@ -694,11 +589,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses issues related to Visual Studio and Team Explorer but does not address Continuous Delivery principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not explicitly mention Continuous Delivery or its principles, nor does it align with the core themes of Continuous Delivery such as automation, incremental improvements, or rapid feedback. The discussion is focused on specific software versions and downloads, which is unrelated to Continuous Delivery practices.",
     "level": "Ignored"
   },
   "Lead Time": {
@@ -744,15 +642,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion around Visual Studio 2008 releases and downloads, with no mention of hypothesis-driven development or related experimentation themes.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses issues related to Visual Studio 2008 and Team Foundation Server, without any mention of AI or its application in Agile, DevOps, or software development.",
     "level": "Ignored"
   },
   "Agile Strategy": {
@@ -847,12 +736,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses issues related to finding and integrating Team Explorer with Visual Studio 2008 and Team Foundation Server, which are relevant to source control practices, but the primary focus is on confusion regarding downloads and installation, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components, specifically Team Explorer and Team Foundation Server. While it touches on source control indirectly by mentioning Team Foundation Server, it does not delve into any modern source control practices, methodologies, or strategies. The focus is more on installation issues rather than version control principles or collaboration workflows.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -874,10 +766,10 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses confusion regarding software downloads and versions related to Visual Studio 2008 and Team Foundation Server, without any clear connection to team performance or collaboration strategies.",
     "level": "Ignored"
   },
@@ -919,28 +811,28 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily focuses on confusion about software downloads related to Visual Studio 2008 and does not engage with topics of team collaboration, communication, or Agile principles.",
     "level": "Ignored"
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content revolves around confusion regarding software releases and downloads, with no relation to the Definition of Ready in Agile practices.",
     "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses confusion about Visual Studio 2008 downloads and Team Explorer, which is unrelated to Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
@@ -971,15 +863,6 @@
     "reasoning": "Content discusses specific software versions and issues related to Visual Studio and Team Explorer, with no connection to remote working or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on queries about Visual Studio releases and not related to Kanban or its scaling.",
-    "level": "Ignored"
-  },
   "Customer Retention": {
     "category": "Customer Retention",
     "calculated_at": "2025-02-16T21:08:32",
@@ -987,15 +870,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion regarding software downloads and does not address customer retention strategies or methodologies.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses issues related to software versions and downloads, not Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1090,12 +964,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the Visual Studio 2008 release, which is generally used for developing applications on Windows, but the primary focus is on Visual Studio itself rather than the Windows operating system specifically.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily discusses Visual Studio 2008 and related components, which are part of the Windows ecosystem. However, it does not explicitly focus on Windows installation, configuration, or troubleshooting. The mention of Team Explorer and Team Foundation Server indicates a connection to Windows development tools, but the discussion lacks depth regarding Windows-specific features or issues. Overall, while there is some relevance to the Windows category, it is not the primary focus of the content.",
+    "level": "Secondary"
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -1108,11 +985,14 @@
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:29",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content raises questions regarding the availability and installation of software components related to Visual Studio 2008, indicating a troubleshooting scenario. However, the main focus is on confusion rather than systematic diagnosis or resolution of specific technical issues.",
+    "final_score": 42.0,
+    "reasoning": "The content expresses confusion regarding the availability of Team Explorer and its relation to Visual Studio 2008 Team Suite, which indicates a troubleshooting scenario. However, the discussion lacks depth in terms of diagnosing or resolving specific technical issues, focusing more on the user's uncertainty rather than providing methodologies or solutions. The mention of needing Team Foundation Server and the .NET 3.5 redistributable hints at troubleshooting but does not delve into systematic problem-solving techniques or detailed insights.",
     "level": "Tertiary"
   },
   "Entrepreneurship": {
@@ -1144,10 +1024,10 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses issues related to Visual Studio and Team Suite, which are not specific to test automation processes or tools.",
     "level": "Ignored"
   },
@@ -1207,19 +1087,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Visual Studio and Team Explorer, which are not related to Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses confusion about Visual Studio releases and download links, which is unrelated to team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1234,10 +1114,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses confusion about specific releases and downloads of Visual Studio, focusing on installations rather than the strategic or process-oriented aspects of Release Management.",
     "level": "Ignored"
   },
@@ -1266,15 +1146,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on confusion regarding the availability of software downloads and does not discuss asynchronous development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses issues related to Visual Studio 2008 and Team Foundation Server, which are not relevant to the Scaling Scrum category or its key topics.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
@@ -1306,29 +1177,23 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-16T21:08:32",
+    "calculated_at": "2025-04-10T15:56:50",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily about Visual Studio and Team Foundation Server, with no discussion of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content discusses confusion regarding Visual Studio releases and downloads, with no relevance to scaling agility principles or organizational practices.",
+    "reasoning": "The content is primarily about Visual Studio and Team Foundation Server, with no discussion of Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content does not discuss Scrum Master responsibilities, practices, or related topics; it focuses on Visual Studio 2008 Team Suite and its associated downloads.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. There are no direct mentions of the Scrum Master role, nor does it align with the core themes of Scrum, such as team dynamics, coaching, or agile principles. The discussion is focused on technical software issues rather than the responsibilities or impact of a Scrum Master.",
     "level": "Ignored"
   },
   "Automated Testing": {
@@ -1351,20 +1216,26 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T21:08:32",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on confusion regarding Visual Studio 2008 releases and downloads, with no discussion related to Test First Development or related principles.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not mention Test First Development, its principles, or any related practices. The focus is on software releases and downloads rather than testing methodologies or development practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:25:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and its components, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not discuss any aspects of collaboration, decision-making, or value delivery within organisations, which are central to the Social Technologies category. The mention of Team Explorer and Team Suite is technical and does not align with the principles of self-organisation or collective intelligence. Overall, the content lacks depth and relevance to the category.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1245,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses confusion regarding software releases and downloads, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:46:33",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and its components, which is not related to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:46:35",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses confusion regarding Visual Studio 2008 and its components, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding Visual Studio 2008 and its components, specifically Team Explorer and Team Suite. There are no direct mentions of Scrum principles, roles, events, or artifacts. The discussion does not align with the core themes of Scrum, such as iterative progress, team dynamics, or continuous improvement. The content lacks depth in relation to Scrum, focusing instead on software tools and downloads.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding the availability of Visual Studio 2008 components and does not mention or align with the principles of the Shift-Left Strategy. There are no references to integrating testing, security, or compliance early in the development process, nor does it provide any depth on related methodologies or tools.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not address the concept of Common Goals, nor does it connect to Agile or DevOps principles. The focus is on specific software issues rather than shared objectives or strategic alignment.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not explicitly mention competence or its importance in Agile, Scrum, DevOps, or Lean methodologies. While there is a tangential reference to needing tools for development, it lacks a focus on continuous learning, skill development, or the professional standards associated with competence.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not address Continuous Improvement principles, nor does it provide insights into processes, products, or team effectiveness. The focus is on specific software issues rather than on any form of continuous improvement or organisational strategies.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:50",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses confusion regarding the RTM release of Visual Studio 2008 and related downloads. It does not address the intentional shaping of outcomes, agency, or agility in any meaningful way. There are no direct mentions of Agentic Agility or its principles, and the discussion lacks depth on the topic, focusing instead on technical issues and downloads.",
     "level": "Ignored"
   }
 }

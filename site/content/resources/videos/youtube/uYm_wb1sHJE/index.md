@@ -2,8 +2,10 @@
 title: What is the Sprint Review workshop and how will it help organisations?
 description: Discover how NKD Agility's Sprint Review workshops empower scrum teams to excel in showcasing their work and enhancing stakeholder engagement.
 date: 2023-06-30T07:00:18Z
+weight: 665
 ResourceId: uYm_wb1sHJE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: uYm_wb1sHJE
@@ -15,39 +17,34 @@ preview: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg
 duration: 158
 isShort: false
 aliases:
-- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
-- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
-- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
-- /resources/videos/uYm_wb1sHJE
-- /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 - /resources/uYm_wb1sHJE
-aliasesFor404:
+- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
+- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
+aliasesArchive:
+- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
 - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
+- /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
+- what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Events and Presentations
-- Sprint Review
-- Agile Product Management
-- Product Delivery
-- Scrum Product Development
-- Agile Project Management
-- People and Process
-- Pragmatic Thinking
-- Agile Frameworks
 - Software Development
+- Sprint Review
+- Agile Planning
+- Pragmatic Thinking
+- Team Performance
 resourceTypes:
 - video
 categories:
+- Product Development
 - Scrum
-- Social Technologies
 
 ---
-## 🚀 Demystifying the Sprint Review Workshop 
+## 🚀 Demystifying the [Sprint Review]({{< ref "/tags/sprint-review" >}}) Workshop 
 
 In the vibrant realm of Agile development, the Sprint Review is a pivotal milestone, directing teams towards market relevance and collaborative progress.  
 
@@ -55,7 +52,7 @@ Let us explore why this workshop isn't merely advantageous but essential for you
 
 ## Why Sprint Reviews Matter 
 
-The Sprint Review is where the trajectory of product development intersects with tangible application, affording a unique chance for teams to harmonise their endeavours with stakeholder expectations. Behold the essence of its advantages: 
+The Sprint Review is where the trajectory of [product development]({{< ref "/categories/product-development" >}}) intersects with tangible application, affording a unique chance for teams to harmonise their endeavours with stakeholder expectations. Behold the essence of its advantages: 
 
 - 👥 **Stakeholder Engagement:** These gatherings usher in your most vital contributors – the stakeholders. Within this forum, their input can pivotally mould the product's trajectory. 
 

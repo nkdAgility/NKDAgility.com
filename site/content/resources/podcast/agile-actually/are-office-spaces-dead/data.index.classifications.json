@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T23:04:53",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of remote work on training and coaching within Agile practices, indicating a major but secondary theme related to Social Technologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the future of remote work and its impact on agile training and consulting, which touches on collaboration and decision-making in a remote context. However, it lacks a direct focus on social technologies as defined in the category, and the depth of discussion on frameworks or methodologies that promote collaboration is limited.",
+    "level": "Ignored"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,19 +22,22 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T23:04:56",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses remote work and Agile methodologies, with only a brief mention of DevOps, making it not central to the topic.",
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, with only a brief mention of DevOps in the context of one of the hosts' expertise. The main focus is on agile methodologies rather than DevOps principles, resulting in low confidence for alignment with the DevOps category.",
     "level": "Ignored"
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T23:04:58",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the impact of remote work on training and consulting within Agile frameworks, rather than focusing on strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -46,12 +52,15 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T23:05:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of remote work on agile coaching and consulting, which relates to business agility, but it primarily focuses on the concept of office spaces and remote work rather than directly addressing business agility principles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on training and consulting within an agile context, which touches on aspects of business agility. However, it primarily focuses on the experiences of the hosts as agile coaches and trainers rather than providing a comprehensive exploration of business agility principles or practices. The discussion lacks depth in terms of strategies, leadership roles, or case studies related to business agility.",
+    "level": "Ignored"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -64,12 +73,15 @@
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T23:05:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions Professional Scrum Trainers and discusses the impact of remote work on training and coaching, indicating a connection to Scrum principles, but does not primarily focus on Scrum itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions Professional Scrum Trainers and discusses the impact of remote work on training and coaching, which is relevant to Scrum. However, it lacks a detailed exploration of Scrum principles, roles, or practices, and does not delve into the core themes of the Professional Scrum category.",
+    "level": "Ignored"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -82,29 +94,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T23:05:06",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the rise of remote work and its impact on training and consulting, without a focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T23:05:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses remote work and its impact on training and consulting, with no focus on code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T23:05:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote work and the impact on Agile coaching and consulting, with no focus on Scaling Kanban principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, without a direct focus on Evidence-Based Management principles. While it touches on agile practices, it lacks explicit references to empirical evidence, metrics, or data-informed decision-making that are central to EBM.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,12 +115,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T23:05:11",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of remote work on Agile coaching and training, which is a significant theme, but it primarily focuses on the broader topic of remote work rather than a detailed exploration of Agile frameworks.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile frameworks through the credentials of the hosts, who are Scrum Trainers and Agile Coaches. However, it primarily focuses on the impact of remote work on training and consulting rather than exploring Agile frameworks in detail. The discussion lacks a thorough examination of Agile principles, comparative analysis, or case studies, which are essential for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,30 +136,24 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T23:05:14",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on Agile practices, without focusing on the Definition of Ready.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T23:05:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the rise of remote work and its impact on Agile practices, which aligns with trend analysis in Agile methodologies. However, it primarily focuses on the opinions of the hosts rather than a detailed examination of trends.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on Agile practices, which aligns with the category of Trend Analysis. However, it lacks a detailed exploration of specific trends or their implications for Agile methodologies, DevOps practices, or business agility. The discussion is more focused on the current state of office work rather than a thorough analysis of trends, resulting in a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T23:05:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of remote work on Agile practices without focusing on scaling Agile methodologies or frameworks.",
-    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -226,20 +220,14 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T23:05:27",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile methodologies and their impact on remote work, which relates to product delivery, but the primary focus is on the rise of remote work rather than the end-to-end process of delivering software products.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T23:05:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses remote work and its impact on Agile practices, without any mention of AI or its applications.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on agile coaching and consulting, which is tangentially related to product delivery. However, it lacks a direct focus on methodologies, practices, or detailed discussions about the end-to-end process of delivering software products. The mention of Agile and Scrum roles suggests some relevance, but the primary focus is on remote work rather than product delivery itself.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -251,15 +239,6 @@
     "reasoning": "Content primarily discusses the rise of remote work and its impact on training and consulting, without a clear focus on the strategic adoption of digital technologies for business transformation.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T23:05:31",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the impact of remote work on training, coaching, and consulting within Agile environments, highlighting the interplay between human behaviour and structured methodologies.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T23:05:32",
@@ -268,15 +247,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote work and Agile coaching, with no focus on Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T23:05:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile coaching and consulting, with references to Scrum trainers, but primarily focuses on the impact of remote work rather than agile project management principles.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +266,6 @@
     "reasoning": "Content primarily discusses the rise of remote work and its impact on training and consulting, without a focus on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T23:05:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the rise of remote work and its impact on training and consulting, without a clear focus on transparency or accountability.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T23:05:38",
@@ -312,15 +273,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote work and Agile coaching, with no focus on release management processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T23:05:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote work and its impact on agile coaching, without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -352,39 +304,45 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T23:05:49",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on training and consulting in Agile, without focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T23:05:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Scrum Trainers and discusses Agile coaching, but it primarily focuses on the impact of remote work rather than the specific role and responsibilities of a Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Scrum Trainers and discusses agile coaching and consulting, but it does not focus on the specific role or responsibilities of a Scrum Master. The primary theme revolves around remote work and its impact on agile practices, which is only tangentially related to the Scrum Master role.",
+    "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T23:05:52",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the impact of remote work on training and consulting in Agile, rather than focusing on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T23:05:54",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the impact of remote work on Agile coaching and consulting, which relates to Agile values and principles, but it primarily focuses on the topic of office spaces and remote work rather than a deep exploration of Agile values.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile and Scrum trainers, but it primarily focuses on the impact of remote work on training and consulting rather than discussing Agile values or principles. While there is some conceptual alignment with Agile's emphasis on flexibility and collaboration, the depth of discussion on Agile values is minimal.",
+    "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -397,11 +355,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T23:05:57",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote work and its impact on Agile coaching, with no mention of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, with no direct mention or exploration of Test First Development principles or practices. The focus is on agile coaching rather than testing methodologies.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,20 +421,23 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T23:06:18",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on training and consulting, without a clear focus on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T23:06:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of remote work on Agile coaching and consulting, which is a significant theme but not the primary focus of Agile transformation strategies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of remote work on Agile practices, mentioning the hosts' roles as Scrum Trainers and Agile Coaches. However, it lacks a focused discussion on Agile transformation strategies, methodologies, or case studies, which are essential for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -496,29 +460,11 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-17T23:06:24",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the rise of remote work and its impact on training and consulting, without a clear focus on Scrum Values.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T23:06:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of remote work on training and consulting effectiveness, which relates to organisational adaptability and change management, but it is not the primary focus.",
-    "level": "Tertiary"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T23:06:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of remote work on Agile training and consulting, without a focus on specific tools or methodologies.",
     "level": "Ignored"
   },
   "Value Stream Mapping": {
@@ -532,10 +478,10 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T23:06:30",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on Agile coaching and consulting, with no clear focus on the Product Backlog or its management.",
     "level": "Ignored"
   },
@@ -548,21 +494,12 @@
     "reasoning": "Content primarily discusses the rise of remote work and its impact on training and consulting, without personal anecdotes or reflections.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T23:06:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses insights from Agile coaches and trainers, which suggests a connection to presentations and discussions in the Agile community, but it primarily focuses on the topic of remote work rather than specific events or presentations.",
-    "level": "Tertiary"
-  },
   "Working Agreements": {
     "category": "Working Agreements",
-    "calculated_at": "2025-02-17T23:06:35",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on training and consulting, without focusing on working agreements or team collaboration principles.",
     "level": "Ignored"
   },
@@ -577,30 +514,24 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-17T23:06:38",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses remote work and its impact on training and consulting, with only brief mentions of Scrum roles without a focus on team dynamics or collaboration.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T23:06:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of remote work on training and coaching, without a clear focus on scaling agile practices across the organisation.",
+    "reasoning": "The content primarily discusses remote work and its impact on training and consulting, with only brief mentions of Scrum roles without a focus on team dynamics or collaboration.",
     "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T23:06:41",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of remote work on training and consulting, which is a significant theme, but it is closely tied to Agile and Scrum practices, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on training and consulting, which is relevant to the broader context of business agility. However, it heavily references Agile and Scrum principles, as well as the hosts' professional backgrounds in these areas, which detracts from its alignment with the Miscellaneous category. The discussion lacks depth in exploring non-technical or anecdotal experiences, focusing instead on established practices and frameworks.",
+    "level": "Ignored"
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -613,11 +544,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T23:06:44",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote work and its impact on agile coaching, with no focus on Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, with no direct mention of Continuous Delivery principles or practices. While it touches on Agile methodologies, it does not explore Continuous Delivery's core themes such as automation, incremental improvements, or software quality. The focus is on the implications of remote work rather than on Continuous Delivery itself.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -631,12 +565,15 @@
   },
   "Remote Working": {
     "category": "Remote Working",
-    "calculated_at": "2025-02-17T23:06:48",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 17.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the rise of remote work and its impact on Agile training and consulting, making remote working a significant theme, but it does not delve deeply into specific practices or strategies related to remote Agile teams.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on Agile training and consulting, which aligns with the category. However, it lacks detailed exploration of specific remote working practices or tools, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
@@ -649,23 +586,26 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T23:06:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of remote work on training and coaching within Agile contexts, which relates to team collaboration, but it is not the primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the impact of remote work on training and coaching effectiveness, which relates to team collaboration dynamics. However, it lacks direct discussions on specific techniques or strategies for improving collaboration, and the focus is more on individual roles rather than collective team dynamics.",
     "level": "Tertiary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-17T23:06:52",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the rise of remote work and its impact on training and consulting, with no clear focus on the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T23:06:54",
     "ai_confidence": 0,
@@ -683,15 +623,6 @@
     "reasoning": "Content primarily discusses remote work and Agile methodologies, with no focus on the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T23:06:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of remote work on training and consulting effectiveness, without a clear focus on discovery or learning methodologies.",
-    "level": "Ignored"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T23:06:58",
@@ -703,11 +634,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T23:06:59",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the impact of remote work on training and consulting in Agile, without a clear focus on the Agile Product Operating Model.",
+    "final_score": 25.0,
+    "reasoning": "The content discusses remote work and its impact on agile training and consulting, but it does not explicitly mention the Agile Product Operating Model or its core principles. While it features agile coaches and trainers, the focus is more on the implications of remote work rather than on product management or the specific themes of the APOM.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -730,11 +664,14 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T23:07:03",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of remote work on training and consulting, which relates to market adaptability but is not the primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on training and consulting, which indirectly relates to market adaptability. However, it lacks a direct focus on Agile methodologies, DevOps practices, or Lean principles that are essential for enhancing market adaptability. The discussion is more about the implications of remote work rather than specific strategies or methodologies that organisations can employ to respond to market shifts.",
     "level": "Tertiary"
   },
   "Organisational Physics": {
@@ -775,10 +712,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T23:07:10",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on training and consulting in Agile, without a focus on metrics or learning methodologies.",
     "level": "Ignored"
   },
@@ -793,10 +730,10 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T23:07:13",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote work and its impact on training and consulting, with no clear focus on Lean Product Development principles or practices.",
     "level": "Ignored"
   },
@@ -807,15 +744,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on training and coaching, without a clear focus on mentoring practices or strategies.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T23:07:16",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the impact of remote work on Agile training and consulting, without any mention of AI or automation.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -847,12 +775,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T23:07:21",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of remote work on Agile coaching and consulting, indicating a major theme related to Agile philosophy, but it primarily focuses on the context of remote work rather than the foundational principles of Agile.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on Agile coaching and consulting, but it primarily focuses on the experiences of the hosts rather than the foundational principles of Agile Philosophy. While Agile is mentioned, the discussion lacks depth regarding Agile values, principles, or the broader implications of Agile as a mindset.",
+    "level": "Ignored"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -865,11 +796,14 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T23:07:24",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the impact of remote work on coaching and training effectiveness, indicating that coaching is a significant theme, but it is not the primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions coaching in the context of Agile and Scrum, but it primarily focuses on the impact of remote work on training and consulting. While the hosts are identified as agile coaches, the discussion does not delve deeply into coaching techniques or the role of a coach, which are central to the Coaching category. The overall emphasis is more on the implications of remote work rather than on coaching practices themselves.",
     "level": "Tertiary"
   },
   "Frequent Releases": {
@@ -919,11 +853,14 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T23:07:31",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses Agile coaching and Scrum training, which are relevant to Agile Product Management, but the primary focus is on the impact of remote work rather than specific Agile product management practices.",
+    "final_score": 42.0,
+    "reasoning": "The content briefly mentions Agile and Scrum through the hosts' credentials but does not delve into Agile Product Management principles or practices. The focus is more on remote work and its impact on training and consulting rather than on product management strategies or methodologies.",
     "level": "Tertiary"
   },
   "Systems Thinking": {
@@ -944,31 +881,16 @@
     "reasoning": "Content primarily discusses remote work and its impact on Agile coaching and consulting, without a focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T23:07:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses remote work and its impact on training and coaching, without a clear focus on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T23:07:45",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of remote work on training and coaching effectiveness, which relates to the interplay between technology and organisational structures, but it primarily focuses on the rise of remote work rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T23:07:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the impact of remote work on training and consulting in Agile, without focusing on specific products or literature.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of remote work on training and consulting effectiveness, which touches on the interplay between social and technical aspects. However, it lacks direct mentions of sociotechnical systems and does not delve deeply into the organisational structures or cultural aspects that influence technology adoption. The focus is more on individual roles and experiences rather than a comprehensive exploration of sociotechnical interactions.",
     "level": "Ignored"
   },
   "Empirical Process Control": {
@@ -991,20 +913,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T23:07:50",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of remote work on Agile practices, which is a significant theme, but it primarily focuses on the rise of remote work rather than practical problem-solving strategies within Agile or Scrum contexts.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of remote work on Agile practices, which aligns with pragmatic thinking by addressing real-world applications and challenges faced in Agile environments. However, while it mentions Agile and Scrum, it lacks in-depth practical problem-solving strategies or case studies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T23:07:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:52:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote work and its impact on training and consulting, with no focus on Lead Time.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, with no direct mention of Lead Time or its related concepts. While it touches on agile practices, it does not align with the core themes of Lead Time as an observability metric or its measurement and optimisation strategies.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1018,10 +946,10 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T23:07:53",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on training and consulting in Agile, without a clear focus on the delivery of functional software.",
     "level": "Ignored"
   },
@@ -1036,10 +964,10 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T23:07:56",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile and Scrum, with only a brief mention of Lean in the context of procurement, which is not central to the overall topic.",
     "level": "Ignored"
   },
@@ -1054,21 +982,24 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-17T23:07:59",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on training and consulting within Agile frameworks, without a clear focus on product strategy methodologies or frameworks.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T23:08:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile methodologies and the impact of remote work on training and consulting, which are relevant to software development practices, but the primary focus is on the broader topic of office spaces and remote work.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the impact of remote work on Agile practices, specifically mentioning Scrum roles and the expertise of the hosts in Agile coaching and consulting. However, the primary focus is on the implications of remote work rather than detailed software development methodologies or practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1115,15 +1046,6 @@
     "reasoning": "Content primarily discusses the impact of remote work on training and consulting, without a clear focus on cross-functional teams.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T23:08:11",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile and its impact on remote work, which is relevant to software developers, but the primary focus is on the general implications of remote work rather than specific practices or roles of developers.",
-    "level": "Tertiary"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T23:08:13",
@@ -1144,30 +1066,21 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T23:08:17",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on Agile practices and does not focus on installation or configuration of tools or software.",
     "level": "Ignored"
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T23:08:18",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses remote work and the impact on training and consulting, with no clear focus on the responsibilities or practices of a Product Owner.",
     "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T23:08:20",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the impact of remote work on Agile practices, which is a significant theme, but it primarily focuses on a specific topic rather than broader industry news or reviews.",
-    "level": "Secondary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -1207,12 +1120,15 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T23:08:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of remote work on training and coaching within Agile contexts, indicating a secondary theme of Agile leadership, but does not primarily focus on leadership roles or practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on training and coaching within Agile contexts, but it does not explicitly focus on Agile leadership principles or practices. While the hosts are Agile coaches and trainers, the discussion lacks depth in exploring leadership roles or strategies for empowering teams, which are central to Agile Leadership.",
+    "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -1234,30 +1150,24 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T23:08:32",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on training and consulting, without focusing on product validation methodologies or user feedback.",
     "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T23:08:33",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:51:56",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of remote work on Agile practices, without a focus on throughput measurement or optimisation.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, with no direct mention of throughput as a delivery metric. While it touches on agile practices, it does not analyse or visualise throughput, nor does it provide any insights into delivery capacity or performance metrics. The focus is on the implications of remote work rather than on throughput itself.",
     "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T23:08:35",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses Scrum trainers and their roles in agile coaching, but the primary focus is on the impact of remote work rather than Scrum principles or practices.",
-    "level": "Tertiary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1270,11 +1180,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T23:08:37",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:51:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses remote work and Agile methodologies, with no focus on system configuration.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, with no direct mentions of system configuration or related topics. While there is a brief mention of DevOps, which can relate to system configuration, the overall focus is on agile methodologies rather than the setup and integration of systems. Therefore, the content does not align well with the category.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1288,48 +1201,45 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T23:08:40",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on training and consulting, with no focus on identifying customer needs or defining product features.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T23:08:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "The content primarily discusses the impact of remote work on training and consulting, with only brief mentions of Scrum roles, lacking a clear focus on Scrum product development.",
     "level": "Ignored"
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T23:08:43",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of remote work on training and consulting within agile frameworks, which relates to organisational change, but it primarily focuses on the rise of remote work rather than a comprehensive exploration of organisational change strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on training and consulting within an Agile context. However, it primarily focuses on the experiences of the hosts as Agile coaches and trainers rather than on organisational change strategies or methodologies. While there are mentions of Agile practices, the discussion does not delve into the principles of organisational change or frameworks like ADKAR or Kotter's 8-Step Process, which are central to the category. Therefore, the content is only tangentially related to organisational change.",
+    "level": "Ignored"
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T23:08:44",
+    "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the impact of remote work on Agile practices, without addressing the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T23:08:46",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the impact of remote work on Agile coaching and consulting, which relates to Agile methodologies but is not primarily focused on Agile strategy.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of remote work on Agile coaching and consulting, which is relevant to Agile Strategy. However, it primarily focuses on the personal insights of the hosts rather than a comprehensive discussion of Agile strategy principles or implementation. The mentions of Agile roles and practices are present but do not delve deeply into strategic alignment or long-term success, leading to a lower confidence score.",
+    "level": "Ignored"
   },
   "Increment": {
     "category": "Increment",
@@ -1351,11 +1261,14 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T23:08:49",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the impact of remote work on training and consulting within an agile context, indicating a major theme of organisational adaptability, but it is not the primary focus.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the rise of remote work and its impact on training and consulting within an agile context, which touches on organisational agility. However, it lacks a direct focus on the core principles of agility, such as leadership roles, cross-functional teams, or specific agile methodologies. The discussion is more about the implications of remote work rather than a deep exploration of organisational agility strategies.",
     "level": "Tertiary"
   },
   "Troubleshooting": {
@@ -1374,6 +1287,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses remote work and its impact on training and consulting, without a focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:57:46",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses remote work and Agile methodologies, with a focus on Scrum roles and events, rather than Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:57:48",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses remote work and its impact on Agile coaching and consulting, with no mention of AI or its applications in Agile or DevOps.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 45.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 50,
+    "final_score": 45.0,
+    "reasoning": "The content mentions Scrum trainers and their roles, indicating a connection to Scrum principles. However, the primary focus is on remote work and its impact on agile practices rather than a detailed discussion of Scrum itself. The alignment with Scrum concepts is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses remote work and its impact on training and consulting within Agile frameworks, with no direct mention or focus on the Shift-Left Strategy. It does not address the integration of testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, without a direct focus on Continuous Improvement principles. While it touches on agile methodologies, it lacks detailed discussions on empirical evidence, data-driven decision-making, or specific Continuous Improvement strategies.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the future of remote work and its impact on agile training and consulting, but it does not explicitly address Common Goals or their significance in Agile and DevOps. While it touches on themes relevant to Agile, such as collaboration and training, it lacks a focused discussion on shared objectives or alignment with strategic goals, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of remote work on agile training and consulting, which indirectly relates to competence in terms of skill development and effectiveness. However, it does not explicitly focus on competence as a primary theme, nor does it provide in-depth discussion on continuous learning or strategies for fostering a culture of competence.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, which does not directly relate to the One Engineering System framework. While it touches on agile practices, it lacks explicit references to 1ES principles, integration of tools, or standardisation of processes, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, without explicitly addressing Agentic Agility or its key themes. While there may be tangential references to agility, the focus is not on intentional shaping of outcomes or the interplay between human and AI capabilities.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:51:19",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the impact of remote work on agile training and consulting, which is tangentially related to product development methodologies. However, it lacks direct mentions of product development principles or practices, focusing instead on the broader implications of remote work. While there is some alignment with Agile concepts, the depth of discussion on product development is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:51:22",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, without any direct mention of Open Space Agile principles or practices. While it touches on themes related to Agile, such as coaching and consulting, it does not align with the core themes of Open Space Agile, such as psychological safety, co-creation, or iterative dialogue. The depth of discussion is limited to the context of remote work and does not explore Open Space Agile methodologies or challenges.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:51:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, without any explicit mention of Agnostic Agile principles or discussions. While it features professionals in the agile field, it does not delve into the core themes of Agnostic Agile, such as ethical considerations, value delivery, or comparisons with traditional frameworks. The focus remains on the mechanics of agile roles and the implications of remote work, which does not align with the category's requirements.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:51:26",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, which does not directly address scaling methodologies or frameworks. While it mentions Agile practices, it lacks a focus on scaling strategies, cross-team collaboration, or managing dependencies, which are essential for the Scaling category. The discussion is more about the implications of remote work rather than the complexities involved in scaling Agile practices.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:51:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses remote work and its implications for agile training and consulting, with no direct mention of Cell Structure Design or its principles. While it touches on themes relevant to agile methodologies, it does not align with the core concepts of decentralised organisational structures or the Beta Codex. The depth of discussion is limited to the impact of remote work, which is not a focus of the Cell Structure Design category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:51:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, without any direct mention of Liberating Structures or their techniques. While it touches on themes relevant to Agile methodologies, it does not align with the core principles or specific techniques of Liberating Structures. The discussion lacks depth regarding facilitation techniques or group dynamics, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:51:33",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, with no direct mention of Time to Market or related metrics. While it touches on Agile principles, it does not explore the efficiency of delivering value or strategies for improving Time to Market, which are central to the category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:51:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its implications for agile training and consulting, without any direct mention of the Company as a Product concept. While it touches on themes relevant to agile methodologies, it does not align with the core principles of CaaP, such as organisational design or customer-centric strategies. The depth of discussion is limited to the impact of remote work on training effectiveness, which does not provide substantial insight into the CaaP framework.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:51:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, with no direct mention of GitHub or its functionalities. While it touches on Agile principles, it does not align with GitHub's core themes or provide any depth regarding GitHub services, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:51:46",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, without any explicit mention of Unrealised Value or its related concepts. While it touches on themes relevant to agile practices, it does not explore potential improvements, innovation opportunities, or indicators of Unrealised Value. The discussion lacks depth in relation to the category, focusing instead on the current state of work environments rather than untapped opportunities for value capture.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:51:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, without any direct mention of Current Value or its metrics. While it touches on themes relevant to Agile and consulting, it does not provide insights into customer satisfaction, revenue impact, or performance feedback, which are essential for evaluating Current Value. The discussion lacks depth and practical application related to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:51:51",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses remote work and its impact on agile training and consulting, without any direct mention or critical examination of Hybrid Agile methodologies. While it touches on agile practices, it does not align with the core themes of Hybrid Agile, such as the challenges of merging traditional and agile methodologies or the implications of command-and-control structures. The discussion lacks depth regarding the specific issues associated with Hybrid Agile, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:51:53",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, which is tangentially related to project management. However, it lacks direct mentions of core project management principles, methodologies, or tools. While it touches on agile concepts, it does not delve into broader project management strategies or frameworks, resulting in a low confidence score for alignment and depth.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Model",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 5,
+    "ai_depth": 6,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the future of remote work and its impact on training and consulting within Agile contexts. However, it lacks any direct mention of conceptual models, frameworks, or representations relevant to the 'Model' category. The discussion does touch on Agile principles indirectly, but it does not explore specific models like the Cynefin Framework, Lean Startup principles, or DevOps methodologies in depth, resulting in a low alignment and depth score. Thus, the overall confidence in this content aligning with the 'Model' category is minimal.",
+    "level": "Ignored"
+  },
+  "Artifact": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Artifact",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 12.0,
+    "reasoning": "The content discusses remote work and its impact on agile training but does not focus on artifacts as defined in the classification criteria. There are no direct mentions of any artifacts or their roles in Agile or Scrum. The alignment with the core themes is minimal, with only a brief mention of training which does not delve into specific artifacts. The depth of discussion is also low, primarily revolving around the impact of remote work rather than the structure or purpose of artifacts.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Tool",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses on the discussion of remote work in relation to Agile training and consulting, without any explicit mention of specific tools or their functionality. Although it is framed within an Agile context, it does not address how tools facilitate workflows or provide any depth on tool implementation or selection. Therefore, the primary focus is not aligned with the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Values",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses remote work and its effect on agile training without directly focusing on values. While it mentions agile roles, it does not explicitly engage with the foundational beliefs or philosophies that guide decision-making within organizations. The indirect references to Agile practices lacking a deeper exploration of values results in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Framework",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content references Agile and Scrum but primarily discusses the impact of remote work on agile training and consulting without providing a structured exploration of frameworks themselves. While there are direct mentions of Scrum in the context of training effectiveness, the content does not delve into specific frameworks or their implementation strategies, which detracts from the overall alignment with the 'Framework' category.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Practice",
+    "calculated_at": "2025-05-02T07:40:57",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content focuses primarily on the discussion of remote work and its impact on agile training and consulting. While it mentions Scrum trainers, it does not delve into actionable practices or techniques associated with team effectiveness, which is the primary focus of the 'Practice' category. The discussion does not provide detailed insights or practical applications relevant to the category, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-02T07:40:58",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily revolves around discussions of remote work and its implications for agile training and consulting. There are no direct mentions of philosophical discussions regarding Agile or Lean principles. While the content hints at the impact of remote work on agility, it focuses more on practical implications rather than exploring the foundational beliefs or methodologies that inform Agile practices. Therefore, it aligns minimally with the philosophy category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Capability",
+    "calculated_at": "2025-05-02T07:40:58",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily discusses remote work and its impact on training and consulting, which is not directly aligned with the concept of capabilities as outlined. While it may touch on Agile and consulting roles, it lacks direct mentions or in-depth discussion of enduring competencies, integrated processes, or strategies for developing capabilities within teams or organizations.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Tenet",
+    "calculated_at": "2025-05-02T07:40:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the impact of remote work on agile training and consulting without directly addressing any specific tenets or actionable guiding principles. While Agile and Scrum are mentioned, the discussion lacks depth on how tenets influence decision-making or practices within an organization.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Method",
+    "calculated_at": "2025-05-02T07:40:58",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the implications of remote work on agile training and consulting without providing structured, step-by-step methods or detailed discussions of specific Agile methodologies like Scrum or Kanban. While it mentions Scrum and the hosts are Scrum trainers, it doesn't delve into the procedural aspects or methods that would fit the 'Method' category. Thus, the confidence score remains low.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Observability",
+    "calculated_at": "2025-05-02T07:40:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the rise of remote work and its implications for agile training and consulting. It does not address observability in software systems, nor does it discuss topics related to metrics, logs, or traces. The discussion is exclusively about Agile methodologies and does not connect to the principles of observability or related tools and practices.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Principle",
+    "calculated_at": "2025-05-02T07:40:58",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses the rise of remote work and its implications for agile training and consulting. It does not explicitly address any principles related to Agile, Lean, or DevOps. While it mentions relevant roles and contexts, there is minimal discussion of actionable principles, which is the core focus of the category. Therefore, the confidence score is low, reflecting the lack of direct mention and alignment with the category criteria.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Discipline",
+    "calculated_at": "2025-05-02T07:40:58",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content mentions Agile and discusses its implications in the context of remote work, which aligns with the broader themes of Discipline. However, it primarily focuses on the impact of remote work on training and consulting without deeply exploring the foundational principles or methodologies of Agile or other disciplines. Therefore, while there is some conceptual alignment and brief mentions, the depth of the discussion does not effectively address the complexities and structured study associated with the concept of Discipline.",
     "level": "Ignored"
   }
 }

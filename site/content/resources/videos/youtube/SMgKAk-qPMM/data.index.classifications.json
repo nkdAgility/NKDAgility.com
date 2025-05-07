@@ -28,21 +28,27 @@
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of backlog management in relation to Agile principles, particularly the idea of maintaining a lean backlog and the importance of not overloading it. However, the primary focus is on the broader theme of temperance in Agile rather than a detailed exploration of the Product Backlog itself.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of maintaining a lean backlog, emphasising the need to avoid overloading it and focusing on high-priority items. It aligns well with the core themes of backlog management, including refinement and prioritisation. The depth of discussion is substantial, providing practical tips and real-world examples, which enhances its relevance to the Product Backlog category.",
+    "level": "Primary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of temperance within the context of Agile and Scrum, touching on backlog management and the principle of maximising the amount of work not done, which are relevant to Scrum practices.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile principles, particularly the concept of temperance, which is relevant to Scrum practices. It mentions backlog management and planning, which are core aspects of Scrum, but lacks a direct focus on Scrum roles, events, or artifacts as outlined in the Scrum Guide. While it provides practical insights and examples, the overall emphasis is more on general Agile philosophy rather than a deep exploration of Professional Scrum specifically.",
+    "level": "Secondary"
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -55,12 +61,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of seeking help from a coach or consultant to improve agility, which aligns with coaching themes, but the primary focus is on the concept of temperance in Agile rather than coaching practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 30,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile principles and practices, particularly the concept of temperance, which indirectly relates to coaching by emphasising balance and effective team dynamics. However, it lacks direct discussions on coaching techniques or the role of a coach, which limits its alignment with the coaching category.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -82,38 +91,44 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of managing backlog effectively, which relates to product management, but it primarily focuses on Agile practices rather than strategic product management.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile principles, particularly the concept of temperance in managing backlog and effort, which aligns with product management methodologies. However, it primarily focuses on Agile practices rather than the broader strategic aspects of product management, such as stakeholder alignment or customer feedback prioritisation. The depth of discussion is moderate, providing insights into Agile virtues but lacking comprehensive coverage of product management strategies.",
     "level": "Tertiary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-12T01:47:05",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance within Agile practices, focusing on backlog management and efficiency rather than leadership roles or practices.",
     "level": "Ignored"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T01:47:07",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance in Agile and backlog management, with no specific focus on the Daily Scrum event or its related practices.",
     "level": "Ignored"
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T01:47:09",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T08:12:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, particularly focusing on backlog management and Scrum, which are not related to system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and the concept of temperance within Agile practices, focusing on backlog management and team dynamics. It does not address system configuration, configuration management tools, or any related topics. The mention of 'just enough and no more' is more about Agile principles than system setup or integration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Digital Transformation": {
@@ -163,12 +178,15 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'just enough' in relation to backlog management and minimising effort, which aligns with Lean principles. However, the primary focus is on Agile virtues and Scrum practices, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 20,
+    "final_score": 72.0,
+    "reasoning": "The content discusses principles of temperance and efficiency in Agile, which aligns with Lean Product Development concepts. It mentions minimising backlog and maximising value, reflecting Lean's focus on waste reduction. However, the primary focus is on Agile practices rather than Lean principles specifically, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -208,10 +226,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T01:47:32",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of temperance in Agile, focusing on backlog management and minimising effort, without addressing the Definition of Done.",
     "level": "Ignored"
   },
@@ -244,46 +262,43 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of temperance within Agile, focusing on optimising backlog management and minimising effort, which aligns with strategic principles in Agile environments. However, it primarily centres on Agile virtues rather than a broader strategic framework.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of temperance within Agile, focusing on balancing efforts and optimising backlog management, which aligns with strategic approaches in Agile. It provides practical insights and examples that reflect strategic thinking, particularly in backlog refinement and sprint planning. However, while it touches on strategic themes, it does not delve deeply into broader strategic frameworks or leadership roles, which slightly limits its depth of discussion.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T01:47:38",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance in Agile practices, focusing on backlog management and minimising effort rather than innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-12T01:47:40",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of temperance as one of the agile virtues, linking it to principles from the Agile Manifesto and its application in Scrum. It explores the importance of maintaining balance in backlog management and effort minimisation, which are central themes in Agile frameworks.",
-    "level": "Secondary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T01:47:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events, focusing on individual team practices rather than organisational scaling of agility.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the concept of temperance as one of the agile virtues, linking it to the principles of the Agile Manifesto and its application in Scrum. It provides a clear exploration of how temperance relates to backlog management and minimising effort, which aligns well with the core themes of Agile frameworks. The depth of discussion is substantial, as it elaborates on practical implications and the philosophy behind Agile practices, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-12T01:47:43",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance in Agile and its implications for backlog management, rather than focusing on team collaboration or dynamics.",
     "level": "Ignored"
   },
@@ -298,19 +313,22 @@
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of 'just enough and no more', which aligns with Lean principles of minimising waste and maximising efficiency. However, the primary focus is on Agile virtues rather than Lean Thinking itself.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the concept of a 'lean backlog' and the principle of 'just enough and no more', which aligns with Lean Thinking principles. It also touches on minimising waste and maximising value, key aspects of Lean. However, the primary focus is on Agile practices rather than Lean principles specifically, which slightly reduces the confidence score.",
+    "level": "Secondary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T01:47:48",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance in Agile, focusing on backlog management and minimising effort, without directly addressing Cycle Time or its measurement.",
     "level": "Ignored"
   },
@@ -334,12 +352,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-12T01:47:51",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile principles, specifically the concept of temperance within the context of backlog management and efficiency in software development practices.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content primarily discusses Agile principles, specifically focusing on the virtue of temperance within the Scrum framework. It directly mentions Agile concepts and practices, aligning well with the core themes of software development methodologies. The depth of discussion is substantial, providing insights into backlog management and the importance of minimising effort, which are critical aspects of Agile practices. Overall, the content is highly relevant to software development, particularly in the context of Agile methodologies.",
+    "level": "Primary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -352,12 +373,15 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of temperance in Agile, which relates to minimising effort and backlog, indirectly touching on throughput principles. However, it primarily focuses on Agile virtues rather than throughput as a central theme.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of maintaining a lean backlog and limiting work in progress (WIP), which are directly related to throughput. It emphasises the need to focus on high-priority tasks and avoid overburdening the team, aligning with the core themes of optimising work completion rates. However, the primary focus is on the concept of temperance rather than throughput itself, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -370,12 +394,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T01:48:00",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 30,
-    "final_score": 75.0,
-    "reasoning": "The content primarily discusses the Agile virtue of temperance, linking it to the principles of the Agile Manifesto, particularly the idea of maximising the amount of work not done. It emphasises the importance of balance and careful consideration in Agile practices, aligning closely with Agile values and principles.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the Agile virtue of temperance, which aligns with the core values of the Agile Manifesto, particularly the principle of maximising the amount of work not done. It provides a detailed exploration of how temperance applies to backlog management and team dynamics, demonstrating a strong understanding of Agile principles. However, it does reference Scrum, which slightly detracts from its focus on Agile values alone.",
+    "level": "Primary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -424,12 +451,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles, particularly the idea of temperance and maximising work not done, which relates to empirical process control. However, it primarily focuses on the concept of temperance rather than a comprehensive discussion on empirical process control itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles, particularly the concept of 'just enough and no more,' which aligns with empirical process control. However, it primarily focuses on temperance and backlog management rather than explicitly addressing empirical process control principles like transparency, inspection, and adaptation. While there are relevant insights, the depth of discussion on empirical process control is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -458,22 +488,16 @@
     "reasoning": "Content heavily discusses Agile principles and practices, with no mention of revenue per employee or related financial metrics.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-12T01:48:22",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content primarily discusses Agile principles, specifically the concept of temperance in relation to backlog management and developer roles. While it focuses on Agile practices, it does not delve deeply into the broader context of software development or the integration of DevOps principles.",
-    "level": "Secondary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T01:48:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of temperance in Agile, focusing on backlog management and minimising effort, without addressing Test First Development or related testing practices.",
+    "calculated_at": "2025-04-08T16:17:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of temperance in Agile practices, focusing on backlog management and efficiency rather than the principles of Test First Development. There are no direct mentions of success criteria, automated testing, or Test-Driven Development, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,29 +556,26 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T01:48:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of temperance in Agile practices, focusing on backlog management and minimising effort rather than directly addressing Lead Time as a metric.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T01:48:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses individual Agile practices and principles without reference to scaling or coordination among multiple teams.",
+    "calculated_at": "2025-04-11T09:19:29",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content discusses Agile practices and the importance of moderation, but it does not explicitly mention Lead Time or its measurement. While it touches on concepts related to efficiency and backlog management, it lacks a direct focus on Lead Time as a metric or its relationship to Cycle Time. The discussion is more about general Agile principles rather than the specific observability metric of Lead Time.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T01:48:44",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses practical applications of Agile principles, particularly the concept of temperance in managing backlog and effort, which aligns well with pragmatic thinking in Agile contexts.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of temperance within Agile, emphasising practical approaches to managing backlog and minimising effort, which aligns with pragmatic thinking. However, while it touches on practical problem-solving strategies, it lacks depth in exploring broader applications of Agile principles and does not provide extensive real-world examples or case studies.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -565,15 +586,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses the concept of temperance in Agile, focusing on backlog management and minimising effort rather than deployment frequency.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T01:48:48",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the principle of temperance within the context of Agile methodologies, specifically referencing the Agile Manifesto and its implications for backlog management and project efficiency.",
-    "level": "Secondary"
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -586,20 +598,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles, particularly the concept of temperance and its implications for backlog management and effort minimisation, which are relevant to Agile strategy. However, it primarily focuses on specific Agile practices rather than broader strategic alignment or implementation at scale.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the principle of temperance within Agile practices, focusing on maintaining balance in backlog management and planning. While it touches on Agile principles and offers practical insights, it lacks a broader strategic context and does not explicitly address organisational vision or leadership roles in fostering an Agile culture. The discussion is primarily centred on tactical practices rather than strategic alignment, which slightly diminishes its relevance to the Agile Strategy category.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T01:48:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, specifically focusing on backlog management and the concept of temperance, which are not directly related to Continuous Delivery.",
+    "calculated_at": "2025-03-21T18:13:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles, particularly the concept of temperance, without a direct focus on Continuous Delivery practices. While it touches on backlog management and efficiency, it lacks explicit references to Continuous Delivery principles, automation, or deployment strategies, which are central to the category.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,10 +631,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T01:48:57",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance in Agile and the importance of managing backlog size, rather than focusing on the Definition of Ready criteria or its implications.",
     "level": "Ignored"
   },
@@ -631,39 +649,24 @@
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-12T01:48:59",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance in Agile and backlog management, without a clear focus on team motivation or dynamics.",
     "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of temperance in Agile, which relates to managing backlog and team effort, but it primarily focuses on the philosophy rather than specific team performance strategies or practices.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T01:49:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile principles and practices without any mention of AI or its integration within Agile methodologies.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T01:49:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and Scrum practices, with no focus on Scaling Kanban or its application in large organisations.",
-    "level": "Ignored"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of maintaining a lean backlog and avoiding overburdening the team, which directly relates to team performance. It provides practical tips for Agile teams on refining processes and balancing workload, aligning well with the core themes of enhancing team dynamics and productivity. However, while it touches on team composition and workload management, it lacks a broader discussion on metrics, leadership roles, or conflict resolution, which slightly limits its depth in the context of team performance.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -685,21 +688,27 @@
   },
   "Lean Principles": {
     "category": "Lean Principles",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the concept of 'just enough and no more', which aligns with Lean principles of minimising waste and maximising value. However, the primary focus is on Agile virtues and Scrum practices, making Lean a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of 'just enough and no more', which aligns with Lean principles of waste reduction and value maximisation. It touches on backlog management and the importance of minimising unnecessary complexity, which are core themes in Lean thinking. However, the primary focus is on Agile practices rather than Lean principles specifically, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-12T01:49:13",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses Agile principles, specifically the virtue of temperance, and relates it to backlog management and the Agile Manifesto.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the principle of temperance as one of the agile virtues, linking it to the Agile Manifesto and Scrum practices. It provides a detailed exploration of how to manage backlog effectively, which aligns well with Agile transformation principles. The depth of discussion on minimising effort and maximising work not done indicates a strong understanding of Agile methodologies. Overall, the content is focused on Agile transformation, making it a strong fit for the category.",
+    "level": "Primary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -712,10 +721,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T01:49:16",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance as an agile virtue, which is not a Scrum Value. It focuses on backlog management and efficiency rather than the core Scrum Values of commitment, courage, focus, openness, and respect.",
     "level": "Ignored"
   },
@@ -737,66 +746,60 @@
     "reasoning": "Content heavily discusses Agile principles and practices without any mention of test automation or related topics.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the importance of backlog management and the principle of 'just enough' in the context of Scrum, making it a significant theme, though not the primary focus.",
-    "level": "Tertiary"
-  },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of temperance in Agile, focusing on minimising backlog and effort, which aligns with operational efficiency. However, it primarily revolves around Agile virtues rather than specific operational practices or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the concept of temperance in Agile, focusing on practical strategies for backlog management, sprint planning, and team size optimisation. It aligns well with the core themes of operational efficiency and continuous improvement, providing actionable insights and real-world examples. The depth of discussion is significant, covering various aspects of Agile practices that enhance operational effectiveness.",
+    "level": "Primary"
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T01:49:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of temperance in Agile, focusing on backlog management and minimising effort, without addressing evidence-based practices or empirical data.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile principles and practices, particularly the concept of temperance, without a strong focus on evidence-based management. While it touches on the importance of delivering value and avoiding overcomplication, it lacks explicit references to empirical metrics or data-informed decision-making that are central to Evidence-Based Management. The discussion is more about Agile methodologies than about using evidence to drive management decisions.",
     "level": "Ignored"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the concept of having a lean backlog and the importance of not overloading it, which relates to backlog refinement. However, it primarily focuses on the broader principle of temperance in Agile rather than specifically on backlog refinement techniques or practices.",
-    "level": "Tertiary"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T01:49:29",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of temperance in Agile, focusing on backlog management and the principle of maximising work not done, without addressing scaling Scrum or related frameworks.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses backlog management and refinement extensively, emphasising the importance of maintaining a lean backlog and avoiding over-refinement. It aligns well with the principles of backlog refinement, including prioritisation and the role of the team in managing the backlog. However, while it touches on key topics, it does not delve deeply into specific techniques or best practices, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses Agile principles and practices relevant to Scrum, but does not focus specifically on the role of the Scrum Master.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile principles and practices, including backlog management and the importance of balance, which are relevant to Scrum. However, it does not explicitly focus on the role of the Scrum Master or their specific responsibilities, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T01:49:31",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
@@ -829,21 +832,24 @@
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-12T01:49:40",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and practices, particularly focusing on backlog management and the concept of temperance, without addressing Lean Startup methodologies or concepts such as MVP, Build-Measure-Learn, or validated learning.",
     "level": "Ignored"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-12T01:49:41",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the principle of temperance in Agile, particularly in relation to backlog management and minimising effort, which aligns with Agile Planning. However, it also includes promotional content and does not focus solely on Agile Planning methodologies.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Agile principles, particularly the concept of temperance in planning and backlog management. It directly addresses Agile practices such as maintaining a lean backlog, maximising work not done, and the importance of balance in sprint planning. The depth of discussion is significant, providing practical tips and real-world examples that align closely with Agile Planning methodologies. Overall, the content is a strong fit for the category, focusing on how to effectively plan and execute Agile work while adapting to changing requirements.",
+    "level": "Primary"
   },
   "Accountability": {
     "category": "Accountability",
@@ -854,7 +860,7 @@
     "reasoning": "Content primarily discusses the concept of temperance in Agile, focusing on managing backlog and effort rather than accountability or team ownership.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T01:49:45",
     "ai_confidence": 0,
@@ -892,10 +898,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T01:49:50",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile principles and virtues, with only a brief mention of Scrum concepts, lacking a focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -937,12 +943,15 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-12T01:49:57",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the concept of temperance as one of the agile virtues, linking it to the Agile Manifesto and emphasising the importance of maximising work not done. It reflects on the broader implications of Agile principles and values, making it a central theme.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the concept of temperance within Agile, linking it to the Agile Manifesto and its principles. It provides a detailed exploration of how to apply temperance in Agile practices, emphasising the importance of balance and value delivery. The discussion is rich in practical insights and aligns well with the core themes of Agile philosophy, demonstrating a strong understanding of the mindset required for effective Agile implementation.",
+    "level": "Primary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -955,12 +964,15 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses backlog management and the principle of minimising effort in Agile, which are relevant to Agile Planning Tools, but the primary focus is on the concept of temperance rather than specific tools or methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of backlog management and sprint planning, which are key aspects of Agile Planning Tools. However, it does not explicitly mention specific tools or provide in-depth analysis of Agile planning methodologies. The focus is more on the principle of temperance rather than a detailed exploration of Agile planning tools themselves.",
+    "level": "Secondary"
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1018,93 +1030,69 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-12T01:45:49",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Scrum roles and events, focusing on team-level agile practices rather than organisational agility.",
     "level": "Ignored"
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the concept of 'lean inventory' in relation to backlog management and touches on minimising effort for maximum gain, which aligns with Lean principles. However, the primary focus is on Agile and its virtues, making Lean a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T01:45:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, specifically focusing on the concept of temperance within Agile methodologies, rather than organisational resilience or change management.",
-    "level": "Ignored"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the concept of a 'lean backlog' and emphasizes the importance of minimizing waste and focusing on value, which aligns with Lean principles. However, the primary focus is on Agile practices, and while it touches on Lean concepts, it does not delve deeply into Lean methodologies or tools. The discussion is more about temperance in Agile rather than a comprehensive exploration of Lean principles.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T01:45:54",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile principles and virtues, with no focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T01:45:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, specifically focusing on backlog management and the concept of temperance, which are not directly related to code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the concept of 'just enough and no more', which relates to optimising work in progress and minimising backlog, aligning with flow efficiency principles. However, it primarily focuses on the virtue of temperance in Agile rather than flow efficiency as a central theme.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T01:45:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content heavily discusses Agile principles and virtues, specifically temperance, without any mention of AI or automation.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of maintaining a lean backlog and implementing WIP limits, which are directly related to flow efficiency. It emphasises the principle of 'just enough and no more', aligning well with the core themes of optimising throughput and minimising bottlenecks. The depth of discussion on practical tips for applying temperance in Agile, including specific strategies for backlog management and WIP limits, further supports its relevance to flow efficiency.",
+    "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Agile principles and the importance of managing backlog effectively, which are relevant to product delivery, but it primarily focuses on the concept of temperance rather than the broader methodologies and practices of delivering software products.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 34,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically discussing the importance of maintaining a lean backlog and the principle of 'just enough and no more' in product delivery. It aligns well with key topics such as iterative development, planning, and prioritising features, as well as the role of cross-functional teams. The depth of discussion is substantial, providing practical tips and real-world examples that enhance understanding of effective product delivery practices.",
+    "level": "Primary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-12T01:46:01",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 70.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the concept of temperance within Agile principles, particularly in relation to backlog management and minimising effort, which aligns closely with Agile Product Management practices.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses the concept of temperance within Agile, particularly in relation to backlog management, which is a key aspect of Agile Product Management. It directly references Scrum practices and the importance of minimising effort while maximising value, aligning well with Agile principles. The depth of discussion on backlog refinement and the Agile Manifesto principles indicates a strong understanding of Agile methodologies, though it could benefit from more explicit connections to product management strategies and stakeholder engagement.",
     "level": "Secondary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T01:46:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
-    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1122,33 +1110,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance within Agile practices, focusing on backlog management and efficiency rather than complexity science or its principles.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T01:46:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses the concept of temperance in Agile, focusing on backlog management and minimising effort, without addressing transparency or accountability.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T01:46:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of temperance in Agile philosophy without specific reference to practical techniques, tools, or methodologies.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T01:46:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Agile principles and virtues without reference to specific events, presentations, or discussions.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -1171,11 +1132,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T01:46:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, specifically focusing on Scrum, rather than DevOps practices or principles.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile principles, specifically the concept of temperance in managing backlogs and planning. While it touches on efficiency and value delivery, it does not explicitly discuss DevOps principles, practices, or cultural shifts. The discussion is more aligned with Agile methodologies rather than the integration of development and operations that characterises DevOps.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,23 +1151,17 @@
     "reasoning": "Content heavily discusses Agile principles and Scrum practices without any mention of Azure DevOps.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T01:46:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of temperance within Agile methodologies rather than specific products or literature.",
-    "level": "Ignored"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses principles related to Agile practices, particularly the concept of temperance and minimising effort, which are relevant to business agility. However, the primary focus is on Scrum roles and events rather than a broader exploration of business agility principles or strategies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses principles of Agile, particularly the concept of temperance, which aligns with the idea of maintaining balance and efficiency in processes. It touches on the importance of focusing on value delivery and avoiding overcomplication, which are key aspects of business agility. However, the primary focus is on Agile practices rather than a broader discussion of business agility principles, which slightly limits its alignment and depth in the context of the category.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1216,12 +1174,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the principle of temperance in Agile, which relates to maximising efficiency and minimising unnecessary work, aligning with value delivery concepts. However, it primarily focuses on Agile virtues rather than specific value delivery strategies or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 20,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses the principle of temperance in Agile, focusing on maintaining a lean backlog and maximising value delivery through minimising unnecessary work. It aligns well with key topics such as iterative development, customer value maximisation, and the role of cross-functional teams. The depth of discussion is significant, providing practical tips and real-world examples that illustrate the importance of delivering value effectively. Overall, the content is highly relevant to the Value Delivery category.",
+    "level": "Primary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,30 +1195,27 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and the importance of temperance in managing backlog and effort, which aligns with themes of organisational agility, but it primarily focuses on Scrum practices rather than broader organisational strategies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile principles, particularly the concept of temperance, which aligns with the idea of organisational agility by promoting balance and focus on value delivery. However, while it touches on Agile practices and their implications for team dynamics, it lacks a broader discussion on organisational structures, leadership roles, or cultural shifts necessary for enhancing agility. The depth of discussion is primarily centred on Scrum practices rather than a comprehensive exploration of organisational agility as a whole.",
+    "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal reflections on the concept of temperance in Agile, including a personal anecdote about a conversation with Ken. However, the primary focus is on the principles of Agile rather than personal experiences or insights.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T14:56:12",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and the importance of moderation in backlog management, which relates to team dynamics and process efficiency. However, it primarily focuses on the concept of temperance rather than a broader discussion on people and processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 30,
+    "final_score": 78.0,
+    "reasoning": "The content discusses personal experiences and insights related to Agile practices, particularly the concept of temperance. It includes personal anecdotes, such as learning from Ken Schwaber, and reflects on challenges faced in Agile implementations. The depth of discussion is significant, providing practical tips and real-world examples, which aligns well with the Personal category. However, it also contains technical discussions about Agile principles, which slightly detracts from its personal focus.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1268,21 +1226,12 @@
     "reasoning": "Content primarily discusses Agile principles and practices, specifically focusing on the concept of temperance in managing backlog and effort, without addressing the interplay between social and technical systems.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T01:46:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the concept of temperance within Agile methodologies, focusing on principles and personal experiences rather than industry news or reviews.",
-    "level": "Ignored"
-  },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T01:46:43",
+    "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the concept of temperance in Agile, focusing on managing backlog and effort rather than metrics or learning processes.",
     "level": "Ignored"
   },
@@ -1333,11 +1282,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:56:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses Agile principles and virtues, particularly focusing on backlog management and efficiency, which are relevant to the Agile Product Operating Model, but it does not primarily address the model itself or its key topics.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile principles and practices, particularly focusing on the concept of temperance in Agile methodologies. While it touches on backlog management and efficiency, it does not explicitly address the Agile Product Operating Model or its core themes such as product-oriented mindset, governance, or Evidence-Based Management. The discussion is more aligned with general Agile practices rather than the specific framework of APOM, leading to a moderate confidence score.",
     "level": "Tertiary"
   },
   "Beta Codex": {
@@ -1349,31 +1301,443 @@
     "reasoning": "Content heavily discusses agile principles and practices, particularly focusing on Scrum and the concept of temperance, without addressing BetaCodex principles or decentralised organisational design.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:56:19",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the concept of temperance within the context of Agile, specifically mentioning Scrum principles and the importance of managing backlog effectively, which aligns with Scrum practices.",
-    "level": "Tertiary"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:56:20",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile practices and the principle of temperance, which relates to decision-making and value delivery. However, it primarily focuses on individual practices rather than broader social technologies or frameworks that promote collaboration and collective intelligence. While there are mentions of team dynamics and efficiency, the depth of discussion on social technologies as a category is limited.",
+    "level": "Tertiary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:45:59",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and Scrum practices, with no mention of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:46:01",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile principles and practices without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": 50,
     "final_score": 72.0,
-    "reasoning": "Content primarily discusses Agile principles, specifically the concept of temperance in relation to backlog management and the Agile Manifesto, making it a central theme.",
+    "reasoning": "The content discusses the concept of 'temperance' within the context of Agile, specifically referencing Scrum principles such as backlog management and the mantra of 'just enough and no more.' While it does not explicitly detail Scrum roles or events, it aligns with Agile principles and reflects on Scrum practices. The depth of discussion is moderate, focusing on the importance of minimising effort and maximising value, which are key themes in Scrum. However, it lacks comprehensive coverage of the Scrum framework itself, leading to a slightly lower confidence score.",
     "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:56:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile principles and practices, specifically focusing on temperance and backlog management, without reference to the One Engineering System framework.",
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of temperance in Agile practices, focusing on backlog management and planning rather than integrating testing, security, or compliance earlier in the software development lifecycle. While it touches on principles that could relate to efficiency and value delivery, it does not explicitly address the Shift-Left Strategy or its core themes.",
     "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the principle of temperance in Agile, which aligns with the idea of Continuous Improvement by advocating for moderation and efficiency in processes. It mentions practical tips for refining backlogs and maximising work not done, which are relevant to Continuous Improvement. However, the primary focus is on temperance rather than a broader discussion of Continuous Improvement principles, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the principle of temperance in Agile, focusing on balance and efficiency, which indirectly relates to Common Goals. However, it primarily centres on personal insights and practical tips rather than explicitly addressing shared objectives or alignment within teams. While it touches on the importance of a lean backlog and maximising work not done, it lacks a direct discussion on how these concepts connect to overarching strategic goals or frameworks like OKRs. Therefore, the confidence score reflects a moderate alignment with the category, but it is not the primary focus.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:15",
+    "ai_confidence": 32.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of balance and moderation in Agile practices, which indirectly relates to competence through the idea of maintaining focus and avoiding overburdening teams. However, it primarily centres on the concept of temperance rather than directly addressing competence as a foundational principle. The mentions of 'just enough and no more' and the need for continuous improvement hint at competence but do not delve deeply into skill development or professional growth, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T18:13:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices and the concept of temperance within that framework. While it touches on principles relevant to software development, it does not explicitly discuss the One Engineering System (1ES) or its components, integration, or best practices. The discussion is centred around Agile methodologies rather than the standardisation and integration of engineering processes as outlined in the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-08T16:17:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of temperance in Agile practices, focusing on moderation and efficiency rather than the intentional shaping of outcomes through agency. While it touches on themes of balance and prioritisation, it does not explicitly address Agentic Agility or differentiate between human and AI capabilities. The discussion lacks depth in exploring the transformative capacity of individuals or systems in a socio-technical context.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T08:12:00",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses Agile principles, particularly the concept of temperance in managing backlogs and planning sprints, which aligns closely with the core themes of product development. It provides practical insights and examples that illustrate how to apply these principles effectively, demonstrating a strong understanding of iterative processes and customer-centric approaches. The depth of discussion is significant, covering various aspects of Agile practices and their implications for product delivery, thus justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T08:12:03",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of temperance in Agile practices, focusing on backlog management and efficiency rather than Open Space Agile principles. There are no direct mentions of Open Space Technology or its core themes such as psychological safety, co-creation, or iterative dialogue. While it touches on Agile values, it does not delve into the collaborative change processes or the collective participation aspect central to Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T08:12:05",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions Agile principles and discusses the concept of temperance, which aligns with the idea of adapting practices based on context. However, it primarily focuses on Scrum practices and does not delve deeply into the broader principles of Agnostic Agile or compare it with other methodologies. The discussion lacks a strong emphasis on ethical considerations or the influence of thought leaders in the Agnostic Agile movement, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T08:12:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the concept of temperance in Agile practices, focusing on maintaining balance and efficiency rather than addressing the complexities of scaling Agile across multiple teams or frameworks. While it touches on some relevant themes like backlog management and team size, it lacks a direct focus on scaling methodologies, cross-team collaboration, or integration challenges, which are essential for the 'Scaling' category. The discussion is more about individual team practices rather than enterprise-level scaling strategies.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T08:12:12",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles, specifically the concept of temperance in managing backlogs and planning. It does not directly mention or align with the core themes of Cell Structure Design, such as decentralised structures, autonomous cells, or the principles of the Beta Codex. While there are elements of self-organisation and efficiency, they are framed within traditional Agile practices rather than the specific context of Cell Structure Design. Therefore, the confidence score reflects a very low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T08:12:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the concept of temperance within Agile practices, focusing on backlog management and planning. While it touches on principles that could relate to group dynamics, it does not explicitly mention or explore Liberating Structures or their specific techniques. The discussion lacks depth regarding facilitation methods and does not align with the core themes of Liberating Structures, which are centred on enhancing participation and collaboration in groups. Therefore, the confidence score reflects a minimal connection to the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T08:12:18",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the concept of 'temperance' in Agile, focusing on balancing efforts and avoiding overcomplication, which indirectly relates to Time to Market. However, it does not explicitly mention Time to Market or its associated metrics. The alignment with the core themes is moderate, as it touches on efficiency and value delivery, but lacks depth in discussing specific strategies or metrics for improving Time to Market. Overall, while there are relevant insights, the primary focus is not on Time to Market itself, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T08:12:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile practices and the principle of temperance within that context. While it discusses concepts like backlog management and team efficiency, it does not explicitly address the organisational strategy of treating the company as a product. The themes of customer feedback integration, cross-functional collaboration, and organisational design are not present, leading to a low confidence score in relation to the CaaP category.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T08:12:24",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile principles and practices, particularly focusing on the concept of temperance in managing backlogs and planning sprints. While it touches on Agile methodologies, it does not mention GitHub or its functionalities, nor does it provide insights into GitHub services, tools, or best practices. Therefore, it does not align with the GitHub category, which requires a direct focus on GitHub-related discussions.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T08:12:29",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile practices and the importance of temperance in managing backlogs and planning, but it does not explicitly mention Unrealised Value or its indicators. While there are elements of identifying value through moderation and efficiency, the primary focus is on operational practices rather than exploring untapped opportunities or potential improvements in a strategic context. The discussion lacks depth in terms of measuring or assessing unrealised value, which is crucial for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T08:12:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of balance and moderation in Agile practices, which indirectly relates to delivering value. However, it primarily focuses on the concept of temperance rather than explicitly addressing Current Value metrics or indicators. While it mentions customer satisfaction and the importance of delivering value, it lacks a detailed exploration of how Current Value is measured or applied in decision-making. The discussion is more about Agile principles than a direct assessment of Current Value in the context of Evidence-Based Management.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T08:12:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the concept of temperance within Agile practices, discussing how to balance efforts and avoid overcomplication. While it touches on Agile principles, it does not explicitly address Hybrid Agile or the challenges associated with merging traditional methodologies and Agile practices. The discussion lacks critical examination of Hybrid Agile's implications, making it only tangentially related to the category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T08:12:37",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on Agile practices, specifically discussing the concept of temperance within the context of backlog management and sprint planning. While it touches on project management principles like backlog prioritisation and team dynamics, it does not delve into broader project management methodologies or lifecycle phases. The discussion is somewhat aligned with project management themes, but it lacks depth in covering various methodologies or governance structures, which are crucial for a comprehensive project management discourse.",
+    "level": "Secondary"
+  },
+  "Principle": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 16,
+    "ai_alignment": 34,
+    "ai_depth": 32,
+    "non_ai_confidence": null,
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses the principle of temperance in Agile and links it to actionable guidance for managing backlogs, planning sprints, and achieving balance. It directly addresses how this principle influences decision-making and team behavior in Agile practices. The depth of discussion is strong, providing multiple practical tips and real-world examples illustrating the concept. The emphasis on the principles of 'just enough and no more' and the Agile mantra of 'maximizing work not done' reinforces the alignment with the category. Overall, the content thoroughly aligns with the principles of decision-making in Agile.",
+    "level": "Primary"
+  },
+  "Tool": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the Agile practice of temperance and maintaining a lean backlog rather than discussing specific tools that implement these concepts. While it briefly mentions concepts related to workflow management and efficiencies, it does not sufficiently discuss any particular tools, their functionality, or provide an analysis of how tools integrate within Agile frameworks. Therefore, while the content touches on themes relevant to tools, it lacks depth and clear directives regarding specific tool usage or selection.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 72.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the principle of temperance in Agile, which aligns closely with the core values of Agile methodology. It emphasizes moderation, balance, and the importance of focusing on essential tasks, which ties to the values of respect for people and sustainable work practices. However, while there are discussions around these values, the content leans more toward practical application rather than a philosophical exploration of values, leading to a slightly lower depth score.",
+    "level": "Secondary"
+  },
+  "Philosophy": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content discusses the concept of temperance within Agile frameworks, it primarily focuses on practical implementations and personal experiences regarding backlog management and team dynamics rather than exploring the philosophical underpinnings of Agile itself. The mentions of key philosophical ideas are brief and secondary to the main content, which revolves around procedural advice and specific practices. Therefore, it does not fully align with the requirement of a philosophical discussion in-depth.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 75.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 35,
+    "non_ai_confidence": null,
+    "final_score": 75.0,
+    "reasoning": "The content effectively discusses the principle of temperance within an Agile framework, focusing on maintaining balance and moderation in backlog management and planning. It directly mentions Agile principles and discusses related practices, which aligns with the core themes of discipline, especially regarding continuous improvement and shared principles. However, it is primarily focused on practical tips and tools rather than a deeper exploration of the systemic application and maturation of Agile discipline itself, which somewhat limits its depth of discussion on the broader category.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 55.0,
+    "ai_mentions": 12,
+    "ai_alignment": 20,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses temperance in Agile and its implications on backlog management, focusing on the concept of a 'lean backlog.' While it mentions the backlog, which is an artifact, it does not provide a detailed exploration of the backlog as a formal representation of work or delve into the purpose and structure of artifacts in Agile. The focus is more on principles rather than specific artifacts and their roles, leading to a moderate confidence score in alignment and depth.",
+    "level": "Tertiary"
+  },
+  "Observability": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 13.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 13.0,
+    "reasoning": "The content primarily discusses the concept of temperance in Agile practices, focusing on backlog management and efficiency rather than observability. There are no direct mentions of observability principles, metrics, logs, or any discussion related to understanding the internal states of a system. While there are elements that touch on team effectiveness and avoiding waste, these are very indirectly related to observability concepts. Therefore, the confidence score is low across all dimensions.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "Temperance_in_Agile",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 87.0,
+    "reasoning": "The content discusses the concept of 'temperance' in Agile practices, emphasizing the importance of moderation in backlog management, refinement, and planning. It provides actionable techniques for Agile teams, such as establishing WIP limits and focusing on high-priority items, which aligns well with the core themes of practical improvement and effectiveness. The discussion is in-depth, offering practical tips and examples that help promote a culture of continuous improvement in Agile teams. Overall, it maintains a strong focus on actionable practices, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Method": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the principle of temperance in Agile as a structured approach to managing backlogs and refining processes, which aligns well with the **Method** category. It emphasizes specific procedures like 'just enough and no more' for backlog management, WIP limits, and refining techniques that resonate with methods in Agile. There are multiple direct mentions of Agile techniques and structured advice throughout the content. However, while it promotes practical advice related to methods, it also leans toward broader philosophical discussions, which slightly detracts from its status as a purely methodological discussion.",
+    "level": "Secondary"
+  },
+  "Model": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the principle of temperance within Agile rather than exploring specific models or frameworks. While it mentions some concepts relevant to Agile practices, it lacks a thorough discussion of recognized models such as the Cynefin Framework or Lean Startup principles. The discussions about backlog management and principles like 'just enough and no more' are more about Agile practices than the conceptual models themselves, which dilutes its alignment with the specified category.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "Temperance-in-Agile-Why-Less-is-More",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 52.0,
+    "ai_mentions": 3,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content discusses principles relevant to Agile practices, particularly the concept of temperance in relation to managing backlogs, planning sprints, and team effectiveness. However, while it does reference Agile frameworks like Scrum and incorporates ideas from Agile principles, it focuses primarily on personal insights and general advice rather than a structured methodology or a detailed examination of specific frameworks. Direct mentions of frameworks are limited and do not constitute a central theme, which lowers the score despite some relevant content.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 82.0,
+    "ai_mentions": 17,
+    "ai_alignment": 34,
+    "ai_depth": 29,
+    "non_ai_confidence": null,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses the concept of 'temperance' in the context of Agile, illustrating it with actionable insights such as keeping a lean backlog and maximizing work not done. It directly relates these practices to commonly accepted Agile principles, showing a clear application of tenets within Agile methodologies. The discussion includes specific, actionable guidelines for teams, demonstrating a strong alignment with the core themes of tenets, which is reflected in the high scores for mentions, alignment, and depth.",
+    "level": "Primary"
+  },
+  "Capability": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:47",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the principle of temperance and its application within Agile practices. While it reinforces the importance of balance and efficiency in managing backlogs and planning, it does not explicitly frame these discussions in terms of capabilities as defined by the category. The content gives practical advice and examples on how to apply temperance, suggesting a conceptual alignment with the idea of cultivating effective practices within Agile teams. However, it primarily centers on implementation advice rather than developing enduring competencies or how these practices could be embedded in the organizational culture. This results in a moderate confidence score.",
+    "level": "Secondary"
   }
 }

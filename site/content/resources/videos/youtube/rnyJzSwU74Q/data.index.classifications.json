@@ -1,21 +1,27 @@
 {
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-18T10:43:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Agile methodologies and their advantages, with no clear focus on DevOps principles or practices.",
+    "calculated_at": "2025-03-21T20:36:42",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 30,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, discussing concepts such as visibility, flexibility, and incremental value delivery. While it briefly mentions the author's experience in DevOps, the main discussion does not align with the core principles of DevOps, such as collaboration between development and operations, automation, or shared accountability. The depth of discussion on DevOps is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T10:43:58",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile practices and their impact on project success, making it a major theme, but it does not delve deeply into specific frameworks like Scrum or Kanban.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies, focusing on visibility, flexibility, and incremental value delivery, which are relevant to social technologies. However, it primarily centres on technical aspects of Agile practices rather than explicitly addressing the social frameworks and collaborative principles that define social technologies. While there are mentions of stakeholder engagement and feedback loops, the depth of discussion on self-organisation, collective intelligence, and transparency is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -37,12 +43,15 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-18T10:44:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and their impact on project success, which relates to product management methodologies, but it primarily focuses on project management rather than the strategic aspects of product management.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on product visibility, change management, and operational risk, which are relevant to product management. However, it primarily focuses on the technical aspects of Agile and Scrum rather than the strategic alignment of customer needs and business objectives. While it touches on some key themes, the depth of discussion is more technical than strategic, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -55,21 +64,24 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile methodologies and their advantages without focusing on the specific role or responsibilities of the Product Owner.",
     "level": "Ignored"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "While the content discusses the advantages of the empirical model in Agile, it does not primarily focus on metrics or the learning cycle; instead, it touches on project success and Agile practices overall.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the impact of Agile methodologies on project success, supported by statistics from the Standish Group's Chaos Report. It touches on key concepts such as visibility, change, operational risk, and realised value, which are relevant to metrics and learning. However, while it mentions the importance of feedback and iterative processes, it lacks a detailed exploration of specific metrics, data collection techniques, or evidence-based management principles. Thus, while the content aligns with the category, it does not delve deeply enough into the core themes to warrant a higher confidence score.",
+    "level": "Secondary"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -82,37 +94,22 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses agile practices and their advantages, but primarily compares agile with traditional waterfall methodologies, making Agile frameworks a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile methodologies in general and contrasts agile with waterfall approaches, without a specific focus on Scrum principles or practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Agile philosophies and practices without directly relating to specific events, presentations, or discussions that fit the category.",
-    "level": "Ignored"
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses Agile methodologies, particularly contrasting traditional and empirical models, which aligns well with the principles of Agile frameworks. It mentions specific frameworks like Scrum and Kanban, providing insights into their practical applications and benefits. The depth of discussion on visibility, change, operational risk, and realised value demonstrates a thorough understanding of Agile principles, contributing to a high confidence score.",
+    "level": "Primary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile methodologies and project management rather than product validation or user testing.",
     "level": "Ignored"
   },
@@ -154,10 +151,10 @@
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile and empirical project management methodologies, rather than specifically focusing on Application Lifecycle Management practices.",
     "level": "Ignored"
   },
@@ -181,21 +178,24 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses agile methodologies and project management but does not address the Definition of Done.",
     "level": "Ignored"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the empirical model's advantages in project management, which can relate to evidence-based practices, but it primarily focuses on agile methodologies and project success rather than directly addressing evidence-based leadership specifically.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses empirical models and Agile methodologies, highlighting the importance of data and evidence in project success. However, while it touches on aspects of evidence-based practices, it primarily focuses on Agile techniques and project management rather than explicitly addressing leadership decisions or organisational improvements based on empirical evidence. The discussion lacks depth in terms of leadership strategies and does not provide case studies or specific metrics related to leadership effectiveness.",
+    "level": "Secondary"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -226,21 +226,24 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile methodologies and project management practices, with no focus on market share strategies or competitive advantage.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses agile methodologies and project management without a focus on Continuous Delivery principles.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, including incremental delivery and flexibility, which are relevant to Continuous Delivery. However, it primarily focuses on Agile principles rather than explicitly addressing Continuous Delivery practices. The mention of 'continuous delivery' is minimal, and while there is some alignment with the core themes, the depth of discussion on Continuous Delivery itself is limited.",
+    "level": "Secondary"
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -253,10 +256,10 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Agile methodologies and project management rather than specific engineering practices such as clean code, TDD, or CI/CD.",
     "level": "Ignored"
   },
@@ -289,12 +292,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 80,
-    "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses agile practices, their benefits, and comparison with waterfall methodology, which directly relates to software development methodologies.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 92.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 38,
+    "non_ai_confidence": 10,
+    "final_score": 92.0,
+    "reasoning": "The content extensively discusses Agile methodologies, including empirical models, visibility, change management, operational risk, and incremental value delivery, all of which are core themes in software development practices. The author’s professional background and detailed exploration of Agile principles further enhance the depth of the discussion, making it a primary focus on software development.",
+    "level": "Primary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -307,30 +313,39 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and their advantages, positioning them in contrast to traditional methods. While it touches on aspects of Agile Planning, it is primarily focused on the general transformative power of agile philosophies, making Agile Planning a significant but secondary theme.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses Agile methodologies, particularly focusing on empirical models and their advantages over traditional approaches. It highlights key Agile principles such as visibility, flexibility, operational risk, and incremental value delivery, which are central to Agile Planning. The depth of discussion is significant, providing detailed comparisons and insights into how Agile practices can enhance project outcomes. However, while it aligns well with Agile Planning, it does not explicitly mention specific Agile planning techniques or tools, which slightly lowers the confidence score.",
+    "level": "Secondary"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and their benefits in project management, highlighting adaptability and value delivery, which align with Agile Strategy themes, but it focuses more on empirical models and project success rather than strategic implementation.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile methodologies in detail, focusing on empirical models and their advantages over traditional approaches. It aligns well with key topics such as continuous value delivery, adaptability, and the integration of Agile principles into project management. However, while it touches on strategic aspects, it primarily centres on technical practices and project outcomes, which slightly detracts from its alignment with the broader strategic context of Agile strategy.",
+    "level": "Secondary"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses agile practices and their benefits, it focuses more on the general advantages of agile methodologies rather than specifically addressing team performance, collaboration, or specific practices that enhance team dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses agile practices and empirical models, which are relevant to team performance in an agile context. It touches on visibility, change management, and operational risk, all of which can impact team dynamics and effectiveness. However, the focus is more on project outcomes rather than specific team collaboration strategies or methodologies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -361,39 +376,36 @@
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses Agile practices and project management without a focus on Value Stream Management principles.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content focuses on comparing agile practices with traditional project management methodologies like waterfall and discusses the benefits of agile without addressing the principles or implementation of the One Engineering System framework.",
+    "reasoning": "Content heavily discusses Agile practices and project management without a focus on Value Stream Management principles.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the advantages of agile practices and their impact on project success, which touches on adapting to change, but the primary focus is more on project management methodologies rather than a direct discussion on Change Management principles.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile methodologies and their transformative power, touching on the concept of change in project management. However, it primarily focuses on project success metrics and empirical models rather than the broader strategies and practices of change management. While it mentions flexibility and the ability to adapt, it lacks a detailed exploration of change management principles, stakeholder engagement, or leadership roles in guiding transformation, which are crucial for a higher confidence score in this category.",
     "level": "Tertiary"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content primarily discusses agile practices in project management, it hints at transformational ideas such as adaptability and risk mitigation that align with digital transformation principles. However, the focus is primarily on project management methodologies rather than a direct emphasis on digital transformation itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on project outcomes, which indirectly relates to digital transformation through the lens of improving operational efficiency and fostering innovation. However, it lacks explicit discussions on the strategic adoption of digital technologies or comprehensive case studies on digital transformation initiatives. The focus is primarily on Agile practices rather than a broader digital transformation strategy.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -406,10 +418,10 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile and traditional project management without a clear focus on continuous learning practices or a growth mindset.",
     "level": "Ignored"
   },
@@ -449,31 +461,13 @@
     "reasoning": "Content primarily discusses agile methodologies and project management concepts without focusing on software craftsmanship, architecture, or engineering practices.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile philosophies and their impact on project success, which is relevant to software development, but it primarily focuses on project management aspects rather than the specific role of software developers.",
-    "level": "Tertiary"
-  },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile methodologies rather than Lean Product Development principles and practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses agile methodologies and project management, which are not directly related to code quality or complexity.",
     "level": "Ignored"
   },
   "Organisational Culture": {
@@ -505,30 +499,36 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile practices in general and does not focus on the specific role of a Scrum Master.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile methodologies and empirical models, which are relevant to the Scrum framework, but it does not explicitly focus on the role of the Scrum Master or their specific responsibilities. While there are mentions of Agile principles that a Scrum Master would promote, the discussion lacks depth regarding the Scrum Master's influence on team dynamics or organisational change.",
+    "level": "Tertiary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the empirical model of Agile in project management, focusing on small to medium-sized projects rather than large-scale Agile principles or frameworks.",
     "level": "Ignored"
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 70,
-    "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses agile practices and their impact on project success through continuous value delivery, making value delivery a major theme although project management is also a significant focus.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses the principles of Agile methodologies, particularly focusing on how empirical models enhance value delivery through continuous feedback, incremental delivery, and alignment with customer needs. It highlights key aspects such as visibility, flexibility, operational risk, and realised value, all of which are central to the concept of Value Delivery. The depth of discussion is significant, providing detailed comparisons between traditional and empirical models, thus reinforcing its relevance to the category.",
+    "level": "Primary"
   },
   "Technical Leadership": {
     "category": "Technical Leadership",
@@ -557,15 +557,6 @@
     "reasoning": "Content primarily discusses Agile methodologies and project management practices rather than decision-making processes or theories.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses agile methodologies in general, with a focus on the empirical model, but does not specifically address Scrum principles, roles, events, or artifacts.",
-    "level": "Ignored"
-  },
   "Forecasting": {
     "category": "Forecasting",
     "calculated_at": "2025-02-18T10:49:33",
@@ -586,21 +577,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 22,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and their transformative power, indicating a connection to organisational change, but primarily focuses on project management rather than a clear organisational change strategy.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on Agile practices and their benefits but does not discuss scaling Agile across multiple teams or at an enterprise level.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on project outcomes, which aligns with the principles of organisational change. It touches on visibility, operational risk, and the ability to adapt to change, which are relevant to the category. However, the primary focus is on Agile practices rather than a broader discussion of organisational change strategies or frameworks. While it does mention the need for organisational acceptance of change, it lacks depth in exploring leadership roles or specific change management frameworks, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -610,15 +595,6 @@
     "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile practices and their advantages, but does not primarily address Lean Thinking principles or topics.",
     "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile practices and their impact on project success, which relates to team dynamics and the process of managing projects. However, it primarily focuses on agile methodologies rather than in-depth analysis of human behavior or collaboration.",
-    "level": "Tertiary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -631,21 +607,27 @@
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices, their impact on project success, and adaptability, which are relevant to business agility. However, the primary focus is on comparing agile and traditional project management methodologies rather than a thorough exploration of business agility principles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, focusing on visibility, change, operational risk, and realised value. While it touches on aspects of business agility, such as adaptability and customer alignment, it primarily centres on Agile practices rather than the broader principles of business agility. The depth of discussion on business agility concepts is limited, as it does not explore leadership roles, organisational structures, or case studies, which are key topics in the category.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile practices and their advantages, which relates to complexity and adaptability, but does not focus primarily on complexity thinking or complexity science itself.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and empirical models, which touch on aspects of complexity thinking, such as flexibility and adaptability in project management. However, it primarily focuses on traditional and empirical models without deeply engaging with complexity science principles or frameworks like the Cynefin Framework. The discussion lacks explicit references to complexity theory or its implications for organisational behaviour, resulting in a moderate confidence score.",
+    "level": "Ignored"
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -667,10 +649,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional and empirical project management approaches in Agile, without focusing on the Definition of Ready.",
     "level": "Ignored"
   },
@@ -683,7 +665,7 @@
     "reasoning": "Content primarily discusses agile methodologies and project success without a direct focus on Lead Time as a key metric.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-18T10:49:33",
     "ai_confidence": 0,
@@ -694,20 +676,11 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between traditional and empirical models in project management, focusing on Agile practices without addressing leadership roles or the Agile leadership aspect.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content focuses on differences between Agile and Waterfall methodologies without addressing AI or automation in Agile practices.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -721,12 +694,15 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses empirical processes and their advantages in project management, particularly in the context of Agile methodologies, indicating a primary focus on empirical process control.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses empirical models in the context of Agile methodologies, highlighting key principles such as visibility, change, operational risk, and realised value. It aligns well with the core themes of empirical process control, particularly in its emphasis on decision-making based on observed evidence and the importance of feedback loops. The depth of discussion is substantial, providing detailed comparisons between traditional and empirical approaches, which enhances its relevance to the category.",
+    "level": "Primary"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -748,30 +724,27 @@
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses Agile methodologies and how they enhance project success, particularly focusing on increased adaptability and risk mitigation, which aligns with the principles of market adaptability. However, its primary focus on project management rather than directly relating to market responsiveness may slightly detract from its classification as primarily about market adaptability.",
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their impact on project success, which aligns well with the principles of market adaptability. It explicitly mentions the importance of flexibility, continuous feedback, and incremental value delivery, all of which are crucial for responding to market changes. The depth of discussion on how empirical models enhance visibility and reduce operational risk further supports its relevance to the category. However, while it touches on key aspects of market adaptability, it does not delve deeply into specific strategies or case studies, which slightly lowers the overall confidence score.",
     "level": "Secondary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Agile methodologies and project management without a focus on AI.",
-    "level": "Ignored"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile practices and their advantages, which indirectly relate to the delivery of functional software, but the primary focus is on comparing agile and waterfall methodologies rather than on working software directly.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses the principles of Agile methodologies, particularly focusing on the delivery of working software through empirical models. It highlights the importance of maintaining visibility, embracing change, and delivering value incrementally, all of which are core themes of working software. The depth of discussion on how these practices lead to functional software that meets customer needs further supports a high confidence score. However, while the content is rich in Agile principles, it does not explicitly mention 'working software' as a term, which slightly lowers the direct mentions score.",
+    "level": "Primary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -784,39 +757,33 @@
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses agile methodologies and project management, lacking focus on Continuous Integration principles or practices.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses agile practices and their advantages in project management, but primarily focuses on team-level practices rather than the broader implications for organisational agility.",
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on Agile methodologies at the project level, discussing empirical models and their benefits. While it touches on themes of flexibility and visibility, it lacks a broader organisational context and does not address enterprise-level agility frameworks or structures. The discussion is more aligned with team-level practices rather than the comprehensive organisational agility required for the category.",
     "level": "Tertiary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the general advantages of Agile methodologies and the empirical model in project management rather than specifically on Product Backlog discussions.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "The content primarily discusses agile philosophies, their application in project management, and the benefits of the empirical model, aligning closely with the Agile Project Management category.",
-    "level": "Secondary"
   },
   "Psychological Safety": {
     "category": "Psychological Safety",
@@ -836,24 +803,6 @@
     "reasoning": "Content heavily discusses Agile practices and project management rather than troubleshooting technical issues.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses agile philosophies and project management but does not focus on specific products or books related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the differences between Agile and Waterfall methodologies without providing current news or reviews related to Agile, DevOps, or technology updates.",
-    "level": "Ignored"
-  },
   "Team Motivation": {
     "category": "Team Motivation",
     "calculated_at": "2025-02-18T10:49:33",
@@ -870,15 +819,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the advantages of agile practices and empirical models in project management without sharing personal experiences or reflections.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile practices and the empirical model without a clear focus on scaling Scrum in large organizations or specific frameworks for scaling.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -901,12 +841,15 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile practices and their advantages in project management, touching on key principles like adaptability and value delivery. However, it lacks a specific focus on product management roles and techniques, making it a secondary theme rather than the primary focus.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on project outcomes, focusing on empirical models and their advantages over traditional approaches. While it touches on key Agile principles such as visibility, flexibility, and incremental value delivery, it does not explicitly address product management roles or techniques, which are central to the category. The discussion is more about project management in an Agile context rather than specifically about Agile Product Management.",
+    "level": "Secondary"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -919,11 +862,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on the differences between Agile and traditional project management but does not discuss Test First Development or related principles.",
+    "calculated_at": "2025-04-08T17:16:07",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their benefits, with no explicit mention of Test First Development principles or practices. While it touches on concepts like visibility and incremental value, these are not directly related to defining success criteria or testing practices, which are central to Test First Development.",
     "level": "Ignored"
   },
   "Miscellaneous": {
@@ -973,12 +919,15 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 3,
+    "ai_alignment": 80.0,
+    "ai_depth": 65.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "While the content discusses Agile methods and their advantages, it focuses primarily on comparing Agile practices with traditional methodologies rather than developing or refining strategic approaches within Agile contexts.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on project outcomes, which aligns with strategic approaches within Agile frameworks. It explicitly mentions the importance of visibility, change, operational risk, and realised value, all of which are key themes in strategic discussions. However, while it provides a good depth of discussion on these topics, it does not delve deeply into the strategic alignment of teams or organisational goals, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -991,48 +940,51 @@
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content discusses the impact of agile philosophies on project management, highlighting elements such as adaptability, continuous value delivery, and the transformative power of agile concepts, indicating that Agile philosophy is a primary focus.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, focusing on empirical models and project outcomes. While it touches on Agile principles like flexibility and value delivery, it primarily centres on specific frameworks (Scrum and Kanban) and their operational aspects rather than the broader Agile philosophy. The mention of Agile principles is present but not the primary focus, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and their role in enhancing project success, which is relevant to product delivery, but it primarily focuses on comparing agile and waterfall methodologies rather than deep discussions about the end-to-end delivery process.",
-    "level": "Tertiary"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content discusses agile practices in project management but focuses on the differences between agile and waterfall methodologies without addressing scaling agility principles or organizational-wide practices.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 18,
+    "ai_alignment": 36,
+    "ai_depth": 34,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Agile methodologies and their impact on product delivery, focusing on key aspects such as visibility, change management, operational risk, and incremental value delivery. It aligns well with the core themes of product delivery, particularly in the context of Agile practices. The depth of discussion is significant, providing detailed insights into how empirical models transform project outcomes, which is central to effective product delivery.",
+    "level": "Primary"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and their impact on project success, emphasizing adaptability and the empirical model. However, it is primarily focused on project management rather than broader organizational agility strategies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses Agile methodologies extensively, focusing on their transformative power and how they enhance project outcomes. It aligns well with the core themes of organisational agility, such as flexibility, responsiveness, and the importance of customer feedback. The depth of discussion on empirical models versus traditional approaches provides a nuanced understanding of agility, although it primarily centres on project management rather than broader organisational strategies. Overall, the content is a strong fit for the category, but it leans more towards project-level discussions than organisational-wide agility.",
+    "level": "Secondary"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 90.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 85.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses agile practices and their transformative impact on project success, which aligns with agile transformation themes, but it's primarily focused on comparing agile with traditional methodologies rather than a deep dive into agile transformation strategies.",
-    "level": "Tertiary"
+    "final_score": 82.0,
+    "reasoning": "The content explicitly discusses Agile methodologies, particularly focusing on empirical models and their advantages over traditional approaches. It aligns well with the core themes of Agile transformation, such as flexibility, visibility, and incremental value delivery. The depth of discussion is significant, providing detailed insights into how Agile practices can transform project outcomes. However, while it mentions Agile principles and practices, it does not delve deeply into change management strategies or leadership roles, which slightly lowers the overall confidence score.",
+    "level": "Primary"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1043,30 +995,12 @@
     "reasoning": "Content primarily discusses agile practices and their benefits for project success, without a clear focus on portfolio management or the alignment of strategy with execution.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile practices and their benefits, including adaptability and navigating change, which are related to organisational resilience and change management, but the focus is primarily on project success rates rather than a thorough examination of resilience frameworks.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content focuses on the differences between Agile and traditional project management methodologies, with an emphasis on visibility and adaptability but does not address transparency or accountability as central themes.",
-    "level": "Ignored"
-  },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile and traditional project management methodologies, with a focus on empirical processes and project success rates, but does not specifically address Agile Planning Tools.",
     "level": "Ignored"
   },
@@ -1077,15 +1011,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the differences between Agile and Waterfall methodologies in project management, without a focus on frequent releases or related practices.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses Agile philosophies and principles without a focus on specific practical techniques or tooling.",
     "level": "Ignored"
   },
   "Sensemaking": {
@@ -1108,10 +1033,10 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-18T10:49:33",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses agile methodologies and project management, not focusing on product discovery or understanding customer needs.",
     "level": "Ignored"
   },
@@ -1135,21 +1060,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses agile practices and their advantages in project success, but primarily focuses on comparing Agile and waterfall methodologies rather than a deep exploration of the Agile Product Operating Model.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile methodologies and empirical models, focusing on project success and flexibility. However, it primarily addresses project management rather than the specific principles of the Agile Product Operating Model. While there are mentions of visibility, change, and value delivery, these concepts are framed within a project context rather than a product-oriented mindset, leading to a moderate confidence score.",
     "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 30,
-    "non_ai_confidence": 10,
-    "final_score": 28.0,
-    "reasoning": "The content discusses agile practices and their impact on project management success, but it primarily focuses on project management principles without a clear emphasis on discovery and learning processes.",
-    "level": "Quaternary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -1178,23 +1097,17 @@
     "reasoning": "Content heavily discusses agile project management principles and practices, without focusing on automated testing.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile practices and the empirical model, with no clear focus on scaling Kanban or its principles.",
-    "level": "Ignored"
-  },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses agile practices and their application to enhance project success, emphasizing adaptability and empirical methods, which are relevant to pragmatic thinking, but it is still primarily focused on the comparison between traditional and empirical models.",
-    "level": "Tertiary"
+    "final_score": 87.0,
+    "reasoning": "The content extensively discusses Agile methodologies, particularly the empirical model versus traditional models, and how these approaches enhance visibility, adaptability, and operational risk management. It provides practical insights into how Agile practices can be applied to improve project outcomes, demonstrating a strong alignment with the core themes of pragmatic thinking. The depth of discussion is significant, as it covers various aspects of Agile, including change management and value delivery, while also referencing real-world implications and experiences. Overall, the content is highly relevant to the category.",
+    "level": "Primary"
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1207,12 +1120,15 @@
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-18T10:49:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses how agile practices, particularly those based on empirical models, can enhance project success rates, indicating a focus on decision-making within project management. However, the primary emphasis is on the advantages of agile over traditional methods, rather than a structured examination of decision-making processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses Agile methodologies and empirical models, which are relevant to decision-making processes in project management. It highlights the importance of visibility, flexibility, and incremental value delivery, aligning with evidence-based practices. However, it lacks a direct focus on structured decision-making frameworks and empirical evidence application, which limits its overall alignment with the category.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1252,28 +1168,31 @@
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-18T10:49:34",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile methodologies and project management but does not focus on product strategy or related topics.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-18T10:49:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile philosophies and their advantages, but it primarily focuses on the empirical model and comparing agile practices to traditional methods without delving deeply into specific Agile values or principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 30,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, particularly focusing on empirical models and their advantages over traditional approaches. While it touches on Agile principles such as flexibility, visibility, and incremental value delivery, it primarily centres on practical applications and comparisons rather than a deep exploration of Agile values or the Agile Manifesto. The mention of Agile principles is present but not the primary focus, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
-    "calculated_at": "2025-02-18T10:49:34",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on Agile methodologies and project management, without mentioning Value Stream Mapping.",
     "level": "Ignored"
   },
@@ -1297,12 +1216,15 @@
   },
   "Transparency": {
     "category": "Transparency",
-    "calculated_at": "2025-02-18T10:49:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses visibility and transparency in the context of Agile methodologies, but it is primarily focused on the empirical model and Agile practices rather than transparency itself.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses visibility extensively, contrasting traditional and empirical models in Agile. It highlights the importance of maintaining high visibility throughout the project lifecycle, which aligns with the core themes of transparency. However, while it touches on transparency, it does not delve deeply into specific techniques or tools that promote transparency, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1342,38 +1264,487 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-18T10:49:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the empirical model's advantages in agile practices and touches on project success metrics and visibility, but the primary focus is more on the comparison between agile and waterfall rather than a detailed exploration of Evidence-Based Management principles.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and empirical models, highlighting the importance of visibility, flexibility, and incremental value delivery. However, it primarily focuses on Agile practices rather than explicitly addressing Evidence-Based Management principles. While there are mentions of data and metrics, the discussion lacks a strong emphasis on empirical decision-making and the specific metrics outlined in the EBM category.",
+    "level": "Secondary"
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-18T10:49:34",
+    "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the differences between traditional and empirical project management methodologies, focusing on agile philosophies rather than installation and configuration aspects.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-18T10:49:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses aspects of agile practices and the empirical model, which are relevant to innovation processes. However, the main focus is on project success rates rather than explicitly measuring or enhancing an organization's capacity to innovate. Therefore, while innovation is a theme, it is secondary to project management.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies and empirical models, highlighting their benefits in project management. However, it primarily focuses on project success metrics and practices rather than directly addressing the measurement and improvement of innovation capabilities. While there are mentions of flexibility and incremental value delivery, these concepts are not deeply tied to the Ability to Innovate category, which emphasises a broader organisational capacity for innovation and empirical data use.",
+    "level": "Secondary"
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-18T10:49:34",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses agile practices and their impact on project success, touching on concepts like visibility, adaptability, and risk mitigation. However, it lacks a direct focus on specific operational techniques or metrics that enhance operational efficiency.",
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and their impact on project outcomes, focusing on aspects like visibility, change, operational risk, and realised value. While it touches on operational practices, it primarily emphasises the theoretical benefits of Agile rather than providing specific techniques or strategies for operational efficiency. The discussion lacks detailed practical applications or metrics that would strengthen its alignment with the category.",
+    "level": "Secondary"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:04:55",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and project management, with no focus on Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:04:57",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and project management without any mention of Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 35,
+    "non_ai_confidence": 50,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses Scrum principles, particularly the empirical process and its advantages over traditional models. It mentions Scrum roles and the importance of delivering a usable working product at the end of each Sprint, which aligns well with Scrum practices. The depth of discussion on visibility, change management, and operational risk in the context of Scrum further supports a high confidence score.",
+    "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile methodologies and empirical models, focusing on visibility, change, operational risk, and realised value. While these concepts are relevant to software development, they do not explicitly address the Shift-Left Strategy or its principles. The discussion lacks direct mentions of integrating testing, security, or compliance early in the development process, which are core to the Shift-Left concept. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses Agile methodologies and their empirical models, highlighting the importance of visibility, flexibility, and incremental value delivery. While it touches on aspects of Continuous Improvement, such as ongoing feedback and adaptability, it does not explicitly focus on Continuous Improvement as a primary theme. The discussion is more centred on Agile practices rather than a dedicated exploration of Continuous Improvement principles.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, but it primarily focuses on empirical models, visibility, flexibility, and operational risk rather than explicitly addressing Common Goals. While there are elements that touch on alignment and customer needs, the discussion lacks a direct focus on shared objectives or strategic alignment within teams, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses Agile methodologies and their benefits, touching on aspects like visibility, flexibility, and risk management. However, it lacks a direct focus on competence as a foundational principle, with only brief mentions of trust and incremental value delivery. The discussion does not delve deeply into continuous learning or skill development, which are crucial for competence, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically Scrum and Kanban, without discussing the One Engineering System framework or its principles. While it touches on project success and practices, it does not align with the core themes of 1ES, such as integration of tools and processes across teams or best practices for implementing a unified engineering system.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and their transformative power, but it does not explicitly address Agentic Agility or the intentional shaping of outcomes. While it touches on flexibility and visibility, it lacks a clear distinction between human and AI capabilities, and does not delve into the principles or mechanisms of Agentic Agility. The focus remains on general Agile practices rather than the specific concept of agency and intentionality.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the benefits of empirical Agile methodologies in contrast to traditional models, without addressing Hybrid Agile or the challenges associated with its implementation. There are no direct mentions or discussions of the integration of traditional and Agile practices, nor insights into the pitfalls of Hybrid Agile approaches. The emphasis on promoting Agile as a solution detracts from the critical analysis expected in the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and empirical models, discussing aspects like visibility, flexibility, operational risk, and value delivery. There are no direct mentions of Cell Structure Design or its related concepts such as autonomous cells, decentralisation, or the Beta Codex. While some themes like flexibility and responsiveness might somewhat align with the principles of Cell Structure Design, they are not specifically discussed in that context, resulting in a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 78.0,
+    "ai_mentions": 16,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 78.0,
+    "reasoning": "The content extensively discusses empirical models in Agile, particularly how principles like visibility, flexibility, and incremental value influence project success. Key principles such as continuous improvement and adaptability are woven throughout the discussion, making these concepts central rather than peripheral. The content uses specific examples that reflect the actionable nature of Agile principles, rather than only presenting values or abstract ideas. Overall, the content aligns strongly with the principles category, focusing on how these principles guide decision-making and project management within Agile frameworks.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 76.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 26.0,
+    "non_ai_confidence": null,
+    "final_score": 76.0,
+    "reasoning": "The content focuses on Agile practices extensively, discussing principles such as visibility, flexibility, and incremental value. While it does mention traditional project management models in comparison, the primary focus remains on Agile methodologies, which reduces its alignment with broader project management principles. Key project management concepts are referenced, but the content lacks detailed discussion on methodologies beyond Agile, project lifecycle phases, and roles, which detracts from its overall depth in project management.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 20.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 20.0,
+    "reasoning": "The content primarily discusses Agile practices, focusing on empirical models and traditional vs. agile approaches without addressing Open Space Technology or its principles. While it touches on themes of visibility, flexibility, and incremental value, it does not specifically mention Open Space Agile or its core facets such as psychological safety, co-creation, or iterative dialogue. Thus, it does not meet the criteria for content alignment with the Open Space Agile category.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 32.0,
+    "ai_mentions": 0,
+    "ai_alignment": 24.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Agile methodologies and their benefits, but it lacks direct discussions on specific tools or their practical applications within Agile, Lean, or DevOps frameworks. While there are concepts related to how Agile practices can transform project outcomes, there are no mentions of tools that support these practices, which weakens its alignment with the 'Tool' category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and empirical models rather than on specific Liberating Structures techniques. There are no direct mentions of Liberating Structures, and while some themes like enhancing visibility and flexibility are aligned with collaborative practices, the discussion lacks depth on facilitation techniques inherent to Liberating Structures.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 35.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content shares insights related to Agile practices and emphasizes aspects like visibility, change, and incremental value delivery, it primarily discusses operational aspects and outcomes rather than the underlying values that shape behavior and decision-making within organizations. The focus is on how Agile models can improve project outcomes, not on the values such as commitment, courage, or respect that guide team dynamics and organizational culture.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses Agile practices and their benefits in terms of project outcomes, focusing on elements like visibility, flexibility, and risk management. While it touches upon underlying principles of Agile, it lacks a dedicated philosophical exploration of the 'why' behind these practices. The discussion is practice-oriented rather than philosophical, making it more suitable for a category focused on methodologies rather than philosophy itself.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 62.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 70.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 62.0,
+    "reasoning": "The content discusses Agile methodologies in detail and emphasizes aspects like visibility, flexibility, operational risk, and value delivery, which align with the principles of discipline as they relate to Agile practices. However, it primarily focuses on the techniques and outcomes of Agile rather than the overarching framework and systematic application of discipline, warranting a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 37.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 35.0,
+    "non_ai_confidence": null,
+    "final_score": 37.0,
+    "reasoning": "The content discusses Agile methodologies and models primarily but lacks a direct focus on specific artifacts such as Product Backlogs or Sprint Backlogs. It mentions key concepts like visibility, operational risk, and delivering value incrementally, which are more aligned with Agile principles rather than the specific role and structure of artifacts. The references to continuous delivery and iterative feedback hint at artifact usage but do not specifically explore their purpose, types, or management in a detailed manner, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses visibility in the context of Agile methodologies, which tangentially relates to observability. However, it focuses more on the Agile process rather than on the metrics, logs, and traces that define observability. While it touches on the importance of maintaining visibility throughout project cycles, it lacks a deeper exploration of observability principles or how metrics and tools enhance this visibility. Thus, it does not satisfy the clarity needed for a strong alignment with the Observability category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:07",
+    "ai_confidence": 65.0,
+    "ai_mentions": 3,
+    "ai_alignment": 35,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content mentions concepts related to Time to Market, particularly through the discussion of incremental value delivery and the importance of adaptability in Agile methodologies. However, it does not directly address Time to Market metrics or strategies for optimizing it in detail. While the theme of delivering value incrementally aligns with the Time to Market category, the discussion lacks depth in specific metrics and strategies for improvement, resulting in a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Product Development": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 87.0,
+    "reasoning": "The content strongly focuses on Agile methodologies, discussing key principles such as visibility, flexibility, operational risk, and incremental value delivery. These themes align well with the core topics of Product Development. The author references empirical models, which are central to iterative development processes, and outlines the benefits of delivering products in increments. Depth is significant, covering multiple aspects of Agile in detail and providing evidence from research, making it a primary focus rather than a secondary one.",
+    "level": "Primary"
+  },
+  "Practice": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 57.0,
+    "ai_mentions": 6,
+    "ai_alignment": 35,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 57.0,
+    "reasoning": "The content discusses Agile methodologies and emphasizes the importance of continuous delivery, flexibility, and iterative value delivery, which align with the core themes of 'Practice.' However, it predominantly focuses on the broader principles and benefits of Agile rather than specific actionable practices, which reduces its overall alignment and depth of discussion in the context of practical techniques. The content references Agile practices but does not dive into specific methods or techniques such as Retrospectives or Pair Programming, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Company as a Product": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and project management rather than directly addressing concepts related to 'Company as a Product.' While there are mentions of customer feedback and Agile principles that could conceptually align with CaaP, the discussion does not explicitly connect to the idea of viewing the organization itself as a product. The depth of discussion is limited, focusing mainly on project-level insights rather than broader organizational strategies.",
+    "level": "Ignored"
+  },
+  "Method": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies and their advantages but does not provide specific step-by-step methods or structured procedures for implementing Agile practices. While it touches on concepts like visibility, flexibility, and incremental delivery, it lacks detailed procedures or discussions about specific methods such as Scrum or Kanban. The overall focus is more on the benefits and high-level ideas rather than the structured methodologies, thereby resulting in a low confidence score for the 'Method' classification.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 22.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content discusses Agile methodologies extensively but primarily focuses on realised value rather than unrealised value. While it touches on concepts like flexibility and operational risk, which could hint at unrealised potential, the discussion is more about how Agile can help deliver value that has already been recognised. The term 'unrealised value' is not explicitly mentioned, and the core focus remains on the benefits of Agile practices rather than identifying untapped opportunities. Therefore, while there are relevant elements, they do not constitute a primary focus on 'Unrealised Value.'",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses Agile methodologies, focusing on their empirical nature and successful project outcomes. However, it does not specifically address scaling frameworks, cross-team collaboration, or strategies for managing dependencies, which are central to the 'Scaling' category. The content is more aligned with Agile principles broadly and lacks a deep dive into scaling complexities. Hence, while it mentions Agile practices relevant to scaling discussions, the overall focus remains too general and not tightly aligned with the specific scaling methodologies and challenges outlined in the category.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content focuses on empirical models and their critical role in Agile project management, which aligns well with the category's emphasis on models that enhance decision-making and systems thinking. It discusses visibility, flexibility, operational risks, and incremental value, highlighting key concepts that are foundational to Agile methodologies. However, while models are a primary focus, the content also includes discussions that are broader in nature and not strictly tied to formalized models, which slightly lowers the alignment score.",
+    "level": "Secondary"
+  },
+  "Current Value": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 73.0,
+    "ai_mentions": 15,
+    "ai_alignment": 28,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the concept of 'realised value' in the context of Agile methodologies, emphasizing the incremental delivery of value and the benefits this brings to customer satisfaction. There are direct mentions of how empirical models allow for ongoing value realization and feedback, aligning well with the core themes of Current Value. The depth of discussion about how different models impact the visibility of project value and operational risk contributes to the overall confidence score. However, while it engages with Current Value, much of the content is broader in its scope around Agile practices which slightly reduces the primary focus on Current Value specifically.",
+    "level": "Secondary"
+  },
+  "Framework": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 65.0,
+    "ai_mentions": 2,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses Agile methodologies, particularly highlighting empirical models in contrast to traditional approaches. It mentions Scrum and Kanban, which are specific Agile frameworks, yet does not deeply analyze their guidelines or rules as frameworks. The content aligns well with core principles of Agile by emphasizing visibility, flexibility, and incremental value delivery. However, it lacks extensive detail on the frameworks themselves, their comparison, and specific implementation strategies, which keeps the score below a higher threshold.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 58.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": null,
+    "final_score": 58.0,
+    "reasoning": "The content discusses Agile practices and principles extensively, including concepts like visibility, flexibility, and operational risk, which can relate to various tenets of Agile methodologies. However, it lacks explicit references to actionable guiding rules or doctrines that fit strictly within the Tenet category. The content focuses more on general principles and benefits of Agile rather than specific tenets, which reduces the confidence score somewhat.",
+    "level": "Tertiary"
+  },
+  "GitHub": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 10.0,
+    "reasoning": "The content primarily focuses on Agile methodologies and project management without any specific mention or discussion of GitHub or its functionalities. It does not provide relevant insights into GitHub’s services or tools, nor discuss practices related to code collaboration or version control that align with GitHub's core themes.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses traditional Agile frameworks like Scrum and Kanban without explicitly addressing Agnostic Agile principles. It does briefly touch on flexibility and delivering value, but lacks a significant focus on tailoring methods to specific contexts or critical thinking in Agile practices, which are key aspects of Agnostic Agile.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "rnyJzSwU74Q",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:08",
+    "ai_confidence": 45.0,
+    "ai_mentions": 10,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content primarily discusses the benefits of Agile methodologies and their impact on project success, without delving into the enduring competencies or systematic capabilities essential for sustainable organisational performance. Although it touches on aspects like visibility and flexibility which are relevant to Agile practices, it lacks a strong focus on developing or embedding capabilities within teams, which would align more with the Capability category. The discussion remains surface-level and more focused on project execution rather than on cultivating capabilities over time.",
     "level": "Tertiary"
   }
 }

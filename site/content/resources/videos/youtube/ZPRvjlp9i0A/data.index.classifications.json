@@ -1,13 +1,4 @@
 {
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-12T14:35:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily invites questions on DevOps and Agility without a specific focus on AI applications within these methodologies.",
-    "level": "Ignored"
-  },
   "Team Collaboration": {
     "category": "Team Collaboration",
     "calculated_at": "2025-02-12T14:35:41",
@@ -17,12 +8,12 @@
     "reasoning": "Content primarily invites questions on various topics without a clear focus on team collaboration or Agile principles.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
-    "calculated_at": "2025-02-12T14:35:44",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 50,
-    "final_score": 5.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on an Ask Me Anything session with a Scrum Trainer, discussing various topics including DevOps and Agility, without a clear emphasis on MVP concepts.",
     "level": "Ignored"
   },
@@ -46,10 +37,10 @@
   },
   "Scrum Values": {
     "category": "Scrum Values",
-    "calculated_at": "2025-02-12T14:35:47",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, without a clear focus on Scrum Values.",
     "level": "Ignored"
   },
@@ -136,10 +127,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-12T14:36:02",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics related to DevOps and Agility, without a focus on the measurement or improvement of innovation capabilities.",
     "level": "Ignored"
   },
@@ -172,12 +163,15 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T14:36:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content invites questions on a broad range of topics, including DevOps and Agility, without a specific focus on Scrum Master responsibilities or practices.",
-    "level": "Ignored"
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on distinguishing between the roles of Product Owners and Project Managers within the Scrum framework, with only brief mentions of Scrum principles and organisational impacts. While it touches on aspects relevant to Scrum, such as value delivery and team dynamics, it does not delve deeply into the specific responsibilities or influence of the Scrum Master, which is the primary focus of the category. Therefore, the confidence score reflects a moderate alignment with the category, but not a strong emphasis on the Scrum Master role itself.",
+    "level": "Tertiary"
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -217,11 +211,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-12T14:36:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily invites questions on various topics without a focus on Evidence-Based Management principles or practices.",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, focusing on their responsibilities and the impact of Scrum on organisational structure. While it touches on value delivery and organisational agility, it lacks a direct emphasis on evidence-based practices or metrics that are central to Evidence-Based Management. The discussion is more about roles and methodologies rather than empirical decision-making or data-informed strategies.",
     "level": "Ignored"
   },
   "Organisational Change": {
@@ -235,10 +232,10 @@
   },
   "Azure Boards": {
     "category": "Azure Boards",
-    "calculated_at": "2025-02-12T14:36:22",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a general Q&A session about DevOps and Agility, without specific emphasis on Azure Boards or its functionalities.",
     "level": "Ignored"
   },
@@ -262,11 +259,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T14:36:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on DevOps and Agile topics, with no specific emphasis on Continuous Delivery principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, which is more focused on Agile practices rather than Continuous Delivery specifically. While there are mentions of value delivery and optimising delivery, the discussion lacks a direct focus on Continuous Delivery principles, automation, or deployment strategies. The content does touch on aspects of continuous improvement and rapid feedback, but these are not explored in depth or as a primary focus, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Working Agreements": {
@@ -316,19 +316,19 @@
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
-    "calculated_at": "2025-02-12T14:36:35",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a general Q&A session and does not specifically address the Daily Scrum or its related topics.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-12T14:36:37",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content invites questions on various topics, including DevOps and Agility, but does not focus specifically on Agile values or principles.",
     "level": "Ignored"
   },
@@ -368,39 +368,24 @@
     "reasoning": "Content does not focus on cross-functional teams; it invites questions on various topics without a specific emphasis on team structures or Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T16:42:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions DevOps and Agility, which are relevant to software developers, but it is primarily an invitation for a Q&A session rather than a focused discussion on these topics.",
-    "level": "Tertiary"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T14:36:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, without a specific focus on scaled Agile methodologies or frameworks.",
-    "level": "Ignored"
-  },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T16:42:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions topics related to DevOps and Agility, which are relevant to software development practices, but it is primarily an invitation for a Q&A session rather than a focused discussion on software development methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 80.0,
+    "ai_alignment": 90.0,
+    "ai_depth": 85.0,
+    "non_ai_confidence": 10,
+    "final_score": 87.0,
+    "reasoning": "The content primarily focuses on Agile methodologies, specifically the roles of Product Owners and Project Managers within Scrum, which is a key aspect of software development practices. It discusses the differences between these roles, the implications of Scrum on organisational structure, and the importance of value delivery in software projects. The depth of discussion is significant, covering various aspects of Agile practices, team dynamics, and the evolution of project management in a software context. Overall, the content aligns well with the core themes of software development, particularly in relation to Agile frameworks and practices.",
+    "level": "Primary"
   },
   "Azure Repos": {
     "category": "Azure Repos",
-    "calculated_at": "2025-02-12T14:36:48",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on general DevOps and Agile topics, with no specific discussion on Azure Repos functionalities or practices.",
     "level": "Ignored"
   },
@@ -550,20 +535,11 @@
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
-    "calculated_at": "2025-02-12T14:37:13",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a Q&A session on DevOps and Agility without a specific focus on Azure Pipelines.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T14:37:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "The content mentions agility and Scrum but does not focus primarily on Agile Project Management principles or methodologies.",
+    "reasoning": "Content primarily discusses a Q&A session on DevOps and Agility without a specific focus on Azure Pipelines.",
     "level": "Ignored"
   },
   "Lean Thinking": {
@@ -586,10 +562,10 @@
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T14:37:19",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, but does not focus specifically on large-scale Agile practices or frameworks.",
     "level": "Ignored"
   },
@@ -683,15 +659,6 @@
     "reasoning": "Content heavily discusses Scrum roles and events.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T14:37:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily an invitation for questions on various topics, including DevOps and Agility, without a clear focus on Scrum product development.",
-    "level": "Ignored"
-  },
   "Product Strategy": {
     "category": "Product Strategy",
     "calculated_at": "2025-02-12T14:37:38",
@@ -730,10 +697,10 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-12T14:37:46",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content invites questions on a broad range of topics, including DevOps and Agility, without a specific focus on Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
@@ -809,15 +776,6 @@
     "reasoning": "Content primarily invites questions on various topics related to DevOps and Agility, without a focus on technical debt management or its implications.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T14:37:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content does not focus on Scaling Scrum; it invites questions on various topics including DevOps and Agility without a specific emphasis on Scrum scaling practices.",
-    "level": "Ignored"
-  },
   "Remote Working": {
     "category": "Remote Working",
     "calculated_at": "2025-02-12T14:37:59",
@@ -852,15 +810,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content is focused on a general Q&A session about various topics, including DevOps and Agility, without a specific emphasis on backlog refinement.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T14:38:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, without a clear focus on scaling agility or related frameworks.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -915,15 +864,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, without a focus on product validation methodologies or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T14:38:14",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Scrum and DevOps topics, with no clear discussion on Scaling Kanban principles or practices.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -991,38 +931,32 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T14:38:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on a general Q&A session about various topics in DevOps and Agility, without specific emphasis on Test First Development or its principles.",
+    "calculated_at": "2025-04-08T17:26:55",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, with a focus on organisational agility and value delivery. It does not explicitly mention Test First Development or its principles, nor does it delve into testing practices, automated testing, or success criteria related to Test First Development. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
-    "calculated_at": "2025-02-12T14:38:27",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content invites questions on a broad range of topics, including DevOps and Agility, without a focused discussion on Scrum principles or practices.",
     "level": "Ignored"
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-12T14:34:44",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on a Q&A session about DevOps and Agility, with only a brief mention of Azure DevOps in the context of the speaker's credentials.",
-    "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-12T14:34:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily invites questions on various topics related to DevOps and Agility, without focusing on specific products or literature.",
     "level": "Ignored"
   },
   "Decision Theory": {
@@ -1061,21 +995,12 @@
     "reasoning": "Content primarily focuses on a Q&A session about DevOps and Agility without a clear emphasis on the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T14:34:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily invites questions on various topics without a focus on transparency or accountability principles within Agile teams.",
-    "level": "Ignored"
-  },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T14:34:54",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mentions agility but does not focus on organisational agility as a primary topic; it is more about a Q&A session with a Scrum Trainer.",
     "level": "Ignored"
   },
@@ -1090,10 +1015,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T14:34:57",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics related to DevOps and Agility without a focus on metrics, data, or learning methodologies.",
     "level": "Ignored"
   },
@@ -1108,47 +1033,23 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T14:35:00",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on a Q&A session about various topics in DevOps and Agility, without specific discussions on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-12T14:35:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on a Q&A session about DevOps and Agility without specific mention of AI or automation in Agile practices.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T14:35:02",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on an interactive Q&A session rather than providing news or reviews related to Agile or DevOps.",
     "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T16:42:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions DevOps as a topic of discussion, but it is not the primary focus, as it also includes Agility and is centred around a Q&A format.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T16:42:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions Agile and Scrum, which are related to team dynamics and collaboration, but it primarily focuses on a Q&A format without delving deeply into the interplay between human behaviour and structured methodologies.",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the roles of Product Owners and Project Managers within the Scrum framework, which is more aligned with Agile methodologies than DevOps principles. While it briefly touches on concepts like value delivery and continuous improvement, it lacks a direct focus on the core themes of DevOps, such as automation, shared accountability, and cross-functional collaboration in a DevOps context. The discussion is more about project management and Scrum practices rather than the integration of development and operations, which is central to DevOps.",
     "level": "Tertiary"
   },
   "Technical Excellence": {
@@ -1158,24 +1059,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily invites questions on a broad range of topics, including DevOps and Agility, without a clear focus on technical excellence or engineering practices.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T16:42:32",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions an 'Ask me Anything' session with a professional trainer, which indicates a live event format. However, the primary focus is on the topics of DevOps and Agility rather than the event itself.",
-    "level": "Tertiary"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T14:35:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Scrum roles and events, with no focus on code quality or complexity.",
     "level": "Ignored"
   },
   "Lean": {
@@ -1205,24 +1088,6 @@
     "reasoning": "Content primarily focuses on a Q&A session related to DevOps and Agility, with a specific mention of Scrum and Azure DevOps, which are directly linked to established frameworks.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T14:35:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a Q&A session about DevOps and Agility, without a clear emphasis on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T14:35:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content is primarily an invitation for questions on various topics related to DevOps and Agility, without a clear focus on practical techniques or tooling.",
-    "level": "Ignored"
-  },
   "Kanban": {
     "category": "Kanban",
     "calculated_at": "2025-02-12T14:35:24",
@@ -1243,19 +1108,19 @@
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-12T14:35:27",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, without a clear focus on enterprise agility or its broader implications.",
     "level": "Ignored"
   },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-12T14:35:29",
+    "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, without a clear focus on business agility principles or practices.",
     "level": "Ignored"
   },
@@ -1286,15 +1151,6 @@
     "reasoning": "Content invites questions on various topics, including DevOps and Agility, but does not focus specifically on product delivery methodologies or practices.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-12T14:35:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a Q&A session about DevOps and Agility, without a clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
     "calculated_at": "2025-02-12T14:35:37",
@@ -1315,12 +1171,15 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T11:12:28",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions Agility and references a Professional Scrum Trainer, indicating a secondary theme related to Scrum and Agile practices, but it is not the primary focus.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the roles of Product Owners and Project Managers within a Scrum framework, highlighting the importance of value delivery and team dynamics. While it touches on self-organisation and adaptability, the primary focus is on role distinctions rather than a comprehensive exploration of social technologies. The discussion on organisational structure and leadership shifts aligns with the category, but the depth of analysis on social technologies is limited.",
+    "level": "Secondary"
   },
   "Leadership": {
     "category": "Leadership",
@@ -1340,32 +1199,17 @@
     "reasoning": "Content primarily focuses on a Q&A session about DevOps and Agility, without a clear emphasis on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-18T11:12:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on a Q&A session about various topics including DevOps and Agility, without a clear emphasis on the One Engineering System framework.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-18T11:12:33",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content mentions Scrum and features a Professional Scrum Trainer, indicating a significant but secondary theme related to Scrum within a broader context of DevOps and Agility.",
-    "level": "Tertiary"
-  },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-18T11:12:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily invites questions on various topics, including DevOps and Agility, without a clear focus on the Agile Product Operating Model.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, which is relevant to the Agile Product Operating Model. However, it does not deeply explore the broader principles of APOM or the transition from project to product ethos. While it touches on organisational structure and value delivery, it lacks comprehensive detail on the integration of agile methodologies with product management principles, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1374,6 +1218,446 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses DevOps and Agile topics, with a focus on Scrum, rather than Platform Engineering.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:07:53",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile topics, with a focus on Scrum, rather than Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:07:54",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses DevOps and Agile topics without a clear focus on Artificial Intelligence.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 85.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 85.0,
+    "reasoning": "The content extensively discusses the roles within Scrum, particularly the distinction between Product Owners and Project Managers, which is a core aspect of the Scrum framework. It references the Scrum Guide and elaborates on the responsibilities of the Product Owner, aligning well with Scrum principles. Additionally, it touches on Scrum events and the importance of empirical process control, indicating a strong conceptual alignment. The depth of discussion is significant, as it covers various aspects of Scrum implementation and team dynamics, although it also diverges into related topics like Kanban and project management, which slightly detracts from its focus on Scrum alone.",
+    "level": "Primary"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, focusing on agile practices rather than the Shift-Left Strategy. While it touches on concepts of value delivery and continuous improvement, it does not explicitly address integrating testing, security, or compliance earlier in the development process, which are core aspects of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of adapting Scrum practices and the need for continuous improvement in delivery methods, particularly in the context of optimising flow and moving beyond story points. However, while it touches on Continuous Improvement, it primarily focuses on the roles of Product Owners and Project Managers, which makes Continuous Improvement a secondary theme rather than the primary focus.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the distinctions between Product Owners and Project Managers within the Scrum framework, which is relevant but does not directly address the concept of Common Goals. While it touches on organisational impacts and the importance of value delivery, it lacks a thorough exploration of shared objectives or alignment strategies that are central to the Common Goals category. The discussion is more about roles and practices rather than the foundational principles of aligning strategy with execution.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the roles of Product Owners and Project Managers within Scrum, touching on the importance of understanding these roles for effective value delivery. However, while it hints at the necessity for competence in these roles, it primarily focuses on role distinctions and organisational impacts rather than a deep exploration of continuous learning, skill development, or fostering a culture of competence. The discussion lacks explicit strategies for developing competence or inspecting it over time, which are crucial for a higher confidence score in this category.",
+    "level": "Tertiary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the roles of Product Owners and Project Managers within the Scrum framework, which is not directly related to the One Engineering System. While it touches on organisational changes and agile practices, it lacks a direct discussion on the principles, components, or implementation of 1ES. The content does not provide substantial detail on integration or standardisation of engineering processes, which are core to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:54:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within Scrum, focusing on value delivery and organisational structure. While it touches on themes of adaptability and organisational agility, it does not explicitly address Agentic Agility or the intentional shaping of outcomes. The discussion lacks depth in exploring the principles of Agentic Agility, such as the distinction between human and AI capabilities, and does not provide case studies or examples relevant to the category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the roles of Product Owners and Project Managers within a Scrum framework, discussing their distinctions and implications for organisational structure. While it touches upon agile practices, it does not engage with the core themes of Hybrid Agile, such as the challenges of integrating traditional and agile methodologies or the pitfalls of Hybrid Agile implementations. The analysis lacks depth and does not consider conflicts or dysfunctionalities associated with Hybrid Agile frameworks, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses agile organizational structures, specifically in the context of Scrum, but it does not explicitly mention Cell Structure Design or its principles. It touches on the shift from traditional hierarchies to more autonomous teams, which aligns with the conceptual goals of Cell Structure Design, but lacks a detailed exploration of the specific elements that define it. Overall, the content is related but does not directly address the core principles or depth of Cell Structure Design as outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 72.0,
+    "ai_mentions": 4,
+    "ai_alignment": 30,
+    "ai_depth": 38,
+    "non_ai_confidence": null,
+    "final_score": 72.0,
+    "reasoning": "The content discusses key differences between Product Owners and Project Managers in Scrum, specifically touching on principles such as value delivery, self-management, and adaptability. It also highlights the transition to more agile practices and the importance of autonomous teams and continuous improvement. However, while it contains essential elements of Agile principles, the primary focus is more on roles and responsibilities than on explicitly actionable principles themselves. The content does offer valuable insights related to Agile principles, but it does not delve deeply into them as separate guiding rules influencing team behavior.",
+    "level": "Secondary"
+  },
+  "Project Management": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Project Management",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 66.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 55.0,
+    "non_ai_confidence": null,
+    "final_score": 66.0,
+    "reasoning": "The content discusses the roles of Product Owners and Project Managers in the context of Scrum, highlighting their distinctions and the impact of Scrum practices on organizations. While the focus is primarily on specific agile roles, it also touches upon broader themes like project delivery, organizational structure, and value delivery — core topics in project management. However, the depth of project management concepts is somewhat limited, focusing more on roles rather than methodologies or processes, which slightly lowers the confidence score.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Open Space Agile",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content discusses Agile practices and the roles of Product Owners and Project Managers within Scrum, it does not specifically address Open Space Agile or its principles. The focus is primarily on general Agile concepts and Scrum roles without engaging in the collaborative, emergent aspects of Open Space Agile. There's a brief mention of shifting from traditional structures but no depth on the core themes of Open Space Agile or discussions on psychological safety, shared ownership, or iterative dialogue.",
+    "level": "Ignored"
+  },
+  "Tool": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the roles of Product Owners and Project Managers within the Scrum framework, with limited references to tools or mechanisms that support workflow improvement. Although it briefly touches on story points as a tool for estimation, it does not engage deeply with specific tools or their implementation within Agile practices, which are key to the 'Tool' category. Therefore, the confidence score reflects minimal relevance to the category.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Liberating Structures",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the roles of Product Owners and Project Managers in Scrum, discussing agility and organizational impact, but does not reference any specific Liberating Structures or their application. It lacks direct mentions of facilitation techniques or their integration into Scrum practices, resulting in a very low confidence score for alignment with the Liberating Structures category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 12,
+    "ai_depth": 8,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the distinctions between Product Owners and Project Managers, emphasizing their roles in delivering value, but it primarily revolves around value delivery as a measurable outcome rather than a guiding belief. While there are mentions of collaboration and leadership shifts in Scrum, these concepts are not sufficiently developed in terms of the underlying values that shape decision-making and organizational culture. The discussion lacks a deep philosophical or ethical reflection on values themselves, focusing instead on functional roles and methodologies.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses roles and practices within Scrum, specifically focusing on the distinctions between Product Owners and Project Managers, as well as procedural insights about Agile methodologies. While there are mentions of broader impacts on organizational structure and dynamics, the discussion remains heavily focused on the 'how' of these practices rather than the philosophical underpinning or core beliefs that guide them. The content lacks an exploration of the foundational beliefs influencing these practices, thus falling short in meeting the criteria for the Philosophy category.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 52.0,
+    "ai_mentions": 10,
+    "ai_alignment": 27,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, which relates to Agile practices—part of the Discipline category. However, it focuses more on the distinction between roles and practical aspects rather than a deeper exploration of principles or the evolution of Agile as a discipline. While there is mention of how Scrum affects organizational structure and contributes to continuous improvement, these aspects are not the central focus. Overall, while it touches on the Discipline category, it leans more towards role definitions and methodologies rather than a thorough treatment of the systemic application and maturation of Agile as a discipline.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the roles of Product Owners and Project Managers within the Scrum framework but does not focus on artifacts themselves. While it touches on concepts like the product backlog, it does not explore artifacts in depth or their purpose, nor does it provide a structured discussion on types of artifacts or best practices for managing them. Therefore, while there is some conceptual alignment, the direct mentions and depth of discussion are lacking.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:54:44",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on distinguishing the roles of Product Owners and Project Managers within Scrum, along with broader Scrum impacts on organisational structure and value delivery. While there are hints of Agile principles that may relate to observability (like optimising flow and continuous improvement), there is no direct discussion on observability, its metrics, or its tools. The content does not address observability in a way that aligns with the specified category, limiting its relevance to the topic.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Time to Market",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content touches on the roles of Product Owners and Project Managers within the framework of Scrum, emphasizing value delivery and the organisational shift towards agile practices. However, while it references the need for value delivery in relation to market demands, it does not explicitly focus on Time to Market as a primary theme. The discussion of optimising delivery and flow metrics hints at improving Time to Market indirectly but lacks detailed exploration of specific metrics, strategies, or case studies directly addressing the core category. Therefore, the overall alignment is modest, reflected in the lower confidence score.",
+    "level": "Tertiary"
+  },
+  "Product Development": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Product Development",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 85.0,
+    "ai_mentions": 17,
+    "ai_alignment": 34,
+    "ai_depth": 32,
+    "non_ai_confidence": null,
+    "final_score": 85.0,
+    "reasoning": "The content primarily focuses on the roles within a Scrum framework, specifically the distinctions between a Product Owner and a Project Manager, which aligns well with product development methodologies. The discussion emphasizes the importance of value delivery, autonomy in teams, and the impacts of Scrum on organizational structure and leadership, which are core themes of product development. It also touches on continuous improvement practices through the lens of Agile. Given these aspects, the content shows a strong connection to the category with detailed exploration of Agile principles and practices.",
+    "level": "Primary"
+  },
+  "Practice": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses roles within Scrum and their implications for agile practices, but it primarily focuses on outlining the distinctions between Product Owners and Project Managers rather than actionable techniques for team practices. While it mentions concepts like flow metrics and continuous improvement, it lacks in-depth discussions on specific practices that would enhance team performance directly. The majority of the content would be categorized under understanding roles and adaptability within Scrum, which is not strictly actionable practice-focused content.",
+    "level": "Secondary"
+  },
+  "Company as a Product": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Company as a Product",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 55.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 60.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the roles of Product Owners and Project Managers in Scrum, which relates to the agile transformation of organizational structures and their impact on delivering value. There is some mention of cross-functional teams and organizational agility, which aligns with the CaaP principles. However, the content primarily focuses on the distinctions between roles within Scrum rather than a comprehensive exploration of treating the organization as a product. While it hints at organizational culture and value delivery, it lacks depth in discussing customer feedback integration and direct applications of CaaP. Thus, it is somewhat aligned but not a primary focus.",
+    "level": "Tertiary"
+  },
+  "Method": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 65.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within Scrum, touching briefly on their responsibilities and the impact of Scrum on organisations. While it does reference Agile practices and mentions Scrum, the primary focus is on explaining roles rather than detailing specific methods or structured procedures. The content does not deeply explore methodologies such as the Scrum process itself or provide step-by-step guidance, thus placing it more in the realm of discussion than method-centric analysis.",
+    "level": "Secondary"
+  },
+  "Unrealised Value": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Unrealised Value",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content discusses agile practices and roles, it primarily focuses on the differences between Product Owners and Project Managers and does not explicitly address the concept of Unrealised Value. The content touches on related topics such as value delivery and optimizing processes, but it lacks a direct discussion of untapped opportunities or unrealized potential, which are core to the category. The alignment with the core themes is minimal, and the depth of discussion does not sufficiently explore the indicators or strategies associated with Unrealised Value.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Scaling",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the differences between Product Owners and Project Managers in Scrum, focusing on roles rather than scaling methodologies or frameworks. While it touches on how Scrum impacts organizational structure and promotes team autonomy, it lacks a deep exploration of scaling frameworks, cross-team collaboration, or the management of dependencies. The mention of concepts like value delivery and flow metrics indicates some relevance, but overall, it does not engage sufficiently with the complexities of scaling Agile practices.",
+    "level": "Ignored"
+  },
+  "Model": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "While the content discusses Scrum roles and frameworks, it primarily focuses on the differences between Product Owners and Project Managers rather than on conceptual models or frameworks as prescribed by the Model category. The mention of value delivery and organisational agility is relevant, but the lack of a thorough exploration of specific models and decision-making frameworks reduces its alignment with the 'Model' category. The detail provided does not extensively delve into how models facilitate understanding or improve systems within Agile contexts.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Current Value",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 42.0,
+    "ai_mentions": 7,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the roles of Product Owners and Project Managers primarily in the context of Scrum, touching on aspects of value delivery through agile practices. However, while it mentions value delivery, the content does not deeply explore the concept of Current Value as defined in Evidence-Based Management. There are relevant metrics and discussions on value streams that might suggest alignment, but the focus remains more on role distinctions and agile practices rather than a comprehensive evaluation of Current Value metrics or real-time assessment indicators.",
+    "level": "Tertiary"
+  },
+  "Framework": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 68.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 68.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers specifically within the Scrum framework, which is a key Agile framework. It provides a clear distinction between the two roles and touches on the implications of Scrum on organizational structure and practices. However, while it addresses some aspects of the framework's implementation and impact, it lacks a broader examination of various frameworks or detailed best practices. The mention of continuous improvement and alignment with Lean and DevOps principles adds to its relevance, but the focus remains constrained to the roles within Scrum, which somewhat limits its scope in line with the specified category.",
+    "level": "Secondary"
+  },
+  "Tenet": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 65.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content primarily discusses the roles of Product Owners and Project Managers within the Scrum framework, providing insights into their distinct responsibilities and how these roles contribute to value delivery in Agile practices. It mentions concepts aligned with Agile tenets, such as adaptability and the importance of value delivery. However, the discussion does not focus heavily on specific, actionable guiding rules as outlined in the 'Tenet' category but rather elaborates on the roles and their implications. This leads to a moderate confidence score due to a fair amount of alignment with Agile principles, but lacking in prescriptive tenets and depth in actionable rules.",
+    "level": "Secondary"
+  },
+  "GitHub": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "GitHub",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "non_ai_confidence": null,
+    "final_score": 0.0,
+    "reasoning": "The content focuses entirely on Scrum roles and Agile practices without any mention or discussion of GitHub, its services, or its functionalities. Therefore, it does not align with the category of GitHub in any aspect.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on Scrum roles and mechanics rather than the principles of Agnostic Agile. While there are elements that touch upon value delivery and adaptability, the overall discussion remains heavily centered on specific Scrum practices and the distinction between Project Managers and Product Owners. It lacks a deeper exploration of ethical considerations, critical thinking, or case studies relevant to Agnostic Agile, thus positioning it poorly within the category.",
+    "level": "Ignored"
+  },
+  "Capability": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:54:45",
+    "ai_confidence": 25.0,
+    "ai_mentions": 15,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "While the content provides insights on roles and responsibilities of Product Owners and Project Managers within a Scrum framework, it primarily focuses on distinguishing these roles rather than discussing the underlying capabilities that empower teams and organizations. The mention of Scrum's impact on organizational structure and leadership styles is relevant, but the content lacks depth on specific capabilities being developed or how they enhance performance. The discussion on continuous improvement and agile practices is somewhat aligned, but the primary focus remains on individual roles rather than systemic capabilities.",
     "level": "Ignored"
   }
 }

@@ -2,23 +2,26 @@
 title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
 description: Transform your organisation's culture with Naked Agility. Discover how to optimise systems for maximum value and achieve engineering excellence today!
 date: 2024-12-21T06:00:00Z
+weight: 305
 ResourceId: KhKFVRcdbGo
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: KhKFVRcdbGo
 source: youtube
 url: /resources/videos/:slug
-slug: nkd-agility-your-partner-in-cost-effective-software-development
+slug: transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 layout: video
 aliases:
-- /resources/videos/KhKFVRcdbGo
-- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
-- /resources/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/KhKFVRcdbGo
-aliasesFor404:
+- /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
+- /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
+aliasesArchive:
+- /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/nkd-agility-your-partner-in-cost-effective-software-development
+- transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 preview: https://i9.ytimg.com/vi/KhKFVRcdbGo/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLCRuKU6K3gPE5C6uZZipWu40oSNPg
 duration: 150
 isShort: false
@@ -28,21 +31,11 @@ sitemap:
 resourceTypes:
 - video
 categories:
-- Engineering Excellence
-tags:
-- Metrics and Learning
-- Value Delivery
-- Operational Practices
-- Transparency
-- Technical Leadership
-- Evidence Based Leadership
-- Value Stream Management
-- People and Process
-- Business Agility
-- Decision Making
+- Uncategorized
+tags: []
 
 ---
-Creating a culture of engineering excellence within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.
+Creating a culture of [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.
 
 ### Understanding Your Current System
 
@@ -50,21 +43,21 @@ At Naked Agility, we focus on helping organisations understand their current sys
 
 - **Monitor the System**: We start by observing how your organisation currently operates. This involves looking at workflows, team dynamics, and existing processes.
 - **Identify the System**: Next, we define what your system of delivering value looks like. This clarity is essential for effective optimisation.
-- **Create Metrics**: We help you establish metrics that provide insight into your system. Transparency is key here; the more you can see, the better decisions you can make.
+- **Create Metrics**: We help you establish metrics that provide insight into your system. [Transparency]({{< ref "/tags/transparency" >}}) is key here; the more you can see, the better decisions you can make.
 
 ### Optimising for Value
 
 The ultimate aim of our work is to create the highest value optimisation within your specific context. Whether your goal is to reduce costs or, as I would advocate, to maximise value, we tailor our approach to meet your needs. 
 
 - **Maximising Value**: In my experience, focusing on maximising value leads to more sustainable outcomes. It’s not just about cutting costs; it’s about enhancing the quality and impact of what you deliver.
-- **Technical Leadership**: Achieving engineering excellence requires a commitment to understanding your system. This means measuring its performance and making informed changes to optimise your goals.
+- **[Technical Leadership]({{< ref "/categories/technical-leadership" >}})**: Achieving engineering excellence requires a commitment to understanding your system. This means measuring its performance and making informed changes to optimise your goals.
 
 ### Making Substantive Changes
 
 Once we have a clear understanding of your system and the metrics that matter, we can begin to implement substantive changes. This iterative process allows us to test and refine our approaches, ensuring that we are always moving towards your desired outcomes.
 
 - **Control Costs**: By understanding your system, you can better control costs without sacrificing quality.
-- **Achieve Technical Leadership**: With the right metrics and insights, you can position your organisation as a leader in technical excellence.
+- **Achieve Technical [Leadership]({{< ref "/categories/leadership" >}})**: With the right metrics and insights, you can position your organisation as a leader in [technical excellence]({{< ref "/tags/technical-excellence" >}}).
 
 ### Let’s Get Started
 

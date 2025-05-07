@@ -1,17 +1,32 @@
 {{ $jsonFile := .Page.Resources.GetMatch "data.index.classifications.json" }}
 {{ $jsonData := $jsonFile | unmarshal }}
-<div class="tags p-1">
+<div class="d-flex flex-wrap align-items-center gap-2 p-1" id="tag-container">
   {{ with .Params.tags }}
-    {{ range . }}
-      {{ $term := . }}
-      {{ $categoryData := index $jsonData $term }}
-      {{ if $categoryData }}
-        <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="btn btn-sm btn-secondary me-2" title="{{ $categoryData.reasoning }}&#10;&#10;Confidence: {{ $categoryData.final_score }}%&#10;Level: {{ $categoryData.level }}"> {{ $term }} </a>
-      {{ else }}
-        <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="btn btn-sm btn-secondary me-2">
-          {{ $term }}
-        </a>
-      {{ end }}
+    {{ $visible := first 5 . }}
+    {{ $hidden := after 5 . }}
+
+    {{ range $visible }}
+      {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-secondary me-0 px-1 py-0") }}
     {{ end }}
+    {{ if gt (len $hidden) 0 }}
+      {{ $count := len $hidden }}
+      <a id="expand-tags-btn" class="btn btn-sm btn-outline-secondary me-0 px-1 py-0" title="There are {{ $count }} more tags" href="#" onclick="document.querySelectorAll('.tag-hidden').forEach(e => e.classList.remove('tag-hidden')); this.classList.add('d-none'); return false;"> … {{ $count }} more </a>
+    {{ end }}
+
+    {{ range $hidden }}
+      {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-secondary me-0 tag-hidden px-1 py-0" ) }}
+    {{ end }}
+
   {{ end }}
 </div>
+<style>
+  .tag-hidden {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    display: none;
+  }
+  .tag-hidden.show {
+    display: inline-block;
+    opacity: 1;
+  }
+</style>

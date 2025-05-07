@@ -2,39 +2,45 @@
 title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
 description: Discover the hidden costs of poor-quality code with Martin Hinshelwood. Learn how investing in quality boosts productivity and protects your brand.
 date: 2024-11-19T09:58:28Z
+weight: 230
 ResourceId: 1AO6FFBlE4Y
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1AO6FFBlE4Y
 source: internal
 url: /resources/videos/:slug
 aliases:
-- /resources/videos/1AO6FFBlE4Y
-- /resources/videos/the-high-cost-of-poor-quality-code-
-- /resources/the-high-cost-of-poor-quality-code-
 - /resources/1AO6FFBlE4Y
-aliasesFor404:
+- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+- /resources/videos/the-high-cost-of-poor-quality-code
+- /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
+aliasesArchive:
+- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 - /resources/videos/the-high-cost-of-poor-quality-code-
 - /resources/the-high-cost-of-poor-quality-code-
+- the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+- /resources/videos/the-high-cost-of-poor-quality-code
+- /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
 preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
 duration: 600
 isShort: false
 tags:
 - Engineering Practices
-- Code and Complexity
-- Technical Debt
-- Technical Mastery
-- Technical Excellence
-- Working Software
-- Product Delivery
 - Operational Practices
 - Software Development
-- Software Developers
+- Technical Mastery
+- Technical Debt
+- Technical Excellence
+- Value Delivery
+- Pragmatic Thinking
+- Working Software
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-slug: the-high-cost-of-poor-quality-code-
+slug: the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 layout: video
 resourceTypes:
 - video
@@ -58,7 +64,7 @@ Beyond the obvious, there are hidden costs that many organizations don’t accou
 
 1. Brand Reputation
 
-    Your product’s quality reflects on your brand. A high-profile example is CrowdStrike, which faced massive global fallout due to poor engineering practices. Here’s what happens:
+    Your product’s quality reflects on your brand. A high-profile example is CrowdStrike, which faced massive global fallout due to poor [engineering practices]({{< ref "/tags/engineering-practices" >}}). Here’s what happens:
     - Poor-quality products or processes damage trust.
     - Customers notice when you cut corners, and your competitors will capitalize on that.
 
@@ -74,7 +80,7 @@ Every hour your team spends fixing old problems is an hour they’re not innovat
 - What features are you not shipping because your team is buried in avoidable work?
 - What competitive edge are you losing because you can’t move quickly?
 
-Let me share one of my favorite examples: the Azure DevOps team. They went from needing 72 hours to validate their code to just 3.5 minutes by paying down technical debt. The result? They tripled their productivity, delivering 60+ features to production in a year where they weren’t even focused on features. Imagine what your team could achieve with that kind of efficiency.
+Let me share one of my favorite examples: the Azure [DevOps]({{< ref "/categories/devops" >}}) team. They went from needing 72 hours to validate their code to just 3.5 minutes by paying down [technical debt]({{< ref "/tags/technical-debt" >}}). The result? They tripled their productivity, delivering 60+ features to production in a year where they weren’t even focused on features. Imagine what your team could achieve with that kind of efficiency.
 
 ## The Technical Debt Trap
 
@@ -88,10 +94,10 @@ Technical debt isn’t just about cost—it’s about missed opportunities. Thin
 Turning poor-quality code into a superpower isn’t easy, but it’s absolutely worth it. Here’s how to get started:
 
 1. Reduce Branching
-    Aim for a simpler branching strategy. Consolidate where possible and focus on continuous integration.
+    Aim for a simpler branching strategy. Consolidate where possible and focus on [continuous integration]({{< ref "/tags/continuous-integration" >}}).
 2. Limit Versions
     Support only the latest version of your product (with rare exceptions). This minimizes backporting and reduces complexity.
-3. Invest in Engineering Excellence
+3. Invest in [Engineering Excellence]({{< ref "/categories/engineering-excellence" >}})
     Prioritize refactoring and modern engineering practices, like:
     - Small, discrete unit tests over long-running system tests.
     - Reducing feedback loops to catch issues early.
@@ -106,6 +112,6 @@ When you commit to high-quality code, the benefits are exponential:
 - **Happier customers:** Fewer bugs and more features lead to higher satisfaction.
 - **Stronger brand reputation:** Consistency builds trust.
 
-Investing in quality is like paying off a loan—you make small, consistent payments over time, but the payoff is enormous. With high-quality, working software delivered regularly, your organization can achieve its full potential.
+Investing in quality is like paying off a loan—you make small, consistent payments over time, but the payoff is enormous. With high-quality, [working software]({{< ref "/tags/working-software" >}}) delivered regularly, your organization can achieve its full potential.
 
 So, what’s holding you back? Start investing in your team’s engineering practices today, and watch as your organization transforms.

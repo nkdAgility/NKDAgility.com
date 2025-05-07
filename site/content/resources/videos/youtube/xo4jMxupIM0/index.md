@@ -2,48 +2,48 @@
 title: 'Unlocking the Power of Double-Loop Learning: Transform Your Scrum Master Journey with Immersive Training'
 description: Unlock your Scrum potential with immersive learning! Discover double-loop learning, diverse perspectives, and collaborative solutions in our PSM class.
 date: 2023-11-20T07:51:59Z
+weight: 750
 ResourceId: xo4jMxupIM0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xo4jMxupIM0
 source: youtube
-url: /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/xo4jMxupIM0/maxresdefault.jpg
-duration: 240
+duration: 233
 isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 aliases:
-- /resources/videos/xo4jMxupIM0
-- /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
-- /resources/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/xo4jMxupIM0
-aliasesFor404:
+- /resources/videos/unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
+- /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 - /resources/videos/what-makes-the-psm-immersive-learning-experience-so-unique
 - /resources/what-makes-the-psm-immersive-learning-experience-so-unique
+- unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 resourceTypes:
 - video
-slug: what-makes-the-psm-immersive-learning-experience-so-unique
+slug: unlocking-the-power-of-double-loop-learning-transform-your-scrum-master-journey-with-immersive-training
 layout: video
 tags:
-- Agile Project Management
-- People and Process
-- Professional Scrum
-- Discovery and Learning
 - Scrum Master
-- Continuous Learning
-- Team Collaboration
-- Pragmatic Thinking
-- Events and Presentations
-- Coaching
-categories:
-- Scrum
 - Social Technologies
+- Team Collaboration
+- Team Performance
+- Continuous Learning
+- Pragmatic Thinking
+- Professional Scrum
+categories:
+- Product Development
+- Scrum
 
 ---
-In my journey as a Scrum Master, I've often found that the most profound learning experiences come not just from theory, but from the practical application of that theory in real-world scenarios. This is precisely what the Professional Scrum Master (PSM) immersive learning experience offers—a unique opportunity for double-loop learning. 
+In my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I've often found that the most profound learning experiences come not just from theory, but from the practical application of that theory in real-world scenarios. This is precisely what the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) immersive learning experience offers—a unique opportunity for double-loop learning. 
 
 ### The Power of Double-Loop Learning
 

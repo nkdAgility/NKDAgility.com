@@ -2,8 +2,10 @@
 title: The Power of Technical Excellence in Agile Development
 description: Unlock the secrets of Agile success! Discover how prioritising technical excellence over speed can transform your software development and deliver exceptional value.
 date: 2024-06-27T06:45:00Z
+weight: 150
 ResourceId: JTYCRehkN5U
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JTYCRehkN5U
@@ -15,33 +17,47 @@ preview: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg
 duration: 1219
 isShort: false
 aliases:
-- /resources/the-power-of-technical-excellence-in-agile-development
-- /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
-- /resources/videos/JTYCRehkN5U
-- /resources/the-critical-role-of-technical-excellence-in-agile-software-development
 - /resources/JTYCRehkN5U
-aliasesFor404:
+- /resources/videos/the-power-of-technical-excellence-in-agile-development
+- /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
+aliasesArchive:
+- /resources/videos/the-power-of-technical-excellence-in-agile-development
 - /resources/the-power-of-technical-excellence-in-agile-development
 - /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
 - /resources/the-critical-role-of-technical-excellence-in-agile-software-development
+- the-power-of-technical-excellence-in-agile-development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Software Development
+- Product Delivery
+- Technical Debt
+- Technical Mastery
+- Value Delivery
+- Working Software
+- Engineering Practices
+- Pragmatic Thinking
+- Operational Practices
+- Technical Excellence
+- Definition of Done
+- Increment
+- Competence
 resourceTypes:
 - video
 categories:
 - Engineering Excellence
+- Product Development
+- Technical Leadership
 
 ---
-In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As Scrum and Agile practitioners, we often discuss the importance of technical excellence, but it's more than just a concept—it's the cornerstone of risk mitigation and successful product delivery. Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.
+In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As [Scrum]({{< ref "/categories/scrum" >}}) and Agile practitioners, we often discuss the importance of [technical excellence]({{< ref "/tags/technical-excellence" >}}), but it's more than just a concept—it's the cornerstone of risk mitigation and successful [product delivery]({{< ref "/tags/product-delivery" >}}). Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.
 
 ## **Why Technical Excellence Matters**
 
 ### **Usable Working Product Every Iteration**
 
-One of the key principles in Scrum and Agile is ensuring that we have a usable working product at the end of each iteration. This isn't just a nice-to-have—it's a necessity. In traditional, linear project management models, where we know most of the details upfront, risk is mitigated through extensive planning. However, in a high-variance environment, this approach simply doesn't work.
+One of the key principles in Scrum and Agile is ensuring that we have a usable working product at the end of each iteration. This isn't just a nice-to-have—it's a necessity. In traditional, linear [project management]({{< ref "/tags/project-management" >}}) models, where we know most of the details upfront, risk is mitigated through extensive planning. However, in a high-variance environment, this approach simply doesn't work.
 
 ### **Planning in Low-Variance vs. High-Variance Environments**
 
@@ -51,11 +67,11 @@ One of the key principles in Scrum and Agile is ensuring that we have a usable w
 
 ### **The Myth of Sacrificing Quality for Speed**
 
-A common myth in the software industry is that it's acceptable to sacrifice some quality to meet market demands faster. However, this trade-off is not only flawed but can be detrimental in the long run. Sacrificing quality often leads to increased technical debt and a product that is harder to maintain, less reliable, and ultimately less valuable to customers.
+A common myth in the software industry is that it's acceptable to sacrifice some quality to meet market demands faster. However, this trade-off is not only flawed but can be detrimental in the long run. Sacrificing quality often leads to increased [technical debt]({{< ref "/tags/technical-debt" >}}) and a product that is harder to maintain, less reliable, and ultimately less valuable to customers.
 
-**Real-World Example: The Azure DevOps Transformation**
+**Real-World Example: The Azure [DevOps]({{< ref "/categories/devops" >}}) Transformation**
 
-One of the most compelling examples of the power of technical excellence comes from the Azure DevOps team at Microsoft. In 2012, this team transitioned from a waterfall model, delivering to production every two years, to a more Agile approach with three-week iterations. The results were astounding.
+One of the most compelling examples of the power of technical excellence comes from the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) team at Microsoft. In 2012, this team transitioned from a waterfall model, delivering to production every two years, to a more Agile approach with three-week iterations. The results were astounding.
 
 ### **From 24 to 280 Features per Year**
 
@@ -67,11 +83,11 @@ One of the most compelling examples of the power of technical excellence comes f
 
 The Azure DevOps team didn't achieve this transformation by cutting corners. Instead, they focused on paying back technical debt and building technical excellence into their processes. This allowed them to deliver more value to customers, faster, and with higher quality.
 
-## **Defining and Establishing a "Definition of Done"**
+## **Defining and Establishing a "[Definition of Done]({{< ref "/tags/definition-of-done" >}})"**
 
 ### **The Foundation of Technical Excellence**
 
-A crucial aspect of technical excellence is having a well-defined "Definition of Done" (DoD). The DoD is not just a checklist; it's the foundation upon which technical excellence is built. It ensures that every increment of work meets a minimum standard of quality, reducing the risk of delivering a subpar product.
+A crucial aspect of technical excellence is having a well-defined "Definition of Done" (DoD). The DoD is not just a checklist; it's the foundation upon which technical excellence is built. It ensures that every [increment]({{< ref "/tags/increment" >}}) of work meets a minimum standard of quality, reducing the risk of delivering a subpar product.
 
 ### **What Should Your Definition of Done Include?**
 
@@ -81,7 +97,7 @@ A crucial aspect of technical excellence is having a well-defined "Definition of
 
 - **Real Users**: The DoD should ensure that each iteration delivers something usable by real users, not just in a test environment.
 
-### **The Role of the Scrum Team**
+### **The Role of the [Scrum Team]({{< ref "/tags/scrum-team" >}})**
 
 If your organization doesn't have a DoD, it's up to the Scrum team, particularly the developers, to create one. This DoD should be relevant to your product and stringent enough to ensure that you're delivering a usable working product every Sprint.
 
@@ -89,9 +105,9 @@ If your organization doesn't have a DoD, it's up to the Scrum team, particularly
 
 ### **Reduced Risk**
 
-By focusing on technical excellence and delivering a working product at the end of every iteration, you significantly reduce the risks associated with development. Continuous delivery allows for regular feedback, early detection of issues, and the ability to pivot when necessary.
+By focusing on technical excellence and delivering a working product at the end of every iteration, you significantly reduce the risks associated with development. [Continuous delivery]({{< ref "/tags/continuous-delivery" >}}) allows for regular feedback, early detection of issues, and the ability to pivot when necessary.
 
-### **Increased Value Delivery**
+### **Increased [Value Delivery]({{< ref "/tags/value-delivery" >}})**
 
 Technical excellence enables teams to deliver more features, faster, and with higher quality. As seen with the Azure DevOps team, this focus can lead to a dramatic increase in the number of features delivered, enhancing the product's value to customers.
 

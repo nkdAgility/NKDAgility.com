@@ -2,35 +2,41 @@
 title: 'Empowering Agile Teams: Why Understanding Product Vision is Key to Success'
 description: Unlock your team's potential by ensuring they grasp the product vision and strategic goals. Discover practical steps to foster alignment and agility!
 date: 2024-07-03T06:45:00Z
+weight: 640
 ResourceId: 2tlzlsgovy0
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 2tlzlsgovy0
 url: /resources/videos/:slug
-slug: 6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
+slug: empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
 aliases:
-- /resources/videos/2tlzlsgovy0
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
 - /resources/2tlzlsgovy0
-aliasesFor404:
+- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
+- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
+aliasesArchive:
+- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
+- empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
 preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
 duration: 56
 isShort: true
 tags:
-- Strategic Goals
-- People and Process
-- Agile Product Management
-- Agile Product Operating Model
-- Agile Values and Principles
 - Agile Strategy
-- Strategy
-- Organisational Agility
-- Value Delivery
+- Common Goals
+- Team Motivation
+- Strategic Goals
+- Agile Philosophy
 - Agile Leadership
+- Organisational Agility
+- Product Strategy
+- Agile Transformation
+- Agile Values and Principles
+- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,10 +45,11 @@ layout: video
 resourceTypes:
 - video
 categories:
+- Product Development
 - Product Management
 
 ---
-In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and strategic goals?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 
+In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}})?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 
 
 When I engage with teams, I often ask them to articulate the product vision and strategic objectives. If I see puzzled faces or hear responses that indicate they need to look something up, it’s a clear sign that we have a disconnect. Without a shared understanding of these elements, we risk undermining our agility. 
 
@@ -54,7 +61,7 @@ A well-defined product vision serves as the North Star for your team. It should 
 - **Team Alignment**: How does each member's daily work contribute to these goals?
 - **Context for Decision-Making**: Are the individuals making technical decisions equipped with the necessary context to maximise value?
 
-If your team members can’t articulate the vision, it’s likely they don’t grasp how their contributions fit into the bigger picture. This lack of understanding can lead to inefficiencies and a failure to adapt to changing circumstances—two things that are antithetical to the agile philosophy.
+If your team members can’t articulate the vision, it’s likely they don’t grasp how their contributions fit into the bigger picture. This lack of understanding can lead to inefficiencies and a failure to adapt to changing circumstances—two things that are antithetical to the [agile philosophy]({{< ref "/tags/agile-philosophy" >}}).
 
 ### Empowering Teams Through Responsibility
 

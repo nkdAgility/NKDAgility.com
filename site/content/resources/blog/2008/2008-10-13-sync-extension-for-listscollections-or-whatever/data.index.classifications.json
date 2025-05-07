@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses technical implementation of list synchronization in programming, with no relevance to Agile Product Management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:38:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a coding solution for syncing lists, with no focus on Agile, DevOps, or related literature.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T11:39:25",
@@ -37,11 +28,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical implementation of syncing lists in .NET, which relates to engineering practices, but it does not delve deeply into broader methodologies or principles of technical excellence.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on a specific coding solution for synchronising lists in .NET, which is a technical topic. However, it lacks explicit discussions on broader engineering practices or methodologies that enhance agility in software development. While it demonstrates a technical solution, it does not delve into concepts like TDD, CI/CD, or modular architecture, which are central to the category of Technical Excellence. The depth of discussion is limited to the implementation details of the code without exploring its implications on software engineering practices.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -53,49 +47,16 @@
     "reasoning": "Content primarily discusses technical implementation of syncing lists and collections, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:39:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a coding solution for syncing lists, with no reference to events or presentations.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:39:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation of syncing lists in programming, with no mention of Scrum principles, roles, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:39:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content heavily discusses technical implementation of syncing lists and does not address organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:39:36",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses syncing lists in programming without any reference to DevOps principles, practices, or tools.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:39:38",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses a coding solution for syncing lists and does not relate to AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, which does not align with the core principles of DevOps. There are no direct mentions of DevOps concepts such as collaboration, automation, or shared accountability. The discussion lacks depth regarding DevOps practices and does not address any of the key topics outlined in the DevOps category.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,21 +79,15 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:39:41",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation of syncing lists in .NET, with no reference to Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, with no direct mention or discussion of Agile methodologies, product management principles, or the Agile Product Operating Model. It lacks any alignment with the core themes of APOM, such as continuous delivery or customer-centric value, and provides minimal depth on any related topics.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a practical technique for synchronising lists in .NET, which aligns with the exploration of tooling and methodologies, but it is primarily focused on a specific coding solution rather than broader Agile or DevOps practices.",
-    "level": "Tertiary"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -154,10 +109,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-16T11:39:46",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a coding solution for syncing lists, without focusing on installation or configuration processes.",
     "level": "Ignored"
   },
@@ -172,29 +127,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:39:48",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation of syncing lists in programming, with no relevance to Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content primarily discusses a specific coding implementation for syncing lists, which touches on code quality and complexity in terms of managing state and threading. However, it does not delve deeply into broader principles or best practices related to code quality or complexity theory.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:39:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on a technical implementation of syncing lists in code, lacking relevance to industry news or reviews.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, with no direct mention or discussion of Evidence-Based Management principles. It lacks alignment with the core themes of EBM, such as data-informed decision-making or metrics related to value delivery. The depth of discussion is also minimal, as it does not explore any empirical evidence or strategic management concepts.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,19 +175,19 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:39:57",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a coding solution for synchronising lists, with no focus on metrics, learning, or Agile/DevOps principles.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T11:39:58",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a coding solution for syncing lists and does not address the principles or practices of the One Engineering System.",
     "level": "Ignored"
   },
@@ -278,15 +218,6 @@
     "reasoning": "Content primarily discusses a technical implementation of syncing lists in code, with no personal reflections or experiences related to Agile, Scrum, or DevOps.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:40:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily focuses on technical implementation details of syncing lists, with no clear emphasis on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T11:40:04",
@@ -294,15 +225,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a coding solution for syncing lists, with no mention of Azure DevOps or its functionalities.",
-    "level": "Ignored"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:40:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses a technical implementation of syncing lists in code, with no focus on transparency or accountability principles.",
     "level": "Ignored"
   },
   "Application Lifecycle Management": {
@@ -321,15 +243,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation of syncing lists in programming, with no focus on Systems Thinking principles or organisational dynamics.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:40:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical implementation of syncing lists in code, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -442,11 +355,14 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily discusses a specific implementation technique for syncing collections in .NET, which relates to software craftsmanship and engineering practices.",
+    "final_score": 67.0,
+    "reasoning": "The content primarily focuses on a specific coding solution for synchronising lists in .NET, which demonstrates a technical skill. However, while it touches on aspects of software craftsmanship, such as code quality and threading considerations, it lacks a broader discussion on best practices, principles, or methodologies that would elevate it to a comprehensive exploration of Technical Mastery. The depth of the discussion is moderate, providing a clear example but not delving into the implications or best practices surrounding the technique.",
     "level": "Secondary"
   },
   "Accountability": {
@@ -467,7 +383,7 @@
     "reasoning": "Content focuses on syncing lists in programming and does not discuss Agile methodologies or scaling Agile practices.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:43:27",
     "ai_confidence": 0,
@@ -483,15 +399,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses syncing lists in a programming context, which is unrelated to Site Reliability Engineering principles.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on technical implementation of list synchronization in programming, with no discussions related to Agile Project Management principles or methodologies.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -640,12 +547,15 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical implementation of syncing lists in software development, which relates to software craftsmanship and coding practices. However, it does not extensively address broader topics of engineering excellence such as best practices, continuous improvement, or systematic quality assurance.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a specific coding implementation for synchronising lists in .NET, which does not directly address broader themes of engineering excellence such as software craftsmanship, best practices, or continuous improvement. While it does touch on coding practices, it lacks a comprehensive discussion on quality assurance, testing methodologies, or the impact of such practices on overall engineering performance. The technical details provided are more about a specific solution rather than promoting high standards in software development.",
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -663,24 +573,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses syncing lists in programming and does not relate to estimation in Agile or Scrum frameworks.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is focused on a technical implementation of syncing lists in programming, without discussing Agile, DevOps, or related methodologies.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily focuses on synchronizing lists and collections in programming, with no relevance to AI, Agile, DevOps, or software development methodologies relating to AI.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -721,12 +613,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 35,
+    "ai_depth": 30,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content primarily focuses on a programming technique to sync two lists in .NET, which falls under software development practices and coding techniques.",
-    "level": "Secondary"
+    "final_score": 82.0,
+    "reasoning": "The content provides a detailed code example for synchronising two lists in a .NET context, which directly relates to software development practices. It discusses the implementation of a method that applies a delta to synchronise collections, showcasing coding techniques and considerations for thread safety. The focus on coding practices and the specific example aligns well with the core themes of software development, particularly in coding and software design. The depth of discussion is significant due to the detailed code provided, which illustrates a practical application of software engineering principles.",
+    "level": "Primary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -735,15 +630,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation of list synchronization, which is unrelated to Agile frameworks.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses syncing lists in programming and does not relate to Scaled Agile frameworks, practices, or any enterprise-level initiatives.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +670,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T11:43:27",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses a technical implementation of syncing lists in programming, without any focus on innovation practices or the Ability to Innovate.",
     "level": "Ignored"
   },
@@ -838,12 +724,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses a technical implementation related to synchronizing lists, which relates to coding practices but lacks a strong focus on Agile methodologies, clean code, or other core engineering practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on a specific coding implementation for synchronising lists in .NET, which does not directly address the core themes of Engineering Practices such as clean code, TDD, or CI/CD. While it does touch on aspects of coding practices, it lacks a broader discussion on methodologies or principles that enhance software engineering quality. The mention of locking objects for thread safety is relevant but does not constitute a comprehensive exploration of engineering practices.",
+    "level": "Ignored"
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -865,10 +754,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T11:43:27",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses a technical implementation for syncing lists and does not relate to Definition of Done criteria or principles.",
     "level": "Ignored"
   },
@@ -883,11 +772,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses synchronizing lists in programming and does not relate to Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, which does not relate to Continuous Delivery principles or practices. There are no direct mentions of Continuous Delivery, and the discussion lacks alignment with the core themes such as automation, incremental improvements, or software quality. The depth of discussion is limited to a specific coding example without any broader context or relevance to Continuous Delivery.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -998,21 +890,12 @@
     "reasoning": "Content primarily discusses a programming implementation for syncing lists and does not relate to empirical process control or Agile methodologies.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on synchronizing data structures in programming, with no relevance to Kanban principles or practices.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T11:43:27",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on coding techniques for syncing lists and does not address any aspects of the Definition of Ready in Agile.",
     "level": "Ignored"
   },
@@ -1045,19 +928,22 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 0.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses list synchronization and does not address Test First Development principles or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, with no direct mention or discussion of Test First Development principles, success criteria, or testing practices. It lacks any reference to automated or manual testing methodologies, making it irrelevant to the category.",
     "level": "Ignored"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-16T11:43:27",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses syncing lists in programming, which is not related to source control practices.",
     "level": "Ignored"
   },
@@ -1214,31 +1100,28 @@
     "reasoning": "Content primarily discusses the synchronization of lists in code, which is unrelated to deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation of syncing lists in programming, with no clear relevance to Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
-    "calculated_at": "2025-02-17T09:13:18",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content provides a code example related to syncing lists, which implies potential troubleshooting scenarios if the code does not work as expected. However, the primary focus seems to be on demonstrating functionality rather than explicitly troubleshooting.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on a coding solution for syncing two lists, which does not directly address troubleshooting issues. While it mentions the importance of locking objects to prevent threading issues, it lacks a comprehensive discussion on diagnosing or resolving technical problems. The content is more about implementation than troubleshooting methodologies, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses technical implementation details of list synchronization and does not relate to the role or responsibilities of a Scrum Master.",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on a technical implementation of syncing lists in .NET, with no mention or discussion of Scrum Master responsibilities, roles, or related concepts. It does not align with the core themes of the Scrum Master category, nor does it provide any depth on the subject.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,10 +1153,10 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:43:27",
+    "calculated_at": "2025-04-10T15:56:28",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses technical implementation details of syncing lists and collections, which is unrelated to Agile values and principles.",
     "level": "Ignored"
   },
@@ -1284,15 +1167,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content discusses the implementation of a syncing mechanism for lists/collections without any mention of Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily about syncing lists in programming and does not discuss any aspects of Scaling Scrum.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1205,6 @@
     "reasoning": "Content primarily discusses a coding solution for syncing lists in .NET, which is more about software development rather than system configuration.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:43:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses coding techniques for syncing lists and collections, with no relevance to scaling agility or agile practices.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T11:43:27",
@@ -1360,11 +1225,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:06:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses a technical implementation of syncing lists in code, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, with no explicit discussion of social technologies, collaboration, or decision-making frameworks. While it touches on data management, it lacks depth in addressing the core themes of social technologies, such as self-organisation or collective intelligence.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1242,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content heavily discusses technical implementation details related to syncing lists and collections, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:40:15",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a coding solution for syncing lists and does not relate to Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:40:16",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses a coding solution for synchronising lists, with no mention of AI or its application in Agile, DevOps, or software development.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in a programming context, with no direct mentions of Scrum principles, roles, or practices. While there is a brief mention of threading and object locking, which could relate to team dynamics in a very abstract way, it does not align with the core themes of Scrum or provide any depth of discussion on the framework.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of synchronising lists in .NET, with no explicit discussion of the Shift-Left Strategy or its principles. It lacks any mention of integrating testing, security, or compliance early in the development process, which are core themes of the Shift-Left Strategy. The depth of discussion is limited to code and its functionality, with no broader context or relevance to the Shift-Left approach.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, which does not directly address Continuous Improvement principles. While there is a mention of enhancing coding skills, it lacks a discussion on empirical evidence, data-driven decision-making, or any strategies for fostering a culture of experimentation and learning. The content does not provide depth or detail related to Continuous Improvement, making it largely irrelevant to the category.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, with no explicit discussion of Common Goals or their significance in Agile or DevOps. While it touches on improving coding skills and data management, it lacks any connection to shared objectives or strategic alignment, which are central to the Common Goals category.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, which does not directly address the concept of competence in Agile or DevOps. While it mentions enhancing coding skills, this is a brief reference and lacks depth in discussing continuous learning or professional development. The core themes of competence, such as quality outcomes and fostering a culture of competence, are not present in the content.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:28",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on a technical implementation of syncing lists in .NET, with no explicit discussion of Agentic Agility or its principles. While there is a mention of adapting data management practices, it lacks depth and does not address the intentional shaping of outcomes, human or AI agency, or the broader implications of agility in socio-technical environments.",
     "level": "Ignored"
   }
 }

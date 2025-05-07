@@ -2,8 +2,10 @@
 title: Why is the Professional Agile Leadership - Essentials course a natural evolution for an experienced Scrum Master?
 description: Discover why the Professional Agile Leadership Essentials course is the next step for Scrum Masters and Agile coaches in their leadership journey.
 date: 2023-07-27T07:00:04Z
+weight: 640
 ResourceId: 7R9_bYOswhk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 7R9_bYOswhk
@@ -14,47 +16,38 @@ preview: https://i.ytimg.com/vi/7R9_bYOswhk/maxresdefault.jpg
 duration: 143
 isShort: false
 aliases:
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master-2
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
-- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
-- /resources/videos/7R9_bYOswhk
 - /resources/7R9_bYOswhk
-aliasesFor404:
+- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
+- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
+aliasesArchive:
+- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master-2
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
+- why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Scrum Master
-- People and Process
-- Agile Leadership
-- Agile Project Management
-- Agile Frameworks
-- Technical Leadership
-- Scrum Team
-- Mentoring
 resourceTypes:
 - video
 layout: video
 categories:
 - Leadership
 - Scrum
-- Social Technologies
 
 ---
-## Ascending the Leadership Ladder
+## Ascending the [Leadership]({{< ref "/categories/leadership" >}}) Ladder
 
-A recurring question I've been getting, which is both pertinent and insightful in the Agile world, is: "Why is the Professional Agile Leadership Essentials class viewed as the core evolution for a seasoned Scrum Master?"
+A recurring question I've been getting, which is both pertinent and insightful in the Agile world, is: "Why is the Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials class viewed as the core evolution for a seasoned [Scrum]({{< ref "/categories/scrum" >}}) Master?"
 
 Delving into this course is more than just an academic pursuit; it's a strategic climb up the leadership ladder.  🎯
 
 ## The Two Pillars of Evolution
 
-I've always said that there are two primary reasons, two significant aspects that drive this natural evolution for a Scrum Master.
+I've always said that there are two primary reasons, two significant aspects that drive this natural evolution for a [Scrum Master]({{< ref "/tags/scrum-master" >}}).
 
 Let's take a closer look at these two points:
 
@@ -90,7 +83,7 @@ For those who've been traversing the Scrum journey and are now at the crossroads
 
 Our courses are created to guide you, illuminate less travelled paths, and offer profound and actionable  Scrum and Agile insights.
 
-Let's converse if any of this resonates with you or triggers a tiny spark of curiosity about Agile, Scrum, or even the broader realm of DevOps.
+Let's converse if any of this resonates with you or triggers a tiny spark of curiosity about Agile, Scrum, or even the broader realm of [DevOps]({{< ref "/categories/devops" >}}).
 
 If you wish to engage in anything Agile, Scrum, or DevOps, please grab a coffee slot with me through Naked Agility.
 

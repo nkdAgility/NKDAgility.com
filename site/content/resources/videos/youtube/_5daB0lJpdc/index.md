@@ -2,8 +2,10 @@
 title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmatism'
 description: Uncover the truth about agile certifications! Join Martin as he challenges perceptions and reveals their impact on learning and growth in the agile world.
 date: 2023-12-28T08:40:54Z
+weight: 1000
 ResourceId: _5daB0lJpdc
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _5daB0lJpdc
@@ -14,39 +16,42 @@ preview: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
 duration: 372
 isShort: false
 aliases:
-- /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
-- /resources/videos/_5daB0lJpdc
-- /resources/videos/5-ghosts-of-agile-past-certification
-- /resources/5-ghosts-of-agile-past-certification
 - /resources/_5daB0lJpdc
-aliasesFor404:
+- /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+- /resources/videos/5-ghosts-of-agile-past-certification
+- /resources/videos/introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
+aliasesArchive:
+- /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/videos/5-ghosts-of-agile-past-certification
 - /resources/5-ghosts-of-agile-past-certification
+- introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+- /resources/videos/introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Pragmatic Thinking
+- Agile Transformation
+- Agile Values and Principles
+- Software Development
+- Agile Philosophy
+- Organisational Agility
 resourceTypes:
 - video
 layout: video
 categories:
-- Scrum
-- Social Technologies
-- Leadership
+- Product Development
 
 ---
 In the world of Agile, one ghost that haunts us is dogma. If you've been in Agile long enough, you've probably encountered those dogmatic individuals who cling to a rigid set of beliefs, refusing to adapt or consider the actual data, feedback, or experiences of the people around them. These folks? They need to be shown the door 🚪. Agile is about flexibility, adaptation, and collaboration—dogma has no place here.
 
 ## **Pragmatism vs Dogmatism in Agile**
 
-Let's get one thing straight: while I strive to be pragmatic almost 100% of the time when working with teams, there are times when I can get a bit pedantic. And that’s usually in a training environment, where precision and clarity matter. If I'm teaching Scrum, Continuous Delivery, or any other framework or technology, I will be very specific about terminology—what things are called, why they are called that, and how they interact with other elements.
+Let's get one thing straight: while I strive to be pragmatic almost 100% of the time when working with teams, there are times when I can get a bit pedantic. And that’s usually in a training environment, where precision and clarity matter. If I'm teaching [Scrum]({{< ref "/categories/scrum" >}}), [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}), or any other framework or technology, I will be very specific about terminology—what things are called, why they are called that, and how they interact with other elements.
 
 Why? Because it’s essential to understand the language and the principles behind what we’re learning. Whether you’re learning Scrum or mastering C#, the words we use and the definitions matter. But that precision shouldn’t bleed into dogma when we’re back in the real world working with teams. This is where we need to shift from pedantry to pragmatism.
 
-### **Real-World Example: A Fired Scrum Master**
+### **Real-World Example: A Fired [Scrum Master]({{< ref "/tags/scrum-master" >}})**
 
 Let me share a story to highlight the importance of being pragmatic. A good friend and mentor of mine, Stephen Borg, once told me about a Scrum Master who got fired. Now, it’s not often you hear about Scrum Masters being let go, but in this case, the reason was their rigid, dogmatic approach.
 
@@ -64,7 +69,7 @@ However, this Scrum Master didn’t see it that way. To them, the rule was clear
 
 ## **The Importance of Flexibility in Agile**
 
-This brings us to the heart of the matter—why dogma can be so damaging in Agile. Dogma is rooted in blind belief, in adhering to a set of principles or rules regardless of the evidence to the contrary. Agile, on the other hand, thrives on continuous learning, experimentation, and iteration. In the example above, the team demonstrated _true_ agility by adapting their process to better suit the needs of the individuals involved. Sitting down didn’t make them any less Agile; in fact, it showed their commitment to the values that define Scrum.
+This brings us to the heart of the matter—why dogma can be so damaging in Agile. Dogma is rooted in blind belief, in adhering to a set of principles or rules regardless of the evidence to the contrary. Agile, on the other hand, thrives on [continuous learning]({{< ref "/tags/continuous-learning" >}}), [experimentation]({{< ref "/tags/experimentation" >}}), and iteration. In the example above, the team demonstrated _true_ agility by adapting their process to better suit the needs of the individuals involved. Sitting down didn’t make them any less Agile; in fact, it showed their commitment to the values that define Scrum.
 
 If you’re not adapting, you’re not Agile. If you’re following rules just for the sake of following them—without understanding their purpose—you’re missing the point. And that’s where dogma rears its ugly head.
 
@@ -86,7 +91,7 @@ However, when it comes to working with teams in the real world, pragmatism shoul
 
 - Meet teams where they are, not where you think they should be.
 
-- Focus on outcomes and value delivery, not strict adherence to rules 🛠️.
+- Focus on outcomes and [value delivery]({{< ref "/tags/value-delivery" >}}), not strict adherence to rules 🛠️.
 
 - Encourage open dialogue and experimentation to find what works best.
 

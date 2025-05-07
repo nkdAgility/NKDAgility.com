@@ -1,21 +1,12 @@
 {
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-16T02:45:19",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and updates of Visual Studio Team System 2010, with no clear focus on Agile Product Management principles or practices.",
     "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T02:45:20",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and tools available in Visual Studio Team System 2010, which aligns with the exploration and application of tools that enhance Agile and DevOps practices.",
-    "level": "Secondary"
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -28,38 +19,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T02:45:23",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio Team System 2010 and its features, with no focus on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-16T02:45:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio Team System 2010 and its features, without a focus on code quality or complexity theory.",
-    "level": "Ignored"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T02:45:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and availability of Visual Studio Team System 2010 without focusing on discovery, learning, or innovation processes.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T02:45:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and updates of Visual Studio Team System 2010, with no clear focus on AI or automation in Agile practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1 and does not discuss Evidence-Based Management or its key topics. There are no direct mentions of empirical decision-making or metrics related to value delivery, innovation, or outcome management.",
     "level": "Ignored"
   },
   "Lean": {
@@ -73,20 +40,14 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions features and components of Visual Studio 2010, which may imply installation and configuration aspects, but it primarily focuses on the features rather than providing clear, actionable installation or configuration instructions.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T02:45:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and availability of Visual Studio Team System 2010, with no focus on transparency or accountability principles.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily announces the availability of Visual Studio Team System 2010 Beta 1 and lists features without providing specific installation or configuration instructions. While it touches on aspects of the software that may relate to installation and configuration, such as automated deployment and simplified setup, these are not the main focus. The content lacks detailed guidance or actionable insights on the installation process, which is essential for a higher confidence score in this category.",
     "level": "Ignored"
   },
   "Market Adaptability": {
@@ -107,23 +68,17 @@
     "reasoning": "Content primarily discusses features and tools of Visual Studio Team System 2010 without addressing the interplay between technology and organisational structures.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T02:45:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and updates of Visual Studio Team System 2010, with no focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features related to automated deployment and management of environments, which are relevant to DevOps practices, but the primary focus is on Visual Studio Team System and its components.",
-    "level": "Tertiary"
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 and its various components, such as architecture, development, lab management, and testing. While there are mentions of automated deployment and improved Agile templates, which could relate to DevOps practices, the overall discussion does not centre on the core principles of DevOps as a philosophy. The content lacks a comprehensive exploration of collaboration, shared accountability, or continuous improvement, which are essential aspects of DevOps. Therefore, the confidence score reflects a minimal alignment with the DevOps category.",
+    "level": "Ignored"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -143,15 +98,6 @@
     "reasoning": "Content primarily discusses the release of Visual Studio Team System 2010 and its features, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T02:45:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the release of Visual Studio Team System 2010 Beta 1 and its features, with no mention of events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
     "calculated_at": "2025-02-16T02:45:43",
@@ -159,15 +105,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and release of Visual Studio Team System 2010, with no focus on flow efficiency principles or optimisation of work throughput.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T02:45:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the features and updates of Visual Studio Team System 2010, with no focus on human behaviour or structured methodologies in technology and product development.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -190,10 +127,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T02:45:52",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and components of Visual Studio Team System 2010, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
@@ -208,12 +145,15 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses various features and improvements in Visual Studio 2010 that relate to development practices, such as automated deployment, test planning, and improved code analysis, which are relevant to technical excellence. However, the primary focus is on the product release rather than a deep exploration of engineering methodologies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the release of Visual Studio Team System 2010 and lists various features and improvements. While it touches on aspects of development tools that could relate to technical excellence, such as improved code analysis and automated deployment, it lacks a direct discussion on engineering practices or methodologies that enhance agility in software development. The mention of features is more descriptive than analytical, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -235,39 +175,33 @@
   },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses various features and improvements in Visual Studio Team System 2010, which relate to development and testing practices, but it does not focus primarily on the end-to-end process of delivering software products.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the release of Visual Studio Team System 2010 Beta 1, with some mentions of features related to development, testing, and lab management. While it touches on aspects relevant to product delivery, such as automated deployment and test planning, it lacks a comprehensive discussion on methodologies, practices, or strategies that are central to the product delivery category. The depth of discussion is limited, focusing more on feature announcements rather than the end-to-end process of delivering software products.",
     "level": "Tertiary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
-    "calculated_at": "2025-02-16T02:46:00",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Visual Studio Team System 2010 Beta 1 and its features, with no mention of BetaCodex principles or related topics.",
     "level": "Ignored"
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
-    "calculated_at": "2025-02-16T02:46:02",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and updates related to Visual Studio Team System 2010, with no clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T02:46:03",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the features and availability of Visual Studio Team System 2010, which is a software product relevant to Agile and DevOps practices.",
-    "level": "Secondary"
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -280,12 +214,15 @@
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses Visual Studio Team System and Team Foundation Server, which are components of the Azure DevOps suite, but the primary focus is on the features and announcements rather than best practices or methodologies specific to Azure DevOps.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses Visual Studio Team System 2010 and its features, which are part of the broader Microsoft development ecosystem. While it mentions Team Foundation Server (TFS), which is related to Azure DevOps, the focus is not specifically on Azure DevOps itself. The discussion lacks depth in terms of Azure DevOps functionalities and does not provide insights into CI/CD practices or Agile project management within Azure DevOps. Therefore, the content does not align closely with the category.",
+    "level": "Ignored"
   },
   "Personal": {
     "category": "Personal",
@@ -305,22 +242,25 @@
     "reasoning": "Content primarily discusses the features and components of Visual Studio Team System 2010, with no clear focus on Systems Thinking principles or applications.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-16T02:46:10",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio Team System 2010 and its features, without a focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T02:46:11",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the features and updates of Visual Studio Team System 2010, with no clear focus on Agile principles or the Agile Product Operating Model.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses features of Visual Studio Team System 2010 and does not mention or align with the Agile Product Operating Model. There is no focus on agile methodologies, product management principles, or any related topics that would fit within the APOM framework.",
     "level": "Ignored"
   },
   "Organisational Agility": {
@@ -332,32 +272,17 @@
     "reasoning": "Content primarily discusses the features and updates of Visual Studio Team System 2010, with no clear focus on organisational agility or related practices.",
     "level": "Ignored"
   },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T02:46:17",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release of Visual Studio Team System 2010 Beta 1, providing updates and insights into its features, which aligns with industry news and updates relevant to technology.",
-    "level": "Secondary"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various features and tools related to Visual Studio Team System 2010, which are relevant to application lifecycle management, but it primarily focuses on specific functionalities rather than a comprehensive discussion of ALM methodologies or practices.",
-    "level": "Tertiary"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T02:46:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses Visual Studio Team System 2010 and its features, with no clear focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
+    "final_score": 62.0,
+    "reasoning": "The content discusses Visual Studio Team System 2010 and its features, which are relevant to application lifecycle management tools. However, it lacks a direct focus on the stages of the application lifecycle or best practices for governance and compliance. The mention of ALM in the tags indicates some relevance, but the overall discussion is more about specific features rather than a comprehensive exploration of ALM principles.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -370,20 +295,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses features and updates related to Visual Studio 2010 without any mention of the Definition of Done or related Agile concepts.",
     "level": "Ignored"
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "The content discusses various features and tools related to Visual Studio 2010 that enhance software development practices, including architecture, development, testing, and lab management, aligning well with technical mastery principles.",
+    "final_score": 62.0,
+    "reasoning": "The content primarily focuses on the announcement of Visual Studio Team System 2010 Beta 1 and its features. While it lists various tools and functionalities that could contribute to software craftsmanship, it lacks a deep discussion on best practices, principles, or methodologies that define technical mastery. The mention of features like architecture validation and test planning hints at alignment with the category, but the overall focus is more on product release than on the principles of software engineering excellence.",
     "level": "Secondary"
   },
   "Product Discovery": {
@@ -397,11 +325,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses primarily on the release of Visual Studio Team System 2010 Beta 1 and related features without discussing Continuous Delivery principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1, with no explicit discussion of Continuous Delivery principles or practices. While it mentions automated deployment and testing tools, these are not explored in the context of Continuous Delivery. The overall emphasis is on the product features rather than the delivery practices, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Strategic Goals": {
@@ -433,19 +364,19 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and components of Visual Studio 2010, without any relevant reference to the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses Visual Studio 2010 Beta features and tools without any relevant focus on portfolio management or strategic alignment of projects.",
     "level": "Ignored"
   },
@@ -460,10 +391,10 @@
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses Visual Studio Team System features and functionalities, but does not address Agile Planning principles, methodologies, or practices.",
     "level": "Ignored"
   },
@@ -496,19 +427,19 @@
   },
   "Scrum Team": {
     "category": "Scrum Team",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content focuses on Visual Studio Team System and its features, with no discussion of Scrum roles, collaboration, or dynamics related to Scrum Teams.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is focused on the release of Visual Studio Team System and features of the software, without discussing Agile principles or philosophy.",
     "level": "Ignored"
   },
@@ -523,19 +454,19 @@
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the features and availability of Visual Studio Team System 2010, without addressing product validation methodologies or user feedback mechanisms.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses Visual Studio Team System 2010 features without any clear focus on Agile transformation principles, methodologies, or practices.",
     "level": "Ignored"
   },
@@ -550,19 +481,22 @@
   },
   "Automated Testing": {
     "category": "Automated Testing",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content briefly discusses aspects of testing related to automated deployment and UI Automation, which are relevant to automated testing, but the primary focus is on Visual Studio 2010 features and functionalities.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions testing in the context of Visual Studio Team System 2010, including aspects like test planning and test case management. However, it lacks a focused discussion on automated testing principles, methodologies, or best practices. The mention of testing is secondary to the overall content, which primarily discusses features of Visual Studio rather than delving into automated testing's role in software development.",
+    "level": "Ignored"
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and updates related to Visual Studio Team System without a focus on team dynamics or performance in an Agile context.",
     "level": "Ignored"
   },
@@ -577,37 +511,31 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the release of Visual Studio Team System 2010 and its features, with no specific mention or discussion of Acceptance Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the release and features of Visual Studio Team System 2010 Beta 1, which is a tool used in software development, focusing on aspects such as architecture, development, database management, and testing. These topics align closely with various software development practices and methodologies.",
+    "final_score": 78.0,
+    "reasoning": "The content discusses Visual Studio Team System 2010 and its features, which are relevant to software development practices. It mentions various tools and functionalities that support the development lifecycle, such as architecture design, test management, and version control. However, while it provides a list of features, it lacks in-depth discussion on methodologies or best practices, which limits its alignment with the core themes of the Software Development category.",
     "level": "Secondary"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content discusses features and tools related to Visual Studio 2010 Team System, with no clear focus on Agile Project Management principles or methodologies.",
-    "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and updates of Visual Studio Team System 2010 without reference to Agile values or principles.",
     "level": "Ignored"
   },
@@ -622,12 +550,15 @@
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes discussions about version control within the context of TFS (Team Foundation Server), which suggests a secondary theme related to modern source control practices, although it mostly focuses on broader features of Visual Studio and ALM.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions version control in passing but primarily focuses on the features and components of Visual Studio Team System 2010, which does not delve into modern source control practices or methodologies. While there are references to TFS and some aspects of version control, the overall discussion lacks depth and does not align closely with the core themes of effective collaboration, code management, or best practices in version control systems.",
+    "level": "Ignored"
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -701,15 +632,6 @@
     "reasoning": "The content primarily discusses the release of Visual Studio Team System 2010 and its features, without any focus on customer satisfaction or related practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily about Visual Studio 2010 Team System and its features, without any clear discussion on Scaling Scrum or related practices.",
-    "level": "Ignored"
-  },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
     "calculated_at": "2025-02-16T10:29:26",
@@ -728,23 +650,17 @@
     "reasoning": "Content focuses on the features and updates of Visual Studio Team System 2010 and does not discuss psychological safety.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the features and release details of Visual Studio 2010 Team System and does not mention any strategies or practices related to scaling agility or agile frameworks.",
-    "level": "Ignored"
-  },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and improvements related to Visual Studio Team System 2010, which align with development practices and tools that can aid in engineering excellence, but it does not deeply engage with specific practices or principles of engineering excellence directly.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio Team System 2010 and its features, which includes some aspects of software development tools and practices. However, it lacks a direct focus on engineering excellence principles, such as coding standards, quality assurance, or continuous improvement processes. While there are mentions of features that could contribute to engineering practices (like automated deployment and improved code analysis), the overall discussion does not delve deeply into the core themes of engineering excellence, resulting in a low confidence score.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -757,10 +673,10 @@
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the release of Visual Studio Team System 2010 Beta 1 and its features, not on asynchronous development principles or practices.",
     "level": "Ignored"
   },
@@ -802,29 +718,11 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and capabilities of Visual Studio 2010 without focusing on the measurement or improvement of innovation capabilities.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content focuses on Visual Studio Team System 2010 and its features, with no mention of Scrum principles, practices, or product development processes.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses Visual Studio Team System features and enhancements without any focus on Scaled Agile methodologies or frameworks.",
     "level": "Ignored"
   },
   "Employee Engagement": {
@@ -847,12 +745,15 @@
   },
   "Test Automation": {
     "category": "Test Automation",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content mentions test-related features within the context of Visual Studio, indicating that automated testing is part of the broader development and testing workflow. However, it is not the primary focus of the content.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions testing in the context of Visual Studio Team System 2010, specifically highlighting features related to test planning and management. However, it lacks a focused discussion on test automation principles, frameworks, or best practices. The mention of testing is secondary to the overall content, which primarily discusses the features of Visual Studio and its components, leading to a low confidence score in alignment with the Test Automation category.",
+    "level": "Ignored"
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -874,10 +775,10 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and capabilities of Visual Studio Team System 2010, without focusing on Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
@@ -901,10 +802,10 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and aspects of Visual Studio Team System 2010 and does not address Agile leadership or related themes.",
     "level": "Ignored"
   },
@@ -928,10 +829,10 @@
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the release of Visual Studio 2010 and its features, without discussing hypothesis formulation, experimentation, or data-driven decisions relevant to hypothesis-driven development.",
     "level": "Ignored"
   },
@@ -955,10 +856,10 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the shipping of Visual Studio Team System 2010 Beta 1 and its new features, but does not focus on the strategies or practices of Release Management.",
     "level": "Ignored"
   },
@@ -991,37 +892,37 @@
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and components of Visual Studio 2010 Team System, with no direct reference or discussion about deployment frequency or related concepts.",
     "level": "Ignored"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the features and release of Visual Studio Team System 2010, without any discussions or insights related to change management practices, strategies, or principles.",
     "level": "Ignored"
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the features and tools of Visual Studio Team System 2010, with no significant discussion on team collaboration, communication, or teamwork dynamics.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses features and tools of Visual Studio 2010 but does not mention Behavior Driven Development or relevant principles, practices, or collaboration aspects pertaining to BDD.",
     "level": "Ignored"
   },
@@ -1034,7 +935,7 @@
     "reasoning": "Content primarily discusses the release of Visual Studio Team System 2010 and its features, lacking a direct focus on digital transformation themes such as organizational change, business agility, or strategic adoption of digital technologies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T10:29:26",
     "ai_confidence": 0,
@@ -1043,23 +944,17 @@
     "reasoning": "Content primarily discusses Visual Studio Team System features and updates, without focus on Minimum Viable Product concepts or related strategies.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses features and updates of Visual Studio 2010, with no focus on AI applications in Agile, DevOps, or software development.",
-    "level": "Ignored"
-  },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses various features and aspects of Visual Studio Team System 2010, including architecture, development, lab management, test management, and setup. While it briefly touches on setup and configuration aspects, overall it mainly focuses on capabilities and features rather than detailed system configuration discussions.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio Team System 2010 and its features, which includes some aspects of system configuration, such as automated deployment and environment management. However, the focus is more on the product features and announcements rather than a detailed exploration of system configuration processes or methodologies. The mentions of configuration-related topics are limited and do not delve into best practices or optimisation strategies, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1099,46 +994,55 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content discusses the release of Visual Studio 2010 and its features but does not focus on Test First Development principles or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1, with a brief mention of testing tools. However, it lacks a direct discussion on Test First Development principles, success criteria, or detailed practices related to TDD or ATDD. The overall emphasis is on the software's capabilities rather than the Test First approach.",
     "level": "Ignored"
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses Visual Studio 2010, which is a software development tool often used in Windows environments. However, it primarily focuses on the features and functionality of Visual Studio itself rather than specifically addressing Windows operating system topics like installation, configuration, or troubleshooting.",
+    "final_score": 42.0,
+    "reasoning": "The content primarily discusses Visual Studio Team System 2010, which is a software development tool that runs on the Windows operating system. However, it does not delve into specific aspects of Windows itself, such as installation, configuration, or troubleshooting. While there are mentions of Windows-related features, the focus is more on the development environment rather than the Windows OS. Therefore, the confidence score reflects a moderate alignment with the Windows category, but it lacks depth in discussing Windows-specific topics.",
     "level": "Tertiary"
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions 'automated deployment' under Lab Management, indicating a connection to deployment strategies, but it is primarily focused on the features and components of Visual Studio 2010, rather than a detailed discussion on deployment methodologies.",
-    "level": "Tertiary"
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio Team System 2010 Beta 1 and its features, with only a brief mention of 'automated deployment' under Lab Management. However, it lacks a detailed exploration of deployment strategies or methodologies, making it only tangentially related to the category.",
+    "level": "Ignored"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and updates of Visual Studio Team System 2010 and does not relate to scaling Agile methodologies across an organization.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily focuses on technical features and tools related to Visual Studio and Team Foundation Server, without discussing team dynamics or motivation.",
     "level": "Ignored"
   },
@@ -1180,11 +1084,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Visual Studio Team System and its features, with no discussion relevant to Scrum Master responsibilities or practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses features of Visual Studio Team System 2010 and does not mention the role or responsibilities of a Scrum Master. There is no alignment with Scrum principles or practices, and the depth of discussion regarding Scrum Masters is non-existent.",
     "level": "Ignored"
   },
   "Transparency": {
@@ -1205,15 +1112,6 @@
     "reasoning": "Content focuses on Visual Studio 2010 features and updates, with no mention of working agreements or team collaboration norms.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses features and tools related to Visual Studio Team System, which are relevant to software development practices, but does not primarily focus on Agile or DevOps methodologies.",
-    "level": "Tertiary"
-  },
   "Coaching": {
     "category": "Coaching",
     "calculated_at": "2025-02-16T10:29:26",
@@ -1225,12 +1123,15 @@
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
-    "calculated_at": "2025-02-17T09:09:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions various tools and practices related to development, testing, and environment management, which align with engineering practices, but it primarily focuses on the release of Visual Studio Team System 2010 with limited discussion on the underlying principles or methodologies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio Team System 2010 and its features, which include various tools and functionalities related to development and testing. While there are mentions of automated deployment and test planning, these are not explored in depth and do not align closely with the core principles of Agile engineering practices. The focus is more on product features rather than on methodologies or practices that enhance software engineering quality.",
+    "level": "Ignored"
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -1252,10 +1153,10 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "The content primarily discusses the features and components of Visual Studio 2010, including various technical tools and functionalities, without addressing strategic aspects of product management.",
     "level": "Ignored"
   },
@@ -1270,19 +1171,19 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the release of Visual Studio Team System 2010 and its features rather than discussing Agile frameworks.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily focuses on the release and features of Visual Studio Team System 2010, with no discussion of Agile strategy concepts or methodologies.",
     "level": "Ignored"
   },
@@ -1306,19 +1207,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses features and updates of Visual Studio Team System 2010 without any focus on Lean Product Development principles or topics.",
     "level": "Ignored"
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the features and releases of Visual Studio Team System 2010 without discussing trends or their implications in Agile, DevOps, or business agility.",
     "level": "Ignored"
   },
@@ -1329,15 +1230,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the release of Visual Studio Team System and its features, with no focus on accountability or Agile principles.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T10:29:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the release of Visual Studio Team System 2010 and its features, with no discussion of Kanban principles or scaling Kanban in organizations.",
     "level": "Ignored"
   },
   "Throughput": {
@@ -1351,20 +1243,23 @@
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T10:29:26",
+    "calculated_at": "2025-04-10T15:56:16",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and availability of Visual Studio 2010 and related tools, without focusing on Test Driven Development or its principles.",
     "level": "Ignored"
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:03:25",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the features and updates of Visual Studio Team System 2010, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1, detailing technical tools and functionalities without discussing collaboration, decision-making, or value delivery. There are no explicit mentions of social technologies or their principles, and the depth of discussion is limited to technical specifications rather than the underlying social frameworks.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1269,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the features and updates of Visual Studio Team System 2010, with no focus on leadership practices or themes.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:36:12",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses Visual Studio Team System 2010 and its features, without a clear focus on Internal Developer Platforms or their benefits and practices.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:36:14",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the release of Visual Studio Team System 2010 and its features, with no mention of AI or its application in Agile or DevOps practices.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses Visual Studio Team System 2010 and its features, with no direct mentions or discussions related to Scrum principles, roles, events, or practices. While it may touch on project management tools, it does not align with the core themes of Scrum, nor does it provide any depth on Scrum-related topics.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the release of Visual Studio Team System 2010 and its features, with no explicit mention of the Shift-Left Strategy. While it touches on testing and development tools, it does not delve into integrating these processes earlier in the software development lifecycle or the benefits of such an approach. Therefore, it lacks the necessary focus and depth on the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 0.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1 and does not discuss Continuous Improvement principles, methodologies, or practices. There are no direct mentions of Continuous Improvement, nor does it align with the core themes of the category. The depth of discussion is limited to product features and enhancements, lacking any reference to processes or strategies related to Continuous Improvement.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1 and does not discuss Common Goals or their significance in Agile and DevOps. There are no explicit mentions of shared objectives, alignment, or frameworks like OKRs. The content lacks depth in discussing how these features contribute to organisational performance or team collaboration.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1 and does not discuss competence, continuous learning, or skill development. While it mentions tools that could potentially enhance development, it lacks any explicit discussion on competence as defined in Agile and DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:16",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the features of Visual Studio Team System 2010 Beta 1 and does not discuss Agentic Agility or its principles. There are no direct mentions of autonomy, adaptability, or intentional shaping of outcomes, nor does it explore the interplay between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

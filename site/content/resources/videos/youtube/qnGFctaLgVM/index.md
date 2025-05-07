@@ -2,57 +2,50 @@
 title: Why do you trust Russell to deliver the PSPO course for NKD Agility?
 description: "Discover why Martin Hinshelwood trusts Russell as a top Professional Scrum Trainer for NKD Agility's PSPO course. #Agile #Scrum #Training"
 date: 2023-08-24T07:00:31Z
+weight: 1000
 ResourceId: qnGFctaLgVM
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: qnGFctaLgVM
 source: internal
 url: /resources/videos/:slug
-slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+slug: why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
 layout: video
 preview: https://i.ytimg.com/vi/qnGFctaLgVM/maxresdefault.jpg
 duration: 48
 isShort: true
 aliases:
-- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
-- /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- /resources/videos/qnGFctaLgVM
 - /resources/qnGFctaLgVM
-aliasesFor404:
+- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
+aliasesArchive:
+- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
-- /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+- why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-qnGFctaLgVM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
 - Product Owner
-- People and Process
-- Agile Product Management
-- Professional Scrum
-- Coaching
-- Personal
-- Miscellaneous
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:
-- Product Management
+- Product Development
 
 ---
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 
 
 ## Russell: A Software Sage with a Maverick Edge 🛠 
 
-In the realm of Product Ownership, Russell stands as a beacon of innovation and expertise. His story isn't just about code; it's about a journey through the echelons of product development that's as diverse as it is profound. 
+In the realm of Product Ownership, Russell stands as a beacon of innovation and expertise. His story isn't just about code; it's about a journey through the echelons of [product development]({{< ref "/categories/product-development" >}}) that's as diverse as it is profound. 
 
 ## Unparalleled Experience in the Trenches of Product Development ✈️ 
 
 Russell's odyssey spans more than the digital landscape: 
 
-- **Beyond Software:** From crafting control systems for military aircraft to mentoring burgeoning Product Owners, his canvas is vast. 
+- **Beyond Software:** From crafting control systems for military aircraft to [mentoring]({{< ref "/tags/mentoring" >}}) burgeoning Product Owners, his canvas is vast. 
 
 - **Technical Versatility:** Russell's command over both technology and strategy marks him out as a PSPO trainer par excellence. 
 

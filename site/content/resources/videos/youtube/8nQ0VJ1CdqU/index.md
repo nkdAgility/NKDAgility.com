@@ -2,8 +2,10 @@
 title: Why did so many of the early agile transformations fail?
 description: Discover why many early agile transformations failed and learn how to achieve success in your organisation with insights from Martin Hinshelwood.
 date: 2023-02-06T07:00:02Z
+weight: 750
 ResourceId: 8nQ0VJ1CdqU
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 8nQ0VJ1CdqU
@@ -15,34 +17,34 @@ preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
 duration: 231
 isShort: false
 aliases:
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
-- /resources/videos/8nQ0VJ1CdqU
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/8nQ0VJ1CdqU
-aliasesFor404:
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
+aliasesArchive:
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail-
+- why-did-so-many-of-the-early-agile-transformations-fail
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
-- Decision Making
-- Agile Leadership
-- Beta Codex
-- Agile Strategy
-- Agile Philosophy
-- Agile Project Management
-- Sociotechnical Systems
+- Pragmatic Thinking
+- Software Development
 - Agile Transformation
-- Organisational Change
+- Team Collaboration
+- Agile Leadership
+- Agile Strategy
+- Change Management
+- Decision Making
+- Organisational Culture
+- Sociotechnical Systems
+- Beta Codex
 resourceTypes:
 - video
 categories:
+- Product Development
 - Leadership
-- Social Technologies
 
 ---
 Why did so many of the early agile transformations fail?
@@ -55,7 +57,7 @@ The people who are involved in the implementation are often not the people who g
 
 In other words, a ‘solution’ is imposed on the team rather than cocreated with the teams.
 
-Leadership will decide that X is going to be adopted, but the people actively doing the work know that it’s the wrong solution. It simply isn’t a great fit and doesn’t solve the problems that the product development teams are experiencing.
+[Leadership]({{< ref "/categories/leadership" >}}) will decide that X is going to be adopted, but the people actively doing the work know that it’s the wrong solution. It simply isn’t a great fit and doesn’t solve the problems that the [product development]({{< ref "/categories/product-development" >}}) teams are experiencing.
 
 Often, this happens when a consultant sells an **off-the-shelf agile solution** rather than investing time and effort with the teams, customers, and product stakeholders to select the agile framework that best serves the environment.
 
@@ -101,7 +103,7 @@ The people on the ground have:
 
 So, it really does serve **leadership teams** to embrace the unique knowledge, skills, and capabilities of the experts in the team environment and include them in decision-making for the transformation.
 
-## Open Space Agile
+## [Open Space Agile]({{< ref "/tags/open-space-agile" >}})
 
 There has been a lot of great work produced by [Open Space Agile](https://openspaceagility.com/) that allows relevant people to be involved in decision-making throughout the organization.
 
@@ -121,7 +123,7 @@ So, in my opinion and experience, this is the greatest reason why agile transfor
 
 Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #[scrum]({{< ref "/categories/scrum" >}}) environments.
 
 If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
 

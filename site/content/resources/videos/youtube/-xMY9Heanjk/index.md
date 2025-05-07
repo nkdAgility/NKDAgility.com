@@ -2,8 +2,10 @@
 title: What is the hardest part of working with a brand-new scrum team?
 description: Discover the toughest challenges of joining a new Scrum team and how to transition from novice to mastery in Agile practices with Martin Hinshelwood.
 date: 2023-02-03T07:00:00Z
+weight: 450
 ResourceId: -xMY9Heanjk
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: -xMY9Heanjk
@@ -14,40 +16,40 @@ preview: https://i.ytimg.com/vi/-xMY9Heanjk/maxresdefault.jpg
 duration: 263
 isShort: false
 aliases:
-- /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
-- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
-- /resources/videos/-xMY9Heanjk
-- /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 - /resources/-xMY9Heanjk
-aliasesFor404:
+- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
+aliasesArchive:
+- /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 - /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
+- what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Pragmatic Thinking
 - Empirical Process Control
-- Agile Planning
-- Team Performance
-- Scrum Product Development
 - Agile Frameworks
-- Professional Scrum
-- Customer Feedback Loops
+- Software Development
+- Team Performance
 - Agile Transformation
-- Evidence Based Leadership
+- Professional Scrum
+- Scrum Master
+- Scrum Team
+- Coaching
 resourceTypes:
 - video
 layout: video
 categories:
+- Product Development
+- Technical Leadership
 - Scrum
-- Social Technologies
 
 ---
-What is the hardest part of working with a brand-new scrum team?
+What is the hardest part of working with a brand-new [scrum]({{< ref "/categories/scrum" >}}) team?
 
-It’s an interesting question and I’m going to view this through the lens of being an **agile coach** contracted to work with a new **scrum team**, as well as from the perspective of a **scrum master** who joins an existing scrum team for the first time.
+It’s an interesting question and I’m going to view this through the lens of being an **agile coach** contracted to work with a new **[scrum team]({{< ref "/tags/scrum-team" >}})**, as well as from the perspective of a **[scrum master]({{< ref "/tags/scrum-master" >}})** who joins an existing scrum team for the first time.
 
 ## It’s what we think we know.
 
@@ -59,7 +61,7 @@ One of my primary tests when working with a new team is to ask them how they thi
 
 If they tell me that they are awesome at it, be it scrum or agile, I know it’s going to be a train smash.
 
-If they tell me that they don’t think they are performing well, that they are trying different things but consistently coming up against roadblocks, and that they value help and coaching to get it right, then I know it’s going to be awesome working with the team.
+If they tell me that they don’t think they are performing well, that they are trying different things but consistently coming up against roadblocks, and that they value help and [coaching]({{< ref "/tags/coaching" >}}) to get it right, then I know it’s going to be awesome working with the team.
 
 This matters because in the latter scenario, the team have come to recognize and acknowledge what they don’t know, and their goal is to master the basics as effectively as they can before progressing to intermediate and advanced levels of capability.
 
@@ -77,17 +79,17 @@ So, when you are working with teams, the biggest gap lies in what they think the
 
 And so forth.
 
-Their focus is on the **mechanics of scrum** rather than becoming a high-performing **product development team** that uses scrum as a lightweight **agile framework** to achieve their objectives.
+Their focus is on the **mechanics of scrum** rather than becoming a high-performing **[product development]({{< ref "/categories/product-development" >}}) team** that uses scrum as a lightweight **agile framework** to achieve their objectives.
 
 None of those elements are important, and they barely get a mention in the scrum guide, and so my role as an **agile coach** is to help the team master the basics and evolve with each iteration.
 
 ## A shift to the core focus of agile and scrum.
 
-Things like planning poker and burndown charts are examples of things that a scrum might try to help them increase transparency and track their effectiveness. It’s valuable in certain applications and worthless in others. It’s fluff. These are minor details that don’t impact the success of a team.
+Things like planning poker and burndown charts are examples of things that a scrum might try to help them increase [transparency]({{< ref "/tags/transparency" >}}) and track their effectiveness. It’s valuable in certain applications and worthless in others. It’s fluff. These are minor details that don’t impact the success of a team.
 
 Instead, I work with teams to understand the core philosophy of **empiricism**.
 
-**Empirical Process Control.**
+**[Empirical Process Control]({{< ref "/tags/empirical-process-control" >}}).**
 
 It’s a scientific method for **navigating complexity** where the team decide on something small, developing a hypothesis, and then designing an experiment to validate or disprove that hypothesis, and then inspecting the work that has been done and using the data and evidence gathered to inform what they should do next.
 
@@ -107,7 +109,7 @@ And so forth.
 
 Its about creating rapid feedback loops that allow us to test whether the thing that we are building is of value to the people we are building it for.
 
-That’s where a **sprint review** comes into play.
+That’s where a **[sprint review]({{< ref "/tags/sprint-review" >}})** comes into play.
 
 We take the thing that we built in the **sprint**, we give it to customers and stakeholders to play with, we analyze how they are playing with the product or feature, and we get feedback from those people on how valuable the product or feature is.
 

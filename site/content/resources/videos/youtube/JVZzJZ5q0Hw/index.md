@@ -2,48 +2,46 @@
 title: What is a sprint goal?
 description: "Unlock the secrets of sprint planning! Discover common pitfalls in agility and learn to empower your team for swift market responses. \U0001F680\U0001F4C8"
 date: 2023-05-25T14:00:20Z
+weight: 840
 ResourceId: JVZzJZ5q0Hw
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: JVZzJZ5q0Hw
 source: internal
 url: /resources/videos/:slug
-slug: what-is-the-most-common-mistake-in-sprint-planning
+slug: what-is-a-sprint-goal
 layout: video
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
 duration: 505
 isShort: false
 aliases:
-- /resources/what-is-the-most-common-mistake-in-sprint-planning
-- /resources/what-is-a-sprint-goal
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
-- /resources/videos/JVZzJZ5q0Hw
-- /resources/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/JVZzJZ5q0Hw
-aliasesFor404:
+- /resources/videos/what-is-a-sprint-goal
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-goal
 - /resources/what-is-the-most-common-mistake-in-sprint-planning
 - /resources/what-is-a-sprint-goal
 - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/what-is-the-most-common-mistake-in-sprint-planning-
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+- what-is-a-sprint-goal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Scrum Product Development
-- Agile Planning
-- People and Process
-- Backlog Refinement
-- Product Backlog
 - Agile Product Management
-- Team Performance
-- Scrum Team
+- Professional Scrum
+- Software Development
+- Agile Frameworks
 - Product Delivery
-- Agile Planning Tools
 resourceTypes:
 - video
 categories:
 - Scrum
+- Product Development
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?
@@ -52,7 +50,7 @@ I think it's essential to ask what a sprint goal is and look deeper into why it 
 
 How does a sprint goal drive progress?
 
-Let me share with you some insights from the trenches of Scrum.
+Let me share with you some insights from the trenches of [Scrum]({{< ref "/categories/scrum" >}}).
 
 ## Exploring The Tactical Aspect of Scrum
 
@@ -88,7 +86,7 @@ So, let me explain.
 
 A defining characteristic of a Sprint Goal is its tangibility.
 
-This is a characteristic that sets it apart from all the others.  It must be a goal that stakeholders can evaluate at the sprint review and be able to provide concrete and actionable feedback that should resonate on a practical level.  🤲
+This is a characteristic that sets it apart from all the others.  It must be a goal that stakeholders can evaluate at the [sprint review]({{< ref "/tags/sprint-review" >}}) and be able to provide concrete and actionable feedback that should resonate on a practical level.  🤲
 
 Feedback cannot be vague or speculative but rather precise, such as "We like this because..." or "We dislike this because...".
 
@@ -106,7 +104,7 @@ It's about what's happening and how it contributes to the broader product vision
 
 So, there you have it, folks!
 
-To sum up, a Sprint Goal is more than just a task or a target.  The tactical compass guides your Scrum team through each Sprint, offering a clear and tangible objective that connects the team's current efforts with the broader product vision and goal.
+To sum up, a Sprint Goal is more than just a task or a target.  The tactical compass guides your [Scrum team]({{< ref "/tags/scrum-team" >}}) through each Sprint, offering a clear and tangible objective that connects the team's current efforts with the broader product vision and goal.
 
 Want to learn more about setting impactful Sprint Goals and mastering other elements of Agile and Scrum?
 

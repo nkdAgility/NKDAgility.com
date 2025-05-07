@@ -2,27 +2,30 @@
 title: 'Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth'
 description: Discover how judgment in Agile can hinder team dynamics and innovation. Learn strategies to foster a supportive culture and enhance collaboration.
 date: 2023-11-01T11:30:27Z
+weight: 665
 ResourceId: xk11NhTA_V8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xk11NhTA_V8
 url: /resources/videos/:slug
-slug: judgement!-7-harbingers-agile-apocalypse-but-shorter!
+slug: navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
 layout: video
 aliases:
-- /resources/videos/xk11NhTA_V8
-- /resources/videos/judgement!-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/judgement!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/xk11NhTA_V8
-aliasesFor404:
+- /resources/videos/navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
+- /resources/videos/judgement-7-harbingers-agile-apocalypse-but-shorter
+aliasesArchive:
+- /resources/videos/navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
 - /resources/videos/judgement!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/judgement!-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/judgement-7-harbingers-agile-apocalypse-but-shorter
+- navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
 preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg
 duration: 72
 isShort: false
-tags:
-- People and Process
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,9 +33,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
-- Product Management
-- Social Technologies
+- Uncategorized
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call one of the seven signs of the Agile apocalypse: judgment. This isn't just a passing concern; it's a pervasive issue that can undermine the very principles of agility we strive to uphold. 
@@ -65,4 +66,4 @@ Here are some strategies to consider:
 
 As we continue to embrace Agile methodologies, let’s be mindful of the judgments we impose—both on ourselves and on our teams. By fostering a culture of support and understanding, we can mitigate the negative impacts of judgment and create an environment where agility can truly thrive.
 
-If you found this discussion valuable, I encourage you to engage with me further. Whether you want to chat about Agile, Scrum, or DevOps, feel free to book a coffee with me through Naked Agility. Your thoughts and comments are always welcome, and I look forward to hearing from you!
+If you found this discussion valuable, I encourage you to engage with me further. Whether you want to chat about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or [DevOps]({{< ref "/categories/devops" >}}), feel free to book a coffee with me through Naked Agility. Your thoughts and comments are always welcome, and I look forward to hearing from you!

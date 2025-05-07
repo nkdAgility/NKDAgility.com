@@ -2,8 +2,10 @@
 title: What is the most valuable thing you have learned through training people?
 description: Discover the key insights Martin Hinshelwood gained as a scrum trainer, transforming training experiences in agile environments. Join the journey!
 date: 2023-02-07T07:00:06Z
+weight: 1000
 ResourceId: 8uPjXXt5lo4
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 8uPjXXt5lo4
@@ -15,36 +17,36 @@ preview: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg
 duration: 166
 isShort: false
 aliases:
-- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
-- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
-- /resources/videos/8uPjXXt5lo4
-- /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 - /resources/8uPjXXt5lo4
-aliasesFor404:
+- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people
+aliasesArchive:
+- /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people
 - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
 - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
+- what-is-the-most-valuable-thing-you-have-learned-through-training-people
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- People and Process
+- Software Development
+- Agile Frameworks
+- Agile Transformation
+- Pragmatic Thinking
 - Personal
-- Discovery and Learning
-- Team Collaboration
 resourceTypes:
 - video
 categories:
-- Social Technologies
+- Uncategorized
 
 ---
 What is the most valuable thing you have learned through training people?
 
 I’ve learned that no matter where you are in the world, everyone faces the same primary problems.
 
-When organizations decide to adopt agile, often using an **agile framework** like **scrum**, everyone runs into the exact same teething problems.
+When organizations decide to adopt agile, often using an **agile framework** like **[scrum]({{< ref "/categories/scrum" >}})**, everyone runs into the exact same teething problems.
 
-As soon as you consider **empiricism**, that being transparency, inspection, and adaptation, you often find that people have to make a massive adjustment from traditional project management and transition from robust, rigid **project management frameworks** to **agile values and principles**.
+As soon as you consider **empiricism**, that being [transparency]({{< ref "/tags/transparency" >}}), inspection, and adaptation, you often find that people have to make a massive adjustment from traditional [project management]({{< ref "/tags/project-management" >}}) and transition from robust, rigid **project management frameworks** to **[agile values and principles]({{< ref "/tags/agile-values-and-principles" >}})**.
 
 People think that the walls they are bumping into are unique to their organization, their culture, their environment but as soon as they start **scrum training**, they quickly realise that everyone on the class, despite being from all around the world, are grappling with the same issues.
 
@@ -68,7 +70,7 @@ Regardless of the territory,
 
 - People are trying to solve complex problems.
 
-- People are trying to improve time to market.
+- People are trying to improve [time to market]({{< ref "/tags/time-to-market" >}}).
 
 - People are trying to respond to competitor disruption.
 
@@ -86,7 +88,7 @@ The great thing about our digital, live delivery of scrum training is that peopl
 
 A developer in Mumbai may be dealing with the challenges of remote work in multiple territories, across multiple teams, where the developer in Glasgow may never have encountered anything outside of working in a small, 6-person team.
 
-These shared experiences really bring home how powerful scrum can be, and how fit for purpose it is for product development despite an astonishing array of applications and territories.
+These shared experiences really bring home how powerful scrum can be, and how fit for purpose it is for [product development]({{< ref "/categories/product-development" >}}) despite an astonishing array of applications and territories.
 
 So, if you’re struggling with a topic, challenge, or problem within your environment, join us for a scrum course and you will find the answers and experiments to run that you are looking for.
 

@@ -19,19 +19,22 @@
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction in product development and business strategy, which aligns with entrepreneurial principles. However, it primarily focuses on product management and organisational decision-making rather than entrepreneurship as a central theme.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction in various roles within an organisation, which indirectly relates to entrepreneurship through the lens of innovation and adaptability. However, it primarily focuses on Scrum practices and team dynamics rather than core entrepreneurial principles. While it touches on aspects like pivoting and aligning with customer needs, these are presented in the context of project management rather than entrepreneurship itself.",
+    "level": "Secondary"
   },
   "Product Backlog": {
     "category": "Product Backlog",
-    "calculated_at": "2025-02-12T12:14:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses general product direction and decision-making rather than specific aspects of the Product Backlog or its management.",
     "level": "Ignored"
   },
@@ -46,12 +49,15 @@
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, touching on systems thinking principles and the need for adaptability in response to changing circumstances. However, it primarily focuses on individual and product-level considerations rather than a comprehensive analysis of organisational dynamics.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, which aligns with the principles of systems thinking and organisational dynamics. It highlights the interplay between individual, team, and organisational behaviours, and the need for adaptability in response to feedback and changing circumstances. However, while it touches on organisational aspects, the primary focus remains on individual and team practices rather than a comprehensive exploration of organisational physics as a whole.",
+    "level": "Secondary"
   },
   "Coaching": {
     "category": "Coaching",
@@ -64,12 +70,15 @@
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction and making data-informed decisions at various levels, which aligns with evidence-based leadership principles. However, it primarily focuses on personal and organisational reflections rather than empirical evidence or specific leadership practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for data-driven decision-making, particularly through feedback and retrospectives. However, while it touches on evidence-based practices, it primarily focuses on personal experiences and anecdotes rather than providing a structured analysis of evidence-based leadership principles. The connection to empirical evidence is present but not deeply explored, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -82,21 +91,27 @@
   },
   "Product Management": {
     "category": "Product Management",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction in product development and organisational strategy, touching on aspects relevant to product management, but it primarily focuses on general reflections rather than specific methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction in product development and organisational strategy, which aligns with the core themes of product management. It touches on the need for product owners to assess whether they are building the right features and adapting to user needs, reflecting the strategic alignment of customer needs and business objectives. However, the discussion lacks depth in specific methodologies or frameworks used in product management, and while it mentions product direction, it does not explicitly delve into established product management theories or practices.",
+    "level": "Secondary"
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various levels, which aligns with the theme of continuous improvement and adaptability in Agile leadership. However, it primarily focuses on product and organisational strategy rather than explicitly addressing leadership roles or practices within an Agile context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for adaptability and continuous improvement, which are core themes of Agile Leadership. However, while it touches on leadership roles, it primarily focuses on the responsibilities of developers and product owners rather than explicitly addressing Agile leadership practices. The depth of discussion on leadership is somewhat limited, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -109,38 +124,50 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-12T12:15:13",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:56:57",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, with no focus on system configuration or related technical aspects.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses project direction, evaluation, and agile methodologies, focusing on roles such as developers and product owners. It does not explicitly mention system configuration or related topics like configuration management, automation, or system optimisation. While there are references to security and architectural decisions, these are not explored in the context of system configuration, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction in business and product development, touching on the need for organisations to adapt and pivot based on user behaviour and market dynamics, which aligns with themes of digital transformation. However, it primarily focuses on general strategic direction rather than specific digital technologies or methodologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for adaptability and responsiveness to feedback, which aligns with the themes of digital transformation. However, it primarily focuses on Scrum practices and personal anecdotes rather than a strategic discussion on digital technologies or their integration into business processes, which limits its depth in the context of digital transformation.",
+    "level": "Secondary"
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction in software development and product management, touching on aspects of user needs and product functionality, but it is primarily focused on broader strategic considerations rather than specifically on working software delivery.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 10,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction in software development, particularly from the perspectives of developers and product owners. It highlights the need for alignment with user needs and the consequences of neglecting quality and security, which are essential aspects of working software. However, while it touches on relevant themes, it lacks a focused discussion on the delivery of functional software and best practices, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Making": {
     "category": "Decision Making",
-    "calculated_at": "2025-02-12T12:15:19",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 64.0,
-    "reasoning": "The content discusses the importance of evaluating direction and making informed choices at various levels within an organisation, which aligns with decision-making principles. However, it primarily focuses on anecdotal examples and personal insights rather than structured methodologies or empirical evidence.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction and making informed decisions at various organisational levels. It highlights the need for continuous assessment of whether the right choices are being made, which aligns with evidence-based decision-making principles. However, while it touches on the significance of data and adapting strategies based on user behaviour, it lacks a structured approach or detailed methodologies that are central to the category. The examples provided illustrate decision-making scenarios but do not delve deeply into frameworks or empirical evidence, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Self Organisation": {
@@ -163,19 +190,19 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-12T12:15:24",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of evaluating direction and making strategic pivots based on user behaviour, but does not focus on Lean principles or practices specifically.",
     "level": "Ignored"
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
-    "calculated_at": "2025-02-12T12:15:25",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of evaluating direction at various levels within an organisation, focusing on product development and business strategy rather than cultural aspects or the influence of organisational culture on agility and transformation.",
     "level": "Ignored"
   },
@@ -208,20 +235,23 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-12T12:15:31",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of direction and decision-making in product development, but does not address the Definition of Done or its criteria.",
     "level": "Ignored"
   },
   "Product Strategy": {
     "category": "Product Strategy",
-    "calculated_at": "2025-02-12T12:15:33",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various levels, including product development and organisational vision, which aligns with product strategy. However, it also delves into specific examples and anecdotes that may detract from a focused discussion on product strategy methodologies.",
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels, including product development and organisational strategy. It highlights the need for alignment with user needs and market dynamics, which are key aspects of product strategy. However, the focus is more on general reflections and anecdotes rather than specific methodologies or frameworks, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Customer Retention": {
@@ -244,21 +274,27 @@
   },
   "Strategy": {
     "category": "Strategy",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various levels, including organisational strategy, but it primarily focuses on individual and product-level considerations rather than a comprehensive strategic framework within Agile, Scrum, or DevOps.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and provides practical tips for Agile teams, which aligns well with strategic discussions in Agile contexts. It includes direct mentions of roles such as developers and product owners, and emphasises the need for continuous evaluation and adaptability, key themes in Agile strategy. However, while it touches on strategic concepts, it does not delve deeply into metrics or KPIs, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies based on user feedback, which relates to innovation. However, it primarily focuses on general decision-making and product development rather than a structured approach to measuring and enhancing innovation capabilities.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels within an organisation, which indirectly relates to the Ability to Innovate. It highlights the need for adaptability and responsiveness to feedback, aligning with the core themes of fostering a culture of innovation. However, it lacks a direct focus on frameworks or metrics for measuring innovation capabilities, which limits its depth in this specific category.",
+    "level": "Secondary"
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -267,15 +303,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a clear focus on Agile frameworks or their principles.",
-    "level": "Ignored"
-  },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-12T12:15:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction at various levels within an organisation, but does not focus on scaling agile practices or frameworks. It lacks specific references to scaling agility concepts or methodologies.",
     "level": "Ignored"
   },
   "Team Collaboration": {
@@ -307,10 +334,10 @@
   },
   "Cycle Time": {
     "category": "Cycle Time",
-    "calculated_at": "2025-02-12T12:15:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content discusses the importance of direction and decision-making in product development, but does not address Cycle Time or its measurement.",
     "level": "Ignored"
   },
@@ -334,29 +361,38 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction in software development, touching on architectural choices and product features, but it primarily focuses on broader organisational and strategic themes rather than specific software development methodologies or practices.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of evaluating direction in software development, particularly from the perspectives of developers and product owners. It touches on key practices such as regular retrospectives and aligning code with product vision, which are relevant to Agile methodologies. However, while it mentions these practices, the overall focus is more on the philosophical aspect of direction rather than providing in-depth technical guidance or methodologies specific to software development.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction in software development and product management, touching on architectural and security choices, which are relevant to engineering practices. However, it primarily focuses on broader strategic considerations rather than specific engineering excellence principles.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in software development and organisational strategy, touching on architectural and security choices. However, it lacks a focused discussion on specific engineering practices, coding standards, or quality assurance, which are central to the category of Engineering Excellence. The examples provided are more about strategic pivots and user behaviour rather than concrete engineering methodologies or craftsmanship principles.",
+    "level": "Ignored"
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-12T12:16:07",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T22:56:54",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a focus on throughput measurement or optimisation.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of evaluating direction in project management and decision-making rather than focusing on throughput as a delivery metric. While it touches on aspects of team performance and adaptability, it does not explicitly define or calculate throughput, nor does it provide visualisations or trends related to throughput metrics. The discussions are more about general improvement and strategic alignment rather than analysing throughput specifically.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -370,12 +406,15 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting to change, which aligns with Agile principles of responding to change and continuous improvement. However, it primarily focuses on general business strategy and product development rather than explicitly addressing Agile values.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies, which aligns with Agile principles of flexibility and responsiveness to change. It mentions retrospectives, a key Agile practice, and encourages feedback and continuous improvement. However, the focus is more on practical advice for developers and product owners rather than a deep exploration of Agile values and principles, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -397,21 +436,27 @@
   },
   "Product Owner": {
     "category": "Product Owner",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 85.0,
+    "ai_alignment": 75.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of direction and decision-making at the product owner level, highlighting the need to build the right features and adapt to user needs, which aligns with the responsibilities of a Product Owner.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content explicitly discusses the role of Product Owners, particularly in the context of evaluating whether the features being built align with customer needs. It provides a checklist for Product Owners, which directly addresses their responsibilities. The discussion aligns well with the core themes of the category, focusing on stakeholder engagement and the importance of adapting to feedback. However, while the content is rich in examples and practical tips, it also includes broader discussions about developers and organisational strategies, which slightly detracts from its primary focus on the Product Owner role.",
+    "level": "Secondary"
   },
   "Change Management": {
     "category": "Change Management",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies based on user needs, which aligns with change management principles. However, it primarily focuses on individual and organisational decision-making rather than structured change management practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction at individual, team, and organisational levels, which aligns with change management principles. It highlights the need for adaptability and responsiveness to feedback, which are key aspects of effective change management. However, while it touches on these themes, the primary focus is more on individual roles and responsibilities rather than a comprehensive exploration of change management strategies or practices. Thus, while there is a significant connection to the category, it does not fully meet the depth and primary focus criteria.",
+    "level": "Secondary"
   },
   "Mentoring": {
     "category": "Mentoring",
@@ -424,21 +469,27 @@
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction and making adjustments based on observed evidence, which aligns with the principles of empirical process control. However, it primarily focuses on general decision-making and organisational strategy rather than specifically on Agile methodologies or empirical process control practices.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction and adapting based on feedback, which aligns with the principles of empirical process control. However, it primarily focuses on individual and organisational evaluations rather than explicitly addressing empirical process control concepts or Agile methodologies in depth. While it mentions retrospectives and the need for adaptability, it lacks a thorough exploration of empirical process control's theoretical foundations or specific techniques.",
+    "level": "Secondary"
   },
   "Product Validation": {
     "category": "Product Validation",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating product direction and adapting based on user behaviour, which aligns with the theme of product validation. However, it primarily focuses on broader organisational and strategic considerations rather than specific methodologies or practices for validating product ideas.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of evaluating direction in product development, which aligns with the concept of validating product ideas. However, it primarily focuses on general principles of assessment and direction rather than specific methodologies or practices for product validation. While it touches on user feedback and the need for alignment with customer needs, it lacks detailed exploration of structured validation techniques like user testing or A/B testing.",
+    "level": "Secondary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -458,22 +509,16 @@
     "reasoning": "Content primarily discusses the importance of evaluating direction in product and organisational strategy, with no focus on revenue per employee metrics or related financial efficiency discussions.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of direction in software development and product management, touching on the role of developers in making architectural and security choices. However, it primarily focuses on broader organisational strategies and product direction rather than specific Agile or DevOps practices.",
-    "level": "Tertiary"
-  },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-12T12:16:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of evaluating direction in software development and product management, focusing on decision-making and adaptability rather than the principles of Test First Development. While it touches on the need for regular assessments and feedback, it does not explicitly mention Test First practices, success criteria, or automated testing methodologies, which are central to the Test First Development category.",
     "level": "Ignored"
   },
   "Frequent Releases": {
@@ -532,29 +577,26 @@
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-12T12:16:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of direction in product development and organisational strategy, without a focus on Lead Time as a metric.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-12T12:16:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction at various levels within an organisation, focusing on product development and business strategy rather than scaling Agile practices across multiple teams.",
+    "calculated_at": "2025-04-11T09:17:06",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of evaluating direction in projects, focusing on decision-making and adaptability rather than Lead Time as a metric. There are no direct mentions of Lead Time or its relationship with Cycle Time, and the discussion lacks depth on measuring or optimising Lead Time. Overall, the content does not align with the core themes of the Lead Time category.",
     "level": "Ignored"
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-12T12:16:38",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of evaluating direction in product development and organisational strategy, highlighting practical problem-solving and adaptability in response to user needs and market changes. However, it does not focus specifically on Agile, Scrum, or DevOps frameworks, making it a secondary theme rather than a primary one.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction in various contexts, such as product development and organisational strategy, which aligns with pragmatic thinking. It highlights the need for adaptability and real-world application of strategies, particularly in response to user behaviour and market changes. However, while it touches on relevant themes, the discussion lacks depth in specific Agile or Scrum methodologies and does not provide detailed problem-solving strategies or case studies, leading to a moderate confidence score.",
     "level": "Secondary"
   },
   "Deployment Frequency": {
@@ -564,15 +606,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a focus on deployment frequency or related Agile and DevOps practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-12T12:16:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the importance of evaluating direction in various contexts but does not focus on Agile Project Management principles, methodologies, or practices.",
     "level": "Ignored"
   },
   "Continuous Integration": {
@@ -586,20 +619,26 @@
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, which aligns with Agile principles of adaptability and responsiveness to change. However, it primarily focuses on general strategic direction rather than specific Agile methodologies or practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for adaptability and responsiveness to change, which aligns with Agile principles. However, while it touches on Agile practices like retrospectives, the primary focus is more on general evaluation and direction rather than a deep dive into Agile strategy itself.",
+    "level": "Secondary"
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-12T12:16:45",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without any clear focus on Continuous Delivery principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in software development and product management, which touches on aspects of Continuous Delivery, such as the need for regular feedback and adaptability. However, it primarily focuses on general project evaluation and Agile practices rather than the specific principles and practices of Continuous Delivery. The lack of direct mentions and detailed exploration of Continuous Delivery concepts leads to a lower confidence score.",
     "level": "Ignored"
   },
   "Cross Functional Teams": {
@@ -613,20 +652,23 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-12T12:16:52",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of evaluating direction at various levels, including product development and organisational strategy, without addressing the Definition of Ready or its criteria.",
     "level": "Ignored"
   },
   "Sensemaking": {
     "category": "Sensemaking",
-    "calculated_at": "2025-02-12T12:16:55",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 0,
-    "final_score": 63.0,
-    "reasoning": "The content discusses the importance of evaluating direction and making informed decisions at various organisational levels, which aligns with sensemaking principles. However, it primarily focuses on examples and anecdotes rather than a structured exploration of sensemaking frameworks or techniques.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, which aligns with sensemaking principles. It highlights the need for continuous assessment and adaptation based on changing circumstances, reflecting the dynamics of complexity and uncertainty. The example of the AI assistant illustrates a case of successful sensemaking through pivoting business strategy based on user behaviour. However, while it touches on key themes, the depth of discussion on frameworks or specific techniques for sensemaking is limited, preventing a higher score.",
     "level": "Secondary"
   },
   "Team Motivation": {
@@ -645,24 +687,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "The content primarily discusses the importance of evaluating direction at various organisational levels, focusing on strategic decision-making rather than team performance or collaboration within agile teams.",
-    "level": "Ignored"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 50,
-    "final_score": 50.0,
-    "reasoning": "The content discusses an AI assistant used for booking meetings, which is a relevant application of AI. However, the primary focus is on evaluating direction in product development and organisational strategy, making AI a secondary theme.",
-    "level": "Tertiary"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-12T12:17:01",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction and making strategic pivots in product development and organisational focus, without reference to Kanban principles or practices.",
     "level": "Ignored"
   },
   "Behaviour Driven Development": {
@@ -721,12 +745,15 @@
   },
   "Organisational Change": {
     "category": "Organisational Change",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
     "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels and includes examples of organisations that have successfully pivoted their strategies. However, the primary focus is on product development and decision-making rather than a structured discussion on organisational change methodologies or frameworks.",
-    "level": "Tertiary"
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, which aligns with the theme of organisational change. It highlights the need for organisations to adapt and pivot based on market demands and user behaviour, reflecting the principles of agility. However, the discussion is more focused on product development and individual roles rather than specific frameworks or methodologies for organisational change, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -735,15 +762,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, with no focus on test automation or related practices.",
-    "level": "Ignored"
-  },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-12T12:17:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content discusses general product direction and decision-making without a clear focus on Scrum principles, roles, or practices.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -757,12 +775,15 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses the importance of evaluating direction and making data-driven decisions, but it primarily focuses on anecdotal examples and personal reflections rather than empirical evidence or structured practices of Evidence-Based Management.",
-    "level": "Quaternary"
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of evaluating direction and making informed choices, which aligns with the principles of Evidence-Based Management. However, it primarily focuses on personal and team reflections rather than empirical metrics or data-driven decision-making. While it touches on the need for feedback and adaptability, it lacks a strong emphasis on specific evidence-based metrics or outcomes, leading to a moderate confidence score.",
+    "level": "Tertiary"
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -773,30 +794,24 @@
     "reasoning": "Content discusses general direction and decision-making in product development without focusing on backlog refinement or Agile practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-12T12:17:26",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction at various organisational levels, without a clear focus on Scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-12T12:17:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a clear focus on the Scrum Master role or responsibilities.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 10,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of evaluating direction in projects, which indirectly relates to Scrum principles, particularly in the context of retrospectives and adaptability. However, it primarily focuses on developers and product owners rather than the specific role and responsibilities of a Scrum Master. The mention of retrospectives aligns with Scrum practices, but the overall depth and focus on the Scrum Master role are limited.",
+    "level": "Secondary"
   },
   "Large Scale Agility": {
     "category": "Large Scale Agility",
-    "calculated_at": "2025-02-12T12:17:29",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of evaluating direction at various levels within an organisation, but does not focus on scaling Agile methodologies or related frameworks.",
     "level": "Ignored"
   },
@@ -820,20 +835,26 @@
   },
   "Product Discovery": {
     "category": "Product Discovery",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 60.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 70.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating product direction and aligning features with user needs, which relates to product discovery. However, it primarily focuses on broader themes of organisational strategy and decision-making rather than specific methodologies or practices in product discovery.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction in product development, which aligns with the core themes of Product Discovery. It addresses the need for product owners to assess whether they are building the right features based on customer needs and feedback, which is a key aspect of understanding user requirements. However, while it touches on these themes, the primary focus is more on evaluation and direction rather than specific methodologies or frameworks for product discovery, leading to a slightly lower confidence score.",
+    "level": "Secondary"
   },
   "Lean Startup": {
     "category": "Lean Startup",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction and pivoting based on user feedback, which aligns with Lean Startup principles. However, it primarily focuses on general product development and organisational strategy rather than explicitly detailing Lean Startup methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of evaluating direction and pivoting, which aligns with Lean Startup principles. However, it primarily focuses on Scrum practices and general product development rather than explicitly addressing Lean Startup concepts like MVPs or validated learning. While there are relevant insights about feedback and adaptability, the discussion lacks depth in Lean-specific methodologies.",
     "level": "Tertiary"
   },
   "Agile Planning": {
@@ -854,7 +875,7 @@
     "reasoning": "Content primarily discusses the importance of evaluating direction and making strategic pivots rather than focusing on accountability within Agile teams.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-12T12:17:39",
     "ai_confidence": 0,
@@ -928,21 +949,27 @@
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies based on user behaviour and market changes, which aligns with the theme of trend analysis. However, it primarily focuses on personal and organisational reflections rather than a structured analysis of trends in Agile, DevOps, or business agility.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for adaptability in response to feedback and market trends. However, it primarily focuses on personal experiences and general advice rather than a structured analysis of trends within Agile or DevOps frameworks. While there are mentions of monitoring market trends and the need for organisations to pivot, the discussion lacks depth in analysing specific trends or their implications, which is essential for a higher confidence score in the 'Trend Analysis' category.",
+    "level": "Ignored"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adaptability, which aligns with Agile principles of continuous improvement and responsiveness to change. However, it primarily focuses on specific examples and scenarios rather than a comprehensive discussion of Agile philosophy.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 10,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of evaluating direction in Agile contexts, particularly for developers, product owners, and organisations. It touches on key Agile concepts such as continuous improvement, adaptability, and the need for regular feedback loops. However, while it aligns with Agile principles, it primarily focuses on practical applications rather than a deep exploration of Agile philosophy itself.",
+    "level": "Secondary"
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -982,48 +1009,60 @@
   },
   "Market Share": {
     "category": "Market Share",
-    "calculated_at": "2025-02-12T12:18:06",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a clear focus on market share or related strategies.",
     "level": "Ignored"
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various levels, including organisational strategy, which aligns with the theme of strategic goals. However, it primarily focuses on the need for adaptability and responsiveness rather than explicitly defining long-term objectives.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for adaptability in response to market changes. While it touches on strategic evaluation and the necessity of aligning actions with broader goals, it primarily focuses on operational tactics and individual roles rather than explicitly defining long-term strategic objectives. The depth of discussion on strategic goals is limited, as it does not delve deeply into frameworks or evidence-based approaches for setting and measuring these goals.",
+    "level": "Secondary"
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies based on feedback and changing circumstances, which aligns with the principles of Continuous Learning. However, it primarily focuses on the need for organisations to pivot and reassess their strategies rather than explicitly promoting a growth mindset or knowledge sharing among teams.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of regularly evaluating direction at individual, team, and organisational levels, which aligns with the principles of Continuous Learning. It emphasises the need for feedback, adaptability, and reflection, particularly through retrospectives in Agile practices. However, while it touches on these themes, the primary focus is more on evaluation and direction rather than explicitly promoting a growth mindset or knowledge sharing, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Decision Theory": {
     "category": "Decision Theory",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction and making informed choices at various levels, which aligns with decision-making processes. However, it primarily focuses on practical examples and organisational strategies rather than a deep exploration of decision theory principles.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction in decision-making processes at various levels (individual, team, and organisational). It highlights the need for continuous assessment and adaptation, which aligns with decision theory principles. However, while it touches on decision-making, it primarily focuses on Agile practices and does not delve deeply into the theoretical aspects of decision theory, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Enterprise Agility": {
     "category": "Enterprise Agility",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, which aligns with the theme of adaptability and responsiveness in enterprise agility. However, it primarily focuses on individual and product-level considerations rather than a comprehensive organisational context.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels, including the organizational level, which aligns with the principles of enterprise agility. It highlights the need for adaptability and responsiveness to market changes, particularly in the context of organisational strategy. However, the primary focus remains on individual and team-level practices, which detracts from a stronger alignment with enterprise agility as a whole.",
+    "level": "Secondary"
   },
   "Lean": {
     "category": "Lean",
@@ -1034,31 +1073,13 @@
     "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a clear focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-12T12:13:58",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies at various organisational levels, which aligns with themes of resilience and change. However, it primarily focuses on individual and product-level considerations rather than organisational resilience as a central theme.",
-    "level": "Secondary"
-  },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-12T12:13:59",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses the importance of evaluating direction in product development and organisational strategy, with no focus on installation or configuration processes.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-12T12:14:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, with minimal focus on software code quality or complexity.",
     "level": "Ignored"
   },
   "Flow Efficiency": {
@@ -1070,112 +1091,88 @@
     "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a focus on optimising work throughput or flow efficiency.",
     "level": "Ignored"
   },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 40,
-    "final_score": 49.0,
-    "reasoning": "The content discusses the importance of evaluating direction in product development and includes a brief mention of an AI assistant for booking meetings. However, the primary focus is on decision-making and organisational strategy rather than a deep exploration of AI and automation within Agile frameworks.",
-    "level": "Tertiary"
-  },
   "Product Delivery": {
     "category": "Product Delivery",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction in product development and organisational strategy, which relates to product delivery. However, it primarily focuses on broader themes of decision-making and strategic pivots rather than specific methodologies or practices directly tied to the end-to-end product delivery process.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction in software development, particularly from the perspectives of developers and product owners. It highlights the need for continuous assessment of features and alignment with customer needs, which aligns with product delivery principles. However, while it touches on relevant themes, it lacks a comprehensive exploration of methodologies and practices specific to product delivery, such as Agile methodologies or CI/CD practices.",
+    "level": "Secondary"
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction in product development and the role of the product owner in ensuring the right features are built, which aligns with Agile principles. However, it also includes broader discussions about organisational strategy and individual decision-making that are not strictly focused on Agile product management.",
-    "level": "Tertiary"
-  },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies based on user feedback and changing circumstances, which aligns with the themes of continuous learning and innovation. However, the primary focus is on the evaluation of direction rather than explicit methodologies or processes for discovery and learning.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 80.0,
+    "ai_depth": 75.0,
+    "non_ai_confidence": 20,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of evaluating direction in product development, specifically highlighting the roles of developers and product owners in Agile contexts. It mentions Scrum practices, the need for regular retrospectives, and the significance of aligning features with customer needs, which are all core themes of Agile Product Management. However, while it provides practical tips and examples, the depth of discussion could be more focused on specific Agile methodologies rather than general principles.",
+    "level": "Secondary"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, which aligns with Systems Thinking principles. However, it primarily focuses on individual and organisational decision-making without a deep exploration of interconnected systems or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for adaptability and feedback, which aligns with Systems Thinking principles. However, it primarily focuses on Agile methodologies and personal experiences rather than a comprehensive exploration of Systems Thinking concepts, resulting in a moderate confidence score.",
     "level": "Tertiary"
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies based on changing circumstances, which aligns with themes of complexity thinking. However, it primarily focuses on decision-making and organisational behaviour without deeply engaging with complexity science principles.",
-    "level": "Tertiary"
-  },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-12T12:14:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction and making strategic changes rather than focusing on transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-12T12:14:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction and making strategic pivots rather than focusing on specific tools, methodologies, or practical techniques related to Agile and DevOps.",
-    "level": "Ignored"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-12T12:14:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, with no clear focus on events or presentations.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in various roles within an organisation, which touches on aspects of adaptability and feedback loops relevant to complexity thinking. However, it primarily focuses on practical advice for Scrum roles and does not deeply engage with complexity science principles or frameworks like the Cynefin Framework. The discussion lacks explicit references to non-linear dynamics or emergent behaviours, which are central to the category.",
     "level": "Ignored"
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies based on market feedback, which aligns with the theme of market adaptability. However, it primarily focuses on general business practices and personal reflections rather than specific Agile, DevOps, or Lean methodologies.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for adaptability in response to market dynamics and customer feedback. It mentions Agile practices like retrospectives and the significance of data analysis, aligning well with the principles of market adaptability. However, while it touches on relevant themes, it does not delve deeply into specific methodologies or case studies related to Agile or DevOps, which slightly lowers the depth score.",
+    "level": "Secondary"
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction in various contexts, including product development and organisational strategy, but does not directly reference Agile, Scrum, DevOps, or Lean principles. It presents anecdotal experiences and reflections that align with the broader context of business agility without providing actionable insights based on recognised practices.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in various roles, including developers and product owners, which directly references Scrum principles and practices. While it does touch on broader themes of adaptability and feedback, the primary focus remains on Scrum roles and methodologies, thus not aligning with the Miscellaneous category.",
+    "level": "Ignored"
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-12T12:14:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in software development and product management, which touches on some principles relevant to DevOps, such as continuous improvement and feedback loops. However, it primarily focuses on Scrum practices and individual roles rather than the broader DevOps philosophy of collaboration, automation, and shared accountability. The lack of explicit mention of DevOps concepts and the emphasis on Scrum roles leads to a lower confidence score.",
     "level": "Ignored"
   },
   "Azure DevOps": {
@@ -1187,23 +1184,17 @@
     "reasoning": "Content discusses general concepts of direction and decision-making in product development without specific reference to Azure DevOps or its functionalities.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses a product related to meeting scheduling and its evolution based on user behaviour, which aligns with the category's focus on tools and software that facilitate Agile practices. However, the primary focus is on the importance of direction and decision-making rather than a detailed analysis or review of products or literature.",
-    "level": "Tertiary"
-  },
   "Business Agility": {
     "category": "Business Agility",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies based on changing user needs, which aligns with the principles of business agility. However, it primarily focuses on individual and organisational decision-making rather than a comprehensive exploration of business agility practices.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for adaptability and responsiveness to change, which aligns with the principles of business agility. However, while it touches on relevant themes, it primarily focuses on personal and team reflections rather than providing in-depth strategies or frameworks specifically related to business agility. The examples and lessons shared are valuable but do not fully explore the broader implications of business agility in a structured manner.",
+    "level": "Secondary"
   },
   "Kanban": {
     "category": "Kanban",
@@ -1216,12 +1207,15 @@
   },
   "Value Delivery": {
     "category": "Value Delivery",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction in product development and organisational strategy, which aligns with the theme of ensuring value delivery. However, it primarily focuses on the need for change and adaptation rather than specific methodologies or practices related to value delivery.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organizational) and highlights the need for continuous assessment to ensure alignment with customer needs and product vision. While it touches on Agile principles like retrospectives and feedback, the primary focus is more on the concept of direction rather than specific value delivery methodologies or practices. Therefore, it aligns with the category but lacks depth in discussing core value delivery strategies.",
+    "level": "Secondary"
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1234,55 +1228,46 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-12T12:14:42",
-    "ai_confidence": 70,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels and adapting strategies based on customer usage and market changes, which aligns with the principles of organisational agility. However, it primarily focuses on the concept of direction rather than specific agile methodologies or practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, which aligns with the concept of organisational agility. It highlights the need for adaptability in response to changing market demands and customer behaviours, exemplified by the pivot of a product based on user feedback. However, while it touches on key themes of agility, such as continuous improvement and responsiveness, the discussion lacks depth in exploring specific agile methodologies or frameworks, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content includes personal reflections on the importance of evaluating direction in product development and organisational strategy, but it primarily focuses on general principles rather than personal experiences or anecdotes.",
-    "level": "Tertiary"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
-    "non_ai_confidence": 20,
-    "final_score": 47.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various levels, including individual developers and organisational strategy, which touches on team dynamics and the need for adaptability in processes. However, it primarily focuses on the concept of direction rather than a structured discussion on people and processes.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 50,
+    "final_score": 78.0,
+    "reasoning": "The content provides personal anecdotes and reflections on the importance of evaluating direction in Agile practices, particularly from the perspective of a Scrum trainer. It discusses personal experiences with teams and product owners, illustrating challenges and insights that align well with the Personal category. The depth of discussion is significant, as it includes specific examples and lessons learned, making it a primary focus rather than a secondary mention.",
+    "level": "Secondary"
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T14:18:57",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, touching on how organisational strategy and product development can align with user needs. However, it primarily focuses on individual and organisational decision-making rather than a deep exploration of sociotechnical interactions.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-12T12:14:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without focusing on specific news or reviews related to Agile, DevOps, or technology.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction at individual, team, and organisational levels, which aligns with sociotechnical systems by highlighting the interplay between technology (development practices) and organisational structures (product ownership and strategy). However, while it touches on these themes, it lacks a deeper exploration of the sociotechnical interactions and frameworks that define the category, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-12T12:14:49",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the importance of evaluating direction and making strategic pivots based on user behaviour, rather than focusing on metrics or learning methodologies.",
     "level": "Ignored"
   },
@@ -1306,10 +1291,10 @@
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
-    "calculated_at": "2025-02-12T12:14:54",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses product direction and business strategy rather than psychological principles or theories related to organisational behaviour.",
     "level": "Ignored"
   },
@@ -1324,21 +1309,27 @@
   },
   "Leadership": {
     "category": "Leadership",
-    "calculated_at": "2025-02-17T14:19:00",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of evaluating direction at various levels, including organisational strategy, which relates to leadership practices. However, it primarily focuses on decision-making and product development rather than leadership itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels, including organisational, product owner, and developer perspectives. It highlights the need for leaders to adapt and pivot based on changing circumstances, which aligns with leadership in Agile and DevOps. However, while it touches on leadership themes, it primarily focuses on the concept of direction and decision-making rather than providing in-depth leadership strategies or frameworks.",
+    "level": "Secondary"
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T14:19:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the importance of evaluating direction in product development and organisational strategy, which aligns with the Agile Product Operating Model. However, it primarily focuses on general reflections and examples rather than specific Agile principles or methodologies.",
-    "level": "Tertiary"
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 45.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for continuous assessment and adaptability, which aligns with the principles of the Agile Product Operating Model. However, it primarily focuses on general agile practices and personal anecdotes rather than explicitly detailing the APOM framework or its specific components, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1349,31 +1340,443 @@
     "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a clear focus on BetaCodex principles or practices.",
     "level": "Ignored"
   },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T14:19:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content discusses the importance of evaluating direction in product development and organisational strategy but does not focus on Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T14:19:07",
-    "ai_confidence": 30,
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 27.0,
-    "reasoning": "The content discusses the importance of evaluating direction and adapting strategies, which relates to Agile principles, but it does not primarily focus on Scrum, Kanban, Lean, or Agile practices.",
-    "level": "Quaternary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of evaluating direction at individual, team, and organisational levels, which aligns with the principles of self-organisation and adaptability. It touches on collaboration and decision-making, particularly in Agile contexts, but lacks a direct focus on social technologies as a framework. The depth of discussion on these themes is moderate, providing practical tips and examples, but it does not fully explore the broader implications of social technologies in fostering collective intelligence or transparency.",
+    "level": "Secondary"
   },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T14:19:09",
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, without a clear focus on the One Engineering System framework or its principles.",
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the importance of evaluating direction in product development and organisational strategy, with no clear focus on Internal Developer Platforms or related topics.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 50,
+    "non_ai_confidence": 0,
+    "final_score": 50.0,
+    "reasoning": "The content briefly mentions an AI assistant used for booking meetings, but the primary focus is on evaluating direction in product development and organisational strategy.",
+    "level": "Tertiary"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in product development and organisational strategy, which aligns with Scrum principles of continuous improvement and adapting to change. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve deeply into Scrum-specific practices, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in software development, touching on aspects like security and architectural decisions. However, it does not explicitly focus on the Shift-Left Strategy or integrate testing and compliance early in the development process. The discussion is more about general evaluation and adaptability rather than a structured approach to Shift-Left practices.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 82.0,
+    "ai_mentions": 75.0,
+    "ai_alignment": 85.0,
+    "ai_depth": 80.0,
+    "non_ai_confidence": 0,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for continuous assessment and adaptation, which aligns well with the principles of Continuous Improvement. It provides practical tips for developers and product owners, emphasising the significance of feedback and regular retrospectives, which are key aspects of fostering a culture of experimentation and learning. The depth of discussion is substantial, with real-world examples and actionable insights, reinforcing the commitment to incremental advancements.",
+    "level": "Primary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for alignment with product vision and customer needs. However, it primarily focuses on personal anecdotes and general advice rather than explicitly addressing the concept of Common Goals within Agile and DevOps frameworks. While there are relevant points about alignment and adaptability, the depth of discussion on Common Goals is limited, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 62.0,
+    "ai_mentions": 3,
+    "ai_alignment": 75.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 0,
+    "final_score": 62.0,
+    "reasoning": "The content discusses the importance of evaluating direction in various roles, which indirectly relates to competence through the need for continuous learning and adaptation. However, while it touches on the necessity of assessing skills and decisions, it does not explicitly focus on competence as a primary theme, leading to a moderate confidence score.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-03-21T17:56:43",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of evaluating direction in software development and organisational strategy, but it does not explicitly mention the One Engineering System (1ES) or its principles. While it touches on themes relevant to software development practices, such as feedback and adaptability, it lacks a direct focus on the integration and standardisation of engineering processes that characterise 1ES. The discussion is more about general agile practices and personal experiences rather than the specific framework of 1ES.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:08",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of evaluating direction and making informed choices, which aligns with the principles of Agentic Agility. However, it primarily focuses on general Agile practices and does not explicitly differentiate between Human and AI Agentic Agility. The discussion lacks depth in exploring the transformative capacity of individuals and systems, resulting in a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-10T22:56:15",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 30,
+    "non_ai_confidence": 10,
+    "final_score": 82.0,
+    "reasoning": "The content extensively discusses the importance of evaluating direction in product development, particularly from the perspectives of developers, product owners, and organisations. It highlights key practices such as regular assessments, customer feedback integration, and the need for adaptability, which align closely with Agile principles and continuous improvement. The depth of discussion is significant, providing practical tips and real-world examples that reinforce the core themes of product development methodologies. Overall, the content is highly relevant and focused on the category, justifying a high confidence score.",
+    "level": "Primary"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-10T22:56:18",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evaluating direction in project management and Agile practices, discussing the importance of feedback and adaptability. However, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The discussion is more aligned with general Agile principles rather than the facilitation techniques that characterise Liberating Structures, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-10T22:56:21",
+    "ai_confidence": 68.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 18.0,
+    "non_ai_confidence": 10,
+    "final_score": 68.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various levels (individual, team, and organisational) and highlights the need for regular assessments and adaptability, which aligns with project management principles. However, it primarily focuses on agile practices and roles, particularly for developers and product owners, without delving deeply into broader project management methodologies or tools. The discussion lacks explicit references to core project management concepts such as scope, time, cost, and quality, which limits its depth in the context of project management as a whole.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-10T22:56:23",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of evaluating direction in project management and Agile practices, but it does not explicitly mention Open Space Agile or its principles. While it touches on themes of adaptability and feedback, which are relevant to Agile, it lacks a direct focus on Open Space Technology, psychological safety, or co-creation, which are central to the Open Space Agile category.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-10T22:56:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in projects and organisations, which touches on the concept of unrealised value by highlighting the need for continuous assessment and adaptation. However, it primarily focuses on practical advice for developers and product owners rather than explicitly addressing unrealised value or its indicators. The discussion lacks depth in exploring specific measures or strategies for identifying untapped opportunities, which diminishes its alignment with the category's core themes.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-10T22:56:29",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": 30,
+    "final_score": 25.0,
+    "reasoning": "The content discusses the importance of evaluating direction in project management and product development, which indirectly relates to Time to Market. However, it lacks explicit mentions of Time to Market metrics or strategies for improvement. The focus is more on general guidance for developers and product owners rather than on optimising processes to reduce delivery time. While there are elements of adaptability and responsiveness to market needs, the primary focus is not on the speed of delivering value, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-10T22:56:32",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in projects, which indirectly relates to the concept of Current Value by emphasising the need for regular assessment of progress and alignment with customer needs. However, it lacks explicit mentions of Current Value metrics or techniques for measuring it, and the discussion remains more focused on general project direction rather than the specific indicators of value delivery. Therefore, while there is some alignment, it does not meet the criteria for a strong focus on Current Value.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-10T22:56:34",
+    "ai_confidence": 42.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35.0,
+    "ai_depth": 45.0,
+    "non_ai_confidence": 40,
+    "final_score": 42.0,
+    "reasoning": "The content discusses the importance of evaluating direction at various organisational levels, which aligns with the CaaP concept of continuous evolution based on customer insights. However, it primarily focuses on individual and team-level evaluations rather than a comprehensive organisational strategy. While it mentions organisational adaptability and the need for feedback, it lacks a deep exploration of CaaP principles, such as cross-functional collaboration or specific case studies of CaaP implementations. Therefore, while there are relevant mentions and some alignment, the depth of discussion does not fully meet the criteria for a strong focus on Company as a Product.",
+    "level": "Tertiary"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-10T22:56:38",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on evaluating direction at individual, team, and organisational levels, which is more aligned with general Agile practices rather than specifically addressing the complexities and strategies involved in scaling. While it touches on the importance of adaptability and feedback, it lacks direct discussions on scaling frameworks, cross-team collaboration, or managing dependencies, which are essential for the 'Scaling' category. Therefore, the confidence score reflects a low alignment with the specified category.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-10T22:56:41",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content discusses the importance of evaluating direction in project management and agile practices but does not explicitly mention Hybrid Agile or critically examine the integration of traditional and agile methodologies. It focuses more on general agile principles and individual roles rather than the specific challenges and implications of Hybrid Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-10T22:56:44",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the importance of evaluating direction in agile practices, which aligns with the principles of Agnostic Agile. However, it primarily focuses on Scrum roles and does not explicitly mention Agnostic Agile or its core principles. The depth of discussion on the topic is limited, as it does not provide substantial insights into the philosophy of Agnostic Agile or its comparisons with traditional frameworks. Overall, while there are relevant themes, the content lacks a strong focus on Agnostic Agile itself.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-10T22:56:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of evaluating direction in project management and development practices, focusing on Scrum roles and methodologies. While it touches on concepts relevant to Agile and team dynamics, it does not mention GitHub or its functionalities, nor does it provide insights into GitHub-specific practices or tools. Therefore, it does not align with the GitHub category.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-10T22:56:51",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the importance of evaluating direction in project management, particularly in Scrum, without any direct reference to Cell Structure Design or its principles. While it touches on themes of adaptability and responsiveness, these are not specifically aligned with the core concepts of Cell Structure Design, which focuses on decentralised organisational structures and autonomous cells. The discussion lacks depth regarding the characteristics or implementation of Cell Structure Design, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Principle": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 82.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": null,
+    "final_score": 82.0,
+    "reasoning": "The content discusses the importance of evaluating direction in projects at various levels (individual, team, and organizational), closely aligning with the principles of continuous improvement and adaptability. It emphasizes actionable insights for developers and product owners, illustrating the principles through relevant examples and discussions. The frequent mentions of evaluating direction, listening to feedback, and adapting strategies show a solid understanding of actionable principles. While it does not explicitly cite Agile, Lean, or DevOps terminology, the concepts discussed resonate well with the principles guiding these methodologies.",
+    "level": "Primary"
+  },
+  "Tool": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 22.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content discusses evaluating direction and adapting strategies in a general sense without focusing on specific tools or their integration into Agile, Lean, or DevOps practices. While it implies the importance of retrospectives in Scrum, the emphasis is more on theoretical insights and personal experiences rather than practical tool usage or analysis.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 23.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content primarily discusses the importance of evaluating direction at various organizational levels, focusing more on tactical advice rather than foundational values. While it touches on the importance of adapting and being responsive, which aligns somewhat with Agile values, it does not deeply engage with core values like commitment or respect. The discussions are more practical and prescriptive, lacking a philosophical foundation related to values.",
+    "level": "Ignored"
+  },
+  "Philosophy": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content includes references to evaluation and direction in project management but focuses more on practices and methodologies such as Scrum rather than the philosophical underpinnings or theories that guide these practices. Discussions are primarily centered on making informed decisions and addressing practical challenges within roles rather than exploring the fundamental 'why' behind those practices. The mention of philosophical quotes somewhat aligns with the category, but the overall emphasis is on procedural advice, which detracts from a stronger philosophical exploration.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 63.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 63.0,
+    "reasoning": "The content discusses the importance of evaluating direction in projects, incorporating principles related to Agile methodologies, such as retrospectives and feedback loops. However, while it touches on concepts relevant to discipline in practice, it primarily focuses on tools and practices rather than a systemic and structured approach to disciplines like Agile, DevOps, or Lean. The discussion lacks detailed governance structures or ethical considerations, which are essential for a higher confidence score in the 'Discipline' category.",
+    "level": "Secondary"
+  },
+  "Artifact": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 18.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": null,
+    "final_score": 18.0,
+    "reasoning": "The content discusses the importance of evaluating project direction for developers, product owners, and organizations but does not explicitly mention any artifacts specific to Agile, Scrum, or Lean. It focuses more on the principles of direction and evaluation rather than the structure or management of artifacts that aid transparency and adaptation in work processes.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 23.0,
+    "ai_mentions": 0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": null,
+    "final_score": 23.0,
+    "reasoning": "The content discusses the importance of evaluating direction in software development and product management but does not explicitly mention observability or its principles, metrics, logs, or tools. It emphasizes feedback and regular retrospectives, which relate to Agile practices but does not provide a detailed exploration of observability concepts nor does it address its implementation in the context of observability. Therefore, while there are tangents to performance evaluation, the core themes of observability are not directly addressed.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 71.0,
+    "ai_mentions": 15,
+    "ai_alignment": 28,
+    "ai_depth": 32,
+    "non_ai_confidence": null,
+    "final_score": 71.0,
+    "reasoning": "The content focuses on evaluating direction at various levels—individual, team, and organizational. It provides actionable insights and practices such as regular retrospectives, listening to feedback, and adapting strategies. While it mentions concepts like evaluating direction, it does not delve deeply into specific practices like Pair Programming, TDD, or Kanban explicitly. There is substantial information on practices related to self-assessment and adaptability, making it reasonably aligned with the 'Practice' category.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 55.0,
+    "ai_mentions": 5,
+    "ai_alignment": 60.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses evaluation and adjustment of direction in a project context, which relates to agile principles like retrospectives and feedback loops. However, it lacks a detailed exploration of specific methods or structured procedures, making the primary focus more about philosophical insights rather than methodical steps.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 22.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 22.0,
+    "reasoning": "The content discusses evaluating direction in projects and emphasizes the importance of adaptability and feedback, which indirectly relates to some aspects of models and frameworks in Agile environments. However, the primary focus is on practical advice rather than a deep discussion of specific models, frameworks, or their applications. It lacks comprehensive exploration of any particular conceptual model like the Cynefin Framework, Lean Startup principles, or others mentioned in the category definition.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 35.0,
+    "ai_mentions": 2,
+    "ai_alignment": 25.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses the importance of evaluating direction in projects and organizations but does not focus directly on any specific framework related to Agile, DevOps, or Lean principles. While there are mentions of Scrum and retrospectives, these are not the main focus of the content, and the discussion lacks depth on structured methodologies or guidelines. Overall, it offers more personal experiences and general advice on adaptability than a formal exploration of frameworks.",
+    "level": "Ignored"
+  },
+  "Tenet": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 55.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 55.0,
+    "reasoning": "The content discusses the importance of evaluating direction across different project levels, emphasizing adaptability, continuous feedback, and regular retrospectives, which align with Agile principles. However, it lacks specific, actionable tenets and primarily presents general advice and personal anecdotes rather than concrete tenets from Agile or Lean methodologies, which diminishes its alignment with the 'Tenet' category.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:51:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 5,
+    "ai_alignment": 26,
+    "ai_depth": 18,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses evaluating direction and adapting processes at individual, team, and organizational levels. While it touches on some relevant concepts like feedback and retrospectives that relate to capabilities, it predominantly focuses on roles and specific actions rather than the cultivation of enduring capabilities as defined in the 'Capability' category. The mention of practices like retrospectives indicates a minor alignment with the Capability theme, but overall it lacks depth in discussing systemic capabilities and their broader impact.",
     "level": "Ignored"
   }
 }

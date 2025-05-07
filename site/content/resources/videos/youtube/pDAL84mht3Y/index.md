@@ -2,31 +2,40 @@
 title: 'Overcoming the Plague of Rigidity: Embracing True Agility in Your Team'
 description: Break free from the plague of rigidity in Agile! Discover how to foster innovation and adaptability within your team for true agility.
 date: 2023-11-08T11:00:53Z
+weight: 1000
 ResourceId: pDAL84mht3Y
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pDAL84mht3Y
 url: /resources/videos/:slug
-slug: 7-signs-of-the-agile-apocalypse-plague
+slug: overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
 layout: video
 aliases:
-- /resources/videos/pDAL84mht3Y
-- /resources/videos/7-signs-of-the-agile-apocalypse-plague
-- /resources/7-signs-of-the-agile-apocalypse-plague
 - /resources/pDAL84mht3Y
-aliasesFor404:
+- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
+- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
+- /resources/videos/7-signs-of-the-agile-apocalypse-plague
+aliasesArchive:
+- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
 - /resources/videos/7-signs-of-the-agile-apocalypse-plague
 - /resources/7-signs-of-the-agile-apocalypse-plague
+- overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
 preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: true
 tags:
-- People and Process
-- Business Agility
 - Agile Philosophy
-- Organisational Agility
+- Pragmatic Thinking
+- Software Development
 - Agile Values and Principles
+- Organisational Agility
+- Continuous Improvement
+- Business Agility
+- Agile Transformation
+- Continuous Learning
+- Team Performance
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,8 +43,7 @@ source: youtube
 resourceTypes:
 - video
 categories:
-- Leadership
-- Social Technologies
+- Product Development
 
 ---
 As I reflect on my journey through the world of Agile, I often find myself contemplating the various signs that indicate we might be veering off course. One of the most concerning signs, which I like to refer to as a plague, is the rigid adherence to tools and processes within a team. This fixation can be detrimental to our ability to truly embrace agility.
@@ -48,7 +56,7 @@ When I say that tools and processes can become sacrosanct, I mean that they can 
   
 - **Resistance to Change**: A rigid approach fosters an environment where change is met with resistance. This is counterproductive to the very essence of Agile, which thrives on flexibility and responsiveness to change.
 
-- **Loss of Innovation**: When teams are bound by strict processes, they often overlook opportunities for innovation. The best solutions often emerge from experimentation and iteration, not from a rigid adherence to a predefined path.
+- **Loss of Innovation**: When teams are bound by strict processes, they often overlook opportunities for innovation. The best solutions often emerge from [experimentation]({{< ref "/tags/experimentation" >}}) and iteration, not from a rigid adherence to a predefined path.
 
 ### Embracing Continuous Adaptation
 
@@ -62,6 +70,6 @@ To combat this plague, we must cultivate a mindset of continuous adaptation. Her
 
 ### Conclusion
 
-In my experience, the key to overcoming the plague of rigidity is to foster a culture of continuous improvement and adaptability. Agility is not a destination; it’s a journey. By remaining open to change and willing to evolve our practices, we can ensure that we are not just going through the motions but truly embodying the Agile mindset.
+In my experience, the key to overcoming the plague of rigidity is to foster a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and adaptability. Agility is not a destination; it’s a journey. By remaining open to change and willing to evolve our practices, we can ensure that we are not just going through the motions but truly embodying the Agile mindset.
 
 Remember, if you find yourself or your team clinging too tightly to a specific tool or process, it might be time to take a step back and reassess. Agility requires us to be fluid, to adapt, and to embrace the unknown. Let’s not allow the plague of rigidity to hinder our progress on this journey.

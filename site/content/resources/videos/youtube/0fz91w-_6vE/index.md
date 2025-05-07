@@ -2,35 +2,34 @@
 title: 'Unlocking Value in DevOps: My Role as a Consultant in Driving Change and Overcoming Bottlenecks'
 description: 'Discover the core of DevOps consulting: identifying bottlenecks, optimising workflows, and fostering a culture of continuous improvement. Join the conversation!'
 date: 2023-05-02T07:00:00Z
+weight: 330
 ResourceId: 0fz91w-_6vE
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 0fz91w-_6vE
 url: /resources/videos/:slug
-slug: what-is-your-primary-role-in-a-devops-consulting-gig-
+slug: unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 aliases:
-- /resources/videos/0fz91w-_6vE
-- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
-- /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
 - /resources/0fz91w-_6vE
-aliasesFor404:
+- /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
+- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig
+aliasesArchive:
+- /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
 - /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
+- /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig
+- unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 isShort: false
 tags:
 - Pragmatic Thinking
-- People and Process
-- Value Delivery
-- Product Delivery
 - Software Development
-- Market Adaptability
+- Value Delivery
 - Operational Practices
-- Value Stream Management
-- Discovery and Learning
-- Flow Efficiency
+- Product Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -42,7 +41,7 @@ categories:
 - DevOps
 
 ---
-In my journey as a DevOps consultant, I often find myself reflecting on the core of my role. The question, "What is my primary role in a DevOps consulting gig?" is not as straightforward as it may seem. The answer is deeply intertwined with the context of each unique engagement. It hinges on where the customer currently stands, what they aim to achieve, and the specific challenges they face.
+In my journey as a [DevOps]({{< ref "/categories/devops" >}}) consultant, I often find myself reflecting on the core of my role. The question, "What is my primary role in a DevOps consulting gig?" is not as straightforward as it may seem. The answer is deeply intertwined with the context of each unique engagement. It hinges on where the customer currently stands, what they aim to achieve, and the specific challenges they face.
 
 ### Provoking Thought and Change
 
@@ -64,8 +63,8 @@ So, how do I uncover these bottlenecks? It’s about asking the right questions 
 
 ### The Bigger Picture
 
-Ultimately, my role transcends mere problem-solving. It’s about fostering a culture of continuous improvement and agility within organisations. By optimising processes and enhancing collaboration, we can create a more efficient and responsive environment that delivers value to customers more effectively.
+Ultimately, my role transcends mere problem-solving. It’s about fostering a culture of [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and agility within organisations. By optimising processes and enhancing collaboration, we can create a more efficient and responsive environment that delivers value to customers more effectively.
 
-If you’re interested in discussing these concepts further—whether it’s about Agile, Scrum, or DevOps—please don’t hesitate to reach out. I’m always open to a chat over coffee, and I welcome your thoughts and comments. 
+If you’re interested in discussing these concepts further—whether it’s about Agile, [Scrum]({{< ref "/categories/scrum" >}}), or DevOps—please don’t hesitate to reach out. I’m always open to a chat over coffee, and I welcome your thoughts and comments. 
 
 Thank you for taking the time to read my insights. If you found this post helpful, please like, follow, and subscribe for more content. Your engagement is invaluable to me!

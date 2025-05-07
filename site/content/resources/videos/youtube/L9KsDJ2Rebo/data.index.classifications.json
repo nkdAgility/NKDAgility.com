@@ -1,12 +1,15 @@
 {
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-17T20:25:52",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of learning and engagement in Agile practices, highlighting the importance of real-world application and collaboration, which are relevant to the themes of Social Technologies.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of spaced learning in Agile and Scrum, which indirectly relates to social technologies through the emphasis on collaboration and community support among learners. While it does not explicitly mention social technologies, it aligns with the core themes of fostering collaboration and enhancing decision-making through practical application and peer engagement. The depth of discussion on real-world application and ongoing support contributes positively, but the primary focus remains on learning methodologies rather than social frameworks.",
+    "level": "Secondary"
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -19,11 +22,14 @@
   },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-17T20:25:54",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses learning methodologies and engagement in training, with no clear focus on DevOps principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on learning methodologies within Agile and Scrum, which are not directly aligned with the core principles of DevOps. While it touches on aspects of collaboration and real-world application, it lacks explicit discussions on DevOps philosophy, practices, or cultural shifts. The emphasis is on educational techniques rather than the integration of people, processes, and technology for continuous value delivery.",
     "level": "Ignored"
   },
   "Product Management": {
@@ -82,29 +88,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-17T20:26:03",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of spaced learning in training rather than focusing on Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T20:26:06",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of spaced learning in an educational context, focusing on student engagement and real-world application, rather than software code quality or complexity.",
-    "level": "Ignored"
-  },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-17T20:26:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of spaced learning in Agile training, with no clear focus on Scaling Kanban principles or practices.",
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses learning methodologies in Agile and Scrum, focusing on spaced learning versus traditional courses. While it touches on practical application and engagement, it does not explicitly mention Evidence-Based Management or its key topics. The discussion lacks depth in terms of empirical evidence or metrics related to management decisions, which are central to EBM.",
     "level": "Ignored"
   },
   "Hypothesis Driven Development": {
@@ -118,12 +109,15 @@
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
-    "calculated_at": "2025-02-17T20:26:10",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the application of learning in a real work environment, which relates to Agile principles, but it does not primarily focus on Agile frameworks themselves.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the concept of spaced learning in relation to Agile training, specifically mentioning PSM (Professional Scrum Master) and the importance of practical application in real work environments. However, it lacks a direct discussion of Agile frameworks themselves, such as Scrum or Kanban, and does not delve into the principles or comparative analysis of these frameworks. The focus is more on the learning process rather than the frameworks, leading to a low confidence score.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -136,10 +130,10 @@
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-17T20:26:13",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in Agile training rather than the Definition of Ready.",
     "level": "Ignored"
   },
@@ -150,15 +144,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in Agile training rather than analysing trends in Agile methodologies or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-17T20:26:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in training, without a clear focus on scaling Agile practices or frameworks.",
     "level": "Ignored"
   },
   "Test Automation": {
@@ -199,12 +184,15 @@
   },
   "Team Performance": {
     "category": "Team Performance",
-    "calculated_at": "2025-02-17T20:26:25",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of spaced learning and collaboration among participants, which relates to team engagement and practice in real work environments, but it primarily focuses on learning methodologies rather than team performance strategies.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the benefits of spaced learning and practical application in real work environments, which indirectly relates to team performance through engagement and collaboration. However, it lacks direct mentions of Agile practices, team dynamics, or specific methodologies aimed at maximising team effectiveness. The discussion is more focused on learning strategies rather than on enhancing team performance or collaboration.",
+    "level": "Ignored"
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -233,15 +221,6 @@
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than focusing on methodologies or practices related to product delivery.",
     "level": "Ignored"
   },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-17T20:26:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 30,
-    "final_score": 3.0,
-    "reasoning": "Content primarily discusses learning methodologies and engagement in Agile training, with no clear focus on AI applications.",
-    "level": "Ignored"
-  },
   "Digital Transformation": {
     "category": "Digital Transformation",
     "calculated_at": "2025-02-17T20:26:32",
@@ -251,15 +230,6 @@
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training environments, without a clear focus on digital transformation or the strategic use of digital technologies.",
     "level": "Ignored"
   },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-17T20:26:34",
-    "ai_confidence": 80,
-    "non_ai_confidence": 20,
-    "final_score": 74.0,
-    "reasoning": "Content primarily discusses the importance of collaborative learning and real-world application in Agile training, highlighting team dynamics and the role of peer interaction in enhancing the learning process.",
-    "level": "Secondary"
-  },
   "Test Driven Development": {
     "category": "Test Driven Development",
     "calculated_at": "2025-02-17T20:26:35",
@@ -268,15 +238,6 @@
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of spaced learning in Agile training, with no clear focus on Test Driven Development principles or practices.",
     "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-17T20:26:37",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "Content discusses the application of agile principles in a learning context, highlighting the importance of practice and real-world challenges, which aligns with agile methodologies.",
-    "level": "Tertiary"
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -296,15 +257,6 @@
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in Agile training rather than focusing on accountability or team dynamics.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-17T20:26:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in Agile training rather than focusing on transparency and accountability within Agile teams.",
-    "level": "Ignored"
-  },
   "Release Management": {
     "category": "Release Management",
     "calculated_at": "2025-02-17T20:26:42",
@@ -312,15 +264,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of spaced learning in training environments, with no clear focus on release management practices or processes.",
-    "level": "Ignored"
-  },
-  "One Engineering System (1ES)": {
-    "category": "One Engineering System (1ES)",
-    "calculated_at": "2025-02-17T20:26:43",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of spaced learning in training environments, with no clear focus on the One Engineering System framework or its principles.",
     "level": "Ignored"
   },
   "Enterprise Agility": {
@@ -352,37 +295,40 @@
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
-    "calculated_at": "2025-02-17T20:26:52",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of spaced learning and engagement in training rather than Agile Planning Tools or methodologies.",
     "level": "Ignored"
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-17T20:26:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses learning methodologies and engagement rather than the specific role and responsibilities of a Scrum Master.",
-    "level": "Ignored"
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 20,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the benefits of spaced learning in Agile and Scrum courses, which indirectly relates to the role of a Scrum Master in facilitating effective learning and application of Agile principles. However, it does not explicitly focus on the responsibilities or impact of a Scrum Master, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Agile Planning": {
     "category": "Agile Planning",
-    "calculated_at": "2025-02-17T20:26:54",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of spaced learning and practical application in real work environments, rather than focusing on Agile Planning methodologies or practices.",
     "level": "Ignored"
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-17T20:26:56",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than Agile values or principles.",
     "level": "Ignored"
   },
@@ -397,11 +343,14 @@
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-17T20:26:58",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of spaced learning and engagement in training, with no clear focus on Test First Development or related practices.",
+    "calculated_at": "2025-04-08T16:44:32",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the benefits of spaced learning in Agile and Scrum courses, focusing on engagement, retention, and real-world application. It does not mention Test First Development principles, success criteria, or testing practices, which are central to the category. The discussion is more about learning methodologies rather than software development practices, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Forecasting": {
@@ -460,20 +409,23 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-17T20:27:17",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than focusing on innovation capabilities or Evidence-Based Management.",
     "level": "Ignored"
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
-    "calculated_at": "2025-02-17T20:27:19",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the benefits of spaced learning in the context of Agile training, which is a significant aspect of Agile transformation, but it does not primarily focus on Agile principles or methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the benefits of spaced learning in the context of Agile training, which aligns with Agile transformation principles. However, it lacks direct mentions of Agile methodologies or frameworks, and the depth of discussion is more focused on learning techniques rather than comprehensive Agile transformation strategies.",
     "level": "Tertiary"
   },
   "Engineering Practices": {
@@ -503,24 +455,6 @@
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than focusing on Scrum Values.",
     "level": "Ignored"
   },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-17T20:27:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in an educational context, without a clear focus on organisational resilience or change management.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-17T20:27:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the benefits of spaced learning and engagement in training rather than specific tools or methodologies related to Agile and DevOps.",
-    "level": "Ignored"
-  },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
     "calculated_at": "2025-02-17T20:27:32",
@@ -541,21 +475,15 @@
   },
   "Personal": {
     "category": "Personal",
-    "calculated_at": "2025-02-17T20:27:35",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses personal experiences and insights related to learning and applying Agile principles, but it primarily focuses on the effectiveness of spaced learning rather than personal anecdotes or reflections.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses the effectiveness of spaced learning in Agile training, which touches on personal experiences and insights related to learning methodologies. However, it lacks direct personal anecdotes or reflections that would strengthen its alignment with the Personal category. The focus is more on the training approach rather than individual experiences or challenges faced in Agile practices.",
     "level": "Tertiary"
-  },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-17T20:27:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in Agile training rather than focusing on specific events or presentations.",
-    "level": "Ignored"
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -584,15 +512,6 @@
     "reasoning": "Content primarily discusses learning methodologies and engagement rather than specific Scrum Team dynamics or roles.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-17T20:27:42",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than scaling agile practices across an organisation.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-17T20:27:43",
@@ -613,11 +532,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-17T20:27:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of spaced learning in training environments, with no clear focus on Continuous Delivery principles or practices.",
+    "calculated_at": "2025-03-21T19:16:31",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses learning methodologies in Agile and Scrum, focusing on spaced learning rather than Continuous Delivery principles. While it touches on aspects of Agile, it does not explicitly mention Continuous Delivery or its core themes, such as automation, rapid feedback, or deployment strategies.",
     "level": "Ignored"
   },
   "Customer Satisfaction": {
@@ -649,12 +571,15 @@
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
-    "calculated_at": "2025-02-17T20:27:51",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of cohort groups and collaboration during training, which aligns with team dynamics, but the primary focus is on learning methods rather than team collaboration itself.",
-    "level": "Tertiary"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the importance of cohort collaboration and community support in the context of learning Agile principles, which aligns with team dynamics and collaboration. However, the primary focus is on learning methodologies rather than direct team collaboration techniques or strategies, leading to a moderate confidence score.",
+    "level": "Secondary"
   },
   "Daily Scrum": {
     "category": "Daily Scrum",
@@ -665,7 +590,7 @@
     "reasoning": "Content primarily discusses the benefits of spaced learning in Agile training, with no clear focus on Daily Scrum or its related topics.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-17T20:27:54",
     "ai_confidence": 0,
@@ -683,15 +608,6 @@
     "reasoning": "Content primarily discusses educational methodologies and the benefits of spaced learning, with no relevance to the Windows operating system.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-17T20:27:56",
-    "ai_confidence": 70,
-    "non_ai_confidence": 20,
-    "final_score": 65.0,
-    "reasoning": "The content discusses the benefits of spaced learning and practical application in real work environments, which aligns with the themes of continuous learning and experimentation. However, it primarily focuses on the structure of training rather than broader discovery methodologies.",
-    "level": "Secondary"
-  },
   "Self Organisation": {
     "category": "Self Organisation",
     "calculated_at": "2025-02-17T20:27:58",
@@ -703,20 +619,26 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-17T20:28:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than focusing on the Agile Product Operating Model or its principles.",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 20.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 20,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses learning methodologies in Agile and Scrum, focusing on spaced learning rather than the Agile Product Operating Model itself. While it touches on Agile principles, it does not delve into the core themes of the APOM, such as product management practices or operational governance. The discussion is more about educational approaches than the integration of agile methodologies with product management, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
-    "calculated_at": "2025-02-17T20:28:01",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement in the context of learning and applying skills in a real work environment, which relates to employee engagement, but the primary focus is on the learning process rather than directly on employee engagement strategies.",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
+    "non_ai_confidence": 10,
+    "final_score": 42.0,
+    "reasoning": "The content discusses learning engagement and the importance of practical application in a training context, which touches on aspects of employee engagement. However, it primarily focuses on learning methodologies rather than directly addressing employee motivation, commitment, or team dynamics. While there are mentions of engagement levels and cohort collaboration, these are secondary to the main topic of learning strategies.",
     "level": "Tertiary"
   },
   "Behaviour Driven Development": {
@@ -775,10 +697,10 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-17T20:28:10",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 20,
-    "final_score": 2.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning and engagement in training rather than focusing on metrics, data analysis, or feedback mechanisms.",
     "level": "Ignored"
   },
@@ -802,21 +724,15 @@
   },
   "Mentoring": {
     "category": "Mentoring",
-    "calculated_at": "2025-02-17T20:28:15",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of practice and real-world application in learning, which aligns with mentoring principles, but it primarily focuses on learning methods rather than direct mentoring techniques.",
-    "level": "Tertiary"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-17T20:28:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the benefits of spaced learning in Agile training, without any mention of AI or automation.",
-    "level": "Ignored"
+    "final_score": 67.0,
+    "reasoning": "The content discusses the effectiveness of spaced learning in Agile training, which indirectly relates to mentoring by emphasising ongoing support and real-world application. However, it lacks explicit mentions of mentoring roles or techniques, and while it aligns with the concept of fostering a learning environment, it does not delve deeply into mentoring strategies or the mentor-mentee relationship.",
+    "level": "Secondary"
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -838,19 +754,22 @@
   },
   "Operational Practices": {
     "category": "Operational Practices",
-    "calculated_at": "2025-02-17T20:28:22",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses practical application and engagement in learning Agile methodologies, which relates to operational practices, but it primarily focuses on the learning process rather than specific operational efficiency techniques.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the effectiveness of spaced learning in Agile and Scrum contexts, which indirectly relates to operational practices by emphasising real-world application and continuous improvement in learning. However, it lacks direct mentions of specific operational techniques or metrics, and the depth of discussion on operational efficiency is limited.",
+    "level": "Secondary"
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
-    "calculated_at": "2025-02-17T20:28:24",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than the foundational principles of Agile philosophy.",
     "level": "Ignored"
   },
@@ -865,12 +784,15 @@
   },
   "Coaching": {
     "category": "Coaching",
-    "calculated_at": "2025-02-17T20:28:26",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of practice and real-world application in learning, which aligns with coaching principles, but it primarily focuses on the structure of learning rather than coaching techniques or roles.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the importance of a spaced learning approach in Agile training, which aligns with coaching principles such as ongoing support and fostering an environment for growth. However, it primarily focuses on learning methodologies rather than direct coaching practices, resulting in a moderate confidence score.",
+    "level": "Secondary"
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -883,12 +805,15 @@
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
-    "calculated_at": "2025-02-17T20:28:29",
-    "ai_confidence": 80,
-    "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "The content primarily discusses the benefits of spaced learning and practical application in real work environments, which aligns with the principles of Continuous Learning, particularly in fostering a growth mindset and effective knowledge sharing.",
-    "level": "Secondary"
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 20,
+    "final_score": 87.0,
+    "reasoning": "The content explicitly discusses the benefits of spaced learning in Agile and Scrum contexts, aligning well with the principles of Continuous Learning. It highlights the importance of real-world application, ongoing support, and community collaboration, which are key themes in the category. The depth of discussion is substantial, providing detailed insights into how spaced learning enhances retention and application of knowledge, thus fostering a growth mindset. Overall, the content is a strong fit for the Continuous Learning category.",
+    "level": "Primary"
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -919,10 +844,10 @@
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
-    "calculated_at": "2025-02-17T20:28:35",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than Agile Product Management principles or practices.",
     "level": "Ignored"
   },
@@ -944,31 +869,16 @@
     "reasoning": "Content primarily discusses the benefits of spaced learning in Agile training, without a clear focus on Value Stream Management principles or practices.",
     "level": "Ignored"
   },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-17T20:28:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than focusing on scaling Scrum principles or practices.",
-    "level": "Ignored"
-  },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
-    "calculated_at": "2025-02-17T20:28:40",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the importance of real work environments and collaboration among participants, which touches on the interplay between social and technical aspects of learning and practice. However, it primarily focuses on learning methodologies rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Tertiary"
-  },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-17T20:28:42",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the effectiveness of a specific learning approach related to Agile training, which aligns with the theme of educational resources in Agile methodologies.",
+    "final_score": 42.0,
+    "reasoning": "The content discusses learning methodologies in Agile and Scrum, touching on aspects of engagement, retention, and real-world application. However, it primarily focuses on the educational approach rather than the interplay between technology and organisational structures. While there are elements of team dynamics and collaboration, the discussion lacks depth in exploring how these factors influence software delivery and team effectiveness within a sociotechnical framework.",
     "level": "Tertiary"
   },
   "Empirical Process Control": {
@@ -991,20 +901,26 @@
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
-    "calculated_at": "2025-02-17T20:28:47",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 87.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
     "non_ai_confidence": 0,
-    "final_score": 72.0,
-    "reasoning": "Content primarily discusses practical applications of learning in real work environments, emphasising the importance of practice and engagement in Agile contexts.",
-    "level": "Secondary"
+    "final_score": 87.0,
+    "reasoning": "The content discusses the effectiveness of spaced learning in Agile and Scrum contexts, emphasising practical application and real-world challenges. It directly addresses the limitations of traditional learning methods and advocates for a pragmatic approach that enhances retention and application of knowledge. The depth of discussion on how spaced learning allows for practice in real environments and fosters community collaboration aligns well with the core themes of Pragmatic Thinking.",
+    "level": "Primary"
   },
   "Lead Time": {
     "category": "Lead Time",
-    "calculated_at": "2025-02-17T20:28:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than focusing on Lead Time or its measurement.",
+    "calculated_at": "2025-04-11T11:03:48",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the benefits of spaced learning in Agile and Scrum courses, discussing engagement, retention, and real-world application. It does not mention Lead Time or its significance as an observability metric, nor does it explore its relationship with Cycle Time or strategies for optimisation. The discussion is centred around learning methodologies rather than process efficiency or delivery metrics, leading to a very low confidence score for alignment with the Lead Time category.",
     "level": "Ignored"
   },
   "Technical Debt": {
@@ -1036,10 +952,10 @@
   },
   "Lean": {
     "category": "Lean",
-    "calculated_at": "2025-02-17T20:28:58",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 30,
-    "final_score": 3.0,
+    "final_score": 0.0,
     "reasoning": "Content heavily discusses Agile learning methods and does not focus on Lean principles or methodologies.",
     "level": "Ignored"
   },
@@ -1063,12 +979,15 @@
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-17T20:29:01",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 28.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses aspects of learning and applying Agile methodologies, which is a significant theme, but it primarily focuses on the learning process rather than software development practices themselves.",
-    "level": "Tertiary"
+    "final_score": 78.0,
+    "reasoning": "The content primarily discusses learning methodologies related to Agile and Scrum, which are integral to software development practices. While it does not delve deeply into specific software engineering techniques or frameworks, it aligns with the core themes of improving software development outcomes through effective learning and application of Agile principles. The discussion on spaced learning and real-world application provides a moderate depth of insight into how these methodologies can enhance the software development process.",
+    "level": "Secondary"
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -1115,15 +1034,6 @@
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than focusing on cross-functional teams or their characteristics within Agile methodologies.",
     "level": "Ignored"
   },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T20:29:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in training, without a clear focus on software developers' roles in Agile or DevOps contexts.",
-    "level": "Ignored"
-  },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
     "calculated_at": "2025-02-17T20:29:16",
@@ -1144,10 +1054,10 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T20:29:19",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses learning methodologies and engagement in Agile training, with no focus on installation or configuration of tools or software.",
     "level": "Ignored"
   },
@@ -1158,15 +1068,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses learning methodologies and engagement in training rather than the specific responsibilities or practices of a Product Owner.",
-    "level": "Ignored"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-17T20:29:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the effectiveness of spaced learning in Agile training rather than providing news or reviews related to Agile methodologies or tools.",
     "level": "Ignored"
   },
   "Azure Repos": {
@@ -1207,21 +1108,24 @@
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
-    "calculated_at": "2025-02-17T20:29:30",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than focusing on Agile leadership roles or practices.",
     "level": "Ignored"
   },
   "Team Motivation": {
     "category": "Team Motivation",
-    "calculated_at": "2025-02-17T20:29:34",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses engagement and collaboration within a learning context, which relates to team dynamics, but it primarily focuses on the learning process rather than team motivation strategies.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content discusses the benefits of spaced learning in Agile and Scrum contexts, which indirectly relates to team motivation through enhanced engagement and real-world application. However, it primarily focuses on learning methodologies rather than explicit team dynamics or motivation strategies. The mention of cohort collaboration hints at team aspects, but the overall depth and direct focus on team motivation are limited.",
+    "level": "Secondary"
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1243,20 +1147,14 @@
   },
   "Throughput": {
     "category": "Throughput",
-    "calculated_at": "2025-02-17T20:29:38",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:03:40",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of spaced learning in Agile training rather than focusing on throughput measurement or optimisation.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-17T20:29:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the effectiveness of spaced learning in training, without a clear focus on Scrum principles, roles, or practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the benefits of spaced learning in Agile and Scrum courses, discussing engagement, retention, and real-world application. While it touches on aspects of learning that could indirectly relate to throughput, such as the effectiveness of learning over time, it does not explicitly mention throughput as a delivery metric or provide any analysis or visualisation of throughput. The discussion lacks depth in terms of throughput as a concept, making it a secondary theme rather than a primary focus.",
     "level": "Ignored"
   },
   "Value Delivery": {
@@ -1270,11 +1168,14 @@
   },
   "System Configuration": {
     "category": "System Configuration",
-    "calculated_at": "2025-02-17T20:29:43",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-11T11:03:45",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses educational methodologies and the benefits of spaced learning, with no focus on system configuration.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on learning methodologies related to Agile and Scrum, discussing the effectiveness of spaced learning over traditional courses. There are no direct mentions of system configuration, and the themes discussed do not align with the core topics of system setup, integration, or maintenance. The depth of discussion is centred around educational practices rather than technical system configuration, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Deployment Strategies": {
@@ -1295,15 +1196,6 @@
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training environments, focusing on student engagement and real-world application, rather than product discovery methodologies or customer needs.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-17T20:29:47",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses learning methodologies and engagement rather than Scrum principles or product development.",
-    "level": "Ignored"
-  },
   "Organisational Change": {
     "category": "Organisational Change",
     "calculated_at": "2025-02-17T20:29:48",
@@ -1315,19 +1207,19 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-17T20:29:50",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in Agile training, without addressing the Definition of Done.",
     "level": "Ignored"
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
-    "calculated_at": "2025-02-17T20:29:51",
+    "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the effectiveness of spaced learning in training rather than focusing on Agile strategy or methodologies.",
     "level": "Ignored"
   },
@@ -1351,12 +1243,15 @@
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
-    "calculated_at": "2025-02-17T20:29:55",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the benefits of spaced learning in an agile context, highlighting the importance of real-world application and engagement, which aligns with the theme of organisational agility. However, it primarily focuses on learning methods rather than broader organisational strategies.",
-    "level": "Tertiary"
+    "final_score": 72.0,
+    "reasoning": "The content discusses the effectiveness of spaced learning in Agile training, which indirectly relates to organisational agility by emphasising real-world application and continuous support. However, it lacks direct mentions of organisational agility principles and does not delve deeply into how these learning methods impact organisational adaptability or responsiveness.",
+    "level": "Secondary"
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1374,6 +1269,433 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the benefits of spaced learning and engagement in training, without a focus on Lean Startup principles or methodologies.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T13:54:17",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content heavily discusses Agile methodologies and training practices, with no mention of Internal Developer Platforms.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T13:54:19",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the effectiveness of spaced learning in Agile training, without any mention of AI or its applications in Agile methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content briefly touches on the concept of learning and practice in a real work environment, which could relate to Scrum principles of iterative learning and team collaboration. However, it lacks direct mentions of Scrum roles, events, or artifacts, and does not delve into the specific practices or frameworks of Scrum. The discussion is more focused on learning methodologies rather than Scrum itself.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses learning methodologies in Agile and Scrum, focusing on spaced learning versus traditional courses. It does not explicitly mention the Shift-Left Strategy or its principles, benefits, or techniques. While there are elements of practical application and engagement, they do not directly relate to integrating testing, security, or compliance earlier in the software development lifecycle, which is the core of the Shift-Left Strategy.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 67.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 67.0,
+    "reasoning": "The content discusses the benefits of spaced learning in Agile and Scrum, which indirectly relates to Continuous Improvement through the emphasis on real-world application and iterative learning. However, it lacks explicit references to Continuous Improvement principles and does not delve deeply into strategies or frameworks that support it. The focus is more on learning methodologies rather than a comprehensive exploration of Continuous Improvement as a category.",
+    "level": "Secondary"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the effectiveness of spaced learning in Agile and Scrum courses, which is a method of training rather than a discussion on Common Goals. While it touches on the importance of real-world application and community support, it does not explicitly discuss shared objectives or alignment within teams, which are central to the concept of Common Goals. The discussion lacks depth in connecting these learning methods to overarching strategic objectives or frameworks like OKRs.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 78.0,
+    "ai_mentions": 15,
+    "ai_alignment": 32,
+    "ai_depth": 28,
+    "non_ai_confidence": 0,
+    "final_score": 78.0,
+    "reasoning": "The content discusses the importance of spaced learning in Agile and Scrum, emphasising continuous learning and real-world application, which aligns well with the principles of competence. It highlights the need for ongoing support and practical engagement, demonstrating a clear understanding of how competence can be developed. However, while it touches on key aspects of competence, it does not delve deeply into strategies for fostering a culture of competence or the distinction between performative activity and genuine progress, which slightly limits its depth.",
+    "level": "Secondary"
+  },
+  "One Engineering System": {
+    "category": "One Engineering System",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on learning methodologies in Agile and Scrum, specifically advocating for spaced learning over traditional courses. While it touches on Agile principles, it does not discuss the One Engineering System framework, its components, or its implementation. The discussion lacks direct relevance to the integration and standardisation of engineering processes, which are central to the 1ES category.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:52:39",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content discusses learning methodologies in Agile and Scrum but does not explicitly address Agentic Agility or its principles. While it touches on engagement and real-world application, it lacks a focus on intentional shaping of outcomes, accountability, or the interplay between human and AI capabilities. The discussion is primarily about learning effectiveness rather than the transformative capacity of individuals or systems.",
+    "level": "Ignored"
+  },
+  "Product Development": {
+    "category": "Product Development",
+    "calculated_at": "2025-04-11T11:02:55",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
+    "non_ai_confidence": 0,
+    "final_score": 72.0,
+    "reasoning": "The content discusses the effectiveness of spaced learning in Agile and Scrum courses, which indirectly relates to product development by emphasising the importance of real-world application and iterative learning. However, it primarily focuses on educational methodologies rather than product development practices. While it touches on Agile principles, it lacks a direct exploration of product development methodologies, customer feedback integration, or risk minimisation strategies, which are core to the category.",
+    "level": "Secondary"
+  },
+  "Open Space Agile": {
+    "category": "Open Space Agile",
+    "calculated_at": "2025-04-11T11:02:58",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content discusses learning methodologies in Agile and Scrum but does not explicitly mention Open Space Agile or its principles. While it touches on themes of engagement and community support, which are relevant to Agile, it lacks a direct focus on Open Space Technology or the collaborative change processes central to Open Space Agile. The depth of discussion is primarily about spaced learning rather than the specific practices or challenges of Open Space Agile.",
+    "level": "Ignored"
+  },
+  "Agnostic Agile": {
+    "category": "Agnostic Agile",
+    "calculated_at": "2025-04-11T11:03:02",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the effectiveness of spaced learning in Agile and Scrum courses, which is a specific framework rather than discussing the principles of Agnostic Agile. While it touches on the importance of real-world application and engagement, it does not explicitly mention Agnostic Agile or its core themes. The discussion lacks depth regarding the principles of Agnostic Agile, making it more aligned with traditional learning methods rather than the context-driven agility that Agnostic Agile advocates.",
+    "level": "Ignored"
+  },
+  "Scaling": {
+    "category": "Scaling",
+    "calculated_at": "2025-04-11T11:03:05",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the effectiveness of spaced learning in Agile and Scrum courses, which does not directly address the complexities of scaling Agile practices or the coordination of multiple teams. While it mentions Agile principles and the importance of real-world application, it lacks explicit discussions on frameworks for scaling, cross-team collaboration, or managing dependencies, which are central to the Scaling category. The depth of discussion is also limited to learning methodologies rather than scaling strategies.",
+    "level": "Ignored"
+  },
+  "Cell Structure Design": {
+    "category": "Cell Structure Design",
+    "calculated_at": "2025-04-11T11:03:08",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the effectiveness of spaced learning in Agile and Scrum courses, with no direct mention of Cell Structure Design or its principles. While it discusses concepts related to learning and engagement, it does not align with the core themes of decentralised organisational structures or the characteristics of autonomous cells. The depth of discussion is also minimal regarding the category, as it does not explore any relevant aspects of Cell Structure Design.",
+    "level": "Ignored"
+  },
+  "Liberating Structures": {
+    "category": "Liberating Structures",
+    "calculated_at": "2025-04-11T11:03:12",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 40.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 32.0,
+    "reasoning": "The content primarily discusses the benefits of spaced learning in Agile and Scrum courses, focusing on engagement, retention, and real-world application. While it touches on collaborative aspects through cohort learning, it does not explicitly mention Liberating Structures or their specific techniques. The discussion aligns somewhat with the principles of enhancing participation and collaboration but lacks depth in exploring Liberating Structures as a facilitation technique. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Time to Market": {
+    "category": "Time to Market",
+    "calculated_at": "2025-04-11T11:03:15",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the benefits of spaced learning in Agile and Scrum courses, discussing engagement, retention, and real-world application. However, it does not explicitly mention Time to Market or its associated metrics, nor does it explore strategies for improving Time to Market. The discussion is more about learning methodologies rather than the efficiency of delivering market-ready products or features, which is the core of the Time to Market category.",
+    "level": "Ignored"
+  },
+  "Company as a Product": {
+    "category": "Company as a Product",
+    "calculated_at": "2025-04-11T11:03:19",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 15.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": 20,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the effectiveness of spaced learning in Agile and Scrum courses, discussing traditional learning methods and their limitations. While it touches on aspects of engagement and real-world application, it does not explicitly mention or align with the principles of Company as a Product. The discussion lacks depth regarding organisational strategies or customer-centric approaches, making it only tangentially related to the CaaP concept.",
+    "level": "Ignored"
+  },
+  "GitHub": {
+    "category": "GitHub",
+    "calculated_at": "2025-04-11T11:03:21",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses Agile and Scrum learning methodologies without any direct mention of GitHub or its functionalities. While it touches on concepts relevant to Agile practices, it does not align with GitHub's core themes or services, such as version control, collaboration features, or CI/CD pipelines. The depth of discussion is focused on learning strategies rather than GitHub-specific practices, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Unrealised Value": {
+    "category": "Unrealised Value",
+    "calculated_at": "2025-04-11T11:03:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 10,
+    "final_score": 25.0,
+    "reasoning": "The content primarily focuses on the effectiveness of spaced learning in Agile and Scrum courses, discussing engagement, retention, and real-world application. While it touches on the importance of practical application, it does not explicitly mention or explore the concept of Unrealised Value or its indicators, strategies, or frameworks. The discussion lacks depth in relation to identifying untapped opportunities or potential improvements within an organisation, which are central to the category of Unrealised Value. Therefore, the confidence score reflects a low alignment with the category.",
+    "level": "Ignored"
+  },
+  "Current Value": {
+    "category": "Current Value",
+    "calculated_at": "2025-04-11T11:03:31",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": 10,
+    "final_score": 32.0,
+    "reasoning": "The content discusses the effectiveness of spaced learning in Agile and Scrum courses, focusing on engagement, retention, and real-world application. However, it does not explicitly mention Current Value or its metrics, nor does it provide a structured analysis of how these learning methods impact customer satisfaction or revenue. While there is some alignment with the concept of practical application, the depth of discussion on Current Value as defined in Evidence-Based Management is limited, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Hybrid Agile": {
+    "category": "Hybrid Agile",
+    "calculated_at": "2025-04-11T11:03:34",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
+    "non_ai_confidence": 10,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the effectiveness of spaced learning in Agile and Scrum courses, without any direct mention or critical examination of Hybrid Agile methodologies. While it discusses learning approaches within Agile contexts, it does not address the integration of traditional project management with agile practices, nor does it explore the challenges or implications of Hybrid Agile. Therefore, the content does not align with the core themes of the Hybrid Agile category.",
+    "level": "Ignored"
+  },
+  "Project Management": {
+    "category": "Project Management",
+    "calculated_at": "2025-04-11T11:03:37",
+    "ai_confidence": 42.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 42.0,
+    "reasoning": "The content primarily focuses on the effectiveness of spaced learning in Agile and Scrum courses, which is a specific aspect of training rather than broader project management principles. While it touches on Agile concepts, it lacks direct discussions on core project management themes such as project lifecycle phases, risk management, or governance structures. The depth of discussion is limited to learning methodologies rather than comprehensive project management strategies, leading to a moderate confidence score.",
+    "level": "Tertiary"
+  },
+  "Principle": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Principle",
+    "calculated_at": "2025-05-01T14:39:21",
+    "ai_confidence": 73.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 3,
+    "non_ai_confidence": null,
+    "final_score": 73.0,
+    "reasoning": "The content discusses the effectiveness of spaced learning in Agile and Scrum contexts, focusing on enhancing retention and real-world application which aligns with principles of Continuous Improvement and Engagement with the Customer (learners). It provides a solid exploration of how these principles manifest in educational practices, thus demonstrating a primary focus on actionable principles rather than merely values. There are clear mentions of practical application and engagement, which support the category. However, it does not deeply explore the specific principles such as self-management or collaboration directly associated with Agile frameworks, leading to a moderately high confidence score rather than a full score.",
+    "level": "Secondary"
+  },
+  "Tool": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Tool",
+    "calculated_at": "2025-05-01T14:39:21",
+    "ai_confidence": 25.0,
+    "ai_mentions": 0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": null,
+    "final_score": 25.0,
+    "reasoning": "The content primarily discusses educational methodologies, specifically the advantages of spaced learning in Agile and Scrum contexts. While it mentions real-world application and engagement, it does not focus on specific tools, software, or practices that would fit within the 'Tool' category. There are no direct mentions of tools or how tools facilitate workflows or enhance team collaboration, which is essential for alignment with the category.",
+    "level": "Ignored"
+  },
+  "Values": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Values",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 30,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the importance of spaced learning in Agile and Scrum training, aligning with the values of real-world application and collaboration. However, it focuses more on the methodology of learning rather than explicitly connecting these approaches to core organisational values. Direct mentions of Agile values are limited, and while there are some reflections on community support and practical application—which can be considered value-related—the content does not deeply explore these as foundational beliefs guiding behaviour within organisations.",
+    "level": "Tertiary"
+  },
+  "Philosophy": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Philosophy",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 35.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content primarily focuses on practical aspects of learning methodologies related to Agile and Scrum, discussing spaced learning and its benefits without delving into the philosophical foundations or core principles of Agile as a philosophy. While there are mentions of application and engagement, these do not explore the 'why' or 'what' of Agile philosophy but rather the 'how' of a specific learning technique. This leads to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Discipline": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Discipline",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 45.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses learning methodologies in the context of Agile and Scrum, promoting spaced learning as a method for deeper understanding and application. While it aligns with the idea of applying disciplined learning practices, it does not delve into the principles and systemic evolution of disciplines, which is central to the category of Discipline. The focus is more on a learning technique rather than an exploration of the underlying disciplines themselves, leading to a lower confidence score.",
+    "level": "Tertiary"
+  },
+  "Artifact": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Artifact",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 50.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the concept of spaced learning within Agile and Scrum training rather than the specific artifacts used in those methodologies. While Agile principles are mentioned and there is some alignment with the idea of practical application in real work environments, there are no direct mentions of artifacts like Product Backlogs, Sprint Backlogs, or definitions of done. The depth on the topic also focuses more on learning strategies than on artifacts themselves, leading to a very low confidence score.",
+    "level": "Ignored"
+  },
+  "Observability": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Observability",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 15.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
+    "non_ai_confidence": null,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the effectiveness of spaced learning in Agile and Scrum contexts, without any direct discussion of observability concepts or practices. It does not mention metrics, logs, traces, or tools related to observability, and its alignment with the category is minimal. The discussion revolves around learning methodologies rather than the internal states of software systems or their measurement, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Practice": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Practice",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 65.0,
+    "ai_mentions": 15,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "non_ai_confidence": null,
+    "final_score": 65.0,
+    "reasoning": "The content discusses the concept of spaced learning in Agile and Scrum courses, focusing on practical implementation and real-world application. It addresses how distributed learning can improve retention and engagement, which aligns with the Practice category's emphasis on actionable techniques. However, while it highlights the importance of practice, it does not delve deeply into specific practices like pair programming or retrospectives, which are key to the category. Therefore, the content exhibits a moderate alignment and depth of discussion, but primarily focuses on the educational methodology rather than specific practices.",
+    "level": "Secondary"
+  },
+  "Method": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Method",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 52.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 30.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 52.0,
+    "reasoning": "The content primarily discusses the concept of spaced learning in Agile and Scrum environments, touching on its benefits for retention and real-world application. While it does mention aspects that can be linked to methodical approaches (like ongoing support and practice opportunities), it lacks detailed structured procedures and explicit discussions on specific Agile methods. The focus is more on the learning experience rather than a systematic method implementation, leading to a moderate overall confidence score.",
+    "level": "Tertiary"
+  },
+  "Model": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Model",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 32.0,
+    "ai_mentions": 100.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 25.0,
+    "non_ai_confidence": null,
+    "final_score": 32.0,
+    "reasoning": "The content primarily focuses on the concept of spaced learning in Agile education rather than on models. It briefly touches on the practical implications of learning in real-world contexts but does not explicitly delve into specific models, frameworks, or their applications in Agile, DevOps, or Lean contexts. Therefore, while there is a mention of a learning approach that could be construed as a model, the overall focus is on the educational methodology rather than on the conceptual representation necessary for the category 'Model.' The depth of discussion on conceptual frameworks is minimal, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Framework": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Framework",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 45.0,
+    "ai_mentions": 3,
+    "ai_alignment": 50.0,
+    "ai_depth": 40.0,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses Agile and Scrum in the context of learning methods, specifically advocating for spaced learning over traditional courses. It touches on Agile principles and their real-world application, which aligns somewhat with the Framework category. However, the primary focus is on educational methods rather than a structured framework or methodology itself, leading to a lower confidence score. The content lacks in-depth analysis of specific frameworks or their implementation strategies, which diminishes its relevance to the Framework category.",
+    "level": "Tertiary"
+  },
+  "Tenet": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Tenet",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 45.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "non_ai_confidence": null,
+    "final_score": 45.0,
+    "reasoning": "The content discusses the benefits of a spaced learning approach in Agile and Scrum contexts, indicating an emphasis on practical application and real-world engagement, which aligns with core Agile tenets of adaptability and continuous improvement. However, it does not explicitly define or delve deeply into specific actionable guiding rules or doctrines associated with Agile methodologies, making it less focused on tenets as defined. Thus, while there are relevant points made, the lack of specificity and depth in discussing actionable tenets leads to a lower confidence score.",
+    "level": "Tertiary"
+  },
+  "Capability": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Capability",
+    "calculated_at": "2025-05-01T14:39:22",
+    "ai_confidence": 35.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "non_ai_confidence": null,
+    "final_score": 35.0,
+    "reasoning": "The content discusses learning techniques in Agile and Scrum with a focus on spaced learning, but primarily emphasizes training methods rather than enduring capabilities. While it mentions engagement and application of knowledge, these ideas do not fully align with the core themes of capabilities as they focus more on techniques than on long-term competencies integrated into organizational culture.",
     "level": "Ignored"
   }
 }

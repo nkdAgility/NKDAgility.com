@@ -2,42 +2,42 @@
 title: 'Part 2: Most influential people in Agile'
 description: 'Join Martin Hinshelwood as he shares his personal insights on the most influential figures in Agile. Discover the impact of Agile on teams! #agile #shorts'
 date: 2023-08-09T07:00:14Z
+weight: 1000
 ResourceId: eykcZoUdVO8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: eykcZoUdVO8
 source: internal
 url: /resources/videos/:slug
-slug: part-2-most-influential-people-in-agile
+slug: part-2-most-influential-people-in-agile-eykcZoUdVO8
 layout: video
 preview: https://i.ytimg.com/vi/eykcZoUdVO8/maxresdefault.jpg
 duration: 39
 isShort: true
 aliases:
-- /resources/part-2-most-influential-people-in-agile-3
-- /resources/most-influential-person-in-agile-for-you-personally
-- /resources/videos/most-influential-person-in-agile-for-you-personally-
-- /resources/videos/eykcZoUdVO8
-- /resources/most-influential-person-in-agile-for-you-personally-
 - /resources/eykcZoUdVO8
-aliasesFor404:
+- /resources/videos/part-2-most-influential-people-in-agile-eykcZoUdVO8
+- /resources/videos/part-2-most-influential-people-in-agile
+- /resources/videos/most-influential-person-in-agile-for-you-personally
+aliasesArchive:
+- /resources/videos/part-most-influential-people-in-agile
+- /resources/videos/part-2-most-influential-people-in-agile
 - /resources/part-2-most-influential-people-in-agile-3
 - /resources/most-influential-person-in-agile-for-you-personally
 - /resources/videos/most-influential-person-in-agile-for-you-personally-
 - /resources/most-influential-person-in-agile-for-you-personally-
+- /resources/videos/most-influential-person-in-agile-for-you-personally
+- part-2-most-influential-people-in-agile-eykcZoUdVO8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- People and Process
-- Personal
+tags: []
 resourceTypes:
 - video
 categories:
-- Scrum
-- Social Technologies
-- Leadership
+- Uncategorized
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect
@@ -68,6 +68,6 @@ And I'll confess, I've tried to do just that! I look up to his vision, and in ma
 
 ## Learn, Emulate, Innovate
 
-Inspired by pioneers like Simon, my Agile and Scrum courses aim to give you the knowledge, spirit and ethos of true Agile thinking.
+Inspired by pioneers like Simon, my Agile and [Scrum]({{< ref "/categories/scrum" >}}) courses aim to give you the knowledge, spirit and ethos of true Agile thinking.
 
 Let's learn, evolve, and drive Agile transformations together! 🚀

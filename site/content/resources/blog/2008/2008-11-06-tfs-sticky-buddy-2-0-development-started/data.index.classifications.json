@@ -8,15 +8,6 @@
     "reasoning": "Content primarily discusses the development of a software application and technical implementation details, with no clear focus on Agile product management principles or practices.",
     "level": "Ignored"
   },
-  "Products and Books": {
-    "category": "Products and Books",
-    "calculated_at": "2025-02-16T11:14:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a specific application and its features, without focusing on reviews, analyses, or discussions of literature or tools related to Agile or DevOps.",
-    "level": "Ignored"
-  },
   "Miscellaneous": {
     "category": "Miscellaneous",
     "calculated_at": "2025-02-16T11:14:59",
@@ -37,11 +28,14 @@
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the implementation of Composite Application blocks for WPF, which relates to modular architecture, but the primary focus is on the development timeline and updates rather than a deep exploration of technical excellence practices.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions the implementation of Composite Application blocks for WPF, which aligns with modular architecture, a key topic under Technical Excellence. However, the discussion lacks depth and does not explicitly address broader engineering practices or methodologies that enhance agility in software development. The focus is primarily on the development of a specific application rather than a comprehensive exploration of technical excellence principles.",
     "level": "Tertiary"
   },
   "Decision Theory": {
@@ -53,49 +47,16 @@
     "reasoning": "Content primarily discusses the development of a software application and technical implementations, with no focus on decision-making processes or related theories.",
     "level": "Ignored"
   },
-  "Events and Presentations": {
-    "category": "Events and Presentations",
-    "calculated_at": "2025-02-16T11:15:05",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a software application and does not reference any events, presentations, or discussions related to Agile or DevOps.",
-    "level": "Ignored"
-  },
-  "Scrum": {
-    "category": "Scrum",
-    "calculated_at": "2025-02-16T11:15:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a software application and its features, with no mention of Scrum principles, roles, events, or practices.",
-    "level": "Ignored"
-  },
-  "Resilience and Change": {
-    "category": "Resilience and Change",
-    "calculated_at": "2025-02-16T11:15:08",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a software application and technical implementations without addressing organisational resilience or change management.",
-    "level": "Ignored"
-  },
   "DevOps": {
     "category": "DevOps",
-    "calculated_at": "2025-02-16T11:15:10",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a specific application and its features, with no clear focus on DevOps principles or practices.",
-    "level": "Ignored"
-  },
-  "AI and Automation in Agility": {
-    "category": "AI and Automation in Agility",
-    "calculated_at": "2025-02-16T11:15:11",
-    "ai_confidence": 0,
-    "non_ai_confidence": 20,
-    "final_score": 2.0,
-    "reasoning": "Content primarily discusses the development of a software application without any mention of AI, automation, or Agile methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the development of a specific application (TFS Sticky Buddy 2.0) and its features, with no explicit discussion of DevOps principles, practices, or cultural shifts. While it mentions modular design and updates, these aspects do not align with the core themes of DevOps, such as collaboration, automation, or shared accountability. The content lacks depth in discussing any DevOps-related topics, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Lean": {
@@ -118,20 +79,14 @@
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
-    "calculated_at": "2025-02-16T11:15:15",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a specific application and technical implementation details, with no clear focus on Agile principles or the Agile Product Operating Model.",
-    "level": "Ignored"
-  },
-  "Practical Techniques and Tooling": {
-    "category": "Practical Techniques and Tooling",
-    "calculated_at": "2025-02-16T11:15:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a specific application and its features, without a clear focus on Agile or DevOps methodologies, tools, or practical techniques.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the development of a specific application (TFS Sticky Buddy 2.0) and discusses technical aspects such as modular design and WPF implementation. There is no mention of agile methodologies, product management principles, or any of the key topics related to the Agile Product Operating Model. The discussion is more aligned with software development practices rather than the broader framework of APOM.",
     "level": "Ignored"
   },
   "Value Stream Management": {
@@ -154,12 +109,15 @@
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions uploading installation files and references a ClickOnce application, indicating some focus on installation, but the primary discussion revolves around development and features rather than detailed installation or configuration processes.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions the release of installation files and describes the application as a ClickOnce application, which implies some level of installation process. However, it lacks detailed step-by-step instructions or configuration best practices, and the primary focus is on development updates rather than installation and configuration guidance.",
+    "level": "Ignored"
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -172,29 +130,14 @@
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
-    "calculated_at": "2025-02-16T11:15:29",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a software application and does not address Evidence-Based Management principles or practices.",
-    "level": "Ignored"
-  },
-  "Code and Complexity": {
-    "category": "Code and Complexity",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content discusses the implementation of Composite Application blocks for WPF, which relates to modular design, a key aspect of managing complexity in software development. However, the primary focus is on the development process and updates rather than a deep exploration of code quality or complexity theory.",
-    "level": "Tertiary"
-  },
-  "News and Reviews": {
-    "category": "News and Reviews",
-    "calculated_at": "2025-02-16T11:15:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a specific application and its features, lacking a focus on industry news or reviews.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the development of a software application, discussing features and modular design without any explicit mention of Evidence-Based Management principles or metrics. There is no alignment with the core themes of EBM, such as data-informed decision-making or outcome management, and the depth of discussion is minimal, lacking any substantial detail related to the category.",
     "level": "Ignored"
   },
   "Business Agility": {
@@ -235,14 +178,14 @@
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
-    "calculated_at": "2025-02-16T11:15:48",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a software application and its features, with no focus on metrics, learning, or evidence-based decision-making.",
     "level": "Ignored"
   },
-  "One Engineering System (1ES)": {
+  "One Engineering System": {
     "category": "One Engineering System (1ES)",
     "calculated_at": "2025-02-16T11:15:49",
     "ai_confidence": 0,
@@ -278,15 +221,6 @@
     "reasoning": "Content primarily discusses the development of a software application and technical implementation details, with no personal reflections or insights.",
     "level": "Ignored"
   },
-  "Discovery and Learning": {
-    "category": "Discovery and Learning",
-    "calculated_at": "2025-02-16T11:15:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a specific application and technical implementation details without a focus on discovery or learning processes.",
-    "level": "Ignored"
-  },
   "Azure DevOps": {
     "category": "Azure DevOps",
     "calculated_at": "2025-02-16T11:15:56",
@@ -296,23 +230,17 @@
     "reasoning": "Content primarily discusses the development of a specific application (TFS Sticky Buddy) and its features, without a clear focus on Azure DevOps functionalities or practices.",
     "level": "Ignored"
   },
-  "Transparency and Accountability": {
-    "category": "Transparency and Accountability",
-    "calculated_at": "2025-02-16T11:16:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a software application and its features, with no focus on transparency or accountability principles.",
-    "level": "Ignored"
-  },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 10,
-    "final_score": 46.0,
-    "reasoning": "The content mentions ALM and discusses aspects of application development and updates, but it primarily focuses on the development of a specific application rather than the broader principles of Application Lifecycle Management.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content briefly mentions ALM in the tags but does not explicitly discuss the methodologies, practices, or tools related to Application Lifecycle Management. The focus is primarily on the development of a specific application and its features, lacking depth in lifecycle management concepts such as governance, deployment, or maintenance.",
+    "level": "Ignored"
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -321,15 +249,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a software application and its features, with no clear focus on Systems Thinking principles or practices.",
-    "level": "Ignored"
-  },
-  "People and Process": {
-    "category": "People and Process",
-    "calculated_at": "2025-02-16T11:16:04",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses technical aspects of application development and updates, with no focus on human behaviour or process methodologies.",
     "level": "Ignored"
   },
   "Kanban": {
@@ -370,12 +289,15 @@
   },
   "Release Management": {
     "category": "Release Management",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 20.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions updating and releasing under a specific version and refers to a ClickOnce application, indicating some elements of release management, but it is not the primary focus of the overall discussion.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions the release of a new version (v2.0 CTP) and discusses the use of ClickOnce for updates, which relates to release management. However, it lacks detailed discussion on planning, scheduling, or coordination aspects of release management. The focus is more on development and features rather than the broader strategies and practices of release management.",
+    "level": "Ignored"
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -397,19 +319,22 @@
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 42.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 30.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions updating and releasing under a versioning scheme (v2.0 CTP) and indicates that users will always have the latest version, which aligns with the idea of frequent releases. However, it primarily focuses on the development and features rather than continuous delivery practices or broader strategies related to frequent releases.",
+    "final_score": 42.0,
+    "reasoning": "The content mentions the release of a new version (v2.0 CTP) and discusses the use of ClickOnce for automatic updates, which aligns with the principles of frequent releases. However, the focus is more on the development process and specific features rather than a comprehensive discussion on continuous delivery or deployment practices. The depth of discussion on strategies or metrics for frequent releases is limited.",
     "level": "Tertiary"
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content focuses on the development of a specific application without discussing asynchronous development principles, practices, or tools.",
     "level": "Ignored"
   },
@@ -442,12 +367,15 @@
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 60,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 54.0,
-    "reasoning": "The content discusses implementing Composite Application blocks for WPF, which relates to software architecture and design principles, but it does not dive deeply into methodologies or practices that contribute to software craftsmanship.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions the implementation of Composite Application blocks for WPF, which aligns with software design principles. However, it lacks a detailed discussion on best practices, methodologies, or principles of software craftsmanship, making it a secondary focus rather than a primary one.",
+    "level": "Ignored"
   },
   "Accountability": {
     "category": "Accountability",
@@ -467,7 +395,7 @@
     "reasoning": "Content primarily discusses the development of a specific application and technical details without reference to large scale agile practices, frameworks, or transformation strategies.",
     "level": "Ignored"
   },
-  "MVP": {
+  "Minimum Viable Product": {
     "category": "MVP",
     "calculated_at": "2025-02-16T11:43:12",
     "ai_confidence": 0,
@@ -483,15 +411,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content mainly discusses the development of a specific application and its features, with no relevant information on Site Reliability Engineering principles or practices.",
-    "level": "Ignored"
-  },
-  "Agile Project Management": {
-    "category": "Agile Project Management",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the development of a ClickOnce application and implementation details related to WPF and Composite Application blocks, without any clear relation to Agile Project Management principles or practices.",
     "level": "Ignored"
   },
   "Azure Pipelines": {
@@ -640,19 +559,22 @@
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 50.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content mentions the development of a software application and references modularity, which relates to engineering practices. However, it lacks depth in discussing best practices, quality assurance, or craftsmanship, making it a secondary theme.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content mentions the implementation of Composite Application blocks for WPF, which relates to software craftsmanship, but lacks a detailed discussion on best practices or continuous improvement. The focus is more on the development process and features rather than on engineering excellence principles.",
+    "level": "Ignored"
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a software application without any mention of hypotheses, experimentation, or data-driven decision-making.",
     "level": "Ignored"
   },
@@ -663,24 +585,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses development progress and features of an application without any reference to estimation practices, Agile, or Scrum frameworks.",
-    "level": "Ignored"
-  },
-  "Software Developers": {
-    "category": "Software Developers",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
-    "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content primarily discusses the development of a specific application using WPF and mentions implementation details, which are relevant to software development. However, it does not engage with Agile or DevOps methodologies directly.",
-    "level": "Tertiary"
-  },
-  "AI": {
-    "category": "AI",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a software application without a focus on AI, Agile, or DevOps methodologies.",
     "level": "Ignored"
   },
   "Lean Principles": {
@@ -694,12 +598,15 @@
   },
   "Windows": {
     "category": "Windows",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 62.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 12.0,
     "non_ai_confidence": 30,
-    "final_score": 48.0,
-    "reasoning": "The content discusses the implementation of Composite Application blocks for WPF from Microsoft, which relates to Windows development, but it is more focused on the application development process rather than the Windows operating system itself.",
-    "level": "Tertiary"
+    "final_score": 62.0,
+    "reasoning": "The content mentions Windows indirectly through the development of a ClickOnce application for WPF, which is a Windows Presentation Foundation technology. However, the primary focus is on the development process and features of the application rather than on Windows itself. The discussion lacks depth regarding Windows installation, configuration, or troubleshooting, which are key aspects of the category. Therefore, while there is some relevance, it does not meet the criteria for a strong alignment with the Windows category.",
+    "level": "Secondary"
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -712,20 +619,23 @@
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a specific application and its features without mention of Behaviour Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Software Development": {
     "category": "Software Development",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 80,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 72.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 35.0,
+    "ai_depth": 22.0,
     "non_ai_confidence": 10,
-    "final_score": 73.0,
-    "reasoning": "Content primarily discusses the development of a specific software application, including implementation details and version updates, which aligns with software development practices.",
+    "final_score": 72.0,
+    "reasoning": "The content discusses the development of a specific application, mentioning the use of Composite Application blocks for WPF, which aligns with software development practices. However, it lacks detailed exploration of methodologies or best practices, resulting in a moderate confidence score.",
     "level": "Secondary"
   },
   "Agile Frameworks": {
@@ -735,15 +645,6 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses development of a specific software application without any references to Agile frameworks, principles, or practices.",
-    "level": "Ignored"
-  },
-  "Scaled Agile": {
-    "category": "Scaled Agile",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is mainly focused on the development of a specific application (TFS Sticky Buddy) and does not discuss Scaled Agile methodologies, frameworks, or practices.",
     "level": "Ignored"
   },
   "Product Owner": {
@@ -784,10 +685,10 @@
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development process of a specific application without focusing on innovation metrics, empirical data, or frameworks for measuring or fostering innovation.",
     "level": "Ignored"
   },
@@ -865,10 +766,10 @@
   },
   "Definition of Done": {
     "category": "Definition of Done",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content mainly discusses the development progress and features of a software application without any mention of the Definition of Done or related criteria.",
     "level": "Ignored"
   },
@@ -883,11 +784,14 @@
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 15.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses development updates for an application without focusing on Continuous Delivery principles, practices, or methodologies.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the development of a specific application (TFS Sticky Buddy 2.0) and mentions its modular design and ClickOnce deployment. However, it lacks explicit discussions on Continuous Delivery principles, automation, or the broader implications of software delivery practices. The focus is more on the features and updates of the application rather than on Continuous Delivery as a practice.",
     "level": "Ignored"
   },
   "Agile Philosophy": {
@@ -901,12 +805,15 @@
   },
   "Working Software": {
     "category": "Working Software",
-    "calculated_at": "2025-02-17T09:13:16",
-    "ai_confidence": 50,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 32.0,
+    "ai_mentions": 15.0,
+    "ai_alignment": 25.0,
+    "ai_depth": 40.0,
     "non_ai_confidence": 0,
-    "final_score": 45.0,
-    "reasoning": "The content discusses the development of a software application and mentions modular implementation, but it primarily focuses on the development process rather than the characteristics or delivery of working software.",
-    "level": "Tertiary"
+    "final_score": 32.0,
+    "reasoning": "The content discusses the development of a specific software application and mentions the implementation of modular design principles, which aligns with the concept of working software. However, it lacks explicit discussions on customer feedback, quality assurance, or iterative development practices, which are crucial for a higher confidence score in this category.",
+    "level": "Ignored"
   },
   "Test Automation": {
     "category": "Test Automation",
@@ -998,21 +905,12 @@
     "reasoning": "Content is primarily focused on the development of a software application and does not discuss Empirical Process Control or Agile principles.",
     "level": "Ignored"
   },
-  "Scaling Kanban": {
-    "category": "Scaling Kanban",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is focused on the development of a software application and does not discuss Kanban principles or scaling Kanban in any capacity.",
-    "level": "Ignored"
-  },
   "Definition of Ready": {
     "category": "Definition of Ready",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content is primarily about the development of a software application and does not discuss topics related to the Definition of Ready.",
     "level": "Ignored"
   },
@@ -1036,20 +934,23 @@
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a software application without mention of Lean principles, waste reduction, or customer feedback, which are central to Lean Product Development.",
     "level": "Ignored"
   },
   "Test First Development": {
     "category": "Test First Development",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of an application using WPF and does not address any aspects of Test First Development or related practices.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the development of a specific application (TFS Sticky Buddy 2.0) and discusses features and modular design without any mention of Test First Development principles, success criteria, or testing practices. There is no alignment with the core themes of Test First Development, and the depth of discussion is minimal, lacking any relevant detail on testing methodologies.",
     "level": "Ignored"
   },
   "Modern Source Control": {
@@ -1063,10 +964,10 @@
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a specific application and its features, with no mention of Acceptance Test Driven Development or acceptance criteria.",
     "level": "Ignored"
   },
@@ -1214,15 +1115,6 @@
     "reasoning": "Content primarily focuses on the development process of TFS Sticky Buddy 2.0 and updates related to application features, with no substantial discussion on deployment strategies.",
     "level": "Ignored"
   },
-  "Scrum Product Development": {
-    "category": "Scrum Product Development",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "The content primarily discusses the development of a specific application and does not mention Scrum principles, practices, or any related topics.",
-    "level": "Ignored"
-  },
   "Troubleshooting": {
     "category": "Troubleshooting",
     "calculated_at": "2025-02-16T11:43:12",
@@ -1234,11 +1126,14 @@
   },
   "Scrum Master": {
     "category": "Scrum Master",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 0,
+    "ai_alignment": 10.0,
+    "ai_depth": 5.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a software application with technical implementation details, which do not relate to the Scrum Master role or responsibilities.",
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the development of a software application and does not mention the Scrum Master role or its responsibilities. There is no discussion of Scrum principles, team dynamics, or any related topics that would align with the category. The content is more technical and product-oriented, lacking any connection to the Scrum framework.",
     "level": "Ignored"
   },
   "Deployment Frequency": {
@@ -1270,29 +1165,20 @@
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
+    "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a specific application and technical implementation details, lacking a focus on Agile values or principles.",
     "level": "Ignored"
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
-    "calculated_at": "2025-02-16T11:43:12",
+    "calculated_at": "2025-04-10T15:56:25",
     "ai_confidence": 0,
     "non_ai_confidence": 10,
-    "final_score": 1.0,
-    "reasoning": "Content primarily discusses the development of a software application and does not mention Test Driven Development principles or practices.",
-    "level": "Ignored"
-  },
-  "Scaling Scrum": {
-    "category": "Scaling Scrum",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
     "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the development of a specific application and technological implementation, with no clear discussion of Scrum principles or scaling practices.",
+    "reasoning": "Content primarily discusses the development of a software application and does not mention Test Driven Development principles or practices.",
     "level": "Ignored"
   },
   "Customer Feedback Loops": {
@@ -1331,15 +1217,6 @@
     "reasoning": "Content primarily discusses the development of a software application and its features rather than system configuration processes or methodologies.",
     "level": "Ignored"
   },
-  "Scaling Agility": {
-    "category": "Scaling Agility",
-    "calculated_at": "2025-02-16T11:43:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the development of a specific application (TFS Sticky Buddy 2.0) and does not discuss scaling agile principles, frameworks, or practices relevant to organizations.",
-    "level": "Ignored"
-  },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
     "calculated_at": "2025-02-16T11:43:12",
@@ -1360,11 +1237,14 @@
   },
   "Social Technologies": {
     "category": "Social Technologies",
-    "calculated_at": "2025-02-18T12:05:51",
-    "ai_confidence": 0,
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
     "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the development of a software application and its features, with no focus on Scrum, Kanban, Lean, or Agile practices.",
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the development of a software application (TFS Sticky Buddy 2.0) and its technical features, such as modular design and WPF implementation. There are no explicit discussions on collaboration, decision-making, or value delivery, which are central to the Social Technologies category. The mention of modular design could tangentially relate to enhancing productivity, but it lacks depth and does not address the social frameworks or methodologies that promote collaboration or collective intelligence.",
     "level": "Ignored"
   },
   "Leadership": {
@@ -1374,6 +1254,96 @@
     "non_ai_confidence": 0,
     "final_score": 0.0,
     "reasoning": "Content primarily discusses the development of a software application and technical implementation details, with no focus on leadership practices.",
+    "level": "Ignored"
+  },
+  "Internal Developer Platform": {
+    "category": "Internal Developer Platform",
+    "calculated_at": "2025-02-24T14:39:27",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the development of a specific application and its features, with no clear focus on Internal Developer Platforms or related concepts.",
+    "level": "Ignored"
+  },
+  "Artificial Intelligence": {
+    "category": "Artificial Intelligence",
+    "calculated_at": "2025-02-24T14:39:29",
+    "ai_confidence": 0,
+    "non_ai_confidence": 0,
+    "final_score": 0.0,
+    "reasoning": "Content primarily discusses the development of a software application without any mention of AI or its integration within Agile or DevOps methodologies.",
+    "level": "Ignored"
+  },
+  "Scrum": {
+    "category": "Scrum",
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 5.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily discusses the development of a specific application and mentions technical aspects related to WPF and modularity. There are no direct mentions of Scrum roles, events, or principles, and the discussion does not align with the core themes of Scrum. The content lacks depth in discussing any Scrum-related topics, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Shift-Left Strategy": {
+    "category": "Shift-Left Strategy",
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily discusses the development of a specific application and mentions technical aspects related to modularity and updates. There is no explicit discussion of integrating testing, security, or compliance early in the development process, nor does it address the principles or benefits of the Shift-Left Strategy. The focus is on application features rather than the strategic approach to software development.",
+    "level": "Ignored"
+  },
+  "Continuous Improvement": {
+    "category": "Continuous Improvement",
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 25.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 20.0,
+    "ai_depth": 10.0,
+    "non_ai_confidence": 0,
+    "final_score": 25.0,
+    "reasoning": "The content briefly mentions the development of TFS Sticky Buddy 2.0 and the implementation of modular design, which could imply a focus on improvement. However, it lacks explicit discussions on Continuous Improvement principles, empirical evidence, or strategies for fostering a culture of experimentation. The depth of discussion is minimal, primarily focusing on the features and updates of the application rather than a commitment to ongoing enhancement or team effectiveness.",
+    "level": "Ignored"
+  },
+  "Common Goals": {
+    "category": "Common Goals",
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 12.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 5.0,
+    "ai_depth": 2.0,
+    "non_ai_confidence": 0,
+    "final_score": 12.0,
+    "reasoning": "The content primarily focuses on the development of a specific application (TFS Sticky Buddy 2.0) and its features, with no explicit discussion of Common Goals, Agile, or DevOps principles. While it mentions modular design and updates, these aspects do not connect to the foundational principles of aligning strategy with execution or shared objectives within teams.",
+    "level": "Ignored"
+  },
+  "Competence": {
+    "category": "Competence",
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 15.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 10.0,
+    "ai_depth": 20.0,
+    "non_ai_confidence": 0,
+    "final_score": 15.0,
+    "reasoning": "The content primarily focuses on the development of a software application and mentions technical aspects such as modular design and implementation of specific frameworks. However, it lacks explicit discussions on competence, continuous learning, or skill development. The alignment with the core themes of competence is minimal, and the depth of discussion does not provide substantial insights into the principles of professionalism or quality delivery.",
+    "level": "Ignored"
+  },
+  "Agentic Agility": {
+    "category": "Agentic Agility",
+    "calculated_at": "2025-04-10T15:56:25",
+    "ai_confidence": 5.0,
+    "ai_mentions": 10.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.0,
+    "non_ai_confidence": 0,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the development of a software application, discussing features and technical implementation without addressing the principles of Agentic Agility. There are no explicit mentions of intentional shaping of outcomes, autonomy, or adaptability, nor does it differentiate between human and AI capabilities in the context of agility.",
     "level": "Ignored"
   }
 }

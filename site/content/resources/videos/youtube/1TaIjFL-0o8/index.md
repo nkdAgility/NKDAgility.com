@@ -2,35 +2,36 @@
 title: "Unlocking the Scrum Master's Potential: Embracing Broader Responsibilities for Agile Success"
 description: Unlock the true potential of your Scrum Master role! Discover how to broaden your impact and foster agility within your organisation.
 date: 2023-04-27T07:00:00Z
+weight: 640
 ResourceId: 1TaIjFL-0o8
 ResourceType: videos
+ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 1TaIjFL-0o8
 url: /resources/videos/:slug
-slug: what-is-the-most-common-epiphany-in-a-psm-ii-course-
+slug: unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
 aliases:
-- /resources/videos/1TaIjFL-0o8
-- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
-- /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 - /resources/1TaIjFL-0o8
-aliasesFor404:
+- /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
+- /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
+aliasesArchive:
+- /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
 - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 - /resources/what-is-the-most-common-epiphany-in-a-psm-ii-course-
+- /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
+- unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+- /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: false
 tags:
 - Scrum Master
-- People and Process
 - Professional Scrum
-- Agile Frameworks
-- Agile Project Management
 - Scrum Team
-- Agile Transformation
+- Agile Frameworks
 - Software Development
-- Sociotechnical Systems
-- Agile Leadership
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -40,14 +41,14 @@ resourceTypes:
 - video
 categories:
 - Scrum
-- Social Technologies
+- Product Development
 
 ---
-In my experience teaching the Professional Scrum Master II (PSM2) course, I've encountered a recurring theme that resonates deeply with participants: the epiphanies that emerge during our discussions. While there are several insights that attendees gain, the most common epiphany often revolves around the role of the Scrum Master and the broader implications of their responsibilities.
+In my experience teaching the Professional [Scrum]({{< ref "/categories/scrum" >}}) Master II (PSM2) course, I've encountered a recurring theme that resonates deeply with participants: the epiphanies that emerge during our discussions. While there are several insights that attendees gain, the most common epiphany often revolves around the role of the [Scrum Master]({{< ref "/tags/scrum-master" >}}) and the broader implications of their responsibilities.
 
 ### The Scrum Master’s Broader Role
 
-One of the most significant realisations for many is that the Scrum Master is not solely focused on the team. This is a crucial point that, despite being clearly outlined in the Scrum Guide, often gets overlooked. The Scrum Master has accountabilities not just to the team but also to the Product Owner and the organisation as a whole. 
+One of the most significant realisations for many is that the Scrum Master is not solely focused on the team. This is a crucial point that, despite being clearly outlined in the Scrum Guide, often gets overlooked. The Scrum Master has accountabilities not just to the team but also to the [Product Owner]({{< ref "/tags/product-owner" >}}) and the organisation as a whole. 
 
 - **Understanding Accountability**: 
   - The Scrum Master must ensure that the team is functioning effectively, but they also need to engage with the organisation to remove impediments and foster an environment conducive to agility.
